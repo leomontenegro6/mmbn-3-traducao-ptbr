@@ -7636,7 +7636,7 @@ script 4 mmbn3 {
 		frames = 18
 	"""
 	No!
-	We can't escape⋯
+	We can't escape…
 	"""
 	keyWait
 	end
@@ -8462,7 +8462,7 @@ script 0 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"What the⋯!?"
+	"What the…!?"
 	keyWait
 	clearMsg
 	jump
@@ -8487,7 +8487,7 @@ script 2 mmbn3 {
 	soundDisableTextSFX
 	soundPlay
 		track = 219
-	"⋯beep beep beep⋯"
+	"…beep beep beep…"
 	keyWait
 	clearMsg
 	soundEnableTextSFX
@@ -8504,7 +8504,7 @@ script 3 mmbn3 {
 	"""
 	keyWait
 	clearMsg
-	"That would be the⋯"
+	"That would be the…"
 	keyWait
 	clearMsg
 	jump
@@ -8516,7 +8516,7 @@ script 4 mmbn3 {
 	soundDisableTextSFX
 	soundPlay
 		track = 219
-	"⋯beep beep beep⋯"
+	"…beep beep beep…"
 	keyWait
 	clearMsg
 	soundEnableTextSFX
@@ -8533,7 +8533,7 @@ script 5 mmbn3 {
 	"""
 	keyWait
 	clearMsg
-	"That would be the⋯"
+	"That would be the…"
 	keyWait
 	clearMsg
 	jump
@@ -8545,7 +8545,7 @@ script 6 mmbn3 {
 	soundDisableTextSFX
 	soundPlay
 		track = 219
-	"⋯beep beep beep⋯"
+	"…beep beep beep…"
 	keyWait
 	clearMsg
 	soundEnableTextSFX
@@ -8562,7 +8562,7 @@ script 7 mmbn3 {
 	"""
 	keyWait
 	clearMsg
-	"That would be the⋯"
+	"That would be the…"
 	keyWait
 	clearMsg
 	jump
@@ -8574,7 +8574,7 @@ script 8 mmbn3 {
 	soundDisableTextSFX
 	soundPlay
 		track = 219
-	"⋯beep beep beep⋯"
+	"…beep beep beep…"
 	keyWait
 	clearMsg
 	soundEnableTextSFX
@@ -8591,7 +8591,7 @@ script 9 mmbn3 {
 	"""
 	keyWait
 	clearMsg
-	"That would be the⋯"
+	"That would be the…"
 	keyWait
 	clearMsg
 	jump
@@ -8614,7 +8614,7 @@ script 11 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Electric Guts⋯"
+	"Electric Guts…"
 	keyWait
 	clearMsg
 	jump
@@ -8624,7 +8624,7 @@ script 12 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Style⋯?"
+	"Style…?"
 	keyWait
 	clearMsg
 	jump
@@ -8707,7 +8707,7 @@ script 21 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Heat Guts⋯"
+	"Heat Guts…"
 	keyWait
 	clearMsg
 	jump
@@ -8797,7 +8797,7 @@ script 31 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Aqua Guts⋯"
+	"Aqua Guts…"
 	keyWait
 	clearMsg
 	jump
@@ -8807,7 +8807,7 @@ script 32 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Style⋯?"
+	"Style…?"
 	keyWait
 	clearMsg
 	jump
@@ -8887,7 +8887,7 @@ script 41 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Wood Guts⋯"
+	"Wood Guts…"
 	keyWait
 	clearMsg
 	jump
@@ -8897,7 +8897,7 @@ script 42 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Style⋯?"
+	"Style…?"
 	keyWait
 	clearMsg
 	jump
@@ -8967,7 +8967,7 @@ script 50 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Is this another⋯?"
+	"Is this another…?"
 	keyWait
 	clearMsg
 	jump
@@ -8979,7 +8979,7 @@ script 51 mmbn3 {
 	msgOpen
 	flagSet
 		flag = 139
-	"⋯style change!?"
+	"…style change!?"
 	keyWait
 	end
 }
@@ -8989,7 +8989,7 @@ script 52 mmbn3 {
 	soundDisableTextSFX
 	soundPlay
 		track = 219
-	"⋯beep beep beep⋯"
+	"…beep beep beep…"
 	keyWait
 	clearMsg
 	soundEnableTextSFX
@@ -9006,7 +9006,7 @@ script 53 mmbn3 {
 	"""
 	keyWait
 	clearMsg
-	"That would be the⋯"
+	"That would be the…"
 	keyWait
 	clearMsg
 	jump
@@ -9018,7 +9018,7 @@ script 54 mmbn3 {
 	soundDisableTextSFX
 	soundPlay
 		track = 219
-	"⋯beep beep beep⋯"
+	"…beep beep beep…"
 	keyWait
 	clearMsg
 	soundEnableTextSFX
@@ -9035,7 +9035,7 @@ script 55 mmbn3 {
 	"""
 	keyWait
 	clearMsg
-	"That would be the⋯"
+	"That would be the…"
 	keyWait
 	clearMsg
 	jump
@@ -9047,7 +9047,7 @@ script 56 mmbn3 {
 	soundDisableTextSFX
 	soundPlay
 		track = 219
-	"⋯beep beep beep⋯"
+	"…beep beep beep…"
 	keyWait
 	clearMsg
 	soundEnableTextSFX
@@ -9064,7 +9064,7 @@ script 57 mmbn3 {
 	"""
 	keyWait
 	clearMsg
-	"That would be the⋯"
+	"That would be the…"
 	keyWait
 	clearMsg
 	jump
@@ -9076,7 +9076,7 @@ script 58 mmbn3 {
 	soundDisableTextSFX
 	soundPlay
 		track = 219
-	"⋯beep beep beep⋯"
+	"…beep beep beep…"
 	keyWait
 	clearMsg
 	soundEnableTextSFX
@@ -9093,7 +9093,7 @@ script 59 mmbn3 {
 	"""
 	keyWait
 	clearMsg
-	"That would be the⋯"
+	"That would be the…"
 	keyWait
 	clearMsg
 	jump
@@ -9490,7 +9490,7 @@ script 0 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"What the⋯!?"
+	"What the…!?"
 	keyWait
 	clearMsg
 	jump
@@ -9515,7 +9515,7 @@ script 2 mmbn3 {
 	soundDisableTextSFX
 	soundPlay
 		track = 219
-	"⋯beep beep beep⋯"
+	"…beep beep beep…"
 	keyWait
 	clearMsg
 	soundEnableTextSFX
@@ -9532,7 +9532,7 @@ script 3 mmbn3 {
 	"""
 	keyWait
 	clearMsg
-	"That would be the⋯"
+	"That would be the…"
 	keyWait
 	clearMsg
 	jump
@@ -9544,7 +9544,7 @@ script 4 mmbn3 {
 	soundDisableTextSFX
 	soundPlay
 		track = 219
-	"⋯beep beep beep⋯"
+	"…beep beep beep…"
 	keyWait
 	clearMsg
 	soundEnableTextSFX
@@ -9561,7 +9561,7 @@ script 5 mmbn3 {
 	"""
 	keyWait
 	clearMsg
-	"That would be the⋯"
+	"That would be the…"
 	keyWait
 	clearMsg
 	jump
@@ -9573,7 +9573,7 @@ script 6 mmbn3 {
 	soundDisableTextSFX
 	soundPlay
 		track = 219
-	"⋯beep beep beep⋯"
+	"…beep beep beep…"
 	keyWait
 	clearMsg
 	soundEnableTextSFX
@@ -9590,7 +9590,7 @@ script 7 mmbn3 {
 	"""
 	keyWait
 	clearMsg
-	"That would be the⋯"
+	"That would be the…"
 	keyWait
 	clearMsg
 	jump
@@ -9602,7 +9602,7 @@ script 8 mmbn3 {
 	soundDisableTextSFX
 	soundPlay
 		track = 219
-	"⋯beep beep beep⋯"
+	"…beep beep beep…"
 	keyWait
 	clearMsg
 	soundEnableTextSFX
@@ -9619,7 +9619,7 @@ script 9 mmbn3 {
 	"""
 	keyWait
 	clearMsg
-	"That would be the⋯"
+	"That would be the…"
 	keyWait
 	clearMsg
 	jump
@@ -9642,7 +9642,7 @@ script 11 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Electric Custom⋯"
+	"Electric Custom…"
 	keyWait
 	clearMsg
 	jump
@@ -9652,7 +9652,7 @@ script 12 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Style⋯?"
+	"Style…?"
 	keyWait
 	clearMsg
 	jump
@@ -9735,7 +9735,7 @@ script 21 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Heat Custom⋯"
+	"Heat Custom…"
 	keyWait
 	clearMsg
 	jump
@@ -9745,7 +9745,7 @@ script 22 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Style⋯?"
+	"Style…?"
 	keyWait
 	clearMsg
 	jump
@@ -9825,7 +9825,7 @@ script 31 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Aqua Custom⋯"
+	"Aqua Custom…"
 	keyWait
 	clearMsg
 	jump
@@ -9835,7 +9835,7 @@ script 32 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Style⋯?"
+	"Style…?"
 	keyWait
 	clearMsg
 	jump
@@ -9915,7 +9915,7 @@ script 41 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Wood Custom⋯"
+	"Wood Custom…"
 	keyWait
 	clearMsg
 	jump
@@ -9925,7 +9925,7 @@ script 42 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Style⋯?"
+	"Style…?"
 	keyWait
 	clearMsg
 	jump
@@ -9995,7 +9995,7 @@ script 50 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Is this another⋯?"
+	"Is this another…?"
 	keyWait
 	clearMsg
 	jump
@@ -10007,7 +10007,7 @@ script 51 mmbn3 {
 	msgOpen
 	flagSet
 		flag = 139
-	"⋯style change!?"
+	"…style change!?"
 	keyWait
 	end
 }
@@ -10017,7 +10017,7 @@ script 52 mmbn3 {
 	soundDisableTextSFX
 	soundPlay
 		track = 219
-	"⋯beep beep beep⋯"
+	"…beep beep beep…"
 	keyWait
 	clearMsg
 	soundEnableTextSFX
@@ -10034,7 +10034,7 @@ script 53 mmbn3 {
 	"""
 	keyWait
 	clearMsg
-	"That would be the⋯"
+	"That would be the…"
 	keyWait
 	clearMsg
 	jump
@@ -10046,7 +10046,7 @@ script 54 mmbn3 {
 	soundDisableTextSFX
 	soundPlay
 		track = 219
-	"⋯beep beep beep⋯"
+	"…beep beep beep…"
 	keyWait
 	clearMsg
 	soundEnableTextSFX
@@ -10063,7 +10063,7 @@ script 55 mmbn3 {
 	"""
 	keyWait
 	clearMsg
-	"That would be the⋯"
+	"That would be the…"
 	keyWait
 	clearMsg
 	jump
@@ -10075,7 +10075,7 @@ script 56 mmbn3 {
 	soundDisableTextSFX
 	soundPlay
 		track = 219
-	"⋯beep beep beep⋯"
+	"…beep beep beep…"
 	keyWait
 	clearMsg
 	soundEnableTextSFX
@@ -10092,7 +10092,7 @@ script 57 mmbn3 {
 	"""
 	keyWait
 	clearMsg
-	"That would be the⋯"
+	"That would be the…"
 	keyWait
 	clearMsg
 	jump
@@ -10104,7 +10104,7 @@ script 58 mmbn3 {
 	soundDisableTextSFX
 	soundPlay
 		track = 219
-	"⋯beep beep beep⋯"
+	"…beep beep beep…"
 	keyWait
 	clearMsg
 	soundEnableTextSFX
@@ -10121,7 +10121,7 @@ script 59 mmbn3 {
 	"""
 	keyWait
 	clearMsg
-	"That would be the⋯"
+	"That would be the…"
 	keyWait
 	clearMsg
 	jump
@@ -10517,7 +10517,7 @@ script 0 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"What the⋯!?"
+	"What the…!?"
 	keyWait
 	clearMsg
 	jump
@@ -10542,7 +10542,7 @@ script 2 mmbn3 {
 	soundDisableTextSFX
 	soundPlay
 		track = 219
-	"⋯beep beep beep⋯"
+	"…beep beep beep…"
 	keyWait
 	clearMsg
 	soundEnableTextSFX
@@ -10559,7 +10559,7 @@ script 3 mmbn3 {
 	"""
 	keyWait
 	clearMsg
-	"That would be the⋯"
+	"That would be the…"
 	keyWait
 	clearMsg
 	jump
@@ -10571,7 +10571,7 @@ script 4 mmbn3 {
 	soundDisableTextSFX
 	soundPlay
 		track = 219
-	"⋯beep beep beep⋯"
+	"…beep beep beep…"
 	keyWait
 	clearMsg
 	soundEnableTextSFX
@@ -10588,7 +10588,7 @@ script 5 mmbn3 {
 	"""
 	keyWait
 	clearMsg
-	"That would be the⋯"
+	"That would be the…"
 	keyWait
 	clearMsg
 	jump
@@ -10600,7 +10600,7 @@ script 6 mmbn3 {
 	soundDisableTextSFX
 	soundPlay
 		track = 219
-	"⋯beep beep beep⋯"
+	"…beep beep beep…"
 	keyWait
 	clearMsg
 	soundEnableTextSFX
@@ -10617,7 +10617,7 @@ script 7 mmbn3 {
 	"""
 	keyWait
 	clearMsg
-	"That would be the⋯"
+	"That would be the…"
 	keyWait
 	clearMsg
 	jump
@@ -10629,7 +10629,7 @@ script 8 mmbn3 {
 	soundDisableTextSFX
 	soundPlay
 		track = 219
-	"⋯beep beep beep⋯"
+	"…beep beep beep…"
 	keyWait
 	clearMsg
 	soundEnableTextSFX
@@ -10646,7 +10646,7 @@ script 9 mmbn3 {
 	"""
 	keyWait
 	clearMsg
-	"That would be the⋯"
+	"That would be the…"
 	keyWait
 	clearMsg
 	jump
@@ -10669,7 +10669,7 @@ script 11 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Electric Team⋯"
+	"Electric Team…"
 	keyWait
 	clearMsg
 	jump
@@ -10679,7 +10679,7 @@ script 12 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Style⋯?"
+	"Style…?"
 	keyWait
 	clearMsg
 	jump
@@ -10762,7 +10762,7 @@ script 21 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Heat Team⋯"
+	"Heat Team…"
 	keyWait
 	clearMsg
 	jump
@@ -10852,7 +10852,7 @@ script 31 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Aqua Team⋯"
+	"Aqua Team…"
 	keyWait
 	clearMsg
 	jump
@@ -10862,7 +10862,7 @@ script 32 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Style⋯?"
+	"Style…?"
 	keyWait
 	clearMsg
 	jump
@@ -10942,7 +10942,7 @@ script 41 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Wood Team⋯"
+	"Wood Team…"
 	keyWait
 	clearMsg
 	jump
@@ -10952,7 +10952,7 @@ script 42 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Style⋯?"
+	"Style…?"
 	keyWait
 	clearMsg
 	jump
@@ -11022,7 +11022,7 @@ script 50 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Is this another⋯?"
+	"Is this another…?"
 	keyWait
 	clearMsg
 	jump
@@ -11034,7 +11034,7 @@ script 51 mmbn3 {
 	msgOpen
 	flagSet
 		flag = 139
-	"⋯style change!?"
+	"…style change!?"
 	keyWait
 	end
 }
@@ -11044,7 +11044,7 @@ script 52 mmbn3 {
 	soundDisableTextSFX
 	soundPlay
 		track = 219
-	"⋯beep beep beep⋯"
+	"…beep beep beep…"
 	keyWait
 	clearMsg
 	soundEnableTextSFX
@@ -11061,7 +11061,7 @@ script 53 mmbn3 {
 	"""
 	keyWait
 	clearMsg
-	"That would be the⋯"
+	"That would be the…"
 	keyWait
 	clearMsg
 	jump
@@ -11073,7 +11073,7 @@ script 54 mmbn3 {
 	soundDisableTextSFX
 	soundPlay
 		track = 219
-	"⋯beep beep beep⋯"
+	"…beep beep beep…"
 	keyWait
 	clearMsg
 	soundEnableTextSFX
@@ -11090,7 +11090,7 @@ script 55 mmbn3 {
 	"""
 	keyWait
 	clearMsg
-	"That would be the⋯"
+	"That would be the…"
 	keyWait
 	clearMsg
 	jump
@@ -11102,7 +11102,7 @@ script 56 mmbn3 {
 	soundDisableTextSFX
 	soundPlay
 		track = 219
-	"⋯beep beep beep⋯"
+	"…beep beep beep…"
 	keyWait
 	clearMsg
 	soundEnableTextSFX
@@ -11119,7 +11119,7 @@ script 57 mmbn3 {
 	"""
 	keyWait
 	clearMsg
-	"That would be the⋯"
+	"That would be the…"
 	keyWait
 	clearMsg
 	jump
@@ -11131,7 +11131,7 @@ script 58 mmbn3 {
 	soundDisableTextSFX
 	soundPlay
 		track = 219
-	"⋯beep beep beep⋯"
+	"…beep beep beep…"
 	keyWait
 	clearMsg
 	soundEnableTextSFX
@@ -11148,7 +11148,7 @@ script 59 mmbn3 {
 	"""
 	keyWait
 	clearMsg
-	"That would be the⋯"
+	"That would be the…"
 	keyWait
 	clearMsg
 	jump
@@ -11544,7 +11544,7 @@ script 0 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"What the⋯!?"
+	"What the…!?"
 	keyWait
 	clearMsg
 	jump
@@ -11569,7 +11569,7 @@ script 2 mmbn3 {
 	soundDisableTextSFX
 	soundPlay
 		track = 219
-	"⋯beep beep beep⋯"
+	"…beep beep beep…"
 	keyWait
 	clearMsg
 	soundEnableTextSFX
@@ -11586,7 +11586,7 @@ script 3 mmbn3 {
 	"""
 	keyWait
 	clearMsg
-	"That would be the⋯"
+	"That would be the…"
 	keyWait
 	clearMsg
 	jump
@@ -11598,7 +11598,7 @@ script 4 mmbn3 {
 	soundDisableTextSFX
 	soundPlay
 		track = 219
-	"⋯beep beep beep⋯"
+	"…beep beep beep…"
 	keyWait
 	clearMsg
 	soundEnableTextSFX
@@ -11615,7 +11615,7 @@ script 5 mmbn3 {
 	"""
 	keyWait
 	clearMsg
-	"That would be the⋯"
+	"That would be the…"
 	keyWait
 	clearMsg
 	jump
@@ -11627,7 +11627,7 @@ script 6 mmbn3 {
 	soundDisableTextSFX
 	soundPlay
 		track = 219
-	"⋯beep beep beep⋯"
+	"…beep beep beep…"
 	keyWait
 	clearMsg
 	soundEnableTextSFX
@@ -11644,7 +11644,7 @@ script 7 mmbn3 {
 	"""
 	keyWait
 	clearMsg
-	"That would be the⋯"
+	"That would be the…"
 	keyWait
 	clearMsg
 	jump
@@ -11656,7 +11656,7 @@ script 8 mmbn3 {
 	soundDisableTextSFX
 	soundPlay
 		track = 219
-	"⋯beep beep beep⋯"
+	"…beep beep beep…"
 	keyWait
 	clearMsg
 	soundEnableTextSFX
@@ -11673,7 +11673,7 @@ script 9 mmbn3 {
 	"""
 	keyWait
 	clearMsg
-	"That would be the⋯"
+	"That would be the…"
 	keyWait
 	clearMsg
 	jump
@@ -11696,7 +11696,7 @@ script 11 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Electric Shield⋯"
+	"Electric Shield…"
 	keyWait
 	clearMsg
 	jump
@@ -11706,7 +11706,7 @@ script 12 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Style⋯?"
+	"Style…?"
 	keyWait
 	clearMsg
 	jump
@@ -11789,7 +11789,7 @@ script 21 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Heat Shield⋯"
+	"Heat Shield…"
 	keyWait
 	clearMsg
 	jump
@@ -11879,7 +11879,7 @@ script 31 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Aqua Shield⋯"
+	"Aqua Shield…"
 	keyWait
 	clearMsg
 	jump
@@ -11889,7 +11889,7 @@ script 32 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Style⋯?"
+	"Style…?"
 	keyWait
 	clearMsg
 	jump
@@ -11969,7 +11969,7 @@ script 41 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Wood Shield⋯"
+	"Wood Shield…"
 	keyWait
 	clearMsg
 	jump
@@ -11979,7 +11979,7 @@ script 42 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Style⋯?"
+	"Style…?"
 	keyWait
 	clearMsg
 	jump
@@ -12049,7 +12049,7 @@ script 50 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Is this another⋯?"
+	"Is this another…?"
 	keyWait
 	clearMsg
 	jump
@@ -12061,7 +12061,7 @@ script 51 mmbn3 {
 	msgOpen
 	flagSet
 		flag = 139
-	"⋯style change!?"
+	"…style change!?"
 	keyWait
 	end
 }
@@ -12071,7 +12071,7 @@ script 52 mmbn3 {
 	soundDisableTextSFX
 	soundPlay
 		track = 219
-	"⋯beep beep beep⋯"
+	"…beep beep beep…"
 	keyWait
 	clearMsg
 	soundEnableTextSFX
@@ -12088,7 +12088,7 @@ script 53 mmbn3 {
 	"""
 	keyWait
 	clearMsg
-	"That would be the⋯"
+	"That would be the…"
 	keyWait
 	clearMsg
 	jump
@@ -12100,7 +12100,7 @@ script 54 mmbn3 {
 	soundDisableTextSFX
 	soundPlay
 		track = 219
-	"⋯beep beep beep⋯"
+	"…beep beep beep…"
 	keyWait
 	clearMsg
 	soundEnableTextSFX
@@ -12117,7 +12117,7 @@ script 55 mmbn3 {
 	"""
 	keyWait
 	clearMsg
-	"That would be the⋯"
+	"That would be the…"
 	keyWait
 	clearMsg
 	jump
@@ -12129,7 +12129,7 @@ script 56 mmbn3 {
 	soundDisableTextSFX
 	soundPlay
 		track = 219
-	"⋯beep beep beep⋯"
+	"…beep beep beep…"
 	keyWait
 	clearMsg
 	soundEnableTextSFX
@@ -12146,7 +12146,7 @@ script 57 mmbn3 {
 	"""
 	keyWait
 	clearMsg
-	"That would be the⋯"
+	"That would be the…"
 	keyWait
 	clearMsg
 	jump
@@ -12158,7 +12158,7 @@ script 58 mmbn3 {
 	soundDisableTextSFX
 	soundPlay
 		track = 219
-	"⋯beep beep beep⋯"
+	"…beep beep beep…"
 	keyWait
 	clearMsg
 	soundEnableTextSFX
@@ -12175,7 +12175,7 @@ script 59 mmbn3 {
 	"""
 	keyWait
 	clearMsg
-	"That would be the⋯"
+	"That would be the…"
 	keyWait
 	clearMsg
 	jump
@@ -12572,7 +12572,7 @@ script 0 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"What the⋯!?"
+	"What the…!?"
 	keyWait
 	clearMsg
 	jump
@@ -12597,7 +12597,7 @@ script 2 mmbn3 {
 	soundDisableTextSFX
 	soundPlay
 		track = 219
-	"⋯beep beep beep⋯"
+	"…beep beep beep…"
 	keyWait
 	clearMsg
 	soundEnableTextSFX
@@ -12614,7 +12614,7 @@ script 3 mmbn3 {
 	"""
 	keyWait
 	clearMsg
-	"That would be the⋯"
+	"That would be the…"
 	keyWait
 	clearMsg
 	jump
@@ -12626,7 +12626,7 @@ script 4 mmbn3 {
 	soundDisableTextSFX
 	soundPlay
 		track = 219
-	"⋯beep beep beep⋯"
+	"…beep beep beep…"
 	keyWait
 	clearMsg
 	soundEnableTextSFX
@@ -12643,7 +12643,7 @@ script 5 mmbn3 {
 	"""
 	keyWait
 	clearMsg
-	"That would be the⋯"
+	"That would be the…"
 	keyWait
 	clearMsg
 	jump
@@ -12655,7 +12655,7 @@ script 6 mmbn3 {
 	soundDisableTextSFX
 	soundPlay
 		track = 219
-	"⋯beep beep beep⋯"
+	"…beep beep beep…"
 	keyWait
 	clearMsg
 	soundEnableTextSFX
@@ -12672,7 +12672,7 @@ script 7 mmbn3 {
 	"""
 	keyWait
 	clearMsg
-	"That would be the⋯"
+	"That would be the…"
 	keyWait
 	clearMsg
 	jump
@@ -12684,7 +12684,7 @@ script 8 mmbn3 {
 	soundDisableTextSFX
 	soundPlay
 		track = 219
-	"⋯beep beep beep⋯"
+	"…beep beep beep…"
 	keyWait
 	clearMsg
 	soundEnableTextSFX
@@ -12701,7 +12701,7 @@ script 9 mmbn3 {
 	"""
 	keyWait
 	clearMsg
-	"That would be the⋯"
+	"That would be the…"
 	keyWait
 	clearMsg
 	jump
@@ -12724,7 +12724,7 @@ script 11 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Electric Ground⋯"
+	"Electric Ground…"
 	keyWait
 	clearMsg
 	jump
@@ -12734,7 +12734,7 @@ script 12 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Style⋯?"
+	"Style…?"
 	keyWait
 	clearMsg
 	jump
@@ -12817,7 +12817,7 @@ script 21 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Heat Ground⋯"
+	"Heat Ground…"
 	keyWait
 	clearMsg
 	jump
@@ -12907,7 +12907,7 @@ script 31 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Aqua Ground⋯"
+	"Aqua Ground…"
 	keyWait
 	clearMsg
 	jump
@@ -12917,7 +12917,7 @@ script 32 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Style⋯?"
+	"Style…?"
 	keyWait
 	clearMsg
 	jump
@@ -12997,7 +12997,7 @@ script 41 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Wood Ground⋯"
+	"Wood Ground…"
 	keyWait
 	clearMsg
 	jump
@@ -13007,7 +13007,7 @@ script 42 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Style⋯?"
+	"Style…?"
 	keyWait
 	clearMsg
 	jump
@@ -13077,7 +13077,7 @@ script 50 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Is this another⋯?"
+	"Is this another…?"
 	keyWait
 	clearMsg
 	jump
@@ -13089,7 +13089,7 @@ script 51 mmbn3 {
 	msgOpen
 	flagSet
 		flag = 139
-	"⋯style change!?"
+	"…style change!?"
 	keyWait
 	end
 }
@@ -13099,7 +13099,7 @@ script 52 mmbn3 {
 	soundDisableTextSFX
 	soundPlay
 		track = 219
-	"⋯beep beep beep⋯"
+	"…beep beep beep…"
 	keyWait
 	clearMsg
 	soundEnableTextSFX
@@ -13116,7 +13116,7 @@ script 53 mmbn3 {
 	"""
 	keyWait
 	clearMsg
-	"That would be the⋯"
+	"That would be the…"
 	keyWait
 	clearMsg
 	jump
@@ -13128,7 +13128,7 @@ script 54 mmbn3 {
 	soundDisableTextSFX
 	soundPlay
 		track = 219
-	"⋯beep beep beep⋯"
+	"…beep beep beep…"
 	keyWait
 	clearMsg
 	soundEnableTextSFX
@@ -13145,7 +13145,7 @@ script 55 mmbn3 {
 	"""
 	keyWait
 	clearMsg
-	"That would be the⋯"
+	"That would be the…"
 	keyWait
 	clearMsg
 	jump
@@ -13157,7 +13157,7 @@ script 56 mmbn3 {
 	soundDisableTextSFX
 	soundPlay
 		track = 219
-	"⋯beep beep beep⋯"
+	"…beep beep beep…"
 	keyWait
 	clearMsg
 	soundEnableTextSFX
@@ -13174,7 +13174,7 @@ script 57 mmbn3 {
 	"""
 	keyWait
 	clearMsg
-	"That would be the⋯"
+	"That would be the…"
 	keyWait
 	clearMsg
 	jump
@@ -13186,7 +13186,7 @@ script 58 mmbn3 {
 	soundDisableTextSFX
 	soundPlay
 		track = 219
-	"⋯beep beep beep⋯"
+	"…beep beep beep…"
 	keyWait
 	clearMsg
 	soundEnableTextSFX
@@ -13203,7 +13203,7 @@ script 59 mmbn3 {
 	"""
 	keyWait
 	clearMsg
-	"That would be the⋯"
+	"That would be the…"
 	keyWait
 	clearMsg
 	jump
@@ -13600,7 +13600,7 @@ script 0 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"What the⋯!?"
+	"What the…!?"
 	keyWait
 	clearMsg
 	jump
@@ -13625,7 +13625,7 @@ script 2 mmbn3 {
 	soundDisableTextSFX
 	soundPlay
 		track = 219
-	"⋯beep beep beep⋯"
+	"…beep beep beep…"
 	keyWait
 	clearMsg
 	soundEnableTextSFX
@@ -13642,7 +13642,7 @@ script 3 mmbn3 {
 	"""
 	keyWait
 	clearMsg
-	"That would be the⋯"
+	"That would be the…"
 	keyWait
 	clearMsg
 	jump
@@ -13654,7 +13654,7 @@ script 4 mmbn3 {
 	soundDisableTextSFX
 	soundPlay
 		track = 219
-	"⋯beep beep beep⋯"
+	"…beep beep beep…"
 	keyWait
 	clearMsg
 	soundEnableTextSFX
@@ -13671,7 +13671,7 @@ script 5 mmbn3 {
 	"""
 	keyWait
 	clearMsg
-	"That would be the⋯"
+	"That would be the…"
 	keyWait
 	clearMsg
 	jump
@@ -13683,7 +13683,7 @@ script 6 mmbn3 {
 	soundDisableTextSFX
 	soundPlay
 		track = 219
-	"⋯beep beep beep⋯"
+	"…beep beep beep…"
 	keyWait
 	clearMsg
 	soundEnableTextSFX
@@ -13700,7 +13700,7 @@ script 7 mmbn3 {
 	"""
 	keyWait
 	clearMsg
-	"That would be the⋯"
+	"That would be the…"
 	keyWait
 	clearMsg
 	jump
@@ -13712,7 +13712,7 @@ script 8 mmbn3 {
 	soundDisableTextSFX
 	soundPlay
 		track = 219
-	"⋯beep beep beep⋯"
+	"…beep beep beep…"
 	keyWait
 	clearMsg
 	soundEnableTextSFX
@@ -13729,7 +13729,7 @@ script 9 mmbn3 {
 	"""
 	keyWait
 	clearMsg
-	"That would be the⋯"
+	"That would be the…"
 	keyWait
 	clearMsg
 	jump
@@ -13752,7 +13752,7 @@ script 11 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Electric Shadow⋯"
+	"Electric Shadow…"
 	keyWait
 	clearMsg
 	jump
@@ -13762,7 +13762,7 @@ script 12 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Style⋯?"
+	"Style…?"
 	keyWait
 	clearMsg
 	jump
@@ -13845,7 +13845,7 @@ script 21 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Heat Shadow⋯"
+	"Heat Shadow…"
 	keyWait
 	clearMsg
 	jump
@@ -13935,7 +13935,7 @@ script 31 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Aqua Shadow⋯"
+	"Aqua Shadow…"
 	keyWait
 	clearMsg
 	jump
@@ -13945,7 +13945,7 @@ script 32 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Style⋯?"
+	"Style…?"
 	keyWait
 	clearMsg
 	jump
@@ -14025,7 +14025,7 @@ script 41 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Wood Shadow⋯"
+	"Wood Shadow…"
 	keyWait
 	clearMsg
 	jump
@@ -14035,7 +14035,7 @@ script 42 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Style⋯?"
+	"Style…?"
 	keyWait
 	clearMsg
 	jump
@@ -14105,7 +14105,7 @@ script 50 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Is this another⋯?"
+	"Is this another…?"
 	keyWait
 	clearMsg
 	jump
@@ -14117,7 +14117,7 @@ script 51 mmbn3 {
 	msgOpen
 	flagSet
 		flag = 139
-	"⋯style change!?"
+	"…style change!?"
 	keyWait
 	end
 }
@@ -14127,7 +14127,7 @@ script 52 mmbn3 {
 	soundDisableTextSFX
 	soundPlay
 		track = 219
-	"⋯beep beep beep⋯"
+	"…beep beep beep…"
 	keyWait
 	clearMsg
 	soundEnableTextSFX
@@ -14144,7 +14144,7 @@ script 53 mmbn3 {
 	"""
 	keyWait
 	clearMsg
-	"That would be the⋯"
+	"That would be the…"
 	keyWait
 	clearMsg
 	jump
@@ -14156,7 +14156,7 @@ script 54 mmbn3 {
 	soundDisableTextSFX
 	soundPlay
 		track = 219
-	"⋯beep beep beep⋯"
+	"…beep beep beep…"
 	keyWait
 	clearMsg
 	soundEnableTextSFX
@@ -14173,7 +14173,7 @@ script 55 mmbn3 {
 	"""
 	keyWait
 	clearMsg
-	"That would be the⋯"
+	"That would be the…"
 	keyWait
 	clearMsg
 	jump
@@ -14185,7 +14185,7 @@ script 56 mmbn3 {
 	soundDisableTextSFX
 	soundPlay
 		track = 219
-	"⋯beep beep beep⋯"
+	"…beep beep beep…"
 	keyWait
 	clearMsg
 	soundEnableTextSFX
@@ -14202,7 +14202,7 @@ script 57 mmbn3 {
 	"""
 	keyWait
 	clearMsg
-	"That would be the⋯"
+	"That would be the…"
 	keyWait
 	clearMsg
 	jump
@@ -14214,7 +14214,7 @@ script 58 mmbn3 {
 	soundDisableTextSFX
 	soundPlay
 		track = 219
-	"⋯beep beep beep⋯"
+	"…beep beep beep…"
 	keyWait
 	clearMsg
 	soundEnableTextSFX
@@ -14231,7 +14231,7 @@ script 59 mmbn3 {
 	"""
 	keyWait
 	clearMsg
-	"That would be the⋯"
+	"That would be the…"
 	keyWait
 	clearMsg
 	jump
@@ -14628,7 +14628,7 @@ script 0 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"What the⋯!?"
+	"What the…!?"
 	keyWait
 	clearMsg
 	jump
@@ -14653,7 +14653,7 @@ script 2 mmbn3 {
 	soundDisableTextSFX
 	soundPlay
 		track = 219
-	"⋯beep beep beep⋯"
+	"…beep beep beep…"
 	keyWait
 	clearMsg
 	soundEnableTextSFX
@@ -14670,7 +14670,7 @@ script 3 mmbn3 {
 	"""
 	keyWait
 	clearMsg
-	"That would be the⋯"
+	"That would be the…"
 	keyWait
 	clearMsg
 	jump
@@ -14682,7 +14682,7 @@ script 4 mmbn3 {
 	soundDisableTextSFX
 	soundPlay
 		track = 219
-	"⋯beep beep beep⋯"
+	"…beep beep beep…"
 	keyWait
 	clearMsg
 	soundEnableTextSFX
@@ -14699,7 +14699,7 @@ script 5 mmbn3 {
 	"""
 	keyWait
 	clearMsg
-	"That would be the⋯"
+	"That would be the…"
 	keyWait
 	clearMsg
 	jump
@@ -14711,7 +14711,7 @@ script 6 mmbn3 {
 	soundDisableTextSFX
 	soundPlay
 		track = 219
-	"⋯beep beep beep⋯"
+	"…beep beep beep…"
 	keyWait
 	clearMsg
 	soundEnableTextSFX
@@ -14728,7 +14728,7 @@ script 7 mmbn3 {
 	"""
 	keyWait
 	clearMsg
-	"That would be the⋯"
+	"That would be the…"
 	keyWait
 	clearMsg
 	jump
@@ -14740,7 +14740,7 @@ script 8 mmbn3 {
 	soundDisableTextSFX
 	soundPlay
 		track = 219
-	"⋯beep beep beep⋯"
+	"…beep beep beep…"
 	keyWait
 	clearMsg
 	soundEnableTextSFX
@@ -14757,7 +14757,7 @@ script 9 mmbn3 {
 	"""
 	keyWait
 	clearMsg
-	"That would be the⋯"
+	"That would be the…"
 	keyWait
 	clearMsg
 	jump
@@ -14780,7 +14780,7 @@ script 11 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Electric Bug⋯"
+	"Electric Bug…"
 	keyWait
 	clearMsg
 	jump
@@ -14790,7 +14790,7 @@ script 12 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Style⋯?"
+	"Style…?"
 	keyWait
 	clearMsg
 	jump
@@ -14873,7 +14873,7 @@ script 21 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Heat Bug⋯"
+	"Heat Bug…"
 	keyWait
 	clearMsg
 	jump
@@ -14963,7 +14963,7 @@ script 31 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Aqua Bug⋯"
+	"Aqua Bug…"
 	keyWait
 	clearMsg
 	jump
@@ -14973,7 +14973,7 @@ script 32 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Style⋯?"
+	"Style…?"
 	keyWait
 	clearMsg
 	jump
@@ -15053,7 +15053,7 @@ script 41 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Wood Bug⋯"
+	"Wood Bug…"
 	keyWait
 	clearMsg
 	jump
@@ -15063,7 +15063,7 @@ script 42 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Style⋯?"
+	"Style…?"
 	keyWait
 	clearMsg
 	jump
@@ -15133,7 +15133,7 @@ script 50 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Is this another⋯?"
+	"Is this another…?"
 	keyWait
 	clearMsg
 	jump
@@ -15145,7 +15145,7 @@ script 51 mmbn3 {
 	msgOpen
 	flagSet
 		flag = 139
-	"⋯style change!?"
+	"…style change!?"
 	keyWait
 	end
 }
@@ -15155,7 +15155,7 @@ script 52 mmbn3 {
 	soundDisableTextSFX
 	soundPlay
 		track = 219
-	"⋯beep beep beep⋯"
+	"…beep beep beep…"
 	keyWait
 	clearMsg
 	soundEnableTextSFX
@@ -15172,7 +15172,7 @@ script 53 mmbn3 {
 	"""
 	keyWait
 	clearMsg
-	"That would be the⋯"
+	"That would be the…"
 	keyWait
 	clearMsg
 	jump
@@ -15184,7 +15184,7 @@ script 54 mmbn3 {
 	soundDisableTextSFX
 	soundPlay
 		track = 219
-	"⋯beep beep beep⋯"
+	"…beep beep beep…"
 	keyWait
 	clearMsg
 	soundEnableTextSFX
@@ -15201,7 +15201,7 @@ script 55 mmbn3 {
 	"""
 	keyWait
 	clearMsg
-	"That would be the⋯"
+	"That would be the…"
 	keyWait
 	clearMsg
 	jump
@@ -15213,7 +15213,7 @@ script 56 mmbn3 {
 	soundDisableTextSFX
 	soundPlay
 		track = 219
-	"⋯beep beep beep⋯"
+	"…beep beep beep…"
 	keyWait
 	clearMsg
 	soundEnableTextSFX
@@ -15230,7 +15230,7 @@ script 57 mmbn3 {
 	"""
 	keyWait
 	clearMsg
-	"That would be the⋯"
+	"That would be the…"
 	keyWait
 	clearMsg
 	jump
@@ -15242,7 +15242,7 @@ script 58 mmbn3 {
 	soundDisableTextSFX
 	soundPlay
 		track = 219
-	"⋯beep beep beep⋯"
+	"…beep beep beep…"
 	keyWait
 	clearMsg
 	soundEnableTextSFX
@@ -15259,7 +15259,7 @@ script 59 mmbn3 {
 	"""
 	keyWait
 	clearMsg
-	"That would be the⋯"
+	"That would be the…"
 	keyWait
 	clearMsg
 	jump
@@ -15666,7 +15666,7 @@ script 0 mmbn3 {
 	"""
 	I'm sure you've
 	learned this before,
-	but a quick review⋯
+	but a quick review…
 	"""
 	keyWait
 	clearMsg
@@ -15809,7 +15809,7 @@ script 8 mmbn3 {
 	"""
 	Well,you could start
 	the battle with just
-	one Cannon⋯
+	one Cannon…
 	"""
 	keyWait
 	clearMsg
@@ -15839,7 +15839,7 @@ script 10 mmbn3 {
 	msgOpen
 	"""
 	You haven't chosen
-	a chip,I see⋯
+	a chip,I see…
 	"""
 	keyWait
 	clearMsg
@@ -16127,7 +16127,7 @@ script 2 mmbn3 {
 	"""
 	Ah! You've picked up
 	on an excellent
-	point! Look here⋯
+	point! Look here…
 	"""
 	keyWait
 	end
@@ -16171,7 +16171,7 @@ script 3 mmbn3 {
 	"""
 	By the way,chips
 	marked with a "*"
-	are like wild cards⋯
+	are like wild cards…
 	"""
 	keyWait
 	clearMsg
@@ -16260,7 +16260,7 @@ script 8 mmbn3 {
 	msgOpen
 	"""
 	You don't need to
-	use that now⋯
+	use that now…
 	"""
 	keyWait
 	end
@@ -16337,7 +16337,7 @@ script 15 mmbn3 {
 	msgOpen
 	"""
 	You don't need to
-	use that now⋯
+	use that now…
 	"""
 	keyWait
 	end
@@ -16378,7 +16378,7 @@ script 19 mmbn3 {
 	msgOpen
 	"""
 	OK,our strategy is
-	something like this⋯
+	something like this…
 	"""
 	keyWait
 	clearMsg
@@ -16445,7 +16445,7 @@ script 23 mmbn3 {
 	"""
 	By the way,chips
 	marked with a "*"
-	are like wild cards⋯
+	are like wild cards…
 	"""
 	keyWait
 	clearMsg
@@ -16546,7 +16546,7 @@ script 1 mmbn3 {
 	"""
 	Let's try! We don't
 	need those three
-	"Recovery 10" chips⋯
+	"Recovery 10" chips…
 	"""
 	keyWait
 	end
@@ -16630,7 +16630,7 @@ script 7 mmbn3 {
 	"""
 	OK! Now let's go
 	back to the Custom
-	Screen,and⋯
+	Screen,and…
 	"""
 	keyWait
 	clearMsg
@@ -18902,7 +18902,7 @@ script 21 mmbn3 {
 	"""
 	Looks like a pass to
 	somewhere. It feels
-	evil,somehow⋯
+	evil,somehow…
 	"""
 	waitHold
 }
@@ -19005,7 +19005,7 @@ script 25 mmbn3 {
 	"""
 	Match gave us this
 	data. It's really
-	hot⋯Ouch!
+	hot…Ouch!
 	"""
 	waitHold
 }
@@ -19239,7 +19239,7 @@ script 34 mmbn3 {
 	"""
 	This is known as the
 	"Forbidden Program".
-	Use it for Alpha⋯?
+	Use it for Alpha…?
 	"""
 	waitHold
 }
@@ -19290,7 +19290,7 @@ script 36 mmbn3 {
 		palette = 3
 	"""
 	A letter from dad!
-	It says⋯
+	It says…
 	"""
 	keyWait
 	clearMsg
@@ -19330,7 +19330,7 @@ script 37 mmbn3 {
 		palette = 3
 	"""
 	It looks like a key
-	to some lock⋯ But I
+	to some lock… But I
 	wonder which one?
 	"""
 	waitHold
@@ -19616,7 +19616,7 @@ script 48 mmbn3 {
 		palette = 3
 	"""
 	Old data that looks
-	like a cloud⋯?
+	like a cloud…?
 	"__■_■____■■__■■■■"
 	"""
 	waitHold
@@ -19642,7 +19642,7 @@ script 49 mmbn3 {
 		palette = 3
 	"""
 	Old data that looks
-	like a mountain⋯?
+	like a mountain…?
 	"_■___■_______■__■"
 	"""
 	waitHold
@@ -19668,7 +19668,7 @@ script 50 mmbn3 {
 		palette = 3
 	"""
 	Old data that looks
-	like an ocean⋯?
+	like an ocean…?
 	"■_____■_■■■■___■_"
 	"""
 	waitHold
@@ -23822,7 +23822,7 @@ script 5 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I⋯I can't seem to
+	I…I can't seem to
 	jack out!
 	"""
 	keyWait
@@ -24604,7 +24604,7 @@ script 3 mmbn3 {
 	"""
 	Huh? The Press
 	compression program
-	isn't working⋯
+	isn't working…
 	"""
 	keyWait
 	clearMsg
@@ -24768,7 +24768,7 @@ script 6 mmbn3 {
 	msgOpen
 	"""
 	Let's try to get
-	there first⋯
+	there first…
 	For a change!
 	"""
 	keyWait
@@ -24950,7 +24950,7 @@ script 27 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Wow,it's so late⋯
+	Wow,it's so late…
 	Get to bed soon or
 	you'll oversleep!
 	"""
@@ -25011,7 +25011,7 @@ script 41 mmbn3 {
 	"""
 	We can't ride the
 	Metroline if we
-	can't get inside⋯
+	can't get inside…
 	"""
 	keyWait
 	end
@@ -25035,7 +25035,7 @@ script 43 mmbn3 {
 	"""
 	What should we do?
 	Looks like we have
-	to NetBattle Dex⋯
+	to NetBattle Dex…
 	"""
 	keyWait
 	end
@@ -25046,7 +25046,7 @@ script 44 mmbn3 {
 	msgOpen
 	"""
 	S・meth・・g se・ms
-	wr・ng⋯ We n・ed to
+	wr・ng… We n・ed to
 	s・e da・,・ast!
 	"""
 	keyWait
@@ -25179,7 +25179,7 @@ script 70 mmbn3 {
 	"""
 	I wonder what's up
 	with Higsby? He
-	seemed in a hurry⋯
+	seemed in a hurry…
 	"""
 	keyWait
 	end
@@ -25221,7 +25221,7 @@ script 75 mmbn3 {
 	"""
 	"Enemy of viruses;
 	Cyber square;
-	yellow"⋯Hmmm⋯
+	yellow"…Hmmm…
 	"""
 	keyWait
 	end
@@ -25662,7 +25662,7 @@ script 111 mmbn3 {
 		buffer = 0
 		item = 15
 	"""
-	"⋯
+	"…
 	Wanna go home now?
 	"""
 	keyWait
@@ -26104,7 +26104,7 @@ script 173 mmbn3 {
 	"""
 	We have to hurry to
 	the hospital!!
-	⋯Mamoru!!
+	…Mamoru!!
 	"""
 	keyWait
 	end
@@ -26214,7 +26214,7 @@ script 182 mmbn3 {
 	"""
 	Who could that
 	anonymous e-mail
-	be from⋯?
+	be from…?
 	"""
 	keyWait
 	end
@@ -26225,7 +26225,7 @@ script 183 mmbn3 {
 	msgOpen
 	"""
 	Who could that Navi
-	have been⋯? Ah,well,
+	have been…? Ah,well,
 	let's go see Mamoru!
 	"""
 	keyWait
@@ -26341,7 +26341,7 @@ script 190 mmbn3 {
 	msgOpen
 	"""
 	The lobby now?
-	When will this end⋯?
+	When will this end…?
 	"""
 	keyWait
 	end
@@ -26637,7 +26637,7 @@ script 213 mmbn3 {
 	msgOpen
 	"""
 	Rank 10 is "where
-	the evil fall"⋯?
+	the evil fall"…?
 	Where could that be?
 	"""
 	keyWait
@@ -26689,7 +26689,7 @@ script 216 mmbn3 {
 	msgOpen
 	"""
 	Rank 10 is "where
-	the evil fall"⋯?
+	the evil fall"…?
 	Where could that be?
 	"""
 	keyWait
@@ -26724,7 +26724,7 @@ script 219 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	"Head of learning"⋯?
+	"Head of learning"…?
 	Who is that,
 	I wonder?
 	"""
@@ -26742,7 +26742,7 @@ script 220 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	"One of many birds"⋯
+	"One of many birds"…
 	Hmmmmm,what could
 	that be?
 	"""
@@ -26783,7 +26783,7 @@ script 223 mmbn3 {
 	"""
 	The hint for Rank 2
 	is "place of battle"
-	right? Is "S" near⋯?
+	right? Is "S" near…?
 	"""
 	keyWait
 	end
@@ -26795,7 +26795,7 @@ script 224 mmbn3 {
 	"""
 	A "boulder"?
 	I'm not sure where
-	that would be⋯
+	that would be…
 	"""
 	keyWait
 	end
@@ -26883,7 +26883,7 @@ script 230 mmbn3 {
 	msgOpen
 	"""
 	I hope that everyone
-	is OK⋯
+	is OK…
 	"""
 	keyWait
 	end
@@ -27006,7 +27006,7 @@ script 241 mmbn3 {
 	msgOpen
 	"""
 	A vehicle for the
-	ocean⋯There was one
+	ocean…There was one
 	around here,right!?
 	"""
 	keyWait
@@ -27018,7 +27018,7 @@ script 242 mmbn3 {
 	msgOpen
 	"""
 	I don't think that
-	boat will make it⋯
+	boat will make it…
 	We need help!
 	"""
 	keyWait
@@ -27238,7 +27238,7 @@ script 6 mmbn3 {
 	msgOpen
 	"""
 	Let's try to get
-	there first⋯
+	there first…
 	For a change!
 	"""
 	keyWait
@@ -27353,7 +27353,7 @@ script 28 mmbn3 {
 	"""
 	That sound was from
 	the Teachers'
-	Lounge! What the⋯?
+	Lounge! What the…?
 	"""
 	keyWait
 	end
@@ -27445,7 +27445,7 @@ script 35 mmbn3 {
 	msgOpen
 	"""
 	MegaMan isn't
-	in your PET⋯
+	in your PET…
 	"""
 	keyWait
 	end
@@ -27706,7 +27706,7 @@ script 72 mmbn3 {
 	"""
 	I wonder what's up
 	with Higsby? He
-	seemed in a hurry⋯
+	seemed in a hurry…
 	"""
 	keyWait
 	end
@@ -27748,7 +27748,7 @@ script 75 mmbn3 {
 	"""
 	"Enemy of viruses;
 	Cyber square;
-	yellow"⋯Hmmm⋯
+	yellow"…Hmmm…
 	"""
 	keyWait
 	end
@@ -28119,7 +28119,7 @@ script 111 mmbn3 {
 		buffer = 0
 		item = 15
 	"""
-	"⋯
+	"…
 	Wanna go home now?
 	"""
 	keyWait
@@ -28454,8 +28454,8 @@ script 153 mmbn3 {
 	msgOpen
 	"""
 	Whew! We made it!
-	⋯Does something seem
-	different today⋯?
+	…Does something seem
+	different today…?
 	"""
 	keyWait
 	end
@@ -28537,7 +28537,7 @@ script 160 mmbn3 {
 	"""
 	We have to hurry to
 	the hospital!!
-	⋯Mamoru!!
+	…Mamoru!!
 	"""
 	keyWait
 	end
@@ -28647,7 +28647,7 @@ script 169 mmbn3 {
 	"""
 	Who could that
 	anonymous e-mail
-	be from⋯?
+	be from…?
 	"""
 	keyWait
 	end
@@ -28658,7 +28658,7 @@ script 170 mmbn3 {
 	msgOpen
 	"""
 	Who could that Navi
-	have been⋯? Ah,well,
+	have been…? Ah,well,
 	let's go see Mamoru!
 	"""
 	keyWait
@@ -28767,7 +28767,7 @@ script 177 mmbn3 {
 	msgOpen
 	"""
 	The lobby now?
-	When will this end⋯?
+	When will this end…?
 	"""
 	keyWait
 	end
@@ -29061,7 +29061,7 @@ script 202 mmbn3 {
 	msgOpen
 	"""
 	Rank 10 is "where
-	the evil fall"⋯?
+	the evil fall"…?
 	Where could that be?
 	"""
 	keyWait
@@ -29096,7 +29096,7 @@ script 205 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	"Head of learning"⋯?
+	"Head of learning"…?
 	Who is that,
 	I wonder?
 	"""
@@ -29114,7 +29114,7 @@ script 206 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	"One of many birds"⋯
+	"One of many birds"…
 	Hmmmmm,what could
 	that be?
 	"""
@@ -29155,7 +29155,7 @@ script 209 mmbn3 {
 	"""
 	The hint for Rank 2
 	is "place of battle"
-	right? Is "S" near⋯?
+	right? Is "S" near…?
 	"""
 	keyWait
 	end
@@ -29167,7 +29167,7 @@ script 210 mmbn3 {
 	"""
 	A "boulder"?
 	I'm not sure where
-	that would be⋯
+	that would be…
 	"""
 	keyWait
 	end
@@ -29256,7 +29256,7 @@ script 216 mmbn3 {
 	msgOpen
 	"""
 	I hope that everyone
-	is OK⋯
+	is OK…
 	"""
 	keyWait
 	end
@@ -29391,7 +29391,7 @@ script 227 mmbn3 {
 	msgOpen
 	"""
 	A vehicle for the
-	ocean⋯There was one
+	ocean…There was one
 	around here,right!?
 	"""
 	keyWait
@@ -29403,7 +29403,7 @@ script 228 mmbn3 {
 	msgOpen
 	"""
 	I don't think that
-	boat will make it⋯
+	boat will make it…
 	We need help!
 	"""
 	keyWait
@@ -29612,7 +29612,7 @@ script 44 mmbn3 {
 	msgOpen
 	"""
 	・ciL・b is ju・t up
-	t・ose ・tairs⋯
+	t・ose ・tairs…
 	"""
 	keyWait
 	end
@@ -29781,7 +29781,7 @@ script 75 mmbn3 {
 	"""
 	"Enemy of viruses;
 	Cyber square;
-	yellow"⋯Hmmm⋯
+	yellow"…Hmmm…
 	"""
 	keyWait
 	end
@@ -30160,7 +30160,7 @@ script 111 mmbn3 {
 		buffer = 0
 		item = 15
 	"""
-	"⋯
+	"…
 	Wanna go home now?
 	"""
 	keyWait
@@ -30546,7 +30546,7 @@ script 150 mmbn3 {
 	"""
 	We have to hurry to
 	the hospital!!
-	⋯Mamoru!!
+	…Mamoru!!
 	"""
 	keyWait
 	end
@@ -30652,7 +30652,7 @@ script 159 mmbn3 {
 	"""
 	Who could that
 	anonymous e-mail
-	be from⋯?
+	be from…?
 	"""
 	keyWait
 	end
@@ -30663,7 +30663,7 @@ script 160 mmbn3 {
 	msgOpen
 	"""
 	Who could that Navi
-	have been⋯? Ah,well,
+	have been…? Ah,well,
 	let's go see Mamoru!
 	"""
 	keyWait
@@ -30783,7 +30783,7 @@ script 168 mmbn3 {
 	msgOpen
 	"""
 	The lobby now?
-	When will this end⋯?
+	When will this end…?
 	"""
 	keyWait
 	end
@@ -31060,7 +31060,7 @@ script 199 mmbn3 {
 	msgOpen
 	"""
 	Rank 10 is "where
-	the evil fall"⋯?
+	the evil fall"…?
 	Where could that be?
 	"""
 	keyWait
@@ -31123,7 +31123,7 @@ script 202 mmbn3 {
 	msgOpen
 	"""
 	Rank 10 is "where
-	the evil fall"⋯?
+	the evil fall"…?
 	Where could that be?
 	"""
 	keyWait
@@ -31158,7 +31158,7 @@ script 205 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	"Head of learning"⋯?
+	"Head of learning"…?
 	Who is that,
 	I wonder?
 	"""
@@ -31176,7 +31176,7 @@ script 206 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	"One of many birds"⋯
+	"One of many birds"…
 	Hmmmmm,what could
 	that be?
 	"""
@@ -31217,7 +31217,7 @@ script 209 mmbn3 {
 	"""
 	The hint for Rank 2
 	is "place of battle"
-	right? Is "S" near⋯?
+	right? Is "S" near…?
 	"""
 	keyWait
 	end
@@ -31229,7 +31229,7 @@ script 210 mmbn3 {
 	"""
 	A "boulder"?
 	I'm not sure where
-	that would be⋯
+	that would be…
 	"""
 	keyWait
 	end
@@ -31397,7 +31397,7 @@ script 227 mmbn3 {
 	msgOpen
 	"""
 	A vehicle for the
-	ocean⋯There was one
+	ocean…There was one
 	around here,right!?
 	"""
 	keyWait
@@ -31409,7 +31409,7 @@ script 228 mmbn3 {
 	msgOpen
 	"""
 	I don't think that
-	boat will make it⋯
+	boat will make it…
 	We need help!
 	"""
 	keyWait
@@ -31851,7 +31851,7 @@ script 75 mmbn3 {
 	"""
 	"Enemy of viruses;
 	Cyber square;
-	yellow"⋯Hmmm⋯
+	yellow"…Hmmm…
 	"""
 	keyWait
 	end
@@ -32225,7 +32225,7 @@ script 111 mmbn3 {
 		buffer = 0
 		item = 15
 	"""
-	"⋯
+	"…
 	Wanna go home now?
 	"""
 	keyWait
@@ -32596,7 +32596,7 @@ script 150 mmbn3 {
 	"""
 	We have to hurry to
 	the hospital!!
-	⋯Mamoru!!
+	…Mamoru!!
 	"""
 	keyWait
 	end
@@ -32706,7 +32706,7 @@ script 159 mmbn3 {
 	"""
 	Who could that
 	anonymous e-mail
-	be from⋯?
+	be from…?
 	"""
 	keyWait
 	end
@@ -32717,7 +32717,7 @@ script 160 mmbn3 {
 	msgOpen
 	"""
 	Who could that Navi
-	have been⋯? Ah,well,
+	have been…? Ah,well,
 	let's go see Mamoru!
 	"""
 	keyWait
@@ -32826,7 +32826,7 @@ script 167 mmbn3 {
 	msgOpen
 	"""
 	The lobby now?
-	When will this end⋯?
+	When will this end…?
 	"""
 	keyWait
 	end
@@ -33082,7 +33082,7 @@ script 199 mmbn3 {
 	msgOpen
 	"""
 	Rank 10 is "where
-	the evil fall"⋯?
+	the evil fall"…?
 	Where could that be?
 	"""
 	keyWait
@@ -33134,7 +33134,7 @@ script 202 mmbn3 {
 	msgOpen
 	"""
 	Rank 10 is "where
-	the evil fall"⋯?
+	the evil fall"…?
 	Where could that be?
 	"""
 	keyWait
@@ -33169,7 +33169,7 @@ script 205 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	"Head of learning"⋯?
+	"Head of learning"…?
 	Who is that,
 	I wonder?
 	"""
@@ -33187,7 +33187,7 @@ script 206 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	"One of many birds"⋯
+	"One of many birds"…
 	Hmmmmm,what could
 	that be?
 	"""
@@ -33228,7 +33228,7 @@ script 209 mmbn3 {
 	"""
 	The hint for Rank 2
 	is "place of battle"
-	right? Is "S" near⋯?
+	right? Is "S" near…?
 	"""
 	keyWait
 	end
@@ -33245,7 +33245,7 @@ script 210 mmbn3 {
 	"""
 	A "boulder"?
 	I'm not sure where
-	that would be⋯
+	that would be…
 	"""
 	keyWait
 	end
@@ -33340,7 +33340,7 @@ script 223 mmbn3 {
 	msgOpen
 	"""
 	What's a room like
-	this doing here⋯?
+	this doing here…?
 	"""
 	keyWait
 	end
@@ -33404,7 +33404,7 @@ script 227 mmbn3 {
 	msgOpen
 	"""
 	A vehicle for the
-	ocean⋯There was one
+	ocean…There was one
 	around here,right!?
 	"""
 	keyWait
@@ -33416,7 +33416,7 @@ script 228 mmbn3 {
 	msgOpen
 	"""
 	I don't think that
-	boat will make it⋯
+	boat will make it…
 	We need help!
 	"""
 	keyWait
@@ -33986,7 +33986,7 @@ script 153 mmbn3 {
 	"""
 	We have to hurry to
 	the hospital!!
-	⋯Mamoru!!
+	…Mamoru!!
 	"""
 	keyWait
 	end
@@ -34096,7 +34096,7 @@ script 162 mmbn3 {
 	"""
 	Who could that
 	anonymous e-mail
-	be from⋯?
+	be from…?
 	"""
 	keyWait
 	end
@@ -34107,7 +34107,7 @@ script 163 mmbn3 {
 	msgOpen
 	"""
 	Who could that Navi
-	have been⋯? Ah,well,
+	have been…? Ah,well,
 	let's go see Mamoru!
 	"""
 	keyWait
@@ -34216,7 +34216,7 @@ script 170 mmbn3 {
 	msgOpen
 	"""
 	The lobby now?
-	When will this end⋯?
+	When will this end…?
 	"""
 	keyWait
 	end
@@ -34465,7 +34465,7 @@ script 199 mmbn3 {
 	msgOpen
 	"""
 	Rank 10 is "where
-	the evil fall"⋯?
+	the evil fall"…?
 	Where could that be?
 	"""
 	keyWait
@@ -34517,7 +34517,7 @@ script 202 mmbn3 {
 	msgOpen
 	"""
 	Rank 10 is "where
-	the evil fall"⋯?
+	the evil fall"…?
 	Where could that be?
 	"""
 	keyWait
@@ -34552,7 +34552,7 @@ script 205 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	"Head of learning"⋯?
+	"Head of learning"…?
 	Who is that,
 	I wonder?
 	"""
@@ -34570,7 +34570,7 @@ script 206 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	"One of many birds"⋯
+	"One of many birds"…
 	Hmmmmm,what could
 	that be?
 	"""
@@ -34611,7 +34611,7 @@ script 209 mmbn3 {
 	"""
 	The hint for Rank 2
 	is "place of battle"
-	right? Is "S" near⋯?
+	right? Is "S" near…?
 	"""
 	keyWait
 	end
@@ -34623,7 +34623,7 @@ script 210 mmbn3 {
 	"""
 	A "boulder"?
 	I'm not sure where
-	that would be⋯
+	that would be…
 	"""
 	keyWait
 	end
@@ -34771,7 +34771,7 @@ script 227 mmbn3 {
 	msgOpen
 	"""
 	A vehicle for the
-	ocean⋯There was one
+	ocean…There was one
 	around here,right!?
 	"""
 	keyWait
@@ -34783,7 +34783,7 @@ script 228 mmbn3 {
 	msgOpen
 	"""
 	I don't think that
-	boat will make it⋯
+	boat will make it…
 	We need help!
 	"""
 	keyWait
@@ -34944,7 +34944,7 @@ script 110 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	"Demon's Maw"⋯
+	"Demon's Maw"…
 	Sounds like a scary
 	place,but let's go!!
 	"""
@@ -35264,7 +35264,7 @@ script 140 mmbn3 {
 	"""
 	We have to hurry to
 	the hospital!!
-	⋯Mamoru!!
+	…Mamoru!!
 	"""
 	keyWait
 	end
@@ -35374,7 +35374,7 @@ script 149 mmbn3 {
 	"""
 	Who could that
 	anonymous e-mail
-	be from⋯?
+	be from…?
 	"""
 	keyWait
 	end
@@ -35385,7 +35385,7 @@ script 150 mmbn3 {
 	msgOpen
 	"""
 	Who could that Navi
-	have been⋯? Ah,well,
+	have been…? Ah,well,
 	let's go see Mamoru!
 	"""
 	keyWait
@@ -35501,7 +35501,7 @@ script 157 mmbn3 {
 	msgOpen
 	"""
 	The lobby now?
-	When will this end⋯?
+	When will this end…?
 	"""
 	keyWait
 	end
@@ -35753,7 +35753,7 @@ script 199 mmbn3 {
 	msgOpen
 	"""
 	Rank 10 is "where
-	the evil fall"⋯?
+	the evil fall"…?
 	Where could that be?
 	"""
 	keyWait
@@ -35805,7 +35805,7 @@ script 202 mmbn3 {
 	msgOpen
 	"""
 	Rank 10 is "where
-	the evil fall"⋯?
+	the evil fall"…?
 	Where could that be?
 	"""
 	keyWait
@@ -35840,7 +35840,7 @@ script 205 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	"Head of learning"⋯?
+	"Head of learning"…?
 	Who is that,
 	I wonder?
 	"""
@@ -35858,7 +35858,7 @@ script 206 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	"One of many birds"⋯
+	"One of many birds"…
 	Hmmmmm,what could
 	that be?
 	"""
@@ -35899,7 +35899,7 @@ script 209 mmbn3 {
 	"""
 	The hint for Rank 2
 	is "place of battle"
-	right? Is "S" near⋯?
+	right? Is "S" near…?
 	"""
 	keyWait
 	end
@@ -35911,7 +35911,7 @@ script 210 mmbn3 {
 	"""
 	A "boulder"?
 	I'm not sure where
-	that would be⋯
+	that would be…
 	"""
 	keyWait
 	end
@@ -36433,7 +36433,7 @@ script 142 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Mamoru⋯!
+	Mamoru…!
 	Lan,hurry!
 	"""
 	keyWait
@@ -36492,7 +36492,7 @@ script 147 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	What about Mamoru⋯!?
+	What about Mamoru…!?
 	Let's go back to the
 	operating room!!
 	"""
@@ -36591,7 +36591,7 @@ script 154 mmbn3 {
 	"""
 	We have to stop the
 	Tree of Life,or
-	Mamoru could be⋯⋯!
+	Mamoru could be……!
 	"""
 	keyWait
 	end
@@ -36714,7 +36714,7 @@ script 164 mmbn3 {
 	"""
 	Who could that
 	anonymous e-mail
-	be from⋯?
+	be from…?
 	"""
 	keyWait
 	end
@@ -36729,7 +36729,7 @@ script 165 mmbn3 {
 	msgOpen
 	"""
 	Who could that Navi
-	have been⋯? Ah,well,
+	have been…? Ah,well,
 	let's go see Mamoru!
 	"""
 	keyWait
@@ -36845,7 +36845,7 @@ script 172 mmbn3 {
 	msgOpen
 	"""
 	The lobby now?
-	When will this end⋯?
+	When will this end…?
 	"""
 	keyWait
 	end
@@ -37101,7 +37101,7 @@ script 199 mmbn3 {
 	msgOpen
 	"""
 	Rank 10 is "where
-	the evil fall"⋯?
+	the evil fall"…?
 	Where could that be?
 	"""
 	keyWait
@@ -37153,7 +37153,7 @@ script 202 mmbn3 {
 	msgOpen
 	"""
 	Rank 10 is "where
-	the evil fall"⋯?
+	the evil fall"…?
 	Where could that be?
 	"""
 	keyWait
@@ -37188,7 +37188,7 @@ script 205 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	"Head of learning"⋯?
+	"Head of learning"…?
 	Who is that,
 	I wonder?
 	"""
@@ -37206,7 +37206,7 @@ script 206 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	"One of many birds"⋯
+	"One of many birds"…
 	Hmmmmm,what could
 	that be?
 	"""
@@ -37247,7 +37247,7 @@ script 209 mmbn3 {
 	"""
 	The hint for Rank 2
 	is "place of battle"
-	right? Is "S" near⋯?
+	right? Is "S" near…?
 	"""
 	keyWait
 	end
@@ -37259,7 +37259,7 @@ script 210 mmbn3 {
 	"""
 	A "boulder"?
 	I'm not sure where
-	that would be⋯
+	that would be…
 	"""
 	keyWait
 	end
@@ -37412,7 +37412,7 @@ script 227 mmbn3 {
 	msgOpen
 	"""
 	A vehicle for the
-	ocean⋯There was one
+	ocean…There was one
 	around here,right!?
 	"""
 	keyWait
@@ -37424,7 +37424,7 @@ script 228 mmbn3 {
 	msgOpen
 	"""
 	I don't think that
-	boat will make it⋯
+	boat will make it…
 	We need help!
 	"""
 	keyWait
@@ -37559,7 +37559,7 @@ script 12 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I hope Cossak is OK⋯
+	I hope Cossak is OK…
 	But we don't have
 	time now! Let's go!
 	"""
@@ -37723,7 +37723,7 @@ script 25 mmbn3 {
 	"""
 	What is this place?
 	There's something
-	strange about it⋯
+	strange about it…
 	"""
 	keyWait
 	end
@@ -37822,8 +37822,8 @@ script 15 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	"Head of learning"⋯
-	Could that be⋯here?
+	"Head of learning"…
+	Could that be…here?
 	MegaMan,let's look!
 	"""
 	keyWait
@@ -38039,7 +38039,7 @@ script 41 mmbn3 {
 	"""
 	Looks like there are
 	no more problems
-	from FlashMan⋯
+	from FlashMan…
 	"""
 	keyWait
 	end
@@ -38091,7 +38091,7 @@ script 70 mmbn3 {
 	"""
 	Looks like there
 	are no more problems
-	from BeastMan⋯
+	from BeastMan…
 	"""
 	keyWait
 	end
@@ -38264,7 +38264,7 @@ script 194 mmbn3 {
 	"""
 	Looks like there are
 	no more problems
-	from PlantMan⋯
+	from PlantMan…
 	"""
 	keyWait
 	end
@@ -38402,7 +38402,7 @@ script 12 mmbn3 {
 	"""
 	So it wasn't
 	BubbleMan operating
-	the robot! But who⋯?
+	the robot! But who…?
 	"""
 	keyWait
 	end
@@ -38741,7 +38741,7 @@ script 26 mmbn3 {
 	msgOpen
 	"""
 	Yawn!
-	I'm kinda sleepy⋯
+	I'm kinda sleepy…
 	"""
 	keyWait
 	end
@@ -38785,7 +38785,7 @@ script 40 mmbn3 {
 	"""
 	Let's go see dad
 	before this PET gets
-	buggy again⋯
+	buggy again…
 	"""
 	keyWait
 	end
@@ -38934,7 +38934,7 @@ script 54 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"⋯"
+	"…"
 	waitSkip
 		frames = 30
 	"""
@@ -38962,7 +38962,7 @@ script 57 mmbn3 {
 	msgOpen
 	"""
 	I guess everyone has
-	gone to the zoo⋯
+	gone to the zoo…
 	Let's go,too!
 	"""
 	keyWait
@@ -39076,7 +39076,7 @@ script 75 mmbn3 {
 	"""
 	"Enemy of viruses;
 	Cyber square;
-	yellow"⋯Hmmm⋯
+	yellow"…Hmmm…
 	"""
 	keyWait
 	end
@@ -39088,7 +39088,7 @@ script 76 mmbn3 {
 	"""
 	It looks like there
 	is something in Yoka
-	Square! Could it be⋯
+	Square! Could it be…
 	"""
 	keyWait
 	end
@@ -39296,7 +39296,7 @@ script 90 mmbn3 {
 	"""
 	I seem to remember
 	meeting someone who
-	studied programming⋯
+	studied programming…
 	"""
 	keyWait
 	end
@@ -39782,7 +39782,7 @@ script 141 mmbn3 {
 	"""
 	Let's go to Dex's
 	house! I hope he's
-	still home⋯
+	still home…
 	"""
 	keyWait
 	end
@@ -39793,7 +39793,7 @@ script 142 mmbn3 {
 	msgOpen
 	"""
 	Well,we promised
-	Tora⋯ Let's get
+	Tora… Let's get
 	this job done!
 	"""
 	keyWait
@@ -39873,7 +39873,7 @@ script 150 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Poor Mamoru⋯! Let's
+	Poor Mamoru…! Let's
 	stay near him during
 	his operation!
 	"""
@@ -39968,7 +39968,7 @@ script 158 mmbn3 {
 	msgOpen
 	"""
 	Just who sent that
-	anonymous e-mail⋯?
+	anonymous e-mail…?
 	"""
 	keyWait
 	end
@@ -40093,7 +40093,7 @@ script 166 mmbn3 {
 	msgOpen
 	"""
 	Now the lobby?
-	When will this end⋯?
+	When will this end…?
 	"""
 	keyWait
 	end
@@ -40122,7 +40122,7 @@ script 168 mmbn3 {
 	msgOpen
 	"""
 	And the last one to
-	dad's Lab⋯! Let's
+	dad's Lab…! Let's
 	finish this!
 	"""
 	keyWait
@@ -40251,9 +40251,9 @@ script 178 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan,I'm sorry⋯
+	MegaMan,I'm sorry…
 	I'm just not in the
-	mood for the Net⋯
+	mood for the Net…
 	"""
 	keyWait
 	end
@@ -40301,7 +40301,7 @@ script 182 mmbn3 {
 	"""
 	What's up with that
 	Chaud? Well,let's
-	check on dad⋯
+	check on dad…
 	"""
 	keyWait
 	end
@@ -40325,7 +40325,7 @@ script 184 mmbn3 {
 	"""
 	Break into Under
 	Square? Sounds
-	dangerous,but⋯
+	dangerous,but…
 	"""
 	keyWait
 	end
@@ -40425,7 +40425,7 @@ script 191 mmbn3 {
 	"""
 	"Where science gives
 	life"? Using science
-	to live longer⋯?
+	to live longer…?
 	"""
 	keyWait
 	end
@@ -40437,7 +40437,7 @@ script 192 mmbn3 {
 	"""
 	"Rednu3"?
 	Does that mean
-	something special⋯?
+	something special…?
 	"""
 	keyWait
 	end
@@ -40465,7 +40465,7 @@ script 194 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	"One of many birds"⋯
+	"One of many birds"…
 	Hmmmmm,what could
 	that be?
 	"""
@@ -40507,7 +40507,7 @@ script 197 mmbn3 {
 	"""
 	"Place of battle"?
 	I guess it must be
-	a place to fight⋯
+	a place to fight…
 	"""
 	keyWait
 	end
@@ -40740,7 +40740,7 @@ script 215 mmbn3 {
 	"""
 	A vehicle for the
 	ocean? Where did I
-	see one⋯?
+	see one…?
 	"""
 	keyWait
 	end
@@ -40751,7 +40751,7 @@ script 216 mmbn3 {
 	msgOpen
 	"""
 	I don't think that
-	boat will make it⋯
+	boat will make it…
 	We need help!
 	"""
 	keyWait
@@ -40874,7 +40874,7 @@ script 2 mmbn3 {
 	"""
 	Inside a demon
 	statue,huh? This
-	place is creepy⋯
+	place is creepy…
 	"""
 	keyWait
 	end
@@ -40999,7 +40999,7 @@ script 2 mmbn3 {
 	msgOpen
 	"""
 	I sure would like
-	something to drink⋯
+	something to drink…
 	"""
 	keyWait
 	end
@@ -41010,8 +41010,8 @@ script 3 mmbn3 {
 	msgOpen
 	"""
 	Dad uses this
-	computer for work⋯
-	Better be careful⋯
+	computer for work…
+	Better be careful…
 	"""
 	keyWait
 	end
@@ -41023,7 +41023,7 @@ script 4 mmbn3 {
 	"""
 	Mom always checks
 	for viruses,but they
-	always come back⋯
+	always come back…
 	"""
 	keyWait
 	end
@@ -41114,7 +41114,7 @@ script 10 mmbn3 {
 	"""
 	I guess hospital TVs
 	are just like any
-	ordinary TV⋯
+	ordinary TV…
 	"""
 	keyWait
 	end
@@ -41173,7 +41173,7 @@ script 15 mmbn3 {
 	"""
 	I can't believe that
 	a TV this old has a
-	jack in port⋯
+	jack in port…
 	"""
 	keyWait
 	end
@@ -41238,7 +41238,7 @@ script 0 mmbn3 {
 	"""
 	There's a port in
 	the armor! I never
-	thought of that⋯
+	thought of that…
 	"""
 	keyWait
 	end
@@ -41262,7 +41262,7 @@ script 2 mmbn3 {
 	"""
 	I guess they hit
 	this alarm if the
-	panda escapes⋯
+	panda escapes…
 	"""
 	keyWait
 	end
@@ -41536,7 +41536,7 @@ script 13 mmbn3 {
 	"""
 	Does 1 to 10 add up
 	to 54? I guess I'll
-	just add them⋯
+	just add them…
 	"""
 	keyWait
 	end
@@ -41548,7 +41548,7 @@ script 14 mmbn3 {
 	"""
 	Let's eat something
 	and then go to
-	Yai's homepage⋯
+	Yai's homepage…
 	"""
 	keyWait
 	end
@@ -41754,7 +41754,7 @@ script 26 mmbn3 {
 	msgOpen
 	"""
 	Yawn!
-	I'm kinda sleepy⋯
+	I'm kinda sleepy…
 	"""
 	keyWait
 	end
@@ -41809,7 +41809,7 @@ script 40 mmbn3 {
 	"""
 	Let's go see dad
 	before this PET gets
-	buggy again⋯
+	buggy again…
 	"""
 	keyWait
 	end
@@ -41958,7 +41958,7 @@ script 54 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"⋯"
+	"…"
 	waitSkip
 		frames = 30
 	"""
@@ -42021,7 +42021,7 @@ script 75 mmbn3 {
 	"""
 	"Enemy of viruses;
 	Cyber square;
-	yellow"⋯Hmmm⋯
+	yellow"…Hmmm…
 	"""
 	keyWait
 	end
@@ -42033,7 +42033,7 @@ script 76 mmbn3 {
 	"""
 	It looks like there
 	is something in Yoka
-	Square! Could it be⋯
+	Square! Could it be…
 	"""
 	keyWait
 	end
@@ -42225,7 +42225,7 @@ script 90 mmbn3 {
 	"""
 	I seem to remember
 	meeting someone who
-	studied programming⋯
+	studied programming…
 	"""
 	keyWait
 	end
@@ -42326,7 +42326,7 @@ script 98 mmbn3 {
 	"""
 	Those 3 are supposed
 	to be hiding in this
-	area somewhere⋯
+	area somewhere…
 	"""
 	keyWait
 	end
@@ -42728,7 +42728,7 @@ script 141 mmbn3 {
 	"""
 	Let's go to Dex's
 	house! I hope he's
-	still home⋯
+	still home…
 	"""
 	keyWait
 	end
@@ -42739,7 +42739,7 @@ script 142 mmbn3 {
 	msgOpen
 	"""
 	Well,we promised
-	Tora⋯ Let's get
+	Tora… Let's get
 	this job done!
 	"""
 	keyWait
@@ -42819,7 +42819,7 @@ script 150 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Poor Mamoru⋯! Let's
+	Poor Mamoru…! Let's
 	stay near him during
 	his operation!
 	"""
@@ -42914,7 +42914,7 @@ script 158 mmbn3 {
 	msgOpen
 	"""
 	Just who sent that
-	anonymous e-mail⋯?
+	anonymous e-mail…?
 	"""
 	keyWait
 	end
@@ -43039,7 +43039,7 @@ script 166 mmbn3 {
 	msgOpen
 	"""
 	Now the lobby?
-	When will this end⋯?
+	When will this end…?
 	"""
 	keyWait
 	end
@@ -43068,7 +43068,7 @@ script 168 mmbn3 {
 	msgOpen
 	"""
 	And the last one to
-	dad's Lab⋯! Let's
+	dad's Lab…! Let's
 	finish this!
 	"""
 	keyWait
@@ -43197,9 +43197,9 @@ script 178 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan,I'm sorry⋯
+	MegaMan,I'm sorry…
 	I'm just not in the
-	mood for the Net⋯
+	mood for the Net…
 	"""
 	keyWait
 	end
@@ -43247,7 +43247,7 @@ script 182 mmbn3 {
 	"""
 	What's up with that
 	Chaud? Well,let's
-	check on dad⋯
+	check on dad…
 	"""
 	keyWait
 	end
@@ -43271,7 +43271,7 @@ script 184 mmbn3 {
 	"""
 	Break into Under
 	Square? Sounds
-	dangerous,but⋯
+	dangerous,but…
 	"""
 	keyWait
 	end
@@ -43371,7 +43371,7 @@ script 191 mmbn3 {
 	"""
 	"Where science gives
 	life"? Using science
-	to live longer⋯?
+	to live longer…?
 	"""
 	keyWait
 	end
@@ -43383,7 +43383,7 @@ script 192 mmbn3 {
 	"""
 	"Rednu3"?
 	Does that mean
-	something special⋯?
+	something special…?
 	"""
 	keyWait
 	end
@@ -43411,7 +43411,7 @@ script 194 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	"One of many birds"⋯
+	"One of many birds"…
 	Hmmmmm,what could
 	that be?
 	"""
@@ -43458,7 +43458,7 @@ script 197 mmbn3 {
 	"""
 	"Place of battle"?
 	I guess it must be
-	a place to fight⋯
+	a place to fight…
 	"""
 	keyWait
 	end
@@ -43691,7 +43691,7 @@ script 215 mmbn3 {
 	"""
 	A vehicle for the
 	ocean? Where did I
-	see one⋯?
+	see one…?
 	"""
 	keyWait
 	end
@@ -43702,7 +43702,7 @@ script 216 mmbn3 {
 	msgOpen
 	"""
 	I don't think that
-	boat will make it⋯
+	boat will make it…
 	We need help!
 	"""
 	keyWait
@@ -44000,7 +44000,7 @@ script 54 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"⋯"
+	"…"
 	waitSkip
 		frames = 30
 	"""
@@ -44063,7 +44063,7 @@ script 75 mmbn3 {
 	"""
 	"Enemy of viruses;
 	Cyber square;
-	yellow"⋯Hmmm⋯
+	yellow"…Hmmm…
 	"""
 	keyWait
 	end
@@ -44075,7 +44075,7 @@ script 76 mmbn3 {
 	"""
 	It looks like there
 	is something in Yoka
-	Square! Could it be⋯
+	Square! Could it be…
 	"""
 	keyWait
 	end
@@ -44260,7 +44260,7 @@ script 90 mmbn3 {
 	"""
 	I seem to remember
 	meeting someone who
-	studied programming⋯
+	studied programming…
 	"""
 	keyWait
 	end
@@ -44361,7 +44361,7 @@ script 98 mmbn3 {
 	"""
 	Those 3 are supposed
 	to be hiding in this
-	area somewhere⋯
+	area somewhere…
 	"""
 	keyWait
 	end
@@ -44763,7 +44763,7 @@ script 141 mmbn3 {
 	"""
 	Let's go to Dex's
 	house! I hope he's
-	still home⋯
+	still home…
 	"""
 	keyWait
 	end
@@ -44774,7 +44774,7 @@ script 142 mmbn3 {
 	msgOpen
 	"""
 	Well,we promised
-	Tora⋯ Let's get
+	Tora… Let's get
 	this job done!
 	"""
 	keyWait
@@ -44854,7 +44854,7 @@ script 150 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Poor Mamoru⋯! Let's
+	Poor Mamoru…! Let's
 	stay near him during
 	his operation!
 	"""
@@ -44949,7 +44949,7 @@ script 158 mmbn3 {
 	msgOpen
 	"""
 	Just who sent that
-	anonymous e-mail⋯?
+	anonymous e-mail…?
 	"""
 	keyWait
 	end
@@ -45074,7 +45074,7 @@ script 166 mmbn3 {
 	msgOpen
 	"""
 	Now the lobby?
-	When will this end⋯?
+	When will this end…?
 	"""
 	keyWait
 	end
@@ -45103,7 +45103,7 @@ script 168 mmbn3 {
 	msgOpen
 	"""
 	And the last one to
-	dad's Lab⋯! Let's
+	dad's Lab…! Let's
 	finish this!
 	"""
 	keyWait
@@ -45232,9 +45232,9 @@ script 178 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan,I'm sorry⋯
+	MegaMan,I'm sorry…
 	I'm just not in the
-	mood for the Net⋯
+	mood for the Net…
 	"""
 	keyWait
 	end
@@ -45282,7 +45282,7 @@ script 182 mmbn3 {
 	"""
 	What's up with that
 	Chaud? Well,let's
-	check on dad⋯
+	check on dad…
 	"""
 	keyWait
 	end
@@ -45306,7 +45306,7 @@ script 184 mmbn3 {
 	"""
 	Break into Under
 	Square? Sounds
-	dangerous,but⋯
+	dangerous,but…
 	"""
 	keyWait
 	end
@@ -45406,7 +45406,7 @@ script 191 mmbn3 {
 	"""
 	"Where science gives
 	life"? Using science
-	to live longer⋯?
+	to live longer…?
 	"""
 	keyWait
 	end
@@ -45418,7 +45418,7 @@ script 192 mmbn3 {
 	"""
 	"Rednu3"?
 	Does that mean
-	something special⋯?
+	something special…?
 	"""
 	keyWait
 	end
@@ -45446,7 +45446,7 @@ script 194 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	"One of many birds"⋯
+	"One of many birds"…
 	Hmmmmm,what could
 	that be?
 	"""
@@ -45488,7 +45488,7 @@ script 197 mmbn3 {
 	"""
 	"Place of battle"?
 	I guess it must be
-	a place to fight⋯
+	a place to fight…
 	"""
 	keyWait
 	end
@@ -45737,7 +45737,7 @@ script 215 mmbn3 {
 	"""
 	A vehicle for the
 	ocean? Where did I
-	see one⋯?
+	see one…?
 	"""
 	keyWait
 	end
@@ -45748,7 +45748,7 @@ script 216 mmbn3 {
 	msgOpen
 	"""
 	I don't think that
-	boat will make it⋯
+	boat will make it…
 	We need help!
 	"""
 	keyWait
@@ -45939,7 +45939,7 @@ script 70 mmbn3 {
 	"""
 	Where are we? I've
 	never seen this
-	area before⋯
+	area before…
 	"""
 	keyWait
 	end
@@ -45984,7 +45984,7 @@ script 75 mmbn3 {
 	"""
 	It looks like there
 	is something in Yoka
-	Square! Could it be⋯
+	Square! Could it be…
 	"""
 	keyWait
 	end
@@ -45994,7 +45994,7 @@ script 76 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	If I'm right⋯
+	If I'm right…
 	Let's talk to all
 	of these guys!!
 	"""
@@ -46239,7 +46239,7 @@ script 90 mmbn3 {
 	"""
 	I seem to remember
 	meeting someone who
-	studied programming⋯
+	studied programming…
 	"""
 	keyWait
 	end
@@ -46345,7 +46345,7 @@ script 98 mmbn3 {
 	"""
 	Those 3 are supposed
 	to be hiding in this
-	area somewhere⋯
+	area somewhere…
 	"""
 	keyWait
 	end
@@ -46770,7 +46770,7 @@ script 141 mmbn3 {
 	"""
 	Let's go to Dex's
 	house! I hope he's
-	still home⋯
+	still home…
 	"""
 	keyWait
 	end
@@ -46781,7 +46781,7 @@ script 142 mmbn3 {
 	msgOpen
 	"""
 	Well,we promised
-	Tora⋯ Let's get
+	Tora… Let's get
 	this job done!
 	"""
 	keyWait
@@ -46861,7 +46861,7 @@ script 150 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Poor Mamoru⋯! Let's
+	Poor Mamoru…! Let's
 	stay near him during
 	his operation!
 	"""
@@ -46961,7 +46961,7 @@ script 158 mmbn3 {
 	msgOpen
 	"""
 	Just who sent that
-	anonymous e-mail⋯?
+	anonymous e-mail…?
 	"""
 	keyWait
 	end
@@ -47098,7 +47098,7 @@ script 166 mmbn3 {
 	msgOpen
 	"""
 	Now the lobby?
-	When will this end⋯?
+	When will this end…?
 	"""
 	keyWait
 	end
@@ -47127,7 +47127,7 @@ script 168 mmbn3 {
 	msgOpen
 	"""
 	And the last one to
-	dad's Lab⋯! Let's
+	dad's Lab…! Let's
 	finish this!
 	"""
 	keyWait
@@ -47256,9 +47256,9 @@ script 178 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan,I'm sorry⋯
+	MegaMan,I'm sorry…
 	I'm just not in the
-	mood for the Net⋯
+	mood for the Net…
 	"""
 	keyWait
 	end
@@ -47306,7 +47306,7 @@ script 182 mmbn3 {
 	"""
 	What's up with that
 	Chaud? Well,let's
-	check on dad⋯
+	check on dad…
 	"""
 	keyWait
 	end
@@ -47330,7 +47330,7 @@ script 184 mmbn3 {
 	"""
 	Break into Under
 	Square? Sounds
-	dangerous,but⋯
+	dangerous,but…
 	"""
 	keyWait
 	end
@@ -47430,7 +47430,7 @@ script 191 mmbn3 {
 	"""
 	"Where science gives
 	life"? Using science
-	to live longer⋯?
+	to live longer…?
 	"""
 	keyWait
 	end
@@ -47442,7 +47442,7 @@ script 192 mmbn3 {
 	"""
 	"Rednu3"?
 	Does that mean
-	something special⋯?
+	something special…?
 	"""
 	keyWait
 	end
@@ -47470,7 +47470,7 @@ script 194 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	"One of many birds"⋯
+	"One of many birds"…
 	Hmmmmm,what could
 	that be?
 	"""
@@ -47512,7 +47512,7 @@ script 197 mmbn3 {
 	"""
 	"Place of battle"?
 	I guess it must be
-	a place to fight⋯
+	a place to fight…
 	"""
 	keyWait
 	end
@@ -47745,7 +47745,7 @@ script 215 mmbn3 {
 	"""
 	A vehicle for the
 	ocean? Where did I
-	see one⋯?
+	see one…?
 	"""
 	keyWait
 	end
@@ -47756,7 +47756,7 @@ script 216 mmbn3 {
 	msgOpen
 	"""
 	I don't think that
-	boat will make it⋯
+	boat will make it…
 	We need help!
 	"""
 	keyWait
@@ -47995,7 +47995,7 @@ script 104 mmbn3 {
 	msgOpen
 	"""
 	So they're filming
-	here⋯ Let's find the
+	here… Let's find the
 	TV station's Navi!
 	"""
 	keyWait
@@ -48414,7 +48414,7 @@ script 153 mmbn3 {
 	"""
 	Let's go to Dex's
 	house! I hope he's
-	still home⋯
+	still home…
 	"""
 	keyWait
 	end
@@ -48425,7 +48425,7 @@ script 154 mmbn3 {
 	msgOpen
 	"""
 	Well,we promised
-	Tora⋯ Let's get
+	Tora… Let's get
 	this job done!
 	"""
 	keyWait
@@ -48505,7 +48505,7 @@ script 162 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Poor Mamoru⋯! Let's
+	Poor Mamoru…! Let's
 	stay near him during
 	his operation!
 	"""
@@ -48605,7 +48605,7 @@ script 170 mmbn3 {
 	msgOpen
 	"""
 	Just who sent that
-	anonymous e-mail⋯?
+	anonymous e-mail…?
 	"""
 	keyWait
 	end
@@ -48742,7 +48742,7 @@ script 178 mmbn3 {
 	msgOpen
 	"""
 	Now the lobby?
-	When will this end⋯?
+	When will this end…?
 	"""
 	keyWait
 	end
@@ -48771,7 +48771,7 @@ script 180 mmbn3 {
 	msgOpen
 	"""
 	And the last one to
-	dad's Lab⋯! Let's
+	dad's Lab…! Let's
 	finish this!
 	"""
 	keyWait
@@ -48900,9 +48900,9 @@ script 191 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan,I'm sorry⋯
+	MegaMan,I'm sorry…
 	I'm just not in the
-	mood for the Net⋯
+	mood for the Net…
 	"""
 	keyWait
 	end
@@ -48950,7 +48950,7 @@ script 195 mmbn3 {
 	"""
 	What's up with that
 	Chaud? Well,let's
-	check on dad⋯
+	check on dad…
 	"""
 	keyWait
 	end
@@ -48974,7 +48974,7 @@ script 197 mmbn3 {
 	"""
 	Break into Under
 	Square? Sounds
-	dangerous,but⋯
+	dangerous,but…
 	"""
 	keyWait
 	end
@@ -49074,7 +49074,7 @@ script 204 mmbn3 {
 	"""
 	"Where science gives
 	life"? Using science
-	to live longer⋯?
+	to live longer…?
 	"""
 	keyWait
 	end
@@ -49086,7 +49086,7 @@ script 205 mmbn3 {
 	"""
 	"Rednu3"?
 	Does that mean
-	something special⋯?
+	something special…?
 	"""
 	keyWait
 	end
@@ -49114,7 +49114,7 @@ script 207 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	"One of many birds"⋯
+	"One of many birds"…
 	Hmmmmm,what could
 	that be?
 	"""
@@ -49156,7 +49156,7 @@ script 210 mmbn3 {
 	"""
 	"Place of battle"?
 	I guess it must be
-	a place to fight⋯
+	a place to fight…
 	"""
 	keyWait
 	end
@@ -49389,7 +49389,7 @@ script 228 mmbn3 {
 	"""
 	A vehicle for the
 	ocean? Where did I
-	see one⋯?
+	see one…?
 	"""
 	keyWait
 	end
@@ -49400,7 +49400,7 @@ script 229 mmbn3 {
 	msgOpen
 	"""
 	I don't think that
-	boat will make it⋯
+	boat will make it…
 	We need help!
 	"""
 	keyWait
@@ -49511,7 +49511,7 @@ script 1 mmbn3 {
 	"""
 	So this is the
 	Undernet? I don't
-	see any WWW members⋯
+	see any WWW members…
 	"""
 	keyWait
 	end
@@ -49595,9 +49595,9 @@ script 154 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan,I'm sorry⋯
+	MegaMan,I'm sorry…
 	I'm just not in the
-	mood for the Net⋯
+	mood for the Net…
 	"""
 	keyWait
 	end
@@ -49669,7 +49669,7 @@ script 182 mmbn3 {
 	"""
 	What's up with that
 	Chaud? Well,let's
-	check on dad⋯
+	check on dad…
 	"""
 	keyWait
 	end
@@ -49698,7 +49698,7 @@ script 184 mmbn3 {
 	"""
 	Break into Under
 	Square? Sounds
-	dangerous,but⋯
+	dangerous,but…
 	"""
 	keyWait
 	end
@@ -49844,7 +49844,7 @@ script 195 mmbn3 {
 	"""
 	"Where science gives
 	life"? Using science
-	to live longer⋯?
+	to live longer…?
 	"""
 	keyWait
 	end
@@ -49856,7 +49856,7 @@ script 196 mmbn3 {
 	"""
 	"Rednu3"?
 	Does that mean
-	something special⋯?
+	something special…?
 	"""
 	keyWait
 	end
@@ -49884,7 +49884,7 @@ script 198 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	"One of many birds"⋯
+	"One of many birds"…
 	Hmmmmm,what could
 	that be?
 	"""
@@ -49931,7 +49931,7 @@ script 201 mmbn3 {
 	"""
 	"Place of battle"?
 	I guess it must be
-	a place to fight⋯
+	a place to fight…
 	"""
 	keyWait
 	end
@@ -50017,7 +50017,7 @@ script 0 mmbn3 {
 	msgOpen
 	"""
 	A secret area in
-	the Undernet Square⋯
+	the Undernet Square…
 	Be careful!
 	"""
 	keyWait
@@ -50078,7 +50078,7 @@ script 0 mmbn3 {
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"⋯Ha ha ha ha!"
+	"…Ha ha ha ha!"
 	keyWait
 	end
 }
@@ -50126,13 +50126,13 @@ script 1 mmbn3 {
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"⋯"
+	"…"
 	waitSkip
 		frames = 30
-	"⋯"
+	"…"
 	waitSkip
 		frames = 30
-	"⋯"
+	"…"
 	waitSkip
 		frames = 30
 	"""
@@ -50166,7 +50166,7 @@ script 2 mmbn3 {
 		mugshot = MegaMan
 	"""
 	I think I pulled
-	a mussel⋯
+	a mussel…
 	"""
 	keyWait
 	clearMsg
@@ -50192,7 +50192,7 @@ script 2 mmbn3 {
 	"""
 	No,but if we keep
 	this up,our players
-	may get crabby⋯
+	may get crabby…
 	"""
 	keyWait
 	clearMsg
@@ -50335,7 +50335,7 @@ script 12 mmbn3 {
 	"""
 	I wonder if this
 	humor program is
-	really working⋯
+	really working…
 	"""
 	keyWait
 	end
@@ -50389,7 +50389,7 @@ script 20 mmbn3 {
 	"""
 	MegaMan,I think you
 	really need to work
-	on your jokes⋯
+	on your jokes…
 	"""
 	keyWait
 	clearMsg
@@ -50398,7 +50398,7 @@ script 20 mmbn3 {
 	"""
 	Apparently a lot of
 	people agree with
-	you⋯
+	you…
 	"""
 	keyWait
 	clearMsg
@@ -50463,7 +50463,7 @@ script 21 mmbn3 {
 	"""
 	That joke is in
 	really spore taste,
-	MegaMan⋯
+	MegaMan…
 	"""
 	keyWait
 	end
@@ -50619,12 +50619,12 @@ script 30 mmbn3 {
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"⋯⋯"
+	"……"
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"⋯Sorry⋯"
+	"…Sorry…"
 	keyWait
 	end
 }
@@ -50651,7 +50651,7 @@ script 31 mmbn3 {
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"⋯Cute!"
+	"…Cute!"
 	keyWait
 	end
 }
@@ -50714,7 +50714,7 @@ script 33 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	⋯Oh,you've heard
+	…Oh,you've heard
 	that one.
 	"""
 	keyWait
@@ -50794,7 +50794,7 @@ script 1 mmbn3 {
 	"""
 	The one in front of
 	the bus stop is
-	Dex's house⋯
+	Dex's house…
 	"""
 	keyWait
 	clearMsg
@@ -50991,7 +50991,7 @@ script 10 mmbn3 {
 	"""
 	I'd love to get some
 	good chips,but I'm
-	not good at busting⋯
+	not good at busting…
 	"""
 	keyWait
 	end
@@ -51052,8 +51052,8 @@ script 24 mmbn3 {
 	msgOpen
 	"""
 	I had to work over-
-	time again today⋯
-	Wow,am I tired⋯
+	time again today…
+	Wow,am I tired…
 	"""
 	keyWait
 	end
@@ -51089,14 +51089,14 @@ script 30 mmbn3 {
 	"""
 	I saw somebody
 	running away from
-	the school⋯
+	the school…
 	"""
 	keyWait
 	clearMsg
 	"""
 	I sure hope that
 	wasn't one of your
-	teachers⋯!
+	teachers…!
 	"""
 	keyWait
 	end
@@ -51146,7 +51146,7 @@ script 34 mmbn3 {
 	"""
 	I hate to ask you
 	this after you
-	helped me and all⋯
+	helped me and all…
 	"""
 	keyWait
 	clearMsg
@@ -51158,7 +51158,7 @@ script 34 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	So I was hoping⋯
+	So I was hoping…
 	Would you NetBattle
 	me?
 	"""
@@ -51391,7 +51391,7 @@ script 49 mmbn3 {
 	mugshotShow
 		mugshot = Dex
 	msgOpen
-	"⋯⋯"
+	"……"
 	keyWait
 	end
 }
@@ -51444,7 +51444,7 @@ script 60 mmbn3 {
 	msgOpen
 	"""
 	We were hoping to
-	go shopping⋯
+	go shopping…
 	"""
 	keyWait
 	clearMsg
@@ -51526,7 +51526,7 @@ script 64 mmbn3 {
 	"""
 	Poor kid. It's the
 	only way he knows
-	how to ask⋯
+	how to ask…
 	"""
 	keyWait
 	end
@@ -51573,7 +51573,7 @@ script 68 mmbn3 {
 	msgOpen
 	"""
 	If I can't use the
-	Metroline I⋯
+	Metroline I…
 	"""
 	waitSkip
 		frames = 30
@@ -51657,7 +51657,7 @@ script 72 mmbn3 {
 	"""
 	Hmmm. I can't think
 	of anyone around who
-	is better than you⋯
+	is better than you…
 	"""
 	keyWait
 	clearMsg
@@ -51681,14 +51681,14 @@ script 73 mmbn3 {
 	clearMsg
 	"""
 	I wonder if he would
-	be around our age⋯
+	be around our age…
 	"""
 	keyWait
 	clearMsg
 	"""
 	If so,at least that
 	would narrow things
-	down a bit⋯
+	down a bit…
 	"""
 	keyWait
 	end
@@ -51700,7 +51700,7 @@ script 75 mmbn3 {
 	"""
 	I guess it would be
 	nice to let Dex show
-	off a little⋯
+	off a little…
 	"""
 	keyWait
 	end
@@ -51717,7 +51717,7 @@ script 76 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	⋯Naaaah! Show that
+	…Naaaah! Show that
 	little kid how harsh
 	the world can be!
 	"""
@@ -51786,14 +51786,14 @@ script 81 mmbn3 {
 	"""
 	I guess that it's
 	too late for him to
-	back out now⋯
+	back out now…
 	"""
 	keyWait
 	clearMsg
 	"""
 	If he were to lose,
 	his little brother
-	would feel betrayed⋯
+	would feel betrayed…
 	"""
 	keyWait
 	end
@@ -51827,7 +51827,7 @@ script 83 mmbn3 {
 	"""
 	Well,I'd say that
 	his lie will catch
-	up sooner or later⋯
+	up sooner or later…
 	"""
 	keyWait
 	clearMsg
@@ -51840,7 +51840,7 @@ script 83 mmbn3 {
 	clearMsg
 	"""
 	Especially in the
-	case of brothers⋯
+	case of brothers…
 	"""
 	keyWait
 	end
@@ -51858,7 +51858,7 @@ script 84 mmbn3 {
 	"""
 	But what's the
 	problem with letting
-	him win⋯?
+	him win…?
 	"""
 	keyWait
 	clearMsg
@@ -51884,7 +51884,7 @@ script 85 mmbn3 {
 	"""
 	If he's a friend,I
 	think it's OK to
-	help him out⋯
+	help him out…
 	"""
 	keyWait
 	clearMsg
@@ -51908,7 +51908,7 @@ script 90 mmbn3 {
 	clearMsg
 	"""
 	I've never seen one
-	like that in stores⋯
+	like that in stores…
 	Is it an original?
 	"""
 	keyWait
@@ -51920,7 +51920,7 @@ script 91 mmbn3 {
 	msgOpen
 	"""
 	Oh,I'm getting so
-	old⋯ My back aches⋯
+	old… My back aches…
 	"""
 	keyWait
 	clearMsg
@@ -52017,7 +52017,7 @@ script 101 mmbn3 {
 	"""
 	A field trip,eh?
 	I used to love those
-	when I was a kid⋯
+	when I was a kid…
 	"""
 	keyWait
 	clearMsg
@@ -52059,8 +52059,8 @@ script 110 mmbn3 {
 		mugshot = NormalNaviGreen
 	msgOpen
 	"""
-	Huff,huff⋯
-	This suit is so hot⋯
+	Huff,huff…
+	This suit is so hot…
 	"""
 	keyWait
 	clearMsg
@@ -52080,13 +52080,13 @@ script 110 mmbn3 {
 	"""
 	Ooops!
 	Please don't say
-	you're in the N1⋯?
+	you're in the N1…?
 	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"⋯Yup."
+	"…Yup."
 	keyWait
 	clearMsg
 	mugshotShow
@@ -52099,7 +52099,7 @@ script 110 mmbn3 {
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"⋯Yup."
+	"…Yup."
 	keyWait
 	clearMsg
 	mugshotShow
@@ -52292,7 +52292,7 @@ script 135 mmbn3 {
 	"""
 	There's some strange
 	guy over behind
-	those trees⋯
+	those trees…
 	"""
 	keyWait
 	end
@@ -52304,7 +52304,7 @@ script 136 mmbn3 {
 	"""
 	Some guy dressed as
 	a Navi was hanging
-	out by the school⋯
+	out by the school…
 	"""
 	keyWait
 	end
@@ -52376,7 +52376,7 @@ script 142 mmbn3 {
 	"""
 	My mother is all
 	excited about her
-	new dishwasher⋯
+	new dishwasher…
 	"""
 	keyWait
 	clearMsg
@@ -52477,13 +52477,13 @@ script 153 mmbn3 {
 	"""
 	I started my washer
 	from the Net,and
-	when I came home⋯
+	when I came home…
 	"""
 	keyWait
 	clearMsg
 	"""
 	My whole house was
-	full of bubbles⋯!
+	full of bubbles…!
 	"""
 	keyWait
 	end
@@ -52495,7 +52495,7 @@ script 154 mmbn3 {
 	"""
 	People trapped in
 	exploding bubbles?
-	Oh,come on,Lan⋯
+	Oh,come on,Lan…
 	"""
 	keyWait
 	clearMsg
@@ -52511,7 +52511,7 @@ script 154 mmbn3 {
 	"""
 	Huh?
 	You're serious!?
-	My mother⋯!
+	My mother…!
 	"""
 	keyWait
 	end
@@ -52539,9 +52539,9 @@ script 160 mmbn3 {
 		mugshot = OldMan
 	msgOpen
 	"""
-	Oh,dearest⋯I'm so
+	Oh,dearest…I'm so
 	glad you're safe!
-	Sob⋯sob⋯
+	Sob…sob…
 	"""
 	keyWait
 	end
@@ -52584,7 +52584,7 @@ script 163 mmbn3 {
 	"""
 	I think I'll just
 	keep washing my
-	dishes by hand⋯
+	dishes by hand…
 	"""
 	keyWait
 	clearMsg
@@ -52601,7 +52601,7 @@ script 164 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	So⋯Do you think
+	So…Do you think
 	you could up my
 	allowance?
 	"""
@@ -52614,7 +52614,7 @@ script 165 mmbn3 {
 	msgOpen
 	"""
 	The bubbles finally
-	stopped⋯
+	stopped…
 	"""
 	keyWait
 	clearMsg
@@ -52637,7 +52637,7 @@ script 180 mmbn3 {
 	"""
 	I guess I could sell
 	you a few of my
-	SubChips⋯
+	SubChips…
 	"""
 	keyWait
 	clearMsg
@@ -52686,7 +52686,7 @@ script 182 mmbn3 {
 	msgOpen
 	"""
 	Ooops,I forgot to
-	bring 'em with me⋯!
+	bring 'em with me…!
 	"""
 	keyWait
 	end
@@ -52708,7 +52708,7 @@ script 190 mmbn3 {
 	"""
 	Old as I am,I'm
 	a BattleChip
-	collector. Say⋯
+	collector. Say…
 	"""
 	keyWait
 	clearMsg
@@ -52837,8 +52837,8 @@ script 194 mmbn3 {
 		mugshot = OldWoman
 	msgOpen
 	"""
-	Oh⋯
-	That's too bad⋯
+	Oh…
+	That's too bad…
 	"""
 	keyWait
 	end
@@ -52850,7 +52850,7 @@ script 195 mmbn3 {
 	"""
 	Hmm. Looks like
 	it's not in your
-	pack⋯
+	pack…
 	"""
 	keyWait
 	clearMsg
@@ -53107,7 +53107,7 @@ script 209 mmbn3 {
 	"""
 	Thank you so much!
 	Here,let me pay you
-	for your help⋯
+	for your help…
 	"""
 	keyWait
 	clearMsg
@@ -53267,7 +53267,7 @@ script 223 mmbn3 {
 	clearMsg
 	"""
 	You hear a faint
-	voice from inside⋯
+	voice from inside…
 	"""
 	keyWait
 	clearMsg
@@ -53279,7 +53279,7 @@ script 224 mmbn3 {
 	msgOpen
 	"""
 	This house sits
-	quiet and alone⋯
+	quiet and alone…
 	"""
 	keyWait
 	clearMsg
@@ -53338,7 +53338,7 @@ script 227 mmbn3 {
 	"""
 	You've never
 	actually seen a bus
-	stop here,though⋯
+	stop here,though…
 	"""
 	keyWait
 	end
@@ -53512,7 +53512,7 @@ script 238 mmbn3 {
 	msgOpen
 	"""
 	Guess the condor
-	likes coming here⋯
+	likes coming here…
 	"""
 	keyWait
 	clearMsg
@@ -53531,7 +53531,7 @@ script 238 mmbn3 {
 		mugshot = Lan
 	"""
 	It probably won't
-	come if I'm near⋯
+	come if I'm near…
 	"""
 	keyWait
 	clearMsg
@@ -53812,7 +53812,7 @@ script 4 mmbn3 {
 	"""
 	You guys all have
 	home pages? I should
-	make one,too⋯
+	make one,too…
 	"""
 	keyWait
 	end
@@ -53865,7 +53865,7 @@ script 12 mmbn3 {
 	"""
 	It would be a shame
 	to lose to another
-	country⋯
+	country…
 	"""
 	keyWait
 	end
@@ -53939,7 +53939,7 @@ script 20 mmbn3 {
 	"""
 	The only ones left
 	in town are us old
-	folks⋯
+	folks…
 	"""
 	keyWait
 	end
@@ -53981,7 +53981,7 @@ script 22 mmbn3 {
 	"""
 	Hmm,it looks like
 	the N1 semi-finals
-	have started⋯
+	have started…
 	"""
 	keyWait
 	clearMsg
@@ -54060,7 +54060,7 @@ script 25 mmbn3 {
 	"""
 	I go to Seaside
 	Hospital all the
-	time⋯
+	time…
 	"""
 	keyWait
 	clearMsg
@@ -54135,7 +54135,7 @@ script 27 mmbn3 {
 	"""
 	Things are so
 	dangerous these days
-	with the WWW around⋯
+	with the WWW around…
 	"""
 	keyWait
 	clearMsg
@@ -54243,14 +54243,14 @@ script 39 mmbn3 {
 	msgOpen
 	"""
 	What?
-	They moved⋯?
+	They moved…?
 	"""
 	keyWait
 	clearMsg
 	"""
 	How sad! I always
 	loved to watch
-	their child play⋯
+	their child play…
 	"""
 	keyWait
 	end
@@ -54347,14 +54347,14 @@ script 45 mmbn3 {
 	"""
 	I'm waiting on the
 	bus again,but it
-	still won't come⋯!
+	still won't come…!
 	"""
 	keyWait
 	clearMsg
 	"""
 	Maybe I should take
 	the Metroline,
-	like you⋯
+	like you…
 	"""
 	keyWait
 	end
@@ -54404,7 +54404,7 @@ script 48 mmbn3 {
 	"""
 	when I went to
 	SciLab. He didn't
-	fit in,somehow⋯
+	fit in,somehow…
 	"""
 	keyWait
 	end
@@ -54446,7 +54446,7 @@ script 51 mmbn3 {
 	"""
 	Good for you! I've
 	never gotten an
-	award like that⋯
+	award like that…
 	"""
 	keyWait
 	clearMsg
@@ -54476,7 +54476,7 @@ script 53 mmbn3 {
 	"""
 	I hear that security
 	is really tight
-	at SciLab⋯
+	at SciLab…
 	"""
 	keyWait
 	clearMsg
@@ -54497,7 +54497,7 @@ script 55 mmbn3 {
 		mugshot = Man
 	msgOpen
 	"""
-	What⋯!?
+	What…!?
 	SciLab is on fire!?
 	That's horrible!
 	"""
@@ -54522,14 +54522,14 @@ script 56 mmbn3 {
 	"""
 	I learned that
 	SciLab stores lots
-	of different data⋯
+	of different data…
 	"""
 	keyWait
 	clearMsg
 	"""
 	If we were to lose
 	that data and the
-	Net were to fail⋯
+	Net were to fail…
 	"""
 	keyWait
 	end
@@ -54644,7 +54644,7 @@ script 65 mmbn3 {
 	"""
 	I wish I was that
 	cool. I was just
-	running around⋯
+	running around…
 	"""
 	keyWait
 	end
@@ -54655,14 +54655,14 @@ script 66 mmbn3 {
 	msgOpen
 	"""
 	I'm so glad that my
-	house didn't burn⋯
+	house didn't burn…
 	"""
 	keyWait
 	clearMsg
 	"""
 	Luckily,I had blown
 	a fuse,so all of my
-	devices were off⋯
+	devices were off…
 	"""
 	keyWait
 	end
@@ -54674,7 +54674,7 @@ script 67 mmbn3 {
 	"""
 	I can't believe it!
 	My networked game
-	machine⋯!
+	machine…!
 	"""
 	keyWait
 	clearMsg
@@ -54728,7 +54728,7 @@ script 120 mmbn3 {
 	"""
 	I heard that it's
 	full of scary
-	people⋯
+	people…
 	"""
 	keyWait
 	end
@@ -54749,7 +54749,7 @@ script 121 mmbn3 {
 	msgOpen
 	"""
 	That fire at SciLab
-	really scared me⋯
+	really scared me…
 	"""
 	keyWait
 	clearMsg
@@ -54844,7 +54844,7 @@ script 124 mmbn3 {
 	clearMsg
 	mugshotAnimate
 		animation = 1
-	"All safe and secure⋯"
+	"All safe and secure…"
 	keyWait
 	end
 }
@@ -54854,7 +54854,7 @@ script 126 mmbn3 {
 	msgOpen
 	"""
 	A strange man was
-	hanging around here⋯
+	hanging around here…
 	He's not WWW,is he?
 	"""
 	keyWait
@@ -54890,7 +54890,7 @@ script 128 mmbn3 {
 	"""
 	I can't shake the
 	feeling something
-	bad will happen⋯
+	bad will happen…
 	"""
 	keyWait
 	end
@@ -54927,7 +54927,7 @@ script 130 mmbn3 {
 	"""
 	We never know what
 	will happen next,so
-	I'm on patrol⋯
+	I'm on patrol…
 	"""
 	keyWait
 	end
@@ -54939,7 +54939,7 @@ script 132 mmbn3 {
 	"""
 	The Officials have
 	been quite active on
-	the Net recently⋯
+	the Net recently…
 	"""
 	keyWait
 	end
@@ -54962,7 +54962,7 @@ script 134 mmbn3 {
 	msgOpen
 	"""
 	I'm very sensitive
-	to bad vibrations⋯
+	to bad vibrations…
 	"""
 	keyWait
 	clearMsg
@@ -54992,7 +54992,7 @@ script 136 mmbn3 {
 	"""
 	You know Chaud,
 	right? He's an
-	amazing NetBattler⋯
+	amazing NetBattler…
 	"""
 	keyWait
 	end
@@ -55073,7 +55073,7 @@ script 140 mmbn3 {
 	"""
 	Where is everyone?
 	I'm a little worried
-	about them⋯
+	about them…
 	"""
 	keyWait
 	flagSet
@@ -55096,14 +55096,14 @@ script 141 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	I don't like this⋯
+	I don't like this…
 	Here,Lan,take this!
 	"""
 	keyWait
 	clearMsg
 	"""
 	I want you to
-	have it⋯
+	have it…
 	"""
 	keyWait
 	clearMsg
@@ -55204,7 +55204,7 @@ script 145 mmbn3 {
 	"""
 	keyWait
 	clearMsg
-	"I hope Chisao is OK⋯"
+	"I hope Chisao is OK…"
 	keyWait
 	end
 }
@@ -55233,7 +55233,7 @@ script 147 mmbn3 {
 	"""
 	Don't tell me that a
 	war is about to
-	start⋯?
+	start…?
 	"""
 	keyWait
 	end
@@ -55375,7 +55375,7 @@ script 158 mmbn3 {
 	"""
 	There's nothing that
 	we can do to
-	stop this⋯!
+	stop this…!
 	"""
 	keyWait
 	end
@@ -55425,7 +55425,7 @@ script 162 mmbn3 {
 	"""
 	There's nowhere that
 	we can hide from the
-	WWW⋯
+	WWW…
 	"""
 	keyWait
 	clearMsg
@@ -55535,7 +55535,7 @@ script 164 mmbn3 {
 	printFolderName
 		buffer = 0
 		entry = 9
-	"\" now⋯"
+	"\" now…"
 	keyWait
 	clearMsg
 	"・"
@@ -55574,7 +55574,7 @@ script 180 mmbn3 {
 	"""
 	I guess I could sell
 	you a few of my
-	SubChips⋯
+	SubChips…
 	"""
 	keyWait
 	clearMsg
@@ -55623,7 +55623,7 @@ script 182 mmbn3 {
 	msgOpen
 	"""
 	Oops,I forgot to
-	bring 'em with me⋯
+	bring 'em with me…
 	"""
 	keyWait
 	end
@@ -55645,7 +55645,7 @@ script 190 mmbn3 {
 	"""
 	Old as I am,I'm
 	a BattleChip
-	collector. Say⋯
+	collector. Say…
 	"""
 	keyWait
 	clearMsg
@@ -55774,8 +55774,8 @@ script 194 mmbn3 {
 		mugshot = OldWoman
 	msgOpen
 	"""
-	Oh⋯
-	That's too bad⋯
+	Oh…
+	That's too bad…
 	"""
 	keyWait
 	end
@@ -55787,7 +55787,7 @@ script 195 mmbn3 {
 	"""
 	Hmm. Looks like
 	it's not in your
-	pack⋯
+	pack…
 	"""
 	keyWait
 	clearMsg
@@ -56044,7 +56044,7 @@ script 209 mmbn3 {
 	"""
 	Thank you so much!
 	Here,let me pay you
-	for your help⋯
+	for your help…
 	"""
 	keyWait
 	clearMsg
@@ -56204,7 +56204,7 @@ script 223 mmbn3 {
 	clearMsg
 	"""
 	You hear a faint
-	voice from inside⋯
+	voice from inside…
 	"""
 	keyWait
 	clearMsg
@@ -56216,7 +56216,7 @@ script 224 mmbn3 {
 	msgOpen
 	"""
 	This house sits
-	quiet and alone⋯
+	quiet and alone…
 	"""
 	keyWait
 	clearMsg
@@ -56275,7 +56275,7 @@ script 227 mmbn3 {
 	"""
 	You've never
 	actually seen a bus
-	stop here,though⋯
+	stop here,though…
 	"""
 	keyWait
 	end
@@ -56449,7 +56449,7 @@ script 238 mmbn3 {
 	msgOpen
 	"""
 	Guess the condor
-	likes coming here⋯
+	likes coming here…
 	"""
 	keyWait
 	clearMsg
@@ -56468,7 +56468,7 @@ script 238 mmbn3 {
 		mugshot = Lan
 	"""
 	It probably won't
-	come if I'm near⋯
+	come if I'm near…
 	"""
 	keyWait
 	clearMsg
@@ -56770,7 +56770,7 @@ script 50 mmbn3 {
 		item = 12
 	"""
 	"
-	you needed⋯
+	you needed…
 	"""
 	keyWait
 	clearMsg
@@ -56786,7 +56786,7 @@ script 50 mmbn3 {
 	"""
 	Sorry!
 	Actually,I put it
-	in my briefcase⋯
+	in my briefcase…
 	"""
 	keyWait
 	clearMsg
@@ -56951,7 +56951,7 @@ script 65 mmbn3 {
 	"""
 	Some guy dressed as
 	a Navi went through
-	here⋯
+	here…
 	"""
 	keyWait
 	clearMsg
@@ -57088,7 +57088,7 @@ script 86 mmbn3 {
 	clearMsg
 	"""
 	Now,if only I could
-	get a ticket⋯
+	get a ticket…
 	"""
 	keyWait
 	end
@@ -57168,7 +57168,7 @@ script 108 mmbn3 {
 	"""
 	We somehow managed
 	to withstand all of
-	that heat⋯
+	that heat…
 	"""
 	keyWait
 	clearMsg
@@ -57186,7 +57186,7 @@ script 110 mmbn3 {
 	"""
 	Those fires caused
 	some damage to the
-	Metroline⋯
+	Metroline…
 	"""
 	keyWait
 	clearMsg
@@ -57251,7 +57251,7 @@ script 222 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	⋯We apologize for
+	…We apologize for
 	that last joke. It
 	wasn't punny at all
 	"""
@@ -57677,7 +57677,7 @@ script 6 mmbn3 {
 	msgOpen
 	"""
 	I have to wash
-	those dishes⋯
+	those dishes…
 	"""
 	keyWait
 	clearMsg
@@ -57687,7 +57687,7 @@ script 6 mmbn3 {
 	"""
 	keyWait
 	clearMsg
-	"So busy,so busy⋯"
+	"So busy,so busy…"
 	keyWait
 	end
 }
@@ -57855,14 +57855,14 @@ script 20 mmbn3 {
 	msgOpen
 	"""
 	I don't know any of
-	these TV shows⋯
+	these TV shows…
 	"""
 	keyWait
 	clearMsg
 	"""
 	I guess I just never
 	have time to watch
-	TV⋯
+	TV…
 	"""
 	keyWait
 	end
@@ -57874,12 +57874,12 @@ script 21 mmbn3 {
 	"""
 	I think I'll make
 	your father's
-	favorite dinner⋯
+	favorite dinner…
 	"""
 	keyWait
 	clearMsg
 	"""
-	Hmmm⋯What was it
+	Hmmm…What was it
 	that he likes?
 	"""
 	keyWait
@@ -58080,7 +58080,7 @@ script 40 mmbn3 {
 	clearMsg
 	mugshotAnimate
 		animation = 0
-	"⋯⋯"
+	"……"
 	keyWait
 	clearMsg
 	mugshotAnimate
@@ -58094,7 +58094,7 @@ script 40 mmbn3 {
 	"""
 	So that's why you've
 	been playing on the
-	Internet so much⋯
+	Internet so much…
 	"""
 	keyWait
 	end
@@ -58169,7 +58169,7 @@ script 45 mmbn3 {
 	clearMsg
 	"""
 	I hope she wasn't
-	hurt too badly⋯
+	hurt too badly…
 	"""
 	keyWait
 	clearMsg
@@ -58334,7 +58334,7 @@ script 58 mmbn3 {
 	"""
 	Your friend is in
 	the hospital?
-	Oh,my⋯
+	Oh,my…
 	"""
 	keyWait
 	clearMsg
@@ -58406,7 +58406,7 @@ script 67 mmbn3 {
 	"""
 	I heard that there
 	was another incident
-	on the Internet⋯
+	on the Internet…
 	"""
 	keyWait
 	end
@@ -58418,7 +58418,7 @@ script 70 mmbn3 {
 	"""
 	Things seem so
 	dangerous on the
-	Net these days⋯
+	Net these days…
 	"""
 	keyWait
 	end
@@ -58434,7 +58434,7 @@ script 73 mmbn3 {
 	"""
 	Welcome home! We're
 	having pork chops
-	for dinner⋯
+	for dinner…
 	"""
 	keyWait
 	clearMsg
@@ -58451,18 +58451,18 @@ script 74 mmbn3 {
 		mugshot = Mom
 	msgOpen
 	"""
-	Lan! The SciLab⋯!!
-	Your father⋯!!
+	Lan! The SciLab…!!
+	Your father…!!
 	"""
 	keyWait
 	clearMsg
 	"""
 	Oh,I hope that
-	he's OK⋯
+	he's OK…
 	"""
 	keyWait
 	clearMsg
-	"Oh,honey⋯!"
+	"Oh,honey…!"
 	keyWait
 	end
 }
@@ -58471,8 +58471,8 @@ script 77 mmbn3 {
 		mugshot = Mom
 	msgOpen
 	"""
-	Oh,honey⋯
-	Please be safe⋯
+	Oh,honey…
+	Please be safe…
 	"""
 	keyWait
 	end
@@ -58489,7 +58489,7 @@ script 80 mmbn3 {
 	clearMsg
 	"""
 	Your father told me
-	all about it⋯
+	all about it…
 	"""
 	keyWait
 	clearMsg
@@ -59100,7 +59100,7 @@ script 227 mmbn3 {
 		jumpUnused = 248
 	"""
 	OK!
-	⋯
+	…
 	"""
 	waitSkip
 		frames = 30
@@ -59124,7 +59124,7 @@ script 229 mmbn3 {
 	msgOpen
 	"""
 	It looks like
-	the save failed⋯
+	the save failed…
 	"""
 	keyWait
 	clearMsg
@@ -59451,7 +59451,7 @@ script 13 mmbn3 {
 	"""
 	Hmmmm.
 	Theoretically that's
-	possible⋯
+	possible…
 	"""
 	keyWait
 	clearMsg
@@ -59512,7 +59512,7 @@ script 30 mmbn3 {
 		code = *
 	"""
 	"
-	around Yoka area 1⋯
+	around Yoka area 1…
 	"""
 	keyWait
 	clearMsg
@@ -59586,7 +59586,7 @@ script 33 mmbn3 {
 	clearMsg
 	"""
 	Let me just check
-	this out,huh⋯
+	this out,huh…
 	"""
 	keyWait
 	clearMsg
@@ -59613,7 +59613,7 @@ script 35 mmbn3 {
 	mugshotShow
 		mugshot = Mayl
 	msgOpen
-	"L-Lan⋯Help me⋯"
+	"L-Lan…Help me…"
 	keyWait
 	end
 }
@@ -59632,7 +59632,7 @@ script 40 mmbn3 {
 	"""
 	Being trapped in
 	the bubbles was so
-	scary⋯
+	scary…
 	"""
 	keyWait
 	clearMsg
@@ -59899,7 +59899,7 @@ script 15 mmbn3 {
 	"""
 	Higsby is in town!?
 	I didn't know that
-	he was back⋯
+	he was back…
 	"""
 	keyWait
 	end
@@ -59929,7 +59929,7 @@ script 16 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	⋯No,no.
+	…No,no.
 	It's nothing!
 	"""
 	keyWait
@@ -59961,7 +59961,7 @@ script 18 mmbn3 {
 	"""
 	I've only found the
 	one that was at the
-	zoo⋯
+	zoo…
 	"""
 	keyWait
 	end
@@ -60000,9 +60000,9 @@ script 25 mmbn3 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	So Dex really left⋯
+	So Dex really left…
 	He must have really
-	missed his brother⋯
+	missed his brother…
 	"""
 	keyWait
 	end
@@ -60069,7 +60069,7 @@ script 30 mmbn3 {
 	"""
 	You always just rush
 	headlong into
-	things⋯
+	things…
 	"""
 	keyWait
 	clearMsg
@@ -60087,7 +60087,7 @@ script 31 mmbn3 {
 	msgOpen
 	"""
 	Time to study for
-	tomorrow⋯
+	tomorrow…
 	"""
 	keyWait
 	end
@@ -60174,14 +60174,14 @@ script 40 mmbn3 {
 	msgOpen
 	"""
 	What!? Your dad!
-	I can't believe it⋯
+	I can't believe it…
 	"""
 	keyWait
 	clearMsg
 	"""
-	⋯I'm sorry.
+	…I'm sorry.
 	I don't even know
-	what to say⋯
+	what to say…
 	"""
 	keyWait
 	end
@@ -60193,13 +60193,13 @@ script 42 mmbn3 {
 	"""
 	No matter what Yai
 	says,I know that
-	she's just worried⋯
+	she's just worried…
 	"""
 	keyWait
 	clearMsg
 	"""
 	I'm a little
-	worried,too⋯
+	worried,too…
 	"""
 	keyWait
 	end
@@ -60244,7 +60244,7 @@ script 43 mmbn3 {
 	"・"
 	waitSkip
 		frames = 30
-	"I'm so glad⋯"
+	"I'm so glad…"
 	keyWait
 	end
 }
@@ -60255,7 +60255,7 @@ script 44 mmbn3 {
 	"""
 	It looks like the
 	Officials are out
-	patrolling around⋯
+	patrolling around…
 	"""
 	keyWait
 	end
@@ -60282,7 +60282,7 @@ script 46 mmbn3 {
 	msgOpen
 	"""
 	Maybe you shouldn't
-	jack in today⋯
+	jack in today…
 	"""
 	keyWait
 	clearMsg
@@ -60385,7 +60385,7 @@ script 54 mmbn3 {
 	clearMsg
 	"""
 	Everything was fine
-	until recently⋯!
+	until recently…!
 	"""
 	keyWait
 	end
@@ -60403,7 +60403,7 @@ script 55 mmbn3 {
 	"""
 	I have no idea where
 	you could find
-	something like that⋯
+	something like that…
 	"""
 	keyWait
 	clearMsg
@@ -60752,7 +60752,7 @@ script 24 mmbn3 {
 		mugshot = Dex
 	msgOpen
 	"""
-	⋯Could you just
+	…Could you just
 	leave me alone for
 	a while?
 	"""
@@ -60764,7 +60764,7 @@ script 25 mmbn3 {
 		mugshot = Dex
 	msgOpen
 	"""
-	That guy Tora⋯
+	That guy Tora…
 	He's pretty cool!
 	"""
 	keyWait
@@ -60835,7 +60835,7 @@ script 28 mmbn3 {
 	clearMsg
 	"""
 	Something must
-	be up⋯
+	be up…
 	"""
 	keyWait
 	end
@@ -60897,7 +60897,7 @@ script 34 mmbn3 {
 	"""
 	Looks like wars are
 	popping up all over
-	the world⋯
+	the world…
 	"""
 	keyWait
 	clearMsg
@@ -60916,7 +60916,7 @@ script 35 mmbn3 {
 	"""
 	The newest model of
 	boat engine? I have
-	no idea⋯
+	no idea…
 	"""
 	keyWait
 	clearMsg
@@ -60930,14 +60930,14 @@ script 35 mmbn3 {
 	"""
 	Even if you could
 	find one,it must be
-	pretty expensive⋯
+	pretty expensive…
 	"""
 	keyWait
 	clearMsg
 	"""
 	Maybe it wouldn't be
 	a problem for a rich
-	person,I suppose⋯
+	person,I suppose…
 	"""
 	keyWait
 	end
@@ -60983,7 +60983,7 @@ script 222 mmbn3 {
 	"""
 	The trash can is
 	full of candy
-	wrappers⋯
+	wrappers…
 	"""
 	keyWait
 	end
@@ -61113,7 +61113,7 @@ script 0 mmbn3 {
 	msgOpen
 	"""
 	So this will be
-	my big TV debut⋯
+	my big TV debut…
 	"""
 	keyWait
 	clearMsg
@@ -61215,7 +61215,7 @@ script 16 mmbn3 {
 	"""
 	The final N1
 	preliminary has
-	started⋯
+	started…
 	"""
 	keyWait
 	clearMsg
@@ -61234,7 +61234,7 @@ script 17 mmbn3 {
 	"""
 	Too bad that Mayl
 	is out of the
-	running⋯
+	running…
 	"""
 	keyWait
 	clearMsg
@@ -61247,7 +61247,7 @@ script 17 mmbn3 {
 	clearMsg
 	"""
 	Enough of the N1
-	talk⋯I have to get
+	talk…I have to get
 	ready for the opera!
 	"""
 	keyWait
@@ -61273,7 +61273,7 @@ script 18 mmbn3 {
 	"""
 	isn't my style.
 	So,I'm taking a
-	breather⋯
+	breather…
 	"""
 	keyWait
 	end
@@ -61285,7 +61285,7 @@ script 20 mmbn3 {
 	"""
 	I heard from Dex,
 	what happened in
-	the Beach Area⋯
+	the Beach Area…
 	"""
 	keyWait
 	clearMsg
@@ -61334,7 +61334,7 @@ script 25 mmbn3 {
 	"""
 	I still can't get
 	used to the idea
-	that Dex moved⋯
+	that Dex moved…
 	"""
 	keyWait
 	clearMsg
@@ -61389,7 +61389,7 @@ script 30 mmbn3 {
 	msgOpen
 	"""
 	So you got your
-	commendation⋯
+	commendation…
 	I want one,too!
 	"""
 	keyWait
@@ -61408,7 +61408,7 @@ script 31 mmbn3 {
 	clearMsg
 	"""
 	Maybe people CAN
-	change,after all⋯!
+	change,after all…!
 	"""
 	keyWait
 	end
@@ -61468,7 +61468,7 @@ script 39 mmbn3 {
 	"""
 	SciLab is supposed
 	to know all about
-	NetCrimes⋯
+	NetCrimes…
 	"""
 	keyWait
 	clearMsg
@@ -61543,7 +61543,7 @@ script 44 mmbn3 {
 	"""
 	The Undernet sure is
 	showing a lot of
-	activity recently⋯
+	activity recently…
 	"""
 	keyWait
 	clearMsg
@@ -61577,7 +61577,7 @@ script 47 mmbn3 {
 	"""
 	I recently saw a boy
 	who looks just like
-	Dex⋯
+	Dex…
 	"""
 	keyWait
 	clearMsg
@@ -61595,14 +61595,14 @@ script 48 mmbn3 {
 	"""
 	I heard that a
 	powerful Navi came
-	out of the Undernet⋯
+	out of the Undernet…
 	"""
 	keyWait
 	clearMsg
 	"ACDC is safe,right?\n"
 	mugshotAnimate
 		animation = 0
-	"Right⋯?"
+	"Right…?"
 	keyWait
 	end
 }
@@ -61629,13 +61629,13 @@ script 50 mmbn3 {
 	"""
 	Thank you for
 	helping me! I'm
-	still shaking⋯
+	still shaking…
 	"""
 	keyWait
 	clearMsg
 	"""
 	I thought that I
-	might die⋯Sniffle!
+	might die…Sniffle!
 	"""
 	keyWait
 	end
@@ -61654,7 +61654,7 @@ script 53 mmbn3 {
 	msgOpen
 	"""
 	Wars all over,the
-	Internet like it is⋯
+	Internet like it is…
 	What will be next?
 	"""
 	keyWait
@@ -61676,7 +61676,7 @@ script 54 mmbn3 {
 		mugshot = Lan
 	"""
 	I'm looking for a
-	boat engine⋯
+	boat engine…
 	"""
 	keyWait
 	clearMsg
@@ -61704,7 +61704,7 @@ script 54 mmbn3 {
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"I⋯I can't tell you⋯"
+	"I…I can't tell you…"
 	keyWait
 	clearMsg
 	mugshotShow
@@ -61712,7 +61712,7 @@ script 54 mmbn3 {
 	"""
 	I'm sure that I
 	could get one if I
-	really wanted to⋯
+	really wanted to…
 	"""
 	keyWait
 	clearMsg
@@ -61731,7 +61731,7 @@ script 54 mmbn3 {
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"⋯Somewhere⋯"
+	"…Somewhere…"
 	keyWait
 	clearMsg
 	mugshotShow
@@ -61779,13 +61779,13 @@ script 54 mmbn3 {
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"I,I just⋯"
+	"I,I just…"
 	keyWait
 	clearMsg
 	"""
 	It's going to be a
 	dangerous fight,so
-	I didn't want⋯
+	I didn't want…
 	"""
 	keyWait
 	clearMsg
@@ -61823,7 +61823,7 @@ script 54 mmbn3 {
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"⋯I'm sorry. But I⋯"
+	"…I'm sorry. But I…"
 	keyWait
 	clearMsg
 	mugshotShow
@@ -61835,9 +61835,9 @@ script 54 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	⋯⋯
+	……
 	I'll get your engine
-	for you⋯
+	for you…
 	"""
 	keyWait
 	clearMsg
@@ -61850,19 +61850,19 @@ script 54 mmbn3 {
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Yai⋯! Thank you!"
+	"Yai…! Thank you!"
 	keyWait
 	clearMsg
 	"""
-	Could you also⋯keep
+	Could you also…keep
 	this a secret from
-	the others⋯?
+	the others…?
 	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = Yai
-	"⋯Sure,whatever."
+	"…Sure,whatever."
 	keyWait
 	clearMsg
 	"""
@@ -61879,7 +61879,7 @@ script 54 mmbn3 {
 	clearMsg
 	mugshotShow
 		mugshot = Yai
-	"Just get going⋯"
+	"Just get going…"
 	keyWait
 	end
 }
@@ -61904,7 +61904,7 @@ script 220 mmbn3 {
 	msgOpen
 	"""
 	A data doll lies
-	limp⋯
+	limp…
 	"""
 	keyWait
 	end
@@ -62296,7 +62296,7 @@ script 5 mmbn3 {
 	flagSet
 		flag = 1287
 	"""
-	Well,let's see⋯
+	Well,let's see…
 	Yep,1000 Zennys,huh!
 	All right!
 	"""
@@ -62467,7 +62467,7 @@ script 11 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Yeah⋯well⋯"
+	"Yeah…well…"
 	keyWait
 	clearMsg
 	jump
@@ -62590,7 +62590,7 @@ script 20 mmbn3 {
 	clearMsg
 	mugshotAnimate
 		animation = 0
-	"Sniffle⋯"
+	"Sniffle…"
 	keyWait
 	end
 }
@@ -62620,7 +62620,7 @@ script 25 mmbn3 {
 	"""
 	You input an 8-digit
 	number,but I don't
-	know any⋯
+	know any…
 	"""
 	keyWait
 	end
@@ -62687,7 +62687,7 @@ script 181 mmbn3 {
 	"""
 	If you tell me the
 	name of a chip you
-	want⋯
+	want…
 	"""
 	keyWait
 	clearMsg
@@ -62793,7 +62793,7 @@ script 183 mmbn3 {
 	msgOpen
 	"""
 	Sorry,I'm out of
-	stock,huh⋯
+	stock,huh…
 	"""
 	keyWait
 	end
@@ -62894,7 +62894,7 @@ script 224 mmbn3 {
 	"""
 	Maybe a vast
 	collection of rare
-	chips⋯?
+	chips…?
 	"""
 	keyWait
 	end
@@ -62948,7 +62948,7 @@ script 227 mmbn3 {
 	"""
 	It seems to almost
 	be about to leap off
-	the paper⋯
+	the paper…
 	"""
 	keyWait
 	end
@@ -63111,12 +63111,12 @@ script 231 mmbn3 {
 	msgOpenQuick
 	"""
 	Processing number!
-	⋯beep beep beep⋯
+	…beep beep beep…
 	"""
 	keyWait
 	clearMsg
 	"""
-	⋯Sorry,not a winner!
+	…Sorry,not a winner!
 	Enter another?
 	
 	"""
@@ -63154,7 +63154,7 @@ script 232 mmbn3 {
 	msgOpenQuick
 	"""
 	Processing number!
-	⋯beep beep beep⋯
+	…beep beep beep…
 	"""
 	keyWait
 	clearMsg
@@ -63169,7 +63169,7 @@ script 232 mmbn3 {
 	soundDisableTextSFX
 	soundPlay
 		track = 233
-	"Clank,clank⋯Bang!"
+	"Clank,clank…Bang!"
 	soundEnableTextSFX
 	keyWait
 	waitHold
@@ -63266,7 +63266,7 @@ script 236 mmbn3 {
 		mugshot = NumberMan
 	msgOpenQuick
 	"""
-	⋯But you can't hold
+	…But you can't hold
 	any more chips at
 	this time.
 	"""
@@ -63306,14 +63306,14 @@ script 238 mmbn3 {
 	msgOpenQuick
 	"""
 	Processing number!
-	⋯beep beep beep⋯
+	…beep beep beep…
 	"""
 	keyWait
 	clearMsg
 	"""
 	This number appears
 	to have already been
-	used⋯
+	used…
 	"""
 	keyWait
 	clearMsg
@@ -63630,7 +63630,7 @@ script 5 mmbn3 {
 	msgOpen
 	"""
 	I'd better not
-	forget my homework⋯
+	forget my homework…
 	"""
 	keyWait
 	end
@@ -63692,7 +63692,7 @@ script 11 mmbn3 {
 	msgOpen
 	"""
 	I can't find it
-	anywhere⋯
+	anywhere…
 	"""
 	keyWait
 	end
@@ -63706,7 +63706,7 @@ script 12 mmbn3 {
 		mugshot = Yai
 	msgOpen
 	"""
-	That Dex⋯! How does
+	That Dex…! How does
 	he always manage to
 	do things like this?
 	"""
@@ -63739,7 +63739,7 @@ script 15 mmbn3 {
 	msgOpen
 	"""
 	Why do I have this
-	bad feeling⋯?
+	bad feeling…?
 	"""
 	keyWait
 	clearMsg
@@ -63772,7 +63772,7 @@ script 30 mmbn3 {
 	"""
 	There's a kid who's
 	looking for the #1
-	NetBattler in town⋯
+	NetBattler in town…
 	"""
 	keyWait
 	clearMsg
@@ -63811,7 +63811,7 @@ script 30 mmbn3 {
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Sure,whatever⋯"
+	"Sure,whatever…"
 	keyWait
 	flagSet
 		flag = 1036
@@ -63859,14 +63859,14 @@ script 35 mmbn3 {
 	"""
 	I hope that Dex's
 	detention went
-	smoothly⋯
+	smoothly…
 	"""
 	keyWait
 	clearMsg
 	"""
 	But Ms.Mari was
 	pretty upset,so it
-	probably didn't⋯
+	probably didn't…
 	"""
 	keyWait
 	end
@@ -63890,7 +63890,7 @@ script 37 mmbn3 {
 	mugshotShow
 		mugshot = Girl
 	msgOpen
-	"Hmmmmm⋯"
+	"Hmmmmm…"
 	keyWait
 	end
 }
@@ -63993,7 +63993,7 @@ script 44 mmbn3 {
 	clearMsg
 	"""
 	Hmmm. So,compression
-	reduces data size⋯
+	reduces data size…
 	"""
 	keyWait
 	end
@@ -64024,7 +64024,7 @@ script 46 mmbn3 {
 	"""
 	After that field
 	trip,I'm a little
-	scared of animals⋯!
+	scared of animals…!
 	"""
 	keyWait
 	end
@@ -64077,7 +64077,7 @@ script 51 mmbn3 {
 	msgOpen
 	"""
 	That Chisao sure can
-	be a pain sometimes⋯
+	be a pain sometimes…
 	"""
 	keyWait
 	end
@@ -64123,7 +64123,7 @@ script 60 mmbn3 {
 	"""
 	Please don't walk
 	around here! I lost
-	a contact lens⋯
+	a contact lens…
 	"""
 	keyWait
 	end
@@ -64177,9 +64177,9 @@ script 91 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	⋯Now that I think
+	…Now that I think
 	about it,Dex isn't
-	here yet,either⋯
+	here yet,either…
 	"""
 	keyWait
 	flagSet
@@ -64234,7 +64234,7 @@ script 94 mmbn3 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	Dex sure is late⋯
+	Dex sure is late…
 	I wonder if he
 	overslept again?
 	"""
@@ -64269,7 +64269,7 @@ script 96 mmbn3 {
 	msgOpen
 	"""
 	I forgot to study!
-	Oh,what'll I do⋯?
+	Oh,what'll I do…?
 	"""
 	keyWait
 	flagSet
@@ -64311,7 +64311,7 @@ script 100 mmbn3 {
 	"""
 	Well,I guess that
 	most of the cleaning
-	is done now⋯
+	is done now…
 	"""
 	keyWait
 	clearMsg
@@ -64356,7 +64356,7 @@ script 102 mmbn3 {
 	"""
 	I wish I could have
 	seen you battle
-	Chaud in the N1⋯
+	Chaud in the N1…
 	"""
 	keyWait
 	clearMsg
@@ -64374,7 +64374,7 @@ script 120 mmbn3 {
 	"""
 	I've been giving my
 	leftovers from lunch
-	to the hamster⋯
+	to the hamster…
 	"""
 	keyWait
 	end
@@ -64389,9 +64389,9 @@ script 140 mmbn3 {
 		mugshot = MsMari
 	msgOpen
 	"""
-	Lan⋯
+	Lan…
 	I heard what
-	happened⋯
+	happened…
 	"""
 	keyWait
 	clearMsg
@@ -64436,7 +64436,7 @@ script 142 mmbn3 {
 	"""
 	Well,I guess I can
 	let you borrow
-	my notes⋯
+	my notes…
 	"""
 	keyWait
 	end
@@ -64477,7 +64477,7 @@ script 148 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	what we do here⋯
+	what we do here…
 	Could "head" mean
 	"boss" or "leader"?
 	"""
@@ -64495,9 +64495,9 @@ script 150 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	"Many birds"⋯
+	"Many birds"…
 	I wonder what that
-	could refer to⋯?
+	could refer to…?
 	"""
 	keyWait
 	end
@@ -64573,7 +64573,7 @@ script 161 mmbn3 {
 	mugshotShow
 		mugshot = OrangeShirtBoy
 	msgOpen
-	"Oh,Ms.Mari⋯"
+	"Oh,Ms.Mari…"
 	keyWait
 	end
 }
@@ -64587,7 +64587,7 @@ script 162 mmbn3 {
 		mugshot = BlueShirtBoy
 	msgOpen
 	"""
-	I want to go home⋯
+	I want to go home…
 	Mommy!!
 	"""
 	keyWait
@@ -64608,7 +64608,7 @@ script 165 mmbn3 {
 		frames = 30
 	"""
 	WAR!?
-	No! It can't be⋯
+	No! It can't be…
 	"""
 	keyWait
 	clearMsg
@@ -64626,7 +64626,7 @@ script 165 mmbn3 {
 	"""
 	I see. Thank you.
 	You should try to
-	get to a safe place⋯
+	get to a safe place…
 	"""
 	keyWait
 	end
@@ -64637,14 +64637,14 @@ script 166 mmbn3 {
 	msgOpen
 	mugshotAnimate
 		animation = 0
-	"Shiver⋯"
+	"Shiver…"
 	keyWait
 	clearMsg
 	mugshotAnimate
 		animation = 1
 	"""
-	Will⋯
-	Will we be OK⋯?
+	Will…
+	Will we be OK…?
 	"""
 	keyWait
 	end
@@ -64667,27 +64667,27 @@ script 170 mmbn3 {
 	"""
 	It looks like things
 	are bad on the
-	Internet now⋯
+	Internet now…
 	"""
 	keyWait
 	clearMsg
 	"""
 	I analyzed that data
-	you gave me⋯
+	you gave me…
 	"""
 	keyWait
 	clearMsg
 	"""
 	It looks like Net
 	society is heading
-	for destruction⋯
+	for destruction…
 	"""
 	keyWait
 	clearMsg
 	"""
 	I wonder if there's
 	something that I can
-	do to help⋯
+	do to help…
 	"""
 	keyWait
 	end
@@ -64786,7 +64786,7 @@ script 224 mmbn3 {
 	"""
 	Some small animal
 	was kept in here at
-	one time⋯
+	one time…
 	"""
 	keyWait
 	clearMsg
@@ -64820,7 +64820,7 @@ script 225 mmbn3 {
 	msgOpen
 	"""
 	A frog gives you a
-	blank stare⋯
+	blank stare…
 	"""
 	keyWait
 	clearMsg
@@ -64863,7 +64863,7 @@ script 226 mmbn3 {
 	"""
 	You catch a gleam of
 	light out of the
-	corner of your eye⋯
+	corner of your eye…
 	"""
 	keyWait
 	clearMsg
@@ -65152,7 +65152,7 @@ script 2 mmbn3 {
 	clearMsg
 	"""
 	That sounds
-	like fun⋯
+	like fun…
 	"""
 	keyWait
 	end
@@ -65189,7 +65189,7 @@ script 10 mmbn3 {
 	"""
 	On second thought,I
 	don't want to study
-	more than I do now⋯!
+	more than I do now…!
 	"""
 	keyWait
 	end
@@ -65303,7 +65303,7 @@ script 31 mmbn3 {
 	"""
 	We just went to a
 	museum. It was
-	really boring⋯
+	really boring…
 	"""
 	keyWait
 	end
@@ -65315,7 +65315,7 @@ script 32 mmbn3 {
 	"""
 	Hmm. I wonder what
 	I'll do this
-	weekend⋯
+	weekend…
 	"""
 	keyWait
 	end
@@ -65355,7 +65355,7 @@ script 45 mmbn3 {
 	"""
 	My desk is such a
 	mess,I can't find
-	anything in it⋯
+	anything in it…
 	"""
 	keyWait
 	clearMsg
@@ -65398,7 +65398,7 @@ script 55 mmbn3 {
 	msgOpen
 	"""
 	Maybe I should have
-	competed in the N1⋯
+	competed in the N1…
 	"""
 	keyWait
 	clearMsg
@@ -65432,7 +65432,7 @@ script 70 mmbn3 {
 	msgOpen
 	"""
 	I think I'll take a
-	nap when I get home⋯
+	nap when I get home…
 	"""
 	keyWait
 	end
@@ -65451,7 +65451,7 @@ script 71 mmbn3 {
 	"""
 	I wish that I could
 	NetBattle as well
-	as you⋯
+	as you…
 	"""
 	keyWait
 	end
@@ -65470,7 +65470,7 @@ script 72 mmbn3 {
 	"""
 	She's rich,so she
 	must be in a deluxe
-	suite room⋯!
+	suite room…!
 	"""
 	keyWait
 	end
@@ -65493,7 +65493,7 @@ script 80 mmbn3 {
 	"""
 	Ms.Mari was saying
 	something about data
-	something⋯? Huh?
+	something…? Huh?
 	"""
 	keyWait
 	end
@@ -65553,7 +65553,7 @@ script 93 mmbn3 {
 	"""
 	I usually see Dex on
 	the way to school,
-	but not today⋯
+	but not today…
 	"""
 	keyWait
 	end
@@ -65615,7 +65615,7 @@ script 121 mmbn3 {
 	"""
 	I'd like to crush
 	them! If only I
-	could⋯
+	could…
 	"""
 	keyWait
 	end
@@ -65646,7 +65646,7 @@ script 190 mmbn3 {
 	printCode
 		buffer = 0
 		code = C
-	"\"⋯"
+	"\"…"
 	keyWait
 	clearMsg
 	"""
@@ -65778,9 +65778,9 @@ script 194 mmbn3 {
 		mugshot = CapBoy
 	msgOpen
 	"""
-	Sheesh⋯
+	Sheesh…
 	I wanted to get back
-	at my brother⋯
+	at my brother…
 	"""
 	keyWait
 	end
@@ -66152,13 +66152,13 @@ script 235 mmbn3 {
 		jumpIfTrue = 236
 		jumpIfFalse = continue
 	clearMsg
-	"Bonk⋯!"
+	"Bonk…!"
 	keyWait
 	clearMsg
 	"""
 	Something fell out
 	from between the
-	books⋯
+	books…
 	"""
 	keyWait
 	clearMsg
@@ -66255,8 +66255,8 @@ script 10 mmbn3 {
 		mugshot = Yai
 	msgOpen
 	"""
-	Flap,flap⋯
-	Flap,flap⋯
+	Flap,flap…
+	Flap,flap…
 	"""
 	keyWait
 	clearMsg
@@ -66292,7 +66292,7 @@ script 20 mmbn3 {
 	"""
 	I'm tired of waiting
 	for him. Maybe I'll
-	just go home⋯
+	just go home…
 	"""
 	keyWait
 	end
@@ -66365,7 +66365,7 @@ script 50 mmbn3 {
 	"""
 	If I go home,my
 	parents will make me
-	study⋯
+	study…
 	"""
 	keyWait
 	end
@@ -66453,7 +66453,7 @@ script 100 mmbn3 {
 	"""
 	What's this? An
 	emergency call from
-	headquarters⋯?
+	headquarters…?
 	"""
 	keyWait
 	clearMsg
@@ -66544,7 +66544,7 @@ script 192 mmbn3 {
 	msgOpen
 	"""
 	That's my father's
-	will⋯
+	will…
 	"""
 	keyWait
 	clearMsg
@@ -66565,7 +66565,7 @@ script 192 mmbn3 {
 	"""
 	We lost track of him
 	somewhere in
-	Netopia⋯
+	Netopia…
 	"""
 	keyWait
 	clearMsg
@@ -66586,7 +66586,7 @@ script 192 mmbn3 {
 	"""
 	Since you're both
 	great NetBattlers,
-	maybe you can⋯
+	maybe you can…
 	"""
 	keyWait
 	clearMsg
@@ -66611,7 +66611,7 @@ script 193 mmbn3 {
 	"""
 	It just looks like a
 	bunch of letters to
-	me⋯
+	me…
 	"""
 	keyWait
 	clearMsg
@@ -66649,7 +66649,7 @@ script 194 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	What⋯?
+	What…?
 	This is what he had
 	hidden?
 	"""
@@ -66684,21 +66684,21 @@ script 196 mmbn3 {
 	"""
 	This is a picture of
 	him and me and my
-	mother⋯
+	mother…
 	"""
 	keyWait
 	clearMsg
 	"""
 	Did he want me to
 	find this? No,that
-	can't be right⋯
+	can't be right…
 	"""
 	keyWait
 	clearMsg
 	"""
 	He always told me
 	that he wanted me to
-	be a top NetBattler⋯
+	be a top NetBattler…
 	"""
 	keyWait
 	clearMsg
@@ -66712,11 +66712,11 @@ script 196 mmbn3 {
 	"""
 	He wanted me to have
 	to track down where
-	it was hidden⋯
+	it was hidden…
 	"""
 	keyWait
 	clearMsg
-	"⋯⋯⋯"
+	"………"
 	keyWait
 	clearMsg
 	"""
@@ -66729,18 +66729,18 @@ script 196 mmbn3 {
 	"""
 	Here,this is a chip
 	that belonged to my
-	father⋯
+	father…
 	"""
 	keyWait
 	clearMsg
 	"""
 	I think that you can
 	probably put it to
-	better use than I⋯
+	better use than I…
 	"""
 	keyWait
 	clearMsg
-	"Please. Take it⋯"
+	"Please. Take it…"
 	keyWait
 	clearMsg
 	jump
@@ -66783,7 +66783,7 @@ script 198 mmbn3 {
 	"""
 	I hate to disappoint
 	my father,but I'll
-	never be NetBattler⋯
+	never be NetBattler…
 	"""
 	keyWait
 	clearMsg
@@ -66801,7 +66801,7 @@ script 199 mmbn3 {
 	msgOpen
 	"""
 	I'll treasure this
-	photo forever⋯
+	photo forever…
 	"""
 	keyWait
 	end
@@ -66823,7 +66823,7 @@ script 221 mmbn3 {
 	"""
 	The size of his name
 	really shows his
-	personality⋯
+	personality…
 	"""
 	keyWait
 	clearMsg
@@ -67000,7 +67000,7 @@ script 8 mmbn3 {
 	"""
 	Of course,I'd be
 	afraid to walk up
-	front,too⋯
+	front,too…
 	"""
 	keyWait
 	end
@@ -67016,7 +67016,7 @@ script 10 mmbn3 {
 	"""
 	keyWait
 	clearMsg
-	"If it's a b-burglar⋯"
+	"If it's a b-burglar…"
 	keyWait
 	end
 }
@@ -67033,7 +67033,7 @@ script 11 mmbn3 {
 	clearMsg
 	"""
 	I hope it's a
-	teacher⋯!
+	teacher…!
 	"""
 	keyWait
 	end
@@ -67060,7 +67060,7 @@ script 15 mmbn3 {
 	mugshotShow
 		mugshot = Mayl
 	msgOpen
-	"Nnnnnh⋯"
+	"Nnnnnh…"
 	keyWait
 	clearMsg
 	jump
@@ -67069,7 +67069,7 @@ script 15 mmbn3 {
 script 16 mmbn3 {
 	mugshotHide
 	msgOpen
-	"Bonk⋯!"
+	"Bonk…!"
 	keyWait
 	clearMsg
 	"""
@@ -67120,7 +67120,7 @@ script 18 mmbn3 {
 	mugshotShow
 		mugshot = Mayl
 	msgOpen
-	"Uhhhhn⋯"
+	"Uhhhhn…"
 	keyWait
 	end
 }
@@ -67175,7 +67175,7 @@ script 30 mmbn3 {
 	clearMsg
 	"""
 	I wonder what Yoka
-	is like⋯?
+	is like…?
 	"""
 	keyWait
 	end
@@ -67246,7 +67246,7 @@ script 55 mmbn3 {
 	"""
 	Someone from DNN is
 	in the Teachers'
-	Lounge⋯
+	Lounge…
 	"""
 	keyWait
 	clearMsg
@@ -67265,13 +67265,13 @@ script 56 mmbn3 {
 	"""
 	So he was dressed
 	like that for
-	the filming⋯
+	the filming…
 	"""
 	keyWait
 	clearMsg
 	"""
 	That must be a
-	tough job⋯
+	tough job…
 	"""
 	keyWait
 	end
@@ -67359,7 +67359,7 @@ script 80 mmbn3 {
 	"""
 	There's something so
 	empty about a school
-	with no students⋯
+	with no students…
 	"""
 	keyWait
 	end
@@ -67400,7 +67400,7 @@ script 110 mmbn3 {
 	"""
 	There's something
 	missing without Dex
-	around⋯
+	around…
 	"""
 	keyWait
 	clearMsg
@@ -67476,7 +67476,7 @@ script 140 mmbn3 {
 	msgOpen
 	"""
 	An Official came by
-	a little while ago⋯
+	a little while ago…
 	"""
 	keyWait
 	clearMsg
@@ -67773,12 +67773,12 @@ script 20 mmbn3 {
 	"""
 	Ms.Mari sure is
 	cute when she's
-	angry⋯
+	angry…
 	"""
 	keyWait
 	clearMsg
 	"""
-	Huh? Oh,no⋯
+	Huh? Oh,no…
 	You didn't hear me
 	say that!
 	"""
@@ -67899,7 +67899,7 @@ script 40 mmbn3 {
 	"""
 	So you just need to
 	apply this formula
-	like this⋯
+	like this…
 	"""
 	keyWait
 	clearMsg
@@ -67917,7 +67917,7 @@ script 41 mmbn3 {
 	msgOpen
 	"""
 	So THAT'S how you
-	get the answer⋯
+	get the answer…
 	"""
 	keyWait
 	end
@@ -67990,14 +67990,14 @@ script 50 mmbn3 {
 	"""
 	Ms.Mari said that
 	she was going to
-	see a BubbleWash⋯
+	see a BubbleWash…
 	"""
 	keyWait
 	clearMsg
 	"""
 	Hmmm.
 	Maybe I should think
-	about getting one⋯
+	about getting one…
 	"""
 	keyWait
 	end
@@ -68020,7 +68020,7 @@ script 60 mmbn3 {
 	"""
 	If Ms.Mari is going
 	to the N1,maybe I'll
-	tag along,too⋯
+	tag along,too…
 	"""
 	keyWait
 	end
@@ -68130,7 +68130,7 @@ script 191 mmbn3 {
 	"""
 	The Navi should
 	be somewhere around
-	the SciLab area⋯
+	the SciLab area…
 	"""
 	keyWait
 	end
@@ -68169,7 +68169,7 @@ script 192 mmbn3 {
 	"""
 	And here's your
 	payment for your
-	services⋯
+	services…
 	"""
 	keyWait
 	clearMsg
@@ -68366,7 +68366,7 @@ script 225 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	⋯⋯⋯!
+	………!
 	Lan! Take out those
 	old tomes we got!
 	"""
@@ -68374,7 +68374,7 @@ script 225 mmbn3 {
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Huh? Why⋯?"
+	"Huh? Why…?"
 	keyWait
 	clearMsg
 	mugshotShow
@@ -68405,7 +68405,7 @@ script 225 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	⋯⋯⋯!
+	………!
 	Whoa! Cool!
 	"""
 	keyWait
@@ -68424,17 +68424,17 @@ script 225 mmbn3 {
 	keyWait
 	clearMsg
 	mugshotHide
-	"Boink⋯!"
+	"Boink…!"
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"⋯⋯⋯?"
+	"………?"
 	keyWait
 	clearMsg
 	"""
 	Awww,it's just some
-	old chip data⋯
+	old chip data…
 	"""
 	keyWait
 	clearMsg
@@ -68638,7 +68638,7 @@ script 236 mmbn3 {
 	"""
 	You find something
 	stuck in a stack of
-	papers⋯
+	papers…
 	"""
 	keyWait
 	clearMsg
@@ -68682,9 +68682,9 @@ script 240 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Let's see⋯
-	Anna Mori⋯
-	Anna Mori⋯
+	Let's see…
+	Anna Mori…
+	Anna Mori…
 	"""
 	keyWait
 	clearMsg
@@ -68701,7 +68701,7 @@ script 240 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	What's this⋯?
+	What's this…?
 	"Future dream: to
 	become a waitress"
 	"""
@@ -68709,7 +68709,7 @@ script 240 mmbn3 {
 	clearMsg
 	"""
 	A waitress? That
-	sounds familiar⋯
+	sounds familiar…
 	"""
 	keyWait
 	end
@@ -68726,7 +68726,7 @@ script 245 mmbn3 {
 	"""
 	Genuine? A fake?
 	Only the statue
-	knows⋯
+	knows…
 	"""
 	keyWait
 	end
@@ -68775,7 +68775,7 @@ script 190 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	But here's the job⋯
+	But here's the job…
 	The other day,a
 	virus bomb was sent
 	"""
@@ -68798,7 +68798,7 @@ script 190 mmbn3 {
 	"""
 	in and check every
 	suspicious place in
-	the computer⋯
+	the computer…
 	"""
 	keyWait
 	clearMsg
@@ -68838,7 +68838,7 @@ script 191 mmbn3 {
 	"""
 	I think there should
 	be about 3 of them
-	hidden in there⋯
+	hidden in there…
 	"""
 	keyWait
 	end
@@ -69059,7 +69059,7 @@ script 228 mmbn3 {
 	"""
 	He must be worried
 	about a lack of
-	daily exercise⋯
+	daily exercise…
 	"""
 	keyWait
 	end
@@ -69195,7 +69195,7 @@ script 15 mmbn3 {
 	"""
 	I'm going to ask for
 	some help. I hope my
-	teacher is here⋯
+	teacher is here…
 	"""
 	keyWait
 	end
@@ -69207,7 +69207,7 @@ script 20 mmbn3 {
 	"""
 	I'm surprised that
 	Yai made it to the
-	N1 Grand Prix⋯!
+	N1 Grand Prix…!
 	"""
 	keyWait
 	clearMsg
@@ -69373,15 +69373,15 @@ script 194 mmbn3 {
 		mugshot = Girl
 	msgOpen
 	"""
-	Oh⋯
-	Well,that's OK⋯
+	Oh…
+	Well,that's OK…
 	"""
 	keyWait
 	clearMsg
 	"""
-	But what can I do⋯?
+	But what can I do…?
 	I'm going to be in
-	biiiig trouble⋯
+	biiiig trouble…
 	"""
 	keyWait
 	end
@@ -69392,7 +69392,7 @@ script 195 mmbn3 {
 	msgOpen
 	"""
 	Hmmm,it doesn't seem
-	to be in your pack⋯
+	to be in your pack…
 	"""
 	keyWait
 	clearMsg
@@ -69405,7 +69405,7 @@ script 195 mmbn3 {
 	"""
 	If so,you'll need to
 	move it to your
-	pack first⋯
+	pack first…
 	"""
 	keyWait
 	end
@@ -69626,7 +69626,7 @@ script 11 mmbn3 {
 	msgOpen
 	"""
 	I wish my father
-	would hurry⋯
+	would hurry…
 	"""
 	keyWait
 	clearMsg
@@ -69663,14 +69663,14 @@ script 21 mmbn3 {
 	msgOpen
 	"""
 	I have a meeting
-	with DNN today⋯
+	with DNN today…
 	"""
 	keyWait
 	clearMsg
 	"""
 	Something about them
 	wanting to use
-	SciLab for the N1⋯?
+	SciLab for the N1…?
 	"""
 	keyWait
 	end
@@ -69681,7 +69681,7 @@ script 22 mmbn3 {
 	msgOpen
 	"""
 	I just met with some
-	people from DNN⋯
+	people from DNN…
 	"""
 	keyWait
 	clearMsg
@@ -69707,7 +69707,7 @@ script 30 mmbn3 {
 	msgOpen
 	"""
 	Almost nobody uses
-	these seats⋯
+	these seats…
 	"""
 	keyWait
 	end
@@ -69718,7 +69718,7 @@ script 31 mmbn3 {
 	msgOpen
 	"""
 	This station sure
-	is empty⋯
+	is empty…
 	"""
 	keyWait
 	end
@@ -69794,13 +69794,13 @@ script 56 mmbn3 {
 	"""
 	I don't have time to
 	change out of my
-	uniform⋯
+	uniform…
 	"""
 	keyWait
 	clearMsg
 	"""
 	I'll have to change
-	after I get there⋯
+	after I get there…
 	"""
 	keyWait
 	end
@@ -69843,7 +69843,7 @@ script 70 mmbn3 {
 	clearMsg
 	mugshotShow
 		mugshot = Cossak
-	"No,I didn't do much⋯"
+	"No,I didn't do much…"
 	keyWait
 	clearMsg
 	mugshotShow
@@ -69875,7 +69875,7 @@ script 70 mmbn3 {
 	mugshotShow
 		mugshot = Cossak
 	"""
-	⋯No,I just came by
+	…No,I just came by
 	to check some things
 	out.
 	"""
@@ -69914,7 +69914,7 @@ script 70 mmbn3 {
 	"""
 	that you had an
 	amazing programming
-	technique⋯
+	technique…
 	"""
 	keyWait
 	clearMsg
@@ -70057,7 +70057,7 @@ script 76 mmbn3 {
 	msgOpen
 	"""
 	What could be
-	going on⋯?
+	going on…?
 	"""
 	keyWait
 	end
@@ -70108,7 +70108,7 @@ script 79 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	⋯But it sure is
+	…But it sure is
 	hot! Mostly from the
 	fires in SciLab!
 	"""
@@ -70167,7 +70167,7 @@ script 100 mmbn3 {
 	"""
 	An amazing number of
 	people are coming to
-	SciLab today⋯
+	SciLab today…
 	"""
 	keyWait
 	clearMsg
@@ -70216,7 +70216,7 @@ script 115 mmbn3 {
 	"""
 	All out of control?
 	I can't believe it's
-	come to this⋯!
+	come to this…!
 	"""
 	keyWait
 	end
@@ -70228,14 +70228,14 @@ script 116 mmbn3 {
 	"""
 	I thought that I saw
 	Dr.Hikari going
-	into SciLab⋯
+	into SciLab…
 	"""
 	keyWait
 	clearMsg
 	"""
 	But isn't he
 	supposed to be in
-	the hospital⋯?
+	the hospital…?
 	"""
 	keyWait
 	end
@@ -70246,7 +70246,7 @@ script 120 mmbn3 {
 	msgOpen
 	"""
 	If the WWW's base is
-	somewhere overseas⋯
+	somewhere overseas…
 	"""
 	keyWait
 	clearMsg
@@ -70452,7 +70452,7 @@ script 195 mmbn3 {
 	printCode
 		buffer = 0
 		code = *
-	"\"⋯"
+	"\"…"
 	keyWait
 	clearMsg
 	"""
@@ -70463,7 +70463,7 @@ script 195 mmbn3 {
 	clearMsg
 	"""
 	I can't take it if
-	it is⋯
+	it is…
 	"""
 	keyWait
 	clearMsg
@@ -70598,7 +70598,7 @@ script 222 mmbn3 {
 	clearMsg
 	"""
 	Something has fallen
-	behind the can⋯
+	behind the can…
 	"""
 	keyWait
 	clearMsg
@@ -71076,7 +71076,7 @@ script 3 mmbn3 {
 	"""
 	The coffee from this
 	vending machine
-	isn't very good⋯
+	isn't very good…
 	"""
 	keyWait
 	end
@@ -71178,7 +71178,7 @@ script 11 mmbn3 {
 	"""
 	Sometimes these
 	scientists are so
-	hard to work with⋯
+	hard to work with…
 	"""
 	keyWait
 	end
@@ -71204,7 +71204,7 @@ script 20 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	And now⋯
+	And now…
 	Battle me!!
 	"""
 	keyWait
@@ -71299,7 +71299,7 @@ script 40 mmbn3 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Is that⋯
+	Is that…
 	Some kind of
 	experiment?
 	"""
@@ -71325,7 +71325,7 @@ script 41 mmbn3 {
 	"""
 	Those DNN people
 	said they want to
-	use SciLab for N1⋯
+	use SciLab for N1…
 	"""
 	keyWait
 	clearMsg
@@ -71340,7 +71340,7 @@ script 42 mmbn3 {
 	"""
 	That man in the Navi
 	costume ended up
-	being a normal guy⋯
+	being a normal guy…
 	"""
 	keyWait
 	end
@@ -71363,14 +71363,14 @@ script 44 mmbn3 {
 	"""
 	What happened at
 	Yoka was a work of
-	technical skill⋯
+	technical skill…
 	"""
 	keyWait
 	clearMsg
 	"""
 	Something big must
 	be behind it,I'm
-	sure⋯
+	sure…
 	"""
 	keyWait
 	end
@@ -71382,7 +71382,7 @@ script 45 mmbn3 {
 	"""
 	I hear that some
 	large organization
-	is behind all this⋯
+	is behind all this…
 	"""
 	keyWait
 	end
@@ -71400,7 +71400,7 @@ script 46 mmbn3 {
 	"""
 	So that's why that
 	man was wearing a
-	Navi costume⋯
+	Navi costume…
 	"""
 	keyWait
 	end
@@ -71451,7 +71451,7 @@ script 52 mmbn3 {
 	"""
 	I'm not sure where
 	it came from,but
-	it's on the list⋯
+	it's on the list…
 	"""
 	keyWait
 	end
@@ -71508,14 +71508,14 @@ script 57 mmbn3 {
 	"""
 	Huh? Compression?
 	Yes,we have programs
-	that do that⋯
+	that do that…
 	"""
 	keyWait
 	clearMsg
 	"""
 	But I'm sorry,we're
 	a little busy here
-	just now⋯
+	just now…
 	"""
 	keyWait
 	end
@@ -71527,14 +71527,14 @@ script 58 mmbn3 {
 	"""
 	Compress a Navi!?
 	No,normal programs
-	can't do that⋯
+	can't do that…
 	"""
 	keyWait
 	clearMsg
 	"""
 	But wait! Maybe Dr.
 	Hikari's lab could
-	manage it⋯
+	manage it…
 	"""
 	keyWait
 	end
@@ -71807,7 +71807,7 @@ script 102 mmbn3 {
 	"""
 	Thanks for your
 	help! Now I can buy
-	something to eat⋯
+	something to eat…
 	"""
 	keyWait
 	clearMsg
@@ -71880,7 +71880,7 @@ script 110 mmbn3 {
 	"""
 	Just give it to the
 	Program in there.
-	Thanks! Heh heh⋯
+	Thanks! Heh heh…
 	"""
 	keyWait
 	clearMsg
@@ -71983,8 +71983,8 @@ script 120 mmbn3 {
 	msgOpen
 	"""
 	Wow,what a long
-	meeting⋯
-	I'm exhausted⋯
+	meeting…
+	I'm exhausted…
 	"""
 	keyWait
 	end
@@ -72020,7 +72020,7 @@ script 125 mmbn3 {
 	"""
 	While SciLab escaped
 	destruction,we've
-	lost vital members⋯
+	lost vital members…
 	"""
 	keyWait
 	end
@@ -72068,7 +72068,7 @@ script 127 mmbn3 {
 	clearMsg
 	"""
 	What a courageous
-	man⋯
+	man…
 	"""
 	keyWait
 	end
@@ -72105,14 +72105,14 @@ script 131 mmbn3 {
 	"""
 	It's rumored that
 	there was a spy
-	here in SciLab⋯
+	here in SciLab…
 	"""
 	keyWait
 	clearMsg
 	"""
 	With our security,
 	it'd be tough for an
-	outsider to do it⋯
+	outsider to do it…
 	"""
 	keyWait
 	end
@@ -72124,12 +72124,12 @@ script 135 mmbn3 {
 	"""
 	Chaud? The Official?
 	I'll look up his
-	current location⋯
+	current location…
 	"""
 	keyWait
 	clearMsg
 	mugshotHide
-	"Click. Click,click⋯"
+	"Click. Click,click…"
 	keyWait
 	clearMsg
 	mugshotShow
@@ -72321,7 +72321,7 @@ script 155 mmbn3 {
 	"""
 	Of course,everyone
 	is surprised to see
-	the army come out⋯
+	the army come out…
 	"""
 	keyWait
 	clearMsg
@@ -72335,7 +72335,7 @@ script 155 mmbn3 {
 	"""
 	I don't see why such
 	a brilliant man
-	would turn to crime⋯
+	would turn to crime…
 	"""
 	keyWait
 	end
@@ -72407,7 +72407,7 @@ script 163 mmbn3 {
 	msgOpen
 	"""
 	Yup,this is just how
-	wars always start⋯
+	wars always start…
 	"""
 	keyWait
 	clearMsg
@@ -72436,14 +72436,14 @@ script 165 mmbn3 {
 	msgOpen
 	"""
 	This is what I have
-	feared the most⋯
+	feared the most…
 	"""
 	keyWait
 	clearMsg
 	"""
 	Not only the Net,but
 	all of humanity may
-	fall as a result⋯
+	fall as a result…
 	"""
 	keyWait
 	end
@@ -72462,7 +72462,7 @@ script 170 mmbn3 {
 	"""
 	I can't believe that
 	we're on the brink
-	of all-out war⋯
+	of all-out war…
 	"""
 	keyWait
 	end
@@ -72474,7 +72474,7 @@ script 171 mmbn3 {
 	"""
 	The processing power
 	of the Net has
-	fallen due to Alpha⋯
+	fallen due to Alpha…
 	"""
 	keyWait
 	clearMsg
@@ -72488,7 +72488,7 @@ script 171 mmbn3 {
 	"""
 	But there's little
 	hope unless Alpha
-	is destroyed⋯
+	is destroyed…
 	"""
 	keyWait
 	end
@@ -72504,7 +72504,7 @@ script 180 mmbn3 {
 	"""
 	I guess I could sell
 	you some of my
-	SubChips⋯
+	SubChips…
 	"""
 	keyWait
 	clearMsg
@@ -72554,7 +72554,7 @@ script 182 mmbn3 {
 	"""
 	Ooops,sorry! I've
 	forgotten to bring
-	them⋯!
+	them…!
 	"""
 	keyWait
 	end
@@ -72728,7 +72728,7 @@ script 194 mmbn3 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Hmm,that's too bad⋯
+	Hmm,that's too bad…
 	Well,tell me if you
 	change your mind!
 	"""
@@ -72739,7 +72739,7 @@ script 195 mmbn3 {
 	mugshotShow
 		mugshot = SciLabMan
 	msgOpen
-	"Hmm,I don't see it⋯"
+	"Hmm,I don't see it…"
 	keyWait
 	clearMsg
 	"""
@@ -72800,7 +72800,7 @@ script 197 mmbn3 {
 	printCode
 		buffer = 0
 		code = S
-	"\"⋯"
+	"\"…"
 	keyWait
 	clearMsg
 	mugshotHide
@@ -73075,7 +73075,7 @@ script 0 mmbn3 {
 	"""
 	we'd get away with
 	sneaking off to Net-
-	Battle here⋯
+	Battle here…
 	"""
 	keyWait
 	flagSet
@@ -73166,7 +73166,7 @@ script 4 mmbn3 {
 	"""
 	keyWait
 	clearMsg
-	"That's so cool⋯!"
+	"That's so cool…!"
 	keyWait
 	flagSet
 		flag = 836
@@ -73191,7 +73191,7 @@ script 5 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	as a textbook⋯
+	as a textbook…
 	But I think that the
 	coolest thing
 	"""
@@ -73338,7 +73338,7 @@ script 7 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Let me see⋯
+	Let me see…
 	"You can talk to
 	your Navi by
 	"""
@@ -73346,7 +73346,7 @@ script 7 mmbn3 {
 	clearMsg
 	"""
 	"pressing the PET's
-	L Button⋯"
+	L Button…"
 	"""
 	keyWait
 	flagSet
@@ -73360,7 +73360,7 @@ script 8 mmbn3 {
 	"""
 	I've never fought a
 	virus outside of
-	school⋯
+	school…
 	"""
 	keyWait
 	clearMsg
@@ -73409,9 +73409,9 @@ script 20 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Another error⋯
+	Another error…
 	Well,let me try
-	this sequence. Hmmm⋯
+	this sequence. Hmmm…
 	"""
 	keyWait
 	end
@@ -73469,7 +73469,7 @@ script 23 mmbn3 {
 	"""
 	A TV producer was
 	looking for some boy
-	named Lan⋯
+	named Lan…
 	"""
 	keyWait
 	end
@@ -73535,7 +73535,7 @@ script 41 mmbn3 {
 	"""
 	My shoulders are so
 	stiff. I need to
-	take a break⋯
+	take a break…
 	"""
 	keyWait
 	end
@@ -73569,7 +73569,7 @@ script 60 mmbn3 {
 	"""
 	Someone must be
 	making the bubbles.
-	So,if we beat them⋯
+	So,if we beat them…
 	"""
 	keyWait
 	clearMsg
@@ -73616,7 +73616,7 @@ script 65 mmbn3 {
 	"""
 	Compress a Navi?
 	Theoretically it's
-	possible,I guess⋯
+	possible,I guess…
 	"""
 	keyWait
 	clearMsg
@@ -73808,7 +73808,7 @@ script 101 mmbn3 {
 	"""
 	By definition,
 	viruses are harmful
-	to people and Navis⋯
+	to people and Navis…
 	"""
 	keyWait
 	clearMsg
@@ -73879,7 +73879,7 @@ script 110 mmbn3 {
 	"""
 	Please use this port
 	to jack in! That
-	should be fastest⋯
+	should be fastest…
 	"""
 	keyWait
 	end
@@ -73890,7 +73890,7 @@ script 111 mmbn3 {
 	msgOpen
 	"""
 	How could the WWW
-	appear here⋯?
+	appear here…?
 	"""
 	keyWait
 	end
@@ -73920,7 +73920,7 @@ script 116 mmbn3 {
 	"""
 	Thank you! Things
 	seem to have calmed
-	a bit now⋯
+	a bit now…
 	"""
 	keyWait
 	end
@@ -73943,7 +73943,7 @@ script 118 mmbn3 {
 	msgOpen
 	"""
 	And now yet another
-	meeting⋯ The WWW is
+	meeting… The WWW is
 	sure making us busy!
 	"""
 	keyWait
@@ -73968,7 +73968,7 @@ script 120 mmbn3 {
 	clearMsg
 	"""
 	Well,let's get right
-	to work⋯
+	to work…
 	"""
 	keyWait
 	clearMsg
@@ -74084,13 +74084,13 @@ script 124 mmbn3 {
 	msgOpen
 	"""
 	What could the
-	WWW want⋯?
+	WWW want…?
 	"""
 	keyWait
 	clearMsg
 	"""
 	Why would they
-	attack a hospital⋯?
+	attack a hospital…?
 	"""
 	keyWait
 	end
@@ -74124,7 +74124,7 @@ script 126 mmbn3 {
 	"""
 	Hmm,I don't know
 	anyone who fits that
-	description⋯
+	description…
 	"""
 	keyWait
 	clearMsg
@@ -74152,7 +74152,7 @@ script 126 mmbn3 {
 	"."
 	waitSkip
 		frames = 30
-	"\nNo,it couldn't be⋯"
+	"\nNo,it couldn't be…"
 	keyWait
 	clearMsg
 	"""
@@ -74208,7 +74208,7 @@ script 132 mmbn3 {
 	"""
 	I'll contact you if
 	there's any further
-	developments⋯
+	developments…
 	"""
 	keyWait
 	end
@@ -74326,7 +74326,7 @@ script 136 mmbn3 {
 	printEnemyName
 		buffer = 0
 		enemy = 1
-	"⋯"
+	"…"
 	keyWait
 	clearMsg
 	checkFlag
@@ -74400,7 +74400,7 @@ script 137 mmbn3 {
 	printEnemyName
 		buffer = 0
 		enemy = 37
-	"⋯"
+	"…"
 	keyWait
 	clearMsg
 	checkFlag
@@ -74474,7 +74474,7 @@ script 138 mmbn3 {
 	printEnemyName
 		buffer = 0
 		enemy = 13
-	"⋯"
+	"…"
 	keyWait
 	clearMsg
 	checkFlag
@@ -74548,7 +74548,7 @@ script 139 mmbn3 {
 	printEnemyName
 		buffer = 0
 		enemy = 33
-	"⋯"
+	"…"
 	keyWait
 	clearMsg
 	checkFlag
@@ -74622,7 +74622,7 @@ script 140 mmbn3 {
 	printEnemyName
 		buffer = 0
 		enemy = 49
-	"⋯"
+	"…"
 	keyWait
 	clearMsg
 	checkFlag
@@ -74696,7 +74696,7 @@ script 141 mmbn3 {
 	printEnemyName
 		buffer = 0
 		enemy = 25
-	"⋯"
+	"…"
 	keyWait
 	clearMsg
 	checkFlag
@@ -74770,7 +74770,7 @@ script 142 mmbn3 {
 	printEnemyName
 		buffer = 0
 		enemy = 87
-	"⋯"
+	"…"
 	keyWait
 	clearMsg
 	checkFlag
@@ -74844,7 +74844,7 @@ script 143 mmbn3 {
 	printEnemyName
 		buffer = 0
 		enemy = 91
-	"⋯"
+	"…"
 	keyWait
 	clearMsg
 	checkFlag
@@ -74919,7 +74919,7 @@ script 144 mmbn3 {
 		buffer = 0
 		enemy = 73
 	"""
-	⋯
+	…
 	Sounds misterious
 	"""
 	keyWait
@@ -75054,7 +75054,7 @@ script 146 mmbn3 {
 	mugshotShow
 		mugshot = SciLabMan
 	msgOpen
-	"And that's all⋯"
+	"And that's all…"
 	keyWait
 	clearMsg
 	"""
@@ -75347,7 +75347,7 @@ script 190 mmbn3 {
 	clearMsg
 	"""
 	You see,I have this
-	little problem⋯
+	little problem…
 	"""
 	keyWait
 	clearMsg
@@ -75604,7 +75604,7 @@ script 0 mmbn3 {
 	"""
 	Um,is my dad around?
 	I'd like him to take
-	a look at my PET⋯
+	a look at my PET…
 	"""
 	keyWait
 	clearMsg
@@ -75620,7 +75620,7 @@ script 0 mmbn3 {
 	"""
 	Your PET is a custom
 	job,so he'd have to
-	fix it personally⋯
+	fix it personally…
 	"""
 	keyWait
 	clearMsg
@@ -75655,7 +75655,7 @@ script 0 mmbn3 {
 		mugshot = Lan
 	"""
 	Thank you!
-	But,my dad⋯
+	But,my dad…
 	"""
 	keyWait
 	clearMsg
@@ -75673,7 +75673,7 @@ script 0 mmbn3 {
 	"""
 	Should we go home,
 	then? Dad can check
-	out the PET later⋯
+	out the PET later…
 	"""
 	keyWait
 	clearMsg
@@ -75798,7 +75798,7 @@ script 20 mmbn3 {
 	clearMsg
 	"""
 	I'm sorry,I'm a bit
-	busy just now⋯
+	busy just now…
 	"""
 	keyWait
 	clearMsg
@@ -75914,7 +75914,7 @@ script 32 mmbn3 {
 	msgOpen
 	"""
 	Hmm,I have to finish
-	this paper by today⋯
+	this paper by today…
 	"""
 	keyWait
 	clearMsg
@@ -75961,14 +75961,14 @@ script 36 mmbn3 {
 	"""
 	Quite a chip off the
 	old block,eh? That's
-	an interesting idea⋯
+	an interesting idea…
 	"""
 	keyWait
 	clearMsg
 	"""
 	Yes,that would
 	certainly be
-	possible⋯
+	possible…
 	"""
 	keyWait
 	clearMsg
@@ -75980,7 +75980,7 @@ script 36 mmbn3 {
 	printItem
 		buffer = 0
 		item = 13
-	"\"⋯"
+	"\"…"
 	keyWait
 	clearMsg
 	"""
@@ -76053,7 +76053,7 @@ script 42 mmbn3 {
 	"""
 	What bad timing,to
 	have this occur with
-	Dr.Hikari away⋯
+	Dr.Hikari away…
 	"""
 	keyWait
 	end
@@ -76131,8 +76131,8 @@ script 52 mmbn3 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Whew⋯ I get tired
-	just watching this⋯
+	Whew… I get tired
+	just watching this…
 	"""
 	keyWait
 	end
@@ -76218,7 +76218,7 @@ script 61 mmbn3 {
 	"""
 	Dr.Hikari is in a
 	meeting. It could
-	last quite a while⋯
+	last quite a while…
 	"""
 	keyWait
 	end
@@ -76230,7 +76230,7 @@ script 70 mmbn3 {
 	"""
 	Yesterday,I met the
 	president of IPC. He
-	looks so familiar⋯
+	looks so familiar…
 	"""
 	keyWait
 	end
@@ -76467,7 +76467,7 @@ script 103 mmbn3 {
 	msgOpen
 	"""
 	Now I have to get to
-	some other business⋯
+	some other business…
 	See you around,kid!
 	"""
 	keyWait
@@ -76485,7 +76485,7 @@ script 111 mmbn3 {
 	"""
 	Are you Lan?
 	Please excuse my
-	outfit⋯
+	outfit…
 	"""
 	keyWait
 	clearMsg
@@ -76513,7 +76513,7 @@ script 112 mmbn3 {
 	"""
 	Oh,you're here!
 	I'm the one who
-	called you⋯
+	called you…
 	"""
 	keyWait
 	clearMsg
@@ -76926,7 +76926,7 @@ script 35 mmbn3 {
 	"""
 	I saw some guy in a
 	Navi outfit go
-	outside⋯
+	outside…
 	"""
 	keyWait
 	end
@@ -76945,7 +76945,7 @@ script 40 mmbn3 {
 	"""
 	At times like
 	this,I'm usually
-	right⋯
+	right…
 	"""
 	keyWait
 	end
@@ -76964,7 +76964,7 @@ script 45 mmbn3 {
 	"""
 	We've got to warn
 	everyone!
-	⋯Huh? Where'd he go?
+	…Huh? Where'd he go?
 	"""
 	keyWait
 	end
@@ -76976,7 +76976,7 @@ script 50 mmbn3 {
 	"""
 	I was right not to
 	tell others about
-	the trouble⋯I think.
+	the trouble…I think.
 	"""
 	keyWait
 	end
@@ -77154,7 +77154,7 @@ script 90 mmbn3 {
 	"""
 	I just hope no more
 	incidents happen in
-	Yoka⋯
+	Yoka…
 	"""
 	keyWait
 	end
@@ -77164,7 +77164,7 @@ script 95 mmbn3 {
 		mugshot = MetrolineMan
 	msgOpen
 	"""
-	Whew⋯! The Metroline
+	Whew…! The Metroline
 	is safe! The crisis
 	seems to be over.
 	"""
@@ -77185,7 +77185,7 @@ script 100 mmbn3 {
 	"""
 	They've suffered so
 	much. I guess it's
-	a natural reaction⋯
+	a natural reaction…
 	"""
 	keyWait
 	end
@@ -77964,7 +77964,7 @@ script 224 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"No⋯"
+	"No…"
 	select
 		default = 0
 		BSeparate = false
@@ -78034,7 +78034,7 @@ script 225 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"I'd better not⋯"
+	"I'd better not…"
 	keyWait
 	end
 }
@@ -78042,7 +78042,7 @@ script 226 mmbn3 {
 	msgOpen
 	"""
 	I don't have enough
-	Zennys⋯
+	Zennys…
 	"""
 	keyWait
 	end
@@ -78381,7 +78381,7 @@ script 2 mmbn3 {
 	"""
 	This is fun,Lan! I
 	never heard of this
-	traditional game⋯
+	traditional game…
 	"""
 	keyWait
 	clearMsg
@@ -78497,7 +78497,7 @@ script 12 mmbn3 {
 	mugshotShow
 		mugshot = CapBoy
 	msgOpen
-	"I like the monkey⋯"
+	"I like the monkey…"
 	keyWait
 	end
 }
@@ -78582,7 +78582,7 @@ script 17 mmbn3 {
 	msgOpen
 	"""
 	Let's see,one for me
-	and one for grandpa⋯
+	and one for grandpa…
 	Two adults,then!
 	"""
 	keyWait
@@ -78766,7 +78766,7 @@ script 40 mmbn3 {
 	"""
 	Hmph! I expected
 	things to look a lot
-	worse⋯
+	worse…
 	"""
 	keyWait
 	end
@@ -78831,7 +78831,7 @@ script 44 mmbn3 {
 	"""
 	So this is the tower
 	the condor left that
-	child on⋯
+	child on…
 	"""
 	keyWait
 	clearMsg
@@ -78926,7 +78926,7 @@ script 48 mmbn3 {
 	clearMsg
 	"""
 	Mr.Famous to take a
-	vacation⋯!
+	vacation…!
 	(Grumble,grumble!)
 	"""
 	keyWait
@@ -79058,7 +79058,7 @@ script 52 mmbn3 {
 	clearMsg
 	"""
 	Oh,I'll never finish
-	in time⋯
+	in time…
 	"""
 	keyWait
 	clearMsg
@@ -79132,7 +79132,7 @@ script 60 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	⋯
+	…
 	What is this?
 	"""
 	keyWait
@@ -79271,7 +79271,7 @@ script 68 mmbn3 {
 	waitSkip
 		frames = 30
 	"""
-	Ahhhh⋯
+	Ahhhh…
 	Peace is wonderful!
 	"""
 	keyWait
@@ -79343,14 +79343,14 @@ script 72 mmbn3 {
 		mugshot = MetrolineMan
 	msgOpen
 	"""
-	⋯and telling the zoo
+	…and telling the zoo
 	visitors would just
-	cause panic⋯
+	cause panic…
 	"""
 	keyWait
 	clearMsg
 	"""
-	⋯Hey! What are you
+	…Hey! What are you
 	doing!? It's not
 	polite to eavesdrop!
 	"""
@@ -79362,7 +79362,7 @@ script 73 mmbn3 {
 		mugshot = ZooMan
 	msgOpen
 	"""
-	⋯I guess. I feel bad
+	…I guess. I feel bad
 	for the visitors,
 	but I suppose it's
 	"""
@@ -79371,7 +79371,7 @@ script 73 mmbn3 {
 	"""
 	better than causing
 	a panic where more
-	people may get hurt⋯
+	people may get hurt…
 	"""
 	keyWait
 	end
@@ -79382,7 +79382,7 @@ script 74 mmbn3 {
 	msgOpen
 	"""
 	What are those two
-	whispering about⋯?
+	whispering about…?
 	"""
 	keyWait
 	end
@@ -79415,7 +79415,7 @@ script 77 mmbn3 {
 	mugshotShow
 		mugshot = PigtailsGirl
 	msgOpen
-	"I'm sorry⋯"
+	"I'm sorry…"
 	keyWait
 	end
 }
@@ -79445,7 +79445,7 @@ script 78 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Sigh⋯
+	Sigh…
 	I bet Mr.Famous is
 	relaxing in the sun.
 	"""
@@ -79475,7 +79475,7 @@ script 79 mmbn3 {
 	"""
 	I should go and see.
 	First,though,let me
-	tell you something⋯
+	tell you something…
 	"""
 	keyWait
 	clearMsg
@@ -79508,7 +79508,7 @@ script 81 mmbn3 {
 	"""
 	At least you weren't
 	caught in the
-	bubbles⋯
+	bubbles…
 	"""
 	keyWait
 	end
@@ -79574,7 +79574,7 @@ script 86 mmbn3 {
 	msgOpen
 	"""
 	I'm glad no one
-	panicked this time⋯
+	panicked this time…
 	"""
 	keyWait
 	end
@@ -79608,12 +79608,12 @@ script 87 mmbn3 {
 	"""
 	keyWait
 	clearMsg
-	"It's really too bad⋯"
+	"It's really too bad…"
 	keyWait
 	clearMsg
 	"""
 	Anyway,changing the
-	subject⋯
+	subject…
 	"""
 	keyWait
 	clearMsg
@@ -79633,7 +79633,7 @@ script 88 mmbn3 {
 	clearMsg
 	"""
 	However,there was no
-	time for me to act⋯
+	time for me to act…
 	"""
 	keyWait
 	clearMsg
@@ -79647,7 +79647,7 @@ script 88 mmbn3 {
 	"""
 	I really wanted to
 	solve that incident,
-	too,but⋯
+	too,but…
 	"""
 	keyWait
 	clearMsg
@@ -79796,16 +79796,16 @@ script 124 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Now,let's see⋯
+	Now,let's see…
 	If I install this
-	program here⋯
+	program here…
 	"""
 	keyWait
 	clearMsg
 	"""
 	I think it just
 	might give Punk a
-	nice power boost⋯
+	nice power boost…
 	"""
 	keyWait
 	end
@@ -79857,7 +79857,7 @@ script 128 mmbn3 {
 	"""
 	This ain't the old
 	GutsMan! Prepare to
-	fight⋯Neo GutsMan!
+	fight…Neo GutsMan!
 	"""
 	keyWait
 	clearMsg
@@ -79925,9 +79925,9 @@ script 133 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Wait a second⋯
+	Wait a second…
 	I know what I have
-	to modify⋯
+	to modify…
 	"""
 	keyWait
 	end
@@ -79937,9 +79937,9 @@ script 134 mmbn3 {
 		mugshot = MrFamous
 	msgOpen
 	"""
-	I-I can't believe⋯!
+	I-I can't believe…!
 	You defeated my best
-	custom model⋯
+	custom model…
 	"""
 	keyWait
 	clearMsg
@@ -79962,7 +79962,7 @@ script 135 mmbn3 {
 	mugshotShow
 		mugshot = MrFamous
 	msgOpen
-	"Hmm⋯"
+	"Hmm…"
 	keyWait
 	end
 }
@@ -80299,7 +80299,7 @@ script 202 mmbn3 {
 	msgOpen
 	"""
 	When chip codes are
-	in sequence (ABC⋯)
+	in sequence (ABC…)
 	like cannons,
 	"""
 	keyWait
@@ -80822,7 +80822,7 @@ script 221 mmbn3 {
 	"""
 	Perhaps it's the
 	dream of winning
-	that counts⋯
+	that counts…
 	"""
 	keyWait
 	end
@@ -81121,7 +81121,7 @@ script 240 mmbn3 {
 	"""
 	I only thought
 	cracks endangered
-	mothers' backs⋯
+	mothers' backs…
 	"""
 	keyWait
 	end
@@ -81140,7 +81140,7 @@ script 241 mmbn3 {
 	"""
 	your MegaBuster! Of
 	course,getting close
-	to enemies is scary⋯
+	to enemies is scary…
 	"""
 	keyWait
 	end
@@ -81166,7 +81166,7 @@ script 242 mmbn3 {
 	"""
 	Then again,maybe
 	I'm just imagining
-	things⋯
+	things…
 	"""
 	keyWait
 	end
@@ -81236,7 +81236,7 @@ script 245 mmbn3 {
 	"""
 	not damaging it! I
 	used to just keep
-	firing away⋯
+	firing away…
 	"""
 	keyWait
 	end
@@ -81330,9 +81330,9 @@ script 248 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Let's see. A cannon⋯
-	A shotgun,I think⋯
-	And,uh⋯?
+	Let's see. A cannon…
+	A shotgun,I think…
+	And,uh…?
 	"""
 	keyWait
 	clearMsg
@@ -81471,7 +81471,7 @@ script 254 mmbn3 {
 	"""
 	However,they made me
 	promise to keep it a
-	secret⋯
+	secret…
 	"""
 	keyWait
 	clearMsg
@@ -81485,7 +81485,7 @@ script 254 mmbn3 {
 	waitSkip
 		frames = 30
 	"""
-	Ohhh! But⋯
+	Ohhh! But…
 	.
 	"""
 	waitSkip
@@ -81557,7 +81557,7 @@ script 0 mmbn3 {
 	"""
 	But tomorrow,every-
 	one will be at the
-	N1. Hmm⋯
+	N1. Hmm…
 	"""
 	keyWait
 	end
@@ -81832,9 +81832,9 @@ script 11 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	⋯Maybe I should have
+	…Maybe I should have
 	opened my stand
-	somewhere else⋯
+	somewhere else…
 	"""
 	keyWait
 	end
@@ -81870,7 +81870,7 @@ script 14 mmbn3 {
 	"""
 	Everyone and their
 	Navi is talking
-	about the N1⋯
+	about the N1…
 	"""
 	keyWait
 	clearMsg
@@ -81899,7 +81899,7 @@ script 14 mmbn3 {
 	clearMsg
 	"""
 	working at all!
-	By the way⋯
+	By the way…
 	"""
 	keyWait
 	clearMsg
@@ -81941,7 +81941,7 @@ script 15 mmbn3 {
 	"""
 	Now,then,here's a
 	bit of advice that
-	may help you⋯
+	may help you…
 	"""
 	keyWait
 	clearMsg
@@ -81983,8 +81983,8 @@ script 20 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Like,like⋯I was at
-	the N1,and⋯Hmmm.
+	Like,like…I was at
+	the N1,and…Hmmm.
 	No no. Too risky.
 	"""
 	keyWait
@@ -82048,7 +82048,7 @@ script 25 mmbn3 {
 	"""
 	What with that
 	incident where they
-	escaped and all⋯
+	escaped and all…
 	"""
 	keyWait
 	clearMsg
@@ -82136,7 +82136,7 @@ script 29 mmbn3 {
 	"""
 	That said,allow
 	me to share some
-	info with you⋯
+	info with you…
 	"""
 	keyWait
 	clearMsg
@@ -82157,7 +82157,7 @@ script 30 mmbn3 {
 	"""
 	I've got to hurry up
 	and make those
-	adjustments to Punk⋯
+	adjustments to Punk…
 	"""
 	keyWait
 	clearMsg
@@ -82277,7 +82277,7 @@ script 40 mmbn3 {
 	"""
 	The age has come
 	where science can
-	even control plants⋯
+	even control plants…
 	"""
 	keyWait
 	clearMsg
@@ -82288,7 +82288,7 @@ script 40 mmbn3 {
 	"""
 	keyWait
 	clearMsg
-	"Oh,yeah⋯"
+	"Oh,yeah…"
 	keyWait
 	clearMsg
 	jump
@@ -82392,7 +82392,7 @@ script 46 mmbn3 {
 	"""
 	The Officials are
 	working hard,but
-	even still⋯
+	even still…
 	"""
 	keyWait
 	clearMsg
@@ -82443,7 +82443,7 @@ script 48 mmbn3 {
 	"""
 	What's all the
 	ruckus? Maybe I'd
-	better evacuate too⋯
+	better evacuate too…
 	"""
 	keyWait
 	clearMsg
@@ -82502,7 +82502,7 @@ script 53 mmbn3 {
 	"""
 	keyWait
 	clearMsg
-	"At any rate⋯"
+	"At any rate…"
 	keyWait
 	clearMsg
 	jump
@@ -82562,7 +82562,7 @@ script 55 mmbn3 {
 	"""
 	Oops!
 	I said that too
-	loud⋯
+	loud…
 	"""
 	keyWait
 	clearMsg
@@ -82698,7 +82698,7 @@ script 73 mmbn3 {
 	clearMsg
 	"""
 	Maybe talking will
-	help ease my fears⋯
+	help ease my fears…
 	"""
 	keyWait
 	clearMsg
@@ -82852,7 +82852,7 @@ script 90 mmbn3 {
 	"""
 	Electopia getting
 	attacked is just a
-	matter of time⋯
+	matter of time…
 	"""
 	keyWait
 	end
@@ -83157,16 +83157,16 @@ script 124 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Now,let's see⋯
+	Now,let's see…
 	If I install this
-	program here⋯
+	program here…
 	"""
 	keyWait
 	clearMsg
 	"""
 	I think it just
 	might give Punk a
-	nice power boost⋯
+	nice power boost…
 	"""
 	keyWait
 	end
@@ -83218,7 +83218,7 @@ script 128 mmbn3 {
 	"""
 	This ain't the old
 	GutsMan! Prepare to
-	fight⋯Neo GutsMan!
+	fight…Neo GutsMan!
 	"""
 	keyWait
 	clearMsg
@@ -83286,9 +83286,9 @@ script 133 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Wait a second⋯
+	Wait a second…
 	I know what I have
-	to modify⋯
+	to modify…
 	"""
 	keyWait
 	end
@@ -83298,9 +83298,9 @@ script 134 mmbn3 {
 		mugshot = MrFamous
 	msgOpen
 	"""
-	I-I can't believe⋯!
+	I-I can't believe…!
 	You defeated my best
-	custom model⋯
+	custom model…
 	"""
 	keyWait
 	clearMsg
@@ -83323,7 +83323,7 @@ script 135 mmbn3 {
 	mugshotShow
 		mugshot = MrFamous
 	msgOpen
-	"Hmm⋯"
+	"Hmm…"
 	keyWait
 	end
 }
@@ -83413,7 +83413,7 @@ script 182 mmbn3 {
 	msgOpen
 	"""
 	Ooops,I forgot to
-	bring 'em with me⋯!
+	bring 'em with me…!
 	"""
 	keyWait
 	end
@@ -83659,7 +83659,7 @@ script 202 mmbn3 {
 	msgOpen
 	"""
 	When chip codes are
-	in sequence (ABC⋯)
+	in sequence (ABC…)
 	like cannons,
 	"""
 	keyWait
@@ -84182,7 +84182,7 @@ script 221 mmbn3 {
 	"""
 	Perhaps it's the
 	dream of winning
-	that counts⋯
+	that counts…
 	"""
 	keyWait
 	end
@@ -84481,7 +84481,7 @@ script 240 mmbn3 {
 	"""
 	I only thought
 	cracks endangered
-	mothers' backs⋯
+	mothers' backs…
 	"""
 	keyWait
 	end
@@ -84500,7 +84500,7 @@ script 241 mmbn3 {
 	"""
 	your MegaBuster! Of
 	course,getting close
-	to enemies is scary⋯
+	to enemies is scary…
 	"""
 	keyWait
 	end
@@ -84526,7 +84526,7 @@ script 242 mmbn3 {
 	"""
 	Then again,maybe
 	I'm just imagining
-	things⋯
+	things…
 	"""
 	keyWait
 	end
@@ -84596,7 +84596,7 @@ script 245 mmbn3 {
 	"""
 	not damaging it! I
 	used to just keep
-	firing away⋯
+	firing away…
 	"""
 	keyWait
 	end
@@ -84690,9 +84690,9 @@ script 248 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Let's see. A cannon⋯
-	A shotgun,I think⋯
-	And,uh⋯?
+	Let's see. A cannon…
+	A shotgun,I think…
+	And,uh…?
 	"""
 	keyWait
 	clearMsg
@@ -84831,7 +84831,7 @@ script 254 mmbn3 {
 	"""
 	However,they made me
 	promise to keep it a
-	secret⋯
+	secret…
 	"""
 	keyWait
 	clearMsg
@@ -84845,7 +84845,7 @@ script 254 mmbn3 {
 	waitSkip
 		frames = 30
 	"""
-	Ohhh! But⋯
+	Ohhh! But…
 	.
 	"""
 	waitSkip
@@ -85232,7 +85232,7 @@ script 46 mmbn3 {
 	msgOpen
 	"""
 	Honey,please be
-	careful⋯
+	careful…
 	"""
 	keyWait
 	end
@@ -85335,7 +85335,7 @@ script 70 mmbn3 {
 	"""
 	I'm afraid one day
 	something really bad
-	is going to happen⋯
+	is going to happen…
 	"""
 	keyWait
 	end
@@ -85354,7 +85354,7 @@ script 71 mmbn3 {
 	"""
 	appeared on TV in
 	the N1,but I guess
-	I was wrong⋯
+	I was wrong…
 	"""
 	keyWait
 	clearMsg
@@ -85385,8 +85385,8 @@ script 76 mmbn3 {
 		mugshot = OldMan
 	msgOpen
 	"""
-	Oh,no⋯
-	Oh,no⋯
+	Oh,no…
+	Oh,no…
 	"""
 	keyWait
 	end
@@ -85418,7 +85418,7 @@ script 79 mmbn3 {
 	mugshotShow
 		mugshot = PigtailsGirl
 	msgOpen
-	"I'm scared⋯"
+	"I'm scared…"
 	keyWait
 	end
 }
@@ -85512,8 +85512,8 @@ script 91 mmbn3 {
 		mugshot = Tamako
 	msgOpen
 	"""
-	Exploding bubbles⋯
-	Fires on the Net⋯
+	Exploding bubbles…
+	Fires on the Net…
 	This is the end!
 	"""
 	keyWait
@@ -85527,7 +85527,7 @@ script 95 mmbn3 {
 	msgOpen
 	"""
 	The army told every-
-	one to stay inside⋯
+	one to stay inside…
 	This is bad for
 	"""
 	keyWait
@@ -85695,7 +85695,7 @@ script 107 mmbn3 {
 	"""
 	It's not just the
 	same old GutsMan!
-	It's⋯Neo GutsMan!
+	It's…Neo GutsMan!
 	"""
 	keyWait
 	clearMsg
@@ -85744,7 +85744,7 @@ script 111 mmbn3 {
 		mugshot = Tamako
 	msgOpen
 	"""
-	How⋯!?
+	How…!?
 	How could my
 	MetalMan lose?
 	"""
@@ -85771,7 +85771,7 @@ script 112 mmbn3 {
 	"""
 	I was sure that
 	those customizations
-	would do the trick⋯
+	would do the trick…
 	"""
 	keyWait
 	clearMsg
@@ -85815,9 +85815,9 @@ script 113 mmbn3 {
 		mugshot = Tamako
 	msgOpen
 	"""
-	Wow⋯! All of that
+	Wow…! All of that
 	custom work,and he
-	STILL can't win⋯
+	STILL can't win…
 	"""
 	keyWait
 	end
@@ -85826,7 +85826,7 @@ script 114 mmbn3 {
 	mugshotShow
 		mugshot = Tamako
 	msgOpen
-	"⋯⋯"
+	"……"
 	keyWait
 	end
 }
@@ -86154,7 +86154,7 @@ script 200 mmbn3 {
 		mugshot = OldWoman
 	msgOpen
 	"""
-	Oh,my aching back⋯
+	Oh,my aching back…
 	Hi there,sonny! You
 	came for my request?
 	"""
@@ -86315,7 +86315,7 @@ script 202 mmbn3 {
 	"""
 	I think he had
 	business in some
-	square somewhere⋯
+	square somewhere…
 	"""
 	keyWait
 	end
@@ -86367,7 +86367,7 @@ script 204 mmbn3 {
 	"""
 	trouble! Here's
 	something for
-	helping me out⋯
+	helping me out…
 	"""
 	keyWait
 	clearMsg
@@ -86449,7 +86449,7 @@ script 221 mmbn3 {
 	clearMsg
 	"""
 	And upon closer
-	inspection⋯
+	inspection…
 	you can jack in!
 	"""
 	keyWait
@@ -86544,7 +86544,7 @@ script 1 mmbn3 {
 	"""
 	Seems they're on a
 	school trip. So much
-	for peace and quiet⋯
+	for peace and quiet…
 	"""
 	keyWait
 	end
@@ -86638,7 +86638,7 @@ script 30 mmbn3 {
 	"""
 	One guest left in a
 	hurry. He might have
-	forgotten something⋯
+	forgotten something…
 	"""
 	keyWait
 	end
@@ -86676,7 +86676,7 @@ script 35 mmbn3 {
 	"""
 	They were talking
 	about the N1.
-	It's fascinating⋯
+	It's fascinating…
 	"""
 	keyWait
 	end
@@ -86742,7 +86742,7 @@ script 52 mmbn3 {
 	"""
 	I don't think that's
 	any cause for
-	evacuation⋯
+	evacuation…
 	"""
 	keyWait
 	end
@@ -86772,7 +86772,7 @@ script 60 mmbn3 {
 	"""
 	Local legend says
 	that can ward off
-	evil⋯
+	evil…
 	"""
 	keyWait
 	end
@@ -86888,7 +86888,7 @@ script 72 mmbn3 {
 	msgOpen
 	"""
 	I hope Koetsu is
-	doing okay⋯
+	doing okay…
 	"""
 	keyWait
 	end
@@ -86980,7 +86980,7 @@ script 110 mmbn3 {
 	"""
 	That family playing
 	gin rummy is still
-	here,though⋯
+	here,though…
 	"""
 	keyWait
 	clearMsg
@@ -87102,7 +87102,7 @@ script 135 mmbn3 {
 	"""
 	The refugees all
 	seem to be
-	exhausted⋯
+	exhausted…
 	"""
 	keyWait
 	end
@@ -87195,7 +87195,7 @@ script 190 mmbn3 {
 	"""
 	Oh,you were just
 	messing with my
-	emotions⋯
+	emotions…
 	"""
 	keyWait
 	clearMsg
@@ -87411,7 +87411,7 @@ script 197 mmbn3 {
 	mugshotShow
 		mugshot = InnMan
 	msgOpen
-	"Oh,wait⋯"
+	"Oh,wait…"
 	keyWait
 	clearMsg
 	"""
@@ -87424,7 +87424,7 @@ script 197 mmbn3 {
 	"""
 	I guess it's too
 	much money for a kid
-	to have⋯
+	to have…
 	"""
 	keyWait
 	end
@@ -87472,7 +87472,7 @@ script 198 mmbn3 {
 	"""
 	You seem to enjoy
 	teasing people in
-	need⋯
+	need…
 	"""
 	keyWait
 	end
@@ -87541,7 +87541,7 @@ script 223 mmbn3 {
 script 224 mmbn3 {
 	msgOpen
 	"""
-	"BANG!"⋯A shot fired
+	"BANG!"…A shot fired
 	to scare off boars
 	echoes nearby
 	"""
@@ -87579,7 +87579,7 @@ script 250 mmbn3 {
 	"""
 	about! Hmm. There's
 	some kind of message
-	written here⋯
+	written here…
 	"""
 	keyWait
 	clearMsg
@@ -87609,14 +87609,14 @@ script 251 mmbn3 {
 	"""
 	It doesn't look like
 	there are any more
-	viruses⋯
+	viruses…
 	"""
 	keyWait
 	clearMsg
 	"""
 	"Demonic fire that
 	boils water"?
-	Hmmm⋯
+	Hmmm…
 	"""
 	keyWait
 	end
@@ -87737,7 +87737,7 @@ script 45 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Atchoo! Ooohh⋯
+	Atchoo! Ooohh…
 	I was waiting for
 	this all day!
 	"""
@@ -88406,7 +88406,7 @@ script 12 mmbn3 {
 	"""
 	My Navi's never gone
 	through a style
-	change⋯
+	change…
 	"""
 	keyWait
 	clearMsg
@@ -88429,7 +88429,7 @@ script 30 mmbn3 {
 	"""
 	keyWait
 	clearMsg
-	"Sniff⋯! Sniff⋯!"
+	"Sniff…! Sniff…!"
 	keyWait
 	end
 }
@@ -88643,7 +88643,7 @@ script 53 mmbn3 {
 	msgOpen
 	"""
 	Let's see. These
-	three go together⋯
+	three go together…
 	"""
 	keyWait
 	end
@@ -88996,7 +88996,7 @@ script 102 mmbn3 {
 	mugshotShow
 		mugshot = PigtailsGirl
 	msgOpen
-	"⋯⋯"
+	"……"
 	keyWait
 	clearMsg
 	mugshotHide
@@ -89077,7 +89077,7 @@ script 108 mmbn3 {
 	"""
 	I thought that club
 	was a spade!
-	Aw,man⋯!
+	Aw,man…!
 	"""
 	keyWait
 	end
@@ -89263,7 +89263,7 @@ script 127 mmbn3 {
 	"""
 	I can hear the cards
 	telling me what to
-	play⋯
+	play…
 	"""
 	keyWait
 	clearMsg
@@ -89349,7 +89349,7 @@ script 132 mmbn3 {
 	clearMsg
 	"""
 	Maybe it's too much
-	to expect⋯
+	to expect…
 	"""
 	keyWait
 	end
@@ -89504,13 +89504,13 @@ script 227 mmbn3 {
 }
 script 228 mmbn3 {
 	msgOpen
-	"ZZzzzzzz⋯"
+	"ZZzzzzzz…"
 	keyWait
 	end
 }
 script 229 mmbn3 {
 	msgOpen
-	"Zzzznkkk⋯"
+	"Zzzznkkk…"
 	keyWait
 	end
 }
@@ -89522,7 +89522,7 @@ script 230 mmbn3 {
 }
 script 231 mmbn3 {
 	msgOpen
-	"ZZZ⋯"
+	"ZZZ…"
 	keyWait
 	end
 }
@@ -89606,7 +89606,7 @@ script 237 mmbn3 {
 	clearMsg
 	"""
 	If you can just
-	reach in⋯
+	reach in…
 	"""
 	keyWait
 	clearMsg
@@ -89749,7 +89749,7 @@ script 20 mmbn3 {
 	mugshotShow
 		mugshot = OrangeShirtBoy
 	msgOpen
-	"⋯"
+	"…"
 	keyWait
 	clearMsg
 	jump
@@ -90083,7 +90083,7 @@ script 193 mmbn3 {
 	"""
 	At the mini cake
 	stand in front of
-	the zoo⋯
+	the zoo…
 	"""
 	keyWait
 	clearMsg
@@ -90836,7 +90836,7 @@ script 227 mmbn3 {
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"I wonder⋯"
+	"I wonder…"
 	keyWait
 	clearMsg
 	mugshotShow
@@ -90844,7 +90844,7 @@ script 227 mmbn3 {
 	"""
 	Attention,ACDC
 	School students in
-	class 5-A⋯
+	class 5-A…
 	"""
 	keyWait
 	clearMsg
@@ -90976,7 +90976,7 @@ script 11 mmbn3 {
 	"""
 	My girlfriend's
 	late. Wonder what's
-	keeping her⋯?
+	keeping her…?
 	"""
 	keyWait
 	end
@@ -91133,8 +91133,8 @@ script 22 mmbn3 {
 		mugshot = OldWoman
 	msgOpen
 	"""
-	Oh,my⋯
-	My dear⋯
+	Oh,my…
+	My dear…
 	"""
 	keyWait
 	end
@@ -91262,7 +91262,7 @@ script 40 mmbn3 {
 		mugshot = Lan
 	mugshotAnimate
 		animation = 0
-	"Hmmmm⋯"
+	"Hmmmm…"
 	keyWait
 	clearMsg
 	mugshotShow
@@ -91270,7 +91270,7 @@ script 40 mmbn3 {
 	"""
 	Actually,I have
 	nothing to do with
-	N1⋯! Heh,heh⋯
+	N1…! Heh,heh…
 	"""
 	keyWait
 	clearMsg
@@ -91345,7 +91345,7 @@ script 40 mmbn3 {
 	clearMsg
 	"""
 	Now that you know my
-	true identity⋯I'll
+	true identity…I'll
 	have to delete you!
 	"""
 	keyWait
@@ -91742,7 +91742,7 @@ script 93 mmbn3 {
 	clearMsg
 	"""
 	Nothing odd about me
-	I'm just an,um⋯
+	I'm just an,um…
 	A tourist!
 	"""
 	keyWait
@@ -92486,7 +92486,7 @@ script 226 mmbn3 {
 	"""
 	Let's see. Leftover
 	lunch,newspapers,
-	empty soda cans⋯
+	empty soda cans…
 	"""
 	keyWait
 	clearMsg
@@ -92726,7 +92726,7 @@ script 241 mmbn3 {
 	"""
 	The gorilla is
 	glaring straight
-	ahead⋯
+	ahead…
 	"""
 	keyWait
 	checkChapter
@@ -93263,7 +93263,7 @@ script 71 mmbn3 {
 	"""
 	Time to clean the
 	glass! You're so
-	popular⋯
+	popular…
 	"""
 	keyWait
 	clearMsg
@@ -93304,7 +93304,7 @@ script 81 mmbn3 {
 	msgOpen
 	"""
 	This one's acting
-	just like always⋯
+	just like always…
 	"""
 	keyWait
 	end
@@ -93499,7 +93499,7 @@ script 190 mmbn3 {
 	"""
 	the snake,I had to
 	make a sudden stop
-	in the bathroom⋯
+	in the bathroom…
 	"""
 	keyWait
 	clearMsg
@@ -93571,13 +93571,13 @@ script 192 mmbn3 {
 	"""
 	keyWait
 	clearMsg
-	"It's⋯"
+	"It's…"
 	keyWait
 	clearMsg
 	"""
 	Error number "C2",
 	code "UTIXM[ModTools1]LA"
-	⋯I think.
+	…I think.
 	"""
 	keyWait
 	clearMsg
@@ -93605,7 +93605,7 @@ script 193 mmbn3 {
 	"""
 	keyWait
 	clearMsg
-	"It's⋯"
+	"It's…"
 	keyWait
 	clearMsg
 	"""
@@ -93627,7 +93627,7 @@ script 194 mmbn3 {
 	"""
 	"?
 	I hung it somewhere
-	to shoot the snake⋯
+	to shoot the snake…
 	"""
 	keyWait
 	end
@@ -94136,7 +94136,7 @@ script 249 mmbn3 {
 	"""
 	It doesn't seem like
 	an animal broke it,
-	but⋯
+	but…
 	"""
 	keyWait
 	clearMsg
@@ -94470,7 +94470,7 @@ script 5 mmbn3 {
 	msgOpen
 	"""
 	With N1 over,I can
-	finally take a rest⋯
+	finally take a rest…
 	"""
 	keyWait
 	end
@@ -94503,7 +94503,7 @@ script 13 mmbn3 {
 		mugshot = MetrolineMan
 	msgOpen
 	"""
-	T-The train⋯
+	T-The train…
 	Its getting so hot!
 	"""
 	keyWait
@@ -94529,7 +94529,7 @@ script 14 mmbn3 {
 	"・・・"
 	keyWait
 	clearMsg
-	"That was close⋯"
+	"That was close…"
 	keyWait
 	end
 }
@@ -94540,7 +94540,7 @@ script 15 mmbn3 {
 	"""
 	The world is so
 	dangerous these
-	days⋯
+	days…
 	"""
 	keyWait
 	clearMsg
@@ -94585,7 +94585,7 @@ script 20 mmbn3 {
 	"""
 	Sir,I think you
 	should avoid going
-	outside⋯
+	outside…
 	"""
 	keyWait
 	end
@@ -94616,7 +94616,7 @@ script 30 mmbn3 {
 	"""
 	Beach St. is totally
 	deserted. It's like
-	a ghost town⋯
+	a ghost town…
 	"""
 	keyWait
 	clearMsg
@@ -94635,7 +94635,7 @@ script 40 mmbn3 {
 	"""
 	I saw lots of people
 	fixing their boats
-	at the port⋯
+	at the port…
 	"""
 	keyWait
 	clearMsg
@@ -95034,7 +95034,7 @@ script 9 mmbn3 {
 	msgOpen
 	"""
 	Chaud went alone?
-	Think he'll be OK⋯?
+	Think he'll be OK…?
 	"""
 	keyWait
 	end
@@ -95263,7 +95263,7 @@ script 24 mmbn3 {
 	mugshotShow
 		mugshot = Dex
 	msgOpen
-	"⋯⋯"
+	"……"
 	keyWait
 	end
 }
@@ -95369,7 +95369,7 @@ script 43 mmbn3 {
 	clearMsg
 	mugshotAnimate
 		animation = 0
-	"⋯! ⋯Mmmph⋯Mmmph!"
+	"…! …Mmmph…Mmmph!"
 	keyWait
 	clearMsg
 	"Mmmph!\n"
@@ -95466,7 +95466,7 @@ script 46 mmbn3 {
 		mugshot = SciLabYoungMan
 	msgOpen
 	"""
-	Dude⋯ I have
+	Dude… I have
 	something really
 	cool from Netopia.
 	"""
@@ -95508,7 +95508,7 @@ script 46 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Don't buy it⋯"
+	"Don't buy it…"
 	select
 		default = 0
 		BSeparate = false
@@ -95565,7 +95565,7 @@ script 46 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	And⋯You didn't
+	And…You didn't
 	get it from me. OK?
 	Don't tell a soul!!
 	"""
@@ -95855,7 +95855,7 @@ script 70 mmbn3 {
 	"""
 	I'd like Chaud's
 	autograph,but I'm
-	too shy to ask⋯
+	too shy to ask…
 	"""
 	keyWait
 	end
@@ -95903,7 +95903,7 @@ script 73 mmbn3 {
 	msgOpen
 	"""
 	That guy who won,
-	"Q"⋯He's a weird
+	"Q"…He's a weird
 	one,isn't he?
 	"""
 	keyWait
@@ -95920,7 +95920,7 @@ script 74 mmbn3 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	Ahhh,a short break⋯
+	Ahhh,a short break…
 	I know I'll be glued
 	to the next battle.
 	"""
@@ -95933,7 +95933,7 @@ script 75 mmbn3 {
 	msgOpen
 	"""
 	I never did get
-	Chaud's autograph⋯
+	Chaud's autograph…
 	"""
 	keyWait
 	clearMsg
@@ -96002,8 +96002,8 @@ script 81 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	They're lucky⋯
-	I'd love to see it⋯
+	They're lucky…
+	I'd love to see it…
 	"""
 	keyWait
 	end
@@ -96026,7 +96026,7 @@ script 82 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Q-Quickly⋯! Gotta
+	Q-Quickly…! Gotta
 	find that ticket!
 	"""
 	keyWait
@@ -96126,12 +96126,12 @@ script 93 mmbn3 {
 	"""
 	The Hospital is on
 	the shoreline,so
-	it's left from here⋯
+	it's left from here…
 	"""
 	keyWait
 	clearMsg
 	"""
-	Oof⋯
+	Oof…
 	It's hard to move
 	quickly at my age.
 	"""
@@ -96215,7 +96215,7 @@ script 101 mmbn3 {
 	"""
 	I saw some weird
 	guy jacking in
-	to that van⋯
+	to that van…
 	"""
 	keyWait
 	clearMsg
@@ -96232,7 +96232,7 @@ script 102 mmbn3 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	The Undernet⋯
+	The Undernet…
 	Ever heard of it?
 	"""
 	keyWait
@@ -96247,7 +96247,7 @@ script 102 mmbn3 {
 	"""
 	But I hear that they
 	are connected,
-	somewhere⋯
+	somewhere…
 	"""
 	keyWait
 	end
@@ -96384,7 +96384,7 @@ script 120 mmbn3 {
 	mugshotShow
 		mugshot = YoungWoman
 	msgOpen
-	"Laa,la,laa⋯"
+	"Laa,la,laa…"
 	keyWait
 	clearMsg
 	"""
@@ -96478,7 +96478,7 @@ script 123 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	ACDC Town was nice⋯
+	ACDC Town was nice…
 	Is the school still
 	there?
 	"""
@@ -96490,7 +96490,7 @@ script 130 mmbn3 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	I like this outfit⋯
+	I like this outfit…
 	But it's a bit too
 	expensive for me.
 	"""
@@ -96526,7 +96526,7 @@ script 132 mmbn3 {
 	"""
 	keyWait
 	clearMsg
-	"Just to try it⋯"
+	"Just to try it…"
 	keyWait
 	end
 }
@@ -96544,7 +96544,7 @@ script 140 mmbn3 {
 	"""
 	Oh no! Forget about
 	shopping! I've got
-	to get home⋯!
+	to get home…!
 	"""
 	keyWait
 	end
@@ -96650,15 +96650,15 @@ script 150 mmbn3 {
 		mugshot = Man
 	msgOpen
 	"""
-	Oh no,no,no⋯
+	Oh no,no,no…
 	Why did I use that
-	networked car wash⋯?
+	networked car wash…?
 	"""
 	keyWait
 	clearMsg
 	"""
 	The heat ruined my
-	beautiful car⋯
+	beautiful car…
 	"""
 	keyWait
 	end
@@ -96668,7 +96668,7 @@ script 151 mmbn3 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	So it was the WWW⋯
+	So it was the WWW…
 	I thought it was my
 	fault!
 	"""
@@ -96736,7 +96736,7 @@ script 155 mmbn3 {
 	msgOpen
 	"""
 	I was really worried
-	for a while,but⋯
+	for a while,but…
 	"""
 	keyWait
 	clearMsg
@@ -96803,15 +96803,15 @@ script 161 mmbn3 {
 	msgOpen
 	"""
 	The TV station,the
-	Hospital,SciLab⋯
-	Where next⋯?
+	Hospital,SciLab…
+	Where next…?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Huh? You⋯
-	I've seen you at⋯
-	Oh,where was it⋯?
+	Huh? You…
+	I've seen you at…
+	Oh,where was it…?
 	"""
 	keyWait
 	end
@@ -96861,7 +96861,7 @@ script 163 mmbn3 {
 	"""
 	So I'm spending more
 	time with her so
-	she enjoys herself⋯
+	she enjoys herself…
 	"""
 	keyWait
 	end
@@ -96888,7 +96888,7 @@ script 164 mmbn3 {
 	"""
 	Seems like something
 	was stirring in the
-	Undernet⋯
+	Undernet…
 	"""
 	keyWait
 	clearMsg
@@ -96904,13 +96904,13 @@ script 167 mmbn3 {
 	mugshotShow
 		mugshot = Maid
 	msgOpen
-	"The sea is so quiet⋯"
+	"The sea is so quiet…"
 	keyWait
 	clearMsg
 	"""
 	But is it only the
 	"calm before the
-	storm"⋯?
+	storm"…?
 	"""
 	keyWait
 	end
@@ -96930,9 +96930,9 @@ script 168 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	But hang on⋯
-	I know you from⋯
-	Somewhere⋯
+	But hang on…
+	I know you from…
+	Somewhere…
 	"""
 	keyWait
 	end
@@ -96975,11 +96975,11 @@ script 171 mmbn3 {
 	"""
 	I wish we didn't
 	have to involve a
-	civilian like you⋯
+	civilian like you…
 	"""
 	keyWait
 	clearMsg
-	"I apologize⋯"
+	"I apologize…"
 	keyWait
 	end
 }
@@ -96988,7 +96988,7 @@ script 175 mmbn3 {
 		mugshot = Maid
 	msgOpen
 	"""
-	Those waves⋯They
+	Those waves…They
 	seem bigger today.
 	"""
 	keyWait
@@ -97035,13 +97035,13 @@ script 179 mmbn3 {
 	mugshotShow
 		mugshot = SciLabMan
 	msgOpen
-	"A \"boulder\",huh⋯?"
+	"A \"boulder\",huh…?"
 	keyWait
 	clearMsg
 	"""
 	Boulder hill,boulder
-	pools,boulder⋯
-	Can't say for sure⋯
+	pools,boulder…
+	Can't say for sure…
 	"""
 	keyWait
 	end
@@ -97082,14 +97082,14 @@ script 184 mmbn3 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Alpha was stolen⋯
+	Alpha was stolen…
 	This is serious.
 	"""
 	keyWait
 	clearMsg
 	"""
 	If Wily gets it,
-	Net society will be⋯
+	Net society will be…
 	"""
 	keyWait
 	end
@@ -97159,7 +97159,7 @@ script 187 mmbn3 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Whew⋯ The Officials
+	Whew… The Officials
 	came to help me,and
 	no damage was done.
 	"""
@@ -97180,14 +97180,14 @@ script 188 mmbn3 {
 	"""
 	Some guy just went
 	off towards the
-	MetroLine⋯
+	MetroLine…
 	"""
 	keyWait
 	clearMsg
 	"""
 	I wanted to stop
 	him,but he looked
-	so intense⋯
+	so intense…
 	"""
 	keyWait
 	end
@@ -97223,7 +97223,7 @@ script 190 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Yes,I did⋯
+	Yes,I did…
 	And it was very
 	special to me.
 	"""
@@ -97239,12 +97239,12 @@ script 190 mmbn3 {
 	"""
 	I've searched and
 	searched,but never
-	found it⋯
+	found it…
 	"""
 	keyWait
 	clearMsg
 	"""
-	⋯Wait a second!
+	…Wait a second!
 	How did you know
 	about that?
 	"""
@@ -97253,7 +97253,7 @@ script 190 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Urk! Ah,um⋯Thanks
+	Urk! Ah,um…Thanks
 	for your time!
 	"""
 	keyWait
@@ -97264,7 +97264,7 @@ script 191 mmbn3 {
 		mugshot = Maid
 	msgOpen
 	"""
-	⋯Are you hiding
+	…Are you hiding
 	something?
 	"""
 	keyWait
@@ -97350,7 +97350,7 @@ script 200 mmbn3 {
 	mugshotShow
 		mugshot = Mayl
 	msgOpen
-	"Be very careful⋯"
+	"Be very careful…"
 	keyWait
 	end
 }
@@ -97425,7 +97425,7 @@ script 224 mmbn3 {
 	"""
 	Somebody is honking
 	their horn over
-	there⋯
+	there…
 	"""
 	keyWait
 	end
@@ -97560,14 +97560,14 @@ script 232 mmbn3 {
 		mugshot = MegaMan
 	"""
 	The engine looks
-	pretty old,though⋯
+	pretty old,though…
 	"""
 	keyWait
 	clearMsg
 	"""
 	It will need a new
 	engine to get to the
-	WWW base⋯
+	WWW base…
 	"""
 	keyWait
 	clearMsg
@@ -97583,7 +97583,7 @@ script 232 mmbn3 {
 		mugshot = MegaMan
 	"""
 	Hmmm. It won't be
-	easy⋯
+	easy…
 	"""
 	keyWait
 	clearMsg
@@ -97756,7 +97756,7 @@ script 0 mmbn3 {
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"⋯Well,yes."
+	"…Well,yes."
 	keyWait
 	clearMsg
 	mugshotShow
@@ -97883,7 +97883,7 @@ script 4 mmbn3 {
 	"""
 	I'm busy. I'm
 	working on some
-	new strategies⋯
+	new strategies…
 	"""
 	keyWait
 	end
@@ -97948,7 +97948,7 @@ script 8 mmbn3 {
 	"""
 	It's not just the
 	same old GutsMan!
-	It's⋯Neo GutsMan!
+	It's…Neo GutsMan!
 	"""
 	keyWait
 	clearMsg
@@ -97999,7 +97999,7 @@ script 12 mmbn3 {
 	"""
 	Where did my
 	strategy fail!?
-	Let me rethink this⋯
+	Let me rethink this…
 	"""
 	keyWait
 	end
@@ -98011,7 +98011,7 @@ script 13 mmbn3 {
 	"""
 	What!? That strategy
 	should have been
-	flawless⋯!
+	flawless…!
 	"""
 	keyWait
 	clearMsg
@@ -98028,7 +98028,7 @@ script 14 mmbn3 {
 		mugshot = Tora
 	msgOpen
 	"""
-	What⋯? Why⋯? How⋯?
+	What…? Why…? How…?
 	I can't believe it!
 	"""
 	keyWait
@@ -98044,7 +98044,7 @@ script 15 mmbn3 {
 	mugshotShow
 		mugshot = Tora
 	msgOpen
-	"⋯⋯"
+	"……"
 	keyWait
 	end
 }
@@ -98104,13 +98104,13 @@ script 23 mmbn3 {
 	"""
 	Have you seen Chaud?
 	He disappeared after
-	leaving the boat⋯
+	leaving the boat…
 	"""
 	keyWait
 	clearMsg
 	"""
 	The semi-finals will
-	be starting soon⋯
+	be starting soon…
 	"""
 	keyWait
 	clearMsg
@@ -98138,7 +98138,7 @@ script 31 mmbn3 {
 	mugshotShow
 		mugshot = NetbattlerQ
 	msgOpen
-	"⋯⋯⋯⋯"
+	"…………"
 	keyWait
 	end
 }
@@ -98146,12 +98146,12 @@ script 33 mmbn3 {
 	mugshotShow
 		mugshot = SciLabMan
 	msgOpen
-	"I'm getting nervous⋯"
+	"I'm getting nervous…"
 	keyWait
 	clearMsg
 	"""
 	Huh-haa,huh-haa.
-	Deep breaths⋯
+	Deep breaths…
 	"""
 	keyWait
 	end
@@ -98179,8 +98179,8 @@ script 35 mmbn3 {
 	msgOpen
 	"""
 	Who's the guy in the
-	mask and cape⋯
-	What is he⋯?
+	mask and cape…
+	What is he…?
 	"""
 	keyWait
 	end
@@ -98319,8 +98319,8 @@ script 51 mmbn3 {
 		mugshot = MsMari
 	msgOpen
 	"""
-	Hades Isle⋯
-	Kind of scary⋯
+	Hades Isle…
+	Kind of scary…
 	Fight hard,Lan!
 	"""
 	keyWait
@@ -98344,7 +98344,7 @@ script 53 mmbn3 {
 	"""
 	I hope Lan,Dex,and
 	Yai make it to the
-	top four⋯
+	top four…
 	"""
 	keyWait
 	end
@@ -98421,7 +98421,7 @@ script 63 mmbn3 {
 	msgOpen
 	"""
 	I can't believe you
-	actually made it⋯
+	actually made it…
 	"""
 	keyWait
 	end
@@ -98507,7 +98507,7 @@ script 73 mmbn3 {
 	msgOpen
 	"""
 	It's hard for me
-	to say this,but⋯
+	to say this,but…
 	Good luck,Lan.
 	"""
 	keyWait
@@ -98589,17 +98589,17 @@ script 76 mmbn3 {
 	"""
 	Then,press Select
 	after the error,and
-	enter this password⋯
+	enter this password…
 	"""
 	keyWait
 	clearMsg
-	"Let's see,it was⋯"
+	"Let's see,it was…"
 	keyWait
 	clearMsg
 	"""
-	After error "A3"⋯
+	After error "A3"…
 	I think the code was
-	"LO[ModTools1][ModTools3]ZXME"⋯
+	"LO[ModTools1][ModTools3]ZXME"…
 	"""
 	keyWait
 	end
@@ -98635,17 +98635,17 @@ script 77 mmbn3 {
 	"""
 	Then,press Select
 	after the error,and
-	enter this password⋯
+	enter this password…
 	"""
 	keyWait
 	clearMsg
-	"Let's see,it was⋯"
+	"Let's see,it was…"
 	keyWait
 	clearMsg
 	"""
-	After error "A3"⋯
+	After error "A3"…
 	I think the code was
-	"LO[ModTools1][ModTools3]ZXME"⋯
+	"LO[ModTools1][ModTools3]ZXME"…
 	"""
 	keyWait
 	end
@@ -98676,17 +98676,17 @@ script 78 mmbn3 {
 	"""
 	Then,press Select
 	after the error,and
-	enter this password⋯
+	enter this password…
 	"""
 	keyWait
 	clearMsg
-	"Let's see,it was⋯"
+	"Let's see,it was…"
 	keyWait
 	clearMsg
 	"""
-	After error "A3"⋯
+	After error "A3"…
 	I think the code was
-	"LO[ModTools1][ModTools3]ZXME"⋯
+	"LO[ModTools1][ModTools3]ZXME"…
 	"""
 	keyWait
 	end
@@ -98737,7 +98737,7 @@ script 82 mmbn3 {
 	"""
 	Suppose I'll buy
 	some souvenirs and
-	go home⋯
+	go home…
 	"""
 	keyWait
 	end
@@ -98782,7 +98782,7 @@ script 85 mmbn3 {
 	"""
 	I-I-I contacted the
 	Officials,but it'll
-	take them some time⋯
+	take them some time…
 	"""
 	keyWait
 	end
@@ -98986,7 +98986,7 @@ script 98 mmbn3 {
 	"""
 	It's not just the
 	same old GutsMan!
-	It's⋯Neo GutsMan!
+	It's…Neo GutsMan!
 	"""
 	keyWait
 	clearMsg
@@ -99035,7 +99035,7 @@ script 102 mmbn3 {
 		mugshot = Tamako
 	msgOpen
 	"""
-	How⋯!?
+	How…!?
 	How could my
 	MetalMan lose?
 	"""
@@ -99062,7 +99062,7 @@ script 103 mmbn3 {
 	"""
 	I was sure that
 	those customizations
-	would do the trick⋯
+	would do the trick…
 	"""
 	keyWait
 	clearMsg
@@ -99106,9 +99106,9 @@ script 104 mmbn3 {
 		mugshot = Tamako
 	msgOpen
 	"""
-	Wow⋯! All of that
+	Wow…! All of that
 	custom work,and he
-	STILL can't win⋯
+	STILL can't win…
 	"""
 	keyWait
 	end
@@ -99117,7 +99117,7 @@ script 105 mmbn3 {
 	mugshotShow
 		mugshot = Tamako
 	msgOpen
-	"⋯⋯"
+	"……"
 	keyWait
 	end
 }
@@ -99596,7 +99596,7 @@ script 186 mmbn3 {
 	clearMsg
 	"""
 	There's nothing I
-	can do⋯
+	can do…
 	"""
 	keyWait
 	end
@@ -99607,7 +99607,7 @@ script 187 mmbn3 {
 	msgOpen
 	"""
 	Life is so stressful
-	these days⋯
+	these days…
 	"""
 	keyWait
 	clearMsg
@@ -99625,7 +99625,7 @@ script 187 mmbn3 {
 	"""
 	Famous told me to
 	give these away if
-	anything happened⋯
+	anything happened…
 	"""
 	keyWait
 	clearMsg
@@ -99665,7 +99665,7 @@ script 187 mmbn3 {
 		]
 	mugshotShow
 		mugshot = Scientist
-	"I see⋯"
+	"I see…"
 	keyWait
 	clearMsg
 	"""
@@ -99809,7 +99809,7 @@ script 192 mmbn3 {
 	"""
 	keyWait
 	clearMsg
-	"It's not much,but⋯"
+	"It's not much,but…"
 	keyWait
 	clearMsg
 	"""
@@ -99862,7 +99862,7 @@ script 194 mmbn3 {
 	"""
 	keyWait
 	clearMsg
-	"I'd get in trouble⋯"
+	"I'd get in trouble…"
 	keyWait
 	end
 }
@@ -99920,20 +99920,20 @@ script 212 mmbn3 {
 }
 script 220 mmbn3 {
 	msgOpen
-	"It's a script⋯"
+	"It's a script…"
 	keyWait
 	clearMsg
 	"""
 	For Episode 8
 	of the series "Love
-	& Loss on the Net"⋯
+	& Loss on the Net"…
 	"""
 	keyWait
 	clearMsg
 	"""
 	The hero falls in
 	love with a female
-	friend's Navi⋯
+	friend's Navi…
 	"""
 	keyWait
 	clearMsg
@@ -100061,13 +100061,13 @@ script 11 mmbn3 {
 		mugshot = Man
 	msgOpen
 	"""
-	Wow⋯
+	Wow…
 	I can hear the
-	cheers from here⋯
+	cheers from here…
 	"""
 	keyWait
 	clearMsg
-	"I'm getting nervous⋯"
+	"I'm getting nervous…"
 	keyWait
 	end
 }
@@ -100075,7 +100075,7 @@ script 20 mmbn3 {
 	mugshotShow
 		mugshot = NetbattlerQ
 	msgOpen
-	"⋯⋯"
+	"……"
 	keyWait
 	end
 }
@@ -100121,7 +100121,7 @@ script 40 mmbn3 {
 	clearMsg
 	"""
 	No such luck!
-	Typical⋯
+	Typical…
 	"""
 	keyWait
 	end
@@ -100148,7 +100148,7 @@ script 50 mmbn3 {
 	"""
 	keyWait
 	clearMsg
-	"Sneaky,nasty,evil⋯"
+	"Sneaky,nasty,evil…"
 	keyWait
 	end
 }
@@ -100203,7 +100203,7 @@ script 60 mmbn3 {
 	"""
 	But I hear other
 	areas are in pretty
-	bad shape⋯
+	bad shape…
 	"""
 	keyWait
 	end
@@ -100355,7 +100355,7 @@ script 222 mmbn3 {
 	"""
 	Looks like they're
 	used in the popular
-	"Afternoon Show"⋯
+	"Afternoon Show"…
 	"""
 	keyWait
 	clearMsg
@@ -100366,7 +100366,7 @@ script 222 mmbn3 {
 	clearMsg
 	"""
 	There's something
-	shiny between them⋯
+	shiny between them…
 	"""
 	keyWait
 	clearMsg
@@ -100417,7 +100417,7 @@ script 224 mmbn3 {
 	"""
 	The TV station's
 	vending machine has
-	special drinks⋯
+	special drinks…
 	"""
 	keyWait
 	clearMsg
@@ -100673,8 +100673,8 @@ script 30 mmbn3 {
 		mugshot = Woman
 	msgOpen
 	"""
-	Ooooh⋯
-	Which one,which one⋯
+	Ooooh…
+	Which one,which one…
 	"""
 	keyWait
 	end
@@ -100738,13 +100738,13 @@ script 42 mmbn3 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	M-M-My⋯AGH!!
+	M-M-My…AGH!!
 	Uh! Bit my tongue.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Uhhhh⋯
+	Uhhhh…
 	Whatever!
 	Net Blue!
 	"""
@@ -100778,10 +100778,10 @@ script 44 mmbn3 {
 	mugshotShow
 		mugshot = HeelNavi
 	msgOpen
-	"Hmmmph⋯"
+	"Hmmmph…"
 	keyWait
 	clearMsg
-	"Net Black⋯"
+	"Net Black…"
 	keyWait
 	end
 }
@@ -100790,15 +100790,15 @@ script 50 mmbn3 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Well⋯About the
-	Officials' position⋯
+	Well…About the
+	Officials' position…
 	"""
 	keyWait
 	clearMsg
 	"""
 	We're investigating
 	the source of the
-	problems,the WWW⋯
+	problems,the WWW…
 	"""
 	keyWait
 	end
@@ -100975,7 +100975,7 @@ script 195 mmbn3 {
 		mugshot = PompadourMan
 	msgOpen
 	"""
-	Hmmmm⋯
+	Hmmmm…
 	Can't see your chip.
 	"""
 	keyWait
@@ -101079,7 +101079,7 @@ script 220 mmbn3 {
 	clearMsg
 	"""
 	But when it comes to
-	victory⋯There can be
+	victory…There can be
 	only one!
 	"""
 	keyWait
@@ -101142,7 +101142,7 @@ script 224 mmbn3 {
 	clearMsg
 	"""
 	They're so loud,they
-	make the air shake⋯
+	make the air shake…
 	"""
 	keyWait
 	end
@@ -101285,11 +101285,11 @@ script 230 mmbn3 {
 }
 script 231 mmbn3 {
 	msgOpen
-	"⋯Heh⋯"
+	"…Heh…"
 	keyWait
 	clearMsg
 	"""
-	⋯Gasp! No!
+	…Gasp! No!
 	I didn't laugh!
 	"""
 	keyWait
@@ -101303,7 +101303,7 @@ script 232 mmbn3 {
 }
 script 233 mmbn3 {
 	msgOpen
-	"⋯⋯"
+	"……"
 	keyWait
 	end
 }
@@ -101361,7 +101361,7 @@ script 238 mmbn3 {
 	msgOpen
 	"""
 	I can't see the
-	panels from here⋯
+	panels from here…
 	"""
 	keyWait
 	end
@@ -101393,13 +101393,13 @@ script 241 mmbn3 {
 	"""
 	Maybe we shouldn't
 	tell these people
-	about the crisis⋯
+	about the crisis…
 	"""
 	keyWait
 	clearMsg
 	"""
 	We don't want to
-	cause a panic⋯
+	cause a panic…
 	"""
 	keyWait
 	end
@@ -101416,14 +101416,14 @@ script 242 mmbn3 {
 script 243 mmbn3 {
 	msgOpen
 	"""
-	Man⋯ They're just
-	silly guys in suits⋯
+	Man… They're just
+	silly guys in suits…
 	"""
 	keyWait
 	clearMsg
 	"""
 	Then again,it's fun.
-	And what's the harm⋯
+	And what's the harm…
 	"""
 	keyWait
 	end
@@ -101476,7 +101476,7 @@ script 247 mmbn3 {
 	"""
 	There's more to
 	worry about than
-	this program now⋯!
+	this program now…!
 	"""
 	keyWait
 	end
@@ -101567,7 +101567,7 @@ script 190 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	⋯but how can I get
+	…but how can I get
 	it so quickly? I
 	just got the order!
 	"""
@@ -101701,7 +101701,7 @@ script 194 mmbn3 {
 	"""
 	OK. I wonder how I
 	can get my hands on
-	that chip⋯
+	that chip…
 	"""
 	keyWait
 	end
@@ -101738,7 +101738,7 @@ script 197 mmbn3 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	It's been a while⋯
+	It's been a while…
 	Will you reconsider?
 	"""
 	keyWait
@@ -102009,8 +102009,8 @@ script 20 mmbn3 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	Oh no⋯ They're
-	booing the stage⋯
+	Oh no… They're
+	booing the stage…
 	"""
 	keyWait
 	end
@@ -102069,7 +102069,7 @@ script 30 mmbn3 {
 	"""
 	I'm controlling the
 	panels,so I can see
-	the audience react⋯
+	the audience react…
 	"""
 	keyWait
 	end
@@ -102102,7 +102102,7 @@ script 35 mmbn3 {
 	msgOpen
 	"""
 	A fire broke out
-	in SciLab⋯!
+	in SciLab…!
 	"""
 	keyWait
 	clearMsg
@@ -102125,7 +102125,7 @@ script 36 mmbn3 {
 	"""
 	I can't believe
 	there was a fire at
-	SciLab⋯
+	SciLab…
 	"""
 	keyWait
 	clearMsg
@@ -102150,7 +102150,7 @@ script 38 mmbn3 {
 	clearMsg
 	"""
 	What's going on in
-	the Cyberworld⋯?
+	the Cyberworld…?
 	"""
 	keyWait
 	end
@@ -102162,13 +102162,13 @@ script 39 mmbn3 {
 	"""
 	It's easy to prepare
 	the program,but will
-	anyone watch it⋯?
+	anyone watch it…?
 	"""
 	keyWait
 	clearMsg
 	"""
 	I mean,the network
-	itself is burning⋯
+	itself is burning…
 	"""
 	keyWait
 	end
@@ -102213,8 +102213,8 @@ script 50 mmbn3 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	Aaah,Net Blue⋯
-	He's losing it⋯
+	Aaah,Net Blue…
+	He's losing it…
 	"""
 	keyWait
 	end
@@ -102226,7 +102226,7 @@ script 51 mmbn3 {
 	"""
 	All this crisis news
 	is depressing! We
-	need to laugh,too⋯
+	need to laugh,too…
 	"""
 	keyWait
 	end
@@ -102268,9 +102268,9 @@ script 61 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	It was really bad⋯
+	It was really bad…
 	I hope it doesn't
-	happen ever again⋯
+	happen ever again…
 	"""
 	keyWait
 	end
@@ -102290,7 +102290,7 @@ script 190 mmbn3 {
 		mugshot = BlackMan
 	msgOpen
 	"""
-	Aaaah⋯
+	Aaaah…
 	Terrible! No good!
 	"""
 	keyWait
@@ -102497,8 +102497,8 @@ script 197 mmbn3 {
 		mugshot = BlackMan
 	msgOpen
 	"""
-	Aaah⋯My inspiration
-	is fading fast⋯!
+	Aaah…My inspiration
+	is fading fast…!
 	"""
 	keyWait
 	clearMsg
@@ -102579,7 +102579,7 @@ script 221 mmbn3 {
 	msgOpen
 	"""
 	Details of
-	recording schedules⋯
+	recording schedules…
 	"""
 	keyWait
 	end
@@ -102662,7 +102662,7 @@ script 227 mmbn3 {
 	msgOpen
 	"""
 	Details of
-	recording schedules⋯
+	recording schedules…
 	"""
 	keyWait
 	clearMsg
@@ -102673,7 +102673,7 @@ script 227 mmbn3 {
 	clearMsg
 	"""
 	Something's attached
-	with a clip⋯
+	with a clip…
 	"""
 	keyWait
 	clearMsg
@@ -102894,7 +102894,7 @@ script 2 mmbn3 {
 	clearMsg
 	"""
 	Then I'll be on TV
-	and in commercials⋯
+	and in commercials…
 	"""
 	keyWait
 	clearMsg
@@ -102907,7 +102907,7 @@ script 2 mmbn3 {
 	"""
 	And soon I'll fall
 	in love with a
-	handsome,rich actor⋯
+	handsome,rich actor…
 	"""
 	keyWait
 	clearMsg
@@ -102924,7 +102924,7 @@ script 2 mmbn3 {
 	"・"
 	waitSkip
 		frames = 30
-	"Haaaa⋯"
+	"Haaaa…"
 	keyWait
 	clearMsg
 	"""
@@ -102993,7 +102993,7 @@ script 6 mmbn3 {
 	clearMsg
 	mugshotAnimate
 		animation = 0
-	"(Oh,I'm so nervous⋯)"
+	"(Oh,I'm so nervous…)"
 	keyWait
 	clearMsg
 	mugshotAnimate
@@ -103122,7 +103122,7 @@ script 7 mmbn3 {
 	"""
 	(Focus! Just operate
 	it the way you
-	were shown⋯It's OK⋯)
+	were shown…It's OK…)
 	"""
 	keyWait
 	clearMsg
@@ -103131,7 +103131,7 @@ script 7 mmbn3 {
 	"""
 	J-Just a moment.
 	It'll take a little
-	time⋯Ha,ha⋯
+	time…Ha,ha…
 	"""
 	keyWait
 	clearMsg
@@ -103147,7 +103147,7 @@ script 7 mmbn3 {
 	mugshotAnimate
 		animation = 1
 	"""
-	Hey,man! Uh⋯
+	Hey,man! Uh…
 	Just chill,dude!
 	"""
 	keyWait
@@ -103156,7 +103156,7 @@ script 7 mmbn3 {
 		animation = 0
 	"""
 	(Uh,was that cool?
-	I hope so⋯ Cameraman,
+	I hope so… Cameraman,
 	you getting this?)
 	"""
 	keyWait
@@ -103390,7 +103390,7 @@ script 8 mmbn3 {
 		track = 231
 	waitSkip
 		frames = 20
-	"Correct! And next⋯"
+	"Correct! And next…"
 	keyWait
 	clearMsg
 	soundDisableChoiceSFX
@@ -103496,7 +103496,7 @@ script 8 mmbn3 {
 		track = 231
 	waitSkip
 		frames = 20
-	"And finally⋯"
+	"And finally…"
 	keyWait
 	clearMsg
 	soundDisableChoiceSFX
@@ -103572,7 +103572,7 @@ script 8 mmbn3 {
 	"\"!"
 	keyWait
 	clearMsg
-	"Just one thing⋯"
+	"Just one thing…"
 	keyWait
 	clearMsg
 	"To get my \""
@@ -103687,7 +103687,7 @@ script 10 mmbn3 {
 	clearMsg
 	"""
 	It's different,but
-	very interesting⋯
+	very interesting…
 	"""
 	keyWait
 	clearMsg
@@ -103747,7 +103747,7 @@ script 10 mmbn3 {
 		]
 	mugshotShow
 		mugshot = BusinessMan
-	"That's a pity⋯"
+	"That's a pity…"
 	keyWait
 	clearMsg
 	"""
@@ -103819,7 +103819,7 @@ script 11 mmbn3 {
 	"・"
 	waitSkip
 		frames = 30
-	"\nIf I do this⋯"
+	"\nIf I do this…"
 	waitSkip
 		frames = 30
 	"・"
@@ -103834,15 +103834,15 @@ script 11 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	No,that's not right⋯
+	No,that's not right…
 	What could I be
-	doing wrong⋯?
+	doing wrong…?
 	"""
 	keyWait
 	clearMsg
 	"""
 	OK! OK! Got it!!
-	Put⋯this⋯in⋯
+	Put…this…in…
 	"""
 	keyWait
 	clearMsg
@@ -103860,7 +103860,7 @@ script 11 mmbn3 {
 		frames = 30
 	"""
 	No!
-	Hang on,though⋯
+	Hang on,though…
 	Yes,yes. That's it!
 	"""
 	keyWait
@@ -103931,7 +103931,7 @@ script 13 mmbn3 {
 	clearMsg
 	"""
 	If at first you
-	don't succeed⋯
+	don't succeed…
 	"""
 	keyWait
 	end
@@ -103998,7 +103998,7 @@ script 190 mmbn3 {
 	"""
 	Take a chance!
 	Chance your luck!
-	Lucky quiz time⋯
+	Lucky quiz time…
 	"""
 	keyWait
 	clearMsg
@@ -104872,7 +104872,7 @@ script 205 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Anger & Revenge⋯\n"
+	"Anger & Revenge…\n"
 	option
 		left = 1
 		right = 1
@@ -104880,7 +104880,7 @@ script 205 mmbn3 {
 		down = 2
 	space
 		count = 2
-	"Love & Friendship⋯\n"
+	"Love & Friendship…\n"
 	option
 		left = 2
 		right = 2
@@ -104888,7 +104888,7 @@ script 205 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Love & Loss⋯"
+	"Love & Loss…"
 	select
 		default = 0
 		BSeparate = false
@@ -104915,7 +104915,7 @@ script 206 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	You⋯
+	You…
 	You're amazing!
 	"""
 	keyWait
@@ -105009,7 +105009,7 @@ script 211 mmbn3 {
 	"""
 	I'd never even
 	imagined that I
-	could lose the quiz⋯
+	could lose the quiz…
 	"""
 	keyWait
 	end
@@ -105027,7 +105027,7 @@ script 212 mmbn3 {
 	"""
 	Take a chance!
 	Chance your luck!
-	Lucky quiz time⋯
+	Lucky quiz time…
 	"""
 	keyWait
 	clearMsg
@@ -105110,7 +105110,7 @@ script 222 mmbn3 {
 	"""
 	Its evil grimace
 	sets the tone
-	for Hades Isle⋯
+	for Hades Isle…
 	"""
 	keyWait
 	clearMsg
@@ -105180,8 +105180,8 @@ script 250 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Hmmm⋯It looks like
-	there's a message⋯
+	Hmmm…It looks like
+	there's a message…
 	"""
 	keyWait
 	clearMsg
@@ -105193,7 +105193,7 @@ script 250 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	And this⋯
+	And this…
 	Aah! A virus has
 	gotten into my PET!?
 	"""
@@ -105210,14 +105210,14 @@ script 251 mmbn3 {
 	msgOpen
 	"""
 	Looks like the end
-	of the virus⋯
+	of the virus…
 	"""
 	keyWait
 	clearMsg
 	"""
 	It says,"The back
 	pillars rise
-	straight to heaven"⋯
+	straight to heaven"…
 	"""
 	keyWait
 	end
@@ -105230,8 +105230,8 @@ script 0 mmbn3 {
 		mugshot = BlackWoman
 	msgOpen
 	"""
-	The horror⋯
-	The horror⋯
+	The horror…
+	The horror…
 	What lies ahead?
 	"""
 	keyWait
@@ -105252,7 +105252,7 @@ script 2 mmbn3 {
 	mugshotShow
 		mugshot = NetbattlerQ
 	msgOpen
-	"⋯⋯"
+	"……"
 	keyWait
 	end
 }
@@ -105281,7 +105281,7 @@ script 11 mmbn3 {
 	mugshotShow
 		mugshot = BlackMan
 	msgOpen
-	"Grrr⋯"
+	"Grrr…"
 	keyWait
 	end
 }
@@ -105307,7 +105307,7 @@ script 13 mmbn3 {
 	printItem
 		buffer = 0
 		item = 18
-	"\"⋯"
+	"\"…"
 	keyWait
 	end
 }
@@ -105339,7 +105339,7 @@ script 16 mmbn3 {
 	mugshotShow
 		mugshot = NetbattlerQ
 	msgOpen
-	"⋯⋯"
+	"……"
 	keyWait
 	end
 }
@@ -105429,7 +105429,7 @@ script 21 mmbn3 {
 	"""
 	keyWait
 	clearMsg
-	"Here we go⋯"
+	"Here we go…"
 	keyWait
 	clearMsg
 	"""
@@ -105439,13 +105439,13 @@ script 21 mmbn3 {
 	"""
 	keyWait
 	clearMsg
-	"⋯Just a bit more⋯"
+	"…Just a bit more…"
 	keyWait
 	clearMsg
 	soundPlay
 		track = 220
 	"""
-	⋯Done!
+	…Done!
 	Your Extra Folder is
 	now "
 	"""
@@ -105502,7 +105502,7 @@ script 23 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	One thing,though⋯
+	One thing,though…
 	If you get a new
 	Extra Folder,
 	"""
@@ -105510,7 +105510,7 @@ script 23 mmbn3 {
 	clearMsg
 	"""
 	It'll overwrite the
-	one you have now⋯
+	one you have now…
 	No biggie,right?
 	"""
 	keyWait
@@ -105571,8 +105571,8 @@ script 24 mmbn3 {
 		mugshot = ZooMan
 	msgOpen
 	"""
-	OK,just a second⋯
-	Sending the data⋯
+	OK,just a second…
+	Sending the data…
 	・
 	"""
 	waitSkip
@@ -105604,19 +105604,19 @@ script 24 mmbn3 {
 	clearMsg
 	"""
 	Aaah,I can't wait
-	to tell everyone⋯
+	to tell everyone…
 	"""
 	keyWait
 	clearMsg
 	"""
-	My dad⋯ My mom⋯
-	My girlfriend⋯
+	My dad… My mom…
+	My girlfriend…
 	"""
 	keyWait
 	clearMsg
 	"""
-	My grandparents⋯
-	Johnny next door⋯
+	My grandparents…
+	Johnny next door…
 	I'll tell everyone!
 	"""
 	keyWait
@@ -105676,7 +105676,7 @@ script 26 mmbn3 {
 	"""
 	Ah,so you're looking
 	for an Extra Folder.
-	Not easy,I'm sure⋯
+	Not easy,I'm sure…
 	"""
 	keyWait
 	clearMsg
@@ -105715,9 +105715,9 @@ script 26 mmbn3 {
 			jump = continue
 		]
 	"""
-	Ah,that's a pity⋯
+	Ah,that's a pity…
 	No time for my
-	unique hyper-folder⋯
+	unique hyper-folder…
 	"""
 	keyWait
 	end
@@ -105743,7 +105743,7 @@ script 27 mmbn3 {
 	"""
 	I really believe
 	that it's the
-	ultimate folder⋯
+	ultimate folder…
 	"""
 	keyWait
 	clearMsg
@@ -105801,15 +105801,15 @@ script 27 mmbn3 {
 	waitSkip
 		frames = 30
 	"""
-	Sorry⋯
+	Sorry…
 	Once I get going,I
 	can't stop laughing.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Waaa ha ha ha⋯
-	Heee,hee,hee,hee⋯
+	Waaa ha ha ha…
+	Heee,hee,hee,hee…
 	"""
 	keyWait
 	end
@@ -105956,7 +105956,7 @@ script 51 mmbn3 {
 		mugshot = ZooMan
 	"""
 	Well,I suppose if
-	that's how you feel⋯
+	that's how you feel…
 	"""
 	keyWait
 	clearMsg
@@ -106195,7 +106195,7 @@ script 55 mmbn3 {
 	msgOpen
 	"""
 	All right,I'll send
-	the data⋯
+	the data…
 	"""
 	keyWait
 	clearMsg
@@ -106236,7 +106236,7 @@ script 56 mmbn3 {
 	clearMsg
 	soundPlay
 		track = 220
-	"And⋯Finished!"
+	"And…Finished!"
 	keyWait
 	clearMsg
 	"""
@@ -106262,13 +106262,13 @@ script 57 mmbn3 {
 		entry = 4
 	"""
 	"
-	transmission⋯ Now!!
+	transmission… Now!!
 	"""
 	keyWait
 	clearMsg
 	soundPlay
 		track = 220
-	"⋯Zap!!"
+	"…Zap!!"
 	keyWait
 	clearMsg
 	"Finished. Ta-daaa!!"
@@ -106416,7 +106416,7 @@ script 190 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	⋯Are you ready
+	…Are you ready
 	to jack in!?
 	"""
 	keyWait
@@ -106506,7 +106506,7 @@ script 193 mmbn3 {
 	msgOpen
 	"""
 	What would we have
-	done without you⋯?
+	done without you…?
 	"""
 	keyWait
 	clearMsg
@@ -106558,7 +106558,7 @@ script 221 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	⋯I'm Yasu,
+	…I'm Yasu,
 	a reporter.
 	"""
 	keyWait
@@ -106619,7 +106619,7 @@ script 190 mmbn3 {
 	clearMsg
 	"""
 	But something seems
-	to be missing⋯
+	to be missing…
 	"""
 	keyWait
 	clearMsg
@@ -106760,7 +106760,7 @@ script 194 mmbn3 {
 		mugshot = BlackWoman
 	msgOpen
 	"""
-	Aah⋯ That's too bad.
+	Aah… That's too bad.
 	I'm disappointed.
 	"""
 	keyWait
@@ -106879,7 +106879,7 @@ script 220 mmbn3 {
 	clearMsg
 	"""
 	You'll need courage
-	to jack into this⋯
+	to jack into this…
 	"""
 	keyWait
 	end
@@ -106889,7 +106889,7 @@ script 221 mmbn3 {
 	"""
 	This NetBattle
 	machine has a
-	thin plastic cover⋯
+	thin plastic cover…
 	"""
 	keyWait
 	clearMsg
@@ -106960,7 +106960,7 @@ script 70 mmbn3 {
 	mugshotShow
 		mugshot = Chaud
 	msgOpen
-	"Hmmph. So you came⋯"
+	"Hmmph. So you came…"
 	keyWait
 	clearMsg
 	jump
@@ -107039,7 +107039,7 @@ script 73 mmbn3 {
 	clearMsg
 	"""
 	Hah! Come back when
-	you're at your best⋯
+	you're at your best…
 	I'll STILL beat you!
 	"""
 	keyWait
@@ -107063,7 +107063,7 @@ script 75 mmbn3 {
 	msgOpen
 	"""
 	ProtoMan,put him in
-	his place⋯
+	his place…
 	"""
 	keyWait
 	clearMsg
@@ -107141,14 +107141,14 @@ script 82 mmbn3 {
 	msgOpen
 	"""
 	I was only testing
-	you this time⋯
+	you this time…
 	"""
 	keyWait
 	clearMsg
 	"""
 	Come back when you
 	get stronger. I'll
-	show you a battle⋯
+	show you a battle…
 	"""
 	keyWait
 	end
@@ -107195,7 +107195,7 @@ script 85 mmbn3 {
 	mugshotShow
 		mugshot = Chaud
 	msgOpen
-	"⋯⋯"
+	"……"
 	keyWait
 	end
 }
@@ -107236,7 +107236,7 @@ script 91 mmbn3 {
 	msgOpen
 	"""
 	Let's just see how
-	strong you are⋯
+	strong you are…
 	"""
 	keyWait
 	clearMsg
@@ -107423,8 +107423,8 @@ script 2 mmbn3 {
 		mugshot = Mamoru
 	msgOpen
 	"""
-	Nnnnghh⋯!
-	I can't breathe⋯!
+	Nnnnghh…!
+	I can't breathe…!
 	"""
 	keyWait
 	end
@@ -107608,12 +107608,12 @@ script 18 mmbn3 {
 	msgOpen
 	"""
 	It looks like he's
-	going to be OK⋯
+	going to be OK…
 	"""
 	keyWait
 	clearMsg
 	"""
-	Poor little thing⋯
+	Poor little thing…
 	He's too young for
 	a serious illness.
 	"""
@@ -107625,9 +107625,9 @@ script 19 mmbn3 {
 		mugshot = OldWoman
 	msgOpen
 	"""
-	Eeeeh⋯ My bad back!
+	Eeeeh… My bad back!
 	I wish they'd take
-	me inside as well⋯
+	me inside as well…
 	"""
 	keyWait
 	end
@@ -107660,7 +107660,7 @@ script 21 mmbn3 {
 	msgOpen
 	"""
 	I hope he's OK,that
-	poor little kid⋯
+	poor little kid…
 	"""
 	keyWait
 	clearMsg
@@ -107708,7 +107708,7 @@ script 31 mmbn3 {
 		mugshot = Nurse
 	msgOpen
 	"""
-	I'm sorry⋯ We have
+	I'm sorry… We have
 	no idea what's going
 	on,either.
 	"""
@@ -107717,7 +107717,7 @@ script 31 mmbn3 {
 	"""
 	Please just wait
 	until the Officials
-	get here⋯
+	get here…
 	"""
 	keyWait
 	end
@@ -107752,7 +107752,7 @@ script 33 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	⋯?
+	…?
 	So why are you
 	dripping wet?
 	"""
@@ -107775,13 +107775,13 @@ script 36 mmbn3 {
 	mugshotShow
 		mugshot = Nurse
 	msgOpen
-	"⋯???"
+	"…???"
 	keyWait
 	clearMsg
 	"""
 	The vines retreated
-	before my eyes⋯
-	What could have⋯
+	before my eyes…
+	What could have…
 	"""
 	keyWait
 	end
@@ -107861,13 +107861,13 @@ script 52 mmbn3 {
 		mugshot = Nurse
 	msgOpen
 	"""
-	Aaaah⋯
+	Aaaah…
 	I wonder if this
-	hospital is cursed⋯?
+	hospital is cursed…?
 	"""
 	keyWait
 	clearMsg
-	"I can't stand it⋯"
+	"I can't stand it…"
 	keyWait
 	end
 }
@@ -107885,7 +107885,7 @@ script 60 mmbn3 {
 	"""
 	But its tough for
 	the hospital staff.
-	That nasty WWW⋯
+	That nasty WWW…
 	"""
 	keyWait
 	end
@@ -107896,7 +107896,7 @@ script 70 mmbn3 {
 	msgOpen
 	"""
 	The town is so tense
-	these days⋯
+	these days…
 	"""
 	keyWait
 	clearMsg
@@ -107987,7 +107987,7 @@ script 220 mmbn3 {
 	clearMsg
 	"""
 	There's something
-	shiny in its shadow⋯
+	shiny in its shadow…
 	"""
 	keyWait
 	clearMsg
@@ -108082,7 +108082,7 @@ script 225 mmbn3 {
 	"""
 	"Control Room for
 	Tree of Life Growth
-	System",it says⋯
+	System",it says…
 	"""
 	keyWait
 	end
@@ -108124,7 +108124,7 @@ script 228 mmbn3 {
 	"""
 	The growth system
 	for the Tree of Life
-	is inside⋯
+	is inside…
 	"""
 	keyWait
 	end
@@ -108226,7 +108226,7 @@ script 2 mmbn3 {
 	"""
 	What! The key to
 	the basement!? Yes,
-	I do have it,but⋯
+	I do have it,but…
 	"""
 	keyWait
 	clearMsg
@@ -108247,16 +108247,16 @@ script 2 mmbn3 {
 	clearMsg
 	mugshotShow
 		mugshot = Nurse
-	"Yes,but⋯"
+	"Yes,but…"
 	keyWait
 	clearMsg
-	"⋯"
+	"…"
 	keyWait
 	clearMsg
 	"""
 	OK,I've decided!
 	There's nothing I
-	can do,anyway⋯
+	can do,anyway…
 	"""
 	keyWait
 	clearMsg
@@ -108295,7 +108295,7 @@ script 3 mmbn3 {
 	"""
 	I had a feeling that
 	you'd be able to
-	take care of things⋯
+	take care of things…
 	"""
 	keyWait
 	clearMsg
@@ -108320,7 +108320,7 @@ script 5 mmbn3 {
 		mugshot = Nurse
 	msgOpen
 	"""
-	Thank goodness⋯The
+	Thank goodness…The
 	Tree of Life is
 	under control again!
 	"""
@@ -108335,8 +108335,8 @@ script 10 mmbn3 {
 		mugshot = OldMan
 	msgOpen
 	"""
-	Ahh⋯ The tree always
-	looks magnificent⋯
+	Ahh… The tree always
+	looks magnificent…
 	"""
 	keyWait
 	clearMsg
@@ -108400,7 +108400,7 @@ script 13 mmbn3 {
 	"""
 	Using elevators all
 	the time isn't good
-	for my health⋯
+	for my health…
 	"""
 	keyWait
 	end
@@ -108445,7 +108445,7 @@ script 22 mmbn3 {
 	"""
 	I need exercise
 	to get better!
-	Huff,huff,huff⋯
+	Huff,huff,huff…
 	"""
 	keyWait
 	end
@@ -108481,9 +108481,9 @@ script 24 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Oh my goodness⋯
+	Oh my goodness…
 	Quickly,let's see,
-	Mamoru's doctor is⋯
+	Mamoru's doctor is…
 	"""
 	keyWait
 	clearMsg
@@ -108496,7 +108496,7 @@ script 24 mmbn3 {
 	"""
 	Only he can treat
 	the disease Mamoru
-	has⋯"HBD"!
+	has…"HBD"!
 	"""
 	keyWait
 	end
@@ -108514,14 +108514,14 @@ script 25 mmbn3 {
 	"""
 	I'm sorry. Nurses
 	are supposed to stay
-	calm⋯
+	calm…
 	"""
 	keyWait
 	clearMsg
 	"""
 	I should have gone
 	for the doctor
-	straight away⋯
+	straight away…
 	"""
 	keyWait
 	end
@@ -108533,7 +108533,7 @@ script 30 mmbn3 {
 	"""
 	Tell her she's
 	still recovering and
-	has to take it easy⋯
+	has to take it easy…
 	"""
 	keyWait
 	end
@@ -108570,7 +108570,7 @@ script 32 mmbn3 {
 	clearMsg
 	"""
 	It must be something
-	important to him⋯
+	important to him…
 	"""
 	keyWait
 	end
@@ -108582,13 +108582,13 @@ script 33 mmbn3 {
 	"""
 	Some kids are sick,
 	and some older folks
-	are healthy⋯
+	are healthy…
 	"""
 	keyWait
 	clearMsg
 	"""
 	I guess that's just
-	how it goes⋯
+	how it goes…
 	"""
 	keyWait
 	end
@@ -108607,7 +108607,7 @@ script 34 mmbn3 {
 	"""
 	There isn't much
 	time,but please tell
-	him to be brave⋯
+	him to be brave…
 	"""
 	keyWait
 	end
@@ -108683,9 +108683,9 @@ script 46 mmbn3 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	M-Mother!? Huh⋯?
+	M-Mother!? Huh…?
 	Aaaah! My skirt is
-	torn⋯Mumble,mumble⋯
+	torn…Mumble,mumble…
 	"""
 	keyWait
 	end
@@ -108722,7 +108722,7 @@ script 49 mmbn3 {
 	clearMsg
 	"""
 	But who would do it,
-	and why⋯?
+	and why…?
 	"""
 	keyWait
 	end
@@ -108862,7 +108862,7 @@ script 61 mmbn3 {
 	msgOpen
 	"""
 	This is terrible.
-	Terrible⋯!
+	Terrible…!
 	"""
 	keyWait
 	clearMsg
@@ -108942,7 +108942,7 @@ script 70 mmbn3 {
 	"""
 	But the hospital has
 	lost the trust of
-	so many people⋯
+	so many people…
 	"""
 	keyWait
 	end
@@ -108954,7 +108954,7 @@ script 71 mmbn3 {
 	"""
 	I'm sorry to say,but
 	that I'm checking
-	out myself,too⋯
+	out myself,too…
 	"""
 	keyWait
 	clearMsg
@@ -108972,7 +108972,7 @@ script 72 mmbn3 {
 	msgOpen
 	"""
 	So it's because of
-	this tree⋯
+	this tree…
 	"""
 	keyWait
 	end
@@ -109015,7 +109015,7 @@ script 74 mmbn3 {
 	clearMsg
 	"""
 	Nature never fails
-	to surprise me⋯
+	to surprise me…
 	"""
 	keyWait
 	end
@@ -109046,7 +109046,7 @@ script 81 mmbn3 {
 	"""
 	What's this?
 	A lot of important
-	people⋯
+	people…
 	"""
 	keyWait
 	clearMsg
@@ -109129,7 +109129,7 @@ script 86 mmbn3 {
 	"""
 	was behind this.
 	Now,it's up to Navis
-	to resolve things⋯
+	to resolve things…
 	"""
 	keyWait
 	end
@@ -109150,7 +109150,7 @@ script 91 mmbn3 {
 	mugshotShow
 		mugshot = Girl
 	msgOpen
-	"I want to go home⋯"
+	"I want to go home…"
 	keyWait
 	end
 }
@@ -109207,7 +109207,7 @@ script 100 mmbn3 {
 	"""
 	Dr.Hikari? I heard
 	he was go outside
-	to do rehab⋯
+	to do rehab…
 	"""
 	keyWait
 	end
@@ -109230,7 +109230,7 @@ script 111 mmbn3 {
 	msgOpen
 	"""
 	I woke up,but the
-	nightmare continues⋯
+	nightmare continues…
 	"""
 	keyWait
 	end
@@ -109258,7 +109258,7 @@ script 200 mmbn3 {
 	clearMsg
 	"""
 	But I think I got
-	the wrong one⋯
+	the wrong one…
 	"""
 	keyWait
 	clearMsg
@@ -109288,7 +109288,7 @@ script 200 mmbn3 {
 	printCode
 		buffer = 0
 		code = K
-	"\"⋯"
+	"\"…"
 	keyWait
 	clearMsg
 	mugshotHide
@@ -109394,7 +109394,7 @@ script 204 mmbn3 {
 	"""
 	Aaah,that's a pity.
 	I suppose I'll go
-	back to the store⋯
+	back to the store…
 	"""
 	keyWait
 	end
@@ -109405,7 +109405,7 @@ script 205 mmbn3 {
 	msgOpen
 	"""
 	Hmph! I can't seem
-	to find it⋯
+	to find it…
 	"""
 	keyWait
 	clearMsg
@@ -109718,7 +109718,7 @@ script 226 mmbn3 {
 	"""
 	Something's written
 	on the inside of
-	the shelves⋯
+	the shelves…
 	"""
 	keyWait
 	clearMsg
@@ -110053,7 +110053,7 @@ script 10 mmbn3 {
 	msgOpen
 	"""
 	Hmmm,tree growth is
-	normal⋯
+	normal…
 	The tree is healthy.
 	"""
 	keyWait
@@ -110101,9 +110101,9 @@ script 30 mmbn3 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	That's strange⋯
+	That's strange…
 	The tree is healthy.
-	Maybe too healthy⋯
+	Maybe too healthy…
 	"""
 	keyWait
 	end
@@ -110115,7 +110115,7 @@ script 35 mmbn3 {
 	"""
 	Ah,so they're going
 	to operate on that
-	little kid at last⋯
+	little kid at last…
 	"""
 	keyWait
 	clearMsg
@@ -110133,7 +110133,7 @@ script 40 mmbn3 {
 	"""
 	Can we get out?
 	The emergency exit
-	and elevators⋯
+	and elevators…
 	"""
 	keyWait
 	clearMsg
@@ -110151,7 +110151,7 @@ script 41 mmbn3 {
 	msgOpen
 	"""
 	Waaaah!
-	Where's my sister⋯?
+	Where's my sister…?
 	"""
 	keyWait
 	end
@@ -110175,7 +110175,7 @@ script 45 mmbn3 {
 	"""
 	What's this?? What
 	are vines doing
-	here⋯?
+	here…?
 	"""
 	keyWait
 	clearMsg
@@ -110192,8 +110192,8 @@ script 46 mmbn3 {
 		mugshot = PigtailsGirl
 	msgOpen
 	"""
-	Sniff,sniff⋯I was
-	afraid on my own⋯
+	Sniff,sniff…I was
+	afraid on my own…
 	"""
 	keyWait
 	end
@@ -110205,7 +110205,7 @@ script 47 mmbn3 {
 	"""
 	Don't worry. It's
 	OK now. I'm here
-	with you⋯
+	with you…
 	"""
 	keyWait
 	end
@@ -110267,7 +110267,7 @@ script 65 mmbn3 {
 	msgOpen
 	"""
 	We're so lucky that
-	no one was injured⋯
+	no one was injured…
 	"""
 	keyWait
 	end
@@ -110279,7 +110279,7 @@ script 70 mmbn3 {
 	"""
 	It's a shame about
 	your father. Must be
-	tough for you⋯
+	tough for you…
 	"""
 	keyWait
 	end
@@ -110313,7 +110313,7 @@ script 90 mmbn3 {
 	"""
 	The WWW has dared to
 	awaken a forbidden
-	beast⋯
+	beast…
 	"""
 	keyWait
 	clearMsg
@@ -110368,7 +110368,7 @@ script 105 mmbn3 {
 	"""
 	What? Someone who
 	came out of the
-	room⋯?
+	room…?
 	"""
 	keyWait
 	clearMsg
@@ -110387,7 +110387,7 @@ script 105 mmbn3 {
 	clearMsg
 	"""
 	He didn't look well.
-	I hope he's OK⋯
+	I hope he's OK…
 	"""
 	keyWait
 	end
@@ -110398,7 +110398,7 @@ script 110 mmbn3 {
 	msgOpen
 	"""
 	These incidents are
-	tiring us out⋯
+	tiring us out…
 	"""
 	keyWait
 	clearMsg
@@ -110434,7 +110434,7 @@ script 190 mmbn3 {
 	clearMsg
 	"""
 	Let me tell you what
-	I need you to do⋯
+	I need you to do…
 	"""
 	keyWait
 	clearMsg
@@ -110455,13 +110455,13 @@ script 190 mmbn3 {
 	"""
 	My cousin really
 	wants one of the
-	toy trains⋯
+	toy trains…
 	"""
 	keyWait
 	clearMsg
 	"""
 	And I promised it as
-	a present⋯
+	a present…
 	"""
 	keyWait
 	clearMsg
@@ -110475,7 +110475,7 @@ script 190 mmbn3 {
 	"""
 	Also,I don't even
 	have tickets for the
-	CyberMetro⋯
+	CyberMetro…
 	"""
 	keyWait
 	clearMsg
@@ -110581,13 +110581,13 @@ script 194 mmbn3 {
 	msgOpen
 	"""
 	Now I can get on
-	with my work⋯
+	with my work…
 	"""
 	keyWait
 	clearMsg
 	"""
 	I shouldn't make
-	promises so easily⋯
+	promises so easily…
 	"""
 	keyWait
 	end
@@ -110985,7 +110985,7 @@ script 241 mmbn3 {
 	"""
 	It may be abrupt-
 	sounding,but it has
-	a certain charm⋯
+	a certain charm…
 	"""
 	keyWait
 	end
@@ -111076,7 +111076,7 @@ script 3 mmbn3 {
 	mugshotShow
 		mugshot = Mamoru
 	msgOpen
-	"Uuuugh⋯Uuuugh⋯"
+	"Uuuugh…Uuuugh…"
 	keyWait
 	end
 }
@@ -111171,7 +111171,7 @@ script 9 mmbn3 {
 	"""
 	You should be nice
 	to Yai today,even if
-	she's a bit selfish⋯
+	she's a bit selfish…
 	"""
 	keyWait
 	end
@@ -111196,12 +111196,12 @@ script 11 mmbn3 {
 	mugshotShow
 		mugshot = Dex
 	msgOpen
-	"⋯⋯"
+	"……"
 	keyWait
 	clearMsg
 	"""
-	Uh⋯
-	It's nothing,really⋯
+	Uh…
+	It's nothing,really…
 	"""
 	keyWait
 	end
@@ -111363,7 +111363,7 @@ script 20 mmbn3 {
 	msgOpen
 	"""
 	You have to do what
-	you can⋯
+	you can…
 	"""
 	keyWait
 	clearMsg
@@ -111394,7 +111394,7 @@ script 25 mmbn3 {
 	"""
 	SciLab area was
 	attacked?
-	N-Not by Alpha⋯!?
+	N-Not by Alpha…!?
 	"""
 	keyWait
 	end
@@ -111465,8 +111465,8 @@ script 41 mmbn3 {
 		mugshot = Mom
 	msgOpen
 	"""
-	Lan⋯
-	Don't let me down⋯
+	Lan…
+	Don't let me down…
 	"""
 	keyWait
 	end
@@ -111528,7 +111528,7 @@ script 55 mmbn3 {
 		frames = 40
 	keyWait
 	clearMsg
-	"Okay,3 more⋯"
+	"Okay,3 more…"
 	keyWait
 	end
 }
@@ -111542,7 +111542,7 @@ script 190 mmbn3 {
 	mugshotShow
 		mugshot = OldMan
 	msgOpen
-	"Huh? A condor⋯?"
+	"Huh? A condor…?"
 	keyWait
 	clearMsg
 	"""
@@ -111769,8 +111769,8 @@ script 227 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	"One of many birds"⋯
-	Could this be it⋯?
+	"One of many birds"…
+	Could this be it…?
 	"""
 	keyWait
 	clearMsg
@@ -111907,7 +111907,7 @@ script 234 mmbn3 {
 	"""
 	Something like an
 	envelope is under
-	the pillow⋯
+	the pillow…
 	"""
 	keyWait
 	clearMsg
@@ -111944,7 +111944,7 @@ script 234 mmbn3 {
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"It's a letter⋯"
+	"It's a letter…"
 	keyWait
 	clearMsg
 	mugshotShow
@@ -111954,7 +111954,7 @@ script 234 mmbn3 {
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Let's see⋯"
+	"Let's see…"
 	keyWait
 	clearMsg
 	"""
@@ -111965,7 +111965,7 @@ script 234 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Dad⋯
+	Dad…
 	In his condition
 	"""
 	waitSkip
@@ -111988,7 +111988,7 @@ script 234 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Uh⋯
+	Uh…
 	But where did he
 	go?
 	"""
@@ -112179,7 +112179,7 @@ script 22 mmbn3 {
 	clearMsg
 	"""
 	Now,let me see. What
-	BBS was it⋯?
+	BBS was it…?
 	"""
 	keyWait
 	end
@@ -112263,7 +112263,7 @@ script 31 mmbn3 {
 	msgOpen
 	"""
 	Wow. So he needs to
-	have an operation⋯
+	have an operation…
 	"""
 	keyWait
 	clearMsg
@@ -112298,7 +112298,7 @@ script 36 mmbn3 {
 	msgOpen
 	"""
 	The operation is
-	taking a long time⋯
+	taking a long time…
 	"""
 	keyWait
 	end
@@ -112339,7 +112339,7 @@ script 40 mmbn3 {
 	msgOpen
 	"""
 	The Tree of Life
-	isn't to blame⋯
+	isn't to blame…
 	"""
 	keyWait
 	clearMsg
@@ -112405,13 +112405,13 @@ script 60 mmbn3 {
 	"""
 	SciLab suffered
 	major damage during
-	this crisis⋯
+	this crisis…
 	"""
 	keyWait
 	clearMsg
 	"""
 	What could lie in
-	store for us⋯?
+	store for us…?
 	"""
 	keyWait
 	end
@@ -112429,7 +112429,7 @@ script 70 mmbn3 {
 	clearMsg
 	"""
 	Some were very
-	dehydrated⋯
+	dehydrated…
 	"""
 	keyWait
 	clearMsg
@@ -112475,7 +112475,7 @@ script 80 mmbn3 {
 	clearMsg
 	"""
 	I think there was
-	a similar incident⋯
+	a similar incident…
 	"""
 	keyWait
 	clearMsg
@@ -112489,7 +112489,7 @@ script 80 mmbn3 {
 	"""
 	I'm frightened
 	to think what would
-	happen today⋯
+	happen today…
 	"""
 	keyWait
 	end
@@ -112550,7 +112550,7 @@ script 190 mmbn3 {
 	"""
 	Take a chance!
 	Chance your luck!
-	Lucky quiz time⋯
+	Lucky quiz time…
 	"""
 	keyWait
 	clearMsg
@@ -112610,7 +112610,7 @@ script 191 mmbn3 {
 	"""
 	Small at noon,tall
 	in the evening,and
-	gone at night: It's⋯
+	gone at night: It's…
 	"""
 	keyWait
 	clearMsg
@@ -112666,7 +112666,7 @@ script 192 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	3.1415926535⋯
+	3.1415926535…
 	What is this?
 	"""
 	keyWait
@@ -113012,7 +113012,7 @@ script 198 mmbn3 {
 	soundDisableChoiceSFX
 	"""
 	Good,good,good!
-	I may even lose⋯!
+	I may even lose…!
 	Question No.8!
 	"""
 	keyWait
@@ -113300,7 +113300,7 @@ script 207 mmbn3 {
 	"""
 	Take a chance!
 	Chance your luck!
-	Lucky quiz time⋯
+	Lucky quiz time…
 	"""
 	keyWait
 	clearMsg
@@ -113387,7 +113387,7 @@ script 222 mmbn3 {
 	clearMsg
 	"""
 	3 stories high and
-	this wide⋯! Nature
+	this wide…! Nature
 	sure is magnificent
 	"""
 	keyWait
@@ -113400,7 +113400,7 @@ script 222 mmbn3 {
 	"""
 	Something is caught
 	in the branches. You
-	can just reach it⋯
+	can just reach it…
 	"""
 	keyWait
 	clearMsg
@@ -113810,7 +113810,7 @@ script 190 mmbn3 {
 	mugshotShow
 		mugshot = CloakedNavi
 	msgOpen
-	"⋯⋯"
+	"……"
 	keyWait
 	clearMsg
 	mugshotHide
@@ -113855,7 +113855,7 @@ script 192 mmbn3 {
 	mugshotShow
 		mugshot = CloakedNavi
 	msgOpen
-	"⋯⋯"
+	"……"
 	keyWait
 	end
 }
@@ -114349,7 +114349,7 @@ script 15 mmbn3 {
 	mugshotShow
 		mugshot = Dex
 	msgOpen
-	"⋯⋯"
+	"……"
 	keyWait
 	end
 }
@@ -114480,7 +114480,7 @@ script 25 mmbn3 {
 	"""
 	I'm busy. I'm
 	working on some
-	new strategies⋯
+	new strategies…
 	"""
 	keyWait
 	end
@@ -114545,7 +114545,7 @@ script 29 mmbn3 {
 	"""
 	It's not just the
 	same old GutsMan!
-	It's⋯Neo GutsMan!
+	It's…Neo GutsMan!
 	"""
 	keyWait
 	clearMsg
@@ -114596,7 +114596,7 @@ script 33 mmbn3 {
 	"""
 	Where did my
 	strategy fail!?
-	Let me rethink this⋯
+	Let me rethink this…
 	"""
 	keyWait
 	end
@@ -114608,7 +114608,7 @@ script 34 mmbn3 {
 	"""
 	What!? That strategy
 	should have been
-	flawless⋯!
+	flawless…!
 	"""
 	keyWait
 	clearMsg
@@ -114625,7 +114625,7 @@ script 35 mmbn3 {
 		mugshot = Tora
 	msgOpen
 	"""
-	What⋯? Why⋯? How⋯?
+	What…? Why…? How…?
 	I can't believe it!
 	"""
 	keyWait
@@ -114641,7 +114641,7 @@ script 36 mmbn3 {
 	mugshotShow
 		mugshot = Tora
 	msgOpen
-	"⋯⋯"
+	"……"
 	keyWait
 	end
 }
@@ -114682,7 +114682,7 @@ script 50 mmbn3 {
 	msgOpen
 	"""
 	Something is written
-	on the pillar⋯
+	on the pillar…
 	"""
 	keyWait
 	clearMsg
@@ -114745,7 +114745,7 @@ script 60 mmbn3 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Forget about me⋯
+	Forget about me…
 	Quickly! Deal with
 	Wily.
 	"""
@@ -114964,7 +114964,7 @@ script 228 mmbn3 {
 	"""
 	It looks a lot like
 	the Electopia army's
-	tanks⋯
+	tanks…
 	"""
 	keyWait
 	clearMsg
@@ -114986,7 +114986,7 @@ script 229 mmbn3 {
 	"""
 	It looks a lot like
 	the Electopia army's
-	tanks⋯
+	tanks…
 	"""
 	keyWait
 	clearMsg
@@ -115008,7 +115008,7 @@ script 230 mmbn3 {
 	"""
 	It looks a lot like
 	the Electopia army's
-	tanks⋯
+	tanks…
 	"""
 	keyWait
 	clearMsg
@@ -115040,7 +115040,7 @@ script 232 mmbn3 {
 	"""
 	It looks a lot like
 	the Electopia army's
-	tanks⋯
+	tanks…
 	"""
 	keyWait
 	clearMsg
@@ -115099,7 +115099,7 @@ script 1 mmbn3 {
 script 220 mmbn3 {
 	msgOpen
 	"""
-	A huge computer⋯
+	A huge computer…
 	It hums with a
 	menacingly deep tone
 	"""
@@ -115123,7 +115123,7 @@ script 222 mmbn3 {
 	"""
 	A statue of Wily.
 	It's too heavy to
-	be moved⋯
+	be moved…
 	"""
 	keyWait
 	end
@@ -115152,7 +115152,7 @@ script 225 mmbn3 {
 	msgOpen
 	"""
 	A prototype Pulse
-	Transmission System⋯
+	Transmission System…
 	It's stained black
 	"""
 	keyWait
@@ -115162,7 +115162,7 @@ script 226 mmbn3 {
 	msgOpen
 	"""
 	A failed Pulse
-	Transmission System⋯
+	Transmission System…
 	It's completely dead
 	"""
 	keyWait
@@ -115173,7 +115173,7 @@ script 227 mmbn3 {
 	"""
 	A computer used in
 	Pulse Transmission
-	System testing⋯
+	System testing…
 	"""
 	keyWait
 	end
@@ -115182,7 +115182,7 @@ script 228 mmbn3 {
 	msgOpen
 	"""
 	A draft plan for
-	Wily's "Cybergeddon"⋯
+	Wily's "Cybergeddon"…
 	"""
 	keyWait
 	end
@@ -115191,7 +115191,7 @@ script 229 mmbn3 {
 	msgOpen
 	"""
 	Looks like Wily used
-	this PC⋯
+	this PC…
 	"""
 	keyWait
 	clearMsg
@@ -115202,7 +115202,7 @@ script 229 mmbn3 {
 	clearMsg
 	"""
 	Something is stuck
-	between the keys⋯
+	between the keys…
 	"""
 	keyWait
 	clearMsg
@@ -115236,7 +115236,7 @@ script 230 mmbn3 {
 	"""
 	Roughly written
 	words spell out,
-	"Delete⋯Inukai"
+	"Delete…Inukai"
 	"""
 	keyWait
 	end
@@ -115368,7 +115368,7 @@ script 2 mmbn3 {
 	msgOpen
 	"""
 	Lan! Check this out!
-	It's a human body⋯
+	It's a human body…
 	"""
 	keyWait
 	clearMsg
@@ -115398,7 +115398,7 @@ script 11 mmbn3 {
 	"""
 	Is that old guy OK?
 	I sure hope that
-	won't happen to us⋯
+	won't happen to us…
 	"""
 	keyWait
 	end
@@ -115412,7 +115412,7 @@ script 220 mmbn3 {
 	"""
 	A chair with many
 	cables. What could
-	it be used for⋯?
+	it be used for…?
 	"""
 	keyWait
 	end
@@ -115443,7 +115443,7 @@ script 222 mmbn3 {
 	clearMsg
 	"""
 	There's something in
-	the tangled cables⋯
+	the tangled cables…
 	"""
 	keyWait
 	clearMsg
@@ -115592,19 +115592,19 @@ script 0 mmbn3 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Lan⋯You have to save
-	the world⋯
+	Lan…You have to save
+	the world…
 	"""
 	keyWait
 	clearMsg
 	"""
 	We can see which of
 	us is the best after
-	this is all over⋯
+	this is all over…
 	"""
 	keyWait
 	clearMsg
-	"At Hades Isle⋯"
+	"At Hades Isle…"
 	keyWait
 	end
 }
@@ -115619,7 +115619,7 @@ script 220 mmbn3 {
 	"""
 	It looks a lot like
 	the Electopian army
-	tanks⋯
+	tanks…
 	"""
 	keyWait
 	clearMsg
@@ -115682,7 +115682,7 @@ script 1 mmbn3 {
 	mugshotShow
 		mugshot = MrProg
 	msgOpen
-	"Sigh⋯It's so dark."
+	"Sigh…It's so dark."
 	keyWait
 	end
 }
@@ -115699,7 +115699,7 @@ script 2 mmbn3 {
 	"""
 	But the Principal
 	doesn't seem to
-	feel the same way⋯
+	feel the same way…
 	"""
 	keyWait
 	end
@@ -115788,7 +115788,7 @@ script 224 mmbn3 {
 	"""
 	It says that it's
 	Group 1's turn for
-	cleaning duty⋯
+	cleaning duty…
 	"""
 	keyWait
 	clearMsg
@@ -116140,7 +116140,7 @@ script 240 mmbn3 {
 		jumpIfFalse = continue
 	msgOpen
 	"""
-	⋯!!
+	…!!
 	Someone attached a
 	virus bomb!
 	"""
@@ -116163,7 +116163,7 @@ script 240 mmbn3 {
 	"""
 	You see three small
 	buttons in white,
-	green,and red⋯
+	green,and red…
 	"""
 	keyWait
 	clearMsg
@@ -116319,7 +116319,7 @@ script 20 mmbn3 {
 	"""
 	Those who are ranked
 	are duty-bound to
-	take any challenge⋯
+	take any challenge…
 	"""
 	keyWait
 	clearMsg
@@ -116339,14 +116339,14 @@ script 20 mmbn3 {
 	clearMsg
 	"""
 	So. Let me now offer
-	you a quest⋯
+	you a quest…
 	"""
 	keyWait
 	clearMsg
 	"""
 	If you can find what
 	I ask,you will get
-	my rank as well⋯
+	my rank as well…
 	"""
 	keyWait
 	clearMsg
@@ -116376,7 +116376,7 @@ script 20 mmbn3 {
 		mugshot = CloakedNavi
 	"""
 	You are a forceful
-	operator⋯
+	operator…
 	"""
 	keyWait
 	clearMsg
@@ -116389,7 +116389,7 @@ script 20 mmbn3 {
 	"\"One of many birds\"."
 	keyWait
 	clearMsg
-	"Go now,and find it⋯"
+	"Go now,and find it…"
 	keyWait
 	clearMsg
 	mugshotShow
@@ -116413,12 +116413,12 @@ script 22 mmbn3 {
 	msgOpen
 	"""
 	What's this?
-	Given up already⋯?
+	Given up already…?
 	"""
 	keyWait
 	clearMsg
 	"""
-	"One of many birds"⋯
+	"One of many birds"…
 	You cannot receive
 	the rank without it.
 	"""
@@ -116432,7 +116432,7 @@ script 23 mmbn3 {
 	"""
 	I've totally
 	forgotten about rank
-	6⋯
+	6…
 	"""
 	keyWait
 	clearMsg
@@ -116829,7 +116829,7 @@ script 240 mmbn3 {
 		jumpIfFalse = continue
 	msgOpen
 	"""
-	⋯!!
+	…!!
 	Someone attached a
 	virus bomb!
 	"""
@@ -116927,7 +116927,7 @@ script 244 mmbn3 {
 		jumpIfFalse = continue
 	msgOpen
 	"""
-	⋯!!
+	…!!
 	Someone attached a
 	virus bomb!
 	"""
@@ -117774,9 +117774,9 @@ script 190 mmbn3 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	Ah,you found me⋯
+	Ah,you found me…
 	My hiding place was
-	too easy⋯
+	too easy…
 	"""
 	keyWait
 	clearMsg
@@ -117839,7 +117839,7 @@ script 193 mmbn3 {
 	"""
 	I knew I should have
 	hidden somewhere
-	else⋯
+	else…
 	"""
 	keyWait
 	end
@@ -117965,7 +117965,7 @@ script 223 mmbn3 {
 	keyWait
 	clearMsg
 	mugshotHide
-	"Ribbit⋯!"
+	"Ribbit…!"
 	keyWait
 	clearMsg
 	"""
@@ -118211,7 +118211,7 @@ script 2 mmbn3 {
 	mugshotShow
 		mugshot = MrProg
 	msgOpen
-	"Munch,munch,munch⋯"
+	"Munch,munch,munch…"
 	keyWait
 	clearMsg
 	mugshotHide
@@ -118265,7 +118265,7 @@ script 3 mmbn3 {
 	mugshotShow
 		mugshot = MrProg
 	msgOpen
-	"Shuffle,shuffle⋯"
+	"Shuffle,shuffle…"
 	keyWait
 	clearMsg
 	mugshotHide
@@ -118319,13 +118319,13 @@ script 4 mmbn3 {
 	mugshotShow
 		mugshot = MrProg
 	msgOpen
-	"Banananananananana⋯"
+	"Banananananananana…"
 	keyWait
 	clearMsg
 	mugshotHide
 	"""
 	A banana-type
-	program⋯?
+	program…?
 	"""
 	keyWait
 	clearMsg
@@ -118373,13 +118373,13 @@ script 5 mmbn3 {
 	mugshotShow
 		mugshot = MrProg
 	msgOpen
-	"Roast,roast⋯"
+	"Roast,roast…"
 	keyWait
 	clearMsg
 	mugshotHide
 	"""
 	A chestnut-type
-	program⋯?
+	program…?
 	"""
 	keyWait
 	clearMsg
@@ -118427,13 +118427,13 @@ script 6 mmbn3 {
 	mugshotShow
 		mugshot = MrProg
 	msgOpen
-	"Cocococococococo⋯"
+	"Cocococococococo…"
 	keyWait
 	clearMsg
 	mugshotHide
 	"""
 	A coconut-type
-	program⋯?
+	program…?
 	"""
 	keyWait
 	clearMsg
@@ -118481,12 +118481,12 @@ script 7 mmbn3 {
 	mugshotShow
 		mugshot = MrProg
 	msgOpen
-	"Ricericericerice⋯"
+	"Ricericericerice…"
 	keyWait
 	clearMsg
 	mugshotHide
 	"""
-	A rice-type program⋯
+	A rice-type program…
 	But there isn't much
 	of it
 	"""
@@ -118536,7 +118536,7 @@ script 8 mmbn3 {
 	mugshotShow
 		mugshot = MrProg
 	msgOpen
-	"Bounce,bounce⋯"
+	"Bounce,bounce…"
 	keyWait
 	clearMsg
 	mugshotHide
@@ -118695,7 +118695,7 @@ script 13 mmbn3 {
 	mugshotShow
 		mugshot = MrProg
 	msgOpen
-	"Sqweeek⋯Sqweeek⋯"
+	"Sqweeek…Sqweeek…"
 	keyWait
 	clearMsg
 	mugshotHide
@@ -118710,7 +118710,7 @@ script 14 mmbn3 {
 	mugshotShow
 		mugshot = MrProg
 	msgOpen
-	"Shuffle,shuffle⋯"
+	"Shuffle,shuffle…"
 	keyWait
 	clearMsg
 	mugshotHide
@@ -118725,7 +118725,7 @@ script 15 mmbn3 {
 	mugshotShow
 		mugshot = MrProg
 	msgOpen
-	"Munch,munch⋯"
+	"Munch,munch…"
 	keyWait
 	clearMsg
 	mugshotHide
@@ -118754,7 +118754,7 @@ script 17 mmbn3 {
 	mugshotShow
 		mugshot = MrProg
 	msgOpen
-	"Munch,munch⋯"
+	"Munch,munch…"
 	keyWait
 	clearMsg
 	mugshotHide
@@ -118769,7 +118769,7 @@ script 18 mmbn3 {
 	mugshotShow
 		mugshot = MrProg
 	msgOpen
-	"Boing,boing⋯"
+	"Boing,boing…"
 	keyWait
 	clearMsg
 	mugshotHide
@@ -119275,7 +119275,7 @@ script 42 mmbn3 {
 	mugshotShow
 		mugshot = MrProg
 	msgOpen
-	"Bananana,banananana⋯"
+	"Bananana,banananana…"
 	keyWait
 	clearMsg
 	mugshotHide
@@ -119290,7 +119290,7 @@ script 43 mmbn3 {
 	mugshotShow
 		mugshot = MrProg
 	msgOpen
-	"Bang,bang,crack⋯"
+	"Bang,bang,crack…"
 	keyWait
 	clearMsg
 	mugshotHide
@@ -119322,7 +119322,7 @@ script 45 mmbn3 {
 	mugshotShow
 		mugshot = MrProg
 	msgOpen
-	"Ricericerice⋯"
+	"Ricericerice…"
 	keyWait
 	clearMsg
 	mugshotHide
@@ -119360,13 +119360,13 @@ script 190 mmbn3 {
 	"""
 	Ah! You got me! I
 	thought there might
-	be a better place⋯
+	be a better place…
 	"""
 	keyWait
 	clearMsg
 	"""
 	I suppose I'd better
-	give you this chip⋯
+	give you this chip…
 	"""
 	keyWait
 	clearMsg
@@ -119410,7 +119410,7 @@ script 192 mmbn3 {
 	msgOpen
 	"""
 	Wanna try again!
-	No⋯? Aw,c'mon⋯
+	No…? Aw,c'mon…
 	"""
 	keyWait
 	end
@@ -119447,7 +119447,7 @@ script 220 mmbn3 {
 	clearMsg
 	"""
 	He looks a little
-	bit bored⋯
+	bit bored…
 	"""
 	keyWait
 	checkFlag
@@ -119470,7 +119470,7 @@ script 221 mmbn3 {
 		jumpIfTrue = 225
 		jumpIfFalse = continue
 	msgOpen
-	"⋯⋯"
+	"……"
 	keyWait
 	clearMsg
 	mugshotShow
@@ -119482,7 +119482,7 @@ script 221 mmbn3 {
 	"""
 	keyWait
 	clearMsg
-	"What should we do⋯?"
+	"What should we do…?"
 	keyWait
 	flagSet
 		flag = 1134
@@ -119513,7 +119513,7 @@ script 222 mmbn3 {
 	clearMsg
 	"""
 	He seems so
-	lonely⋯
+	lonely…
 	"""
 	keyWait
 	checkFlag
@@ -119548,7 +119548,7 @@ script 223 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	He looks strange⋯
+	He looks strange…
 	Maybe he's hungry?
 	"""
 	keyWait
@@ -119610,7 +119610,7 @@ script 225 mmbn3 {
 	mugshotShow
 		mugshot = MrProg
 	msgOpen
-	"Splash⋯CRACK!!!"
+	"Splash…CRACK!!!"
 	keyWait
 	clearMsg
 	mugshotHide
@@ -119853,7 +119853,7 @@ script 0 mmbn3 {
 	mugshotShow
 		mugshot = MrProg
 	msgOpen
-	"Katakatakatakata⋯"
+	"Katakatakatakata…"
 	keyWait
 	clearMsg
 	mugshotHide
@@ -120042,7 +120042,7 @@ script 4 mmbn3 {
 	mugshotShow
 		mugshot = MrProg
 	msgOpen
-	"Rustle,rustle⋯"
+	"Rustle,rustle…"
 	keyWait
 	clearMsg
 	mugshotHide
@@ -120096,7 +120096,7 @@ script 5 mmbn3 {
 	mugshotShow
 		mugshot = MrProg
 	msgOpen
-	"Roll,roll,roll⋯"
+	"Roll,roll,roll…"
 	keyWait
 	clearMsg
 	mugshotHide
@@ -120150,7 +120150,7 @@ script 6 mmbn3 {
 	mugshotShow
 		mugshot = MrProg
 	msgOpen
-	"⋯⋯"
+	"……"
 	keyWait
 	clearMsg
 	mugshotHide
@@ -120312,7 +120312,7 @@ script 9 mmbn3 {
 	mugshotShow
 		mugshot = MrProg
 	msgOpen
-	"Blobble,blobble⋯"
+	"Blobble,blobble…"
 	keyWait
 	clearMsg
 	mugshotHide
@@ -120366,7 +120366,7 @@ script 10 mmbn3 {
 	mugshotShow
 		mugshot = MrProg
 	msgOpen
-	"⋯⋯"
+	"……"
 	keyWait
 	clearMsg
 	mugshotHide
@@ -120420,7 +120420,7 @@ script 11 mmbn3 {
 	mugshotShow
 		mugshot = MrProg
 	msgOpen
-	"HSSSS⋯!!"
+	"HSSSS…!!"
 	keyWait
 	clearMsg
 	mugshotHide
@@ -120470,7 +120470,7 @@ script 12 mmbn3 {
 	mugshotShow
 		mugshot = MrProg
 	msgOpen
-	"Katakatakatakata⋯"
+	"Katakatakatakata…"
 	keyWait
 	clearMsg
 	mugshotHide
@@ -120485,7 +120485,7 @@ script 13 mmbn3 {
 	mugshotShow
 		mugshot = MrProg
 	msgOpen
-	"Chomp,chomp⋯"
+	"Chomp,chomp…"
 	keyWait
 	clearMsg
 	mugshotHide
@@ -120516,7 +120516,7 @@ script 15 mmbn3 {
 	mugshotShow
 		mugshot = MrProg
 	msgOpen
-	"Rustle,rustle⋯"
+	"Rustle,rustle…"
 	keyWait
 	clearMsg
 	mugshotHide
@@ -120545,7 +120545,7 @@ script 17 mmbn3 {
 	mugshotShow
 		mugshot = MrProg
 	msgOpen
-	"Roll,roll,roll⋯"
+	"Roll,roll,roll…"
 	keyWait
 	clearMsg
 	mugshotHide
@@ -120560,7 +120560,7 @@ script 18 mmbn3 {
 	mugshotShow
 		mugshot = MrProg
 	msgOpen
-	"⋯⋯"
+	"……"
 	keyWait
 	clearMsg
 	mugshotHide
@@ -121148,7 +121148,7 @@ script 44 mmbn3 {
 	mugshotShow
 		mugshot = MrProg
 	msgOpen
-	"Blobble,blobble⋯"
+	"Blobble,blobble…"
 	keyWait
 	clearMsg
 	mugshotHide
@@ -121163,7 +121163,7 @@ script 45 mmbn3 {
 	mugshotShow
 		mugshot = MrProg
 	msgOpen
-	"⋯⋯"
+	"……"
 	keyWait
 	clearMsg
 	mugshotHide
@@ -121179,7 +121179,7 @@ script 46 mmbn3 {
 	mugshotShow
 		mugshot = MrProg
 	msgOpen
-	"HSSSSS⋯!!"
+	"HSSSSS…!!"
 	keyWait
 	clearMsg
 	mugshotHide
@@ -121205,7 +121205,7 @@ script 190 mmbn3 {
 	msgOpen
 	"""
 	Yikes! You found me!
-	So much for that⋯
+	So much for that…
 	"""
 	keyWait
 	clearMsg
@@ -121270,7 +121270,7 @@ script 193 mmbn3 {
 	msgOpen
 	"""
 	Waiting around is
-	so boring⋯
+	so boring…
 	"""
 	keyWait
 	end
@@ -121281,7 +121281,7 @@ script 220 mmbn3 {
 		jumpIfTrue = 225
 		jumpIfFalse = continue
 	msgOpen
-	"Creeeeak⋯"
+	"Creeeeak…"
 	keyWait
 	clearMsg
 	mugshotShow
@@ -121295,7 +121295,7 @@ script 220 mmbn3 {
 	clearMsg
 	"""
 	It won't budge. Not
-	an inch⋯
+	an inch…
 	"""
 	keyWait
 	checkFlag
@@ -121328,7 +121328,7 @@ script 222 mmbn3 {
 		jumpIfTrue = 226
 		jumpIfFalse = continue
 	msgOpen
-	"Grrrrrrr⋯"
+	"Grrrrrrr…"
 	keyWait
 	clearMsg
 	mugshotShow
@@ -121404,7 +121404,7 @@ script 224 mmbn3 {
 		jumpIfTrue = 228
 		jumpIfFalse = continue
 	msgOpen
-	"Jar,jar jar⋯"
+	"Jar,jar jar…"
 	keyWait
 	clearMsg
 	mugshotShow
@@ -121418,7 +121418,7 @@ script 224 mmbn3 {
 	clearMsg
 	"""
 	It looks a little
-	unsatisfied⋯
+	unsatisfied…
 	"""
 	keyWait
 	checkFlag
@@ -121783,7 +121783,7 @@ script 0 mmbn3 {
 	msgOpen
 	"""
 	"She sells seashells
-	by the seashore⋯"
+	by the seashore…"
 	"""
 	keyWait
 	clearMsg
@@ -121868,9 +121868,9 @@ script 2 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	"So I said⋯
-	And then they said⋯
-	So I said⋯"
+	"So I said…
+	And then they said…
+	So I said…"
 	"""
 	keyWait
 	clearMsg
@@ -122037,7 +122037,7 @@ script 5 mmbn3 {
 	mugshotShow
 		mugshot = MrProg
 	msgOpen
-	"Crack,crack,bang⋯"
+	"Crack,crack,bang…"
 	keyWait
 	clearMsg
 	mugshotHide
@@ -122361,7 +122361,7 @@ script 11 mmbn3 {
 	mugshotShow
 		mugshot = MrProg
 	msgOpen
-	"Mrrrrrow⋯"
+	"Mrrrrrow…"
 	keyWait
 	clearMsg
 	mugshotHide
@@ -122481,7 +122481,7 @@ script 17 mmbn3 {
 	msgOpen
 	"""
 	"She sells seashells
-	by the seashore⋯"
+	by the seashore…"
 	"""
 	keyWait
 	clearMsg
@@ -122499,9 +122499,9 @@ script 18 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	"So I said⋯
-	And then they said⋯
-	So I said⋯"
+	"So I said…
+	And then they said…
+	So I said…"
 	"""
 	keyWait
 	clearMsg
@@ -123144,7 +123144,7 @@ script 46 mmbn3 {
 	mugshotShow
 		mugshot = MrProg
 	msgOpen
-	"Crack,crack,bang⋯"
+	"Crack,crack,bang…"
 	keyWait
 	clearMsg
 	mugshotHide
@@ -123236,7 +123236,7 @@ script 52 mmbn3 {
 	mugshotShow
 		mugshot = MrProg
 	msgOpen
-	"Mrrrrow⋯"
+	"Mrrrrow…"
 	keyWait
 	clearMsg
 	mugshotHide
@@ -123272,13 +123272,13 @@ script 190 mmbn3 {
 	mugshotShow
 		mugshot = HeelNavi
 	msgOpen
-	"So you caught me⋯"
+	"So you caught me…"
 	keyWait
 	clearMsg
 	"""
 	I really thought
 	that you'd never
-	be able to find me⋯
+	be able to find me…
 	"""
 	keyWait
 	clearMsg
@@ -123335,7 +123335,7 @@ script 192 mmbn3 {
 	"""
 	Please don't bring
 	it up. I get very
-	embarrassed⋯
+	embarrassed…
 	"""
 	keyWait
 	end
@@ -123345,7 +123345,7 @@ script 193 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	What went wrong⋯?
+	What went wrong…?
 	I'll have to rethink
 	my tactics.
 	"""
@@ -123365,14 +123365,14 @@ script 220 mmbn3 {
 		mugshot = MegaMan
 	"""
 	Huh? What type of
-	virus is⋯?
+	virus is…?
 	"""
 	keyWait
 	clearMsg
 	mugshotHide
 	"""
 	Huh? What type of
-	virus is⋯?
+	virus is…?
 	"""
 	keyWait
 	clearMsg
@@ -123427,7 +123427,7 @@ script 221 mmbn3 {
 	"""
 	They won't budge!
 	What can we do to
-	move them⋯?
+	move them…?
 	"""
 	keyWait
 	checkFlag
@@ -123484,7 +123484,7 @@ script 223 mmbn3 {
 	"""
 	The seem to need
 	something to
-	complete their sets⋯
+	complete their sets…
 	"""
 	keyWait
 	checkFlag
@@ -123545,14 +123545,14 @@ script 226 mmbn3 {
 	msgOpen
 	"""
 	"She sells seashells
-	by the seashore⋯"
+	by the seashore…"
 	"""
 	keyWait
 	clearMsg
 	mugshotHide
 	"""
 	"She sells seashells
-	by the seeee⋯UGH!!"
+	by the seeee…UGH!!"
 	"""
 	keyWait
 	clearMsg
@@ -123590,7 +123590,7 @@ script 227 mmbn3 {
 	"Crunch,crack!"
 	keyWait
 	clearMsg
-	"Crack,crack,bang⋯!"
+	"Crack,crack,bang…!"
 	keyWait
 	clearMsg
 	mugshotHide
@@ -123868,7 +123868,7 @@ script 0 mmbn3 {
 	clearMsg
 	mugshotShow
 		mugshot = MrProg
-	"I think so⋯"
+	"I think so…"
 	keyWait
 	clearMsg
 	"""
@@ -123952,7 +123952,7 @@ script 0 mmbn3 {
 	"""
 	Changed BattleChip
 	will be used up,so
-	please be careful⋯
+	please be careful…
 	"""
 	keyWait
 	clearMsg
@@ -124072,7 +124072,7 @@ script 220 mmbn3 {
 	clearMsg
 	"""
 	If we can restore
-	this to normal⋯
+	this to normal…
 	"""
 	keyWait
 	clearMsg
@@ -124267,8 +124267,8 @@ script 0 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	3 weeds⋯At the very
-	back⋯Very back⋯
+	3 weeds…At the very
+	back…Very back…
 	"""
 	keyWait
 	end
@@ -124280,7 +124280,7 @@ script 10 mmbn3 {
 	"""
 	Another weird guy
 	coming in from the
-	Beach area⋯
+	Beach area…
 	"""
 	keyWait
 	clearMsg
@@ -124480,9 +124480,9 @@ script 0 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	9 weeds⋯Middle row⋯
-	Middle row⋯
-	Middle row⋯
+	9 weeds…Middle row…
+	Middle row…
+	Middle row…
 	"""
 	keyWait
 	end
@@ -124634,8 +124634,8 @@ script 0 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	4 weeds⋯4 weeds⋯
-	Top left⋯Top left⋯
+	4 weeds…4 weeds…
+	Top left…Top left…
 	"""
 	keyWait
 	end
@@ -124645,9 +124645,9 @@ script 1 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	8 weeds⋯
-	2nd from the back⋯
-	2nd from the back⋯
+	8 weeds…
+	2nd from the back…
+	2nd from the back…
 	"""
 	keyWait
 	end
@@ -124836,9 +124836,9 @@ script 0 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	4 weeds⋯
-	Top left⋯
-	Top left⋯
+	4 weeds…
+	Top left…
+	Top left…
 	"""
 	keyWait
 	end
@@ -124848,9 +124848,9 @@ script 1 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	3 weeds⋯
-	Middle⋯
-	Middle⋯
+	3 weeds…
+	Middle…
+	Middle…
 	"""
 	keyWait
 	end
@@ -124860,9 +124860,9 @@ script 2 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	"エ" shaped weed⋯
-	⋯⋯
-	I'd forgotten⋯
+	"I" shaped weed…
+	……
+	I'd forgotten…
 	"""
 	keyWait
 	end
@@ -125757,7 +125757,7 @@ script 20 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	⋯The TV station?
+	…The TV station?
 	Sorry,I can't.
 	"""
 	keyWait
@@ -126101,7 +126101,7 @@ script 20 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	⋯I see,so you're
+	…I see,so you're
 	making a TV show.
 	"""
 	keyWait
@@ -126527,7 +126527,7 @@ script 4 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Ah,just a second⋯
+	Ah,just a second…
 	There's one more
 	thing.
 	"""
@@ -126901,8 +126901,8 @@ script 6 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Mmm hm⋯
-	Ah,I see⋯
+	Mmm hm…
+	Ah,I see…
 	"""
 	keyWait
 	clearMsg
@@ -126989,8 +126989,8 @@ script 7 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Mm hmm⋯
-	Ah,I see⋯
+	Mm hmm…
+	Ah,I see…
 	"""
 	keyWait
 	clearMsg
@@ -127135,8 +127135,8 @@ script 33 mmbn3 {
 	clearMsg
 	"""
 	What could they be
-	thinking⋯? Are they
-	even thinking⋯?
+	thinking…? Are they
+	even thinking…?
 	"""
 	keyWait
 	end
@@ -127805,8 +127805,8 @@ script 6 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Mmm hmm⋯
-	Ah,I see⋯
+	Mmm hmm…
+	Ah,I see…
 	"""
 	keyWait
 	clearMsg
@@ -127896,8 +127896,8 @@ script 7 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Mmm hmm⋯
-	Ah,I see⋯
+	Mmm hmm…
+	Ah,I see…
 	"""
 	keyWait
 	clearMsg
@@ -127990,7 +127990,7 @@ script 30 mmbn3 {
 	"""
 	It doesn't seem to
 	mean anything. It's
-	just eye-exercises⋯
+	just eye-exercises…
 	"""
 	keyWait
 	end
@@ -128043,7 +128043,7 @@ script 34 mmbn3 {
 	"""
 	Too busy digging
 	holes,they don't
-	notice MegaMan⋯
+	notice MegaMan…
 	"""
 	keyWait
 	end
@@ -128701,8 +128701,8 @@ script 6 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Mmm hmm⋯
-	Ah,I see⋯
+	Mmm hmm…
+	Ah,I see…
 	"""
 	keyWait
 	clearMsg
@@ -128799,8 +128799,8 @@ script 7 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Mmm hmm⋯
-	Ah,I see⋯
+	Mmm hmm…
+	Ah,I see…
 	"""
 	keyWait
 	clearMsg
@@ -128917,7 +128917,7 @@ script 32 mmbn3 {
 	msgOpen
 	"""
 	They meditate with
-	eyes lightly shut⋯
+	eyes lightly shut…
 	"""
 	keyWait
 	end
@@ -129595,8 +129595,8 @@ script 6 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Mmm hmm⋯
-	Ah,I see⋯
+	Mmm hmm…
+	Ah,I see…
 	"""
 	keyWait
 	clearMsg
@@ -129693,8 +129693,8 @@ script 7 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Mmm hmm⋯
-	Ah,I see⋯
+	Mmm hmm…
+	Ah,I see…
 	"""
 	keyWait
 	clearMsg
@@ -129801,7 +129801,7 @@ script 31 mmbn3 {
 	clearMsg
 	"""
 	Until they start to
-	shake their bodies⋯
+	shake their bodies…
 	"""
 	keyWait
 	end
@@ -129811,7 +129811,7 @@ script 32 mmbn3 {
 	"""
 	Suddenly,they laugh!
 	But their eyes are
-	cold and scary⋯
+	cold and scary…
 	"""
 	keyWait
 	end
@@ -129828,7 +129828,7 @@ script 33 mmbn3 {
 		enemy = 49
 	keyWait
 	clearMsg
-	"⋯I think."
+	"…I think."
 	keyWait
 	end
 }
@@ -129886,7 +129886,7 @@ script 37 mmbn3 {
 		enemy = 25
 	"""
 	 viruses
-	have hidden powers⋯?
+	have hidden powers…?
 	"""
 	keyWait
 	end
@@ -130425,8 +130425,8 @@ script 3 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Mmm hmmm⋯
-	Ah,I see⋯
+	Mmm hmmm…
+	Ah,I see…
 	"""
 	keyWait
 	clearMsg
@@ -130524,7 +130524,7 @@ script 22 mmbn3 {
 	msgOpen
 	"""
 	A grinding noise can
-	be heard⋯
+	be heard…
 	But from where?
 	"""
 	keyWait
@@ -130832,7 +130832,7 @@ script 0 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Sigh⋯
+	Sigh…
 	Poor lonely me.
 	"""
 	keyWait
@@ -130890,7 +130890,7 @@ script 0 mmbn3 {
 	msgOpen
 	mugshotAnimate
 		animation = 0
-	"Shuffle,shuffle⋯"
+	"Shuffle,shuffle…"
 	keyWait
 	clearMsg
 	mugshotAnimate
@@ -130898,7 +130898,7 @@ script 0 mmbn3 {
 	"""
 	OK. How much bath
 	oil should I put
-	in,I wonder⋯?
+	in,I wonder…?
 	"""
 	keyWait
 	clearMsg
@@ -130926,7 +130926,7 @@ script 0 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Bath oils!? Uh⋯
+	Bath oils!? Uh…
 	What are those? I
 	didn't say anything!
 	"""
@@ -131063,8 +131063,8 @@ script 0 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	Sob,sob⋯
-	Sniffle⋯
+	Sob,sob…
+	Sniffle…
 	"""
 	keyWait
 	clearMsg
@@ -131246,7 +131246,7 @@ script 1 mmbn3 {
 	clearMsg
 	"""
 	I feel kind of bad
-	about it,actually⋯
+	about it,actually…
 	"""
 	keyWait
 	end
@@ -131283,13 +131283,13 @@ script 3 mmbn3 {
 	"""
 	You're mistaken!
 	I haven't been
-	barking recently⋯
+	barking recently…
 	"""
 	keyWait
 	clearMsg
 	"""
 	Oh,no! Could there
-	be a beast⋯
+	be a beast…
 	On the loose here?
 	"""
 	keyWait
@@ -131421,7 +131421,7 @@ script 190 mmbn3 {
 	clearMsg
 	waitSkip
 		frames = 20
-	"⋯Eh?"
+	"…Eh?"
 	keyWait
 	clearMsg
 	"""
@@ -131436,19 +131436,19 @@ script 190 mmbn3 {
 	"""
 	Hey! My
 	work tools!
-	Wow,tha⋯
+	Wow,tha…
 	"""
 	keyWait
 	clearMsg
-	"⋯⋯"
+	"……"
 	waitSkip
 		frames = 20
 	keyWait
 	clearMsg
 	"""
-	⋯Hmph! Give 'em to
+	…Hmph! Give 'em to
 	me before I change
-	my mind⋯
+	my mind…
 	"""
 	keyWait
 	clearMsg
@@ -131465,7 +131465,7 @@ script 190 mmbn3 {
 	clearMsg
 	mugshotShow
 		mugshot = NormalNaviGreen
-	"⋯⋯"
+	"……"
 	waitSkip
 		frames = 20
 	keyWait
@@ -131473,14 +131473,14 @@ script 190 mmbn3 {
 	"""
 	Tell the person who
 	asked you to deliver
-	these⋯
+	these…
 	"""
 	keyWait
 	clearMsg
 	"""
 	I'm only taking
 	them because I have
-	no choice⋯
+	no choice…
 	"""
 	keyWait
 	end
@@ -131600,7 +131600,7 @@ script 11 mmbn3 {
 	msgOpen
 	"""
 	Ah! I wonder if this
-	data is⋯
+	data is…
 	Ouch! That's hot!!
 	"""
 	keyWait
@@ -131660,8 +131660,8 @@ script 12 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	Ouch⋯Ouch⋯
-	H-Hot⋯Too hot!
+	Ouch…Ouch…
+	H-Hot…Too hot!
 	"""
 	keyWait
 	clearMsg
@@ -131686,7 +131686,7 @@ script 13 mmbn3 {
 	clearMsg
 	"""
 	He sure was a nice
-	program,too⋯
+	program,too…
 	"""
 	keyWait
 	end
@@ -131736,8 +131736,8 @@ script 190 mmbn3 {
 	waitSkip
 		frames = 10
 	"""
-	 You're not⋯?
-	Oh,pardon me⋯
+	 You're not…?
+	Oh,pardon me…
 	"""
 	waitSkip
 		frames = 2
@@ -131757,7 +131757,7 @@ script 190 mmbn3 {
 	"""
 	waitSkip
 		frames = 10
-	"\n⋯Yes,I was sold."
+	"\n…Yes,I was sold."
 	keyWait
 	clearMsg
 	"""
@@ -131767,7 +131767,7 @@ script 190 mmbn3 {
 	"""
 	keyWait
 	clearMsg
-	"However⋯"
+	"However…"
 	keyWait
 	clearMsg
 	"""
@@ -131787,7 +131787,7 @@ script 190 mmbn3 {
 	"""
 	Don't say you know
 	me. A sold Navi is
-	of no importance⋯
+	of no importance…
 	"""
 	keyWait
 	clearMsg
@@ -131839,7 +131839,7 @@ script 191 mmbn3 {
 	clearMsg
 	"""
 	There could be a
-	clue hidden in it⋯
+	clue hidden in it…
 	"""
 	keyWait
 	end
@@ -131969,7 +131969,7 @@ script 0 mmbn3 {
 	"""
 	I'm analyzing virus
 	data right now.
-	Beep,beep,ping⋯
+	Beep,beep,ping…
 	"""
 	keyWait
 	end
@@ -131986,7 +131986,7 @@ script 1 mmbn3 {
 	clearMsg
 	"""
 	This goes here,
-	that goes there⋯
+	that goes there…
 	"""
 	keyWait
 	end
@@ -132003,7 +132003,7 @@ script 2 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	OK⋯
+	OK…
 	Time to draw up the
 	results of analysis.
 	"""
@@ -132087,8 +132087,8 @@ script 10 mmbn3 {
 	msgOpen
 	"""
 	File the papers from
-	the meeting. Then⋯
-	Agh! I mixed up⋯
+	the meeting. Then…
+	Agh! I mixed up…
 	"""
 	keyWait
 	end
@@ -132176,14 +132176,14 @@ script 11 mmbn3 {
 		mugshot = MrProg
 	"""
 	Ouch!! It's h-hot!
-	But it works⋯
+	But it works…
 	"""
 	keyWait
 	clearMsg
 	"""
 	This heat could melt
 	away ANY fatigue!
-	Aaaaaaah⋯!
+	Aaaaaaah…!
 	"""
 	keyWait
 	end
@@ -132194,8 +132194,8 @@ script 12 mmbn3 {
 	msgOpen
 	"""
 	Ahh! I feel so much
-	better n⋯Ouch!!
-	It's getting too⋯
+	better n…Ouch!!
+	It's getting too…
 	"""
 	keyWait
 	clearMsg
@@ -132210,7 +132210,7 @@ script 13 mmbn3 {
 	"""
 	My colleague was
 	burnt and deleted in
-	the fire⋯
+	the fire…
 	"""
 	keyWait
 	clearMsg
@@ -132355,7 +132355,7 @@ script 1 mmbn3 {
 	clearMsg
 	"""
 	All the programs
-	here are ladies⋯
+	here are ladies…
 	It's the best way.
 	"""
 	keyWait
@@ -132415,7 +132415,7 @@ script 0 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	Hmmm,hmm,hm⋯
+	Hmmm,hmm,hm…
 	I'm grading a math
 	test at the moment.
 	"""
@@ -132427,7 +132427,7 @@ script 1 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	Beep,beep,ka-ching⋯!
+	Beep,beep,ka-ching…!
 	100% for Yai!
 	"""
 	keyWait
@@ -132438,7 +132438,7 @@ script 2 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	Beep,beep,ka-ching⋯!
+	Beep,beep,ka-ching…!
 	85% for Mayl!
 	"""
 	keyWait
@@ -132449,7 +132449,7 @@ script 3 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	Beep,beep,ka-ching⋯!
+	Beep,beep,ka-ching…!
 	15% for Dex!
 	"""
 	keyWait
@@ -132543,10 +132543,10 @@ script 0 mmbn3 {
 	mugshotShow
 		mugshot = MrProg
 	msgOpen
-	"Receiving data⋯"
+	"Receiving data…"
 	keyWait
 	clearMsg
-	"⋯"
+	"…"
 	keyWait
 	clearMsg
 	"""
@@ -132659,7 +132659,7 @@ script 0 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Huh⋯? Oh⋯
+	Huh…? Oh…
 	I'm practicing to
 	be a referee.
 	"""
@@ -132687,8 +132687,8 @@ script 10 mmbn3 {
 		mugshot = MistMan
 	msgOpen
 	"""
-	I sense it⋯
-	A warrior's power⋯!
+	I sense it…
+	A warrior's power…!
 	"""
 	keyWait
 	clearMsg
@@ -132707,14 +132707,14 @@ script 10 mmbn3 {
 		mugshot = MistMan
 	"""
 	Looks like you've
-	come for my rank 2⋯
+	come for my rank 2…
 	"""
 	keyWait
 	clearMsg
 	"""
 	It's strange. You
 	look too innocent
-	for the Undernet⋯
+	for the Undernet…
 	"""
 	keyWait
 	clearMsg
@@ -132728,7 +132728,7 @@ script 10 mmbn3 {
 	clearMsg
 	mugshotShow
 		mugshot = MistMan
-	"\"S\"⋯"
+	"\"S\"…"
 	keyWait
 	clearMsg
 	"""
@@ -132764,7 +132764,7 @@ script 10 mmbn3 {
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"You mean battling⋯?"
+	"You mean battling…?"
 	keyWait
 	clearMsg
 	mugshotShow
@@ -132784,7 +132784,7 @@ script 10 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	And if you can't⋯
+	And if you can't…
 	Deletion will be
 	your only comfort!
 	"""
@@ -132929,7 +132929,7 @@ script 16 mmbn3 {
 	msgOpen
 	"""
 	I'll start out with
-	a soft one for you⋯
+	a soft one for you…
 	Strike!!
 	"""
 	keyWait
@@ -132984,7 +132984,7 @@ script 19 mmbn3 {
 	"""
 	I'm not just the
 	same old GutsMan!
-	I am⋯NeoGutsMan!
+	I am…NeoGutsMan!
 	"""
 	keyWait
 	clearMsg
@@ -133049,7 +133049,7 @@ script 23 mmbn3 {
 		mugshot = BowlMan
 	msgOpen
 	"""
-	You beat me⋯
+	You beat me…
 	Not bad,kid.
 	"""
 	keyWait
@@ -133072,8 +133072,8 @@ script 24 mmbn3 {
 	msgOpen
 	"""
 	Argh! So you were
-	able to beat me⋯
-	How⋯striking⋯
+	able to beat me…
+	How…striking…
 	"""
 	keyWait
 	clearMsg
@@ -133102,8 +133102,8 @@ script 25 mmbn3 {
 	clearMsg
 	"""
 	Maybe you could even
-	beat Sere⋯Nah,
-	no way⋯
+	beat Sere…Nah,
+	no way…
 	"""
 	keyWait
 	end
@@ -133116,7 +133116,7 @@ script 26 mmbn3 {
 	mugshotShow
 		mugshot = BowlMan
 	msgOpen
-	"⋯⋯"
+	"……"
 	keyWait
 	end
 }
@@ -133225,7 +133225,7 @@ script 34 mmbn3 {
 	mugshotShow
 		mugshot = MistMan
 	msgOpen
-	"Try me any time⋯"
+	"Try me any time…"
 	keyWait
 	end
 }
@@ -133236,7 +133236,7 @@ script 35 mmbn3 {
 	"""
 	A warrior must rest
 	at times. And this
-	is such a time⋯
+	is such a time…
 	"""
 	keyWait
 	end
@@ -133247,7 +133247,7 @@ script 36 mmbn3 {
 	msgOpen
 	"""
 	Let's just see what
-	you're made of⋯
+	you're made of…
 	"""
 	keyWait
 	clearMsg
@@ -133260,7 +133260,7 @@ script 37 mmbn3 {
 	msgOpen
 	"""
 	Growth comes through
-	defeat⋯
+	defeat…
 	"""
 	keyWait
 	clearMsg
@@ -133298,7 +133298,7 @@ script 39 mmbn3 {
 	"""
 	I'm not just the
 	same old GutsMan!
-	I am⋯NeoGutsMan!
+	I am…NeoGutsMan!
 	"""
 	keyWait
 	clearMsg
@@ -133380,7 +133380,7 @@ script 45 mmbn3 {
 	"""
 	Perhaps even to
 	where you can take
-	on Serenade⋯
+	on Serenade…
 	"""
 	keyWait
 	end
@@ -133389,7 +133389,7 @@ script 46 mmbn3 {
 	mugshotShow
 		mugshot = MistMan
 	msgOpen
-	"⋯⋯"
+	"……"
 	keyWait
 	end
 }
@@ -133429,7 +133429,7 @@ script 52 mmbn3 {
 	msgOpen
 	"""
 	I can sense a great
-	power⋯
+	power…
 	"""
 	keyWait
 	clearMsg
@@ -133470,7 +133470,7 @@ script 52 mmbn3 {
 	"""
 	Of course,the best
 	way to meet him is
-	to raise your rank⋯
+	to raise your rank…
 	"""
 	keyWait
 	clearMsg
@@ -133481,13 +133481,13 @@ script 52 mmbn3 {
 	clearMsg
 	mugshotShow
 		mugshot = BowlMan
-	"Well⋯"
+	"Well…"
 	keyWait
 	clearMsg
 	"""
 	I don't mind telling
 	you what I know
-	about "S"⋯
+	about "S"…
 	"""
 	keyWait
 	clearMsg
@@ -133668,7 +133668,7 @@ script 2 mmbn3 {
 	"""
 	Useless!
 	It'll be a while
-	before he's ready⋯
+	before he's ready…
 	"""
 	keyWait
 	end
@@ -133841,7 +133841,7 @@ script 0 mmbn3 {
 	"""
 	I'm a telephone! But
 	nobody uses me!
-	Sigh⋯
+	Sigh…
 	"""
 	keyWait
 	end
@@ -133873,15 +133873,15 @@ script 190 mmbn3 {
 	clearMsg
 	"""
 	Is this place too
-	intense⋯? Were my
-	messages too crude⋯?
+	intense…? Were my
+	messages too crude…?
 	"""
 	keyWait
 	clearMsg
-	"Sigh. You know⋯"
+	"Sigh. You know…"
 	keyWait
 	clearMsg
-	"It's a shame⋯"
+	"It's a shame…"
 	waitSkip
 		frames = 20
 	keyWait
@@ -133924,8 +133924,8 @@ script 191 mmbn3 {
 		frames = 6
 	"""
 	.
-	So,so strong⋯
-	Hua,ha,ha⋯
+	So,so strong…
+	Hua,ha,ha…
 	"""
 	keyWait
 	clearMsg
@@ -134337,16 +134337,16 @@ script 0 mmbn3 {
 	mugshotShow
 		mugshot = MrProg
 	msgOpen
-	"SSznnnzz⋯! Zzzzz⋯!"
+	"SSznnnzz…! Zzzzz…!"
 	keyWait
 	clearMsg
-	"⋯Huh!?"
+	"…Huh!?"
 	keyWait
 	clearMsg
 	"""
 	I can't fall asleep!
 	What if something
-	happened⋯!
+	happened…!
 	"""
 	keyWait
 	end
@@ -134364,7 +134364,7 @@ script 1 mmbn3 {
 	"""
 	I just adjust the
 	bed height. It's not
-	a lot to do⋯
+	a lot to do…
 	"""
 	keyWait
 	end
@@ -134426,7 +134426,7 @@ script 1 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	♪Money,money⋯
+	♪Money,money…
 	Money money money
 	MO-NEY!♪
 	"""
@@ -134441,7 +134441,7 @@ script 1 mmbn3 {
 	"""
 	Now,there should be
 	another 100 Zennys
-	around somewhere⋯
+	around somewhere…
 	"""
 	keyWait
 	end
@@ -134504,12 +134504,12 @@ script 0 mmbn3 {
 	mugshotShow
 		mugshot = MrProg
 	msgOpen
-	"So,today's date is⋯"
+	"So,today's date is…"
 	keyWait
 	clearMsg
 	"""
 	OK. So,this many
-	people have come in⋯
+	people have come in…
 	"""
 	keyWait
 	clearMsg
@@ -134761,7 +134761,7 @@ script 0 mmbn3 {
 	"""
 	keyWait
 	clearMsg
-	"Hsssssssssss⋯"
+	"Hsssssssssss…"
 	keyWait
 	end
 }
@@ -134933,7 +134933,7 @@ script 0 mmbn3 {
 	"""
 	Haven't actually
 	found one yet,
-	though⋯
+	though…
 	"""
 	keyWait
 	end
@@ -134970,7 +134970,7 @@ script 1 mmbn3 {
 	"""
 	Oops! I must have
 	looked pretty dumb,
-	then⋯
+	then…
 	"""
 	keyWait
 	end
@@ -135032,7 +135032,7 @@ script 0 mmbn3 {
 	"""
 	keyWait
 	clearMsg
-	"Huff,huff⋯"
+	"Huff,huff…"
 	keyWait
 	clearMsg
 	"""
@@ -135044,7 +135044,7 @@ script 0 mmbn3 {
 	"""
 	But the speaker in
 	the real world is
-	broken and silent⋯
+	broken and silent…
 	"""
 	keyWait
 	clearMsg
@@ -135067,21 +135067,21 @@ script 1 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	He still practices⋯
+	He still practices…
 	But what's the use?
-	He can't be heard⋯
+	He can't be heard…
 	"""
 	keyWait
 	clearMsg
 	"""
 	To be honest,we have
-	no real purpose⋯
+	no real purpose…
 	"""
 	keyWait
 	clearMsg
 	"""
 	Maybe he's just
-	in denial⋯
+	in denial…
 	"""
 	keyWait
 	end
@@ -135199,12 +135199,12 @@ script 0 mmbn3 {
 	mugshotShow
 		mugshot = MrProg
 	msgOpen
-	"⋯Ah!"
+	"…Ah!"
 	keyWait
 	clearMsg
 	"""
 	Good job,finding
-	this area⋯
+	this area…
 	"""
 	keyWait
 	clearMsg
@@ -135218,7 +135218,7 @@ script 0 mmbn3 {
 	"""
 	So all of the
 	programs here should
-	really be working⋯
+	really be working…
 	"""
 	keyWait
 	end
@@ -135228,7 +135228,7 @@ script 1 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	⋯Ah! Don't tell
+	…Ah! Don't tell
 	anyone you saw me
 	napping here!!
 	"""
@@ -135242,7 +135242,7 @@ script 2 mmbn3 {
 	"""
 	You know,even
 	programs need a
-	break sometimes⋯
+	break sometimes…
 	"""
 	keyWait
 	end
@@ -135271,14 +135271,14 @@ script 4 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	Just a little nap⋯
-	Just a little nap⋯
+	Just a little nap…
+	Just a little nap…
 	"""
 	keyWait
 	clearMsg
 	"""
 	Before I go back to
-	work⋯
+	work…
 	"""
 	keyWait
 	end
@@ -135288,9 +135288,9 @@ script 5 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	Listen to this⋯
+	Listen to this…
 	These things on our
-	heads aren't ears⋯
+	heads aren't ears…
 	"""
 	keyWait
 	clearMsg
@@ -135303,9 +135303,9 @@ script 6 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	Sigh⋯
+	Sigh…
 	Suppose I should go
-	back to work⋯
+	back to work…
 	"""
 	keyWait
 	clearMsg
@@ -135440,7 +135440,7 @@ script 180 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	And on that note⋯
+	And on that note…
 	Wanna see my stuff?
 	
 	"""
@@ -135487,9 +135487,9 @@ script 182 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	Some saleman⋯
+	Some saleman…
 	I'm out of SubChips!
-	What a disgrace⋯
+	What a disgrace…
 	"""
 	keyWait
 	end
@@ -135810,14 +135810,14 @@ script 16 mmbn3 {
 	msgOpen
 	"""
 	It's just a
-	rumor,but⋯
+	rumor,but…
 	"""
 	keyWait
 	clearMsg
 	"""
 	That NetCrime
 	organization is
-	back,they say⋯
+	back,they say…
 	"""
 	keyWait
 	end
@@ -135906,9 +135906,9 @@ script 22 mmbn3 {
 		mugshot = NormalNaviGreen
 	msgOpen
 	"""
-	Sigh⋯I have to clean
+	Sigh…I have to clean
 	my operator's
-	homepage today⋯
+	homepage today…
 	"""
 	keyWait
 	clearMsg
@@ -135948,7 +135948,7 @@ script 26 mmbn3 {
 	msgOpen
 	"""
 	Is everyone asleep?
-	It's so quiet⋯
+	It's so quiet…
 	"""
 	keyWait
 	end
@@ -136000,7 +136000,7 @@ script 31 mmbn3 {
 	clearMsg
 	"""
 	OK,so I go straight
-	here⋯
+	here…
 	"""
 	keyWait
 	end
@@ -136142,7 +136142,7 @@ script 45 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	You don't look well⋯
+	You don't look well…
 	Is something wrong?
 	"""
 	keyWait
@@ -136268,7 +136268,7 @@ script 62 mmbn3 {
 	"""
 	Wish we could go to
 	the CyberMetro right
-	from Dex's homepage⋯
+	from Dex's homepage…
 	"""
 	keyWait
 	end
@@ -136335,7 +136335,7 @@ script 71 mmbn3 {
 	"""
 	Here,take it! I was
 	sure you wouldn't
-	have a chance,but⋯
+	have a chance,but…
 	"""
 	keyWait
 	clearMsg
@@ -136507,7 +136507,7 @@ script 100 mmbn3 {
 	msgOpen
 	"""
 	A weird Navi came
-	through here⋯
+	through here…
 	A friend of yours?
 	"""
 	keyWait
@@ -136537,7 +136537,7 @@ script 110 mmbn3 {
 	"""
 	Yikes! That guy who
 	passed me was
-	the culprit⋯?
+	the culprit…?
 	"""
 	keyWait
 	end
@@ -136677,19 +136677,19 @@ script 150 mmbn3 {
 	mugshotShow
 		mugshot = OfficialNavi
 	msgOpen
-	"Wheeze,wheeze⋯"
+	"Wheeze,wheeze…"
 	keyWait
 	clearMsg
 	"""
-	Civilian Navis⋯
-	Please jack out⋯!
-	Wheeze,wheeze⋯
+	Civilian Navis…
+	Please jack out…!
+	Wheeze,wheeze…
 	"""
 	keyWait
 	clearMsg
 	"""
-	The heat⋯!
-	Can't speak⋯!
+	The heat…!
+	Can't speak…!
 	"""
 	keyWait
 	end
@@ -136700,7 +136700,7 @@ script 155 mmbn3 {
 	msgOpen
 	"""
 	Whew! Thank goodness
-	it cooled down⋯
+	it cooled down…
 	"""
 	keyWait
 	clearMsg
@@ -136843,9 +136843,9 @@ script 181 mmbn3 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	What's this⋯? I feel
+	What's this…? I feel
 	weaker just by being
-	on the Net⋯
+	on the Net…
 	"""
 	keyWait
 	end
@@ -136884,7 +136884,7 @@ script 190 mmbn3 {
 	clearMsg
 	"""
 	Here's what I
-	need you to do⋯
+	need you to do…
 	"""
 	keyWait
 	clearMsg
@@ -136905,14 +136905,14 @@ script 190 mmbn3 {
 	"""
 	I don't expect he
 	can do any work
-	without them⋯
+	without them…
 	"""
 	keyWait
 	clearMsg
 	"""
 	I should bring them,
 	but we argued this
-	morning⋯
+	morning…
 	"""
 	keyWait
 	clearMsg
@@ -137034,13 +137034,13 @@ script 194 mmbn3 {
 	clearMsg
 	"""
 	What? My husband
-	said that⋯?
+	said that…?
 	"""
 	keyWait
 	clearMsg
 	"""
 	Sometimes he can be
-	so nasty⋯!
+	so nasty…!
 	"""
 	keyWait
 	clearMsg
@@ -137434,7 +137434,7 @@ script 225 mmbn3 {
 }
 script 226 mmbn3 {
 	msgOpen
-	"What a flame⋯"
+	"What a flame…"
 	keyWait
 	end
 }
@@ -138247,13 +138247,13 @@ script 15 mmbn3 {
 	"""
 	I wanted to take
 	part in the N1 Grand
-	Prix,too⋯
+	Prix,too…
 	"""
 	keyWait
 	clearMsg
 	"""
 	But I'm just a
-	program. Sigh⋯
+	program. Sigh…
 	"""
 	keyWait
 	end
@@ -138268,7 +138268,7 @@ script 20 mmbn3 {
 	msgOpen
 	"""
 	OK,let's lock the
-	school gates⋯
+	school gates…
 	"""
 	keyWait
 	clearMsg
@@ -138340,7 +138340,7 @@ script 26 mmbn3 {
 	mugshotShow
 		mugshot = NormalNaviGreen
 	msgOpen
-	"Zzzzzzzz⋯"
+	"Zzzzzzzz…"
 	keyWait
 	end
 }
@@ -138398,8 +138398,8 @@ script 31 mmbn3 {
 		palette = 1
 	msgOpen
 	"""
-	Mmmm⋯What a relaxing
-	sleep⋯!
+	Mmmm…What a relaxing
+	sleep…!
 	"""
 	keyWait
 	clearMsg
@@ -138564,7 +138564,7 @@ script 46 mmbn3 {
 	"""
 	I just saw the TV
 	station Navi. Maybe
-	he's still around⋯
+	he's still around…
 	"""
 	keyWait
 	end
@@ -138596,7 +138596,7 @@ script 50 mmbn3 {
 	"""
 	I waved at the
 	camera,so maybe I
-	got on TV⋯
+	got on TV…
 	"""
 	keyWait
 	end
@@ -138679,7 +138679,7 @@ script 65 mmbn3 {
 	msgOpen
 	"""
 	Enemies of viruses?
-	They have so many⋯
+	They have so many…
 	"""
 	keyWait
 	clearMsg
@@ -138702,7 +138702,7 @@ script 66 mmbn3 {
 		palette = 1
 	msgOpen
 	"""
-	Yellow⋯? Do you mean
+	Yellow…? Do you mean
 	a yellow Navi?
 	"""
 	keyWait
@@ -138710,7 +138710,7 @@ script 66 mmbn3 {
 	"""
 	On of the TV Navis
 	is a strange yellow
-	color,I think⋯
+	color,I think…
 	"""
 	keyWait
 	end
@@ -138829,7 +138829,7 @@ script 80 mmbn3 {
 	"""
 	So,the preliminaries
 	are over. So who'll
-	be in the N1,then⋯?
+	be in the N1,then…?
 	"""
 	keyWait
 	clearMsg
@@ -138869,7 +138869,7 @@ script 90 mmbn3 {
 	"""
 	What!? What's that!?
 	A strange Navi just
-	ran off⋯
+	ran off…
 	"""
 	keyWait
 	end
@@ -138995,7 +138995,7 @@ script 111 mmbn3 {
 	"""
 	N1 is a good event,
 	but safety around
-	here suffers⋯
+	here suffers…
 	"""
 	keyWait
 	clearMsg
@@ -139033,7 +139033,7 @@ script 121 mmbn3 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	ACDC area is normal⋯
+	ACDC area is normal…
 	Shall we try another
 	area?
 	"""
@@ -139069,7 +139069,7 @@ script 135 mmbn3 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	The WWW again⋯?
+	The WWW again…?
 	This is getting
 	serious now!
 	"""
@@ -139139,7 +139139,7 @@ script 151 mmbn3 {
 	"""
 	Thanks to the WWW,we
 	Official Navis can't
-	rest at all. Sigh⋯
+	rest at all. Sigh…
 	"""
 	keyWait
 	end
@@ -139208,7 +139208,7 @@ script 165 mmbn3 {
 	"""
 	Something terrible
 	will happen. I just
-	have a feeling⋯
+	have a feeling…
 	"""
 	keyWait
 	clearMsg
@@ -139284,7 +139284,7 @@ script 182 mmbn3 {
 	mugshotShow
 		mugshot = NormalNaviGreen
 	msgOpen
-	"Sorry,all sold out⋯"
+	"Sorry,all sold out…"
 	keyWait
 	end
 }
@@ -139302,7 +139302,7 @@ script 190 mmbn3 {
 	mugshotShow
 		mugshot = PurpleNavi
 	msgOpen
-	"\"Class 5-A\n Mayl: Weight⋯\""
+	"\"Class 5-A\n Mayl: Weight…\""
 	keyWait
 	clearMsg
 	"""
@@ -139318,13 +139318,13 @@ script 190 mmbn3 {
 	"""
 	keyWait
 	clearMsg
-	"⋯⋯"
+	"……"
 	keyWait
 	clearMsg
 	"""
-	Well,let's see⋯
+	Well,let's see…
 	I found it,so it IS
-	mine⋯
+	mine…
 	"""
 	keyWait
 	clearMsg
@@ -139488,7 +139488,7 @@ script 195 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Well,OK,then⋯
+	Well,OK,then…
 	So we'll trade for
 	"
 	"""
@@ -139518,7 +139518,7 @@ script 195 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Actually⋯No!"
+	"Actually…No!"
 	select
 		default = 0
 		BSeparate = false
@@ -139591,7 +139591,7 @@ script 221 mmbn3 {
 }
 script 222 mmbn3 {
 	msgOpen
-	"What a flame⋯"
+	"What a flame…"
 	keyWait
 	end
 }
@@ -140205,7 +140205,7 @@ script 15 mmbn3 {
 	"""
 	Once the N1 rounds
 	ended,all signs of
-	life disappeared⋯
+	life disappeared…
 	"""
 	keyWait
 	end
@@ -140219,7 +140219,7 @@ script 16 mmbn3 {
 		buffer = 0
 		item = 2
 	"""
-	"⋯
+	"…
 	Where is it!?
 	"""
 	keyWait
@@ -140292,7 +140292,7 @@ script 30 mmbn3 {
 	clearMsg
 	"""
 	I can't wait to meet
-	that cute Navi⋯!
+	that cute Navi…!
 	"""
 	keyWait
 	end
@@ -140320,7 +140320,7 @@ script 31 mmbn3 {
 	clearMsg
 	"""
 	are on the increase.
-	It's very worrying⋯
+	It's very worrying…
 	"""
 	keyWait
 	end
@@ -140383,7 +140383,7 @@ script 37 mmbn3 {
 	clearMsg
 	"""
 	How'd I guess?
-	⋯I've been asked ten
+	…I've been asked ten
 	times already.
 	"""
 	keyWait
@@ -140422,7 +140422,7 @@ script 40 mmbn3 {
 	"""
 	The ones who were
 	eliminated looked so
-	disappointed⋯
+	disappointed…
 	"""
 	keyWait
 	end
@@ -140434,7 +140434,7 @@ script 41 mmbn3 {
 	"""
 	Patrolling is tough,
 	but so is standing
-	guard⋯
+	guard…
 	"""
 	keyWait
 	end
@@ -140494,7 +140494,7 @@ script 60 mmbn3 {
 	mugshotShow
 		mugshot = NormalNaviGreen
 	msgOpen
-	"\"Virus enemies\"⋯?"
+	"\"Virus enemies\"…?"
 	keyWait
 	clearMsg
 	"""
@@ -140589,7 +140589,7 @@ script 70 mmbn3 {
 	"""
 	But what's the
 	point? Dishwashing
-	isn't that hard⋯
+	isn't that hard…
 	"""
 	keyWait
 	end
@@ -140630,7 +140630,7 @@ script 80 mmbn3 {
 	msgOpen
 	"""
 	Lots of Official
-	NetBattlers around⋯
+	NetBattlers around…
 	I wonder what's up?
 	"""
 	keyWait
@@ -140643,7 +140643,7 @@ script 81 mmbn3 {
 	"""
 	The zoo crisis,
 	now this! NetCrime
-	is on the increase⋯
+	is on the increase…
 	"""
 	keyWait
 	end
@@ -140653,8 +140653,8 @@ script 82 mmbn3 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Bubbles⋯?
-	BubbleWash⋯?
+	Bubbles…?
+	BubbleWash…?
 	"""
 	keyWait
 	clearMsg
@@ -140674,14 +140674,14 @@ script 90 mmbn3 {
 	"""
 	I heard about it.
 	I feel a bit sorry
-	for that BubbleMan⋯
+	for that BubbleMan…
 	"""
 	keyWait
 	clearMsg
 	"""
 	But Navis are the
 	same,without their
-	operators⋯
+	operators…
 	"""
 	keyWait
 	end
@@ -140783,7 +140783,7 @@ script 121 mmbn3 {
 	"""
 	It's the haunt of
 	Net criminals. And
-	it's pretty scary⋯
+	it's pretty scary…
 	"""
 	keyWait
 	end
@@ -140838,7 +140838,7 @@ script 140 mmbn3 {
 	"""
 	But I don't think
 	any place is safer
-	than anywhere else⋯
+	than anywhere else…
 	"""
 	keyWait
 	end
@@ -140857,7 +140857,7 @@ script 150 mmbn3 {
 	"""
 	What could it be?
 	It's probably big,
-	mean,and scary⋯
+	mean,and scary…
 	"""
 	keyWait
 	end
@@ -140867,9 +140867,9 @@ script 160 mmbn3 {
 		mugshot = NormalNaviGreen
 	msgOpen
 	"""
-	What's this⋯?
+	What's this…?
 	I'm losing my
-	strength⋯? Oh no⋯
+	strength…? Oh no…
 	"""
 	keyWait
 	end
@@ -140979,7 +140979,7 @@ script 221 mmbn3 {
 }
 script 222 mmbn3 {
 	msgOpen
-	"What a flame⋯"
+	"What a flame…"
 	keyWait
 	end
 }
@@ -140989,7 +140989,7 @@ script 229 mmbn3 {
 	"""
 	The remaining data
 	from the Navi rose
-	and drifted away⋯
+	and drifted away…
 	"""
 	keyWait
 	end
@@ -141407,7 +141407,7 @@ script 250 mmbn3 {
 	"""
 	keyWait
 	clearMsg
-	"⋯⋯"
+	"……"
 	keyWait
 	clearMsg
 	"""
@@ -141425,7 +141425,7 @@ script 250 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Huh? And what's⋯?
+	Huh? And what's…?
 	Look out,Lan!!
 	It's a virus!!
 	"""
@@ -141455,7 +141455,7 @@ script 251 mmbn3 {
 	"""
 	There seem to be no
 	more viruses,but the
-	message remains⋯
+	message remains…
 	"""
 	keyWait
 	clearMsg
@@ -141634,7 +141634,7 @@ script 0 mmbn3 {
 			jump = continue,
 			jump = continue
 		]
-	"I see⋯"
+	"I see…"
 	keyWait
 	end
 }
@@ -141709,7 +141709,7 @@ script 2 mmbn3 {
 	mugshotShow
 		mugshot = NormalNaviGreen
 	msgOpen
-	"The answer is⋯"
+	"The answer is…"
 	keyWait
 	clearMsg
 	soundPlay
@@ -141744,7 +141744,7 @@ script 3 mmbn3 {
 	mugshotShow
 		mugshot = NormalNaviGreen
 	msgOpen
-	"The answer is⋯"
+	"The answer is…"
 	keyWait
 	clearMsg
 	soundPlay
@@ -141793,9 +141793,9 @@ script 4 mmbn3 {
 	waitSkip
 		frames = 60
 	"""
-	Or is it⋯?
+	Or is it…?
 	I'll give you one
-	last chance⋯
+	last chance…
 	"""
 	keyWait
 	clearMsg
@@ -142193,7 +142193,7 @@ script 21 mmbn3 {
 	mugshotShow
 		mugshot = NormalNaviGreen
 	msgOpen
-	"The answer is⋯"
+	"The answer is…"
 	keyWait
 	clearMsg
 	soundPlay
@@ -142215,7 +142215,7 @@ script 22 mmbn3 {
 	mugshotShow
 		mugshot = NormalNaviGreen
 	msgOpen
-	"The answer is⋯"
+	"The answer is…"
 	keyWait
 	clearMsg
 	soundPlay
@@ -142237,7 +142237,7 @@ script 23 mmbn3 {
 	mugshotShow
 		mugshot = NormalNaviGreen
 	msgOpen
-	"The answer is⋯"
+	"The answer is…"
 	keyWait
 	clearMsg
 	soundPlay
@@ -142261,7 +142261,7 @@ script 25 mmbn3 {
 	msgOpen
 	"""
 	The Navis went home
-	and left me alone⋯
+	and left me alone…
 	"""
 	keyWait
 	end
@@ -142272,7 +142272,7 @@ script 26 mmbn3 {
 	msgOpen
 	"""
 	I think maybe I
-	bought too much⋯
+	bought too much…
 	"""
 	keyWait
 	clearMsg
@@ -142296,9 +142296,9 @@ script 28 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	So many people⋯
+	So many people…
 	Whew. I'm tired.
-	So tired⋯
+	So tired…
 	"""
 	keyWait
 	end
@@ -142387,7 +142387,7 @@ script 50 mmbn3 {
 	"""
 	You can only go by
 	CyberMetro,but I
-	don't have a ticket⋯
+	don't have a ticket…
 	"""
 	keyWait
 	end
@@ -142487,7 +142487,7 @@ script 53 mmbn3 {
 	msgOpen
 	"""
 	Watching this spin
-	makes me dizzy⋯!
+	makes me dizzy…!
 	"""
 	keyWait
 	end
@@ -142532,9 +142532,9 @@ script 55 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Hmm⋯
+	Hmm…
 	What IS that mystery
-	light⋯?
+	light…?
 	"""
 	keyWait
 	end
@@ -142573,15 +142573,15 @@ script 62 mmbn3 {
 	msgOpen
 	"""
 	Oooh,should I really
-	buy this⋯?
-	I want to,but⋯
+	buy this…?
+	I want to,but…
 	"""
 	keyWait
 	clearMsg
 	"""
 	If I don't buy now,
 	I know I'll regret
-	it later⋯
+	it later…
 	"""
 	keyWait
 	end
@@ -142621,7 +142621,7 @@ script 72 mmbn3 {
 	msgOpen
 	"""
 	Oops! I spent almost
-	all of my savings⋯
+	all of my savings…
 	"""
 	keyWait
 	clearMsg
@@ -142638,9 +142638,9 @@ script 80 mmbn3 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Hmm,no new info⋯
+	Hmm,no new info…
 	I should check the
-	BBS⋯
+	BBS…
 	"""
 	keyWait
 	end
@@ -142669,7 +142669,7 @@ script 82 mmbn3 {
 	"""
 	I bought too much,
 	and now I'm broke.
-	Better start saving⋯
+	Better start saving…
 	"""
 	keyWait
 	end
@@ -142773,13 +142773,13 @@ script 84 mmbn3 {
 		]
 	mugshotShow
 		mugshot = PurpleNavi
-	"That's a pity⋯"
+	"That's a pity…"
 	keyWait
 	clearMsg
 	"""
 	I'd hoped someone
 	would use my super-
-	weak folder⋯Ah,well.
+	weak folder…Ah,well.
 	"""
 	keyWait
 	clearMsg
@@ -142805,7 +142805,7 @@ script 85 mmbn3 {
 	msgOpen
 	"""
 	OK! Here
-	comes the data⋯
+	comes the data…
 	"""
 	keyWait
 	clearMsg
@@ -142857,7 +142857,7 @@ script 91 mmbn3 {
 	"""
 	The final round has
 	started. I'll watch
-	the repeats on TV⋯
+	the repeats on TV…
 	"""
 	keyWait
 	end
@@ -142912,7 +142912,7 @@ script 101 mmbn3 {
 	"""
 	I've been to Yoka
 	Square! Maybe Beach
-	Square will be next⋯
+	Square will be next…
 	"""
 	keyWait
 	end
@@ -142924,13 +142924,13 @@ script 102 mmbn3 {
 	"""
 	Lucky you,able to
 	visit so many
-	places⋯
+	places…
 	"""
 	keyWait
 	clearMsg
 	"""
 	I've never even left
-	ACDC⋯
+	ACDC…
 	"""
 	keyWait
 	end
@@ -142984,8 +142984,8 @@ script 111 mmbn3 {
 	msgOpen
 	"""
 	Hmmm,no strange
-	persons here⋯I'll go
-	somewhere else⋯
+	persons here…I'll go
+	somewhere else…
 	"""
 	keyWait
 	end
@@ -143013,9 +143013,9 @@ script 113 mmbn3 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	Sigh⋯
+	Sigh…
 	And ACDC had been so
-	safe recently⋯
+	safe recently…
 	"""
 	keyWait
 	end
@@ -143064,7 +143064,7 @@ script 121 mmbn3 {
 	"""
 	He was complaining
 	about a soap taste
-	in his mouth,though⋯
+	in his mouth,though…
 	"""
 	keyWait
 	end
@@ -143076,7 +143076,7 @@ script 122 mmbn3 {
 	"""
 	I really hope this
 	is the end of it. I
-	have a bad feeling⋯
+	have a bad feeling…
 	"""
 	keyWait
 	end
@@ -143092,8 +143092,8 @@ script 123 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	⋯Well,I tried to put
-	on my tough voice⋯
+	…Well,I tried to put
+	on my tough voice…
 	"""
 	keyWait
 	end
@@ -143112,7 +143112,7 @@ script 130 mmbn3 {
 	"""
 	I only realized when
 	I visited Yoka
-	Square recently⋯
+	Square recently…
 	"""
 	keyWait
 	end
@@ -143124,7 +143124,7 @@ script 131 mmbn3 {
 	"""
 	You don't talk face-
 	to-face on a BBS,so
-	fights start easily⋯
+	fights start easily…
 	"""
 	keyWait
 	clearMsg
@@ -143204,7 +143204,7 @@ script 142 mmbn3 {
 	"""
 	It's probably the
 	ultimate honor for
-	a Navi⋯
+	a Navi…
 	"""
 	keyWait
 	end
@@ -143234,7 +143234,7 @@ script 145 mmbn3 {
 	"""
 	We'd love you as an
 	Official. But you're
-	not interested⋯
+	not interested…
 	"""
 	keyWait
 	end
@@ -143297,7 +143297,7 @@ script 151 mmbn3 {
 	"""
 	After the zoo and
 	the hospital,where
-	could be next⋯?
+	could be next…?
 	"""
 	keyWait
 	clearMsg
@@ -143315,7 +143315,7 @@ script 152 mmbn3 {
 	"""
 	It isn't the same as
 	jacking out,but when
-	there's trouble⋯
+	there's trouble…
 	"""
 	keyWait
 	clearMsg
@@ -143336,7 +143336,7 @@ script 152 mmbn3 {
 	"""
 	Although we have to
 	stand our ground if
-	we're ordered⋯
+	we're ordered…
 	"""
 	keyWait
 	end
@@ -143371,7 +143371,7 @@ script 154 mmbn3 {
 	"""
 	So the WWW didn't
 	attack ACDC after
-	all⋯
+	all…
 	"""
 	keyWait
 	clearMsg
@@ -143407,7 +143407,7 @@ script 158 mmbn3 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	It isn't safe yet⋯
+	It isn't safe yet…
 	You shouldn't be
 	walking around here.
 	"""
@@ -143449,7 +143449,7 @@ script 167 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Sigh⋯I won't be able
+	Sigh…I won't be able
 	to visit ACDC Square
 	so often.
 	"""
@@ -143494,7 +143494,7 @@ script 170 mmbn3 {
 	"""
 	So. The army has
 	finally been
-	mobilized⋯
+	mobilized…
 	"""
 	keyWait
 	clearMsg
@@ -143520,7 +143520,7 @@ script 171 mmbn3 {
 	"""
 	We were about to
 	move away,but a new
-	crisis started⋯
+	crisis started…
 	"""
 	keyWait
 	clearMsg
@@ -143564,7 +143564,7 @@ script 175 mmbn3 {
 	"""
 	The square is safe,
 	but Navis outside
-	it are in trouble⋯
+	it are in trouble…
 	"""
 	keyWait
 	end
@@ -143620,7 +143620,7 @@ script 178 mmbn3 {
 	"""
 	Officials question
 	me all the time,
-	because of my looks⋯
+	because of my looks…
 	"""
 	keyWait
 	clearMsg
@@ -143632,7 +143632,7 @@ script 178 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Since you're cool⋯
+	Since you're cool…
 	I'll let you in on
 	a little secret.
 	"""
@@ -143647,7 +143647,7 @@ script 178 mmbn3 {
 	clearMsg
 	"""
 	even if it's
-	correctly loaded⋯
+	correctly loaded…
 	"""
 	keyWait
 	clearMsg
@@ -143710,7 +143710,7 @@ script 182 mmbn3 {
 	mugshotShow
 		mugshot = NormalNaviGreen
 	msgOpen
-	"Sorry,I'm sold out⋯"
+	"Sorry,I'm sold out…"
 	keyWait
 	end
 }
@@ -143818,7 +143818,7 @@ script 190 mmbn3 {
 	clearMsg
 	"""
 	Hey,you! Interested
-	in a ch⋯
+	in a ch…
 	"""
 	waitSkip
 		frames = 40
@@ -143986,7 +143986,7 @@ script 194 mmbn3 {
 	msgOpen
 	"""
 	Hmm,so the price is
-	now 5200 Zennys⋯
+	now 5200 Zennys…
 	"""
 	keyWait
 	clearMsg
@@ -144000,7 +144000,7 @@ script 194 mmbn3 {
 	"""
 	It seems my father
 	was watching the
-	both of us⋯
+	both of us…
 	"""
 	keyWait
 	clearMsg
@@ -144014,12 +144014,12 @@ script 194 mmbn3 {
 	"""
 	Neither of us will
 	be good heirs if we
-	can't cooperate⋯
+	can't cooperate…
 	"""
 	keyWait
 	clearMsg
 	"""
-	Sigh⋯I feel ashamed
+	Sigh…I feel ashamed
 	for being so nasty
 	to my own brother.
 	"""
@@ -144077,7 +144077,7 @@ script 196 mmbn3 {
 	"""
 	I wanted to own the
 	company too much.
-	I'm so ashamed⋯
+	I'm so ashamed…
 	"""
 	keyWait
 	end
@@ -144108,7 +144108,7 @@ script 200 mmbn3 {
 	"""
 	The client said that
 	the wrong chip was
-	delivered⋯
+	delivered…
 	"""
 	keyWait
 	clearMsg
@@ -144120,7 +144120,7 @@ script 200 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	⋯What? The chip WAS
+	…What? The chip WAS
 	wrong,and you've
 	brought it back!?
 	"""
@@ -144154,7 +144154,7 @@ script 200 mmbn3 {
 	"""
 	Sigh. It's so hard
 	to please everyone
-	at once⋯
+	at once…
 	"""
 	keyWait
 	end
@@ -144213,7 +144213,7 @@ script 202 mmbn3 {
 	clearMsg
 	"""
 	What am I supposed
-	to do now⋯?
+	to do now…?
 	"""
 	keyWait
 	end
@@ -144277,7 +144277,7 @@ script 11 mmbn3 {
 	msgOpen
 	"""
 	I just can't find
-	the bad guy⋯
+	the bad guy…
 	"""
 	keyWait
 	clearMsg
@@ -144358,14 +144358,14 @@ script 20 mmbn3 {
 	"""
 	I can't believe I
 	lost to that bad
-	Navi⋯
+	Navi…
 	"""
 	keyWait
 	clearMsg
 	"""
 	For a bad Navi,he
 	sure is mean!
-	Sob,sob⋯
+	Sob,sob…
 	"""
 	keyWait
 	end
@@ -144379,7 +144379,7 @@ script 21 mmbn3 {
 	"""
 	Everyone's having so
 	much fun! I should
-	have participated⋯
+	have participated…
 	"""
 	keyWait
 	end
@@ -144403,7 +144403,7 @@ script 30 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	⋯How about those
+	…How about those
 	buzzwords? Did I use
 	'em right? Huh?
 	"""
@@ -144415,7 +144415,7 @@ script 31 mmbn3 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	I can't believe it⋯
+	I can't believe it…
 	They rejected me!
 	"""
 	keyWait
@@ -144423,7 +144423,7 @@ script 31 mmbn3 {
 	"""
 	They said I had no
 	personality! Man!
-	I'm about to cry⋯
+	I'm about to cry…
 	"""
 	keyWait
 	end
@@ -144477,7 +144477,7 @@ script 41 mmbn3 {
 	"""
 	When I look down
 	from a high place,I
-	get vertigo⋯
+	get vertigo…
 	"""
 	keyWait
 	end
@@ -144553,9 +144553,9 @@ script 51 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Woah⋯
+	Woah…
 	All this data makes
-	my head spin⋯
+	my head spin…
 	"""
 	keyWait
 	end
@@ -144585,9 +144585,9 @@ script 52 mmbn3 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	Uh⋯
+	Uh…
 	The way to Energy
-	Lab is⋯Ummm⋯
+	Lab is…Ummm…
 	"""
 	keyWait
 	end
@@ -144734,7 +144734,7 @@ script 71 mmbn3 {
 	"""
 	What's that!? So
 	this isn't a good
-	time to move data⋯?
+	time to move data…?
 	"""
 	keyWait
 	end
@@ -144784,7 +144784,7 @@ script 91 mmbn3 {
 	"""
 	I'm not very good at
 	reading maps. OK,if
-	that's the Square⋯
+	that's the Square…
 	"""
 	keyWait
 	end
@@ -144796,7 +144796,7 @@ script 100 mmbn3 {
 	"""
 	I'm so busy!
 	Got no time for the
-	N1⋯
+	N1…
 	"""
 	keyWait
 	end
@@ -144819,8 +144819,8 @@ script 110 mmbn3 {
 	msgOpen
 	"""
 	I was too busy to
-	watch the N1⋯
-	Boo hoo⋯
+	watch the N1…
+	Boo hoo…
 	"""
 	keyWait
 	end
@@ -144853,14 +144853,14 @@ script 115 mmbn3 {
 	"""
 	All I ever do is
 	work,so I'm a little
-	out of touch⋯
+	out of touch…
 	"""
 	keyWait
 	clearMsg
 	"""
 	Apparently,WWW hit
 	somewhere again,but
-	I dunno where⋯
+	I dunno where…
 	"""
 	keyWait
 	end
@@ -144896,14 +144896,14 @@ script 117 mmbn3 {
 	"""
 	That Navi in front
 	of the monitor over
-	there sure is scary⋯
+	there sure is scary…
 	"""
 	keyWait
 	clearMsg
 	"""
 	Better stay away
 	from him,and let
-	sleeping dogs lie⋯
+	sleeping dogs lie…
 	"""
 	keyWait
 	end
@@ -144926,9 +144926,9 @@ script 120 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Hee hee⋯Just looking
+	Hee hee…Just looking
 	at you makes me
-	wanna delete you⋯!
+	wanna delete you…!
 	"""
 	keyWait
 	clearMsg
@@ -144989,7 +144989,7 @@ script 123 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	Well,um⋯uh⋯that is⋯
+	Well,um…uh…that is…
 	I dunno what I'll do
 	after this. No clue.
 	"""
@@ -145022,7 +145022,7 @@ script 124 mmbn3 {
 	"""
 	But if a SciLab
 	person says I need
-	it⋯I must need it.
+	it…I must need it.
 	"""
 	keyWait
 	clearMsg
@@ -145062,7 +145062,7 @@ script 125 mmbn3 {
 	"""
 	Is it just me,or is
 	it getting really
-	hot in here? Whew⋯
+	hot in here? Whew…
 	"""
 	keyWait
 	end
@@ -145101,7 +145101,7 @@ script 128 mmbn3 {
 	"""
 	But he beat a bad
 	guy,so I guess he
-	must be all right⋯
+	must be all right…
 	"""
 	keyWait
 	end
@@ -145171,8 +145171,8 @@ script 137 mmbn3 {
 		mugshot = NormalNaviGreen
 	msgOpen
 	"""
-	Alpha⋯
-	We're finished⋯
+	Alpha…
+	We're finished…
 	"""
 	keyWait
 	end
@@ -145261,15 +145261,15 @@ script 190 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Ach⋯
+	Ach…
 	Did I drop it in
-	ACDC,somewhere⋯?
+	ACDC,somewhere…?
 	"""
 	keyWait
 	clearMsg
 	"""
 	Man,I can't believe
-	this⋯
+	this…
 	"""
 	keyWait
 	end
@@ -145279,9 +145279,9 @@ script 191 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	I'm still looking⋯
+	I'm still looking…
 	Maybe I should go
-	double-check ACDC⋯
+	double-check ACDC…
 	"""
 	keyWait
 	end
@@ -145306,7 +145306,7 @@ script 192 mmbn3 {
 	"""
 	I'm afraid to go
 	home,so I'll be here
-	a little longer⋯
+	a little longer…
 	"""
 	keyWait
 	end
@@ -145317,7 +145317,7 @@ script 193 mmbn3 {
 	msgOpen
 	"""
 	Hmm,I wonder if it's
-	OK to go home yet⋯?
+	OK to go home yet…?
 	Was the teacher mad?
 	"""
 	keyWait
@@ -145385,7 +145385,7 @@ script 220 mmbn3 {
 	"""
 	There are several
 	doors here,
-	blocking your way⋯
+	blocking your way…
 	"""
 	keyWait
 	end
@@ -145438,7 +145438,7 @@ script 223 mmbn3 {
 }
 script 224 mmbn3 {
 	msgOpen
-	"What a flame⋯"
+	"What a flame…"
 	keyWait
 	end
 }
@@ -145480,7 +145480,7 @@ script 229 mmbn3 {
 	"""
 	The data from the
 	defeated Navi was
-	blown away⋯
+	blown away…
 	"""
 	keyWait
 	end
@@ -146058,7 +146058,7 @@ script 13 mmbn3 {
 	"""
 	Lame! Everywhere
 	you look,it's the
-	N1 Grand Prix⋯Bah!
+	N1 Grand Prix…Bah!
 	"""
 	keyWait
 	end
@@ -146155,7 +146155,7 @@ script 15 mmbn3 {
 	"""
 	That Navi,Glide,is
 	amazing! All those
-	rare chips he uses⋯
+	rare chips he uses…
 	"""
 	keyWait
 	clearMsg
@@ -146201,14 +146201,14 @@ script 17 mmbn3 {
 	"""
 	I'm happy to be in
 	the 2nd round of
-	the N1 prelims,but⋯
+	the N1 prelims,but…
 	"""
 	keyWait
 	clearMsg
 	"""
 	I can't find the
 	Navi I'm looking
-	for! I'm going home⋯
+	for! I'm going home…
 	"""
 	keyWait
 	end
@@ -146293,7 +146293,7 @@ script 24 mmbn3 {
 	"""
 	You want to know
 	where the bad Navi
-	is⋯?
+	is…?
 	"""
 	keyWait
 	clearMsg
@@ -146325,7 +146325,7 @@ script 25 mmbn3 {
 	"""
 	I could'a sworn that
 	bad Navi went this
-	way⋯
+	way…
 	"""
 	keyWait
 	end
@@ -146387,7 +146387,7 @@ script 32 mmbn3 {
 	"""
 	I'm supposed to meet
 	up with a friend,but
-	I get sidetracked⋯
+	I get sidetracked…
 	"""
 	keyWait
 	end
@@ -146454,7 +146454,7 @@ script 51 mmbn3 {
 	mugshotShow
 		mugshot = NormalNaviGreen
 	msgOpen
-	"Grr⋯"
+	"Grr…"
 	keyWait
 	clearMsg
 	"""
@@ -146469,7 +146469,7 @@ script 52 mmbn3 {
 	mugshotShow
 		mugshot = OfficialNavi
 	msgOpen
-	"I'm taking a break⋯"
+	"I'm taking a break…"
 	keyWait
 	clearMsg
 	"""
@@ -146610,7 +146610,7 @@ script 72 mmbn3 {
 	"""
 	Oh,so you're Higsby?
 	You're kinda cute!
-	Hee hee⋯
+	Hee hee…
 	"""
 	keyWait
 	clearMsg
@@ -146635,7 +146635,7 @@ script 72 mmbn3 {
 	"\"!"
 	keyWait
 	clearMsg
-	"⋯You don't have it!?"
+	"…You don't have it!?"
 	keyWait
 	clearMsg
 	"""
@@ -146715,9 +146715,9 @@ script 80 mmbn3 {
 		mugshot = NormalNaviGreen
 	msgOpen
 	"""
-	He's late⋯
+	He's late…
 	It's almost time to
-	hand over the data⋯
+	hand over the data…
 	"""
 	keyWait
 	end
@@ -146729,7 +146729,7 @@ script 81 mmbn3 {
 	"""
 	These days,all sorts
 	of devices are being
-	wired to the net⋯
+	wired to the net…
 	"""
 	keyWait
 	clearMsg
@@ -146754,7 +146754,7 @@ script 90 mmbn3 {
 	"""
 	No,nobody like that.
 	Just the usual
-	Navis⋯
+	Navis…
 	"""
 	keyWait
 	end
@@ -146766,7 +146766,7 @@ script 91 mmbn3 {
 	"""
 	That's what they get
 	for connecting
-	without thinking⋯
+	without thinking…
 	"""
 	keyWait
 	end
@@ -146809,7 +146809,7 @@ script 101 mmbn3 {
 	"""
 	I don't approve of
 	NetCrime,but users
-	need to wise up,too⋯
+	need to wise up,too…
 	"""
 	keyWait
 	end
@@ -146846,7 +146846,7 @@ script 111 mmbn3 {
 	"""
 	Hmm? The TV special?
 	No,this isn't the
-	place⋯
+	place…
 	"""
 	keyWait
 	end
@@ -146878,7 +146878,7 @@ script 120 mmbn3 {
 	clearMsg
 	"""
 	He'd better not be
-	cheating⋯
+	cheating…
 	"""
 	keyWait
 	end
@@ -146953,7 +146953,7 @@ script 135 mmbn3 {
 	msgOpen
 	"""
 	A huge space,created
-	by a scientist⋯
+	by a scientist…
 	"""
 	keyWait
 	clearMsg
@@ -146993,7 +146993,7 @@ script 136 mmbn3 {
 	"""
 	I've worked at Sci-
 	Lab forever,and I
-	still don't know⋯
+	still don't know…
 	"""
 	keyWait
 	end
@@ -147011,7 +147011,7 @@ script 140 mmbn3 {
 	clearMsg
 	"""
 	That really boggles
-	my mind⋯!
+	my mind…!
 	"""
 	keyWait
 	end
@@ -147035,7 +147035,7 @@ script 145 mmbn3 {
 	"""
 	Is the WWW gone!?
 	What!? They came
-	here,too!? No way⋯!
+	here,too!? No way…!
 	"""
 	keyWait
 	end
@@ -147066,7 +147066,7 @@ script 147 mmbn3 {
 	"""
 	I didn't do anything
 	to help during the
-	WWW attack⋯
+	WWW attack…
 	"""
 	keyWait
 	end
@@ -147182,7 +147182,7 @@ script 161 mmbn3 {
 	"""
 	If only Dr.Hikari
 	returned,we might
-	have some hope⋯
+	have some hope…
 	"""
 	keyWait
 	end
@@ -147213,8 +147213,8 @@ script 171 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	I feel⋯
-	I'm getting sleepy⋯
+	I feel…
+	I'm getting sleepy…
 	"""
 	keyWait
 	end
@@ -147236,7 +147236,7 @@ script 190 mmbn3 {
 		palette = 1
 	msgOpen
 	"""
-	I've been waiting⋯
+	I've been waiting…
 	So. Want to raise
 	a virus?
 	"""
@@ -147245,7 +147245,7 @@ script 190 mmbn3 {
 	"""
 	To be honest,I hate
 	to let my little
-	ones go⋯
+	ones go…
 	"""
 	keyWait
 	clearMsg
@@ -147383,7 +147383,7 @@ script 192 mmbn3 {
 		palette = 1
 	msgOpen
 	"""
-	⋯That's 50,all
+	…That's 50,all
 	right!
 	"""
 	keyWait
@@ -147474,7 +147474,7 @@ script 220 mmbn3 {
 	"""
 	This is the
 	reception for the
-	SciLab area⋯
+	SciLab area…
 	"""
 	keyWait
 	clearMsg
@@ -147528,7 +147528,7 @@ script 223 mmbn3 {
 }
 script 224 mmbn3 {
 	msgOpen
-	"What a flame⋯"
+	"What a flame…"
 	keyWait
 	end
 }
@@ -148375,7 +148375,7 @@ script 13 mmbn3 {
 	clearMsg
 	"""
 	Official NetBattlers
-	competing in the N1⋯
+	competing in the N1…
 	"""
 	keyWait
 	end
@@ -148425,7 +148425,7 @@ script 20 mmbn3 {
 	"""
 	Amazing! You're on a
 	higher level than an
-	ordinary Navi⋯
+	ordinary Navi…
 	"""
 	keyWait
 	end
@@ -148437,7 +148437,7 @@ script 30 mmbn3 {
 	"""
 	I hear the Navi for
 	Mission #3 is some-
-	where in ACDC 2⋯
+	where in ACDC 2…
 	"""
 	keyWait
 	end
@@ -148480,13 +148480,13 @@ script 33 mmbn3 {
 	"""
 	I've been waiting
 	for my friend for
-	20 minutes now⋯
+	20 minutes now…
 	"""
 	keyWait
 	clearMsg
 	"""
 	I wonder where he
-	wandered off to⋯?
+	wandered off to…?
 	"""
 	keyWait
 	end
@@ -148505,7 +148505,7 @@ script 40 mmbn3 {
 	"""
 	to normal here. I
 	kind of hate to see
-	it end. Oh,well⋯
+	it end. Oh,well…
 	"""
 	keyWait
 	end
@@ -148517,7 +148517,7 @@ script 41 mmbn3 {
 	"""
 	You're lucky to have
 	been totally
-	customized⋯
+	customized…
 	"""
 	keyWait
 	clearMsg
@@ -148597,7 +148597,7 @@ script 50 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	If she finds out⋯
+	If she finds out…
 	What do you think
 	will happen to me!?
 	"""
@@ -148618,9 +148618,9 @@ script 50 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Aghh,I'm in trouble⋯
-	Such trouble⋯
-	Big,nasty trouble⋯
+	Aghh,I'm in trouble…
+	Such trouble…
+	Big,nasty trouble…
 	"""
 	keyWait
 	end
@@ -148690,20 +148690,20 @@ script 51 mmbn3 {
 	"""
 	I'm the one who has
 	to pay the price,no
-	matter how high⋯
+	matter how high…
 	"""
 	keyWait
 	clearMsg
 	"""
 	I can't just impose
 	on complete
-	strangers⋯
+	strangers…
 	"""
 	keyWait
 	clearMsg
 	"""
 	Still,he looks like
-	a really nice guy⋯
+	a really nice guy…
 	Maybe he'll help?
 	"""
 	keyWait
@@ -148729,7 +148729,7 @@ script 51 mmbn3 {
 	"\"?"
 	keyWait
 	clearMsg
-	"I'll give you a⋯"
+	"I'll give you a…"
 	keyWait
 	clearMsg
 	"You can have this\n"
@@ -148742,7 +148742,7 @@ script 51 mmbn3 {
 	"""
 	keyWait
 	clearMsg
-	"Please⋯?\n"
+	"Please…?\n"
 	option
 		left = 1
 		right = 1
@@ -148750,7 +148750,7 @@ script 51 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Sure⋯ "
+	"Sure… "
 	option
 		left = 0
 		right = 0
@@ -148794,7 +148794,7 @@ script 52 mmbn3 {
 	"""
 	Boo hoo hoo!
 	Booo hooo hooo!
-	Sniff⋯WAAAAAAAAAH!
+	Sniff…WAAAAAAAAAH!
 	"""
 	keyWait
 	end
@@ -149071,7 +149071,7 @@ script 62 mmbn3 {
 	"""
 	I wonder if they'll
 	do the last round of
-	the prelims here⋯?
+	the prelims here…?
 	"""
 	keyWait
 	end
@@ -149146,7 +149146,7 @@ script 70 mmbn3 {
 	clearMsg
 	"""
 	Ask a certain Navi
-	for details⋯
+	for details…
 	"""
 	keyWait
 	end
@@ -149162,7 +149162,7 @@ script 71 mmbn3 {
 	"""
 	Hmm,that "yellow"
 	hint might mean that
-	Navi I've seen here⋯
+	Navi I've seen here…
 	"""
 	keyWait
 	end
@@ -149249,7 +149249,7 @@ script 77 mmbn3 {
 	"""
 	I wonder if there's
 	a quick and easy
-	beauty program⋯
+	beauty program…
 	"""
 	keyWait
 	clearMsg
@@ -149305,13 +149305,13 @@ script 83 mmbn3 {
 	"""
 	That yellow Navi
 	hasn't been back
-	since the prelims⋯
+	since the prelims…
 	"""
 	keyWait
 	clearMsg
 	"""
 	I had a secret
-	crush on her⋯
+	crush on her…
 	"""
 	keyWait
 	end
@@ -149380,7 +149380,7 @@ script 93 mmbn3 {
 	clearMsg
 	"""
 	I guess I shouldn't
-	whine,though⋯
+	whine,though…
 	"""
 	keyWait
 	end
@@ -149411,7 +149411,7 @@ script 95 mmbn3 {
 	"""
 	The WWW!? The guy
 	behind this really
-	pulled a fast one⋯
+	pulled a fast one…
 	"""
 	keyWait
 	end
@@ -149558,7 +149558,7 @@ script 103 mmbn3 {
 	"""
 	It's over! But now
 	I have to clean up
-	this huge mess⋯
+	this huge mess…
 	"""
 	keyWait
 	end
@@ -149588,7 +149588,7 @@ script 111 mmbn3 {
 	"""
 	Our new producer is
 	so difficult to keep
-	up with⋯
+	up with…
 	"""
 	keyWait
 	end
@@ -149606,7 +149606,7 @@ script 112 mmbn3 {
 	clearMsg
 	"""
 	program in Beach
-	Square yesterday⋯
+	Square yesterday…
 	Ah,whatever.
 	"""
 	keyWait
@@ -149651,7 +149651,7 @@ script 120 mmbn3 {
 	"""
 	keyWait
 	clearMsg
-	"What a bummer⋯"
+	"What a bummer…"
 	keyWait
 	end
 }
@@ -149681,7 +149681,7 @@ script 122 mmbn3 {
 	"""
 	You'd think they'd
 	at least give us the
-	day off for N1⋯
+	day off for N1…
 	"""
 	keyWait
 	end
@@ -149694,7 +149694,7 @@ script 123 mmbn3 {
 	msgOpen
 	"""
 	Time to get back to
-	work,I guess⋯
+	work,I guess…
 	"""
 	keyWait
 	end
@@ -149754,11 +149754,11 @@ script 132 mmbn3 {
 	"""
 	Chaud and ProtoMan
 	were much better
-	than that MegaMan⋯
+	than that MegaMan…
 	"""
 	keyWait
 	clearMsg
-	"Erk⋯!"
+	"Erk…!"
 	keyWait
 	clearMsg
 	"""
@@ -149803,7 +149803,7 @@ script 140 mmbn3 {
 	"""
 	If only we knew
 	where they were
-	going to hit next⋯
+	going to hit next…
 	"""
 	keyWait
 	end
@@ -149892,13 +149892,13 @@ script 160 mmbn3 {
 	msgOpen
 	"""
 	The investigation is
-	going nowhere⋯
+	going nowhere…
 	"""
 	keyWait
 	clearMsg
 	"""
 	Where could the WWW
-	be hiding⋯?
+	be hiding…?
 	"""
 	keyWait
 	end
@@ -149931,7 +149931,7 @@ script 162 mmbn3 {
 	"""
 	All these Officials
 	hanging around sure
-	look scary⋯
+	look scary…
 	"""
 	keyWait
 	clearMsg
@@ -149948,7 +149948,7 @@ script 165 mmbn3 {
 	msgOpen
 	"""
 	I have new
-	information⋯
+	information…
 	"""
 	keyWait
 	clearMsg
@@ -149977,7 +149977,7 @@ script 170 mmbn3 {
 	mugshotShow
 		mugshot = ProtoMan
 	msgOpen
-	"There you are⋯"
+	"There you are…"
 	keyWait
 	clearMsg
 	"Take this."
@@ -150038,7 +150038,7 @@ script 173 mmbn3 {
 	"""
 	I wonder if the
 	Navis who moved are
-	doing any better⋯
+	doing any better…
 	"""
 	keyWait
 	clearMsg
@@ -150157,7 +150157,7 @@ script 182 mmbn3 {
 	msgOpen
 	"""
 	Oh,I'm sorry,we're
-	out of merchandise⋯
+	out of merchandise…
 	"""
 	keyWait
 	end
@@ -150218,13 +150218,13 @@ script 191 mmbn3 {
 		animation = 0
 	"""
 	(I heard a secret,
-	hee hee hee⋯!)
+	hee hee hee…!)
 	"""
 	keyWait
 	clearMsg
 	mugshotAnimate
 		animation = 1
-	"⋯Huh!?"
+	"…Huh!?"
 	keyWait
 	clearMsg
 	"""
@@ -150289,7 +150289,7 @@ script 193 mmbn3 {
 	clearMsg
 	mugshotAnimate
 		animation = 1
-	"⋯Gasp!?"
+	"…Gasp!?"
 	keyWait
 	clearMsg
 	"""
@@ -150311,7 +150311,7 @@ script 194 mmbn3 {
 	"""
 	keyWait
 	clearMsg
-	"Ah,that's too dull⋯"
+	"Ah,that's too dull…"
 	keyWait
 	end
 }
@@ -150363,7 +150363,7 @@ script 0 mmbn3 {
 	"""
 	But,why would they
 	need a water heater
-	for a hot spring⋯?
+	for a hot spring…?
 	"""
 	keyWait
 	end
@@ -150407,7 +150407,7 @@ script 25 mmbn3 {
 	"""
 	The more I think
 	about it,the less
-	sense it makes⋯
+	sense it makes…
 	"""
 	keyWait
 	clearMsg
@@ -150482,9 +150482,9 @@ script 32 mmbn3 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	(Pant⋯pant⋯)
-	Can't⋯take⋯much⋯more
-	of⋯this⋯
+	(Pant…pant…)
+	Can't…take…much…more
+	of…this…
 	"""
 	keyWait
 	end
@@ -150518,8 +150518,8 @@ script 35 mmbn3 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	Whew⋯
-	It's so hot⋯
+	Whew…
+	It's so hot…
 	"""
 	keyWait
 	end
@@ -150573,7 +150573,7 @@ script 91 mmbn3 {
 	"""
 	Getting near this
 	water-heater program
-	gives me flashbacks⋯
+	gives me flashbacks…
 	"""
 	keyWait
 	end
@@ -150585,7 +150585,7 @@ script 92 mmbn3 {
 	"""
 	Man,it's hot! And
 	not just because
-	of the water heater⋯
+	of the water heater…
 	"""
 	keyWait
 	end
@@ -150640,7 +150640,7 @@ script 120 mmbn3 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	Huh⋯?
+	Huh…?
 	I can't move
 	right!
 	"""
@@ -150728,7 +150728,7 @@ script 190 mmbn3 {
 	msgOpen
 	flagSet
 		flag = 1864
-	"Zzzzzz⋯\n"
+	"Zzzzzz…\n"
 	waitSkip
 		frames = 20
 	"."
@@ -150741,14 +150741,14 @@ script 190 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Wha⋯!? Hey! Who are
+	Wha…!? Hey! Who are
 	you? You woke
 	me up!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Wha⋯?
+	Wha…?
 	You wanna know about
 	my operator,hey?
 	"""
@@ -150769,7 +150769,7 @@ script 190 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	⋯Flattery will get
+	…Flattery will get
 	you anywhere,hey!
 	"""
 	keyWait
@@ -150788,7 +150788,7 @@ script 191 mmbn3 {
 	"""
 	My operator is still
 	working at the zoo,
-	so I'm bored,hey⋯
+	so I'm bored,hey…
 	"""
 	keyWait
 	end
@@ -150830,7 +150830,7 @@ script 196 mmbn3 {
 	mugshotShow
 		mugshot = HeelNavi
 	msgOpen
-	"You⋯little⋯"
+	"You…little…"
 	keyWait
 	clearMsg
 	"""
@@ -150961,7 +150961,7 @@ script 224 mmbn3 {
 }
 script 225 mmbn3 {
 	msgOpen
-	"What a flame⋯"
+	"What a flame…"
 	keyWait
 	end
 }
@@ -151010,7 +151010,7 @@ script 229 mmbn3 {
 	"""
 	The remaining data
 	from the Navi rose
-	up and drifted away⋯
+	up and drifted away…
 	"""
 	keyWait
 	end
@@ -151504,11 +151504,11 @@ script 250 mmbn3 {
 	"""
 	Lan! This is the
 	"devil pillar" from
-	the will! Checking⋯
+	the will! Checking…
 	"""
 	keyWait
 	clearMsg
-	"⋯⋯"
+	"……"
 	keyWait
 	clearMsg
 	"""
@@ -151525,7 +151525,7 @@ script 250 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Huh? And what's⋯?
+	Huh? And what's…?
 	Look out,Lan!!
 	It's a virus!!
 	"""
@@ -151543,7 +151543,7 @@ script 251 mmbn3 {
 	"""
 	There seem to be no
 	more viruses,but the
-	message remains⋯
+	message remains…
 	"""
 	keyWait
 	clearMsg
@@ -151669,7 +151669,7 @@ script 3 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	me outta my slump⋯
+	me outta my slump…
 	Hey,you,can you tell
 	me a good joke?
 	"""
@@ -151715,7 +151715,7 @@ script 3 mmbn3 {
 	waitSkip
 		frames = 30
 	"""
-	OK⋯
+	OK…
 	Here goes nothing!
 	"""
 	keyWait
@@ -151759,7 +151759,7 @@ script 3 mmbn3 {
 	clearMsg
 	mugshotShow
 		mugshot = NormalNaviGreen
-	"⋯⋯"
+	"……"
 	keyWait
 	clearMsg
 	mugshotShow
@@ -151887,14 +151887,14 @@ script 4 mmbn3 {
 	"""
 	Heh. Ya
 	can't take a joke,
-	can ya⋯?
+	can ya…?
 	"""
 	keyWait
 	clearMsg
 	"""
 	Seems to me there
 	was a really funny
-	guy around here⋯
+	guy around here…
 	"""
 	keyWait
 	end
@@ -151960,7 +151960,7 @@ script 11 mmbn3 {
 	"""
 	It's so confusing
 	here,I can't catch
-	crooks easily⋯
+	crooks easily…
 	"""
 	keyWait
 	end
@@ -151972,7 +151972,7 @@ script 20 mmbn3 {
 	"""
 	Darn,I just can't
 	get through! Do I
-	look fat to you⋯?
+	look fat to you…?
 	"""
 	keyWait
 	end
@@ -152013,7 +152013,7 @@ script 31 mmbn3 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	GutsMan⋯? Ah yes!
+	GutsMan…? Ah yes!
 	He's competing in
 	the N1,right?
 	"""
@@ -152052,7 +152052,7 @@ script 35 mmbn3 {
 	"""
 	I just don't get
 	that endurance
-	contest⋯
+	contest…
 	"""
 	keyWait
 	clearMsg
@@ -152071,7 +152071,7 @@ script 40 mmbn3 {
 	"""
 	I'm not really into
 	the N1,but it's so
-	popular⋯
+	popular…
 	"""
 	keyWait
 	end
@@ -152090,7 +152090,7 @@ script 50 mmbn3 {
 	"""
 	One is a complete
 	dead end,but maybe
-	something's there⋯
+	something's there…
 	"""
 	keyWait
 	end
@@ -152141,7 +152141,7 @@ script 56 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	He's pretty scary⋯
+	He's pretty scary…
 	Better stay away!
 	"""
 	keyWait
@@ -152160,7 +152160,7 @@ script 57 mmbn3 {
 	"""
 	Things got really
 	quiet all of a
-	sudden,but⋯
+	sudden,but…
 	"""
 	keyWait
 	end
@@ -152350,7 +152350,7 @@ script 80 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	It's just a thought⋯
+	It's just a thought…
 	Who knows!
 	"""
 	keyWait
@@ -152387,14 +152387,14 @@ script 190 mmbn3 {
 	msgOpen
 	"""
 	I've only been alive
-	a few hours⋯
+	a few hours…
 	"""
 	keyWait
 	clearMsg
 	"""
 	And when I finally
 	got to meet my
-	operator⋯
+	operator…
 	"""
 	keyWait
 	clearMsg
@@ -152404,7 +152404,7 @@ script 190 mmbn3 {
 	"""
 	keyWait
 	clearMsg
-	"⋯Ah!"
+	"…Ah!"
 	keyWait
 	clearMsg
 	"""
@@ -152464,7 +152464,7 @@ script 191 mmbn3 {
 	"""
 	Well,since I'm just
 	a temporary Navi,I'm
-	gonna take it easy⋯
+	gonna take it easy…
 	"""
 	keyWait
 	end
@@ -152504,13 +152504,13 @@ script 193 mmbn3 {
 	msgOpen
 	"""
 	It sure is nice to
-	kick back like this⋯
+	kick back like this…
 	"""
 	keyWait
 	clearMsg
 	"""
 	Y'know,it makes me
-	not want to go home⋯
+	not want to go home…
 	"""
 	keyWait
 	end
@@ -152640,7 +152640,7 @@ script 202 mmbn3 {
 }
 script 220 mmbn3 {
 	msgOpen
-	"What a flame⋯"
+	"What a flame…"
 	keyWait
 	end
 }
@@ -153175,12 +153175,12 @@ script 0 mmbn3 {
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"Uh⋯Yaaaay!!"
+	"Uh…Yaaaay!!"
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = OfficialNavi
-	"Excuse me⋯"
+	"Excuse me…"
 	keyWait
 	clearMsg
 	mugshotHide
@@ -153193,7 +153193,7 @@ script 0 mmbn3 {
 	" "
 	soundPlay
 		track = 162
-	" (click)⋯"
+	" (click)…"
 	keyWait
 	clearMsg
 	soundEnableTextSFX
@@ -153269,7 +153269,7 @@ script 1 mmbn3 {
 	"""
 	keyWait
 	clearMsg
-	"Annnnd⋯ACTION!!"
+	"Annnnd…ACTION!!"
 	keyWait
 	clearMsg
 	"""
@@ -153443,7 +153443,7 @@ script 5 mmbn3 {
 	"""
 	Well,that makes good
 	footage for the
-	camera,too⋯
+	camera,too…
 	"""
 	keyWait
 	clearMsg
@@ -153818,7 +153818,7 @@ script 41 mmbn3 {
 	"""
 	The perpetrator just
 	left the square.
-	They better hurry⋯
+	They better hurry…
 	"""
 	keyWait
 	end
@@ -153851,7 +153851,7 @@ script 43 mmbn3 {
 	"""
 	The bad guy came
 	through here?
-	Yikes⋯!
+	Yikes…!
 	"""
 	keyWait
 	end
@@ -153862,7 +153862,7 @@ script 44 mmbn3 {
 	msgOpen
 	"""
 	I hope they find the
-	guy soon⋯
+	guy soon…
 	"""
 	keyWait
 	end
@@ -153957,7 +153957,7 @@ script 60 mmbn3 {
 	"""
 	Enjoying the N1 is
 	one thing,but people
-	take it too far⋯
+	take it too far…
 	"""
 	keyWait
 	end
@@ -154056,7 +154056,7 @@ script 72 mmbn3 {
 	"""
 	There's a girl Navi
 	over there going on
-	about ProtoMan,but⋯
+	about ProtoMan,but…
 	"""
 	keyWait
 	clearMsg
@@ -154100,7 +154100,7 @@ script 80 mmbn3 {
 	"""
 	I hope this isn't a
 	sign of things to
-	come⋯
+	come…
 	"""
 	keyWait
 	end
@@ -154143,7 +154143,7 @@ script 83 mmbn3 {
 	msgOpen
 	"""
 	I was rooting for
-	Glide,but⋯
+	Glide,but…
 	"""
 	keyWait
 	clearMsg
@@ -154236,7 +154236,7 @@ script 90 mmbn3 {
 	clearMsg
 	"""
 	Someone should look
-	into this⋯
+	into this…
 	"""
 	keyWait
 	end
@@ -154258,7 +154258,7 @@ script 91 mmbn3 {
 	"""
 	I thought the WWW
 	was supposed to have
-	been destroyed⋯
+	been destroyed…
 	"""
 	keyWait
 	clearMsg
@@ -154476,12 +154476,12 @@ script 102 mmbn3 {
 	"""
 	I guess you'd have
 	to live there to
-	understand it⋯
+	understand it…
 	"""
 	keyWait
 	clearMsg
 	"""
-	But⋯What a scary
+	But…What a scary
 	thought! I could
 	never do that!
 	"""
@@ -154549,7 +154549,7 @@ script 110 mmbn3 {
 	clearMsg
 	"""
 	But if the squares
-	get dangerous⋯
+	get dangerous…
 	Just jack out!
 	"""
 	keyWait
@@ -154589,7 +154589,7 @@ script 112 mmbn3 {
 	"""
 	They must be hiding
 	out in a pretty
-	isolated place⋯
+	isolated place…
 	"""
 	keyWait
 	end
@@ -154698,7 +154698,7 @@ script 182 mmbn3 {
 	msgOpen
 	"""
 	I'm sorry,we're all
-	out of merchandise⋯
+	out of merchandise…
 	"""
 	keyWait
 	end
@@ -154945,7 +154945,7 @@ script 0 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	⋯What?
+	…What?
 	You're not?
 	"""
 	waitSkip
@@ -155062,7 +155062,7 @@ script 11 mmbn3 {
 	"""
 	Ah,the Beach area!
 	You can fish,and
-	swim,and play⋯
+	swim,and play…
 	"""
 	keyWait
 	end
@@ -155110,7 +155110,7 @@ script 20 mmbn3 {
 	"""
 	I wonder if there
 	are any more fans
-	around⋯!?
+	around…!?
 	"""
 	keyWait
 	end
@@ -155347,9 +155347,9 @@ script 51 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	and out of there⋯
+	and out of there…
 	I wonder what's up
-	with them⋯?
+	with them…?
 	"""
 	keyWait
 	end
@@ -155368,7 +155368,7 @@ script 52 mmbn3 {
 	"""
 	That's pretty scary!
 	I'm glad I didn't go
-	over there⋯
+	over there…
 	"""
 	keyWait
 	end
@@ -155398,12 +155398,12 @@ script 70 mmbn3 {
 	msgOpen
 	mugshotAnimate
 		animation = 0
-	"⋯⋯"
+	"……"
 	keyWait
 	clearMsg
 	"""
-	(I⋯can't⋯move⋯my⋯
-	mouth⋯!)
+	(I…can't…move…my…
+	mouth…!)
 	"""
 	mugshotAnimate
 		animation = 1
@@ -155454,7 +155454,7 @@ script 190 mmbn3 {
 	clearMsg
 	"""
 	OK,everyone take
-	your places! 3,2,1⋯
+	your places! 3,2,1…
 	ACTION!
 	"""
 	keyWait
@@ -155657,7 +155657,7 @@ script 220 mmbn3 {
 	"""
 	It's a security cube
 	for the Seaside
-	Hospital⋯
+	Hospital…
 	"""
 	keyWait
 	clearMsg
@@ -155670,7 +155670,7 @@ script 220 mmbn3 {
 }
 script 221 mmbn3 {
 	msgOpen
-	"What a flame⋯"
+	"What a flame…"
 	keyWait
 	end
 }
@@ -155704,7 +155704,7 @@ script 229 mmbn3 {
 	"""
 	The remaining data
 	from the Navi rose
-	up and drifted away⋯
+	up and drifted away…
 	"""
 	keyWait
 	end
@@ -156206,7 +156206,7 @@ script 10 mmbn3 {
 	"""
 	It's just not fair!
 	And Beach Square is
-	so close,too⋯
+	so close,too…
 	"""
 	keyWait
 	end
@@ -156257,7 +156257,7 @@ script 12 mmbn3 {
 	clearMsg
 	"""
 	This area's main
-	street is orange⋯
+	street is orange…
 	Like the summer sun!
 	"""
 	keyWait
@@ -156413,7 +156413,7 @@ script 50 mmbn3 {
 	"""
 	Maybe I should
 	just force my way
-	in⋯!?
+	in…!?
 	"""
 	keyWait
 	end
@@ -156447,7 +156447,7 @@ script 60 mmbn3 {
 	"""
 	But still,they're
 	both criminal
-	organizations,so⋯
+	organizations,so…
 	"""
 	keyWait
 	end
@@ -156459,7 +156459,7 @@ script 70 mmbn3 {
 	"""
 	I'm still OK,but I
 	feel really
-	sluggish⋯
+	sluggish…
 	"""
 	keyWait
 	clearMsg
@@ -156594,7 +156594,7 @@ script 224 mmbn3 {
 }
 script 225 mmbn3 {
 	msgOpen
-	"What a flame⋯"
+	"What a flame…"
 	keyWait
 	end
 }
@@ -157252,7 +157252,7 @@ script 12 mmbn3 {
 	clearMsg
 	"""
 	Oooh,I think I just
-	might faint⋯!
+	might faint…!
 	"""
 	keyWait
 	end
@@ -157388,7 +157388,7 @@ script 17 mmbn3 {
 	"""
 	Those kids better
 	stay away from there
-	or they'll get hurt⋯
+	or they'll get hurt…
 	"""
 	keyWait
 	clearMsg
@@ -157426,7 +157426,7 @@ script 19 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	⋯It's not that I'm
+	…It's not that I'm
 	worried about her,or
 	anything!
 	"""
@@ -157459,7 +157459,7 @@ script 21 mmbn3 {
 	"""
 	Security guards like
 	me don't care who
-	wins⋯
+	wins…
 	"""
 	keyWait
 	clearMsg
@@ -157541,7 +157541,7 @@ script 24 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Sorry⋯
+	Sorry…
 	Actually,I'm an
 	actor.
 	"""
@@ -157557,7 +157557,7 @@ script 24 mmbn3 {
 	"""
 	You know,the soap?
 	But it's my first
-	bad-guy part⋯
+	bad-guy part…
 	"""
 	keyWait
 	clearMsg
@@ -157709,7 +157709,7 @@ script 24 mmbn3 {
 	"""
 	I see,yell "Yo!" and
 	then start acting,
-	and it all works⋯
+	and it all works…
 	"""
 	keyWait
 	clearMsg
@@ -157797,9 +157797,9 @@ script 27 mmbn3 {
 		palette = 1
 	msgOpen
 	"""
-	Wow,what a big city⋯
+	Wow,what a big city…
 	Navis everywhere you
-	look⋯
+	look…
 	"""
 	keyWait
 	end
@@ -157880,7 +157880,7 @@ script 32 mmbn3 {
 	"""
 	People associate
 	Beach St. with the
-	TV station,but⋯
+	TV station,but…
 	"""
 	keyWait
 	clearMsg
@@ -157894,7 +157894,7 @@ script 32 mmbn3 {
 	"""
 	Not that it really
 	matters to those of
-	us in Cyberworld⋯
+	us in Cyberworld…
 	"""
 	keyWait
 	end
@@ -157916,7 +157916,7 @@ script 33 mmbn3 {
 	clearMsg
 	"""
 	It's a very rare
-	aqua element virus⋯
+	aqua element virus…
 	"""
 	keyWait
 	clearMsg
@@ -158197,7 +158197,7 @@ script 53 mmbn3 {
 	"""
 	Maybe we should take
 	refuge in Netopia or
-	somewhere⋯
+	somewhere…
 	"""
 	keyWait
 	end
@@ -158215,7 +158215,7 @@ script 55 mmbn3 {
 	clearMsg
 	"""
 	It's like the end
-	of the world⋯!
+	of the world…!
 	"""
 	keyWait
 	end
@@ -158254,7 +158254,7 @@ script 62 mmbn3 {
 	"""
 	We won't be able to
 	lower our guard for
-	a long,long time⋯
+	a long,long time…
 	"""
 	keyWait
 	end
@@ -158287,7 +158287,7 @@ script 71 mmbn3 {
 	"""
 	Of course,if we stay
 	here,the problem
-	won't go away⋯
+	won't go away…
 	"""
 	keyWait
 	end
@@ -158365,7 +158365,7 @@ script 182 mmbn3 {
 	msgOpen
 	"""
 	I'm sorry,we're all
-	out of merchandise⋯
+	out of merchandise…
 	"""
 	keyWait
 	end
@@ -158424,7 +158424,7 @@ script 185 mmbn3 {
 	msgOpen
 	"""
 	Sorry,I'm all out of
-	merchandise⋯
+	merchandise…
 	"""
 	keyWait
 	end
@@ -158447,9 +158447,9 @@ script 190 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Huh? Um⋯
+	Huh? Um…
 	I think you're
-	confusing me with⋯
+	confusing me with…
 	"""
 	keyWait
 	clearMsg
@@ -158463,7 +158463,7 @@ script 190 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	⋯Darling,don't be
+	…Darling,don't be
 	embarrassed!
 	"""
 	keyWait
@@ -158507,7 +158507,7 @@ script 190 mmbn3 {
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"⋯⋯"
+	"……"
 	keyWait
 	clearMsg
 	mugshotShow
@@ -158521,7 +158521,7 @@ script 190 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	⋯Um,yeah. Nice to
+	…Um,yeah. Nice to
 	meet you!
 	"""
 	keyWait
@@ -158551,7 +158551,7 @@ script 190 mmbn3 {
 	mugshotAnimate
 		animation = 1
 	"""
-	You mean that show⋯
+	You mean that show…
 	Um,what was it
 	again?
 	"""
@@ -158560,7 +158560,7 @@ script 190 mmbn3 {
 	"""
 	Yeah,he's not a big
 	star yet. He's on
-	that morning show⋯
+	that morning show…
 	"""
 	keyWait
 	clearMsg
@@ -158610,7 +158610,7 @@ script 191 mmbn3 {
 	"""
 	Really? I thought
 	you were on some
-	other show⋯
+	other show…
 	"""
 	keyWait
 	clearMsg
@@ -158637,7 +158637,7 @@ script 191 mmbn3 {
 	mugshotHide
 	"""
 	There!
-	(Roll,roll,roll⋯
+	(Roll,roll,roll…
 	Bonk!)
 	"""
 	keyWait
@@ -158719,8 +158719,8 @@ script 194 mmbn3 {
 		palette = 1
 	"""
 	M-me?
-	Ummm⋯
-	OK,well⋯
+	Ummm…
+	OK,well…
 	"""
 	keyWait
 	clearMsg
@@ -158732,7 +158732,7 @@ script 194 mmbn3 {
 	clearMsg
 	"""
 	Do you really have
-	one of⋯Those?
+	one of…Those?
 	"""
 	keyWait
 	clearMsg
@@ -158754,7 +158754,7 @@ script 194 mmbn3 {
 	clearMsg
 	mugshotShow
 		mugshot = GirlNaviOrange
-	"Ah,yes. That⋯"
+	"Ah,yes. That…"
 	keyWait
 	clearMsg
 	"""
@@ -158827,7 +158827,7 @@ script 195 mmbn3 {
 	mugshotHide
 	"""
 	There!
-	(Roll,roll,roll⋯
+	(Roll,roll,roll…
 	Bonk!)
 	"""
 	keyWait
@@ -158863,7 +158863,7 @@ script 196 mmbn3 {
 	"""
 	(Grr,this guy's no
 	good! Maybe I'll
-	just give up⋯!)
+	just give up…!)
 	"""
 	keyWait
 	clearMsg
@@ -158955,7 +158955,7 @@ script 198 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Uh,sure⋯"
+	"Uh,sure…"
 	select
 		default = 0
 		BSeparate = false
@@ -158973,19 +158973,19 @@ script 199 mmbn3 {
 	mugshotShow
 		mugshot = GirlNaviOrange
 	msgOpen
-	"⋯⋯"
+	"……"
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = NormalNaviGreen
-	"⋯⋯"
+	"……"
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = NormalNaviGreen
 	mugshotPalette
 		palette = 1
-	"⋯⋯"
+	"……"
 	keyWait
 	clearMsg
 	mugshotShow
@@ -159020,7 +159020,7 @@ script 200 mmbn3 {
 		mugshot = NormalNaviGreen
 	mugshotAnimate
 		animation = 0
-	"(Ah,really⋯?)"
+	"(Ah,really…?)"
 	keyWait
 	clearMsg
 	mugshotAnimate
@@ -159043,7 +159043,7 @@ script 200 mmbn3 {
 	clearMsg
 	mugshotShow
 		mugshot = NormalNaviGreen
-	"Uh,OK⋯"
+	"Uh,OK…"
 	keyWait
 	clearMsg
 	jump
@@ -159145,7 +159145,7 @@ script 210 mmbn3 {
 	msgOpen
 	"""
 	What's taking
-	MegaMan⋯?
+	MegaMan…?
 	"""
 	keyWait
 	end
@@ -159156,7 +159156,7 @@ script 211 mmbn3 {
 	msgOpen
 	"""
 	(I feel sorry for
-	you,too⋯)
+	you,too…)
 	"""
 	keyWait
 	end
@@ -159186,7 +159186,7 @@ script 213 mmbn3 {
 	msgOpen
 	"""
 	(Keep your spirits
-	up⋯)
+	up…)
 	"""
 	keyWait
 	end
@@ -159320,7 +159320,7 @@ script 20 mmbn3 {
 	msgOpen
 	"""
 	Who are you,you
-	little punk⋯?
+	little punk…?
 	"""
 	keyWait
 	clearMsg
@@ -159449,20 +159449,20 @@ script 190 mmbn3 {
 	mugshotShow
 		mugshot = CloakedNavi
 	msgOpen
-	"Ooooooh⋯"
+	"Ooooooh…"
 	keyWait
 	clearMsg
 	"""
 	Even though I'm
 	dead,I can't even
-	rest in peace⋯
+	rest in peace…
 	"""
 	keyWait
 	clearMsg
 	"""
 	Those tomes! Those
 	three legendary
-	tomes⋯!
+	tomes…!
 	"""
 	keyWait
 	clearMsg
@@ -159483,7 +159483,7 @@ script 190 mmbn3 {
 	"""
 	When I died,someone
 	stole the three
-	tomes⋯
+	tomes…
 	"""
 	keyWait
 	clearMsg
@@ -159520,12 +159520,12 @@ script 191 mmbn3 {
 	mugshotShow
 		mugshot = CloakedNavi
 	msgOpen
-	"Ooooooh⋯"
+	"Ooooooh…"
 	keyWait
 	clearMsg
 	"""
-	The tomes⋯
-	The tomes⋯
+	The tomes…
+	The tomes…
 	"""
 	keyWait
 	clearMsg
@@ -159573,7 +159573,7 @@ script 192 mmbn3 {
 	"""
 	You've done a great
 	job,Navi. Here,take
-	your reward⋯
+	your reward…
 	"""
 	keyWait
 	clearMsg
@@ -159615,7 +159615,7 @@ script 194 mmbn3 {
 	msgOpen
 	"""
 	Hee,hee,hee!
-	My tomes⋯
+	My tomes…
 	"""
 	keyWait
 	end
@@ -159658,7 +159658,7 @@ script 220 mmbn3 {
 	"""
 	"That which you seek
 	is beyond this
-	door⋯
+	door…
 	"""
 	keyWait
 	clearMsg
@@ -159671,7 +159671,7 @@ script 220 mmbn3 {
 		item = 17
 	"""
 	 may
-	open this door⋯"
+	open this door…"
 	"""
 	keyWait
 	end
@@ -159691,7 +159691,7 @@ script 221 mmbn3 {
 	"\"!"
 	keyWait
 	clearMsg
-	"The door opens⋯"
+	"The door opens…"
 	keyWait
 	msgClose
 	flagSet
@@ -160265,7 +160265,7 @@ script 21 mmbn3 {
 	msgOpen
 	"""
 	Wha? So,you live in
-	the Undernet,too⋯?
+	the Undernet,too…?
 	"""
 	keyWait
 	clearMsg
@@ -160279,7 +160279,7 @@ script 21 mmbn3 {
 	"""
 	You've got the same
 	nasty look about you
-	that we do,heh⋯
+	that we do,heh…
 	"""
 	keyWait
 	clearMsg
@@ -160341,7 +160341,7 @@ script 41 mmbn3 {
 	msgOpen
 	"""
 	I'll let you in on
-	a little secret⋯
+	a little secret…
 	"""
 	keyWait
 	clearMsg
@@ -160376,7 +160376,7 @@ script 44 mmbn3 {
 	"""
 	So,you're looking
 	for the guy who's
-	rank #10⋯
+	rank #10…
 	"""
 	keyWait
 	clearMsg
@@ -160417,7 +160417,7 @@ script 46 mmbn3 {
 	"""
 	Hee hee! It might
 	already be too late
-	for you to leave⋯
+	for you to leave…
 	"""
 	keyWait
 	end
@@ -160452,7 +160452,7 @@ script 51 mmbn3 {
 	"""
 	It'll take a while
 	for the damage to
-	spread here,I hope⋯
+	spread here,I hope…
 	"""
 	keyWait
 	end
@@ -160977,7 +160977,7 @@ script 11 mmbn3 {
 	msgOpen
 	"""
 	I dunno about the
-	other guys,but⋯
+	other guys,but…
 	"""
 	keyWait
 	clearMsg
@@ -161190,7 +161190,7 @@ script 182 mmbn3 {
 	mugshotShow
 		mugshot = HeelNavi
 	msgOpen
-	"I'm all outta chips⋯"
+	"I'm all outta chips…"
 	keyWait
 	end
 }
@@ -161240,7 +161240,7 @@ script 191 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	⋯⋯
+	……
 	Sorry,that was just
 	a little joke.
 	"""
@@ -161881,7 +161881,7 @@ script 4 mmbn3 {
 	mugshotShow
 		mugshot = HeelNavi
 	msgOpen
-	"Go on through⋯"
+	"Go on through…"
 	keyWait
 	flagSet
 		flag = 258
@@ -161917,7 +161917,7 @@ script 11 mmbn3 {
 		mugshot = CloakedNavi
 	msgOpen
 	"""
-	Grrr⋯
+	Grrr…
 	I'm ranked #8.
 	"""
 	keyWait
@@ -161932,7 +161932,7 @@ script 12 mmbn3 {
 	"""
 	You know,I think
 	I've seen this Navi
-	somewhere before⋯!
+	somewhere before…!
 	"""
 	keyWait
 	clearMsg
@@ -161943,10 +161943,10 @@ script 13 mmbn3 {
 	mugshotShow
 		mugshot = CloakedNavi
 	msgOpen
-	"Garrr⋯"
+	"Garrr…"
 	keyWait
 	clearMsg
-	"I remember you well⋯"
+	"I remember you well…"
 	keyWait
 	clearMsg
 	"""
@@ -162038,14 +162038,14 @@ script 190 mmbn3 {
 	"""
 	This book is a mess!
 	Totally filthy.
-	Not only that⋯
+	Not only that…
 	"""
 	keyWait
 	clearMsg
 	"""
 	I just don't get
 	all these weird
-	symbols⋯
+	symbols…
 	"""
 	keyWait
 	clearMsg
@@ -162056,20 +162056,20 @@ script 190 mmbn3 {
 	"""
 	keyWait
 	clearMsg
-	"⋯⋯"
+	"……"
 	keyWait
 	clearMsg
 	"""
 	Yeah,it's not like I
 	need it or anything,
-	but still⋯
+	but still…
 	"""
 	keyWait
 	clearMsg
 	"""
 	I ain't givin' it
 	away for nothin'!
-	Look here⋯
+	Look here…
 	"""
 	keyWait
 	clearMsg
@@ -162172,7 +162172,7 @@ script 193 mmbn3 {
 	mugshotShow
 		mugshot = HeelNavi
 	msgOpen
-	"I just don't get it⋯"
+	"I just don't get it…"
 	keyWait
 	clearMsg
 	"""
@@ -162189,7 +162189,7 @@ script 193 mmbn3 {
 	"""
 	keyWait
 	clearMsg
-	"Beats me⋯"
+	"Beats me…"
 	keyWait
 	end
 }
@@ -162734,19 +162734,19 @@ script 12 mmbn3 {
 	"""
 	Bah! You found me!
 	You just don't give
-	up,do you? OK⋯
+	up,do you? OK…
 	"""
 	keyWait
 	clearMsg
 	"""
 	Since you found me,
-	the "Hidden Demon"⋯
+	the "Hidden Demon"…
 	"""
 	keyWait
 	clearMsg
 	"""
 	I'll tell you a
-	secret. But⋯
+	secret. But…
 	Hey,wait a second!
 	"""
 	keyWait
@@ -162766,13 +162766,13 @@ script 13 mmbn3 {
 	"""
 	Bah! You found me!
 	You just don't give
-	up,do you? OK⋯
+	up,do you? OK…
 	"""
 	keyWait
 	clearMsg
 	"""
 	Since you found me,
-	the "Hidden Demon"⋯
+	the "Hidden Demon"…
 	"""
 	keyWait
 	clearMsg
@@ -162795,14 +162795,14 @@ script 20 mmbn3 {
 	"""
 	So,you found me!
 	Lucky you! This is
-	your big chance⋯
+	your big chance…
 	"""
 	keyWait
 	clearMsg
 	"""
 	To challenge a fine
 	gent who's ranked
-	#3! Ahem⋯!
+	#3! Ahem…!
 	"""
 	keyWait
 	end
@@ -162814,7 +162814,7 @@ script 21 mmbn3 {
 	"""
 	You made it this
 	far,but look out for
-	Rank #3⋯
+	Rank #3…
 	"""
 	keyWait
 	end
@@ -162839,7 +162839,7 @@ script 31 mmbn3 {
 	mugshotShow
 		mugshot = HeelNavi
 	msgOpen
-	"You got the skills⋯"
+	"You got the skills…"
 	keyWait
 	clearMsg
 	"""
@@ -162943,7 +162943,7 @@ script 182 mmbn3 {
 	mugshotShow
 		mugshot = HeelNavi
 	msgOpen
-	"I'm all outta wares⋯"
+	"I'm all outta wares…"
 	keyWait
 	end
 }
@@ -162986,7 +162986,7 @@ script 190 mmbn3 {
 	clearMsg
 	"""
 	And let's see,I
-	also,um⋯
+	also,um…
 	"""
 	keyWait
 	clearMsg
@@ -163006,7 +163006,7 @@ script 190 mmbn3 {
 	"""
 	keyWait
 	clearMsg
-	"Whew⋯"
+	"Whew…"
 	keyWait
 	clearMsg
 	"""
@@ -163061,7 +163061,7 @@ script 192 mmbn3 {
 	msgOpen
 	"""
 	I-I-I-I'm
-	s-s-so s-s-scared⋯
+	s-s-so s-s-scared…
 	"""
 	keyWait
 	end
@@ -163124,7 +163124,7 @@ script 222 mmbn3 {
 	"""
 	Nobody knows who
 	built the pillar,
-	or why⋯
+	or why…
 	"""
 	keyWait
 	end
@@ -163135,7 +163135,7 @@ script 229 mmbn3 {
 	"""
 	The remaining data
 	from the Navi rose
-	up and drifted away⋯
+	up and drifted away…
 	"""
 	keyWait
 	end
@@ -163521,11 +163521,11 @@ script 250 mmbn3 {
 	msgOpen
 	"""
 	We're at the last
-	place in the will⋯
+	place in the will…
 	"""
 	keyWait
 	clearMsg
-	"⋯⋯"
+	"……"
 	keyWait
 	clearMsg
 	"""
@@ -163619,7 +163619,7 @@ script 0 mmbn3 {
 	msgOpen
 	"""
 	Only the strong can
-	survive here⋯
+	survive here…
 	No wimps allowed!
 	"""
 	keyWait
@@ -163710,7 +163710,7 @@ script 229 mmbn3 {
 	"""
 	The remaining data
 	from the Navi rose
-	up and drifted away⋯
+	up and drifted away…
 	"""
 	keyWait
 	end
@@ -164185,7 +164185,7 @@ script 182 mmbn3 {
 	msgOpen
 	"""
 	I'm all outta
-	merchandise⋯
+	merchandise…
 	"""
 	keyWait
 	end
@@ -164209,7 +164209,7 @@ script 190 mmbn3 {
 		buffer = 0
 		item = 50
 	"""
-	"⋯
+	"…
 	Yeah,I got it.
 	"""
 	keyWait
@@ -164224,14 +164224,14 @@ script 190 mmbn3 {
 	"""
 	I haven't been able
 	to find any worthy
-	opponents lately⋯
+	opponents lately…
 	"""
 	keyWait
 	clearMsg
 	"""
 	You look like you
 	might have what it
-	takes⋯
+	takes…
 	"""
 	keyWait
 	clearMsg
@@ -164340,7 +164340,7 @@ script 195 mmbn3 {
 	"""
 	They say if you can
 	find all three
-	tomes⋯
+	tomes…
 	"""
 	keyWait
 	clearMsg
@@ -164451,7 +164451,7 @@ script 229 mmbn3 {
 	"""
 	The remaining data
 	from the Navi rose
-	up and drifted away⋯
+	up and drifted away…
 	"""
 	keyWait
 	end
@@ -164847,22 +164847,22 @@ script 243 mmbn3 {
 
 script 0 mmbn3 {
 	msgOpen
-	"Grumble,grumble⋯"
+	"Grumble,grumble…"
 	keyWait
 	clearMsg
 	"""
-	So⋯
-	Hungry⋯
+	So…
+	Hungry…
 	"""
 	keyWait
 	clearMsg
-	"Must find BugFrags⋯"
+	"Must find BugFrags…"
 	keyWait
 	clearMsg
 	"""
 	Gimme 50 BugFrags,
 	and I'll move outta
-	your way⋯
+	your way…
 	"""
 	keyWait
 	clearMsg
@@ -164907,13 +164907,13 @@ script 1 mmbn3 {
 		jumpIfGreater = 2
 		jumpIfLess = continue
 	msgOpen
-	"Grumble,grumble⋯"
+	"Grumble,grumble…"
 	keyWait
 	clearMsg
 	"""
-	You⋯! You 
+	You…! You 
 	don't have
-	enough BugFrags⋯
+	enough BugFrags…
 	"""
 	keyWait
 	clearMsg
@@ -164934,8 +164934,8 @@ script 2 mmbn3 {
 	msgOpen
 	"""
 	Snarl!
-	Nice job⋯
-	Go on through⋯
+	Nice job…
+	Go on through…
 	"""
 	keyWait
 	flagSet
@@ -164989,7 +164989,7 @@ script 221 mmbn3 {
 	"""
 	You hear a solemn
 	voice from
-	overhead⋯
+	overhead…
 	"""
 	keyWait
 	clearMsg
@@ -165032,7 +165032,7 @@ script 222 mmbn3 {
 	"""
 	"Only the King of
 	the Undernet may
-	pass,unworthy one⋯"
+	pass,unworthy one…"
 	"""
 	keyWait
 	clearMsg
@@ -165091,7 +165091,7 @@ script 225 mmbn3 {
 	msgOpen
 	"""
 	You hear a solemn
-	voice from overhead⋯
+	voice from overhead…
 	"""
 	keyWait
 	clearMsg
@@ -165116,7 +165116,7 @@ script 226 mmbn3 {
 	msgOpen
 	"""
 	You hear a solemn
-	voice from overhead⋯
+	voice from overhead…
 	"""
 	keyWait
 	clearMsg
@@ -165691,7 +165691,7 @@ script 0 mmbn3 {
 	clearMsg
 	"""
 	Well,if you think
-	you're ready⋯
+	you're ready…
 	"""
 	keyWait
 	clearMsg
@@ -165714,7 +165714,7 @@ script 1 mmbn3 {
 	mugshotShow
 		mugshot = HeelNavi
 	msgOpen
-	"Just do your best⋯"
+	"Just do your best…"
 	keyWait
 	end
 }
@@ -165794,11 +165794,11 @@ script 10 mmbn3 {
 	clearMsg
 	"""
 	A place for bad
-	guys to⋯
+	guys to…
 	"""
 	keyWait
 	clearMsg
-	"Whoops! I mean⋯"
+	"Whoops! I mean…"
 	keyWait
 	clearMsg
 	"""
@@ -165857,16 +165857,16 @@ script 12 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	Woah⋯! For such a
+	Woah…! For such a
 	young Navi,you sure
-	look brutal⋯
+	look brutal…
 	"""
 	keyWait
 	clearMsg
 	"""
 	You'll be a big
 	cheese someday,
-	I bet⋯
+	I bet…
 	"""
 	keyWait
 	end
@@ -165901,20 +165901,20 @@ script 13 mmbn3 {
 	msgOpen
 	"""
 	The place up ahead
-	is sacred to us⋯
+	is sacred to us…
 	"""
 	keyWait
 	clearMsg
 	"""
 	If a surface guy
 	like you tried
-	something in there⋯
+	something in there…
 	"""
 	keyWait
 	clearMsg
 	"""
 	It'd be all over.
-	⋯Get the picture?
+	…Get the picture?
 	"""
 	keyWait
 	end
@@ -165933,7 +165933,7 @@ script 14 mmbn3 {
 	"""
 	It's our version of
 	"survival of the
-	fittest"⋯
+	fittest"…
 	"""
 	keyWait
 	clearMsg
@@ -165974,9 +165974,9 @@ script 15 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	⋯Man,you sure stink!
+	…Man,you sure stink!
 	Surface guys always
-	smell so nasty⋯
+	smell so nasty…
 	"""
 	keyWait
 	end
@@ -166040,7 +166040,7 @@ script 20 mmbn3 {
 	"""
 	If you are,you're a
 	dead Navi. Just a
-	friendly warning⋯
+	friendly warning…
 	"""
 	keyWait
 	end
@@ -166051,7 +166051,7 @@ script 21 mmbn3 {
 	msgOpen
 	"""
 	You wanna know where
-	the evil fall⋯?
+	the evil fall…?
 	"""
 	keyWait
 	clearMsg
@@ -166162,7 +166162,7 @@ script 25 mmbn3 {
 	"""
 	Where evil falls?
 	Jail,maybe? No.
-	Hmm,I wonder⋯
+	Hmm,I wonder…
 	"""
 	keyWait
 	end
@@ -166190,11 +166190,11 @@ script 31 mmbn3 {
 	"Science gives life?"
 	keyWait
 	clearMsg
-	"⋯⋯⋯"
+	"………"
 	keyWait
 	clearMsg
 	"""
-	Duhh⋯What's that
+	Duhh…What's that
 	supposed to mean?
 	"""
 	keyWait
@@ -166241,7 +166241,7 @@ script 34 mmbn3 {
 	mugshotShow
 		mugshot = HeelNavi
 	msgOpen
-	"⋯Whatever!"
+	"…Whatever!"
 	keyWait
 	end
 }
@@ -166252,7 +166252,7 @@ script 35 mmbn3 {
 	"""
 	Science bringing
 	life reminds me of
-	that place⋯
+	that place…
 	"""
 	keyWait
 	clearMsg
@@ -166283,7 +166283,7 @@ script 41 mmbn3 {
 	mugshotShow
 		mugshot = HeelNavi
 	msgOpen
-	"Rednu3⋯?"
+	"Rednu3…?"
 	keyWait
 	clearMsg
 	"""
@@ -166303,7 +166303,7 @@ script 42 mmbn3 {
 	msgOpen
 	"""
 	So you're still
-	poking around⋯?
+	poking around…?
 	"""
 	keyWait
 	end
@@ -166314,14 +166314,14 @@ script 43 mmbn3 {
 	msgOpen
 	"""
 	Hm? I seem to
-	recall⋯
+	recall…
 	"""
 	keyWait
 	clearMsg
 	"""
-	Rednu3⋯? Hmmm⋯
+	Rednu3…? Hmmm…
 	That really sounds
-	familiar⋯
+	familiar…
 	"""
 	keyWait
 	end
@@ -166362,7 +166362,7 @@ script 45 mmbn3 {
 	"""
 	"Under2". If you
 	live here,you should
-	know this already⋯
+	know this already…
 	"""
 	keyWait
 	end
@@ -166430,13 +166430,13 @@ script 53 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	What about "head"⋯?
+	What about "head"…?
 	Means some kinda
 	boss,right?
 	"""
 	keyWait
 	clearMsg
-	"Duh,I dunno⋯"
+	"Duh,I dunno…"
 	keyWait
 	end
 }
@@ -166537,8 +166537,8 @@ script 63 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	Wow⋯
-	You're #7 already⋯
+	Wow…
+	You're #7 already…
 	"""
 	keyWait
 	clearMsg
@@ -166552,7 +166552,7 @@ script 63 mmbn3 {
 	"""
 	Like,especially,
 	the Navi who's
-	ranked #3⋯
+	ranked #3…
 	"""
 	keyWait
 	end
@@ -166634,7 +166634,7 @@ script 71 mmbn3 {
 	"""
 	Come to think of it,
 	you resemble that
-	N1 Navi,MegaMan⋯!
+	N1 Navi,MegaMan…!
 	"""
 	keyWait
 	end
@@ -166658,7 +166658,7 @@ script 73 mmbn3 {
 	"""
 	Rank #2 already!?
 	You're sure tougher
-	than you look,Navi⋯
+	than you look,Navi…
 	"""
 	keyWait
 	end
@@ -166674,7 +166674,7 @@ script 74 mmbn3 {
 	"""
 	I could swear I've
 	seen you somewhere
-	before. Hmmmm⋯
+	before. Hmmmm…
 	"""
 	keyWait
 	end
@@ -166685,7 +166685,7 @@ script 75 mmbn3 {
 	msgOpen
 	"""
 	You're real close to
-	rank #1⋯
+	rank #1…
 	"""
 	keyWait
 	clearMsg
@@ -166746,7 +166746,7 @@ script 82 mmbn3 {
 	mugshotShow
 		mugshot = HeelNavi
 	msgOpen
-	"⋯⋯"
+	"……"
 	keyWait
 	end
 }
@@ -166756,7 +166756,7 @@ script 83 mmbn3 {
 	msgOpen
 	"""
 	The big open area
-	past this one⋯
+	past this one…
 	"""
 	keyWait
 	clearMsg
@@ -166793,7 +166793,7 @@ script 85 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	A boulder⋯?
+	A boulder…?
 	Yeah,I think I saw
 	one somewhere.
 	"""
@@ -166802,7 +166802,7 @@ script 85 mmbn3 {
 	"""
 	When my operator
 	went to an inn
-	one time⋯
+	one time…
 	"""
 	keyWait
 	end
@@ -166851,7 +166851,7 @@ script 92 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	Those WWW jerks⋯
+	Those WWW jerks…
 	What're they
 	thinking!?
 	"""
@@ -166865,7 +166865,7 @@ script 93 mmbn3 {
 	"""
 	I hate Officials,
 	but those WWW guys
-	go too far⋯
+	go too far…
 	"""
 	keyWait
 	end
@@ -166911,7 +166911,7 @@ script 100 mmbn3 {
 	mugshotShow
 		mugshot = HeelNavi
 	msgOpen
-	"⋯Hmph!"
+	"…Hmph!"
 	keyWait
 	end
 }
@@ -166937,7 +166937,7 @@ script 102 mmbn3 {
 	msgOpen
 	"""
 	This ain't no place
-	for you to be⋯
+	for you to be…
 	"""
 	keyWait
 	clearMsg
@@ -166955,14 +166955,14 @@ script 103 mmbn3 {
 	"""
 	I don't think
 	they'll attack us
-	here just yet,but⋯
+	here just yet,but…
 	"""
 	keyWait
 	clearMsg
 	"""
 	Wily,the boss of the
 	WWW,hates the whole
-	net⋯
+	net…
 	"""
 	keyWait
 	clearMsg
@@ -167061,7 +167061,7 @@ script 182 mmbn3 {
 	mugshotShow
 		mugshot = HeelNavi
 	msgOpen
-	"I'm all outta wares⋯"
+	"I'm all outta wares…"
 	keyWait
 	end
 }
@@ -167119,7 +167119,7 @@ script 185 mmbn3 {
 	msgOpen
 	"""
 	Sorry,I'm all out of
-	merchandise⋯
+	merchandise…
 	"""
 	keyWait
 	end
@@ -167154,12 +167154,12 @@ script 190 mmbn3 {
 	"""
 	All I have left is
 	this stupid old
-	book⋯
+	book…
 	"""
 	keyWait
 	clearMsg
 	"""
-	⋯What? You wanna buy
+	…What? You wanna buy
 	the book!? Thanks!
 	"""
 	keyWait
@@ -167292,7 +167292,7 @@ script 194 mmbn3 {
 	"""
 	Aw,man. I thought
 	I could score some
-	easy cash⋯
+	easy cash…
 	"""
 	keyWait
 	end
@@ -167322,7 +167322,7 @@ script 196 mmbn3 {
 	"""
 	Once you start
 	gambling,it's hard
-	to stop⋯
+	to stop…
 	"""
 	keyWait
 	clearMsg
@@ -167485,7 +167485,7 @@ script 1 mmbn3 {
 	msgOpen
 	"""
 	I hear that bugs
-	help call the dark⋯
+	help call the dark…
 	"""
 	keyWait
 	end
@@ -167497,34 +167497,34 @@ script 2 mmbn3 {
 	"""
 	Our Lord Serenade
 	has set in places
-	great monoliths⋯
+	great monoliths…
 	"""
 	keyWait
 	clearMsg
 	"""
 	These stones are
 	used to seal away
-	evil viruses⋯
+	evil viruses…
 	"""
 	keyWait
 	clearMsg
 	"""
 	If you do not wish
 	to die,then do not
-	break the stones⋯
+	break the stones…
 	"""
 	keyWait
 	clearMsg
 	"""
 	But there is only
-	one thing⋯
+	one thing…
 	"""
 	keyWait
 	clearMsg
 	"""
 	Only one thing in
 	this world which
-	may break them⋯
+	may break them…
 	"""
 	keyWait
 	clearMsg
@@ -167536,7 +167536,7 @@ script 2 mmbn3 {
 	clearMsg
 	"""
 	It lies at the edge
-	of the Undernet⋯
+	of the Undernet…
 	The "
 	"""
 	printItem
@@ -167576,7 +167576,7 @@ script 11 mmbn3 {
 	"""
 	The power from the
 	inner areas has
-	vanished⋯
+	vanished…
 	"""
 	keyWait
 	clearMsg
@@ -167681,7 +167681,7 @@ script 221 mmbn3 {
 script 222 mmbn3 {
 	msgOpen
 	"""
-	Beep⋯beep⋯
+	Beep…beep…
 	Security system,
 	activated!
 	"""
@@ -167733,7 +167733,7 @@ script 222 mmbn3 {
 script 223 mmbn3 {
 	msgOpen
 	"""
-	Beep⋯beep⋯
+	Beep…beep…
 	Security system,
 	activated!
 	"""
@@ -167850,7 +167850,7 @@ script 227 mmbn3 {
 	printItem
 		buffer = 0
 		item = 56
-	"\"⋯?"
+	"\"…?"
 	keyWait
 	clearMsg
 	option
@@ -167920,7 +167920,7 @@ script 229 mmbn3 {
 	msgOpen
 	"""
 	I don't think that
-	we can move this⋯
+	we can move this…
 	"""
 	keyWait
 	clearMsg
@@ -167956,7 +167956,7 @@ script 232 mmbn3 {
 	"""
 	The remaining data
 	from the Navi rose
-	up and drifted away⋯
+	up and drifted away…
 	"""
 	keyWait
 	end
@@ -168308,11 +168308,11 @@ script 0 mmbn3 {
 	"""
 	That which is real
 	is not only that
-	which you see⋯
+	which you see…
 	"""
 	keyWait
 	clearMsg
-	"Do not forget that⋯"
+	"Do not forget that…"
 	keyWait
 	end
 }
@@ -168321,8 +168321,8 @@ script 1 mmbn3 {
 		mugshot = CloakedNavi
 	msgOpen
 	"""
-	BugFrag Trader⋯
-	300⋯
+	BugFrag Trader…
+	300…
 	"""
 	keyWait
 	end
@@ -168338,7 +168338,7 @@ script 10 mmbn3 {
 	"""
 	What's that evil
 	power I feel coming
-	from area 3⋯?
+	from area 3…?
 	"""
 	keyWait
 	clearMsg
@@ -168355,8 +168355,8 @@ script 11 mmbn3 {
 		mugshot = CloakedNavi
 	msgOpen
 	"""
-	The evil power is⋯
-	Is it gone⋯?
+	The evil power is…
+	Is it gone…?
 	"""
 	keyWait
 	end
@@ -168390,8 +168390,8 @@ script 180 mmbn3 {
 		mugshot = CloakedNavi
 	msgOpen
 	"""
-	I am⋯Net trader⋯
-	⋯Buy⋯chips⋯?
+	I am…Net trader…
+	…Buy…chips…?
 	
 	"""
 	option
@@ -168425,7 +168425,7 @@ script 180 mmbn3 {
 }
 script 181 mmbn3 {
 	clearMsg
-	"Come⋯again⋯"
+	"Come…again…"
 	keyWait
 	end
 }
@@ -168433,7 +168433,7 @@ script 182 mmbn3 {
 	mugshotShow
 		mugshot = CloakedNavi
 	msgOpen
-	"No⋯more⋯chips⋯"
+	"No…more…chips…"
 	keyWait
 	end
 }
@@ -168495,7 +168495,7 @@ script 221 mmbn3 {
 script 222 mmbn3 {
 	msgOpen
 	"""
-	Beep⋯beep⋯
+	Beep…beep…
 	Security system,
 	activated!
 	"""
@@ -168547,7 +168547,7 @@ script 222 mmbn3 {
 script 223 mmbn3 {
 	msgOpen
 	"""
-	Beep⋯beep⋯
+	Beep…beep…
 	Security system,
 	activated!
 	"""
@@ -168644,7 +168644,7 @@ script 226 mmbn3 {
 	printItem
 		buffer = 0
 		item = 56
-	"\"⋯?"
+	"\"…?"
 	keyWait
 	clearMsg
 	option
@@ -168728,7 +168728,7 @@ script 228 mmbn3 {
 	msgOpen
 	"""
 	I don't think that
-	we can move this⋯
+	we can move this…
 	"""
 	keyWait
 	clearMsg
@@ -168839,7 +168839,7 @@ script 234 mmbn3 {
 	"""
 	The remaining data
 	from the Navi rose
-	up and drifted away⋯
+	up and drifted away…
 	"""
 	keyWait
 	end
@@ -169310,14 +169310,14 @@ script 0 mmbn3 {
 	"""
 	I feel an amazingly
 	destructive power
-	along this path⋯
+	along this path…
 	"""
 	keyWait
 	clearMsg
 	"""
 	So this is what fear
 	feels like. I can't
-	stop shaking⋯
+	stop shaking…
 	"""
 	keyWait
 	end
@@ -169328,13 +169328,13 @@ script 1 mmbn3 {
 	msgOpen
 	"""
 	I've finally stopped
-	shaking⋯
+	shaking…
 	"""
 	keyWait
 	clearMsg
 	"""
 	Just what was that
-	power that I felt⋯?
+	power that I felt…?
 	"""
 	keyWait
 	end
@@ -169423,7 +169423,7 @@ script 221 mmbn3 {
 script 222 mmbn3 {
 	msgOpen
 	"""
-	Beep⋯beep⋯
+	Beep…beep…
 	Security system,
 	activated!
 	"""
@@ -169475,7 +169475,7 @@ script 222 mmbn3 {
 script 223 mmbn3 {
 	msgOpen
 	"""
-	Beep⋯beep⋯
+	Beep…beep…
 	Security system,
 	activated!
 	"""
@@ -169572,7 +169572,7 @@ script 226 mmbn3 {
 	printItem
 		buffer = 0
 		item = 56
-	"\"⋯?"
+	"\"…?"
 	keyWait
 	clearMsg
 	option
@@ -169656,7 +169656,7 @@ script 228 mmbn3 {
 	msgOpen
 	"""
 	I don't think that
-	we can move this⋯
+	we can move this…
 	"""
 	keyWait
 	clearMsg
@@ -170675,7 +170675,7 @@ script 4 mmbn3 {
 script 5 mmbn3 {
 	mugshotHide
 	msgOpen
-	"Yes,ma'am⋯"
+	"Yes,ma'am…"
 	keyWait
 	clearMsg
 	jump
@@ -170763,7 +170763,7 @@ script 5 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Uh⋯yes,we are."
+	"Uh…yes,we are."
 	keyWait
 	clearMsg
 	jump
@@ -170805,7 +170805,7 @@ script 7 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	I knew it⋯I knew
+	I knew it…I knew
 	this day would come!
 	"""
 	keyWait
@@ -170825,8 +170825,8 @@ script 8 mmbn3 {
 		mugshot = Sunayama
 	msgOpen
 	"""
-	Uh⋯Right. Anyway,
-	if I might continue⋯
+	Uh…Right. Anyway,
+	if I might continue…
 	"""
 	keyWait
 	clearMsg
@@ -170863,7 +170863,7 @@ script 9 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Us⋯?"
+	"Us…?"
 	keyWait
 	clearMsg
 	jump
@@ -170873,7 +170873,7 @@ script 10 mmbn3 {
 	mugshotShow
 		mugshot = Mayl
 	msgOpen
-	"In the⋯?"
+	"In the…?"
 	keyWait
 	clearMsg
 	jump
@@ -170883,7 +170883,7 @@ script 11 mmbn3 {
 	mugshotShow
 		mugshot = Dex
 	msgOpen
-	"Preliminaries⋯?"
+	"Preliminaries…?"
 	keyWait
 	clearMsg
 	jump
@@ -170927,7 +170927,7 @@ script 13 mmbn3 {
 	"""
 	Look at the time!
 	Registration will
-	start soon,so⋯
+	start soon,so…
 	"""
 	keyWait
 	clearMsg
@@ -170963,13 +170963,13 @@ script 15 mmbn3 {
 	msgOpen
 	flagSet
 		flag = 784
-	"Hmmm⋯"
+	"Hmmm…"
 	waitSkip
 		frames = 60
 	"\n"
 	flagClear
 		flag = 784
-	"I wonder⋯"
+	"I wonder…"
 	keyWait
 	end
 }
@@ -171261,9 +171261,9 @@ script 6 mmbn3 {
 		mugshot = Yai
 	msgOpen
 	"""
-	About the chat⋯
+	About the chat…
 	Since it's already
-	6PM⋯
+	6PM…
 	"""
 	keyWait
 	clearMsg
@@ -171437,7 +171437,7 @@ script 5 mmbn3 {
 script 0 mmbn3 {
 	mugshotHide
 	msgOpen
-	"One hour later⋯"
+	"One hour later…"
 	keyWait
 	end
 }
@@ -171508,7 +171508,7 @@ script 6 mmbn3 {
 	msgOpen
 	"""
 	I'm sorry,Lan!
-	I forgot,too⋯
+	I forgot,too…
 	"""
 	keyWait
 	clearMsg
@@ -171544,7 +171544,7 @@ script 9 mmbn3 {
 		mugshot = GutsMan
 	msgOpen
 	"""
-	Dex⋯?
+	Dex…?
 	Are you okay?
 	"""
 	keyWait
@@ -171742,7 +171742,7 @@ script 23 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Or are you⋯
+	Or are you…
 	Scared of ghosts?
 	"""
 	keyWait
@@ -171769,7 +171769,7 @@ script 25 mmbn3 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Uh⋯That's right! So
+	Uh…That's right! So
 	l-let's m-m-meet in
 	front of the school!
 	"""
@@ -171835,7 +171835,7 @@ script 2 mmbn3 {
 	msgOpen
 	"""
 	Yeah,we'll have to
-	unlock it somehow⋯
+	unlock it somehow…
 	"""
 	keyWait
 	clearMsg
@@ -172056,8 +172056,8 @@ script 9 mmbn3 {
 		mugshot = NormalNaviGreen
 	msgOpen
 	"""
-	⋯Szzzznork. Mumble,
-	mumble. ZZzzzzz⋯
+	…Szzzznork. Mumble,
+	mumble. ZZzzzzz…
 	"""
 	keyWait
 	clearMsg
@@ -172068,7 +172068,7 @@ script 10 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"He's still asleep⋯"
+	"He's still asleep…"
 	keyWait
 	end
 }
@@ -172220,7 +172220,7 @@ script 7 mmbn3 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Um,let's see⋯
+	Um,let's see…
 	I was hanging out by
 	Mayl or Yai's desk.
 	"""
@@ -172445,7 +172445,7 @@ script 7 mmbn3 {
 	waitSkip
 		frames = 30
 	"""
-	・Uh⋯
+	・Uh…
 	Not really.
 	"""
 	keyWait
@@ -172604,8 +172604,8 @@ script 0 mmbn3 {
 	soundPlay
 		track = 164
 	"""
-	Rattle⋯
-	Rattle⋯rattle⋯
+	Rattle…
+	Rattle…rattle…
 	"""
 	wait
 		frames = 120
@@ -172849,7 +172849,7 @@ script 10 mmbn3 {
 	mugshotShow
 		mugshot = Dex
 	msgOpen
-	"Here⋯we⋯GO!"
+	"Here…we…GO!"
 	keyWait
 	end
 }
@@ -172890,7 +172890,7 @@ script 1 mmbn3 {
 		mugshot = Ray
 	msgOpen
 	"""
-	Kids⋯?
+	Kids…?
 	They saw me?
 	"""
 	keyWait
@@ -173111,7 +173111,7 @@ script 14 mmbn3 {
 		mugshot = Dex
 	msgOpen
 	"""
-	⋯⋯
+	……
 	I'm a choo-choo!
 	Chugga,chugga!!
 	"""
@@ -173156,8 +173156,8 @@ script 17 mmbn3 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	Nnngh⋯
-	Run⋯Lan⋯
+	Nnngh…
+	Run…Lan…
 	"""
 	keyWait
 	playerAnimate
@@ -173292,7 +173292,7 @@ script 0 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	So⋯We've got to beat
+	So…We've got to beat
 	FlashMan to bring
 	them back to normal?
 	"""
@@ -173306,7 +173306,7 @@ script 1 mmbn3 {
 	"""
 	With that hypnotic
 	beam,we'd better
-	be careful going in⋯
+	be careful going in…
 	"""
 	keyWait
 	clearMsg
@@ -173334,7 +173334,7 @@ script 3 mmbn3 {
 	"""
 	If only we had some-
 	thing to block the
-	light⋯
+	light…
 	"""
 	keyWait
 	clearMsg
@@ -173347,7 +173347,7 @@ script 4 mmbn3 {
 	msgOpen
 	"""
 	Something to block
-	the light⋯?
+	the light…?
 	"""
 	keyWait
 	clearMsg
@@ -173608,7 +173608,7 @@ script 4 mmbn3 {
 	msgOpen
 	"""
 	In order to make the
-	area brighter⋯
+	area brighter…
 	"""
 	keyWait
 	clearMsg
@@ -173644,7 +173644,7 @@ script 5 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	"Cleaners1"⋯? Is it
+	"Cleaners1"…? Is it
 	a clue for the real
 	world for this area?
 	"""
@@ -173736,7 +173736,7 @@ script 6 mmbn3 {
 	msgOpen
 	"""
 	Guess that wasn't
-	it,then⋯
+	it,then…
 	"""
 	keyWait
 	end
@@ -173949,7 +173949,7 @@ script 7 mmbn3 {
 	msgOpen
 	"""
 	Guess that wasn't
-	it,then⋯
+	it,then…
 	"""
 	keyWait
 	end
@@ -174057,7 +174057,7 @@ script 1 mmbn3 {
 	msgOpen
 	"""
 	I am deeply sorry,
-	sir⋯
+	sir…
 	"""
 	keyWait
 	clearMsg
@@ -174118,7 +174118,7 @@ script 5 mmbn3 {
 	clearMsg
 	"""
 	MegaMan! Lan!
-	Enjoy my last flash⋯
+	Enjoy my last flash…
 	A flash of death!
 	"""
 	keyWait
@@ -174129,9 +174129,9 @@ script 6 mmbn3 {
 		mugshot = FlashMan
 	msgOpen
 	"""
-	SHINING⋯
-	BROWSER⋯
-	CRASHER⋯!
+	SHINING…
+	BROWSER…
+	CRASHER…!
 	"""
 	keyWait
 	end
@@ -174161,7 +174161,7 @@ script 8 mmbn3 {
 	"""
 	And with that,young
 	Lan,I'll take my
-	leave⋯
+	leave…
 	"""
 	keyWait
 	clearMsg
@@ -174225,8 +174225,8 @@ script 11 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I'm⋯I'm OK.
-	Just a little dizzy⋯
+	I'm…I'm OK.
+	Just a little dizzy…
 	"""
 	keyWait
 	end
@@ -174411,7 +174411,7 @@ script 0 mmbn3 {
 		mugshot = NormalNaviGreen
 	msgOpen
 	"""
-	Now it's time for⋯
+	Now it's time for…
 	"CyberSimon Says"!
 	Yeahh! Whoo! Whoo!
 	"""
@@ -174464,7 +174464,7 @@ script 4 mmbn3 {
 	mugshotShow
 		mugshot = NormalNaviGreen
 	msgOpen
-	"The time limit is⋯"
+	"The time limit is…"
 	flagSet
 		flag = 57
 	"\none minute!"
@@ -174484,7 +174484,7 @@ script 5 mmbn3 {
 	mugshotShow
 		mugshot = NormalNaviGreen
 	msgOpen
-	"The time limit is⋯"
+	"The time limit is…"
 	flagSet
 		flag = 57
 	"\none minute!"
@@ -174504,7 +174504,7 @@ script 6 mmbn3 {
 	mugshotShow
 		mugshot = NormalNaviGreen
 	msgOpen
-	"The time limit is⋯"
+	"The time limit is…"
 	flagSet
 		flag = 57
 	"\none minute!"
@@ -174596,7 +174596,7 @@ script 11 mmbn3 {
 	"""
 	Lost again,huh?
 	Well,here's a
-	special treat⋯
+	special treat…
 	"""
 	keyWait
 	end
@@ -174813,7 +174813,7 @@ script 2 mmbn3 {
 	"""
 	Some of you may
 	already be familiar
-	with this⋯
+	with this…
 	"""
 	keyWait
 	clearMsg
@@ -175025,7 +175025,7 @@ script 4 mmbn3 {
 	mugshotShow
 		mugshot = LordWily
 	msgOpen
-	"Heh heh heh⋯"
+	"Heh heh heh…"
 	wait
 		frames = 16
 	"\nHah hah hah hah!"
@@ -175039,7 +175039,7 @@ script 4 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	We are⋯
+	We are…
 	Different from
 	before!
 	"""
@@ -175064,7 +175064,7 @@ script 6 mmbn3 {
 	mugshotShow
 		mugshot = LordWily
 	msgOpen
-	"Next,it's your turn⋯"
+	"Next,it's your turn…"
 	keyWait
 	clearMsg
 	jump
@@ -175088,7 +175088,7 @@ script 8 mmbn3 {
 	mugshotShow
 		mugshot = LordWily
 	msgOpen
-	"And that would be⋯?"
+	"And that would be…?"
 	keyWait
 	clearMsg
 	jump
@@ -175143,7 +175143,7 @@ script 2 mmbn3 {
 	mugshotShow
 		mugshot = Chisao
 	msgOpen
-	"⋯⋯"
+	"……"
 	keyWait
 	end
 }
@@ -175234,7 +175234,7 @@ script 10 mmbn3 {
 	mugshotShow
 		mugshot = Chisao
 	msgOpen
-	"Oh⋯"
+	"Oh…"
 	keyWait
 	clearMsg
 	jump
@@ -175247,7 +175247,7 @@ script 11 mmbn3 {
 	"""
 	Please excuse me,I
 	must get to an
-	appointment⋯
+	appointment…
 	"""
 	keyWait
 	flagClear
@@ -175334,7 +175334,7 @@ script 5 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"So・ry⋯"
+	"So・ry…"
 	keyWait
 	clearMsg
 	jump
@@ -175360,15 +175360,15 @@ script 7 mmbn3 {
 	msgOpen
 	"""
 	Yeah,something seems
-	wrong with⋯Hey,it's
-	working now⋯
+	wrong with…Hey,it's
+	working now…
 	"""
 	keyWait
 	clearMsg
 	"""
 	Something seems to
 	be wrong with this
-	PET⋯
+	PET…
 	"""
 	keyWait
 	clearMsg
@@ -175400,7 +175400,7 @@ script 9 mmbn3 {
 	clearMsg
 	"""
 	I hate to bother him
-	at work,though⋯
+	at work,though…
 	"""
 	keyWait
 	clearMsg
@@ -175414,7 +175414,7 @@ script 10 mmbn3 {
 	"""
 	It should be OK. We
 	ARE his kids,after
-	all⋯
+	all…
 	"""
 	keyWait
 	clearMsg
@@ -175456,7 +175456,7 @@ script 13 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Oh,by the way⋯!"
+	"Oh,by the way…!"
 	keyWait
 	end
 }
@@ -175464,7 +175464,7 @@ script 14 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Wh⋯"
+	"Wh…"
 	waitSkip
 		frames = 30
 	" What now?"
@@ -175507,7 +175507,7 @@ script 17 mmbn3 {
 	"""
 	He says that he's
 	looking for the #1
-	NetBattler in ACDC⋯
+	NetBattler in ACDC…
 	"""
 	keyWait
 	clearMsg
@@ -175528,7 +175528,7 @@ script 18 mmbn3 {
 	"""
 	Of course not! You
 	know that! It must
-	be some mistake⋯
+	be some mistake…
 	"""
 	keyWait
 	clearMsg
@@ -175603,7 +175603,7 @@ script 3 mmbn3 {
 	"You little brat!\n"
 	flagClear
 		flag = 1028
-	"Why,I oughta⋯"
+	"Why,I oughta…"
 	keyWait
 	clearMsg
 	jump
@@ -175681,7 +175681,7 @@ script 8 mmbn3 {
 	mugshotShow
 		mugshot = Yai
 	msgOpen
-	"⋯⋯"
+	"……"
 	flagClear
 		flag = 1027
 	"""
@@ -175713,7 +175713,7 @@ script 10 mmbn3 {
 	mugshotShow
 		mugshot = Mayl
 	msgOpen
-	"Oh,Lan⋯"
+	"Oh,Lan…"
 	keyWait
 	clearMsg
 	jump
@@ -175726,7 +175726,7 @@ script 11 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	⋯Oh,all right,all
+	…Oh,all right,all
 	right! C'mon,
 	MegaMan! Let's go!
 	"""
@@ -175802,7 +175802,7 @@ script 4 mmbn3 {
 	mugshotShow
 		mugshot = Yai
 	msgOpen
-	"Oh,how sweet⋯"
+	"Oh,how sweet…"
 	keyWait
 	clearMsg
 	jump
@@ -175827,7 +175827,7 @@ script 6 mmbn3 {
 	"""
 	I had completely
 	forgotten that Dex
-	has a brother⋯
+	has a brother…
 	"""
 	keyWait
 	clearMsg
@@ -175840,7 +175840,7 @@ script 7 mmbn3 {
 	msgOpen
 	"""
 	Me too! Wasn't he
-	living in Netopia⋯?
+	living in Netopia…?
 	"""
 	keyWait
 	clearMsg
@@ -175889,7 +175889,7 @@ script 9 mmbn3 {
 	mugshotShow
 		mugshot = Mayl
 	msgOpen
-	"That's OK,but⋯"
+	"That's OK,but…"
 	keyWait
 	clearMsg
 	"""
@@ -175906,7 +175906,7 @@ script 10 mmbn3 {
 	mugshotShow
 		mugshot = Dex
 	msgOpen
-	"Oh,that. Uh,well⋯"
+	"Oh,that. Uh,well…"
 	keyWait
 	clearMsg
 	jump
@@ -175938,7 +175938,7 @@ script 12 mmbn3 {
 		mugshot = Dex
 	msgOpen
 	"""
-	⋯Uh,yeah,sure! I'm
+	…Uh,yeah,sure! I'm
 	the #1 NetBattler in
 	town! Yep!
 	"""
@@ -175951,7 +175951,7 @@ script 13 mmbn3 {
 	mugshotShow
 		mugshot = Yai
 	msgOpen
-	"Snicker⋯!"
+	"Snicker…!"
 	keyWait
 	clearMsg
 	jump
@@ -175987,7 +175987,7 @@ script 16 mmbn3 {
 	mugshotShow
 		mugshot = Yai
 	msgOpen
-	"Huh!? Why,you⋯!"
+	"Huh!? Why,you…!"
 	keyWait
 	clearMsg
 	jump
@@ -176052,7 +176052,7 @@ script 21 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	⋯What should
+	…What should
 	we do,Lan?
 	"""
 	keyWait
@@ -176066,8 +176066,8 @@ script 0 mmbn3 {
 		mugshot = Chisao
 	msgOpen
 	"""
-	⋯⋯
-	⋯⋯
+	……
+	……
 	"""
 	keyWait
 	clearMsg
@@ -176088,7 +176088,7 @@ script 2 mmbn3 {
 	mugshotShow
 		mugshot = Chisao
 	msgOpen
-	"⋯⋯"
+	"……"
 	keyWait
 	end
 }
@@ -176128,7 +176128,7 @@ script 6 mmbn3 {
 	mugshotShow
 		mugshot = Mayl
 	msgOpen
-	"Lan⋯"
+	"Lan…"
 	keyWait
 	clearMsg
 	jump
@@ -176168,14 +176168,14 @@ script 9 mmbn3 {
 	"""
 	I know how you feel,
 	but we n・ed to
-	ge・ to ・ad's⋯Huh?
+	ge・ to ・ad's…Huh?
 	"""
 	keyWait
 	clearMsg
 	"""
 	T・e PET s・ems to ・e
 	a・ting st・ange
-	a・ain⋯!
+	a・ain…!
 	"""
 	keyWait
 	end
@@ -176230,7 +176230,7 @@ script 3 mmbn3 {
 	msgOpen
 	"""
 	I'm sure that he did
-	for Chisao's sake⋯
+	for Chisao's sake…
 	"""
 	keyWait
 	clearMsg
@@ -176268,7 +176268,7 @@ script 6 mmbn3 {
 	"""
 	I know how you feel,
 	but just look how,
-	happy Dex is⋯
+	happy Dex is…
 	"""
 	keyWait
 	clearMsg
@@ -176281,7 +176281,7 @@ script 6 mmbn3 {
 	"""
 	O・ops,the PE・ see・s
 	to be a・ting s・range
-	ag・in⋯!
+	ag・in…!
 	"""
 	keyWait
 	end
@@ -176341,7 +176341,7 @@ script 4 mmbn3 {
 	msgOpen
 	"""
 	I just came to
-	get my dad to⋯
+	get my dad to…
 	"""
 	keyWait
 	clearMsg
@@ -176413,7 +176413,7 @@ script 8 mmbn3 {
 	msgOpen
 	"""
 	I'm not really
-	prepared,but⋯OK!
+	prepared,but…OK!
 	"""
 	keyWait
 	clearMsg
@@ -176445,7 +176445,7 @@ script 10 mmbn3 {
 	msgOpen
 	"""
 	That guy sure has a
-	lot of energy⋯
+	lot of energy…
 	"""
 	keyWait
 	clearMsg
@@ -176641,12 +176641,12 @@ script 0 mmbn3 {
 	"""
 	You dare to take on
 	the most feared Navi
-	in the Undernet⋯
+	in the Undernet…
 	"""
 	keyWait
 	clearMsg
 	"""
-	⋯the legendary
+	…the legendary
 	Virus King!?
 	"""
 	keyWait
@@ -176706,7 +176706,7 @@ script 4 mmbn3 {
 	mugshotShow
 		mugshot = HeelNavi
 	msgOpen
-	"⋯C'mon,guys!"
+	"…C'mon,guys!"
 	keyWait
 	clearMsg
 	"""
@@ -176798,7 +176798,7 @@ script 1 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"⋯⋯"
+	"……"
 	keyWait
 	clearMsg
 	playerAnimate
@@ -176812,7 +176812,7 @@ script 2 mmbn3 {
 	msgOpen
 	"""
 	And what a crummy
-	actor⋯
+	actor…
 	"""
 	keyWait
 	end
@@ -176847,7 +176847,7 @@ script 5 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"It ・ooks t・at ・ay⋯"
+	"It ・ooks t・at ・ay…"
 	keyWait
 	clearMsg
 	jump
@@ -176860,7 +176860,7 @@ script 6 mmbn3 {
 	"""
 	I wish that we
 	could get dad to
-	fix it⋯
+	fix it…
 	"""
 	keyWait
 	clearMsg
@@ -176874,7 +176874,7 @@ script 7 mmbn3 {
 	"""
 	Well,you know he's
 	busy. Hey,it's
-	working again⋯!
+	working again…!
 	"""
 	keyWait
 	clearMsg
@@ -176912,7 +176912,7 @@ script 1 mmbn3 {
 	msgOpen
 	"""
 	Way to go,MegaMan!
-	I think that⋯
+	I think that…
 	"""
 	keyWait
 	end
@@ -176947,7 +176947,7 @@ script 4 mmbn3 {
 		flag = 1028
 	"""
 	So,congratulations
-	on completing the⋯
+	on completing the…
 	
 	"""
 	flagSet
@@ -176976,7 +176976,7 @@ script 6 mmbn3 {
 	mugshotShow
 		mugshot = OfficialNavi
 	msgOpen
-	"Strange? No⋯"
+	"Strange? No…"
 	keyWait
 	clearMsg
 	jump
@@ -176987,7 +176987,7 @@ script 7 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	⋯⋯
+	……
 	I get it!
 	"""
 	keyWait
@@ -177015,7 +177015,7 @@ script 8 mmbn3 {
 	"""
 	Sorry to leave you
 	like this,but I've
-	got to get going⋯
+	got to get going…
 	"""
 	keyWait
 	clearMsg
@@ -177034,7 +177034,7 @@ script 9 mmbn3 {
 	"""
 	responsible for
 	this or any damages!
-	⋯See ya!
+	…See ya!
 	"""
 	keyWait
 	end
@@ -177045,7 +177045,7 @@ script 10 mmbn3 {
 	msgOpen
 	"""
 	Well,it looks like
-	it's calmed down⋯
+	it's calmed down…
 	"""
 	keyWait
 	clearMsg
@@ -177089,7 +177089,7 @@ script 0 mmbn3 {
 	"""
 	keyWait
 	clearMsg
-	"Later that night⋯"
+	"Later that night…"
 	keyWait
 	end
 }
@@ -177097,7 +177097,7 @@ script 1 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Man,this is no fun⋯"
+	"Man,this is no fun…"
 	keyWait
 	clearMsg
 	jump
@@ -177110,7 +177110,7 @@ script 2 mmbn3 {
 	"""
 	Yeah,we can't go
 	online,and we can't
-	even NetBattle⋯
+	even NetBattle…
 	"""
 	keyWait
 	clearMsg
@@ -177218,7 +177218,7 @@ script 9 mmbn3 {
 	msgOpen
 	"""
 	Gosh,you sound like
-	a little kid⋯
+	a little kid…
 	"""
 	keyWait
 	clearMsg
@@ -177422,7 +177422,7 @@ script 26 mmbn3 {
 	mugshotShow
 		mugshot = Dad
 	msgOpen
-	"Oh,by the way⋯"
+	"Oh,by the way…"
 	keyWait
 	clearMsg
 	"""
@@ -177449,7 +177449,7 @@ script 28 mmbn3 {
 	mugshotShow
 		mugshot = Dad
 	msgOpen
-	"Well,let's see⋯"
+	"Well,let's see…"
 	keyWait
 	clearMsg
 	"""
@@ -177557,7 +177557,7 @@ script 36 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Yeah,I guess⋯"
+	"Yeah,I guess…"
 	keyWait
 	clearMsg
 	jump
@@ -177623,17 +177623,17 @@ script 2 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Yawn⋯!"
+	"Yawn…!"
 	keyWait
 	clearMsg
-	"Sorry⋯ \""
+	"Sorry… \""
 	printItem
 		buffer = 0
 		item = 10
 	"""
 	"
 	doesn't have an
-	alarm function⋯
+	alarm function…
 	"""
 	keyWait
 	clearMsg
@@ -177698,7 +177698,7 @@ script 2 mmbn3 {
 	"""
 	Well,now that we
 	finally have
-	everyone here⋯
+	everyone here…
 	"""
 	keyWait
 	clearMsg
@@ -177782,7 +177782,7 @@ script 8 mmbn3 {
 script 0 mmbn3 {
 	mugshotHide
 	msgOpen
-	"Later that day⋯"
+	"Later that day…"
 	keyWait
 	end
 }
@@ -177826,7 +177826,7 @@ script 4 mmbn3 {
 	"""
 	I just knew this
 	place would smell
-	like a zoo⋯
+	like a zoo…
 	"""
 	keyWait
 	clearMsg
@@ -177924,10 +177924,10 @@ script 0 mmbn3 {
 	mugshotHide
 	msgOpen
 	soundDisableTextSFX
-	"⋯"
+	"…"
 	soundPlay
 		track = 217
-	"Creeeeak⋯"
+	"Creeeeak…"
 	wait
 		frames = 60
 	soundEnableTextSFX
@@ -177957,7 +177957,7 @@ script 2 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	⋯Hey,wait a minute!
+	…Hey,wait a minute!
 	You're not in the
 	bath!
 	"""
@@ -177983,7 +177983,7 @@ script 4 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"⋯Sure!"
+	"…Sure!"
 	keyWait
 	clearMsg
 	jump
@@ -177993,10 +177993,10 @@ script 5 mmbn3 {
 	mugshotHide
 	msgOpen
 	soundDisableTextSFX
-	"⋯"
+	"…"
 	soundPlay
 		track = 217
-	"Creeeeak⋯"
+	"Creeeeak…"
 	wait
 		frames = 60
 	soundEnableTextSFX
@@ -178012,7 +178012,7 @@ script 0 mmbn3 {
 	"""
 	Later,after a
 	delicious and
-	filling meal⋯
+	filling meal…
 	"""
 	keyWait
 	end
@@ -178079,7 +178079,7 @@ script 0 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Yaaaawn⋯!
+	Yaaaawn…!
 	Good morning,Lan!
 	Yesterday was fun!
 	"""
@@ -178107,7 +178107,7 @@ script 2 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let me see⋯
+	Let me see…
 	Oh,it's from dad!
 	"""
 	keyWait
@@ -178156,7 +178156,7 @@ script 6 mmbn3 {
 	msgOpen
 	soundSetTextSFX
 		track = 196
-	"⋯beep beep beep⋯\n"
+	"…beep beep beep…\n"
 	soundDisableTextSFX
 	soundPlay
 		track = 220
@@ -178184,7 +178184,7 @@ script 7 mmbn3 {
 	"""
 	keyWait
 	clearMsg
-	"⋯Huh?"
+	"…Huh?"
 	keyWait
 	end
 }
@@ -178372,7 +178372,7 @@ script 7 mmbn3 {
 	mugshotShow
 		mugshot = Mayl
 	msgOpen
-	"Hey,did you notice⋯"
+	"Hey,did you notice…"
 	keyWait
 	clearMsg
 	jump
@@ -178413,7 +178413,7 @@ script 10 mmbn3 {
 	"""
 	Now that you mention
 	it,they do seem a
-	bit odd⋯
+	bit odd…
 	"""
 	keyWait
 	clearMsg
@@ -178458,7 +178458,7 @@ script 13 mmbn3 {
 	mugshotShow
 		mugshot = Mayl
 	msgOpen
-	"L-Lan⋯"
+	"L-Lan…"
 	keyWait
 	clearMsg
 	jump
@@ -178484,7 +178484,7 @@ script 15 mmbn3 {
 	msgOpen
 	"""
 	You guys are such
-	children! (Whew⋯! I
+	children! (Whew…! I
 	almost screamed!)
 	"""
 	keyWait
@@ -178515,7 +178515,7 @@ script 17 mmbn3 {
 	mugshotShow
 		mugshot = Yai
 	msgOpen
-	"(Be calm⋯ be calm⋯)"
+	"(Be calm… be calm…)"
 	keyWait
 	clearMsg
 	jump
@@ -178537,7 +178537,7 @@ script 19 mmbn3 {
 	msgOpen
 	"""
 	I don't like the
-	looks of this⋯
+	looks of this…
 	"""
 	keyWait
 	clearMsg
@@ -178547,7 +178547,7 @@ script 19 mmbn3 {
 script 20 mmbn3 {
 	mugshotHide
 	msgOpen
-	"⋯elp me-----!"
+	"…elp me-----!"
 	keyWait
 	clearMsg
 	jump
@@ -178602,8 +178602,8 @@ script 26 mmbn3 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Huff⋯puff⋯
-	C-Chi⋯sao⋯!
+	Huff…puff…
+	C-Chi…sao…!
 	"""
 	keyWait
 	clearMsg
@@ -178648,7 +178648,7 @@ script 30 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Wh⋯Whoa!!"
+	"Wh…Whoa!!"
 	keyWait
 	clearMsg
 	jump
@@ -178668,7 +178668,7 @@ script 32 mmbn3 {
 	mugshotShow
 		mugshot = Yai
 	msgOpen
-	"⋯⋯"
+	"……"
 	keyWait
 	clearMsg
 	jump
@@ -178778,7 +178778,7 @@ script 5 mmbn3 {
 script 6 mmbn3 {
 	mugshotHide
 	msgOpen
-	"⋯⋯"
+	"……"
 	keyWait
 	clearMsg
 	jump
@@ -178829,7 +178829,7 @@ script 11 mmbn3 {
 	mugshotShow
 		mugshot = Chisao
 	msgOpen
-	"Bro⋯Brother?"
+	"Bro…Brother?"
 	keyWait
 	flagSet
 		flag = 1029
@@ -178845,7 +178845,7 @@ script 12 mmbn3 {
 	"""
 	keyWait
 	clearMsg
-	"⋯and where am I?"
+	"…and where am I?"
 	keyWait
 	clearMsg
 	"""
@@ -178972,7 +178972,7 @@ script 21 mmbn3 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	Chips⋯?
+	Chips…?
 	That's sick!
 	"""
 	keyWait
@@ -179226,14 +179226,14 @@ script 6 mmbn3 {
 	clearMsg
 	"""
 	But I hate you noisy
-	human-shaped Navis⋯
+	human-shaped Navis…
 	"""
 	keyWait
 	clearMsg
 	"""
 	You're always so
 	arrogant,always
-	looking down on us⋯
+	looking down on us…
 	"""
 	keyWait
 	clearMsg
@@ -179302,7 +179302,7 @@ script 11 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	But⋯But Wily is
+	But…But Wily is
 	supposed to be dead!
 	"""
 	keyWait
@@ -179350,7 +179350,7 @@ script 13 mmbn3 {
 		mugshot = BeastMan
 	msgOpen
 	"""
-	Grrr⋯! He doesn't
+	Grrr…! He doesn't
 	play nice,does he!?
 	"""
 	keyWait
@@ -179424,7 +179424,7 @@ script 3 mmbn3 {
 	mugshotShow
 		mugshot = Inukai
 	msgOpen
-	"Oops,gotta run⋯!"
+	"Oops,gotta run…!"
 	keyWait
 	clearMsg
 	"""
@@ -179460,7 +179460,7 @@ script 5 mmbn3 {
 	soundDisableTextSFX
 	soundPlay
 		track = 284
-	"Click⋯"
+	"Click…"
 	wait
 		frames = 60
 	keyWait
@@ -179531,7 +179531,7 @@ script 2 mmbn3 {
 		mugshot = Chisao
 	msgOpen
 	"""
-	⋯Quack? Huh?
+	…Quack? Huh?
 	Ahh! I'm falling!
 	He'p me!
 	"""
@@ -179592,7 +179592,7 @@ script 7 mmbn3 {
 	mugshotShow
 		mugshot = Dex
 	msgOpen
-	"No,Chisao⋯"
+	"No,Chisao…"
 	keyWait
 	clearMsg
 	jump
@@ -179613,9 +179613,9 @@ script 9 mmbn3 {
 		mugshot = Dex
 	msgOpen
 	"""
-	⋯Heh.
+	…Heh.
 	I guess I owe you
-	one again,Lan⋯
+	one again,Lan…
 	"""
 	keyWait
 	clearMsg
@@ -179628,7 +179628,7 @@ script 10 mmbn3 {
 	msgOpen
 	"""
 	Oh,I'm so glad that
-	Chisao is OK⋯
+	Chisao is OK…
 	"""
 	keyWait
 	clearMsg
@@ -179710,7 +179710,7 @@ script 3 mmbn3 {
 	"""
 	I hate to disappoint
 	Chisao and my
-	father,though⋯
+	father,though…
 	"""
 	keyWait
 	clearMsg
@@ -179723,7 +179723,7 @@ script 4 mmbn3 {
 	msgOpen
 	"""
 	Well,don't let ME
-	keep you here⋯
+	keep you here…
 	"""
 	keyWait
 	clearMsg
@@ -179833,7 +179833,7 @@ script 10 mmbn3 {
 	"""
 	Urk!! Why,I'll get
 	you for that,you
-	little⋯!
+	little…!
 	"""
 	keyWait
 	clearMsg
@@ -179884,7 +179884,7 @@ script 1 mmbn3 {
 	"""
 	Only two more to
 	go before I can
-	finally initiate⋯
+	finally initiate…
 	"""
 	keyWait
 	clearMsg
@@ -179914,7 +179914,7 @@ script 3 mmbn3 {
 	mugshotShow
 		mugshot = LordWily
 	msgOpen
-	"Wheeze⋯! Gasp⋯!"
+	"Wheeze…! Gasp…!"
 	wait
 		frames = 44
 	"""
@@ -179981,7 +179981,7 @@ script 0 mmbn3 {
 	"""
 	Friday,one month
 	after the Zoo
-	incident⋯
+	incident…
 	"""
 	keyWait
 	end
@@ -179991,7 +179991,7 @@ script 1 mmbn3 {
 		mugshot = MsMari
 	msgOpen
 	"""
-	⋯thus "compression"
+	…thus "compression"
 	refers to the act of
 	shrinking a large
 	"""
@@ -180271,7 +180271,7 @@ script 0 mmbn3 {
 	"""
 	Hi Lan! Thanks for
 	coming! Ahuh-choo!
-	⋯Ahuh-choo!
+	…Ahuh-choo!
 	"""
 	keyWait
 	clearMsg
@@ -180298,12 +180298,12 @@ script 2 mmbn3 {
 	"""
 	I came back safe and
 	sound from a sales
-	trip,but I caught a⋯
+	trip,but I caught a…
 	"""
 	keyWait
 	clearMsg
 	"""
-	a⋯Ahuh-choo!
+	a…Ahuh-choo!
 	I caught a cold,huh!
 	*Sniff*!
 	"""
@@ -180402,7 +180402,7 @@ script 7 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"B-But⋯"
+	"B-But…"
 	keyWait
 	clearMsg
 	jump
@@ -180542,7 +180542,7 @@ script 13 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Yeah⋯huh!"
+	"Yeah…huh!"
 	keyWait
 	clearMsg
 	jump
@@ -180586,7 +180586,7 @@ script 0 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	⋯
+	…
 	Here you go!
 	"""
 	keyWait
@@ -180872,7 +180872,7 @@ script 5 mmbn3 {
 		mugshot = Roll
 	msgOpen
 	"""
-	Um⋯
+	Um…
 	I lost the final
 	survival battle.
 	"""
@@ -181594,7 +181594,7 @@ script 12 mmbn3 {
 	mugshotShow
 		mugshot = Mayl
 	msgOpen
-	"Um,yeah,of course⋯"
+	"Um,yeah,of course…"
 	keyWait
 	clearMsg
 	jump
@@ -181634,7 +181634,7 @@ script 15 mmbn3 {
 	"""
 	Um,today's a little
 	bad for me.
-	How about⋯
+	How about…
 	"""
 	keyWait
 	clearMsg
@@ -181737,7 +181737,7 @@ script 21 mmbn3 {
 	"""
 	Well,the Bubble
 	Wash will be
-	arriving soon. Hmm⋯
+	arriving soon. Hmm…
 	"""
 	keyWait
 	clearMsg
@@ -181935,7 +181935,7 @@ script 5 mmbn3 {
 	"""
 	There,it's all set
 	up and ready to go!
-	That's strange⋯
+	That's strange…
 	"""
 	keyWait
 	clearMsg
@@ -182098,7 +182098,7 @@ script 8 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Whatever⋯"
+	"Whatever…"
 	keyWait
 	clearMsg
 	jump
@@ -182652,7 +182652,7 @@ script 11 mmbn3 {
 	"""
 	
 	But he vanished
-	without⋯
+	without…
 	"""
 	keyWait
 	clearMsg
@@ -182756,7 +182756,7 @@ script 4 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Class yesterday⋯?
+	Class yesterday…?
 	Um.
 	"""
 	waitSkip
@@ -183109,7 +183109,7 @@ script 2 mmbn3 {
 	"""
 	program only needs
 	minor modifications,
-	maybe I could,huh⋯
+	maybe I could,huh…
 	"""
 	keyWait
 	clearMsg
@@ -183289,7 +183289,7 @@ script 5 mmbn3 {
 	"""
 	I'll just take a
 	look inside this PET
-	here⋯
+	here…
 	"""
 	keyWait
 	clearMsg
@@ -183340,19 +183340,19 @@ script 6 mmbn3 {
 	soundDisableTextSFX
 	soundPlay
 		track = 266
-	"*Clink* *Clank*⋯"
+	"*Clink* *Clank*…"
 	wait
 		frames = 90
 	"\n"
 	soundPlay
 		track = 282
-	"Beep Beep!⋯"
+	"Beep Beep!…"
 	wait
 		frames = 60
 	"\n"
 	soundPlay
 		track = 219
-	"Beep Beep Beep!⋯"
+	"Beep Beep Beep!…"
 	wait
 		frames = 60
 	keyWait
@@ -183660,7 +183660,7 @@ script 10 mmbn3 {
 	"""
 	Okey-dokey!
 	C'mon guys.
-	Up,up and⋯
+	Up,up and…
 	"""
 	keyWait
 	clearMsg
@@ -183718,7 +183718,7 @@ script 13 mmbn3 {
 	"""
 	Oh,blub! The
 	trouble those suds
-	put me through⋯!
+	put me through…!
 	"""
 	keyWait
 	end
@@ -184497,9 +184497,9 @@ script 5 mmbn3 {
 		mugshot = BubbleMan
 	msgOpen
 	"""
-	In just a moment⋯
+	In just a moment…
 	They'll all be
-	gone! Blub blub⋯
+	gone! Blub blub…
 	"""
 	keyWait
 	clearMsg
@@ -184518,7 +184518,7 @@ script 6 mmbn3 {
 	"Blub!"
 	keyWait
 	clearMsg
-	"Blub blu⋯!!!"
+	"Blub blu…!!!"
 	keyWait
 	end
 }
@@ -184602,7 +184602,7 @@ script 13 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"⋯⋯⋯"
+	"………"
 	keyWait
 	clearMsg
 	jump
@@ -184669,7 +184669,7 @@ script 17 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"⋯⋯⋯"
+	"………"
 	keyWait
 	clearMsg
 	jump
@@ -184680,7 +184680,7 @@ script 18 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	⋯⋯⋯
+	………
 	Lan. Let's get back
 	to Mayl's.
 	"""
@@ -184770,7 +184770,7 @@ script 6 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Uh,sure⋯"
+	"Uh,sure…"
 	keyWait
 	clearMsg
 	jump
@@ -184976,7 +184976,7 @@ script 0 mmbn3 {
 	mugshotShow
 		mugshot = Chaud
 	msgOpen
-	"⋯⋯⋯"
+	"………"
 	keyWait
 	end
 }
@@ -184994,11 +184994,11 @@ script 2 mmbn3 {
 	mugshotShow
 		mugshot = Chaud
 	msgOpen
-	"Um⋯⋯⋯"
+	"Um………"
 	keyWait
 	clearMsg
 	"""
-	⋯⋯⋯
+	………
 	I'm going to win
 	tomorrow! I promise!
 	"""
@@ -185018,7 +185018,7 @@ script 3 mmbn3 {
 	"""
 	keyWait
 	clearMsg
-	"Idiot. I'm leaving⋯"
+	"Idiot. I'm leaving…"
 	keyWait
 	end
 }
@@ -185037,7 +185037,7 @@ script 4 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	So please⋯Come out
+	So please…Come out
 	to watch.
 	"""
 	keyWait
@@ -185075,7 +185075,7 @@ script 6 mmbn3 {
 	mugshotShow
 		mugshot = Chaud
 	msgOpen
-	"⋯⋯⋯"
+	"………"
 	keyWait
 	end
 }
@@ -185201,10 +185201,10 @@ script 1 mmbn3 {
 	mugshotShow
 		mugshot = PurpleNavi
 	msgOpen
-	"OK! We're on in⋯"
+	"OK! We're on in…"
 	keyWait
 	clearMsg
-	"5⋯4⋯3⋯2⋯1⋯"
+	"5…4…3…2…1…"
 	keyWait
 	clearMsg
 	jump
@@ -185269,7 +185269,7 @@ script 4 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Uh,er⋯my name is
+	Uh,er…my name is
 	MegaMan.
 	"""
 	keyWait
@@ -185309,16 +185309,16 @@ script 6 mmbn3 {
 		mugshot = GutsMan
 	msgOpen
 	"""
-	I-I-I-I-I'm-m⋯
-	G-G-G-Gu-G-Gu-Guts⋯
+	I-I-I-I-I'm-m…
+	G-G-G-Gu-G-Gu-Guts…
 	G-GutsM-Man!
 	"""
 	keyWait
 	clearMsg
 	"""
-	T-t-tomorrow⋯
-	I-I'm g-go-gon-na⋯
-	G-G-Guts⋯
+	T-t-tomorrow…
+	I-I'm g-go-gon-na…
+	G-G-Guts…
 	"""
 	keyWait
 	end
@@ -185523,7 +185523,7 @@ script 8 mmbn3 {
 	mugshotShow
 		mugshot = Dex
 	msgOpen
-	"Beach 1,by the⋯"
+	"Beach 1,by the…"
 	keyWait
 	clearMsg
 	"Lookout! GutsMan!"
@@ -185697,7 +185697,7 @@ script 6 mmbn3 {
 	mugshotShow
 		mugshot = HeelNavi
 	msgOpen
-	"We've⋯been⋯had⋯"
+	"We've…been…had…"
 	keyWait
 	end
 }
@@ -185735,7 +185735,7 @@ script 9 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"ProtoMan⋯"
+	"ProtoMan…"
 	keyWait
 	end
 }
@@ -185795,7 +185795,7 @@ script 13 mmbn3 {
 	mugshotShow
 		mugshot = GirlNaviOrange
 	msgOpen
-	"⋯He's so dreamy!"
+	"…He's so dreamy!"
 	keyWait
 	end
 }
@@ -185816,7 +185816,7 @@ script 15 mmbn3 {
 	mugshotShow
 		mugshot = GirlNaviOrange
 	msgOpen
-	"⋯Ohhh,ProtoMan!"
+	"…Ohhh,ProtoMan!"
 	keyWait
 	clearMsg
 	jump
@@ -186399,7 +186399,7 @@ script 12 mmbn3 {
 	msgOpen
 	"""
 	No. They won't be
-	coming⋯
+	coming…
 	"""
 	keyWait
 	clearMsg
@@ -186523,7 +186523,7 @@ script 0 mmbn3 {
 	"""
 	The morning of the
 	N1 Grand Prix
-	championship⋯
+	championship…
 	"""
 	keyWait
 	end
@@ -186546,8 +186546,8 @@ script 2 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Oh⋯Uggh⋯
-	Five more minutes⋯
+	Oh…Uggh…
+	Five more minutes…
 	"""
 	keyWait
 	clearMsg
@@ -186881,7 +186881,7 @@ script 0 mmbn3 {
 	clearMsg
 	"""
 	IPC Inc
-	presents⋯
+	presents…
 	"""
 	keyWait
 	clearMsg
@@ -187099,7 +187099,7 @@ script 9 mmbn3 {
 	clearMsg
 	"""
 	Tecnical NetBattler
-	extraordinaire⋯
+	extraordinaire…
 	"""
 	keyWait
 	clearMsg
@@ -187129,7 +187129,7 @@ script 10 mmbn3 {
 	clearMsg
 	"""
 	outift,the maniac
-	NetBattler⋯
+	NetBattler…
 	"""
 	keyWait
 	clearMsg
@@ -187358,7 +187358,7 @@ script 19 mmbn3 {
 	"""
 	Your battle arena
 	will be none other
-	than⋯
+	than…
 	"""
 	keyWait
 	clearMsg
@@ -187592,7 +187592,7 @@ script 10 mmbn3 {
 	"""
 	keyWait
 	clearMsg
-	"Uh-uhhhghh⋯⋯"
+	"Uh-uhhhghh……"
 	keyWait
 	clearMsg
 	jump
@@ -187606,7 +187606,7 @@ script 11 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	⋯⋯
+	……
 	It's no use! They've
 	all been put out!
 	"""
@@ -187649,7 +187649,7 @@ script 13 mmbn3 {
 	"""
 	keyWait
 	clearMsg
-	"Lan! La⋯"
+	"Lan! La…"
 	keyWait
 	clearMsg
 	jump
@@ -187694,7 +187694,7 @@ script 1 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"⋯Uh⋯⋯Uugh."
+	"…Uh……Uugh."
 	keyWait
 	clearMsg
 	jump
@@ -188225,7 +188225,7 @@ script 1 mmbn3 {
 	clearMsg
 	"""
 	The winners of Round
-	1 are⋯
+	1 are…
 	these contestants!
 	"""
 	keyWait
@@ -188235,7 +188235,7 @@ script 2 mmbn3 {
 	mugshotShow
 		mugshot = SciLabMan
 	msgOpen
-	"Wha⋯!!"
+	"Wha…!!"
 	keyWait
 	clearMsg
 	"""
@@ -188265,7 +188265,7 @@ script 4 mmbn3 {
 	msgOpen
 	"""
 	Exactly! Losers will
-	be⋯eliminated.
+	be…eliminated.
 	"""
 	keyWait
 	clearMsg
@@ -188322,7 +188322,7 @@ script 8 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Lan⋯⋯"
+	"Lan……"
 	keyWait
 	clearMsg
 	jump
@@ -188334,7 +188334,7 @@ script 9 mmbn3 {
 	msgOpen
 	"""
 	"Losers will be
-	eliminated"⋯
+	eliminated"…
 	"""
 	keyWait
 	clearMsg
@@ -188428,7 +188428,7 @@ script 0 mmbn3 {
 	"""
 	Of course,I can
 	always decide for
-	you⋯
+	you…
 	"""
 	keyWait
 	clearMsg
@@ -188512,7 +188512,7 @@ script 5 mmbn3 {
 	mugshotShow
 		mugshot = NetbattlerQ
 	msgOpen
-	"⋯⋯⋯"
+	"………"
 	keyWait
 	end
 }
@@ -189070,7 +189070,7 @@ script 4 mmbn3 {
 	mugshotHide
 	msgOpen
 	"""
-	And the victor is⋯
+	And the victor is…
 	Lan!!
 	"""
 	keyWait
@@ -189123,7 +189123,7 @@ script 8 mmbn3 {
 	"""
 	The four people
 	remaining from
-	blocks A and B⋯
+	blocks A and B…
 	"""
 	keyWait
 	clearMsg
@@ -189350,7 +189350,7 @@ script 0 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Isle! We call it⋯
+	Isle! We call it…
 	Eternal Hades!
 	"""
 	keyWait
@@ -189489,8 +189489,8 @@ script 7 mmbn3 {
 		mugshot = NetbattlerQ
 	msgOpen
 	"""
-	Hee hee hee⋯
-	⋯Shrimp⋯
+	Hee hee hee…
+	…Shrimp…
 	"""
 	keyWait
 	clearMsg
@@ -189724,7 +189724,7 @@ script 3 mmbn3 {
 		mugshot = Dex
 	msgOpen
 	"""
-	⋯⋯
+	……
 	I hate losing,but
 	you really are
 	"""
@@ -189792,7 +189792,7 @@ script 8 mmbn3 {
 	mugshotShow
 		mugshot = NetbattlerQ
 	msgOpen
-	"⋯You're mine!"
+	"…You're mine!"
 	keyWait
 	clearMsg
 	jump
@@ -189882,7 +189882,7 @@ script 14 mmbn3 {
 	clearMsg
 	"""
 	The glorious four
-	are⋯
+	are…
 	"""
 	keyWait
 	clearMsg
@@ -190174,7 +190174,7 @@ script 7 mmbn3 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Lan⋯Why do you
+	Lan…Why do you
 	want to win this
 	tournament?
 	"""
@@ -190203,7 +190203,7 @@ script 9 mmbn3 {
 	mugshotShow
 		mugshot = Chaud
 	msgOpen
-	"⋯⋯⋯"
+	"………"
 	keyWait
 	clearMsg
 	"""
@@ -190490,8 +190490,8 @@ script 8 mmbn3 {
 		mugshot = NetbattlerQ
 	msgOpen
 	"""
-	⋯⋯⋯
-	⋯⋯⋯
+	………
+	………
 	"""
 	keyWait
 	clearMsg
@@ -190503,9 +190503,9 @@ script 9 mmbn3 {
 		mugshot = Ribitta
 	msgOpen
 	"""
-	Excuse me,Q⋯
+	Excuse me,Q…
 	Please,just a
-	single comment⋯
+	single comment…
 	"""
 	keyWait
 	clearMsg
@@ -190516,7 +190516,7 @@ script 10 mmbn3 {
 	mugshotShow
 		mugshot = NetbattlerQ
 	msgOpen
-	"⋯⋯⋯"
+	"………"
 	keyWait
 	clearMsg
 	jump
@@ -190527,7 +190527,7 @@ script 11 mmbn3 {
 		mugshot = Ribitta
 	msgOpen
 	"""
-	⋯All right,then! Q
+	…All right,then! Q
 	seems to be a person
 	of action,not words!
 	"""
@@ -190586,7 +190586,7 @@ script 14 mmbn3 {
 	msgOpen
 	"""
 	The first battle
-	will be⋯
+	will be…
 	"""
 	keyWait
 	clearMsg
@@ -190683,8 +190683,8 @@ script 18 mmbn3 {
 	msgOpen
 	"""
 	You're right.
-	Gotta stay calm⋯
-	Gotta stay calm⋯
+	Gotta stay calm…
+	Gotta stay calm…
 	"""
 	keyWait
 	clearMsg
@@ -190715,12 +190715,12 @@ script 20 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Oooh I'm gonna⋯⋯!"
+	"Oooh I'm gonna……!"
 	keyWait
 	clearMsg
 	"""
-	Gotta stay calm⋯
-	Gotta stay calm⋯
+	Gotta stay calm…
+	Gotta stay calm…
 	"""
 	keyWait
 	clearMsg
@@ -190810,7 +190810,7 @@ script 1 mmbn3 {
 	mugshotShow
 		mugshot = Tora
 	msgOpen
-	"⋯⋯⋯"
+	"………"
 	keyWait
 	clearMsg
 	jump
@@ -190820,7 +190820,7 @@ script 2 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"⋯⋯Tora?"
+	"……Tora?"
 	keyWait
 	clearMsg
 	jump
@@ -190855,7 +190855,7 @@ script 5 mmbn3 {
 		mugshot = Tora
 	msgOpen
 	"""
-	⋯⋯Heh heh⋯⋯
+	……Heh heh……
 	Ahahahahaha!
 	"""
 	keyWait
@@ -190917,7 +190917,7 @@ script 8 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Tora⋯⋯"
+	"Tora……"
 	keyWait
 	clearMsg
 	"""
@@ -191773,7 +191773,7 @@ script 7 mmbn3 {
 		mugshot = NormalNaviGreen
 	msgOpen
 	"""
-	5⋯4⋯3⋯2⋯1⋯
+	5…4…3…2…1…
 	Gyaaaaaa!
 	"""
 	keyWait
@@ -191785,7 +191785,7 @@ script 8 mmbn3 {
 	mugshotShow
 		mugshot = DesertMan
 	msgOpen
-	"Gwahh⋯⋯Gwahh⋯⋯"
+	"Gwahh……Gwahh……"
 	keyWait
 	clearMsg
 	jump
@@ -191795,7 +191795,7 @@ script 9 mmbn3 {
 	mugshotShow
 		mugshot = ProtoMan
 	msgOpen
-	"⋯⋯!!"
+	"……!!"
 	keyWait
 	clearMsg
 	jump
@@ -191806,13 +191806,13 @@ script 10 mmbn3 {
 		mugshot = DesertMan
 	msgOpen
 	"""
-	Zooo⋯⋯Zwozaaah⋯⋯
+	Zooo……Zwozaaah……
 	(I am DesertMan!)
 	"""
 	keyWait
 	clearMsg
 	"""
-	Zazuuu⋯Zwozaaah⋯⋯
+	Zazuuu…Zwozaaah……
 	(This is my true
 	form!)
 	"""
@@ -191839,7 +191839,7 @@ script 12 mmbn3 {
 		mugshot = DesertMan
 	msgOpen
 	"""
-	Zouzazoooo⋯⋯
+	Zouzazoooo……
 	(Why!?)
 	"""
 	keyWait
@@ -191961,21 +191961,21 @@ script 20 mmbn3 {
 		mugshot = DesertMan
 	msgOpen
 	"""
-	Zuzazoooooo⋯⋯
+	Zuzazoooooo……
 	(How do you like my
 	mirage world?)
 	"""
 	keyWait
 	clearMsg
 	"""
-	Zuzuzuooozoooo⋯⋯
+	Zuzuzuooozoooo……
 	(Your eyesight is in
 	great disorder,no?)
 	"""
 	keyWait
 	clearMsg
 	"""
-	Zaaaa⋯⋯Zoooo⋯⋯
+	Zaaaa……Zoooo……
 	(You can't even
 	attack me!)
 	"""
@@ -192009,7 +192009,7 @@ script 22 mmbn3 {
 	"Blind Mode!!"
 	keyWait
 	clearMsg
-	"⋯There you are!"
+	"…There you are!"
 	keyWait
 	clearMsg
 	"Hyaaah!"
@@ -192049,8 +192049,8 @@ script 25 mmbn3 {
 		mugshot = NetbattlerQ
 	msgOpen
 	"""
-	Chaud⋯
-	ProtoMan⋯
+	Chaud…
+	ProtoMan…
 	"""
 	keyWait
 	clearMsg
@@ -192144,7 +192144,7 @@ script 2 mmbn3 {
 	clearMsg
 	"""
 	However,in reality,
-	I am⋯
+	I am…
 	"""
 	keyWait
 	end
@@ -192156,7 +192156,7 @@ script 3 mmbn3 {
 	"""
 	N1 Grand Prix
 	producer and WWW
-	operator⋯⋯
+	operator……
 	"""
 	keyWait
 	clearMsg
@@ -192242,7 +192242,7 @@ script 8 mmbn3 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	⋯I see.
+	…I see.
 	By defeating all the
 	famous NetBattlers
 	"""
@@ -192379,7 +192379,7 @@ script 12 mmbn3 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	⋯You didn't!!
+	…You didn't!!
 	You won't get away
 	with this!!
 	"""
@@ -192597,7 +192597,7 @@ script 1 mmbn3 {
 	mugshotShow
 		mugshot = Chaud
 	msgOpen
-	"⋯⋯⋯"
+	"………"
 	keyWait
 	clearMsg
 	jump
@@ -192622,7 +192622,7 @@ script 3 mmbn3 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	⋯So it's a
+	…So it's a
 	NetBattle you want?
 	"""
 	keyWait
@@ -192645,7 +192645,7 @@ script 4 mmbn3 {
 	clearMsg
 	"""
 	How about a trade.
-	Your PET⋯
+	Your PET…
 	for your father.
 	"""
 	keyWait
@@ -192741,7 +192741,7 @@ script 11 mmbn3 {
 	"""
 	So Chaud's the heir
 	to the IPC Inc.
-	fortune⋯! What am I
+	fortune…! What am I
 	"""
 	keyWait
 	clearMsg
@@ -192770,7 +192770,7 @@ script 12 mmbn3 {
 	"""
 	If we could just
 	distract Sunayama
-	for a second⋯
+	for a second…
 	"""
 	keyWait
 	clearMsg
@@ -192793,7 +192793,7 @@ script 13 mmbn3 {
 	clearMsg
 	"""
 	MegaMan! How about
-	we⋯⋯
+	we……
 	"""
 	keyWait
 	clearMsg
@@ -192811,7 +192811,7 @@ script 14 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	⋯⋯⋯
+	………
 	I guess we've got no
 	choice. This is an
 	"""
@@ -192861,7 +192861,7 @@ script 17 mmbn3 {
 	mugshotShow
 		mugshot = Chaud
 	msgOpen
-	"I'm sorry,ProtoMan⋯⋯"
+	"I'm sorry,ProtoMan……"
 	keyWait
 	end
 }
@@ -192886,7 +192886,7 @@ script 18 mmbn3 {
 	"""
 	the WWW. Chaud is
 	now handing his PET
-	over to⋯
+	over to…
 	"""
 	keyWait
 	end
@@ -192971,7 +192971,7 @@ script 24 mmbn3 {
 	"""
 	that filthy PET!?
 	I'll just cut and
-	edit that last part⋯
+	edit that last part…
 	"""
 	keyWait
 	clearMsg
@@ -193068,13 +193068,13 @@ script 2 mmbn3 {
 	"""
 	(Lord Wily was quite
 	upset with the
-	BubbleMan incident⋯
+	BubbleMan incident…
 	"""
 	keyWait
 	clearMsg
 	"""
 	I can't let them
-	catch me here⋯)
+	catch me here…)
 	"""
 	keyWait
 	end
@@ -193201,12 +193201,12 @@ script 11 mmbn3 {
 	clearMsg
 	"""
 	The bad guy gets
-	caught in the end⋯
+	caught in the end…
 	"""
 	keyWait
 	clearMsg
 	"""
-	Say⋯
+	Say…
 	Can I ask one simple
 	request?
 	"""
@@ -193252,12 +193252,12 @@ script 14 mmbn3 {
 	msgOpen
 	"""
 	Hmph.
-	Sure⋯
+	Sure…
 	"""
 	keyWait
 	clearMsg
 	"""
-	⋯⋯
+	……
 	Chaud reporting.
 	I've apprehended the
 	"""
@@ -193274,7 +193274,7 @@ script 15 mmbn3 {
 	mugshotShow
 		mugshot = Chaud
 	msgOpen
-	"Lan⋯⋯"
+	"Lan……"
 	keyWait
 	clearMsg
 	jump
@@ -193312,7 +193312,7 @@ script 17 mmbn3 {
 	"""
 	keyWait
 	clearMsg
-	"Someday⋯"
+	"Someday…"
 	keyWait
 	end
 }
@@ -193358,7 +193358,7 @@ script 19 mmbn3 {
 	"""
 	during that school
 	burglary. "A major
-	catastrophe"⋯
+	catastrophe"…
 	"""
 	keyWait
 	clearMsg
@@ -193421,14 +193421,14 @@ script 0 mmbn3 {
 		mugshot = LordWily
 	msgOpen
 	"""
-	Grrrrr⋯!!
+	Grrrrr…!!
 	That good-for-
 	nothing Sunayama!
 	"""
 	keyWait
 	clearMsg
 	"""
-	⋯⋯⋯⋯⋯
+	……………
 	Bah! No matter!
 	"""
 	keyWait
@@ -193495,7 +193495,7 @@ script 2 mmbn3 {
 	clearMsg
 	"""
 	Young'uns these days
-	have no respect⋯
+	have no respect…
 	"""
 	keyWait
 	clearMsg
@@ -193577,7 +193577,7 @@ script 6 mmbn3 {
 		mugshot = LordWily
 	msgOpen
 	"""
-	Your next target is⋯
+	Your next target is…
 	(Whisper whisper)
 	"""
 	keyWait
@@ -193590,7 +193590,7 @@ script 7 mmbn3 {
 		mugshot = Anetta
 	msgOpen
 	"""
-	⋯⋯⋯⋯⋯
+	……………
 	What? What good will
 	hitting there do?
 	"""
@@ -193692,7 +193692,7 @@ script 0 mmbn3 {
 	"""
 	One week has passed
 	since the
-	investigation began⋯
+	investigation began…
 	"""
 	keyWait
 	end
@@ -194265,7 +194265,7 @@ script 0 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Let's see,Tea⋯
+	Let's see,Tea…
 	Here we go!
 	"""
 	keyWait
@@ -194600,9 +194600,9 @@ script 7 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Awesome⋯?
+	Awesome…?
 	I'm not that
-	spectacular⋯
+	spectacular…
 	"""
 	keyWait
 	clearMsg
@@ -194648,9 +194648,9 @@ script 10 mmbn3 {
 		mugshot = Mamoru
 	msgOpen
 	"""
-	Oh,that⋯
+	Oh,that…
 	OK,I'll go back now.
-	Before I go though⋯
+	Before I go though…
 	"""
 	keyWait
 	clearMsg
@@ -194744,7 +194744,7 @@ script 16 mmbn3 {
 	msgOpen
 	"""
 	Really!?
-	Oh,but I can't⋯
+	Oh,but I can't…
 	The doctor told me
 	"""
 	keyWait
@@ -194752,7 +194752,7 @@ script 16 mmbn3 {
 	"""
 	no battles. Too much
 	excitement is bad
-	for my condition⋯
+	for my condition…
 	"""
 	keyWait
 	clearMsg
@@ -194763,13 +194763,13 @@ script 17 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Oh⋯I didn't mean to⋯"
+	"Oh…I didn't mean to…"
 	keyWait
 	clearMsg
 	"""
 	I mean,I didn't
 	know. Sorry about
-	that⋯
+	that…
 	"""
 	keyWait
 	clearMsg
@@ -194818,7 +194818,7 @@ script 20 mmbn3 {
 		mugshot = Mamoru
 	msgOpen
 	"""
-	Really⋯Lan? Thanks!
+	Really…Lan? Thanks!
 	If you have time,
 	can you visit me
 	"""
@@ -194853,7 +194853,7 @@ script 22 mmbn3 {
 	mugshotShow
 		mugshot = Mamoru
 	msgOpen
-	"⋯Yeah."
+	"…Yeah."
 	keyWait
 	clearMsg
 	"""
@@ -195074,12 +195074,12 @@ script 10 mmbn3 {
 		mugshot = Dex
 	msgOpen
 	"""
-	⋯⋯
-	⋯⋯
+	……
+	……
 	"""
 	keyWait
 	clearMsg
-	"Uh,yeah⋯"
+	"Uh,yeah…"
 	keyWait
 	clearMsg
 	"Sorry,I gotta go."
@@ -195112,7 +195112,7 @@ script 12 mmbn3 {
 	"""
 	I don't think so.
 	Maybe something's
-	wrong⋯
+	wrong…
 	"""
 	keyWait
 	clearMsg
@@ -195365,7 +195365,7 @@ script 4 mmbn3 {
 	msgOpen
 	"""
 	Well,if you put it
-	that way⋯sure!!
+	that way…sure!!
 	"""
 	keyWait
 	clearMsg
@@ -195397,7 +195397,7 @@ script 7 mmbn3 {
 	msgOpen
 	"""
 	After supper is
-	finished⋯
+	finished…
 	"""
 	keyWait
 	end
@@ -195581,7 +195581,7 @@ script 19 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	The secret⋯?
+	The secret…?
 	Of Chaud's strength?
 	"""
 	keyWait
@@ -195628,7 +195628,7 @@ script 21 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"And you want me to⋯?"
+	"And you want me to…?"
 	keyWait
 	clearMsg
 	jump
@@ -195696,7 +195696,7 @@ script 25 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Hmmmmm⋯"
+	"Hmmmmm…"
 	keyWait
 	clearMsg
 	"Fine! I'll do it!"
@@ -195728,7 +195728,7 @@ script 27 mmbn3 {
 	msgOpen
 	"""
 	You'd think this was
-	your house,not mine⋯
+	your house,not mine…
 	"""
 	keyWait
 	end
@@ -195739,7 +195739,7 @@ script 27 mmbn3 {
 script 0 mmbn3 {
 	mugshotHide
 	msgOpen
-	"The next morning⋯"
+	"The next morning…"
 	keyWait
 	end
 }
@@ -195888,10 +195888,10 @@ script 1 mmbn3 {
 	mugshotShow
 		mugshot = Dex
 	msgOpen
-	"Oh. Uh,well⋯"
+	"Oh. Uh,well…"
 	keyWait
 	clearMsg
-	"Actually it's,uh⋯"
+	"Actually it's,uh…"
 	keyWait
 	clearMsg
 	jump
@@ -196164,7 +196164,7 @@ script 19 mmbn3 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Oh,ah⋯Never mind.
+	Oh,ah…Never mind.
 	It's nothing. Say,
 	that guy Tora was
 	"""
@@ -196190,7 +196190,7 @@ script 20 mmbn3 {
 	msgOpen
 	"""
 	Dex isn't acting
-	like himself⋯
+	like himself…
 	"""
 	keyWait
 	clearMsg
@@ -196288,7 +196288,7 @@ script 3 mmbn3 {
 	mugshotShow
 		mugshot = Tora
 	msgOpen
-	"Actually⋯"
+	"Actually…"
 	keyWait
 	clearMsg
 	"""
@@ -196500,7 +196500,7 @@ script 15 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	⋯⋯!
+	……!
 	What are you talking
 	about!?
 	"""
@@ -196519,7 +196519,7 @@ script 16 mmbn3 {
 	mugshotShow
 		mugshot = Tora
 	msgOpen
-	"⋯Yeah,you're right!"
+	"…Yeah,you're right!"
 	keyWait
 	clearMsg
 	"""
@@ -196636,7 +196636,7 @@ script 1 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Nngh⋯School again?
+	Nngh…School again?
 	It's tough being an
 	elementary student!
 	"""
@@ -196731,8 +196731,8 @@ script 4 mmbn3 {
 		mugshot = MsMari
 	msgOpen
 	"""
-	Um⋯Well⋯
-	Dex is⋯
+	Um…Well…
+	Dex is…
 	"""
 	keyWait
 	clearMsg
@@ -196766,11 +196766,11 @@ script 7 mmbn3 {
 	mugshotShow
 		mugshot = MsMari
 	msgOpen
-	"Um⋯"
+	"Um…"
 	waitSkip
 		frames = 30
 	"""
-	Actually⋯
+	Actually…
 	Dex asked me not to
 	tell anyone,
 	"""
@@ -196778,7 +196778,7 @@ script 7 mmbn3 {
 	clearMsg
 	"""
 	but from today he
-	will be⋯
+	will be…
 	"""
 	keyWait
 	clearMsg
@@ -196786,7 +196786,7 @@ script 7 mmbn3 {
 		frames = 60
 	soundStop
 	"""
-	Well⋯he will be
+	Well…he will be
 	moving to a new
 	school.
 	"""
@@ -196914,13 +196914,13 @@ script 0 mmbn3 {
 	"""
 	What were you
 	thinking,Dex? Moving
-	without telling us⋯
+	without telling us…
 	"""
 	keyWait
 	clearMsg
 	mugshotAnimate
 		animation = 0
-	"⋯⋯Knucklehead."
+	"……Knucklehead."
 	keyWait
 	clearMsg
 	jump
@@ -196930,7 +196930,7 @@ script 1 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Lan⋯"
+	"Lan…"
 	keyWait
 	clearMsg
 	msgClose
@@ -196946,7 +196946,7 @@ script 2 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"⋯Is this it,MegaMan?"
+	"…Is this it,MegaMan?"
 	keyWait
 	clearMsg
 	"""
@@ -196989,7 +196989,7 @@ script 4 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"⋯⋯Okay."
+	"……Okay."
 	keyWait
 	end
 }
@@ -197000,7 +197000,7 @@ script 5 mmbn3 {
 	waitSkip
 		frames = 30
 	"""
-	Lan⋯
+	Lan…
 	What are you doing
 	here?
 	"""
@@ -197050,7 +197050,7 @@ script 7 mmbn3 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Lan⋯I'm sorry⋯
+	Lan…I'm sorry…
 	I tried to tell you
 	guys,but whenever we
 	"""
@@ -197059,7 +197059,7 @@ script 7 mmbn3 {
 	"""
 	were together the
 	words just wouldn't
-	come out⋯
+	come out…
 	"""
 	keyWait
 	clearMsg
@@ -197074,7 +197074,7 @@ script 8 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"⋯⋯"
+	"……"
 	wait
 		frames = 180
 	flagClear
@@ -197114,8 +197114,8 @@ script 11 mmbn3 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Yai⋯and Mayl!
-	⋯and⋯⋯
+	Yai…and Mayl!
+	…and……
 	"""
 	keyWait
 	clearMsg
@@ -197139,7 +197139,7 @@ script 13 mmbn3 {
 	"""
 	I'm sorry,Dex. I
 	know I promised to
-	be quiet⋯
+	be quiet…
 	"""
 	keyWait
 	clearMsg
@@ -197149,7 +197149,7 @@ script 13 mmbn3 {
 	"""
 	keyWait
 	clearMsg
-	"Sniff,sniff⋯"
+	"Sniff,sniff…"
 	keyWait
 	clearMsg
 	jump
@@ -197304,7 +197304,7 @@ script 23 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	⋯⋯
+	……
 	Thanks for
 	everything!
 	"""
@@ -197318,7 +197318,7 @@ script 24 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Dex is really gone⋯"
+	"Dex is really gone…"
 	keyWait
 	clearMsg
 	"""
@@ -197328,7 +197328,7 @@ script 24 mmbn3 {
 	"""
 	keyWait
 	clearMsg
-	"⋯⋯Lan?"
+	"……Lan?"
 	keyWait
 	clearMsg
 	jump
@@ -197338,7 +197338,7 @@ script 25 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"⋯⋯"
+	"……"
 	keyWait
 	clearMsg
 	jump
@@ -197348,7 +197348,7 @@ script 26 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Lan⋯?"
+	"Lan…?"
 	keyWait
 	clearMsg
 	jump
@@ -197359,7 +197359,7 @@ script 27 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	⋯⋯
+	……
 	MegaMan.
 	"""
 	keyWait
@@ -197397,7 +197397,7 @@ script 0 mmbn3 {
 	msgOpen
 	"""
 	Later that day,
-	after school⋯
+	after school…
 	"""
 	keyWait
 	end
@@ -197602,7 +197602,7 @@ script 5 mmbn3 {
 		mugshot = Mamoru
 	msgOpen
 	"""
-	⋯I've been looking
+	…I've been looking
 	at this view since I
 	was three.
 	"""
@@ -197623,7 +197623,7 @@ script 6 mmbn3 {
 	"""
 	 Since you
 	were three? That
-	means⋯
+	means…
 	"""
 	keyWait
 	clearMsg
@@ -197760,7 +197760,7 @@ script 13 mmbn3 {
 	msgOpen
 	"""
 	Huh? A BattleChip I
-	want? Let's see⋯
+	want? Let's see…
 	I'd like to get my
 	"""
 	keyWait
@@ -197832,15 +197832,15 @@ script 15 mmbn3 {
 	waitSkip
 		frames = 30
 	"""
-	 Yi⋯
+	 Yi…
 	Achk!
 	"""
 	waitSkip
 		frames = 30
-	"⋯Uh"
+	"…Uh"
 	waitSkip
 		frames = 30
-	"Ahkuh⋯"
+	"Ahkuh…"
 	keyWait
 	clearMsg
 	jump
@@ -197858,7 +197858,7 @@ script 16 mmbn3 {
 	waitSkip
 		frames = 30
 	"""
-	 Huff⋯Huff⋯
+	 Huff…Huff…
 	.
 	"""
 	waitSkip
@@ -197869,10 +197869,10 @@ script 16 mmbn3 {
 	"."
 	waitSkip
 		frames = 30
-	"H-help m⋯"
+	"H-help m…"
 	keyWait
 	clearMsg
-	"Uhhgh⋯"
+	"Uhhgh…"
 	keyWait
 	end
 }
@@ -197907,13 +197907,13 @@ script 19 mmbn3 {
 	mugshotShow
 		mugshot = Mamoru
 	msgOpen
-	"Huff⋯Huff⋯"
+	"Huff…Huff…"
 	waitSkip
 		frames = 30
 	"""
 	Ack!
-	Ssssss⋯ Haaaa⋯
-	Ssssss⋯ Haaaa⋯
+	Ssssss… Haaaa…
+	Ssssss… Haaaa…
 	"""
 	keyWait
 	clearMsg
@@ -197948,8 +197948,8 @@ script 19 mmbn3 {
 	waitSkip
 		frames = 30
 	"""
-	I'm feeling⋯
-	a little better⋯
+	I'm feeling…
+	a little better…
 	"""
 	keyWait
 	end
@@ -197981,7 +197981,7 @@ script 21 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	MegaMan⋯
+	MegaMan…
 	How do you know so
 	much?
 	"""
@@ -198010,7 +198010,7 @@ script 23 mmbn3 {
 	"What!?"
 	keyWait
 	clearMsg
-	"You mean⋯"
+	"You mean…"
 	keyWait
 	clearMsg
 	jump
@@ -198081,7 +198081,7 @@ script 1 mmbn3 {
 	mugshotShow
 		mugshot = Mamoru
 	msgOpen
-	"Ugh⋯Uuuuuuuuh⋯"
+	"Ugh…Uuuuuuuuh…"
 	keyWait
 	end
 }
@@ -198128,7 +198128,7 @@ script 5 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Miss. Is he⋯
+	Miss. Is he…
 	Will he be okay?
 	"""
 	keyWait
@@ -198281,7 +198281,7 @@ script 13 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Hmmm⋯Let's see."
+	"Hmmm…Let's see."
 	keyWait
 	clearMsg
 	"""
@@ -198369,7 +198369,7 @@ script 2 mmbn3 {
 	"Oh."
 	keyWait
 	clearMsg
-	"⋯⋯"
+	"……"
 	waitSkip
 		frames = 40
 	"""
@@ -198429,7 +198429,7 @@ script 5 mmbn3 {
 	clearMsg
 	"""
 	I'm just sick of
-	all of this⋯
+	all of this…
 	"""
 	keyWait
 	clearMsg
@@ -198463,7 +198463,7 @@ script 7 mmbn3 {
 	mugshotShow
 		mugshot = Mamoru
 	msgOpen
-	"⋯⋯"
+	"……"
 	keyWait
 	clearMsg
 	jump
@@ -198501,7 +198501,7 @@ script 9 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Lan⋯"
+	"Lan…"
 	keyWait
 	clearMsg
 	jump
@@ -198542,13 +198542,13 @@ script 11 mmbn3 {
 	msgOpen
 	"""
 	The sickness your
-	brother had⋯
-	Was it⋯?
+	brother had…
+	Was it…?
 	"""
 	keyWait
 	clearMsg
 	"""
-	⋯⋯
+	……
 	OK,Lan.
 	"""
 	keyWait
@@ -198594,7 +198594,7 @@ script 13 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Mamoru⋯
+	Mamoru…
 	Sorry if I sounded
 	harsh. Good luck
 	"""
@@ -198780,7 +198780,7 @@ script 4 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	⋯⋯!!
+	……!!
 	No,it's from the
 	hospital!!
 	"""
@@ -198866,7 +198866,7 @@ script 1 mmbn3 {
 	msgOpen
 	mugshotAnimate
 		animation = 0
-	"Unh⋯"
+	"Unh…"
 	keyWait
 	clearMsg
 	jump
@@ -198891,9 +198891,9 @@ script 3 mmbn3 {
 		mugshot = Mamoru
 	msgOpen
 	"""
-	I⋯I'll⋯be⋯OK.
-	I⋯have⋯your⋯
-	chip of friendship⋯
+	I…I'll…be…OK.
+	I…have…your…
+	chip of friendship…
 	"""
 	keyWait
 	end
@@ -198914,7 +198914,7 @@ script 5 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Nurse⋯\n"
+	"Nurse…\n"
 	flagSet
 		flag = 1793
 	"""
@@ -198965,7 +198965,7 @@ script 8 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	There he goes⋯
+	There he goes…
 	MegaMan! Let's go to
 	the operating room!
 	"""
@@ -199031,7 +199031,7 @@ script 2 mmbn3 {
 	msgOpen
 	"""
 	Three hours into the
-	operation⋯
+	operation…
 	"""
 	keyWait
 	end
@@ -199126,7 +199126,7 @@ script 1 mmbn3 {
 	soundDisableTextSFX
 	soundPlay
 		track = 167
-	"Whirrrrr⋯"
+	"Whirrrrr…"
 	wait
 		frames = 60
 	keyWait
@@ -199169,7 +199169,7 @@ script 3 mmbn3 {
 	clearMsg
 	soundPlay
 		track = 167
-	"Whee⋯Whirrrrr!"
+	"Whee…Whirrrrr!"
 	wait
 		frames = 60
 	keyWait
@@ -199457,7 +199457,7 @@ script 9 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	⋯⋯
+	……
 	It's no use!
 	It won't budge!
 	"""
@@ -199465,7 +199465,7 @@ script 9 mmbn3 {
 	clearMsg
 	"""
 	Of all the times for
-	it to break down⋯!
+	it to break down…!
 	"""
 	keyWait
 	end
@@ -199572,7 +199572,7 @@ script 0 mmbn3 {
 	msgOpen
 	"""
 	So this is the
-	hospital's computer⋯
+	hospital's computer…
 	It looks strange.
 	"""
 	keyWait
@@ -199722,7 +199722,7 @@ script 0 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Huff,huff⋯
+	Huff,huff…
 	We made it to the
 	shore!
 	"""
@@ -199820,7 +199820,7 @@ script 3 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Jack i⋯"
+	"Jack i…"
 	keyWait
 	clearMsg
 	jump
@@ -199939,7 +199939,7 @@ script 11 mmbn3 {
 	clearMsg
 	"""
 	You must be a Net
-	society spy⋯
+	society spy…
 	Aren't you!?
 	"""
 	keyWait
@@ -200186,7 +200186,7 @@ script 25 mmbn3 {
 	"""
 	The vines are
 	spreading! If you
-	don't stop PlantMan⋯
+	don't stop PlantMan…
 	"""
 	keyWait
 	clearMsg
@@ -200266,7 +200266,7 @@ script 0 mmbn3 {
 	"""
 	And don't worry.
 	Just do everything
-	I tell you⋯
+	I tell you…
 	"""
 	keyWait
 	clearMsg
@@ -200357,7 +200357,7 @@ script 5 mmbn3 {
 	clearMsg
 	"""
 	If you do that,
-	Mamoru will⋯
+	Mamoru will…
 	"""
 	keyWait
 	clearMsg
@@ -200422,7 +200422,7 @@ script 9 mmbn3 {
 	mugshotShow
 		mugshot = PlantMan
 	msgOpen
-	"Very well⋯"
+	"Very well…"
 	keyWait
 	clearMsg
 	"""
@@ -200586,7 +200586,7 @@ script 6 mmbn3 {
 	"""
 	If you can jack into
 	it and remove the
-	bug⋯
+	bug…
 	"""
 	keyWait
 	clearMsg
@@ -200749,7 +200749,7 @@ script 3 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"The Beast⋯?"
+	"The Beast…?"
 	keyWait
 	clearMsg
 	"""
@@ -200772,7 +200772,7 @@ script 4 mmbn3 {
 	"""
 	Enough chit-chat. I
 	have work to attend
-	to. Namely⋯
+	to. Namely…
 	"""
 	keyWait
 	clearMsg
@@ -200870,8 +200870,8 @@ script 0 mmbn3 {
 		mugshot = PlantMan
 	msgOpen
 	"""
-	MegaMan⋯
-	S-so powerful⋯
+	MegaMan…
+	S-so powerful…
 	"""
 	keyWait
 	clearMsg
@@ -200908,13 +200908,13 @@ script 0 mmbn3 {
 	clearMsg
 	"""
 	Once we get that
-	final TetraCode⋯
+	final TetraCode…
 	"""
 	keyWait
 	clearMsg
 	"""
-	The Beast⋯
-	Alpha⋯
+	The Beast…
+	Alpha…
 	Will arise!
 	"""
 	keyWait
@@ -200949,7 +200949,7 @@ script 2 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	This⋯This is the
+	This…This is the
 	end
 	"""
 	waitSkip
@@ -201038,7 +201038,7 @@ script 6 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	⋯⋯
+	……
 	Done!
 	"""
 	keyWait
@@ -201057,7 +201057,7 @@ script 7 mmbn3 {
 	"""
 	Now they should be
 	able to continue
-	the operation⋯
+	the operation…
 	"""
 	keyWait
 	clearMsg
@@ -201156,7 +201156,7 @@ script 13 mmbn3 {
 	msgOpen
 	"""
 	But if I do that,
-	you'll⋯
+	you'll…
 	"""
 	keyWait
 	clearMsg
@@ -201176,7 +201176,7 @@ script 14 mmbn3 {
 	clearMsg
 	"""
 	Here I go!
-	Energy Release mode⋯
+	Energy Release mode…
 	Activate!!
 	"""
 	keyWait
@@ -201192,7 +201192,7 @@ script 15 mmbn3 {
 	"""
 	keyWait
 	clearMsg
-	"Ppphhh⋯⋯⋯⋯⋯⋯"
+	"Ppphhh………………"
 	keyWait
 	end
 }
@@ -201257,7 +201257,7 @@ script 20 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"It worked⋯"
+	"It worked…"
 	keyWait
 	clearMsg
 	jump
@@ -201280,7 +201280,7 @@ script 0 mmbn3 {
 	"""
 	Three hours after
 	the operation
-	resumed⋯
+	resumed…
 	"""
 	keyWait
 	clearMsg
@@ -201314,9 +201314,9 @@ script 2 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	that incident⋯But
+	that incident…But
 	now we need to wait
-	for him to wake up⋯
+	for him to wake up…
 	"""
 	keyWait
 	end
@@ -201325,7 +201325,7 @@ script 3 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Oh,no⋯"
+	"Oh,no…"
 	keyWait
 	clearMsg
 	jump
@@ -201477,8 +201477,8 @@ script 11 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Unghnngh⋯
-	Just 5 more minutes⋯
+	Unghnngh…
+	Just 5 more minutes…
 	"""
 	keyWait
 	clearMsg
@@ -201583,35 +201583,35 @@ script 17 mmbn3 {
 		mugshot = Mamoru
 	msgOpen
 	"""
-	Y-you know⋯
-	During the surgery⋯
-	I⋯I had a dream.
+	Y-you know…
+	During the surgery…
+	I…I had a dream.
 	"""
 	keyWait
 	clearMsg
 	"""
 	I could hear Lan
-	calling my name⋯
+	calling my name…
 	"""
 	keyWait
 	clearMsg
 	"""
 	Then I was
 	surrounded by a blue
-	light⋯
+	light…
 	"""
 	keyWait
 	clearMsg
 	"""
 	There was a boy I'd
 	never seen before in
-	the light⋯
+	the light…
 	"""
 	keyWait
 	clearMsg
 	"""
 	He looked just like
-	Lan⋯
+	Lan…
 	"""
 	keyWait
 	clearMsg
@@ -201629,7 +201629,7 @@ script 18 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"I see⋯"
+	"I see…"
 	keyWait
 	clearMsg
 	jump
@@ -201640,9 +201640,9 @@ script 19 mmbn3 {
 		mugshot = Mamoru
 	msgOpen
 	"""
-	Lan⋯
-	And MegaMan⋯
-	Thank you⋯
+	Lan…
+	And MegaMan…
+	Thank you…
 	"""
 	keyWait
 	clearMsg
@@ -201760,7 +201760,7 @@ script 2 mmbn3 {
 	clearMsg
 	"""
 	you the power to
-	terrorize humans⋯
+	terrorize humans…
 	"""
 	keyWait
 	clearMsg
@@ -201777,7 +201777,7 @@ script 2 mmbn3 {
 script 3 mmbn3 {
 	mugshotHide
 	msgOpen
-	"⋯⋯"
+	"……"
 	keyWait
 	clearMsg
 	jump
@@ -201811,7 +201811,7 @@ script 5 mmbn3 {
 	msgOpen
 	"""
 	So you will awaken
-	Alpha⋯
+	Alpha…
 	"""
 	keyWait
 	clearMsg
@@ -201857,7 +201857,7 @@ script 7 mmbn3 {
 	" "
 	soundPlay
 		track = 328
-	"Zzhzhhhzhhhh⋯"
+	"Zzhzhhhzhhhh…"
 	keyWait
 	end
 }
@@ -201871,7 +201871,7 @@ script 8 mmbn3 {
 	"""
 	Only one more Tetra
 	Code remains,but
-	with him at my side⋯
+	with him at my side…
 	"""
 	keyWait
 	clearMsg
@@ -201963,7 +201963,7 @@ script 3 mmbn3 {
 	mugshotShow
 		mugshot = Yai
 	msgOpen
-	"Yeah! And besides⋯"
+	"Yeah! And besides…"
 	keyWait
 	clearMsg
 	"""
@@ -202086,7 +202086,7 @@ script 12 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	An awards ceremony⋯?
+	An awards ceremony…?
 	At SciLab!? C'mon
 	MegaMan,let's go!
 	"""
@@ -202147,7 +202147,7 @@ script 16 mmbn3 {
 	"""
 	out fine,which is
 	wonderful,but if it
-	hadn't⋯
+	hadn't…
 	"""
 	keyWait
 	clearMsg
@@ -202390,7 +202390,7 @@ script 9 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"OK⋯"
+	"OK…"
 	keyWait
 	end
 }
@@ -202453,7 +202453,7 @@ script 13 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Wow,I'm a hero⋯
+	Wow,I'm a hero…
 	Cool!
 	Ha ha!
 	"""
@@ -202469,7 +202469,7 @@ script 14 mmbn3 {
 	"""
 	There you go again,
 	letting it get to
-	your head⋯!
+	your head…!
 	"""
 	keyWait
 	clearMsg
@@ -202566,7 +202566,7 @@ script 1 mmbn3 {
 	msgOpen
 	"""
 	Lan,if you get too
-	overconfident⋯
+	overconfident…
 	"""
 	keyWait
 	clearMsg
@@ -202597,7 +202597,7 @@ script 2 mmbn3 {
 		frames = 30
 	clearMsg
 	"""
-	I can take on any⋯
+	I can take on any…
 	Huh? Hey! It's that
 	guy!
 	"""
@@ -202632,7 +202632,7 @@ script 5 mmbn3 {
 		mugshot = MrMatch
 	msgOpen
 	"""
-	⋯⋯
+	……
 	Oh. It's you.
 	"""
 	keyWait
@@ -202776,7 +202776,7 @@ script 12 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Hmmmm⋯"
+	"Hmmmm…"
 	keyWait
 	end
 }
@@ -202809,7 +202809,7 @@ script 14 mmbn3 {
 	msgOpen
 	"""
 	Match!
-	Don't tell me you⋯!
+	Don't tell me you…!
 	"""
 	keyWait
 	clearMsg
@@ -202859,7 +202859,7 @@ script 17 mmbn3 {
 	msgOpen
 	"""
 	Something smells
-	fishy to me⋯
+	fishy to me…
 	"""
 	keyWait
 	clearMsg
@@ -202998,7 +202998,7 @@ script 1 mmbn3 {
 	"""
 	Looks like The WWW
 	is coming out in
-	the open,now⋯
+	the open,now…
 	"""
 	keyWait
 	end
@@ -203104,13 +203104,13 @@ script 0 mmbn3 {
 	msgOpen
 	"""
 	I'm only the tip
-	of the iceburg⋯
+	of the iceburg…
 	"""
 	keyWait
 	clearMsg
 	"""
 	New assassins will
-	be following me⋯
+	be following me…
 	"""
 	keyWait
 	clearMsg
@@ -203141,7 +203141,7 @@ script 2 mmbn3 {
 	"""
 	Yeah,these attacks
 	didn't seem
-	well planned⋯
+	well planned…
 	"""
 	keyWait
 	clearMsg
@@ -203454,7 +203454,7 @@ script 22 mmbn3 {
 	"""
 	What's this? It
 	doesn't say who it's
-	from⋯
+	from…
 	"""
 	keyWait
 	clearMsg
@@ -203490,7 +203490,7 @@ script 23 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Anonymous mail⋯"
+	"Anonymous mail…"
 	keyWait
 	clearMsg
 	"""
@@ -203538,13 +203538,13 @@ script 1 mmbn3 {
 	"""
 	(As I suspected this
 	Navi has amazing
-	potential⋯)
+	potential…)
 	"""
 	keyWait
 	clearMsg
 	"""
 	(I expect he could
-	even handle⋯)
+	even handle…)
 	"""
 	keyWait
 	clearMsg
@@ -203688,7 +203688,7 @@ script 10 mmbn3 {
 	msgOpen
 	"""
 	Yeah,you're probably
-	right⋯
+	right…
 	"""
 	keyWait
 	clearMsg
@@ -203889,7 +203889,7 @@ script 10 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	⋯⋯
+	……
 	Okay! I'll do it!
 	"""
 	keyWait
@@ -204106,7 +204106,7 @@ script 4 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Aw,man⋯"
+	"Aw,man…"
 	keyWait
 	end
 }
@@ -204286,7 +204286,7 @@ script 0 mmbn3 {
 	"""
 	By the time Lan got
 	home,the SciLab was
-	in serious trouble⋯
+	in serious trouble…
 	"""
 	keyWait
 	end
@@ -204296,7 +204296,7 @@ script 1 mmbn3 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	⋯Don't you think
+	…Don't you think
 	it's unusually hot
 	today?
 	"""
@@ -204344,7 +204344,7 @@ script 4 mmbn3 {
 	mugshotShow
 		mugshot = BusinessMan
 	msgOpen
-	"What in the⋯!?"
+	"What in the…!?"
 	keyWait
 	end
 }
@@ -204457,7 +204457,7 @@ script 2 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Huff⋯Huff⋯
+	Huff…Huff…
 	Hurry,evacuate! For
 	some reason the
 	"""
@@ -204547,7 +204547,7 @@ script 6 mmbn3 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Oh no⋯!
+	Oh no…!
 	If we don't do
 	something quick,
 	"""
@@ -204567,7 +204567,7 @@ script 0 mmbn3 {
 	mugshotShow
 		mugshot = Scientist
 	msgOpen
-	"Huff⋯Huff⋯"
+	"Huff…Huff…"
 	keyWait
 	clearMsg
 	flagSet
@@ -204601,7 +204601,7 @@ script 1 mmbn3 {
 	"""
 	There's evidence
 	that some data has
-	been altered⋯
+	been altered…
 	"""
 	keyWait
 	clearMsg
@@ -204731,21 +204731,21 @@ script 8 mmbn3 {
 		mugshot = Dad
 	msgOpen
 	"""
-	⋯⋯
+	……
 	Thank you!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Huff⋯Huff⋯
-	Now the question is⋯
+	Huff…Huff…
+	Now the question is…
 	"""
 	keyWait
 	clearMsg
 	"""
 	Can we last as long
 	as it takes to get
-	the back-up data⋯?
+	the back-up data…?
 	"""
 	keyWait
 	end
@@ -204754,7 +204754,7 @@ script 9 mmbn3 {
 	mugshotShow
 		mugshot = SciLabMan
 	msgOpen
-	"Huff⋯Huff⋯"
+	"Huff…Huff…"
 	keyWait
 	clearMsg
 	"""
@@ -204782,7 +204782,7 @@ script 11 mmbn3 {
 	mugshotShow
 		mugshot = Dad
 	msgOpen
-	"You guys⋯"
+	"You guys…"
 	keyWait
 	clearMsg
 	"""
@@ -204819,7 +204819,7 @@ script 1 mmbn3 {
 	"""
 	keyWait
 	clearMsg
-	"⋯⋯"
+	"……"
 	keyWait
 	clearMsg
 	"""
@@ -204884,15 +204884,15 @@ script 4 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"⋯⋯⋯"
+	"………"
 	keyWait
 	clearMsg
 	soundPlayBGM
 		track = 13
 	"""
-	No⋯this has got to
+	No…this has got to
 	be some kind of
-	mistake⋯Dad⋯!
+	mistake…Dad…!
 	"""
 	keyWait
 	clearMsg
@@ -204937,7 +204937,7 @@ script 1 mmbn3 {
 	mugshotShow
 		mugshot = SciLabMan
 	msgOpen
-	"You're Dr.Hikari's⋯"
+	"You're Dr.Hikari's…"
 	keyWait
 	clearMsg
 	jump
@@ -204958,8 +204958,8 @@ script 3 mmbn3 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	⋯⋯
-	He's,uh⋯well⋯
+	……
+	He's,uh…well…
 	"""
 	keyWait
 	clearMsg
@@ -204970,7 +204970,7 @@ script 4 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"No⋯!"
+	"No…!"
 	keyWait
 	clearMsg
 	jump
@@ -204982,7 +204982,7 @@ script 5 mmbn3 {
 	msgOpen
 	"""
 	He's still in his
-	lab⋯
+	lab…
 	"""
 	keyWait
 	clearMsg
@@ -205001,7 +205001,7 @@ script 6 mmbn3 {
 	clearMsg
 	"""
 	In that heat,
-	dad'll⋯he'll⋯
+	dad'll…he'll…
 	"""
 	keyWait
 	clearMsg
@@ -205014,7 +205014,7 @@ script 7 mmbn3 {
 	msgOpen
 	"""
 	I know. Believe me,
-	we want to⋯
+	we want to…
 	"""
 	keyWait
 	clearMsg
@@ -205032,7 +205032,7 @@ script 8 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"No⋯"
+	"No…"
 	keyWait
 	end
 }
@@ -205166,7 +205166,7 @@ script 16 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"I'm the reason⋯?"
+	"I'm the reason…?"
 	keyWait
 	clearMsg
 	jump
@@ -205177,7 +205177,7 @@ script 17 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	You big coward⋯
+	You big coward…
 	You won't get away
 	with this!
 	"""
@@ -205249,14 +205249,14 @@ script 18 mmbn3 {
 	clearMsg
 	"""
 	Children are so
-	naive⋯So much fun to
+	naive…So much fun to
 	dupe!
 	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Grrrr⋯!"
+	"Grrrr…!"
 	keyWait
 	clearMsg
 	mugshotShow
@@ -205276,7 +205276,7 @@ script 18 mmbn3 {
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"N-no⋯I can't be!"
+	"N-no…I can't be!"
 	keyWait
 	clearMsg
 	mugshotShow
@@ -205295,7 +205295,7 @@ script 19 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"A⋯game?"
+	"A…game?"
 	keyWait
 	clearMsg
 	jump
@@ -205362,7 +205362,7 @@ script 22 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	⋯⋯
+	……
 	All right,Match.
 	I'll play your game.
 	"""
@@ -205428,7 +205428,7 @@ script 26 mmbn3 {
 	msgOpen
 	"""
 	We need water to
-	extinguish fire⋯
+	extinguish fire…
 	Hey! How about that
 	"""
 	keyWait
@@ -205447,7 +205447,7 @@ script 27 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"That program⋯"
+	"That program…"
 	keyWait
 	end
 }
@@ -205513,7 +205513,7 @@ script 2 mmbn3 {
 		frames = 58
 	soundPlay
 		track = 260
-	"Boop⋯"
+	"Boop…"
 	wait
 		frames = 55
 	keyWait
@@ -205596,7 +205596,7 @@ script 2 mmbn3 {
 		frames = 58
 	soundPlay
 		track = 260
-	"Boop⋯"
+	"Boop…"
 	wait
 		frames = 55
 	keyWait
@@ -205612,7 +205612,7 @@ script 3 mmbn3 {
 	"""
 	I'm gonna get that
 	trash-talking
-	Match⋯!
+	Match…!
 	"""
 	keyWait
 	end
@@ -205679,7 +205679,7 @@ script 2 mmbn3 {
 		frames = 58
 	soundPlay
 		track = 260
-	"Boop⋯"
+	"Boop…"
 	wait
 		frames = 55
 	keyWait
@@ -205763,7 +205763,7 @@ script 2 mmbn3 {
 		frames = 58
 	soundPlay
 		track = 260
-	"Boop⋯"
+	"Boop…"
 	wait
 		frames = 55
 	keyWait
@@ -206034,7 +206034,7 @@ script 2 mmbn3 {
 	msgOpen
 	"""
 	I just sensed
-	something⋯
+	something…
 	Some kind of immense
 	"""
 	keyWait
@@ -206064,7 +206064,7 @@ script 4 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	No⋯
+	No…
 	FlamMan doesn't emit
 	power like this.
 	"""
@@ -206085,7 +206085,7 @@ script 5 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Hmm⋯Well,whatever
+	Hmm…Well,whatever
 	it is,we don't have
 	time to worry now!
 	"""
@@ -206201,7 +206201,7 @@ script 6 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	But⋯I've never heard
+	But…I've never heard
 	of an earthquake in
 	Cyberworld!
 	"""
@@ -206224,7 +206224,7 @@ script 7 mmbn3 {
 	"""
 	An incredible force?
 	I wonder what it
-	could be⋯
+	could be…
 	"""
 	keyWait
 	clearMsg
@@ -206299,7 +206299,7 @@ script 2 mmbn3 {
 	"""
 	Don't you feel it,
 	Lan? Ever since we
-	came into this area⋯
+	came into this area…
 	"""
 	keyWait
 	clearMsg
@@ -206319,7 +206319,7 @@ script 3 mmbn3 {
 	"""
 	then the earthquake
 	that tore apart the
-	path⋯
+	path…
 	"""
 	keyWait
 	clearMsg
@@ -206333,14 +206333,14 @@ script 4 mmbn3 {
 	"""
 	No,not that! Like
 	something's watching
-	us⋯
+	us…
 	"""
 	keyWait
 	clearMsg
 	"""
 	This whole time I've
 	felt someone's eyes
-	on me⋯
+	on me…
 	"""
 	keyWait
 	clearMsg
@@ -206351,7 +206351,7 @@ script 5 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"We're being watched⋯"
+	"We're being watched…"
 	keyWait
 	clearMsg
 	"""
@@ -206397,20 +206397,20 @@ script 1 mmbn3 {
 		mugshot = FlameMan
 	msgOpen
 	"""
-	Whraaaah⋯
+	Whraaaah…
 	(You finally came,
 	boy.)
 	"""
 	keyWait
 	clearMsg
 	"""
-	Whraah⋯Aaaah.
+	Whraah…Aaaah.
 	(I will burn you.)
 	"""
 	keyWait
 	clearMsg
 	"""
-	Whraaah⋯
+	Whraaah…
 	(Then Mr.Match will
 	be happy.)
 	"""
@@ -206551,7 +206551,7 @@ script 1 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Huff⋯Huff⋯"
+	"Huff…Huff…"
 	keyWait
 	clearMsg
 	"""
@@ -206641,7 +206641,7 @@ script 7 mmbn3 {
 	msgOpen
 	"""
 	I feel the power of
-	the strong⋯
+	the strong…
 	"""
 	keyWait
 	end
@@ -206650,7 +206650,7 @@ script 8 mmbn3 {
 	mugshotShow
 		mugshot = FlameMan
 	msgOpen
-	"Whraa⋯!?"
+	"Whraa…!?"
 	keyWait
 	end
 }
@@ -206702,7 +206702,7 @@ script 12 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Th-this feeling⋯
+	Th-this feeling…
 	It's that pressure
 	I've been sensing
 	"""
@@ -206725,7 +206725,7 @@ script 13 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Aa⋯! Aaaah⋯⋯!"
+	"Aa…! Aaaah……!"
 	keyWait
 	clearMsg
 	flagSet
@@ -206741,9 +206741,9 @@ script 14 mmbn3 {
 		mugshot = Bass
 	msgOpen
 	"""
-	Let us battle⋯
+	Let us battle…
 	You who emits the
-	power of the strong⋯
+	power of the strong…
 	"""
 	keyWait
 	end
@@ -206782,8 +206782,8 @@ script 17 mmbn3 {
 		mugshot = Bass
 	msgOpen
 	"""
-	Stand aside⋯
-	You who are weak⋯
+	Stand aside…
+	You who are weak…
 	"""
 	keyWait
 	end
@@ -206804,7 +206804,7 @@ script 19 mmbn3 {
 	msgOpen
 	"""
 	Th-this can't be
-	happening⋯
+	happening…
 	"""
 	keyWait
 	clearMsg
@@ -206848,8 +206848,8 @@ script 21 mmbn3 {
 		mugshot = Bass
 	msgOpen
 	"""
-	The peon is gone⋯
-	Time now for battle⋯
+	The peon is gone…
+	Time now for battle…
 	"""
 	keyWait
 	clearMsg
@@ -206892,7 +206892,7 @@ script 0 mmbn3 {
 	msgOpen
 	"""
 	I had much higher
-	expectations⋯
+	expectations…
 	"""
 	keyWait
 	clearMsg
@@ -206922,7 +206922,7 @@ script 2 mmbn3 {
 	"""
 	How is it you know
 	my name? Who are
-	you⋯?
+	you…?
 	"""
 	keyWait
 	clearMsg
@@ -206948,7 +206948,7 @@ script 4 mmbn3 {
 		mugshot = Bass
 	msgOpen
 	"""
-	Alpha Rebellion⋯
+	Alpha Rebellion…
 	!!
 	"""
 	keyWait
@@ -207029,14 +207029,14 @@ script 8 mmbn3 {
 	"""
 	Bass! You don an
 	aura yourself,so you
-	must be aware⋯
+	must be aware…
 	"""
 	keyWait
 	clearMsg
 	"""
 	The defensive
 	strength of this
-	DarkAura⋯
+	DarkAura…
 	"""
 	keyWait
 	clearMsg
@@ -207055,7 +207055,7 @@ script 9 mmbn3 {
 	msgOpen
 	"""
 	An aura of darkness.
-	How impudent⋯
+	How impudent…
 	"""
 	keyWait
 	clearMsg
@@ -207126,14 +207126,14 @@ script 14 mmbn3 {
 	msgOpen
 	"""
 	Oooof!
-	Huff⋯Huff⋯
+	Huff…Huff…
 	"""
 	keyWait
 	clearMsg
 	"""
 	Even wearing the
 	aura,the impact was
-	so powerful⋯
+	so powerful…
 	"""
 	keyWait
 	clearMsg
@@ -207147,7 +207147,7 @@ script 15 mmbn3 {
 	"""
 	You've managed to
 	withstand my
-	EarthBreak⋯
+	EarthBreak…
 	"""
 	keyWait
 	clearMsg
@@ -207196,7 +207196,7 @@ script 18 mmbn3 {
 	msgOpen
 	"""
 	Not that feeble-
-	minded idiot again⋯
+	minded idiot again…
 	Hmph. I have matters
 	"""
 	keyWait
@@ -207221,7 +207221,7 @@ script 19 mmbn3 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Wha⋯!! The DarkAura!
+	Wha…!! The DarkAura!
 	His power was far
 	more than I had
 	"""
@@ -207230,7 +207230,7 @@ script 19 mmbn3 {
 	"""
 	anticipated! If he
 	had hit me again,I
-	might have been⋯!!
+	might have been…!!
 	"""
 	keyWait
 	clearMsg
@@ -207260,7 +207260,7 @@ script 20 mmbn3 {
 	"""
 	be planning on
 	awakening that beast
-	Alpha⋯
+	Alpha…
 	"""
 	keyWait
 	end
@@ -207279,7 +207279,7 @@ script 21 mmbn3 {
 	"""
 	powers was far more
 	than expected.
-	Bass. Wily. Hmm⋯
+	Bass. Wily. Hmm…
 	"""
 	keyWait
 	end
@@ -207290,7 +207290,7 @@ script 22 mmbn3 {
 	soundDisableTextSFX
 	soundPlay
 		track = 290
-	"Zh-Zhhzhh⋯zzhz"
+	"Zh-Zhhzhh…zzhz"
 	wait
 		frames = 120
 	soundEnableTextSFX
@@ -207304,8 +207304,8 @@ script 23 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Me⋯⋯an⋯
-	⋯ga⋯n!
+	Me……an…
+	…ga…n!
 	"""
 	keyWait
 	clearMsg
@@ -207322,7 +207322,7 @@ script 24 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Uu⋯uuh⋯"
+	"Uu…uuh…"
 	keyWait
 	end
 }
@@ -207351,7 +207351,7 @@ script 26 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	⋯⋯
+	……
 	It looks like
 	someone saved me.
 	"""
@@ -207393,7 +207393,7 @@ script 2 mmbn3 {
 	mugshotShow
 		mugshot = Dad
 	msgOpen
-	"Yes⋯I think so⋯"
+	"Yes…I think so…"
 	keyWait
 	end
 }
@@ -207424,7 +207424,7 @@ script 4 mmbn3 {
 	clearMsg
 	"""
 	incident. I needed
-	to inspect⋯
+	to inspect…
 	"""
 	keyWait
 	clearMsg
@@ -207451,7 +207451,7 @@ script 5 mmbn3 {
 	"""
 	trapped in a room
 	at nearly 200
-	degrees⋯Here,I'll
+	degrees…Here,I'll
 	"""
 	keyWait
 	clearMsg
@@ -207470,8 +207470,8 @@ script 6 mmbn3 {
 		mugshot = Dad
 	msgOpen
 	"""
-	Oh⋯
-	Thank⋯you⋯
+	Oh…
+	Thank…you…
 	"""
 	keyWait
 	end
@@ -207563,14 +207563,14 @@ script 2 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	⋯It⋯was all⋯
-	my fault⋯
+	…It…was all…
+	my fault…
 	"""
 	keyWait
 	clearMsg
 	"""
 	The SciLab attack,
-	dad's injury⋯
+	dad's injury…
 	Everything!!
 	"""
 	keyWait
@@ -207583,7 +207583,7 @@ script 2 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	I helped Match⋯
+	I helped Match…
 	I helped the WWW!
 	"""
 	keyWait
@@ -207598,7 +207598,7 @@ script 3 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Lan⋯"
+	"Lan…"
 	keyWait
 	end
 }
@@ -207626,7 +207626,7 @@ script 5 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan⋯
+	Lan…
 	Why don't we go
 	home?
 	"""
@@ -207639,7 +207639,7 @@ script 6 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"⋯⋯"
+	"……"
 	keyWait
 	end
 }
@@ -207922,7 +207922,7 @@ script 3 mmbn3 {
 	"""
 	Yeah. Two cute girls
 	like us paying a
-	visit⋯
+	visit…
 	"""
 	keyWait
 	clearMsg
@@ -207953,7 +207953,7 @@ script 0 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"⋯⋯"
+	"……"
 	keyWait
 	clearMsg
 	jump
@@ -207978,8 +207978,8 @@ script 2 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	⋯⋯
-	I don't want to go⋯
+	……
+	I don't want to go…
 	"""
 	keyWait
 	clearMsg
@@ -208054,7 +208054,7 @@ script 7 mmbn3 {
 	msgOpen
 	"""
 	I don't want to see
-	anyone⋯
+	anyone…
 	"""
 	keyWait
 	clearMsg
@@ -208079,7 +208079,7 @@ script 9 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"⋯⋯"
+	"……"
 	keyWait
 	end
 }
@@ -208128,7 +208128,7 @@ script 13 mmbn3 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	Oh⋯
+	Oh…
 	And your mother?
 	"""
 	keyWait
@@ -208142,7 +208142,7 @@ script 14 mmbn3 {
 	msgOpen
 	"""
 	She hasn't left
-	dad's side⋯
+	dad's side…
 	"""
 	keyWait
 	clearMsg
@@ -208154,7 +208154,7 @@ script 15 mmbn3 {
 		mugshot = Yai
 	msgOpen
 	"""
-	⋯⋯
+	……
 	Hey,Lan.
 	Come back to school.
 	"""
@@ -208187,7 +208187,7 @@ script 16 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"⋯⋯"
+	"……"
 	keyWait
 	end
 }
@@ -208300,7 +208300,7 @@ script 25 mmbn3 {
 	mugshotShow
 		mugshot = Mayl
 	msgOpen
-	"Uh⋯OK⋯"
+	"Uh…OK…"
 	keyWait
 	end
 }
@@ -208311,7 +208311,7 @@ script 26 mmbn3 {
 	"""
 	Don't you think that
 	was a little too
-	much,Lan? I mean⋯
+	much,Lan? I mean…
 	"""
 	keyWait
 	clearMsg
@@ -208329,13 +208329,13 @@ script 27 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"I know,I know⋯!"
+	"I know,I know…!"
 	keyWait
 	clearMsg
 	"""
 	But I'm no "hero".
 	After what I've
-	done⋯
+	done…
 	"""
 	keyWait
 	clearMsg
@@ -208469,7 +208469,7 @@ script 4 mmbn3 {
 	"""
 	No,don't tell me
 	you're here to
-	arrest me⋯!!
+	arrest me…!!
 	"""
 	keyWait
 	clearMsg
@@ -208528,7 +208528,7 @@ script 8 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	TetraCodes⋯? Aren't
+	TetraCodes…? Aren't
 	they what the WWW
 	has been after?
 	"""
@@ -208574,7 +208574,7 @@ script 11 mmbn3 {
 	"""
 	A door that seals an
 	immensely powerful
-	"Beast" away⋯
+	"Beast" away…
 	"""
 	keyWait
 	clearMsg
@@ -208595,7 +208595,7 @@ script 12 mmbn3 {
 	"""
 	The Beast? Do you
 	mean that thing
-	called⋯
+	called…
 	"""
 	keyWait
 	clearMsg
@@ -208774,7 +208774,7 @@ script 19 mmbn3 {
 	"""
 	The denizens of the
 	Undernet despise us.
-	You,however⋯
+	You,however…
 	"""
 	keyWait
 	clearMsg
@@ -208807,7 +208807,7 @@ script 21 mmbn3 {
 	"""
 	Well,it is a
 	dangerous mission.
-	But⋯
+	But…
 	"""
 	keyWait
 	end
@@ -208843,7 +208843,7 @@ script 23 mmbn3 {
 	mugshotShow
 		mugshot = Chaud
 	msgOpen
-	"⋯⋯"
+	"……"
 	keyWait
 	clearMsg
 	jump
@@ -208863,7 +208863,7 @@ script 24 mmbn3 {
 	"""
 	have the right to
 	take on a mission
-	from the Officials⋯
+	from the Officials…
 	"""
 	keyWait
 	clearMsg
@@ -208896,7 +208896,7 @@ script 26 mmbn3 {
 	msgOpen
 	playerAnimate
 		animation = 3
-	"Chaud⋯"
+	"Chaud…"
 	keyWait
 	end
 }
@@ -208948,7 +208948,7 @@ script 28 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Chaud⋯"
+	"Chaud…"
 	keyWait
 	clearMsg
 	jump
@@ -208971,7 +208971,7 @@ script 30 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"⋯OK."
+	"…OK."
 	keyWait
 	end
 }
@@ -209051,7 +209051,7 @@ script 3 mmbn3 {
 		mugshot = Sean
 	msgOpen
 	"""
-	Probably⋯
+	Probably…
 	Anyway,the Navi
 	asked me,
 	"""
@@ -209176,7 +209176,7 @@ script 9 mmbn3 {
 	mugshotPalette
 		palette = 2
 	msgOpen
-	"⋯Is someone there!?"
+	"…Is someone there!?"
 	keyWait
 	end
 }
@@ -209255,7 +209255,7 @@ script 16 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Oh⋯
+	Oh…
 	You're going
 	already?
 	"""
@@ -209330,9 +209330,9 @@ script 19 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Sean's making up⋯
+	Sean's making up…
 	For the crimes he's
-	committed⋯?
+	committed…?
 	"""
 	keyWait
 	clearMsg
@@ -209370,7 +209370,7 @@ script 21 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Dad⋯
+	Dad…
 	There's something I
 	have to tell you.
 	"""
@@ -209397,7 +209397,7 @@ script 23 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"I'm so sorry⋯"
+	"I'm so sorry…"
 	keyWait
 	clearMsg
 	jump
@@ -209444,7 +209444,7 @@ script 25 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Dad⋯
+	Dad…
 	I'll do it! I'll do
 	everything I can!
 	"""
@@ -209581,7 +209581,7 @@ script 3 mmbn3 {
 	clearMsg
 	"""
 	dangerous mission.
-	You could even⋯
+	You could even…
 	lose MegaMan.
 	"""
 	keyWait
@@ -209593,7 +209593,7 @@ script 4 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Uh⋯"
+	"Uh…"
 	keyWait
 	clearMsg
 	jump
@@ -209713,9 +209713,9 @@ script 10 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	So⋯
+	So…
 	In order to meet
-	this guy S⋯
+	this guy S…
 	"""
 	keyWait
 	clearMsg
@@ -209850,7 +209850,7 @@ script 17 mmbn3 {
 	"""
 	So basically,if
 	MegaMan has this
-	installed⋯
+	installed…
 	"""
 	keyWait
 	clearMsg
@@ -210000,7 +210000,7 @@ script 7 mmbn3 {
 	msgOpen
 	"""
 	Reckless Navis who
-	desire to be ranked⋯
+	desire to be ranked…
 	"""
 	keyWait
 	clearMsg
@@ -210118,7 +210118,7 @@ script 13 mmbn3 {
 	"""
 	We can fight however
 	we want in Under 1,2
-	and 3⋯
+	and 3…
 	"""
 	keyWait
 	clearMsg
@@ -210268,7 +210268,7 @@ script 5 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Right⋯
+	Right…
 	I'll watch my back.
 	"""
 	keyWait
@@ -210311,7 +210311,7 @@ script 2 mmbn3 {
 	soundDisableTextSFX
 	soundPlay
 		track = 290
-	"Zh⋯zzhzhzzzzz"
+	"Zh…zzhzhzzzzz"
 	wait
 		frames = 148
 	soundEnableTextSFX
@@ -210319,7 +210319,7 @@ script 2 mmbn3 {
 	clearMsg
 	"""
 	Mighty victor of the
-	reckless ten⋯
+	reckless ten…
 	"""
 	keyWait
 	clearMsg
@@ -210363,7 +210363,7 @@ script 4 mmbn3 {
 	soundDisableTextSFX
 	soundPlay
 		track = 291
-	"Zzhzzhzh⋯zzhnnnn"
+	"Zzhzzhzh…zzhnnnn"
 	wait
 		frames = 148
 	"\n"
@@ -210382,7 +210382,7 @@ script 5 mmbn3 {
 	msgOpen
 	"""
 	The communication's
-	been cut off⋯
+	been cut off…
 	"""
 	keyWait
 	clearMsg
@@ -210400,7 +210400,7 @@ script 6 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Hmmm⋯"
+	"Hmmm…"
 	keyWait
 	clearMsg
 	"""
@@ -210483,15 +210483,15 @@ script 3 mmbn3 {
 		mugshot = CloakedNavi
 	msgOpen
 	"""
-	Oh yeah⋯ about that
-	Navi called S⋯
+	Oh yeah… about that
+	Navi called S…
 	"""
 	keyWait
 	clearMsg
 	"""
 	If you're looking
 	who I think you're
-	looking for⋯
+	looking for…
 	"""
 	keyWait
 	clearMsg
@@ -210521,7 +210521,7 @@ script 5 mmbn3 {
 	msgOpen
 	"""
 	I've said too much
-	as it is⋯
+	as it is…
 	"""
 	keyWait
 	clearMsg
@@ -210534,7 +210534,7 @@ script 5 mmbn3 {
 	clearMsg
 	"""
 	That is,if you value
-	your life⋯
+	your life…
 	"""
 	keyWait
 	clearMsg
@@ -210545,7 +210545,7 @@ script 6 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"But⋯"
+	"But…"
 	keyWait
 	clearMsg
 	jump
@@ -210558,7 +210558,7 @@ script 7 mmbn3 {
 	"""
 	Oh,and one more
 	thing. Just because
-	you're ranked now⋯
+	you're ranked now…
 	"""
 	keyWait
 	clearMsg
@@ -210598,7 +210598,7 @@ script 9 mmbn3 {
 		mugshot = CloakedNavi
 	msgOpen
 	"""
-	Oh⋯
+	Oh…
 	Well,do what you
 	want,then.
 	"""
@@ -210615,7 +210615,7 @@ script 10 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"He's gone⋯"
+	"He's gone…"
 	keyWait
 	clearMsg
 	"""
@@ -210639,7 +210639,7 @@ script 11 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"This isn't good⋯"
+	"This isn't good…"
 	keyWait
 	end
 }
@@ -210660,7 +210660,7 @@ script 13 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	⋯It's from Mayl.
+	…It's from Mayl.
 	It says,
 	"""
 	keyWait
@@ -210716,7 +210716,7 @@ script 16 mmbn3 {
 	"""
 	Right! Hmmm. Y'know,
 	Mayl didn't sound
-	like her usual self⋯
+	like her usual self…
 	"""
 	keyWait
 	clearMsg
@@ -210829,7 +210829,7 @@ script 6 mmbn3 {
 	clearMsg
 	"""
 	So that mail from
-	Mayl was⋯
+	Mayl was…
 	"""
 	keyWait
 	end
@@ -210962,7 +210962,7 @@ script 2 mmbn3 {
 	"""
 	I can't believe
 	they'd set a trap
-	just to get revenge⋯
+	just to get revenge…
 	"""
 	keyWait
 	clearMsg
@@ -210976,7 +210976,7 @@ script 3 mmbn3 {
 	"""
 	Yeah. They've got as
 	much hate in them as
-	the WWW⋯
+	the WWW…
 	"""
 	keyWait
 	clearMsg
@@ -210998,7 +210998,7 @@ script 5 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Find S⋯
+	Find S…
 	But we don't have
 	any leads.
 	"""
@@ -211007,7 +211007,7 @@ script 5 mmbn3 {
 	"""
 	If we knew where #9
 	was,we'd at least
-	have a chance⋯
+	have a chance…
 	"""
 	keyWait
 	clearMsg
@@ -211053,7 +211053,7 @@ script 8 mmbn3 {
 	"""
 	"I forgot to tell
 	ya where Rank #9 is.
-	You'll find him⋯
+	You'll find him…
 	"""
 	keyWait
 	clearMsg
@@ -211076,7 +211076,7 @@ script 9 mmbn3 {
 	msgOpen
 	"""
 	"Where science gives
-	life"⋯?
+	life"…?
 	"""
 	keyWait
 	clearMsg
@@ -211198,7 +211198,7 @@ script 5 mmbn3 {
 		mugshot = CloakedNavi
 	msgOpen
 	"""
-	S⋯?
+	S…?
 	Do you have any idea
 	just how frightening
 	"""
@@ -211226,7 +211226,7 @@ script 6 mmbn3 {
 	"""
 	Still,I have to meet
 	him. If you have any
-	information⋯
+	information…
 	"""
 	keyWait
 	clearMsg
@@ -211246,7 +211246,7 @@ script 7 mmbn3 {
 	"""
 	All I know is that
 	if you want to meet
-	him,the only way is⋯
+	him,the only way is…
 	"""
 	keyWait
 	clearMsg
@@ -211272,7 +211272,7 @@ script 8 mmbn3 {
 	msgOpen
 	"""
 	So,in order to
-	increase my rank⋯
+	increase my rank…
 	"""
 	keyWait
 	clearMsg
@@ -211298,7 +211298,7 @@ script 10 mmbn3 {
 	msgOpen
 	"""
 	Well,if that's how
-	it's got to be⋯
+	it's got to be…
 	"""
 	keyWait
 	clearMsg
@@ -211309,7 +211309,7 @@ script 11 mmbn3 {
 	mugshotShow
 		mugshot = CloakedNavi
 	msgOpen
-	"Let's fight⋯"
+	"Let's fight…"
 	keyWait
 	clearMsg
 	"""
@@ -211436,7 +211436,7 @@ script 18 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Thank you⋯"
+	"Thank you…"
 	keyWait
 	clearMsg
 	jump
@@ -211448,8 +211448,8 @@ script 19 mmbn3 {
 	msgOpen
 	"""
 	You can find the
-	Navi ranked #8⋯
-	Hmm,let's see⋯
+	Navi ranked #8…
+	Hmm,let's see…
 	"""
 	keyWait
 	clearMsg
@@ -211515,7 +211515,7 @@ script 1 mmbn3 {
 	mugshotShow
 		mugshot = BeastMan
 	msgOpen
-	"Grrrrrr⋯"
+	"Grrrrrr…"
 	keyWait
 	clearMsg
 	"""
@@ -211556,7 +211556,7 @@ script 3 mmbn3 {
 	"""
 	As much as I hate
 	fleeing from an
-	enemy⋯
+	enemy…
 	"""
 	keyWait
 	clearMsg
@@ -211606,7 +211606,7 @@ script 6 mmbn3 {
 	"""
 	So they also know
 	about the Forbidden
-	Program⋯
+	Program…
 	"""
 	keyWait
 	clearMsg
@@ -211717,7 +211717,7 @@ script 12 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	Me? I am⋯I mean,
+	Me? I am…I mean,
 	I was #8! That beast
 	thing beat me.
 	"""
@@ -211729,7 +211729,7 @@ script 12 mmbn3 {
 	"""
 	Thanks for making
 	quick work of my
-	enemy! In return⋯
+	enemy! In return…
 	"""
 	keyWait
 	clearMsg
@@ -211798,7 +211798,7 @@ script 17 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Wha⋯!?"
+	"Wha…!?"
 	wait
 		frames = 20
 	end
@@ -211874,14 +211874,14 @@ script 0 mmbn3 {
 	msgOpen
 	"""
 	So. You got it
-	right⋯
-	Very well⋯
+	right…
+	Very well…
 	"""
 	keyWait
 	clearMsg
 	"""
 	I will award you the
-	7th rank⋯
+	7th rank…
 	"""
 	keyWait
 	clearMsg
@@ -211929,9 +211929,9 @@ script 3 mmbn3 {
 		mugshot = CloakedNavi
 	msgOpen
 	"""
-	Yes,the clue. Hmm⋯
+	Yes,the clue. Hmm…
 	What was it again?
-	I can't recall⋯
+	I can't recall…
 	"""
 	keyWait
 	clearMsg
@@ -211982,7 +211982,7 @@ script 6 mmbn3 {
 	"""
 	I guess I'll just
 	have to search on
-	my own⋯
+	my own…
 	"""
 	keyWait
 	clearMsg
@@ -212007,7 +212007,7 @@ script 8 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Oh boy⋯"
+	"Oh boy…"
 	keyWait
 	end
 }
@@ -212042,7 +212042,7 @@ script 1 mmbn3 {
 	"""
 	Something tells me
 	there's more to this
-	than meets the eye⋯
+	than meets the eye…
 	"""
 	keyWait
 	clearMsg
@@ -212132,7 +212132,7 @@ script 2 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Wha⋯!"
+	"Wha…!"
 	keyWait
 	end
 }
@@ -212150,7 +212150,7 @@ script 3 mmbn3 {
 	"""
 	Deleting little kids
 	always gives me
-	nightmares⋯
+	nightmares…
 	"""
 	keyWait
 	end
@@ -212212,7 +212212,7 @@ script 7 mmbn3 {
 	msgOpen
 	"""
 	No! No room to dodge
-	that boulder⋯!
+	that boulder…!
 	"""
 	keyWait
 	clearMsg
@@ -212348,7 +212348,7 @@ script 16 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Or maybe⋯
+	Or maybe…
 	Were you trying to
 	massage us to death?
 	"""
@@ -212496,7 +212496,7 @@ script 26 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Aw,Dex⋯"
+	"Aw,Dex…"
 	keyWait
 	clearMsg
 	jump
@@ -212544,7 +212544,7 @@ script 30 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"What is it,GutsMa⋯"
+	"What is it,GutsMa…"
 	keyWait
 	clearMsg
 	playerAnimate
@@ -212590,7 +212590,7 @@ script 33 mmbn3 {
 	mugshotShow
 		mugshot = GutsMan
 	msgOpen
-	"Heh heh heh⋯"
+	"Heh heh heh…"
 	keyWait
 	clearMsg
 	"""
@@ -212624,7 +212624,7 @@ script 34 mmbn3 {
 	clearMsg
 	"""
 	So those Navi's that
-	GutsMan beat were⋯
+	GutsMan beat were…
 	"""
 	keyWait
 	clearMsg
@@ -212713,7 +212713,7 @@ script 1 mmbn3 {
 		mugshot = GutsMan
 	msgOpen
 	"""
-	Oh,all right⋯
+	Oh,all right…
 	S is the head honcho
 	of all the ranked
 	"""
@@ -212779,7 +212779,7 @@ script 4 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	"Place of battle"⋯
+	"Place of battle"…
 	OK!
 	"""
 	keyWait
@@ -212926,7 +212926,7 @@ script 1 mmbn3 {
 	msgOpen
 	"""
 	"Serenade"?
-	You mean⋯
+	You mean…
 	"""
 	keyWait
 	clearMsg
@@ -213065,7 +213065,7 @@ script 8 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"The Undernet server⋯"
+	"The Undernet server…"
 	keyWait
 	clearMsg
 	jump
@@ -213113,7 +213113,7 @@ script 10 mmbn3 {
 	msgOpen
 	"""
 	A server room hidden
-	by a boulder⋯
+	by a boulder…
 	"""
 	keyWait
 	clearMsg
@@ -213139,7 +213139,7 @@ script 11 mmbn3 {
 	"""
 	The last time I lost
 	was ten years ago,to
-	Serenade⋯
+	Serenade…
 	"""
 	keyWait
 	clearMsg
@@ -213150,7 +213150,7 @@ script 12 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Serenade? You mean⋯"
+	"Serenade? You mean…"
 	keyWait
 	clearMsg
 	jump
@@ -213261,7 +213261,7 @@ script 19 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"The Undernet server⋯"
+	"The Undernet server…"
 	keyWait
 	clearMsg
 	jump
@@ -213301,7 +213301,7 @@ script 21 mmbn3 {
 	msgOpen
 	"""
 	A server room hidden
-	by a boulder⋯
+	by a boulder…
 	"""
 	keyWait
 	clearMsg
@@ -213321,7 +213321,7 @@ script 0 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	So⋯
+	So…
 	This is the Undernet
 	server?
 	"""
@@ -213363,7 +213363,7 @@ script 3 mmbn3 {
 script 4 mmbn3 {
 	mugshotHide
 	msgOpen
-	"Jack in⋯"
+	"Jack in…"
 	keyWait
 	end
 }
@@ -213478,7 +213478,7 @@ script 4 mmbn3 {
 script 5 mmbn3 {
 	mugshotHide
 	msgOpen
-	"⋯⋯"
+	"……"
 	keyWait
 	clearMsg
 	"""
@@ -213502,7 +213502,7 @@ script 6 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"A Chosen One⋯?"
+	"A Chosen One…?"
 	keyWait
 	clearMsg
 	"""
@@ -213598,7 +213598,7 @@ script 10 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"⋯⋯"
+	"……"
 	keyWait
 	clearMsg
 	jump
@@ -213621,7 +213621,7 @@ script 12 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"MegaMan⋯"
+	"MegaMan…"
 	keyWait
 	clearMsg
 	jump
@@ -213631,7 +213631,7 @@ script 13 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Lan⋯!!"
+	"Lan…!!"
 	keyWait
 	clearMsg
 	"Aaaaaah!"
@@ -213656,7 +213656,7 @@ script 14 mmbn3 {
 script 15 mmbn3 {
 	mugshotHide
 	msgOpen
-	"So he is frozen⋯"
+	"So he is frozen…"
 	keyWait
 	clearMsg
 	soundStop
@@ -213677,7 +213677,7 @@ script 16 mmbn3 {
 script 17 mmbn3 {
 	mugshotHide
 	msgOpen
-	"⋯Mm?"
+	"…Mm?"
 	keyWait
 	end
 }
@@ -213712,7 +213712,7 @@ script 20 mmbn3 {
 	mugshotHide
 	msgOpen
 	"""
-	Excellent⋯!
+	Excellent…!
 	The program is yours
 	to wield,MegaMan!
 	"""
@@ -213800,7 +213800,7 @@ script 26 mmbn3 {
 	"""
 	So there is another
 	Navi who can wield
-	Dr.Hikari's program⋯
+	Dr.Hikari's program…
 	"""
 	keyWait
 	end
@@ -213835,7 +213835,7 @@ script 2 mmbn3 {
 	"""
 	I am the
 	administrator of the
-	Undernet⋯
+	Undernet…
 	"""
 	keyWait
 	end
@@ -213915,7 +213915,7 @@ script 6 mmbn3 {
 	"""
 	The Undernet is a
 	weapon to counter
-	Alpha⋯
+	Alpha…
 	"""
 	keyWait
 	clearMsg
@@ -213957,7 +213957,7 @@ script 8 mmbn3 {
 	"""
 	It has the power to
 	freeze Alpha,which
-	means if misused⋯
+	means if misused…
 	"""
 	keyWait
 	clearMsg
@@ -214043,7 +214043,7 @@ script 12 mmbn3 {
 	mugshotShow
 		mugshot = Mamoru
 	msgOpen
-	"The ultimate beast⋯"
+	"The ultimate beast…"
 	keyWait
 	clearMsg
 	"""
@@ -214059,7 +214059,7 @@ script 13 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"SciLab⋯?"
+	"SciLab…?"
 	keyWait
 	clearMsg
 	jump
@@ -214154,7 +214154,7 @@ script 0 mmbn3 {
 	msgOpen
 	"""
 	About the same time,
-	in SciLab 1⋯
+	in SciLab 1…
 	"""
 	keyWait
 	end
@@ -214209,7 +214209,7 @@ script 6 mmbn3 {
 	mugshotShow
 		mugshot = DrillMan
 	msgOpen
-	"Official scum⋯"
+	"Official scum…"
 	keyWait
 	clearMsg
 	"You're too late!"
@@ -214238,7 +214238,7 @@ script 9 mmbn3 {
 	msgOpen
 	"""
 	Alpha's been
-	stolen⋯
+	stolen…
 	"""
 	keyWait
 	clearMsg
@@ -214266,13 +214266,13 @@ script 1 mmbn3 {
 	mugshotShow
 		mugshot = DrillMan
 	msgOpen
-	"⋯MegaMan!"
+	"…MegaMan!"
 	keyWait
 	clearMsg
 	"""
 	Heh heh! So I ran
 	into you before
-	awakening Alpha⋯
+	awakening Alpha…
 	"""
 	keyWait
 	clearMsg
@@ -214370,8 +214370,8 @@ script 0 mmbn3 {
 		mugshot = DrillMan
 	msgOpen
 	"""
-	Lord Wily⋯
-	I have failed you⋯
+	Lord Wily…
+	I have failed you…
 	"""
 	keyWait
 	clearMsg
@@ -214379,8 +214379,8 @@ script 0 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	BubbleMan⋯
-	I'm coming to you⋯
+	BubbleMan…
+	I'm coming to you…
 	"""
 	keyWait
 	clearMsg
@@ -214395,7 +214395,7 @@ script 1 mmbn3 {
 	"""
 	Whew! If Wily had
 	gotten his hands on
-	Alpha⋯
+	Alpha…
 	"""
 	keyWait
 	clearMsg
@@ -214426,7 +214426,7 @@ script 3 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Right⋯"
+	"Right…"
 	keyWait
 	end
 }
@@ -214465,7 +214465,7 @@ script 6 mmbn3 {
 	msgOpen
 	"""
 	I cannot allow you
-	to have Alpha⋯
+	to have Alpha…
 	"""
 	keyWait
 	end
@@ -214485,7 +214485,7 @@ script 8 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	⋯⋯
+	……
 	Lan! Let's use
 	you-know-what!
 	"""
@@ -214610,8 +214610,8 @@ script 18 mmbn3 {
 		buffer = 0
 		item = 34
 	"""
-	"? Hmm⋯
-	That means you⋯
+	"? Hmm…
+	That means you…
 	"""
 	keyWait
 	clearMsg
@@ -214632,8 +214632,8 @@ script 19 mmbn3 {
 	msgOpen
 	"""
 	The Forbidden
-	Program didn't work⋯
-	Alpha's been stolen⋯
+	Program didn't work…
+	Alpha's been stolen…
 	"""
 	keyWait
 	clearMsg
@@ -214667,7 +214667,7 @@ script 0 mmbn3 {
 		mugshot = LordWily
 	msgOpen
 	"""
-	Hee,hee,hee⋯
+	Hee,hee,hee…
 	Gwa-ha-ha-ha-ha!!
 	We did it,Bass!
 	"""
@@ -214701,7 +214701,7 @@ script 1 mmbn3 {
 	clearMsg
 	flagClear
 		flag = 2305
-	"Hee,hee,hee⋯"
+	"Hee,hee,hee…"
 	wait
 		frames = 18
 	"\nGwa-ha-ha-ha-ha-ha!!"
@@ -214724,7 +214724,7 @@ script 1 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Is this⋯
+	Is this…
 	the Cyberworld?
 	"""
 	keyWait
@@ -214742,7 +214742,7 @@ script 2 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Lan⋯"
+	"Lan…"
 	keyWait
 	clearMsg
 	jump
@@ -214808,14 +214808,14 @@ script 7 mmbn3 {
 	clearMsg
 	"""
 	I'm sorry to leave
-	you. But I must go⋯
+	you. But I must go…
 	"""
 	keyWait
 	clearMsg
 	"""
 	The years that we
 	spent together are
-	priceless to me,Lan⋯
+	priceless to me,Lan…
 	"""
 	keyWait
 	clearMsg
@@ -214827,7 +214827,7 @@ script 8 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Goodbye⋯?
+	Goodbye…?
 	What do you mean!?
 	"""
 	keyWait
@@ -214842,7 +214842,7 @@ script 9 mmbn3 {
 	"""
 	I'm glad to have
 	been able to see you
-	this one last time⋯
+	this one last time…
 	"""
 	keyWait
 	clearMsg
@@ -214870,7 +214870,7 @@ script 11 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Wait⋯Hub!!
+	Wait…Hub!!
 	Don't go!!
 	"""
 	keyWait
@@ -214892,7 +214892,7 @@ script 0 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Hub⋯"
+	"Hub…"
 	keyWait
 	clearMsg
 	jump
@@ -214910,7 +214910,7 @@ script 2 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Was that⋯a dream?"
+	"Was that…a dream?"
 	keyWait
 	clearMsg
 	jump
@@ -214922,7 +214922,7 @@ script 3 mmbn3 {
 	msgOpen
 	"""
 	You look like you
-	had an awful dream⋯
+	had an awful dream…
 	Are you OK?
 	"""
 	keyWait
@@ -214949,7 +214949,7 @@ script 5 mmbn3 {
 	msgOpen
 	"""
 	You sure you're OK?
-	Well,if you say so⋯
+	Well,if you say so…
 	"""
 	keyWait
 	end
@@ -215006,13 +215006,13 @@ script 9 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Yeah,I guess⋯"
+	"Yeah,I guess…"
 	keyWait
 	clearMsg
 	"""
 	The army showing up
 	like this can mean
-	only one thing⋯
+	only one thing…
 	"""
 	keyWait
 	clearMsg
@@ -215030,7 +215030,7 @@ script 10 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Wow⋯"
+	"Wow…"
 	keyWait
 	clearMsg
 	"""
@@ -215086,7 +215086,7 @@ script 0 mmbn3 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	So there you are⋯
+	So there you are…
 	Lan is here now,
 	so let's begin!
 	"""
@@ -215114,7 +215114,7 @@ script 1 mmbn3 {
 	"""
 	I need to tell
 	you all what
-	it really is⋯
+	it really is…
 	"""
 	keyWait
 	clearMsg
@@ -215125,12 +215125,12 @@ script 2 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"\"What it\n really is\"⋯⋯?"
+	"\"What it\n really is\"……?"
 	keyWait
 	clearMsg
 	mugshotAnimate
 		animation = 0
-	"Gulp⋯"
+	"Gulp…"
 	keyWait
 	clearMsg
 	jump
@@ -215150,13 +215150,13 @@ script 3 mmbn3 {
 	"""
 	It was developed
 	as the basis for
-	our Net community⋯
+	our Net community…
 	"""
 	keyWait
 	clearMsg
 	"""
 	It is the primal
-	Internet⋯
+	Internet…
 	"""
 	keyWait
 	clearMsg
@@ -215169,13 +215169,13 @@ script 4 mmbn3 {
 	msgOpen
 	"""
 	"The primal
-	Internet⋯"!?
+	Internet…"!?
 	"""
 	keyWait
 	clearMsg
 	"""
 	We thought it was
-	a monster,but⋯
+	a monster,but…
 	It's the Internet??
 	"""
 	keyWait
@@ -215224,7 +215224,7 @@ script 5 mmbn3 {
 	clearMsg
 	"""
 	We at SciLab
-	reacted⋯strongly⋯
+	reacted…strongly…
 	against the man who
 	"""
 	keyWait
@@ -215239,7 +215239,7 @@ script 5 mmbn3 {
 	"""
 	He was held in
 	custody,and the
-	Navi Elite Corps⋯
+	Navi Elite Corps…
 	"""
 	keyWait
 	clearMsg
@@ -215262,7 +215262,7 @@ script 5 mmbn3 {
 	"""
 	We thought that
 	would be the end
-	of it⋯
+	of it…
 	"""
 	keyWait
 	clearMsg
@@ -215342,7 +215342,7 @@ script 9 mmbn3 {
 	"""
 	Well,perhaps not
 	intelligence. More
-	like⋯instinct.
+	like…instinct.
 	"""
 	keyWait
 	clearMsg
@@ -215458,7 +215458,7 @@ script 12 mmbn3 {
 	"""
 	But if Alpha were
 	to return today,with
-	all that's online⋯
+	all that's online…
 	"""
 	keyWait
 	clearMsg
@@ -215485,7 +215485,7 @@ script 13 mmbn3 {
 	"""
 	And now that Alpha
 	is in the hands of
-	the WWW⋯
+	the WWW…
 	"""
 	keyWait
 	clearMsg
@@ -215681,7 +215681,7 @@ script 5 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Mayl,Yai⋯I'm⋯
+	Mayl,Yai…I'm…
 	I'm sorry for what
 	I said before.
 	"""
@@ -215733,7 +215733,7 @@ script 8 mmbn3 {
 	soundDisableTextSFX
 	soundPlay
 		track = 297
-	"Bee-bee-beep⋯"
+	"Bee-bee-beep…"
 	wait
 		frames = 60
 	keyWait
@@ -215788,7 +215788,7 @@ script 12 mmbn3 {
 	msgOpen
 	"""
 	So now,how to deal
-	with this thing⋯?
+	with this thing…?
 	"""
 	keyWait
 	clearMsg
@@ -215801,7 +215801,7 @@ script 13 mmbn3 {
 	soundDisableTextSFX
 	soundPlay
 		track = 297
-	"Beep! Bee-bee-beep⋯!"
+	"Beep! Bee-bee-beep…!"
 	wait
 		frames = 60
 	keyWait
@@ -215835,7 +215835,7 @@ script 16 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"I⋯I think so⋯"
+	"I…I think so…"
 	keyWait
 	clearMsg
 	"""
@@ -215846,7 +215846,7 @@ script 16 mmbn3 {
 	clearMsg
 	"""
 	If I could just
-	jack in⋯
+	jack in…
 	"""
 	keyWait
 	clearMsg
@@ -215939,7 +215939,7 @@ script 1 mmbn3 {
 	clearMsg
 	"""
 	Wow,that was a
-	powerful virus⋯
+	powerful virus…
 	"""
 	keyWait
 	clearMsg
@@ -215988,7 +215988,7 @@ script 4 mmbn3 {
 	clearMsg
 	"""
 	It seemed to be
-	trying to⋯
+	trying to…
 	absorb me!
 	"""
 	keyWait
@@ -216016,14 +216016,14 @@ script 6 mmbn3 {
 	"""
 	Yes. Usually viruses
 	just attack and try
-	to delete Navis⋯
+	to delete Navis…
 	"""
 	keyWait
 	clearMsg
 	"""
 	But that virus's
 	attacks were meant
-	to absorb me⋯
+	to absorb me…
 	"""
 	keyWait
 	clearMsg
@@ -216036,7 +216036,7 @@ script 7 mmbn3 {
 	msgOpen
 	"""
 	A virus that
-	absorbs Navis⋯
+	absorbs Navis…
 	"""
 	keyWait
 	clearMsg
@@ -216134,7 +216134,7 @@ script 3 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Wh⋯What do you mean?"
+	"Wh…What do you mean?"
 	keyWait
 	clearMsg
 	jump
@@ -216147,7 +216147,7 @@ script 4 mmbn3 {
 	"""
 	The reason that
 	those tanks
-	went haywire⋯
+	went haywire…
 	"""
 	keyWait
 	clearMsg
@@ -216171,7 +216171,7 @@ script 6 mmbn3 {
 	"""
 	That was no virus.
 	The force running
-	those tanks⋯
+	those tanks…
 	"""
 	keyWait
 	clearMsg
@@ -216218,7 +216218,7 @@ script 8 mmbn3 {
 	"""
 	That means that
 	Alpha has escaped
-	from somewhere⋯
+	from somewhere…
 	"""
 	keyWait
 	clearMsg
@@ -216245,7 +216245,7 @@ script 9 mmbn3 {
 	"""
 	We must find the WWW
 	base and delete
-	Alpha⋯and fast!
+	Alpha…and fast!
 	"""
 	keyWait
 	clearMsg
@@ -216270,17 +216270,17 @@ script 11 mmbn3 {
 	mugshotShow
 		mugshot = SciLabMan
 	msgOpen
-	"Yes⋯?"
+	"Yes…?"
 	keyWait
 	clearMsg
 	"""
-	⋯⋯⋯⋯
-	What? You mean⋯?
+	…………
+	What? You mean…?
 	"""
 	keyWait
 	clearMsg
 	"""
-	⋯⋯⋯
+	………
 	Understood.
 	I'm on my way!
 	"""
@@ -216333,7 +216333,7 @@ script 14 mmbn3 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Could this mean⋯
+	Could this mean…
 	War??
 	"""
 	keyWait
@@ -216361,7 +216361,7 @@ script 16 mmbn3 {
 	"""
 	If this situation
 	isn't dealt with
-	immediately⋯
+	immediately…
 	"""
 	keyWait
 	clearMsg
@@ -216451,7 +216451,7 @@ script 22 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	A war⋯What will
+	A war…What will
 	happen if Alpha
 	reaches full power?
 	"""
@@ -216525,7 +216525,7 @@ script 28 mmbn3 {
 		mugshot = Mom
 	msgOpen
 	"""
-	He's⋯He's⋯
+	He's…He's…
 	disappeared from
 	the hospital!
 	"""
@@ -216533,7 +216533,7 @@ script 28 mmbn3 {
 	clearMsg
 	"""
 	He's in no condition
-	to be moving around⋯
+	to be moving around…
 	Where could he be?
 	"""
 	keyWait
@@ -216609,7 +216609,7 @@ script 3 mmbn3 {
 	mugshotShow
 		mugshot = Mom
 	msgOpen
-	"No,not yet⋯"
+	"No,not yet…"
 	keyWait
 	clearMsg
 	"""
@@ -216642,7 +216642,7 @@ script 5 mmbn3 {
 	"""
 	Yes,your father has
 	been taking pain
-	medicine every day⋯
+	medicine every day…
 	"""
 	keyWait
 	clearMsg
@@ -216670,7 +216670,7 @@ script 6 mmbn3 {
 	"""
 	So,if the effects of
 	his last dose
-	run out⋯
+	run out…
 	"""
 	keyWait
 	clearMsg
@@ -216748,7 +216748,7 @@ script 11 mmbn3 {
 	mugshotShow
 		mugshot = Mom
 	msgOpen
-	"Lan⋯"
+	"Lan…"
 	keyWait
 	clearMsg
 	"""
@@ -216820,7 +216820,7 @@ script 1 mmbn3 {
 	mugshotShow
 		mugshot = Dad
 	msgOpen
-	"So you followed me⋯"
+	"So you followed me…"
 	keyWait
 	clearMsg
 	jump
@@ -216941,7 +216941,7 @@ script 7 mmbn3 {
 	mugshotShow
 		mugshot = Dad
 	msgOpen
-	"⋯⋯⋯"
+	"………"
 	keyWait
 	clearMsg
 	"""
@@ -216960,7 +216960,7 @@ script 7 mmbn3 {
 	clearMsg
 	"""
 	A prototype of
-	the Internet⋯
+	the Internet…
 	"Alpha"!
 	"""
 	keyWait
@@ -216972,7 +216972,7 @@ script 8 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"⋯⋯⋯"
+	"………"
 	keyWait
 	clearMsg
 	jump
@@ -217003,7 +217003,7 @@ script 10 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"⋯⋯⋯"
+	"………"
 	keyWait
 	clearMsg
 	"""
@@ -217029,7 +217029,7 @@ script 11 mmbn3 {
 	msgOpen
 	"""
 	That scientist's
-	name was⋯
+	name was…
 	"""
 	keyWait
 	clearMsg
@@ -217101,7 +217101,7 @@ script 13 mmbn3 {
 	"""
 	It's one of Gramps's
 	programs,so it can't
-	be deleted easily⋯
+	be deleted easily…
 	"""
 	keyWait
 	clearMsg
@@ -217117,7 +217117,7 @@ script 14 mmbn3 {
 	soundDisableTextSFX
 	soundPlay
 		track = 282
-	"Bee-beep⋯"
+	"Bee-beep…"
 	soundPlay
 		track = 262
 	" Beeeep!!"
@@ -217138,7 +217138,7 @@ script 15 mmbn3 {
 	"""
 	keyWait
 	clearMsg
-	"⋯Argh!!"
+	"…Argh!!"
 	keyWait
 	end
 }
@@ -217175,20 +217175,20 @@ script 18 mmbn3 {
 		mugshot = Dad
 	msgOpen
 	"""
-	Th-Thank you⋯
+	Th-Thank you…
 	Urgh!
 	"""
 	keyWait
 	clearMsg
 	mugshotHide
-	"Gulp⋯"
+	"Gulp…"
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = Dad
 	"""
-	I'll be OK⋯
-	In a moment⋯
+	I'll be OK…
+	In a moment…
 	"""
 	keyWait
 	end
@@ -217217,8 +217217,8 @@ script 20 mmbn3 {
 		mugshot = Dad
 	msgOpen
 	"""
-	No⋯
-	It's too dangerous⋯
+	No…
+	It's too dangerous…
 	"""
 	keyWait
 	clearMsg
@@ -217256,7 +217256,7 @@ script 22 mmbn3 {
 		mugshot = Dad
 	msgOpen
 	"""
-	⋯Lan,I can see
+	…Lan,I can see
 	that you're growing
 	up now.
 	"""
@@ -217265,14 +217265,14 @@ script 22 mmbn3 {
 	"""
 	I knew that there
 	comes a day when the
-	son exceeds the dad⋯
+	son exceeds the dad…
 	"""
 	keyWait
 	clearMsg
 	"""
 	But I never knew
 	yours would come
-	so quickly⋯
+	so quickly…
 	"""
 	keyWait
 	clearMsg
@@ -217283,7 +217283,7 @@ script 23 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Dad⋯"
+	"Dad…"
 	wait
 		frames = 60
 	keyWait
@@ -217300,12 +217300,12 @@ script 24 mmbn3 {
 	"""
 	According to the
 	data,the WWW's base
-	is at⋯
+	is at…
 	"""
 	keyWait
 	clearMsg
 	"""
-	What⋯⋯!?
+	What……!?
 	The Demon Waters!?
 	"""
 	keyWait
@@ -217357,7 +217357,7 @@ script 27 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Demon Waters⋯"
+	"Demon Waters…"
 	keyWait
 	clearMsg
 	"""
@@ -217410,7 +217410,7 @@ script 29 mmbn3 {
 	"""
 	So we need a boat
 	with a huge engine
-	to get to the base⋯
+	to get to the base…
 	"""
 	keyWait
 	clearMsg
@@ -217456,7 +217456,7 @@ script 30 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Lan,MegaMan⋯No,Hub!
+	Lan,MegaMan…No,Hub!
 	Fight together to
 	stop the WWW's plan!
 	"""
@@ -217490,7 +217490,7 @@ script 33 mmbn3 {
 		mugshot = Dad
 	msgOpen
 	"""
-	Be careful⋯
+	Be careful…
 	Both of you!
 	"""
 	keyWait
@@ -217591,12 +217591,12 @@ script 5 mmbn3 {
 	msgOpen
 	"""
 	This will be the
-	end of the world⋯
+	end of the world…
 	"""
 	keyWait
 	clearMsg
 	"""
-	Heh heh heh⋯
+	Heh heh heh…
 	I'm gettin' hot!
 	"""
 	keyWait
@@ -217614,7 +217614,7 @@ script 6 mmbn3 {
 	"""
 	Lord Wily,I can't
 	seem to find Inukai,
-	BeastMan's operator⋯
+	BeastMan's operator…
 	"""
 	keyWait
 	clearMsg
@@ -217642,7 +217642,7 @@ script 8 mmbn3 {
 	mugshotShow
 		mugshot = Sunayama
 	msgOpen
-	"⋯⋯⋯"
+	"………"
 	keyWait
 	clearMsg
 	"""
@@ -217671,7 +217671,7 @@ script 9 mmbn3 {
 	"""
 	Your new mission,
 	my followers,is to
-	protect Alpha⋯
+	protect Alpha…
 	"""
 	keyWait
 	clearMsg
@@ -217764,7 +217764,7 @@ script 15 mmbn3 {
 	mugshotShow
 		mugshot = LordWily
 	msgOpen
-	"Ah,ahem⋯"
+	"Ah,ahem…"
 	keyWait
 	clearMsg
 	"""
@@ -217816,7 +217816,7 @@ script 15 mmbn3 {
 	clearMsg
 	"""
 	The only thing in
-	your future is⋯
+	your future is…
 	Destruction!!
 	"""
 	keyWait
@@ -217904,7 +217904,7 @@ script 4 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Lan⋯"
+	"Lan…"
 	keyWait
 	clearMsg
 	jump
@@ -217982,7 +217982,7 @@ script 3 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"What the⋯?"
+	"What the…?"
 	keyWait
 	end
 }
@@ -218085,10 +218085,10 @@ script 10 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Thanks,guys⋯"
+	"Thanks,guys…"
 	keyWait
 	clearMsg
-	"But⋯"
+	"But…"
 	keyWait
 	clearMsg
 	jump
@@ -218114,12 +218114,12 @@ script 12 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Dex⋯"
+	"Dex…"
 	keyWait
 	clearMsg
 	"""
 	OK!
-	Dex,Chaud⋯
+	Dex,Chaud…
 	Let's go!
 	"""
 	keyWait
@@ -218217,8 +218217,8 @@ script 17 mmbn3 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	⋯⋯
-	Yai,Chaud is right⋯
+	……
+	Yai,Chaud is right…
 	"""
 	keyWait
 	clearMsg
@@ -218240,13 +218240,13 @@ script 18 mmbn3 {
 	"・"
 	waitSkip
 		frames = 30
-	"\nI know⋯"
+	"\nI know…"
 	keyWait
 	clearMsg
 	"""
 	But I can't just
 	sit back and
-	do nothing⋯!
+	do nothing…!
 	"""
 	keyWait
 	clearMsg
@@ -218414,7 +218414,7 @@ script 29 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Tora⋯"
+	"Tora…"
 	keyWait
 	clearMsg
 	"""
@@ -218434,7 +218434,7 @@ script 0 mmbn3 {
 	msgOpen
 	"""
 	So this is the
-	WWW base⋯
+	WWW base…
 	"""
 	keyWait
 	end
@@ -218529,7 +218529,7 @@ script 0 mmbn3 {
 	"""
 	This elevator
 	doesn't seem
-	to work⋯
+	to work…
 	"""
 	keyWait
 	clearMsg
@@ -218558,7 +218558,7 @@ script 2 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Uh⋯ This elevator
+	Uh… This elevator
 	doesn't have any
 	place to jack in!
 	"""
@@ -218591,7 +218591,7 @@ script 4 mmbn3 {
 	"""
 	Not here,either!
 	This room looks like
-	some kind of lab⋯
+	some kind of lab…
 	"""
 	keyWait
 	clearMsg
@@ -218609,7 +218609,7 @@ script 5 mmbn3 {
 	"""
 	All of the monitors
 	are connected to
-	this chair⋯
+	this chair…
 	"""
 	keyWait
 	clearMsg
@@ -218692,7 +218692,7 @@ script 11 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	But⋯
+	But…
 	Just who ARE you?
 	"""
 	keyWait
@@ -218707,7 +218707,7 @@ script 12 mmbn3 {
 		mugshot = Cossak
 	msgOpen
 	"""
-	My name is Cossak⋯
+	My name is Cossak…
 	I was once a
 	scientist at SciLab.
 	"""
@@ -218731,9 +218731,9 @@ script 14 mmbn3 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Cossak⋯I know that
+	Cossak…I know that
 	name! If I remember
-	correctly,he was⋯
+	correctly,he was…
 	"""
 	keyWait
 	clearMsg
@@ -218885,7 +218885,7 @@ script 20 mmbn3 {
 	"""
 	So if you are hurt
 	there,that data goes
-	to your brain⋯
+	to your brain…
 	"""
 	keyWait
 	clearMsg
@@ -218903,13 +218903,13 @@ script 21 mmbn3 {
 	mugshotShow
 		mugshot = Tora
 	msgOpen
-	"S-So⋯"
+	"S-So…"
 	keyWait
 	clearMsg
 	"""
 	What would happen if
 	you died in
-	Cyberworld⋯?
+	Cyberworld…?
 	"""
 	keyWait
 	clearMsg
@@ -218930,7 +218930,7 @@ script 22 mmbn3 {
 	"""
 	This was developed
 	at SciLab,but it was
-	just too dangerous⋯
+	just too dangerous…
 	"""
 	keyWait
 	clearMsg
@@ -218999,7 +218999,7 @@ script 25 mmbn3 {
 	clearMsg
 	"""
 	He really went
-	into Cyberworld⋯
+	into Cyberworld…
 	"""
 	keyWait
 	end
@@ -219014,7 +219014,7 @@ script 0 mmbn3 {
 	"""
 	Hmmm. This seems to
 	be the elevator
-	control program⋯
+	control program…
 	"""
 	keyWait
 	clearMsg
@@ -219032,7 +219032,7 @@ script 1 mmbn3 {
 		frames = 27
 	soundPlay
 		track = 162
-	" Clack!⋯"
+	" Clack!…"
 	wait
 		frames = 24
 	keyWait
@@ -219075,9 +219075,9 @@ script 3 mmbn3 {
 	waitSkip
 		frames = 30
 	"""
-	Hmmm⋯
+	Hmmm…
 	Just my imagination,
-	I guess⋯
+	I guess…
 	"""
 	keyWait
 	flagClear
@@ -219091,7 +219091,7 @@ script 4 mmbn3 {
 	"""
 	So a puny human
 	dares to come into
-	my world⋯
+	my world…
 	"""
 	keyWait
 	clearMsg
@@ -219111,7 +219111,7 @@ script 5 mmbn3 {
 		mugshot = Cossak
 	msgOpen
 	"""
-	Bass⋯!
+	Bass…!
 	So you ARE here,
 	as I suspected!
 	"""
@@ -219181,7 +219181,7 @@ script 8 mmbn3 {
 	"""
 	I crawled,near
 	deletion,through the
-	Internet⋯
+	Internet…
 	"""
 	keyWait
 	clearMsg
@@ -219257,14 +219257,14 @@ script 11 mmbn3 {
 	"""
 	Day after day I was
 	attacked by hordes
-	of viruses⋯
+	of viruses…
 	"""
 	keyWait
 	clearMsg
 	"""
 	Occasionally I fed
 	upon the remains of
-	fallen Navis⋯
+	fallen Navis…
 	"""
 	keyWait
 	clearMsg
@@ -219291,7 +219291,7 @@ script 12 mmbn3 {
 	"""
 	Bass,it seems that
 	we have become
-	totally different⋯
+	totally different…
 	"""
 	keyWait
 	clearMsg
@@ -219347,9 +219347,9 @@ script 15 mmbn3 {
 		mugshot = Bass
 	msgOpen
 	"""
-	Hmmm⋯? What's all
+	Hmmm…? What's all
 	this power you're
-	building up⋯? 
+	building up…? 
 	"""
 	keyWait
 	clearMsg
@@ -219372,7 +219372,7 @@ script 16 mmbn3 {
 	"""
 	Yes,I was a fool to
 	have created a thing
-	like you⋯
+	like you…
 	"""
 	keyWait
 	clearMsg
@@ -219434,20 +219434,20 @@ script 2 mmbn3 {
 	"""
 	What was I hoping to
 	accomplish in
-	creating Bass⋯?
+	creating Bass…?
 	"""
 	keyWait
 	clearMsg
 	"""
 	The world's first
-	independent Navi⋯?
+	independent Navi…?
 	"""
 	keyWait
 	clearMsg
 	"""
 	Or was I just making
 	a vain display of
-	my ability⋯?
+	my ability…?
 	"""
 	keyWait
 	clearMsg
@@ -219471,12 +219471,12 @@ script 4 mmbn3 {
 	mugshotShow
 		mugshot = Cossak
 	msgOpen
-	"Please. Delete Bass⋯"
+	"Please. Delete Bass…"
 	keyWait
 	clearMsg
 	"""
 	You're the only one
-	who can do it⋯
+	who can do it…
 	・
 	"""
 	waitSkip
@@ -219487,7 +219487,7 @@ script 4 mmbn3 {
 	"・"
 	waitSkip
 		frames = 30
-	"Please⋯"
+	"Please…"
 	keyWait
 	clearMsg
 	"・"
@@ -219512,7 +219512,7 @@ script 4 mmbn3 {
 	clearMsg
 	"""
 	If only I could turn
-	back the clock⋯
+	back the clock…
 	・
 	"""
 	waitSkip
@@ -219523,12 +219523,12 @@ script 4 mmbn3 {
 	"・"
 	waitSkip
 		frames = 30
-	"Bass⋯"
+	"Bass…"
 	keyWait
 	clearMsg
 	mugshotAnimate
 		animation = 0
-	"Nghh⋯⋯"
+	"Nghh……"
 	keyWait
 	clearMsg
 	jump
@@ -219657,7 +219657,7 @@ script 2 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	⋯⋯⋯
+	………
 	Lan!! Above you!!
 	"""
 	keyWait
@@ -219741,7 +219741,7 @@ script 9 mmbn3 {
 	clearMsg
 	"""
 	Hey,I've seen that
-	attack before⋯
+	attack before…
 	"""
 	keyWait
 	clearMsg
@@ -219791,7 +219791,7 @@ script 11 mmbn3 {
 	"""
 	keyWait
 	clearMsg
-	"⋯⋯⋯⋯"
+	"…………"
 	keyWait
 	clearMsg
 	jump
@@ -219817,7 +219817,7 @@ script 13 mmbn3 {
 	"""
 	We can't just stand
 	here and let it
-	attack us⋯
+	attack us…
 	"""
 	keyWait
 	clearMsg
@@ -219853,7 +219853,7 @@ script 15 mmbn3 {
 	msgOpen
 	"""
 	Rush it?
-	But we'll be⋯
+	But we'll be…
 	"""
 	keyWait
 	clearMsg
@@ -220136,7 +220136,7 @@ script 8 mmbn3 {
 	"""
 	Wahahaha!
 	I can feel the
-	power within me⋯
+	power within me…
 	"""
 	keyWait
 	clearMsg
@@ -220221,9 +220221,9 @@ script 0 mmbn3 {
 		mugshot = FlashMan
 	msgOpen
 	"""
-	How⋯?
+	How…?
 	How could you
-	defeat us again⋯?
+	defeat us again…?
 	"""
 	keyWait
 	clearMsg
@@ -220272,7 +220272,7 @@ script 4 mmbn3 {
 	mugshotShow
 		mugshot = FlashMan
 	msgOpen
-	"Shining⋯!"
+	"Shining…!"
 	keyWait
 	clearMsg
 	jump
@@ -220407,7 +220407,7 @@ script 1 mmbn3 {
 	msgOpen
 	"""
 	It looks like Wily's
-	research lab⋯
+	research lab…
 	"""
 	keyWait
 	clearMsg
@@ -220439,7 +220439,7 @@ script 3 mmbn3 {
 	mugshotShow
 		mugshot = Chaud
 	msgOpen
-	"Looks that way⋯"
+	"Looks that way…"
 	keyWait
 	clearMsg
 	"""
@@ -220456,7 +220456,7 @@ script 4 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Well⋯"
+	"Well…"
 	keyWait
 	clearMsg
 	"Let's find it!"
@@ -220472,7 +220472,7 @@ script 0 mmbn3 {
 	msgOpen
 	"""
 	It's a statue
-	of Wily⋯
+	of Wily…
 	"""
 	keyWait
 	clearMsg
@@ -220490,7 +220490,7 @@ script 1 mmbn3 {
 	msgOpen
 	"""
 	This statue
-	sure is light⋯
+	sure is light…
 	"""
 	keyWait
 	clearMsg
@@ -220584,7 +220584,7 @@ script 3 mmbn3 {
 	mugshotShow
 		mugshot = Chaud
 	msgOpen
-	"Ready,set⋯"
+	"Ready,set…"
 	keyWait
 	clearMsg
 	"Go!"
@@ -220598,7 +220598,7 @@ script 4 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	It's⋯
+	It's…
 	BubbleMan!!
 	"""
 	keyWait
@@ -220633,7 +220633,7 @@ script 6 mmbn3 {
 	soundDisableTextSFX
 	soundPlay
 		track = 318
-	"Beep⋯ Beep⋯"
+	"Beep… Beep…"
 	soundEnableTextSFX
 	keyWait
 	clearMsg
@@ -220659,7 +220659,7 @@ script 8 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Wha⋯!!"
+	"Wha…!!"
 	wait
 		frames = 10
 	end
@@ -220986,7 +220986,7 @@ script 0 mmbn3 {
 	mugshotHide
 	msgOpen
 	"""
-	Hiss⋯ Hiss⋯
+	Hiss… Hiss…
 	(MegaMan,this shall
 	become your grave!)
 	"""
@@ -221023,12 +221023,12 @@ script 3 mmbn3 {
 script 4 mmbn3 {
 	mugshotHide
 	msgOpen
-	"Hiss⋯ Hiss⋯\n"
+	"Hiss… Hiss…\n"
 	playerAnimate
 		animation = 28
 	"""
 	(Almost had
-	you,there⋯)
+	you,there…)
 	"""
 	keyWait
 	clearMsg
@@ -221041,7 +221041,7 @@ script 5 mmbn3 {
 	msgOpen
 	"""
 	This is digisand!
-	Which means⋯
+	Which means…
 	"""
 	keyWait
 	clearMsg
@@ -221106,7 +221106,7 @@ script 9 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"You escaped⋯!?"
+	"You escaped…!?"
 	keyWait
 	clearMsg
 	jump
@@ -221379,10 +221379,10 @@ script 0 mmbn3 {
 	mugshotHide
 	msgOpen
 	soundDisableTextSFX
-	"Crunch⋯ Crunch⋯\n"
+	"Crunch… Crunch…\n"
 	soundPlay
 		track = 321
-	"Grind⋯"
+	"Grind…"
 	wait
 		frames = 6
 	keyWait
@@ -221428,7 +221428,7 @@ script 3 mmbn3 {
 	soundDisableTextSFX
 	soundPlay
 		track = 321
-	"Grind⋯"
+	"Grind…"
 	wait
 		frames = 60
 	soundEnableTextSFX
@@ -221460,7 +221460,7 @@ script 6 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Wow,that was close⋯"
+	"Wow,that was close…"
 	keyWait
 	clearMsg
 	"Chaud!!"
@@ -221484,7 +221484,7 @@ script 8 mmbn3 {
 	mugshotShow
 		mugshot = Chaud
 	msgOpen
-	"L-Lan⋯!"
+	"L-Lan…!"
 	keyWait
 	clearMsg
 	"""
@@ -221886,7 +221886,7 @@ script 0 mmbn3 {
 		mugshot = PlantMan
 	msgOpen
 	"""
-	Arrrgh⋯! Even if you
+	Arrrgh…! Even if you
 	can beat us,you'll
 	never defeat Alpha!
 	"""
@@ -221905,18 +221905,18 @@ script 1 mmbn3 {
 	"""
 	And I thought that
 	I'd be able to watch
-	the world end⋯
+	the world end…
 	"""
 	keyWait
 	clearMsg
 	"""
-	But⋯
+	But…
 	Alpha will
-	soon awaken⋯
+	soon awaken…
 	"""
 	keyWait
 	clearMsg
-	"So hot⋯"
+	"So hot…"
 	keyWait
 	end
 }
@@ -222065,7 +222065,7 @@ script 1 mmbn3 {
 	msgOpen
 	"""
 	I'm sure Wily
-	must be inside⋯
+	must be inside…
 	"""
 	keyWait
 	clearMsg
@@ -222077,8 +222077,8 @@ script 2 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan⋯
-	No⋯Hub⋯
+	MegaMan…
+	No…Hub…
 	"""
 	keyWait
 	clearMsg
@@ -222095,7 +222095,7 @@ script 3 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Lan⋯"
+	"Lan…"
 	keyWait
 	clearMsg
 	"""
@@ -222409,7 +222409,7 @@ script 2 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Roger⋯!"
+	"Roger…!"
 	keyWait
 	clearMsg
 	"Wha!!"
@@ -222516,7 +222516,7 @@ script 11 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	⋯⋯⋯
+	………
 	P-ProtoMan!!
 	"""
 	keyWait
@@ -222542,9 +222542,9 @@ script 13 mmbn3 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Go⋯Lan⋯
+	Go…Lan…
 	You're the only one
-	who can stop Wily⋯
+	who can stop Wily…
 	"""
 	keyWait
 	clearMsg
@@ -222565,7 +222565,7 @@ script 14 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"⋯⋯⋯OK!"
+	"………OK!"
 	keyWait
 	clearMsg
 	"""
@@ -222619,7 +222619,7 @@ script 1 mmbn3 {
 	msgOpen
 	"""
 	Well,now.
-	If it isn't Lan⋯!
+	If it isn't Lan…!
 	"""
 	keyWait
 	clearMsg
@@ -222632,14 +222632,14 @@ script 1 mmbn3 {
 	"""
 	Those fool operators
 	only served to delay
-	your arrival⋯
+	your arrival…
 	"""
 	keyWait
 	clearMsg
 	"""
 	No matter. They were
 	but pawns to be
-	sacrificed⋯
+	sacrificed…
 	"""
 	keyWait
 	end
@@ -222807,7 +222807,7 @@ script 9 mmbn3 {
 	"""
 	But what can we do?
 	There must be
-	something⋯
+	something…
 	"""
 	keyWait
 	end
@@ -222849,13 +222849,13 @@ script 13 mmbn3 {
 	"""
 	But Lan,if something
 	were to happen to
-	you in Cyberworld⋯
+	you in Cyberworld…
 	"""
 	keyWait
 	clearMsg
 	"""
 	Like the
-	WWW operators⋯
+	WWW operators…
 	"""
 	keyWait
 	clearMsg
@@ -222899,7 +222899,7 @@ script 15 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Lan⋯"
+	"Lan…"
 	keyWait
 	clearMsg
 	"OK! Let's go!!"
@@ -222925,19 +222925,19 @@ script 17 mmbn3 {
 	msgOpen
 	"""
 	There's a slot for
-	a PET in this chair⋯
+	a PET in this chair…
 	"""
 	keyWait
 	clearMsg
 	"""
-	Hmmm⋯ And chips are
+	Hmmm… And chips are
 	automatically sent
-	from here⋯
+	from here…
 	"""
 	keyWait
 	clearMsg
 	"""
-	⋯⋯⋯
+	………
 	OK,I'm ready!
 	How about you?
 	"""
@@ -222988,7 +222988,7 @@ script 0 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"L⋯L⋯La⋯"
+	"L…L…La…"
 	keyWait
 	end
 }
@@ -223007,7 +223007,7 @@ script 2 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	⋯⋯⋯⋯
+	…………
 	MegaMan!
 	"""
 	keyWait
@@ -223046,8 +223046,8 @@ script 4 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	It's almost like⋯
-	a dream⋯No!
+	It's almost like…
+	a dream…No!
 	"""
 	keyWait
 	clearMsg
@@ -223124,7 +223124,7 @@ script 0 mmbn3 {
 	"""
 	Bass! That is Dr.
 	Hikari's greatest
-	protection program⋯
+	protection program…
 	"""
 	keyWait
 	clearMsg
@@ -223134,7 +223134,7 @@ script 0 mmbn3 {
 	"""
 	If you destroy it,
 	absorb it with your
-	Ability Program⋯
+	Ability Program…
 	"""
 	keyWait
 	clearMsg
@@ -223168,7 +223168,7 @@ script 2 mmbn3 {
 	"""
 	I desire only chaos
 	and the destruction
-	of Net society⋯
+	of Net society…
 	"""
 	keyWait
 	clearMsg
@@ -223188,7 +223188,7 @@ script 3 mmbn3 {
 	msgOpen
 	"""
 	But you are
-	mistaken⋯
+	mistaken…
 	"""
 	keyWait
 	clearMsg
@@ -223216,7 +223216,7 @@ script 4 mmbn3 {
 	"""
 	What do I care if
 	this aged body is
-	destroyed⋯?
+	destroyed…?
 	"""
 	keyWait
 	clearMsg
@@ -223241,7 +223241,7 @@ script 5 mmbn3 {
 	"""
 	keyWait
 	clearMsg
-	"You amuse me⋯"
+	"You amuse me…"
 	keyWait
 	clearMsg
 	"""
@@ -223259,7 +223259,7 @@ script 6 mmbn3 {
 	"""
 	So this is the
 	Guardian core.
-	If I abosorb this⋯
+	If I abosorb this…
 	"""
 	keyWait
 	clearMsg
@@ -223366,7 +223366,7 @@ script 12 mmbn3 {
 	clearMsg
 	"""
 	Even Cossak,
-	who created you⋯
+	who created you…
 	"""
 	keyWait
 	clearMsg
@@ -223380,13 +223380,13 @@ script 13 mmbn3 {
 	"""
 	Silence!
 	Exactly what I would
-	expect from a human⋯
+	expect from a human…
 	"""
 	keyWait
 	clearMsg
 	"""
 	Navis have no need
-	for operators⋯
+	for operators…
 	"""
 	keyWait
 	clearMsg
@@ -223490,8 +223490,8 @@ script 0 mmbn3 {
 		mugshot = Bass
 	msgOpen
 	"""
-	I cannot⋯
-	I cannot have lost⋯
+	I cannot…
+	I cannot have lost…
 	"""
 	keyWait
 	clearMsg
@@ -223503,9 +223503,9 @@ script 1 mmbn3 {
 		mugshot = LordWily
 	msgOpen
 	"""
-	Hmm⋯And I was
+	Hmm…And I was
 	hoping that you'd
-	delete each other⋯
+	delete each other…
 	"""
 	keyWait
 	clearMsg
@@ -223516,7 +223516,7 @@ script 2 mmbn3 {
 	mugshotShow
 		mugshot = Bass
 	msgOpen
-	"What⋯!?"
+	"What…!?"
 	keyWait
 	clearMsg
 	jump
@@ -223531,7 +223531,7 @@ script 3 mmbn3 {
 	"""
 	Bass,the Guardian
 	program that you
-	destroyed⋯
+	destroyed…
 	"""
 	keyWait
 	clearMsg
@@ -223569,7 +223569,7 @@ script 4 mmbn3 {
 	mugshotShow
 		mugshot = Bass
 	msgOpen
-	"Wily⋯You⋯"
+	"Wily…You…"
 	keyWait
 	clearMsg
 	jump
@@ -223661,8 +223661,8 @@ script 11 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Bass is⋯
-	What⋯
+	Bass is…
+	What…
 	What's happening!?
 	"""
 	keyWait
@@ -223688,7 +223688,7 @@ script 12 mmbn3 {
 	clearMsg
 	"""
 	This is the end!
-	Of Net society⋯
+	Of Net society…
 	And the world!!
 	"""
 	keyWait
@@ -223713,10 +223713,10 @@ script 13 mmbn3 {
 	mugshotShow
 		mugshot = LordWily
 	msgOpen
-	"Huh⋯!?"
+	"Huh…!?"
 	keyWait
 	clearMsg
-	"Stop!! What⋯!?"
+	"Stop!! What…!?"
 	keyWait
 	clearMsg
 	"Aaaahhhhh!!"
@@ -223732,7 +223732,7 @@ script 14 mmbn3 {
 	clearMsg
 	"""
 	It's even swallowed
-	up Wily⋯!
+	up Wily…!
 	"""
 	keyWait
 	clearMsg
@@ -223766,7 +223766,7 @@ script 17 mmbn3 {
 	"""
 	The monster that
 	would swallow all
-	of Cyberworld⋯
+	of Cyberworld…
 	"""
 	keyWait
 	clearMsg
@@ -223818,8 +223818,8 @@ script 0 mmbn3 {
 	mugshotHide
 	msgOpen
 	"""
-	Gah⋯Gah⋯Gaaahhh⋯
-	Grraaahhh⋯!!
+	Gah…Gah…Gaaahhh…
+	Grraaahhh…!!
 	"""
 	keyWait
 	clearMsg
@@ -223830,10 +223830,10 @@ script 1 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Whew⋯"
+	"Whew…"
 	keyWait
 	clearMsg
-	"Lan⋯"
+	"Lan…"
 	keyWait
 	clearMsg
 	jump
@@ -223844,9 +223844,9 @@ script 2 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	We did it⋯
-	We⋯
-	We beat Alpha⋯
+	We did it…
+	We…
+	We beat Alpha…
 	"""
 	keyWait
 	clearMsg
@@ -223894,7 +223894,7 @@ script 5 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	⋯⋯⋯
+	………
 	MegaMan,let's
 	check it out!
 	"""
@@ -223921,7 +223921,7 @@ script 6 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"OK⋯"
+	"OK…"
 	keyWait
 	end
 }
@@ -223933,7 +223933,7 @@ script 0 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Is this⋯
+	Is this…
 	The real world?
 	"""
 	keyWait
@@ -223955,7 +223955,7 @@ script 1 mmbn3 {
 	"""
 	I've never seen this
 	place before,but it
-	seems familiar⋯
+	seems familiar…
 	"""
 	keyWait
 	clearMsg
@@ -223966,13 +223966,13 @@ script 2 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Familiar⋯?"
+	"Familiar…?"
 	keyWait
 	clearMsg
 	"""
-	⋯Now that you
+	…Now that you
 	mention it,I think
-	I've seen it,too⋯
+	I've seen it,too…
 	"""
 	keyWait
 	clearMsg
@@ -224019,13 +224019,13 @@ script 6 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Lan,look⋯"
+	"Lan,look…"
 	keyWait
 	clearMsg
 	"""
 	This lab coat is
 	just like the one
-	that dad wears⋯
+	that dad wears…
 	"""
 	keyWait
 	end
@@ -224037,7 +224037,7 @@ script 7 mmbn3 {
 	"""
 	Hey,you're right!
 	Does that mean that
-	this is⋯
+	this is…
 	"""
 	keyWait
 	clearMsg
@@ -224052,7 +224052,7 @@ script 8 mmbn3 {
 	"""
 	But I don't remember
 	a room like this
-	being there⋯
+	being there…
 	"""
 	keyWait
 	clearMsg
@@ -224066,7 +224066,7 @@ script 9 mmbn3 {
 	"""
 	This must be SciLab
 	some time in the
-	past⋯
+	past…
 	"""
 	keyWait
 	clearMsg
@@ -224121,8 +224121,8 @@ script 13 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Gr⋯
-	Gramps⋯!!
+	Gr…
+	Gramps…!!
 	"""
 	keyWait
 	clearMsg
@@ -224146,8 +224146,8 @@ script 14 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	So you must be⋯
-	Lan⋯And that Navi⋯
+	So you must be…
+	Lan…And that Navi…
 	You would be Hub?
 	"""
 	keyWait
@@ -224195,20 +224195,20 @@ script 17 mmbn3 {
 	mugshotShow
 		mugshot = TadashiHikari
 	msgOpen
-	"⋯Wily?"
+	"…Wily?"
 	keyWait
 	clearMsg
 	"""
 	I see. So you used
 	the Pulse
-	Transmission System⋯
+	Transmission System…
 	"""
 	keyWait
 	clearMsg
 	"""
 	Wily was once a
 	brilliant and
-	ambitious scientist⋯
+	ambitious scientist…
 	"""
 	keyWait
 	clearMsg
@@ -224226,8 +224226,8 @@ script 18 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	He was swallowed up⋯
-	By Alpha⋯
+	He was swallowed up…
+	By Alpha…
 	"""
 	keyWait
 	clearMsg
@@ -224238,13 +224238,13 @@ script 19 mmbn3 {
 	mugshotShow
 		mugshot = TadashiHikari
 	msgOpen
-	"I see⋯"
+	"I see…"
 	keyWait
 	clearMsg
 	"""
 	This never would
 	have happened if he
-	hadn't gone astray⋯
+	hadn't gone astray…
 	"""
 	keyWait
 	clearMsg
@@ -224418,7 +224418,7 @@ script 27 mmbn3 {
 	"""
 	I'm already a thing
 	of the past. Now
-	that Alpha is gone⋯
+	that Alpha is gone…
 	"""
 	keyWait
 	clearMsg
@@ -224499,7 +224499,7 @@ script 31 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"⋯OK."
+	"…OK."
 	keyWait
 	clearMsg
 	flagSet
@@ -224514,7 +224514,7 @@ script 32 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Gramps⋯"
+	"Gramps…"
 	keyWait
 	clearMsg
 	"""
@@ -224620,7 +224620,7 @@ script 2 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Yeah⋯"
+	"Yeah…"
 	keyWait
 	end
 }
@@ -224654,7 +224654,7 @@ script 5 mmbn3 {
 		frames = 90
 	mugshotHide
 	msgOpen
-	"⋯an! ⋯Lan⋯!"
+	"…an! …Lan…!"
 	keyWait
 	clearMsg
 	jump
@@ -224665,8 +224665,8 @@ script 6 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	⋯Huh⋯?
-	Me⋯Mega⋯Man⋯
+	…Huh…?
+	Me…Mega…Man…
 	"""
 	keyWait
 	clearMsg
@@ -224712,14 +224712,14 @@ script 9 mmbn3 {
 	"""
 	We're in Alpha,I
 	think. We've been in
-	here for some time⋯
+	here for some time…
 	"""
 	keyWait
 	clearMsg
 	"""
 	I can feel Alpha
 	creeping inside
-	of me⋯
+	of me…
 	"""
 	keyWait
 	clearMsg
@@ -224744,7 +224744,7 @@ script 11 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"⋯Looks that way."
+	"…Looks that way."
 	keyWait
 	clearMsg
 	"""
@@ -224756,7 +224756,7 @@ script 11 mmbn3 {
 	clearMsg
 	"""
 	We'll disappear,
-	along with Alpha⋯
+	along with Alpha…
 	"""
 	keyWait
 	clearMsg
@@ -224767,7 +224767,7 @@ script 12 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"No⋯!!"
+	"No…!!"
 	keyWait
 	clearMsg
 	"""
@@ -224787,7 +224787,7 @@ script 13 mmbn3 {
 	msgOpen
 	"""
 	There's only
-	one way⋯
+	one way…
 	"""
 	keyWait
 	clearMsg
@@ -224807,7 +224807,7 @@ script 13 mmbn3 {
 	clearMsg
 	"""
 	You can use that
-	hole to escape⋯
+	hole to escape…
 	"""
 	keyWait
 	clearMsg
@@ -224851,7 +224851,7 @@ script 15 mmbn3 {
 	"""
 	Lan,these are my
 	final words as Hub
-	Hikari⋯
+	Hikari…
 	"""
 	keyWait
 	clearMsg
@@ -224863,8 +224863,8 @@ script 15 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	I will⋯
-	Always be with you⋯
+	I will…
+	Always be with you…
 	"""
 	keyWait
 	clearMsg
@@ -224898,27 +224898,27 @@ script 17 mmbn3 {
 	"""
 	Meeting you,playing
 	with you,fighting
-	with you⋯
+	with you…
 	"""
 	keyWait
 	clearMsg
 	"""
 	Every day that I
 	spent with you was
-	a happy one⋯
+	a happy one…
 	"""
 	keyWait
 	clearMsg
 	"""
 	And finally I have
 	been able to meet
-	you face-to-face⋯
+	you face-to-face…
 	"""
 	keyWait
 	clearMsg
 	"""
 	I've never been
-	happier⋯
+	happier…
 	"""
 	keyWait
 	clearMsg
@@ -224932,7 +224932,7 @@ script 17 mmbn3 {
 	"""
 	I'm so proud to have
 	had a brother like
-	you⋯
+	you…
 	"""
 	keyWait
 	clearMsg
@@ -224943,7 +224943,7 @@ script 18 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"H⋯Hub⋯"
+	"H…Hub…"
 	keyWait
 	clearMsg
 	"""
@@ -224952,7 +224952,7 @@ script 18 mmbn3 {
 	"""
 	keyWait
 	clearMsg
-	"But⋯But⋯"
+	"But…But…"
 	keyWait
 	clearMsg
 	jump
@@ -224989,8 +224989,8 @@ script 20 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	⋯I can't do it,
-	MegaMan⋯
+	…I can't do it,
+	MegaMan…
 	"""
 	keyWait
 	clearMsg
@@ -225047,7 +225047,7 @@ script 0 mmbn3 {
 	mugshotHide
 	msgOpen
 	"""
-	⋯an!⋯Lan⋯!
+	…an!…Lan…!
 	Lan!!
 	"""
 	keyWait
@@ -225060,9 +225060,9 @@ script 1 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	⋯Huh?⋯Wha?⋯
-	OK,MegaMan⋯
-	⋯I'll wake up⋯
+	…Huh?…Wha?…
+	OK,MegaMan…
+	…I'll wake up…
 	"""
 	keyWait
 	end
@@ -225082,7 +225082,7 @@ script 3 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Huh⋯? Dex?"
+	"Huh…? Dex?"
 	keyWait
 	clearMsg
 	jump
@@ -225109,7 +225109,7 @@ script 5 mmbn3 {
 	"""
 	What are you doing
 	waking me up?
-	⋯Wait!
+	…Wait!
 	"""
 	keyWait
 	clearMsg
@@ -225144,7 +225144,7 @@ script 7 mmbn3 {
 	"""
 	Well,I guess you did
 	it,Lan. Alpha has
-	completely stopped⋯
+	completely stopped…
 	"""
 	keyWait
 	clearMsg
@@ -225183,13 +225183,13 @@ script 9 mmbn3 {
 	clearMsg
 	"""
 	I'm the worst
-	operator there is⋯
+	operator there is…
 	"""
 	keyWait
 	clearMsg
 	"""
-	MegaMan is gone⋯
-	Just to protect me⋯
+	MegaMan is gone…
+	Just to protect me…
 	"""
 	keyWait
 	clearMsg
@@ -225203,7 +225203,7 @@ script 10 mmbn3 {
 	"""
 	What are you talking
 	about? MegaMan can't
-	be gone⋯
+	be gone…
 	"""
 	keyWait
 	clearMsg
@@ -225227,7 +225227,7 @@ script 12 mmbn3 {
 	"""
 	Let's go,Lan. This
 	island is sinking
-	from the battle⋯
+	from the battle…
 	"""
 	keyWait
 	clearMsg
@@ -225316,10 +225316,10 @@ script 18 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Oh⋯"
+	"Oh…"
 	keyWait
 	clearMsg
-	"⋯MegaMan⋯"
+	"…MegaMan…"
 	keyWait
 	end
 }
@@ -225328,8 +225328,8 @@ script 19 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Yeah,MegaMan⋯
-	I understand⋯
+	Yeah,MegaMan…
+	I understand…
 	"""
 	keyWait
 	clearMsg
@@ -225383,7 +225383,7 @@ script 0 mmbn3 {
 	msgOpen
 	"""
 	Ten hours after the
-	WWW's attack⋯
+	WWW's attack…
 	"""
 	keyWait
 	clearMsg
@@ -225461,7 +225461,7 @@ script 3 mmbn3 {
 		mugshot = Tora
 	msgOpen
 	"""
-	Wow,I'm tired⋯
+	Wow,I'm tired…
 	I'm surprised this
 	old boat made it!
 	"""
@@ -225727,7 +225727,7 @@ script 19 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	⋯⋯⋯
+	………
 	But it's kinda cute.
 	・
 	"""
@@ -225749,7 +225749,7 @@ script 20 mmbn3 {
 	mugshotShow
 		mugshot = Chaud
 	msgOpen
-	"⋯⋯"
+	"……"
 	keyWait
 	clearMsg
 	jump
@@ -225781,7 +225781,7 @@ script 22 mmbn3 {
 	"・"
 	waitSkip
 		frames = 30
-	" father?⋯"
+	" father?…"
 	keyWait
 	clearMsg
 	jump
@@ -225801,7 +225801,7 @@ script 24 mmbn3 {
 	mugshotShow
 		mugshot = Chaud
 	msgOpen
-	"⋯Father⋯"
+	"…Father…"
 	keyWait
 	clearMsg
 	"・"
@@ -225855,14 +225855,14 @@ script 25 mmbn3 {
 	"""
 	Very well.
 	I'll retract my
-	praise for now⋯
+	praise for now…
 	"""
 	keyWait
 	clearMsg
 	"""
 	I must get going.
 	I have
-	an appointment⋯
+	an appointment…
 	"""
 	keyWait
 	clearMsg
@@ -225873,7 +225873,7 @@ script 26 mmbn3 {
 	mugshotShow
 		mugshot = Chaud
 	msgOpen
-	"Yes,sir⋯"
+	"Yes,sir…"
 	keyWait
 	clearMsg
 	jump
@@ -225885,7 +225885,7 @@ script 27 mmbn3 {
 	mugshotShow
 		mugshot = ChaudsDad
 	msgOpen
-	"⋯"
+	"…"
 	wait
 		frames = 60
 	"""
@@ -225903,7 +225903,7 @@ script 28 mmbn3 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	I⋯
+	I…
 	I can eat with you?
 	"""
 	keyWait
@@ -225929,7 +225929,7 @@ script 30 mmbn3 {
 	mugshotShow
 		mugshot = Chaud
 	msgOpen
-	"No,father⋯"
+	"No,father…"
 	keyWait
 	flagClear
 		flag = 2626
@@ -225994,7 +225994,7 @@ script 34 mmbn3 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	⋯Fine,I'll accept
+	…Fine,I'll accept
 	your thanks,then.
 	"""
 	keyWait
@@ -226023,7 +226023,7 @@ script 36 mmbn3 {
 	mugshotShow
 		mugshot = Chaud
 	msgOpen
-	"⋯Your Navi."
+	"…Your Navi."
 	keyWait
 	clearMsg
 	"""
@@ -226040,7 +226040,7 @@ script 37 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	⋯I think I'll try
+	…I think I'll try
 	things on my own,
 	for a while.
 	"""
@@ -226053,7 +226053,7 @@ script 37 mmbn3 {
 	"""
 	keyWait
 	clearMsg
-	"I⋯"
+	"I…"
 	waitSkip
 		frames = 30
 	"""
@@ -226073,7 +226073,7 @@ script 38 mmbn3 {
 		frames = 60
 	"""
 	I guess I shouldn't
-	have asked that⋯
+	have asked that…
 	"""
 	keyWait
 	clearMsg
@@ -226106,7 +226106,7 @@ script 40 mmbn3 {
 	msgOpen
 	"""
 	Don't worry. I'll
-	get you for that⋯
+	get you for that…
 	Someday.
 	"""
 	keyWait
@@ -226124,7 +226124,7 @@ script 41 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Chaud⋯"
+	"Chaud…"
 	keyWait
 	clearMsg
 	"I will! You bet!"
@@ -226138,7 +226138,7 @@ script 42 mmbn3 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Hmm⋯
+	Hmm…
 	I'll look forward
 	to it.
 	"""
@@ -226178,7 +226178,7 @@ script 45 mmbn3 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	What a dope⋯
+	What a dope…
 	Just get going!
 	"""
 	keyWait
@@ -226191,7 +226191,7 @@ script 46 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Well,whatever⋯
+	Well,whatever…
 	See ya!
 	"""
 	keyWait
@@ -226203,7 +226203,7 @@ script 47 mmbn3 {
 	msgOpen
 	waitSkip
 		frames = 30
-	"Lan⋯"
+	"Lan…"
 	keyWait
 	clearMsg
 	jump
@@ -226283,7 +226283,7 @@ script 52 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Huh?⋯Oh."
+	"Huh?…Oh."
 	wait
 		frames = 60
 	keyWait
@@ -226319,7 +226319,7 @@ script 54 mmbn3 {
 	mugshotShow
 		mugshot = Mayl
 	msgOpen
-	"⋯Sob!"
+	"…Sob!"
 	keyWait
 	clearMsg
 	jump
@@ -226350,7 +226350,7 @@ script 56 mmbn3 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	⋯Sob!
+	…Sob!
 	I'm just relieved to
 	see you back safe.
 	"""
@@ -226359,7 +226359,7 @@ script 56 mmbn3 {
 	"""
 	I was afraid you
 	wouldn't make it
-	back⋯
+	back…
 	"""
 	keyWait
 	clearMsg
@@ -226445,7 +226445,7 @@ script 61 mmbn3 {
 	msgOpen
 	"""
 	Well it's good to
-	hear that he's OK⋯
+	hear that he's OK…
 	"""
 	keyWait
 	clearMsg
@@ -226477,7 +226477,7 @@ script 63 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Maybe so⋯"
+	"Maybe so…"
 	keyWait
 	clearMsg
 	jump
@@ -226487,7 +226487,7 @@ script 64 mmbn3 {
 	mugshotShow
 		mugshot = Tora
 	msgOpen
-	"⋯Ha ha!"
+	"…Ha ha!"
 	keyWait
 	clearMsg
 	"""
@@ -226669,8 +226669,8 @@ script 74 mmbn3 {
 	msgOpen
 	"""
 	And so the rivals
-	part⋯That makes a
-	nice picture,too⋯
+	part…That makes a
+	nice picture,too…
 	"""
 	keyWait
 	end
@@ -226679,7 +226679,7 @@ script 75 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Dad⋯"
+	"Dad…"
 	keyWait
 	clearMsg
 	jump
@@ -226757,7 +226757,7 @@ script 80 mmbn3 {
 	msgOpen
 	waitSkip
 		frames = 60
-	"It's not that⋯"
+	"It's not that…"
 	keyWait
 	end
 }
@@ -226767,27 +226767,27 @@ script 81 mmbn3 {
 	"""
 	After that,I told
 	dad about all that
-	happened that day⋯
+	happened that day…
 	"""
 	keyWait
 	clearMsg
 	"""
-	About MegaMan⋯
-	About Wily⋯
-	About Cossak⋯
+	About MegaMan…
+	About Wily…
+	About Cossak…
 	"""
 	keyWait
 	clearMsg
 	"""
 	I think I told him
 	everything that I
-	could remember⋯
+	could remember…
 	"""
 	keyWait
 	clearMsg
 	"""
 	And then,a little
-	after I finished⋯
+	after I finished…
 	"""
 	waitSkip
 		frames = 60
@@ -226825,7 +226825,7 @@ script 82 mmbn3 {
 	clearMsg
 	"""
 	It looks like that
-	was a huge mistake⋯
+	was a huge mistake…
 	"""
 	keyWait
 	clearMsg
@@ -226852,7 +226852,7 @@ script 83 mmbn3 {
 	mugshotShow
 		mugshot = Mom
 	msgOpen
-	"Honey⋯"
+	"Honey…"
 	keyWait
 	clearMsg
 	jump
@@ -226872,7 +226872,7 @@ script 84 mmbn3 {
 	"""
 	Maybe it was a
 	terrible thing that
-	I did to Hub⋯
+	I did to Hub…
 	"""
 	keyWait
 	clearMsg
@@ -226886,7 +226886,7 @@ script 84 mmbn3 {
 	"""
 	losing a brother,
 	and of losing
-	MegaMan⋯
+	MegaMan…
 	"""
 	keyWait
 	clearMsg
@@ -226928,7 +226928,7 @@ script 85 mmbn3 {
 	"""
 	But I loved just
 	being able to
-	be with him⋯
+	be with him…
 	"""
 	keyWait
 	clearMsg
@@ -226947,8 +226947,8 @@ script 86 mmbn3 {
 		mugshot = Dad
 	msgOpen
 	"""
-	But⋯Lan⋯
-	MegaMan is⋯
+	But…Lan…
+	MegaMan is…
 	"""
 	keyWait
 	clearMsg
@@ -227041,7 +227041,7 @@ script 91 mmbn3 {
 	"""
 	A letter from Pop?
 	This seems to be
-	encoded text data⋯
+	encoded text data…
 	"""
 	keyWait
 	clearMsg
@@ -227082,7 +227082,7 @@ script 93 mmbn3 {
 	mugshotShow
 		mugshot = Dad
 	msgOpen
-	"⋯"
+	"…"
 	waitSkip
 		frames = 30
 	"Yes,I did."
@@ -227091,7 +227091,7 @@ script 93 mmbn3 {
 	"""
 	I know that I told
 	you that Gramps was
-	dead⋯
+	dead…
 	"""
 	keyWait
 	clearMsg
@@ -227117,7 +227117,7 @@ script 94 mmbn3 {
 	msgOpen
 	waitSkip
 		frames = 30
-	"Oh⋯"
+	"Oh…"
 	keyWait
 	clearMsg
 	jump
@@ -227167,7 +227167,7 @@ script 97 mmbn3 {
 	mugshotShow
 		mugshot = Dad
 	msgOpen
-	"Thank you,Lan⋯"
+	"Thank you,Lan…"
 	keyWait
 	clearMsg
 	jump
@@ -227177,7 +227177,7 @@ script 98 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Huh⋯"
+	"Huh…"
 	keyWait
 	clearMsg
 	"・"
@@ -227198,7 +227198,7 @@ script 98 mmbn3 {
 	clearMsg
 	"""
 	I'm going to go
-	get some air⋯
+	get some air…
 	"""
 	keyWait
 	clearMsg
@@ -227209,7 +227209,7 @@ script 99 mmbn3 {
 	mugshotShow
 		mugshot = Dad
 	msgOpen
-	"OK⋯"
+	"OK…"
 	keyWait
 	end
 }
@@ -227229,7 +227229,7 @@ script 100 mmbn3 {
 	"""
 	He's trying to act
 	strong,but deep down
-	I'm sure he's sad⋯
+	I'm sure he's sad…
 	"""
 	keyWait
 	clearMsg
@@ -227243,7 +227243,7 @@ script 101 mmbn3 {
 		mugshot = Dad
 	msgOpen
 	"""
-	I'm sure he is⋯
+	I'm sure he is…
 	But he's a tough
 	kid. He'll be OK.
 	"""
@@ -227272,7 +227272,7 @@ script 102 mmbn3 {
 	"""
 	MegaMan,
 	I'll do my best
-	on my own⋯
+	on my own…
 	"""
 	waitSkip
 		frames = 60
@@ -227302,11 +227302,11 @@ script 102 mmbn3 {
 		frames = 30
 	"""
 	・
-	By⋯
+	By…
 	"""
 	waitSkip
 		frames = 30
-	"myself⋯"
+	"myself…"
 	waitSkip
 		frames = 30
 	keyWait
@@ -227355,7 +227355,7 @@ script 105 mmbn3 {
 	msgOpen
 	waitSkip
 		frames = 120
-	"You guys⋯"
+	"You guys…"
 	keyWait
 	clearMsg
 	jump
@@ -227404,7 +227404,7 @@ script 109 mmbn3 {
 	mugshotShow
 		mugshot = Chaud
 	msgOpen
-	"Hmm⋯"
+	"Hmm…"
 	keyWait
 	clearMsg
 	jump
@@ -227463,15 +227463,15 @@ script 112 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Shun⋯Mamoru⋯
-	All of you⋯
+	Shun…Mamoru…
+	All of you…
 	"""
 	keyWait
 	clearMsg
 	"""
 	You're right.
 	I guess I'm not
-	alone⋯
+	alone…
 	"""
 	keyWait
 	clearMsg
@@ -227568,7 +227568,7 @@ script 115 mmbn3 {
 	"""
 	The letter from
 	Gramps is still
-	being decoded⋯
+	being decoded…
 	"""
 	keyWait
 	clearMsg
@@ -227617,7 +227617,7 @@ script 116 mmbn3 {
 	clearMsg
 	"""
 	I've done OK,these
-	last four months⋯
+	last four months…
 	"""
 	keyWait
 	clearMsg
@@ -227652,7 +227652,7 @@ script 118 mmbn3 {
 	"""
 	Oh,it's mail!
 	Oops,I'm at the
-	wrong meeting place⋯
+	wrong meeting place…
 	"""
 	keyWait
 	end
@@ -227665,7 +227665,7 @@ script 119 mmbn3 {
 		frames = 30
 	"""
 	I figured it was
-	something like that⋯
+	something like that…
 	"""
 	keyWait
 	end
@@ -227684,14 +227684,14 @@ script 120 mmbn3 {
 	"""
 	Dad's going to get
 	me a new Navi
-	tomorrow⋯
+	tomorrow…
 	"""
 	keyWait
 	clearMsg
 	"""
 	At first I told him
 	no,but 6th graders
-	have to have one⋯
+	have to have one…
 	"""
 	keyWait
 	clearMsg
@@ -227704,14 +227704,14 @@ script 120 mmbn3 {
 	clearMsg
 	"""
 	Even if I get a new
-	Navi⋯Even if I grow
-	up⋯
+	Navi…Even if I grow
+	up…
 	"""
 	keyWait
 	clearMsg
 	"""
 	We'll always
-	be together⋯
+	be together…
 	"""
 	keyWait
 	clearMsg
@@ -227771,21 +227771,21 @@ script 0 mmbn3 {
 	mugshotHide
 	msgOpen
 	"""
-	⋯Where⋯ am I⋯?
-	⋯Am I⋯ alive⋯?
+	…Where… am I…?
+	…Am I… alive…?
 	"""
 	keyWait
 	clearMsg
-	"⋯Grrr⋯Growwwll⋯"
+	"…Grrr…Growwwll…"
 	keyWait
 	clearMsg
 	"""
-	⋯What do⋯you want⋯?
-	⋯Will you save me?
+	…What do…you want…?
+	…Will you save me?
 	"""
 	keyWait
 	clearMsg
-	"Grrr⋯Roarrr!!"
+	"Grrr…Roarrr!!"
 	keyWait
 	end
 }
@@ -227891,13 +227891,13 @@ script 8 mmbn3 {
 	"""
 	6th grade,huh? Now
 	that it's almost
-	here,I'm nervous⋯
+	here,I'm nervous…
 	"""
 	keyWait
 	clearMsg
 	"""
 	I hope I can get
-	to sleep⋯
+	to sleep…
 	"""
 	keyWait
 	clearMsg
@@ -227908,9 +227908,9 @@ script 9 mmbn3 {
 	mugshotHide
 	msgOpen
 	"""
-	⋯⋯⋯⋯⋯⋯⋯⋯⋯
-	⋯⋯⋯⋯⋯⋯⋯⋯⋯
-	⋯⋯ZZZzzz⋯⋯
+	………………………
+	………………………
+	……ZZZzzz……
 	"""
 	keyWait
 	clearMsg
@@ -227938,7 +227938,7 @@ script 10 mmbn3 {
 	"""
 	That's too bad. I
 	wanted to give him
-	this⋯
+	this…
 	"""
 	keyWait
 	clearMsg
@@ -227953,7 +227953,7 @@ script 10 mmbn3 {
 	clearMsg
 	"""
 	I hope that he'll
-	use it⋯
+	use it…
 	"""
 	keyWait
 	clearMsg
@@ -228025,14 +228025,14 @@ script 10 mmbn3 {
 	"""
 	That's just like
 	him,isn't it?
-	And there's more⋯
+	And there's more…
 	"""
 	keyWait
 	clearMsg
 	"""
 	It talks about a
 	certain area inside
-	of Alpha⋯
+	of Alpha…
 	"""
 	keyWait
 	clearMsg
@@ -228056,12 +228056,12 @@ script 10 mmbn3 {
 	"""
 	We didn't find that
 	area in our initial
-	search,but then⋯
+	search,but then…
 	"""
 	keyWait
 	clearMsg
 	"""
-	⋯You found it
+	…You found it
 	yesterday,right?
 	What was in it?
 	"""
@@ -228104,7 +228104,7 @@ script 11 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Mm⋯Morning already?
+	Mm…Morning already?
 	yaaawn
 	"""
 	waitSkip
@@ -228580,7 +228580,7 @@ script 19 mmbn3 {
 	mugshotShow
 		mugshot = HeelNavi
 	msgOpen
-	"Time to deletion⋯\n"
+	"Time to deletion…\n"
 	printBuffer
 		minLength = 2
 		padZeros = true
@@ -228874,8 +228874,8 @@ script 2 mmbn3 {
 		mugshot = DarkMan
 	msgOpen
 	"""
-	Shhh⋯Shhh⋯
-	⋯Shhh⋯
+	Shhh…Shhh…
+	…Shhh…
 	"""
 	keyWait
 	clearMsg
@@ -228899,7 +228899,7 @@ script 4 mmbn3 {
 	mugshotShow
 		mugshot = DarkMan
 	msgOpen
-	"Shhh⋯"
+	"Shhh…"
 	keyWait
 	end
 }
@@ -228908,9 +228908,9 @@ script 5 mmbn3 {
 		mugshot = DarkMan
 	msgOpen
 	"""
-	Shhh⋯
-	Number 9634⋯
-	⋯⋯Shhh⋯
+	Shhh…
+	Number 9634…
+	……Shhh…
 	"""
 	keyWait
 	clearMsg
@@ -228931,34 +228931,34 @@ script 7 mmbn3 {
 	mugshotShow
 		mugshot = DarkMan
 	msgOpen
-	"Shhh⋯Shhh⋯"
+	"Shhh…Shhh…"
 	keyWait
 	clearMsg
 	"""
 	My name is DarkMan.
 	I am an assassin
-	of the darkness⋯
+	of the darkness…
 	"""
 	keyWait
 	clearMsg
 	"""
 	After I am done with
 	you,I will need only
-	366 more kills⋯
+	366 more kills…
 	"""
 	keyWait
 	clearMsg
 	"""
 	Until my goal of
 	10000!
-	Shhh⋯
+	Shhh…
 	"""
 	keyWait
 	clearMsg
 	"""
 	Please don't take
-	this personally⋯
-	Shhh⋯
+	this personally…
+	Shhh…
 	"""
 	keyWait
 	clearMsg
@@ -229010,7 +229010,7 @@ script 11 mmbn3 {
 	msgOpen
 	"""
 	Prepare to enter
-	the dark⋯Forever!
+	the dark…Forever!
 	"""
 	keyWait
 	end
@@ -229025,7 +229025,7 @@ script 0 mmbn3 {
 	"""
 	You will be sorry
 	that I didn't
-	delete you⋯
+	delete you…
 	"""
 	keyWait
 	clearMsg
@@ -229042,7 +229042,7 @@ script 0 mmbn3 {
 	"""
 	keyWait
 	clearMsg
-	"Rrrrgghhh⋯"
+	"Rrrrgghhh…"
 	keyWait
 	end
 }
@@ -229051,7 +229051,7 @@ script 1 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	That DarkMan⋯
+	That DarkMan…
 	He was stronger than
 	a ranked operator!
 	"""
@@ -229066,7 +229066,7 @@ script 1 mmbn3 {
 	clearMsg
 	"""
 	And the "UnderKing",
-	Serenade⋯?
+	Serenade…?
 	"""
 	keyWait
 	clearMsg
@@ -229080,7 +229080,7 @@ script 2 mmbn3 {
 	"""
 	Yeah,this area seems
 	different from all
-	the others⋯
+	the others…
 	"""
 	keyWait
 	clearMsg
@@ -229097,7 +229097,7 @@ script 3 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"I agree⋯"
+	"I agree…"
 	keyWait
 	end
 }
@@ -229156,7 +229156,7 @@ script 3 mmbn3 {
 	msgOpen
 	"""
 	What's this guy's
-	problem⋯?
+	problem…?
 	"""
 	keyWait
 	clearMsg
@@ -229170,7 +229170,7 @@ script 4 mmbn3 {
 	"""
 	Watch out for him,
 	Lan. He looks pretty
-	good with a spear⋯
+	good with a spear…
 	"""
 	keyWait
 	clearMsg
@@ -229197,7 +229197,7 @@ script 5 mmbn3 {
 	"""
 	I usually don't like
 	to take on kids,but
-	orders are orders⋯
+	orders are orders…
 	"""
 	keyWait
 	clearMsg
@@ -229249,12 +229249,12 @@ script 0 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Serenade⋯!
-	Please forgive me⋯!
+	Serenade…!
+	Please forgive me…!
 	"""
 	keyWait
 	clearMsg
-	"⋯Arrrgh!!"
+	"…Arrrgh!!"
 	keyWait
 	end
 }
@@ -229262,13 +229262,13 @@ script 1 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Wow,was he strong⋯"
+	"Wow,was he strong…"
 	keyWait
 	clearMsg
 	"""
 	Looks like he was
 	one of Serenade's
-	followers⋯
+	followers…
 	"""
 	keyWait
 	clearMsg
@@ -229288,7 +229288,7 @@ script 2 mmbn3 {
 	clearMsg
 	"""
 	I can't even
-	imagine⋯
+	imagine…
 	"""
 	keyWait
 	clearMsg
@@ -229299,7 +229299,7 @@ script 3 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Yeah⋯"
+	"Yeah…"
 	keyWait
 	end
 }
@@ -229319,7 +229319,7 @@ script 1 mmbn3 {
 	"""
 	DarkMan waited,
 	patiently seeking a
-	duel with me⋯
+	duel with me…
 	"""
 	keyWait
 	clearMsg
@@ -229363,7 +229363,7 @@ script 2 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"So you're⋯Serenade!"
+	"So you're…Serenade!"
 	keyWait
 	clearMsg
 	jump
@@ -229389,7 +229389,7 @@ script 4 mmbn3 {
 	msgOpen
 	"""
 	Wow,I was worried
-	about this Serenade⋯
+	about this Serenade…
 	but he's so small!!
 	"""
 	keyWait
@@ -229449,7 +229449,7 @@ script 6 mmbn3 {
 	clearMsg
 	"""
 	That is because the
-	source of my power⋯
+	source of my power…
 	is mercy.
 	"""
 	keyWait
@@ -229461,7 +229461,7 @@ script 7 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"\"Mercy\"⋯?"
+	"\"Mercy\"…?"
 	keyWait
 	clearMsg
 	jump
@@ -229530,7 +229530,7 @@ script 12 mmbn3 {
 	mugshotShow
 		mugshot = Serenade
 	msgOpen
-	"Come to me⋯"
+	"Come to me…"
 	keyWait
 	end
 }
@@ -229600,7 +229600,7 @@ script 2 mmbn3 {
 	clearMsg
 	"""
 	But He is trying to
-	reawaken⋯
+	reawaken…
 	"""
 	keyWait
 	clearMsg
@@ -229611,7 +229611,7 @@ script 3 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"\"He\"⋯?"
+	"\"He\"…?"
 	keyWait
 	clearMsg
 	jump
@@ -229624,7 +229624,7 @@ script 4 mmbn3 {
 	"""
 	It seems that you
 	have fought with
-	Him before⋯
+	Him before…
 	"""
 	keyWait
 	clearMsg
@@ -229644,7 +229644,7 @@ script 4 mmbn3 {
 	"""
 	I came very close to
 	being deleted
-	myself⋯
+	myself…
 	"""
 	keyWait
 	clearMsg
@@ -229678,14 +229678,14 @@ script 4 mmbn3 {
 	"""
 	made more powerful
 	with the bugs that
-	he absorbs⋯
+	he absorbs…
 	"""
 	keyWait
 	clearMsg
 	"""
 	He uses these bug
 	fragments to heal
-	his wounds⋯
+	his wounds…
 	"""
 	keyWait
 	clearMsg
@@ -229697,8 +229697,8 @@ script 5 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Heals his wounds⋯?
-	With bugs⋯?
+	Heals his wounds…?
+	With bugs…?
 	"""
 	keyWait
 	clearMsg
@@ -229730,7 +229730,7 @@ script 7 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"⋯⋯"
+	"……"
 	keyWait
 	clearMsg
 	jump
@@ -229743,11 +229743,11 @@ script 8 mmbn3 {
 	"""
 	MegaMan,we shall
 	meet again,in some
-	other place⋯
+	other place…
 	"""
 	keyWait
 	clearMsg
-	"Farewell⋯"
+	"Farewell…"
 	keyWait
 	flagSet
 		flag = 2625
@@ -229767,7 +229767,7 @@ script 10 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"He's gone⋯"
+	"He's gone…"
 	keyWait
 	clearMsg
 	jump
@@ -229777,12 +229777,12 @@ script 11 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Yeah⋯"
+	"Yeah…"
 	keyWait
 	clearMsg
 	"""
 	The incarnation of
-	destruction⋯Awakens
+	destruction…Awakens
 	with a howl?
 	"""
 	keyWait
@@ -229794,7 +229794,7 @@ script 12 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Yeah⋯"
+	"Yeah…"
 	keyWait
 	clearMsg
 	"""
@@ -229807,7 +229807,7 @@ script 12 mmbn3 {
 	"""
 	We'll have to
 	do something
-	about it⋯
+	about it…
 	"""
 	keyWait
 	clearMsg
@@ -229831,7 +229831,7 @@ script 0 mmbn3 {
 	soundPlay
 		track = 136
 	soundDisableTextSFX
-	"Grrrrr⋯"
+	"Grrrrr…"
 	wait
 		frames = 120
 	soundEnableTextSFX
@@ -229873,7 +229873,7 @@ script 3 mmbn3 {
 	clearMsg
 	"""
 	Like an animal
-	growling⋯
+	growling…
 	"""
 	keyWait
 	clearMsg
@@ -229886,7 +229886,7 @@ script 4 mmbn3 {
 	msgOpen
 	"""
 	Huh? I didn't
-	hear anything⋯
+	hear anything…
 	"""
 	keyWait
 	clearMsg
@@ -229913,8 +229913,8 @@ script 6 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	⋯But I heard that!
-	Could that be⋯?
+	…But I heard that!
+	Could that be…?
 	"""
 	keyWait
 	end
@@ -229923,7 +229923,7 @@ script 7 mmbn3 {
 	soundStop
 	mugshotHide
 	msgOpen
-	"I have awakened⋯"
+	"I have awakened…"
 	keyWait
 	clearMsg
 	jump
@@ -229936,7 +229936,7 @@ script 8 mmbn3 {
 	"""
 	I sense a powerful
 	force approaching
-	us⋯
+	us…
 	"""
 	keyWait
 	end
@@ -229955,7 +229955,7 @@ script 10 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Bass⋯!!"
+	"Bass…!!"
 	keyWait
 	clearMsg
 	jump
@@ -229967,7 +229967,7 @@ script 11 mmbn3 {
 	msgOpen
 	"""
 	Bass?
-	Who could that be⋯
+	Who could that be…
 	"""
 	keyWait
 	clearMsg
@@ -229982,9 +229982,9 @@ script 12 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	But⋯
+	But…
 	He's far stronger
-	than before⋯!!
+	than before…!!
 	"""
 	keyWait
 	clearMsg
@@ -229998,20 +229998,20 @@ script 13 mmbn3 {
 	"""
 	I search only for
 	power. I have
-	no name⋯
+	no name…
 	"""
 	keyWait
 	clearMsg
 	"""
 	I exist only to
-	battle⋯
+	battle…
 	"""
 	keyWait
 	clearMsg
 	"""
 	I shall test the
 	power that the bugs
-	gave me⋯On you!
+	gave me…On you!
 	"""
 	keyWait
 	clearMsg
@@ -230066,7 +230066,7 @@ script 0 mmbn3 {
 		mugshot = Bass
 	msgOpen
 	"""
-	How⋯?
+	How…?
 	It is impossible
 	to defeat me!
 	"""
@@ -230081,7 +230081,7 @@ script 0 mmbn3 {
 	"""
 	I have far more
 	power than you!
-	How⋯?
+	How…?
 	"""
 	keyWait
 	clearMsg
@@ -230158,7 +230158,7 @@ script 4 mmbn3 {
 		mugshot = Bass
 	msgOpen
 	"""
-	⋯⋯⋯
+	………
 	I trust no one
 	but myself!
 	"""
@@ -230184,25 +230184,25 @@ script 6 mmbn3 {
 	mugshotShow
 		mugshot = Bass
 	msgOpen
-	"⋯⋯⋯"
+	"………"
 	keyWait
 	clearMsg
 	"""
-	Urrgh⋯! Who is this
+	Urrgh…! Who is this
 	man who invades
 	my memory!
 	"""
 	keyWait
 	clearMsg
 	"""
-	What is this⋯
-	feeling? That I⋯
+	What is this…
+	feeling? That I…
 	need him?
 	"""
 	keyWait
 	clearMsg
 	"""
-	⋯⋯⋯
+	………
 	No! Never!
 	I trust no one!!
 	"""
@@ -230234,7 +230234,7 @@ script 8 mmbn3 {
 	"Bass!!"
 	keyWait
 	clearMsg
-	"He's gone⋯"
+	"He's gone…"
 	keyWait
 	clearMsg
 	jump
@@ -230256,7 +230256,7 @@ script 10 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Yes⋯I am⋯"
+	"Yes…I am…"
 	keyWait
 	clearMsg
 	jump
@@ -230280,9 +230280,9 @@ script 12 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I don't know⋯
+	I don't know…
 	But I don't feel his
-	power any more⋯
+	power any more…
 	"""
 	keyWait
 	clearMsg
@@ -230295,14 +230295,14 @@ script 13 mmbn3 {
 	msgOpen
 	"""
 	Did he run away?
-	⋯⋯⋯Or⋯?
+	………Or…?
 	"""
 	keyWait
 	clearMsg
 	"""
 	Wow,if that thing
 	had run loose in
-	Cyberworld⋯
+	Cyberworld…
 	"""
 	keyWait
 	clearMsg
@@ -230343,7 +230343,7 @@ script 15 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"⋯Yeah! You bet!"
+	"…Yeah! You bet!"
 	keyWait
 	clearMsg
 	jump
@@ -230369,7 +230369,7 @@ script 17 mmbn3 {
 	"""
 	Well,now that we're
 	the strongest duo in
-	Cyberworld⋯
+	Cyberworld…
 	"""
 	keyWait
 	clearMsg
@@ -230484,7 +230484,7 @@ script 1 mmbn3 {
 	clearMsg
 	"""
 	You bet on the panel
-	you think is right⋯
+	you think is right…
 	"""
 	keyWait
 	clearMsg
@@ -230659,7 +230659,7 @@ script 6 mmbn3 {
 }
 script 7 mmbn3 {
 	msgOpen
-	"And the winner is⋯!"
+	"And the winner is…!"
 	keyWait
 	end
 }
@@ -230802,7 +230802,7 @@ script 13 mmbn3 {
 		mugshot = NormalNaviGreen
 	msgOpen
 	"""
-	You⋯You've
+	You…You've
 	bankrupted me!
 	"""
 	keyWait
@@ -230824,9 +230824,9 @@ script 16 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	My⋯My money!
+	My…My money!
 	Well,I'll get it
-	back next time⋯
+	back next time…
 	"""
 	keyWait
 	end
@@ -230869,7 +230869,7 @@ script 19 mmbn3 {
 	msgOpen
 	"""
 	You've driven me
-	out of business⋯
+	out of business…
 	"""
 	keyWait
 	end
@@ -232462,7 +232462,7 @@ script 22 mmbn3 {
 		delay = 0
 	color
 		palette = 3
-	"No new mail⋯"
+	"No new mail…"
 	waitHold
 }
 script 24 mmbn3 {
@@ -232766,7 +232766,7 @@ script 41 mmbn3 {
 	waitHold
 }
 script 42 mmbn3s {
-	"RUN⋯"
+	"RUN…"
 	end
 }
 script 43 mmbn3s {
@@ -232888,7 +232888,7 @@ script 46 mmbn3 {
 	color
 		palette = 3
 	"""
-	Hmmm⋯A little
+	Hmmm…A little
 	strange,but
 	I'm OK!
 	"""
@@ -233343,7 +233343,7 @@ script 67 mmbn3 {
 	clearMsg
 	"""
 	The save
-	failed⋯
+	failed…
 	"""
 	keyWait
 	clearMsg
@@ -233483,7 +233483,7 @@ script 80 mmbn3 {
 		palette = 3
 	"""
 	You don't have
-	anything,Lan⋯
+	anything,Lan…
 	"""
 	waitHold
 }
@@ -233870,7 +233870,7 @@ script 92 mmbn3 {
 	clearMsg
 	"""
 	The save
-	failed⋯
+	failed…
 	"""
 	keyWait
 	clearMsg
@@ -234794,7 +234794,7 @@ script 137 mmbn3 {
 	"""
 	Trade
 	complete!
-	But,why⋯?
+	But,why…?
 	"""
 	keyWait
 	waitHold
@@ -234924,7 +234924,7 @@ script 142 mmbn3 {
 	"""
 	Looks like we
 	didn't get
-	anything new⋯
+	anything new…
 	"""
 	keyWait
 	waitHold
@@ -235714,7 +235714,7 @@ script 22 mmbn3 {
 		delay = 0
 	color
 		palette = 3
-	"No new mail⋯"
+	"No new mail…"
 	waitHold
 }
 script 24 mmbn3 {
@@ -236004,7 +236004,7 @@ script 41 mmbn3 {
 	waitHold
 }
 script 42 mmbn3s {
-	"RUN⋯"
+	"RUN…"
 	end
 }
 script 43 mmbn3s {
@@ -236126,7 +236126,7 @@ script 46 mmbn3 {
 	color
 		palette = 3
 	"""
-	Hmmm⋯A little
+	Hmmm…A little
 	strange,but
 	I'm OK!
 	"""
@@ -236568,7 +236568,7 @@ script 67 mmbn3 {
 	clearMsg
 	"""
 	The save
-	failed⋯
+	failed…
 	"""
 	keyWait
 	clearMsg
@@ -236704,7 +236704,7 @@ script 80 mmbn3 {
 		palette = 3
 	"""
 	You don't have
-	anything⋯
+	anything…
 	"""
 	waitHold
 }
@@ -237081,7 +237081,7 @@ script 92 mmbn3 {
 	clearMsg
 	"""
 	The save
-	failed⋯
+	failed…
 	"""
 	keyWait
 	clearMsg
@@ -237953,7 +237953,7 @@ script 137 mmbn3 {
 	"""
 	Trade
 	complete!
-	But,why⋯?
+	But,why…?
 	"""
 	keyWait
 	waitHold
@@ -238079,7 +238079,7 @@ script 142 mmbn3 {
 	"""
 	Looks like we
 	didn't get
-	anything new⋯
+	anything new…
 	"""
 	keyWait
 	waitHold
@@ -238552,7 +238552,7 @@ script 69 mmbn3s {
 	end
 }
 script 70 mmbn3s {
-	"Need to talk⋯"
+	"Need to talk…"
 	end
 }
 script 72 mmbn3s {
@@ -238929,7 +238929,7 @@ script 2 mmbn3 {
 	"""
 	We unlocked the
 	school gate!
-	But it's strange⋯
+	But it's strange…
 	"""
 	keyWait
 	clearMsg
@@ -238962,7 +238962,7 @@ script 3 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	I can't sleep⋯I'm
+	I can't sleep…I'm
 	in the park now.
 	Want to NetBattle?
 	"""
@@ -239256,7 +239256,7 @@ script 8 mmbn3 {
 	"""
 	Lan,I'm sorry I got
 	you involved in all
-	of that⋯
+	of that…
 	"""
 	keyWait
 	clearMsg
@@ -239904,7 +239904,7 @@ script 26 mmbn3 {
 	"""
 	I forgot to tell
 	ya where Rank #9 is.
-	You'll find him⋯
+	You'll find him…
 	"""
 	keyWait
 	clearMsg
@@ -240064,7 +240064,7 @@ script 30 mmbn3 {
 	clearMsg
 	"""
 	I can't stress how
-	powerful Alpha is⋯
+	powerful Alpha is…
 	"""
 	keyWait
 	clearMsg
@@ -240586,7 +240586,7 @@ script 41 mmbn3 {
 	"""
 	Just a quick review
 	of the NaviCust
-	rules⋯
+	rules…
 	"""
 	keyWait
 	clearMsg
@@ -242857,7 +242857,7 @@ script 0 mmbn3 {
 		flag = 163
 	"""
 	You customize by
-	loading programs⋯
+	loading programs…
 	
 	"""
 	waitFlag
@@ -242877,7 +242877,7 @@ script 1 mmbn3 {
 	flagSet
 		flag = 163
 	"""
-	⋯Into his "Memory
+	…Into his "Memory
 	Map,"like this.
 	"""
 	waitFlag
@@ -242912,7 +242912,7 @@ script 2 mmbn3 {
 	"""
 	"
 	from the upper right
-	window to add it⋯
+	window to add it…
 	"""
 	keyWait
 	clearMsg
@@ -242944,12 +242944,12 @@ script 3 mmbn3 {
 	"""
 	That's called the
 	Command Line. You
-	must set programs⋯
+	must set programs…
 	"""
 	keyWait
 	clearMsg
 	"""
-	⋯on the Command Line
+	…on the Command Line
 	before they will
 	begin functioning.
 	"""
@@ -243288,7 +243288,7 @@ script 28 mmbn3 {
 		program = 30
 	"""
 	"
-	and⋯
+	and…
 	"""
 	keyWait
 	flagSet
@@ -243304,7 +243304,7 @@ script 29 mmbn3 {
 		flipY = false
 		palette = 2
 	msgOpenAlt
-	"⋯this \""
+	"…this \""
 	printNaviCustProgram
 		buffer = 0
 		program = 42
@@ -243462,7 +243462,7 @@ script 37 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	I hope he's OK⋯
+	I hope he's OK…
 	MegaMan,how do you
 	feel?
 	"""
@@ -243470,13 +243470,13 @@ script 37 mmbn3 {
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"Mmmmph⋯"
+	"Mmmmph…"
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	"""
-	Mega⋯
+	Mega…
 	MegaMan!?
 	"""
 	keyWait
@@ -243657,7 +243657,7 @@ script 5 mmbn3 {
 	msgOpen
 	"""
 	You've found
-	something⋯
+	something…
 	"""
 	keyWait
 	clearMsg
@@ -243721,7 +243721,7 @@ script 7 mmbn3 {
 }
 script 8 mmbn3 {
 	msgOpen
-	"You found something⋯"
+	"You found something…"
 	keyWait
 	clearMsg
 	playerAnimate
@@ -243749,7 +243749,7 @@ script 8 mmbn3 {
 }
 script 9 mmbn3 {
 	msgOpen
-	"You found something⋯"
+	"You found something…"
 	keyWait
 	clearMsg
 	playerAnimate
@@ -243935,7 +243935,7 @@ script 44 mmbn3 {
 }
 script 45 mmbn3 {
 	msgOpen
-	"You found something⋯"
+	"You found something…"
 	keyWait
 	clearMsg
 	playerAnimate
@@ -244311,7 +244311,7 @@ script 108 mmbn3 {
 		jumpIfTrue = 3
 		jumpIfFalse = continue
 	msgOpen
-	"You found something⋯"
+	"You found something…"
 	keyWait
 	clearMsg
 	playerAnimate
@@ -244356,7 +244356,7 @@ script 113 mmbn3 {
 		jumpIfTrue = 3
 		jumpIfFalse = continue
 	msgOpen
-	"You found something⋯"
+	"You found something…"
 	keyWait
 	clearMsg
 	playerAnimate
@@ -244391,7 +244391,7 @@ script 115 mmbn3 {
 		jumpIfTrue = 3
 		jumpIfFalse = continue
 	msgOpen
-	"You found something⋯"
+	"You found something…"
 	keyWait
 	clearMsg
 	playerAnimate
@@ -244433,7 +244433,7 @@ script 119 mmbn3 {
 		jumpIfTrue = 3
 		jumpIfFalse = continue
 	msgOpen
-	"You found something⋯"
+	"You found something…"
 	keyWait
 	clearMsg
 	startGiveRandomZenny
@@ -244458,7 +244458,7 @@ script 122 mmbn3 {
 		jumpIfTrue = 3
 		jumpIfFalse = continue
 	msgOpen
-	"You found something⋯"
+	"You found something…"
 	keyWait
 	clearMsg
 	startGiveRandomZenny
@@ -244481,7 +244481,7 @@ script 124 mmbn3 {
 		jumpIfTrue = 3
 		jumpIfFalse = continue
 	msgOpen
-	"You found something⋯"
+	"You found something…"
 	keyWait
 	clearMsg
 	playerAnimate
@@ -244517,7 +244517,7 @@ script 126 mmbn3 {
 		jumpIfTrue = 3
 		jumpIfFalse = continue
 	msgOpen
-	"You found something⋯"
+	"You found something…"
 	keyWait
 	clearMsg
 	startGiveRandomZenny
@@ -244536,7 +244536,7 @@ script 127 mmbn3 {
 		jumpIfTrue = 3
 		jumpIfFalse = continue
 	msgOpen
-	"You found something⋯"
+	"You found something…"
 	keyWait
 	clearMsg
 	playerAnimate
@@ -244574,7 +244574,7 @@ script 130 mmbn3 {
 		jumpIfTrue = 3
 		jumpIfFalse = continue
 	msgOpen
-	"You found something⋯"
+	"You found something…"
 	keyWait
 	clearMsg
 	playerAnimate
@@ -244827,7 +244827,7 @@ script 8 mmbn3 {
 		mugshot = MegaMan
 	textSpeed
 		delay = 0
-	"Not enough Zennys⋯"
+	"Not enough Zennys…"
 	keyWait
 	waitHold
 }
@@ -245278,7 +245278,7 @@ script 8 mmbn3 {
 		mugshot = MegaMan
 	textSpeed
 		delay = 0
-	"Not enough BugFrags⋯"
+	"Not enough BugFrags…"
 	keyWait
 	waitHold
 }
@@ -245635,7 +245635,7 @@ script 6 mmbn3 {
 	clearMsg
 	"""
 	OK,I'll send this to
-	NumberMan⋯
+	NumberMan…
 	NumberMan,new order!
 	"""
 	keyWait
@@ -245690,7 +245690,7 @@ script 8 mmbn3 {
 		mugshot = MegaMan
 	textSpeed
 		delay = 0
-	"Not enough Zennys⋯"
+	"Not enough Zennys…"
 	keyWait
 	waitHold
 }
@@ -245840,7 +245840,7 @@ script 24 mmbn3 {
 	"""
 	",huh?
 	I'll see if I can
-	order it⋯ Hmmmm⋯
+	order it… Hmmmm…
 	"""
 	keyWait
 	waitHold
@@ -245858,7 +245858,7 @@ script 25 mmbn3 {
 	"""
 	",huh?
 	I'll see if I can
-	order it⋯ Hmmmm⋯
+	order it… Hmmmm…
 	"""
 	keyWait
 	waitHold
@@ -245876,7 +245876,7 @@ script 26 mmbn3 {
 	"""
 	",huh?
 	I've never heard of
-	that,but I'll try⋯
+	that,but I'll try…
 	"""
 	keyWait
 	waitHold
@@ -245938,7 +245938,7 @@ script 28 mmbn3 {
 	"""
 	Ooops,sorry!
 	Don't have that in
-	stock⋯
+	stock…
 	"""
 	keyWait
 	waitHold
@@ -245950,7 +245950,7 @@ script 29 mmbn3 {
 	textSpeed
 		delay = 0
 	"""
-	⋯Nope,don't see it.
+	…Nope,don't see it.
 	Huh. Are you sure
 	there's such a chip?
 	"""
@@ -246169,7 +246169,7 @@ script 8 mmbn3 {
 		mugshot = MegaMan
 	textSpeed
 		delay = 0
-	"Not enough Zennys⋯"
+	"Not enough Zennys…"
 	keyWait
 	waitHold
 }
@@ -246607,7 +246607,7 @@ script 8 mmbn3 {
 		mugshot = MegaMan
 	textSpeed
 		delay = 0
-	"Not enough Zennys⋯"
+	"Not enough Zennys…"
 	keyWait
 	waitHold
 }
@@ -246843,7 +246843,7 @@ script 0 mmbn3 {
 	textSpeed
 		delay = 0
 	"""
-	Yeeeessss⋯?
+	Yeeeessss…?
 	R Button:Describe
 	B Button:Don't buy
 	"""
@@ -247048,7 +247048,7 @@ script 8 mmbn3 {
 		mugshot = MegaMan
 	textSpeed
 		delay = 0
-	"Not enough BugFrags⋯"
+	"Not enough BugFrags…"
 	keyWait
 	waitHold
 }
@@ -247077,7 +247077,7 @@ script 10 mmbn3 {
 		delay = 0
 	"""
 	I'm ssssold out.
-	Thank you sssso⋯!
+	Thank you sssso…!
 	"""
 	keyWait
 	waitHold
@@ -247489,7 +247489,7 @@ script 8 mmbn3 {
 		mugshot = MegaMan
 	textSpeed
 		delay = 0
-	"Not enough Zennys⋯"
+	"Not enough Zennys…"
 	keyWait
 	waitHold
 }
@@ -247725,7 +247725,7 @@ script 0 mmbn3 {
 	textSpeed
 		delay = 0
 	"""
-	⋯⋯⋯Yes?
+	………Yes?
 	R Button:Describe
 	B Button:Don't buy
 	"""
@@ -247738,7 +247738,7 @@ script 1 mmbn3 {
 	textSpeed
 		delay = 0
 	"""
-	⋯⋯⋯What do you want?
+	………What do you want?
 	R Button:Describe
 	B Button:Don't buy
 	"""
@@ -247789,7 +247789,7 @@ script 3 mmbn3 {
 		mugshot = CloakedNavi
 	textSpeed
 		delay = 0
-	"⋯⋯⋯Come⋯again⋯"
+	"………Come…again…"
 	waitHold
 }
 script 4 mmbn3 {
@@ -247798,7 +247798,7 @@ script 4 mmbn3 {
 		mugshot = CloakedNavi
 	textSpeed
 		delay = 0
-	"⋯⋯⋯\""
+	"………\""
 	printItem
 		buffer = 1
 		item = 0
@@ -247837,7 +247837,7 @@ script 5 mmbn3 {
 		mugshot = CloakedNavi
 	textSpeed
 		delay = 0
-	"⋯⋯⋯\""
+	"………\""
 	printChip
 		buffer = 1
 		chip = 0
@@ -247927,7 +247927,7 @@ script 8 mmbn3 {
 		mugshot = MegaMan
 	textSpeed
 		delay = 0
-	"Not enough Zennys⋯"
+	"Not enough Zennys…"
 	keyWait
 	waitHold
 }
@@ -247955,9 +247955,9 @@ script 10 mmbn3 {
 	textSpeed
 		delay = 0
 	"""
-	⋯⋯⋯I'm out⋯of stock.
-	⋯You⋯bought⋯so much.
-	⋯⋯⋯Thanks.
+	………I'm out…of stock.
+	…You…bought…so much.
+	………Thanks.
 	"""
 	keyWait
 	waitHold
@@ -247968,7 +247968,7 @@ script 11 mmbn3 {
 		mugshot = CloakedNavi
 	textSpeed
 		delay = 0
-	"⋯⋯⋯\""
+	"………\""
 	printNaviCustProgram
 		buffer = 1
 		program = 0
@@ -248366,7 +248366,7 @@ script 8 mmbn3 {
 		mugshot = MegaMan
 	textSpeed
 		delay = 0
-	"Not enough Zennys⋯"
+	"Not enough Zennys…"
 	keyWait
 	waitHold
 }
@@ -248804,7 +248804,7 @@ script 8 mmbn3 {
 		mugshot = MegaMan
 	textSpeed
 		delay = 0
-	"Not enough Zennys⋯"
+	"Not enough Zennys…"
 	keyWait
 	waitHold
 }
@@ -249222,7 +249222,7 @@ script 4 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Too bad,Lan⋯You
+	Too bad,Lan…You
 	have less than 3
 	chips in your pack!
 	"""
@@ -249421,7 +249421,7 @@ script 10 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Too bad,Lan⋯You
+	Too bad,Lan…You
 	have less than 10
 	chips in your pack!
 	"""
@@ -249499,7 +249499,7 @@ script 15 mmbn3 {
 	soundDisableTextSFX
 	soundPlay
 		track = 150
-	"Grrrr⋯Growwwwl!"
+	"Grrrr…Growwwwl!"
 	soundEnableTextSFX
 	keyWait
 	clearMsg
@@ -249586,7 +249586,7 @@ script 16 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Too bad,Lan⋯
+	Too bad,Lan…
 	We don't have
 	10 BugFrags!
 	"""
@@ -249600,7 +249600,7 @@ script 17 mmbn3 {
 	soundDisableTextSFX
 	soundPlay
 		track = 136
-	"Grrrrrr⋯"
+	"Grrrrrr…"
 	soundEnableTextSFX
 	keyWait
 	msgClose
@@ -249819,7 +249819,7 @@ script 8 mmbn3s {
 	end
 }
 script 9 mmbn3s {
-	" I'm broke⋯!"
+	" I'm broke…!"
 	end
 }
 script 10 mmbn3s {
@@ -250422,7 +250422,7 @@ script 6 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	Um⋯ This is rather
+	Um… This is rather
 	embarrassing,but I'm
 	having trouble with
 	"""
@@ -251304,7 +251304,7 @@ script 18 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	Uh⋯you probably
+	Uh…you probably
 	won't believe me,but
 	I picked up some
 	"""
@@ -251381,7 +251381,7 @@ script 19 mmbn3 {
 		top = 100
 	msgOpenInvisible
 		unused = 12
-	"Come to Hades Isle⋯"
+	"Come to Hades Isle…"
 	keyWait
 	clearMsg
 	"Accept this job?\n"
@@ -254212,7 +254212,7 @@ script 179 mmbn3 {
 	"""
 	keyWait
 	clearMsg
-	"Well done⋯"
+	"Well done…"
 	keyWait
 	waitHold
 }
@@ -254523,7 +254523,7 @@ script 32 mmbn3s {
 	end
 }
 script 33 mmbn3s {
-	" HigHig   Anyway⋯"
+	" HigHig   Anyway…"
 	end
 }
 script 34 mmbn3s {
@@ -255374,7 +255374,7 @@ script 18 mmbn3 {
 	clearMsg
 	"""
 	The thing that
-	dropped it was,um⋯
+	dropped it was,um…
 	"""
 	keyWait
 	clearMsg
@@ -255426,7 +255426,7 @@ script 18 mmbn3 {
 		code = M
 	"""
 	".
-	Hmmm⋯
+	Hmmm…
 	"""
 	keyWait
 	waitHold
@@ -255595,13 +255595,13 @@ script 22 mmbn3 {
 	"""
 	keyWait
 	clearMsg
-	"For example,you can⋯"
+	"For example,you can…"
 	keyWait
 	clearMsg
 	"""
 	Well,you'll find out
 	soon enough.
-	Hee hee hee⋯
+	Hee hee hee…
 	"""
 	keyWait
 	waitHold
@@ -255677,7 +255677,7 @@ script 24 mmbn3 {
 	"""
 	Still,MEGAoka's post
 	kind of makes me
-	wonder. Hmm⋯
+	wonder. Hmm…
 	"""
 	keyWait
 	waitHold
@@ -255848,9 +255848,9 @@ script 29 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	⋯Yet another fool
+	…Yet another fool
 	dares speak of the
-	Undernet⋯
+	Undernet…
 	"""
 	keyWait
 	clearMsg
@@ -256055,7 +256055,7 @@ script 9 mmbn3s {
 	end
 }
 script 10 mmbn3s {
-	" GutsMan  Strange⋯"
+	" GutsMan  Strange…"
 	end
 }
 script 11 mmbn3s {
@@ -256451,7 +256451,7 @@ script 4 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	square and⋯Bam!
+	square and…Bam!
 	Right in the kisser!
 	If they shoot while
 	"""
@@ -256649,7 +256649,7 @@ script 8 mmbn3 {
 	printNaviCustProgram
 		buffer = 0
 		program = 43
-	"⋯"
+	"…"
 	keyWait
 	clearMsg
 	"""
@@ -256779,7 +256779,7 @@ script 10 mmbn3 {
 	"""
 	anything. What's
 	happening to me?!
-	Yee⋯haw⋯⋯
+	Yee…haw……
 	"""
 	keyWait
 	waitHold
@@ -257557,7 +257557,7 @@ script 25 mmbn3 {
 	"""
 	down! The
 	incompatible
-	programs are⋯
+	programs are…
 	"""
 	keyWait
 	clearMsg
@@ -257760,7 +257760,7 @@ script 17 mmbn3s {
 	end
 }
 script 18 mmbn3s {
-	" Dohma    No way⋯"
+	" Dohma    No way…"
 	end
 }
 script 19 mmbn3s {
@@ -258395,7 +258395,7 @@ script 10 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Next⋯Uh,well⋯
+	Next…Uh,well…
 	Actually that's the
 	only one I've
 	"""
@@ -258760,7 +258760,7 @@ script 17 mmbn3 {
 	"""
 	the inside info.
 	But,y'know,going
-	there's a bit risky⋯
+	there's a bit risky…
 	"""
 	keyWait
 	waitHold
@@ -258809,7 +258809,7 @@ script 18 mmbn3 {
 	"""
 	The Undernet has
 	tons of items
-	and info,but still⋯
+	and info,but still…
 	"""
 	keyWait
 	waitHold
@@ -258851,11 +258851,11 @@ script 19 mmbn3 {
 	"""
 	Navis and strong
 	skills. Accessing it
-	for normal people⋯
+	for normal people…
 	"""
 	keyWait
 	clearMsg
-	"⋯is simply suicide."
+	"…is simply suicide."
 	keyWait
 	clearMsg
 	"The ModCode for\n"
@@ -258999,7 +258999,7 @@ script 4 mmbn3s {
 	end
 }
 script 5 mmbn3s {
-	" Harrun   Can't be⋯"
+	" Harrun   Can't be…"
 	end
 }
 script 6 mmbn3s {
@@ -260544,7 +260544,7 @@ script 4 mmbn3 {
 	clearMsg
 	"""
 	All you wrote was
-	your name⋯
+	your name…
 	"""
 	keyWait
 	waitHold
@@ -261216,7 +261216,7 @@ script 12 mmbn3s {
 	end
 }
 script 13 mmbn3s {
-	" NO NAME  Bugs⋯"
+	" NO NAME  Bugs…"
 	end
 }
 script 14 mmbn3s {
@@ -261740,9 +261740,9 @@ script 11 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	Someone⋯
+	Someone…
 	Tell me the code
-	for Error # H2⋯
+	for Error # H2…
 	"""
 	keyWait
 	waitHold
@@ -262018,7 +262018,7 @@ script 9 mmbn3 {
 	msgOpen
 	"""
 	These viruses seem
-	full already⋯
+	full already…
 	"""
 	keyWait
 	clearMsg
@@ -262084,7 +262084,7 @@ script 0 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"⋯⋯⋯!?"
+	"………!?"
 	keyWait
 	clearMsg
 	"""
@@ -262129,7 +262129,7 @@ script 3 mmbn3 {
 	"""
 	Yeah,it seems pretty
 	tame. Not violent
-	at all⋯
+	at all…
 	"""
 	keyWait
 	clearMsg
@@ -262483,7 +262483,7 @@ script 91 mmbn3s {
 	end
 }
 script 92 mmbn3s {
-	" [BowneGlobal1][BowneGlobal2][BowneGlobal3][BowneGlobal4][BowneGlobal5][BowneGlobal6][BowneGlobal7][BowneGlobal8][BowneGlobal9][BowneGlobal10][BowneGlobal11]"
+	" BOWNE GLOBAL"
 	end
 }
 script 93 mmbn3s {
