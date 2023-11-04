@@ -7,3 +7,5 @@
 /test.bat
 /index.php
 /Graficos/Comprimidos/*.exe
+/Previsualizador/node_modules
+/Previsualizador/out
