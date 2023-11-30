@@ -21,6 +21,9 @@ echo ==Gerando rom traduzida da versao azul.
 
 echo ==Aplicando patches extras na rom modificada:==
 
+echo ==Fonte VWF==
+.\Ferramentas\armips.exe .\Asm\vwf.asm -strequ output "Azul"
+
 echo ==Graficos descomprimidos==
 .\Ferramentas\armips.exe .\Asm\graficos_versao_azul.asm
 
@@ -36,6 +39,9 @@ echo ==Gerando rom traduzida da versao branca.
 .\Ferramentas\TextPet.exe run-script insert-white.tpl
 
 echo ==Aplicando patches extras na rom modificada:==
+
+echo ==Fonte VWF==
+.\Ferramentas\armips.exe .\Asm\vwf.asm -strequ output "Branca"
 
 echo ==Graficos descomprimidos==
 .\Ferramentas\armips.exe .\Asm\graficos_versao_branca.asm

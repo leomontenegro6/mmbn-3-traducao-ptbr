@@ -7,6 +7,6 @@
 
 ; Inserindo gráficos, em seus respectivos offsets
 .org 0x08679B5C
-.incbin "Gráficos/Editados/Fonte textos.gba"
+.incbin "Graficos/Editados/Fonte textos.gba"
 			
 .close

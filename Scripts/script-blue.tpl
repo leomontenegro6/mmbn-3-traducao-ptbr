@@ -1625,9 +1625,9 @@ script 1 mmbn3 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Cannon to
-	attack
-	1 enemy
+	Canhão
+	ataca 1
+	inimigo
 	"""
 	keyWait
 	msgCloseQuick
@@ -1638,9 +1638,9 @@ script 2 mmbn3 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Cannon to
-	attack
-	1 enemy
+	Canhão
+	ataca 1
+	inimigo
 	"""
 	keyWait
 	msgCloseQuick
@@ -1651,9 +1651,9 @@ script 3 mmbn3 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Cannon to
-	attack
-	1 enemy
+	Canhão
+	ataca 1
+	inimigo
 	"""
 	keyWait
 	msgCloseQuick
@@ -17718,7 +17718,7 @@ script 11 mmbn3s {
 	end
 }
 script 12 mmbn3s {
-	"OrderSys"
+	"SistEncm"
 	end
 }
 script 13 mmbn3s {
@@ -18182,7 +18182,7 @@ script 127 mmbn3s {
 	end
 }
 script 128 mmbn3s {
-	"NormStyl"
+	"EstlNorm"
 	end
 }
 script 129 mmbn3s {
@@ -20131,9 +20131,9 @@ script 80 mmbn3 {
 	color
 		palette = 3
 	"""
-	This file has the
-	passcode from the
-	Net to Mayl's PC!
+	Este arquivo tem
+	a senha pra página
+	da Mayl!
 	"""
 	waitHold
 }
@@ -27249,9 +27249,9 @@ script 7 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I wonder when we'll
-	have the chat
-	session tonight?
+	Quando será que
+	faremos o nosso
+	bate-papo à noite?
 	"""
 	keyWait
 	end
@@ -64354,15 +64354,15 @@ script 102 mmbn3 {
 		mugshot = BlueShirtBoy
 	msgOpen
 	"""
-	I wish I could have
-	seen you battle
-	Chaud in the N1…
+	Queria poder ter
+	te visto lutar com
+	o Chaud no N1...
 	"""
 	keyWait
 	clearMsg
 	"""
-	That would have been
-	an amazing battle!
+	Teria sido uma
+	batalha irada!
 	"""
 	keyWait
 	end
@@ -73177,9 +73177,9 @@ script 5 mmbn3 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	These machines are
-	pretty cool,but so
-	are our PETs!
+	Estas máquinas são bem
+	da hora, mas nossos
+	PETs também são!
 	"""
 	keyWait
 	clearMsg
@@ -170232,13 +170232,13 @@ script 253 mmbn3s {
 script 0 mmbn3 {
 	mugshotHide
 	msgOpen
-	"The year is 200X."
+	"É o ano de 200X."
 	keyWait
 	clearMsg
 	"""
-	The world's machines
-	are joined in a
-	worldwide network.
+	As máquinas do mundo
+	são interligadas por
+	uma rede mundial.
 	"""
 	keyWait
 	clearMsg
@@ -174854,16 +174854,16 @@ script 0 mmbn3 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	OK,let's get this
-	virus busting lesson
-	started,shall we?
+	Bem, vamos começar
+	com esta aula de
+	luta antivírus?
 	"""
 	keyWait
 	clearMsg
 	"""
-	This is only
-	practice,but please
-	do your best!
+	Sei que é só treino,
+	mas tentem dar tudo
+	de si!
 	"""
 	keyWait
 	end
@@ -199349,9 +199349,9 @@ script 2 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Nurse! What's
-	happening in the
-	operating room!?
+	Enfermeira!
+	Como tá a sala
+	de operação?!
 	"""
 	keyWait
 	clearMsg
@@ -231032,7 +231032,7 @@ script 2 mmbn3s {
 	end
 }
 script 3 mmbn3s {
-	"_Lan's LvgRm■"
+	"_Sala do Lan■"
 	end
 }
 script 4 mmbn3s {
@@ -231095,7 +231095,7 @@ script 18 mmbn3s {
 	end
 }
 script 19 mmbn3s {
-	"SciLab Lobby■"
+	"Saguão SciLb■"
 	end
 }
 script 20 mmbn3s {
@@ -232690,19 +232690,19 @@ script 31 mmbn3s {
 	end
 }
 script 34 mmbn3s {
-	"StdrdChip"
+	"Ch.Padrão"
 	end
 }
 script 35 mmbn3s {
-	"MegaChip"
+	"MegaChips"
 	end
 }
 script 36 mmbn3s {
-	"GigaChip"
+	"GigaChips"
 	end
 }
 script 37 mmbn3s {
-	"P.A.notes"
+	"Lista PA"
 	end
 }
 script 40 mmbn3s {
@@ -233416,7 +233416,7 @@ script 71 mmbn3s {
 	end
 }
 script 72 mmbn3s {
-	"Credits"
+	"Zennys"
 	end
 }
 script 73 mmbn3s {
@@ -234241,7 +234241,7 @@ script 107 mmbn3s {
 	end
 }
 script 108 mmbn3s {
-	"See Library"
+	"Coleção"
 	end
 }
 script 109 mmbn3s {
@@ -238872,9 +238872,9 @@ script 0 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	The number of Net
-	Crimes has increased
-	in recent years.
+	O número de Net-
+	Crimes vem aumentando
+	nos últimos naos.
 	"""
 	keyWait
 	clearMsg
@@ -241942,7 +241942,7 @@ script 50 mmbn3s {
 	end
 }
 script 51 mmbn3s {
-	"  RUN!"
+	"EXECUTAR!"
 	end
 }
 @archive 7EB19C
@@ -249815,7 +249815,7 @@ script 7 mmbn3s {
 	end
 }
 script 8 mmbn3s {
-	" Chip prices"
+	" O preço de um chip"
 	end
 }
 script 9 mmbn3s {
