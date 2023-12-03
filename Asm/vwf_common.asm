@@ -1,3 +1,9 @@
+; Arquivo contendo a lógica comum das fontes VWF de ambas as versões Azul e
+; Branca. Funciona por pegar as informações de header específica de cada versão,
+; e em seguida usar da lógica comum desse arquivo para inserir a VWF de acordo.
+;
+; Escrito por denim - Novembro de 2023
+;
 .gba
 
 .open "Mega Man Battle Network 3 - Versao " + output + " (BR).gba", 0x08000000
@@ -52,7 +58,7 @@
 	.org PONTEIRO2 + 0x3c
 		dw		free4 + 1
 		
-		
+	; Inserindo dados da VWF no final da rom, após a inserção dos scripts.
 	.orga filesize("Mega Man Battle Network 3 - Versao " + output + " (BR).gba")
 	.align
 		

@@ -24,7 +24,8 @@ echo ==Aplicando patches extras na rom modificada:==
 echo ==Fonte VWF==
 .\Ferramentas\armips.exe .\Asm\vwf.asm -strequ output "Azul"
 
-echo ==Graficos descomprimidos==
+echo ==Graficos==
+call recomprimir_graficos_comprimidos.bat
 .\Ferramentas\armips.exe .\Asm\graficos_versao_azul.asm
 
 echo ==Expandindo rom para 16mb==

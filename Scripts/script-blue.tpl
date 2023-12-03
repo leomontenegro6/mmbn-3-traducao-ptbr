@@ -73177,9 +73177,9 @@ script 5 mmbn3 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	Estas máquinas são bem
-	da hora, mas nossos
-	PETs também são!
+	Tem corajoso. Muitos
+	perigos a salve seu amigo,
+	mas agora deve ir pra casa
 	"""
 	keyWait
 	clearMsg

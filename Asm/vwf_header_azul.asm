@@ -1,3 +1,7 @@
+; Arquivo contendo headers usados pelas fontes VWF, para a versão Azul.
+;
+; Escrito por denim - Novembro de 2023
+;
 .gba
 
 DESVIO1			equ			0x08026a40
