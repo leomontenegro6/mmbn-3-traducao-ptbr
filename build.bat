@@ -45,6 +45,7 @@ echo ==Fonte VWF==
 .\Ferramentas\armips.exe .\Asm\vwf.asm -strequ output "Branca"
 
 echo ==Graficos descomprimidos==
+call recomprimir_graficos_comprimidos.bat
 .\Ferramentas\armips.exe .\Asm\graficos_versao_branca.asm
 
 echo ==Expandindo rom para 16mb==

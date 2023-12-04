@@ -6,9 +6,13 @@
 .open "Mega Man Battle Network 3 - Versao Azul (BR).gba", 0x08000000
 
 ; Gráficos descomprimidos, em seus respectivos offsets.
-; Inserindo fonte dos textos acentuada (sem VWF, usada em alguns menus)
+; Fonte dos textos acentuada (sem VWF, usada em alguns menus)
 .org 0x08679B5C
 .incbin "Graficos/Editados/Fonte textos.gba"
+
+; Nome "Licenciado pela Nintendo", antes da tela-título.
+.org 0x087F9EB8
+.incbin "Graficos/Editados/Licenciado pela Nintendo.gba"
 
 ; Gráficos comprimidos, inseridos no final da rom.
 ; Catalogando ponteiros dos gráficos.
