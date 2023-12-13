@@ -162,7 +162,8 @@
 			add		r0, r1
 			
 			;ldr		r0, =0x00128060
-			ldr		r1, =0x0000bf54
+			ldr		r1, =0x0000b354
+
 			
 			;nchars
 			ldr		r7, [r13, 8]

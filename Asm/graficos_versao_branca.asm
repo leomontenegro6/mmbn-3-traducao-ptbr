@@ -10,10 +10,16 @@
 .org 0x08679A5C
 .incbin "Graficos/Editados/Fonte textos.gba"
 
+; Nome "Licenciado pela Nintendo", antes da tela-título.
+.org 0x087FA2C8
+.incbin "Graficos/Editados/Licenciado pela Nintendo.gba"
+
 ; Gráficos comprimidos, inseridos no final da rom.
 ; Catalogando ponteiros dos gráficos.
 .org 0x0802262C
 .dw logo_tela_titulo
+.org 0x08022630
+.dw nomes_tela_titulo
 
 ; Inserindo gráficos no final da rom
 .orga filesize("Mega Man Battle Network 3 - Versao Branca (BR).gba")
@@ -21,6 +27,10 @@
 
 logo_tela_titulo:
 .incbin "Graficos/Recomprimidos/Logo tela-titulo versao branca.gba"
+.align
+
+nomes_tela_titulo:
+.incbin "Graficos/Recomprimidos/Nomes tela-titulo versao branca.gba"
 .align
 			
 .close

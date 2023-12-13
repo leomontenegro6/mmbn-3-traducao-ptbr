@@ -15,6 +15,9 @@ copy ".\Graficos\Editados\Logo tela-titulo versao branca.gba" ".\Graficos\Recomp
 .\Ferramentas\lzss.exe -evn ".\Graficos\Recomprimidos\Logo tela-titulo versao branca.gba"
 
 echo Nomes da tela-titulo
-del ".\Graficos\Recomprimidos\Nomes tela-titulo.gba"
-copy ".\Graficos\Editados\Nomes tela-titulo.gba" ".\Graficos\Recomprimidos\"
-.\Ferramentas\lzss.exe -evn ".\Graficos\Recomprimidos\Nomes tela-titulo.gba"
+del ".\Graficos\Recomprimidos\Nomes tela-titulo versao azul.gba"
+copy ".\Graficos\Editados\Nomes tela-titulo versao azul.gba" ".\Graficos\Recomprimidos\"
+.\Ferramentas\lzss.exe -evn ".\Graficos\Recomprimidos\Nomes tela-titulo versao azul.gba"
+del ".\Graficos\Recomprimidos\Nomes tela-titulo versao branca.gba"
+copy ".\Graficos\Editados\Nomes tela-titulo versao branca.gba" ".\Graficos\Recomprimidos\"
+.\Ferramentas\lzss.exe -evn ".\Graficos\Recomprimidos\Nomes tela-titulo versao branca.gba"

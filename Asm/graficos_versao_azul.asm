@@ -30,7 +30,7 @@ logo_tela_titulo:
 .align
 
 nomes_tela_titulo:
-.incbin "Graficos/Recomprimidos/Nomes tela-titulo.gba"
+.incbin "Graficos/Recomprimidos/Nomes tela-titulo versao azul.gba"
 .align
 			
 .close
