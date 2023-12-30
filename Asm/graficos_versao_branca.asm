@@ -14,6 +14,14 @@
 .org 0x087FA2C8
 .incbin "Graficos/Editados/Licenciado pela Nintendo.gba"
 
+; Menus, ao apertar Start.
+.org 0x087C8C24
+.incbin "Graficos/Editados/td-7c8c24-edit.gba"
+.org 0x087C9DA4
+.incbin "Graficos/Editados/tm-7c9da4-edit.gba"
+.org 0x087CB3C4
+.incbin "Graficos/Editados/HP Zenny BugFrag.gba"
+
 ; Gráficos comprimidos, inseridos no final da rom.
 ; Catalogando ponteiros dos gráficos.
 .org 0x0802262C
