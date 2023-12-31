@@ -16,9 +16,9 @@
 
 ; Menus, ao apertar Start.
 .org 0x087C8C24
-.incbin "Graficos/Editados/td-7c8c24-edit.gba"
+.incbin "Graficos/Editados/Menu Pet (td).gba"
 .org 0x087C9DA4
-.incbin "Graficos/Editados/tm-7c9da4-edit.gba"
+.incbin "Graficos/Editados/Menu Pet (tm).gba"
 .org 0x087CB3C4
 .incbin "Graficos/Editados/HP Zenny BugFrag.gba"
 
@@ -28,6 +28,10 @@
 .dw logo_tela_titulo
 .org 0x08022630
 .dw nomes_tela_titulo
+.org 0x0802515c
+.dw sala_aula_cleaners1
+.org 0x08025168
+.dw sala_aula_cleaners1
 
 ; Inserindo gráficos no final da rom
 .orga filesize("Mega Man Battle Network 3 - Versao Branca (BR).gba")
@@ -39,6 +43,10 @@ logo_tela_titulo:
 
 nomes_tela_titulo:
 .incbin "Graficos/Recomprimidos/Nomes tela-titulo versao branca.gba"
+.align
+
+sala_aula_cleaners1:
+.incbin "Graficos/Recomprimidos/Sala Aula - Cleaners1.gba"
 .align
 			
 .close
