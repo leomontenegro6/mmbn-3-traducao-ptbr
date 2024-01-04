@@ -22,6 +22,18 @@
 		nop
 		nop
 		
+	;não soma 1 tile a mais na parte de entrada dos números
+	.org DESVIO8
+		nop
+	;desloca seta mais pra esquerda
+	.org DESVIO7
+		mov		r0, 4
+	.org DESVIO6
+		mov		r0, 4
+	.org DESVIO6 + 0x24
+		mov		r0, 7
+		
+		
 	;aqui elimina o padding de 10 letras na tela de descrições, para facilitar a nova oam
 	.org DESVIO3
 		mov r4, 0
@@ -163,7 +175,6 @@
 			
 			;ldr		r0, =0x00128060
 			ldr		r1, =0x0000b354
-
 			
 			;nchars
 			ldr		r7, [r13, 8]
@@ -171,6 +182,7 @@
 			add		r7, 2
 			str		r7, [r13, 8]
 			
+		@@addoam:
 			;funcao que adiciona entrada na oam
 			ldr		r7, =PONTEIRO5
 			mov		r2, 0			;este valor deveria ser o recebido de r0 na função chamadora
