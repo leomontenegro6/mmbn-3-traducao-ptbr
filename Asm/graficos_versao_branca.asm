@@ -32,6 +32,8 @@
 .dw sala_aula_cleaners1
 .org 0x08025168
 .dw sala_aula_cleaners1
+.org 0x080250f0
+.dw cidade_acdc_higsbys
 
 ; Inserindo gráficos no final da rom
 .orga filesize("Mega Man Battle Network 3 - Versao Branca (BR).gba")
@@ -47,6 +49,10 @@ nomes_tela_titulo:
 
 sala_aula_cleaners1:
 .incbin "Graficos/Recomprimidos/Sala Aula - Cleaners1.gba"
+.align
+
+cidade_acdc_higsbys:
+.incbin "Graficos/Recomprimidos/Cidade ACDC - Higsbys.gba"
 .align
 			
 .close
