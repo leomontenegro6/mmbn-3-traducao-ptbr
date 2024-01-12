@@ -35,6 +35,11 @@
 .org 0x080250f0
 .dw cidade_acdc_higsbys
 
+.org 0x080251c8 + 0x30
+.dw yoka_barracas_td
+.skip 4
+.dw yoka_barracas_tm
+
 ; Inserindo gráficos no final da rom
 .orga filesize("Mega Man Battle Network 3 - Versao Branca (BR).gba")
 .align
@@ -54,5 +59,17 @@ sala_aula_cleaners1:
 cidade_acdc_higsbys:
 .incbin "Graficos/Recomprimidos/Cidade ACDC - Higsbys.gba"
 .align
-			
+
+yoka_barracas_tm:
+.db 0xa0, 0x56, 0x00, 0x00
+.dw 0x00000010
+.dw 0x00006b90
+.dw 0x0000d710
+.incbin "Graficos/Recomprimidos/Yoka - Barracas (tm).bin"
+.align
+
+yoka_barracas_td:
+.incbin "Graficos/Recomprimidos/Yoka - Barracas (td).bin"
+.align
+
 .close
