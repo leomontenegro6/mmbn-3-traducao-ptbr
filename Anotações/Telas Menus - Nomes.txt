@@ -1,0 +1,16 @@
+PASTA
+EDITAR PASTA
+SUBCHIPS
+COLEÇÃO
+MEGAMAN
+CUSTOMIZADOR DE NAVI
+E-MAIL
+ITENS
+REDE
+SALVAR
+
+-abcdeghilmnoprstuvzãç
+-ABCDEGHILMNOPRSTUVZÃÇ
+
+22 caracteres
+44 tiles (talvez 43 se o traço só ocupar um)

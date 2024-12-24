@@ -1,9 +1,11 @@
 /*.gba
+/*.srl
 /*.ss*
 /*.sav
 /*.sa1
 /*.sa2
 /*.zip
 /test.bat
+/test_coletanea.bat
 /index.php
 /Graficos/Comprimidos/*.exe

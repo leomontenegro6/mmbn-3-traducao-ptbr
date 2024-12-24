@@ -1,0 +1,1 @@
+- Editar o gráfico de "Sort", para modificar os nomes abaixo da janela, devido à tilemap super bagunçado (pedir help do denim possivelmente)

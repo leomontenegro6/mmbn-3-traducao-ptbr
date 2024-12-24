@@ -8407,7 +8407,7 @@ script 56 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Manter!\n"
+	"   Manter!\n"
 	option
 		left = 1
 		right = 1
@@ -8415,7 +8415,7 @@ script 56 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Estilo novo!"
+	"   Estilo novo!"
 	select
 		default = 0
 		BSeparate = false
@@ -9122,7 +9122,7 @@ script 60 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Aperfeiçoar\n"
+	"   Aperfeiçoar\n"
 	option
 		left = 1
 		right = 1
@@ -9130,7 +9130,7 @@ script 60 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Quero outro"
+	"   Quero outro"
 	select
 		default = 0
 		BSeparate = false
@@ -9272,7 +9272,7 @@ script 72 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Aperfeiçoar\n"
+	"   Aperfeiçoar\n"
 	option
 		left = 1
 		right = 1
@@ -9280,7 +9280,7 @@ script 72 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Quero outro"
+	"   Quero outro"
 	select
 		default = 0
 		BSeparate = false
@@ -9314,7 +9314,7 @@ script 73 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Aperfeiçoar\n"
+	"   Aperfeiçoar\n"
 	option
 		left = 1
 		right = 1
@@ -9322,7 +9322,7 @@ script 73 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Quero outro"
+	"   Quero outro"
 	select
 		default = 0
 		BSeparate = false
@@ -9437,7 +9437,7 @@ script 82 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Aperfeiçoar\n"
+	"   Aperfeiçoar\n"
 	option
 		left = 1
 		right = 1
@@ -9445,7 +9445,7 @@ script 82 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Quero outro"
+	"   Quero outro"
 	select
 		default = 0
 		BSeparate = false
@@ -10150,7 +10150,7 @@ script 60 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Aperfeiçoar\n"
+	"   Aperfeiçoar\n"
 	option
 		left = 1
 		right = 1
@@ -10158,7 +10158,7 @@ script 60 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Quero outro"
+	"   Quero outro"
 	select
 		default = 0
 		BSeparate = false
@@ -10300,7 +10300,7 @@ script 72 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Aperfeiçoar\n"
+	"   Aperfeiçoar\n"
 	option
 		left = 1
 		right = 1
@@ -10308,7 +10308,7 @@ script 72 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Quero outro"
+	"   Quero outro"
 	select
 		default = 0
 		BSeparate = false
@@ -10342,7 +10342,7 @@ script 73 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Aperfeiçoar\n"
+	"   Aperfeiçoar\n"
 	option
 		left = 1
 		right = 1
@@ -10350,7 +10350,7 @@ script 73 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Quero outro"
+	"   Quero outro"
 	select
 		default = 0
 		BSeparate = false
@@ -10464,7 +10464,7 @@ script 82 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Aperfeiçoar\n"
+	"   Aperfeiçoar\n"
 	option
 		left = 1
 		right = 1
@@ -10472,7 +10472,7 @@ script 82 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Quero outro"
+	"   Quero outro"
 	select
 		default = 0
 		BSeparate = false
@@ -11177,7 +11177,7 @@ script 60 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Aperfeiçoar\n"
+	"   Aperfeiçoar\n"
 	option
 		left = 1
 		right = 1
@@ -11185,7 +11185,7 @@ script 60 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Quero outro"
+	"   Quero outro"
 	select
 		default = 0
 		BSeparate = false
@@ -11327,7 +11327,7 @@ script 72 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Aperfeiçoar\n"
+	"   Aperfeiçoar\n"
 	option
 		left = 1
 		right = 1
@@ -11335,7 +11335,7 @@ script 72 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Quero outro"
+	"   Quero outro"
 	select
 		default = 0
 		BSeparate = false
@@ -11369,7 +11369,7 @@ script 73 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Aperfeiçoar\n"
+	"   Aperfeiçoar\n"
 	option
 		left = 1
 		right = 1
@@ -11377,7 +11377,7 @@ script 73 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Quero outro"
+	"   Quero outro"
 	select
 		default = 0
 		BSeparate = false
@@ -11491,7 +11491,7 @@ script 82 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Aperfeiçoar\n"
+	"   Aperfeiçoar\n"
 	option
 		left = 1
 		right = 1
@@ -11499,7 +11499,7 @@ script 82 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Quero outro"
+	"   Quero outro"
 	select
 		default = 0
 		BSeparate = false
@@ -12204,7 +12204,7 @@ script 60 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Aperfeiçoar\n"
+	"   Aperfeiçoar\n"
 	option
 		left = 1
 		right = 1
@@ -12212,7 +12212,7 @@ script 60 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Quero outro"
+	"   Quero outro"
 	select
 		default = 0
 		BSeparate = false
@@ -12354,7 +12354,7 @@ script 72 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Aperfeiçoar\n"
+	"   Aperfeiçoar\n"
 	option
 		left = 1
 		right = 1
@@ -12362,7 +12362,7 @@ script 72 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Quero outro"
+	"   Quero outro"
 	select
 		default = 0
 		BSeparate = false
@@ -12396,7 +12396,7 @@ script 73 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Aperfeiçoar\n"
+	"   Aperfeiçoar\n"
 	option
 		left = 1
 		right = 1
@@ -12404,7 +12404,7 @@ script 73 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Quero outro"
+	"   Quero outro"
 	select
 		default = 0
 		BSeparate = false
@@ -12519,7 +12519,7 @@ script 82 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Aperfeiçoar\n"
+	"   Aperfeiçoar\n"
 	option
 		left = 1
 		right = 1
@@ -12527,7 +12527,7 @@ script 82 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Quero outro"
+	"   Quero outro"
 	select
 		default = 0
 		BSeparate = false
@@ -13232,7 +13232,7 @@ script 60 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Aperfeiçoar\n"
+	"   Aperfeiçoar\n"
 	option
 		left = 1
 		right = 1
@@ -13240,7 +13240,7 @@ script 60 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Quero outro"
+	"   Quero outro"
 	select
 		default = 0
 		BSeparate = false
@@ -13382,7 +13382,7 @@ script 72 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Aperfeiçoar\n"
+	"   Aperfeiçoar\n"
 	option
 		left = 1
 		right = 1
@@ -13390,7 +13390,7 @@ script 72 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Quero outro"
+	"   Quero outro"
 	select
 		default = 0
 		BSeparate = false
@@ -13424,7 +13424,7 @@ script 73 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Aperfeiçoar\n"
+	"   Aperfeiçoar\n"
 	option
 		left = 1
 		right = 1
@@ -13432,7 +13432,7 @@ script 73 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Quero outro"
+	"   Quero outro"
 	select
 		default = 0
 		BSeparate = false
@@ -13547,7 +13547,7 @@ script 82 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Aperfeiçoar\n"
+	"   Aperfeiçoar\n"
 	option
 		left = 1
 		right = 1
@@ -13555,7 +13555,7 @@ script 82 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Quero outro"
+	"   Quero outro"
 	select
 		default = 0
 		BSeparate = false
@@ -14260,7 +14260,7 @@ script 60 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Aperfeiçoar\n"
+	"   Aperfeiçoar\n"
 	option
 		left = 1
 		right = 1
@@ -14268,7 +14268,7 @@ script 60 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Quero outro"
+	"   Quero outro"
 	select
 		default = 0
 		BSeparate = false
@@ -14410,7 +14410,7 @@ script 72 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Aperfeiçoar\n"
+	"   Aperfeiçoar\n"
 	option
 		left = 1
 		right = 1
@@ -14418,7 +14418,7 @@ script 72 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Quero outro"
+	"   Quero outro"
 	select
 		default = 0
 		BSeparate = false
@@ -14452,7 +14452,7 @@ script 73 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Aperfeiçoar\n"
+	"   Aperfeiçoar\n"
 	option
 		left = 1
 		right = 1
@@ -14460,7 +14460,7 @@ script 73 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Quero outro"
+	"   Quero outro"
 	select
 		default = 0
 		BSeparate = false
@@ -14575,7 +14575,7 @@ script 82 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Aperfeiçoar\n"
+	"   Aperfeiçoar\n"
 	option
 		left = 1
 		right = 1
@@ -14583,7 +14583,7 @@ script 82 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Quero outro"
+	"   Quero outro"
 	select
 		default = 0
 		BSeparate = false
@@ -15288,7 +15288,7 @@ script 60 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Aperfeiçoar\n"
+	"   Aperfeiçoar\n"
 	option
 		left = 1
 		right = 1
@@ -15296,7 +15296,7 @@ script 60 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Quero outro"
+	"   Quero outro"
 	select
 		default = 0
 		BSeparate = false
@@ -15438,7 +15438,7 @@ script 72 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Aperfeiçoar\n"
+	"   Aperfeiçoar\n"
 	option
 		left = 1
 		right = 1
@@ -15446,7 +15446,7 @@ script 72 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Quero outro"
+	"   Quero outro"
 	select
 		default = 0
 		BSeparate = false
@@ -15480,7 +15480,7 @@ script 73 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Aperfeiçoar\n"
+	"   Aperfeiçoar\n"
 	option
 		left = 1
 		right = 1
@@ -15488,7 +15488,7 @@ script 73 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Quero outro"
+	"   Quero outro"
 	select
 		default = 0
 		BSeparate = false
@@ -15603,7 +15603,7 @@ script 82 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Aperfeiçoar\n"
+	"   Aperfeiçoar\n"
 	option
 		left = 1
 		right = 1
@@ -15611,7 +15611,7 @@ script 82 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Quero outro"
+	"   Quero outro"
 	select
 		default = 0
 		BSeparate = false
@@ -17719,19 +17719,19 @@ script 14 mmbn3s {
 	end
 }
 script 15 mmbn3s {
-	"DataDisk"
+	"CDDados"
 	end
 }
 script 16 mmbn3s {
-	"PET Case"
+	"Capa PET"
 	end
 }
 script 17 mmbn3s {
-	"HadesKey"
+	"ChvInfrn"
 	end
 }
 script 18 mmbn3s {
-	"VictData"
+	"DadoVitó"
 	end
 }
 script 19 mmbn3s {
@@ -17743,51 +17743,51 @@ script 20 mmbn3s {
 	end
 }
 script 21 mmbn3s {
-	"Tally"
+	"Contagem"
 	end
 }
 script 22 mmbn3s {
-	"Tea"
+	"Chá"
 	end
 }
 script 23 mmbn3s {
-	"BsmntKey"
+	"ChvPorão"
 	end
 }
 script 24 mmbn3s {
-	"FireData"
+	"DadoFogo"
 	end
 }
 script 25 mmbn3s {
-	"HeatData"
+	"DdoCalor"
 	end
 }
 script 26 mmbn3s {
-	"FlamData"
+	"DdoChama"
 	end
 }
 script 27 mmbn3s {
-	"Rank 10"
+	"Ranque10"
 	end
 }
 script 28 mmbn3s {
-	"Rank 9"
+	"Ranque 9"
 	end
 }
 script 29 mmbn3s {
-	"Rank 8"
+	"Ranque 8"
 	end
 }
 script 30 mmbn3s {
-	"Rank 7"
+	"Ranque 7"
 	end
 }
 script 31 mmbn3s {
-	"Rank 3"
+	"Ranque 3"
 	end
 }
 script 32 mmbn3s {
-	"Rank 2"
+	"Ranque 2"
 	end
 }
 script 33 mmbn3s {
@@ -17803,11 +17803,11 @@ script 35 mmbn3s {
 	end
 }
 script 36 mmbn3s {
-	"DadsNote"
+	"BilhtPai"
 	end
 }
 script 37 mmbn3s {
-	"CardKey"
+	"CartChav"
 	end
 }
 script 38 mmbn3s {
@@ -17839,59 +17839,59 @@ script 44 mmbn3s {
 	end
 }
 script 45 mmbn3s {
-	"CashData"
+	"DadsFinç"
 	end
 }
 script 46 mmbn3s {
-	"Old Doll"
+	"BnecaVlh"
 	end
 }
 script 47 mmbn3s {
-	"WWW-ID"
+	"ID-WWW"
 	end
 }
 script 48 mmbn3s {
-	"SkyTome"
+	"Tomo Céu"
 	end
 }
 script 49 mmbn3s {
-	"LandTome"
+	"TomoTrra"
 	end
 }
 script 50 mmbn3s {
-	"SeaTome"
+	"Tomo Mar"
 	end
 }
 script 51 mmbn3s {
-	"StmpCard"
+	"CtCarimb"
 	end
 }
 script 52 mmbn3s {
-	"Will"
+	"Tstmento"
 	end
 }
 script 53 mmbn3s {
-	"Photo"
+	"Foto"
 	end
 }
 script 54 mmbn3s {
-	"Camera"
+	"Câmera"
 	end
 }
 script 55 mmbn3s {
-	"ModTools"
+	"FerrmMod"
 	end
 }
 script 56 mmbn3s {
-	"Hammer"
+	"Martelo"
 	end
 }
 script 57 mmbn3s {
-	"WrstBand"
+	"FaixBraç"
 	end
 }
 script 58 mmbn3s {
-	"Rank 1"
+	"Ranque 1"
 	end
 }
 script 59 mmbn3s {
@@ -17943,23 +17943,23 @@ script 70 mmbn3s {
 	end
 }
 script 71 mmbn3s {
-	"SpinWhit"
+	"GiraBrnc"
 	end
 }
 script 72 mmbn3s {
-	"SpinPink"
+	"GiraRosa"
 	end
 }
 script 73 mmbn3s {
-	"SpinYllw"
+	"GiraAmrl"
 	end
 }
 script 74 mmbn3s {
-	"SpinRed"
+	"GiraVerm"
 	end
 }
 script 75 mmbn3s {
-	"SpinBlue"
+	"GiraAzul"
 	end
 }
 script 76 mmbn3s {
@@ -17967,15 +17967,15 @@ script 76 mmbn3s {
 	end
 }
 script 77 mmbn3s {
-	"SpinOrng"
+	"GiraVrde"
 	end
 }
 script 78 mmbn3s {
-	"SpinPrpl"
+	"GiraRoxo"
 	end
 }
 script 79 mmbn3s {
-	"SpinDark"
+	"GiraTrvs"
 	end
 }
 script 80 mmbn3s {
@@ -18708,7 +18708,7 @@ script 14 mmbn3 {
 		palette = 3
 	"""
 	A única ferramenta que
-	pode esmagar a
+	pode dar um fim na
 	barragem do BubbleMan!
 	"""
 	waitHold
@@ -18733,9 +18733,9 @@ script 15 mmbn3 {
 	color
 		palette = 3
 	"""
-	CD contendo os dados
-	de pesquisa do papai.
-	Leve logo para ele!
+	CD contendo dados de
+	pesquisa do papai.
+	Leva logo pra ele!
 	"""
 	waitHold
 }
@@ -18786,7 +18786,7 @@ script 17 mmbn3 {
 		palette = 3
 	"""
 	Esta chave abre a
-	porta para os Dados
+	porta para o Dado
 	da Vitória!
 	"""
 	waitHold
@@ -24195,7 +24195,7 @@ script 13 mmbn3 {
 		down = 3
 	space
 		count = 2
-	"          Yoka\n"
+	"         Yoka\n"
 	option
 		left = 3
 		right = 3
@@ -24534,13 +24534,12 @@ script 0 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"I can't fit,Lan!"
+	"Eu não caibo, Lan!"
 	keyWait
 	clearMsg
 	"""
-	This pathway is
-	too narrow for
-	me to get through!
+	Esse caminho é estreito
+	demais para eu passar!
 	"""
 	keyWait
 	end
@@ -24553,15 +24552,15 @@ script 1 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Install the
+	Instale o programa
 	"
 	"""
 	printNaviCustProgram
 		buffer = 0
 		program = 20
 	"""
-	" program
-	with the NaviCust!
+	" usando o
+	CustNavi!
 	"""
 	keyWait
 	end
@@ -24570,13 +24569,12 @@ script 2 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"I can't fit,Lan!"
+	"Eu não caibo, Lan!"
 	keyWait
 	clearMsg
 	"""
-	This pathway is
-	too narrow for
-	me to get through!
+	Esse caminho é estreito
+	demais para eu passar!
 	"""
 	keyWait
 	end
@@ -24586,15 +24584,16 @@ script 3 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Huh? The Press
-	compression program
-	isn't working…
+	Hã? O programa de
+	compressão não está
+	funcionando...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Maybe something is
-	wrong with the path?
+	Será que tem alguma
+	coisa errada com o
+	caminho, mesmo?
 	"""
 	keyWait
 	end
@@ -25595,8 +25594,8 @@ script 102 mmbn3 {
 	msgOpen
 	"""
 	Espero que o GutsMan
-	esteja bem! Vamos lá
-	conferir!
+	esteja bem! Vamos lá na
+	área Angra conferir!
 	"""
 	keyWait
 	end
@@ -33579,7 +33578,7 @@ script 117 mmbn3 {
 	msgOpen
 	"""
 	O coração tá acelerado!
-	Bora lá entrar no barco!
+	Bora lá pro barco!
 	"""
 	keyWait
 	end
@@ -34945,8 +34944,8 @@ script 112 mmbn3 {
 	msgOpen
 	"""
 	Temos que voltar pra
-	Ilha do Inferno, senão,
-	vamos perder!
+	Ilha do Inferno cibernéti-
+	ca, ou vamos perder!
 	"""
 	keyWait
 	end
@@ -34968,8 +34967,8 @@ script 114 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	O que será que nos
-	espera atrás da porta?!
+	O que será que aguarda
+	atrás das portas?!
 	Pensa bem pra escolher!
 	"""
 	keyWait
@@ -39114,7 +39113,7 @@ script 79 mmbn3 {
 	"""
 	Cinco pessoas fantasia-
 	das de Navis? Espero
-	que a gente acha elas!
+	que a gente ache elas!
 	"""
 	keyWait
 	end
@@ -42054,7 +42053,7 @@ script 79 mmbn3 {
 	"""
 	Cinco pessoas fantasia-
 	das de Navis? Espero
-	que a gente acha elas!
+	que a gente ache elas!
 	"""
 	keyWait
 	end
@@ -44083,7 +44082,7 @@ script 79 mmbn3 {
 	"""
 	Cinco pessoas fantasia-
 	das de Navis? Espero
-	que a gente acha elas!
+	que a gente ache elas!
 	"""
 	keyWait
 	end
@@ -46012,7 +46011,7 @@ script 79 mmbn3 {
 	"""
 	Cinco pessoas fantasia-
 	das de Navis? Espero
-	que a gente acha elas!
+	que a gente ache elas!
 	"""
 	keyWait
 	end
@@ -47903,8 +47902,8 @@ script 101 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	É aqui o Angra Plaza,
-	né?
+	O Angra Plaza fica por
+	aqui, né?
 	"""
 	keyWait
 	end
@@ -52271,7 +52270,7 @@ script 138 mmbn3 {
 		mugshot = CapBoy
 	msgOpen
 	"""
-	Aquele menino é amigo
+	Aquele cara era amigo
 	seu?
 	"""
 	keyWait
@@ -52295,7 +52294,7 @@ script 141 mmbn3 {
 	msgOpen
 	"""
 	Finalmente, eu comprei
-	um daqueles novos
+	uma daquelas novas
 	lava-louças!
 	"""
 	keyWait
@@ -52403,7 +52402,7 @@ script 152 mmbn3 {
 	msgOpen
 	"""
 	Todos parecem bem
-	agitados lá fora.
+	agitados aqui fora.
 	Houve algum problema?
 	"""
 	keyWait
@@ -52421,9 +52420,8 @@ script 153 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	A minha casa inteira
-	estava coberta de
-	bolhas...!
+	A casa inteira estava
+	coberta de bolhas...!
 	"""
 	keyWait
 	end
@@ -52553,14 +52551,14 @@ script 165 mmbn3 {
 	msgOpen
 	"""
 	As bolhas, finalmente,
-	pararam...
+	sumiram...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Suponho que os Oficiais,
-	enfim, vieram e nos
-	salvaram?
+	Suponho que os Oficiais
+	vieram e nos salvaram,
+	no final?
 	"""
 	keyWait
 	end
@@ -53543,15 +53541,15 @@ script 241 mmbn3 {
 script 242 mmbn3 {
 	msgOpen
 	"""
-	You hear a bubbling
-	sound and an old
-	woman's scream!
+	Você ouve sons de
+	bolhas e o grito de
+	uma senhorinha!
 	"""
 	keyWait
 	clearMsg
 	"""
-	"Grandpaaaa!
-	Help meeeee!"
+	"Queriiidooooo!
+	Socooorrrooooo!"
 	"""
 	keyWait
 	end
@@ -53561,9 +53559,9 @@ script 243 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's go to Dex's
-	house and see if
-	he's there or not!
+	Vamos lá na casa do
+	Dex, ver se ele ainda
+	tá lá!
 	"""
 	keyWait
 	end
@@ -53571,9 +53569,9 @@ script 243 mmbn3 {
 script 244 mmbn3 {
 	msgOpen
 	"""
-	You smell something
-	burning from inside
-	the house!
+	Você sente o cheiro de
+	alguma coisa queimando
+	vindo de dentro da casa!
 	"""
 	keyWait
 	end
@@ -53650,16 +53648,15 @@ script 0 mmbn3 {
 		mugshot = BlueShirtBoy
 	msgOpen
 	"""
-	The Metroline to
-	Beach Stn will open
-	with the start of
+	A Metrolinha pra Estação
+	Angra vai ser inaugurada
+	ao começo do N1.
 	"""
 	keyWait
 	clearMsg
 	"""
-	the N1. I guess it's
-	because so many
-	people will go.
+	Porque um monte de
+	gente vai pra lá, imagino.
 	"""
 	keyWait
 	end
@@ -53683,16 +53680,16 @@ script 1 mmbn3 {
 		mugshot = Man
 	msgOpen
 	"""
-	I got a ticket for
-	the N1! Sure was
-	hard to get!
+	Eu consegui um ingresso
+	pro N1! E, olha, não foi
+	fácil, viu?
 	"""
 	keyWait
 	clearMsg
 	"""
-	It's so popular,
-	the tickets are all
-	sold out already!
+	É tão popular, que todos
+	os ingressos já estão
+	esgotados!
 	"""
 	keyWait
 	end
@@ -53702,16 +53699,16 @@ script 2 mmbn3 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	The DNN TV station
-	is near the ocean
-	on Beach Street.
+	O prédio da emissora
+	DNN fica perto da praia,
+	na Rua Angra.
 	"""
 	keyWait
 	clearMsg
 	"""
-	It's a very nice
-	place. The ocean
-	air smells great!
+	É um lugar bem bonito.
+	A brisa do oceano tem
+	aquele cheirinho bom!
 	"""
 	keyWait
 	end
@@ -53721,9 +53718,9 @@ script 3 mmbn3 {
 		mugshot = OldMan
 	msgOpen
 	"""
-	Things have changed
-	so much! NetBattling
-	is popular now,eh?
+	As coisas mudaram tanto!
+	NetLutas são bem
+	populares agora, hein?
 	"""
 	keyWait
 	end
@@ -53747,9 +53744,9 @@ script 4 mmbn3 {
 		mugshot = Girl
 	msgOpen
 	"""
-	You guys all have
-	home pages? I should
-	make one,too…
+	Vocês todos têm
+	páginas? Eu devia fazer
+	uma, também...
 	"""
 	keyWait
 	end
@@ -53765,15 +53762,15 @@ script 10 mmbn3 {
 		mugshot = BlueShirtBoy
 	msgOpen
 	"""
-	The Beach Street
-	station has opened!
+	A estação da Rua Angra
+	foi inaugurada!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'm going there to
-	watch the N1 at
-	the TV station!
+	Eu vou lá pra assistir o
+	N1 do prédio da emissora
+	de TV!
 	"""
 	keyWait
 	end
@@ -53783,8 +53780,8 @@ script 11 mmbn3 {
 		mugshot = Man
 	msgOpen
 	"""
-	Today should be a
-	lot of fun!
+	Ah, vai ser tão
+	divertido, hoje!
 	"""
 	keyWait
 	end
@@ -53794,15 +53791,14 @@ script 12 mmbn3 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	I hope that someone
-	from Electopia wins!
+	Espero que o vencedor
+	seja alguém de Ni-Hon!
 	"""
 	keyWait
 	clearMsg
 	"""
-	It would be a shame
-	to lose to another
-	country…
+	Seria vergonhoso
+	perder pra outro país...
 	"""
 	keyWait
 	end
@@ -53812,9 +53808,9 @@ script 13 mmbn3 {
 		mugshot = OldMan
 	msgOpen
 	"""
-	So you're the kid
-	from ACDC who will
-	be in the N1!
+	Então, você é o menino
+	de ACDC que vai competir
+	no N1!
 	"""
 	keyWait
 	end
@@ -53824,9 +53820,9 @@ script 14 mmbn3 {
 		mugshot = Girl
 	msgOpen
 	"""
-	I'm going with my
-	family to watch the
-	N1! Good luck,Lan!
+	Eu vou com a minha
+	família assistir o N1!
+	Boa sorte, Lan!
 	"""
 	keyWait
 	end
@@ -53845,9 +53841,9 @@ script 15 mmbn3 {
 		mugshot = OldWoman
 	msgOpen
 	"""
-	All them youngsters
-	went off to watch
-	that N1 thing!
+	Todos os jovens
+	foram-se embora,
+	ver esse tal de N1!
 	"""
 	keyWait
 	end
@@ -53857,9 +53853,9 @@ script 16 mmbn3 {
 		mugshot = MetrolineMan
 	msgOpen
 	"""
-	The N1 tour will
-	soon depart! Please
-	get ready,everyone!
+	A passeio em grupo para
+	o N1 vai começar!
+	Formem fila, pessoal!
 	"""
 	keyWait
 	end
@@ -53874,9 +53870,9 @@ script 20 mmbn3 {
 		mugshot = OldMan
 	msgOpen
 	"""
-	The only ones left
-	in town are us old
-	folks…
+	Os únicos que ficaram
+	na cidade fomos nós,
+	os velhotes...
 	"""
 	keyWait
 	end
@@ -53886,23 +53882,22 @@ script 21 mmbn3 {
 		mugshot = OldWoman
 	msgOpen
 	"""
-	Hmph! I think that
-	NetBattling should
-	only be done to
+	Hmpf! Pra mim, NetLutas
+	deviam ser só pra
+	proteção própria,
 	"""
 	keyWait
 	clearMsg
 	"""
-	protect yourself,
-	not as a sporting
-	event!
+	não pra dar uma de
+	esporte!
 	"""
 	keyWait
 	clearMsg
 	"""
-	What if one of
-	those poor Navis
-	gets hurt?
+	E se um dos coitados
+	dos Navis se machucar,
+	hein?
 	"""
 	keyWait
 	end
@@ -53916,30 +53911,29 @@ script 22 mmbn3 {
 		mugshot = OldMan
 	msgOpen
 	"""
-	Hmm,it looks like
-	the N1 semi-finals
-	have started…
+	Hmm, parece que já
+	começaram as semifinais
+	do N1...
 	"""
 	keyWait
 	clearMsg
 	"""
-	How do I know,even
-	though I'm here,
-	you ask
+	"Como eu sei, estando
+	aqui"?
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'm listening to the
-	radio with my ear
-	phones!
+	Estou ouvido ao rádio
+	com meus fones de
+	ouvido!
 	"""
 	keyWait
 	clearMsg
 	"""
-	The N1 is the only
-	thing that's on the
-	air right now!
+	O N1 é a única coisa
+	passando em todas as
+	estações!
 	"""
 	keyWait
 	end
@@ -53949,9 +53943,9 @@ script 23 mmbn3 {
 		mugshot = OldWoman
 	msgOpen
 	"""
-	I'd rather talk to
-	my Navi,rather than
-	make it fight!
+	Eu preferiria conversar
+	com o meu Navi a
+	forçá-lo a lutar!
 	"""
 	keyWait
 	end
@@ -53961,16 +53955,16 @@ script 24 mmbn3 {
 		mugshot = OldMan
 	msgOpen
 	"""
-	What!? "Q" was that
-	N1 producer Sunayama
-	and a WWW member!?
+	Quê?! O "Q" era o Suna-
+	yama, aquele produtor do
+	N1 e membro da WWW?!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I can't believe what
-	I'm hearing on
-	my radio!!
+	Esse rádio que eu tô
+	ouvindo está
+	inacreditável!!
 	"""
 	keyWait
 	end
@@ -53995,16 +53989,16 @@ script 25 mmbn3 {
 		mugshot = OldMan
 	msgOpen
 	"""
-	I go to Seaside
-	Hospital all the
-	time…
+	Eu vou ao Hospital
+	Beira-Mar com muita
+	frequência...
 	"""
 	keyWait
 	clearMsg
 	"""
-	It's on Beach Street
-	but the road is
-	closed for the N1!
+	Fica na Rua Angra, mas
+	a estrada para ele está
+	fechada devido ao N1!
 	"""
 	keyWait
 	end
@@ -54024,28 +54018,27 @@ script 26 mmbn3 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	I just love
-	Beach Street!
+	Eu adoro a Rua Angra!
 	"""
 	keyWait
 	clearMsg
 	"""
-	It's full of famous
-	people,and right on
-	the ocean!
+	É cheia de gente
+	famosa e, ainda por cima,
+	fica pertinho da praia!
 	"""
 	keyWait
 	clearMsg
 	"""
-	And there's a
-	hospital nearby,
-	just in case!
+	Ah, e também tem um
+	hospital lá, pra caso
+	alguma coisa aconteça.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I wish I could
-	live around there!
+	Ai, eu queria poder morar
+	lá!
 	"""
 	keyWait
 	end
@@ -54070,15 +54063,14 @@ script 27 mmbn3 {
 		mugshot = OldWoman
 	msgOpen
 	"""
-	Things are so
-	dangerous these days
-	with the WWW around…
+	As coisas andam tão
+	perigosas ultimamente,
+	com a WWW e tudo mais...
 	"""
 	keyWait
 	clearMsg
 	"""
-	I never seem to be
-	able to relax!
+	Está impossível relaxar!
 	"""
 	keyWait
 	end
@@ -54093,16 +54085,15 @@ script 31 mmbn3 {
 		mugshot = OldMan
 	msgOpen
 	"""
-	You're taking jobs
-	from the Job BBS?
-	At your age?
+	Você está aceitando
+	pedidos do Fórum de
+	Missões? Novinho assim?
 	"""
 	keyWait
 	clearMsg
 	"""
-	It's good to see a
-	young man with
-	such character!
+	É tão bom ver um jovem
+	com tanto caráter!
 	"""
 	keyWait
 	end
@@ -54112,16 +54103,16 @@ script 32 mmbn3 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	This park is often
-	used as a meeting
-	place.
+	Este parque costuma
+	ser usado como ponto
+	de encontro.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I use it to meet
-	with clients
-	all the time!
+	Eu uso ele para me
+	encontrar com clientes
+	o tempo todo!
 	"""
 	keyWait
 	end
@@ -54131,9 +54122,9 @@ script 35 mmbn3 {
 		mugshot = OldMan
 	msgOpen
 	"""
-	You sure are active
-	this morning! Don't
-	rush around so much!
+	Você anda tão ativo,
+	hoje! Tenta não
+	exagerar na correria!
 	"""
 	keyWait
 	end
@@ -54143,15 +54134,15 @@ script 36 mmbn3 {
 		mugshot = OldWoman
 	msgOpen
 	"""
-	The people in that
-	house were packing
-	all morning.
+	As pessoas daquela casa
+	passaram a manhã inteira
+	enchendo malas e caixas.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I wonder if they're
-	going on a trip?
+	Será que a família vai
+	sair em viagem?
 	"""
 	keyWait
 	end
@@ -54161,15 +54152,15 @@ script 38 mmbn3 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	You know,the bus
-	seems to always be
-	late at this stop!
+	Sabe, os ônibus SEMPRE
+	se atrasam nesta
+	parada!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'll be late for
-	my date!
+	Eu vou chegar tarde
+	no meu encontro!
 	"""
 	keyWait
 	end
@@ -54179,15 +54170,15 @@ script 39 mmbn3 {
 		mugshot = OldWoman
 	msgOpen
 	"""
-	What?
-	They moved…?
+	Quê?
+	Eles se mudaram...?
 	"""
 	keyWait
 	clearMsg
 	"""
-	How sad! I always
-	loved to watch
-	their child play…
+	Que triste! Eu adorava
+	ver o filho da família
+	brincando...
 	"""
 	keyWait
 	end
@@ -54197,8 +54188,8 @@ script 40 mmbn3 {
 		mugshot = Man
 	msgOpen
 	"""
-	Have you ever heard
-	of the rare chip
+	Por acaso, você já
+	ouviu falar do chip raro
 	"
 	"""
 	printChip
@@ -54211,27 +54202,26 @@ script 40 mmbn3 {
 	"\"?"
 	keyWait
 	clearMsg
-	"A virus called\n"
+	"Um vírus chamado\n"
 	printEnemyName
 		buffer = 0
 		enemy = 22
 	"""
-	 drops
-	them sometimes!
+	 deixa cair,
+	às vezes!
 	"""
 	keyWait
 	clearMsg
 	"""
-	If you want one,
-	try going to
-	Beach Square!
+	Se quiser um, tente ir lá
+	no Angra Plaza!
 	"""
 	keyWait
 	clearMsg
 	"""
-	There's a Navi there
-	who knows a lot
-	about 
+	Tem um certo Navi lá
+	que absolutamente tudo
+	sobre 
 	"""
 	printEnemyName
 		buffer = 0
@@ -54244,19 +54234,18 @@ script 41 mmbn3 {
 	mugshotShow
 		mugshot = BlueShirtBoy
 	msgOpen
-	"So Dex moved,huh?"
+	"Então, o Dex se mudou..."
 	keyWait
 	clearMsg
 	"""
-	Well,we're still
-	friends with him,
-	right?
+	Bom, a gente e ele ainda
+	somos amigos, né?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Let's try not to get
-	too down about it!
+	Vamos tentar não ficar
+	tristes demais com isso!
 	"""
 	keyWait
 	end
@@ -54267,7 +54256,7 @@ script 43 mmbn3 {
 		jumpIfTrue = continue
 		jumpIfFalse = 241
 	msgOpen
-	"The door is locked"
+	"A porta está trancada."
 	keyWait
 	end
 }
@@ -54282,16 +54271,16 @@ script 45 mmbn3 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	I'm waiting on the
-	bus again,but it
-	still won't come…!
+	Tô esperando o ônibus
+	de novo, e ele não
+	chega NUNCA...!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Maybe I should take
-	the Metroline,
-	like you…
+	Talvez eu devesse usar
+	a Metrolinha, que nem
+	você...
 	"""
 	keyWait
 	end
@@ -54301,9 +54290,9 @@ script 46 mmbn3 {
 		mugshot = OldWoman
 	msgOpen
 	"""
-	What's everyone so
-	excited about? Did
-	something happen?
+	Por que estão todos tão
+	animados? Aconteceu
+	alguma coisa?
 	"""
 	keyWait
 	end
@@ -54313,16 +54302,16 @@ script 47 mmbn3 {
 		mugshot = OldMan
 	msgOpen
 	"""
-	What!?
-	Your friend is
-	having surgery!?
+	O quê?!
+	O seu amiguinho está
+	fazendo cirurgia?!
 	"""
 	keyWait
 	clearMsg
 	"""
-	You should go be
-	with him! I'm sure
-	he would like that!
+	Você devia ir ficar ao
+	lado dele! Ele, com
+	certeza, adoraria isso!
 	"""
 	keyWait
 	end
@@ -54332,16 +54321,15 @@ script 48 mmbn3 {
 		mugshot = Man
 	msgOpen
 	"""
-	I recently saw a
-	dangerous-looking
-	man with red hair
+	Um dia desses, vi um
+	cara ruivo mal-encarado
+	quando fui no SciLab.
 	"""
 	keyWait
 	clearMsg
 	"""
-	when I went to
-	SciLab. He didn't
-	fit in,somehow…
+	Ele não parecia se
+	encaixar lá, sabe...?
 	"""
 	keyWait
 	end
@@ -54351,15 +54339,15 @@ script 49 mmbn3 {
 		mugshot = Girl
 	msgOpen
 	"""
-	I heard how you
-	saved the hospital!
+	Ouvi dizer que você
+	salvou o hospital!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Wow! I could never
-	do something like
-	that!
+	Caramba!
+	Eu nunca seria capaz
+	de um feito desses!
 	"""
 	keyWait
 	end
@@ -54369,9 +54357,9 @@ script 50 mmbn3 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	That's amazing,that
-	you're getting a
-	commendation!
+	Que demais que você
+	vai receber uma
+	condecoração!
 	"""
 	keyWait
 	end
@@ -54381,15 +54369,15 @@ script 51 mmbn3 {
 		mugshot = Yai
 	msgOpen
 	"""
-	Good for you! I've
-	never gotten an
-	award like that…
+	Tô feliz por você!
+	Nossa, eu nunca ganhei
+	um prêmio assim...
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'm a little
-	jealous!
+	Estou só com um
+	POUQUINHO de inveja!
 	"""
 	keyWait
 	end
@@ -54399,9 +54387,9 @@ script 52 mmbn3 {
 		mugshot = MsMari
 	msgOpen
 	"""
-	The presentation is
-	at the Virus Lab
-	in SciLab!
+	A premiação será no
+	Laboratório de Vírus
+	do SciLab!
 	"""
 	keyWait
 	end
@@ -54411,16 +54399,15 @@ script 53 mmbn3 {
 		mugshot = BlueShirtBoy
 	msgOpen
 	"""
-	I hear that security
-	is really tight
-	at SciLab…
+	Ouvi dizer que a
+	segurança do SciLab é
+	bem rígida...
 	"""
 	keyWait
 	clearMsg
 	"""
-	I bet even the WWW
-	can't break in
-	there!
+	Aposto que nem a WWW
+	conseguiria invadir lá!
 	"""
 	keyWait
 	end
@@ -54434,16 +54421,16 @@ script 55 mmbn3 {
 		mugshot = Man
 	msgOpen
 	"""
-	What…!?
-	SciLab is on fire!?
-	That's horrible!
+	O quê...?!
+	Incêndio no SciLab?!
+	Que horror!
 	"""
 	keyWait
 	clearMsg
 	"""
-	All of Electopia
-	relies on SciLab's
-	computer systems!
+	Toda a Ni-Hon depende
+	dos sistemas de
+	computador do SciLab!
 	"""
 	keyWait
 	end
@@ -54457,16 +54444,15 @@ script 56 mmbn3 {
 		mugshot = Girl
 	msgOpen
 	"""
-	I learned that
-	SciLab stores lots
-	of different data…
+	Eu aprendi que o SciLab
+	armazena vários tipos
+	diferentes de dados...
 	"""
 	keyWait
 	clearMsg
 	"""
-	If we were to lose
-	that data and the
-	Net were to fail…
+	Se perdêssemos esses
+	dados e a Rede ruísse...
 	"""
 	keyWait
 	end
@@ -54480,22 +54466,21 @@ script 57 mmbn3 {
 		mugshot = BlueShirtBoy
 	msgOpen
 	"""
-	Did you hear the
-	news? How can SciLab
-	be on fire?
+	Ouviu as notícias?
+	Como pode o SciLab
+	estar em chamas?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Hey,you just went to
-	SciLab recently,
-	didn't you?
+	Aí, você teve lá no
+	Scilab esses dias, né?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Did you notice
-	anything strange?
+	Notou alguma coisa
+	estranha?
 	"""
 	keyWait
 	end
@@ -54509,15 +54494,15 @@ script 60 mmbn3 {
 		mugshot = Man
 	msgOpen
 	"""
-	Ow ow ow!
-	My NetWatch just got
-	incredibly hot!!!
+	Ai ai ai!
+	Meu NetRelógio ficou bem
+	quente, de repente!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I have to take
-	this thing off! OW!
+	Preciso tirar esta coisa!
+	AI!
 	"""
 	keyWait
 	end
@@ -54531,15 +54516,15 @@ script 61 mmbn3 {
 		mugshot = Girl
 	msgOpen
 	"""
-	Oh,no! All of the
-	appliances in my
-	house are online!
+	Essa não! Todos os
+	eletrodomésticos lá de
+	casa são online!
 	"""
 	keyWait
 	clearMsg
 	"""
-	My house will
-	burn up!
+	A minha casa vai pegar
+	fogo!
 	"""
 	keyWait
 	end
@@ -54553,16 +54538,16 @@ script 62 mmbn3 {
 		mugshot = BlueShirtBoy
 	msgOpen
 	"""
-	All Net devices are
-	heating up and going
-	berserk!?
+	Todos os dispositivos de
+	Rede estão aquecendo
+	e saindo do controle?!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Oh,no! That game
-	machine I bought is
-	hooked to the Net!
+	Ai, não! O console novo
+	que eu comprei tá ligado
+	na Rede!
 	"""
 	keyWait
 	end
@@ -54572,16 +54557,16 @@ script 65 mmbn3 {
 		mugshot = Man
 	msgOpen
 	"""
-	I heard that someone
-	at SciLab braved the
-	heat to save us!
+	Ouvi dizer que alguém
+	desbravou o calor no
+	SciLab para nos salvar!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I wish I was that
-	cool. I was just
-	running around…
+	Queria eu ser incrível
+	assim. Eu só fiquei
+	correndo, em pânico...
 	"""
 	keyWait
 	end
@@ -54591,15 +54576,15 @@ script 66 mmbn3 {
 		mugshot = Girl
 	msgOpen
 	"""
-	I'm so glad that my
-	house didn't burn…
+	Tô tão feliz que a minha
+	casa não pegou fogo...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Luckily,I had blown
-	a fuse,so all of my
-	devices were off…
+	Felizmente, queimei um
+	fusível. Meus aparelhos
+	estavam desligados...
 	"""
 	keyWait
 	end
@@ -54609,15 +54594,14 @@ script 67 mmbn3 {
 		mugshot = BlueShirtBoy
 	msgOpen
 	"""
-	I can't believe it!
-	My networked game
-	machine…!
+	Não acredito nisso!
+	Meu console de video
+	game ligado à Rede...!
 	"""
 	keyWait
 	clearMsg
 	"""
-	The whole thing
-	just melted!
+	Ele derretou todinho!
 	Aaaahhhhhh!!!
 	"""
 	keyWait
@@ -54657,15 +54641,15 @@ script 120 mmbn3 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	Have you been to
-	the Undernet?
+	Você já foi na
+	Undernet?
 	"""
 	keyWait
 	clearMsg
 	"""
-	I heard that it's
-	full of scary
-	people…
+	Pelo que eu ouço falar,
+	lá é cheio de gente
+	sinistra...
 	"""
 	keyWait
 	end
@@ -54685,15 +54669,16 @@ script 121 mmbn3 {
 		mugshot = Girl
 	msgOpen
 	"""
-	That fire at SciLab
-	really scared me…
+	Aquele incêndio no
+	SciLab me deu medo pra
+	caramba...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Doesn't your dad
-	work there? I hope
-	he was OK!
+	O seu pai trabalha lá,
+	não é? Espero que ele
+	tenha ficado bemn!
 	"""
 	keyWait
 	end
@@ -54718,9 +54703,9 @@ script 122 mmbn3 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	I can't believe all
-	of these recent WWW
-	crimes we've had!
+	Eu não acredito em
+	todos esses crimes da
+	WWW que vemos vendo!
 	"""
 	keyWait
 	end
@@ -54740,16 +54725,16 @@ script 123 mmbn3 {
 		mugshot = OldMan
 	msgOpen
 	"""
-	With all of these
-	bad things happening
-	recently,
+	Com todas essas
+	atrocidades que andam
+	acontecendo,
 	"""
 	keyWait
 	clearMsg
 	"""
-	I've started to
-	think that we rely
-	on the Net too much!
+	eu comecei a pensar que
+	nós dependemos demais
+	da Rede!
 	"""
 	keyWait
 	end
@@ -54774,14 +54759,14 @@ script 124 mmbn3 {
 		mugshot = ZooMan
 	msgOpen
 	"""
-	Mmmhmm!
-	Mmmhmm!
+	Mmmhum!
+	Mmmhum!
 	"""
 	keyWait
 	clearMsg
 	mugshotAnimate
 		animation = 1
-	"All safe and secure…"
+	"Tudo seguro..."
 	keyWait
 	end
 }
@@ -54790,15 +54775,15 @@ script 126 mmbn3 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	A strange man was
-	hanging around here…
-	He's not WWW,is he?
+	Tinha um cara esquisito
+	zanzando por aqui...
+	Não era da WWW, era?
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'm a little
-	worried!
+	Putz, tô meio
+	preocupado!
 	"""
 	keyWait
 	end
@@ -54808,14 +54793,14 @@ script 127 mmbn3 {
 		mugshot = Girl
 	msgOpen
 	"""
-	What? Your father is
-	in the hospital!?
+	Quê? O seu pai tá no
+	hospital?!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I hope that he'll
-	be OK!
+	Espero que ele fique
+	bem!
 	"""
 	keyWait
 	end
@@ -54825,9 +54810,9 @@ script 128 mmbn3 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	I can't shake the
-	feeling something
-	bad will happen…
+	Não consigo deixar de
+	sentir que uma coisa ruim
+	está pra acontecer...
 	"""
 	keyWait
 	end
@@ -54837,15 +54822,15 @@ script 129 mmbn3 {
 		mugshot = OldMan
 	msgOpen
 	"""
-	Well,you certainly
-	seem chipper today!
+	Oh, você parece bem
+	animado, hoje!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Has a weight been
-	lifted off your
-	shoulders?
+	Por acaso um grande
+	peso foi tirado das suas
+	costas?
 	"""
 	keyWait
 	end
@@ -54855,16 +54840,16 @@ script 130 mmbn3 {
 		mugshot = ZooMan
 	msgOpen
 	"""
-	Me? A WWW member?
-	Hahaha!
-	I'm an Official!
+	Eu? Membro da WWW?
+	Ha ha ha!
+	Eu sou um Oficial!
 	"""
 	keyWait
 	clearMsg
 	"""
-	We never know what
-	will happen next,so
-	I'm on patrol…
+	Nunca se sabe o que
+	acontecerá em seguida,
+	daí, estou patrulhando...
 	"""
 	keyWait
 	end
@@ -54874,9 +54859,9 @@ script 132 mmbn3 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	The Officials have
-	been quite active on
-	the Net recently…
+	Os Oficiais andam bem
+	ativos na Rede, estes
+	dias...
 	"""
 	keyWait
 	end
@@ -54886,9 +54871,8 @@ script 133 mmbn3 {
 		mugshot = Girl
 	msgOpen
 	"""
-	I hope your father
-	gets out of the
-	hospital soon!
+	Espero que o seu pai
+	leve logo alta do hospital!
 	"""
 	keyWait
 	end
@@ -54898,14 +54882,14 @@ script 134 mmbn3 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	I'm very sensitive
-	to bad vibrations…
+	Eu sou meio sensível a
+	más vibrações...
 	"""
 	keyWait
 	clearMsg
 	"""
-	And I feel something
-	bad coming soon!
+	E sinto uma coisa bem
+	ruim chegando em breve!
 	"""
 	keyWait
 	end
@@ -54915,9 +54899,9 @@ script 135 mmbn3 {
 		mugshot = OldMan
 	msgOpen
 	"""
-	I don't know what
-	you're looking for,
-	but you'll find it!
+	Não sei pelo que você
+	tá procurando, mas sei
+	que vai encontrar!
 	"""
 	keyWait
 	end
@@ -54927,9 +54911,9 @@ script 136 mmbn3 {
 		mugshot = ZooMan
 	msgOpen
 	"""
-	You know Chaud,
-	right? He's an
-	amazing NetBattler…
+	Você conhece o Chaud,
+	não é? Ele é um
+	NetLutador incrível...
 	"""
 	keyWait
 	end
@@ -54939,9 +54923,9 @@ script 137 mmbn3 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	SciLab area is under
-	attack on the Net
-	by the WWW!
+	A área SciLab tá sob
+	ataque, na Rede, pela
+	WWW!
 	"""
 	keyWait
 	end
@@ -54951,16 +54935,15 @@ script 138 mmbn3 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	Looks like they're
-	up to something
-	again!
+	Parece que eles tão
+	aprontando alguma coisa,
+	de novo!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I told you something
-	bad was going to
-	happen!
+	Eu disse que uma coisa
+	ruim ia acontecer!
 	"""
 	keyWait
 	end
@@ -54970,15 +54953,16 @@ script 139 mmbn3 {
 		mugshot = ZooMan
 	msgOpen
 	"""
-	What? SciLab area!?
-	I have to jack in!!
+	O quê? A área SciLab?!
+	Eu tenho que me
+	conectar!!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'm new to this job!
-	I'm not sure what
-	to do!
+	Sou novo na profissão!
+	Não sei bem o que devo
+	fazer!
 	"""
 	keyWait
 	end
@@ -54991,19 +54975,19 @@ script 140 mmbn3 {
 	mugshotShow
 		mugshot = Dex
 	msgOpen
-	"Hey,Lan!"
+	"Aí, Lan!"
 	keyWait
 	clearMsg
 	"""
-	School was closed,
-	and there are tanks
-	driving around!
+	A escola fechou, um
+	monte de tanques tão
+	descendo as ruas...!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Just what on earth
-	is going on?
+	Mas o que é que tá
+	rolando aqui?
 	"""
 	keyWait
 	clearMsg
@@ -55026,21 +55010,22 @@ script 141 mmbn3 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	Someone from the
-	Army told me to stay
-	at home! What's up!?
+	Uma pessoa do Exército
+	me mandou ficar em casa!
+	O que tá acontecendo?!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I don't like this…
-	Here,Lan,take this!
+	Eu não gosto nada
+	disso...
+	Toma, Lan, fica com isto!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I want you to
-	have it…
+	Quero que leve com
+	você...
 	"""
 	keyWait
 	clearMsg
@@ -55081,15 +55066,15 @@ script 142 mmbn3 {
 		mugshot = Yai
 	msgOpen
 	"""
-	Lan,help me! This
-	station worker
-	won't let me in!
+	Lan, ajuda aqui! Este
+	funcionário da estação
+	não me deixa entrar!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Just who does he
-	think I am!?
+	Ele tem NOÇÃO de com
+	quem ele tá falando?!
 	"""
 	keyWait
 	flagSet
@@ -55103,13 +55088,13 @@ script 143 mmbn3 {
 		mugshot = MetrolineMan
 	msgOpen
 	"""
-	Oh,you're an
-	Official?
-	My apologies!
+	Ah, você é um Oficial?
+	Minhas sinceras
+	desculpas, senhor!
 	"""
 	keyWait
 	clearMsg
-	"Please,go ahead."
+	"Por favor, prossiga."
 	keyWait
 	msgClose
 	checkFlag
@@ -55135,13 +55120,13 @@ script 145 mmbn3 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Is Electopia the
-	only country that's
-	affected like this?
+	Ni-Hon é o único país
+	sendo afetado deste
+	jeito?
 	"""
 	keyWait
 	clearMsg
-	"I hope Chisao is OK…"
+	"Só espero que o Chisao\nteja bem..."
 	keyWait
 	end
 }
@@ -55150,9 +55135,9 @@ script 146 mmbn3 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	I wonder what could
-	be going on? I'm
-	so worried!
+	O que será que tá
+	acontecendo?
+	Eu tô tão preocupada!
 	"""
 	keyWait
 	end
@@ -55162,15 +55147,15 @@ script 147 mmbn3 {
 		mugshot = Yai
 	msgOpen
 	"""
-	But,those aren't
-	Officials in town!
+	Mas... esse pessoal na
+	cidade não são Oficiais!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Don't tell me that a
-	war is about to
-	start…?
+	Não vai me dizer que tá
+	pra começar uma
+	guerra...!
 	"""
 	keyWait
 	end
@@ -55180,16 +55165,16 @@ script 148 mmbn3 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	I'm the captain of
-	the Electopia 8th
-	tank division!
+	Sou o capitão da oitava
+	divisão de tanques de
+	Ni-Hon!
 	"""
 	keyWait
 	clearMsg
 	"""
-	We are under a Code
-	"A" emergency!
-	Stay in your home!
+	Estamos sob Código
+	de Emergência "A"!
+	Não saia de casa!
 	"""
 	keyWait
 	end
@@ -55199,15 +55184,15 @@ script 149 mmbn3 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	I'll never make it
-	to work like this!
+	Desse jeito, eu nunca
+	vou chegar no trabalho!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Why would they need
-	to bring tanks
-	into the town?
+	Por que precisariam
+	colocar tanques no
+	bairro?
 	"""
 	keyWait
 	end
@@ -55217,9 +55202,9 @@ script 150 mmbn3 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	What's going on? I
-	didn't see anything
-	about war on TV!?
+	O que tá acontecendo?
+	Eu não vi nenhuma notícia
+	de guerra na TV!
 	"""
 	keyWait
 	end
@@ -55233,25 +55218,25 @@ script 155 mmbn3 {
 		mugshot = MetrolineMan
 	msgOpen
 	"""
-	Please! Call the
-	Officials!
+	Por favor!
+	Chamem os Oficiais!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Those children are
-	being attacked by
-	a tank!
+	Aquelas crianças estão
+	sendo atacadas por um
+	tanque!
 	"""
 	keyWait
 	clearMsg
-	"YOU will help them!?"
+	"VOCÊ vai ajudá-las?!"
 	keyWait
 	clearMsg
 	"""
-	How could you help?
-	You're just a kid
-	yourself!
+	Mas... como?
+	Você é só uma criança,
+	também!
 	"""
 	keyWait
 	end
@@ -55265,16 +55250,16 @@ script 156 mmbn3 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	The tanks aren't
-	following orders!
-	They've gone crazy!
+	Os tanques se recusam
+	a seguir ordens!
+	Deram pane total!
 	"""
 	keyWait
 	clearMsg
 	"""
-	We have to get these
-	people to safety!
-	You should run,too!
+	Temos que levar estas
+	pessoas a um local segu-
+	ro! Você: fuja também!
 	"""
 	keyWait
 	end
@@ -55284,16 +55269,15 @@ script 157 mmbn3 {
 		mugshot = MetrolineMan
 	msgOpen
 	"""
-	What? Military
-	devices around the
-	world are
+	Quê? Aparelhos militares
+	estão apresentando
+	esse tipo de defeito
 	"""
 	keyWait
 	clearMsg
 	"""
-	malfunctioning like
-	this!? It's the
-	end of the world!
+	pelo mundo todo?!
+	É o fim do mundo!
 	"""
 	keyWait
 	end
@@ -55303,16 +55287,16 @@ script 158 mmbn3 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	These days,most
-	weapons are run
-	from the Net!
+	Hoje em dia, a maioria
+	das armas são operadas
+	através da Rede!
 	"""
 	keyWait
 	clearMsg
 	"""
-	There's nothing that
-	we can do to
-	stop this…!
+	Não há nada que
+	possamos fazer para
+	parar isso...!
 	"""
 	keyWait
 	end
@@ -55322,16 +55306,16 @@ script 160 mmbn3 {
 		mugshot = MetrolineMan
 	msgOpen
 	"""
-	Most people are
-	going to SciLab
-	for shelter.
+	A maioria dos civis
+	estão buscando abrigo
+	no SciLab.
 	"""
 	keyWait
 	clearMsg
 	"""
-	SciLab should be
-	the safest place
-	around!
+	O SciLab deve ser o
+	local mais seguro que há,
+	agora!
 	"""
 	keyWait
 	end
@@ -55341,16 +55325,15 @@ script 161 mmbn3 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	Surely,even you
-	can't do anything
-	now!
+	Ah, vai! Nem você deve
+	poder fazer nada, agora!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I hear that even the
-	Officials can't
-	beat this virus!
+	Fiquei sabendo que nem
+	os Oficiais são capazes
+	de vencer esse vírus!
 	"""
 	keyWait
 	end
@@ -55360,15 +55343,14 @@ script 162 mmbn3 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	There's nowhere that
-	we can hide from the
-	WWW…
+	Não há onde se
+	esconder da WWW...
 	"""
 	keyWait
 	clearMsg
 	"""
-	So I'm just going
-	to stay right here!
+	Então, eu vou ficar aqui
+	mesmo!
 	"""
 	keyWait
 	end
@@ -55378,7 +55360,7 @@ script 163 mmbn3 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Would you like this
+	Você gostaria deste
 	"
 	"""
 	printFolderName
@@ -55386,34 +55368,34 @@ script 163 mmbn3 {
 		entry = 9
 	"""
 	"?
-	It's a folder handed
+	É uma pasta dada
 	"""
 	keyWait
 	clearMsg
 	"""
-	down from an
-	apprentice at Hikari
-	Labs. You never know
+	por um aprendiz 
+	Laboratório Hikari.
+	Nunca se sabe quando
 	"""
 	keyWait
 	clearMsg
 	"""
-	when you'll need it.
-	It's good to keep
-	a strong folder!
+	pode precisar dela.
+	É sempre bom ter uma
+	pasta forte na manga!
 	"""
 	keyWait
 	clearMsg
 	"""
-	If you take it,it
-	will overwrite your
-	Extra Folder,though!
+	Mas, se levá-la, ela irá
+	sobrescrever a sua
+	Pasta Extra!
 	"""
 	keyWait
 	clearMsg
 	"""
-	If that's OK,please
-	take this
+	Se você aceitar, por
+	favor, pode levar esta
 	"
 	"""
 	printFolderName
@@ -55430,7 +55412,7 @@ script 163 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Please! "
+	"   Claro! "
 	option
 		left = 0
 		right = 0
@@ -55438,7 +55420,7 @@ script 163 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"No,thanks"
+	"         Não"
 	select
 		default = 0
 		BSeparate = false
@@ -55449,12 +55431,12 @@ script 163 mmbn3 {
 			jump = continue,
 			jump = continue
 		]
+	clearMsg
 	mugshotShow
 		mugshot = SciLabMan
 	"""
-	I see. Well,if
-	you want it later,
-	come back again!
+	Entendo. Bom, se mudar
+	de ideia, é só voltar aqui!
 	"""
 	keyWait
 	end
@@ -55466,22 +55448,22 @@ script 164 mmbn3 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	OK,I'll transmit the
+	Certo, transmitirei o
 	"
 	"""
 	printFolderName
 		buffer = 0
 		entry = 9
-	"\" now…"
+	"\" agora..."
 	keyWait
 	clearMsg
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
 	keyWait
@@ -55489,9 +55471,9 @@ script 164 mmbn3 {
 	soundPlay
 		track = 220
 	"""
-	Transmission done!
-	Your Extra Folder is
-	now "
+	 Concluída!
+	Sua Pasta Extra, agora,
+	é a "
 	"""
 	printFolderName
 		buffer = 0
@@ -55580,14 +55562,14 @@ script 190 mmbn3 {
 		mugshot = OldWoman
 	msgOpen
 	"""
-	Old as I am,I'm
-	a BattleChip
-	collector. Say…
+	Posso ser velha, mas
+	sou uma colecionadora
+	de chips. Ei...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Would you trade your
+	Aceita trocar o seu
 	"
 	"""
 	printChip
@@ -55598,8 +55580,8 @@ script 190 mmbn3 {
 		buffer = 0
 		code = S
 	"""
-	" for
-	this "
+	" por
+	este "
 	"""
 	printChip
 		buffer = 0
@@ -55619,7 +55601,7 @@ script 190 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Sure! "
+	"   Sim! "
 	option
 		left = 0
 		right = 0
@@ -55627,7 +55609,7 @@ script 190 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No way!"
+	"          Não!"
 	select
 		default = 0
 		BSeparate = false
@@ -55657,8 +55639,8 @@ script 191 mmbn3 {
 		mugshot = OldWoman
 	msgOpen
 	"""
-	Oh,that's wonderful!
-	Thank you,lad!
+	Ah, que ótimo!
+	Obrigada, meu filho!
 	"""
 	keyWait
 	clearMsg
@@ -55700,8 +55682,8 @@ script 193 mmbn3 {
 		mugshot = OldWoman
 	msgOpen
 	"""
-	Now I have a full
-	collection of chips!
+	Agora, minha coleção de
+	chips está completa!
 	"""
 	keyWait
 	end
@@ -55711,8 +55693,8 @@ script 194 mmbn3 {
 		mugshot = OldWoman
 	msgOpen
 	"""
-	Oh…
-	That's too bad…
+	Ah...
+	Puxa, que pena...
 	"""
 	keyWait
 	end
@@ -55722,22 +55704,21 @@ script 195 mmbn3 {
 		mugshot = OldWoman
 	msgOpen
 	"""
-	Hmm. Looks like
-	it's not in your
-	pack…
+	Hmm. Parece não estar
+	na sua mochila...
 	"""
 	keyWait
 	clearMsg
 	"""
-	If the chip is in
-	your folder,you need
-	to take it out!
+	Se o chip estiver na sua
+	pasta, terá que tirá-lo
+	de lá antes!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Sorry to cause so
-	much trouble,lad!
+	Desculpe por toda esta
+	dor de cabeça, meu filho!
 	"""
 	keyWait
 	end
@@ -55747,9 +55728,9 @@ script 196 mmbn3 {
 		mugshot = OldWoman
 	msgOpen
 	"""
-	Hee hee hee! I just
-	love looking at my
-	chip collection!
+	Hi hi hi! Como eu adoro
+	olhar pra minha coleção
+	de chips!
 	"""
 	keyWait
 	end
@@ -55759,13 +55740,13 @@ script 197 mmbn3 {
 		mugshot = OldWoman
 	msgOpen
 	"""
-	Hullo,lad! Did you
-	change your mind?
+	Olá, meu filho!
+	Mudou de ideia?
 	"""
 	keyWait
 	clearMsg
 	"""
-	You'll trade your
+	Aceita trocar o seu
 	"
 	"""
 	printChip
@@ -55776,8 +55757,8 @@ script 197 mmbn3 {
 		buffer = 0
 		code = S
 	"""
-	" for
-	this "
+	" por
+	este "
 	"""
 	printChip
 		buffer = 0
@@ -55797,7 +55778,7 @@ script 197 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Sure! "
+	"   Sim! "
 	option
 		left = 0
 		right = 0
@@ -55805,7 +55786,7 @@ script 197 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No way!"
+	"          Não!"
 	select
 		default = 0
 		BSeparate = false
@@ -55836,71 +55817,69 @@ script 205 mmbn3 {
 	flagSet
 		flag = 1863
 	"""
-	You're the one who
-	accepted the job?
-	Nice to meet you!
+	Foi você quem aceitou
+	a missão?
+	Muito prazer!
 	"""
 	keyWait
 	clearMsg
 	"""
-	OK,let me explain
-	the job to you.
+	OK, vou explicar o
+	pedido, agora.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Like I wrote,I
-	haven't seen my
-	friend for 15 years.
+	Como eu escrevi, tenho
+	um amigo que não vejo
+	há 15 anos.
 	"""
 	keyWait
 	clearMsg
 	"""
-	So I'm not even sure
-	what he looks like
-	now!
+	Então, nem sei ao certo
+	como ele se parece,
+	hoje em dia!
 	"""
 	keyWait
 	clearMsg
 	"""
-	But recently I heard
-	that someone saw
-	his Navi around!
+	Mas, um dia destes, ouvi
+	que avistaram o Navi
+	dele por aí!
 	"""
 	keyWait
 	clearMsg
 	"""
-	It was seen in the
-	Yoka area. You can
-	tell who it is,
+	Ele foi visto na área
+	Yoka. É bem fácil de
+	distingui-lo,
 	"""
 	keyWait
 	clearMsg
 	"""
-	because he says
-	"hey" at the end of
-	every sentence.
+	porque ele termina tudo
+	o que fala com "ei".
 	"""
 	keyWait
 	clearMsg
 	"""
-	Could you please
-	find this Navi to
-	help find my friend?
+	Poderia achar esse
+	Navi pra me ajudar a
+	encontrar o meu amigo?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Please take this
-	paper. If my friend
-	sees it,I'm sure
+	Leve este papel. Se meu
+	amigo o vir, com certeza
+	se lembrará de mim.
 	"""
 	keyWait
 	clearMsg
 	"""
-	that he'll remember
-	me. What's written
-	on it? A secret!!
+	O que tem escrito nele?
+	Isso é segredo!!
 	"""
 	keyWait
 	clearMsg
@@ -55936,7 +55915,7 @@ script 207 mmbn3 {
 	mugshotShow
 		mugshot = Man
 	msgOpen
-	"Thanks!"
+	"Muito obrigado!"
 	keyWait
 	end
 }
@@ -55945,21 +55924,19 @@ script 208 mmbn3 {
 		mugshot = Man
 	msgOpen
 	"""
-	Have you had any
-	luck finding him?
+	Conseguiu achar ele?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Look for the Navi
-	in the Yoka area
-	that always says
+	Procure pelo Navi na
+	área Yoka que termina
+	tudo o que diz
 	"""
 	keyWait
 	clearMsg
 	"""
-	"hey" at the end of
-	every sentence!
+	com "ei"!
 	"""
 	keyWait
 	end
@@ -55973,35 +55950,35 @@ script 209 mmbn3 {
 	flagClear
 		flag = 15
 	"""
-	My friend said that
-	he wants to see me!?
+	O meu amigo disse que
+	quer me ver?!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Thank you so much!
-	Here,let me pay you
-	for your help…
+	Muito obrigado!
+	Tome, seu pagamento
+	pela força...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Huh? You want me to
-	deposit it in
-	Tora's account?
+	Hã? Quer que eu o
+	deposite na conta de
+	Tora Amagoma?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Sure,OK!
-	I will!
+	Claro, sem problemas!
+	Pode deixar!
 	"""
 	keyWait
 	clearMsg
 	"""
-	But you deserve
-	something yourself
-	for a job well done!
+	Mas você também
+	merece uma coisinha pelo
+	trabalho que fez!
 	"""
 	keyWait
 	clearMsg
@@ -56064,9 +56041,9 @@ script 220 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	The holes are too
-	small for an adult
-	to fit through
+	Mantendo em mente que
+	os buracos são peque-
+	nos demais para adultos.
 	"""
 	keyWait
 	end
@@ -56197,22 +56174,21 @@ script 226 mmbn3 {
 		jumpIfOutOfRange = continue
 	msgOpen
 	"""
-	It's locked.
-	It seems to be
-	closed
+	Trancado.
+	Parece estar fechada.
 	"""
 	keyWait
 	end
 }
 script 227 mmbn3 {
 	msgOpen
-	"The bus stop"
+	"A parada de ônibus."
 	keyWait
 	clearMsg
 	"""
-	You've never
-	actually seen a bus
-	stop here,though…
+	Sabe, você nunca viu
+	um ônibus normal parar
+	aqui...
 	"""
 	keyWait
 	end
@@ -56245,8 +56221,8 @@ script 228 mmbn3 {
 		jumpIfOutOfRange = continue
 	msgOpen
 	"""
-	The school gate
-	is tightly shut
+	O portão da escola
+	está bem fechado.
 	"""
 	keyWait
 	end
@@ -56479,15 +56455,15 @@ script 241 mmbn3 {
 script 242 mmbn3 {
 	msgOpen
 	"""
-	You hear a bubbling
-	sound and an old
-	woman's scream!
+	Você ouve o som de
+	bolhas e o grito de uma
+	senhora idosa!
 	"""
 	keyWait
 	clearMsg
 	"""
-	"Grandpaaaa!
-	Help meeeee!"
+	"Queriiiidooooo!
+	Socoooorroooooo!"
 	"""
 	keyWait
 	end
@@ -56497,9 +56473,8 @@ script 243 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's go to Dex's
-	house and see if
-	he's there or not!
+	Vamos na casa do Dex,
+	ver se ele ainda tá lá!
 	"""
 	keyWait
 	end
@@ -56507,9 +56482,9 @@ script 243 mmbn3 {
 script 244 mmbn3 {
 	msgOpen
 	"""
-	You smell something
-	burning from inside
-	the house!
+	Você sente o cheiro de
+	algo queimando vindo de
+	dentro da casa!
 	"""
 	keyWait
 	end
@@ -56517,9 +56492,9 @@ script 244 mmbn3 {
 script 245 mmbn3 {
 	msgOpen
 	"""
-	Oh,no! All of my
-	husband's shirts
-	have burned!
+	Essa não! Todas as
+	camisas do meu marido
+	queimaram!
 	"""
 	keyWait
 	end
@@ -56527,8 +56502,8 @@ script 245 mmbn3 {
 script 246 mmbn3 {
 	msgOpen
 	"""
-	It's a sturdy,well-
-	built gate
+	É um portão sólido, bem
+	construído.
 	"""
 	keyWait
 	end
@@ -56536,9 +56511,9 @@ script 246 mmbn3 {
 script 247 mmbn3 {
 	msgOpen
 	"""
-	A small sign on the
-	door says
-	"Welcome,huh!"
+	Uma pequena placa sob
+	a porta diz:
+	"Bem-vindo, é!"
 	"""
 	keyWait
 	end
@@ -56546,8 +56521,8 @@ script 247 mmbn3 {
 script 248 mmbn3 {
 	msgOpen
 	"""
-	The gate
-	is unlocked
+	O portão está
+	destrancado.
 	"""
 	keyWait
 	end
@@ -56557,9 +56532,9 @@ script 249 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	If we don't get home
-	soon,we'll be late
-	for school tomorrow!
+	Se não formos logo pra
+	casa, vamos nos atrasar
+	pra escola amanhã!
 	"""
 	keyWait
 	end
@@ -57444,7 +57419,7 @@ script 238 mmbn3 {
 		down = 2
 	space
 		count = 2
-	"SciLab    "
+	"   SciLab "
 	option
 		left = 0
 		right = 0
@@ -57452,7 +57427,7 @@ script 238 mmbn3 {
 		down = 3
 	space
 		count = 2
-	"Yoka\n"
+	"          Yoka\n"
 	option
 		left = 3
 		right = 3
@@ -57460,7 +57435,7 @@ script 238 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Beach     "
+	"   Angra  "
 	option
 		left = 2
 		right = 2
@@ -57468,7 +57443,7 @@ script 238 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Nowhere"
+	"          Ficar"
 	select
 		default = 0
 		BSeparate = false
@@ -59351,9 +59326,9 @@ script 11 mmbn3 {
 		mugshot = Higsby
 	msgOpen
 	"""
-	Sorry,Lan,but this
-	data is a bit too
-	complex for me,huh.
+	Desculpa, Lan, mas esses
+	dados são meio complexos
+	demais pra mim, é.
 	"""
 	keyWait
 	end
@@ -59363,15 +59338,15 @@ script 12 mmbn3 {
 		mugshot = Higsby
 	msgOpen
 	"""
-	Oh! You found
-	someone who could
-	fix the data,huh?
+	Ah! Você achou alguém
+	capaz de ajeitar os
+	dados, é?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Then you'd better
-	hurry,huh!!
+	Então, "pernas pra que
+	te quero", é!!
 	"""
 	keyWait
 	end
@@ -59381,37 +59356,35 @@ script 13 mmbn3 {
 		mugshot = Higsby
 	msgOpen
 	"""
-	You want to
-	compress MegaMan,
-	huh?
+	Você quer comprimir o
+	MegaMan, é?
 	"""
 	keyWait
 	clearMsg
 	"""
 	Hmmmm.
-	Theoretically that's
-	possible…
+	Teoricamente, isso é
+	possível...
 	"""
 	keyWait
 	clearMsg
 	"""
-	But it would take
-	some advanced
-	technology,huh.
+	Mas seria necessário
+	uma tecnologia bem
+	avançada, é.
 	"""
 	keyWait
 	clearMsg
 	"""
-	If you had some
-	compression data
-	you could do it.
+	Daria, se você tivesse
+	tivesse uns dados de
+	compressão.
 	"""
 	keyWait
 	clearMsg
 	"""
-	But I don't have
-	anything like that,
-	huh!!
+	Mas eu não tenho nem
+	sombra disso, é!!
 	"""
 	keyWait
 	end
@@ -59422,7 +59395,7 @@ script 14 mmbn3 {
 	msgOpen
 	"""
 	Lan. MegaMan.
-	Good luck,huh!
+	Boa sorte, é!
 	"""
 	keyWait
 	end
@@ -59435,12 +59408,12 @@ script 30 mmbn3 {
 	mugshotShow
 		mugshot = Mayl
 	msgOpen
-	"Sorry,Lan."
+	"Desculpa, Lan."
 	keyWait
 	clearMsg
 	"""
-	I've seen viruses
-	with "
+	Hm, eu já vi vírus que
+	derrubam "
 	"""
 	printChip
 		buffer = 0
@@ -59451,14 +59424,14 @@ script 30 mmbn3 {
 		code = *
 	"""
 	"
-	around Yoka area 1…
+	lá pela área Yoka 1...
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'll put on some
-	delicious tea and
-	be waiting for you!
+	Vou preparar um chá
+	delicioso pra quando
+	você voltar, tá?
 	"""
 	keyWait
 	end
@@ -59472,8 +59445,8 @@ script 31 mmbn3 {
 		mugshot = MsMari
 	msgOpen
 	"""
-	You're such a good
-	boy,Lan. Keep it up!
+	Você é um menino muito
+	bom, Lan. Continue assim!
 	"""
 	keyWait
 	end
@@ -59494,7 +59467,7 @@ script 32 mmbn3 {
 		mugshot = Higsby
 	msgOpen
 	"""
-	Bring me a
+	Traga para mim um
 	"
 	"""
 	printChip
@@ -59504,7 +59477,7 @@ script 32 mmbn3 {
 	printCode
 		buffer = 0
 		code = *
-	"\",huh?"
+	"\", é?"
 	keyWait
 	end
 }
@@ -59541,9 +59514,9 @@ script 34 mmbn3 {
 		mugshot = Higsby
 	msgOpen
 	"""
-	Good luck,Lan!
-	Get back as soon as
-	you can,huh?
+	Boa sorte, Lan!
+	Volte assim que puder,
+	OK? É!
 	"""
 	keyWait
 	end
@@ -59552,7 +59525,7 @@ script 35 mmbn3 {
 	mugshotShow
 		mugshot = Mayl
 	msgOpen
-	"L-Lan…Help me…"
+	"L-Lan... Socorro..."
 	keyWait
 	end
 }
@@ -59560,7 +59533,7 @@ script 36 mmbn3 {
 	mugshotShow
 		mugshot = MsMari
 	msgOpen
-	"Lan,help us quick!"
+	"Lan, rápido, nos ajude!"
 	keyWait
 	end
 }
@@ -59569,22 +59542,20 @@ script 40 mmbn3 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	Being trapped in
-	the bubbles was so
-	scary…
+	Ficar presa na bolha
+	deu tanto medo...
 	"""
 	keyWait
 	clearMsg
 	"""
-	But I was OK once I
-	knew that you were
-	going to help us!
+	Mas eu fiquei tranquila
+	assim que vi que você ia
+	nos salvar!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Thank you so
-	much,Lan!
+	Muito obrigada, Lan!
 	"""
 	keyWait
 	end
@@ -59694,9 +59665,9 @@ script 226 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan! Jack in so that
-	we can see what's
-	happening!
+	Lan! Se conecta, pra
+	gente ver o que tá
+	acontecendo!
 	"""
 	keyWait
 	end
@@ -59708,16 +59679,16 @@ script 227 mmbn3 {
 		jumpIfFalse = 228
 	msgOpen
 	"""
-	This dishwasher was
-	actually created by
-	the WWW
+	Esta lava-louças, na
+	verdade, foi criada pela
+	WWW.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Even though it's an
-	online device,you
-	can't jack in to it
+	Apesar de ser um
+	aparelho online, não dá
+	pra se conectar nela.
 	"""
 	keyWait
 	end
@@ -62432,7 +62403,7 @@ script 12 mmbn3 {
 	"""
 	Quero que encontre ele
 	e arranque dele os 1000
-	zennys que ele me deve!
+	Zennys que ele me deve!
 	"""
 	keyWait
 	clearMsg
@@ -64052,7 +64023,7 @@ script 70 mmbn3 {
 	clearMsg
 	"""
 	Ô, te pago um refri se
-	cê falar o meu nome na
+	cê disser o meu nome na
 	TV!
 	"""
 	keyWait
@@ -67163,7 +67134,7 @@ script 57 mmbn3 {
 	msgOpen
 	"""
 	Por que você está
-	correndo por aí?
+	correndo por aqui?
 	Esqueceu alguma coisa?
 	"""
 	keyWait
@@ -68843,7 +68814,7 @@ script 223 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	que dizem ser capaz
+	que diziam ser capaz
 	de percorrer centenas
 	de quilômetros por dia.
 	"""
@@ -68956,15 +68927,15 @@ script 230 mmbn3 {
 script 231 mmbn3 {
 	msgOpen
 	"""
-	Photos of past
-	Principals
+	Fotos de antigos
+	diretores.
 	"""
 	keyWait
 	clearMsg
 	"""
-	The first Principal
-	built this school
-	right on this spot
+	O primeiro diretor
+	construiu esta escola,
+	neste exato local.
 	"""
 	keyWait
 	end
@@ -68972,23 +68943,22 @@ script 231 mmbn3 {
 script 232 mmbn3 {
 	msgOpen
 	"""
-	Calligraphy of the
-	character for
-	"soul"
+	Caligrafia shodô do
+	caractere de "alma".
 	"""
 	keyWait
 	clearMsg
 	"""
-	Perhaps to remind
-	him that education
-	isn't only "mind"?
+	Talvez para lembrá-lo
+	de que educação não é
+	só "mente"?
 	"""
 	keyWait
 	clearMsg
 	"""
-	If you ask him about
-	it,he'll talk for
-	at least 40 minutes
+	Se perguntar pra ele,
+	ele vai discursar por,
+	pelo menos, 40 minutos.
 	"""
 	keyWait
 	end
@@ -70747,7 +70717,7 @@ script 238 mmbn3 {
 		down = 2
 	space
 		count = 2
-	"ACDC  "
+	"   ACDC "
 	option
 		left = 0
 		right = 0
@@ -70755,7 +70725,7 @@ script 238 mmbn3 {
 		down = 3
 	space
 		count = 2
-	"Yoka\n"
+	"         Yoka\n"
 	option
 		left = 3
 		right = 3
@@ -70763,7 +70733,7 @@ script 238 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Beach     "
+	"   Angra "
 	option
 		left = 2
 		right = 2
@@ -70771,7 +70741,7 @@ script 238 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Nowhere"
+	"          Ficar"
 	select
 		default = 0
 		BSeparate = false
@@ -71058,7 +71028,7 @@ script 20 mmbn3 {
 	msgOpen
 	"""
 	Então, você está
-	nas preliminares no
+	nas preliminares do
 	Grande Prêmio N1.
 	"""
 	keyWait
@@ -71190,8 +71160,8 @@ script 41 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Aquele pessoal da DNN
-	disse que queria usar o
+	O pessoal da DNN disse
+	que queria usar o
 	SciLab para o N1...
 	"""
 	keyWait
@@ -71267,7 +71237,7 @@ script 46 mmbn3 {
 	clearMsg
 	"""
 	Então, é por isso que
-	aquele homem estava
+	aquele homem está
 	fantasiado de Navi...
 	"""
 	keyWait
@@ -71279,8 +71249,8 @@ script 47 mmbn3 {
 	msgOpen
 	"""
 	Quantos competidores
-	do N1 será que vão
-	passar por aqui?
+	do N1 será que vão vir
+	aqui?
 	"""
 	keyWait
 	end
@@ -71305,7 +71275,7 @@ script 51 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Hm, será que esse
+	Hm, será que essa
 	lava-louças passou por
 	inspeção?
 	"""
@@ -71318,8 +71288,8 @@ script 52 mmbn3 {
 	msgOpen
 	"""
 	Não sei ao certo de
-	onde vei, mas está na
-	lista...
+	onde ela vem, mas está
+	na lista de produtos...
 	"""
 	keyWait
 	end
@@ -73261,9 +73231,9 @@ script 20 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Another error…
-	Well,let me try
-	this sequence. Hmmm…
+	Outro erro... Bom, vou
+	tentar esta outra
+	sequência agora. Hmm...
 	"""
 	keyWait
 	end
@@ -73278,9 +73248,9 @@ script 21 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	NetBattlers use the
-	info we learn about
-	viruses here!
+	NetLutadores usam as
+	informações que reunimos
+	sobre vírus aqui!
 	"""
 	keyWait
 	end
@@ -73295,16 +73265,16 @@ script 22 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	In order to create
-	effective chips,we
-	must study viruses.
+	Para criar chips
+	eficazes, precisamos
+	estudar vírus.
 	"""
 	keyWait
 	clearMsg
 	"""
-	This research leads
-	to new discoveries,
-	so it's quite vital!
+	Essa pesquisa nos leva
+	a novas descobertas.
+	Logo, é vital, vital!
 	"""
 	keyWait
 	end
@@ -73319,9 +73289,9 @@ script 23 mmbn3 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	A TV producer was
-	looking for some boy
-	named Lan…
+	Um produtor de TV
+	estava atrás de um
+	menino chamado Lan...
 	"""
 	keyWait
 	end
@@ -73331,9 +73301,8 @@ script 30 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	My daughter should
-	be here with my
-	lunch soon!
+	A minha filha logo vai
+	trazer o meu almoço!
 	"""
 	keyWait
 	end
@@ -73343,15 +73312,14 @@ script 31 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Computer programs
-	are made up of 1s
-	and 0s! That's it!
+	Programas de
+	computador são feitos
+	de 1s e 0s! Só isso!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Pretty strange,
-	isn't it?
+	Tão estranho, não?
 	"""
 	keyWait
 	end
@@ -73361,9 +73329,9 @@ script 32 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	That's not it,
-	either! Now I have
-	to start all over!
+	Argh, também não é isso!
+	Agora, vou ter que
+	começar do zero!
 	"""
 	keyWait
 	end
@@ -73373,9 +73341,9 @@ script 40 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	I love that my
-	research helps my
-	fellow man!
+	É tão satisfatório saber
+	que minha pesquisa
+	ajuda o próximo!
 	"""
 	keyWait
 	end
@@ -73385,9 +73353,9 @@ script 41 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	My shoulders are so
-	stiff. I need to
-	take a break…
+	Os meus ombros estão
+	tão tensos. Preciso de
+	uma pausa...
 	"""
 	keyWait
 	end
@@ -73397,8 +73365,9 @@ script 42 mmbn3 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	We've been working
-	all night,recently.
+	Andamos trabalhando
+	até de madrugada,
+	ultimamente.
 	"""
 	keyWait
 	end
@@ -73408,8 +73377,8 @@ script 50 mmbn3 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	All of the staff
-	have gone to lunch.
+	Todo o pessoal saiu
+	pra almoçar.
 	"""
 	keyWait
 	end
@@ -73419,16 +73388,16 @@ script 60 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Someone must be
-	making the bubbles.
-	So,if we beat them…
+	Alguém deve estar fa-
+	zendo as bolhas. Se der-
+	rubarmos esse alguém...
 	"""
 	keyWait
 	clearMsg
 	"""
-	No! That might
-	endanger the lives
-	of those inside!
+	Não! Isso poderia
+	arriscar as vidas dos
+	que ainda estão nelas!
 	"""
 	keyWait
 	end
@@ -73438,9 +73407,9 @@ script 61 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Don't talk to me!
-	I'm writing programs
-	to destroy bubbles!
+	Não fale comigo!
+	Estou criando programas
+	pra destruir bolhas!
 	"""
 	keyWait
 	end
@@ -73454,9 +73423,8 @@ script 62 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	I can't seem to get
-	through the bubbles'
-	protection!
+	Ngh, não consigo quebrar
+	a proteção das bolhas!
 	"""
 	keyWait
 	end
@@ -73485,16 +73453,15 @@ script 70 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	I heard that an
-	Official Battler
-	stopped the bubbles!
+	Ouvi dizer que um
+	NetLutador Oficial parou
+	as bolhas!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I also heard that
-	he's just a kid in
-	elementary school!
+	E parece que ele é só
+	um aluno do fundamental!
 	"""
 	keyWait
 	end
@@ -73504,9 +73471,9 @@ script 71 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	We weren't much of a
-	help,but at least
-	it's all over now!
+	Acabou que nós não
+	ajudamos muito, mas,
+	pelo menos, acabou!
 	"""
 	keyWait
 	end
@@ -73516,16 +73483,15 @@ script 72 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	First the zoo,and
-	now another Net
-	Crime!
+	Primeiro, o zoológico,
+	e agora, outro NetCrime!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I can't believe that
-	the WWW is the group
-	behind all of this!
+	Não acredito que é a
+	WWW o grupo por trás 
+	disso tudo!
 	"""
 	keyWait
 	end
@@ -73540,16 +73506,16 @@ script 80 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	You're Lan,the lad
-	who will be in the
-	N1,correct?
+	Você é Lan, o rapazinho
+	que vai competir no
+	Grande Prêmio N1, não?
 	"""
 	keyWait
 	clearMsg
 	"""
-	We are all happy to
-	see that Dr.Hikari's
-	son is doing well!
+	Estamos todos muito fe-
+	lizes de ver que o filho
+	do Dr. Hikari está bem!
 	"""
 	keyWait
 	end
@@ -73564,16 +73530,15 @@ script 81 mmbn3 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	I'm cleaning the
-	machines. These
-	scientists are so
+	Estou limpando as
+	máquinas. Os cientistas
+	aqui são tão sensíveis
 	"""
 	keyWait
 	clearMsg
 	"""
-	touchy about their
-	equipment! I have to
-	polish everything!
+	quanto à aparelhagem
+	deles! Preciso polir tudo!
 	"""
 	keyWait
 	end
@@ -73583,9 +73548,9 @@ script 90 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	I wish that I could
-	go see the N1,but
-	I'm stuck at work!
+	Queria poder ir ver o N1,
+	mas estou preso no
+	trabalho!
 	"""
 	keyWait
 	end
@@ -73595,9 +73560,8 @@ script 91 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Shhh! I'm secretly
-	listening to the N1
-	on the radio!
+	Shhh! Estou ouvindo o
+	N1 no rádio, em segredo!
 	"""
 	keyWait
 	end
@@ -73607,16 +73571,15 @@ script 92 mmbn3 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Even if the N1 is
-	on,we still have a
-	schedule to keep!
+	Com ou sem o N1, ainda
+	temos prazos a cumprir!
 	"""
 	keyWait
 	clearMsg
 	"""
-	It's important that
-	scientists stick to
-	their priorities!
+	É importante que
+	cientistas se atenham
+	às suas prioridades!
 	"""
 	keyWait
 	end
@@ -73626,29 +73589,29 @@ script 100 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	As they say,"Fight
-	fire with fire"!
+	É como dizem:
+	"Enfrentar fogo com
+	fogo"!
 	"""
 	keyWait
 	clearMsg
 	"""
-	We are currently
-	researching how to
-	use good viruses to
+	Estamos pesquisando
+	como usar vírus bons
+	para deletar vírus maus!
 	"""
 	keyWait
 	clearMsg
 	"""
-	delete bad viruses!
-	Quite revolutionary,
-	wouldn't you say?
+	Bem revolucionário,
+	não acha?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Our research will be
-	finished soon! I'll
-	show it to you then!
+	Nossa pesquisa logo
+	será finalizada!
+	Aí, eu te mostro!
 	"""
 	keyWait
 	end
@@ -73658,22 +73621,22 @@ script 101 mmbn3 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	By definition,
-	viruses are harmful
-	to people and Navis…
+	Por definição, vírus são
+	nocivos a pessoas e
+	Navis...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Aside from that,
-	however,they are not
-	unlike Navis!
+	Porém, fora isso, eles
+	não são muitos
+	diferentes de Navis!
 	"""
 	keyWait
 	clearMsg
 	"""
-	After all,they are
-	both just programs!
+	Afinal de contas, ambos
+	são só programas!
 	"""
 	keyWait
 	end
@@ -73683,36 +73646,35 @@ script 102 mmbn3 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Can we make viruses
-	fight for us? The
-	answer is yes!
+	Podemos fazer vírus
+	lutarem por nós?
+	A resposta é "sim"!
 	"""
 	keyWait
 	clearMsg
 	"""
-	While it doesn't
-	happen often,when a
-	virus is deleted
+	Pode não acontecer
+	com muita frequência,
+	mas, quando um vírus
 	"""
 	keyWait
 	clearMsg
 	"""
-	it will sometimes
-	leave behind only
-	its beneficial part.
+	é deletado, às vezes,
+	ele só deixa pra trás
+	sua parte benéfica.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I hear that,already,
-	there are those in
-	the Undernet who are
+	Ouvi falar que já tem
+	gente na Undernet que
+	vem domesticando vírus
 	"""
 	keyWait
 	clearMsg
 	"""
-	raising viruses to
-	fit their own needs!
+	pra seguir comandos!
 	"""
 	keyWait
 	end
@@ -73722,16 +73684,16 @@ script 110 mmbn3 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	I'm sorry to ask you
-	this right after the
-	ceremony!
+	Desculpe por pedir isso
+	de você logo após a
+	cerimônia!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Please use this port
-	to jack in! That
-	should be fastest…
+	Por favor, use esta
+	entrada e se conecte!
+	Será mais rápido...
 	"""
 	keyWait
 	end
@@ -73741,8 +73703,8 @@ script 111 mmbn3 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	How could the WWW
-	appear here…?
+	Como pôde a WWW
+	aparecer aqui...?
 	"""
 	keyWait
 	end
@@ -73752,15 +73714,16 @@ script 112 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	We've been taken
-	completely off
-	guard!
+	Fomos pegos com a
+	guarda completamente
+	baixa!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Lan! Please help us
-	stop these fiends!
+	Lan! Por favor,
+	ajude-nos a deter
+	esses patifes!
 	"""
 	keyWait
 	end
@@ -73770,9 +73733,9 @@ script 116 mmbn3 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Thank you! Things
-	seem to have calmed
-	a bit now…
+	Obrigado! Agora, as
+	coisas parecem ter se
+	acalmado um pouco...
 	"""
 	keyWait
 	end
@@ -73782,9 +73745,9 @@ script 117 mmbn3 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	I just don't
-	understand! What's
-	the purpose of this?
+	Eu não entendo!
+	Qual foi o propósito
+	disso?
 	"""
 	keyWait
 	end
@@ -73794,9 +73757,9 @@ script 118 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	And now yet another
-	meeting… The WWW is
-	sure making us busy!
+	E mais uma reunião
+	agora... A WWW está nos
+	deixando bem ocupados!
 	"""
 	keyWait
 	end
@@ -73815,16 +73778,16 @@ script 120 mmbn3 {
 	mugshotShow
 		mugshot = MrMatch
 	msgOpen
-	"There you are,Lan!"
+	"Aí está você, Lan!"
 	keyWait
 	clearMsg
 	"""
-	Well,let's get right
-	to work…
+	OK, vamos direto ao
+	trabalho...
 	"""
 	keyWait
 	clearMsg
-	"First,"
+	"Primeiro"
 	waitSkip
 		frames = 30
 	"."
@@ -73837,9 +73800,9 @@ script 120 mmbn3 {
 	waitSkip
 		frames = 30
 	"""
-	 take
-	this to the Program
-	in SciLab 1.
+	 leve isto
+	para o Programa na
+	área SciLab 1.
 	"""
 	keyWait
 	clearMsg
@@ -73884,16 +73847,16 @@ script 122 mmbn3 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	It looks like the
-	boy in the hospital
-	is recovering!
+	Parece que o menino
+	do hospital está se
+	recuperando!
 	"""
 	keyWait
 	clearMsg
 	"""
-	He was saying that
-	he wants to see you.
-	Please go visit him!
+	Ele disse que queria te
+	ver.
+	Por favor, vá visitá-lo!
 	"""
 	keyWait
 	end
@@ -73913,9 +73876,8 @@ script 123 mmbn3 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	Don't make your dad
-	worry about you too
-	much,now,you hear?
+	Não preocupe demais o
+	seu pai, tá bom?
 	"""
 	keyWait
 	end
@@ -73935,14 +73897,14 @@ script 124 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	What could the
-	WWW want…?
+	Mas o que a mundo WWW
+	poderia querer...?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Why would they
-	attack a hospital…?
+	Por que atacariam um
+	hospital...?
 	"""
 	keyWait
 	end
@@ -73952,13 +73914,12 @@ script 125 mmbn3 {
 		mugshot = MrMatch
 	msgOpen
 	"""
-	Take that data to
-	the Program in
-	SciLab 1!
+	Leve esses dados pro
+	Programa no SciLab 1!
 	"""
 	keyWait
 	clearMsg
-	"Hurry up!"
+	"Agora! Vai!"
 	keyWait
 	end
 }
@@ -73967,16 +73928,16 @@ script 126 mmbn3 {
 		mugshot = Dad
 	msgOpen
 	"""
-	A skilled programmer
-	with blonde hair,
-	glasses,and a beard?
+	Um programador
+	habilidoso louro, de
+	óculos e barba?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Hmm,I don't know
-	anyone who fits that
-	description…
+	Hmm, não conheço
+	ninguém com essas
+	características...
 	"""
 	keyWait
 	clearMsg
@@ -73990,8 +73951,8 @@ script 126 mmbn3 {
 	waitSkip
 		frames = 30
 	"""
-	Wait!
-	You can't mean
+	 Espera!
+	Poderia mesmo ser
 	"""
 	waitSkip
 		frames = 30
@@ -74004,19 +73965,20 @@ script 126 mmbn3 {
 	"."
 	waitSkip
 		frames = 30
-	"\nNo,it couldn't be…"
+	"\nNão, impossível..."
 	keyWait
 	clearMsg
 	"""
-	You get on home now,
-	Lan. I have a big
-	meeting to go to.
+	Vai pra casa, Lan.
+	Eu tenho uma reunião
+	importante, agora.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Try to stay out
-	of trouble,OK?
+	Se cuide pra não se
+	meter em nenhuma outra
+	loucura, OK?
 	"""
 	keyWait
 	end
@@ -74039,9 +74001,9 @@ script 131 mmbn3 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Lan,go see your
-	father. I'll talk to
-	you after that.
+	Lan, vá falar com o seu
+	pai.
+	Depois, conversamos.
 	"""
 	keyWait
 	end
@@ -74051,16 +74013,16 @@ script 132 mmbn3 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	ProtoMan and I will
-	continue our
-	investigation.
+	O ProtoMan e eu
+	continuaremos com
+	nossa investigação.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'll contact you if
-	there's any further
-	developments…
+	Eu te informo se
+	fizermos alguma outra
+	descoberta...
 	"""
 	keyWait
 	end
@@ -74071,34 +74033,33 @@ script 134 mmbn3 {
 	mugshotShow
 		mugshot = SciLabMan
 	msgOpen
-	"Welcome to our lab!"
+	"Bem-vindo ao laboratório!"
 	keyWait
 	clearMsg
 	"""
-	This here is our
-	latest invention,
-	the "Virus Breeder"!
-	"""
-	keyWait
-	clearMsg
-	"""
-	The viruses you send
-	us are put in there,
-	and raised.
+	Esta é a nossa mais
+	nova invenção, o
+	"Doma-Vírus"!
 	"""
 	keyWait
 	clearMsg
 	"""
-	We will monitor the
-	viruses constantly
-	to study them.
+	Os vírus que você nos
+	envia são colocados e
+	criados aqui.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Would you like to
-	hear more about the
-	breeder?
+	Monitoraremos os vírus
+	constantemente, para
+	estudá-los.
+	"""
+	keyWait
+	clearMsg
+	"""
+	Gostaria de ouvir mais
+	sobre o Doma-Vírus?
 	"""
 	keyWait
 	clearMsg
@@ -74110,7 +74071,7 @@ script 134 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Please\n"
+	"   Por favor\n"
 	option
 		left = 0
 		right = 0
@@ -74118,7 +74079,7 @@ script 134 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"No,thanks"
+	"          Não"
 	select
 		default = 0
 		BSeparate = false
@@ -74129,26 +74090,27 @@ script 134 mmbn3 {
 			jump = continue,
 			jump = continue
 		]
+	clearMsg
 	mugshotShow
 		mugshot = SciLabMan
 	"""
-	I see. Well,I'll
-	tell you more at
-	another time,then.
+	Entendo. Tudo bem,
+	posso explicar uma
+	outra hora.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Come back after you
-	have sent us a new
-	virus to study.
+	Volte aqui após nos
+	mandar um novo vírus
+	para ser estudado.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'm sure that our
-	research will be of
-	aid to you!
+	Estou certo de que a
+	nossa pesquisa será de
+	muita ajuda a você!
 	"""
 	keyWait
 	end
@@ -74158,9 +74120,9 @@ script 135 mmbn3 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Well then,let me
-	tell you about the
-	types of viruses.
+	Certo. Então, vou te
+	contar sobre os diferen-
+	tes tipos de vírus.
 	"""
 	keyWait
 	clearMsg
@@ -74178,7 +74140,7 @@ script 136 mmbn3 {
 	printEnemyName
 		buffer = 0
 		enemy = 1
-	"…"
+	"..."
 	keyWait
 	clearMsg
 	checkFlag
@@ -74186,21 +74148,21 @@ script 136 mmbn3 {
 		jumpIfTrue = 137
 		jumpIfFalse = continue
 	"""
-	We've developed a
-	new chip as a result
-	of our research!
+	Desenvolvemos um novo
+	chip como resultado das
+	nossas pesquisas!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Use this chip in
-	battle to call a
+	Se usá-lo em batalha,
+	poderá chamar um
 	
 	"""
 	printEnemyName
 		buffer = 0
 		enemy = 1
-	" from here!"
+	" daqui!"
 	keyWait
 	clearMsg
 	itemGiveChip
@@ -74221,8 +74183,8 @@ script 136 mmbn3 {
 	playerAnimate
 		animation = 24
 	"""
-	Lan got a VirusChip
-	for
+	Lan adquiriu o
+	ChipVírus
 	"
 	"""
 	printChip
@@ -74252,7 +74214,7 @@ script 137 mmbn3 {
 	printEnemyName
 		buffer = 0
 		enemy = 37
-	"…"
+	"..."
 	keyWait
 	clearMsg
 	checkFlag
@@ -74260,21 +74222,21 @@ script 137 mmbn3 {
 		jumpIfTrue = 138
 		jumpIfFalse = continue
 	"""
-	We've developed a
-	new chip as a result
-	of our research!
+	Desenvolvemos um novo
+	chip como resultado das
+	nossas pesquisas!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Use this chip in
-	battle to call a
+	Se usá-lo em batalha,
+	poderá chamar um
 	
 	"""
 	printEnemyName
 		buffer = 0
 		enemy = 37
-	" from here!"
+	" daqui!"
 	keyWait
 	clearMsg
 	itemGiveChip
@@ -74295,8 +74257,8 @@ script 137 mmbn3 {
 	playerAnimate
 		animation = 24
 	"""
-	Lan got a VirusChip
-	for
+	Lan adquiriu o
+	ChipVírus
 	"
 	"""
 	printChip
@@ -74326,7 +74288,7 @@ script 138 mmbn3 {
 	printEnemyName
 		buffer = 0
 		enemy = 13
-	"…"
+	"..."
 	keyWait
 	clearMsg
 	checkFlag
@@ -74334,21 +74296,21 @@ script 138 mmbn3 {
 		jumpIfTrue = 139
 		jumpIfFalse = continue
 	"""
-	We've developed a
-	new chip as a result
-	of our research!
+	Desenvolvemos um novo
+	chip como resultado das
+	nossas pesquisas!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Use this chip in
-	battle to call a
+	Se usá-lo em batalha,
+	poderá chamar um
 	
 	"""
 	printEnemyName
 		buffer = 0
 		enemy = 13
-	" from here!"
+	" daqui!"
 	keyWait
 	clearMsg
 	itemGiveChip
@@ -74369,8 +74331,8 @@ script 138 mmbn3 {
 	playerAnimate
 		animation = 24
 	"""
-	Lan got a VirusChip
-	for
+	Lan adquiriu o
+	ChipVírus
 	"
 	"""
 	printChip
@@ -74400,7 +74362,7 @@ script 139 mmbn3 {
 	printEnemyName
 		buffer = 0
 		enemy = 33
-	"…"
+	"..."
 	keyWait
 	clearMsg
 	checkFlag
@@ -74408,21 +74370,21 @@ script 139 mmbn3 {
 		jumpIfTrue = 140
 		jumpIfFalse = continue
 	"""
-	We've developed a
-	new chip as a result
-	of our research!
+	Desenvolvemos um novo
+	chip como resultado das
+	nossas pesquisas!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Use this chip in
-	battle to call a
+	Se usá-lo em batalha,
+	poderá chamar um
 	
 	"""
 	printEnemyName
 		buffer = 0
 		enemy = 33
-	" from here!"
+	" daqui!"
 	keyWait
 	clearMsg
 	itemGiveChip
@@ -74443,8 +74405,8 @@ script 139 mmbn3 {
 	playerAnimate
 		animation = 24
 	"""
-	Lan got a VirusChip
-	for
+	Lan adquiriu o
+	ChipVírus
 	"
 	"""
 	printChip
@@ -74474,7 +74436,7 @@ script 140 mmbn3 {
 	printEnemyName
 		buffer = 0
 		enemy = 49
-	"…"
+	"..."
 	keyWait
 	clearMsg
 	checkFlag
@@ -74482,21 +74444,21 @@ script 140 mmbn3 {
 		jumpIfTrue = 141
 		jumpIfFalse = continue
 	"""
-	We've developed a
-	new chip as a result
-	of our research!
+	Desenvolvemos um novo
+	chip como resultado das
+	nossas pesquisas!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Use this chip in
-	battle to call a
+	Se usá-lo em batalha,
+	poderá chamar um
 	
 	"""
 	printEnemyName
 		buffer = 0
 		enemy = 49
-	" from here!"
+	" daqui!"
 	keyWait
 	clearMsg
 	itemGiveChip
@@ -74517,8 +74479,8 @@ script 140 mmbn3 {
 	playerAnimate
 		animation = 24
 	"""
-	Lan got a VirusChip
-	for
+	Lan adquiriu o
+	ChipVírus
 	"
 	"""
 	printChip
@@ -74548,7 +74510,7 @@ script 141 mmbn3 {
 	printEnemyName
 		buffer = 0
 		enemy = 25
-	"…"
+	"..."
 	keyWait
 	clearMsg
 	checkFlag
@@ -74556,21 +74518,21 @@ script 141 mmbn3 {
 		jumpIfTrue = 142
 		jumpIfFalse = continue
 	"""
-	We've developed a
-	new chip as a result
-	of our research!
+	Desenvolvemos um novo
+	chip como resultado das
+	nossas pesquisas!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Use this chip in
-	battle to call a
+	Se usá-lo em batalha,
+	poderá chamar um
 	
 	"""
 	printEnemyName
 		buffer = 0
 		enemy = 25
-	" from here!"
+	" daqui!"
 	keyWait
 	clearMsg
 	itemGiveChip
@@ -74591,8 +74553,8 @@ script 141 mmbn3 {
 	playerAnimate
 		animation = 24
 	"""
-	Lan got a VirusChip
-	for
+	Lan adquiriu o
+	ChipVírus
 	"
 	"""
 	printChip
@@ -74622,7 +74584,7 @@ script 142 mmbn3 {
 	printEnemyName
 		buffer = 0
 		enemy = 87
-	"…"
+	"..."
 	keyWait
 	clearMsg
 	checkFlag
@@ -74630,21 +74592,21 @@ script 142 mmbn3 {
 		jumpIfTrue = 143
 		jumpIfFalse = continue
 	"""
-	We've developed a
-	new chip as a result
-	of our research!
+	Desenvolvemos um novo
+	chip como resultado das
+	nossas pesquisas!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Use this chip in
-	battle to call a
+	Se usá-lo em batalha,
+	poderá chamar um
 	
 	"""
 	printEnemyName
 		buffer = 0
 		enemy = 87
-	" from here!"
+	" daqui!"
 	keyWait
 	clearMsg
 	itemGiveChip
@@ -74665,8 +74627,8 @@ script 142 mmbn3 {
 	playerAnimate
 		animation = 24
 	"""
-	Lan got a VirusChip
-	for
+	Lan adquiriu o
+	ChipVírus
 	"
 	"""
 	printChip
@@ -74696,7 +74658,7 @@ script 143 mmbn3 {
 	printEnemyName
 		buffer = 0
 		enemy = 91
-	"…"
+	"..."
 	keyWait
 	clearMsg
 	checkFlag
@@ -74704,21 +74666,21 @@ script 143 mmbn3 {
 		jumpIfTrue = 144
 		jumpIfFalse = continue
 	"""
-	We've developed a
-	new chip as a result
-	of our research!
+	Desenvolvemos um novo
+	chip como resultado das
+	nossas pesquisas!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Use this chip in
-	battle to call a
+	Se usá-lo em batalha,
+	poderá chamar um
 	
 	"""
 	printEnemyName
 		buffer = 0
 		enemy = 91
-	" from here!"
+	" daqui!"
 	keyWait
 	clearMsg
 	itemGiveChip
@@ -74739,8 +74701,8 @@ script 143 mmbn3 {
 	playerAnimate
 		animation = 24
 	"""
-	Lan got a VirusChip
-	for
+	Lan adquiriu o
+	ChipVírus
 	"
 	"""
 	printChip
@@ -74771,8 +74733,8 @@ script 144 mmbn3 {
 		buffer = 0
 		enemy = 73
 	"""
-	…
-	Sounds misterious
+	...
+	Parece misterioso.
 	"""
 	keyWait
 	clearMsg
@@ -74781,21 +74743,21 @@ script 144 mmbn3 {
 		jumpIfTrue = 145
 		jumpIfFalse = continue
 	"""
-	We've developed a
-	new chip as a result
-	of our research!
+	Desenvolvemos um novo
+	chip como resultado das
+	nossas pesquisas!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Use this chip in
-	battle to call a
+	Se usá-lo em batalha,
+	poderá chamar um
 	
 	"""
 	printEnemyName
 		buffer = 0
 		enemy = 73
-	" from here!"
+	" daqui!"
 	keyWait
 	clearMsg
 	itemGiveChip
@@ -74816,8 +74778,8 @@ script 144 mmbn3 {
 	playerAnimate
 		animation = 24
 	"""
-	Lan got a VirusChip
-	for
+	Lan adquiriu o
+	ChipVírus
 	"
 	"""
 	printChip
@@ -74876,7 +74838,7 @@ script 145 mmbn3 {
 	mugshotShow
 		mugshot = SciLabMan
 	msgOpen
-	"Let's see."
+	"Vejamos."
 	waitSkip
 		frames = 20
 	"."
@@ -74888,16 +74850,15 @@ script 145 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Oh! But you haven't
-	caught any viruses
-	yet!
+	Ah! Mas você ainda não
+	pegou nenhum vírus!
 	"""
 	keyWait
 	clearMsg
 	"""
-	The breeder is
-	always operating,so
-	send them any time!
+	O Doma-Vírus está sem-
+	pre operacional, então,
+	mande-os quando quiser!
 	"""
 	keyWait
 	end
@@ -74906,20 +74867,19 @@ script 146 mmbn3 {
 	mugshotShow
 		mugshot = SciLabMan
 	msgOpen
-	"And that's all…"
+	"E foram todos..."
 	keyWait
 	clearMsg
 	"""
-	Please come to feed
-	the viruses some
-	time!
+	Por favor, venha
+	alimentar os vírus,
+	de vez em quando!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'm sure that the
-	viruses would love
-	to meet you!
+	Com certeza os vírus
+	adorariam te ver!
 	"""
 	keyWait
 	end
@@ -74929,71 +74889,71 @@ script 160 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	It's finally
-	complete!
+	Finalmente, está
+	terminado!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Our amazing device
-	to delete viruses
-	with viruses!
+	Nosso incrível dispositivo
+	para deletar vírus...
+	usando vírus!
 	"""
 	keyWait
 	clearMsg
 	"""
-	We used to put
-	viruses in capsules
-	for use as bombs,
+	Costuvámamos enfiar
+	vírus em cápsulas para
+	usá-los como bombas,
 	"""
 	keyWait
 	clearMsg
 	"""
-	just like the ones
-	criminals use to
-	commit crimes.
+	como as que criminosos
+	usam pra cometer seus
+	crimes.
 	"""
 	keyWait
 	clearMsg
 	"""
-	But this device is
-	a totally different
-	way of using them!
+	Mas este sistema é uma
+	forma totalmente
+	diferente de usá-los!
 	"""
 	keyWait
 	clearMsg
 	"""
-	It allows us to
-	make viruses fight
-	alongside us!
+	Ele nos permite fazer
+	vírus lutarem ao nosso
+	lado!
 	"""
 	keyWait
 	clearMsg
 	"""
-	They can now be
-	raised like pets,and
-	made to battle!
+	Agora, eles podem ser
+	criados, como pets, e
+	lutar como aliados!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Lan,I'd like you to
-	make use of this
-	new system!
+	Lan, gostaria que você
+	usasse este novo
+	sistema!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Please feel free to
-	ask the man next to
-	the Breeder about
+	Por favor, fique à
+	vontade pra perguntar
+	pro homem ao lado do
 	"""
 	keyWait
 	clearMsg
 	"""
-	our research and
-	the condition of
-	the viruses.
+	Doma-Vírus sobre
+	nossa pesquisa e a
+	condição dos vírus.
 	"""
 	keyWait
 	end
@@ -75003,57 +74963,56 @@ script 161 mmbn3 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	Unfortunately,this
-	device alone is of
-	no use to us.
+	Infelizmente, este
+	dispositivo, somente,
+	é inútil para nós.
 	"""
 	keyWait
 	clearMsg
 	"""
-	We must first obtain
-	viruses to place in
-	it and raise.
+	Primeiro, temos que
+	obter vírus para inserir
+	nele e criá-los.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Also,only viruses
-	that bear no ill
-	will towards us
+	Além do quê, só vírus
+	que não tiverem nada
+	contra nós podem ser
 	"""
 	keyWait
 	clearMsg
 	"""
-	may be raised in the
-	machine,and those
-	are rare indeed!
+	domados na máquina,
+	e esses vírus são
+	bem raros!
 	"""
 	keyWait
 	clearMsg
 	"""
-	First,you must find
-	these benevolent
-	viruses.
+	Antes de mais nada,
+	você deve achar esses
+	vírus benevolentes.
 	"""
 	keyWait
 	clearMsg
 	"""
-	If you can do that
-	for us,we will study
-	them here,
+	Se fizer isso pra nós,
+	nós os estudaremos aqui
 	"""
 	keyWait
 	clearMsg
 	"""
-	and put them into
-	chip data format to
-	give to you!
+	e os converteremos em
+	formato de chip e o
+	daremos a você!
 	"""
 	keyWait
 	clearMsg
 	"""
-	We wish you luck
-	in your efforts!
+	Desejamos a você
+	sorte na empreitada!
 	"""
 	keyWait
 	end
@@ -75063,16 +75022,16 @@ script 170 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	This is horrible! We
-	cannot allow the WWW
-	to obtain Alpha!
+	Que horror!
+	Não poedmos deixar a
+	WWW obter o Alpha!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Please help us to
-	foil the WWW's
-	evil schemes!
+	Por favor, ajude-nos a
+	frustrar o plano maligno
+	da WWW!
 	"""
 	keyWait
 	end
@@ -75082,16 +75041,16 @@ script 171 mmbn3 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	The Navi that stole
-	Alpha opened a warp
-	and disappeared!
+	O Navi que roubou o
+	Alpha abriu um portal e
+	desapareceu!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Perhaps by entering
-	the warp someone
-	could follow it!
+	Talvez alguém possa
+	segui-lo se entrar pelo
+	portal!
 	"""
 	keyWait
 	end
@@ -75111,16 +75070,15 @@ script 175 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	The meeting about
-	the WWW is upstairs
-	in Hikari's lab.
+	A reunião sobre a WWW
+	está para começar no
+	laboratório do Hikari.
 	"""
 	keyWait
 	clearMsg
 	"""
-	They'll be starting
-	soon! You'd better
-	hurry!
+	Não vai demorar!
+	Sugiro que se apresse!
 	"""
 	keyWait
 	end
@@ -75130,23 +75088,23 @@ script 180 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Unmanned tanks
-	running wild? But
-	how could their
+	Tanques não pilotados,
+	fora de controle? Mas
+	como pôde a segurança
 	"""
 	keyWait
 	clearMsg
 	"""
-	security have been
-	breached!? If a
-	virus is behind it,
+	deles ser violada?
+	Se for um vírus por trás
+	disso, é um vírus bem
 	"""
 	keyWait
 	clearMsg
 	"""
-	it must be a very
-	powerful one,so
-	please be careful!
+	poderoso, então, por
+	favor, tome muito
+	cuidado!
 	"""
 	keyWait
 	end
@@ -75156,16 +75114,16 @@ script 185 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Military weapons
-	around the world are
-	going berserk!?
+	Armas militares estão
+	saindo de controle ao
+	redor do mundo?!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Does this mean that
-	the WWW has really
-	decoded Alpha!?
+	Isso quer dizer que a
+	WWW realmente
+	decodificou o Alpha?!
 	"""
 	keyWait
 	end
@@ -75191,64 +75149,62 @@ script 190 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	I'm glad you came!
-	Yes,I posted on
-	the Job BBS.
+	Que bom que veio!
+	Sim, fui eu quem postou
+	no Fórum de Missões.
 	"""
 	keyWait
 	clearMsg
 	"""
-	You see,I have this
-	little problem…
+	Então, eu tô com um
+	probleminha...
 	"""
 	keyWait
 	clearMsg
 	"""
-	I've mistakenly sent
-	some virus data to
-	the wrong place.
+	Eu, sem querer, mandei
+	uns dados de vírus pro
+	lugar errado.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'm hoping that you
-	could find that data
-	and delete it.
+	Estava esperando que
+	você pudesse achar os
+	dados e deletá-los.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I know approximately
-	where the data was
-	sent.
+	Eu tenho a localização
+	aproximada de aonde os
+	dados foram enviados.
 	"""
 	keyWait
 	clearMsg
 	"""
-	It should be in one
-	of the educational
-	devices at the zoo.
+	Devem estar em um dos
+	computadores educativos
+	do zoológico.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'm sure that the
-	virus data must be
-	causing problems!
+	Estou certo de que os
+	dados de vírus estão
+	causando problemas!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Please find the
-	malfunctioning
-	device.
+	Por favor, encontre o
+	o dispositivo defeituoso.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Then,delete the
-	virus that is inside
-	of it!
+	Daí, delete o vírus
+	dentro dele!
 	"""
 	keyWait
 	end
@@ -75258,15 +75214,15 @@ script 191 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	The virus is in one
-	of the zoo's
-	educational devices.
+	O vírus está em um dos
+	computadores
+	educativos do zoológico.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Please find it,
-	and delete it!
+	Por favor, encontre-o
+	e delete-o!
 	"""
 	keyWait
 	end
@@ -75276,20 +75232,20 @@ script 192 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	You've deleted the
-	virus for me!
+	Você deletou o vírus
+	pra mim!
 	"""
 	keyWait
 	clearMsg
 	"""
-	You really helped
-	me out!
+	Nossa, você salvou a
+	minha vida, rapaz!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Please take this as
-	a reward!
+	Por favor, aceite esta
+	recompensa!
 	"""
 	keyWait
 	clearMsg
@@ -75328,9 +75284,9 @@ script 194 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	I guess I need to be
-	more careful when I
-	send virus data!
+	Tenho que tomar mais
+	cuidado quando for
+	enviar dados de vírus!
 	"""
 	keyWait
 	end
@@ -75343,16 +75299,16 @@ script 220 mmbn3 {
 		jumpIfOutOfRange = continue
 	msgOpen
 	"""
-	These computers work
-	day and night on
-	virus research
+	Estes computadores
+	operam dia e noite,
+	pesquisando vírus.
 	"""
 	keyWait
 	clearMsg
 	"""
-	The port for jacking
-	in is always kept in
-	top condition
+	A entrada de conexão
+	é sempre mantida em
+	excelente condição.
 	"""
 	keyWait
 	end
@@ -75365,16 +75321,16 @@ script 221 mmbn3 {
 		jumpIfOutOfRange = continue
 	msgOpen
 	"""
-	The control panel
-	is covered with
-	blinking lights
+	O painel de controle é
+	coberto de luzes que
+	piscam.
 	"""
 	keyWait
 	clearMsg
 	"""
-	The port for jacking
-	in allows access at
-	any time
+	A entrada para conexão
+	permite acesso a
+	qualquer hora.
 	"""
 	keyWait
 	end
@@ -75788,8 +75744,8 @@ script 35 mmbn3 {
 	msgOpen
 	"""
 	Ué, Lan? Não ficou
-	sabendo que o seu
-	pai viajou a negócios?
+	sabendo que o seu pai
+	viajou a trabalho?
 	"""
 	keyWait
 	end
@@ -75869,7 +75825,7 @@ script 40 mmbn3 {
 	"""
 	Já contatamos os
 	Oficiais.
-	Eles estão na ativa.
+	Eles já estão agindo.
 	"""
 	keyWait
 	end
@@ -75904,7 +75860,7 @@ script 42 mmbn3 {
 	"""
 	Péssima hora. Isso TINHA
 	que acontecer com o
-	Dr. Hikari longe daqui...
+	Dr. Hikari ausente...
 	"""
 	keyWait
 	end
@@ -75982,8 +75938,8 @@ script 52 mmbn3 {
 	msgOpen
 	"""
 	Ufa...
-	Eu fico cansado só de
-	olhar pra isto...
+	Eu fico exausto só de
+	me lembrar de tudo...
 	"""
 	keyWait
 	end
@@ -76724,9 +76680,9 @@ script 30 mmbn3 {
 		mugshot = MetrolineMan
 	msgOpen
 	"""
-	The panicked people
-	were a lot scarier
-	than the animals!
+	As pessoas em pânico
+	deram muito mais medo
+	que os animais!
 	"""
 	keyWait
 	end
@@ -76750,15 +76706,15 @@ script 31 mmbn3 {
 		mugshot = BlueShirtBoy
 	msgOpen
 	"""
-	They never did solve
-	that zoo incident.
+	Nunca fecharam aquele
+	caso do zoológico pra
+	valer.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I wonder what the
-	perpetrator's
-	motives were?
+	Qual será que era a
+	motivação do criminoso?
 	"""
 	keyWait
 	end
@@ -76768,15 +76724,15 @@ script 35 mmbn3 {
 		mugshot = BlueShirtBoy
 	msgOpen
 	"""
-	Was the mascot of
-	this zoo a Navi?
+	O mascote do zoológico
+	sempre foi um Navi?
 	"""
 	keyWait
 	clearMsg
 	"""
-	I saw some guy in a
-	Navi outfit go
-	outside…
+	Eu vi um cara fantasiado
+	de Navi saindo daqui, da
+	estação...
 	"""
 	keyWait
 	end
@@ -76786,16 +76742,15 @@ script 40 mmbn3 {
 		mugshot = MetrolineMan
 	msgOpen
 	"""
-	I get the feeling
-	something bad's
-	going to happen.
+	Tenho o pressentimento
+	de que uma coisa ruim
+	logo vai acontecer.
 	"""
 	keyWait
 	clearMsg
 	"""
-	At times like
-	this,I'm usually
-	right…
+	E, nessas horas, eu
+	costumo estar certo...
 	"""
 	keyWait
 	end
@@ -76805,16 +76760,16 @@ script 45 mmbn3 {
 		mugshot = BlueShirtBoy
 	msgOpen
 	"""
-	Station attendant!
-	Something bad
-	happened at the inn!
+	Atendente do metrô!
+	Aconteceu uma coisa
+	muito ruim na pousada!
 	"""
 	keyWait
 	clearMsg
 	"""
-	We've got to warn
-	everyone!
-	…Huh? Where'd he go?
+	A gente tem que avisar
+	todo mundo! E...
+	Ué? Cadê ele?
 	"""
 	keyWait
 	end
@@ -76824,9 +76779,9 @@ script 50 mmbn3 {
 		mugshot = MetrolineMan
 	msgOpen
 	"""
-	I was right not to
-	tell others about
-	the trouble…I think.
+	Eu acertei em não con-
+	tar pra ninguém sobre o
+	pressentimento... talvez.
 	"""
 	keyWait
 	end
@@ -76836,9 +76791,9 @@ script 51 mmbn3 {
 		mugshot = BlueShirtBoy
 	msgOpen
 	"""
-	If the bubbles blew,
-	people would've been
-	even more panicked!
+	Se as bolhas explodissem,
+	as pessoas teriam ficado
+	em ainda mais pânico!
 	"""
 	keyWait
 	end
@@ -76848,9 +76803,9 @@ script 60 mmbn3 {
 		mugshot = MetrolineMan
 	msgOpen
 	"""
-	Everyone's excited
-	about the N1. I'd
-	like to go,too.
+	Estão todos animados
+	para o N1. Bem que eu
+	gostaria de ir, também.
 	"""
 	keyWait
 	end
@@ -76860,16 +76815,15 @@ script 61 mmbn3 {
 		mugshot = Girl
 	msgOpen
 	"""
-	Official NetBattlers
-	are in the N1,too,
-	right?
+	Tem NetLutadores
+	Oficiais no N1 também,
+	né?
 	"""
 	keyWait
 	clearMsg
 	"""
-	I don't think anyone
-	will be able to beat
-	them.
+	Duvido que alguém vá
+	conseguir vencê-los.
 	"""
 	keyWait
 	end
@@ -76879,9 +76833,9 @@ script 62 mmbn3 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	Have you bought any
-	wafer chocolates
-	from that kiosk?
+	Cê já comprou um wafer
+	de chocolate nesta
+	lojinha aqui?
 	"""
 	keyWait
 	clearMsg
@@ -76893,7 +76847,7 @@ script 62 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Not yet "
+	"   Ainda não "
 	option
 		left = 0
 		right = 0
@@ -76901,7 +76855,7 @@ script 62 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes"
+	"           Sim"
 	select
 		default = 0
 		BSeparate = false
@@ -76912,32 +76866,32 @@ script 62 mmbn3 {
 			jump = 63,
 			jump = continue
 		]
+	clearMsg
 	mugshotShow
 		mugshot = OrangeShirtBoy
 	"""
-	The packages contain
-	papers with lotto
-	numbers.
+	As embalagens têm
+	números de loteria.
 	"""
 	keyWait
 	clearMsg
 	"""
-	You can enter them
-	in the number trader
-	at Higsby's in ACDC!
+	Dá pra usar eles no
+	Troca-Números na loja
+	do Higsby, em ACDC!
 	"""
 	keyWait
 	clearMsg
 	"""
-	If you have a
-	winning number,you
-	get a prize!
+	E, se você tirar o
+	número premiado, leva
+	um prêmio pra casa!
 	"""
 	keyWait
 	clearMsg
 	"""
-	If not,you don't get
-	anything.
+	Se não tirar...
+	não leva nada.
 	"""
 	keyWait
 	end
@@ -76947,9 +76901,9 @@ script 63 mmbn3 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	They're delicious &
-	have lotto numbers!
-	You can't go wrong!
+	Eles são uma delícia, e
+	têm números de loteria!
+	Só sucesso!
 	"""
 	keyWait
 	end
@@ -76959,14 +76913,14 @@ script 65 mmbn3 {
 		mugshot = MetrolineMan
 	msgOpen
 	"""
-	Everyone seems to
-	have gone to the N1.
+	Parece que todos foram
+	para o N1.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Thanks to that,this
-	place is deserted!
+	Graças a isso, este
+	lugar está deserto!
 	"""
 	keyWait
 	end
@@ -76976,16 +76930,15 @@ script 70 mmbn3 {
 		mugshot = MetrolineMan
 	msgOpen
 	"""
-	There was a lot of
-	commotion with the
-	zoo and bubble
+	Houve muita comoção
+	com os incidentes do
+	zoológico e das bolhas,
 	"""
 	keyWait
 	clearMsg
 	"""
-	incidents,but peace
-	has returned to Yoka
-	at last.
+	mas a paz, enfim, voltou
+	a Yoka.
 	"""
 	keyWait
 	end
@@ -76995,16 +76948,15 @@ script 90 mmbn3 {
 		mugshot = MetrolineMan
 	msgOpen
 	"""
-	I heard there was a
-	crisis at the
-	hospital.
+	Ouvi falar que houve
+	uma crise no hospital.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I just hope no more
-	incidents happen in
-	Yoka…
+	Eu só espero que não
+	haja mais nenhum
+	incidente em Yoka...
 	"""
 	keyWait
 	end
@@ -77014,9 +76966,9 @@ script 95 mmbn3 {
 		mugshot = MetrolineMan
 	msgOpen
 	"""
-	Whew…! The Metroline
-	is safe! The crisis
-	seems to be over.
+	Ufa...! A Metrolinha está
+	a salvo! A crise parece
+	ter passado.
 	"""
 	keyWait
 	end
@@ -77026,16 +76978,16 @@ script 100 mmbn3 {
 		mugshot = MetrolineMan
 	msgOpen
 	"""
-	Most people are fed
-	up with the danger,
-	and have left Yoka.
+	A maioria dos cidadãos
+	se cansou do perigo
+	e deixou Yoka.
 	"""
 	keyWait
 	clearMsg
 	"""
-	They've suffered so
-	much. I guess it's
-	a natural reaction…
+	Eles sofreram muito.
+	Acho que é uma reação
+	natural...
 	"""
 	keyWait
 	end
@@ -77045,16 +76997,15 @@ script 110 mmbn3 {
 		mugshot = MetrolineMan
 	msgOpen
 	"""
-	It's my job to carry
-	passengers on the
-	Metroline,no matter
+	É meu dever transportar
+	passageiros na Metroli-
+	nha, haja o que houver!
 	"""
 	keyWait
 	clearMsg
 	"""
-	what! I won't let
-	them shut the
-	Metroline down!
+	Não vou deixar que
+	fechem a Metrolinha!
 	"""
 	keyWait
 	end
@@ -77098,9 +77049,9 @@ script 150 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Lotto number:
+	Número de loteria:
 	"86508964".
-	Let's not forget!
+	Não vamos esquecer!
 	"""
 	keyWait
 	end
@@ -77110,9 +77061,9 @@ script 151 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Lotto number:
+	Número de loteria:
 	"24586483".
-	Let's not forget!
+	Não vamos esquecer!
 	"""
 	keyWait
 	end
@@ -77122,9 +77073,9 @@ script 152 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Lotto number:
+	Número de loteria:
 	"35331089".
-	Let's not forget!
+	Não vamos esquecer!
 	"""
 	keyWait
 	end
@@ -77134,9 +77085,9 @@ script 153 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Lotto number:
+	Número de loteria:
 	"31549798".
-	Let's not forget!
+	Não vamos esquecer!
 	"""
 	keyWait
 	end
@@ -77146,9 +77097,9 @@ script 154 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Lotto number:
+	Número de loteria:
 	"73984011".
-	Let's not forget!
+	Não vamos esquecer!
 	"""
 	keyWait
 	end
@@ -77158,9 +77109,9 @@ script 155 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Lotto number:
+	Número de loteria:
 	"66720934".
-	Let's not forget!
+	Não vamos esquecer!
 	"""
 	keyWait
 	end
@@ -77170,9 +77121,9 @@ script 156 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Lotto number:
+	Número de loteria:
 	"51290021".
-	Let's not forget!
+	Não vamos esquecer!
 	"""
 	keyWait
 	end
@@ -77182,9 +77133,9 @@ script 157 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Lotto number:
+	Número de loteria:
 	"91027364".
-	Let's not forget!
+	Não vamos esquecer!
 	"""
 	keyWait
 	end
@@ -77215,9 +77166,9 @@ script 158 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Lotto number:
+	Número de loteria:
 	"23415891".
-	Let's not forget!
+	Não vamos esquecer!
 	"""
 	keyWait
 	end
@@ -77227,9 +77178,9 @@ script 159 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Lotto number:
+	Número de loteria:
 	"63997824".
-	Let's not forget!
+	Não vamos esquecer!
 	"""
 	keyWait
 	end
@@ -77239,9 +77190,9 @@ script 160 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Lotto number:
+	Número de loteria:
 	"87824510".
-	Let's not forget!
+	Não vamos esquecer!
 	"""
 	keyWait
 	end
@@ -77251,9 +77202,9 @@ script 161 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Lotto number:
+	Número de loteria:
 	"01697824".
-	Let's not forget!
+	Não vamos esquecer!
 	"""
 	keyWait
 	end
@@ -77263,9 +77214,9 @@ script 162 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Lotto number:
+	Número de loteria:
 	"72938474".
-	Let's not forget!
+	Não vamos esquecer!
 	"""
 	keyWait
 	end
@@ -77275,9 +77226,9 @@ script 163 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Lotto number:
+	Número de loteria:
 	"09817262".
-	Let's not forget!
+	Não vamos esquecer!
 	"""
 	keyWait
 	end
@@ -77287,9 +77238,9 @@ script 164 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Lotto number:
+	Número de loteria:
 	"63345398".
-	Let's not forget!
+	Não vamos esquecer!
 	"""
 	keyWait
 	end
@@ -77299,9 +77250,9 @@ script 165 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Lotto number:
+	Número de loteria:
 	"31912830".
-	Let's not forget!
+	Não vamos esquecer!
 	"""
 	keyWait
 	end
@@ -77332,9 +77283,9 @@ script 166 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Lotto number:
+	Número de loteria:
 	"67918452".
-	Let's not forget!
+	Não vamos esquecer!
 	"""
 	keyWait
 	end
@@ -77344,9 +77295,9 @@ script 167 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Lotto number:
+	Número de loteria:
 	"05088930".
-	Let's not forget!
+	Não vamos esquecer!
 	"""
 	keyWait
 	end
@@ -77356,9 +77307,9 @@ script 168 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Lotto number:
+	Número de loteria:
 	"15789208".
-	Let's not forget!
+	Não vamos esquecer!
 	"""
 	keyWait
 	end
@@ -77368,9 +77319,9 @@ script 169 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Lotto number:
+	Número de loteria:
 	"41465278".
-	Let's not forget!
+	Não vamos esquecer!
 	"""
 	keyWait
 	end
@@ -77380,9 +77331,9 @@ script 170 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Lotto number:
+	Número de loteria:
 	"42312003".
-	Let's not forget!
+	Não vamos esquecer!
 	"""
 	keyWait
 	end
@@ -77392,9 +77343,9 @@ script 171 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Lotto number:
+	Número de loteria:
 	"30902331".
-	Let's not forget!
+	Não vamos esquecer!
 	"""
 	keyWait
 	end
@@ -77404,9 +77355,9 @@ script 172 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Lotto number:
+	Número de loteria:
 	"01928736".
-	Let's not forget!
+	Não vamos esquecer!
 	"""
 	keyWait
 	end
@@ -77416,9 +77367,9 @@ script 173 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Lotto number:
+	Número de loteria:
 	"56098914".
-	Let's not forget!
+	Não vamos esquecer!
 	"""
 	keyWait
 	end
@@ -77449,9 +77400,9 @@ script 174 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Lotto number:
+	Número de loteria:
 	"56892168".
-	Let's not forget!
+	Não vamos esquecer!
 	"""
 	keyWait
 	end
@@ -77461,9 +77412,9 @@ script 175 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Lotto number:
+	Número de loteria:
 	"76889120".
-	Let's not forget!
+	Não vamos esquecer!
 	"""
 	keyWait
 	end
@@ -77473,9 +77424,9 @@ script 176 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Lotto number:
+	Número de loteria:
 	"95913876".
-	Let's not forget!
+	Não vamos esquecer!
 	"""
 	keyWait
 	end
@@ -77485,9 +77436,9 @@ script 177 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Lotto number:
+	Número de loteria:
 	"03284579".
-	Let's not forget!
+	Não vamos esquecer!
 	"""
 	keyWait
 	end
@@ -77497,9 +77448,9 @@ script 178 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Lotto number:
+	Número de loteria:
 	"23746172".
-	Let's not forget!
+	Não vamos esquecer!
 	"""
 	keyWait
 	end
@@ -77509,9 +77460,9 @@ script 179 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Lotto number:
+	Número de loteria:
 	"81742195".
-	Let's not forget!
+	Não vamos esquecer!
 	"""
 	keyWait
 	end
@@ -77521,9 +77472,9 @@ script 180 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Lotto number:
+	Número de loteria:
 	"21237803".
-	Let's not forget!
+	Não vamos esquecer!
 	"""
 	keyWait
 	end
@@ -77533,9 +77484,9 @@ script 181 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Lotto number:
+	Número de loteria:
 	"31146320".
-	Let's not forget!
+	Não vamos esquecer!
 	"""
 	keyWait
 	end
@@ -77559,44 +77510,43 @@ script 190 mmbn3 {
 		mugshot = Woman
 	msgOpen
 	"""
-	Oh,you came! You're
-	confident in your
-	ability,right?
+	Ah, você veio! Você se
+	garante nas suas
+	habilidades, né?
 	"""
 	keyWait
 	clearMsg
 	"""
-	As I posted,my son
-	has been going
-	around pulling worse
+	Como eu postei, meu
+	filho anda aprontando
+	umas brincadeiras
 	"""
 	keyWait
 	clearMsg
 	"""
-	and worse pranks.
-	Lately he's been
-	spreading viruses.
+	cada vez piores.
+	Ultimamente, ele vem
+	espalhando vírus.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'd like someone
-	strong to knock some
-	sense into him.
+	Eu queria que alguém
+	desse um sacode nele,
+	pra ele tomar jeito.
 	"""
 	keyWait
 	clearMsg
 	"""
-	He's hanging out in
-	ACDC now. Go over
-	there and give him a
+	Ele tá na área ACDC,
+	agora. Vá lá e dê um
+	puxão de orelha nele!
 	"""
 	keyWait
 	clearMsg
 	"""
-	whallop! I'm
-	counting on you to
-	set him straight!
+	Conto com você pra
+	pôr ele na linha!
 	"""
 	keyWait
 	end
@@ -77606,9 +77556,9 @@ script 191 mmbn3 {
 		mugshot = Woman
 	msgOpen
 	"""
-	My boy's hanging out
-	in the ACDC area.
-	I'm counting on you!
+	O meu menino está ali,
+	pela área ACDC.
+	Conto com você!
 	"""
 	keyWait
 	end
@@ -77622,30 +77572,30 @@ script 192 mmbn3 {
 		mugshot = Woman
 	msgOpen
 	"""
-	Hey there! So you
-	had a little talk
-	with my boy? Thanks!
+	Opa! E aí, conversou a
+	sério com o meu filho?
+	Obrigada!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I reckon I should
-	have been the one
-	talking to him,being
+	Sei que sou eu quem
+	devia ter falado com
+	ele, sendo a mãe dele,
 	"""
 	keyWait
 	clearMsg
 	"""
-	his pop. But I don't
-	know the first thing
-	about NetBattling.
+	mas não entendo nada
+	de NetLuta.
+	Aí, já viu, né?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Here's something for
-	your troubles.
-	Thanks again!
+	Aqui está um pequeno
+	agrado pelo trabalho
+	todo. Obrigada de novo!
 	"""
 	keyWait
 	clearMsg
@@ -77670,14 +77620,14 @@ script 193 mmbn3 {
 		item = 73
 	"""
 	"!!
-	You can now rotate
+	Agora, pode rotacionar
 	"""
 	keyWait
 	clearMsg
 	"""
-	yellow program parts
-	in your NaviCust
-	w/ the L&R Buttons!
+	peças amarelas de pro-
+	grama no seu CustNavi
+	apertando "L" e "R"!
 	"""
 	playerFinish
 	playerReset
@@ -77690,9 +77640,8 @@ script 194 mmbn3 {
 		mugshot = Woman
 	msgOpen
 	"""
-	Thanks to you,my son
-	has learned his
-	lesson!
+	Graças a você, o meu
+	filho aprendeu a lição!
 	"""
 	keyWait
 	end
@@ -77703,20 +77652,22 @@ script 220 mmbn3 {
 		jumpIfTrue = 240
 		jumpIfFalse = continue
 	msgOpen
-	"A recycling bin"
-	keyWait
-	clearMsg
 	"""
-	This bin is designed
-	in the shape of a
-	frog
+	Uma lata de lixo para
+	recicláveis.
 	"""
 	keyWait
 	clearMsg
 	"""
-	In this day and age,
-	it's important to
-	recycle
+	Esta lixeira tem o
+	formato de um sapo.
+	"""
+	keyWait
+	clearMsg
+	"""
+	Nos dias de hoje,
+	reciclar é muito
+	importante.
 	"""
 	keyWait
 	end
@@ -77724,16 +77675,16 @@ script 220 mmbn3 {
 script 221 mmbn3 {
 	msgOpen
 	"""
-	The placement of
-	this poster was well
-	planned. It catches
+	A posição desse pôster
+	foi bem planejada. Ele
+	captura a sua atenção
 	"""
 	keyWait
 	clearMsg
 	"""
-	your eye when going
-	from the kiosk to
-	the ticket machines
+	no trajeto da lojinha
+	para a máquina de
+	venda de tíquetes.
 	"""
 	keyWait
 	end
@@ -77746,15 +77697,15 @@ script 222 mmbn3 {
 		jumpIfOutOfRange = continue
 	msgOpen
 	"""
-	Local snacks made in
-	Yoka are on display
+	Doces locais de Yoka
+	estão expostos.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Trying out different
-	snacks is one of the
-	joys of travel
+	Experimentar comidas
+	diferentes é uma das
+	dádivas de viajar.
 	"""
 	keyWait
 	end
@@ -77762,16 +77713,15 @@ script 222 mmbn3 {
 script 223 mmbn3 {
 	msgOpen
 	"""
-	Various sports
-	newspapers are
-	organized here
+	Há vários jornais de
+	esporte separados aqui.
 	"""
 	keyWait
 	clearMsg
 	"""
-	People buy them up
-	when their favorite
-	teams win
+	As pessoas os compram
+	quando os times
+	favoritos delas vencem.
 	"""
 	keyWait
 	end
@@ -77779,26 +77729,27 @@ script 223 mmbn3 {
 script 224 mmbn3 {
 	msgOpen
 	"""
-	There's a bulletin
-	by the cash register
+	Tem um quadro de
+	anúncios perto da
+	caixa registradora.
 	"""
 	keyWait
 	clearMsg
 	"""
-	"New item: Nut-wafer
-	chocolates w/lotto
-	numbers:500 Zennys!"
+	"Novidade! Wafer de cho-
+	colate com número de
+	loteria: 500 Zennys!"
 	"""
 	keyWait
 	clearMsg
 	"""
-	The treats contain
-	sweet chocolate and
-	crispy wafers
+	Como o nome sugere,
+	são biscoitos de wafer
+	com chocolate.
 	"""
 	keyWait
 	clearMsg
-	"Buy for 500 Zennys?\n"
+	"Levar por 500 Zennys?\n"
 	option
 		left = 0
 		right = 0
@@ -77806,7 +77757,7 @@ script 224 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Yes!!\n"
+	"   Sim!!\n"
 	option
 		left = 1
 		right = 1
@@ -77814,7 +77765,7 @@ script 224 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"No…"
+	"   Não..."
 	select
 		default = 0
 		BSeparate = false
@@ -77830,14 +77781,14 @@ script 224 mmbn3 {
 		jumpIfSurplus = continue
 		jumpIfExact = continue
 		jumpIfDeficit = 226
+	clearMsg
 	playerAnimate
 		animation = 24
 	soundPlay
 		track = 133
 	"""
 	Lan adquiriu:
-	"Nut-wafer
-	chocolate"!!
+	"Wafer de chocolate"!!
 	"""
 	playerFinish
 	playerAnimate
@@ -77846,33 +77797,32 @@ script 224 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Crack!
-	(Munch munch munch)
+	Crec!
+	(Nham nham nham)
 	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"This "
+	"Mas "
 	wait
 		frames = 30
-	"is "
+	"que "
 	wait
 		frames = 30
-	"the "
+	"de"
 	wait
 		frames = 30
 	"""
-	best!
-	The crispy wafers go
-	perfectly with the
+	lícia!
+	O wafer complementa
+	o chocolate tão bem!
 	"""
 	keyWait
 	clearMsg
 	"""
-	sweet chocolate! Hm?
-	There's something
-	written here!
+	Hm? Tem alguma coisa
+	escrita aqui!
 	"""
 	keyWait
 	clearMsg
@@ -77884,15 +77834,14 @@ script 225 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"I'd better not…"
+	"É melhor não..."
 	keyWait
 	end
 }
 script 226 mmbn3 {
 	msgOpen
 	"""
-	I don't have enough
-	Zennys…
+	Tô sem Zennys...
 	"""
 	keyWait
 	end
@@ -77972,7 +77921,7 @@ script 231 mmbn3 {
 }
 script 232 mmbn3 {
 	msgOpen
-	"Change ticket?\n"
+	"Trocar de tíquete?\n"
 	option
 		left = 1
 		right = 1
@@ -77980,7 +77929,7 @@ script 232 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"   Sim "
 	option
 		left = 0
 		right = 0
@@ -77988,7 +77937,7 @@ script 232 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No"
+	"          Não"
 	select
 		default = 0
 		BSeparate = false
@@ -78015,9 +77964,8 @@ script 233 mmbn3 {
 		flag = 10
 	msgOpen
 	"""
-	Lan returned the
-	ticket he was
-	holding!
+	Lan devolveu o tíquete
+	que tinha consigo!
 	"""
 	keyWait
 	clearMsg
@@ -78054,7 +78002,7 @@ script 235 mmbn3 {
 		down = 2
 	space
 		count = 2
-	"ACDC "
+	"   ACDC "
 	option
 		left = 0
 		right = 0
@@ -78062,7 +78010,7 @@ script 235 mmbn3 {
 		down = 3
 	space
 		count = 2
-	"SciLab\n"
+	"         SciLab\n"
 	option
 		left = 3
 		right = 3
@@ -78070,7 +78018,7 @@ script 235 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Beach    "
+	"   Angra "
 	option
 		left = 2
 		right = 2
@@ -78078,7 +78026,7 @@ script 235 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Nowhere"
+	"          Ficar"
 	select
 		default = 0
 		BSeparate = false
@@ -78651,8 +78599,8 @@ script 42 mmbn3 {
 	msgOpen
 	"""
 	Essa molecada de hoje
-	adora ver a desgraça
-	dos outros. Hmpf!
+	adora ver desgraça
+	alheia. Hmpf!
 	"""
 	keyWait
 	end
@@ -78968,8 +78916,8 @@ script 60 mmbn3 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	Ah! Parece que chegou um
-	e-mail para mim!
+	Ah! Parece que chegou
+	um e-mail pra mim!
 	"""
 	keyWait
 	clearMsg
@@ -79119,7 +79067,7 @@ script 68 mmbn3 {
 	waitSkip
 		frames = 30
 	"""
-	Ahhhh...
+	 Ahhhh...
 	A paz é divina!
 	"""
 	keyWait
@@ -79333,8 +79281,8 @@ script 80 mmbn3 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	Essa não! Eu acabei de
-	ativar minha Lava-Bolha!
+	Ai, não! Eu acabei de
+	ligar a minha Lava-Bolha!
 	A minha casa deve
 	"""
 	keyWait
@@ -80931,18 +80879,19 @@ script 239 mmbn3 {
 	mugshotShow
 		mugshot = 64
 	msgOpen
-	"Did you know that\n"
+	"Sabia que dá pra deter\n"
 	printEnemyName
 		buffer = 0
 		enemy = 1
-	"'s "
+	"s e suas
+	"
 	printChip
 		buffer = 0
 		chip = 44
-	"\nis stopped by holes?"
+	"s com buracos?"
 	keyWait
 	clearMsg
-	"Really! It's true!"
+	"É sério! Eu juro!"
 	keyWait
 	end
 }
@@ -80951,16 +80900,16 @@ script 240 mmbn3 {
 		mugshot = 64
 	msgOpen
 	"""
-	I hear that when you
-	step on cracks,
-	panels break!
+	Ouvi dizer que, quando
+	se pisa em rachaduras,
+	os quadros se quebram!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I only thought
-	cracks endangered
-	mothers' backs…
+	Antes, achava que era:
+	"Se pisar em rachadura,
+	sua mãe que atura"...
 	"""
 	keyWait
 	end
@@ -80970,16 +80919,16 @@ script 241 mmbn3 {
 		mugshot = 64
 	msgOpen
 	"""
-	The closer you are
-	to an enemy,the more
-	rapidly you can fire
+	Quanto mais perto do
+	inimigo, mais rápido pode
+	disparar o MegaAtirador!
 	"""
 	keyWait
 	clearMsg
 	"""
-	your MegaBuster! Of
-	course,getting close
-	to enemies is scary…
+	Bom, claro que ficar
+	perto demais de um
+	inimigo dá medo, né...
 	"""
 	keyWait
 	end
@@ -80989,23 +80938,21 @@ script 242 mmbn3 {
 		mugshot = 64
 	msgOpen
 	"""
-	When you're stunned,
-	I find it helps to
-	recover faster if
+	Quando você é
+	paralisado, pode ser
+	que se recupere mais
 	"""
 	keyWait
 	clearMsg
 	"""
-	you frantically
-	press a bunch of
-	buttons!
+	rápido se apertar todos
+	os botões feito louco!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Then again,maybe
-	I'm just imagining
-	things…
+	Dito isso, pode ser só
+	impressão minha...
 	"""
 	keyWait
 	end
@@ -81028,9 +80975,9 @@ script 243 mmbn3 {
 		mugshot = 64
 	msgOpen
 	"""
-	The other day I
-	stepped on a Lava
-	panel and got burnt!
+	Outro dia, eu pisei
+	num quadro de Lava
+	e me queimei!
 	"""
 	keyWait
 	end
@@ -81040,16 +80987,15 @@ script 244 mmbn3 {
 		mugshot = 64
 	msgOpen
 	"""
-	I came up with a
-	strategy! If you use
-	a recovery chip as
+	Bolei uma estratégia!
+	Se usar um chip de
+	cura como Chip Padrão,
 	"""
 	keyWait
 	clearMsg
 	"""
-	your regular chip,
-	it'll help you
-	avoid deletion!
+	isso vai... ajudar você
+	a evitar ser deletado!
 	"""
 	keyWait
 	end
@@ -81059,23 +81005,23 @@ script 245 mmbn3 {
 		mugshot = 64
 	msgOpen
 	"""
-	Mr.Famous let me in
-	on something the
-	other day. If blue
+	O Sr. Famoso me contou
+	um segredinho outro dia.
+	Se saírem faíscas azuis
 	"""
 	keyWait
 	clearMsg
 	"""
-	sparks fly off an
-	enemy when you hit
-	it,that means you're
+	de um inimigo quando você
+	o ataca, isso quer dizer
+	que ele não está
 	"""
 	keyWait
 	clearMsg
 	"""
-	not damaging it! I
-	used to just keep
-	firing away…
+	sofrendo dano!
+	Antes, eu só ficava
+	atirando e atirando...
 	"""
 	keyWait
 	end
@@ -81085,23 +81031,23 @@ script 246 mmbn3 {
 		mugshot = 64
 	msgOpen
 	"""
-	Something called a
-	Navi Customizer just
-	came out,right?
+	Acabaram de lançar um
+	tal Customizador de
+	Navi, né?
 	"""
 	keyWait
 	clearMsg
 	"""
-	I customized my Navi
-	with one,but it
-	had problems.
+	Eu customizei meu Navi
+	com um, mas deu uns
+	problemas.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Like,it kept losing
-	HP! Maybe I bought a
-	defective one?
+	Tipo, ele fica perdendo
+	PV direto! Será que o
+	meu veio com defeito?
 	"""
 	keyWait
 	end
@@ -81124,16 +81070,16 @@ script 247 mmbn3 {
 		mugshot = 64
 	msgOpen
 	"""
-	Do you know that
-	bird-like virus that
-	dives right at you?
+	Sabe aquele vírus
+	pássaro que voa pra
+	cima de você?
 	"""
 	keyWait
 	clearMsg
 	"""
-	That little rascal
-	flies right over
-	panels with holes!
+	Aquele cretininho
+	sobrevoa até quadros
+	vazios!
 	"""
 	keyWait
 	end
@@ -81143,42 +81089,41 @@ script 248 mmbn3 {
 		mugshot = 64
 	msgOpen
 	"""
-	I made an amazing
-	discovery!
+	Fiz uma descoberta
+	incrível!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I had these 3 chips
-	lined up,and they
-	suddenly morphed
+	Eu escolhi três chips
+	quando, de repente,
+	eles se transformaram
 	"""
 	keyWait
 	clearMsg
 	"""
-	into something else!
-	I couldn't believe
-	my eyes!
+	em algo novo!
+	Nem dava pra acreditar
+	no que eu vi!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Huh? What were the
+	Hã? Quais foram os
 	chips?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Let's see. A cannon…
-	A shotgun,I think…
-	And,uh…?
+	Vejamos. Um dos
+	Cannons... Uma Shotgun,
+	eu acho? E... er....?
 	"""
 	keyWait
 	clearMsg
 	"""
-	I can't remember,
-	but don't you think
-	that's just amazing?
+	É, não lembro, mas você
+	não acha isso incrível?!
 	"""
 	keyWait
 	end
@@ -81188,22 +81133,21 @@ script 249 mmbn3 {
 		mugshot = 64
 	msgOpen
 	"""
-	The other day I
-	heard some kids talk
-	about "ModCodes".
+	Outro dia, ouvi uns
+	guris falando de
+	"CódigosMod".
 	"""
 	keyWait
 	clearMsg
 	"""
-	I have no idea what
-	that might be.
+	Eu nem faço ideia do
+	que isso possa ser.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Darn! Maybe I
-	should have asked
-	them?
+	Droga! Acho que eu
+	devia ter perguntado...
 	"""
 	keyWait
 	end
@@ -81213,9 +81157,9 @@ script 250 mmbn3 {
 		mugshot = 64
 	msgOpen
 	"""
-	I had trouble moving
-	on sand panels. You
-	should avoid them!
+	Eu tive dificuldades pra
+	andar sobre quadros de
+	areia. Evita eles, hein!
 	"""
 	keyWait
 	end
@@ -81238,23 +81182,23 @@ script 251 mmbn3 {
 		mugshot = 64
 	msgOpen
 	"""
-	Most attacks don't
-	work on those black
-	shadowy viruses,but
+	A maioria dos ataques
+	não funciona naqueles
+	vírus sombra,
 	"""
 	keyWait
 	clearMsg
 	"""
-	Mr.Famous was saying
-	some kind of attack
-	does work!
+	mas o Sr. Famoso me
+	disse que um certo
+	tipo de ataque funciona!
 	"""
 	keyWait
 	clearMsg
 	"""
-	What was it,again?
-	Darn! I should've
-	written it down!
+	Qual que era mesmo...?
+	Droga! Eu devia ter
+	anotado!
 	"""
 	keyWait
 	end
@@ -81264,16 +81208,16 @@ script 252 mmbn3 {
 		mugshot = 64
 	msgOpen
 	"""
-	I didn't know this,
-	but I hear some
-	viruses use support
+	Eu não sabia disso, mas
+	ouvi dizer que certos
+	vírus usam chips de
 	"""
 	keyWait
 	clearMsg
 	"""
-	chips like AreaGrab.
-	I hope I don't run
-	into any like that!
+	apoio, como o AreaGrab.
+	Espero que eu não es-
+	barre em nenhum desses!
 	"""
 	keyWait
 	end
@@ -81283,16 +81227,16 @@ script 253 mmbn3 {
 		mugshot = 64
 	msgOpen
 	"""
-	If you press Select
-	at the Custom screen
-	you can see the left
+	Apertando "Select" na
+	Tela de Customização,
+	você pode ver o lado
 	"""
 	keyWait
 	clearMsg
 	"""
-	side of the battle
-	field! It comes in
-	handy!
+	esquerdo do campo!
+	Isso pode ser bem
+	útil!
 	"""
 	keyWait
 	end
@@ -81302,15 +81246,14 @@ script 254 mmbn3 {
 		mugshot = 64
 	msgOpen
 	"""
-	Someone told me
-	something amazing!
+	Ouvi um negócio incrível!
 	"""
 	keyWait
 	clearMsg
 	"""
-	However,they made me
-	promise to keep it a
-	secret…
+	Porém, me fizeram
+	prometer guardar
+	segredo...
 	"""
 	keyWait
 	clearMsg
@@ -81324,7 +81267,7 @@ script 254 mmbn3 {
 	waitSkip
 		frames = 30
 	"""
-	Ohhh! But…
+	 Hnnng! Mas...
 	.
 	"""
 	waitSkip
@@ -81336,36 +81279,36 @@ script 254 mmbn3 {
 	waitSkip
 		frames = 30
 	"""
-	I have to tell
-	someone!
+	Eu preciso contar pra
+	alguém!
 	"""
 	keyWait
 	clearMsg
 	"""
-	It's OK,right? I'll
-	tell you,but don't
-	tell anyone else!
+	Tudo bem, né? Eu te
+	conto, mas não conte
+	pra NINGUÉM!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Some chips get
-	stronger when you
-	enter commands with
+	Alguns chips ficam mais
+	fortes quando você
+	aplica comandos com
 	"""
 	keyWait
 	clearMsg
 	"""
-	certain buttons. I
-	pressed a bunch of
-	buttons and got it
+	certos botões. Eu
+	apertei botões adoidado
+	e consegui ativar o
 	"""
 	keyWait
 	clearMsg
 	"""
-	to work once. It
-	made a big explosion
-	when it hit!
+	negócio uma vez.
+	Causou uma explosãozona
+	quando atingiu!
 	"""
 	keyWait
 	end
@@ -81388,15 +81331,14 @@ script 0 mmbn3 {
 		mugshot = ZooMan
 	msgOpen
 	"""
-	The zoo's open for
-	visitors today.
+	O zoológico está aberto
+	para o público hoje.
 	"""
 	keyWait
 	clearMsg
 	"""
-	But tomorrow,every-
-	one will be at the
-	N1. Hmm…
+	Mas amanhã, todos
+	estarão no N1. Hmm...
 	"""
 	keyWait
 	end
@@ -81406,9 +81348,8 @@ script 1 mmbn3 {
 		mugshot = PigtailsGirl
 	msgOpen
 	"""
-	Hey,mister! Are
-	those really that
-	good?
+	Ei, moço! Essa comida
+	aí é gostosa mesmo?
 	"""
 	keyWait
 	end
@@ -81418,9 +81359,9 @@ script 2 mmbn3 {
 		mugshot = OldMan
 	msgOpen
 	"""
-	Oh,these are simply
-	scrumptious! Here,
-	try one!
+	Ah, são simplesmente
+	divinos!
+	Aqui, experimente!
 	"""
 	keyWait
 	clearMsg
@@ -81432,9 +81373,9 @@ script 3 mmbn3 {
 		mugshot = PigtailsGirl
 	msgOpen
 	"""
-	No,my mommy says not
-	to accept food from
-	strangers.
+	Não. A mamãe me disse
+	pra não aceitar comida
+	de estranhos.
 	"""
 	keyWait
 	end
@@ -81454,16 +81395,16 @@ script 4 mmbn3 {
 		mugshot = Man
 	msgOpen
 	"""
-	Get your mini-cakes
-	here,to celebrate
-	the N1 opening!
+	Compre seus minibolos
+	aqui, para celebrar a
+	abertura do N1!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Huh? Why do I sell
-	them here? What are
-	you,a wise guy?
+	Hã? "Por que eu os
+	vendo aqui"? Tá tirando
+	uma com a minha cara?
 	"""
 	keyWait
 	end
@@ -81478,8 +81419,8 @@ script 5 mmbn3 {
 		mugshot = Woman
 	msgOpen
 	"""
-	There's simply no
-	place like home!
+	Não há mesmo lugar
+	como o nosso lar!
 	"""
 	keyWait
 	end
@@ -81494,23 +81435,23 @@ script 6 mmbn3 {
 		mugshot = ZooWoman
 	msgOpen
 	"""
-	Everyone's finally
-	stopped talking
-	about the escape.
+	Todos, finalmente,
+	pararam de falar sobre
+	a fuga dos animais.
 	"""
 	keyWait
 	clearMsg
 	"""
-	You know,talk like
-	that isn't good for
-	our reputation.
+	É aquilo, né: esse tipo
+	de conversa não é boa
+	pra nossa reputação.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Fortunately,talk
-	and rumors never
-	last.
+	Felizmente, fofocas
+	e boatos nunca duram
+	muito.
 	"""
 	keyWait
 	end
@@ -81555,36 +81496,35 @@ script 7 mmbn3 {
 		mugshot = 64
 	msgOpen
 	"""
-	Wherever I go
-	lately,everyone's
-	talking about the
+	Esses dias, onde quer
+	que eu vá, todo mundo
+	só fala do N1.
 	"""
 	keyWait
 	clearMsg
 	"""
-	N1. If it wasn't for
-	work,I would have
-	entered it,too.
+	Se não fosse tão longe
+	de onde eu trabalho,
+	também teria entrado.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Just between you and
-	me,I'm a master
-	NetBattler.
+	Só cá entre nós...
+	eu sou um mestre
+	NetLutador.
 	"""
 	keyWait
 	clearMsg
 	"""
-	No,really!
-	I am!
+	Não, é sério!
+	Eu sou mesmo!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Oh,yeah,I just
-	remembered
-	something!
+	Ah, é, acabei de me
+	lembrar de uma coisa!
 	"""
 	keyWait
 	clearMsg
@@ -81631,16 +81571,16 @@ script 8 mmbn3 {
 		mugshot = MrFamous
 	msgOpen
 	"""
-	The N1 is about to
-	begin! I'm all
-	pumped up!
+	O N1 está para começar!
+	Minha animação está a
+	mil!
 	"""
 	keyWait
 	clearMsg
 	"""
-	And since I'm pumped
-	up,let me tell you
-	something!
+	E, como estou animado
+	assim, vou lhe contar
+	uma coisa!
 	"""
 	keyWait
 	clearMsg
@@ -81652,9 +81592,9 @@ script 10 mmbn3 {
 		mugshot = ZooMan
 	msgOpen
 	"""
-	We decided to open
-	today,but everyone's
-	gone to see the N1.
+	Decidimos abrir hoje,
+	mas todo mundo foi ver
+	o N1.
 	"""
 	keyWait
 	end
@@ -81664,16 +81604,16 @@ script 11 mmbn3 {
 		mugshot = Man
 	msgOpen
 	"""
-	Get your mini-cakes
-	here to celebrate
-	the N1 opening!
+	Compre minibolos aqui,
+	para celebrar a
+	abertura do N1!
 	"""
 	keyWait
 	clearMsg
 	"""
-	…Maybe I should have
-	opened my stand
-	somewhere else…
+	... Talvez eu devesse
+	ter levado minha barra-
+	ca pra outro lugar...
 	"""
 	keyWait
 	end
@@ -81683,9 +81623,9 @@ script 12 mmbn3 {
 		mugshot = OldMan
 	msgOpen
 	"""
-	Who cares about the
-	N1? It won't fill up
-	your stomach!
+	Quem liga pra esse "M1"?
+	Isso não mata a fome
+	de ninguém!
 	"""
 	keyWait
 	end
@@ -81695,9 +81635,9 @@ script 13 mmbn3 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	I'm heading over to
-	the N1. I can't wait
-	to see the action!
+	Estou indo para o N1.
+	Mal posso esperar pra
+	ver o quebra-pau!
 	"""
 	keyWait
 	end
@@ -81707,16 +81647,15 @@ script 14 mmbn3 {
 		mugshot = 64
 	msgOpen
 	"""
-	Everyone and their
-	Navi is talking
-	about the N1…
+	Todo mundo e todo Navi
+	tá falando do N1...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Meanwhile,I'm stuck
-	here,working my tail
-	off!!
+	Enquanto isso, eu tô
+	preso aqui, trabalhando
+	feito condenado!!
 	"""
 	keyWait
 	clearMsg
@@ -81730,15 +81669,14 @@ script 14 mmbn3 {
 	waitSkip
 		frames = 30
 	"""
-	Just kidding.
-	To tell you the
-	truth,I'm hardly
+	 Brincadeira.
+	Na verdade, estou
+	trabalhando bem pouco!
 	"""
 	keyWait
 	clearMsg
 	"""
-	working at all!
-	By the way…
+	Ah, e, por sinal...
 	"""
 	keyWait
 	clearMsg
@@ -81750,37 +81688,37 @@ script 15 mmbn3 {
 		mugshot = MrFamous
 	msgOpen
 	"""
-	Hey! Are you pumped
-	up or what!? The N1
-	is on! Actually,I
+	Opa! E aí, animado?!
+	O Grande Prêmiio N1
+	está a todo vapor!
 	"""
 	keyWait
 	clearMsg
 	"""
-	was invited,too,but
-	I had to turn it
-	down. I didn't want
+	Na verdade, também
+	fui convidado, mas tive
+	que recusar.
 	"""
 	keyWait
 	clearMsg
 	"""
-	to ruin this
-	excellent chance for
-	young NetBattlers to
+	Não quero arruinar esta
+	ótima chance para
+	jovens NetLutadores
 	"""
 	keyWait
 	clearMsg
 	"""
-	grow. If you're also
-	competing,go for the
-	gold!
+	crescerem. Se você
+	também for competir,
+	almeje o ouro, garoto!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Now,then,here's a
-	bit of advice that
-	may help you…
+	Mas, enfim, aqui vai um
+	pequeno conselho que
+	pode te ajudar...
 	"""
 	keyWait
 	clearMsg
@@ -81792,9 +81730,9 @@ script 20 mmbn3 {
 		mugshot = 64
 	msgOpen
 	"""
-	Oh no! I left some
-	really important
-	papers at home!
+	Essa não! Deixei uns
+	papeis importantes lá
+	em casa!
 	"""
 	keyWait
 	clearMsg
@@ -81808,30 +81746,30 @@ script 20 mmbn3 {
 	waitSkip
 		frames = 30
 	"""
-	Guess I'd
-	better go get 'em.
-	But wait a minute!
+	 Acho que é melhor
+	eu voltar lá para buscá-
+	los. Aliás, espere aí!
 	"""
 	keyWait
 	clearMsg
 	"""
-	At this point,it's
-	better to think
-	up a good excuse!
+	A esta altura, é melhor
+	eu bolar uma boa
+	desculpa!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Like,like…I was at
-	the N1,and…Hmmm.
-	No no. Too risky.
+	Como-como... Eu tava no
+	N1, e... Hmmm.
+	Não, não. É arriscado.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Y'know,at times like
-	this,it's best to
-	share secret info!
+	Sabe, nestas horas, o
+	melhor a fazer é contar
+	informações secretas!
 	"""
 	keyWait
 	clearMsg
@@ -81843,30 +81781,30 @@ script 21 mmbn3 {
 		mugshot = MrFamous
 	msgOpen
 	"""
-	Things really seem
-	to be heating up at
-	the N1!
+	As coisas parecem
+	estar esquentando no
+	Grande Prêmio N1!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I love seeing young
-	NetBattlers fighting
-	hard!
+	Ah, como adoro ver jo-
+	vens NetLutadores dan-
+	do tudo de si nas lutas!
 	"""
 	keyWait
 	clearMsg
 	"""
-	It's the process
-	that's important,not
-	how you finish!
+	O importante é o
+	processo, não o
+	resultado!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'll share some info
-	so you can fight
-	even harder!
+	Vou lhe dar umas informa-
+	ções para que lute com
+	ainda mais afinco!
 	"""
 	keyWait
 	clearMsg
@@ -81878,30 +81816,29 @@ script 25 mmbn3 {
 		mugshot = ZooMan
 	msgOpen
 	"""
-	I'm sorry,but the
-	zoo is closed. The
-	animals need a rest.
+	Desculpe, mas o zoológico
+	está fechado. Os animais
+	precisam descansar.
 	"""
 	keyWait
 	clearMsg
 	"""
-	What with that
-	incident where they
-	escaped and all…
+	Sabe, depois do incidente
+	em que eles escaparam
+	e tudo mais...
 	"""
 	keyWait
 	clearMsg
 	"""
-	However,since we're
-	in your debt,I'll
-	let you in.
+	Porém, como estamos em
+	dívida com você, vou te
+	deixar entrar.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Just one favor.
-	Please try not to
-	disturb the animals.
+	Só, por favor, tente não
+	perturbar os animais.
 	"""
 	keyWait
 	end
@@ -81911,9 +81848,9 @@ script 26 mmbn3 {
 		mugshot = Man
 	msgOpen
 	"""
-	People can't get
-	enough of my panda-
-	shaped cakes!
+	O povo não consegue pa-
+	rar de comer meus boli-
+	nhos em forma de panda!
 	"""
 	keyWait
 	end
@@ -81923,15 +81860,15 @@ script 27 mmbn3 {
 		mugshot = Woman
 	msgOpen
 	"""
-	I'm supposed to meet
-	my husband here,but
-	he's late.
+	Era para eu me encon-
+	trar com meu marido aqui,
+	mas ele está atrasado.
 	"""
 	keyWait
 	clearMsg
 	"""
-	What's taking him
-	so long?
+	Por que ele está
+	demorando tanto?
 	"""
 	keyWait
 	end
@@ -81941,9 +81878,9 @@ script 28 mmbn3 {
 		mugshot = ZooWoman
 	msgOpen
 	"""
-	Tee hee! I'm taking
-	a vacation! And boy,
-	did I deserve it!
+	Hi hi! Vou tirar umas
+	férias! E, olha, eu
+	MERECI, viu?
 	"""
 	keyWait
 	end
@@ -81953,29 +81890,29 @@ script 29 mmbn3 {
 		mugshot = 64
 	msgOpen
 	"""
-	Good afternoon! It's
-	a beautiful day,eh?
+	Boa tarde!
+	Que dia lindo, né?
 	"""
 	keyWait
 	clearMsg
 	"""
-	The streets are near
-	empty,what with the
-	zoo being closed.
+	As ruas estão quase
+	vazias, agora que o
+	zoológico está fechado.
 	"""
 	keyWait
 	clearMsg
 	"""
-	It's so quiet,I can
-	almost forget about
-	the WWW and viruses!
+	Está tão tranquilo que
+	eu quase consigo me
+	esquecer da WWW e tudo!
 	"""
 	keyWait
 	clearMsg
 	"""
-	That said,allow
-	me to share some
-	info with you…
+	Dito isso, permita-me
+	compartilhar umas
+	informações com você...
 	"""
 	keyWait
 	clearMsg
@@ -81987,34 +81924,33 @@ script 30 mmbn3 {
 		mugshot = MrFamous
 	msgOpen
 	"""
-	My vacation's
-	already halfway
-	over.
+	Metade das minhas
+	férias já acabaram.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I've got to hurry up
-	and make those
-	adjustments to Punk…
+	Preciso me apressar e
+	fazer aqueles ajustes
+	no PunkMan...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Oh never mind me!
-	I'm just thinking
-	out loud!
+	Ah, mas não se preocupe
+	comigo! Só estava
+	pensando alto!
 	"""
 	keyWait
 	clearMsg
 	"""
-	You look like you're
-	in need of some
-	good information.
+	Você parece que está
+	precisando de umas
+	boas informações.
 	"""
 	keyWait
 	clearMsg
-	"Let me help you out!"
+	"Bom... eu tenho!"
 	keyWait
 	clearMsg
 	jump
@@ -82025,13 +81961,13 @@ script 35 mmbn3 {
 		mugshot = CapBoy
 	msgOpen
 	"""
-	Heh heh! I'm a
-	pinball wizard! Such
-	a subtle wrist!
+	He he! Eu sou um ás
+	do pinball! Pulso firme,
+	porém suave!
 	"""
 	keyWait
 	clearMsg
-	"Aw,this is easy!"
+	"Isto é tão fácil!"
 	keyWait
 	end
 }
@@ -82040,15 +81976,15 @@ script 36 mmbn3 {
 		mugshot = ZooMan
 	msgOpen
 	"""
-	Huh? You're going
-	inside the zoo?
+	Hã? Você vai entrar
+	no zoológico?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Don't disturb the
-	animals,OK? They're
-	recuperating.
+	Não perturbe os
+	animais, tá? Eles estão
+	se recuperando.
 	"""
 	keyWait
 	end
@@ -82058,16 +81994,15 @@ script 37 mmbn3 {
 		mugshot = Man
 	msgOpen
 	"""
-	Always adjust the
-	gas to maintain a
-	steady flame.
+	Sempre ajuste o gás
+	para manter o fogo num
+	nível constante.
 	"""
 	keyWait
 	clearMsg
 	"""
-	That's the secret
-	to making good
-	cakes!
+	Esse é o segredo pra
+	assar bons bolinhos!
 	"""
 	keyWait
 	end
@@ -82077,8 +82012,8 @@ script 38 mmbn3 {
 		mugshot = PigtailsGirl
 	msgOpen
 	"""
-	Mommy! Are the
-	animals on vacation?
+	Mamãe! Os animais tão
+	de férias?
 	"""
 	keyWait
 	end
@@ -82088,9 +82023,9 @@ script 39 mmbn3 {
 		mugshot = Woman
 	msgOpen
 	"""
-	We've come all this
-	way! Please let us
-	in!
+	Nós viemos de tão longe!
+	Por favor, deixem-nos
+	entrar!
 	"""
 	keyWait
 	end
@@ -82100,34 +82035,34 @@ script 40 mmbn3 {
 		mugshot = 64
 	msgOpen
 	"""
-	I heard the tree at
-	Seaside Hospital was
-	out of control!
+	Ouvi dizer que a árvore
+	do Hospital Beira-Mar
+	ficou fora de controle!
 	"""
 	keyWait
 	clearMsg
 	"""
-	It even shut down
-	the hospital's main
-	computer system.
+	Que até desligou o
+	sistema central de com-
+	putadores do hospital.
 	"""
 	keyWait
 	clearMsg
 	"""
-	The age has come
-	where science can
-	even control plants…
+	Chegou a era em que a
+	ciência consegue até
+	controlar plantas...
 	"""
 	keyWait
 	clearMsg
 	"""
-	I can't stand people
-	who use science to
-	commit crimes!
+	Eu não suporto gente
+	que usa a ciência pra
+	cometer crimes!
 	"""
 	keyWait
 	clearMsg
-	"Oh,yeah…"
+	"Ah, sim..."
 	keyWait
 	clearMsg
 	jump
@@ -82138,36 +82073,35 @@ script 41 mmbn3 {
 		mugshot = MrFamous
 	msgOpen
 	"""
-	I heard there was an
-	incident at Seaside
-	Hospital.
+	Soube que houve um
+	incidente no Hospital
+	Beira-Mar.
 	"""
 	keyWait
 	clearMsg
 	"""
-	What kind of sicko
-	would attack a
-	hospital?
+	Que tipo de doente
+	atacaria um hospital?
 	"""
 	keyWait
 	clearMsg
 	"""
-	A computer shut-down
-	there could kill
-	innocent patients!
+	Um desligamento geral
+	dos computadores
+	poderia matar pacientes!
 	"""
 	keyWait
 	clearMsg
 	"""
-	We need powerful
-	NetBattlers to
-	defend ourselves!
+	Precisamos de
+	NetLutadores poderosos
+	para nos defender!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'll share some of
-	my wisdom with you!
+	Compartilharei um pouco
+	de sabedoria com você!
 	"""
 	keyWait
 	clearMsg
@@ -82179,14 +82113,14 @@ script 43 mmbn3 {
 		mugshot = MetrolineMan
 	msgOpen
 	"""
-	No one was injured
-	here in Yoka.
+	Ninguém se feriu aqui,
+	em Yoka.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I just hope SciLab
-	is all right.
+	Só espero que esteja
+	tudo bem lá no SciLab.
 	"""
 	keyWait
 	end
@@ -82200,9 +82134,9 @@ script 44 mmbn3 {
 		mugshot = MetrolineMan
 	msgOpen
 	"""
-	Everyone! Evacuate
-	to the creek in
-	front of the inn!
+	Por favor, evacuem
+	todos para o riacho
+	na frente da pousada!
 	"""
 	keyWait
 	end
@@ -82217,9 +82151,8 @@ script 45 mmbn3 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	As an Official,I've
-	got to track down
-	the WWW!
+	Como Oficial, tenho que
+	caçar a WWW!
 	"""
 	keyWait
 	end
@@ -82229,30 +82162,28 @@ script 46 mmbn3 {
 		mugshot = OldWoman
 	msgOpen
 	"""
-	The Officials are
-	working hard,but
-	even still…
+	Os Oficiais estão dando
+	duro, mas, ainda assim...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Most people have
-	left Yoka by now.
-	It's near empty!
+	Quase todo mundo já
+	deixou Yoka a esta altu-
+	ra. Tá quase deserta!
 	"""
 	keyWait
 	clearMsg
 	"""
-	It's a waste of time
-	to look for suspects
-	around here now.
+	É perda de tempo
+	procurar por suspeitos
+	aqui, agora.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Anyone who looked
-	suspicious would be
-	spotted right away!
+	Qualquer sujeito suspeito
+	seria flagrado na hora!
 	"""
 	keyWait
 	end
@@ -82262,15 +82193,15 @@ script 47 mmbn3 {
 		mugshot = ZooMan
 	msgOpen
 	"""
-	Oh,no! Closing the
-	zoo gave the animals
-	a much-needed rest.
+	Agh! Fechar o zoológico
+	DEU aos bichos o descan-
+	so de que precisavam...
 	"""
 	keyWait
 	clearMsg
 	"""
-	But now there aren't
-	any visitors!
+	mas, agora, não temos
+	nenhum visitante!
 	"""
 	keyWait
 	end
@@ -82280,15 +82211,15 @@ script 48 mmbn3 {
 		mugshot = 64
 	msgOpen
 	"""
-	What's all the
-	ruckus? Maybe I'd
-	better evacuate too…
+	Que tumulto todo é
+	esse? Talvez eu deves-
+	se evacuar, também...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Nah!
-	Hey,listen to this!
+	... Nah!
+	Ei, escuta só!
 	"""
 	keyWait
 	clearMsg
@@ -82300,16 +82231,15 @@ script 49 mmbn3 {
 		mugshot = MrFamous
 	msgOpen
 	"""
-	Something bad's
-	happened at SciLab,
-	but don't panic!
+	Aconteceu alguma coisa
+	ruim no SciLab, mas não
+	entre em pânico!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'll tell you
-	something that'll
-	calm you down.
+	Vou lhe contar uma coisa
+	que irá lhe acalmar.
 	"""
 	keyWait
 	clearMsg
@@ -82321,27 +82251,27 @@ script 53 mmbn3 {
 		mugshot = 64
 	msgOpen
 	"""
-	I've heard there's
-	a lot of activity on
-	the Undernet lately.
+	Ouvi dizer que a
+	Undernet anda bem
+	ativa, ultimamente.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I've never been
-	there myself.
-	Too darn scary!
+	Eu, na verdade, nunca
+	fui lá.
+	Medo demais!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Guess that's why my
-	Under-virus research
-	isn't going so well.
+	Acho que por isso minha
+	pesquisa sobre Under-
+	vírus tá estagnada.
 	"""
 	keyWait
 	clearMsg
-	"At any rate…"
+	"Enfim...."
 	keyWait
 	clearMsg
 	jump
@@ -82352,36 +82282,36 @@ script 54 mmbn3 {
 		mugshot = MrFamous
 	msgOpen
 	"""
-	I heard there's been
-	a lot of activity on
-	the Undernet lately!
+	Ouvi dizer que tem
+	havido muita atividade
+	na Undernet, estes dias!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'd like to help put
-	a stop to it before
-	it affects the Net.
+	Eu queria muito ajudar
+	a pôr um fim nelas antes
+	que isso afete a Rede...
 	"""
 	keyWait
 	clearMsg
 	"""
-	But that's the job
-	of the Officials.
+	... mas isso é trabalho
+	para os Oficiais.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I don't want to get
-	in the way,so all I
-	do is sit and watch.
+	Não quero atrapalhar,
+	então, só posso ficar
+	quieto, observando.
 	"""
 	keyWait
 	clearMsg
 	"""
-	But let me release
-	some stress by tell-
-	ing you something!
+	Mas, para dar uma
+	acalmada nestes nervos,
+	vou te contar uma coisa!
 	"""
 	keyWait
 	clearMsg
@@ -82393,27 +82323,25 @@ script 55 mmbn3 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	What!? The WWW's in
-	the SciLab area!?
+	O quê?! A WWW está na
+	área Scilab?!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Oops!
-	I said that too
-	loud…
+	Ops!
+	Falei alto demais...
 	"""
 	keyWait
 	clearMsg
 	"""
-	I hope no one
-	overheard me!
+	Espero que ninguém
+	tenha ouvido!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Was anyone
-	listening?
+	ALGUÉM AÍ OUVIU?!
 	"""
 	keyWait
 	end
@@ -82444,28 +82372,28 @@ script 70 mmbn3 {
 		palette = 1
 	msgOpen
 	"""
-	No civilians are
-	allowed outside!
+	É proibida a entrada
+	de civis!
 	"""
 	keyWait
 	clearMsg
 	"""
-	As ordered by the
-	Electopia Army's
-	7th tank regiment!
+	Ordens do sétimo regi-
+	mento de tanques do
+	Exército Ameropano!
 	"""
 	keyWait
 	clearMsg
 	"""
-	What? You have an
+	Quê? Você tem um
 	"
 	"""
 	printItem
 		buffer = 0
 		item = 35
 	"""
-	"? Why
-	didn't you say so!?
+	"? Por que
+	não disse logo?!
 	"""
 	keyWait
 	end
@@ -82494,15 +82422,15 @@ script 71 mmbn3 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	All civilians have
-	been evacuated!
+	Todos os civis foram
+	evacuados!
 	"""
 	keyWait
 	clearMsg
 	"""
-	We're temporarily
-	housing everyone at
-	the inn!
+	Teremos que paralisar as
+	operações da pousada
+	temporariamente!
 	"""
 	keyWait
 	end
@@ -82517,9 +82445,9 @@ script 72 mmbn3 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	What are tanks
-	doing here!? It's so
-	scary!
+	Por que tem tanques
+	aqui?!
+	Que medo!
 	"""
 	keyWait
 	end
@@ -82529,15 +82457,16 @@ script 73 mmbn3 {
 		mugshot = 64
 	msgOpen
 	"""
-	What's going to
-	happen to the world?
-	I can't stand this!
+	O que é que tá aconte-
+	cendo com o mundo?
+	É demais pra mim!!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Maybe talking will
-	help ease my fears…
+	Talvez tagarelar
+	controle os meus
+	temores...
 	"""
 	keyWait
 	clearMsg
@@ -82549,43 +82478,43 @@ script 74 mmbn3 {
 		mugshot = MrFamous
 	msgOpen
 	"""
-	The WWW has finally
-	gone too far!
+	A WWW foi longe demais,
+	desta vez!
 	"""
 	keyWait
 	clearMsg
 	"""
-	The Officials are on
-	full alert. But what
-	we really need are
+	Os Oficiais estão em
+	alerta máximo. Mas,
+	agora, precisamos mesmo
 	"""
 	keyWait
 	clearMsg
 	"""
-	strong NetBattlers!
-	Only they can save
-	Electopia's future!
+	é de NetLutadores for-
+	tes! Só eles podem salvar
+	o futuro de Ni-Hon!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I cannot head out to
-	the battlefield! I
-	must remain here.
+	Mas eu não posso ir
+	pro campo de batalha!
+	Preciso ficar aqui.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Why? So I can pass
-	knowledge to people
-	like you!
+	Por quê? Para passar
+	meu conhecimento para
+	jovens como você!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Please help build a
-	Net-society without
-	any crime!
+	Por favor, ajude a
+	construir uma sociedade
+	da Rede sem crimes!
 	"""
 	keyWait
 	clearMsg
@@ -82599,22 +82528,21 @@ script 80 mmbn3 {
 		palette = 1
 	msgOpen
 	"""
-	Whew! With those
-	tanks going around
-	shooting everything,
+	Ufa! Com todos esses
+	tanques atirando pra
+	lá e pra cá,
 	"""
 	keyWait
 	clearMsg
 	"""
-	I thought I was
-	going to have a
-	heart attack!
+	eu achei que ia acabar
+	tendo um AVC!
 	"""
 	keyWait
 	clearMsg
 	"""
-	It's a good thing
-	no one got hurt!
+	Ainda bem que ninguém
+	se machucou!
 	"""
 	keyWait
 	end
@@ -82624,9 +82552,8 @@ script 81 mmbn3 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	What were those
-	viruses inside the
-	tanks?
+	Que vírus eram aqueles
+	dentro dos tanques?
 	"""
 	keyWait
 	end
@@ -82646,9 +82573,9 @@ script 82 mmbn3 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	I have things under
-	control here! Go
-	help the others!
+	Já tenho tudo sob
+	controle aqui!
+	Vá ajudar os outros!
 	"""
 	keyWait
 	end
@@ -82657,20 +82584,20 @@ script 83 mmbn3 {
 	mugshotShow
 		mugshot = OrangeShirtBoy
 	msgOpen
-	"Ow!"
+	"Ai!"
 	keyWait
 	clearMsg
 	"""
-	That robot tank just
-	started shooting up
-	the place!
+	Aquele tanque robô
+	começou a atirar pra
+	todo lado!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I was so frightened,
-	I sprained my back!
-	Now I can't move!
+	Eu fiquei com tanto medo
+	que dei um jeito na
+	coluna! Não me meeexo!
 	"""
 	keyWait
 	end
@@ -82682,16 +82609,16 @@ script 90 mmbn3 {
 		palette = 1
 	msgOpen
 	"""
-	I just heard that
-	war is breaking out
-	across the globe!
+	Ouvi dizer que tem uma
+	guerra começando por
+	todo o mundo!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Electopia getting
-	attacked is just a
-	matter of time…
+	É só uma questão de
+	tempo até Ni-Hon ser
+	atacada...
 	"""
 	keyWait
 	end
@@ -82701,9 +82628,8 @@ script 91 mmbn3 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	We've got to prevent
-	the world from being
-	destroyed!
+	Temos que impedir o
+	mundo de ser destruído!
 	"""
 	keyWait
 	end
@@ -82713,16 +82639,15 @@ script 92 mmbn3 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	Officials are fixing
-	Army systems
-	all over the world.
+	Oficiais estão
+	consertando sistemas do
+	Exército mundo afora.
 	"""
 	keyWait
 	clearMsg
 	"""
-	But what we really
-	need is to fight
-	back at the source!
+	Mas precisamos mesmo é
+	dar um jeito na fonte!
 	"""
 	keyWait
 	end
@@ -82734,16 +82659,16 @@ script 100 mmbn3 {
 		palette = 1
 	msgOpen
 	"""
-	No matter how many
-	weapons we have,
-	they're vulnerable
+	Não importa quantas
+	armas tenham, eles são
+	vulneráveis a vírus
 	"""
 	keyWait
 	clearMsg
 	"""
-	to viruses as long
-	as they're computer-
-	controlled!
+	enquanto eles tudo for
+	controlado por
+	computadores!
 	"""
 	keyWait
 	end
@@ -82753,15 +82678,16 @@ script 101 mmbn3 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Even if we head off
-	to fight the WWW,
+	Mesmo se formos
+	marchando derrubar a
+	WWW...
 	"""
 	keyWait
 	clearMsg
 	"""
-	We don't know where
-	their secret base
-	is located!
+	nós nem sabemos onde
+	fica a base secreta
+	deles! É secreta!
 	"""
 	keyWait
 	end
@@ -82771,9 +82697,8 @@ script 102 mmbn3 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	The global crisis is
-	worsening by the
-	hour!
+	A crise global só piora
+	a cada hora que passa!
 	"""
 	keyWait
 	end
@@ -82903,9 +82828,8 @@ script 120 mmbn3 {
 		mugshot = MrFamous
 	msgOpen
 	"""
-	That's it for the
-	lecture. Now,let's
-	battle!
+	OK, chega de aula.
+	Agora, lutar!
 	"""
 	keyWait
 	clearMsg
@@ -82978,8 +82902,8 @@ script 123 mmbn3 {
 		mugshot = MrFamous
 	msgOpen
 	"""
-	Any time you wanna
-	fight,I'll be ready!
+	Estarei pronto quando
+	quiser lutar!
 	"""
 	keyWait
 	end
@@ -82989,23 +82913,23 @@ script 124 mmbn3 {
 		mugshot = MrFamous
 	msgOpen
 	"""
-	Sorry,pal,but I'm
-	busy customizing
-	Punk now.
+	Foi mal, jovem, mas
+	estou customizando o
+	PunkMan agora.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Now,let's see…
-	If I install this
-	program here…
+	Vejamos...
+	Se eu instalar este
+	programa aqui...
 	"""
 	keyWait
 	clearMsg
 	"""
-	I think it just
-	might give Punk a
-	nice power boost…
+	acho que consigo
+	fortalecer bastatne
+	o PunkMan...
 	"""
 	keyWait
 	end
@@ -83014,7 +82938,7 @@ script 125 mmbn3 {
 	mugshotShow
 		mugshot = MrFamous
 	msgOpen
-	"Let's do it!"
+	"Vamos lá!"
 	keyWait
 	clearMsg
 	jump
@@ -83025,8 +82949,8 @@ script 126 mmbn3 {
 		mugshot = MrFamous
 	msgOpen
 	"""
-	Show me what you
-	got!
+	Mostre-me do que é
+	capaz!
 	"""
 	keyWait
 	clearMsg
@@ -83038,13 +82962,13 @@ script 127 mmbn3 {
 		mugshot = MrFamous
 	msgOpen
 	"""
-	OK,I've finished
-	modifying Punk. He's
-	unstoppable now!
+	OK, terminei de modificar
+	o PunkMan. Agora, ele
+	está imbatível!
 	"""
 	keyWait
 	clearMsg
-	"Bring it on!"
+	"Manda ver!"
 	keyWait
 	clearMsg
 	jump
@@ -83055,9 +82979,9 @@ script 128 mmbn3 {
 		mugshot = MrFamous
 	msgOpen
 	"""
-	This ain't the old
-	GutsMan! Prepare to
-	fight…Neo GutsMan!
+	Este não é o GutsMan
+	de sempre! Prepare-se
+	para... o Neo GutsMan!
 	"""
 	keyWait
 	clearMsg
@@ -83071,8 +82995,8 @@ script 129 mmbn3 {
 		mugshot = MrFamous
 	msgOpen
 	"""
-	I'll fight you any
-	time,Lan!
+	Encaro você a qualquer
+	hora, Lan Hikari!
 	"""
 	keyWait
 	clearMsg
@@ -83106,9 +83030,9 @@ script 132 mmbn3 {
 		mugshot = MrFamous
 	msgOpen
 	"""
-	Nice fight! Looks
-	like I'll have to
-	improve Punk more!
+	Que luta! Parece que
+	terei que aprimorar o
+	PunkMan ainda mais!
 	"""
 	keyWait
 	end
@@ -83118,16 +83042,15 @@ script 133 mmbn3 {
 		mugshot = MrFamous
 	msgOpen
 	"""
-	No! Where did I go
-	wrong in my
-	customization!?
+	Essa não! Onde eu errei
+	na minha customização?!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Wait a second…
-	I know what I have
-	to modify…
+	Não, espera...
+	Eu SEI o que preciso
+	modificar...
 	"""
 	keyWait
 	end
@@ -83137,23 +83060,23 @@ script 134 mmbn3 {
 		mugshot = MrFamous
 	msgOpen
 	"""
-	I-I can't believe…!
-	You defeated my best
-	custom model…
+	N-não acredito...! Você
+	derrotou o meu melhor
+	modelo customizado...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Don't get me wrong,
-	I'm truly impressed
-	by your technique!
+	Não me entenda mal:
+	estou muito impressionado
+	com suas habilidades!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Congratulations!
-	You're far stronger
-	than you appear!
+	Meus parabéns!
+	Você é muito mais forte
+	do que parece!
 	"""
 	keyWait
 	end
@@ -83162,7 +83085,7 @@ script 135 mmbn3 {
 	mugshotShow
 		mugshot = MrFamous
 	msgOpen
-	"Hmm…"
+	"Hmm..."
 	keyWait
 	end
 }
@@ -83171,9 +83094,9 @@ script 136 mmbn3 {
 		mugshot = MrFamous
 	msgOpen
 	"""
-	Let's fight again
-	sometime!
-	I'll be waiting!
+	Vamos ter uma revanche,
+	qualquer hora!
+	Estarei esperando!
 	"""
 	keyWait
 	end
@@ -83183,9 +83106,9 @@ script 138 mmbn3 {
 		mugshot = MrFamous
 	msgOpen
 	"""
-	Come back any time!
-	I love ambitious
-	NetBattlers!
+	Volte quando quiser!
+	Eu adoro NetLutadores
+	ambiciosos!
 	"""
 	keyWait
 	clearMsg
@@ -83207,7 +83130,7 @@ script 180 mmbn3 {
 	"""
 	keyWait
 	clearMsg
-	"Care to take a look?\n"
+	"Quer conferir?\n"
 	option
 		left = 1
 		right = 1
@@ -83215,7 +83138,7 @@ script 180 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"   Sim "
 	option
 		left = 0
 		right = 0
@@ -83223,7 +83146,7 @@ script 180 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No"
+	"          Não"
 	select
 		default = 0
 		BSeparate = false
@@ -83240,8 +83163,8 @@ script 180 mmbn3 {
 script 181 mmbn3 {
 	clearMsg
 	"""
-	Remember! Always be
-	prepared.
+	Lembre-se: é sempre
+	bom estar preparado!
 	"""
 	keyWait
 	end
@@ -83274,51 +83197,51 @@ script 190 mmbn3 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	Hey! You want to be
-	"it" in our game of
-	Hide-and-Seek,right?
+	Ei! Quer ser "o que
+	procura" no nosso jogo
+	de esconde-esconde?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Alright! You're
-	about the same age
-	as we are! Whoohoo!
+	Claro que quer! E você
+	é da nossa faixa etária!
+	Urrú!
 	"""
 	keyWait
 	clearMsg
 	"""
-	We made a hide-and-
-	seek club,and we try
-	new ways to play!
+	Somos um clube de escon-
+	de-esconde, e sempre
+	buscamos novas formas
 	"""
 	keyWait
 	clearMsg
 	"""
-	Today,we're playing
-	a cyber-version,
-	using our Navis!
+	de brincar! Hoje, estamos
+	fazendo uma versão onli-
+	ne, com nossos Navis!
 	"""
 	keyWait
 	clearMsg
 	"""
-	We'll hide in the
-	ZooComp. You'll
-	get a chip from
+	Vamos escondê-los no
+	CPU Zoológico. Sempre
+	que achar um deles,
 	"""
 	keyWait
 	clearMsg
 	"""
-	everyone you find.
-	Our Navis are hiding
-	already,so let's go!
+	você ganha um chip! Nos-
+	sos Navis já se escon-
+	deram, então, vamos lá!
 	"""
 	keyWait
 	clearMsg
 	"""
-	There are 5 people
-	playing,including
-	you!
+	Temos cinco jogadores:
+	você, procurando,
+	e quatro escondidos!
 	"""
 	keyWait
 	end
@@ -83328,16 +83251,16 @@ script 191 mmbn3 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	Hurry up and start
-	looking before it
-	gets dark!
+	Vai, começa logo a
+	procurar, antes de
+	escurecer!
 	"""
 	keyWait
 	clearMsg
 	"""
-	There are 4 Navis
-	hiding somewhere in
-	the ZooComp!
+	São quatro Navis
+	escondidos pelo
+	CPU Zoológico!
 	"""
 	keyWait
 	end
@@ -83351,15 +83274,15 @@ script 192 mmbn3 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	Whew! I haven't had
-	that much fun in a
-	long time! Thanks!
+	Ufa! Fazia tempo que
+	eu não me divertia
+	tanto! Valeu!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Here's something to
-	show our gratitude!
+	Tá aqui um presentinho
+	nosso pra agradecer!
 	"""
 	keyWait
 	clearMsg
@@ -83399,8 +83322,8 @@ script 194 mmbn3 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	Let's play again
-	sometime!
+	Bora brincar de novo,
+	qualquer hora!
 	"""
 	keyWait
 	end
@@ -83441,23 +83364,22 @@ script 200 mmbn3 {
 		mugshot = MrFamous
 	msgOpen
 	"""
-	Did you get the chip
-	of the hard-bodied
-	Navi of that certain
+	Já viu o chip daquele
+	Navi durão, cheio de
+	força?
 	"""
 	keyWait
 	clearMsg
 	"""
-	power type? Hold
-	down the A Button
-	and move the Control
+	Segure o botão "A"
+	e mova os direcionais
+	antes de socar
 	"""
 	keyWait
 	clearMsg
 	"""
-	Pad before it punch-
-	es to designate the
-	place of attack!
+	pra designar uma
+	área de ataque!
 	"""
 	keyWait
 	clearMsg
@@ -83469,23 +83391,22 @@ script 201 mmbn3 {
 		mugshot = MrFamous
 	msgOpen
 	"""
-	Fishy's charge
-	attack is hard to
-	avoid! However,he
+	O ataque do Fishy é
+	é difícil de desviar!
 	"""
 	keyWait
 	clearMsg
 	"""
-	can't pierce through
-	rocks,cubes or
-	other obstacles.
+	Mas ele não pode atra-
+	vessar rochas, cubos
+	ou obstáculos afins.
 	"""
 	keyWait
 	clearMsg
 	"""
-	It helps to place a
-	barrier of obstacles
-	in front of you!
+	Colocar obstáculos na
+	sua frente pode ser de
+	grande ajuda!
 	"""
 	keyWait
 	clearMsg
@@ -83497,16 +83418,16 @@ script 202 mmbn3 {
 		mugshot = MrFamous
 	msgOpen
 	"""
-	When chip codes are
-	in sequence (ABC…)
-	like cannons,
+	Quando chips são usados
+	com seus códigos em
+	sequência (ABC...), tipo
 	"""
 	keyWait
 	clearMsg
 	"""
-	program advances can
-	occur! Try selecting
-	chips in order!
+	canhões, isso pode gerar
+	Programas Avançados!
+	Explore as sequências!
 	"""
 	keyWait
 	clearMsg
@@ -83518,23 +83439,23 @@ script 203 mmbn3 {
 		mugshot = MrFamous
 	msgOpen
 	"""
-	When you press the A
-	Button to use Battle
-	Chips such as Punch,
+	Quando você aperta "A"
+	para usar certos chips,
+	como socos,
 	"""
 	keyWait
 	clearMsg
 	"""
-	you can increase
-	the attack force by
-	holding the A Button
+	dá para aumentar a for-
+	ça do ataque segurando
+	o botão "A" e apertando
 	"""
 	keyWait
 	clearMsg
 	"""
-	and pressing down,
-	diagonal-right,&
-	right on the Pad!
+	para baixo, inferior-
+	direito e direita nos
+	direcionais!
 	"""
 	keyWait
 	clearMsg
@@ -83559,29 +83480,29 @@ script 204 mmbn3 {
 		mugshot = MrFamous
 	msgOpen
 	"""
-	Fire Navis and
-	viruses aren't hurt
-	by Lava squares!
+	Navis e vírus de Fogo
+	não levam dano ao pisar
+	em quadros de Lava!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Aqua Navis and
-	viruses don't slip
-	on Ice squares.
+	Navis e vírus de Água
+	não escorregam sobre
+	quadros de Gelo.
 	"""
 	keyWait
 	clearMsg
 	"""
-	And Wood Navis and
-	viruses recover HP
-	on Grass squares!
+	E Navis e vírus de
+	Madeira recuperam PV
+	sobre quadros de Grama!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Use your element to
-	your advantage!
+	Use o seu elemento em
+	vantagem própria!
 	"""
 	keyWait
 	clearMsg
@@ -83593,36 +83514,36 @@ script 205 mmbn3 {
 		mugshot = MrFamous
 	msgOpen
 	"""
-	BreakHammer and some
-	other attacks can
-	break through your
+	O BreakHammer, dentre
+	outros chips, podem
+	perfurar a defesa do
 	"""
 	keyWait
 	clearMsg
 	"""
-	opponent's guard and
-	damage him! These
-	are called Breaking
+	seu inimigo e danificá-lo!
+	Esses são Ataques de
+	Quebra, e são capazes
 	"""
 	keyWait
 	clearMsg
 	"""
-	Attacks,and they can
-	do much more than
-	break guards! They
+	de muito mais do que
+	só quebrar defesas.
+	Também podem esmagar
 	"""
 	keyWait
 	clearMsg
 	"""
-	can smash obstacles
-	such as rocks and
-	cubes to pieces!
+	obstáculos, como rochas
+	e cubos, reduzindo-os
+	a pó!
 	"""
 	keyWait
 	clearMsg
 	"""
-	It wouldn't hurt to
-	remember that!
+	Não quebre a cabeça,
+	mas lembre-se bem disso!
 	"""
 	keyWait
 	clearMsg
@@ -83634,23 +83555,22 @@ script 206 mmbn3 {
 		mugshot = MrFamous
 	msgOpen
 	"""
-	A sharp Navi chip
-	that slices up
-	opponents!
+	Um chip de Navi afiado
+	que fatia inimigos!
 	"""
 	keyWait
 	clearMsg
 	"""
-	What amazing speed!
-	Press the A Button
-	as fast as you can.
+	Que velocidade!
+	Aperte o botão "A"
+	o mais rápido possível.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Your Navi's number
-	of hits just may go
-	up!
+	É possível que o número
+	de acertos do seu Navi
+	aumente!
 	"""
 	keyWait
 	clearMsg
@@ -83662,16 +83582,16 @@ script 207 mmbn3 {
 		mugshot = MrFamous
 	msgOpen
 	"""
-	Sand panels are
-	hard to traverse,but
-	they can boost the
+	Quadros de areia são
+	difíceis de andar, mas
+	mas aumentam o poder
 	"""
 	keyWait
 	clearMsg
 	"""
-	power of some
-	attacks. Stir up the
-	sand and attack!
+	de certos ataques.
+	Plante os pés na areia
+	e ataque!
 	"""
 	keyWait
 	clearMsg
@@ -83696,29 +83616,29 @@ script 208 mmbn3 {
 		mugshot = MrFamous
 	msgOpen
 	"""
-	Have you gotten the
-	VarSword? If so,hold
-	down the A Button
+	Você já conseguiu uma
+	VarSword? Se sim,
+	segure o botão "A"
 	"""
 	keyWait
 	clearMsg
 	"""
-	next time you use
-	it,and try entering
-	some commands!
+	da próxima vez que
+	usá-la e tente inserir
+	comandos!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Your attack may be
-	powered-up!
+	O seu ataque pode
+	acabar se fortalecendo!
 	"""
 	keyWait
 	clearMsg
 	"""
-	One combo is down,
-	diagonal-right,and
-	right! Try others!
+	Um combo: baixo,
+	inferior-direito e direita.
+	Experimente outros!
 	"""
 	keyWait
 	clearMsg
@@ -83730,16 +83650,16 @@ script 209 mmbn3 {
 		mugshot = MrFamous
 	msgOpen
 	"""
-	Have you gotten the
-	NaviChip that makes
-	you into a beast?
+	Você já obteve o
+	ChipNavi que te
+	transforma numa fera?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Press the A Button
-	and diagonal to
-	change direction!
+	Aperte o botão "A" e
+	diagonal para mudar a
+	direção do ataque!
 	"""
 	keyWait
 	clearMsg
@@ -83751,16 +83671,16 @@ script 210 mmbn3 {
 		mugshot = MrFamous
 	msgOpen
 	"""
-	After you paralyze
-	or daze an enemy,try
-	a follow-up attack!
+	Após paralizar ou ator-
+	doar um inimigo, tente um
+	ataque em seguida!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Successive hits
-	cause lots of
-	damage!
+	Acertos sucessivos
+	causam dano para
+	caramba!
 	"""
 	keyWait
 	clearMsg
@@ -83772,37 +83692,37 @@ script 211 mmbn3 {
 		mugshot = MrFamous
 	msgOpen
 	"""
-	Have you heard about
-	ModCodes for Navi
-	Customizers? Even if
+	Já ouviu falar dos
+	CódigosMod pros Customi-
+	zadores de Navi?
 	"""
 	keyWait
 	clearMsg
 	"""
-	an error occurs from
-	placing same-colored
-	programs side-by-
+	Mesmo se rolar um erro
+	por posicionar programas
+	de mesma cor juntos,
 	"""
 	keyWait
 	clearMsg
 	"""
-	side,you can fix it
-	by typing the error
-	number's ModCode.
+	dá para consertá-lo
+	digitando o CódigoMod do
+	número do erro.
 	"""
 	keyWait
 	clearMsg
 	"""
-	This allows powerful
-	customizations once
-	you've gone through
+	Isso abre as portas
+	para customizações
+	incríveis depois que você
 	"""
 	keyWait
 	clearMsg
 	"""
-	some style changes
-	and acquired lots of
-	different programs.
+	passa por algumas trocas
+	de estilo e adquire vários
+	programas diferentes.
 	"""
 	keyWait
 	clearMsg
@@ -83827,23 +83747,22 @@ script 212 mmbn3 {
 		mugshot = MrFamous
 	msgOpen
 	"""
-	Have you encountered
-	a virus that looks
-	like a black shadow?
+	Você já encontrou um
+	vírus que parece uma
+	sombra?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Most attacks just
-	pass right through
-	it,like a ghost!
+	A maioria dos ataques
+	só atravessa ele.
+	Parece até um fantasma!
 	"""
 	keyWait
 	clearMsg
 	"""
-	But just remember!
-	Sharp-edged weapons
-	can defeat it!
+	Mas lembre-se: armas
+	afiadas podem vencê-lo!
 	"""
 	keyWait
 	clearMsg
@@ -83855,16 +83774,16 @@ script 213 mmbn3 {
 		mugshot = MrFamous
 	msgOpen
 	"""
-	Have you gotten the
-	chip of that fiery
-	Navi?
+	Você já pôs as mãos no
+	chip daquele Navi
+	flamejante?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Hold the A Button,
-	and try pressing a
-	direction!
+	Segure o botão "A" e
+	tente apertar em uma
+	direção!
 	"""
 	keyWait
 	clearMsg
@@ -83876,30 +83795,29 @@ script 214 mmbn3 {
 		mugshot = MrFamous
 	msgOpen
 	"""
-	Do you have a chip
-	called FullCust? You
-	may want to try
+	Você tem um chip
+	chamado FullCust? Olha,
+	tente selecioná-lo como
 	"""
 	keyWait
 	clearMsg
 	"""
-	making it your
-	regular chip,then
-	trying for a power
+	seu Chip Padrão e,
+	depois, usar um
+	Programa Avançado
 	"""
 	keyWait
 	clearMsg
 	"""
-	advance on the very
-	next custom screen!
-	There are lots of
+	na tela de customização
+	logo depois! Há várias
+	formas de usar Chips
 	"""
 	keyWait
 	clearMsg
 	"""
-	ways to use
-	regular chips! Have
-	fun experimenting!
+	Padrão. Divirta-se
+	experimentando!
 	"""
 	keyWait
 	clearMsg
@@ -83911,23 +83829,23 @@ script 215 mmbn3 {
 		mugshot = MrFamous
 	msgOpen
 	"""
-	There's a chip that
-	summons an immensely
-	strong DarkDweller.
+	Existe um chip que
+	invoca um DarkDweller
+	absurdamente forte.
 	"""
 	keyWait
 	clearMsg
 	"""
-	You need to be by an
-	open portal to
-	Murkland to summon
+	Você precisa estar
+	perto de um portão pro
+	Mundo das Trevas pra
 	"""
 	keyWait
 	clearMsg
 	"""
-	one. I hear there's
-	actually a chip that
-	opens a hole there!
+	invocá-lo. Ouvi dizer que
+	há um chip que abre um
+	abre um portal pra lá!
 	"""
 	keyWait
 	clearMsg
@@ -83942,23 +83860,21 @@ script 218 mmbn3 {
 		jumpIfOutOfRange = continue
 	msgOpen
 	"""
-	The aroma of sweet
-	butter and hot corn-
-	on-the-cob makes
+	O aroma de milho e
+	manteiga quente te dá
+	água na boca!
 	"""
 	keyWait
 	clearMsg
 	"""
-	your mouth water!
-	There's a jar of
-	toothpicks for
+	Tem também um potinho
+	de palitos de dente
 	"""
 	keyWait
 	clearMsg
 	"""
-	customers to use
-	after they're done
-	eating
+	para os clientes usarem
+	após comer.
 	"""
 	keyWait
 	end
@@ -83966,16 +83882,15 @@ script 218 mmbn3 {
 script 219 mmbn3 {
 	msgOpen
 	"""
-	Several cobs of corn
-	are lying on a grill
-	over a flame. At
+	Várias espigas de milho
+	postas sobre uma grelha
+	com o fogo aceso.
 	"""
 	keyWait
 	clearMsg
 	"""
-	this rate it looks
-	like they're about
-	to start popping
+	Nesse ritmo, elas vão
+	começar a espocar.
 	"""
 	keyWait
 	end
@@ -83988,16 +83903,16 @@ script 220 mmbn3 {
 		jumpIfOutOfRange = continue
 	msgOpen
 	"""
-	Sweet-smelling mini
-	cakes are on sale
-	here
+	Bolinhos de cheiro bem
+	doce estão à venda
+	aqui.
 	"""
 	keyWait
 	clearMsg
 	"""
-	The bite-sized
-	snacks are wrapped
-	individually
+	As pequenas guloseimas
+	estão embaladas
+	individualmente.
 	"""
 	keyWait
 	end
@@ -84005,23 +83920,23 @@ script 220 mmbn3 {
 script 221 mmbn3 {
 	msgOpen
 	"""
-	A lottery game. If
-	you draw the winning
-	number,you get a zoo
+	Um jogo de sorte. Se
+	tirar o número vencedor,
+	leva uma pelúcia de um
 	"""
 	keyWait
 	clearMsg
 	"""
-	mascot doll. You
-	wonder if there even
-	is a winning number
+	mascote do zoológico.
+	Você se pergunta se
+	o número existe mesmo.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Perhaps it's the
-	dream of winning
-	that counts…
+	Talvez só o que conte
+	seja o sonho de vencer,
+	mesmo...
 	"""
 	keyWait
 	end
@@ -84055,16 +83970,16 @@ script 222 mmbn3 {
 script 223 mmbn3 {
 	msgOpen
 	"""
-	This primitive game
-	involves pulling a
-	spring to shoot a
+	Este jogo primitivo envol-
+	ve usar uma mola pra jo-
+	gar uma bola no buraco.
 	"""
 	keyWait
 	clearMsg
 	"""
-	ball into a hole. It
-	somehow goes well
-	with this location
+	De certa forma,
+	combina bem com a
+	atmosfera do lugar.
 	"""
 	keyWait
 	end
@@ -84072,16 +83987,15 @@ script 223 mmbn3 {
 script 224 mmbn3 {
 	msgOpen
 	"""
-	This machine sells
-	entrance tickets to
-	the zoo
+	Esta máquina vende
+	ingressos para o
+	zoológico.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Junior high students
-	and up have to pay
-	full adult admission
+	Alunos do fundamental II
+	pra cima pagam inteira.
 	"""
 	keyWait
 	end
@@ -84099,23 +84013,22 @@ script 225 mmbn3 {
 		jumpIfOutOfRange = continue
 	msgOpen
 	"""
-	The smiling faces of
-	happy zoo employees
-	can be seen inside
+	Você vê os rostos sorri-
+	dentes dos funcionários
+	do zoológico lá dentro.
 	"""
 	keyWait
 	clearMsg
 	"""
-	No matter how
-	automated the world
-	may become,
+	Não importa o quão
+	automatizado o mundo
+	se torne,
 	"""
 	keyWait
 	clearMsg
 	"""
-	robots will never be
-	able to replace
-	these smiles
+	robôs jamais substituirão
+	os sorrisos das pessoas.
 	"""
 	keyWait
 	end
@@ -84123,8 +84036,9 @@ script 225 mmbn3 {
 script 226 mmbn3 {
 	msgOpen
 	"""
-	Only zoo employees
-	can enter here
+	Somente funcionários do
+	zoológico podem entrar
+	aqui.
 	"""
 	keyWait
 	end
@@ -84137,16 +84051,16 @@ script 227 mmbn3 {
 		jumpIfOutOfRange = continue
 	msgOpen
 	"""
-	These gates allow
-	crowds to swiftly
-	enter the zoo
+	Com as catracas, gran-
+	des multidões acessam o
+	zoológico rapidamente.
 	"""
 	keyWait
 	clearMsg
 	"""
-	It's embarrassing to
-	get caught in one
-	when it's crowded
+	É embaraçoso ficar
+	preso em uma quando
+	está muito cheio.
 	"""
 	keyWait
 	end
@@ -84159,9 +84073,9 @@ script 228 mmbn3 {
 		jumpIfInRange = 237
 		jumpIfOutOfRange = continue
 	"""
-	An extra gas tank is
-	necessary in case
-	the fire goes out
+	Botijões extras de
+	gás para caso o fogo
+	se apague.
 	"""
 	keyWait
 	end
@@ -84174,9 +84088,9 @@ script 229 mmbn3 {
 		jumpIfInRange = 238
 		jumpIfOutOfRange = continue
 	"""
-	A "High Voltage"
-	sign is attached to
-	the fence
+	Uma placa com as
+	palavras "Alta Voltagem"
+	está pregada na cerca.
 	"""
 	keyWait
 	end
@@ -84186,9 +84100,9 @@ script 230 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Where are you going,
-	Lan? We can't leave
-	now!
+	Aonde você vai, Lan?
+	Não podemos ir embora
+	agora!
 	"""
 	keyWait
 	end
@@ -84198,9 +84112,9 @@ script 231 mmbn3 {
 		mugshot = ZooMan
 	msgOpen
 	"""
-	The zoo's closed
-	today. Sorry,but I
-	can't let you in.
+	O zoológico está fecha-
+	do hoje. Desculpe, não
+	posso te deixar entrar.
 	"""
 	keyWait
 	end
@@ -84211,9 +84125,9 @@ script 232 mmbn3s {
 script 233 mmbn3 {
 	msgOpen
 	"""
-	No one is inside.
-	The office is
-	deserted
+	Não tem ninguém
+	dentro. A bilheteria
+	está deserta.
 	"""
 	keyWait
 	end
@@ -84221,16 +84135,16 @@ script 233 mmbn3 {
 script 234 mmbn3 {
 	msgOpen
 	"""
-	The owner forgot to
-	turn off the fire.
-	The cakes are burnt
+	O dono esqueceu de
+	desligar o fogão.
+	Os bolos queimaram.
 	"""
 	keyWait
 	clearMsg
 	"""
-	It makes the area
-	smell much sweeter
-	than usual
+	Devido a isso, a área
+	está cheirando muito
+	mais doce que o normal.
 	"""
 	keyWait
 	end
@@ -84247,9 +84161,9 @@ script 235 mmbn3 {
 script 236 mmbn3 {
 	msgOpen
 	"""
-	A strong emergency
-	gate stands just
-	beyond the entrance
+	Um rígido portão de
+	emergência se posta
+	após a entrada.
 	"""
 	keyWait
 	end
@@ -84257,9 +84171,9 @@ script 236 mmbn3 {
 script 237 mmbn3 {
 	msgOpen
 	"""
-	The gas valve was
-	left open,so you
-	shut it
+	A válvula de gás foi
+	deixada aberta.
+	Você a fecha.
 	"""
 	keyWait
 	end
@@ -84267,9 +84181,9 @@ script 237 mmbn3 {
 script 238 mmbn3 {
 	msgOpen
 	"""
-	The tower is very
-	tall. It'd be bad if
-	someone fell off
+	A torre é muito alta.
+	Seria horrível se alguém
+	caísse dela.
 	"""
 	keyWait
 	end
@@ -84291,18 +84205,18 @@ script 239 mmbn3 {
 	mugshotShow
 		mugshot = 64
 	msgOpen
-	"Did you know that\n"
+	"Dá pra deter "
 	printEnemyName
 		buffer = 0
 		enemy = 1
-	"'s "
+	"s\ne suas "
 	printChip
 		buffer = 0
 		chip = 44
-	"\nis stopped by holes?"
+	"s\nusando buracos!"
 	keyWait
 	clearMsg
-	"Really! It's true!"
+	"É sério! Eu juro!"
 	keyWait
 	end
 }
@@ -84311,16 +84225,16 @@ script 240 mmbn3 {
 		mugshot = 64
 	msgOpen
 	"""
-	I hear that when you
-	step on cracks,
-	panels break!
+	Ouvi dizer que, quando
+	se pisa em rachaduras,
+	os quadros se quebram!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I only thought
-	cracks endangered
-	mothers' backs…
+	Antes, achava que era:
+	"Se pisar em rachadura,
+	sua mãe que atura"...
 	"""
 	keyWait
 	end
@@ -84330,16 +84244,16 @@ script 241 mmbn3 {
 		mugshot = 64
 	msgOpen
 	"""
-	The closer you are
-	to an enemy,the more
-	rapidly you can fire
+	Quanto mais perto do
+	inimigo, mais rápido pode
+	disparar o MegaAtirador!
 	"""
 	keyWait
 	clearMsg
 	"""
-	your MegaBuster! Of
-	course,getting close
-	to enemies is scary…
+	Bom, claro que se ficar
+	perto demais de um
+	inimigo dá medo, né...
 	"""
 	keyWait
 	end
@@ -84349,23 +84263,21 @@ script 242 mmbn3 {
 		mugshot = 64
 	msgOpen
 	"""
-	When you're stunned,
-	I find it helps to
-	recover faster if
+	Quando você é
+	paralisado, pode ser
+	que se recupere mais
 	"""
 	keyWait
 	clearMsg
 	"""
-	you frantically
-	press a bunch of
-	buttons!
+	rápido se apertar todos
+	os botões feito louco!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Then again,maybe
-	I'm just imagining
-	things…
+	Dito isso, pode ser só
+	impressão minha...
 	"""
 	keyWait
 	end
@@ -84388,9 +84300,9 @@ script 243 mmbn3 {
 		mugshot = 64
 	msgOpen
 	"""
-	The other day I
-	stepped on a Lava
-	panel and got burnt!
+	Outro dia, eu pisei
+	num quadro de Lava
+	e me queimei!
 	"""
 	keyWait
 	end
@@ -84400,16 +84312,15 @@ script 244 mmbn3 {
 		mugshot = 64
 	msgOpen
 	"""
-	I came up with a
-	strategy! If you use
-	a recovery chip as
+	Bolei uma estratégia!
+	Se usar um chip de
+	cura como Chip Padrão,
 	"""
 	keyWait
 	clearMsg
 	"""
-	your regular chip,
-	it'll help you
-	avoid deletion!
+	isso vai... ajudar você
+	a evitar ser deletado!
 	"""
 	keyWait
 	end
@@ -84419,23 +84330,23 @@ script 245 mmbn3 {
 		mugshot = 64
 	msgOpen
 	"""
-	Mr.Famous let me in
-	on something the
-	other day. If blue
+	O Sr. Famoso me contou
+	um segredinho outro dia.
+	Se saírem faíscas azuis
 	"""
 	keyWait
 	clearMsg
 	"""
-	sparks fly off an
-	enemy when you hit
-	it,that means you're
+	de um inimigo quando você
+	o ataca, isso quer dizer
+	que ele não está
 	"""
 	keyWait
 	clearMsg
 	"""
-	not damaging it! I
-	used to just keep
-	firing away…
+	sofrendo dano!
+	Antes, eu só ficava
+	atirando e atirando...
 	"""
 	keyWait
 	end
@@ -84445,23 +84356,23 @@ script 246 mmbn3 {
 		mugshot = 64
 	msgOpen
 	"""
-	Something called a
-	Navi Customizer just
-	came out,right?
+	Acabaram de lançar um
+	tal Customizador de
+	Navi, né?
 	"""
 	keyWait
 	clearMsg
 	"""
-	I customized my Navi
-	with one,but it
-	had problems.
+	Eu customizei meu Navi
+	com um, mas deu uns
+	problemas.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Like,it kept losing
-	HP! Maybe I bought a
-	defective one?
+	Tipo, ele fica perdendo
+	PV direto! Será que o
+	meu veio com defeito?
 	"""
 	keyWait
 	end
@@ -84484,16 +84395,16 @@ script 247 mmbn3 {
 		mugshot = 64
 	msgOpen
 	"""
-	Do you know that
-	bird-like virus that
-	dives right at you?
+	Sabe aquele vírus
+	pássaro que voa pra
+	cima de você?
 	"""
 	keyWait
 	clearMsg
 	"""
-	That little rascal
-	flies right over
-	panels with holes!
+	Aquele cretininho
+	sobrevoa até quadros
+	vazios!
 	"""
 	keyWait
 	end
@@ -84503,42 +84414,41 @@ script 248 mmbn3 {
 		mugshot = 64
 	msgOpen
 	"""
-	I made an amazing
-	discovery!
+	Fiz uma descoberta
+	incrível!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I had these 3 chips
-	lined up,and they
-	suddenly morphed
+	Eu escolhi três chips
+	quando, de repente,
+	eles se transformaram
 	"""
 	keyWait
 	clearMsg
 	"""
-	into something else!
-	I couldn't believe
-	my eyes!
+	em algo novo!
+	Nem dava pra acreditar
+	no que eu vi!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Huh? What were the
+	Hã? Quais foram os
 	chips?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Let's see. A cannon…
-	A shotgun,I think…
-	And,uh…?
+	Vejamos. Um dos
+	Cannons... Uma Shotgun,
+	eu acho? E... er....?
 	"""
 	keyWait
 	clearMsg
 	"""
-	I can't remember,
-	but don't you think
-	that's just amazing?
+	É, não lembro, mas você
+	não acha isso incrível?!
 	"""
 	keyWait
 	end
@@ -84548,22 +84458,21 @@ script 249 mmbn3 {
 		mugshot = 64
 	msgOpen
 	"""
-	The other day I
-	heard some kids talk
-	about "ModCodes".
+	Outro dia, ouvi uns
+	guris falando de
+	"CódigosMod".
 	"""
 	keyWait
 	clearMsg
 	"""
-	I have no idea what
-	that might be.
+	Eu nem faço ideia do
+	que isso possa ser.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Darn! Maybe I
-	should have asked
-	them?
+	Droga! Acho que eu
+	devia ter perguntado...
 	"""
 	keyWait
 	end
@@ -84573,9 +84482,9 @@ script 250 mmbn3 {
 		mugshot = 64
 	msgOpen
 	"""
-	I had trouble moving
-	on sand panels. You
-	should avoid them!
+	Eu tive dificuldades pra
+	andar sobre quadros de
+	areia. Evita eles, hein!
 	"""
 	keyWait
 	end
@@ -84598,23 +84507,23 @@ script 251 mmbn3 {
 		mugshot = 64
 	msgOpen
 	"""
-	Most attacks don't
-	work on those black
-	shadowy viruses,but
+	A maioria dos ataques
+	não funciona naqueles
+	vírus sombra,
 	"""
 	keyWait
 	clearMsg
 	"""
-	Mr.Famous was saying
-	some kind of attack
-	does work!
+	mas o Sr. Famoso me
+	disse que um certo
+	tipo de ataque funciona!
 	"""
 	keyWait
 	clearMsg
 	"""
-	What was it,again?
-	Darn! I should've
-	written it down!
+	Qual que era mesmo...?
+	Droga! Eu devia ter
+	anotado!
 	"""
 	keyWait
 	end
@@ -84624,16 +84533,16 @@ script 252 mmbn3 {
 		mugshot = 64
 	msgOpen
 	"""
-	I didn't know this,
-	but I hear some
-	viruses use support
+	Eu não sabia disso, mas
+	ouvi dizer que certos
+	vírus usam chips de
 	"""
 	keyWait
 	clearMsg
 	"""
-	chips like AreaGrab.
-	I hope I don't run
-	into any like that!
+	apoio, como o AreaGrab.
+	Espero que eu não es-
+	barre em nenhum desses!
 	"""
 	keyWait
 	end
@@ -84643,16 +84552,16 @@ script 253 mmbn3 {
 		mugshot = 64
 	msgOpen
 	"""
-	If you press Select
-	at the Custom screen
-	you can see the left
+	Apertando "Select" na
+	Tela de Customização,
+	você pode ver o lado
 	"""
 	keyWait
 	clearMsg
 	"""
-	side of the battle
-	field! It comes in
-	handy!
+	esquerdo do campo!
+	Isso pode ser bem
+	útil!
 	"""
 	keyWait
 	end
@@ -84662,15 +84571,14 @@ script 254 mmbn3 {
 		mugshot = 64
 	msgOpen
 	"""
-	Someone told me
-	something amazing!
+	Ouvi um negócio incrível!
 	"""
 	keyWait
 	clearMsg
 	"""
-	However,they made me
-	promise to keep it a
-	secret…
+	Porém, me fizeram
+	prometer guardar
+	segredo...
 	"""
 	keyWait
 	clearMsg
@@ -84684,7 +84592,7 @@ script 254 mmbn3 {
 	waitSkip
 		frames = 30
 	"""
-	Ohhh! But…
+	 Hnnng! Mas...
 	.
 	"""
 	waitSkip
@@ -84696,36 +84604,36 @@ script 254 mmbn3 {
 	waitSkip
 		frames = 30
 	"""
-	I have to tell
-	someone!
+	Eu preciso contar pra
+	alguém!
 	"""
 	keyWait
 	clearMsg
 	"""
-	It's OK,right? I'll
-	tell you,but don't
-	tell anyone else!
+	Tudo bem, né? Eu te
+	conto, mas não conte
+	pra NINGUÉM!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Some chips get
-	stronger when you
-	enter commands with
+	Alguns chips ficam mais
+	fortes quando você
+	aplica comandos com
 	"""
 	keyWait
 	clearMsg
 	"""
-	certain buttons. I
-	pressed a bunch of
-	buttons and got it
+	certos botões. Eu
+	apertei botões adoidado
+	e consegui ativar o
 	"""
 	keyWait
 	clearMsg
 	"""
-	to work once. It
-	made a big explosion
-	when it hit!
+	negócio uma vez.
+	Causou uma explosãozona
+	quando atingiu!
 	"""
 	keyWait
 	end
@@ -85122,7 +85030,7 @@ script 60 mmbn3 {
 	"""
 	NetLutas são divertidas,
 	mas o dia está tão lindo
-	lá fora!
+	aqui fora!
 	"""
 	keyWait
 	end
@@ -85702,29 +85610,29 @@ script 190 mmbn3 {
 		mugshot = Man
 	msgOpen
 	"""
-	Wow!! I'm on fire
-	today,too!! Hey
-	there!
+	Cara!! Eu tô ardendo
+	forte hoje, também!!
+	Fala, garoto!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'm a wandering chip
-	collector. But no
-	ordinary collector!
+	Sou um colecionador de
+	chips errante. Mas não
+	um colecionador normal!
 	"""
 	keyWait
 	clearMsg
 	"""
-	All I'm after is
-	Fire chips!
-	Now then,let's get
+	Os únicos chips que me
+	interessam são os de
+	Fogo!
 	"""
 	keyWait
 	clearMsg
 	"""
-	down to business!
-	Do you have a
+	OK, aos negócios!
+	Você tem aí um
 	"
 	"""
 	printChip
@@ -85738,8 +85646,8 @@ script 190 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	If you do,I'll trade
-	you it for my
+	Se tiver, eu troco com
+	você pelo meu
 	"
 	"""
 	printChip
@@ -85760,7 +85668,7 @@ script 190 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Yeah,sure\n"
+	"   Tá, né\n"
 	option
 		left = 1
 		right = 1
@@ -85768,7 +85676,7 @@ script 190 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"No"
+	"   Não"
 	select
 		default = 0
 		BSeparate = false
@@ -85798,9 +85706,9 @@ script 191 mmbn3 {
 		mugshot = Man
 	msgOpen
 	"""
-	All right! Thanks!
-	Here's this chip I
-	promised you!
+	Beleza! Valeu!
+	Tó, aqui o chip que eu
+	te prometi!
 	"""
 	keyWait
 	clearMsg
@@ -85842,8 +85750,8 @@ script 193 mmbn3 {
 		mugshot = Man
 	msgOpen
 	"""
-	All right!
-	Heat mania!
+	Beleza!
+	Bota fogo nisso!!
 	"""
 	keyWait
 	end
@@ -85853,9 +85761,9 @@ script 194 mmbn3 {
 		mugshot = Man
 	msgOpen
 	"""
-	What!? You won't!?
-	Ha! Come back if you
-	change your mind!
+	Quê?! Não vai, não?!
+	Ha! Volte aqui se mudar
+	de ideia!
 	"""
 	keyWait
 	end
@@ -85865,23 +85773,22 @@ script 195 mmbn3 {
 		mugshot = Man
 	msgOpen
 	"""
-	Hahaha! That's a
-	good one,kid! It's
-	not in your pack!
+	Ha ha ha!
+	Essa foi boa, garoto!
+	Não tá na sua mochila!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Hm!? Maybe it's in
-	a folder or
-	something?
+	Hm...! Talvez esteja, sei
+	lá, em uma das suas
+	pastas?
 	"""
 	keyWait
 	clearMsg
 	"""
-	If it is,you gotta
-	take it out to
-	trade!!
+	Se estiver, tem que tirar
+	pra poder trocar!!
 	"""
 	keyWait
 	end
@@ -85891,9 +85798,9 @@ script 196 mmbn3 {
 		mugshot = Man
 	msgOpen
 	"""
-	This chip's making
-	my blood boil!
-	Thanks!!
+	Este chip tá fazendo o
+	meu sangue ferver!
+	Valeu!!
 	"""
 	keyWait
 	end
@@ -85903,9 +85810,9 @@ script 197 mmbn3 {
 		mugshot = Man
 	msgOpen
 	"""
-	Great! So. You
-	changed your mind!?
-	Now,let's trade my
+	Maravilha! Então, cê
+	mudou de ideia?! Beleza,
+	bora, trocar o meu
 	"""
 	keyWait
 	clearMsg
@@ -85919,7 +85826,7 @@ script 197 mmbn3 {
 		code = *
 	"""
 	"
-	for your
+	pelo seu
 	"
 	"""
 	printChip
@@ -85940,7 +85847,7 @@ script 197 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Oh,all right\n"
+	"   Tá bom, tá bom\n"
 	option
 		left = 1
 		right = 1
@@ -85948,7 +85855,7 @@ script 197 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"No"
+	"   Não"
 	select
 		default = 0
 		BSeparate = false
@@ -85983,23 +85890,22 @@ script 200 mmbn3 {
 		mugshot = OldWoman
 	msgOpen
 	"""
-	Oh,my aching back…
-	Hi there,sonny! You
-	came for my request?
+	Ai, minha coluna...
+	Oi, meu filho! Veio aqui
+	pelo meu pedido?
 	"""
 	keyWait
 	clearMsg
 	"""
-	It's just like I
-	wrote it on the
-	Job BBS. I need
+	Bom, é como eu escrevi
+	lá no Quadro de Pedidos.
+	Preciso que leve
 	"""
 	keyWait
 	clearMsg
 	"""
-	you to take this to
-	the businessman in
-	the DNN.
+	isto aqui para o
+	executivo na DNN.
 	"""
 	keyWait
 	clearMsg
@@ -86032,15 +85938,15 @@ script 200 mmbn3 {
 		mugshot = OldWoman
 	msgOpen
 	"""
-	He's a pretty
-	impatient feller.
+	Ele é um sujeitinho bem
+	impaciente.
 	"""
 	keyWait
 	clearMsg
 	"""
-	You should hurry
-	over and get it to
-	him quick,sonny!
+	Então, melhor você
+	correr e ir logo pra lá,
+	meu filho!
 	"""
 	keyWait
 	end
@@ -86050,14 +85956,14 @@ script 201 mmbn3 {
 		mugshot = OldWoman
 	msgOpen
 	"""
-	Give it to the guy
-	who's in the
-	TV Station.
+	Dê isso praquele homem
+	que tá na emissora de
+	TV.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Please give him the
+	Entregue para ele o
 	"
 	"""
 	printChip
@@ -86071,8 +85977,9 @@ script 201 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	I don't know why he
-	needs it so fast.
+	Nem me pergunte por
+	quê, mas ele quer o
+	negócio pra ontem.
 	"""
 	keyWait
 	end
@@ -86088,22 +85995,22 @@ script 202 mmbn3 {
 		mugshot = OldWoman
 	msgOpen
 	"""
-	So,you've given him
-	the chip,hm?
+	Então, você entregou
+	o chip pra ele, é?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Oh my! I went and
-	gave you the wrong
-	chip! Sorry,sonny!
+	Eita, diacho! Eu te dei
+	o chip errado, meu filho!
+	Ôôô, desculpa!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Would you be a
-	darlin' and give him
-	this chip instead?
+	Faz um favorzinho pra
+	este velho e entrega
+	este chip aqui pra ele?
 	"""
 	keyWait
 	clearMsg
@@ -86135,9 +86042,9 @@ script 202 mmbn3 {
 	mugshotShow
 		mugshot = OldWoman
 	"""
-	Knowing how
-	impatient that man
-	is,he may have left.
+	Conhecendo a impaciência
+	do homem, ele já deve
+	ter ido embora.
 	"""
 	keyWait
 	clearMsg
@@ -86154,7 +86061,7 @@ script 203 mmbn3 {
 		mugshot = OldWoman
 	msgOpen
 	"""
-	Please give him the
+	Por favor, dê a ele o
 	"
 	"""
 	printChip
@@ -86166,14 +86073,14 @@ script 203 mmbn3 {
 		code = *
 	"""
 	".
-	He said something
+	Ele mencionou pra mim
 	"""
 	keyWait
 	clearMsg
 	"""
-	about going to a
-	square after he got
-	the chip.
+	que pretendia ir a um
+	plaza depois de pegar o
+	chip.
 	"""
 	keyWait
 	end
@@ -86187,16 +86094,15 @@ script 204 mmbn3 {
 		mugshot = OldWoman
 	msgOpen
 	"""
-	You were able to
-	deliver the chip?
-	Sorry for all the
+	Conseguiu entregar o
+	chip? Desculpa pela dor
+	de cabeça, viu?
 	"""
 	keyWait
 	clearMsg
 	"""
-	trouble! Here's
-	something for
-	helping me out…
+	Tá aqui um agradinho
+	pela ajuda...
 	"""
 	keyWait
 	clearMsg
@@ -86236,9 +86142,9 @@ script 206 mmbn3 {
 		mugshot = OldWoman
 	msgOpen
 	"""
-	There ain't nothing
-	to be gained from
-	rushing! Trust me!
+	A pressa é inimiga da
+	perfeição! Lição de vida,
+	pode acreditar!
 	"""
 	keyWait
 	end
@@ -86624,7 +86530,7 @@ script 61 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Mesmo se ele parar de
+	Mesmo se ela parar de
 	receber hóspedes, eu
 	ainda vou voltar!
 	"""
@@ -86805,8 +86711,8 @@ script 110 mmbn3 {
 	clearMsg
 	"""
 	Mas aquela família
-	jogando buraco continua
-	aqui...
+	jogando mahjong
+	continua aqui...
 	"""
 	keyWait
 	clearMsg
@@ -87003,7 +86909,7 @@ script 190 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"          Não!\n"
+	"            Não!\n"
 	select
 		default = 0
 		BSeparate = false
@@ -87014,6 +86920,7 @@ script 190 mmbn3 {
 			jump = continue,
 			jump = continue
 		]
+	clearMsg
 	mugshotShow
 		mugshot = InnMan
 	"""
@@ -87097,7 +87004,7 @@ script 192 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	mas estava com muita
+	mas estava muita
 	interferência e eu perdi
 	contato!
 	"""
@@ -87179,7 +87086,7 @@ script 194 mmbn3 {
 	playerAnimate
 		animation = 24
 	"""
-	Lan got
+	Lan recebeu
 	"8000 Zennys"
 	"""
 	keyWait
@@ -87548,8 +87455,8 @@ script 45 mmbn3 {
 	msgOpen
 	"""
 	Uma coisa esquisita pulou
-	pulou pra dentro das
-	termas, então, eu saí!
+	pra dentro da fonte
+	termal, então, eu saí!
 	"""
 	keyWait
 	clearMsg
@@ -87647,7 +87554,7 @@ script 190 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"          Esquece"
+	"   Esquece"
 	select
 		default = 0
 		BSeparate = false
@@ -87684,7 +87591,7 @@ script 191 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"2\n"
+	"   2\n"
 	option
 		left = 1
 		right = 1
@@ -87692,7 +87599,7 @@ script 191 mmbn3 {
 		down = 2
 	space
 		count = 2
-	"3\n"
+	"   3\n"
 	option
 		left = 2
 		right = 2
@@ -87700,7 +87607,7 @@ script 191 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"4"
+	"   4"
 	select
 		default = 0
 		BSeparate = false
@@ -87742,6 +87649,7 @@ script 192 mmbn3 {
 		down = 1
 	space
 		count = 2
+	"   "
 	printEnemyName
 		buffer = 0
 		enemy = 1
@@ -87753,7 +87661,7 @@ script 192 mmbn3 {
 		down = 2
 	space
 		count = 2
-	"MegaMan\n"
+	"   MegaMan\n"
 	option
 		left = 2
 		right = 2
@@ -87761,7 +87669,7 @@ script 192 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"A Terra"
+	"   A Terra"
 	select
 		default = 0
 		BSeparate = false
@@ -87803,7 +87711,7 @@ script 193 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"5\n"
+	"   5\n"
 	option
 		left = 1
 		right = 1
@@ -87811,7 +87719,7 @@ script 193 mmbn3 {
 		down = 2
 	space
 		count = 2
-	"9\n"
+	"   9\n"
 	option
 		left = 2
 		right = 2
@@ -87819,7 +87727,7 @@ script 193 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"11"
+	"   11"
 	select
 		default = 0
 		BSeparate = false
@@ -87862,7 +87770,7 @@ script 194 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"380 Zennys\n"
+	"   380 Zennys\n"
 	option
 		left = 1
 		right = 1
@@ -87870,7 +87778,7 @@ script 194 mmbn3 {
 		down = 2
 	space
 		count = 2
-	"10 Zennys\n"
+	"   10 Zennys\n"
 	option
 		left = 2
 		right = 2
@@ -87878,7 +87786,7 @@ script 194 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"500 Zennys"
+	"   500 Zennys"
 	select
 		default = 0
 		BSeparate = false
@@ -87921,7 +87829,7 @@ script 195 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"1\n"
+	"   1\n"
 	option
 		left = 1
 		right = 1
@@ -87929,7 +87837,7 @@ script 195 mmbn3 {
 		down = 2
 	space
 		count = 2
-	"2\n"
+	"   2\n"
 	option
 		left = 2
 		right = 2
@@ -87937,7 +87845,7 @@ script 195 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"3"
+	"   3"
 	select
 		default = 0
 		BSeparate = false
@@ -88097,7 +88005,7 @@ script 202 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"You bet!\n"
+	"   Claro!\n"
 	option
 		left = 1
 		right = 1
@@ -88105,7 +88013,7 @@ script 202 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"No,I'm busy now"
+	"   Não, ocupado"
 	select
 		default = 0
 		BSeparate = false
@@ -88321,7 +88229,7 @@ script 51 mmbn3 {
 	"""
 	Nada mal, né?
 	Bem mais fácil que jogar
-	cartas, eu sinto!
+	mahjong, eu sinto!
 	"""
 	keyWait
 	end
@@ -88393,7 +88301,7 @@ script 52 mmbn3 {
 	clearMsg
 	"""
 	É esta a quantidade de
-	cartas que eu devia
+	pedras que eu devo
 	segurar?
 	"""
 	keyWait
@@ -88562,7 +88470,7 @@ script 60 mmbn3 {
 	"""
 	Aquela família parece
 	estar se divertindo bas-
-	tante, jogando buraco.
+	tante, jogando mahjong.
 	"""
 	keyWait
 	end
@@ -88585,7 +88493,7 @@ script 66 mmbn3 {
 	msgOpen
 	"""
 	Quê? Acabaram mesmo
-	as suas cartas?
+	as suas pedras?
 	"""
 	keyWait
 	end
@@ -88607,8 +88515,9 @@ script 68 mmbn3 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	Então, quantos pontos
-	mesmo valem os ases?
+	Então, com as pedras
+	de letras, só podem ser
+	trios iguais, é isso?
 	"""
 	keyWait
 	end
@@ -88619,8 +88528,8 @@ script 70 mmbn3 {
 	msgOpen
 	"""
 	Ouvi que aquela família
-	ficou jogando buraco
-	até a crise acabar!
+	ficou jogando mahjong do
+	começo ao fim da crise!
 	"""
 	keyWait
 	clearMsg
@@ -88648,9 +88557,9 @@ script 72 mmbn3 {
 		mugshot = InnWoman
 	msgOpen
 	"""
-	Tudo bem eu pegar as
-	cartas depois de jogar
-	a do fundo do baralho?
+	Será que eu posso
+	declarar Riichi com esta
+	pedra aqui?
 	"""
 	keyWait
 	end
@@ -88661,8 +88570,8 @@ script 73 mmbn3 {
 	msgOpen
 	"""
 	Ugh. Que mão horrível!
-	Quem embaralhou estas
-	cartas?!
+	Essas pedras tão
+	viciadas, só pode!
 	"""
 	keyWait
 	end
@@ -88727,7 +88636,7 @@ script 86 mmbn3 {
 	"""
 	Foi todo mundo lá pro
 	Grande Prêmio N1, mas
-	eu prefiro jogar buraco!
+	prefiro jogar mahjong!
 	"""
 	keyWait
 	end
@@ -88737,8 +88646,8 @@ script 90 mmbn3 {
 		mugshot = InnMan
 	msgOpen
 	"""
-	Ha! Justo a carta que
-	eu precisava!
+	Ha! Justo a peça de
+	que eu precisava!
 	"""
 	keyWait
 	end
@@ -88763,8 +88672,8 @@ script 92 mmbn3 {
 	mugshotAnimate
 		animation = 1
 	"""
-	Você pegou a carta
-	certinha, papai?!
+	Você pegou justo a peça
+	que faltava, papai?!
 	"""
 	keyWait
 	end
@@ -89033,7 +88942,7 @@ script 122 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Sei dizer de que cartas
+	Sei dizer de que peças
 	todos precisam só ao
 	ver de relance!
 	"""
@@ -89081,7 +88990,7 @@ script 127 mmbn3 {
 	msgOpen
 	"""
 	Eu posso ouvir as
-	cartas me dizendo o que
+	peças me dizendo o que
 	jogar...
 	"""
 	keyWait
@@ -89122,7 +89031,7 @@ script 130 mmbn3 {
 	"""
 	Nessas horas, todo
 	mundo devia era jogar
-	buraco!
+	mahjong!
 	"""
 	keyWait
 	end
@@ -89151,7 +89060,7 @@ script 132 mmbn3 {
 	"""
 	Se, ao menos, deter a
 	WWW fosse tão fácil quan-
-	to vencer em buraco!
+	to vencer no mahjong!
 	"""
 	keyWait
 	clearMsg
@@ -89180,7 +89089,7 @@ script 133 mmbn3 {
 	"""
 	A WWW devia esquecer
 	essa de dominar o mundo
-	e jogar buraco!
+	e jogar mahjong!
 	"""
 	keyWait
 	end
@@ -89372,7 +89281,7 @@ script 235 mmbn3 {
 	msgOpen
 	"""
 	É a bolsa de que
-	aquele vendedor estava
+	aquele vendedor tava
 	falando!
 	"""
 	keyWait
@@ -89387,9 +89296,9 @@ script 235 mmbn3 {
 script 236 mmbn3 {
 	msgOpen
 	"""
-	É um baralho especial
-	de cartas do MegMan
-	para jogar buraco!
+	É um tabuleiro especial
+	com peças-Navi para
+	jogar mahjong!
 	"""
 	keyWait
 	clearMsg
@@ -89480,8 +89389,8 @@ script 0 mmbn3 {
 	msgOpen
 	"""
 	Ora, ora! Olha só o LIXO
-	que resolveu dar as
-	caras por aqui!
+	que resolveu mostrar a
+	fuça por aqui!
 	"""
 	keyWait
 	clearMsg
@@ -89593,8 +89502,7 @@ script 30 mmbn3 {
 		mugshot = ZooMan
 	msgOpen
 	"""
-	Pronto!
-	Agora, está conectado!
+	Pronto! Consertado!
 	"""
 	keyWait
 	clearMsg
@@ -91258,7 +91166,7 @@ script 54 mmbn3 {
 	msgOpen
 	"""
 	Por que os Oficiais não
-	fizeram nada?!
+	fazem nada?!
 	"""
 	keyWait
 	clearMsg
@@ -91295,8 +91203,7 @@ script 60 mmbn3 {
 		mugshot = Woman
 	msgOpen
 	"""
-	Não lembro de ver um
-	daqueles por aqui...
+	Eu não vejo ninguém...
 	"""
 	keyWait
 	end
@@ -91307,8 +91214,8 @@ script 61 mmbn3 {
 	msgOpen
 	"""
 	Olha, tem alguém
-	fantasiado ali, perto do
-	daquela instalação!
+	fantasiado ali, perto
+	daquele bloco!
 	"""
 	keyWait
 	end
@@ -91319,7 +91226,7 @@ script 62 mmbn3 {
 	msgOpen
 	"""
 	Não tem ninguém
-	fantasiado aqui.
+	fantasiado ali, menino.
 	"""
 	keyWait
 	end
@@ -91479,7 +91386,7 @@ script 85 mmbn3 {
 	"""
 	Este lugar é sempre
 	tão animado.
-	Afasta a solidão.
+	Espanta a solidão.
 	"""
 	keyWait
 	end
@@ -92400,9 +92307,9 @@ script 230 mmbn3 {
 		jumpIfOutOfRange = continue
 	msgOpen
 	"""
-	Elas devem estar
-	endediadas nessa jaula.
-	Não param de bocejar.
+	Ela deve estar
+	endediada nessa jaula.
+	Não para de bocejar.
 	"""
 	keyWait
 	end
@@ -92914,7 +92821,7 @@ script 50 mmbn3 {
 	msgOpen
 	"""
 	Aick!
-	Eu não suporto insetos!
+	Eu não suporto répteis!
 	"""
 	keyWait
 	end
@@ -92936,8 +92843,9 @@ script 52 mmbn3 {
 		mugshot = BlueShirtBoy
 	msgOpen
 	"""
-	Aposto que porque ele
-	foi preguiçoso demais.
+	Aposto que foi porque
+	ele ficou com preguiça
+	demais.
 	"""
 	keyWait
 	clearMsg
@@ -92953,9 +92861,9 @@ script 53 mmbn3 {
 		mugshot = ZooMan
 	msgOpen
 	"""
-	Todo mundo deve ter
-	medo deles, mas são
-	muito dóceis.
+	Imagino que todos tenham
+	medo deles, mas são bem
+	dóceis, na verdade.
 	"""
 	keyWait
 	end
@@ -92983,8 +92891,8 @@ script 60 mmbn3 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	Ei, você não quer ir
-	ver o gorila?
+	Ei, você não quer ir ver
+	o gorila?
 	"""
 	keyWait
 	end
@@ -93005,8 +92913,8 @@ script 62 mmbn3 {
 		mugshot = Woman
 	msgOpen
 	"""
-	Viemos aqui direto do
-	N1. Meu filho estava
+	Viemos pra cidade pro
+	N1, e meu filho estava
 	decidido a vir aqui.
 	"""
 	keyWait
@@ -93029,7 +92937,7 @@ script 64 mmbn3 {
 		mugshot = BlueShirtBoy
 	msgOpen
 	"""
-	Seguindo por este
+	Entrando por este
 	caminho, podemos ver
 	o panda e o leão.
 	"""
@@ -93587,9 +93495,9 @@ script 226 mmbn3 {
 		jumpIfOutOfRange = continue
 	msgOpen
 	"""
-	O flamingo e o hipopótamo
-	relaxam juntos. Uma
-	silenciosa alegria.
+	O flamingo e os hipopóta-
+	mos relaxam juntos.
+	Uma silenciosa alegria.
 	"""
 	keyWait
 	end
@@ -93959,15 +93867,15 @@ script 251 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Esta parece ser a
-	máquina que enviou o
-	vírus!
+	Este parece ser o
+	computador pro qual o
+	vírus foi enviado!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Temos que pará-la
-	antes que ela cause
+	Temos que pará-lo
+	antes que ele cause
 	mais estragos!
 	"""
 	keyWait
@@ -94235,9 +94143,8 @@ script 0 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	N1 is being held
-	at the very end
-	of this street.
+	O N1 está sendo
+	realizado no final da Rua.
 	"""
 	keyWait
 	end
@@ -94247,9 +94154,9 @@ script 1 mmbn3 {
 		mugshot = Woman
 	msgOpen
 	"""
-	My husband is late.
-	He'd better hurry,or
-	we'll miss N1!
+	O meu marido tá atrasa-
+	do. Ele tem que correr,
+	vamos perder o N1!
 	"""
 	keyWait
 	end
@@ -94259,8 +94166,9 @@ script 5 mmbn3 {
 		mugshot = MetrolineMan
 	msgOpen
 	"""
-	With N1 over,I can
-	finally take a rest…
+	Agora que o N1 acabou,
+	finalmente, eu posso
+	respirar...
 	"""
 	keyWait
 	end
@@ -94270,16 +94178,16 @@ script 10 mmbn3 {
 		mugshot = MetrolineMan
 	msgOpen
 	"""
-	It's interesting to
-	watch all the people
-	coming through here.
+	É interessante observar
+	todas as pessoas que
+	passam por aqui.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Some are happy,some
-	disappointed. Every-
-	one's different.
+	Algumas estão felizes.
+	Outras, decepcionadas.
+	Todos somos diferentes.
 	"""
 	keyWait
 	end
@@ -94293,15 +94201,15 @@ script 13 mmbn3 {
 		mugshot = MetrolineMan
 	msgOpen
 	"""
-	T-The train…
-	Its getting so hot!
+	O-o trem...
+	Está ficando quente!
 	"""
 	keyWait
 	clearMsg
 	"""
-	You could get on,
-	but it's too
-	dangerous like this!
+	Está operando, mas é
+	perigoso demais as
+	coisas continuarem assim!
 	"""
 	keyWait
 	end
@@ -94311,15 +94219,15 @@ script 14 mmbn3 {
 		mugshot = MetrolineMan
 	msgOpen
 	"""
-	The Metroline could
-	have been wrecked!
+	A Metrolinha poderia ter
+	sido destruída!
 	"""
 	keyWait
 	clearMsg
-	"・・・"
+	"..."
 	keyWait
 	clearMsg
-	"That was close…"
+	"Foi por pouco..."
 	keyWait
 	end
 }
@@ -94328,21 +94236,22 @@ script 15 mmbn3 {
 		mugshot = MetrolineMan
 	msgOpen
 	"""
-	The world is so
-	dangerous these
-	days…
+	O mundo anda tão
+	perigoso estes dias...
 	"""
 	keyWait
 	clearMsg
 	"""
-	If Net Crimes become
-	more frequent,
+	Se os NetCrimes se
+	tornarem mais
+	frequentes,
 	"""
 	keyWait
 	clearMsg
 	"""
-	the Metroline could
-	be in jepoardy.
+	a Metrolinha pode
+	acabar correndo um
+	grande risco.
 	"""
 	keyWait
 	end
@@ -94366,16 +94275,16 @@ script 20 mmbn3 {
 		mugshot = MetrolineMan
 	msgOpen
 	"""
-	I can't believe it!
-	They're even sending
-	out tanks now!
+	Eu não acredito nisso!
+	Estão mandando até
+	tanques agora!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Sir,I think you
-	should avoid going
-	outside…
+	Sugiro que evite sair
+	de casa por ora,
+	senhor...
 	"""
 	keyWait
 	end
@@ -94385,16 +94294,16 @@ script 25 mmbn3 {
 		mugshot = MetrolineMan
 	msgOpen
 	"""
-	Sir! I advise that
-	you avoid going to
-	ACDC Town or Yoka!
+	Meu jovem! Aconselho o
+	você a evitar ir para
+	ACDC ou Yoka!
 	"""
 	keyWait
 	clearMsg
 	"""
-	The AutoTanks are
-	out of control!
-	It's too dangerous!
+	Os AutoTanques estão
+	fora de controle!
+	É perigoso demais!
 	"""
 	keyWait
 	end
@@ -94404,16 +94313,16 @@ script 30 mmbn3 {
 		mugshot = MetrolineMan
 	msgOpen
 	"""
-	Beach St. is totally
-	deserted. It's like
-	a ghost town…
+	A Rua Angra está comple-
+	tamente deserta. Como
+	uma cidade fantasma...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Some folks are still
-	at the Hospital and
-	the TV Station.
+	Mas ainda há algumas
+	pessoas no Hospital e
+	no prédio da DNN.
 	"""
 	keyWait
 	end
@@ -94423,15 +94332,15 @@ script 40 mmbn3 {
 		mugshot = MetrolineMan
 	msgOpen
 	"""
-	I saw lots of people
-	fixing their boats
-	at the port…
+	Vi várias pessoas
+	mexendo em barcos no
+	porto...
 	"""
 	keyWait
 	clearMsg
 	"""
-	I wonder what
-	they're up to?
+	O que será que estão
+	aprontando?
 	"""
 	keyWait
 	end
@@ -94439,9 +94348,9 @@ script 40 mmbn3 {
 script 220 mmbn3 {
 	msgOpen
 	"""
-	With so many people,
-	this trash can is
-	nearly full already
+	Com tantas pessoas
+	aqui, esta lixeira já está
+	quase cheia.
 	"""
 	keyWait
 	end
@@ -94449,15 +94358,16 @@ script 220 mmbn3 {
 script 221 mmbn3 {
 	msgOpen
 	"""
-	A poster from a big
-	candy manufacturer
+	Um pôster de uma
+	mega produtora de
+	doces.
 	"""
 	keyWait
 	clearMsg
 	"""
-	They're famous for
-	lots of other things
-	besides candy,too
+	Que também são famosos
+	por várias outras coisas
+	além de doces.
 	"""
 	keyWait
 	end
@@ -94465,15 +94375,15 @@ script 221 mmbn3 {
 script 222 mmbn3 {
 	msgOpen
 	"""
-	This kiosk sells
-	a lot of TV
-	character items
+	Esta lojinha vende vários
+	produtos licenciados de
+	figuras da TV.
 	"""
 	keyWait
 	clearMsg
 	"""
-	They even seem to
-	have Ribitta cards!
+	Eles parecem até ter
+	cards da Ribitta!
 	"""
 	keyWait
 	end
@@ -94481,15 +94391,15 @@ script 222 mmbn3 {
 script 223 mmbn3 {
 	msgOpen
 	"""
-	The rack is jammed
-	full of posters
+	Uma grade abarrotada
+	de pôsteres.
 	"""
 	keyWait
 	clearMsg
 	"""
-	The popular ones
-	always sell out
-	quickly
+	Os mais populares
+	sempre esgotam bem
+	rápido.
 	"""
 	keyWait
 	end
@@ -94508,7 +94418,7 @@ script 230 mmbn3 {
 		down = 2
 	space
 		count = 2
-	"ACDC "
+	"   ACDC "
 	option
 		left = 0
 		right = 0
@@ -94516,7 +94426,7 @@ script 230 mmbn3 {
 		down = 3
 	space
 		count = 2
-	"SciLab\n"
+	"         SciLab\n"
 	option
 		left = 3
 		right = 3
@@ -94524,7 +94434,7 @@ script 230 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yoka     "
+	"   Yoka "
 	option
 		left = 2
 		right = 2
@@ -94532,7 +94442,7 @@ script 230 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Nowhere"
+	"         Ficar"
 	select
 		default = 0
 		BSeparate = false
@@ -94616,9 +94526,8 @@ script 233 mmbn3 {
 		flag = 10
 	msgOpen
 	"""
-	Lan returned the
-	ticket he was
-	holding!
+	Lan devolveu o tíquete
+	que tinha consigo!
 	"""
 	keyWait
 	clearMsg
@@ -94739,8 +94648,8 @@ script 1 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	You can't just go on
-	without permission!
+	Não pode entrar aí
+	sem permissão!
 	"""
 	keyWait
 	end
@@ -94764,9 +94673,9 @@ script 4 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Where are you going?
-	We've got to get
-	to the TV station.
+	Aonde você vai?
+	A gente tem que ir pro
+	prédio da emissora.
 	"""
 	keyWait
 	end
@@ -94785,8 +94694,8 @@ script 6 mmbn3 {
 		mugshot = Dex
 	msgOpen
 	"""
-	How about a battle
-	before the final?
+	Que tal uma lutinha
+	antes das finais?
 	"""
 	keyWait
 	clearMsg
@@ -94801,7 +94710,7 @@ script 7 mmbn3 {
 	mugshotShow
 		mugshot = Mayl
 	msgOpen
-	"Good luck,Lan!"
+	"Boa sorte, Lan!"
 	keyWait
 	end
 }
@@ -94810,8 +94719,8 @@ script 8 mmbn3 {
 		mugshot = Dex
 	msgOpen
 	"""
-	What! Sunayama was
-	from the WWW!?
+	O quê?! O Sunayama
+	era da WWW?!
 	"""
 	keyWait
 	clearMsg
@@ -94823,8 +94732,9 @@ script 9 mmbn3 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	Chaud went alone?
-	Think he'll be OK…?
+	O Chaud foi sozinho?
+	Será que ele vai ficar
+	bem...?
 	"""
 	keyWait
 	end
@@ -94845,7 +94755,7 @@ script 10 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"   Sim "
 	option
 		left = 0
 		right = 0
@@ -94853,7 +94763,7 @@ script 10 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No\n"
+	"          Não\n"
 	select
 		default = 1
 		BSeparate = false
@@ -94894,7 +94804,7 @@ script 12 mmbn3 {
 	mugshotShow
 		mugshot = Dex
 	msgOpen
-	"C'mon,you chicken!"
+	"Ah, vai, não seja\nmedroso!"
 	keyWait
 	end
 }
@@ -94903,9 +94813,9 @@ script 13 mmbn3 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Give me some time
-	to make GutsMan
-	stronger,OK? OK?
+	Me dá só mais um tempo
+	pra eu deixar o GutsMan
+	mais forte, tá? TÁ?
 	"""
 	keyWait
 	end
@@ -94915,8 +94825,9 @@ script 14 mmbn3 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Ha! Don't cry like a
-	baby when you lose!
+	Ha! Não vai chorar que
+	nem bebezinho quando
+	perder!
 	"""
 	keyWait
 	clearMsg
@@ -94928,15 +94839,16 @@ script 15 mmbn3 {
 		mugshot = Dex
 	msgOpen
 	"""
-	This isn't the same
-	GutsMan from before!
+	Este aqui não é o
+	mesmo GutsMan de
+	antes!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Prepare to face the
-	might of my newly
-	customized GutsMan!
+	Se prepara pra enfren-
+	tar a fúria do meu
+	GutsMan customizado!
 	"""
 	keyWait
 	clearMsg
@@ -94948,16 +94860,15 @@ script 16 mmbn3 {
 		mugshot = Dex
 	msgOpen
 	"""
-	I've configured
-	GutsMan to his
-	supreme level!
+	Eu configurei o GutsMan
+	ao nível máximo dele!
 	"""
 	keyWait
 	clearMsg
 	"""
-	He's gonna make you
-	pay for all those
-	times you beat him!
+	Ele vai fazer vocês pa-
+	garem por todas as
+	vezes que venceram ele!
 	"""
 	keyWait
 	clearMsg
@@ -94969,9 +94880,9 @@ script 17 mmbn3 {
 		mugshot = Dex
 	msgOpen
 	"""
-	My new Neo GutsMan
-	is going to punish
-	you good!
+	O meu novo Neo GutsMan
+	vai dar uma lição segura
+	em vocês!
 	"""
 	keyWait
 	clearMsg
@@ -95021,8 +94932,8 @@ script 21 mmbn3 {
 		mugshot = Dex
 	msgOpen
 	"""
-	I'll get you next
-	time!
+	Da próxima vez, cê vai
+	ver só!
 	"""
 	keyWait
 	end
@@ -95032,8 +94943,8 @@ script 22 mmbn3 {
 		mugshot = Dex
 	msgOpen
 	"""
-	What? Why can't
-	I beat you?!
+	O quê?! Por que eu não
+	consigo te vencer?!
 	"""
 	keyWait
 	end
@@ -95043,8 +94954,8 @@ script 23 mmbn3 {
 		mugshot = Dex
 	msgOpen
 	"""
-	No fair!
-	You cheated!
+	Ô, não valeu!
+	Cê roubou!
 	"""
 	keyWait
 	end
@@ -95053,7 +94964,7 @@ script 24 mmbn3 {
 	mugshotShow
 		mugshot = Dex
 	msgOpen
-	"……"
+	"......"
 	keyWait
 	end
 }
@@ -95062,9 +94973,8 @@ script 25 mmbn3 {
 		mugshot = Dex
 	msgOpen
 	"""
-	How'd you like that?
-	Now you know
-	GutsMan's power!
+	Toma! Agora cê entendeu
+	todo o poder do GutsMan!
 	"""
 	keyWait
 	end
@@ -95074,8 +94984,7 @@ script 26 mmbn3 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Check this out,
-	Chisao!
+	Saca só essa, Chisao!
 	"""
 	keyWait
 	clearMsg
@@ -95101,14 +95010,16 @@ script 40 mmbn3 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	If I go early,I'll
-	have longer to wait.
+	Se eu chegar lá cedo,
+	só vou acabar plantada,
+	esperando.
 	"""
 	keyWait
 	clearMsg
 	"""
-	So I decided to
-	window shop instead.
+	Então, decidi dar uma
+	olhadinha nas lojas, em
+	vez disso.
 	"""
 	keyWait
 	end
@@ -95122,14 +95033,15 @@ script 41 mmbn3 {
 		mugshot = MetrolineMan
 	msgOpen
 	"""
-	This is the parking
-	lot for DNN TV.
+	Este é o estacionamento
+	da DNN TV.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Cars use this road,
-	Please move along.
+	Carros usam esta
+	estrada, então, por
+	favor, não fique nela.
 	"""
 	keyWait
 	end
@@ -95139,9 +95051,9 @@ script 42 mmbn3 {
 		mugshot = Man
 	msgOpen
 	"""
-	Go down the hill
-	and walk a ways
-	to get to N1.
+	Desça o morro e siga
+	mais adiante. Daí, você
+	chegará no N1.
 	"""
 	keyWait
 	end
@@ -95151,23 +95063,23 @@ script 43 mmbn3 {
 		mugshot = OldMan
 	msgOpen
 	"""
-	Even this old timer
-	wants to see the Net
-	Battle! Hee hee hee!
+	Até este velhote aqui
+	quer ver umas NetLutas!
+	Hei hei hei!
 	"""
 	keyWait
 	clearMsg
 	mugshotAnimate
 		animation = 0
-	"…! …Mmmph…Mmmph!"
+	"...! ... Mmmpfh... mmpfh!"
 	keyWait
 	clearMsg
-	"Mmmph!\n"
+	"Mmmpfh!\n"
 	mugshotAnimate
 		animation = 1
 	"""
-	Nearly swallowed
-	mah dentures there!
+	Ufa, quase que eu engulo
+	a minha dentadura!
 	"""
 	keyWait
 	end
@@ -95205,20 +95117,20 @@ script 44 mmbn3 {
 		mugshot = Maid
 	msgOpen
 	"""
-	How about a cup of
-	our homemade coffee
-	before watching N1?
+	Que tal uma xícara do
+	nosso café artesanal
+	antes de ir ver o N1?
 	"""
 	keyWait
 	clearMsg
 	"""
-	What!? You're not
-	here to watch? Are
-	you taking part!?
+	O quê?! Você não veio
+	assistir?!
+	É um participantes?!
 	"""
 	keyWait
 	clearMsg
-	"S-Sorry. My mistake!"
+	"P-perdão. Falha minha!"
 	keyWait
 	end
 }
@@ -95231,16 +95143,16 @@ script 45 mmbn3 {
 		mugshot = BlueShirtBoy
 	msgOpen
 	"""
-	Lan! Everyone from
-	class 5-A came out
-	to cheer for you!
+	Lan! Todo mundo da sala
+	5-A veio torcer por
+	você!
 	"""
 	keyWait
 	clearMsg
 	"""
-	srta. Mari and Mayl
-	have already taken
-	their seats!
+	A srta. Mari e a Mayl
+	já foram pros assentos
+	delas!
 	"""
 	keyWait
 	end
@@ -95256,29 +95168,29 @@ script 46 mmbn3 {
 		mugshot = SciLabYoungMan
 	msgOpen
 	"""
-	Dude… I have
-	something really
-	cool from Ameropa.
+	Cara... Eu tenho aqui
+	um negócio incrível, lá
+	da Ameropa.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Wanna buy it? You
-	use it to modify the
-	NaviCust program.
+	Quer comprar? Pode
+	usá-lo pra modificar o
+	programa CustNavi.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Pretty cool,huh? You
-	can't usually get
-	them in Electopia.
+	"Do caramba", não acha?
+	O tipo de coisa que não
+	se acha em Ni-Hon.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'll sell it to ya
-	for 5600 Zennys!!
+	Te vendo por só
+	5600 Zennys!!
 	"""
 	keyWait
 	clearMsg
@@ -95290,7 +95202,7 @@ script 46 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Buy it!!\n"
+	"   Comprar!!\n"
 	option
 		left = 1
 		right = 1
@@ -95298,7 +95210,7 @@ script 46 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Don't buy it…"
+	"   Não comprar..."
 	select
 		default = 0
 		BSeparate = false
@@ -95342,29 +95254,30 @@ script 46 mmbn3 {
 	mugshotShow
 		mugshot = SciLabYoungMan
 	"""
-	Modify the program
-	to get rid of errors
-	when you run it!
+	Modifique o programa
+	para se livrar de erros
+	ao executá-los!
 	"""
 	keyWait
 	clearMsg
 	"""
-	You need a password,
-	but it's worth it.
+	Você precisará de
+	senhas, mas vale a
+	pena.
 	"""
 	keyWait
 	clearMsg
 	"""
-	And…You didn't
-	get it from me. OK?
-	Don't tell a soul!!
+	E... você não comprou
+	isso de mim. Ouviu?
+	Não conte pra NINGUÉM!!
 	"""
 	keyWait
 	clearMsg
-	"It's our secret!"
+	"É o nosso segredinho!"
 	keyWait
 	clearMsg
-	"See ya. Stay cool!"
+	"Falou. Fica FRIO!"
 	keyWait
 	end
 }
@@ -95373,8 +95286,8 @@ script 47 mmbn3 {
 		mugshot = SciLabYoungMan
 	msgOpen
 	"""
-	I'll be here if you
-	change your mind!
+	Estarei aqui caso mude
+	de ideia!
 	"""
 	keyWait
 	end
@@ -95384,14 +95297,16 @@ script 48 mmbn3 {
 		mugshot = SciLabYoungMan
 	msgOpen
 	"""
-	That's not enough!!
-	I'm not a charity!
+	Isso não é o bastante!
+	Tá pensando que eu sou
+	uma caridade?!
 	"""
 	keyWait
 	clearMsg
 	"""
-	No discounts. Not
-	for anyone! Got it?
+	Sem descontos.
+	Para NINGUÉM.
+	Ouviu bem?
 	"""
 	keyWait
 	end
@@ -95400,32 +95315,32 @@ script 49 mmbn3 {
 	mugshotShow
 		mugshot = SciLabYoungMan
 	msgOpen
-	"So? Do you like my\n"
+	"E aí? Gostou das\n"
 	printItem
 		buffer = 0
 		item = 55
 	"""
 	?
-	Pretty useful,huh?
+	Bem úteis, elas, né?
 	"""
 	keyWait
 	clearMsg
 	"""
-	You didn't tell
-	anyone
+	Você não contou pra
+	ninguém
 	"""
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"Right!?"
+	" NÉ?!"
 	keyWait
 	end
 }
@@ -95439,9 +95354,9 @@ script 50 mmbn3 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	Chaud's really my
-	favorite,but I'll
-	cheer for you,too.
+	O Chaud é meu favorito,
+	sendo sincera, mas tor-
+	cerei por você, também.
 	"""
 	keyWait
 	end
@@ -95456,9 +95371,9 @@ script 51 mmbn3 {
 		mugshot = Man
 	msgOpen
 	"""
-	Looks like everyone
-	else is on the boat
-	already.
+	Parece que todos os
+	outros já entraram no
+	barco.
 	"""
 	keyWait
 	end
@@ -95473,8 +95388,9 @@ script 52 mmbn3 {
 		mugshot = OldMan
 	msgOpen
 	"""
-	I hope you win,boy!
-	I'm a big fan!
+	Espero que você vença,
+	menino!
+	Sou um grande fã!
 	"""
 	keyWait
 	end
@@ -95490,8 +95406,8 @@ script 53 mmbn3 {
 	msgOpen
 	"""
 	Ha! Ha! Ha!
-	You ain't gonna win,
-	but do what you can.
+	Cê não vai vencer, mas
+	vai com tudo, garoto.
 	"""
 	keyWait
 	end
@@ -95506,8 +95422,9 @@ script 54 mmbn3 {
 		mugshot = BlackWoman
 	msgOpen
 	"""
-	I'm looking forward
-	to a great battle!
+	Tô ansiosa pra ver uma
+	luta de fazer o sangue
+	ferver!
 	"""
 	keyWait
 	end
@@ -95522,8 +95439,9 @@ script 55 mmbn3 {
 		mugshot = PigtailsGirl
 	msgOpen
 	"""
-	Oh,you must be Lan!
-	Good luck!
+	Ah, você que é o Lan,
+	né?
+	Boa sorte!
 	"""
 	keyWait
 	end
@@ -95533,9 +95451,9 @@ script 56 mmbn3 {
 		mugshot = Maid
 	msgOpen
 	"""
-	Come back safe,and
-	have a nice cup of
-	coffee right here!
+	Volte em segurança, e
+	tome um cafézinho
+	delicioso aqui!
 	"""
 	keyWait
 	end
@@ -95545,9 +95463,9 @@ script 60 mmbn3 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	Hmmm! Looks like you
-	could give Chaud a
-	run for his money!
+	Hmmm! Parece que você
+	pode ser um bom desafio
+	para o Chaud!
 	"""
 	keyWait
 	end
@@ -95557,15 +95475,15 @@ script 61 mmbn3 {
 		mugshot = Man
 	msgOpen
 	"""
-	Well done! That was
-	a great battle!
+	Muito bem! Aquela batalha
+	foi incrível!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Want to rest in the
-	TV station before
-	the semi-finals?
+	Quer descansar no
+	prédio da emissora antes
+	das semifinais?
 	"""
 	keyWait
 	end
@@ -95575,8 +95493,8 @@ script 62 mmbn3 {
 		mugshot = OldMan
 	msgOpen
 	"""
-	I always thought
-	you could do it!
+	Eu sempre acreditei
+	que você era capaz!
 	"""
 	keyWait
 	end
@@ -95586,13 +95504,13 @@ script 63 mmbn3 {
 		mugshot = PompadourMan
 	msgOpen
 	"""
-	Incredible! All the
-	foreign contestants
-	lost!?
+	Inacreditável! Todos os
+	competidores
+	estrangeiros perderam?!
 	"""
 	keyWait
 	clearMsg
-	"I can't believe it!"
+	"Que louco, mano!"
 	keyWait
 	end
 }
@@ -95600,7 +95518,7 @@ script 64 mmbn3 {
 	mugshotShow
 		mugshot = BlackWoman
 	msgOpen
-	"What a battle,kid!"
+	"Aquela luta foi incrível,\nguri!"
 	keyWait
 	end
 }
@@ -95609,8 +95527,8 @@ script 65 mmbn3 {
 		mugshot = PigtailsGirl
 	msgOpen
 	"""
-	Wow,you really are
-	that good!
+	Nossa, você é bom
+	mesmo!
 	"""
 	keyWait
 	end
@@ -95620,16 +95538,15 @@ script 66 mmbn3 {
 		mugshot = Maid
 	msgOpen
 	"""
-	Congratulations on
-	making it to
-	the semi-finals!
+	Meus parabéns por
+	chegar às semifinais!
 	"""
 	keyWait
 	clearMsg
 	"""
-	A coffee for the
-	brave contestant!
-	On the house!
+	Um brinde de café para
+	o nosso valente competi-
+	dor! Por conta da casa!
 	"""
 	keyWait
 	end
@@ -95643,9 +95560,9 @@ script 70 mmbn3 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	I'd like Chaud's
-	autograph,but I'm
-	too shy to ask…
+	Eu queria um autógrafo
+	do Chaud, mas tenho
+	muita vergonha de pedir...
 	"""
 	keyWait
 	end
@@ -95659,15 +95576,15 @@ script 71 mmbn3 {
 		mugshot = Man
 	msgOpen
 	"""
-	Chaud just went
-	by here!
+	O Chaud acabou de
+	passar por aqui!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I know he's in the
-	top 4,but he didn't
-	look too happy.
+	Sei que ele está dentre
+	os 4 semifinalistas, mas
+	não parecia muito feliz.
 	"""
 	keyWait
 	end
@@ -95677,13 +95594,13 @@ script 72 mmbn3 {
 		mugshot = PompadourMan
 	msgOpen
 	"""
-	What! I can't
-	believe the guy from
-	Ameropa lost!
+	O quê?! Não acredito
+	que o cara da Ameropa
+	perdeu!
 	"""
 	keyWait
 	clearMsg
-	"I don't believe it!"
+	"Impossível!"
 	keyWait
 	end
 }
@@ -95692,15 +95609,16 @@ script 73 mmbn3 {
 		mugshot = BlueShirtBoy
 	msgOpen
 	"""
-	That guy who won,
-	"Q"…He's a weird
-	one,isn't he?
+	Aquele cara que venceu,
+	o "Q"... Ele é esquisitinho,
+	né?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Nobody saw how he
-	managed to win.
+	Ninguém conseguiu ver
+	COMO ele fez pra
+	vencer.
 	"""
 	keyWait
 	end
@@ -95710,9 +95628,9 @@ script 74 mmbn3 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	Ahhh,a short break…
-	I know I'll be glued
-	to the next battle.
+	Ahhh, uma breve pausa...
+	Eu sei que vou ficar
+	vidrado na próxima luta!
 	"""
 	keyWait
 	end
@@ -95722,15 +95640,16 @@ script 75 mmbn3 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	I never did get
-	Chaud's autograph…
+	Acabou que eu não
+	peguei o autógrafo do
+	Chaud...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Whoa! It's almost
-	time for the semi-
-	finals. Gotta hurry!
+	Opa! Tá quase na hora
+	das semifinais!
+	Preciso correr!
 	"""
 	keyWait
 	end
@@ -95740,8 +95659,8 @@ script 76 mmbn3 {
 		mugshot = Man
 	msgOpen
 	"""
-	I can't wait to see
-	you do your stuff!
+	Mal posso esperar pra
+	ver você em ação!
 	"""
 	keyWait
 	end
@@ -95755,24 +95674,24 @@ script 80 mmbn3 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	Huh,where's my N1
-	ticket! Where,where?
-	・
+	Ué, cadê o meu ingresso
+	pro N1? Cadê?! CADÊ?!
+	.
 	"""
 	waitSkip
 		frames = 20
-	"・"
+	"."
 	waitSkip
 		frames = 20
-	"・"
+	"."
 	waitSkip
 		frames = 20
 	keyWait
 	clearMsg
 	"""
-	It's gone! I'll miss
-	the battle between
-	Chaud and "Q"!
+	Sumiu! Eu vou perder a
+	luta entre o Chaud e o
+	"Q"!
 	"""
 	keyWait
 	end
@@ -95786,14 +95705,15 @@ script 81 mmbn3 {
 		mugshot = Maid
 	msgOpen
 	"""
-	Everyone went off to
-	watch Chaud's battle.
+	Todo mundo fui assistir
+	à luta do Chaud.
 	"""
 	keyWait
 	clearMsg
 	"""
-	They're lucky…
-	I'd love to see it…
+	Gente sortuda...
+	Eu adoraria ver,
+	também...
 	"""
 	keyWait
 	end
@@ -95803,21 +95723,20 @@ script 82 mmbn3 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	Wow! I can hear the
-	cheering from here!
+	Caramba! Dá pra ouvir
+	o público vibrando daqui!
 	"""
 	keyWait
 	clearMsg
 	"""
-	There must be an
-	amazing battle going
-	on right now!
+	Deve estar acontecendo
+	uma luta incrível agora!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Q-Quickly…! Gotta
-	find that ticket!
+	R-rápido...! Preciso achar
+	logo aquele ingresso!
 	"""
 	keyWait
 	end
@@ -95854,8 +95773,9 @@ script 90 mmbn3 {
 		mugshot = Man
 	msgOpen
 	"""
-	Its calmed down here
-	since N1 finished.
+	As coisas se acalmaram
+	aqui depois do término do
+	Grande Prêmio N1.
 	"""
 	keyWait
 	end
@@ -95880,8 +95800,8 @@ script 91 mmbn3 {
 		mugshot = BlueShirtBoy
 	msgOpen
 	"""
-	Ahhhh! That sea
-	breeze feels great!
+	Ahhhh! A brisa do mar é
+	tão gostosa!
 	"""
 	keyWait
 	end
@@ -95895,16 +95815,16 @@ script 92 mmbn3 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	DNN offers free
-	regular trips to
-	N1's Hades Isle.
+	A DNN oferece viagens
+	regulares gratuitas para
+	a Ilha do Inferno.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Please come on board
-	if you wish to visit
-	the island.
+	Por favor, entre no
+	barco caso queira visitar
+	a ilha.
 	"""
 	keyWait
 	end
@@ -95914,16 +95834,16 @@ script 93 mmbn3 {
 		mugshot = OldMan
 	msgOpen
 	"""
-	The Hospital is on
-	the shoreline,so
-	it's left from here…
+	O Hospital fica na
+	enseada, à esquerda
+	daqui...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Oof…
-	It's hard to move
-	quickly at my age.
+	Ui...
+	É difícil andar muito
+	rápido na minha idade.
 	"""
 	keyWait
 	end
@@ -95933,15 +95853,15 @@ script 94 mmbn3 {
 		mugshot = Maid
 	msgOpen
 	"""
-	I always dreamed of
-	working in a place
-	just like this.
+	Eu sempre sonhei em
+	trabalhar em um lugar
+	como este.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Everything's going
-	so well these days.
+	Tudo está correndo tão
+	bem estes dias.
 	"""
 	keyWait
 	end
@@ -95961,16 +95881,16 @@ script 95 mmbn3 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	Hades Isle is so
-	popular now,thanks
-	to N1.
+	A Ilha do Inferno está
+	tão popular agora, tudo
+	graças ao N1.
 	"""
 	keyWait
 	clearMsg
 	"""
-	DNN is even
-	sponsoring charter
-	boats to the island.
+	A DNN está até
+	patrocinando viagens
+	turísticas à ilha.
 	"""
 	keyWait
 	end
@@ -95980,16 +95900,16 @@ script 100 mmbn3 {
 		mugshot = Man
 	msgOpen
 	"""
-	Some people are
-	upset about
-	the way N1 ended.
+	Algumas pessoas ficaram
+	chateadas com como o
+	N1 acabou.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I know I missed the
-	final battle,but I
-	enjoyed the event.
+	Sei que eu perdi a
+	rodada final, mas gostei
+	do evento.
 	"""
 	keyWait
 	end
@@ -96003,16 +95923,16 @@ script 101 mmbn3 {
 		mugshot = BlueShirtBoy
 	msgOpen
 	"""
-	I saw some weird
-	guy jacking in
-	to that van…
+	Eu vi um cara esquisito
+	se conectando naquela
+	van...
 	"""
 	keyWait
 	clearMsg
 	"""
-	What's going on? He
-	doesn't seem to be
-	with the TV crew.
+	O que tá rolando? Não
+	parecia ser membro da
+	equipe de produção.
 	"""
 	keyWait
 	end
@@ -96022,22 +95942,22 @@ script 102 mmbn3 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	The Undernet…
-	Ever heard of it?
+	A Undernet...
+	Já ouviu falar?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Its a far more
-	dangerous place than
-	the Internet we use.
+	É um lugar muito mais
+	perigoso do que a Rede
+	que nós usamos.
 	"""
 	keyWait
 	clearMsg
 	"""
-	But I hear that they
-	are connected,
-	somewhere…
+	Mas ouvi dizer que elas
+	estão conectadas, em
+	algum ponto...
 	"""
 	keyWait
 	end
@@ -96047,9 +95967,9 @@ script 103 mmbn3 {
 		mugshot = BlueShirtBoy
 	msgOpen
 	"""
-	The sea is so vast.
-	And the horizon goes
-	on forever.
+	O mar é tão vasto.
+	E o horizonte se
+	expande ao infinito.
 	"""
 	keyWait
 	end
@@ -96059,9 +95979,9 @@ script 105 mmbn3 {
 		mugshot = Man
 	msgOpen
 	"""
-	Hey,I see you going
-	to the Hospital a
-	lot. Are you sick?
+	Ei, vejo que você anda
+	indo muito pro Hospital.
+	Está doente?
 	"""
 	keyWait
 	end
@@ -96075,23 +95995,23 @@ script 106 mmbn3 {
 		mugshot = BlueShirtBoy
 	msgOpen
 	"""
-	Did you hear about
-	plants mutating and
-	stopping a factory?
+	Soube das plantas que
+	sofreram mutação e
+	pararam as fábricas?
 	"""
 	keyWait
 	clearMsg
 	"""
-	I did. And now even
-	the Hospital's Tree
-	of Life scares me.
+	Eu soube. E, agora, até
+	a Árvore da Vida do
+	Hospital me dá medo.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Wouldn't it freak
-	you out if a tree
-	that big went nuts?
+	Não seria apavorante
+	se uma árvore grande
+	como ela enlouquecesse?
 	"""
 	keyWait
 	end
@@ -96101,13 +96021,13 @@ script 107 mmbn3 {
 		mugshot = BlueShirtBoy
 	msgOpen
 	"""
-	I thought it was
-	noisy over there.
-	No wonder!
+	Bem que eu achei que
+	estava muito barulho
+	para lá. Não é à toa!
 	"""
 	keyWait
 	clearMsg
-	"Poor kid."
+	"Coitado desse menino."
 	keyWait
 	end
 }
@@ -96116,14 +96036,13 @@ script 110 mmbn3 {
 		mugshot = Man
 	msgOpen
 	"""
-	Hey! What's that
-	look on your face?
+	Ei! Que carinha é essa?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Did something happen
-	at the Hospital!?
+	Aconteceu alguma coisa
+	no Hospital?!
 	"""
 	keyWait
 	end
@@ -96133,16 +96052,15 @@ script 111 mmbn3 {
 		mugshot = BlueShirtBoy
 	msgOpen
 	"""
-	I hear there was a
-	commotion over at
-	the Hospital!
+	Soube que houve uma
+	comoção no Hospital!
 	"""
 	keyWait
 	clearMsg
 	"""
-	What was it? Some
-	kid passed out,
-	or something?
+	O que foi? Uma criança
+	teve um colapso ou algo
+	assim?
 	"""
 	keyWait
 	end
@@ -96152,15 +96070,15 @@ script 112 mmbn3 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	Advances in science
-	have made many more
-	diseases treatable.
+	Avanços na ciência
+	levaram às curas de
+	muitas doenças.
 	"""
 	keyWait
 	clearMsg
 	"""
-	We live in good
-	times,you know.
+	Vivemos em bons tempos,
+	sabe? 
 	"""
 	keyWait
 	end
@@ -96174,25 +96092,26 @@ script 120 mmbn3 {
 	mugshotShow
 		mugshot = YoungWoman
 	msgOpen
-	"Laa,la,laa…"
+	"Laa la la la..."
 	keyWait
 	clearMsg
 	"""
-	Lucky me! So much
-	time for shopping.
-	"""
-	keyWait
-	clearMsg
-	"""
-	Nowadays,computers
-	do so many of my
-	boring chores,
+	Que sorte a minha!
+	Estou com tanto tempo
+	pra fazer compras.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I have lots of
-	time for myself.
+	Computadores fazem a
+	a maioria das nossas
+	obrigações chatas,
+	"""
+	keyWait
+	clearMsg
+	"""
+	então, estou com muito
+	tempo para mim mesma.
 	"""
 	keyWait
 	end
@@ -96210,16 +96129,16 @@ script 121 mmbn3 {
 		mugshot = Man
 	msgOpen
 	"""
-	I'm trying a carwash
-	that's connected to
-	the Net.
+	Estou experimentando
+	usar um lava-carros que
+	é ligado à Rede.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I bet my beautiful
-	car will be shining
-	when I get home!
+	Aposto que meu lindo car-
+	ro estará brilhando quan-
+	do eu chegar em casa!
 	"""
 	keyWait
 	end
@@ -96238,14 +96157,15 @@ script 122 mmbn3 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	This DNN van is
-	pretty cool.
+	Esta van da DNN é bem
+	da hora.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I wonder if they'll
-	let me ride in it.
+	Será que eles topariam
+	me levar de passageiro
+	nela?
 	"""
 	keyWait
 	end
@@ -96255,22 +96175,21 @@ script 123 mmbn3 {
 		mugshot = Maid
 	msgOpen
 	"""
-	Oh,so you live
-	in ACDC Town?
+	Ah, então, você mora no
+	bairro ACDC?
 	"""
 	keyWait
 	clearMsg
 	"""
-	I lived there,too,
-	but we moved
-	when I was a kid.
+	Eu também morei lá,
+	mas nos mudamos quando
+	eu ainda era criança.
 	"""
 	keyWait
 	clearMsg
 	"""
-	ACDC Town was nice…
-	Is the school still
-	there?
+	ACDC era tão legal...
+	A escola continua lá?
 	"""
 	keyWait
 	end
@@ -96280,9 +96199,9 @@ script 130 mmbn3 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	I like this outfit…
-	But it's a bit too
-	expensive for me.
+	Eu gosto dessa roupa...
+	Mas é meio cara demais
+	para mim.
 	"""
 	keyWait
 	end
@@ -96292,15 +96211,16 @@ script 131 mmbn3 {
 		mugshot = Man
 	msgOpen
 	"""
-	I heard there's big
-	trouble at SciLab!
+	Soube que está rolando
+	um problema sério no
+	SciLab!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Only a few people
-	have been told,but
-	its really serious!
+	Só poucas pessoas
+	sabem disso, mas parece
+	bem sério!
 	"""
 	keyWait
 	end
@@ -96310,13 +96230,13 @@ script 132 mmbn3 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	I think it's OK to
-	jack in to the DNN
-	van,you know?
+	Acho que tudo bem se
+	conectar na van da DNN,
+	sabe?
 	"""
 	keyWait
 	clearMsg
-	"Just to try it…"
+	"Só pra ver como é..."
 	keyWait
 	end
 }
@@ -96325,16 +96245,16 @@ script 140 mmbn3 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	Is it true? Are the
-	networked machines
-	all overheating!?
+	É verdade isso? Os
+	aparelhos ligados à Rede
+	estão superaquecendo?!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Oh no! Forget about
-	shopping! I've got
-	to get home…!
+	Essa não! As compras
+	que se danem! Preciso
+	ir pra casa, urgente...!
 	"""
 	keyWait
 	end
@@ -96347,19 +96267,19 @@ script 141 mmbn3 {
 	mugshotShow
 		mugshot = Man
 	msgOpen
-	"This is bad!"
+	"Ah, não!"
 	keyWait
 	clearMsg
 	"""
-	I left my car
-	in that automatic
-	networked car wash!
+	Deixei o meu carro
+	naquele lava-carros
+	ligado à Rede!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I haven't even paid
-	the car off yet!
+	Eu nem terminei de
+	pagar o carro, ainda!
 	"""
 	keyWait
 	end
@@ -96373,12 +96293,12 @@ script 142 mmbn3 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	Suddenly the DNN van
-	got really hot!
+	A van da DNN ficou
+	super quente, do nada!
 	"""
 	keyWait
 	clearMsg
-	"I didn't do it!"
+	"Não fui eu!"
 	keyWait
 	end
 }
@@ -96391,9 +96311,9 @@ script 143 mmbn3 {
 		mugshot = Maid
 	msgOpen
 	"""
-	The cafe is heating
-	up out of control!
-	Everyone,stay back!
+	A máquina de esquentar
+	café está fora de
+	controle! Fiquem longe!
 	"""
 	keyWait
 	end
@@ -96407,14 +96327,15 @@ script 144 mmbn3 {
 		mugshot = MetrolineMan
 	msgOpen
 	"""
-	That parking lot is
-	like a sea of flame!
+	Esse estacionamento
+	parece até um mar de
+	fogo!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Someone better put
-	it out quickly!
+	Alguém precisa apagar
+	esse incêndio, urgente!
 	"""
 	keyWait
 	end
@@ -96428,9 +96349,9 @@ script 145 mmbn3 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	Those evacuating to
-	Hades Isle,please
-	board immediately!
+	Todos que forem evacuar
+	para a Ilha do Inferno,
+	por favor, entrem!
 	"""
 	keyWait
 	end
@@ -96440,15 +96361,15 @@ script 150 mmbn3 {
 		mugshot = Man
 	msgOpen
 	"""
-	Oh no,no,no…
-	Why did I use that
-	networked car wash…?
+	Ai, não, não, não...
+	Por que eu fui usar
+	aquele lava-carros...?
 	"""
 	keyWait
 	clearMsg
 	"""
-	The heat ruined my
-	beautiful car…
+	O calor arruinou o meu
+	lindo carrinho...
 	"""
 	keyWait
 	end
@@ -96458,9 +96379,9 @@ script 151 mmbn3 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	So it was the WWW…
-	I thought it was my
-	fault!
+	Então, foi a WWW...
+	Eu tava achando que a
+	culpa era minha!
 	"""
 	keyWait
 	end
@@ -96470,16 +96391,16 @@ script 152 mmbn3 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	We are investigating
-	the damage caused by
-	this incident.
+	Estamos investigando os
+	estragos causados por
+	esse incidente.
 	"""
 	keyWait
 	clearMsg
 	"""
-	It seems over for
-	now,but the damage
-	is quite extensive.
+	Parece ter acabado por
+	ora, mas os danos foram
+	bem graves.
 	"""
 	keyWait
 	end
@@ -96489,15 +96410,15 @@ script 153 mmbn3 {
 		mugshot = Maid
 	msgOpen
 	"""
-	Sorry,the kitchen
-	was destroyed,and we
-	can't prepare food.
+	Desculpa, mas a cozinha
+	foi destruída, então, não
+	podemos fazer comida.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Please come again
-	once it's repaired.
+	Por favor, volte assim
+	que for consertada.
 	"""
 	keyWait
 	end
@@ -96507,15 +96428,15 @@ script 154 mmbn3 {
 		mugshot = MetrolineMan
 	msgOpen
 	"""
-	Hey,you! Don't
-	interfere with the
-	restoration work!
+	Ei, você!
+	Não atrapalhe o trabalho
+	de restauração!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Cars are coming,so
-	get out of here!
+	Tem carro vindo, então,
+	saia daí!
 	"""
 	keyWait
 	end
@@ -96525,15 +96446,15 @@ script 155 mmbn3 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	I was really worried
-	for a while,but…
+	Eu fiquei preocupada,
+	mas...
 	"""
 	keyWait
 	clearMsg
 	"""
-	The boat is fine.
-	Passengers for Hades
-	Isle,please board.
+	O barco está bem.
+	Passageiros para a Ilha
+	do Inferno, podem subir.
 	"""
 	keyWait
 	end
@@ -96558,16 +96479,16 @@ script 160 mmbn3 {
 		mugshot = Maid
 	msgOpen
 	"""
-	The recent incidents
-	have made everyone
-	so tense lately.
+	Os incidentes recentes
+	têm deixado todos tão
+	tensos.
 	"""
 	keyWait
 	clearMsg
 	"""
-	But I think a nice
-	cup of coffee can
-	calm anyone down.
+	Mas eu acho que uma
+	boa xícara de café
+	acalma qualquer alma.
 	"""
 	keyWait
 	end
@@ -96592,16 +96513,16 @@ script 161 mmbn3 {
 		mugshot = Man
 	msgOpen
 	"""
-	The TV station,the
-	Hospital,SciLab…
-	Where next…?
+	A emissora de TV, o
+	Hospital, o SciLab...
+	Qual será o próximo...?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Huh? You…
-	I've seen you at…
-	Oh,where was it…?
+	Hã? Você...
+	Eu te vi, lá no...
+	Ah, onde foi mesmo...?
 	"""
 	keyWait
 	end
@@ -96621,8 +96542,8 @@ script 162 mmbn3 {
 		mugshot = PigtailsGirl
 	msgOpen
 	"""
-	Papa! The TV station
-	was so much fun!
+	Papai! A visita na DNN
+	foi tão legal!
 	"""
 	keyWait
 	end
@@ -96642,16 +96563,16 @@ script 163 mmbn3 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	I won't let the WWW
-	ruin my child's
-	trip here.
+	Não vou deixar a WWW
+	estragar a viagem da
+	minha filha aqui.
 	"""
 	keyWait
 	clearMsg
 	"""
-	So I'm spending more
-	time with her so
-	she enjoys herself…
+	Então, estou passando
+	mais tempo com ela, para
+	ela se divertir bem...
 	"""
 	keyWait
 	end
@@ -96676,16 +96597,16 @@ script 164 mmbn3 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Seems like something
-	was stirring in the
-	Undernet…
+	Parece que aconteceu
+	alguma coisa na
+	Undernet...
 	"""
 	keyWait
 	clearMsg
 	"""
-	The Undernet is much
-	more complex and
-	tough to get around.
+	A Undernet é muito mais
+	complexa e difícil de
+	navegar que a Rede.
 	"""
 	keyWait
 	end
@@ -96694,13 +96615,13 @@ script 167 mmbn3 {
 	mugshotShow
 		mugshot = Maid
 	msgOpen
-	"The sea is so quiet…"
+	"O mar está tão calmo..."
 	keyWait
 	clearMsg
 	"""
-	But is it only the
-	"calm before the
-	storm"…?
+	Mas será que é só a
+	"calmaria antes da
+	tempestade"...?
 	"""
 	keyWait
 	end
@@ -96709,20 +96630,19 @@ script 168 mmbn3 {
 	mugshotShow
 		mugshot = Man
 	msgOpen
-	"What? The Undernet?"
+	"Quê? A Undernet?"
 	keyWait
 	clearMsg
 	"""
-	Oh no! That horrible
-	place is no
-	laughing matter!
+	Essa não! Aquele lugar
+	horroroso não é piada!
 	"""
 	keyWait
 	clearMsg
 	"""
-	But hang on…
-	I know you from…
-	Somewhere…
+	Mas, espera...
+	Eu te conheço de...
+	Algum lugar...
 	"""
 	keyWait
 	end
@@ -96731,7 +96651,7 @@ script 169 mmbn3 {
 	mugshotShow
 		mugshot = PigtailsGirl
 	msgOpen
-	"Papa,pretty birds!!"
+	"Papai, passarinhos!!"
 	keyWait
 	end
 }
@@ -96740,14 +96660,14 @@ script 170 mmbn3 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	Yes. They're
-	called seagulls.
+	Sim. Eles são chamados
+	de "gaivotas".
 	"""
 	keyWait
 	clearMsg
 	"""
-	They're often found
-	near the ocean.
+	Costumam ficar perto do
+	mar.
 	"""
 	keyWait
 	end
@@ -96757,19 +96677,18 @@ script 171 mmbn3 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	How are things
-	coming along?
+	Como vão as coisas?
 	"""
 	keyWait
 	clearMsg
 	"""
-	I wish we didn't
-	have to involve a
-	civilian like you…
+	Queria que não
+	tivéssemos que envolver
+	um civil como você...
 	"""
 	keyWait
 	clearMsg
-	"I apologize…"
+	"Peço perdão..."
 	keyWait
 	end
 }
@@ -96778,8 +96697,9 @@ script 175 mmbn3 {
 		mugshot = Maid
 	msgOpen
 	"""
-	Those waves…They
-	seem bigger today.
+	Essas ondas...
+	Elas parecem maiores
+	hoje.
 	"""
 	keyWait
 	end
@@ -96789,14 +96709,15 @@ script 176 mmbn3 {
 		mugshot = Man
 	msgOpen
 	"""
-	Lan Hikari,right?
-	I saw you at N1!
+	Lan Hikari, né?
+	Eu te vi no Grande
+	Prêmio N1!
 	"""
 	keyWait
 	clearMsg
 	"""
-	How could I not have
-	recognized you!!
+	Não acredito que não te
+	reconheci antes!!
 	"""
 	keyWait
 	end
@@ -96805,7 +96726,7 @@ script 177 mmbn3 {
 	mugshotShow
 		mugshot = PigtailsGirl
 	msgOpen
-	"OK! Let's go home!!"
+	"Tá bom! Vamos pra casa!!"
 	keyWait
 	end
 }
@@ -96814,9 +96735,9 @@ script 178 mmbn3 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	We should go home
-	soon. Mama is making
-	your favorite meal.
+	Melhor voltarmos logo pra
+	casa. A mamãe fez o seu
+	prato favorito.
 	"""
 	keyWait
 	end
@@ -96825,13 +96746,13 @@ script 179 mmbn3 {
 	mugshotShow
 		mugshot = SciLabMan
 	msgOpen
-	"A \"boulder\",huh…?"
+	"Uma \"rocha\", é...?"
 	keyWait
 	clearMsg
 	"""
-	Boulder hill,boulder
-	pools,boulder…
-	Can't say for sure…
+	Morro rochoso, poça em
+	torno de rochas, rocha...
+	Não sei dizer...
 	"""
 	keyWait
 	end
@@ -96841,8 +96762,8 @@ script 182 mmbn3 {
 		mugshot = Maid
 	msgOpen
 	"""
-	What!? Did something
-	else happen!?
+	O quê?! Aconteceu
+	outra coisa?!
 	"""
 	keyWait
 	end
@@ -96852,18 +96773,18 @@ script 183 mmbn3 {
 		mugshot = Man
 	msgOpen
 	"""
-	What happened?
-	Another incident?
+	O que houve?
+	Outro incidente?
 	"""
 	keyWait
 	clearMsg
 	"""
-	The Officials are
-	going to help us!
+	Sei que os Oficiais vão
+	nos ajudar!
 	"""
 	keyWait
 	clearMsg
-	"We can rely on them!"
+	"Podemos contar com eles!"
 	keyWait
 	end
 }
@@ -96872,14 +96793,15 @@ script 184 mmbn3 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Alpha was stolen…
-	This is serious.
+	O Alpha foi roubado...
+	Isso é sério.
 	"""
 	keyWait
 	clearMsg
 	"""
-	If Wily gets it,
-	Net society will be…
+	Se o Wily puser as mãos
+	nele, a sociedade da
+	Rede será...
 	"""
 	keyWait
 	end
@@ -96889,22 +96811,22 @@ script 185 mmbn3 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Commander of Tank
-	Corps 10 speaking!
+	Comandante da Tropa
+	de Tanques 10 falando!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Due to the crisis,we
-	are blockading this
-	entire area!
+	Devido à crise, toda
+	esta área está sendo
+	barrada!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I repeat! We are
-	blockading this area
-	due to the crisis!
+	Repito: Toda esta área
+	será barrada devido à
+	crise!
 	"""
 	keyWait
 	end
@@ -96923,23 +96845,23 @@ script 186 mmbn3 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	W-Whaaat!
-	The tank's controls
-	aren't responding!?
+	O-o quê?!
+	Os controles do tanque
+	não estão funcionando?!
 	"""
 	keyWait
 	clearMsg
 	"""
-	But things should be
-	under control! I
-	called an Official!
+	Mas era para as coisas
+	estarem sob controle!
+	Eu chamei um Oficial!
 	"""
 	keyWait
 	clearMsg
 	"""
-	A kid like you needs
-	to get out of here!
-	Hurry!
+	Aqui não é lugar para
+	crianças! Saia logo daqui!
+	Vamos!
 	"""
 	keyWait
 	end
@@ -96949,16 +96871,16 @@ script 187 mmbn3 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Whew… The Officials
-	came to help me,and
-	no damage was done.
+	Ufa... Os Oficiais vieram
+	me ajudar, e não houve
+	estragos.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Nobody can top those
-	guys when it comes
-	to virus busting.
+	Ninguém supera esse
+	pessoal quando se trata
+	de conter vírus.
 	"""
 	keyWait
 	end
@@ -96968,16 +96890,16 @@ script 188 mmbn3 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Some guy just went
-	off towards the
-	MetroLine…
+	Um sujeito aí acabou
+	de seguir para a
+	Metrolinha...
 	"""
 	keyWait
 	clearMsg
 	"""
-	I wanted to stop
-	him,but he looked
-	so intense…
+	Eu pretendia impedi-lo,
+	mas ele estava com um
+	olhar tão intenso...
 	"""
 	keyWait
 	end
@@ -96986,12 +96908,13 @@ script 189 mmbn3 {
 	mugshotShow
 		mugshot = SciLabMan
 	msgOpen
-	"Leave it to us!"
+	"Deixe conosco!"
 	keyWait
 	clearMsg
 	"""
-	Whatever happens,we
-	won't let you down!
+	O que quer que
+	aconteça, não vamos te
+	decepcionar!
 	"""
 	keyWait
 	end
@@ -97007,44 +96930,44 @@ script 190 mmbn3 {
 		mugshot = Maid
 	msgOpen
 	"""
-	What? Did I have
-	another Navi before?
+	Quê? Se eu costumava
+	ter um outro Navi,
+	antes?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Yes,I did…
-	And it was very
-	special to me.
+	Costumava, sim...
+	E era muito especial pra
+	mim.
 	"""
 	keyWait
 	clearMsg
 	"""
-	But someone broke
-	into my house and
-	stole my PET.
+	Mas, um dia, invadiram a
+	minha casa e roubaram o
+	meu PET.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I've searched and
-	searched,but never
-	found it…
+	Eu procurei sem parar,
+	mas nunca consegui
+	encontrar ele...
 	"""
 	keyWait
 	clearMsg
 	"""
-	…Wait a second!
-	How did you know
-	about that?
+	... Espera!
+	Como você sabia disso?
 	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	"""
-	Urk! Ah,um…Thanks
-	for your time!
+	Ugh! Er, hum...
+	Obrigado pela conversa!
 	"""
 	keyWait
 	clearMsg
@@ -97054,8 +96977,8 @@ script 191 mmbn3 {
 		mugshot = Maid
 	msgOpen
 	"""
-	…Are you hiding
-	something?
+	... Você tá escondendo
+	alguma coisa?
 	"""
 	keyWait
 	end
@@ -97070,24 +96993,27 @@ script 195 mmbn3 {
 	mugshotShow
 		mugshot = YoungWoman
 	msgOpen
-	"No! Go away!"
+	"Não! Não olhe pra mim!"
 	keyWait
 	clearMsg
 	"""
-	This boutique is
-	having a sale soon!
-	"""
-	keyWait
-	clearMsg
-	"""
-	And I'll be first in
-	line for bargains!
+	Esta butique terá uma
+	liquidação muito em
+	breve!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Don't tell,OK? This
-	should persuade you.
+	E eu vou ser a primeira
+	da fila pra aproveitar
+	as promoções!
+	"""
+	keyWait
+	clearMsg
+	"""
+	Não conta pra ninguém,
+	ouviu? Aqui, um agradinho
+	pelo seu silêncio...
 	"""
 	keyWait
 	clearMsg
@@ -97114,9 +97040,9 @@ script 196 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Purple program parts
-	can be rotated using
-	L and R Buttons!!
+	Pode rotacionar peças
+	de programa roxas com
+	os botões "L" e "R"!!
 	"""
 	playerFinish
 	playerReset
@@ -97129,9 +97055,9 @@ script 197 mmbn3 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	What! No sale yet?
-	I've been waiting
-	for so long!
+	O quê?! Ainda não come-
+	çou a liquidação? Eu tô
+	esperando há eras!
 	"""
 	keyWait
 	end
@@ -97140,7 +97066,7 @@ script 200 mmbn3 {
 	mugshotShow
 		mugshot = Mayl
 	msgOpen
-	"Be very careful…"
+	"Toma muito cuidado,\nLan..."
 	keyWait
 	end
 }
@@ -97149,8 +97075,8 @@ script 201 mmbn3 {
 		mugshot = Yai
 	msgOpen
 	"""
-	Make sure to finish
-	the WWW for good!
+	Acaba com a WWW de uma
+	vez por todas!
 	"""
 	keyWait
 	end
@@ -97158,9 +97084,9 @@ script 201 mmbn3 {
 script 220 mmbn3 {
 	msgOpen
 	"""
-	A building that
-	houses schools
-	and other offices
+	Uma edificação que
+	abriga escolas e
+	escritórios diversos.
 	"""
 	keyWait
 	end
@@ -97168,9 +97094,9 @@ script 220 mmbn3 {
 script 221 mmbn3 {
 	msgOpen
 	"""
-	Rows and rows of
-	designer goods at
-	ridiculous prices
+	Várias fileiras de
+	produtos de grife, todos
+	a preços absurdos.
 	"""
 	keyWait
 	end
@@ -97178,16 +97104,16 @@ script 221 mmbn3 {
 script 222 mmbn3 {
 	msgOpen
 	"""
-	A map of Beach
-	Street. The red mark
-	must be where I am?
+	Um mapa da Rua Angra.
+	O "X" vermelho deve
+	ser onde eu estou...
 	"""
 	keyWait
 	clearMsg
 	"""
-	The TV station is on
-	your right; the
-	coast,on your left
+	O prédio da emissora de
+	TV fica à direita;
+	a enseada, à esquerda.
 	"""
 	keyWait
 	end
@@ -97195,9 +97121,9 @@ script 222 mmbn3 {
 script 223 mmbn3 {
 	msgOpen
 	"""
-	Aromatic,homemade
-	coffee on sale for
-	just 380 Zennys
+	Café aromático e
+	artesanal, à venda por
+	apenas 380 Zennys.
 	"""
 	keyWait
 	end
@@ -97209,13 +97135,12 @@ script 224 mmbn3 {
 		jumpIfInRange = 240
 		jumpIfOutOfRange = continue
 	msgOpen
-	"Beep,beeeeep!"
+	"Bip biiiiiiip!"
 	keyWait
 	clearMsg
 	"""
-	Somebody is honking
-	their horn over
-	there…
+	Tem alguém buzinando
+	com o carro, ali...
 	"""
 	keyWait
 	end
@@ -97223,15 +97148,15 @@ script 224 mmbn3 {
 script 225 mmbn3 {
 	msgOpen
 	"""
-	A poster of Ribitta,
-	the DNN reporter
+	Um pôster da Ribitta,
+	repórter da DNN.
 	"""
 	keyWait
 	end
 }
 script 226 mmbn3 {
 	msgOpen
-	"\"The Thrill of N1!\n We want you for\n the NetBattle!\""
+	"\"A Emoção do N1!\n Queremos VOCÊ...\n para NetLutar!\""
 	keyWait
 	end
 }
@@ -97241,12 +97166,12 @@ script 227 mmbn3 {
 		jumpIfTrue = 237
 		jumpIfFalse = continue
 	msgOpen
-	"A popular band"
+	"Uma banda popular."
 	keyWait
 	clearMsg
 	"""
-	They're famous for
-	their maniacal fans
+	A reputação de seus
+	fãs maníacos a precede.
 	"""
 	keyWait
 	end
@@ -97258,21 +97183,23 @@ script 228 mmbn3 {
 		jumpIfFalse = continue
 	msgOpen
 	"""
-	Denta and Denko,the
-	original DNN mascots
+	Denta e Denko, os
+	mascotes originais da
+	DNN.
 	"""
 	keyWait
 	clearMsg
 	"""
-	They greet visitors
-	with a warm smile
+	Eles cumprimentam
+	visitantes com um
+	sorriso caloroso.
 	"""
 	keyWait
 	clearMsg
 	"""
-	They were inside,but
-	were replaced by the
-	new station mascots
+	Eles ficavam dentro do
+	prédio, mas foram troca-
+	dos por novos mascotes.
 	"""
 	keyWait
 	end
@@ -97285,8 +97212,9 @@ script 229 mmbn3 {
 		jumpIfOutOfRange = continue
 	msgOpen
 	"""
-	This DNN boat used
-	to be a fishing boat
+	Este barco da DNN
+	costumava ser um barco
+	de pesca.
 	"""
 	keyWait
 	end
@@ -97294,15 +97222,15 @@ script 229 mmbn3 {
 script 230 mmbn3 {
 	msgOpen
 	"""
-	The Hospital is over
-	there,
+	O Hospital fica nesta
+	direção,
 	"""
 	keyWait
 	clearMsg
 	"""
-	but the road is shut
-	today because of all
-	the N1 spectators
+	mas a estrada foi
+	interditada hoje devido
+	aos espectadores do N1.
 	"""
 	keyWait
 	end
@@ -97314,13 +97242,13 @@ script 231 mmbn3 {
 		jumpIfInRange = 241
 		jumpIfOutOfRange = continue
 	msgOpen
-	"A TV station van"
+	"Uma van da emissora\nDNN."
 	keyWait
 	clearMsg
 	"""
-	It collects all the
-	latest news. It's
-	set up to jack in
+	Ela reúne todas as
+	notícias. É possível se
+	conectar nela.
 	"""
 	keyWait
 	end
@@ -97341,55 +97269,55 @@ script 232 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Wonder if this boat
-	can be used?
+	Será que dava pra
+	gente usar esse barco?
 	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	The engine looks
-	pretty old,though…
+	Mas o motor dele parece
+	bem velhinho...
 	"""
 	keyWait
 	clearMsg
 	"""
-	It will need a new
-	engine to get to the
-	WWW base…
+	Vai precisar de um novo
+	motor, se quisermos
+	chegar na base da WWW...
 	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	"""
-	But where can I
-	find a boat engine?
+	Mas onde é que eu vou
+	arranjar um motor de
+	barco?
 	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Hmmm. It won't be
-	easy…
+	Hmmm. Não vai ser fácil...
 	"""
 	keyWait
 	clearMsg
 	"""
-	We'll need help to
-	find one. We can't
-	do it alone.
+	Vamos precisar de
+	ajuda pra arranjar.
+	Sozinhos, será impossível.
 	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	"""
-	We don't have time
-	to find anyone now!
-	Just start looking!!
+	A gente não tem tempo
+	pra ir atrás de alguém!
+	Só sai procurando!!
 	"""
 	keyWait
 	end
@@ -97398,7 +97326,7 @@ script 233 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Where to,Lan?\n"
+	"Pra onde, Lan?\n"
 	option
 		left = 1
 		right = 1
@@ -97406,7 +97334,7 @@ script 233 mmbn3 {
 		down = 2
 	space
 		count = 2
-	"Hades "
+	"   Inferno "
 	option
 		left = 0
 		right = 0
@@ -97414,7 +97342,7 @@ script 233 mmbn3 {
 		down = 2
 	space
 		count = 2
-	"WWW base\n"
+	"        Base da WWW\n"
 	option
 		left = 1
 		right = 1
@@ -97422,7 +97350,7 @@ script 233 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Nowhere"
+	"   Ficar"
 	select
 		default = 0
 		BSeparate = false
@@ -97449,9 +97377,9 @@ script 236 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Leave the engine to
-	Yai. Get some sleep
-	for tomorrow.
+	Deixa o motor com a Yai.
+	Dorme um pouco pra se
+	preparar pra amanhã.
 	"""
 	keyWait
 	end
@@ -97459,41 +97387,40 @@ script 236 mmbn3 {
 script 237 mmbn3 {
 	msgOpen
 	"""
-	A poster for a new
-	DNN program
+	O anúncio de um novo
+	programa da DNN.
 	"""
 	keyWait
 	clearMsg
-	"\"Love & Loss:\n A new drama\n set in Cyberworld"
+	"\"Avenida Ni-Hon:\n Uma nova novela\n do mundo cibernético."
 	keyWait
 	clearMsg
-	"Jack in"
+	"Conecte-se!"
 	keyWait
 	clearMsg
-	" Mondays at 9PM on\n DNN\""
+	" Segunda-se feiras, às 21h,\n na DNN.\""
 	keyWait
 	end
 }
 script 238 mmbn3 {
 	msgOpen
 	"""
-	It's the red and
-	blue "NetRangers,"
-	popular superheroes
+	São os "NetRangers"
+	Vermelho e Azul,
+	populares heróis da TV.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Red gets to wear the
-	cape because he's
-	the leader
+	O Vermelho usa capa
+	porque é o líder.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Red's "Net-Drill
-	Punch" is always
-	a big hit
+	O "Soco BrocaNet" do
+	Vermelho sempre faz
+	muito sucesso.
 	"""
 	keyWait
 	end
@@ -97501,9 +97428,9 @@ script 238 mmbn3 {
 script 240 mmbn3 {
 	msgOpen
 	"""
-	Black smoke is
-	rising from the DNN
-	parking lot!
+	Você observa fumaça
+	preta vindo do
+	estacionamento da DNN!
 	"""
 	keyWait
 	end
@@ -97511,16 +97438,16 @@ script 240 mmbn3 {
 script 241 mmbn3 {
 	msgOpen
 	"""
-	You can feel the
-	heat as you move
-	closer
+	Você sente a quentura
+	à medida que se
+	aproxima.
 	"""
 	keyWait
 	clearMsg
 	"""
-	It's still connected
-	to the network,and
-	you can jack in!
+	Ainda está ligado à Rede,
+	e você pode se
+	conectar!
 	"""
 	keyWait
 	end
@@ -97539,59 +97466,59 @@ script 0 mmbn3 {
 		mugshot = Tora
 	msgOpen
 	"""
-	Aren't you a school
-	kid? Are you in N1?
+	Tu não é estudante,
+	não? Tá no N1?
 	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"…Well,yes."
+	"... Er, tô, sim."
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = Tora
 	"""
-	Be good and go home
-	before you get hurt.
+	Ô, vai pra casa, guri.
+	Tu vai é acabar se
+	estatelando aqui.
 	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	"""
-	What? Where do you
-	get off,talking like
-	that?
+	O quê?! Que moral você
+	tem pra falar assim
+	comigo?
 	"""
 	keyWait
 	clearMsg
 	"""
-	You're not even that
-	much older than me!
+	Aposto que cê nem é
+	muito mais velho que eu!
 	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = Tora
 	"""
-	Whatever!
-	I'm already thirteen
-	years old!
+	Ah, se catar!
+	Eu tenho 13 anos, já!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Little kids these
-	days don't have any
-	manners at all!!
+	Esses "guri" de hoje em
+	dia "num" tem educação
+	nenhuma!!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'm Tora from Swap-
-	opolis,and I'll
-	teach you some!
+	Eu sou Tora Amagoma,
+	lá de Akindo, e vou te
+	dar uma lição!
 	"""
 	keyWait
 	clearMsg
@@ -97603,7 +97530,7 @@ script 1 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	NetBattle with
+	Quer NetLutar com o
 	Tora?
 	
 	"""
@@ -97614,7 +97541,7 @@ script 1 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"   Sim "
 	option
 		left = 0
 		right = 0
@@ -97622,7 +97549,7 @@ script 1 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No\n"
+	"          Não\n"
 	select
 		default = 1
 		BSeparate = false
@@ -97659,9 +97586,9 @@ script 3 mmbn3 {
 		mugshot = Tora
 	msgOpen
 	"""
-	It's smart to avoid
-	battles with people
-	you can't beat!
+	Tu até que é inteligente,
+	fugindo de lutar contra
+	quem "num" pode vencer!
 	"""
 	keyWait
 	end
@@ -97671,9 +97598,9 @@ script 4 mmbn3 {
 		mugshot = Tora
 	msgOpen
 	"""
-	I'm busy. I'm
-	working on some
-	new strategies…
+	Agora, não, tô ocupado.
+	Fazendo umas
+	estratégias novas, aqui...
 	"""
 	keyWait
 	end
@@ -97683,8 +97610,9 @@ script 5 mmbn3 {
 		mugshot = Tora
 	msgOpen
 	"""
-	Come on,then! I'll
-	rip you to shreds!
+	Então, bora!
+	Vou te dar uma pisa das
+	BOAS!
 	"""
 	keyWait
 	clearMsg
@@ -97696,15 +97624,14 @@ script 6 mmbn3 {
 		mugshot = Tora
 	msgOpen
 	"""
-	Let's see how
-	you handle THIS
-	strategy!!
+	Quero ver tu encarar
+	ESTA estratégia, aqui!!
 	"""
 	keyWait
 	clearMsg
 	"""
 	KingMan!
-	Crush him!!
+	"Xeque-mata" ele!!
 	"""
 	keyWait
 	clearMsg
@@ -97715,16 +97642,16 @@ script 7 mmbn3 {
 	mugshotShow
 		mugshot = Tora
 	msgOpen
-	"""
-	Now take on all of
-	my best strategies
-	combined!
+	""" 
+	Agora, tu vai enfrentar
+	as minhas melhores es-
+	tratégias, tudo "junta"!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Time for a
-	checkmate!!
+	Prepara pro
+	xeque-mate!!
 	"""
 	keyWait
 	clearMsg
@@ -97752,8 +97679,8 @@ script 9 mmbn3 {
 		mugshot = Tora
 	msgOpen
 	"""
-	Eu topo lutar com você
-	a qualquer hora, Lan!
+	Eu topo lutar contigo
+	qualquer hora, Lan!
 	"""
 	keyWait
 	clearMsg
@@ -97787,9 +97714,9 @@ script 12 mmbn3 {
 		mugshot = Tora
 	msgOpen
 	"""
-	Where did my
-	strategy fail!?
-	Let me rethink this…
+	Por que a minha estraté-
+	gia "num" deu certo?
+	Tenho que refletir...
 	"""
 	keyWait
 	end
@@ -97799,16 +97726,16 @@ script 13 mmbn3 {
 		mugshot = Tora
 	msgOpen
 	"""
-	What!? That strategy
-	should have been
-	flawless…!
+	Ué?! Era pra minha
+	estratégia ter sido
+	perfeita...!
 	"""
 	keyWait
 	clearMsg
 	"""
-	But I won't give up!
-	I still have other
-	strategies to use!
+	Ah, mas eu "num" vou
+	desistir, não! Tenho mais
+	estratégias na manga!
 	"""
 	keyWait
 	end
@@ -97818,14 +97745,14 @@ script 14 mmbn3 {
 		mugshot = Tora
 	msgOpen
 	"""
-	What…? Why…? How…?
-	I can't believe it!
+	Quê...? Por quê...? Como?
+	Eu "num" acredito!
 	"""
 	keyWait
 	clearMsg
 	"""
-	But just you wait!
-	I'll defeat you yet!
+	Mas "pera" só, Lan!
+	Eu ainda vou te vencer!
 	"""
 	keyWait
 	end
@@ -97834,7 +97761,7 @@ script 15 mmbn3 {
 	mugshotShow
 		mugshot = Tora
 	msgOpen
-	"……"
+	"......"
 	keyWait
 	end
 }
@@ -97843,9 +97770,9 @@ script 16 mmbn3 {
 		mugshot = Tora
 	msgOpen
 	"""
-	Hah! You'll never
-	win without a
-	strategy yourself!!
+	Ha! Tu nunca vai
+	conseguir vencer sem
+	uma estratégia tua!!
 	"""
 	keyWait
 	end
@@ -97855,16 +97782,15 @@ script 18 mmbn3 {
 		mugshot = Tora
 	msgOpen
 	"""
-	You've given me
-	insight into a new
-	line of strategies!
+	Tu me fez pensar numas
+	estratégias novas, aqui!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Let's battle again
-	so that I can steal
-	more ideas!
+	Bora lutar de novo
+	"preu" roubar mais ideia
+	tua!
 	"""
 	keyWait
 	clearMsg
@@ -97875,7 +97801,7 @@ script 21 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Lan. You got mail!!"
+	"Lan. Chegou e-mail!!"
 	keyWait
 	end
 }
@@ -97892,21 +97818,22 @@ script 23 mmbn3 {
 		mugshot = Ribitta
 	msgOpen
 	"""
-	Have you seen Chaud?
-	He disappeared after
-	leaving the boat…
+	Você viu o Chaud por
+	aí? Ele sumiu logo depois
+	que saiu do barco...
 	"""
 	keyWait
 	clearMsg
 	"""
-	The semi-finals will
-	be starting soon…
+	As semifinais já estão
+	pra começar...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Lan,would you please
-	find Chaud for me?
+	Lan, pode encontrar o
+	Chaud pra mim, por
+	favor?
 	"""
 	keyWait
 	end
@@ -97916,8 +97843,8 @@ script 24 mmbn3 {
 		mugshot = Tora
 	msgOpen
 	"""
-	Wanna take me on?
-	I'm always ready.
+	Quer lutar?
+	Tô sempre a fim!
 	"""
 	keyWait
 	clearMsg
@@ -97928,7 +97855,7 @@ script 31 mmbn3 {
 	mugshotShow
 		mugshot = NetbattlerQ
 	msgOpen
-	"…………"
+	"............"
 	keyWait
 	end
 }
@@ -97936,12 +97863,12 @@ script 33 mmbn3 {
 	mugshotShow
 		mugshot = SciLabMan
 	msgOpen
-	"I'm getting nervous…"
+	"Estou ficando nervoso..."
 	keyWait
 	clearMsg
 	"""
-	Huh-haa,huh-haa.
-	Deep breaths…
+	Uuuf-aaa... uuuf-aaa...
+	Respire fundo...
 	"""
 	keyWait
 	end
@@ -97951,14 +97878,15 @@ script 34 mmbn3 {
 		mugshot = Man
 	msgOpen
 	"""
-	All of my effort has
-	paid off in full.
+	Todo o meu trabalho
+	árduo deu TODOS os
+	frutos.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I know I'll return
-	home as champion!
+	Eu SEI que vou voltar
+	pra casa um campeão!
 	"""
 	keyWait
 	end
@@ -97968,9 +97896,9 @@ script 35 mmbn3 {
 		mugshot = BlackMan
 	msgOpen
 	"""
-	Who's the guy in the
-	mask and cape…
-	What is he…?
+	Quem será esse mano
+	mascarado da capa..?
+	O QUE é ele...?
 	"""
 	keyWait
 	end
@@ -97980,15 +97908,15 @@ script 36 mmbn3 {
 		mugshot = PompadourMan
 	msgOpen
 	"""
-	For my country's
-	sake,I cannot lose.
+	Pelo meu país, eu não
+	posso perder.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I hope Electopia can
-	forgive me,because
-	I've got to win.
+	Ni-Hon que me perdoe,
+	porque eu PRECISO
+	vencer.
 	"""
 	keyWait
 	end
@@ -97998,8 +97926,9 @@ script 37 mmbn3 {
 		mugshot = BlackWoman
 	msgOpen
 	"""
-	It's so tense,with
-	all this rivalry.
+	As coisas estão tão
+	tensas. É tanta
+	rivalidade no ar.
 	"""
 	keyWait
 	end
@@ -98075,9 +98004,9 @@ script 38 mmbn3 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	We're almost ready.
-	Contestants should
-	remain in the lobby.
+	Estamos quase prontos.
+	Competidores, permane-
+	çam aqui, na recepção.
 	"""
 	keyWait
 	end
@@ -98087,8 +98016,8 @@ script 39 mmbn3 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	We're starting now.
-	Please go inside.
+	Está começando.
+	Por favor, entre.
 	"""
 	keyWait
 	end
@@ -98098,8 +98027,8 @@ script 50 mmbn3 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	Lan,we came to cheer
-	for you. Good luck!
+	Lan, viemos torcer por
+	vocês. Boa sorte!
 	"""
 	keyWait
 	end
@@ -98109,9 +98038,9 @@ script 51 mmbn3 {
 		mugshot = MsMari
 	msgOpen
 	"""
-	Hades Isle…
-	Kind of scary…
-	Fight hard,Lan!
+	Ilha do Inferno...
+	Que amedrontador...
+	Mostre a sua garra, Lan!
 	"""
 	keyWait
 	end
@@ -98121,8 +98050,9 @@ script 52 mmbn3 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	Don't worry! Nobody
-	can beat you,Lan!
+	Não se preocupa!
+	Ninguém pode com você,
+	Lan!
 	"""
 	keyWait
 	end
@@ -98132,9 +98062,9 @@ script 53 mmbn3 {
 		mugshot = Girl
 	msgOpen
 	"""
-	I hope Lan,Dex,and
-	Yai make it to the
-	top four…
+	Espero que você, o Dex
+	e a Yai fiquem entre os
+	quatro finalistas...
 	"""
 	keyWait
 	end
@@ -98144,9 +98074,9 @@ script 54 mmbn3 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	The boat is outside.
-	Please board and go
-	the battle venue.
+	O barco está lá fora.
+	Por favor, entrem nele
+	e sigam rumo à arena.
 	"""
 	keyWait
 	end
@@ -98159,13 +98089,13 @@ script 60 mmbn3 {
 	mugshotShow
 		mugshot = Mayl
 	msgOpen
-	"Well done!"
+	"Muito bem!"
 	keyWait
 	clearMsg
 	"""
-	It's a pity that Dex
-	and Yai were beaten,
-	but you did well.
+	Pena que o Dex e a Yai
+	perderam, mas você
+	arrasou lá.
 	"""
 	keyWait
 	end
@@ -98179,9 +98109,9 @@ script 61 mmbn3 {
 		mugshot = MsMari
 	msgOpen
 	"""
-	Well done,Lan!
-	Hey,are Dex and Yai
-	on a different boat?
+	Ótimo trabalho, Lan!
+	... Ei, o Dex e a Yai estão
+	em um outro barco?
 	"""
 	keyWait
 	end
@@ -98195,8 +98125,9 @@ script 62 mmbn3 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	Congratulations!
-	Strong as ever,Lan!
+	Parabéns!
+	Fortão como sempre,
+	Lan!
 	"""
 	keyWait
 	end
@@ -98210,8 +98141,8 @@ script 63 mmbn3 {
 		mugshot = Girl
 	msgOpen
 	"""
-	I can't believe you
-	actually made it…
+	Eu não acredito que
+	você venceu mesmo...
 	"""
 	keyWait
 	end
@@ -98225,14 +98156,14 @@ script 64 mmbn3 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	The semi-finals will
-	start very soon.
+	As semifinais começarão
+	muito em breve.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Please relax until
-	then.
+	Por favor, relaxe até
+	então.
 	"""
 	keyWait
 	end
@@ -98242,15 +98173,15 @@ script 70 mmbn3 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	Lan,good luck in the
-	semi-finals!
+	Lan, boa sorte nas
+	semifinais!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'll ask one of the
-	staff what happened
-	to Dex and Yai.
+	Eu vou perguntar pra
+	alguém da DNN o que
+	houve com o Dex e a Yai.
 	"""
 	keyWait
 	end
@@ -98260,15 +98191,15 @@ script 71 mmbn3 {
 		mugshot = MsMari
 	msgOpen
 	"""
-	I saw Dex and Yai
-	fall into a hole on
-	TV. Are they OK?
+	Eu vi o Dex e a Yai
+	caírem em um buraco pelo
+	telão. Eles estão bem?
 	"""
 	keyWait
 	clearMsg
 	"""
-	That was acting,
-	right?
+	Aquilo foi só atuação,
+	né?
 	"""
 	keyWait
 	end
@@ -98278,15 +98209,15 @@ script 72 mmbn3 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	I can't believe it!
-	Your game will be
-	shown everywhere!
+	Eu não acredito nisso!
+	A sua luta vai ser trans-
+	mitida por todo o mundo!
 	"""
 	keyWait
 	clearMsg
 	"""
-	You'll have to aim
-	to be the champion!
+	Você tem que sair dela
+	com o título!
 	"""
 	keyWait
 	end
@@ -98296,9 +98227,9 @@ script 73 mmbn3 {
 		mugshot = Girl
 	msgOpen
 	"""
-	It's hard for me
-	to say this,but…
-	Good luck,Lan.
+	É difícil pra mim dizer
+	isso, mas...
+	Boa sorte, Lan.
 	"""
 	keyWait
 	end
@@ -98308,12 +98239,12 @@ script 74 mmbn3 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	We will soon reveal
-	the battle pairings.
+	Estamos para revelar as
+	chaves das semifinais.
 	"""
 	keyWait
 	clearMsg
-	"To the stage,please!"
+	"Ao palco, por favor!"
 	keyWait
 	end
 }
@@ -98325,13 +98256,13 @@ script 75 mmbn3 {
 	mugshotShow
 		mugshot = ZooMan
 	msgOpen
-	"You must be Lan."
+	"Você deve ser Lan\nHikari."
 	keyWait
 	clearMsg
 	"""
-	A guy with a beard
-	asked me to give
-	this to you.
+	Um cara barbudo me
+	pediu para te dar isto
+	aqui.
 	"""
 	keyWait
 	clearMsg
@@ -98366,30 +98297,30 @@ script 76 mmbn3 {
 	clearMsg
 	mugshotShow
 		mugshot = ZooMan
-	"There's a message:"
+	"E uma mensagem:"
 	keyWait
 	clearMsg
 	"""
-	If you have a mod
-	something,load this
-	program and run it.
+	"Se tiver um não-sei-o-
+	quê-Mod, carregue este
+	programa e execute-o.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Then,press Select
-	after the error,and
-	enter this password…
+	Daí, aperte 'Select'
+	após o erro e digite
+	esta senha..."
 	"""
 	keyWait
 	clearMsg
-	"Let's see,it was…"
+	"Er... qual era mesmo...?"
 	keyWait
 	clearMsg
 	"""
-	After error "A3"…
-	I think the code was
-	"LO[ModTools1][ModTools3]ZXME"…
+	Após o erro "A3"...
+	Acho que o código era
+	"LO[ModTools1][ModTools3]ZXME"...
 	"""
 	keyWait
 	end
@@ -98404,38 +98335,39 @@ script 77 mmbn3 {
 		mugshot = ZooMan
 	msgOpen
 	"""
-	I'm a big fan,you
-	know. Good luck.
+	Eu sou um grande fã
+	seu, na verdade.
+	Boa sorte.
 	"""
 	keyWait
 	clearMsg
 	"""
-	What,you want the
-	message again?
+	Hã? Quer ouvir a
+	mensagem de novo?
 	"""
 	keyWait
 	clearMsg
 	"""
-	If you have a mod
-	something,load this
-	program and run it.
+	"Se tiver um não-sei-o-
+	quê-Mod, carregue este
+	programa e execute-o.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Then,press Select
-	after the error,and
-	enter this password…
+	Daí, aperte 'Select'
+	após o erro e digite
+	esta senha..."
 	"""
 	keyWait
 	clearMsg
-	"Let's see,it was…"
+	"A senha era... ah, sim..."
 	keyWait
 	clearMsg
 	"""
-	After error "A3"…
-	I think the code was
-	"LO[ModTools1][ModTools3]ZXME"…
+	Após o erro "A3"...
+	Acho que o código era
+	"LO[ModTools1][ModTools3]ZXME"...
 	"""
 	keyWait
 	end
@@ -98445,38 +98377,39 @@ script 78 mmbn3 {
 		mugshot = ZooMan
 	msgOpen
 	"""
-	This TV station is a
-	really cool place.
+	O prédio da DNN é um
+	lugarzinho bem legal.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Huh? You want that
-	old message again?
+	Hã? Você quer ouvir
+	aquela velha mensagem
+	de novo?
 	"""
 	keyWait
 	clearMsg
 	"""
-	If you have a mod
-	something,load this
-	program and run it.
+	"Se tiver um não-sei-o-
+	quê-Mod, carregue este
+	programa e execute-o.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Then,press Select
-	after the error,and
-	enter this password…
+	Daí, aperte 'Select'
+	após o erro e digite
+	esta senha..."
 	"""
 	keyWait
 	clearMsg
-	"Let's see,it was…"
+	"A senha era... ah, sim..."
 	keyWait
 	clearMsg
 	"""
-	After error "A3"…
-	I think the code was
-	"LO[ModTools1][ModTools3]ZXME"…
+	Após o erro "A3"...
+	Acho que o código era
+	"LO[ModTools1][ModTools3]ZXME"...
 	"""
 	keyWait
 	end
@@ -98489,13 +98422,13 @@ script 80 mmbn3 {
 	mugshotShow
 		mugshot = Man
 	msgOpen
-	"Hey! Aren't you Lan?"
+	"Ei! Você não é Lan\nHikari?"
 	keyWait
 	clearMsg
 	"""
-	Q and Chaud are deep
-	in battle right now
-	at the event venue!
+	O Q e o Chaud já estão
+	travando uma batalha
+	intensa na arena!
 	"""
 	keyWait
 	end
@@ -98509,9 +98442,9 @@ script 81 mmbn3 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	The semi-final
-	between Q and Chaud
-	is now underway!
+	A semifinal entre o
+	Q e o Chaud está em
+	andamento!
 	"""
 	keyWait
 	end
@@ -98525,9 +98458,9 @@ script 82 mmbn3 {
 		mugshot = PompadourMan
 	msgOpen
 	"""
-	Suppose I'll buy
-	some souvenirs and
-	go home…
+	Acho que vou só comprar
+	umas lembrancinhas e ir
+	pra casa...
 	"""
 	keyWait
 	end
@@ -98552,15 +98485,16 @@ script 84 mmbn3 {
 		mugshot = Man
 	msgOpen
 	"""
-	The place seems to
-	be going wild! But
-	tell me,who won?
+	O público parece estar
+	indo à loucura! Diz aí:
+	quem venceu?
 	"""
 	keyWait
 	clearMsg
 	"""
-	What,Q is Sunayama!?
-	Are you kidding?
+	Quê?
+	O Q era o Sunayama?!
+	Tá brincando comigo!
 	"""
 	keyWait
 	end
@@ -98570,9 +98504,9 @@ script 85 mmbn3 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	I-I-I contacted the
-	Officials,but it'll
-	take them some time…
+	E-e-eu contatei os
+	Oficiais, mas eles ainda
+	vão demorar um pouco...
 	"""
 	keyWait
 	end
@@ -98581,7 +98515,7 @@ script 86 mmbn3 {
 	mugshotShow
 		mugshot = PompadourMan
 	msgOpen
-	"I don't care."
+	"Grandes coisas."
 	keyWait
 	end
 }
@@ -98590,12 +98524,13 @@ script 87 mmbn3 {
 		mugshot = BlackWoman
 	msgOpen
 	"""
-	Wow,listen to the
-	wild cheering!
+	Caramba, escuta só
+	toda essa comoção nas
+	arquibancadas!
 	"""
 	keyWait
 	clearMsg
-	"I gotta go see it!"
+	"Eu preciso ir lá ver!"
 	keyWait
 	end
 }
@@ -98608,15 +98543,15 @@ script 90 mmbn3 {
 		mugshot = Tamako
 	msgOpen
 	"""
-	You destroyed me
-	just now,so you've
-	gotta be champion!!
+	Você me destruiu ainda
+	agora. Então, você PRE-
+	CISA sair como campeão!!
 	"""
 	keyWait
 	clearMsg
 	"""
-	How about a battle
-	just for practice!?
+	Que tal uma lutinha, só
+	pra treinar?!
 	"""
 	keyWait
 	clearMsg
@@ -98639,7 +98574,7 @@ script 91 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"   Sim "
 	option
 		left = 0
 		right = 0
@@ -98647,7 +98582,7 @@ script 91 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No\n"
+	"          Não\n"
 	select
 		default = 1
 		BSeparate = false
@@ -98689,9 +98624,8 @@ script 93 mmbn3 {
 		mugshot = Tamako
 	msgOpen
 	"""
-	You're refusing a
-	beautiful girl
-	like me?
+	Vai recusar o pedido de
+	uma moça linda como eu?
 	"""
 	keyWait
 	end
@@ -99013,22 +98947,23 @@ script 121 mmbn3 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	I'm glad Sunayama,
-	the director of N1,
-	was arrested.
+	Que bom que o
+	Sunayama, o diretor do
+	N1, foi preso.
 	"""
 	keyWait
 	clearMsg
 	"""
-	But I wonder if this
-	means they won't
-	hold N1 anymore?
+	Mas será que isso quer
+	dizer que eles não vão
+	mais fazer o N1?
 	"""
 	keyWait
 	clearMsg
 	"""
-	N1 was fun. I want
-	them to do it again.
+	O Grande Prêmio foi
+	divertido. Espero que
+	façam de novo, sim.
 	"""
 	keyWait
 	end
@@ -99038,16 +98973,15 @@ script 130 mmbn3 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	We are aware of a
-	suspicious Navi in
-	the vicinity of DNN.
+	Estamos cientes da pre-
+	sença de um Navi suspei-
+	to por volta da DNN.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Please avoid jacking
-	in if at all
-	possible.
+	Por favor, evite se
+	conectar, se possível.
 	"""
 	keyWait
 	end
@@ -99057,9 +98991,9 @@ script 131 mmbn3 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	Since N1,Navis have
-	become popular as
-	TV personalities!
+	Depois do N1, Navis têm
+	se tornado celebridades
+	populares na TV!
 	"""
 	keyWait
 	end
@@ -99069,16 +99003,16 @@ script 140 mmbn3 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	DNN warmly welcomes
-	all its visitors.
-	Please come inside!
+	A DNN recebe todo visi-
+	tante de braços aber-
+	tos. Entrem, por favor!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Hmmm. Earning
-	people's trust back
-	is difficult.
+	Hmmm. Reconquistar
+	a confiança do público
+	não vai ser fácil...
 	"""
 	keyWait
 	end
@@ -99088,15 +99022,15 @@ script 141 mmbn3 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	I like DNN because
-	it has all of my
-	favorite shows.
+	Eu gosto da DNN porque
+	os meus programas
+	favoritos passam nela.
 	"""
 	keyWait
 	clearMsg
 	"""
-	And I like to visit
-	the TV station,too.
+	E eu também gosto de
+	visitar o prédio deles.
 	"""
 	keyWait
 	end
@@ -99105,19 +99039,20 @@ script 150 mmbn3 {
 	mugshotShow
 		mugshot = SciLabWoman
 	msgOpen
-	"Welcome to DNN!"
+	"Bem-vindo à DNN!"
 	keyWait
 	clearMsg
 	"""
-	We are busy making
-	a documentary about
-	the recent incident,
+	Estamos ocupados produ-
+	zindo documentários so-
+	bre esse último incidente,
 	"""
 	keyWait
 	clearMsg
 	"""
-	but please feel free
-	to walk around.
+	mas, por favor, fique à
+	vontade para explorar
+	o prédio.
 	"""
 	keyWait
 	end
@@ -99150,16 +99085,16 @@ script 151 mmbn3 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	Seems a suspicious
-	nurse was found at
-	the Hospital.
+	Parece que encontraram
+	uma enfermeira suspeita
+	no Hospital.
 	"""
 	keyWait
 	clearMsg
 	"""
-	She's currently the
-	prime suspect in the
-	investigation.
+	No momento, ela é a
+	principal suspeita na
+	investigação.
 	"""
 	keyWait
 	end
@@ -99169,16 +99104,16 @@ script 155 mmbn3 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	There are reports of
-	a strange fire
-	raging in SciLab!
+	Há relatos de um
+	incêndio estranho
+	ocorrendo no SciLab!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Stay tuned! DNN will
-	bring new info as
-	we hear about it!
+	Fique antenado! A DNN
+	trará novas informações
+	à medida que chegarem!
 	"""
 	keyWait
 	end
@@ -99188,9 +99123,9 @@ script 156 mmbn3 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	Another incident?!
-	The WWW is crushing
-	us like ants!
+	Outro incidente?!
+	A WWW está nos trucidan-
+	do, como formigas!
 	"""
 	keyWait
 	end
@@ -99200,16 +99135,16 @@ script 160 mmbn3 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	SciLab is on fire,
-	and machines all
-	over are haywire!
+	O SciLab tá pegando
+	fogo, e vários aparelhos
+	estão dando pane!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Please,everyone,be
-	careful of network-
-	connected devices!
+	Por favor, pessoal,
+	tomem cuidado com
+	aparelhos ligados à Rede!
 	"""
 	keyWait
 	end
@@ -99219,22 +99154,22 @@ script 161 mmbn3 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	Things are getting
-	worse and worse out
-	there.
+	As coisas estão ficando
+	cada vez piores por aí.
 	"""
 	keyWait
 	clearMsg
 	"""
-	At least we're safe
-	in this building!
+	Mas, pelo menos,
+	estamos seguros NESTE
+	prédio!
 	"""
 	keyWait
 	clearMsg
 	"""
-	The DNN network's
-	security is strong
-	and reliable!
+	A segurança da DNN
+	é rigída e muitíssimo
+	confiável!
 	"""
 	keyWait
 	end
@@ -99244,16 +99179,15 @@ script 165 mmbn3 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	It looks like
-	the machines are
-	under control again.
+	Parece que as máquinas
+	voltaram ao normal.
 	"""
 	keyWait
 	clearMsg
 	"""
-	But everyone is
-	tense about the
-	current situation.
+	Mas estão todos bem
+	tensos com a situação
+	atual da cidade.
 	"""
 	keyWait
 	end
@@ -99263,15 +99197,15 @@ script 166 mmbn3 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	This crisis must be
-	taken seriously.
+	Essa crise precisa ser
+	levada a sério.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I mean,even SciLab's
-	security was brushed
-	aside by the WWW.
+	Digo, até a segurança
+	do SciLab foi feita de
+	gato e sapato pela WWW.
 	"""
 	keyWait
 	end
@@ -99281,15 +99215,15 @@ script 170 mmbn3 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	DNN will never give
-	in to criminals!
+	A DNN jamais irá se
+	curvar ante criminosos!
 	"""
 	keyWait
 	clearMsg
 	"""
-	We will not rest
-	until the WWW pays
-	for its crimes!
+	Não descansaremos até
+	a WWW pagar por seus
+	crimes!
 	"""
 	keyWait
 	end
@@ -99299,16 +99233,16 @@ script 171 mmbn3 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	I just saw that guy
-	Chaud. You know,the
-	one from N1.
+	Eu acabei de ver o
+	Chaud. Sabe, aquele, do
+	Grande Prêmio N1.
 	"""
 	keyWait
 	clearMsg
 	"""
-	An Official Net-
-	Battler at our age!
-	He sure is amazing.
+	Um NetLutador Oficial da
+	nossa idade! Ele é mesmo
+	incrível.
 	"""
 	keyWait
 	end
@@ -99318,15 +99252,15 @@ script 180 mmbn3 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	DNN will continue to
-	broadcast,no matter
-	what happens.
+	A DNN vai continuar a
+	transmitir sua programa-
+	ção, haja o que houver.
 	"""
 	keyWait
 	clearMsg
 	"""
-	People have a right
-	to know the truth!
+	As pessoas têm o direito
+	de saber a verdade!
 	"""
 	keyWait
 	end
@@ -99336,16 +99270,16 @@ script 181 mmbn3 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	Officials are making
-	a speech in the
-	studio right now.
+	Alguns Oficiais estão
+	fazendo um anúncio no
+	estúdio agora.
 	"""
 	keyWait
 	clearMsg
 	"""
-	But everyone's too
-	worked up,and they
-	aren't listening.
+	Mas está todo mundo
+	alvoroçado, e ninguém
+	está dando ouvidos.
 	"""
 	keyWait
 	end
@@ -99355,15 +99289,15 @@ script 185 mmbn3 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	The WWW declaration
-	of war has been
-	broadcast worldwide.
+	A declaração de guerra
+	da WWW foi transmitida
+	mundialmente.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Will this ever be
-	over?
+	Será que isso vai
+	acabar um dia?
 	"""
 	keyWait
 	end
@@ -99373,20 +99307,21 @@ script 186 mmbn3 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	Those WWW monsters!
-	They have no mercy!
+	Aqueles monstros da
+	WWW!
+	Eles não têm coração!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Is there anybody who
-	can stop them?
+	Não há ninguém capaz
+	de detê-los?
 	"""
 	keyWait
 	clearMsg
 	"""
-	There's nothing I
-	can do…
+	Bom, não tem nada que
+	EU possa fazer...
 	"""
 	keyWait
 	end
@@ -99396,14 +99331,15 @@ script 187 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Life is so stressful
-	these days…
+	A vida anda tão
+	estressante estes
+	dias...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Just in case,would
-	you like to have a
+	Só pra garantir, gostaria
+	de ficar com esta
 	"
 	"""
 	printFolderName
@@ -99413,16 +99349,16 @@ script 187 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Famous told me to
-	give these away if
-	anything happened…
+	O Famoso me disse pra
+	distribuir isto, se alguma
+	coisa acontecesse...
 	"""
 	keyWait
 	clearMsg
 	"""
-	I can give it to you
-	if you can overwrite
-	your Extra Folder.
+	Se quiser, eu sobrescre-
+	vo a sua Pasta Extra
+	para você.
 	"""
 	keyWait
 	clearMsg
@@ -99434,7 +99370,7 @@ script 187 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"OK "
+	"   OK "
 	option
 		left = 0
 		right = 0
@@ -99442,7 +99378,7 @@ script 187 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"No thanks"
+	"          Não, valeu"
 	select
 		default = 0
 		BSeparate = false
@@ -99453,21 +99389,22 @@ script 187 mmbn3 {
 			jump = continue,
 			jump = continue
 		]
+	clearMsg
 	mugshotShow
 		mugshot = Scientist
-	"I see…"
+	"Entendo..."
 	keyWait
 	clearMsg
 	"""
-	If you ever want the
+	Se, um dia, quiser a
 	"
 	"""
 	printFolderName
 		buffer = 0
 		entry = 8
 	"""
-	",just
-	come and see me.
+	", é só vir
+	falar comigo.
 	"""
 	keyWait
 	end
@@ -99478,16 +99415,16 @@ script 188 mmbn3 {
 	mugshotShow
 		mugshot = Scientist
 	msgOpen
-	"I'll send it now."
+	"OK, eu a enviarei agora."
 	keyWait
 	clearMsg
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
 	keyWait
@@ -99495,8 +99432,8 @@ script 188 mmbn3 {
 	soundPlay
 		track = 220
 	"""
-	It's fully uploaded.
-	You now own a
+	Foi completamente trans-
+	ferida. Você tem uma
 	"
 	"""
 	printFolderName
@@ -99521,51 +99458,51 @@ script 190 mmbn3 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Thanks for coming!
-	I requested your
-	help on the BBS.
+	Obrigado por vir!
+	Fui eu quem fez aquele
+	pedido no Quadro.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Navis are spreading
-	viruses all around
-	this TV station.
+	Há Navis espalhando
+	vírus por toda esta
+	emissora de TV.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I think the Navis
-	were uploaded from
-	a jack in point.
+	Acho que eles foram
+	enviados de algum ponto
+	de conexão.
 	"""
 	keyWait
 	clearMsg
 	"""
-	There are 3 of them.
-	I want you to teach
-	them all a lesson.
+	Tem três deles.
+	Quero que você dê uma
+	lição neles todos.
 	"""
 	keyWait
 	clearMsg
 	"""
-	It's embarrassing,
-	but I was sent from
-	SciLab to stop them.
+	É embaraçoso admitir,
+	mas fui mandado pelo
+	SciLab para detê-los.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I am outnumbered and
-	not much use,though.
-	I hope you can help.
+	Mas eu sou meio inútil e
+	estou em menor número.
+	Espero que você ajude.
 	"""
 	keyWait
 	clearMsg
 	"""
-	If you deal with all
-	three,I'll give you
-	a reward.
+	Se surrar com os três,
+	darei a você uma
+	recompensa.
 	"""
 	keyWait
 	end
@@ -99575,12 +99512,12 @@ script 191 mmbn3 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Navis are spreading
-	viruses around here.
+	Navis estão espalhando
+	vírus por aqui.
 	"""
 	keyWait
 	clearMsg
-	"Be very careful."
+	"Tome muito cuidado."
 	keyWait
 	end
 }
@@ -99593,25 +99530,25 @@ script 192 mmbn3 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Thank you so much!
-	Well done! You saved
-	my neck at SciLab!
+	Muito obrigado! Ótimo
+	trabalho! Você salvou o
+	meu emprego no SciLab!
 	"""
 	keyWait
 	clearMsg
-	"It's not much,but…"
+	"Não é muita coisa, mas..."
 	keyWait
 	clearMsg
 	"""
-	OK,I understand.
-	I'll transfer it.
+	OK, entendido.
+	Eu transfiro.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Also,one of the
-	Navis dropped this.
-	You can have it.
+	Ah, e um dos Navis
+	deixou isto aqui cair.
+	Pode ficar.
 	"""
 	keyWait
 	clearMsg
@@ -99646,13 +99583,13 @@ script 194 mmbn3 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Please don't tell
-	anyone that I hired
-	you for this job.
+	Por favor, não conte a
+	ninguém que eu te
+	contratei para isso.
 	"""
 	keyWait
 	clearMsg
-	"I'd get in trouble…"
+	"Pegaria mal pra mim..."
 	keyWait
 	end
 }
@@ -99681,7 +99618,7 @@ script 210 mmbn3 {
 		jumpIfTrue = 212
 		jumpIfFalse = continue
 	msgOpen
-	"Please wait"
+	"Por favor, aguarde."
 	keyWait
 	end
 }
@@ -99690,9 +99627,9 @@ script 211 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Ribitta looked
-	worried. Why don't
-	you talk to her?
+	A Ribitta parecia
+	preocupada. Por que
+	não vai falar com ela?
 	"""
 	keyWait
 	end
@@ -99702,40 +99639,39 @@ script 212 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	What's up,Lan?
-	Come on,let's go.
+	Que foi, Lan?
+	Vamos logo.
 	"""
 	keyWait
 	end
 }
 script 220 mmbn3 {
 	msgOpen
-	"It's a script…"
+	"É um roteiro..."
 	keyWait
 	clearMsg
 	"""
-	For Episode 8
-	of the series "Love
-	& Loss on the Net"…
-	"""
-	keyWait
-	clearMsg
-	"""
-	The hero falls in
-	love with a female
-	friend's Navi…
+	Do episódio 8 da novela
+	"Rede Nostra"...
 	"""
 	keyWait
 	clearMsg
 	"""
-	But his friend is
-	in love with him.
+	O mocinho se apaixona
+	pelo Navi de uma amiga...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Can there be hope
-	for either love?
+	Mas a amiga está
+	apaixonada por ele.
+	"""
+	keyWait
+	clearMsg
+	"""
+	Será que há esperança
+	para uma dessas
+	histórias de amor?
 	"""
 	keyWait
 	end
@@ -99743,14 +99679,15 @@ script 220 mmbn3 {
 script 221 mmbn3 {
 	msgOpen
 	"""
-	A really heavy
-	mobile kiosk
+	Uma lojinha móvel bem
+	pesada.
 	"""
 	keyWait
 	clearMsg
 	"""
-	You could break your
-	back moving it
+	Você acabaria dando
+	um jeito na coluna se
+	tentasse empurrá-la.
 	"""
 	keyWait
 	end
@@ -99758,15 +99695,15 @@ script 221 mmbn3 {
 script 222 mmbn3 {
 	msgOpen
 	"""
-	A panel used to
-	control the doors
+	Um painel utilizado para
+	controlar as portas.
 	"""
 	keyWait
 	clearMsg
 	"""
-	There is no port for
-	jacking in. It is
-	operated manually
+	Não tem entrada de
+	conexão. É operado
+	manualmente.
 	"""
 	keyWait
 	end
@@ -99774,9 +99711,9 @@ script 222 mmbn3 {
 script 223 mmbn3 {
 	msgOpen
 	"""
-	A giant flat monitor
-	It feels like you're
-	really in the studio
+	Um enorme monitor tela
+	plana. Realmente faz vo-
+	cê se sentir num estúdio.
 	"""
 	keyWait
 	end
@@ -99784,9 +99721,9 @@ script 223 mmbn3 {
 script 224 mmbn3 {
 	msgOpen
 	"""
-	The glass is colored
-	to soften the glare
-	of the ocean
+	O vidro é pintado, para
+	suavizar o brilho do
+	oceano.
 	"""
 	keyWait
 	end
@@ -99794,15 +99731,15 @@ script 224 mmbn3 {
 script 225 mmbn3 {
 	msgOpen
 	"""
-	Wow! The new,slimmer
-	models of Denta
-	and Denko!
+	Uau! Os modelos mais
+	novos e finos de
+	Denta e Denko!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Now they don't take
-	up so much space!
+	Agora, eles não ocupam
+	muito espaço!
 	"""
 	keyWait
 	end
@@ -99810,9 +99747,9 @@ script 225 mmbn3 {
 script 226 mmbn3 {
 	msgOpen
 	"""
-	A large pile of
-	pamphlets for all
-	to take
+	Uma enorme pilha de
+	panfletos para o público
+	levar.
 	"""
 	keyWait
 	end
@@ -99824,7 +99761,7 @@ script 0 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Lan. You got mail!!"
+	"Lan. Chegou e-mail!!"
 	keyWait
 	end
 }
@@ -99839,9 +99776,9 @@ script 10 mmbn3 {
 		mugshot = BlackMan
 	msgOpen
 	"""
-	Hey! Samurai boy!
-	You in N1,too?
-	Let's get it on!
+	Ei! "Samurai boy"!
+	Você também tá no N1?
+	Vamos "fight"!
 	"""
 	keyWait
 	end
@@ -99851,13 +99788,13 @@ script 11 mmbn3 {
 		mugshot = Man
 	msgOpen
 	"""
-	Wow…
-	I can hear the
-	cheers from here…
+	Nossa...
+	Dá pra ouvir o público
+	vibrando daqui...
 	"""
 	keyWait
 	clearMsg
-	"I'm getting nervous…"
+	"Tô ficando nervoso..."
 	keyWait
 	end
 }
@@ -99865,7 +99802,7 @@ script 20 mmbn3 {
 	mugshotShow
 		mugshot = NetbattlerQ
 	msgOpen
-	"……"
+	"......"
 	keyWait
 	end
 }
@@ -99874,8 +99811,8 @@ script 25 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's go and see
-	Mayl and the others!
+	Vamos lá até a Mayl
+	e a turma!
 	"""
 	keyWait
 	end
@@ -99904,14 +99841,15 @@ script 40 mmbn3 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	I thought work would
-	calm down after N1.
+	Eu pensei que o trabalho
+	daria uma acalmada
+	depois do N1.
 	"""
 	keyWait
 	clearMsg
 	"""
-	No such luck!
-	Typical…
+	E adivinha só? Não!
+	Claro que não...
 	"""
 	keyWait
 	end
@@ -99925,20 +99863,20 @@ script 50 mmbn3 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Now I know why we're
-	still so busy!
-	Its the WWW!
+	Agora, eu sei por que
+	continuamos tão
+	ocupados! É a WWW!
 	"""
 	keyWait
 	clearMsg
 	"""
-	With all the trouble
-	they're causing,we
-	can't take a rest!
+	Com todos os problemas
+	que eles andam causan-
+	do, não podemos relaxar!
 	"""
 	keyWait
 	clearMsg
-	"Sneaky,nasty,evil…"
+	"Essa corja vil,\nasquerosa, maligna..."
 	keyWait
 	end
 }
@@ -99947,15 +99885,15 @@ script 51 mmbn3 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	We're trying to send
-	emergency news
-	beyond ACDC Town!
+	Estamos tentando enviar
+	avisos de emergência
+	para além de ACDC!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Whew. We just get
-	busier and busier!
+	Uff... A vida aqui só fica
+	mais ocupada!
 	"""
 	keyWait
 	end
@@ -99965,16 +99903,16 @@ script 55 mmbn3 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Are you a visitor?
-	You're safe as long
-	as you're in here.
+	Você é um visitante?
+	Ficará seguro enquanto
+	estiver aqui.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Just stay here till
-	the Officials can
-	solve the problem.
+	É melhor não sair até os
+	Oficiais resolverem o
+	problema.
 	"""
 	keyWait
 	end
@@ -99984,16 +99922,16 @@ script 60 mmbn3 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	The TV station has
-	good security,so it
-	avoided heat damage.
+	O prédio tem ótima segu-
+	rança, por isso, evitamos
+	danos do calor.
 	"""
 	keyWait
 	clearMsg
 	"""
-	But I hear other
-	areas are in pretty
-	bad shape…
+	Mas, pelo que ouço,
+	outras áreas ficaram
+	bem avariadas...
 	"""
 	keyWait
 	end
@@ -100003,16 +99941,16 @@ script 70 mmbn3 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Sunayama,the old DNN
-	director,escaped
-	during the crisis.
+	Sunayama, o ex-diretor
+	da DNN, fugiu durante a
+	crise.
 	"""
 	keyWait
 	clearMsg
 	"""
-	But nobody's paying
-	much attention to
-	that right now.
+	Mas ninguém está dando
+	muita atenção para isso,
+	agora.
 	"""
 	keyWait
 	end
@@ -100033,15 +99971,15 @@ script 190 mmbn3 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	You?! So you came to
-	deliver the chip!
+	Você?! Então, você veio
+	entregar o chip!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Give it to me!
-	We're already five
-	minutes behind!
+	Dê aqui, pra mim!
+	Já estamos cinco
+	minutos atrasados!
 	"""
 	keyWait
 	clearMsg
@@ -100079,9 +100017,9 @@ script 192 mmbn3 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	I'm so busy! I need
-	a Navi to take
-	this chip to ACDC!
+	Estou tão ocupado! Pre-
+	ciso de um Navi pra levar
+	este chip pra ACDC!
 	"""
 	keyWait
 	end
@@ -100091,9 +100029,9 @@ script 193 mmbn3 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	Time is against us!
-	Remember,opportunity
-	only lasts a moment!
+	O tempo está contra nós!
+	Lembre-se: oportunida-
+	des são momentâneas!
 	"""
 	keyWait
 	end
@@ -100103,27 +100041,27 @@ script 194 mmbn3 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	That's too bad!
-	Where's the chip!?
+	Que pena!
+	Cadê o chip?!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Business won't wait!
-	Quick,go get it!
+	Os negócios não esperam!
+	Vai lá buscar, rápido!
 	"""
 	keyWait
 	end
 }
 script 220 mmbn3 {
 	msgOpen
-	"A program poster"
+	"É o pôster de um\nprograma."
 	keyWait
 	clearMsg
 	"""
-	They must have made
-	a lot of them.
-	They're everywhere
+	Devem ter feito muitos
+	deles.
+	Estão por toda parte.
 	"""
 	keyWait
 	end
@@ -100131,21 +100069,21 @@ script 220 mmbn3 {
 script 221 mmbn3 {
 	msgOpen
 	"""
-	"This way to the
-	studio",it says
+	Está escrito:
+	"Estúdio, por aqui".
 	"""
 	keyWait
 	end
 }
 script 222 mmbn3 {
 	msgOpen
-	"Large stage props"
+	"Enormes adereços de\npalco."
 	keyWait
 	clearMsg
 	"""
-	Looks like they're
-	used in the popular
-	"Afternoon Show"…
+	Parece que são usados
+	no popular programa
+	"Navi Você"...
 	"""
 	keyWait
 	clearMsg
@@ -100155,8 +100093,8 @@ script 222 mmbn3 {
 		jumpIfFalse = continue
 	clearMsg
 	"""
-	There's something
-	shiny between them…
+	Você vê uma coisa
+	brilhando no meio deles...
 	"""
 	keyWait
 	clearMsg
@@ -100189,15 +100127,16 @@ script 222 mmbn3 {
 script 223 mmbn3 {
 	msgOpen
 	"""
-	A poster of Ribitta,
-	a popular presenter
+	Um pôster da Ribitta,
+	uma apresentadora
+	muito popular.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Her fans even take
-	the posters off the
-	walls for themselves
+	Os fãs mais radicais dela
+	até arrancam estes pôs-
+	teres e levam pra casa.
 	"""
 	keyWait
 	end
@@ -100205,19 +100144,19 @@ script 223 mmbn3 {
 script 224 mmbn3 {
 	msgOpen
 	"""
-	The TV station's
-	vending machine has
-	special drinks…
+	A máquina de bebidas
+	da emissora possui
+	bebidas especiais...
 	"""
 	keyWait
 	clearMsg
-	"\"NetRangers Juice\"!!"
+	"\"Suco NetRangers\"!!"
 	keyWait
 	clearMsg
 	"""
-	Its just OJ,but it
-	has DNN characters
-	printed on the can
+	É suco de laranja normal,
+	mas com personagens da
+	DNN na lata.
 	"""
 	keyWait
 	end
@@ -100225,15 +100164,15 @@ script 224 mmbn3 {
 script 225 mmbn3 {
 	msgOpen
 	"""
-	It's a schedule of
-	studio events
+	É um cronograma dos
+	trabalhos do estúdio.
 	"""
 	keyWait
 	clearMsg
 	"""
-	It's organized
-	minute by minute.
-	They must be busy
+	Lista os planos minuto
+	por minuto. Acho que
+	eles andam ocupados.
 	"""
 	keyWait
 	end
@@ -100241,8 +100180,8 @@ script 225 mmbn3 {
 script 226 mmbn3 {
 	msgOpen
 	"""
-	The studio entrance
-	for the audience
+	A entrada de público
+	do estúdio.
 	"""
 	keyWait
 	end
@@ -100250,9 +100189,9 @@ script 226 mmbn3 {
 script 227 mmbn3 {
 	msgOpen
 	"""
-	"Entrance for TV
-	station personnel
-	only",it says
+	Está escrito:
+	"Entrada exclusiva para
+	funcionários da DNN".
 	"""
 	keyWait
 	end
@@ -100265,8 +100204,8 @@ script 228 mmbn3 {
 		jumpIfOutOfRange = continue
 	msgOpen
 	"""
-	An elevator switch.
-	Want to press it?
+	É um botão de elevador.
+	Quer apertá-lo?
 	
 	"""
 	option
@@ -100276,7 +100215,7 @@ script 228 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"   Sim "
 	option
 		left = 0
 		right = 0
@@ -100284,7 +100223,7 @@ script 228 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No"
+	"          Não"
 	select
 		default = 0
 		BSeparate = false
@@ -100309,8 +100248,8 @@ script 229 mmbn3 {
 		jumpIfFalse = 233
 	msgOpen
 	"""
-	The doors opened!
-	Want to go up?
+	O elevador se abriu!
+	Subir?
 	
 	"""
 	option
@@ -100320,7 +100259,7 @@ script 229 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"   Sim "
 	option
 		left = 0
 		right = 0
@@ -100328,7 +100267,7 @@ script 229 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No"
+	"          Não"
 	select
 		default = 0
 		BSeparate = false
@@ -100347,8 +100286,9 @@ script 229 mmbn3 {
 script 230 mmbn3 {
 	msgOpen
 	"""
-	A securely locked
-	storeroom door
+	A porta para uma
+	despensa. Está
+	fortemente trancada.
 	"""
 	keyWait
 	end
@@ -100356,9 +100296,9 @@ script 230 mmbn3 {
 script 231 mmbn3 {
 	msgOpen
 	"""
-	Looks like this
-	elevator goes up to
-	the editing room
+	Parece que esse
+	elevador dá acesso à
+	sala de edição.
 	"""
 	keyWait
 	end
@@ -100368,15 +100308,15 @@ script 232 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Mayl's waiting. We
-	should hurry
+	A Mayl tá esperando.
+	É melhor a gente correr.
 	"""
 	keyWait
 	end
 }
 script 233 mmbn3 {
 	msgOpen
-	"It isn't working now"
+	"Não está funcionando\nagora."
 	keyWait
 	end
 }
@@ -100390,7 +100330,7 @@ script 20 mmbn3 {
 	mugshotShow
 		mugshot = BusinessMan
 	msgOpen
-	"Thank you,thank you."
+	"Obrigado, obrigado."
 	keyWait
 	clearMsg
 	jump
@@ -100401,60 +100341,64 @@ script 21 mmbn3 {
 		mugshot = ZooMan
 	msgOpen
 	"""
-	No,no. The answer
-	can't be "gangster".
+	Não, claro que aquele
+	filme é triste.
 	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = BusinessMan
-	"Huh? Why not?"
+	"Ah, eu até que acho\nele bom!"
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = ZooMan
 	"""
-	You know,gangsters
-	are good.
+	Não nesse sentido!
+	Eu quis dizer que ele
+	é deprimente.
 	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = BusinessMan
 	"""
-	Ha,ha.
-	Listen to you!
+	Ha, ha.
+	Você só pode estar
+	louco, né?
 	"""
 	keyWait
 	clearMsg
 	"""
-	How can you say that
-	gangsters are good?
+	Aquele filme é uma
+	comédia, e é bom! Não
+	pode ser deprimente!
 	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = ZooMan
 	"""
-	Come on,you know!
-	They're 
+	Você que é louco!
+	Olha só o TÍTULO dele.
+	O filme se chama 
 	"""
 	mugshotAnimate
 		animation = 0
 	waitSkip
 		frames = 20
-	"・"
+	"."
 	waitSkip
 		frames = 20
-	"・"
+	"."
 	waitSkip
 		frames = 20
-	"・"
+	"."
 	keyWait
 	clearMsg
 	mugshotAnimate
 		animation = 1
-	"\"Goodfellas\"."
+	"\"De Repente 30\"!"
 	keyWait
 	end
 }
@@ -100463,8 +100407,8 @@ script 30 mmbn3 {
 		mugshot = Woman
 	msgOpen
 	"""
-	Ooooh…
-	Which one,which one…
+	Aaaai...
+	Qual deles, qual deles...
 	"""
 	keyWait
 	end
@@ -100474,15 +100418,16 @@ script 31 mmbn3 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	C'mon everyone! It's
-	"Panel Match Game!"
+	Meu amigo, minha amiga!
+	Hora do nosso jogo favo-
+	rito... "Quadros Casados"!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Will today's lucky
-	contestant win a
-	week in Ameropa!?
+	Será que o competidor
+	de hoje ganhará uma
+	viagem para a Ameropa?!
 	"""
 	keyWait
 	end
@@ -100494,18 +100439,18 @@ script 40 mmbn3 {
 		palette = 1
 	msgOpen
 	"""
-	Burn forth,my chip
-	of fire!
+	Fulmine forte,
+	meu chip de fogo!
 	"""
 	keyWait
 	clearMsg
 	"""
-	The furious flame!
+	Chamas furiosas!
 	Net----
 	"""
 	waitSkip
 		frames = 10
-	" Red!"
+	" Vermelho!"
 	keyWait
 	end
 }
@@ -100514,12 +100459,12 @@ script 41 mmbn3 {
 		mugshot = NormalNaviGreen
 	msgOpen
 	"""
-	Chip of earth,
-	unleash thy thunder!
+	Chip da terra,
+	lançai teu trovão!
 	"""
 	keyWait
 	clearMsg
-	"Net Greeeeeen!"
+	"Net Veeeerde!"
 	keyWait
 	end
 }
@@ -100528,15 +100473,15 @@ script 42 mmbn3 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	M-M-My…AGH!!
-	Uh! Bit my tongue.
+	M-m-minha... AGH!!
+	Ugh! Mordi a língua.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Uhhhh…
-	Whatever!
-	Net Blue!
+	Err....
+	Tanto faz!
+	Net Azul!
 	"""
 	keyWait
 	end
@@ -100546,21 +100491,21 @@ script 43 mmbn3 {
 		mugshot = GirlNaviOrange
 	msgOpen
 	"""
-	My lightning chip
-	will 
+	Meu chip relâmpago
+	vai 
 	"""
 	waitSkip
 		frames = 20
-	"leave "
+	"te "
 	waitSkip
 		frames = 20
-	"you"
+	"deixar"
 	waitSkip
 		frames = 20
-	"\ntingling!"
+	"\nlatejando!"
 	keyWait
 	clearMsg
-	"Net Yellow!"
+	"Net Amarela!"
 	keyWait
 	end
 }
@@ -100568,10 +100513,10 @@ script 44 mmbn3 {
 	mugshotShow
 		mugshot = HeelNavi
 	msgOpen
-	"Hmmmph…"
+	"Hmmmpf..."
 	keyWait
 	clearMsg
-	"Net Black…"
+	"Net Preto..."
 	keyWait
 	end
 }
@@ -100580,15 +100525,15 @@ script 50 mmbn3 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Well…About the
-	Officials' position…
+	Bom... Quanto à posição
+	dos Oficiais...
 	"""
 	keyWait
 	clearMsg
 	"""
-	We're investigating
-	the source of the
-	problems,the WWW…
+	Estamos investigando a
+	fonte dos problemas, a
+	WWW...
 	"""
 	keyWait
 	end
@@ -100608,26 +100553,26 @@ script 190 mmbn3 {
 		mugshot = PompadourMan
 	msgOpen
 	"""
-	I came from far,far
-	away to buy rare
-	Electopian chips.
+	Eu vim de beeeem longe,
+	só pra comprar chips
+	Ni-Honenses.
 	"""
 	keyWait
 	clearMsg
 	"""
-	But I haven't found
-	the chips I was
-	searching for.
+	Mas ainda não achei
+	os chips que procurava.
 	"""
 	keyWait
 	clearMsg
 	"""
-	So,my friend! Let's
-	have a little chat!
+	Então, amiguinho!
+	Vamos "talk" um
+	pouquinho!
 	"""
 	keyWait
 	clearMsg
-	"Got the \""
+	"Tem um \""
 	printChip
 		buffer = 0
 		chip = 165
@@ -100637,7 +100582,7 @@ script 190 mmbn3 {
 		code = J
 	"""
 	"?
-	Wanna trade for my
+	Trocaria pelo meu
 	"
 	"""
 	printChip
@@ -100658,7 +100603,7 @@ script 190 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Sure,sure!\n"
+	"   Claro!\n"
 	option
 		left = 1
 		right = 1
@@ -100666,7 +100611,7 @@ script 190 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"No way!"
+	"   Nunca!"
 	select
 		default = 0
 		BSeparate = false
@@ -100696,8 +100641,8 @@ script 191 mmbn3 {
 		mugshot = PompadourMan
 	msgOpen
 	"""
-	Good going,kid!
-	You know it!
+	Boa, garoto!
+	Você manja das coisas!
 	"""
 	keyWait
 	clearMsg
@@ -100739,8 +100684,9 @@ script 193 mmbn3 {
 		mugshot = PompadourMan
 	msgOpen
 	"""
-	Now I can return
-	home a happy man!
+	Agora, posso voltar pra
+	casa com um sorriso no
+	rosto!
 	"""
 	keyWait
 	end
@@ -100749,13 +100695,13 @@ script 194 mmbn3 {
 	mugshotShow
 		mugshot = PompadourMan
 	msgOpen
-	"That's a shame."
+	"Pena."
 	keyWait
 	clearMsg
 	"""
-	I'll be here for a
-	little while,in case
-	you change you mind.
+	Ficarei aqui por mais um
+	tempo, para caso mude
+	de ideia.
 	"""
 	keyWait
 	end
@@ -100765,21 +100711,21 @@ script 195 mmbn3 {
 		mugshot = PompadourMan
 	msgOpen
 	"""
-	Hmmmm…
-	Can't see your chip.
+	Hmmmm...
+	Não estou vendo o chip.
 	"""
 	keyWait
 	clearMsg
 	"""
-	It is inside your
-	folder,maybe?
+	Será que está dentro
+	de uma pasta sua?
 	"""
 	keyWait
 	clearMsg
 	"""
-	If so,we can't
-	trade. You have to
-	put it in your pack.
+	Se estiver, não podemos
+	trocar. Tem que colocá-lo
+	na sua mochila.
 	"""
 	keyWait
 	end
@@ -100789,9 +100735,9 @@ script 196 mmbn3 {
 		mugshot = PompadourMan
 	msgOpen
 	"""
-	Thank you from the
-	bottom of my heart
-	for trading with me!
+	Muito obrigado, do fundo
+	do coração, por trocar
+	comigo!
 	"""
 	keyWait
 	end
@@ -100801,12 +100747,11 @@ script 197 mmbn3 {
 		mugshot = PompadourMan
 	msgOpen
 	"""
-	I knew you'd be
-	coming back!
+	Sabia que você voltaria!
 	"""
 	keyWait
 	clearMsg
-	"So,my \""
+	"E aí, o meu \""
 	printChip
 		buffer = 0
 		chip = 192
@@ -100816,7 +100761,7 @@ script 197 mmbn3 {
 		code = Y
 	"""
 	"
-	for your "
+	pelo seu "
 	"""
 	printChip
 		buffer = 0
@@ -100827,7 +100772,7 @@ script 197 mmbn3 {
 		code = J
 	"""
 	".
-	Whaddya say?
+	Que tal?
 	"""
 	keyWait
 	clearMsg
@@ -100839,7 +100784,7 @@ script 197 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Sure,sure!\n"
+	"   Claro!\n"
 	option
 		left = 1
 		right = 1
@@ -100847,7 +100792,7 @@ script 197 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"No way!"
+	"   Nunca!"
 	select
 		default = 0
 		BSeparate = false
@@ -100862,15 +100807,16 @@ script 197 mmbn3 {
 script 220 mmbn3 {
 	msgOpen
 	"""
-	DNN's special 2-man
-	NetBattle Computer
+	O Computador especial
+	da DNN para NetLutas
+	entre duas pessoas.
 	"""
 	keyWait
 	clearMsg
 	"""
-	But when it comes to
-	victory…There can be
-	only one!
+	Mas quando se fala do
+	vencedor...
+	Só pode haver um!
 	"""
 	keyWait
 	end
@@ -100878,15 +100824,15 @@ script 220 mmbn3 {
 script 221 mmbn3 {
 	msgOpen
 	"""
-	A huge,multi-purpose
-	monitor
+	Um enorme monitor
+	multiuso.
 	"""
 	keyWait
 	clearMsg
 	"""
-	It plays a big part
-	in making TV shows
-	more exciting
+	É importantíssimo para
+	deixar programas de TV
+	mais interessantes.
 	"""
 	keyWait
 	end
@@ -100894,15 +100840,15 @@ script 221 mmbn3 {
 script 222 mmbn3 {
 	msgOpen
 	"""
-	This editing room
-	window looks down on
-	the stage
+	Esta janela da sala de
+	edição encara o palco
+	de cima.
 	"""
 	keyWait
 	clearMsg
 	"""
-	A number of people
-	can be seen inside
+	Pode-se ver várias
+	pessoas lá dentro.
 	"""
 	keyWait
 	end
@@ -100910,14 +100856,14 @@ script 222 mmbn3 {
 script 223 mmbn3 {
 	msgOpen
 	"""
-	A stage set done in
-	a popular design
+	Um set de palco de
+	design popular.
 	"""
 	keyWait
 	clearMsg
 	"""
-	It was tastefully
-	crafted by artists
+	Ele foi meticulsamente
+	desenhado por artistas.
 	"""
 	keyWait
 	end
@@ -100925,14 +100871,14 @@ script 223 mmbn3 {
 script 224 mmbn3 {
 	msgOpen
 	"""
-	High-volume monitor
-	speakers
+	Auto-falantes de
+	alta intensidade.
 	"""
 	keyWait
 	clearMsg
 	"""
-	They're so loud,they
-	make the air shake…
+	São tão altos, que
+	fazem o ar tremer...
 	"""
 	keyWait
 	end
@@ -100959,7 +100905,7 @@ script 225 mmbn3 {
 		jumpIfInRange = 230
 		jumpIfOutOfRange = continue
 	msgOpen
-	"Yeah! Come on!"
+	"É! Vamos lá!"
 	keyWait
 	end
 }
@@ -100985,7 +100931,7 @@ script 226 mmbn3 {
 		jumpIfInRange = 231
 		jumpIfOutOfRange = continue
 	msgOpen
-	"Here! Over here!"
+	"Aqui! Aqui, ó!"
 	keyWait
 	end
 }
@@ -101011,7 +100957,7 @@ script 227 mmbn3 {
 		jumpIfInRange = 232
 		jumpIfOutOfRange = continue
 	msgOpen
-	"We love yooooou!"
+	"Eu te aaaamoooooo!"
 	keyWait
 	end
 }
@@ -101037,7 +100983,7 @@ script 228 mmbn3 {
 		jumpIfInRange = 233
 		jumpIfOutOfRange = continue
 	msgOpen
-	"Go! Go! Go!"
+	"Vai! Vaaaaaai!"
 	keyWait
 	end
 }
@@ -101063,43 +101009,43 @@ script 229 mmbn3 {
 		jumpIfInRange = 234
 		jumpIfOutOfRange = continue
 	msgOpen
-	"Wow!! Shake my hand!"
+	"Ai, nossa!!\nAperta a minha mão!"
 	keyWait
 	end
 }
 script 230 mmbn3 {
 	msgOpen
-	"Idiot! Get off!"
+	"Otário! Cai fora!"
 	keyWait
 	end
 }
 script 231 mmbn3 {
 	msgOpen
-	"…Heh…"
+	"... He..."
 	keyWait
 	clearMsg
 	"""
-	…Gasp! No!
-	I didn't laugh!
+	... Arrg! Não!
+	Eu não ri!
 	"""
 	keyWait
 	end
 }
 script 232 mmbn3 {
 	msgOpen
-	"Give our money back!"
+	"Queremos o nosso\ndinheiro de volta!"
 	keyWait
 	end
 }
 script 233 mmbn3 {
 	msgOpen
-	"……"
+	"......"
 	keyWait
 	end
 }
 script 234 mmbn3 {
 	msgOpen
-	"Get off the stage!"
+	"Sai do palco!"
 	keyWait
 	end
 }
@@ -101117,14 +101063,13 @@ script 235 mmbn3 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	We're on-air at
-	the moment.
+	Estamos ao vivo, no
+	momento.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Don't get in the
-	way!
+	Não atrapalhe!
 	"""
 	keyWait
 	end
@@ -101132,8 +101077,8 @@ script 235 mmbn3 {
 script 236 mmbn3 {
 	msgOpen
 	"""
-	No! Not there!
-	The other panel!
+	Não! Aí, não!
+	O outro quadro!
 	"""
 	keyWait
 	end
@@ -101141,8 +101086,9 @@ script 236 mmbn3 {
 script 237 mmbn3 {
 	msgOpen
 	"""
-	A week in Ameropa?
-	That'd be nice!
+	Uma viagem pra
+	Ameropa?
+	Quem me dera!
 	"""
 	keyWait
 	end
@@ -101150,8 +101096,8 @@ script 237 mmbn3 {
 script 238 mmbn3 {
 	msgOpen
 	"""
-	I can't see the
-	panels from here…
+	Não dá pra ver os
+	quadros daqui...
 	"""
 	keyWait
 	end
@@ -101159,9 +101105,9 @@ script 238 mmbn3 {
 script 239 mmbn3 {
 	msgOpen
 	"""
-	I write in 50 times
-	a month,and I never
-	get called on stage.
+	Eu mando 50 inscrições
+	por mês, e nunca sou
+	chamado pro palco...
 	"""
 	keyWait
 	end
@@ -101169,9 +101115,8 @@ script 239 mmbn3 {
 script 240 mmbn3 {
 	msgOpen
 	"""
-	I GOT IT!
-	It's those
-	panels there!
+	JÁ SEI!
+	São aqueles quadros ali!
 	"""
 	keyWait
 	end
@@ -101181,15 +101126,15 @@ script 241 mmbn3 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	Maybe we shouldn't
-	tell these people
-	about the crisis…
+	Talvez fosse melhor não
+	avisarmos ao público
+	sobre a crise...
 	"""
 	keyWait
 	clearMsg
 	"""
-	We don't want to
-	cause a panic…
+	Não queremos criar
+	pânico...
 	"""
 	keyWait
 	end
@@ -101197,8 +101142,8 @@ script 241 mmbn3 {
 script 242 mmbn3 {
 	msgOpen
 	"""
-	Hey! The NetRangers!
-	Woooooow!
+	Ah! São os NetRangers!
+	Êêêêêêêêêê!
 	"""
 	keyWait
 	end
@@ -101206,14 +101151,15 @@ script 242 mmbn3 {
 script 243 mmbn3 {
 	msgOpen
 	"""
-	Man… They're just
-	silly guys in suits…
+	Pô... São só uns manés
+	de collant...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Then again,it's fun.
-	And what's the harm…
+	Mas até que é divertido.
+	Não tem nada de errado
+	nisso.
 	"""
 	keyWait
 	end
@@ -101221,9 +101167,8 @@ script 243 mmbn3 {
 script 244 mmbn3 {
 	msgOpen
 	"""
-	Hey you! We can't
-	see! Get out of the
-	way!
+	Ô! Não dá pra gente ver!
+	Sai da frente!
 	"""
 	keyWait
 	end
@@ -101231,21 +101176,22 @@ script 244 mmbn3 {
 script 245 mmbn3 {
 	msgOpen
 	"""
-	Red's hot-headed,and
-	Blue is careless.
+	O Vermelho é esquentado,
+	e o Azul é descuidado.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Green is reliable,
-	Yellow is nice,and
-	Black's just cool.
+	O Verde é confiável,
+	a Amarela é boazinha
+	e o Preto é descolado.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Looks like each one
-	has their own role.
+	É como se cada um
+	tivesse sua própria
+	função.
 	"""
 	keyWait
 	end
@@ -101253,8 +101199,8 @@ script 245 mmbn3 {
 script 246 mmbn3 {
 	msgOpen
 	"""
-	Wow!
-	Soooo cool!
+	Uau!
+	Que legaaaaaal!
 	"""
 	keyWait
 	end
@@ -101264,9 +101210,9 @@ script 247 mmbn3 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	There's more to
-	worry about than
-	this program now…!
+	Há mais coisas com o que
+	se preocupar agora do
+	que com esse programa...!
 	"""
 	keyWait
 	end
@@ -101274,8 +101220,9 @@ script 247 mmbn3 {
 script 248 mmbn3 {
 	msgOpen
 	"""
-	You're not making
-	much sense,pal!
+	Você não tá falando
+	coisa com coisa,
+	parceirinho!
 	"""
 	keyWait
 	end
@@ -101283,9 +101230,9 @@ script 248 mmbn3 {
 script 249 mmbn3 {
 	msgOpen
 	"""
-	We're not going home
-	until we get some
-	hard answers!!
+	A gente não vai pra
+	casa até recebermos
+	respostas!!
 	"""
 	keyWait
 	end
@@ -101293,9 +101240,9 @@ script 249 mmbn3 {
 script 250 mmbn3 {
 	msgOpen
 	"""
-	Hmm. Should I quit
-	wasting time,and
-	get out of town?
+	Hmm. Será que eu devia
+	parar de perder tempo
+	e sair da cidade logo?
 	"""
 	keyWait
 	end
@@ -101303,22 +101250,22 @@ script 250 mmbn3 {
 script 251 mmbn3 {
 	msgOpen
 	"""
-	Normal folk like us
-	don't know what's
-	really going on.
+	Gente comum, como a
+	gente, não sabe o que
+	tá rolando de verdade.
 	"""
 	keyWait
 	clearMsg
 	"""
-	And that scares us
-	all the more!
+	E isso só deixa a gente
+	com mais medo!
 	"""
 	keyWait
 	end
 }
 script 252 mmbn3 {
 	msgOpen
-	"Give us the facts!!"
+	"Queremos os fatos!!"
 	keyWait
 	end
 }
@@ -101340,8 +101287,8 @@ script 190 mmbn3 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	Uh oh! I need to get
-	a "
+	Essa não! Preciso de um
+	chip "
 	"""
 	printChip
 		buffer = 0
@@ -101351,24 +101298,24 @@ script 190 mmbn3 {
 		buffer = 0
 		code = C
 	"""
-	" chip
-	for a TV program.
+	" pra usar
+	em um programa.
 	"""
 	keyWait
 	clearMsg
 	"""
-	…but how can I get
-	it so quickly? I
-	just got the order!
+	... mas como daria pra
+	arranjá-lo tão de última
+	hora? Acabaram de pedir!
 	"""
 	keyWait
 	clearMsg
-	"I got it! You,there!"
+	"Já sei! Ei, você!"
 	keyWait
 	clearMsg
 	"""
-	Do you want to trade
-	a "
+	Aceitaria trocar comigo,
+	um "
 	"""
 	printChip
 		buffer = 0
@@ -101379,7 +101326,7 @@ script 190 mmbn3 {
 		code = C
 	"""
 	"
-	for my "
+	pelo meu "
 	"""
 	printChip
 		buffer = 0
@@ -101399,7 +101346,7 @@ script 190 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"OK "
+	"   OK "
 	option
 		left = 0
 		right = 0
@@ -101407,7 +101354,7 @@ script 190 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Nope!"
+	"          Não!"
 	select
 		default = 0
 		BSeparate = false
@@ -101436,7 +101383,7 @@ script 191 mmbn3 {
 	mugshotShow
 		mugshot = SciLabWoman
 	msgOpen
-	"Really? Great!"
+	"Jura? Ai, que bom!"
 	keyWait
 	clearMsg
 	jump
@@ -101477,9 +101424,9 @@ script 193 mmbn3 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	Thank goodness. I
-	didn't want to go
-	searching all over.
+	Estou salva. Deus me
+	livre sair pela cidade à
+	procura dele.
 	"""
 	keyWait
 	end
@@ -101489,9 +101436,9 @@ script 194 mmbn3 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	OK. I wonder how I
-	can get my hands on
-	that chip…
+	Tá. Hm, como vou fazer
+	para arranjar aquele
+	chip...?
 	"""
 	keyWait
 	end
@@ -101500,13 +101447,13 @@ script 195 mmbn3 {
 	mugshotShow
 		mugshot = SciLabWoman
 	msgOpen
-	"Huh? It's not here."
+	"Hã? Não está aí."
 	keyWait
 	clearMsg
 	"""
-	If it's in your
-	folder,take it out
-	and let me see it.
+	Se estiver numa pasta,
+	tire-o de lá para que eu
+	possa ver.
 	"""
 	keyWait
 	end
@@ -101516,9 +101463,9 @@ script 196 mmbn3 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	Our new director is
-	really picky about
-	chips.
+	Nosso novo diretor é
+	bem chatinho quando se
+	trata de chips.
 	"""
 	keyWait
 	end
@@ -101528,13 +101475,13 @@ script 197 mmbn3 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	It's been a while…
-	Will you reconsider?
+	Já faz um tempo...
+	Poderia reconsiderar?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Could I trade my
+	Posso trocar o meu
 	"
 	"""
 	printChip
@@ -101545,8 +101492,8 @@ script 197 mmbn3 {
 		buffer = 0
 		code = S
 	"""
-	" for
-	your "
+	" pelo
+	seu "
 	"""
 	printChip
 		buffer = 0
@@ -101555,7 +101502,7 @@ script 197 mmbn3 {
 	printCode
 		buffer = 0
 		code = C
-	"\"."
+	"\"?"
 	keyWait
 	clearMsg
 	mugshotHide
@@ -101566,7 +101513,7 @@ script 197 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"OK "
+	"   OK "
 	option
 		left = 0
 		right = 0
@@ -101574,7 +101521,7 @@ script 197 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No thanks!"
+	"          Não."
 	select
 		default = 0
 		BSeparate = false
@@ -101589,15 +101536,14 @@ script 197 mmbn3 {
 script 220 mmbn3 {
 	msgOpen
 	"""
-	Posters hang on the
-	wall
+	Vários pôsteres colados
+	na parede.
 	"""
 	keyWait
 	clearMsg
 	"""
-	They're great for
-	bringing some color
-	to a room
+	Ajudam muito a dar mais
+	cor pro recinto.
 	"""
 	keyWait
 	end
@@ -101610,15 +101556,15 @@ script 221 mmbn3 {
 		jumpIfOutOfRange = continue
 	msgOpen
 	"""
-	A control panel that
-	operates the door
+	Um painel de controle
+	que opera a porta.
 	"""
 	keyWait
 	clearMsg
 	"""
-	This type of panel
-	has jack in ports
-	built in
+	Esse tipo de painel tem
+	entradas de conexão
+	embutidas.
 	"""
 	keyWait
 	end
@@ -101626,15 +101572,15 @@ script 221 mmbn3 {
 script 222 mmbn3 {
 	msgOpen
 	"""
-	The sign reads
-	"Editing Room"
+	Na placa:
+	"Sala de Edição".
 	"""
 	keyWait
 	clearMsg
 	"""
-	Footage is edited
-	for use in TV
-	programs here
+	Aqui, filmagens são
+	editadas para serem
+	usadas nos programas.
 	"""
 	keyWait
 	end
@@ -101642,14 +101588,15 @@ script 222 mmbn3 {
 script 223 mmbn3 {
 	msgOpen
 	"""
-	A radio show's being
-	broadcast right now
+	Um programa de rádio
+	está sendo transmitido
+	agora.
 	"""
 	keyWait
 	clearMsg
 	"""
-	You can't just
-	walk in
+	Você não pode entrar
+	sem mais nem menos.
 	"""
 	keyWait
 	end
@@ -101657,15 +101604,16 @@ script 223 mmbn3 {
 script 224 mmbn3 {
 	msgOpen
 	"""
-	An exciting radio
-	show is being made
-	inside
+	Um emocionante programa
+	de rádio está sendo
+	gravado aí dentro.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Must be hot inside.
-	Everyone's sweating
+	Deve estar bem quente
+	lá.
+	Estão todos suando.
 	"""
 	keyWait
 	end
@@ -101673,8 +101621,8 @@ script 224 mmbn3 {
 script 225 mmbn3 {
 	msgOpen
 	"""
-	An elevator switch.
-	Want to press it?
+	É um botão de elevador.
+	Quer apertá-lo?
 	
 	"""
 	option
@@ -101684,7 +101632,7 @@ script 225 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"   Sim "
 	option
 		left = 0
 		right = 0
@@ -101692,7 +101640,7 @@ script 225 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No"
+	"          Não"
 	select
 		default = 0
 		BSeparate = false
@@ -101708,8 +101656,8 @@ script 225 mmbn3 {
 script 226 mmbn3 {
 	msgOpen
 	"""
-	The doors opened!
-	Want to go down?
+	O elevador se abriu!
+	Descer?
 	
 	"""
 	option
@@ -101719,7 +101667,7 @@ script 226 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"   Sim "
 	option
 		left = 0
 		right = 0
@@ -101727,7 +101675,7 @@ script 226 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No"
+	"          Não"
 	select
 		default = 0
 		BSeparate = false
@@ -101749,15 +101697,15 @@ script 227 mmbn3s {
 script 230 mmbn3 {
 	msgOpen
 	"""
-	A control panel for
-	operating the door
+	Um painel de controle
+	para operar a porta.
 	"""
 	keyWait
 	clearMsg
 	"""
-	You can't jack in
-	during N1 for
-	security reasons
+	Não pode se conectar
+	nele durante o N1 por
+	razões de segurança.
 	"""
 	keyWait
 	end
@@ -101799,8 +101747,8 @@ script 20 mmbn3 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	Oh no… They're
-	booing the stage…
+	Ai, não...
+	Estão vaiando o palco...
 	"""
 	keyWait
 	end
@@ -101839,15 +101787,16 @@ script 21 mmbn3 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	DNN's lost people's
-	trust after N1,but
-	it's popular again!
+	A DNN perdeu muita con-
+	fiança com o N1, mas re-
+	cuperou a popularidade!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I guess people want
-	to be entertained.
+	Acho que as pessoas
+	querem mesmo um
+	entretenimento.
 	"""
 	keyWait
 	end
@@ -101857,9 +101806,9 @@ script 30 mmbn3 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	I'm controlling the
-	panels,so I can see
-	the audience react…
+	Estou controlando os
+	paineis, não posso ver
+	as reações do público...
 	"""
 	keyWait
 	end
@@ -101869,15 +101818,16 @@ script 31 mmbn3 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	The hospital crisis
-	has been dominating
-	our broadcasts.
+	A crise no hospital tem
+	dominado os nossos
+	programas.
 	"""
 	keyWait
 	clearMsg
 	"""
-	People are watching
-	WWW's every move.
+	As pessoas estão de
+	olho em cada passo da
+	WWW.
 	"""
 	keyWait
 	end
@@ -101891,15 +101841,15 @@ script 35 mmbn3 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	A fire broke out
-	in SciLab…!
+	Houve um incêndio no
+	SciLab...!
 	"""
 	keyWait
 	clearMsg
 	"""
-	We'd better organize
-	a special program
-	right away!
+	Temos que organizar
+	uma reportagem especial
+	imediatamente!
 	"""
 	keyWait
 	end
@@ -101913,16 +101863,16 @@ script 36 mmbn3 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	I can't believe
-	there was a fire at
-	SciLab…
+	Eu não acredito que
+	teve um incêncio no
+	SciLab...
 	"""
 	keyWait
 	clearMsg
 	"""
-	A fire should have
-	been no problem for
-	SciLab's security.
+	Fogo não devia ser
+	problema nenhum para
+	a segurança deles.
 	"""
 	keyWait
 	end
@@ -101932,15 +101882,15 @@ script 38 mmbn3 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	Fire never spread
-	from the Internet
-	like this before!
+	Incêndios nunca se
+	espalharam pela Rede
+	deste jeito antes!
 	"""
 	keyWait
 	clearMsg
 	"""
-	What's going on in
-	the Cyberworld…?
+	O que está havendo no
+	mundo cibernético...?
 	"""
 	keyWait
 	end
@@ -101950,15 +101900,15 @@ script 39 mmbn3 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	It's easy to prepare
-	the program,but will
-	anyone watch it…?
+	Preparar o programa é
+	fácil, mas será que
+	alguém vai assistir...?
 	"""
 	keyWait
 	clearMsg
 	"""
-	I mean,the network
-	itself is burning…
+	Digo, o próprio canal
+	está queimando agora...
 	"""
 	keyWait
 	end
@@ -101968,15 +101918,15 @@ script 40 mmbn3 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	Finally,the network
-	devices have cooled!
+	Finalmente, os aparelhos
+	de rede esfriaram!
 	"""
 	keyWait
 	clearMsg
 	"""
-	And it wasn't the
-	Officials who solved
-	this problem!
+	E não foram os Oficiais
+	quem resolveram este
+	problema!
 	"""
 	keyWait
 	end
@@ -101986,14 +101936,15 @@ script 41 mmbn3 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	"SciLab Under Threat
-	from the WWW"
+	"SciLab Sob Ameaça Da
+	WWW".
 	"""
 	keyWait
 	clearMsg
 	"""
-	I hope this headline
-	is good enough.
+	Espero que esta
+	manchete seja boa o
+	bastante.
 	"""
 	keyWait
 	end
@@ -102003,8 +101954,8 @@ script 50 mmbn3 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	Aaah,Net Blue…
-	He's losing it…
+	Aaah, Net Azul...
+	Ele está surtando...
 	"""
 	keyWait
 	end
@@ -102014,9 +101965,9 @@ script 51 mmbn3 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	All this crisis news
-	is depressing! We
-	need to laugh,too…
+	Todos esses informes de
+	crise são deprimentes!
+	Precisamos rir, também...
 	"""
 	keyWait
 	end
@@ -102026,15 +101977,15 @@ script 60 mmbn3 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	We don't know where
-	the WWW base is,or
-	about the virus.
+	Não sabemos onde a
+	base da WWW fica, nem
+	sobre os vírus.
 	"""
 	keyWait
 	clearMsg
 	"""
-	It's making everyone
-	tense and anxious.
+	Isso está deixando
+	todos tensos e ansiosos.
 	"""
 	keyWait
 	end
@@ -102044,23 +101995,23 @@ script 61 mmbn3 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	If they hear the
-	truth,people could
-	start to panic.
+	Se ouvirem a verdade,
+	o público pode começar
+	a entrar em pânico.
 	"""
 	keyWait
 	clearMsg
 	"""
-	This crisis is like
-	the network trouble
-	of decades ago.
+	Esta crise é como a
+	ameaça à Rede de
+	décadas atrás.
 	"""
 	keyWait
 	clearMsg
 	"""
-	It was really bad…
-	I hope it doesn't
-	happen ever again…
+	Foi bem ruim, aquilo...
+	Espero que não se
+	repita...
 	"""
 	keyWait
 	end
@@ -102080,28 +102031,28 @@ script 190 mmbn3 {
 		mugshot = BlackMan
 	msgOpen
 	"""
-	Aaaah…
-	Terrible! No good!
+	Aaaah...
+	Que horror! Que péssimo!
 	"""
 	keyWait
 	clearMsg
 	"""
-	This battle scene's
-	just not exciting
-	enough!
+	Essa cena de luta
+	simplesmente não está
+	intensa o bastante!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I know! We need a
-	more exciting chip
-	to thrill everyone!
+	Já sei! Precisamos de um
+	chip mais incrível para
+	emocionar a todos!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Hey,you!
-	Have you got a
+	Ei, você!
+	Você teria aí um
 	"
 	"""
 	printChip
@@ -102115,8 +102066,8 @@ script 190 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	I'd like to swap for
-	this "
+	Quero trocá-lo por
+	este "
 	"""
 	printChip
 		buffer = 0
@@ -102129,9 +102080,9 @@ script 190 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	I need inspiration!
-	Quickly,before I
-	forget!
+	Eu preciso de inspiração!
+	Rápido, antes que eu
+	esqueça!
 	"""
 	keyWait
 	clearMsg
@@ -102143,7 +102094,7 @@ script 190 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"OK "
+	"   OK "
 	option
 		left = 0
 		right = 0
@@ -102151,7 +102102,7 @@ script 190 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No thanks."
+	"          Não."
 	select
 		default = 0
 		BSeparate = false
@@ -102180,7 +102131,7 @@ script 191 mmbn3 {
 	mugshotShow
 		mugshot = BlackMan
 	msgOpen
-	"OK,hand it over!"
+	"Beleza, dá aqui!"
 	keyWait
 	clearMsg
 	jump
@@ -102221,15 +102172,15 @@ script 193 mmbn3 {
 		mugshot = BlackMan
 	msgOpen
 	"""
-	Yes,yes! Now I feel
-	inspired!
+	Isso, isso! Agora, eu tô
+	pura inspiração!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'm the director,and
-	I'll make this show
-	a success!
+	Eu sou o diretor, e EU
+	vou fazer deste
+	programa um sucesso!
 	"""
 	keyWait
 	end
@@ -102239,8 +102190,8 @@ script 194 mmbn3 {
 		mugshot = BlackMan
 	msgOpen
 	"""
-	Grrrr! My chip isn't
-	good enough,huh?!
+	Grrrr! Este meu chip não
+	basta, é?!
 	"""
 	keyWait
 	end
@@ -102250,22 +102201,22 @@ script 195 mmbn3 {
 		mugshot = BlackMan
 	msgOpen
 	"""
-	You don't have it!
-	Are you trying to
-	make a fool of me?!
+	Você não tem ele!
+	Tá tentando me fazer
+	de otário?!
 	"""
 	keyWait
 	clearMsg
 	"""
-	D'ya think it might
-	be in your folder?
+	Será que tá na sua
+	pasta, sei lá?
 	"""
 	keyWait
 	clearMsg
 	"""
-	I can't check for
-	you. You'll have to
-	take it out.
+	Eu não posso ver isso
+	pra você. VOCÊ vai ter
+	que tirar ele de lá.
 	"""
 	keyWait
 	end
@@ -102275,9 +102226,9 @@ script 196 mmbn3 {
 		mugshot = BlackMan
 	msgOpen
 	"""
-	Thanks to your chip,
-	now I can shoot a
-	cool scene! Thanks!
+	Graças ao seu chip,
+	agora, eu posso filmar
+	uma cena irada! Valeu!
 	"""
 	keyWait
 	end
@@ -102287,14 +102238,14 @@ script 197 mmbn3 {
 		mugshot = BlackMan
 	msgOpen
 	"""
-	Aaah…My inspiration
-	is fading fast…!
+	Aaah... A minha inspiração
+	tá evaporando...!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Quickly,give me
-	your "
+	Rápido, troca aqui o
+	seu "
 	"""
 	printChip
 		buffer = 0
@@ -102305,7 +102256,7 @@ script 197 mmbn3 {
 		code = H
 	"""
 	"
-	for my "
+	pelo meu "
 	"""
 	printChip
 		buffer = 0
@@ -102325,7 +102276,7 @@ script 197 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"OK "
+	"   OK "
 	option
 		left = 0
 		right = 0
@@ -102333,7 +102284,7 @@ script 197 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No thanks!"
+	"          Não!"
 	select
 		default = 0
 		BSeparate = false
@@ -102348,14 +102299,14 @@ script 197 mmbn3 {
 script 220 mmbn3 {
 	msgOpen
 	"""
-	Posters are replaced
-	on a regular basis
+	Pôsteres são trocados
+	regularmente.
 	"""
 	keyWait
 	clearMsg
 	"""
-	There's lots of
-	tape on the wall
+	Tem um monte de fita
+	adesiva na parede.
 	"""
 	keyWait
 	end
@@ -102368,8 +102319,8 @@ script 221 mmbn3 {
 		jumpIfOutOfRange = continue
 	msgOpen
 	"""
-	Details of
-	recording schedules…
+	Detalhes de cronogramas
+	de filmagem...
 	"""
 	keyWait
 	end
@@ -102377,16 +102328,16 @@ script 221 mmbn3 {
 script 222 mmbn3 {
 	msgOpen
 	"""
-	A door to the sound
-	room. Lots of noise
-	comes from inside
+	Uma porta para a sala
+	de som. Você ouve muito
+	barulho vindo dela.
 	"""
 	keyWait
 	clearMsg
 	"""
-	The door is locked
-	to reduce sound
-	leakage
+	A porta está trancada
+	para reduzir vazamento
+	de som.
 	"""
 	keyWait
 	end
@@ -102394,15 +102345,15 @@ script 222 mmbn3 {
 script 223 mmbn3 {
 	msgOpen
 	"""
-	Wow! A signed poster
-	of Ribitta!
+	Caramba! Um pôster
+	autografado da Ribitta!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Just as you might
-	expect,this being
-	DNN's editing room
+	O que era de se
+	esperar de ver na sala
+	de edição da DNN.
 	"""
 	keyWait
 	end
@@ -102410,9 +102361,8 @@ script 223 mmbn3 {
 script 224 mmbn3 {
 	msgOpen
 	"""
-	The sound room is
-	visible through the
-	glass
+	A sala de som é visível
+	através do vidro.
 	"""
 	keyWait
 	end
@@ -102420,15 +102370,15 @@ script 224 mmbn3 {
 script 225 mmbn3 {
 	msgOpen
 	"""
-	The wall is covered
-	with monitors
+	A parede está coberta
+	por monitores.
 	"""
 	keyWait
 	clearMsg
 	"""
-	The monitors are for
-	editing the footage
-	together
+	Os monitores são para
+	editar as filmagens,
+	fundindo-as.
 	"""
 	keyWait
 	end
@@ -102436,14 +102386,14 @@ script 225 mmbn3 {
 script 226 mmbn3 {
 	msgOpen
 	"""
-	The studio is behind
-	a wall and glass
+	O estúdio fica atrás de
+	uma parede de vidro.
 	"""
 	keyWait
 	clearMsg
 	"""
-	The whole studio is
-	visible from here
+	O estúdio inteiro é visível
+	daqui.
 	"""
 	keyWait
 	end
@@ -102451,8 +102401,9 @@ script 226 mmbn3 {
 script 227 mmbn3 {
 	msgOpen
 	"""
-	Details of
-	recording schedules…
+	Detalhes de
+	cronogramas de
+	filmagem...
 	"""
 	keyWait
 	clearMsg
@@ -102462,8 +102413,8 @@ script 227 mmbn3 {
 		jumpIfFalse = continue
 	clearMsg
 	"""
-	Something's attached
-	with a clip…
+	Há uma coisa aqui presa
+	com clipe de papel...
 	"""
 	keyWait
 	clearMsg
@@ -102503,18 +102454,19 @@ script 0 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Trying to run,Lan?"
+	"Quer fugir, Lan?"
 	keyWait
 	clearMsg
 	"""
-	We made it this far!
-	Let's finish it!!
+	A gente já chegou até
+	aqui!
+	Vamos até o fim!!
 	"""
 	keyWait
 	clearMsg
 	"""
-	C'mon! Into The
-	Goela do Demônio!!
+	Bora lá!
+	Pra Goela do Demônio!!
 	"""
 	keyWait
 	end
@@ -102524,12 +102476,13 @@ script 1 mmbn3 {
 		mugshot = Sunayama
 	msgOpen
 	"""
-	What,giving up?
-	It's now or never.
+	Que foi, vai desistir?
+	É agora ou nunca,
+	amiguinho.
 	"""
 	keyWait
 	clearMsg
-	"Otherwise,go inside."
+	"Se não for, entra lá."
 	keyWait
 	end
 }
@@ -102542,12 +102495,12 @@ script 2 mmbn3 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	Hi! It's me,your
-	favorite chatterbox!
+	Oi! Sou eu, sua
+	papeadora favorita!
 	"""
 	keyWait
 	clearMsg
-	"Got time for a chat?"
+	"Quer papear?"
 	keyWait
 	clearMsg
 	mugshotHide
@@ -102558,7 +102511,7 @@ script 2 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Sure "
+	"   Quero "
 	option
 		left = 0
 		right = 0
@@ -102566,7 +102519,7 @@ script 2 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"No thanks"
+	"          Não, valeu"
 	select
 		default = 0
 		BSeparate = false
@@ -102577,157 +102530,160 @@ script 2 mmbn3 {
 			jump = 3,
 			jump = continue
 		]
+	clearMsg
 	mugshotShow
 		mugshot = YoungWoman
 	"""
-	You know the people
-	on the island with
-	the Extra Folders?
+	Sabe as pessoas na ilha,
+	essas com as Pastas
+	Extras?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Well,they're all
-	just part-timers.
+	Bom, são todas... atores,
+	contratados pra traba-
+	lhar de meio-período.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Amateurs like them
-	follow the script
-	word for word.
+	Amadores, como eles,
+	seguem o roteiro
+	palavra por palavra.
 	"""
 	keyWait
 	clearMsg
 	"""
-	They probably can't
-	ad-lib like me to
-	make things fun.
+	Aposto que nem sabem
+	improvisar pra apimentar
+	as coisas, como eu.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I may not look it,
-	but I'm a budding
-	actress,you know.
+	Pode não parecer, mas
+	sou uma aspirante a
+	atriz.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Is this what they
-	mean by "getting a
-	foot in the door"?
+	Ai, será que esta será
+	minha "porta de entrada
+	para a indústria"?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Maybe some big-time
-	agents will be
-	watching the show!
+	Talvez algum super
+	agente esteja vendo
+	o torneio!
 	"""
 	keyWait
 	clearMsg
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
 	"""
-	Hey!
-	Why are you looking
-	at me like that?!
+	 Ei!
+	Por que cê tá me
+	olhando assim?!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Believe me! I'm only
-	part-time here until
-	I get my big break!
+	É sério! Eu só tô aqui
+	de meio período até meu
+	talento ser descoberto!
 	"""
 	keyWait
 	clearMsg
 	"""
-	A little pretending
-	can't hurt anyway!
+	Fingir um pouquinho
+	não dói!
 	"""
 	keyWait
 	clearMsg
 	"""
-	You wait and see!
-	After N1,Sunayama is
-	bound to come over.
+	E espera só! Depois do
+	N1, com certeza o Suna-
+	yama vai me contatar.
 	"""
 	keyWait
 	clearMsg
 	"""
-	"Ah,what a beauty!
-	How would you like
-	to be in movies?"
+	"Ah, que musa! Gostaria
+	de virar estrela de
+	trilogias de filmes?"
 	"""
 	keyWait
 	clearMsg
 	"""
-	I can almost hear
-	him say it already!!
+	Consigo ouvir cada
+	fonema na voz dele!!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'm bound to be
-	noticed. You'll see!
+	Eu SEI que vou ser
+	notada. Você vai ver!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Then I'll be on TV
-	and in commercials…
+	Aí, eu vou estar na TV,
+	em comerciais, em dubla-
+	gens com "star talent"...
 	"""
 	keyWait
 	clearMsg
 	"""
-	My merchandise will
-	sell like hotcakes!!
+	E os meus produtos vão
+	SUMIR das prateleiras!!
 	"""
 	keyWait
 	clearMsg
 	"""
-	And soon I'll fall
-	in love with a
-	handsome,rich actor…
+	Daí, inevitavelmente, eu
+	vou me apaixonar por
+	um lindo (e rico) galã...
 	"""
 	keyWait
 	clearMsg
 	"""
-	What a wonderful
-	future I'll have.
-	・
+	Que futuro maravilhoso
+	eu vou ter.
+	.
 	"""
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"Haaaa…"
+	"Aaaaahhh..."
 	keyWait
 	clearMsg
 	"""
-	I'm tired now. You
-	should go soon or
-	you'll be late.
+	Ai, cansei.
+	E você tem que ir andan-
+	do, ou vai se atrasar.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Hee,hee! Thanks
-	for listening. I
-	really hope you win!
+	Hi hi! Muito obrigada por
+	ouvir tudo isso. Vou
+	torcer forte por você!
 	"""
 	keyWait
 	end
@@ -102737,9 +102693,9 @@ script 3 mmbn3 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	Hmmmm! You could
-	stay a little while
-	and talk,selfish!
+	Hmmmm! Você podia ficar
+	e papear um pouquinho
+	comigo. Egoísta!
 	"""
 	keyWait
 	end
@@ -102749,8 +102705,8 @@ script 4 mmbn3 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	I'll cheer for you!
-	Good luck!
+	Vou torcer por você!
+	Boa sorte!
 	"""
 	keyWait
 	end
@@ -102763,33 +102719,33 @@ script 6 mmbn3 {
 	mugshotShow
 		mugshot = MetrolineMan
 	msgOpen
-	"All aboard!!"
+	"Todos a bordo!!"
 	keyWait
 	clearMsg
 	"""
-	No,no! I'm helping
-	out with N1 now.
+	Aliás, não! Eu estou
+	ajudando no N1 agora.
 	"""
 	keyWait
 	clearMsg
-	"Ahem!!"
+	"Ca-hem!!"
 	keyWait
 	clearMsg
 	"""
-	Who? M-Me! I have
-	an Extra Folder.
+	Quem? E-eu? Eu tenho
+	uma Pasta Extra aqui.
 	"""
 	keyWait
 	clearMsg
 	mugshotAnimate
 		animation = 0
-	"(Oh,I'm so nervous…)"
+	"(Ai, tô tão nervoso...)"
 	keyWait
 	clearMsg
 	mugshotAnimate
 		animation = 1
 	"""
-	My folder is a
+	A minha pasta é uma
 	"
 	"""
 	printFolderName
@@ -102798,14 +102754,14 @@ script 6 mmbn3 {
 	"\".\n"
 	mugshotAnimate
 		animation = 0
-	"(OK. I'm OK now!)"
+	"(OK. Tô bem, agora!)"
 	keyWait
 	clearMsg
 	mugshotAnimate
 		animation = 1
 	"""
-	Do you want to use
-	my "
+	Gostaria de usar a
+	minha "
 	"""
 	printFolderName
 		buffer = 0
@@ -102814,8 +102770,8 @@ script 6 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Do you want to use
-	my "
+	Gostaria de usar a
+	minha "
 	"""
 	printFolderName
 		buffer = 0
@@ -102826,15 +102782,15 @@ script 6 mmbn3 {
 	mugshotAnimate
 		animation = 0
 	"""
-	(Ah! I said the same
-	thing twice! C'mon!)
+	(Ah! Eu disse a mesma
+	coisa duas vezes! Nãão!)
 	"""
 	keyWait
 	clearMsg
 	mugshotAnimate
 		animation = 1
 	"""
-	If you want this
+	Se quiser esta
 	"
 	"""
 	printFolderName
@@ -102844,9 +102800,9 @@ script 6 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Y-You'll have to
-	overwrite the folder
-	you have now. OK?
+	t-terá que sobrescrever
+	a sua pasta atual.
+	Tudo bem?
 	"""
 	keyWait
 	clearMsg
@@ -102858,7 +102814,7 @@ script 6 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes,OK "
+	"   Tudo, sim "
 	option
 		left = 0
 		right = 0
@@ -102866,7 +102822,7 @@ script 6 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"No"
+	"          Não"
 	select
 		default = 0
 		BSeparate = false
@@ -102877,11 +102833,12 @@ script 6 mmbn3 {
 			jump = continue,
 			jump = continue
 		]
+	clearMsg
 	mugshotShow
 		mugshot = MetrolineMan
 	"""
-	Well,come back if
-	you ever need my
+	Bom, volte aqui se
+	precisar do meu
 	"
 	"""
 	printFolderName
@@ -102898,56 +102855,56 @@ script 7 mmbn3 {
 		mugshot = MetrolineMan
 	msgOpen
 	"""
-	Good. I'll transmit
-	my "
+	Ótimo. Vou transmitir a
+	minha "
 	"""
 	printFolderName
 		buffer = 0
 		entry = 3
-	"\"!!"
+	"\" agora!!"
 	keyWait
 	clearMsg
 	mugshotAnimate
 		animation = 0
 	"""
-	(Focus! Just operate
-	it the way you
-	were shown…It's OK…)
+	(Foca! É só operar do
+	jeito que te ensinaram...
+	Tá tudo bem...)
 	"""
 	keyWait
 	clearMsg
 	mugshotAnimate
 		animation = 1
 	"""
-	J-Just a moment.
-	It'll take a little
-	time…Ha,ha…
+	S-só um instante.
+	É que demora um
+	pouquinho... Ha, ha...
 	"""
 	keyWait
 	clearMsg
 	mugshotAnimate
 		animation = 0
 	"""
-	(Relax,relax!
-	Don't talk so much!
-	And be cool.)
+	(Relaxa, relaxa!
+	Não precisa falar tanto!
+	E fica tranquilo.)
 	"""
 	keyWait
 	clearMsg
 	mugshotAnimate
 		animation = 1
 	"""
-	Hey,man! Uh…
-	Just chill,dude!
+	Ei, mano! Er...
+	Só... fica frio, "brô"!
 	"""
 	keyWait
 	clearMsg
 	mugshotAnimate
 		animation = 0
 	"""
-	(Uh,was that cool?
-	I hope so… Cameraman,
-	you getting this?)
+	(Er, isso foi legal?
+	Espero que tenha sido...
+	Pegou isso, cameraman?)
 	"""
 	keyWait
 	clearMsg
@@ -102956,9 +102913,9 @@ script 7 mmbn3 {
 	soundPlay
 		track = 220
 	"""
-	OK,fully sent!
-	Your Extra Folder is
-	now "
+	OK, enviada!
+	A sua Pasta Extra,
+	agora, é a "
 	"""
 	printFolderName
 		buffer = 0
@@ -102976,37 +102933,38 @@ script 8 mmbn3 {
 		mugshot = CapBoy
 	msgOpen
 	"""
-	Folderboy. Who sent
-	for Folderboy?
+	Menino-pasta.
+	Quem apostou no
+	menino-pasta?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Take a chance!
-	Chance your luck!
-	Cha-cha-cha!
+	Não tenham medo!
+	Arrisquem a sorte!
+	Tchá-tchá-tchá!
 	"""
 	keyWait
 	clearMsg
-	"Folderboy!! Ta daaa!"
+	"Menino-pasta!! Tcharããn!"
 	keyWait
 	clearMsg
 	"""
-	It's me,Folderboy!
-	I've got "
+	Sou eu, o menino-pasta!
+	E tenho a "
 	"""
 	printFolderName
 		buffer = 0
 		entry = 4
 	"""
 	"
-	as my Extra Folder.
+	como minha Pasta Extra.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'll give it to you
-	if you want it.
+	Dou ela pra você, se
+	quiser.
 	"""
 	keyWait
 	clearMsg
@@ -103018,7 +102976,7 @@ script 8 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"OK "
+	"   OK "
 	option
 		left = 0
 		right = 0
@@ -103026,7 +102984,7 @@ script 8 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"No thanks"
+	"          Não"
 	select
 		default = 0
 		BSeparate = false
@@ -103037,16 +102995,17 @@ script 8 mmbn3 {
 			jump = 12,
 			jump = continue
 		]
+	clearMsg
 	mugshotShow
 		mugshot = CapBoy
 	"""
-	You can have it if
-	you answer five
-	questions correctly!
+	Pode ficar com ela... se
+	responder cinco pergun-
+	tas corretamente!
 	"""
 	keyWait
 	clearMsg
-	"Wanna try?"
+	"Quer tentar?"
 	keyWait
 	clearMsg
 	mugshotHide
@@ -103057,7 +103016,7 @@ script 8 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"   Sim "
 	option
 		left = 0
 		right = 0
@@ -103065,7 +103024,7 @@ script 8 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Not now"
+	"          Agora?!"
 	select
 		default = 0
 		BSeparate = false
@@ -103076,16 +103035,17 @@ script 8 mmbn3 {
 			jump = 12,
 			jump = continue
 		]
+	clearMsg
 	mugshotShow
 		mugshot = CapBoy
-	"OK,let's go!!"
+	"OK, vamos lá!!"
 	keyWait
 	clearMsg
 	soundDisableChoiceSFX
-	"Question No.1!!"
+	"Pergunta 1!!"
 	keyWait
 	clearMsg
-	"Which is heaviest?"
+	"Qual pesa mais?"
 	keyWait
 	clearMsg
 	option
@@ -103095,7 +103055,7 @@ script 8 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"1000 g of iron\n"
+	"   1000 g de ferro\n"
 	option
 		left = 1
 		right = 1
@@ -103103,7 +103063,7 @@ script 8 mmbn3 {
 		down = 2
 	space
 		count = 2
-	"10000 mg of stone\n"
+	"   10000 mg de pedras\n"
 	option
 		left = 2
 		right = 2
@@ -103111,7 +103071,7 @@ script 8 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"100 l of water"
+	"   100 l de água"
 	select
 		default = 0
 		BSeparate = false
@@ -103127,17 +103087,17 @@ script 8 mmbn3 {
 		track = 231
 	waitSkip
 		frames = 20
-	"Correct! Next one!"
+	"Correto! Próxima!"
 	keyWait
 	clearMsg
 	soundDisableChoiceSFX
-	"Question No.2!"
+	"Pergunta 2!"
 	keyWait
 	clearMsg
 	"""
-	What is the fake job
-	of BeastMan's
-	operator?
+	Qual era a falsa
+	profissão do operador
+	do BeastMan?
 	"""
 	keyWait
 	clearMsg
@@ -103148,7 +103108,7 @@ script 8 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Circus leader\n"
+	"   Mestre do picadeiro\n"
 	option
 		left = 1
 		right = 1
@@ -103156,7 +103116,7 @@ script 8 mmbn3 {
 		down = 2
 	space
 		count = 2
-	"Zoo boss\n"
+	"   Tratador de animais\n"
 	option
 		left = 2
 		right = 2
@@ -103164,7 +103124,7 @@ script 8 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"WWW operator"
+	"   Operador da WWW"
 	select
 		default = 0
 		BSeparate = false
@@ -103180,17 +103140,17 @@ script 8 mmbn3 {
 		track = 231
 	waitSkip
 		frames = 20
-	"Correct! And next…"
+	"Correto! E, a seguir..."
 	keyWait
 	clearMsg
 	soundDisableChoiceSFX
-	"Question No.3!"
+	"Pergunta 3!"
 	keyWait
 	clearMsg
 	"""
-	Who is the host of
-	N1's Hades Isle
-	battle?
+	Quem foi o apresentador
+	da batalha do N1 na Ilha
+	do Inferno?
 	"""
 	keyWait
 	clearMsg
@@ -103201,7 +103161,7 @@ script 8 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Yasu\n"
+	"   Yasu\n"
 	option
 		left = 1
 		right = 1
@@ -103209,7 +103169,7 @@ script 8 mmbn3 {
 		down = 2
 	space
 		count = 2
-	"Masa\n"
+	"          Masa\n"
 	option
 		left = 2
 		right = 2
@@ -103217,7 +103177,7 @@ script 8 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Hiro"
+	"   Hiro"
 	select
 		default = 0
 		BSeparate = false
@@ -103233,17 +103193,17 @@ script 8 mmbn3 {
 		track = 231
 	waitSkip
 		frames = 20
-	"Well done! Another!"
+	"Muito bem! Mais uma!"
 	keyWait
 	clearMsg
 	soundDisableChoiceSFX
-	"Question No.4!"
+	"Pergunta 4!"
 	keyWait
 	clearMsg
 	"""
-	Which style is ideal
-	for operators that
-	use busters!?
+	Qual estilo é ideal para
+	operadores que usam
+	o Atirador?!
 	"""
 	keyWait
 	clearMsg
@@ -103254,7 +103214,7 @@ script 8 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"HeatCuts\n"
+	"   HeatCuts\n"
 	option
 		left = 1
 		right = 1
@@ -103262,7 +103222,7 @@ script 8 mmbn3 {
 		down = 2
 	space
 		count = 2
-	"ElectroCuts\n"
+	"   ElectroCuts\n"
 	option
 		left = 2
 		right = 2
@@ -103270,7 +103230,7 @@ script 8 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"AquaGuts"
+	"   AquaGuts"
 	select
 		default = 0
 		BSeparate = false
@@ -103286,16 +103246,16 @@ script 8 mmbn3 {
 		track = 231
 	waitSkip
 		frames = 20
-	"And finally…"
+	"E, por fim..."
 	keyWait
 	clearMsg
 	soundDisableChoiceSFX
-	"The last question!!"
+	"Pergunta final!!"
 	keyWait
 	clearMsg
 	"""
-	Which of these is a
-	breaking chip?
+	Qual destes é um chip de
+	quebra?
 	"""
 	keyWait
 	clearMsg
@@ -103347,14 +103307,14 @@ script 8 mmbn3 {
 	waitSkip
 		frames = 20
 	"""
-	Correct!
-	You know your stuff!
+	Correto!
+	Você sabe das coisas!
 	"""
 	keyWait
 	clearMsg
 	"""
-	As promised,you can
-	have my "
+	Como prometido, aqui
+	está minha "
 	"""
 	printFolderName
 		buffer = 0
@@ -103362,21 +103322,21 @@ script 8 mmbn3 {
 	"\"!"
 	keyWait
 	clearMsg
-	"Just one thing…"
+	"Só uma coisa..."
 	keyWait
 	clearMsg
-	"To get my \""
+	"Pra receber a \""
 	printFolderName
 		buffer = 0
 		entry = 4
 	"""
 	",
-	your folder must be
-	overwritten.
+	a sua pasta terá que
+	ser sobrescrita.
 	"""
 	keyWait
 	clearMsg
-	"Is that OK?"
+	"Tudo bem?"
 	keyWait
 	clearMsg
 	soundEnableChoiceSFX
@@ -103388,7 +103348,7 @@ script 8 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Load it! "
+	"   Manda! "
 	option
 		left = 0
 		right = 0
@@ -103396,7 +103356,7 @@ script 8 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"No"
+	"          Não"
 	select
 		default = 0
 		BSeparate = false
@@ -103407,10 +103367,11 @@ script 8 mmbn3 {
 			jump = continue,
 			jump = continue
 		]
+	clearMsg
 	mugshotShow
 		mugshot = CapBoy
 	"""
-	If you need my
+	Se precisar da minha
 	"
 	"""
 	printFolderName
@@ -103418,13 +103379,13 @@ script 8 mmbn3 {
 		entry = 4
 	"""
 	",
-	come and see me!
+	é só falar comigo!
 	"""
 	keyWait
 	clearMsg
 	"""
-	But you'll have to
-	do the quiz again!!
+	Mas vai ter que fazer
+	o questionário do zero!!
 	"""
 	keyWait
 	end
@@ -103436,7 +103397,7 @@ script 9 mmbn3 {
 		mugshot = CapBoy
 	msgOpen
 	"""
-	OK,I'll send my
+	OK, vou mandar minha
 	"
 	"""
 	printFolderName
@@ -103446,9 +103407,9 @@ script 9 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Complete!!
-	Your Extra Folder is
-	now "
+	Pronto!!
+	Sua Pasta Extra, agora,
+	é a "
 	"""
 	printFolderName
 		buffer = 0
@@ -103466,8 +103427,8 @@ script 10 mmbn3 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	Hey you! Want to try
-	an "
+	Ei, você! Quer tentar
+	usar uma "
 	"""
 	printFolderName
 		buffer = 0
@@ -103476,13 +103437,13 @@ script 10 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	It's different,but
-	very interesting…
+	É diferente, mas muito
+	interessante...
 	"""
 	keyWait
 	clearMsg
 	"""
-	If you want an
+	Se quiser a
 	"
 	"""
 	printFolderName
@@ -103492,15 +103453,15 @@ script 10 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	your folder will be
-	overwritten.
+	a sua pasta terá que
+	ser sobrescrita.
 	"""
 	keyWait
 	clearMsg
 	"""
-	So,I'll ask again:
-	Would you like to
-	try an "
+	Então, pergunto de novo:
+	quer experimentar usar
+	uma "
 	"""
 	printFolderName
 		buffer = 0
@@ -103516,7 +103477,7 @@ script 10 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"OK "
+	"   OK "
 	option
 		left = 0
 		right = 0
@@ -103524,7 +103485,7 @@ script 10 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"No!"
+	"          Não!"
 	select
 		default = 0
 		BSeparate = false
@@ -103537,12 +103498,12 @@ script 10 mmbn3 {
 		]
 	mugshotShow
 		mugshot = BusinessMan
-	"That's a pity…"
+	"Que pena..."
 	keyWait
 	clearMsg
 	"""
-	Look for me if you
-	want an "
+	Venha me ver de novo
+	se quiser a "
 	"""
 	printFolderName
 		buffer = 0
@@ -103558,8 +103519,8 @@ script 11 mmbn3 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	OK,then. I'll send
-	the data for my
+	Pois bem, então. Manda-
+	rei os dados da minha
 	"
 	"""
 	printFolderName
@@ -103568,127 +103529,127 @@ script 11 mmbn3 {
 	"\""
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
-	waitSkip
-		frames = 30
-	keyWait
-	clearMsg
-	"・"
-	waitSkip
-		frames = 30
-	"・"
-	waitSkip
-		frames = 30
-	"・"
-	waitSkip
-		frames = 30
-	"・"
-	waitSkip
-		frames = 30
-	"・"
-	waitSkip
-		frames = 30
-	"・"
-	waitSkip
-		frames = 30
-	"\nWhat?"
-	waitSkip
-		frames = 30
-	"・"
-	waitSkip
-		frames = 30
-	"・"
-	waitSkip
-		frames = 30
-	"・"
-	waitSkip
-		frames = 30
-	"\nIf I do this…"
-	waitSkip
-		frames = 30
-	"・"
-	waitSkip
-		frames = 30
-	"・"
-	waitSkip
-		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
 	keyWait
 	clearMsg
+	"."
+	waitSkip
+		frames = 30
+	"."
+	waitSkip
+		frames = 30
+	"."
+	waitSkip
+		frames = 30
+	"."
+	waitSkip
+		frames = 30
+	"."
+	waitSkip
+		frames = 30
+	"."
+	waitSkip
+		frames = 30
+	"\nUé?"
+	waitSkip
+		frames = 30
+	"."
+	waitSkip
+		frames = 30
+	"."
+	waitSkip
+		frames = 30
+	"."
+	waitSkip
+		frames = 30
+	"\nSe eu fizer isto..."
+	waitSkip
+		frames = 30
+	"."
+	waitSkip
+		frames = 30
+	"."
+	waitSkip
+		frames = 30
+	"."
+	waitSkip
+		frames = 30
+	keyWait
+	clearMsg
 	"""
-	No,that's not right…
-	What could I be
-	doing wrong…?
+	Não, não pode ser...
+	O que eu estou fazendo
+	de errado...?
 	"""
 	keyWait
 	clearMsg
 	"""
-	OK! OK! Got it!!
-	Put…this…in…
+	OK! OK! Já sei!!
+	Enfiar... isto... e...
 	"""
 	keyWait
 	clearMsg
-	"Eh,"
+	"Erg"
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
 	"""
-	No!
-	Hang on,though…
-	Yes,yes. That's it!
-	"""
-	keyWait
-	clearMsg
-	"""
-	OK. Here we go!
-	Starting transfer!!
+	 Não!
+	Ah, espera aí...
+	Sim... é isso!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Just wait a second!
-	It'll finish soon.
+	OK. Vamos lá!
+	Iniciar transferência!!
 	"""
 	keyWait
 	clearMsg
-	"3,"
+	"""
+	Espera só um pouquinho!
+	Já vai acabar.
+	"""
+	keyWait
+	clearMsg
+	"3, "
 	waitSkip
 		frames = 30
-	"2,"
+	"2, "
 	waitSkip
 		frames = 30
-	"1,"
+	"1, "
 	waitSkip
 		frames = 30
 	soundPlay
 		track = 220
-	"DONE!"
+	"PRONTO!"
 	keyWait
 	clearMsg
-	"Now \""
+	"Agora, a \""
 	printFolderName
 		buffer = 0
 		entry = 7
 	"""
 	"
-	belongs to you.
-	Go for it,champ!
+	pertence a você.
+	Manda ver, campeão!
 	"""
 	keyWait
 	end
@@ -103698,9 +103659,9 @@ script 12 mmbn3 {
 		mugshot = CapBoy
 	msgOpen
 	"""
-	Well,you'll never
-	have a good Extra
-	Folder,then!!
+	Bom, então, nunca vai
+	ter uma boa Pasta
+	Extra!!
 	"""
 	keyWait
 	end
@@ -103714,14 +103675,15 @@ script 13 mmbn3 {
 		mugshot = CapBoy
 	msgOpen
 	"""
-	No! Incorrect!!
-	Try again soon.
+	Não! Incorreto!!
+	Tente de novo qualquer
+	hora.
 	"""
 	keyWait
 	clearMsg
 	"""
-	If at first you
-	don't succeed…
+	"Se da primeira vez
+	não conseguir..."
 	"""
 	keyWait
 	end
@@ -103730,7 +103692,7 @@ script 14 mmbn3 {
 	mugshotShow
 		mugshot = MetrolineMan
 	msgOpen
-	"Good luck."
+	"Boa sorte."
 	keyWait
 	end
 }
@@ -103738,7 +103700,7 @@ script 15 mmbn3 {
 	mugshotShow
 		mugshot = CapBoy
 	msgOpen
-	"I'll cheer for you!"
+	"Eu vou torcer por você!"
 	keyWait
 	end
 }
@@ -103747,8 +103709,9 @@ script 16 mmbn3 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	I know you'll battle
-	well. Don't give up!
+	Eu sei que você vai
+	lutar bem. Não se dê por
+	vencido!
 	"""
 	keyWait
 	end
@@ -103758,9 +103721,9 @@ script 20 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,hurry up,or the
-	boat will go and
-	leave us behind!
+	Lan, rápido, ou o barco
+	vai deixar a gente pra
+	trás!
 	"""
 	keyWait
 	end
@@ -103780,22 +103743,23 @@ script 190 mmbn3 {
 		mugshot = OldMan
 	msgOpen
 	"""
-	Quiz King! Who sent
-	for Quiz King?
+	O Questionário Reeei!
+	Quem convocou o
+	Questionário Rei?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Take a chance!
-	Chance your luck!
-	Lucky quiz time…
+	Não tenha medo!
+	Arrisque a sorte!
+	Questionário é sorte...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Well then,young man!
-	How about a round of
-	questions together?
+	Ora, ora, jovenzinho!
+	Que tal uma rodada de
+	perguntas comigo?
 	"""
 	keyWait
 	clearMsg
@@ -103807,7 +103771,7 @@ script 190 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"I'd love to!\n"
+	"   Só bora!\n"
 	option
 		left = 1
 		right = 1
@@ -103815,7 +103779,7 @@ script 190 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Sorry,too busy"
+	"   Foi mal, tô ocupado"
 	select
 		default = 0
 		BSeparate = false
@@ -103833,16 +103797,15 @@ script 191 mmbn3 {
 	msgOpen
 	soundDisableChoiceSFX
 	"""
-	Ha! Don't expect any
-	favors,though.
-	Question No.1!
+	Ha! Só não vai esperar
+	que eu pegue leve
+	Pergunta 1!
 	"""
 	keyWait
 	clearMsg
 	"""
-	How much is a ticket
-	from ACDC Town to
-	Yoka for a child?
+	Quanto é um tíquete de
+	ACDC para Yoka, infantil?
 	"""
 	keyWait
 	clearMsg
@@ -103853,7 +103816,7 @@ script 191 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"380 Zennys\n"
+	"   380 Zennys\n"
 	option
 		left = 1
 		right = 1
@@ -103861,7 +103824,7 @@ script 191 mmbn3 {
 		down = 2
 	space
 		count = 2
-	"150 Zennys\n"
+	"   150 Zennys\n"
 	option
 		left = 2
 		right = 2
@@ -103869,7 +103832,7 @@ script 191 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"It's free!"
+	"   É de graça!"
 	select
 		default = 0
 		BSeparate = false
@@ -103892,14 +103855,14 @@ script 192 mmbn3 {
 		mugshot = OldMan
 	msgOpen
 	"""
-	Well done!
-	Here's No.2!
+	Muito bem!
+	Agora, a Pergunta 2!
 	"""
 	keyWait
 	clearMsg
 	"""
-	What's the attack
-	force of "
+	Qual é a força de
+	ataque de "
 	"""
 	printChip
 		buffer = 0
@@ -103914,7 +103877,7 @@ script 192 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"60\n"
+	"   60\n"
 	option
 		left = 1
 		right = 1
@@ -103922,7 +103885,7 @@ script 192 mmbn3 {
 		down = 2
 	space
 		count = 2
-	"100\n"
+	"   100\n"
 	option
 		left = 2
 		right = 2
@@ -103930,7 +103893,7 @@ script 192 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"160"
+	"   160"
 	select
 		default = 0
 		BSeparate = false
@@ -103953,15 +103916,15 @@ script 193 mmbn3 {
 	msgOpen
 	soundDisableChoiceSFX
 	"""
-	Correct!
-	Question No.3!!
+	Correto!
+	Pergunta 3!!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Dr.Hikari's lab is
-	on what floor in
-	SciLab?
+	O laboratório do Dr.
+	Hikari fica em que andar
+	do SciLab?
 	"""
 	keyWait
 	clearMsg
@@ -103972,7 +103935,7 @@ script 193 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"The 2nd\n"
+	"   Segundo\n"
 	option
 		left = 1
 		right = 1
@@ -103980,7 +103943,7 @@ script 193 mmbn3 {
 		down = 2
 	space
 		count = 2
-	"The 5th\n"
+	"   Quinto\n"
 	option
 		left = 2
 		right = 2
@@ -103988,7 +103951,7 @@ script 193 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"The 7th"
+	"   Sétimo"
 	select
 		default = 0
 		BSeparate = false
@@ -104011,16 +103974,16 @@ script 194 mmbn3 {
 	msgOpen
 	soundDisableChoiceSFX
 	"""
-	Excellent!
-	Don't fade now!
-	It's Question No.4!
+	Excelente!
+	Não perca o pique!
+	Agora, Pergunta 4!
 	"""
 	keyWait
 	clearMsg
 	"""
-	A spider has 8,
-	a rhino has 4,
-	how many have you?
+	Aranhas têm 8,
+	rinocerontes têm 4...
+	Quantas você tem?
 	"""
 	keyWait
 	clearMsg
@@ -104031,7 +103994,7 @@ script 194 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"6\n"
+	"   6\n"
 	option
 		left = 1
 		right = 1
@@ -104039,7 +104002,7 @@ script 194 mmbn3 {
 		down = 2
 	space
 		count = 2
-	"5\n"
+	"   5\n"
 	option
 		left = 2
 		right = 2
@@ -104047,7 +104010,7 @@ script 194 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"2"
+	"   2"
 	select
 		default = 0
 		BSeparate = false
@@ -104070,15 +104033,15 @@ script 195 mmbn3 {
 	msgOpen
 	soundDisableChoiceSFX
 	"""
-	Good,good,good!
-	Question No.5!
+	Uhum, bom, bom!
+	Pergunta 5!
 	"""
 	keyWait
 	clearMsg
 	"""
-	What did GutsMan
-	have to face in the
-	Endurance Contest?
+	O que o GutsMan teve
+	que encarar na Competi-
+	ção de Resistência?
 	"""
 	keyWait
 	clearMsg
@@ -104089,7 +104052,7 @@ script 195 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Hunger\n"
+	"   Fome\n"
 	option
 		left = 1
 		right = 1
@@ -104097,7 +104060,7 @@ script 195 mmbn3 {
 		down = 2
 	space
 		count = 2
-	"Heat\n"
+	"   Calor\n"
 	option
 		left = 2
 		right = 2
@@ -104105,7 +104068,7 @@ script 195 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Cold"
+	"   Frio"
 	select
 		default = 0
 		BSeparate = false
@@ -104128,15 +104091,15 @@ script 196 mmbn3 {
 	msgOpen
 	soundDisableChoiceSFX
 	"""
-	OK! More of that!
-	Let's keep going!
-	Question No.6!
+	OK! Continua!
+	Não para não!
+	Pergunta 6!
 	"""
 	keyWait
 	clearMsg
 	"""
-	How many girls are
-	in Class 5-A?
+	Quantas meninas tem
+	na Turma 5-A?
 	"""
 	keyWait
 	clearMsg
@@ -104147,7 +104110,7 @@ script 196 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"3\n"
+	"   3\n"
 	option
 		left = 1
 		right = 1
@@ -104155,7 +104118,7 @@ script 196 mmbn3 {
 		down = 2
 	space
 		count = 2
-	"4\n"
+	"   4\n"
 	option
 		left = 2
 		right = 2
@@ -104163,7 +104126,7 @@ script 196 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"5"
+	"   5"
 	select
 		default = 0
 		BSeparate = false
@@ -104186,14 +104149,14 @@ script 197 mmbn3 {
 	msgOpen
 	soundDisableChoiceSFX
 	"""
-	Correct!
-	Now,Question No.7!
+	Correto!
+	Agora, Pergunta 7!
 	"""
 	keyWait
 	clearMsg
 	"""
-	How does Tamako
-	decorate her hair?
+	Com o que a Tamako
+	adorna o cabelo?
 	"""
 	keyWait
 	clearMsg
@@ -104204,7 +104167,7 @@ script 197 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"A silver gear\n"
+	"   Uma engrenagem\n"
 	option
 		left = 1
 		right = 1
@@ -104212,7 +104175,7 @@ script 197 mmbn3 {
 		down = 2
 	space
 		count = 2
-	"A red heart\n"
+	"   Um coração\n"
 	option
 		left = 2
 		right = 2
@@ -104220,7 +104183,7 @@ script 197 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"A blue ribbon"
+	"   Um lacinho"
 	select
 		default = 0
 		BSeparate = false
@@ -104243,14 +104206,14 @@ script 198 mmbn3 {
 	msgOpen
 	soundDisableChoiceSFX
 	"""
-	Superb!
-	Question No.8!!
+	Fenomenal!
+	Pergunta 8!!
 	"""
 	keyWait
 	clearMsg
 	"""
-	In what field was
-	Wily the master?
+	Qual campo de estudo o
+	Wily dominava?
 	"""
 	keyWait
 	clearMsg
@@ -104261,7 +104224,7 @@ script 198 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Robots\n"
+	"   Robótica\n"
 	option
 		left = 1
 		right = 1
@@ -104269,7 +104232,7 @@ script 198 mmbn3 {
 		down = 2
 	space
 		count = 2
-	"The net\n"
+	"   A Rede\n"
 	option
 		left = 2
 		right = 2
@@ -104277,7 +104240,7 @@ script 198 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"PETs"
+	"   PETs"
 	select
 		default = 0
 		BSeparate = false
@@ -104300,14 +104263,14 @@ script 199 mmbn3 {
 	msgOpen
 	soundDisableChoiceSFX
 	"""
-	I'm very impressed!
-	Try Question No.9!
+	Estou impressionado!
+	Vamos ver a Pergunta 9!
 	"""
 	keyWait
 	clearMsg
 	"""
-	What is this game's
-	second title?
+	Qual é o subtítulo deste
+	jogo?
 	"""
 	keyWait
 	clearMsg
@@ -104318,7 +104281,7 @@ script 199 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Transmission\n"
+	"   NT Warrior\n"
 	option
 		left = 1
 		right = 1
@@ -104326,7 +104289,7 @@ script 199 mmbn3 {
 		down = 2
 	space
 		count = 2
-	"Battle Network\n"
+	"   Battle Network\n"
 	option
 		left = 2
 		right = 2
@@ -104334,7 +104297,7 @@ script 199 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Battle Operation"
+	"   Network Transmission"
 	select
 		default = 0
 		BSeparate = false
@@ -104357,14 +104320,14 @@ script 200 mmbn3 {
 	msgOpen
 	soundDisableChoiceSFX
 	"""
-	Very well done!
-	Question Number 10!
+	Muito, muito bem!
+	Pergunta 10!
 	"""
 	keyWait
 	clearMsg
 	"""
-	What is BubbleMan's
-	dance called?
+	Como se chama a dança
+	do BubbleMan?
 	"""
 	keyWait
 	clearMsg
@@ -104375,7 +104338,7 @@ script 200 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Bubble Dance\n"
+	"   Bubble Dance\n"
 	option
 		left = 1
 		right = 1
@@ -104383,7 +104346,7 @@ script 200 mmbn3 {
 		down = 2
 	space
 		count = 2
-	"Bubbly Dance\n"
+	"   Bubbly Dance\n"
 	option
 		left = 2
 		right = 2
@@ -104391,7 +104354,7 @@ script 200 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Spongy Dance"
+	"   Spongy Dance"
 	select
 		default = 0
 		BSeparate = false
@@ -104414,14 +104377,14 @@ script 201 mmbn3 {
 	msgOpen
 	soundDisableChoiceSFX
 	"""
-	Incredible!!
-	Here's No.11!
+	Incrível!!
+	Vamos para a 11!
 	"""
 	keyWait
 	clearMsg
 	"""
-	What type of Navi
-	is BeastMan?
+	Que tipo de Navi era o
+	BeastMan?
 	"""
 	keyWait
 	clearMsg
@@ -104432,7 +104395,7 @@ script 201 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"A beast\n"
+	"   Uma fera\n"
 	option
 		left = 1
 		right = 1
@@ -104440,7 +104403,7 @@ script 201 mmbn3 {
 		down = 2
 	space
 		count = 2
-	"A monster\n"
+	"   Um dragão\n"
 	option
 		left = 2
 		right = 2
@@ -104448,7 +104411,7 @@ script 201 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"A psycho"
+	"   Um urso"
 	select
 		default = 0
 		BSeparate = false
@@ -104471,14 +104434,14 @@ script 202 mmbn3 {
 	msgOpen
 	soundDisableChoiceSFX
 	"""
-	Correct!
-	Next,Question No.12!
+	Correto!
+	A seguir, Pergunta 12!
 	"""
 	keyWait
 	clearMsg
 	"""
-	What was Higsby's
-	job in the past?
+	Qual era a antiga
+	profissão do Higsby?
 	"""
 	keyWait
 	clearMsg
@@ -104489,7 +104452,7 @@ script 202 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Teacher\n"
+	"   Professor\n"
 	option
 		left = 1
 		right = 1
@@ -104497,7 +104460,7 @@ script 202 mmbn3 {
 		down = 2
 	space
 		count = 2
-	"Fishmonger\n"
+	"   Pescador\n"
 	option
 		left = 2
 		right = 2
@@ -104505,7 +104468,7 @@ script 202 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Sandwich chef"
+	"   Cozinheiro"
 	select
 		default = 0
 		BSeparate = false
@@ -104528,15 +104491,15 @@ script 203 mmbn3 {
 	msgOpen
 	soundDisableChoiceSFX
 	"""
-	Remarkable!
-	Question No.13!!
+	Maravilhoso!
+	Pergunta 13!!
 	"""
 	keyWait
 	clearMsg
 	"""
-	What name is on the
-	pillars in Metroline
-	Beach Station?
+	Que nome tem escrito
+	nos pilares da Estação
+	Angra da Metrolinha?
 	"""
 	keyWait
 	clearMsg
@@ -104547,7 +104510,7 @@ script 203 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Beach Metro\n"
+	"   Metrô Angra\n"
 	option
 		left = 1
 		right = 1
@@ -104555,7 +104518,7 @@ script 203 mmbn3 {
 		down = 2
 	space
 		count = 2
-	"Beach\n"
+	"   Angra\n"
 	option
 		left = 2
 		right = 2
@@ -104563,7 +104526,7 @@ script 203 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"st.BEACH"
+	"   Rua Angra"
 	select
 		default = 0
 		BSeparate = false
@@ -104586,14 +104549,15 @@ script 204 mmbn3 {
 	msgOpen
 	soundDisableChoiceSFX
 	"""
-	Correct! Remarkable!
-	Question No.14!
+	Correto! Notável!
+	Pergunta 14!
 	"""
 	keyWait
 	clearMsg
 	"""
-	In the past,what was
-	Yai crazy about?
+	Com o que a Yai era
+	obcecada, num passado
+	próximo?
 	"""
 	keyWait
 	clearMsg
@@ -104604,7 +104568,7 @@ script 204 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Round fans\n"
+	"   Leques gigantescos\n"
 	option
 		left = 1
 		right = 1
@@ -104612,7 +104576,7 @@ script 204 mmbn3 {
 		down = 2
 	space
 		count = 2
-	"Folding fans\n"
+	"   Leques dobráveis\n"
 	option
 		left = 2
 		right = 2
@@ -104620,7 +104584,7 @@ script 204 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Marbles"
+	"   Peteca"
 	select
 		default = 0
 		BSeparate = false
@@ -104643,15 +104607,15 @@ script 205 mmbn3 {
 	msgOpen
 	soundDisableChoiceSFX
 	"""
-	Correct! Amazingly,
-	it's the last one!
-	Question Number 15!
+	Correto! E, olha só:
+	chegamos à última!
+	Pergunta Número 15!
 	"""
 	keyWait
 	clearMsg
 	"""
-	What is the title of
-	the DNN TV series?
+	Qual é o título da série
+	desta novela da DNN?
 	"""
 	keyWait
 	clearMsg
@@ -104662,7 +104626,7 @@ script 205 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Anger & Revenge…\n"
+	"   Net Nostra\n"
 	option
 		left = 1
 		right = 1
@@ -104670,7 +104634,7 @@ script 205 mmbn3 {
 		down = 2
 	space
 		count = 2
-	"Love & Friendship…\n"
+	"   Navi Nostro\n"
 	option
 		left = 2
 		right = 2
@@ -104678,7 +104642,7 @@ script 205 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Love & Loss…"
+	"   Rede Nostra"
 	select
 		default = 0
 		BSeparate = false
@@ -104701,16 +104665,16 @@ script 206 mmbn3 {
 	mugshotShow
 		mugshot = OldMan
 	msgOpen
-	"CORRECT!!"
+	"CORRETO!!"
 	keyWait
 	clearMsg
 	"""
-	You…
-	You're amazing!
+	Você...
+	É incrível!
 	"""
 	keyWait
 	clearMsg
-	"Here,take this!"
+	"Tome, tome!"
 	keyWait
 	clearMsg
 	jump
@@ -104753,9 +104717,9 @@ script 208 mmbn3 {
 		mugshot = OldMan
 	msgOpen
 	"""
-	I never thought I'd
-	see a winner in my
-	lifetime!
+	Nunca pensei que veria
+	um vencedor nesta vida,
+	ainda!
 	"""
 	keyWait
 	end
@@ -104765,8 +104729,8 @@ script 209 mmbn3 {
 		mugshot = OldMan
 	msgOpen
 	"""
-	Well,come again when
-	you have more time.
+	Bom, volte aqui quando
+	tiver mais tempo.
 	"""
 	keyWait
 	end
@@ -104780,14 +104744,14 @@ script 210 mmbn3 {
 		mugshot = OldMan
 	msgOpen
 	"""
-	Hee,hee,hee!
-	Wrong!!
+	He he he he!
+	Errou!!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Study hard before
-	you come back!
+	Estude bem antes de
+	voltar aqui!
 	"""
 	keyWait
 	end
@@ -104797,9 +104761,9 @@ script 211 mmbn3 {
 		mugshot = OldMan
 	msgOpen
 	"""
-	I'd never even
-	imagined that I
-	could lose the quiz…
+	Nunca imaginei que meu
+	questionário seria
+	zerado...
 	"""
 	keyWait
 	end
@@ -104809,22 +104773,23 @@ script 212 mmbn3 {
 		mugshot = OldMan
 	msgOpen
 	"""
-	Quiz King! Who sent
-	for Quiz King?
+	O Questionário Reeei!
+	Quem convocou o
+	Questionário Rei?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Take a chance!
-	Chance your luck!
-	Lucky quiz time…
+	Não tenha medo!
+	Arrisque a sorte!
+	Questionário é sorte...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Hee,hee,hee! So you
-	came back to Quiz
-	King to Tentar de novo?
+	He he he! Então, voltou
+	pra tentar encarar o
+	questionário de novo?
 	"""
 	keyWait
 	clearMsg
@@ -104836,7 +104801,7 @@ script 212 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"I'd love to!\n"
+	"   Pode crer!\n"
 	option
 		left = 1
 		right = 1
@@ -104844,7 +104809,7 @@ script 212 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Sorry,too busy"
+	"   Tô ocupado, agora"
 	select
 		default = 0
 		BSeparate = false
@@ -104858,13 +104823,13 @@ script 212 mmbn3 {
 }
 script 220 mmbn3 {
 	msgOpen
-	"DNN's official boat"
+	"O barco oficial da DNN."
 	keyWait
 	clearMsg
 	"""
-	It doesn't look it,
-	but it's built very
-	sturdily
+	Pode não parecer, mas
+	tem uma construção bem
+	sólida.
 	"""
 	keyWait
 	end
@@ -104872,15 +104837,15 @@ script 220 mmbn3 {
 script 221 mmbn3 {
 	msgOpen
 	"""
-	It's an elevator
-	door,camouflaged to
-	look like a rock
+	É uma porta de elevador,
+	camuflada para parecer
+	uma mera rocha.
 	"""
 	keyWait
 	clearMsg
 	"""
-	It can't be opened
-	from this side
+	Não dá para abri-la
+	deste lado.
 	"""
 	keyWait
 	end
@@ -104892,21 +104857,21 @@ script 222 mmbn3 {
 		jumpIfFalse = continue
 	msgOpen
 	"""
-	A grotesque statue
-	with a demon face
+	Uma estátua grotesca
+	com rosto de demônio.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Its evil grimace
-	sets the tone
-	for Hades Isle…
+	Seu sorriso maligno
+	marca forte a atmosfera
+	da Ilha do Inferno...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Looking closely,the
-	eyes are lit up!
+	Olhando de perto, os
+	olhos acendem!
 	"""
 	keyWait
 	end
@@ -104914,8 +104879,8 @@ script 222 mmbn3 {
 script 223 mmbn3 {
 	msgOpen
 	"""
-	A large crab is
-	crawling on the rock
+	Um enorme caranguejo
+	caminha sobre a rocha.
 	"""
 	keyWait
 	clearMsg
@@ -104925,9 +104890,9 @@ script 223 mmbn3 {
 		jumpIfFalse = continue
 	clearMsg
 	"""
-	The crab pushes
-	something out from
-	inside its shell!
+	Ele está tirando uma
+	coisa de dentro de sua
+	sua carapaça!
 	"""
 	keyWait
 	clearMsg
@@ -104963,29 +104928,29 @@ script 250 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan! This must
-	be the "Demon" from
-	the will!
+	MegaMan! Esse deve
+	ser o "Demônio" do
+	testamento!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Hmmm…It looks like
-	there's a message…
+	Hmmm... Parece que tem
+	uma mensagem aqui...
 	"""
 	keyWait
 	clearMsg
 	"""
-	"The back pillars
-	rise straight to
-	heaven".
+	"Os pilares traseiros
+	ascendem direto ao
+	céu."
 	"""
 	keyWait
 	clearMsg
 	"""
-	And this…
-	Aah! A virus has
-	gotten into my PET!?
+	E isto aqui...
+	Aah! Um vírus pulou pra
+	dentro do meu PET?!
 	"""
 	keyWait
 	flagSet
@@ -104999,15 +104964,15 @@ script 251 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Looks like the end
-	of the virus…
+	Parece que acabamos
+	com os vírus...
 	"""
 	keyWait
 	clearMsg
 	"""
-	It says,"The back
-	pillars rise
-	straight to heaven"…
+	Está escrito: "Os pilares
+	traseiros ascendem
+	direto ao céu"...
 	"""
 	keyWait
 	end
@@ -105020,9 +104985,9 @@ script 0 mmbn3 {
 		mugshot = BlackWoman
 	msgOpen
 	"""
-	The horror…
-	The horror…
-	What lies ahead?
+	Que horror...
+	Que horror...
+	O que ainda nos espera?
 	"""
 	keyWait
 	end
@@ -105032,8 +104997,8 @@ script 1 mmbn3 {
 		mugshot = Tora
 	msgOpen
 	"""
-	Go on. Hurry up.
-	Not afraid,are you?
+	Vai, corre, menino.
+	Tá com medinho?
 	"""
 	keyWait
 	end
@@ -105042,15 +105007,15 @@ script 2 mmbn3 {
 	mugshotShow
 		mugshot = NetbattlerQ
 	msgOpen
-	"……"
+	"......"
 	keyWait
 	end
 }
 script 5 mmbn3 {
 	msgOpen
 	"""
-	If you go out,you'll
-	be disqualified!
+	Se você sair, será
+	desqualificado!
 	"""
 	keyWait
 	end
@@ -105060,9 +105025,9 @@ script 10 mmbn3 {
 		mugshot = BlackWoman
 	msgOpen
 	"""
-	Don't worry about
-	anyone else. Just
-	look after yourself!
+	Não se preocupe com
+	os outros. Cuide só de
+	você mesmo!
 	"""
 	keyWait
 	end
@@ -105071,7 +105036,7 @@ script 11 mmbn3 {
 	mugshotShow
 		mugshot = BlackMan
 	msgOpen
-	"Grrr…"
+	"Grrr..."
 	keyWait
 	end
 }
@@ -105080,8 +105045,8 @@ script 12 mmbn3 {
 		mugshot = PompadourMan
 	msgOpen
 	"""
-	I'm battling now!
-	Don't bother me!
+	Eu tô lutando agora!
+	Não me distrai!
 	"""
 	keyWait
 	end
@@ -105091,13 +105056,13 @@ script 13 mmbn3 {
 		mugshot = Man
 	msgOpen
 	"""
-	I can't find the
+	Não consigo achar o
 	"
 	"""
 	printItem
 		buffer = 0
 		item = 18
-	"\"…"
+	"\"..."
 	keyWait
 	end
 }
@@ -105106,9 +105071,9 @@ script 14 mmbn3 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	You're in the wrong
-	place. You have to
-	go down that path.
+	Você está no lugar
+	errado.
+	Tem que descer por ali.
 	"""
 	keyWait
 	end
@@ -105118,9 +105083,9 @@ script 15 mmbn3 {
 		mugshot = Tora
 	msgOpen
 	"""
-	What's up with you?
-	Scared and looking
-	for your mommy?
+	Que é que tu tem?
+	Tá com medinho, é?
+	Tá querendo a mamãe?
 	"""
 	keyWait
 	end
@@ -105129,7 +105094,7 @@ script 16 mmbn3 {
 	mugshotShow
 		mugshot = NetbattlerQ
 	msgOpen
-	"……"
+	"......"
 	keyWait
 	end
 }
@@ -105142,28 +105107,28 @@ script 20 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Looking for an Extra
-	Folder,are you?
+	Procurando por uma
+	Pasta Extra, é?
 	"""
 	keyWait
 	clearMsg
 	"""
-	I have a Extra
-	Folder. I'll give it
-	to you if you want.
+	Eu tenho uma aqui.
+	E posso dá-la a você,
+	se quiser.
 	"""
 	keyWait
 	clearMsg
 	"""
-	When you get a new
-	Extra Folder,
+	Ao receber uma nova
+	Pasta Extra,
 	"""
 	keyWait
 	clearMsg
 	"""
-	The one you have now
-	will be overwritten.
-	Is that OK with you?
+	a que você tem consigo
+	agora é sobrescrita.
+	Tudo bem por você?
 	"""
 	keyWait
 	clearMsg
@@ -105175,7 +105140,7 @@ script 20 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Sure "
+	"   Tá "
 	option
 		left = 0
 		right = 0
@@ -105183,7 +105148,7 @@ script 20 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"No way"
+	"          Nem"
 	select
 		default = 0
 		BSeparate = false
@@ -105194,11 +105159,12 @@ script 20 mmbn3 {
 			jump = continue,
 			jump = continue
 		]
+	clearMsg
 	mugshotShow
 		mugshot = Scientist
 	"""
-	Come see me if you
-	want an "
+	Venha falar comigo se
+	quiser uma "
 	"""
 	printFolderName
 		buffer = 0
@@ -105214,30 +105180,30 @@ script 21 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	OK! I'll give you
-	my folder.
+	OK! Darei a minha pasta
+	a você.
 	"""
 	keyWait
 	clearMsg
-	"Here we go…"
+	"Aqui vai..."
 	keyWait
 	clearMsg
 	"""
-	I carefully edited
-	this folder myself
-	last night.
+	Eu editei essa pasta
+	eu mesmo ontem à noite,
+	com muito cuidado.
 	"""
 	keyWait
 	clearMsg
-	"…Just a bit more…"
+	"... Só mais um\npouquinho..."
 	keyWait
 	clearMsg
 	soundPlay
 		track = 220
 	"""
-	…Done!
-	Your Extra Folder is
-	now "
+	... Pronto!
+	Sua Pasta Extra, agora,
+	é a "
 	"""
 	printFolderName
 		buffer = 0
@@ -105251,8 +105217,9 @@ script 22 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Quarterfinals next!
-	Break a leg!
+	A seguir, as quartas de
+	finais!
+	Não vá fazer feio!
 	"""
 	keyWait
 	end
@@ -105266,46 +105233,46 @@ script 23 mmbn3 {
 		mugshot = ZooMan
 	msgOpen
 	"""
-	Hey! Hey,you!
-	It's Lan,isn't it?
+	Ei! Ei, você!
+	Lan Hikari, não?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Oooh,I'm a big fan
-	of yours,you know!!
+	Aaaah, eu sou um
+	fãzaço seu!! Sério!!
 	"""
 	keyWait
 	clearMsg
 	"""
-	It would be great if
-	you'd use the Extra
-	Folder I edited.
+	Seria demais se você
+	usasse a Pastra Extra
+	que eu editei.
 	"""
 	keyWait
 	clearMsg
 	"""
-	How about it? Battle
-	with my folder! You
-	won't regret it!!
+	Que tal? Lute com a
+	minha pasta! Não vai se
+	arrepender!!
 	"""
 	keyWait
 	clearMsg
 	"""
-	One thing,though…
-	If you get a new
-	Extra Folder,
+	Só um detalhe...
+	Se você pegar uma
+	nova Pasta Extra,
 	"""
 	keyWait
 	clearMsg
 	"""
-	It'll overwrite the
-	one you have now…
-	No biggie,right?
+	ela sobrescreverá a
+	que você tem agora...
+	De boa, né?
 	"""
 	keyWait
 	clearMsg
-	"Wanna try it out?"
+	"Quer experimentar?"
 	keyWait
 	clearMsg
 	mugshotHide
@@ -105316,7 +105283,7 @@ script 23 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Sure "
+	"   Tá "
 	option
 		left = 0
 		right = 0
@@ -105324,7 +105291,7 @@ script 23 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"No thanks"
+	"          Não, valeu"
 	select
 		default = 0
 		BSeparate = false
@@ -105335,22 +105302,23 @@ script 23 mmbn3 {
 			jump = continue,
 			jump = continue
 		]
+	clearMsg
 	mugshotShow
 		mugshot = ZooMan
 	"""
-	Well,if you ever
-	want my "
+	Bom, se mudar de ideia e
+	quiser minha "
 	"""
 	printFolderName
 		buffer = 0
 		entry = 5
 	"""
 	",
-	come and get it!
+	é só pedir!
 	"""
 	keyWait
 	clearMsg
-	"I'll be waiting!!"
+	"Ficarei esperando!!"
 	keyWait
 	end
 }
@@ -105361,84 +105329,85 @@ script 24 mmbn3 {
 		mugshot = ZooMan
 	msgOpen
 	"""
-	OK,just a second…
-	Sending the data…
-	・
+	OK, só um instante...
+	Enviando os dados...
+	.
 	"""
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"Now!"
+	" Agora!"
 	keyWait
 	clearMsg
 	"""
-	Lan,I'm honored
-	that you will use
-	MY special folder.
-	"""
-	keyWait
-	clearMsg
-	"""
-	Aaah,I can't wait
-	to tell everyone…
+	Lan, fico honrado que
+	você escolheu usar a
+	MINHA pasta especial.
 	"""
 	keyWait
 	clearMsg
 	"""
-	My dad… My mom…
-	My girlfriend…
+	Aaah, mal posso esperar
+	pra contar pra todo
+	mundo...
 	"""
 	keyWait
 	clearMsg
 	"""
-	My grandparents…
-	Johnny next door…
-	I'll tell everyone!
+	Meu pai... Minha mãe...
+	Minha namorada...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Johnny loves Net
-	Battles. He'll be
-	green with envy!
+	Meus avós... Meu vizinho,
+	o Johnny...
+	Pra TODO MUNDO!
+	"""
+	keyWait
+	clearMsg
+	"""
+	O Johnny ama NetLutas.
+	Ele vai morrer de inveja!
 	"""
 	keyWait
 	clearMsg
 	soundPlay
 		track = 220
 	"""
-	OK! The data is all
-	fully sent!!
+	OK! Todos os dados
+	foram enviados!!
 	"""
 	keyWait
 	clearMsg
-	"The \""
+	"A \""
 	printFolderName
 		buffer = 0
 		entry = 5
 	"""
-	" is
-	now yours!
+	", agora, é
+	toda sua!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'll be cheering for
-	you. Good luck!!
+	Vou ficar torcendo por
+	você com tudo.
+	Boa sorte!!
 	"""
 	keyWait
 	end
@@ -105448,9 +105417,9 @@ script 25 mmbn3 {
 		mugshot = ZooMan
 	msgOpen
 	"""
-	You're bound to win!
-	After all,I'm
-	cheering for you!
+	Você, com certeza, vai
+	vencer! Afinal, eu vou
+	torcer por você!
 	"""
 	keyWait
 	end
@@ -105464,20 +105433,20 @@ script 26 mmbn3 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	Ah,so you're looking
-	for an Extra Folder.
-	Not easy,I'm sure…
+	Ah, então, você está em
+	busca de uma Pasta
+	Extra. Complicado...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Hey! Speaking of
-	folders,you won't
-	believe mine!!
+	Aí! Falando em pastas,
+	você NÃO VAI acreditar
+	na minha!!
 	"""
 	keyWait
 	clearMsg
-	"Wanna hear about it?\n"
+	"Quer ouvir mais?\n"
 	option
 		left = 1
 		right = 1
@@ -105485,7 +105454,7 @@ script 26 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Sure "
+	"   Claro "
 	option
 		left = 0
 		right = 0
@@ -105493,7 +105462,7 @@ script 26 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"No"
+	"          Não"
 	select
 		default = 0
 		BSeparate = false
@@ -105505,9 +105474,9 @@ script 26 mmbn3 {
 			jump = continue
 		]
 	"""
-	Ah,that's a pity…
-	No time for my
-	unique hyper-folder…
+	Ah, que pena... Não tem
+	tempo pra minha hiper-
+	pasta especial...
 	"""
 	keyWait
 	end
@@ -105517,68 +105486,67 @@ script 27 mmbn3 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	It's full of rare
-	chips and NaviChips.
-	All hard to find.
+	Ela é cheia de chips e
+	ChipsNavi raros.
+	Todos difíceis de achar.
 	"""
 	keyWait
 	clearMsg
 	"""
-	If you were to use
-	my folder,victory
-	would be guaranteed!
+	Se você usasse a minha
+	pasta, a vitória estaria
+	garantida!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I really believe
-	that it's the
-	ultimate folder…
+	Eu, realmente, acredito
+	que ela é a pasta
+	suprema...
 	"""
 	keyWait
 	clearMsg
 	"""
-	There's just one
-	thing,though.
+	Só tem um probleminha.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I forgot it today!
-	How stupid of me!
+	Eu esqueci ela hoje!
+	Que estupidez a minha!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I thought I put
-	it in my PET this
-	morning.
+	Eu podia jurar que tinha
+	colocado no meu PET
+	hoje de manhã.
 	"""
 	keyWait
 	clearMsg
 	"""
-	But now,the data is
-	all different.
+	Mas, agora, os dados
+	estão todos diferentes.
 	"""
 	keyWait
 	clearMsg
-	"Know what it is now?"
+	"Sabe o que tem agora?"
 	keyWait
 	clearMsg
 	"""
-	My checkbook!
-	Ha,ha!!
+	Meu talão de cheques!
+	Ha ha!!
 	"""
 	keyWait
 	clearMsg
 	"""
 	Ah ha ha ha ha!!
-	Heh,hee-hee-hee!!
-	AH-HA-HA-HA-HA!!
+	He, hi hi hi hi!!
+	AH HA HA HA HA!!
 	"""
 	keyWait
 	clearMsg
-	"Whew! "
+	"Uff! "
 	waitSkip
 		frames = 30
 	"・"
@@ -105591,15 +105559,15 @@ script 27 mmbn3 {
 	waitSkip
 		frames = 30
 	"""
-	Sorry…
-	Once I get going,I
-	can't stop laughing.
+	Desculpa...
+	Quando eu começo a rir,
+	não consigo parar.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Waaa ha ha ha…
-	Heee,hee,hee,hee…
+	Gaa ha ha ha...
+	Hee hee hee hee...
 	"""
 	keyWait
 	end
@@ -105609,8 +105577,9 @@ script 28 mmbn3 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	Guess I'm the joker
-	in this deck.
+	Acho que eu sou o
+	bobo-da-corte deste
+	castelo.
 	"""
 	keyWait
 	end
@@ -105619,27 +105588,27 @@ script 50 mmbn3 {
 	mugshotShow
 		mugshot = Scientist
 	msgOpen
-	"Want an \""
+	"Quer uma \""
 	printFolderName
 		buffer = 0
 		entry = 6
 	"""
 	"?
-	This Extra Folder
-	may prove useful.
+	Esta Pasta Extra
+	pode se mostrar útil.
 	"""
 	keyWait
 	clearMsg
 	"""
-	The new Extra Folder
-	will overwrite your
-	current one,though.
+	Mas a nova Pasta Extra
+	sobrescreverá a pasta
+	atual.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Are you sure you
-	still want it?
+	Você concorda com os
+	termos e quer continuar?
 	"""
 	keyWait
 	clearMsg
@@ -105651,7 +105620,7 @@ script 50 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"   Sim "
 	option
 		left = 0
 		right = 0
@@ -105659,7 +105628,7 @@ script 50 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"No thanks"
+	"          Não, valeu"
 	select
 		default = 0
 		BSeparate = false
@@ -105673,15 +105642,15 @@ script 50 mmbn3 {
 	mugshotShow
 		mugshot = Scientist
 	"""
-	Really?! If you need
-	an "
+	Mesmo?! Bom, se precisar
+	de uma "
 	"""
 	printFolderName
 		buffer = 0
 		entry = 6
 	"""
 	",
-	come back here.
+	é só voltar aqui.
 	"""
 	keyWait
 	end
@@ -105690,7 +105659,7 @@ script 51 mmbn3 {
 	mugshotShow
 		mugshot = ZooMan
 	msgOpen
-	"Want my \""
+	"Quer a minha \""
 	printFolderName
 		buffer = 0
 		entry = 5
@@ -105698,16 +105667,16 @@ script 51 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Extra is one thing.
-	What you need is one
-	that's powerful.
+	Não basta ser "extra".
+	Você precisa de uma
+	que seja FORTE.
 	"""
 	keyWait
 	clearMsg
 	"""
-	If you don't need
-	your current folder,
-	try my "
+	Se não precisar da
+	minha pasta atual,
+	tente a minha "
 	"""
 	printFolderName
 		buffer = 0
@@ -105723,7 +105692,7 @@ script 51 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"   OK "
 	option
 		left = 0
 		right = 0
@@ -105731,7 +105700,7 @@ script 51 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"No thanks"
+	"          Não, valeu"
 	select
 		default = 0
 		BSeparate = false
@@ -105742,17 +105711,18 @@ script 51 mmbn3 {
 			jump = continue,
 			jump = continue
 		]
+	clearMsg
 	mugshotShow
 		mugshot = ZooMan
 	"""
-	Well,I suppose if
-	that's how you feel…
+	Bom, se é assim que
+	você se sente, né...
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'll be here if you
-	ever need to use my
+	Estarei aqui caso você
+	queira usar a minha
 	"
 	"""
 	printFolderName
@@ -105766,7 +105736,7 @@ script 52 mmbn3 {
 	mugshotShow
 		mugshot = CapBoy
 	msgOpen
-	"Want my \""
+	"Quer a minha \""
 	printFolderName
 		buffer = 0
 		entry = 4
@@ -105774,19 +105744,19 @@ script 52 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	It's pretty strong!
-	And you'll need it!
+	É bem fortona!
+	E cê vai precisar, hein!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Your current folder
-	will be overwritten,
-	but it's worth it.
+	A sua pasta atual vai
+	ser sobrescrita, mas
+	vai valer a pena.
 	"""
 	keyWait
 	clearMsg
-	"Interested?"
+	"Interessado?"
 	keyWait
 	clearMsg
 	mugshotHide
@@ -105797,7 +105767,7 @@ script 52 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"   Sim "
 	option
 		left = 0
 		right = 0
@@ -105805,7 +105775,7 @@ script 52 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"No thanks"
+	"          Não, valeu"
 	select
 		default = 0
 		BSeparate = false
@@ -105816,12 +105786,13 @@ script 52 mmbn3 {
 			jump = continue,
 			jump = continue
 		]
+	clearMsg
 	mugshotShow
 		mugshot = CapBoy
 	"""
-	Are you sure? If
-	you change your
-	mind,look for me.
+	Certeza? Bom, se mudar
+	de ideia, vem falar
+	comigo.
 	"""
 	keyWait
 	end
@@ -105830,7 +105801,7 @@ script 53 mmbn3 {
 	mugshotShow
 		mugshot = SciLabMan
 	msgOpen
-	"Need my \""
+	"Precisa da minha \""
 	printFolderName
 		buffer = 0
 		entry = 3
@@ -105838,22 +105809,22 @@ script 53 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	I used this one in
-	the Grande Prêmio N1.
+	Eu usei ela no Grande
+	Prêmio N1.
 	"""
 	keyWait
 	clearMsg
 	"""
-	It's always best to
-	use a folder you are
-	familiar with.
+	É sempre melhor usar
+	uma pasta com a qual
+	já está familiarizado.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'll send it and
-	overwrite your
-	current folder. OK?
+	Vou te mandar ela e
+	sobrescrever a sua
+	pasta atual. OK?
 	"""
 	keyWait
 	clearMsg
@@ -105865,7 +105836,7 @@ script 53 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"   OK "
 	option
 		left = 0
 		right = 0
@@ -105873,7 +105844,7 @@ script 53 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"No thanks"
+	"          Não, valeu"
 	select
 		default = 0
 		BSeparate = false
@@ -105884,11 +105855,12 @@ script 53 mmbn3 {
 			jump = continue,
 			jump = continue
 		]
+	clearMsg
 	mugshotShow
 		mugshot = SciLabMan
 	"""
-	I see. Well,I hope
-	you'll come again.
+	Entendo. Bom, espero que
+	você volte aqui.
 	"""
 	keyWait
 	end
@@ -105898,8 +105870,8 @@ script 54 mmbn3 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	How would you like
-	my "
+	E então, que tal a
+	minha "
 	"""
 	printFolderName
 		buffer = 0
@@ -105908,32 +105880,32 @@ script 54 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	It's got some very
-	special features!
+	Ela tem uns detalhes
+	muito especiais!
 	"""
 	keyWait
 	clearMsg
 	"""
-	A unique folder will
-	give you an edge.
+	Um pasta única lhe dará
+	uma vantagem única.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Your current folder
-	will be overwritten,
-	but if that's OK,
+	A sua pasta atual será
+	sobrescrita, mas, se
+	tudo bem por você,
 	"""
 	keyWait
 	clearMsg
 	"""
-	Shall I give you my
+	aceitaria a minha
 	"
 	"""
 	printFolderName
 		buffer = 0
 		entry = 7
-	"\""
+	"\"?"
 	keyWait
 	clearMsg
 	mugshotHide
@@ -105944,7 +105916,7 @@ script 54 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"   Sim "
 	option
 		left = 0
 		right = 0
@@ -105952,7 +105924,7 @@ script 54 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"No thanks"
+	"          Não, valeu"
 	select
 		default = 0
 		BSeparate = false
@@ -105963,12 +105935,13 @@ script 54 mmbn3 {
 			jump = continue,
 			jump = continue
 		]
+	clearMsg
 	mugshotShow
 		mugshot = BusinessMan
 	"""
-	Aaah,that's a pity.
-	Look for me if you
-	need my "
+	Aaah, que pena. Volte a
+	falar comigo se precisar
+	da minha "
 	"""
 	printFolderName
 		buffer = 0
@@ -105984,19 +105957,19 @@ script 55 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	All right,I'll send
-	the data…
+	OK, vou enviar os
+	dados agora...
 	"""
 	keyWait
 	clearMsg
 	soundPlay
 		track = 220
-	"Good! That's done!"
+	"Isso! Prontinho!"
 	keyWait
 	clearMsg
 	"""
-	Your Extra Folder is
-	now "
+	A sua Pasta Extra,
+	agora, é a "
 	"""
 	printFolderName
 		buffer = 0
@@ -106012,8 +105985,9 @@ script 56 mmbn3 {
 		mugshot = ZooMan
 	msgOpen
 	"""
-	Just wait. I'll send
-	the "
+	Espera só um pouquinho.
+	Vou mandar logo agora
+	a "
 	"""
 	printFolderName
 		buffer = 0
@@ -106026,12 +106000,12 @@ script 56 mmbn3 {
 	clearMsg
 	soundPlay
 		track = 220
-	"And…Finished!"
+	"E... concluído!"
 	keyWait
 	clearMsg
 	"""
-	Your Extra Folder is
-	now "
+	Sua Pasta Extra, agora,
+	é a "
 	"""
 	printFolderName
 		buffer = 0
@@ -106046,26 +106020,26 @@ script 57 mmbn3 {
 	mugshotShow
 		mugshot = CapBoy
 	msgOpen
-	"Start \""
+	"Iniciar transmissão\nda \""
 	printFolderName
 		buffer = 0
 		entry = 4
 	"""
-	"
-	transmission… Now!!
+	"...
+	Agora!!
 	"""
 	keyWait
 	clearMsg
 	soundPlay
 		track = 220
-	"…Zap!!"
+	"... Zap!!"
 	keyWait
 	clearMsg
-	"Finished. Ta-daaa!!"
+	"Terminado. Tcharãn!!"
 	keyWait
 	clearMsg
 	"""
-	Now your folder is
+	Agora, sua pasta é a
 	"
 	"""
 	printFolderName
@@ -106082,7 +106056,7 @@ script 58 mmbn3 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Great. I'll send the
+	Ótimo. Vou enviar a
 	"
 	"""
 	printFolderName
@@ -106090,18 +106064,18 @@ script 58 mmbn3 {
 		entry = 3
 	"""
 	".
-	Here goes!!
+	Lá vai!!
 	"""
 	keyWait
 	clearMsg
 	soundPlay
 		track = 220
-	"Transfer complete!"
+	"Transferência concluída!"
 	keyWait
 	clearMsg
 	"""
-	Your Extra Folder
-	has now become
+	A sua Pasta Extra
+	se tornou a
 	"
 	"""
 	printFolderName
@@ -106118,8 +106092,8 @@ script 59 mmbn3 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	Excellent! Now,I'll
-	just send you the
+	Excelente! Agora, vou
+	mandar pra você a
 	"
 	"""
 	printFolderName
@@ -106131,13 +106105,13 @@ script 59 mmbn3 {
 	soundPlay
 		track = 220
 	"""
-	All right!
-	Complete!
+	Certo!
+	Terminado!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Your folder is now
+	Sua pasta, agora, é a
 	"
 	"""
 	printFolderName
@@ -106155,59 +106129,58 @@ script 190 mmbn3 {
 	mugshotShow
 		mugshot = Scientist
 	msgOpen
-	"Ah! You're here!"
+	"Ah! Você está aqui!"
 	keyWait
 	clearMsg
 	"""
-	Listen! Something
-	terrible's going on!
-	"""
-	keyWait
-	clearMsg
-	"""
-	We were doing tests
-	on virus battles
-	in this computer,
+	Escute! Tem uma coisa
+	terrível acontecendo!
 	"""
 	keyWait
 	clearMsg
 	"""
-	And somehow,they
-	began to multiply
-	out of control!
+	Estávamos fazendo uns
+	testes com batalhas an-
+	tivírus neste computador,
 	"""
 	keyWait
 	clearMsg
 	"""
-	The number of
-	viruses just keeps
-	increasing!
+	e, não sei como, eles co-
+	meçaram a se multiplicar,
+	fora do nosso controle!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Help! You're our
-	only hope!
+	O número de vírus não
+	para de aumentar!
 	"""
 	keyWait
 	clearMsg
 	"""
-	This computer links
-	Hades Isle and the
-	Undernet.
+	Ajude-nos! Você é a
+	nossa única esperança!
 	"""
 	keyWait
 	clearMsg
 	"""
-	If we do nothing,the
-	viruses will run
-	amok the world over!
+	Este computador
+	conecta a Ilha do
+	Inferno à Undernet.
 	"""
 	keyWait
 	clearMsg
 	"""
-	…Are you ready
-	to jack in!?
+	Se não fizermos nada,
+	os vírus vão causar
+	caos mundo afora!
+	"""
+	keyWait
+	clearMsg
+	"""
+	... Você está pronto
+	para se conectar?!
 	"""
 	keyWait
 	clearMsg
@@ -106219,7 +106192,7 @@ script 190 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"   Estou "
 	option
 		left = 0
 		right = 0
@@ -106227,7 +106200,7 @@ script 190 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No"
+	"          Não"
 	select
 		default = 0
 		BSeparate = false
@@ -106252,16 +106225,16 @@ script 191 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Great! You deleted
-	the viruses faster
-	than they grew!
+	Perfeito! Você deletou
+	os vírus mais rápido do
+	que eles se reproduziam!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'm grateful!
-	Please accept this
-	token of thanks.
+	Estou muito grato!
+	Por favor, aceite isto
+	como agradecimento.
 	"""
 	keyWait
 	clearMsg
@@ -106279,8 +106252,8 @@ script 192 mmbn3 {
 	playerAnimate
 		animation = 24
 	"""
-	Lan got 30
-	"BugFrags"!!
+	Lan recebeu 30
+	"FragBugs"!!
 	
 	"""
 	playerFinish
@@ -106295,14 +106268,13 @@ script 193 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	What would we have
-	done without you…?
+	O que teria sido de nós
+	sem você...?
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'm afraid to even
-	think about it!
+	Eu tremo só de pensar!
 	"""
 	keyWait
 	end
@@ -106312,8 +106284,8 @@ script 194 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	You've been a great
-	help. Thank you!
+	Você nos ajudou muito.
+	Obrigado!
 	"""
 	keyWait
 	end
@@ -106323,8 +106295,8 @@ script 195 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	OK! Hurry up!
-	There's no time!
+	OK! Depressa!
+	Estamos sem tempo!
 	"""
 	keyWait
 	end
@@ -106332,9 +106304,9 @@ script 195 mmbn3 {
 script 220 mmbn3 {
 	msgOpen
 	"""
-	A NetBattle machine
-	with multiple jacks,
-	used for N1
+	Uma máquina de
+	NetLutas com múltiplas
+	entradas, para o N1.
 	"""
 	keyWait
 	end
@@ -106342,14 +106314,14 @@ script 220 mmbn3 {
 script 221 mmbn3 {
 	msgOpen
 	"""
-	You can only enter
-	the door you choose.
+	Você só pode entrar
+	pela porta que escolher.
 	"""
 	keyWait
 	clearMsg
 	"""
-	…I'm Yasu,
-	a reporter.
+	... Eu sou Yasu.
+	Sou repórter.
 	"""
 	keyWait
 	end
@@ -106359,9 +106331,8 @@ script 222 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Where are you going,
-	Lan? You'll be
-	disqualified!
+	Aonde você vai, Lan?
+	Vai ser desqualificado!
 	"""
 	keyWait
 	end
@@ -106383,45 +106354,46 @@ script 190 mmbn3 {
 	mugshotShow
 		mugshot = BlackWoman
 	msgOpen
-	"Oh! You're that kid!"
+	"Ah! Você é aquele\ngaroto!"
 	keyWait
 	clearMsg
 	"""
-	Remember me? I'm
-	Jennifer. I came
-	here for N1.
-	"""
-	keyWait
-	clearMsg
-	"""
-	I learned my lesson
-	at N1. I'm far from
-	being ready yet!
+	Lembra de mim?
+	A Jennifer?
+	Eu competi no N1.
 	"""
 	keyWait
 	clearMsg
 	"""
-	That's the reason
-	for my special
-	training.
+	Eu aprendi minha lição
+	no torneio. Ainda falta
+	muito chão pra mim!
 	"""
 	keyWait
 	clearMsg
 	"""
-	But something seems
-	to be missing…
+	Por isso estou fazendo
+	este treinamento
+	especial.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I think I need a
-	chip that suits me
-	a little better.
+	Mas eu tô com a
+	sensação de que falta
+	alguma coisa...
 	"""
 	keyWait
 	clearMsg
 	"""
-	So,then,my
+	Acho que preciso de um
+	chip que combine mais
+	comigo.
+	"""
+	keyWait
+	clearMsg
+	"""
+	Daí, sugestão: meu
 	"
 	"""
 	printChip
@@ -106431,10 +106403,10 @@ script 190 mmbn3 {
 	printCode
 		buffer = 0
 		code = Z
-	"\" for"
+	"\" pelo"
 	keyWait
 	clearMsg
-	"your \""
+	"seu \""
 	printChip
 		buffer = 0
 		chip = 136
@@ -106444,7 +106416,7 @@ script 190 mmbn3 {
 		code = K
 	"""
 	".
-	Wanna trade?
+	Quer trocar?
 	"""
 	keyWait
 	clearMsg
@@ -106456,7 +106428,7 @@ script 190 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes! "
+	"   Quero! "
 	option
 		left = 0
 		right = 0
@@ -106464,7 +106436,7 @@ script 190 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No"
+	"          Não"
 	select
 		default = 0
 		BSeparate = false
@@ -106494,9 +106466,9 @@ script 191 mmbn3 {
 		mugshot = BlackWoman
 	msgOpen
 	"""
-	Yes! I knew I could
-	depend on you to
-	help me out!
+	Isso! Sabia que eu podia
+	contar com você pra me
+	ajudar!
 	"""
 	keyWait
 	clearMsg
@@ -106538,9 +106510,9 @@ script 193 mmbn3 {
 		mugshot = BlackWoman
 	msgOpen
 	"""
-	Thanks! Now I won't
-	lose in the next
-	N1! On to glory!
+	Valeu! Agora, eu tô
+	pronta pra VENCER o
+	próximo N1! Avante!
 	"""
 	keyWait
 	end
@@ -106550,8 +106522,8 @@ script 194 mmbn3 {
 		mugshot = BlackWoman
 	msgOpen
 	"""
-	Aah… That's too bad.
-	I'm disappointed.
+	Aah... Que pena.
+	Decepção...
 	"""
 	keyWait
 	end
@@ -106561,22 +106533,21 @@ script 195 mmbn3 {
 		mugshot = BlackWoman
 	msgOpen
 	"""
-	Hey? Don't you have
-	the chip that you
-	promised me?
+	Ué? Você não tem o
+	chip que me prometeu?
 	"""
 	keyWait
 	clearMsg
 	"""
-	That's not nice!
-	Maybe it's inside
-	your folder?
+	Poxa, que maldade!
+	Será que tá dentro de
+	uma pasta sua?
 	"""
 	keyWait
 	clearMsg
 	"""
-	If it is,you'll have
-	to take it out.
+	Se estiver, você tem
+	que tirá-lo de lá.
 	"""
 	keyWait
 	end
@@ -106586,9 +106557,9 @@ script 196 mmbn3 {
 		mugshot = BlackWoman
 	msgOpen
 	"""
-	I'm going to polish
-	my NetBattle tactics
-	with this chip!
+	Eu vou aperfeiçoar
+	minhas técnicas de
+	NetLuta com este chip!
 	"""
 	keyWait
 	end
@@ -106598,12 +106569,12 @@ script 197 mmbn3 {
 		mugshot = BlackWoman
 	msgOpen
 	"""
-	Hey,kid! Wanna trade
-	with me after all?
+	Oi, garoto! Mudou de ideia
+	e quer trocar comigo?
 	"""
 	keyWait
 	clearMsg
-	"My \""
+	"O meu \""
 	printChip
 		buffer = 0
 		chip = 208
@@ -106612,8 +106583,8 @@ script 197 mmbn3 {
 		buffer = 0
 		code = Z
 	"""
-	" for
-	your "
+	" pelo
+	seu "
 	"""
 	printChip
 		buffer = 0
@@ -106624,7 +106595,7 @@ script 197 mmbn3 {
 		code = K
 	"""
 	".
-	It's a deal,right?
+	"Vamo fechá"?
 	"""
 	keyWait
 	clearMsg
@@ -106636,7 +106607,7 @@ script 197 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Right! "
+	"   Vamo! "
 	option
 		left = 0
 		right = 0
@@ -106644,7 +106615,7 @@ script 197 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Wrong!"
+	"          Vamo não!"
 	select
 		default = 0
 		BSeparate = false
@@ -106658,18 +106629,19 @@ script 197 mmbn3 {
 }
 script 220 mmbn3 {
 	msgOpen
-	"Ouch!"
+	"Ai!"
 	keyWait
 	clearMsg
 	"""
-	The computer has
-	gotten really hot!
+	O computador ficou super
+	quente, de repente!
 	"""
 	keyWait
 	clearMsg
 	"""
-	You'll need courage
-	to jack into this…
+	Você vai precisar de
+	muita coragem pra se
+	conectar nele...
 	"""
 	keyWait
 	end
@@ -106677,15 +106649,15 @@ script 220 mmbn3 {
 script 221 mmbn3 {
 	msgOpen
 	"""
-	This NetBattle
-	machine has a
-	thin plastic cover…
+	Essa máquina de
+	NetLutas tem uma fina
+	capa de plástico
 	"""
 	keyWait
 	clearMsg
 	"""
-	to prevent sand from
-	getting into it
+	para impedir areia de
+	entrar nela.
 	"""
 	keyWait
 	end
@@ -106693,9 +106665,9 @@ script 221 mmbn3 {
 script 222 mmbn3 {
 	msgOpen
 	"""
-	This NetBattle
-	machine is as cold
-	as ice
+	Essa máquina de
+	NetLuta é fria como o
+	gelo.
 	"""
 	keyWait
 	end
@@ -106703,15 +106675,15 @@ script 222 mmbn3 {
 script 223 mmbn3 {
 	msgOpen
 	"""
-	A caterpillar is
-	crawling across the
-	top of this machine
+	Há uma lagarta
+	caminhando sobre o
+	topo desta máquina.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Looks like it came
-	from those bushes
+	Deve ter vindo daquelas
+	moitas ali.
 	"""
 	keyWait
 	end
@@ -106720,8 +106692,8 @@ script 224 mmbn3 {
 	mugshotHide
 	msgOpen
 	"""
-	The door is shut
-	tightly
+	A porta está firmemente
+	trancada.
 	"""
 	keyWait
 	end
@@ -106732,8 +106704,9 @@ script 224 mmbn3 {
 script 0 mmbn3 {
 	msgOpen
 	"""
-	Now,cross Victory
-	Bridge and exit!
+	Agora, atravesse a
+	Ponte da Vitória e deixe
+	este covil!
 	"""
 	keyWait
 	end
@@ -106750,7 +106723,7 @@ script 70 mmbn3 {
 	mugshotShow
 		mugshot = Chaud
 	msgOpen
-	"Hmmph. So you came…"
+	"Hmmpf. Então, você\nveio..."
 	keyWait
 	clearMsg
 	jump
@@ -106761,8 +106734,8 @@ script 71 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	NetBattle with
-	Chaud?
+	Desafiar o Chaud para
+	uma NetLuta?
 	
 	"""
 	option
@@ -106772,7 +106745,7 @@ script 71 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"   Sim "
 	option
 		left = 0
 		right = 0
@@ -106780,7 +106753,7 @@ script 71 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No\n"
+	"          Não\n"
 	select
 		default = 1
 		BSeparate = false
@@ -106822,15 +106795,15 @@ script 73 mmbn3 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	So you don't feel up
-	to it,huh?
+	Então, você não tá
+	a fim agora, é?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Hah! Come back when
-	you're at your best…
-	I'll STILL beat you!
+	He! Volte quando estiver
+	em sua melhor forma...
+	Não importa: eu vencerei!
 	"""
 	keyWait
 	end
@@ -106840,9 +106813,9 @@ script 74 mmbn3 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	If you want a real
-	battle,you need to
-	get experience.
+	Se quer uma batalha
+	de verdade, vai precisar
+	acumular experiência.
 	"""
 	keyWait
 	end
@@ -106852,8 +106825,9 @@ script 75 mmbn3 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	ProtoMan,put him in
-	his place…
+	ProtoMan, mostre a ele
+	o abismo que nos
+	separa...
 	"""
 	keyWait
 	clearMsg
@@ -106865,8 +106839,8 @@ script 76 mmbn3 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	No holding back this
-	time,ProtoMan!!
+	Não pegue leve desta
+	vez, ProtoMan!!
 	"""
 	keyWait
 	clearMsg
@@ -106878,9 +106852,9 @@ script 77 mmbn3 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	There's no way you
-	can beat ProtoMan
-	at his best!
+	Você nunca vai conseguir
+	vencer o ProtoMan em
+	sua melhor forma!
 	"""
 	keyWait
 	clearMsg
@@ -106930,15 +106904,15 @@ script 82 mmbn3 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	I was only testing
-	you this time…
+	Eu só estava te
+	testando, desta vez...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Come back when you
-	get stronger. I'll
-	show you a battle…
+	Volte quando ficar mais
+	forte. Aí, sim, darei uma
+	luta de verdade...
 	"""
 	keyWait
 	end
@@ -106948,16 +106922,16 @@ script 83 mmbn3 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Not bad. But still
-	not enough to
-	beat ProtoMan!
+	Nada mal. Mas ainda não
+	bom o bastante pra
+	vencer o ProtoMan!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Believe me,you still
-	haven't seen what he
-	can really do!
+	Não se engane: você
+	ainda não viu do que ele
+	realmente é capaz!
 	"""
 	keyWait
 	end
@@ -106967,16 +106941,15 @@ script 84 mmbn3 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Even I've got to
-	admit it. You're
-	pretty good.
+	Até eu devo admitir:
+	você é muito bom.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'm looking forward
-	to learning more by
-	battling you!
+	Estou ansioso para
+	aprender mais ao lutar
+	com você!
 	"""
 	keyWait
 	end
@@ -106985,7 +106958,7 @@ script 85 mmbn3 {
 	mugshotShow
 		mugshot = Chaud
 	msgOpen
-	"……"
+	"......"
 	keyWait
 	end
 }
@@ -106994,14 +106967,14 @@ script 86 mmbn3 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Is that the best
-	you can do!?
+	Isso é o melhor que
+	você consegue fazer?!
 	"""
 	keyWait
 	clearMsg
 	"""
-	If it is,don't
-	bother me again!
+	Se for, então nunca
+	mais me incomode!
 	"""
 	keyWait
 	end
@@ -107011,9 +106984,9 @@ script 88 mmbn3 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Okay,I'll take
-	you on. Don't expect
-	any mercy,though!
+	Tudo bem, eu luto com
+	você. Só não espere
+	misericórdia!
 	"""
 	keyWait
 	clearMsg
@@ -107025,8 +106998,8 @@ script 91 mmbn3 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Let's just see how
-	strong you are…
+	Vejamos o quão forte
+	você está...
 	"""
 	keyWait
 	clearMsg
@@ -107038,9 +107011,9 @@ script 92 mmbn3 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Lan,it's time to see
-	who is stronger!
-	Once and for all!
+	Lan, hora de decidirmos
+	quem é o mais forte, de
+	uma vez por todas!
 	"""
 	keyWait
 	clearMsg
@@ -107050,15 +107023,15 @@ script 92 mmbn3 {
 script 220 mmbn3 {
 	msgOpen
 	"""
-	A multi-player Net
-	Battle machine
+	Uma máquina de
+	NetLutas multijogador.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Built just for N1,
-	this machine cost
-	millions of Zennys
+	Construída para o N1,
+	essa máquina criou
+	milhões de Zennys.
 	"""
 	keyWait
 	end
@@ -107066,15 +107039,15 @@ script 220 mmbn3 {
 script 221 mmbn3 {
 	msgOpen
 	"""
-	A multi-player Net
-	Battle machine
+	Uma máquina de
+	NetLutas multijogador.
 	"""
 	keyWait
 	clearMsg
 	"""
-	It's hundreds of
-	times faster than a
-	home computer
+	É centenas de vezes
+	mais rápida que um
+	computador pessoal.
 	"""
 	keyWait
 	end
@@ -107082,15 +107055,15 @@ script 221 mmbn3 {
 script 222 mmbn3 {
 	msgOpen
 	"""
-	A multi-player Net
-	Battle machine
+	Uma máquina de
+	NetLutas multijogador.
 	"""
 	keyWait
 	clearMsg
 	"""
-	NetBattle footage
-	is sent to the TV
-	station in seconds
+	Filmagens de NetLutas
+	são enviadas para ca-
+	nais de TV em segundos.
 	"""
 	keyWait
 	end
@@ -107098,15 +107071,15 @@ script 222 mmbn3 {
 script 223 mmbn3 {
 	msgOpen
 	"""
-	A multi-player Net
-	Battle machine
+	Uma máquina de
+	NetLutas multijogador.
 	"""
 	keyWait
 	clearMsg
 	"""
-	It's only available
-	for jacking in
-	during N1
+	Só fica disponível para
+	se conectar durante o
+	Grande Prêmio N1.
 	"""
 	keyWait
 	end
@@ -107114,8 +107087,8 @@ script 223 mmbn3 {
 script 224 mmbn3 {
 	msgOpen
 	"""
-	An elevator switch
-	Want to press it?
+	Um botão de elevador.
+	Apertar?
 	
 	"""
 	option
@@ -107125,7 +107098,7 @@ script 224 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"   Sim "
 	option
 		left = 0
 		right = 0
@@ -107133,7 +107106,7 @@ script 224 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No"
+	"          Não"
 	select
 		default = 0
 		BSeparate = false
@@ -107213,8 +107186,8 @@ script 2 mmbn3 {
 		mugshot = Mamoru
 	msgOpen
 	"""
-	Nnnnghh…!
-	I can't breathe…!
+	Nnnnghh...!
+	Não consigo respirar...!
 	"""
 	keyWait
 	end
@@ -109513,8 +109486,8 @@ script 226 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Error number: H3
-	Code: SK[ModTools3]LROT[ModTools1]
+	Número de erro: H3
+	Código: SK[ModTools3]LROT[ModTools1]
 	"""
 	keyWait
 	end
@@ -110986,7 +110959,7 @@ script 11 mmbn3 {
 	mugshotShow
 		mugshot = Dex
 	msgOpen
-	"……"
+	"......"
 	keyWait
 	clearMsg
 	"""
@@ -112451,7 +112424,7 @@ script 192 mmbn3 {
 	soundDisableChoiceSFX
 	"""
 	You're right!
-	Question No.2!
+	Pergunta 2!
 	"""
 	keyWait
 	clearMsg
@@ -112567,7 +112540,7 @@ script 194 mmbn3 {
 	"""
 	Ha,ha! Correct!
 	You're very good!
-	Question No.4!
+	Pergunta 4!
 	"""
 	keyWait
 	clearMsg
@@ -112803,7 +112776,7 @@ script 198 mmbn3 {
 	"""
 	Good,good,good!
 	I may even lose…!
-	Question No.8!
+	Pergunta 8!
 	"""
 	keyWait
 	clearMsg
@@ -114001,8 +113974,9 @@ script 5 mmbn3 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Ha! Don't cry like a
-	baby when you lose!
+	Ha! Não vai chorar que
+	nem bebezinho quando
+	perder!
 	"""
 	keyWait
 	clearMsg
@@ -114014,15 +113988,16 @@ script 6 mmbn3 {
 		mugshot = Dex
 	msgOpen
 	"""
-	This isn't the same
-	GutsMan from before!
+	Este aqui não é o
+	mesmo GutsMan de
+	antes!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Prepare to face the
-	might of my newly
-	customized GutsMan!
+	Se prepara pra enfren-
+	tar a fúria do meu
+	GutsMan customizado!
 	"""
 	keyWait
 	clearMsg
@@ -114034,16 +114009,15 @@ script 7 mmbn3 {
 		mugshot = Dex
 	msgOpen
 	"""
-	I've configured
-	GutsMan to his
-	supreme level!
+	Eu configurei o GutsMan
+	ao nível máximo dele!
 	"""
 	keyWait
 	clearMsg
 	"""
-	He's gonna make you
-	pay for all those
-	times you beat him!
+	Ele vai fazer vocês pa-
+	garem por todas as
+	vezes que venceram ele!
 	"""
 	keyWait
 	clearMsg
@@ -114055,9 +114029,9 @@ script 8 mmbn3 {
 		mugshot = Dex
 	msgOpen
 	"""
-	My new Neo GutsMan
-	is going to punish
-	you good!
+	O meu novo Neo GutsMan
+	vai dar uma lição segura
+	em vocês!
 	"""
 	keyWait
 	clearMsg
@@ -114107,8 +114081,8 @@ script 12 mmbn3 {
 		mugshot = Dex
 	msgOpen
 	"""
-	I'll get you next
-	time!
+	Da próxima vez, cê vai
+	ver só!
 	"""
 	keyWait
 	end
@@ -114118,8 +114092,8 @@ script 13 mmbn3 {
 		mugshot = Dex
 	msgOpen
 	"""
-	What? Why can't
-	I beat you?!
+	O quê?! Por que eu não
+	consigo te vencer?!
 	"""
 	keyWait
 	end
@@ -114129,8 +114103,8 @@ script 14 mmbn3 {
 		mugshot = Dex
 	msgOpen
 	"""
-	No fair!
-	You cheated!
+	Ô, não valeu!
+	Cê roubou!
 	"""
 	keyWait
 	end
@@ -114139,7 +114113,7 @@ script 15 mmbn3 {
 	mugshotShow
 		mugshot = Dex
 	msgOpen
-	"……"
+	"......"
 	keyWait
 	end
 }
@@ -114148,9 +114122,8 @@ script 16 mmbn3 {
 		mugshot = Dex
 	msgOpen
 	"""
-	How'd you like that?
-	Now you know
-	GutsMan's power!
+	Toma! Agora cê entendeu
+	todo o poder do GutsMan!
 	"""
 	keyWait
 	end
@@ -114160,8 +114133,7 @@ script 17 mmbn3 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Check this out,
-	Chisao!
+	Saca só essa, Chisao!
 	"""
 	keyWait
 	clearMsg
@@ -114200,7 +114172,7 @@ script 22 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	NetBattle with
+	Quer NetLutar com o
 	Tora?
 	
 	"""
@@ -114211,7 +114183,7 @@ script 22 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"   Sim "
 	option
 		left = 0
 		right = 0
@@ -114219,7 +114191,7 @@ script 22 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No\n"
+	"          Não\n"
 	select
 		default = 1
 		BSeparate = false
@@ -114268,9 +114240,9 @@ script 25 mmbn3 {
 		mugshot = Tora
 	msgOpen
 	"""
-	I'm busy. I'm
-	working on some
-	new strategies…
+	Agora, não, tô ocupado.
+	Fazendo umas
+	estratégias novas, aqui...
 	"""
 	keyWait
 	end
@@ -114280,8 +114252,9 @@ script 26 mmbn3 {
 		mugshot = Tora
 	msgOpen
 	"""
-	Come on,then! I'll
-	rip you to shreds!
+	Então, bora!
+	Vou te dar uma pisa das
+	BOAS!
 	"""
 	keyWait
 	clearMsg
@@ -114293,15 +114266,14 @@ script 27 mmbn3 {
 		mugshot = Tora
 	msgOpen
 	"""
-	Let's see how
-	you handle THIS
-	strategy!!
+	Quero ver tu encarar
+	ESTA estratégia, aqui!!
 	"""
 	keyWait
 	clearMsg
 	"""
 	KingMan!
-	Crush him!!
+	"Xeque-mata" ele!!
 	"""
 	keyWait
 	clearMsg
@@ -114313,15 +114285,15 @@ script 28 mmbn3 {
 		mugshot = Tora
 	msgOpen
 	"""
-	Now take on all of
-	my best strategies
-	combined!
+	Agora, tu vai enfrentar
+	as minhas melhores es-
+	tratégias, tudo "junta"!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Time for a
-	checkmate!!
+	Prepara pro
+	xeque-mate!!
 	"""
 	keyWait
 	clearMsg
@@ -114384,9 +114356,9 @@ script 33 mmbn3 {
 		mugshot = Tora
 	msgOpen
 	"""
-	Where did my
-	strategy fail!?
-	Let me rethink this…
+	Por que a minha estraté-
+	gia "num" deu certo?
+	Tenho que refletir...
 	"""
 	keyWait
 	end
@@ -114396,16 +114368,16 @@ script 34 mmbn3 {
 		mugshot = Tora
 	msgOpen
 	"""
-	What!? That strategy
-	should have been
-	flawless…!
+	Ué?! Era pra minha
+	estratégia ter sido
+	perfeita...!
 	"""
 	keyWait
 	clearMsg
 	"""
-	But I won't give up!
-	I still have other
-	strategies to use!
+	Ah, mas eu "num" vou
+	desistir, não! Tenho mais
+	estratégias na manga!
 	"""
 	keyWait
 	end
@@ -114415,14 +114387,14 @@ script 35 mmbn3 {
 		mugshot = Tora
 	msgOpen
 	"""
-	What…? Why…? How…?
-	I can't believe it!
+	Quê...? Por quê...? Como?
+	Eu "num" acredito!
 	"""
 	keyWait
 	clearMsg
 	"""
-	But just you wait!
-	I'll defeat you yet!
+	Mas "pera" só, Lan!
+	Eu ainda vou te vencer!
 	"""
 	keyWait
 	end
@@ -114431,7 +114403,7 @@ script 36 mmbn3 {
 	mugshotShow
 		mugshot = Tora
 	msgOpen
-	"……"
+	"......"
 	keyWait
 	end
 }
@@ -114440,9 +114412,9 @@ script 37 mmbn3 {
 		mugshot = Tora
 	msgOpen
 	"""
-	Hah! You'll never
-	win without a
-	strategy yourself!!
+	Ha! Tu nunca vai
+	conseguir vencer sem
+	uma estratégia tua!!
 	"""
 	keyWait
 	end
@@ -114452,16 +114424,15 @@ script 39 mmbn3 {
 		mugshot = Tora
 	msgOpen
 	"""
-	You've given me
-	insight into a new
-	line of strategies!
+	Tu me fez pensar numas
+	estratégias novas, aqui!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Let's battle again
-	so that I can steal
-	more ideas!
+	Bora lutar de novo
+	"preu" roubar mais ideia
+	tua!
 	"""
 	keyWait
 	clearMsg
@@ -114471,14 +114442,14 @@ script 39 mmbn3 {
 script 50 mmbn3 {
 	msgOpen
 	"""
-	Something is written
-	on the pillar…
+	Há uma coisa escrita
+	nesse pilar...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Error number: D2G
-	Code: OI[ModTools1]UWMAN
+	Número de erro: D2G
+	Código: OI[ModTools1]UWMAN
 	"""
 	keyWait
 	end
@@ -114488,8 +114459,8 @@ script 51 mmbn3 {
 		mugshot = Tora
 	msgOpen
 	"""
-	Lan! Take care of
-	this guy quickly!
+	Lan! Acaba com este
+	doido aqui, vai logo!
 	"""
 	keyWait
 	end
@@ -115079,8 +115050,8 @@ script 232 mmbn3 {
 script 233 mmbn3 {
 	msgOpen
 	"""
-	An elevator switch.
-	Want to press it?
+	É um botão de elevador.
+	Quer apertá-lo?
 	
 	"""
 	option
@@ -115090,7 +115061,7 @@ script 233 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"   Sim "
 	option
 		left = 0
 		right = 0
@@ -115098,7 +115069,7 @@ script 233 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No"
+	"          Não"
 	select
 		default = 0
 		BSeparate = false
@@ -132337,16 +132308,16 @@ script 0 mmbn3 {
 	mugshotShow
 		mugshot = MrProg
 	msgOpen
-	"Receiving data…"
+	"Recebendo dados..."
 	keyWait
 	clearMsg
-	"…"
+	"..."
 	keyWait
 	clearMsg
 	"""
-	Tomorrow's forecast:
-	Clear skies,becoming
-	overcast later.
+	Previsão de amanhã:
+	tempo claro, ficando
+	nublado mais à frente.
 	"""
 	keyWait
 	end
@@ -132356,29 +132327,29 @@ script 190 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	They took everything
-	from me in the N1!
-	Someone will pay!
+	Eles tiraram tudo de
+	mim no N1! E alguém tem
+	que pagar por isso!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I gave it my all,
-	but was eliminated
-	in the first round!!
+	Eu dei tudo de mim, mas
+	fui eliminado logo na
+	primeira rodada!!
 	"""
 	keyWait
 	clearMsg
 	"""
-	What?
-	Who are you? From
-	the TV station,huh?
+	Quê?
+	Quem é você?
+	Um agente da DNN, é?
 	"""
 	keyWait
 	clearMsg
 	"""
-	You're gonna get it!
-	Take this!!
+	Pois prepara pra sofrer!
+	Toma esta!!
 	"""
 	keyWait
 	clearMsg
@@ -132443,7 +132414,7 @@ script 0 mmbn3 {
 	mugshotShow
 		mugshot = MrProg
 	msgOpen
-	"Goal!"
+	"Gol!"
 	keyWait
 	clearMsg
 	"Offside!"
@@ -133665,7 +133636,7 @@ script 190 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	O lugar é intenso demais?
+	O lugar é remoto demais?
 	Minhas mensagens foram
 	grosseiras demais...?
 	"""
@@ -133682,7 +133653,7 @@ script 190 mmbn3 {
 	"""
 	que eu só vou poder
 	assaltar um pivete
-	imbecil!!
+	imbecil como você!!
 	"""
 	keyWait
 	flagSet
@@ -133838,9 +133809,8 @@ script 2 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	Channel 8:
-	"Love & Loss on the
-	Net"
+	Canal 8:
+	"Rede Nostra".
 	"""
 	keyWait
 	end
@@ -136278,9 +136248,9 @@ script 91 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Ver um caminho
-	bloqueado só me faz
-	querer usá-lo mais!
+	Ver um lugar barrado só
+	me faz querer entrar
+	nele mais!
 	"""
 	keyWait
 	end
@@ -136320,8 +136290,8 @@ script 110 mmbn3 {
 	msgOpen
 	"""
 	Cruzes! O cara que
-	acabou de passar por
-	mim era o culpado...?
+	passou por mim naquela
+	hora era o bandido...?
 	"""
 	keyWait
 	end
@@ -136356,8 +136326,8 @@ script 121 mmbn3 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	Vai ver o show especial
-	com os amigos?!
+	Você vai ao programa
+	especial com os amigos?!
 	Sortudo!
 	"""
 	keyWait
@@ -138820,8 +138790,8 @@ script 121 mmbn3 {
 	msgOpen
 	"""
 	A área ACDC está
-	normal...
-	Devemos conferir outra?
+	normal... Acho que
+	devemos conferir outra.
 	"""
 	keyWait
 	end
@@ -140289,15 +140259,15 @@ script 60 mmbn3 {
 	clearMsg
 	"""
 	Eu pensei em
-	NetLutadores, mas
-	posso estar enganado.
+	NetLutadores Oficiais,
+	mas não deve ser isso.
 	"""
 	keyWait
 	clearMsg
 	"""
 	A DNN pode ser enorme,
-	mas Oficiais não vão aju-
-	dar com entretenimento.
+	mas Oficiais não partici-
+	pariam desses circos.
 	"""
 	keyWait
 	end
@@ -140399,7 +140369,7 @@ script 71 mmbn3 {
 	msgOpen
 	"""
 	Hmmm, então, você já
-	foi no Yoka Plaza.
+	foi à área Yoka.
 	"""
 	keyWait
 	clearMsg
@@ -142665,9 +142635,9 @@ script 92 mmbn3 {
 		palette = 1
 	msgOpen
 	"""
-	It's not being shown
-	on TV?
-	That's a shame.
+	Não vai ser transmitido
+	na TV?
+	Que chato.
 	"""
 	keyWait
 	end
@@ -142840,8 +142810,8 @@ script 120 mmbn3 {
 	msgOpen
 	"""
 	Foi muita sorte não
-	termos observado
-	grandes danos.
+	termos presenciado
+	grandes estragos.
 	"""
 	keyWait
 	end
@@ -142901,8 +142871,8 @@ script 130 mmbn3 {
 	msgOpen
 	"""
 	O Plaza de ACDC é um
-	pouco menos que os
-	outros plazas.
+	pouco menos vivo que
+	os outros plazas.
 	"""
 	keyWait
 	clearMsg
@@ -142952,8 +142922,8 @@ script 132 mmbn3 {
 	clearMsg
 	"""
 	Ainda bem que eu
-	trabalho aqui,
-	no ACDC Plaza.
+	trabalho aqui, no ACDC
+	Plaza.
 	"""
 	keyWait
 	end
@@ -142963,9 +142933,9 @@ script 140 mmbn3 {
 		mugshot = NormalNaviGreen
 	msgOpen
 	"""
-	Acho que é o N1 que
-	deixou todo mundo tão
-	animado hoje.
+	Acho que é o N1 que tá
+	deixando todo mundo
+	tão animado hoje.
 	"""
 	keyWait
 	end
@@ -143603,7 +143573,7 @@ script 190 mmbn3 {
 	mugshotShow
 		mugshot = NormalNaviGreen
 	msgOpen
-	"Um Subchip \""
+	"Um chip \""
 	printChip
 		buffer = 0
 		chip = 43
@@ -143619,7 +143589,7 @@ script 190 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Você, mocinho! Que tal...
+	Você, rapaz! Quer...
 	"""
 	waitSkip
 		frames = 40
@@ -143875,8 +143845,8 @@ script 196 mmbn3 {
 		mugshot = NormalNaviGreen
 	msgOpen
 	"""
-	Eu queria tanto possuir
-	a empresa. Estou tão
+	Queria tanto me apossar
+	da empresa. Estou tão
 	envergonhado...
 	"""
 	keyWait
@@ -145158,8 +145128,8 @@ script 201 mmbn3 {
 	soundPlay
 		track = 133
 	"""
-	MegaMan got a stamp
-	for his card.
+	O cartão do MegaMan
+	foi carimbado.
 	"""
 	keyWait
 	end
@@ -146552,9 +146522,9 @@ script 91 mmbn3 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	É a punição deles por
-	conectá-los sem
-	pensar...
+	É a punição que se leva
+	por conectar uma coisa
+	à Rede sem pensar...
 	"""
 	keyWait
 	end
@@ -148416,8 +148386,8 @@ script 51 mmbn3 {
 		mugshot = GirlNaviOrange
 	msgOpen
 	"""
-	Oi! Esse chip aí
-	com você é um
+	Oi! Desculpa, mas esse
+	chip aí com você é um
 	"
 	"""
 	printChip
@@ -149196,12 +149166,12 @@ script 96 mmbn3 {
 	mugshotShow
 		mugshot = PurpleNavi
 	msgOpen
-	"Você quer um\n"
+	"Você quer uma\n"
 	printFolderName
 		buffer = 0
 		entry = 2
 	"""
-	?! Foi usado
+	?! Foi usada
 	nas preliminares do N1,
 	"""
 	keyWait
@@ -149229,7 +149199,7 @@ script 96 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"          Não!"
+	"         Não!"
 	select
 		default = 0
 		BSeparate = false
@@ -149245,12 +149215,12 @@ script 96 mmbn3 {
 		mugshot = PurpleNavi
 	"""
 	Ah, que pena! Bom, se
-	quiser um 
+	quiser uma 
 	"""
 	printFolderName
 		buffer = 0
 		entry = 2
-	"\né só me avisar!"
+	",\né só me avisar!"
 	keyWait
 	end
 }
@@ -149260,7 +149230,7 @@ script 97 mmbn3 {
 	mugshotShow
 		mugshot = PurpleNavi
 	msgOpen
-	"Beleza, transmitindo o\n"
+	"Beleza, transmitindo a\n"
 	printFolderName
 		buffer = 0
 		entry = 2
@@ -149345,7 +149315,7 @@ script 110 mmbn3 {
 	msgOpen
 	"""
 	Bem-vindo ao SciLab
-	Plaza! Dê uma pausa do
+	Plaza! Dê uma pausa no
 	seu trabalho aqui!
 	"""
 	keyWait
@@ -149395,7 +149365,7 @@ script 113 mmbn3 {
 	msgOpen
 	"""
 	Escuta só! Eu ouvi um
-	boato mó estranho no
+	boato mó estranho do
 	Grande Prêmio N1!
 	"""
 	keyWait
@@ -149949,7 +149919,7 @@ script 190 mmbn3 {
 	msgOpen
 	"""
 	Dê só uma olhada!
-	Por 5.600 Zennys, você
+	Por 5600 Zennys, você
 	leva este "
 	"""
 	printChip
@@ -149985,7 +149955,7 @@ script 191 mmbn3 {
 		animation = 0
 	"""
 	(Eu ouvi um segredo,
-	he he he...!
+	he he he...!)
 	"""
 	keyWait
 	clearMsg
@@ -150013,7 +149983,7 @@ script 192 mmbn3 {
 	msgOpen
 	"""
 	Promoção! Por apenas
-	5.200 Zennys, leve
+	5200 Zennys, leve
 	"
 	"""
 	printChip
@@ -150048,7 +150018,7 @@ script 193 mmbn3 {
 		animation = 0
 	"""
 	(He, o idiota ainda não
-	notou que foi bugado.
+	notou que foi grampeado.
 	Ha ha!)
 	"""
 	keyWait
@@ -150120,16 +150090,16 @@ script 0 mmbn3 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	This water-heater
-	program is for the
-	hot spring,right?
+	Esse programa aquece-
+	dor de água é para a
+	fonte termal, né?
 	"""
 	keyWait
 	clearMsg
 	"""
-	But,why would they
-	need a water heater
-	for a hot spring…?
+	Mas por que seria neces-
+	sário um aquecedor para
+	uma fonte termal...?
 	"""
 	keyWait
 	end
@@ -150139,9 +150109,9 @@ script 10 mmbn3 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Why are they using a
-	water-heater program
-	in a hot spring?
+	Por que usar um progra-
+	ma aquecedor de água
+	para uma fonte termal?
 	"""
 	keyWait
 	end
@@ -150171,16 +150141,16 @@ script 25 mmbn3 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	The more I think
-	about it,the less
-	sense it makes…
+	Quanto mais eu penso
+	nisso, menos sentido
+	faz...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Why would they need
-	to heat water at a
-	hot spring?
+	Por que precisariam
+	aquecer água em uma
+	fonte termal?
 	"""
 	keyWait
 	end
@@ -150224,16 +150194,16 @@ script 31 mmbn3 {
 		mugshot = NormalNaviGreen
 	msgOpen
 	"""
-	Amazing! There you
-	have it! GutsMan's
-	also in the N1!
+	Maneiro! Viu só?
+	O GutsMan também
+	entrou pro N1!
 	"""
 	keyWait
 	clearMsg
 	"""
-	He held up for one
-	hour in front of
-	the water-heater!
+	Ele ficou uma hora
+	inteira parado na frente
+	do aquecedor de água!
 	"""
 	keyWait
 	end
@@ -150247,9 +150217,9 @@ script 32 mmbn3 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	(Pant…pant…)
-	Can't…take…much…more
-	of…this…
+	(Arf... Arf...)
+	Não... aguento... mais...
+	isso...
 	"""
 	keyWait
 	end
@@ -150259,9 +150229,9 @@ script 33 mmbn3 {
 		mugshot = NormalNaviGreen
 	msgOpen
 	"""
-	They're holding a
-	Navi endurance
-	contest here.
+	Estão fazendo uma com-
+	petição de resistência
+	para Navis ali.
 	"""
 	keyWait
 	end
@@ -150271,9 +150241,8 @@ script 34 mmbn3 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	I'm not finished
-	yet! Gimme some
-	more! I can take it!
+	Eu ainda não acabei!
+	Manda mais! Eu aguento!
 	"""
 	keyWait
 	end
@@ -150283,8 +150252,8 @@ script 35 mmbn3 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	Whew…
-	It's so hot…
+	Ai...
+	Tá tão quente...
 	"""
 	keyWait
 	end
@@ -150294,16 +150263,16 @@ script 36 mmbn3 {
 		mugshot = NormalNaviGreen
 	msgOpen
 	"""
-	And GutsMan is the
-	winner of the
-	endurance contest!
+	E GutsMan.EXE é o
+	vencedor da competição
+	de resistência!
 	"""
 	keyWait
 	clearMsg
 	"""
-	After that grueling
-	contest,he walks off
-	like it was nothing!
+	Após essa disputa
+	ardilosa, ele sai andando
+	como se nem sentisse!
 	"""
 	keyWait
 	end
@@ -150313,9 +150282,8 @@ script 90 mmbn3 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	I'm not an Official,
-	but I know I look
-	like one.
+	Eu não sou Oficial, mas
+	sei que pareço um.
 	"""
 	keyWait
 	end
@@ -150329,16 +150297,15 @@ script 91 mmbn3 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	That Internet fire
-	was pretty scary,
-	wasn't it?
+	Aquele incêndio na Rede
+	foi bem sinistro, né?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Getting near this
-	water-heater program
-	gives me flashbacks…
+	Ficar perto do programa
+	aquecedor de água me
+	traz más memórias...
 	"""
 	keyWait
 	end
@@ -150348,9 +150315,9 @@ script 92 mmbn3 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	Man,it's hot! And
-	not just because
-	of the water heater…
+	Cara, que QUENTE!
+	E não só por causa do
+	aquecedor de água...
 	"""
 	keyWait
 	end
@@ -150360,23 +150327,23 @@ script 100 mmbn3 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	There's one of those
-	behind the hot
-	spring!?
+	Tem um programa desses
+	por trás da fonte
+	termal?!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Then this isn't
-	really a hot spring,
-	is it!?
+	Então não é uma fonte
+	termal natural de
+	verdade, não é mesmo?!
 	"""
 	keyWait
 	clearMsg
 	"""
-	What a nasty trick!
-	They've been fooling
-	us all along!
+	Que truque sujo!
+	Eles enganaram a gente
+	este tempo todo!
 	"""
 	keyWait
 	end
@@ -150386,16 +150353,16 @@ script 110 mmbn3 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	The Official Navis
-	told us not to walk
-	around much.
+	Os Navis Oficiais nos
+	mandaram não perambular
+	demais por aí.
 	"""
 	keyWait
 	clearMsg
 	"""
-	But I got bored,
-	stuck in my PET.
-	I had to get out!
+	Mas eu fiquei entediado,
+	preso no meu PET.
+	Eu TINHA que sair!
 	"""
 	keyWait
 	end
@@ -150405,13 +150372,13 @@ script 120 mmbn3 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	Huh…?
-	I can't move
-	right!
+	Hã...?
+	Eu não tô conseguindo
+	me mexer direito!
 	"""
 	keyWait
 	clearMsg
-	"H-help me!!"
+	"S-socorro!!"
 	keyWait
 	end
 }
@@ -150431,8 +150398,8 @@ script 180 mmbn3 {
 		palette = 1
 	msgOpen
 	"""
-	I'm a BugFrag
-	trader. Wanna trade?
+	Sou um mercador de
+	FragBugs. Quer trocar?
 	
 	"""
 	option
@@ -150442,7 +150409,7 @@ script 180 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"   Sim "
 	option
 		left = 0
 		right = 0
@@ -150450,7 +150417,7 @@ script 180 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No"
+	"          Não"
 	select
 		default = 0
 		BSeparate = false
@@ -150477,8 +150444,8 @@ script 182 mmbn3 {
 		palette = 1
 	msgOpen
 	"""
-	Sorry,I'm all out of
-	merchandise.
+	Desculpe, estou sem
+	mercadoria.
 	"""
 	keyWait
 	end
@@ -150502,46 +150469,47 @@ script 190 mmbn3 {
 	"."
 	waitSkip
 		frames = 20
-	".Huh!?"
+	". Hã?!"
 	keyWait
 	clearMsg
 	"""
-	Wha…!? Hey! Who are
-	you? You woke
-	me up!
-	"""
-	keyWait
-	clearMsg
-	"""
-	Wha…?
-	You wanna know about
-	my operator,hey?
+	Quê...?! Ei!
+	Quem é você?
+	Cê me acordou!
 	"""
 	keyWait
 	clearMsg
 	"""
-	My most excellent
-	operator is a zoo
-	veterinarian,hey!
+	Quê...?
+	Quer saber mais sobre
+	o meu operador, ei?
 	"""
 	keyWait
 	clearMsg
 	"""
-	My operator does a
-	wonderful job of
-	curing sick animals!
+	O meu excelentíssim
+	operador é um veteriná-
+	rio de zoológico, ei!
 	"""
 	keyWait
 	clearMsg
 	"""
-	…Flattery will get
-	you anywhere,hey!
+	Ele faz um trabalho
+	incrível curando animais
+	doentes!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Um,so,why do ya
-	wanna know,hey?
+	... Bajulação não vai
+	adiantar nada comigo,
+	ei!
+	"""
+	keyWait
+	clearMsg
+	"""
+	Hum, então, o que cê
+	quer saber, ei?
 	"""
 	keyWait
 	end
@@ -150551,9 +150519,9 @@ script 191 mmbn3 {
 		mugshot = NormalNaviGreen
 	msgOpen
 	"""
-	My operator is still
-	working at the zoo,
-	so I'm bored,hey…
+	Meu operador ainda tá
+	trabalhando no zoológico.
+	Tô morto de tédio, ei...
 	"""
 	keyWait
 	end
@@ -150563,16 +150531,15 @@ script 195 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	Who d'ya think yer
-	lookin' at? Wanna
-	start somethin'?
+	Tá olhando o quê, piá?
+	Tá comprando briga, é?
+	Tá?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Mess with the Yoka
-	Crew,yer gonna get
-	yerself deleted!
+	Mexeu com a GangYoka,
+	é deletado na hora!
 	"""
 	keyWait
 	clearMsg
@@ -150595,13 +150562,13 @@ script 196 mmbn3 {
 	mugshotShow
 		mugshot = HeelNavi
 	msgOpen
-	"You…little…"
+	"Seu... miserável..."
 	keyWait
 	clearMsg
 	"""
-	Bump into me without
-	apologizing?
-	How dare you!?
+	Dando encontrão em
+	mim sem nem pedir
+	desculpa? Ó a ousadia!
 	"""
 	keyWait
 	clearMsg
@@ -150651,9 +150618,9 @@ script 221 mmbn3 {
 		jumpIfLess = continue
 	msgOpen
 	"""
-	A door blocks the
-	way. You can't
-	get past it
+	Uma porta impede sua
+	passagem. Você não
+	tem como abri-la.
 	"""
 	keyWait
 	end
@@ -150681,22 +150648,21 @@ script 223 mmbn3 {
 		jumpIfFalse = continue
 	msgOpen
 	"""
-	It's a water-heater
-	program
+	É um programa
+	aquecedor de água.
 	"""
 	keyWait
 	clearMsg
 	"""
-	It heats up the
-	water for the hot
-	spring
+	Ele aquece a água da
+	fonte termal.
 	"""
 	keyWait
 	clearMsg
 	"""
-	The program makes
-	the surrounding
-	area very hot
+	O programa faz com que
+	a área ao redor fique
+	bem quente.
 	"""
 	keyWait
 	end
@@ -151324,9 +151290,9 @@ script 0 mmbn3 {
 		mugshot = NormalNaviGreen
 	msgOpen
 	"""
-	What's up with this
-	area!? The paths are
-	too narrow to pass!
+	Qual é a desta área?!
+	As estradas são estrei-
+	tas demais pra passar!
 	"""
 	keyWait
 	end
@@ -151336,16 +151302,16 @@ script 1 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	Welcome!
-	This is Yoka area,
-	Yoka's Cyberworld!
+	Bem-vindo! Esta é a
+	área Yoka, o mundo
+	cibernético de Yoka!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Main St. is the blue
-	path. It's designed
-	to resemble water!
+	A Rua Central é a
+	estrada azul. O design é
+	feito para lembrar água!
 	"""
 	keyWait
 	end
@@ -151367,30 +151333,30 @@ script 2 mmbn3 {
 	waitSkip
 		frames = 30
 	"""
-	Did someone say
-	something? Oh,wow,
-	you're so tiny!
+	 Alguém falou comigo?
+	Ah... Caramba!
+	Como você é pequetitito!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I didn't see you
-	there! What a funny
-	little guy you are!
+	Eu nem te vi aí!
+	Ha ha, você é um
+	carinha engraçado.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Maybe a too little!
-	Hey,can you dance on
-	the head of a pin?
+	E bota "inha" nesse
+	"carinha"! Você dorme
+	numa caixa de fósforos?
 	"""
 	keyWait
 	clearMsg
 	"""
-	I bet you could even
-	visit a mouse in its
-	hole! Tee hee hee!
+	Aposto que pega queijo
+	com o rato no buraco
+	da parede! Ai... OK, parei.
 	"""
 	keyWait
 	end
@@ -151404,36 +151370,34 @@ script 3 mmbn3 {
 		mugshot = NormalNaviGreen
 	msgOpen
 	"""
-	Hmm,know any good
-	jokes?
+	Hmm, tu sabe alguma
+	piada boa?
 	"""
 	keyWait
 	clearMsg
 	"""
-	I've come over from
-	Swapopolis to be a
-	comedian.
+	Eu vim lá de Akindo pra
+	ser comediante.
 	"""
 	keyWait
 	clearMsg
 	"""
-	But I'm in a slump,
-	so I can't think of
-	any jokes!
+	Mas tô atolado, "num"
+	consigo pensar em
+	nenhuma piada!
 	"""
 	keyWait
 	clearMsg
 	"""
-	If someone could
-	just tell me a good
-	one,it might shake
+	Se alguém me contar uma
+	boa, acho que isso ia me
+	tirar do atolamento...
 	"""
 	keyWait
 	clearMsg
 	"""
-	me outta my slump…
-	Hey,you,can you tell
-	me a good joke?
+	Ô, me conta uma piada
+	boa, vai? Faz favor?
 	"""
 	keyWait
 	clearMsg
@@ -151445,23 +151409,22 @@ script 3 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Hey,MegaMan,this
-	Navi needs our help!
-	Tell him a good one!
+	Ei, MegaMan, esse Navi
+	precisa da nossa ajuda!
+	Conta uma boa pra ele!
 	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"Huh!? Me!?"
+	"Hã?! Eu?!"
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = NormalNaviGreen
 	"""
-	Do you know any
-	good jokes!? C'mon,
-	lemme hear 'em!
+	Tu sabe piada boa?!
+	Conta aí, ô, conta tudo!
 	"""
 	keyWait
 	clearMsg
@@ -151477,14 +151440,14 @@ script 3 mmbn3 {
 	waitSkip
 		frames = 30
 	"""
-	OK…
-	Here goes nothing!
+	Tá...
+	Vou tentar!
 	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = NormalNaviGreen
-	"I can't wait!"
+	"Tô ouvindo!"
 	keyWait
 	clearMsg
 	mugshotShow
@@ -151500,7 +151463,7 @@ script 3 mmbn3 {
 	"."
 	waitSkip
 		frames = 30
-	"(gulp!)"
+	"(glup!)"
 	keyWait
 	clearMsg
 	mugshotShow
@@ -151521,7 +151484,7 @@ script 3 mmbn3 {
 	clearMsg
 	mugshotShow
 		mugshot = NormalNaviGreen
-	"……"
+	"......"
 	keyWait
 	clearMsg
 	mugshotShow
@@ -151555,9 +151518,9 @@ script 3 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Funny! Hilarious!
-	Absolutely
-	hysterical!!!
+	Que engraçado!
+	Ai, minha barriga!
+	Eu vou morrer, aqui!!!
 	"""
 	keyWait
 	clearMsg
@@ -151586,22 +151549,21 @@ script 3 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Hey,I think I got my
-	comedy muse back!
+	Pô, acho que a
+	inspiração voltou!
 	"""
 	keyWait
 	clearMsg
 	"""
-	And my confidence is
-	back,too! Thanks,
-	buddy!
+	E a minha confiança,
+	também! Brigado aí, pô!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I don't have much,
-	but take this token
-	of my gratitude!
+	"Num" tenho muita coisa
+	aqui, não, mas toma isto
+	aqui como agradecimento!
 	"""
 	keyWait
 	clearMsg
@@ -151646,16 +151608,15 @@ script 4 mmbn3 {
 	waitSkip
 		frames = 30
 	"""
-	Heh. Ya
-	can't take a joke,
-	can ya…?
+	 He. Tu num sabe
+	 brincar, né...?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Seems to me there
-	was a really funny
-	guy around here…
+	Eu lembro que tinha
+	um sujeito engraçado
+	aqui, até "inda" agora...
 	"""
 	keyWait
 	end
@@ -151665,9 +151626,9 @@ script 5 mmbn3 {
 		mugshot = NormalNaviGreen
 	msgOpen
 	"""
-	I'll have DenCity
-	roaring with
-	laughter,you'll see!
+	Eu vou fazer DenCity
+	inteira morrer de rir,
+	tu vai ver só!
 	"""
 	keyWait
 	end
@@ -151687,9 +151648,9 @@ script 10 mmbn3 {
 		mugshot = NormalNaviGreen
 	msgOpen
 	"""
-	This weird guy went
-	by here,spewing
-	bubbles all over!
+	Passou um cara
+	esquisito aqui, soltando
+	bolhas pra lá e pra cá!
 	"""
 	keyWait
 	end
@@ -151719,9 +151680,9 @@ script 11 mmbn3 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	It's so confusing
-	here,I can't catch
-	crooks easily…
+	É tudo tão confuso, aqui.
+	Dificulta pra mim pegar
+	criminosos...
 	"""
 	keyWait
 	end
@@ -151731,9 +151692,9 @@ script 20 mmbn3 {
 		mugshot = NormalNaviGreen
 	msgOpen
 	"""
-	Darn,I just can't
-	get through! Do I
-	look fat to you…?
+	Droga, eu não consigo
+	passar! Fala a verdade:
+	eu tô gordo...?
 	"""
 	keyWait
 	end
@@ -151747,16 +151708,16 @@ script 30 mmbn3 {
 		mugshot = NormalNaviGreen
 	msgOpen
 	"""
-	The endurance con-
-	test is all the way
-	down in Yoka 1.
+	A competição de
+	resistência é lá em
+	Yoka 1.
 	"""
 	keyWait
 	clearMsg
 	"""
-	That's where a water
-	heater program keeps
-	things hot!
+	Sabe, naquele lugar com
+	o programa do aquece-
+	dor de água!
 	"""
 	keyWait
 	end
@@ -151774,16 +151735,16 @@ script 31 mmbn3 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	GutsMan…? Ah yes!
-	He's competing in
-	the N1,right?
+	GutsMan...? Ah, sim!
+	Ele vai competir no N1,
+	né?
 	"""
 	keyWait
 	clearMsg
 	"""
-	He went up these
-	stairs a while back.
-	I got his autograph!
+	Ele subiu estas escadas,
+	agora há pouco. Peguei
+	o autógrafo dele!
 	"""
 	keyWait
 	end
@@ -151793,15 +151754,16 @@ script 32 mmbn3 {
 		mugshot = NormalNaviGreen
 	msgOpen
 	"""
-	The winner of the
-	endurance contest is
-	also in the N1.
+	O vencedor da competi-
+	ção de resistência
+	também está no N1.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Yep. No normal Navi
-	could go that far!
+	Esperado, né? Nenhum
+	Navi normal seria capaz
+	de chegar longe assim!
 	"""
 	keyWait
 	end
@@ -151811,16 +151773,16 @@ script 35 mmbn3 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	I just don't get
-	that endurance
-	contest…
+	Eu não entendo aquela
+	competição de
+	resistência...
 	"""
 	keyWait
 	clearMsg
 	"""
-	What's so fun about
-	suffering through
-	stuff on purpose!?
+	Qual é a graça de
+	aturar sofrimento de
+	propósito?!
 	"""
 	keyWait
 	end
@@ -151830,9 +151792,9 @@ script 40 mmbn3 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	I'm not really into
-	the N1,but it's so
-	popular…
+	Não tenho muito
+	interesse no N1, mas é
+	tão popular...
 	"""
 	keyWait
 	end
@@ -151842,16 +151804,16 @@ script 50 mmbn3 {
 		mugshot = NormalNaviGreen
 	msgOpen
 	"""
-	I guess there are
-	two ways to get from
-	Yoka 2 to Yoka 1.
+	Acho que existem duas
+	formas de se ir daqui
+	pra Yoka 2 e Yoka 1.
 	"""
 	keyWait
 	clearMsg
 	"""
-	One is a complete
-	dead end,but maybe
-	something's there…
+	Uma só leva a um beco
+	sem saída, mas, talvez,
+	haja mais coisa lá...
 	"""
 	keyWait
 	end
@@ -151869,23 +151831,21 @@ script 55 mmbn3 {
 		mugshot = NormalNaviGreen
 	msgOpen
 	"""
-	Did you hear about
-	the incident at the
-	hospital?
+	Ficou sabendo do
+	incidenten no hospital?
 	"""
 	keyWait
 	clearMsg
 	"""
-	They say a criminal
-	group called the
-	WWW did it.
+	Dizem que foi obra de
+	um grupo chamado WWW,
+	ou "Mundo Três".
 	"""
 	keyWait
 	clearMsg
 	"""
-	What's the world
-	coming to these
-	days!?
+	O mundo tá de pernas
+	pro ar, estes dias!
 	"""
 	keyWait
 	end
@@ -151895,15 +151855,15 @@ script 56 mmbn3 {
 		mugshot = NormalNaviGreen
 	msgOpen
 	"""
-	A nasty-looking Navi
-	is going on a
-	rampage over there!
+	Um Navi com cara de
+	mau tá perdendo as
+	estribeiras ali!
 	"""
 	keyWait
 	clearMsg
 	"""
-	He's pretty scary…
-	Better stay away!
+	Ele é sinistro...
+	Melhor nem chegar perto!
 	"""
 	keyWait
 	end
@@ -151913,15 +151873,15 @@ script 57 mmbn3 {
 		mugshot = NormalNaviGreen
 	msgOpen
 	"""
-	Huh? That crazy Navi
-	left?
+	Hã?
+	O Navi doido foi embora?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Things got really
-	quiet all of a
-	sudden,but…
+	As coisas ficaram bem
+	silenciosas de repente,
+	mas...
 	"""
 	keyWait
 	end
@@ -151931,19 +151891,19 @@ script 60 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	Yo,yo,yo!!! I'm a
-	super-evil-nasty-
-	awful WWW Navi! Hah!
+	Falaê, falaêêê!!! Eu "sô"
+	um Navi mau, cruel, demo-
+	níaco e sinistro da WWW!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Come any closer,and
-	you'll get hurt!
+	Se chegar perto,
+	a cobra vai comer!
 	"""
 	keyWait
 	clearMsg
-	"Ooops! Too late!!"
+	"Opa! Tarde demais!!"
 	keyWait
 	clearMsg
 	msgClose
@@ -151970,35 +151930,34 @@ script 61 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	Tsk,tsk! You'd
-	better be careful,
-	kid!
+	Tsc! É bom tu tomar
+	cuidado, garoto!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Wander around the
-	Internet alone,and
-	one of the WWW's
+	Se ficar zanzando
+	sozinho pela Rede,
 	"""
 	keyWait
 	clearMsg
 	"""
-	Navis might delete
-	ya!
+	um Navi da WWW pode
+	acabar te deletando
+	feio!
 	"""
 	keyWait
 	clearMsg
 	"""
-	How do I know?
-	I'm a WWW Navi!
+	"Como eu sei"?
+	Eu SOU um Navi da WWW!
 	Ha ha ha!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Now I'm gonna delete
-	you! YAAAAAH!
+	E, agora, eu vou te
+	deletar! IAAAAAH!
 	"""
 	keyWait
 	clearMsg
@@ -152066,16 +152025,15 @@ script 70 mmbn3 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	The investigation
-	into the WWW is the
-	#1 priority now.
+	A investigação sobre a
+	WWW é nossa prioridade
+	número 1 agora.
 	"""
 	keyWait
 	clearMsg
 	"""
-	We've gotta stop the
-	WWW,no matter what
-	it takes!
+	Precisamos deter a WWW,
+	custe o que custar!
 	"""
 	keyWait
 	end
@@ -152085,9 +152043,9 @@ script 75 mmbn3 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	The enemy's on the
-	Net! So we'd better
-	get over there!
+	O inimigo está na Rede!
+	Então, nós temos que ir
+	para lá!
 	"""
 	keyWait
 	end
@@ -152097,22 +152055,22 @@ script 80 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	Since the Officials
-	are having so much
-	trouble finding the
+	Como os Oficiais estão
+	tendo tanto trabalho
+	para achar a WWW,
 	"""
 	keyWait
 	clearMsg
 	"""
-	WWW,maybe it means
-	they've left the
-	country?
+	não seria possível que
+	ela tenha deixado o
+	país?
 	"""
 	keyWait
 	clearMsg
 	"""
-	It's just a thought…
-	Who knows!
+	É só uma teoria...
+	Mas vai saber!
 	"""
 	keyWait
 	end
@@ -152123,13 +152081,13 @@ script 90 mmbn3 {
 	msgOpen
 	"""
 	Aaaaahhh!
-	I'm so dizzy!
+	Estou tooontiiiinho!
 	"""
 	keyWait
 	clearMsg
 	"""
-	My limbs aren't
-	responding!!!
+	Meus braços e pernas
+	não respondem!!!
 	"""
 	keyWait
 	end
@@ -152147,31 +152105,30 @@ script 190 mmbn3 {
 		mugshot = NormalNaviGreen
 	msgOpen
 	"""
-	I've only been alive
-	a few hours…
+	Eu só estou vivo há
+	algumas horas...
 	"""
 	keyWait
 	clearMsg
 	"""
-	And when I finally
-	got to meet my
-	operator…
+	E, quando finalmente
+	conheci meu operador...
 	"""
 	keyWait
 	clearMsg
 	"""
-	It's the biggest
-	crisis of my life!
+	Esta é a maior crise da
+	minha vida!
 	"""
 	keyWait
 	clearMsg
-	"…Ah!"
+	"... Ah!"
 	keyWait
 	clearMsg
 	"""
-	You! Blue guy! Don't
-	just stand there!
-	Help me out!
+	Você! Azulzinho!
+	Não fica aí parado!
+	Me ajuda!
 	"""
 	keyWait
 	end
@@ -152187,16 +152144,16 @@ script 191 mmbn3 {
 		mugshot = NormalNaviGreen
 	msgOpen
 	"""
-	Aahhh,thanks!
-	You sure are a
-	tough dude!
+	Aahhh, obrigado!
+	Você é durão mesmo,
+	cara!
 	"""
 	keyWait
 	clearMsg
 	"""
-	So you came to get
-	me? Thanks! let me
-	give you this!
+	Então, você veio me
+	buscar? Obrigado!
+	Toma, um presente!
 	"""
 	keyWait
 	clearMsg
@@ -152223,9 +152180,9 @@ script 191 mmbn3 {
 	mugshotShow
 		mugshot = NormalNaviGreen
 	"""
-	Well,since I'm just
-	a temporary Navi,I'm
-	gonna take it easy…
+	Bom, como sou só um
+	Navi temporário, vou
+	pegar leve hoje...
 	"""
 	keyWait
 	end
@@ -152234,13 +152191,13 @@ script 192 mmbn3 {
 	mugshotShow
 		mugshot = HeelNavi
 	msgOpen
-	"Huh? Who're you!?"
+	"Hã? Quem é tu?!"
 	keyWait
 	clearMsg
 	"""
-	This ain't no peep
-	show,so scram!
-	Get outta here!
+	Aqui né show de circo
+	não, então, vaza!
+	Cai fora!
 	"""
 	keyWait
 	clearMsg
@@ -152264,14 +152221,15 @@ script 193 mmbn3 {
 		mugshot = NormalNaviGreen
 	msgOpen
 	"""
-	It sure is nice to
-	kick back like this…
+	É bom poder ficar de
+	bobeira assim...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Y'know,it makes me
-	not want to go home…
+	Na verdade, me faz
+	querer não voltar pra
+	casa...
 	"""
 	keyWait
 	end
@@ -152280,20 +152238,20 @@ script 195 mmbn3 {
 	mugshotShow
 		mugshot = HeelNavi
 	msgOpen
-	"Hiii-YAHH!!!"
+	"Raaaiii-IÁÁÁ!!!"
 	keyWait
 	clearMsg
 	"""
-	How'd you keep up
-	with my amazing
-	speed!
+	E aí? Nem deu pra
+	acompanhar a minha
+	velocidade incrível, né?!
 	"""
 	keyWait
 	clearMsg
 	"""
-	You think you can
-	handle it? Let's
-	see!
+	Acha que consegue
+	encarar?
+	É o que veremos!
 	"""
 	keyWait
 	clearMsg
@@ -152316,15 +152274,15 @@ script 196 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	Huff,huff,huff!!!
-	I feel the need for
-	speeeeeeed!!!
+	Urf, urf, urf!!!
+	Correr é o que me faz
+	viveeeeeeer!!!
 	"""
 	keyWait
 	clearMsg
 	"""
-	WHAT? You tryin' to
-	slow me down!?
+	QUÊ? Cê tá tentando
+	me parar?!
 	"""
 	keyWait
 	clearMsg
@@ -152353,22 +152311,22 @@ script 200 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	Congratulations!
-	I'm this area's
-	stamp official!
+	Meus parabéns! Eu sou
+	o responsável pelos
+	carimbos desta área!
 	"""
 	keyWait
 	clearMsg
 	"""
-	All right,let's see
-	your "
+	OK, vejamos o seu
+	"
 	"""
 	printItem
 		buffer = 0
 		item = 51
 	"""
-	"!
-	Here's your stamp!
+	"...!
+	Aqui, o seu carimbo!
 	"""
 	keyWait
 	clearMsg
@@ -152381,8 +152339,8 @@ script 201 mmbn3 {
 	soundPlay
 		track = 133
 	"""
-	MegaMan got a stamp
-	for his card.
+	O cartão do MegaMan
+	foi carimbado.
 	"""
 	keyWait
 	end
@@ -152392,9 +152350,8 @@ script 202 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	All right,good luck
-	with the rest of
-	your stamps!
+	OK, boa sorte com os
+	demais carimbos!
 	"""
 	keyWait
 	end
@@ -152925,8 +152882,8 @@ script 0 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	(Vamos, menino,
-	mostra um ânimo!)
+	(Vamos, menino, mostra
+	um ânimo!)
 	"""
 	keyWait
 	clearMsg
@@ -152950,7 +152907,7 @@ script 0 mmbn3 {
 	" "
 	soundPlay
 		track = 162
-	" (clic)…"
+	" (clic)..."
 	keyWait
 	clearMsg
 	soundEnableTextSFX
@@ -153281,7 +153238,7 @@ script 15 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Sure "
+	"   Tá "
 	option
 		left = 0
 		right = 0
@@ -153289,7 +153246,7 @@ script 15 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No"
+	"         Não"
 	select
 		default = 0
 		BSeparate = false
@@ -153319,16 +153276,16 @@ script 20 mmbn3 {
 		mugshot = NormalNaviGreen
 	msgOpen
 	"""
-	Isn't it great? Yoka
-	Square is right next
-	to the Metro!
+	Isso não é demais?
+	O Yoka Plaza fica bem
+	do lado do Metrô!
 	"""
 	keyWait
 	clearMsg
 	"""
-	This square has the
-	easiest access to
-	the CyberMetrô!
+	Este é o plaza com o
+	mais fácil acesso ao
+	CyberMetrô!
 	"""
 	keyWait
 	end
@@ -153362,16 +153319,15 @@ script 21 mmbn3 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	This preliminary
-	tests the operator's
-	detective skills.
+	Estas preliminares tes-
+	tam as habilidades de in-
+	vestigação do operador.
 	"""
 	keyWait
 	clearMsg
 	"""
-	You can't beat this
-	one just by having a
-	strong Navi!
+	Não basta um Navi forte
+	pra vencê-las!
 	"""
 	keyWait
 	end
@@ -153407,16 +153363,15 @@ script 22 mmbn3 {
 		palette = 1
 	msgOpen
 	"""
-	You're the final
-	participant in the
-	final preliminary.
+	Você é o último
+	participante das
+	preliminares finais?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Lots of other Navis
-	have already gotten
-	started!
+	Vários outros Navis já
+	começaram!
 	"""
 	keyWait
 	end
@@ -153450,16 +153405,16 @@ script 23 mmbn3 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	Here's a hot little
-	tip I heard from
-	a friend.
+	Aqui vai uma dica
+	quentíssima que eu
+	ouvi de um amigo.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Two costumed people
-	got off at Yoka St.
-	and at ACDC St.!
+	Duas pessoas fantasia-
+	das foram vistas nas
+	Estações Yoka e ACDC!
 	"""
 	keyWait
 	end
@@ -153489,8 +153444,8 @@ script 24 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	This warp point
-	leads outside.
+	Este portal leva lá pra
+	fora do Plaza.
 	"""
 	keyWait
 	end
@@ -153500,15 +153455,15 @@ script 31 mmbn3 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Wow,you passed the
-	final preliminary!
+	Nossa, você passou nas
+	últimas preliminares!
 	"""
 	keyWait
 	clearMsg
 	"""
-	So you found all the
-	costumed Navis!
-	Congratulations!
+	Então, achou todos os
+	Navis fantasiados!
+	Meus parabéns!
 	"""
 	keyWait
 	end
@@ -153520,9 +153475,9 @@ script 32 mmbn3 {
 		palette = 1
 	msgOpen
 	"""
-	Lots of Navis didn't
-	make it through this
-	preliminary.
+	Vários Navis não
+	conseguiram passar
+	nesta preliminar.
 	"""
 	keyWait
 	end
@@ -153532,16 +153487,15 @@ script 33 mmbn3 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	Hee hee! My tip
-	really paid off,
-	didn't it?
+	Hi hi! A minha dica valeu
+	a pena, não foi?
 	"""
 	keyWait
 	clearMsg
 	"""
-	You saw the two at
-	Yoka and at ACDC,
-	right?
+	Você achou os dois que
+	tavam em Yoka e e em
+	ACDC, né?
 	"""
 	keyWait
 	end
@@ -153551,16 +153505,16 @@ script 40 mmbn3 {
 		mugshot = NormalNaviGreen
 	msgOpen
 	"""
-	I was just
-	questioned by the
-	Officials.
+	Acabei de ser
+	interrogado pelos
+	Oficiais.
 	"""
 	keyWait
 	clearMsg
 	"""
-	So I told 'em about
-	a strange blue
-	Navi I just saw.
+	Contei pra eles sobre
+	um Navi azul estranho
+	que eu vi ainda agora.
 	"""
 	keyWait
 	end
@@ -153570,9 +153524,9 @@ script 41 mmbn3 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	The perpetrator just
-	left the square.
-	They better hurry…
+	O suspeito acabou de
+	deixar o plaza. Eles
+	precisam se apressar...
 	"""
 	keyWait
 	end
@@ -153584,16 +153538,16 @@ script 42 mmbn3 {
 		palette = 1
 	msgOpen
 	"""
-	Man! Who did this!
-	Who left all these
-	bubbles here?
+	Cara! Quem foi?!
+	Quem deixou toda essa
+	espuma aqui?!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Think about the guys
-	like me who gotta
-	clean this up!
+	Ninguém pensa nos
+	infelizes que têm que
+	limpar essas coisas, né?!
 	"""
 	keyWait
 	end
@@ -153603,9 +153557,9 @@ script 43 mmbn3 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	The bad guy came
-	through here?
-	Yikes…!
+	O tal vilão passou por
+	aqui?
+	Cruzes...!
 	"""
 	keyWait
 	end
@@ -153615,8 +153569,8 @@ script 44 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	I hope they find the
-	guy soon…
+	Espero que encontrem
+	logo o sujeito...
 	"""
 	keyWait
 	end
@@ -153626,16 +153580,16 @@ script 45 mmbn3 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	They're looking for
-	the bad guy in the
-	real world,but they
+	Estão procurando pelo
+	bandido no mundo real,
+	mas, na realidade,
 	"""
 	keyWait
 	clearMsg
 	"""
-	think the Navi might
-	be autonomous-no
-	operator at all!
+	acreditam que o Navi
+	possa ser autônomo,
+	mesmo. Sem operador!
 	"""
 	keyWait
 	end
@@ -153645,9 +153599,9 @@ script 50 mmbn3 {
 		mugshot = NormalNaviGreen
 	msgOpen
 	"""
-	You sure are tough!
-	Did you really get
-	the bad guy!?
+	Você é fortão, mesmo!
+	Sério que você acabou
+	com o bandido?!
 	"""
 	keyWait
 	end
@@ -153657,9 +153611,9 @@ script 51 mmbn3 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	So the case is
-	closed. Thank you
-	for helping out!
+	Então, caso encerrado.
+	Muito obrigado por sua
+	ajuda!
 	"""
 	keyWait
 	end
@@ -153671,15 +153625,15 @@ script 52 mmbn3 {
 		palette = 1
 	msgOpen
 	"""
-	That criminal Navi
-	has no operator!
+	Aquele Navi criminoso
+	não tinha operador!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I kind of envy that
-	Navi's freedom,
-	actually.
+	Eu meio que invejo a
+	liberdade dele, pra ser
+	sincero.
 	"""
 	keyWait
 	end
@@ -153689,9 +153643,9 @@ script 53 mmbn3 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	How'd that bad Navi
-	make it through the
-	narrow streets?
+	Como aquele Navi do mal
+	fez pra atravessar os
+	trechos estreitos?
 	"""
 	keyWait
 	end
@@ -153700,7 +153654,7 @@ script 54 mmbn3 {
 	mugshotShow
 		mugshot = MrProg
 	msgOpen
-	"Peace,man!"
+	"Paz e amor!"
 	keyWait
 	end
 }
@@ -153709,9 +153663,9 @@ script 60 mmbn3 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Enjoying the N1 is
-	one thing,but people
-	take it too far…
+	Apreciar o N1, normal,
+	mas tem um povo que
+	leva tudo longe demais...
 	"""
 	keyWait
 	end
@@ -153723,19 +153677,19 @@ script 61 mmbn3 {
 		palette = 1
 	msgOpen
 	"""
-	I'll bet you that
-	ProtoMan will
-	win the N1 tomorrow.
+	Eu aposto que o
+	ProtoMan vai vencer o
+	N1 amanhã.
 	"""
 	keyWait
 	clearMsg
 	"""
-	All the other Navis
-	just plain stink!
+	Todos os outros Navis
+	são ruins demais!
 	"""
 	keyWait
 	clearMsg
-	"ProtoMan's the man!"
+	"Com o ProtoMan, não tem\npra ninguém!"
 	keyWait
 	end
 }
@@ -153744,16 +153698,16 @@ script 62 mmbn3 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	You're MegaMan!
-	You're competing
-	in the N1,right?
+	Você é o MegaMan!
+	Você vai competir no
+	N1, né?
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'm a fan of yours!
-	None of the other
-	Navis can touch you!
+	Eu sou mó fã seu!
+	Nenhum dos outros Navis
+	têm a menor chance!
 	"""
 	keyWait
 	end
@@ -153763,16 +153717,16 @@ script 63 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	Listen up! They're
-	holding a Navi-only
-	endurance contest!
+	Escute só! Está havendo
+	uma competição de resis-
+	tência só entre Navis!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Navis who have what
-	it takes can sign
-	up in Yoka 1!
+	Navis que acham que
+	encaram essa podem se
+	inscrever em Yoka 1!
 	"""
 	keyWait
 	end
@@ -153782,9 +153736,9 @@ script 70 mmbn3 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Everyone's pretty
-	excited. I just hope
-	there's no violence!
+	Está todo mundo bem
+	animado. Só espero que
+	não haja violência!
 	"""
 	keyWait
 	end
@@ -153796,9 +153750,9 @@ script 71 mmbn3 {
 		palette = 1
 	msgOpen
 	"""
-	ProtoMan'll blow'em
-	away. The N1'll be
-	no contest for him!
+	O ProtoMan vai humilhar
+	geral. O N1 vai ser
+	moleza pra ele!
 	"""
 	keyWait
 	end
@@ -153808,16 +153762,16 @@ script 72 mmbn3 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	There's a girl Navi
-	over there going on
-	about ProtoMan,but…
+	Tem uma Navi ali falando
+	"ProtoMan" isso,
+	"ProtoMan" aquilo, mas...
 	"""
 	keyWait
 	clearMsg
 	"""
-	How could MegaMan
-	possibly lose to
-	ProtoMan?!
+	Até parece que o
+	MegaMan vai perder pro
+	ProtoMan!
 	"""
 	keyWait
 	end
@@ -153827,15 +153781,16 @@ script 73 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	Everyone is rooting
-	for their favorite
-	Navi in the N1.
+	Estão todos torcendo
+	por seus Navis
+	favoritos no N1.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Personally,I want
-	Glide to win.
+	Pessoalmente, eu
+	espero que o Glide
+	vença.
 	"""
 	keyWait
 	end
@@ -153845,16 +153800,16 @@ script 80 mmbn3 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Things are starting
-	to get out of
-	control in Yoka.
+	As coisas estão
+	começando a sair do
+	controle em Yoka.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I hope this isn't a
-	sign of things to
-	come…
+	Espero que isso não
+	seja um sinal de coisas
+	que estão por vir...
 	"""
 	keyWait
 	end
@@ -153866,9 +153821,9 @@ script 81 mmbn3 {
 		palette = 1
 	msgOpen
 	"""
-	ProtoMan looked
-	really cool,but so
-	did you!
+	O ProtoMan tava muito
+	maneiro, mas você
+	também tava!
 	"""
 	keyWait
 	end
@@ -153878,15 +153833,15 @@ script 82 mmbn3 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	I totally predicted
-	the final lineup!
+	Eu SUPER previ esses
+	dois finalistas!
 	"""
 	keyWait
 	clearMsg
 	"""
-	If they'd held the
-	finals,MegaMan
-	would have won,too!
+	E, se as finais tivessem
+	rolado, o MegaMan, com
+	certeza, teria vencido!
 	"""
 	keyWait
 	end
@@ -153896,15 +153851,15 @@ script 83 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	I was rooting for
-	Glide,but…
+	Eu estava torcendo
+	pelo Glide, mas...
 	"""
 	keyWait
 	clearMsg
 	"""
-	But I'm still a fan!
-	I'll root for Glide
-	next time!
+	Mas eu sigo sendo um fã!
+	Torcerei por ele da
+	próxima vez, também!
 	"""
 	keyWait
 	end
@@ -153918,22 +153873,22 @@ script 84 mmbn3 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	I'm a Navi research
-	scientist.
+	Sou um Navi cientista
+	de pesquisa.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'm looking into the
-	Navi DesertMan who
-	shook up the N1
+	Estou pesquisando o
+	Navi DesertMan, que agi-
+	tou o Grande Prêmio N1
 	"""
 	keyWait
 	clearMsg
 	"""
-	Grand Prix the other
-	day,but as of now,I
-	have found nothing.
+	outro dia. Mas, até
+	agora, não descobri
+	nada.
 	"""
 	keyWait
 	end
@@ -153943,13 +153898,12 @@ script 85 mmbn3 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	There is one thing
-	we do know about
-	DesertMan.
+	Uma coisa, nós sabemos
+	sobre o DesertMan.
 	"""
 	keyWait
 	clearMsg
-	"That is"
+	"Essa sendo"
 	waitSkip
 		frames = 30
 	"."
@@ -153962,9 +153916,9 @@ script 85 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	DesertMan likes
-	sand! And that's all
-	we know.
+	que ele adora areia!
+	E, é, é só isso que
+	sabemos.
 	"""
 	keyWait
 	end
@@ -153982,15 +153936,15 @@ script 90 mmbn3 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Suspicious Navis are
-	coming in and out
-	of the Beach area.
+	Navis suspeitos não
+	param de ir e vir da
+	área Angra.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Someone should look
-	into this…
+	Alguém devia dar uma
+	investigada nisso...
 	"""
 	keyWait
 	end
@@ -154010,15 +153964,13 @@ script 91 mmbn3 {
 		palette = 1
 	msgOpen
 	"""
-	I thought the WWW
-	was supposed to have
-	been destroyed…
+	Eu pensei que a WWW
+	tivesse sido destruída...
 	"""
 	keyWait
 	clearMsg
 	"""
-	How did they rebuild
-	themselves?
+	Como ela se reergueu?
 	"""
 	keyWait
 	end
@@ -154028,16 +153980,16 @@ script 92 mmbn3 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	MegaMan! I heard
-	SciLab's giving you
-	a commendation!
+	MegaMan! Ouvi dizer que
+	o SciLab ia te dar uma
+	condecoração!
 	"""
 	keyWait
 	clearMsg
 	"""
-	So,did you go and
-	get it? Finally,
-	public recognition!
+	E aí, já foi lá pegar?
+	Finalmente,
+	reconhecimento!!
 	"""
 	keyWait
 	end
@@ -154047,15 +153999,14 @@ script 93 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	The Officials are
-	all on edge.
+	Os Oficiais estão todos
+	ariscos.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Maybe it's because
-	of all the recent
-	incidents?
+	Talvez devido a todos
+	esses últimos incidentes?
 	"""
 	keyWait
 	end
@@ -154064,33 +154015,33 @@ script 95 mmbn3 {
 	mugshotShow
 		mugshot = OfficialNavi
 	msgOpen
-	"So,you're MegaMan!"
+	"Então, você é o\nMegaMan!"
 	keyWait
 	clearMsg
 	"""
-	I'm the one who
-	contacted SciLab.
-	"""
-	keyWait
-	clearMsg
-	"""
-	Some guys that look
-	like WWW Navis have
-	appeared in Yoka 2!
+	Fui eu quem contatou
+	o SciLab.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Sorry to bother you
-	personally,but can
-	you go check it out?
+	Uns caras que pareciam
+	Navis da WWW
+	apareceram em Yoka 2!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'll stay in this
-	square to make sure
-	they don't get away!
+	Desculpe te incomodar
+	com isso, mas pode ir lá
+	conferir essa história?
+	"""
+	keyWait
+	clearMsg
+	"""
+	Eu ficarei aqui, no plaza,
+	para garantir que eles
+	não fujam!
 	"""
 	keyWait
 	end
@@ -154102,9 +154053,8 @@ script 96 mmbn3 {
 		palette = 1
 	msgOpen
 	"""
-	What's that Official
-	over there so
-	nervous about?
+	Por que aquele Oficial ali
+	está tão nervoso?
 	"""
 	keyWait
 	end
@@ -154114,15 +154064,14 @@ script 97 mmbn3 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Have you heard from
-	SciLab?
+	O SciLab te informou?
 	"""
 	keyWait
 	clearMsg
 	"""
-	A bunch of WWW Navis
-	are on a rampage in
-	the Beach area!
+	Um monte de Navis da
+	WWW estão destruindo
+	tudo na área Angra!
 	"""
 	keyWait
 	end
@@ -154134,15 +154083,14 @@ script 98 mmbn3 {
 		palette = 1
 	msgOpen
 	"""
-	The Officials said
-	something about the
-	WWW,I think.
+	Os Oficiais falaram
+	alguma coisa sobre a
+	WWW... eu acho.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Or was I just
-	imagining things?
+	Eu imaginei aquilo?
 	"""
 	keyWait
 	end
@@ -154167,23 +154115,23 @@ script 100 mmbn3 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	So,you're MegaMan?
-	I've heard about
-	you!
+	Então, você é o
+	MegaMan? Ouvi muito
+	a seu respeito!
 	"""
 	keyWait
 	clearMsg
 	"""
-	The civilian Navi
-	who solves all sorts
-	of NetCrimes,right?
+	O Navi civil que combate
+	todo tipo de NetCrime,
+	né?
 	"""
 	keyWait
 	clearMsg
 	"""
-	You know,you really
-	keep us Official
-	Navis on our toes!
+	Você mantém a nós, os
+	Navis Oficiais, bem
+	atentos, sabia?
 	"""
 	keyWait
 	end
@@ -154195,23 +154143,23 @@ script 101 mmbn3 {
 		palette = 1
 	msgOpen
 	"""
-	Hey,did you know?
-	There's a place
-	called the Undernet.
+	Ei, você sabia?
+	Existe esse lugar
+	chamado Undernet.
 	"""
 	keyWait
 	clearMsg
 	"""
-	The Undernet has a
-	special hierarchy
-	called the ranking.
+	A Undernet tem uma
+	hierarquia especial, o
+	"ranque".
 	"""
 	keyWait
 	clearMsg
 	"""
-	I guess even the
-	Undernet has its own
-	social ladder,too.
+	Muito louco que até a
+	Undernet tem sua
+	própria escada social.
 	"""
 	keyWait
 	end
@@ -154221,23 +154169,22 @@ script 102 mmbn3 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	The Undernet is a
-	complete mystery to
-	ordinary Net users.
+	A Undernet é um comple-
+	to mistério pra usuários
+	normais da Rede.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I guess you'd have
-	to live there to
-	understand it…
+	Acho que só vivendo lá
+	pra entender...
 	"""
 	keyWait
 	clearMsg
 	"""
-	But…What a scary
-	thought! I could
-	never do that!
+	Mas... brr, dá medo só de
+	pensar nisso! Eu nunca
+	seria louco a esse ponto!
 	"""
 	keyWait
 	end
@@ -154257,16 +154204,16 @@ script 103 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	A huge number of
-	Officials are still
-	investigating.
+	Um número enorme de
+	Oficiais continuam a
+	investigar.
 	"""
 	keyWait
 	clearMsg
 	"""
-	The WWW won't be
-	able to keep this up
-	for much longer.
+	A WWW não conseguirá
+	continuar com isso por
+	muito tempo.
 	"""
 	keyWait
 	end
@@ -154276,9 +154223,9 @@ script 105 mmbn3 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Sshhh! Keep it down!
-	Don't let them know
-	Alpha's been stolen!
+	Sshhh! Silêncio!
+	Não deixe vazar que o
+	Alpha foi roubado!
 	"""
 	keyWait
 	end
@@ -154288,23 +154235,23 @@ script 110 mmbn3 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Navis should avoid
-	leaving squares as
-	much as possible.
+	Navis devem evitar
+	deixar os plazas o
+	máximo possível.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Squares have higher
-	security than the
-	rest of the Net.
+	Plazas têm maior
+	segurança que o resto
+	da Rede.
 	"""
 	keyWait
 	clearMsg
 	"""
-	But if the squares
-	get dangerous…
-	Just jack out!
+	Mas se os plazas
+	ficarem perigosos...
+	Desconectem-se!
 	"""
 	keyWait
 	end
@@ -154316,15 +154263,15 @@ script 111 mmbn3 {
 		palette = 1
 	msgOpen
 	"""
-	I can't take this!
-	Staying put like
-	this is boring!
+	Eu não aguento isso!
+	Ficar preso aqui, deste
+	jeito, é tão CHATO!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I hope they catch
-	those WWW guys soon!
+	Espero que peguem logo
+	esse povo da WWW!
 	"""
 	keyWait
 	end
@@ -154334,16 +154281,16 @@ script 112 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	I never thought this
-	incident would go on
-	for so long.
+	Eu nunca pensei que
+	esse incidente fosse se
+	estender tanto.
 	"""
 	keyWait
 	clearMsg
 	"""
-	They must be hiding
-	out in a pretty
-	isolated place…
+	Eles devem estar
+	escondidos em algum
+	lugar isolado...
 	"""
 	keyWait
 	end
@@ -154353,29 +154300,28 @@ script 120 mmbn3 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Something is trying
-	to absorb the
-	Internet itself!
+	Tem uma coisa tentando
+	absorver a Rede em si!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Weak Navis and
-	programs are already
-	malfunctioning!
+	Navis e programas fra-
+	cos já estão apresen-
+	tando malfuncionamento!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Even this square
-	won't last forever!
+	Nem este plaza vai
+	aguentar para sempre!
 	"""
 	keyWait
 	clearMsg
 	"""
-	If you start to feel
-	it,too,jack out
-	right away!
+	Se começar a sentir isso
+	também, desconecte-se
+	na mesma hora!
 	"""
 	keyWait
 	end
@@ -154385,15 +154331,15 @@ script 121 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	My buddy program
-	went outside and
-	hasn't come back.
+	O meu amigo programa
+	saiu do plaza e ainda
+	não voltou.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'm worried about
-	him.
+	Estou preocupado com
+	ele.
 	"""
 	keyWait
 	end
@@ -154451,8 +154397,8 @@ script 182 mmbn3 {
 		mugshot = NormalNaviGreen
 	msgOpen
 	"""
-	I'm sorry,we're all
-	out of merchandise…
+	Desculpe, estamos sem
+	mercadoria...
 	"""
 	keyWait
 	end
@@ -154538,30 +154484,28 @@ script 190 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	You are MegaMan?
-	Thanks for accepting
-	my request!
+	Você é o MegaMan?
+	Obrigado por aceitar o
+	meu pedido!
 	"""
 	keyWait
 	clearMsg
 	"""
-	A gang of Navis
-	has been terrorizing
-	Yoka!
+	Uma gangue de Navis
+	vem aterrorizando Yoka!
 	"""
 	keyWait
 	clearMsg
 	"""
-	MegaMan,please
-	go knock some sense
-	into them!
+	MegaMan, por favor,
+	dê uma lição neles!
 	"""
 	keyWait
 	clearMsg
 	"""
-	There are four bad
-	Navis involved.
-	Thanks in advance!
+	Há quatro Navis maus
+	envolvidos.
+	Desde já, agradeço!
 	"""
 	keyWait
 	end
@@ -154571,13 +154515,12 @@ script 191 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	There are four
-	Navi gang members
-	in Yoka.
+	Há quatro Navis membros
+	de gangue em Yoka.
 	"""
 	keyWait
 	clearMsg
-	"Give 'em a whuppin'!"
+	"Dá uma sova neles!"
 	keyWait
 	end
 }
@@ -154590,30 +154533,29 @@ script 192 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	You took care of
-	them!
-	Thank you very much!
+	Você deu uma surra
+	neles!
+	Muito obrigado!
 	"""
 	keyWait
 	clearMsg
 	"""
-	You've brought peace
-	and quiet back to
-	Yoka.
+	A paz e a tranquilidade
+	voltaram à Yoka.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Here's your reward.
-	I don't know how to
-	use it,myself.
+	Aqui está a sua
+	recompensa.
+	Eu não sei como usar.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I heard it's some
-	amazing item from a
-	PET research lab.
+	Só ouvi que é um produto
+	incrível do laboratório de
+	pesquisa de PETs.
 	"""
 	keyWait
 	clearMsg
@@ -154648,9 +154590,9 @@ script 194 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	Never give in to
-	evil! Justice will
-	always triumph!
+	Nunca se renda ao mal!
+	A justiça sempre
+	triunfará!
 	"""
 	keyWait
 	end
@@ -154661,7 +154603,7 @@ script 220 mmbn3 {
 }
 script 221 mmbn3 {
 	msgOpen
-	"It's the Chat BBS"
+	"É o Fórum de Bate-Papo."
 	keyWait
 	startBBS
 		bbs = 4
@@ -154669,9 +154611,9 @@ script 221 mmbn3 {
 script 222 mmbn3 {
 	msgOpen
 	"""
-	It's the CyberMetrô
-	line,which links
-	many Internet areas
+	É a linha de CyberMetrô,
+	que se liga a muitas
+	áreas da Rede.
 	"""
 	keyWait
 	end
@@ -154688,23 +154630,23 @@ script 0 mmbn3 {
 	mugshotShow
 		mugshot = HeelNavi
 	msgOpen
-	"Go!! Go!! Go!!"
+	"Vai!! Vai!! Vai!!"
 	keyWait
 	clearMsg
 	"""
-	Hey,kid! You ARE
-	rooting for Ameropa
-	in the N1,right!?
+	Ê, garoto! Cê tá
+	torcendo pela Ameropa
+	no N1, né? NÉ?!
 	"""
 	keyWait
 	clearMsg
 	"""
-	…What?
-	You're not?
+	... Quê?
+	Não tá?
 	"""
 	waitSkip
 		frames = 30
-	"\nThen,take this!!!"
+	"\nEntão, TOMA!!!"
 	keyWait
 	clearMsg
 	msgClose
@@ -154727,16 +154669,15 @@ script 1 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	Go,go Ameropa!
-	Ameropa rules at
-	NetBattling!
+	Ameropa, Ameropa!
+	Com eles, NetLuta é
+	NetMassacre!
 	"""
 	keyWait
 	clearMsg
 	"""
-	What the? Are you a
-	fan of Electopia or
-	something!?
+	Hã? Cê é o quê, fã de
+	Ni-Hon?!
 	"""
 	keyWait
 	clearMsg
@@ -154760,13 +154701,13 @@ script 2 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	You're looking for a
-	Navi from Electopia?
-	Our boss got him!
+	Cê tá atrás de um Navi
+	de Ni-Hon? Ah, o nosso
+	patrão tá com ele.
 	"""
 	keyWait
 	clearMsg
-	"And you're next!"
+	"E cê é o próximo!"
 	keyWait
 	clearMsg
 	msgClose
@@ -154789,16 +154730,16 @@ script 10 mmbn3 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	A bunch of Ameropa
-	fans just went by
-	here!
+	Um monte de fãs
+	Ameropanos acabaram
+	de passar por aqui!
 	"""
 	keyWait
 	clearMsg
 	"""
-	They were pretty
-	riled up. You'd
-	better be careful.
+	Eles estavam bem
+	alvoroçados. Acho
+	melhor tomar cuidado.
 	"""
 	keyWait
 	end
@@ -154814,9 +154755,9 @@ script 11 mmbn3 {
 		palette = 1
 	msgOpen
 	"""
-	Ah,the Beach area!
-	You can fish,and
-	swim,and play…
+	Ah, a área Angra!
+	Onde se pode pescar,
+	e nadar, e brincar...
 	"""
 	keyWait
 	end
@@ -154828,22 +154769,22 @@ script 12 mmbn3 {
 		palette = 1
 	msgOpen
 	"""
-	I saw a Navi dressed
-	like a diver! That's
-	SO Beach area!
+	Eu vi um Navi vestido
+	de mergulhador! Isso
+	é TÃO área Angra!
 	"""
 	keyWait
 	clearMsg
 	"""
-	That guy must be a
-	coward! Navis like
-	him only show up
+	Mas o cara deve ser
+	um covarde! Navis como
+	ele só aparecem pra
 	"""
 	keyWait
 	clearMsg
 	"""
-	for fights when the
-	opponent has low HP!
+	lutar quando o oponente
+	tá com PV baixos!
 	"""
 	keyWait
 	end
@@ -154855,16 +154796,15 @@ script 20 mmbn3 {
 		palette = 1
 	msgOpen
 	"""
-	It's scary. They say
-	N1 fans rioted here
-	yesterday.
+	Que medo. Dizem que fãs
+	do N1 quebraram tudo
+	aqui, ontem.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I wonder if there
-	are any more fans
-	around…!?
+	Será que ainda tem mais
+	desses fãs por aqui...?!
 	"""
 	keyWait
 	end
@@ -154889,16 +154829,15 @@ script 30 mmbn3 {
 		mugshot = NormalNaviGreen
 	msgOpen
 	"""
-	I really wonder
-	where that cube over
-	there leads to?
+	Aonde será que aquele
+	cubo ali dá acesso?
 	"""
 	keyWait
 	clearMsg
 	"""
-	But you need the
-	hospital passcode to
-	open it. Oh,well.
+	Mas é preciso da senha
+	do hospital para abri-lo.
+	Meh.
 	"""
 	keyWait
 	end
@@ -154908,22 +154847,22 @@ script 40 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	I'm in the WWW!
+	Eu sou da WWW!
 	La-la-laaaaa!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Huh!? Were you
-	laughing at my song
-	just now!?
+	Hã?! Cê tava rindo
+	da minha música ainda
+	agora, tava não?!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'll teach you to
-	laugh at the WWW!
-	C'mere,you!
+	Vou te ensinar o que
+	rola quando se ri da WWW!
+	Cai dentro!
 	"""
 	keyWait
 	clearMsg
@@ -155382,8 +155321,8 @@ script 201 mmbn3 {
 	soundPlay
 		track = 133
 	"""
-	MegaMan got a stamp
-	for his card.
+	O cartão do MegaMan
+	foi carimbado.
 	"""
 	keyWait
 	end
@@ -155908,15 +155847,15 @@ script 0 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	Show me your
+	Mostre a sua
 	"
 	"""
 	printItem
 		buffer = 0
 		item = 21
 	"""
-	" or you
-	can't go through.
+	", ou não
+	pode passar.
 	"""
 	keyWait
 	end
@@ -155926,15 +155865,15 @@ script 1 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	I see you have
+	Vejo que você tem a
 	"
 	"""
 	printItem
 		buffer = 0
 		item = 21
 	"""
-	". OK,you
-	can pass.
+	". OK, garoto,
+	pode passar.
 	"""
 	keyWait
 	flagSet
@@ -155948,16 +155887,16 @@ script 10 mmbn3 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	I came all this way,
-	and now the paths
-	are too narrow!
+	Eu cruzei todo este ca-
+	minho e, agora, a estrada
+	ficou estreita demais!
 	"""
 	keyWait
 	clearMsg
 	"""
-	It's just not fair!
-	And Beach Square is
-	so close,too…
+	Que injusto!
+	E o Angra Plaza tá tão
+	perto, também...
 	"""
 	keyWait
 	end
@@ -155967,23 +155906,22 @@ script 11 mmbn3 {
 		mugshot = NormalNaviGreen
 	msgOpen
 	"""
-	Did you come to see
-	them tape the TV
-	show,too?
+	Você também veio ver
+	eles filmando o programa
+	de TV?
 	"""
 	keyWait
 	clearMsg
 	"""
-	This area is so
-	complicated! To get
-	to Beach Square,you
+	Esta área é tão
+	complicada! Pra chegar
+	no Angra Plaza,
 	"""
 	keyWait
 	clearMsg
 	"""
-	really have to take
-	a lot of twists and
-	turns.
+	é preciso se perder e
+	se achar várias vezes.
 	"""
 	keyWait
 	end
@@ -155993,23 +155931,22 @@ script 12 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	Hello,there!
-	Welcome to the Beach
-	area!
+	Olá!
+	Bem-vindo à área Angra!
 	"""
 	keyWait
 	clearMsg
 	"""
-	With the ocean so
-	close,it sure makes
-	you feel tropical!
+	Com o oceano tão perto,
+	a gente fica se sentindo
+	muito tropical aqui!
 	"""
 	keyWait
 	clearMsg
 	"""
-	This area's main
-	street is orange…
-	Like the summer sun!
+	A Rua Central desta
+	área é laranja...
+	Como o sol do verão!
 	"""
 	keyWait
 	end
@@ -156044,16 +155981,16 @@ script 20 mmbn3 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	We're improving
-	security,just in
-	case the N1 fans
+	Estamos aprimorando a
+	segurança, pro caso de
+	fãs do N1 causarem
 	"""
 	keyWait
 	clearMsg
 	"""
-	start to riot. If
-	you see anything
-	suspicious,tell me.
+	baderna. Se vir alguma
+	coisa suspeita, por
+	favor, informe-nos.
 	"""
 	keyWait
 	end
@@ -156063,16 +156000,16 @@ script 30 mmbn3 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	I'm investigating
-	reports that suspi-
-	cious characters are
+	Estou investigando
+	relatos de que indivíduos
+	suspeitos vêm cruzando
 	"""
 	keyWait
 	clearMsg
 	"""
-	coming through the
-	Beach area. You'd
-	better be careful.
+	a área Angra.
+	Aconselho que tome
+	cuidado, senhor.
 	"""
 	keyWait
 	end
@@ -156081,19 +156018,22 @@ script 40 mmbn3 {
 	mugshotShow
 		mugshot = HeelNavi
 	msgOpen
-	"Yo,I'm no WWW Navi!!"
-	keyWait
-	clearMsg
 	"""
-	You got a problem,
-	huh!?
+	Ô, eu não "sô" Navi da
+	WWW não, caramba!!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Who do you think yer
-	lookin' at!? You
-	want a piece of me?
+	Quê que é?
+	"Num" gostou?!
+	"""
+	keyWait
+	clearMsg
+	"""
+	Tá olhando o quê?!
+	Vai encarar?!
+	Cai dentro, ô!
 	"""
 	keyWait
 	clearMsg
@@ -156148,23 +156088,23 @@ script 50 mmbn3 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	I know there's an
-	entrance to the
-	Undernet around
+	Eu sei que há uma
+	entrada para a
+	Undernet por aqui,
 	"""
 	keyWait
 	clearMsg
 	"""
-	here,but to go
-	through it,you need
-	a Tally.
+	mas, para passar por
+	ela, eu precisaria ter
+	uma Contagem.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Maybe I should
-	just force my way
-	in…!?
+	Talvez eu devesse só
+	entrar à força,
+	mesmo...?!
 	"""
 	keyWait
 	end
@@ -156174,13 +156114,13 @@ script 55 mmbn3 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	So the WWW and the
-	Undernet are
-	connected after all!
+	Então, a WWW e a
+	Undernet estão
+	conectadas, afinal!
 	"""
 	keyWait
 	clearMsg
-	"Go get 'em!"
+	"Vá lá e acabe com ela!"
 	keyWait
 	end
 }
@@ -156189,16 +156129,15 @@ script 60 mmbn3 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	There's no link
-	between the WWW and
-	the Undernet.
+	Não há ligação entre a
+	WWW e a Undernet.
 	"""
 	keyWait
 	clearMsg
 	"""
-	But still,they're
-	both criminal
-	organizations,so…
+	Ainda assim, ambas são
+	organizações criminosas,
+	então...
 	"""
 	keyWait
 	end
@@ -156208,15 +156147,14 @@ script 70 mmbn3 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	I'm still OK,but I
-	feel really
-	sluggish…
+	Eu ainda estou bem, só
+	um pouco cambaleante...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Grrr! I won't give
-	in!
+	Grrr! Não vou me dar
+	por vencido!
 	"""
 	keyWait
 	end
@@ -156288,15 +156226,16 @@ script 220 mmbn3 {
 script 221 mmbn3 {
 	msgOpen
 	"""
-	From this sign,go
-	down the forked road
-	to Beach 1
+	Desta placa, desça na
+	bifurcação para chegar
+	em Angra 1.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Beach Square is
-	straight ahead
+	Desta placa, siga direto
+	para cima para chegar
+	no Angra Plaza.
 	"""
 	keyWait
 	end
@@ -156304,16 +156243,15 @@ script 221 mmbn3 {
 script 222 mmbn3 {
 	msgOpen
 	"""
-	The CyberMetrô is
-	at the bottom
-	of this ramp
+	O CyberMetrô fica
+	descendo esta rampa.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Follow the orange
-	path to Beach
-	Square
+	Siga a estrada laranja
+	para chegar no Angra
+	Plaza.
 	"""
 	keyWait
 	end
@@ -156321,9 +156259,9 @@ script 222 mmbn3 {
 script 223 mmbn3 {
 	msgOpen
 	"""
-	It's the CyberMetrô
-	line,which links
-	many Internet areas
+	Essa é a linha do
+	CyberMetrô, que conecta
+	várias áreas da Rede.
 	"""
 	keyWait
 	end
@@ -156798,15 +156736,15 @@ script 1 mmbn3 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	You're here for the
-	N1?
+	Veio aqui pro Grande
+	Prêmio N1?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Thanks for coming!
-	You need to talk to
-	that woman there.
+	Obrigado por vir!
+	É só falar com aquela
+	moça ali.
 	"""
 	keyWait
 	end
@@ -156816,8 +156754,8 @@ script 5 mmbn3 {
 		mugshot = NormalNaviGreen
 	msgOpen
 	"""
-	Hey,wanna play a
-	game?
+	Ei, você! Topa encarar
+	um joguinho?
 	
 	"""
 	option
@@ -156827,7 +156765,7 @@ script 5 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"   Sim "
 	option
 		left = 0
 		right = 0
@@ -156835,7 +156773,7 @@ script 5 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No"
+	"          Não"
 	select
 		default = 0
 		BSeparate = false
@@ -156856,7 +156794,7 @@ script 6 mmbn3 {
 	mugshotShow
 		mugshot = NormalNaviGreen
 	msgOpen
-	"Really? Are you sure?"
+	"Certeza? Mesmo, mesmo?"
 	keyWait
 	end
 }
@@ -156865,8 +156803,8 @@ script 9 mmbn3 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	Where is everyone
-	going?
+	Aonde aquele pessoal
+	tava indo?
 	"""
 	keyWait
 	end
@@ -156910,16 +156848,16 @@ script 10 mmbn3 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	They're taping the
-	TV show up this
-	ramp.
+	Estão filmando o
+	programa de TV subindo
+	esta rampa.
 	"""
 	keyWait
 	clearMsg
 	"""
-	They're interviewing
-	the competitors
-	before the N1.
+	É uma entrevista com os
+	competidores antes do
+	Grande Prêmio começar.
 	"""
 	keyWait
 	end
@@ -156963,13 +156901,12 @@ script 11 mmbn3 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	There are lots of
-	hardcore fans
-	hanging around here.
+	Tem um monte de fãs
+	alucinados por aqui.
 	"""
 	keyWait
 	clearMsg
-	"So be very careful."
+	"Portanto, cuidado."
 	keyWait
 	end
 }
@@ -156986,22 +156923,22 @@ script 12 mmbn3 {
 		mugshot = NormalNaviGreen
 	msgOpen
 	"""
-	Ah! It's MegaMan!
-	All my waiting here
-	has paid off!
+	Ah! É o MegaMan!
+	Ficar plantado aqui
+	esperando valeu a pena!!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I just wanted a
-	chance to see a Navi
-	competing in the N1!
+	Eu só queria a chance
+	de ver um Navi que vai
+	competir no N1!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Oooh,I think I just
-	might faint…!
+	Aaaai, acho que vou
+	desmaiar...!
 	"""
 	keyWait
 	end
@@ -157041,9 +156978,9 @@ script 13 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	This is Beach Sqr.
-	TV station employees
-	come here a lot.
+	Este é o Angra Plaza.
+	Funcionários da DNN
+	andam vindo muito aqui.
 	"""
 	keyWait
 	end
@@ -157063,16 +157000,15 @@ script 14 mmbn3 {
 		palette = 1
 	msgOpen
 	"""
-	Argh! I was supposed
-	to be today's
-	interviewer!
+	Argh! Era pra EU ser o
+	entrevistador hoje!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Why are they letting
-	that silly girl do
-	the interview!?
+	Por que deixaram a
+	entrevista com aquela
+	menininha besta?!
 	"""
 	keyWait
 	end
@@ -157102,16 +157038,16 @@ script 15 mmbn3 {
 		mugshot = NormalNaviGreen
 	msgOpen
 	"""
-	I came all the way
-	from Ameropa to see
-	the N1.
+	Eu vim de bem longe, lá
+	da Ameropa, pra ver o
+	Grande Prêmio N1.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I don't want anyone
-	to hear,but I'm a
-	big Jennifer fan.
+	Não conta pra ninguém,
+	mas eu sou megafã da
+	Jennifer.
 	"""
 	keyWait
 	end
@@ -157121,9 +157057,9 @@ script 16 mmbn3 {
 		mugshot = NormalNaviGreen
 	msgOpen
 	"""
-	I heard you! You'll
-	defeat that big,bad
-	Navi,no sweat!
+	Já é! Você acabaria
+	com aquele Navi
+	brutamontes rapidinho!
 	"""
 	keyWait
 	end
@@ -157135,16 +157071,16 @@ script 17 mmbn3 {
 		palette = 1
 	msgOpen
 	"""
-	Those kids better
-	stay away from there
-	or they'll get hurt…
+	Crianças como vocês
+	não deviam ir pra lá,
+	só vão se machucar...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Heh! All right,but
-	it'll be all that
-	silly girl's fault!
+	He! Mas tudo bem: vai
+	ser tudo culpa daquela
+	bobona, mesmo!
 	"""
 	keyWait
 	end
@@ -157154,9 +157090,9 @@ script 18 mmbn3 {
 		mugshot = NormalNaviGreen
 	msgOpen
 	"""
-	What happened? Of
-	course MegaMan beat
-	those crazed fans!
+	"O que aconteceu"?
+	Claro que o MegaMan deu
+	uma surra nos fãs doidos!
 	"""
 	keyWait
 	end
@@ -157168,16 +157104,16 @@ script 19 mmbn3 {
 		palette = 1
 	msgOpen
 	"""
-	Hey,you. Did that
-	girl from the TV
-	station do OK?
+	Ei, você aí.
+	Aquela menina da DNN...
+	ela se saiu bem?
 	"""
 	keyWait
 	clearMsg
 	"""
-	…It's not that I'm
-	worried about her,or
-	anything!
+	... N-não que eu esteja
+	preocupado com ela, nem
+	nada!
 	"""
 	keyWait
 	end
@@ -157187,16 +157123,16 @@ script 20 mmbn3 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	After Chaud,the next
-	best operator must
-	be that guy Tora.
+	Acho que o melhor opera-
+	dor depois do Chaud é
+	aquele tal de Tora.
 	"""
 	keyWait
 	clearMsg
 	"""
-	He set a record time
-	in clearing the
-	preliminaries.
+	Ele venceu as
+	preliminares em tempo
+	recorde.
 	"""
 	keyWait
 	end
@@ -157206,16 +157142,16 @@ script 21 mmbn3 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Security guards like
-	me don't care who
-	wins…
+	Seguranças, como eu,
+	não ligam para quem
+	vence...
 	"""
 	keyWait
 	clearMsg
 	"""
-	We just hope there's
-	no fans rioting or
-	other accidents.
+	Só espero que não
+	haja fãs revoltosos
+	ou incidentes afins.
 	"""
 	keyWait
 	end
@@ -157225,15 +157161,15 @@ script 22 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	Welcome to Beach
-	Square!
+	Bem-vindo ao Angra
+	Plaza!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Both the real world
-	the Cyberworld have
-	N1 fever right now.
+	Os dois mundos, o real
+	e o cibernético, só
+	respiram N1 agora.
 	"""
 	keyWait
 	end
@@ -157243,16 +157179,16 @@ script 23 mmbn3 {
 		mugshot = NormalNaviGreen
 	msgOpen
 	"""
-	I hope the foreign
-	operators put up a
-	good fight.
+	Espero que os
+	operadores estrangeiros
+	mostrem garra.
 	"""
 	keyWait
 	clearMsg
 	"""
-	The Electopian
-	operators are demo-
-	lishing the others!
+	Os operadores
+	ni-honenses estão
+	arrasando com o resto!
 	"""
 	keyWait
 	end
@@ -157266,8 +157202,7 @@ script 24 mmbn3 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	Hey! What are you
-	looking at!?
+	Ô! Tá olhando o quê?!
 	"""
 	keyWait
 	clearMsg
@@ -157280,40 +157215,39 @@ script 24 mmbn3 {
 	"."
 	waitSkip
 		frames = 30
-	"\nNah,that ain't it."
+	"\nNão, não ficou legal."
 	keyWait
 	clearMsg
 	"""
-	I'm not very good at
-	playing bad-guys.
-	"""
-	keyWait
-	clearMsg
-	"""
-	Sorry…
-	Actually,I'm an
-	actor.
+	Eu não sou bom fazendo
+	papel de vilão.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I got the role of
-	bad-guy in "Love and
-	Loss on the Net".
+	Desculpe...
+	Na verdade, eu sou
+	ator.
 	"""
 	keyWait
 	clearMsg
 	"""
-	You know,the soap?
-	But it's my first
-	bad-guy part…
+	Fui escalado como vilão
+	em "Rede Nostra".
+	Sabe, a novela?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Maybe if I saw a
-	real bad-guy up
-	close,it'd help?
+	Mas é o meu primeiro
+	papel de vilão da vida...
+	"""
+	keyWait
+	clearMsg
+	"""
+	Será que me ajudaria
+	observar um vilão de
+	verdade?
 	"""
 	keyWait
 	clearMsg
@@ -157325,24 +157259,24 @@ script 24 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	What do you say,
-	MegaMan? Wanna show
-	him a real bad-guy!?
+	Diz aí, MegaMan.
+	Quer mostrar um bandido
+	de verdade pra ele?!
 	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Sure,but where will
-	we find someone like
-	that?
+	Pode ser, mas onde a
+	gente vai achar alguém
+	assim?
 	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"That's easy!"
+	"Nõa é óbvio?!"
 	keyWait
 	clearMsg
 	mugshotShow
@@ -157356,7 +157290,7 @@ script 24 mmbn3 {
 	"."
 	waitSkip
 		frames = 30
-	"You mean"
+	" Tá falando"
 	waitSkip
 		frames = 30
 	"."
@@ -157370,15 +157304,14 @@ script 24 mmbn3 {
 		frames = 30
 	keyWait
 	clearMsg
-	"Me?"
+	"de mim?"
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	"""
-	You got it! I mean,
-	what've you got to
-	lose?
+	Sim, senhor! Digo, o que
+	você tem a perder?
 	"""
 	keyWait
 	clearMsg
@@ -157393,52 +157326,50 @@ script 24 mmbn3 {
 	"."
 	waitSkip
 		frames = 30
-	"Are you serious?"
+	" Tá falando sério?"
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = PurpleNavi
 	"""
-	Did you have
-	something to show
-	me!?
+	Você vai me mostrar
+	uma coisa?!
 	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Oh,all right.
-	But just this one
-	time!
+	Ai, tá bom.
+	Mas só desta vez!
 	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = PurpleNavi
-	"Please!!"
+	"Obrigado!!"
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
 	mugshotAnimate
 		animation = 0
-	"Yo!!"
+	"Aí!!"
 	keyWait
 	clearMsg
 	mugshotAnimate
 		animation = 1
 	"""
-	Hey,you! You lookin'
-	fer trouble,punk?
-	You found it!
+	Ô, mané! Tá vacilando,
+	é? Vacilão morre cedo!
+	Cai dentro!
 	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = PurpleNavi
 	"""
-	Aah! Don't hurt me!
+	Aah! Não me machuque!
 	.
 	"""
 	waitSkip
@@ -157450,29 +157381,28 @@ script 24 mmbn3 {
 	waitSkip
 		frames = 30
 	"""
-	Wow,what a
-	performance!
+	Nossa, que atuação!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I see,yell "Yo!" and
-	then start acting,
-	and it all works…
+	Saquei. É só eu abrir
+	com "Aí!" e sair atuando,
+	e tudo se encaixa...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Thank you so much!
-	I think I've got it
-	now! This is great!!
+	Muito obrigado!
+	Acho que, agora, eu
+	entendi! Que demais!!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Please,take this
-	small gift! It's the
-	least I can do!
+	Por favor, aceite este
+	pequeno presente! É o
+	mínimo que posso fazer!
 	"""
 	keyWait
 	clearMsg
@@ -157508,16 +157438,16 @@ script 25 mmbn3 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	But I don't want to
-	meet any real bad-
-	guys,you know?
+	Mas eu não quero
+	conhecer nenhum bandido
+	de verdade, sabe?
 	"""
 	keyWait
 	clearMsg
 	"""
-	They should just use
-	a real bad-guy to do
-	the part!
+	Se fosse asism, deviam
+	escalar um vilão de
+	verdade pro papel!
 	"""
 	keyWait
 	end
@@ -157527,9 +157457,9 @@ script 26 mmbn3 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	Thank you! I'm gonna
-	be the best bad-guy
-	actor in Electopia!
+	Muito obrigado! Serei o
+	melhor ator de vilão de
+	toda a Ni-Hon!
 	"""
 	keyWait
 	end
@@ -157545,9 +157475,9 @@ script 27 mmbn3 {
 		palette = 1
 	msgOpen
 	"""
-	Wow,what a big city…
-	Navis everywhere you
-	look…
+	Nossa, que cidade
+	grande...
+	É Navi pra todo lado...
 	"""
 	keyWait
 	end
@@ -157559,22 +157489,22 @@ script 28 mmbn3 {
 		palette = 1
 	msgOpen
 	"""
-	I saw a Navi dressed
-	like a diver! That's
-	SO Beach area!
+	Eu vi um Navi vestido
+	de mergulhador! Isso
+	é TÃO Angra!
 	"""
 	keyWait
 	clearMsg
 	"""
-	That guy must be a
-	coward! Navis like
-	him only show up
+	Mas ele deve ser um
+	covardão! Navis como ele
+	só aparecem pra lutar
 	"""
 	keyWait
 	clearMsg
 	"""
-	for fights when the
-	opponent has low HP!
+	quando os PV de seu
+	alvo estão baixos!
 	"""
 	keyWait
 	end
@@ -157586,22 +157516,22 @@ script 30 mmbn3 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	I was walking around
-	the Beach area when
-	this scary guy asked
+	Eu tava perambulando
+	pela área Angra quando
+	um cara sinistro me pediu
 	"""
 	keyWait
 	clearMsg
 	"""
-	to see my
+	pra ver o meu
 	"
 	"""
 	printItem
 		buffer = 0
 		item = 21
 	"""
-	" all of
-	sudden!
+	", de
+	repente!
 	"""
 	keyWait
 	end
@@ -157611,13 +157541,13 @@ script 31 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	Welcome to Beach
-	Square! It may be
-	small,but it's hip!
+	Bem-vindo ao Angra
+	Plaza! Pode ser pequeno,
+	mas tá com tudo!
 	"""
 	keyWait
 	clearMsg
-	"Have a great time!"
+	"Espero que se divirta!"
 	keyWait
 	end
 }
@@ -157626,23 +157556,23 @@ script 32 mmbn3 {
 		mugshot = NormalNaviGreen
 	msgOpen
 	"""
-	People associate
-	Beach St. with the
-	TV station,but…
+	As pessoas associam a
+	Estação Angra com o
+	prédio da DNN, mas...
 	"""
 	keyWait
 	clearMsg
 	"""
-	It also has Seaside
-	Hospital,located on
-	the seashore!
+	A Rua também tem o
+	Hospital Beira-Mar, que
+	fica... bem, à beira-mar!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Not that it really
-	matters to those of
-	us in Cyberworld…
+	Bem, não que isso
+	importe pra nós, daqui,
+	do mundo cibernético...
 	"""
 	keyWait
 	end
@@ -157652,8 +157582,8 @@ script 33 mmbn3 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	Do you know about
-	the mysterious virus
+	Você sabe sobre o
+	misterioso vírus
 	
 	"""
 	printEnemyName
@@ -157663,27 +157593,27 @@ script 33 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	It's a very rare
-	aqua element virus…
+	É um vírus de elemento
+	Água raríssimo...
 	"""
 	keyWait
 	clearMsg
 	"""
-	It has some kind of
-	powerful ice chip!
+	Ele carrega um chip de
+	gelo aí bem poderoso!
 	"""
 	keyWait
 	clearMsg
 	"""
-	All we know is that
-	it lives on Hades
-	Isle.
+	Só o que se sabe é que
+	ele habita a Ilha do
+	Inferno.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Also,they say you
-	have to equip the
+	Ah, e também que você
+	precisa equipar o
 	
 	"""
 	printNaviCustProgram
@@ -157693,8 +157623,9 @@ script 33 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	I'd sure like to see
-	that virus once!
+	Bem que eu queria ver
+	esse vírus, pelo menos
+	uma vez!
 	"""
 	keyWait
 	end
@@ -157704,13 +157635,13 @@ script 34 mmbn3 {
 		mugshot = NormalNaviGreen
 	msgOpen
 	"""
-	The mysterious virus
-	called 
+	O vírus misterioso
+	chamado 
 	"""
 	printEnemyName
 		buffer = 0
 		enemy = 22
-	"\ncarries a rare chip:"
+	"\ncarrega um chip raro:"
 	keyWait
 	clearMsg
 	printChip
@@ -157722,20 +157653,20 @@ script 34 mmbn3 {
 		code = M
 	"""
 	!
-	Every chip collector
-	wants it!
+	Todo colecionador de
+	chip quer um!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I think that program
-	dealer has a
+	Ei, aquele mercador de
+	programas vende
 	
 	"""
 	printNaviCustProgram
 		buffer = 0
 		program = 25
-	" for sale?"
+	", eu creio..."
 	keyWait
 	end
 }
@@ -157743,20 +157674,20 @@ script 40 mmbn3 {
 	mugshotShow
 		mugshot = PurpleNavi
 	msgOpen
-	"Hey! Listen to this!"
+	"Ei! Escuta só!"
 	keyWait
 	clearMsg
 	"""
-	You can get to the
-	Undernet from this
-	Beach area!
+	Existe um acesso para
+	a Undernet daqui, da
+	área Angra!
 	"""
 	keyWait
 	clearMsg
 	"""
-	So that's why you
-	see so many shady
-	characters around!
+	Por isso que tem tantas
+	carinhas suspeitas por
+	aqui!
 	"""
 	keyWait
 	end
@@ -157774,16 +157705,16 @@ script 41 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	The Officials are
-	gathering info on
-	the Undernet.
+	Os Oficiais estão
+	reunindo informações
+	sobre a Undernet.
 	"""
 	keyWait
 	clearMsg
 	"""
-	There are rumors of
-	an amazing secret
-	hidden there!
+	Rezam os rumores que
+	tem um segredo incrível
+	escondido lá!
 	"""
 	keyWait
 	end
@@ -157793,16 +157724,15 @@ script 42 mmbn3 {
 		mugshot = NormalNaviGreen
 	msgOpen
 	"""
-	That Undernet the
-	Officials are
-	searching
+	A Undernet, que os
+	Oficiais estão
+	investigando,
 	"""
 	keyWait
 	clearMsg
 	"""
-	for is really
-	dangerous. I'd never
-	go in there!
+	é perigosa pra caramba.
+	Eu nunca pisaria lá!
 	"""
 	keyWait
 	end
@@ -157812,16 +157742,15 @@ script 43 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	The Officials have
-	learned that there
-	are some bad Navis
+	Os Oficiais confirmaram
+	que há Navis malignos
+	fora do Plaza.
 	"""
 	keyWait
 	clearMsg
 	"""
-	outside. So you'd
-	better not go
-	outside right now!
+	Então, acho melhor não
+	sairmos daqui, por ora!
 	"""
 	keyWait
 	end
@@ -157831,9 +157760,9 @@ script 44 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	It's safe to go out
-	now! Sorry for the
-	inconvenience!
+	Já é seguro sair agora!
+	Peço desculpas pelo
+	inconveniente!
 	"""
 	keyWait
 	end
@@ -157847,14 +157776,14 @@ script 45 mmbn3 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	You'd better hurry
-	up and jack-out!
+	É melhor você
+	desconectar, e rápido!
 	"""
 	keyWait
 	clearMsg
 	"""
-	The Internet is very
-	dangerous right now!
+	A Rede está
+	perigosíssima agora!
 	"""
 	keyWait
 	end
@@ -157864,15 +157793,15 @@ script 46 mmbn3 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	You're going to the
-	Undernet!?
+	Você vai para a
+	Undernet?!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Be careful! That
-	place is dangerous!
-	Stay sharp!
+	Cuidado!
+	Aquele lugar é um perigo!
+	Fique esperto!
 	"""
 	keyWait
 	end
@@ -157882,16 +157811,16 @@ script 47 mmbn3 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	The incident's over,
-	but we're still
-	investigating.
+	O incidente passou, mas
+	ainda estamos
+	investigando.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Leave it to us. You
-	should go somewhere
-	safe.
+	Deixe conosco. Enquanto
+	isso, sugiro que vá a um
+	local seguro.
 	"""
 	keyWait
 	end
@@ -157901,9 +157830,9 @@ script 50 mmbn3 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	What is this "Alpha"
-	the Officials keep
-	muttering about?
+	O que é esse tal de
+	"Alpha" de que os Oficiais
+	tanto falam?
 	"""
 	keyWait
 	end
@@ -157913,9 +157842,9 @@ script 51 mmbn3 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Alpha is a threat.
-	We have to do
-	something,and fast.
+	Alpha é uma ameaça.
+	Temos que fazer alguma
+	coisa, e rápido.
 	"""
 	keyWait
 	end
@@ -157925,9 +157854,9 @@ script 52 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	Everyone's on edge
-	because of all the
-	incidents lately.
+	Estão todos bem
+	ariscos devido a todos
+	os últimos incidentes.
 	"""
 	keyWait
 	end
@@ -157937,15 +157866,15 @@ script 53 mmbn3 {
 		mugshot = NormalNaviGreen
 	msgOpen
 	"""
-	This country just
-	isn't safe anymore.
+	Este país não é mais
+	seguro, simples assim.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Maybe we should take
-	refuge in Ameropa or
-	somewhere…
+	Talvez devêssemos nos
+	refugiar na Ameropa, sei
+	lá...
 	"""
 	keyWait
 	end
@@ -157955,15 +157884,15 @@ script 55 mmbn3 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	How did the WWW get
-	something so
-	dangerous?
+	Como a WWW pôs as
+	mãos em uma coisa
+	perigosa dessas?
 	"""
 	keyWait
 	clearMsg
 	"""
-	It's like the end
-	of the world…!
+	Parece até o fim do
+	mundo...!
 	"""
 	keyWait
 	end
@@ -157973,13 +157902,13 @@ script 60 mmbn3 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	I always assumed the
-	WWW and the Undernet
-	guys were together.
+	Eu sempre presumi que a
+	WWW fosse aliada do
+	pessoal da Undernet.
 	"""
 	keyWait
 	clearMsg
-	"I guess I was wrong."
+	"Acho que me enganei."
 	keyWait
 	end
 }
@@ -157988,9 +157917,9 @@ script 61 mmbn3 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Next time the WWW
-	makes a move,I'll
-	find their hideout!
+	Da próxima vez que a
+	WWW agir, eu encontrarei
+	o esconderijo deles!
 	"""
 	keyWait
 	end
@@ -158000,9 +157929,9 @@ script 62 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	We won't be able to
-	lower our guard for
-	a long,long time…
+	Não vamos poder baixar
+	a guarda por muito, muito
+	tempo...
 	"""
 	keyWait
 	end
@@ -158011,12 +157940,12 @@ script 70 mmbn3 {
 	mugshotShow
 		mugshot = PurpleNavi
 	msgOpen
-	"The war has begun!"
+	"A guerra começou!"
 	keyWait
 	clearMsg
 	"""
-	What will happen to
-	the world!?
+	O que será do nosso
+	mundo?!
 	"""
 	keyWait
 	end
@@ -158026,16 +157955,16 @@ script 71 mmbn3 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	If we stay here,
-	we'll be safe for
-	now.
+	Se ficarmos aqui,
+	estaremos seguros...
+	por ora.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Of course,if we stay
-	here,the problem
-	won't go away…
+	Mas claro que só "ficar
+	aqui" não vai fazer o
+	problema desaparecer...
 	"""
 	keyWait
 	end
@@ -158045,16 +157974,15 @@ script 72 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	Looks like the day
-	we've been preparing
-	for has arrived.
+	Parece que o dia para
+	o qual viemos nos
+	preparando chegou.
 	"""
 	keyWait
 	clearMsg
 	"""
-	We stand at
-	the brink of
-	destruction!
+	Estamos a um passo da
+	destruição!
 	"""
 	keyWait
 	end
@@ -158112,8 +158040,8 @@ script 182 mmbn3 {
 		mugshot = NormalNaviGreen
 	msgOpen
 	"""
-	I'm sorry,we're all
-	out of merchandise…
+	Desculpe, estamos sem
+	mercadoria...
 	"""
 	keyWait
 	end
@@ -158127,8 +158055,8 @@ script 183 mmbn3 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Welcome to my
-	program shop!
+	Bem-vindo à minha loja
+	de programas!
 	
 	"""
 	option
@@ -158171,8 +158099,8 @@ script 185 mmbn3 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Sorry,I'm all out of
-	merchandise…
+	Desculpe, estou sem
+	mercadorias...
 	"""
 	keyWait
 	end
@@ -158186,63 +158114,62 @@ script 190 mmbn3 {
 		mugshot = GirlNaviOrange
 	msgOpen
 	"""
-	There you are,my
-	darling! I was
-	worried about you!
+	Tá aí você, mozão!
+	Eu tava MORTA de
+	preocupação!
 	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Huh? Um…
-	I think you're
-	confusing me with…
+	Hã? Er...
+	Acho que você tá me
+	confundindo com...
 	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = GirlNaviOrange
 	"""
-	(Just play along,I'm
-	the one who asked
-	for your help!)
+	(Segue a deixa!
+	Fui eu quem pediu pela
+	sua ajuda!)
 	"""
 	keyWait
 	clearMsg
 	"""
-	…Darling,don't be
-	embarrassed!
+	... Querido, não fica com
+	vergonha!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Don't be shy just
-	because we're in
-	front of friends!
+	Está tímido porque
+	estamos na frente de
+	amigos, mas não fique!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Everyone,listen
-	up! This is my
-	boyfriend,MegaMan!
+	Gente, escutem só!
+	Este é o meu namorado,
+	o MegaMan!
 	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = NormalNaviGreen
 	"""
-	So you're this boy-
-	friend she was
-	talking about! Hi!
+	Então, você é o
+	namorado de quem ela
+	tanto fala! Oi!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Allow me to
-	introduce my
-	girlfriend,here.
+	Premita-me apresentar
+	a minha namorada, aqui.
 	"""
 	keyWait
 	clearMsg
@@ -158250,42 +158177,41 @@ script 190 mmbn3 {
 		mugshot = NormalNaviGreen
 	mugshotPalette
 		palette = 1
-	"Nice to meet you!"
+	"Prazer!"
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"……"
+	"......"
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = GirlNaviOrange
 	"""
-	(Hurry up and say
-	something!)
+	(Rápido, fala alguma
+	coisa!)
 	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	…Um,yeah. Nice to
-	meet you!
+	... Er, é. Muito prazer!
 	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = NormalNaviGreen
 	"""
-	It's so nice to
-	meet you! So you're
-	a celebrity,right?
+	É tão legal te conhecer!
+	Você é uma celebridade,
+	não é mesmo?
 	"""
 	keyWait
 	clearMsg
 	"""
-	I mean,you're on TV
-	and everything!?
+	Digo, apareceu na TV e
+	tudo!
 	"""
 	keyWait
 	clearMsg
@@ -158299,16 +158225,16 @@ script 190 mmbn3 {
 	mugshotAnimate
 		animation = 1
 	"""
-	You mean that show…
-	Um,what was it
-	again?
+	Isso, aquele programa...
+	Hm, qual era o nome,
+	mesmo?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Yeah,he's not a big
-	star yet. He's on
-	that morning show…
+	Ele não é um SUPER as-
+	tro ainda, mas tá naquele
+	que passa de manhã...
 	"""
 	keyWait
 	clearMsg
@@ -158321,7 +158247,7 @@ script 190 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"You mean the N1?\n"
+	"   Ah, o N1?\n"
 	option
 		left = 1
 		right = 1
@@ -158329,7 +158255,7 @@ script 190 mmbn3 {
 		down = 2
 	space
 		count = 2
-	"Yeah,that comedy!\n"
+	"   É, aquela comédia!\n"
 	option
 		left = 2
 		right = 2
@@ -158337,7 +158263,7 @@ script 190 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yeah,that drama!"
+	"   É, aquela novela!"
 	select
 		default = 0
 		BSeparate = false
@@ -158356,9 +158282,9 @@ script 191 mmbn3 {
 		mugshot = NormalNaviGreen
 	msgOpen
 	"""
-	Really? I thought
-	you were on some
-	other show…
+	Ah, é? Pensei que você
+	tava num outro
+	programa...
 	"""
 	keyWait
 	clearMsg
@@ -158367,16 +158293,16 @@ script 191 mmbn3 {
 	mugshotAnimate
 		animation = 0
 	"""
-	(That's not a
-	morning show,you
-	moron!)
+	(Esse não é um progrma
+	que passa de manhã,
+	cabeção!)
 	"""
 	keyWait
 	clearMsg
 	"""
-	(I'll have to change
-	the subject with
-	this virus bomb!)
+	(Vou ter que mudar de
+	assunto... com esta
+	bomba de vírus!)
 	"""
 	keyWait
 	clearMsg
@@ -158384,17 +158310,17 @@ script 191 mmbn3 {
 		animation = 1
 	mugshotHide
 	"""
-	There!
-	(Roll,roll,roll…
-	Bonk!)
+	Lá vai!
+	(Rola, rola, rola...
+	Toc!)
 	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = GirlNaviOrange
 	"""
-	Oh,no! Look every-
-	body,it's a virus!
+	Essa não!
+	Olha, gente: é um vírus!
 	"""
 	keyWait
 	flagSet
@@ -158406,26 +158332,26 @@ script 192 mmbn3 {
 		mugshot = GirlNaviOrange
 	msgOpen
 	"""
-	What a shock! It's
-	not often you see a
-	virus in a square!
+	Mas que choque! É tão
+	raro ver vírus num dos
+	plazas, né?!
 	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = NormalNaviGreen
 	"""
-	Did you hear
-	something rolling?
+	Ei, fui só eu quem ouviu
+	uma coisa rolando...?
 	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = GirlNaviOrange
 	"""
-	Oh,yeah! Did you
-	want to ask my
-	darling something?
+	AH, SIM! Você não ia
+	perguntar uma coisa
+	pro meu gatão?
 	"""
 	keyWait
 	clearMsg
@@ -158437,23 +158363,23 @@ script 193 mmbn3 {
 		mugshot = NormalNaviGreen
 	msgOpen
 	"""
-	Yeah,that's right!
-	That drama on TV in
-	the mornings!
+	Isso, era aquilo!
+	A novela matinal que
+	passa na TV!
 	"""
 	keyWait
 	clearMsg
 	"""
-	It's so great that
-	even a Navi can be
-	on TV! I'm jealous!
+	É tão incrível que até
+	um Navi pode aparecer
+	na TV! Que inveja!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Didn't you have
-	something to ask
-	Mr.MegaMan,too?
+	Você também não tinha
+	uma coisa que queria
+	perguntar pro MegaMan?
 	"""
 	keyWait
 	clearMsg
@@ -158466,49 +158392,49 @@ script 194 mmbn3 {
 	mugshotPalette
 		palette = 1
 	"""
-	M-me?
-	Ummm…
-	OK,well…
+	E-eu?
+	Errr...
+	Tá. Bem...
 	"""
 	keyWait
 	clearMsg
 	"""
-	I heard you were
-	really rich,MegaMan.
+	Ouvi dizer que você é
+	podre de rico, MegaMan.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Do you really have
-	one of…Those?
+	É verdade que você
+	tem um... Daqueles?
 	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = NormalNaviGreen
 	"""
-	Oh,yeah!! It blew my
-	mind when I heard he
-	had one of THOSE!
+	Verdade!! Fiquei besta
+	quando soube que você
+	tinha um DAQUELES!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Good idea,let's ask
-	the man himself if
-	he has one!
+	Boa, vamos confirmar
+	com o próprio se ele tem,
+	mesmo!
 	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = GirlNaviOrange
-	"Ah,yes. That…"
+	"Ah, sim. Aquilo..."
 	keyWait
 	clearMsg
 	"""
-	Even though you have
-	one,you hardly have
-	time to ride it,huh?
+	Mesmo tendo um, você
+	raramente tem a chance
+	de andar nele, né?
 	"""
 	keyWait
 	clearMsg
@@ -158521,7 +158447,7 @@ script 194 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"My golden program?\n"
+	"   O programa dourado?\n"
 	option
 		left = 1
 		right = 1
@@ -158529,7 +158455,7 @@ script 194 mmbn3 {
 		down = 2
 	space
 		count = 2
-	"My own CyberMetrô?\n"
+	"   Meu CyberMetrô?\n"
 	option
 		left = 2
 		right = 2
@@ -158537,7 +158463,7 @@ script 194 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"ACDC cybersquirrel?"
+	"   O esquilo de ACDC?"
 	select
 		default = 0
 		BSeparate = false
@@ -158558,15 +158484,14 @@ script 195 mmbn3 {
 	mugshotAnimate
 		animation = 0
 	"""
-	(Quit kidding
-	around!)
+	(Para de vacilar!)
 	"""
 	keyWait
 	clearMsg
 	"""
-	(Time to change the
-	subject with a
-	virus bomb!)
+	(Hora de mudar de
+	assunto com uma bomba
+	de vírus!)
 	"""
 	keyWait
 	clearMsg
@@ -158574,17 +158499,18 @@ script 195 mmbn3 {
 		animation = 1
 	mugshotHide
 	"""
-	There!
-	(Roll,roll,roll…
-	Bonk!)
+	Lá vai!
+	(Rola, rola, rola...
+	Toc!)
 	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = GirlNaviOrange
 	"""
-	Eeek! Darling,save
-	me! It's a virus!
+	Aaaaiiin!
+	Querido, socorro!
+	É um vírus!
 	"""
 	keyWait
 	flagSet
@@ -158596,22 +158522,21 @@ script 196 mmbn3 {
 		mugshot = GirlNaviOrange
 	msgOpen
 	"""
-	Thank you for
-	protecting me,my
-	darling!
+	Muito obrigada por me
+	proteger, cremoso!
 	"""
 	keyWait
 	clearMsg
 	"""
-	A man has to be
-	strong,tee-hee!
+	Homem bom é homem
+	forte, hi hi hi!
 	"""
 	keyWait
 	clearMsg
 	"""
-	(Grr,this guy's no
-	good! Maybe I'll
-	just give up…!)
+	(Grr, este cara é
+	imprestável!
+	Eu tô pra desistir...!)
 	"""
 	keyWait
 	clearMsg
@@ -158623,8 +158548,9 @@ script 197 mmbn3 {
 		mugshot = NormalNaviGreen
 	msgOpen
 	"""
-	Wow!
-	So you DO have one!
+	Caramba!
+	Então, você tem um
+	mesmo!
 	"""
 	keyWait
 	clearMsg
@@ -158633,21 +158559,21 @@ script 197 mmbn3 {
 	mugshotPalette
 		palette = 1
 	"""
-	Amazing!
-	Let us ride it some
-	time too,OK!?
+	Que demais!
+	Depois, leva a gente
+	pra dar uma volta!
 	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = GirlNaviOrange
-	"But of course!"
+	"Ai, claro!"
 	keyWait
 	clearMsg
 	"""
-	(This subject is no
-	good,either! I'm in
-	trouble!)
+	(Esse assunto também
+	não tá rolando! Eu tô
+	tão ferrada!)
 	"""
 	keyWait
 	clearMsg
@@ -158659,22 +158585,21 @@ script 198 mmbn3 {
 		mugshot = GirlNaviOrange
 	msgOpen
 	"""
-	Is that enough,
-	everyone!?
+	Já chega, né, gente?!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I know he just got
-	here,but my darling
-	has work to do!
+	Sei que ele mal chegou,
+	mas o meu mozão tem
+	trabalho agora!
 	"""
 	keyWait
 	clearMsg
 	"""
-	It's really,really
-	too bad,but let's do
-	this another time!
+	Que pena, TANTA pena,
+	mas vamos ter que
+	continuar outra hora!
 	"""
 	keyWait
 	clearMsg
@@ -158687,7 +158612,7 @@ script 198 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Isn't THIS work?\n"
+	"   Ué, ESTE é o trabalho.\n"
 	option
 		left = 1
 		right = 1
@@ -158695,7 +158620,7 @@ script 198 mmbn3 {
 		down = 2
 	space
 		count = 2
-	"Another time!?\n"
+	"   Outra hora?!\n"
 	option
 		left = 2
 		right = 2
@@ -158703,7 +158628,7 @@ script 198 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Uh,sure…"
+	"   Er, aham..."
 	select
 		default = 0
 		BSeparate = false
@@ -158721,19 +158646,19 @@ script 199 mmbn3 {
 	mugshotShow
 		mugshot = GirlNaviOrange
 	msgOpen
-	"……"
+	"......"
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = NormalNaviGreen
-	"……"
+	"......"
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = NormalNaviGreen
 	mugshotPalette
 		palette = 1
-	"……"
+	"......"
 	keyWait
 	clearMsg
 	mugshotShow
@@ -158742,9 +158667,9 @@ script 199 mmbn3 {
 	mugshotAnimate
 		animation = 0
 	"""
-	(Sorry! Just get out
-	of here,for me,
-	please!)
+	(Desculpa! Só cai fora
+	daqui, por favor!
+	Por mim!)
 	"""
 	keyWait
 	clearMsg
@@ -158759,8 +158684,8 @@ script 200 mmbn3 {
 		mugshot = GirlNaviOrange
 	msgOpen
 	"""
-	Wow,look at that
-	horrible injury!
+	Ai, gente, olha que
+	ferimento horroroso!
 	"""
 	keyWait
 	clearMsg
@@ -158768,7 +158693,7 @@ script 200 mmbn3 {
 		mugshot = NormalNaviGreen
 	mugshotAnimate
 		animation = 0
-	"(Ah,really…?)"
+	"(Ah... é?)"
 	keyWait
 	clearMsg
 	mugshotAnimate
@@ -158776,22 +158701,22 @@ script 200 mmbn3 {
 	mugshotShow
 		mugshot = GirlNaviOrange
 	"""
-	That's enough! Go
-	home and take care
-	of that! Darling!
+	Já deu! Vai logo pra
+	casa tratar disso!
+	Querido!
 	"""
 	keyWait
 	clearMsg
 	"""
-	That should be
-	enough for you,too!
-	He's hurt enough!
+	Também já deu pra
+	vocês! Ele já se
+	machucou o bastante!
 	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = NormalNaviGreen
-	"Uh,OK…"
+	"Er, tá, né..."
 	keyWait
 	clearMsg
 	jump
@@ -158802,16 +158727,16 @@ script 201 mmbn3 {
 		mugshot = GirlNaviOrange
 	msgOpen
 	"""
-	My darling doesn't
-	show it,but he's in
-	a big hurry!
+	O mozão não mostra,
+	mas ele tá com MUITA
+	pressa!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Hurry,darling,or you
-	will lose the 100000
-	Zenny contract!
+	Rápido, lindo, ou vai
+	perder aquele contrato
+	de 100000 Zennys!
 	"""
 	keyWait
 	clearMsg
@@ -158829,9 +158754,8 @@ script 202 mmbn3 {
 		mugshot = GirlNaviOrange
 	msgOpen
 	"""
-	(Take this and get
-	out of here,
-	please!)
+	(Só pega isto e VAZA,
+	pelo amor de Deus!)
 	"""
 	keyWait
 	clearMsg
@@ -158870,13 +158794,13 @@ script 204 mmbn3 {
 		mugshot = GirlNaviOrange
 	msgOpen
 	"""
-	Darling,don't worry
-	about me!
+	Ai, não se preocupa
+	comigo, mozão!
 	
 	"""
 	mugshotAnimate
 		animation = 0
-	"(I told you to go!!)"
+	"(Eu mandei cê VAZAR!!)"
 	mugshotAnimate
 		animation = 1
 	keyWait
@@ -158891,8 +158815,8 @@ script 210 mmbn3 {
 		mugshot = NormalNaviGreen
 	msgOpen
 	"""
-	What's taking
-	MegaMan…?
+	Por que o MegaMan tá
+	demorando tanto...?
 	"""
 	keyWait
 	end
@@ -158902,8 +158826,8 @@ script 211 mmbn3 {
 		mugshot = NormalNaviGreen
 	msgOpen
 	"""
-	(I feel sorry for
-	you,too…)
+	(Que pena de você,
+	cara...)
 	"""
 	keyWait
 	end
@@ -158919,8 +158843,8 @@ script 212 mmbn3 {
 		palette = 1
 	msgOpen
 	"""
-	I wonder if he's
-	really coming?
+	Será que ele vem
+	mesmo?
 	"""
 	keyWait
 	end
@@ -158932,8 +158856,7 @@ script 213 mmbn3 {
 		palette = 1
 	msgOpen
 	"""
-	(Keep your spirits
-	up…)
+	(Não perca a fé...)
 	"""
 	keyWait
 	end
@@ -158948,7 +158871,7 @@ script 221 mmbn3 {
 }
 script 222 mmbn3 {
 	msgOpen
-	"It's the Chat BBS"
+	"É o Fórum de Bate-papo."
 	keyWait
 	startBBS
 		bbs = 5
@@ -158961,36 +158884,36 @@ script 10 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	You're competing in
-	the N1,right?
+	Você está competindo
+	no N1, não está?
 	"""
 	keyWait
 	clearMsg
-	"After you obtain the\n"
+	"Após obter o\n"
 	printItem
 		buffer = 0
 		item = 18
 	"""
-	,go ahead
-	and jack out,please.
+	, por favor,
+	pode se desconectar.
 	"""
 	keyWait
 	clearMsg
-	"When four "
+	"Quando quatro "
 	printItem
 		buffer = 0
 		item = 18
 	"""
 	s
-	are claimed,the
-	match will be over.
+	forem encontrados, a
+	disputa se encerrará.
 	"""
 	keyWait
 	clearMsg
 	"""
-	All remaining
-	competitors will be
-	forced to jack out.
+	Todos os demais compe-
+	tidores serão forçados
+	a se desconectar.
 	"""
 	keyWait
 	end
@@ -159000,8 +158923,9 @@ script 11 mmbn3 {
 		mugshot = NormalNaviGreen
 	msgOpen
 	"""
-	Darn! Somebody beat
-	me to this data!
+	Droga! Alguém pegou o
+	dado que estava aqui
+	antes de mim!
 	"""
 	keyWait
 	end
@@ -159011,20 +158935,20 @@ script 12 mmbn3 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	What's up with that
-	Navi named "Q"?
+	Qual é a daquele
+	NetLutador chamado "Q"?
 	"""
 	keyWait
 	clearMsg
 	"""
-	I think he knew from
-	the start there was
-	a 
+	É como se soubesse,
+	desde o começo, que
+	um 
 	"""
 	printItem
 		buffer = 0
 		item = 18
-	" here!"
+	" estava aqui!"
 	keyWait
 	end
 }
@@ -159035,9 +158959,9 @@ script 13 mmbn3 {
 		palette = 1
 	msgOpen
 	"""
-	They found three of
-	the data packages
-	already! One left!
+	Já acharam três dos
+	pacotes de dados!
+	Só tem mais um!
 	"""
 	keyWait
 	end
@@ -159047,16 +158971,16 @@ script 14 mmbn3 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	I came all this way,
-	and now I need a
-	key!
+	Eu percorri todo esse
+	caminho, e, agora,
+	preciso de uma chave!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Darn!
-	I'd better look
-	somewhere else!
+	Droga!
+	Melhor eu ir procurar em
+	outro lugar!
 	"""
 	keyWait
 	end
@@ -159066,30 +158990,30 @@ script 20 mmbn3 {
 		mugshot = CloakedNavi
 	msgOpen
 	"""
-	Who are you,you
-	little punk…?
+	Quem que é você,
+	pivete...?
 	"""
 	keyWait
 	clearMsg
 	"""
-	A rank challenger?
-	You think you can
-	take my rank 10?
+	Um desafiante de ran-
+	que? Acha que consegue
+	levar meu ranque 10?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Fine by me! Let's
-	fight!
+	Beleza, então!
+	Bora lutar!
 	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	There's something I
-	want to ask you
-	first!
+	Mas, primeiro, eu tenho
+	uma coisa pra te
+	perguntar!
 	"""
 	keyWait
 	clearMsg
@@ -159104,15 +159028,14 @@ script 20 mmbn3 {
 	"."
 	waitSkip
 		frames = 30
-	"\nSpit it out."
+	"\nDesembucha."
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	I'm looking for a
-	Navi by the name of
-	"S".
+	Eu tô atrás de um Navi
+	chamado "S".
 	"""
 	keyWait
 	clearMsg
@@ -159128,27 +159051,27 @@ script 20 mmbn3 {
 	waitSkip
 		frames = 30
 	"""
-	Why would a
-	little punk like you
-	be looking for S?
+	 Por que um pivete
+	como você estaria
+	atrás de S?
 	"""
 	keyWait
 	clearMsg
 	"""
-	If ya wanna find S,
-	punk,you'll have to
-	get past me first!
+	Se quer encontrar S,
+	terá que passar por mim
+	primeiro, moleque!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'll decide whether
-	or not you deserve
-	to meet S!
+	Eu decidirei se você
+	merece ou não conhecer
+	S!
 	"""
 	keyWait
 	clearMsg
-	"Bring it on!!"
+	"Vem com tudo!!"
 	keyWait
 	clearMsg
 	msgClose
@@ -159196,69 +159119,68 @@ script 190 mmbn3 {
 	mugshotShow
 		mugshot = CloakedNavi
 	msgOpen
-	"Ooooooh…"
+	"Oooough..."
 	keyWait
 	clearMsg
 	"""
-	Even though I'm
-	dead,I can't even
-	rest in peace…
-	"""
-	keyWait
-	clearMsg
-	"""
-	Those tomes! Those
-	three legendary
-	tomes…!
+	Mesmo estando morto,
+	não consigo nem
+	descansar em paz...
 	"""
 	keyWait
 	clearMsg
 	"""
-	I almost had them
-	deciphered,too!
-	It's frustrating!
+	Aqueles tomos!
+	Aqueles três tomos
+	lendários...!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Hey,you! Navi!
-	Can you find my
-	tomes?
+	E eu estava tão perto
+	de decifrá-los!
+	Quanta frustração!
 	"""
 	keyWait
 	clearMsg
 	"""
-	When I died,someone
-	stole the three
-	tomes…
+	Você!, Você, Navi!
+	Poderia achar os meus
+	tomos?
 	"""
 	keyWait
 	clearMsg
 	"""
-	If you find them,
-	you can have the
-	treasure in them.
+	Quando eu morri, alguém
+	roubou os três tomos...
 	"""
 	keyWait
 	clearMsg
 	"""
-	But I won't let
-	anyone have the
-	tomes themselves!
+	Se encontrá-los, pode
+	ficar com o tesouro que
+	há neles.
 	"""
 	keyWait
 	clearMsg
 	"""
-	They were my whole
-	life! They mean
-	everything to me!
+	Mas não deixarei que
+	ninguém fique com os
+	tomos em si!
 	"""
 	keyWait
 	clearMsg
 	"""
-	The one who stole
-	them is in the
-	Undernet. Help me!
+	Eles foram toda a minha
+	vida!
+	São tudo para mim!
+	"""
+	keyWait
+	clearMsg
+	"""
+	Aquele que os roubou
+	está na Undernet.
+	Ajude-me!
 	"""
 	keyWait
 	end
@@ -159267,19 +159189,19 @@ script 191 mmbn3 {
 	mugshotShow
 		mugshot = CloakedNavi
 	msgOpen
-	"Ooooooh…"
+	"Oooouuuhh..."
 	keyWait
 	clearMsg
 	"""
-	The tomes…
-	The tomes…
+	Os tomos...
+	Os tomos...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Go to the Undernet!
-	And bring me the
-	three tomes!
+	Vá para a Undernet!
+	E traga-me os três
+	tomos!
 	"""
 	keyWait
 	end
@@ -159302,25 +159224,23 @@ script 192 mmbn3 {
 		mugshot = CloakedNavi
 	msgOpen
 	"""
-	You've brought them
-	to me!
+	Você os trouxe a mim!
 	"""
 	keyWait
 	clearMsg
-	"Ah,yes! Heh,heh,heh!"
+	"Ah, sim! He he he he!"
 	keyWait
 	clearMsg
 	"""
-	Nobody can touch
-	them now! They're
-	mine! Forever!
+	Agora, ninguém pode
+	encostar neles! São
+	meus! Para sempre!
 	"""
 	keyWait
 	clearMsg
 	"""
-	You've done a great
-	job,Navi. Here,take
-	your reward…
+	Você foi esplêndido, Navi.
+	Tome, sua recompensa...
 	"""
 	keyWait
 	clearMsg
@@ -159360,8 +159280,8 @@ script 194 mmbn3 {
 		mugshot = CloakedNavi
 	msgOpen
 	"""
-	Hee,hee,hee!
-	My tomes…
+	He he he hee!
+	Meus tomos...
 	"""
 	keyWait
 	end
@@ -159395,29 +159315,28 @@ script 220 mmbn3 {
 		jumpIfLess = continue
 	msgOpen
 	"""
-	It's a door,with
-	something written on
-	it
+	É uma porta.
+	Há uma coisa escrita
+	nela.
 	"""
 	keyWait
 	clearMsg
 	"""
-	"That which you seek
-	is beyond this
-	door…
+	"Aquilo que procuras
+	está além desta porta...
 	"""
 	keyWait
 	clearMsg
 	"""
-	"Only he who holds
-	the 
+	"Somente ele, que
+	guarda o 
 	"""
 	printItem
 		buffer = 0
 		item = 17
 	"""
-	 may
-	open this door…"
+	, pode
+	abrir esta porta..."
 	"""
 	keyWait
 	end
@@ -159428,7 +159347,7 @@ script 221 mmbn3 {
 		amount = 1
 	msgOpen
 	"""
-	MegaMan used the
+	MegaMan usou a
 	"
 	"""
 	printItem
@@ -159437,7 +159356,7 @@ script 221 mmbn3 {
 	"\"!"
 	keyWait
 	clearMsg
-	"The door opens…"
+	"A porta se abre..."
 	keyWait
 	msgClose
 	flagSet
@@ -159884,9 +159803,9 @@ script 10 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	Hah! I'm gonna smash
-	my way into the
-	rankings!
+	Ha! Eu vou subir de
+	ranque bem rápido, à
+	força bruta!
 	"""
 	keyWait
 	clearMsg
@@ -159910,9 +159829,9 @@ script 11 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	No little twerp like
-	you's gonna get
-	ranked!!
+	Nenhum pirralho tosco
+	como tu vai entrar pro
+	ranque!!
 	"""
 	keyWait
 	clearMsg
@@ -159936,9 +159855,9 @@ script 12 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	Hey you! Nobody gets
-	in my way and lives!
-	C'mere!
+	Ô, cê aí! Ninguém se
+	mete no meu caminho e
+	vive! Chega aqui!
 	"""
 	keyWait
 	clearMsg
@@ -159988,16 +159907,16 @@ script 20 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	Who are you?
-	Don't you know this
-	is the Undernet?
+	Quem é você?
+	Não sabe que isto aqui
+	é a Undernet, naõ?
 	"""
 	keyWait
 	clearMsg
 	"""
-	If you know what's
-	good for you,you'll
-	run home to mama!
+	Se tem amor à vida,
+	volta logo pro colinho da
+	mamãe!
 	"""
 	keyWait
 	end
@@ -165468,7 +165387,7 @@ script 5 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Sure "
+	"Tá "
 	option
 		left = 0
 		right = 0
@@ -165476,7 +165395,7 @@ script 5 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Nah"
+	"         Não"
 	select
 		default = 0
 		BSeparate = false
@@ -166796,8 +166715,8 @@ script 183 mmbn3 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Welcome to my
-	program shop!
+	Bem-vindo à minha loja
+	de programas!
 	
 	"""
 	option
@@ -166840,8 +166759,8 @@ script 185 mmbn3 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Sorry,I'm all out of
-	merchandise…
+	Desculpe, estou sem
+	mercadorias...
 	"""
 	keyWait
 	end
@@ -171446,7 +171365,7 @@ script 22 mmbn3 {
 		mugshot = Dex
 	msgOpen
 	"""
-	E-Ei! Eu não concordei
+	E-ei! Eu não concordei
 	em ir lá!
 	"""
 	keyWait
@@ -171492,7 +171411,7 @@ script 25 mmbn3 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Er... É, isso aí! E-Então,
+	Er... É, isso aí! E-então,
 	n-nos e-e-encontramos
 	na f-frente d-da escola!
 	"""
@@ -173348,7 +173267,7 @@ script 4 mmbn3 {
 	"""
 	keyWait
 	clearMsg
-	"\"Limpeza1\""
+	"\"Limpadores1\""
 	keyWait
 	clearMsg
 	"""
@@ -173366,7 +173285,7 @@ script 5 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	"Limpeza1"...? Essa é
+	"Limpadores1"...? Essa é
 	uma pista no mundo real
 	para esta área?
 	"""
@@ -180399,14 +180318,14 @@ script 4 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	A localização do evento
-	é um segredo. Vocês
+	O local do evento é
+	um segredo. Vocês
 	todos devem 
 	"""
 	keyWait
 	clearMsg
 	"""
-	encontrá-la sozinhos.
+	encontrá-lo sozinhos.
 	Mas forneceremos a
 	vocês uma pista.
 	"""
@@ -180516,7 +180435,7 @@ script 0 mmbn3 {
 	msgOpen
 	"""
 	Meus parabéns!
-	Vocês completaram as
+	Você completou as
 	últimas preliminares!
 	"""
 	keyWait
@@ -180628,7 +180547,7 @@ script 7 mmbn3 {
 	msgOpen
 	"""
 	Claro que vamos!
-	ÍÍÍÍRRAAAAAAA!!
+	VITÓRIA GUUUUUTSSS!!
 	"""
 	keyWait
 	end
@@ -181143,27 +181062,27 @@ script 3 mmbn3 {
 		mugshot = MsMari
 	msgOpen
 	"""
-	Eu vim ver o Lava-Bolha
+	Eu vim ver a Lava-Bolha
 	que a Mayl comprou.
 	"""
 	keyWait
 	clearMsg
 	"""
 	Estou pensando em
-	comprar um pra mim,
+	comprar uma pra mim,
 	também.
 	"""
 	keyWait
 	clearMsg
 	"""
-	É um lava-louças, mas
-	dá para conectá-lo
+	É uma lava-louças, mas
+	dá para conectá-la
 	à Rede
 	"""
 	keyWait
 	clearMsg
 	"""
-	e operá-lo enquanto não
+	e operá-la enquanto não
 	se está em casa!
 	"""
 	keyWait
@@ -181177,7 +181096,7 @@ script 4 mmbn3 {
 	msgOpen
 	"""
 	Só tem um probleminha:
-	ele ainda não chegou.
+	ela ainda não chegou.
 	"""
 	keyWait
 	clearMsg
@@ -181439,7 +181358,7 @@ script 21 mmbn3 {
 		mugshot = MsMari
 	msgOpen
 	"""
-	Bom, o Lava-Bolha está
+	Bom, a Lava-Bolha está
 	para chegar. Hmm...
 	"""
 	keyWait
@@ -181612,8 +181531,9 @@ script 3 mmbn3 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	Se for, me ajuda com ela!
-	Tá, Lan?
+	É ela! Me ajuda a levar
+	ela pra cozinha, Lan?
+	Por favor?
 	"""
 	keyWait
 	clearMsg
@@ -181709,7 +181629,7 @@ script 2 mmbn3 {
 	msgOpen
 	"""
 	De nada! Ei, que tal a
-	gente testar o
+	gente testar a
 	Lava-Bolha?
 	"""
 	keyWait
@@ -182416,7 +182336,7 @@ script 2 mmbn3 {
 	msgOpen
 	"""
 	Droga! Enquanto a gente
-	tá aqui, a Mayl e a Srta.
+	tá aqui, a Mayl e a srta.
 	Mari
 	"""
 	keyWait
@@ -182905,8 +182825,8 @@ script 2 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Tenho que modificar este
-	"
+	Tenho que modificar
+	estes "
 	"""
 	printItem
 		buffer = 0
@@ -183004,8 +182924,8 @@ script 5 mmbn3 {
 		item = 13
 	"""
 	"
-	precisam mudar para en-
-	caixar no Customizador.
+	precisam de modificações
+	para se encaixarem aqui.
 	"""
 	keyWait
 	clearMsg
@@ -183030,7 +182950,7 @@ script 6 mmbn3 {
 	soundDisableTextSFX
 	soundPlay
 		track = 266
-	"*Clinc* *Clanc*…"
+	"*Clinc* *Clanc*..."
 	wait
 		frames = 90
 	"\n"
@@ -183289,7 +183209,7 @@ script 7 mmbn3 {
 	"""
 	... É, falei besteira.
 	Ah, que se glub. Tomem
-	este "
+	esta "
 	"""
 	printItem
 		buffer = 0
@@ -183898,7 +183818,7 @@ script 2 mmbn3 {
 	"""
 	keyWait
 	clearMsg
-	"Nenhum né? Né?"
+	"Nenhum, né? Né?"
 	keyWait
 	clearMsg
 	"""
@@ -184576,7 +184496,7 @@ script 12 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	E-Enfim, tchau, até
+	E-enfim, tchau, até
 	amanhã!
 	"""
 	keyWait
@@ -184871,15 +184791,14 @@ script 0 mmbn3 {
 	msgOpen
 	"""
 	Ah, você é um dos
-	participantes do
-	N1, né?
+	participantes do N1, né?
 	"""
 	keyWait
 	clearMsg
 	"""
-	A gente vai te entre-
-	vistar já já. Por favor,
-	espere ali.
+	A gente vai te entrevis-
+	tar já já.
+	Por favor, espere ali.
 	"""
 	keyWait
 	end
@@ -184904,7 +184823,7 @@ script 2 mmbn3 {
 	"""
 	Fala, galera! O "NetLuta
 	Espetacular" de hoje
-	será especial,
+	será especial:
 	"""
 	keyWait
 	clearMsg
@@ -185020,14 +184939,14 @@ script 7 mmbn3 {
 	clearMsg
 	"""
 	Fãs enlouquecidos
-	saíram do controle
-	na Área Angra!
+	saíram do controle na
+	Área Angra!
 	"""
 	keyWait
 	clearMsg
 	"""
-	E se cobrirmos isso
-	em primeira mão...
+	E, se cobrirmos isso em
+	primeira mão...
 	vai ser um furo!
 	"""
 	keyWait
@@ -185098,7 +185017,7 @@ script 11 mmbn3 {
 	"""
 	E agora...? Beleza,
 	MegaMan, vamos lá
-	conferir.
+	conferir!
 	"""
 	keyWait
 	clearMsg
@@ -185129,8 +185048,8 @@ script 1 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan! Eu ouvi uma garota
-	gritando!
+	Lan! Eu ouvi um grito de
+	mulher!
 	"""
 	keyWait
 	end
@@ -185357,7 +185276,7 @@ script 4 mmbn3 {
 	clearMsg
 	"""
 	São três contra um,
-	molque. Cê não tem a
+	moleque. Cê não tem a
 	menor chance.
 	"""
 	keyWait
@@ -185621,7 +185540,7 @@ script 2 mmbn3 {
 		mugshot = LordWily
 	msgOpen
 	"""
-	Tome preocupações para
+	Tome precauções para
 	não terminar como o
 	BubbleMan.
 	"""
@@ -185867,7 +185786,7 @@ script 2 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	É, eu dei ele pro
+	É, deixei ele com o
 	pesquisador lá em cima.
 	"""
 	keyWait
@@ -185894,7 +185813,7 @@ script 3 mmbn3 {
 	clearMsg
 	"""
 	como lidar com a onda
-	anual de vírus malignos.
+	atual de vírus malignos.
 	"""
 	keyWait
 	clearMsg
@@ -186066,9 +185985,8 @@ script 11 mmbn3 {
 		mugshot = Dad
 	msgOpen
 	"""
-	E um dos seus pais irá
-	lá para torcer por
-	você?
+	E os seus pais irão lá,
+	torcer por você?
 	"""
 	keyWait
 	clearMsg
@@ -186284,9 +186202,9 @@ script 6 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Eu tava tão ansioso
-	que demorei bastante
-	pra dormir.
+	É que eu tava tão
+	ansioso que custei
+	bastante pra dormir...
 	"""
 	keyWait
 	clearMsg
@@ -186374,7 +186292,7 @@ script 0 mmbn3 {
 	"""
 	Ainda assim, não ia ter
 	a menor chance se eu
-	jogasse pra valer.
+	lutasse pra valer.
 	"""
 	keyWait
 	clearMsg
@@ -186513,8 +186431,8 @@ script 4 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Afinal de contas, tem
-	mais uma pessoa que eu
+	Afinal de contas, tenho
+	uma pessoa a mais que
 	não posso deixar vencer!
 	"""
 	keyWait
@@ -186677,8 +186595,8 @@ script 5 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	e dar um cheque-mate
-	em uma!
+	e dar um xeque-mate
+	em uma só!
 	Toraaaaa Aragomaaaa!
 	"""
 	keyWait
@@ -186801,7 +186719,7 @@ script 10 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Por amor a ciência,
+	Por amor à ciência,
 	veio adornado de seu
 	uniforme do SciLab.
 	"""
@@ -186820,7 +186738,7 @@ script 11 mmbn3 {
 	mugshotShow
 		mugshot = Sunayama
 	msgOpen
-	"Quem é este homem?!"
+	"Quem é esse homem?!"
 	keyWait
 	clearMsg
 	"""
@@ -186873,7 +186791,7 @@ script 12 mmbn3 {
 		mugshot = BlackMan
 	msgOpen
 	"""
-	Ei, Sr. Sunayama!
+	Ei, sr. Sunayama!
 	"""
 	keyWait
 	clearMsg
@@ -186905,7 +186823,7 @@ script 13 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Os Bloco A e C já
+	Os Blocos A e C já
 	seguiram para a arena
 	de batalha.
 	"""
@@ -186995,8 +186913,8 @@ script 17 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Estamos ansioso para ver
-	o quão longe o seu
+	Estamos ansiosos para
+	ver o quão longe esse
 	espírito de luta o levará!
 	"""
 	keyWait
@@ -187051,7 +186969,7 @@ script 19 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Sigam à bordo da
+	Sigam a bordo da
 	"Barca do Inferno"!
 	Ho ho ho ho ho!
 	"""
@@ -187093,7 +187011,7 @@ script 21 mmbn3 {
 	"""
 	E vocês nem imaginam o
 	que aguarda nossos he-
-	róis em sua embaração!
+	róis em sua embarcação!
 	"""
 	keyWait
 	end
@@ -187299,16 +187217,16 @@ script 12 mmbn3 {
 	soundDisableTextSFX
 	soundPlay
 		track = 162
-	"Ka-Chink!"
+	"Pa-Tim!"
 	wait
 		frames = 60
 	"\n"
 	soundPlay
 		track = 162
-	"KaChink! "
+	"PaTim! "
 	soundPlay
 		track = 162
-	"KaChink!"
+	"PaTim!"
 	wait
 		frames = 60
 	keyWait
@@ -187396,18 +187314,18 @@ script 3 mmbn3 {
 	msgOpen
 	"""
 	Bem-vindos à Ilha do
-	Inferno!
+	Inferno! E é aqui que
 	
 	"""
 	flagSet
 		flag = 1537
-	"E é aqui que eu"
+	"eu me retiro."
 	keyWait
 	clearMsg
 	"""
-	me retiro! Sigam para a
-	Goela do Demônio, a
-	caverna à minha direita.
+	Sigam para a Goela do
+	Demônio, a caverna à
+	minha direita.
 	"""
 	keyWait
 	clearMsg
@@ -187480,7 +187398,7 @@ script 6 mmbn3 {
 		mugshot = BlackWoman
 	msgOpen
 	"""
-	Er, Sr. Sunayama.
+	Er, sr. Sunayama.
 	Ninguém vai fugir, então,
 	a gente pode ir logo?
 	"""
@@ -187708,7 +187626,7 @@ script 1 mmbn3 {
 	clearMsg
 	"""
 	Então, como todos
-	estamos  com a mesma
+	estamos com a mesma
 	pasta,
 	"""
 	keyWait
@@ -187754,8 +187672,8 @@ script 4 mmbn3 {
 	msgOpen
 	"""
 	Vocês todos se
-	conectarão na entrada
-	à frente de vocês.
+	conectarão às entradas
+	na frente de vocês.
 	"""
 	keyWait
 	clearMsg
@@ -187778,8 +187696,9 @@ script 4 mmbn3 {
 		buffer = 0
 		item = 18
 	"""
-	s" escondidas lá. Os
-	quatro que as encontrarem
+	"s escondidos
+	lá. Os quatro que os
+	encontrarem
 	"""
 	keyWait
 	clearMsg
@@ -187797,7 +187716,7 @@ script 5 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Que nem a primeira preli-
+	Que nem na primeira preli-
 	minar. Temos que achar
 	logo um desses itens.
 	"""
@@ -187852,7 +187771,7 @@ script 8 mmbn3 {
 	"\nMegaMan.EXE,"
 	wait
 		frames = 10
-	"transmissão!!"
+	"\ntransmissão!!"
 	keyWait
 	end
 }
@@ -187861,8 +187780,8 @@ script 9 mmbn3 {
 	msgOpen
 	"""
 	A Primeira Rodada
-	começou! Somente
-	quatro sairão de pé!
+	começou! Somente quatro
+	terminarão de pé!
 	"""
 	keyWait
 	clearMsg
@@ -187881,8 +187800,8 @@ script 0 mmbn3 {
 	mugshotHide
 	msgOpen
 	"""
-	Pessoal, parem!
-	Descontecem-se,
+	Podem parar, pessoal!
+	Desconectem-se,
 	por favor.
 	"""
 	keyWait
@@ -187896,7 +187815,7 @@ script 1 mmbn3 {
 		buffer = 0
 		item = 18
 	"""
-	s"
+	"s
 	foram todos obtidos.
 	"""
 	keyWait
@@ -187921,8 +187840,7 @@ script 2 mmbn3 {
 	clearMsg
 	"""
 	Eu tinha certeza de
-	que ia passar!
-	Aaaaaaaaaaaahhhhhh!
+	que ia passaaaaaaahh!
 	"""
 	keyWait
 	end
@@ -188077,7 +187995,7 @@ script 0 mmbn3 {
 	mugshotHide
 	msgOpen
 	"""
-	Estas portas são
+	Essas portas são
 	acessos a profundezas
 	ainda piores do Inferno!
 	"""
@@ -188593,8 +188511,9 @@ script 1 mmbn3 {
 	mugshotHide
 	msgOpen
 	"""
-	Lan, esse é o chamado
-	"Fosso Amazônico".
+	Jovem Lan, esse é o
+	chamado "Fosso
+	Amazônico".
 	"""
 	keyWait
 	clearMsg
@@ -188680,7 +188599,7 @@ script 7 mmbn3 {
 	msgOpen
 	"""
 	Grande Prêmio N1!!
-	Rotinas
+	Rotinas 
 	"""
 	waitSkip
 		frames = 30
@@ -188870,15 +188789,15 @@ script 12 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Há vários arquivos de
-	pastas diferentes escon-
-	didos pela Ilha Inferno.
+	Há várias pastas dife-
+	rentes escondidas pela
+	Ilha do Inferno.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Procurem por eles e
-	equipem aquele que
+	Procurem por elas e
+	equipem aquela que
 	acharem melhor.
 	"""
 	keyWait
@@ -230044,7 +229963,7 @@ script 2 mmbn3 {
 		padLeft = true
 		buffer = 1
 	"""
-	 zennys.
+	 Zennys.
 	Passa pra cá os 
 	"""
 	printBuffer
@@ -230686,11 +230605,11 @@ script 35 mmbn3s {
 	end
 }
 script 36 mmbn3s {
-	"___Beach Stn■"
+	"Estaç. Angra■"
 	end
 }
 script 37 mmbn3s {
-	"___Beach St.■"
+	"___Rua Angra■"
 	end
 }
 script 38 mmbn3s {
@@ -230717,11 +230636,11 @@ script 43 mmbn3s {
 	end
 }
 script 44 mmbn3s {
-	"__Hades Isle■"
+	"Ilha inferno■"
 	end
 }
 script 45 mmbn3s {
-	"__Hades Mntn■"
+	"__Mt Inferno■"
 	end
 }
 script 46 mmbn3s {
@@ -231183,7 +231102,7 @@ script 180 mmbn3s {
 	end
 }
 script 181 mmbn3s {
-	"__Relay Comp■"
+	"CPU Notícias■"
 	end
 }
 script 182 mmbn3s {
@@ -231666,8 +231585,8 @@ script 6 mmbn3 {
 		palette = 3
 	"""
 	Pasta Extra
-	bloqueada!
-	Não-usável!
+	travada!
+	Não-trocável!
 	"""
 	keyWait
 	msgOpenInvisible
@@ -232558,7 +232477,7 @@ script 50 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"CustNavi\n"
+	"   CustNavi\n"
 	option
 		left = 1
 		right = 1
@@ -232566,10 +232485,11 @@ script 50 mmbn3 {
 		down = 0
 	space
 		count = 2
+	"   Estilo "
 	printItem
 		buffer = 1
 		item = 0
-	" Style"
+	" "
 	select
 		default = 0
 		BSeparate = false
@@ -232601,7 +232521,7 @@ script 51 mmbn3 {
 		delay = 0
 	color
 		palette = 3
-	"Returned to\n"
+	"Voltei ao\n"
 	printItem
 		buffer = 0
 		item = 128
@@ -232628,7 +232548,7 @@ script 52 mmbn3 {
 		delay = 0
 	color
 		palette = 3
-	"Equipou "
+	"Equipei "
 	printItem
 		buffer = 1
 		item = 0
@@ -237930,7 +237850,7 @@ script 25 mmbn3s {
 	end
 }
 script 26 mmbn3s {
-	"N1 preliminary"
+	"PreliminaresN1"
 	end
 }
 script 28 mmbn3s {
@@ -237942,7 +237862,7 @@ script 29 mmbn3s {
 	end
 }
 script 30 mmbn3s {
-	"Business trip"
+	"Viagem trab."
 	end
 }
 script 32 mmbn3s {
@@ -237954,7 +237874,7 @@ script 33 mmbn3s {
 	end
 }
 script 34 mmbn3s {
-	"Use this"
+	"Use isto"
 	end
 }
 script 36 mmbn3s {
@@ -237966,7 +237886,7 @@ script 37 mmbn3s {
 	end
 }
 script 38 mmbn3s {
-	"Ready,huh!!"
+	"Que coisa, é!"
 	end
 }
 script 40 mmbn3s {
@@ -237974,11 +237894,11 @@ script 40 mmbn3s {
 	end
 }
 script 41 mmbn3s {
-	"Mr.Lan__■"
+	"Sr. Lan_■"
 	end
 }
 script 42 mmbn3s {
-	"Recording"
+	"Gravação"
 	end
 }
 script 44 mmbn3s {
@@ -237986,11 +237906,11 @@ script 44 mmbn3s {
 	end
 }
 script 45 mmbn3s {
-	"Mr.Lan__■"
+	"Sr. Lan_■"
 	end
 }
 script 46 mmbn3s {
-	"C-Beach Pass"
+	"CyTíqt Angra"
 	end
 }
 script 48 mmbn3s {
@@ -238002,7 +237922,7 @@ script 49 mmbn3s {
 	end
 }
 script 50 mmbn3s {
-	"N1 time!!"
+	"Hora do N1!!"
 	end
 }
 script 52 mmbn3s {
@@ -238014,7 +237934,7 @@ script 53 mmbn3s {
 	end
 }
 script 54 mmbn3s {
-	"Good luck!!"
+	"Boa sorte!!"
 	end
 }
 script 56 mmbn3s {
@@ -238022,7 +237942,7 @@ script 56 mmbn3s {
 	end
 }
 script 57 mmbn3s {
-	"To all__■"
+	"Todos___■"
 	end
 }
 script 58 mmbn3s {
@@ -238038,7 +237958,7 @@ script 61 mmbn3s {
 	end
 }
 script 62 mmbn3s {
-	"Yai in trouble"
+	"Yai em apuros"
 	end
 }
 script 64 mmbn3s {
@@ -238050,7 +237970,7 @@ script 65 mmbn3s {
 	end
 }
 script 66 mmbn3s {
-	"Killer plant!?"
+	"Planta mortal?!"
 	end
 }
 script 68 mmbn3s {
@@ -238062,7 +237982,7 @@ script 69 mmbn3s {
 	end
 }
 script 70 mmbn3s {
-	"Need to talk…"
+	"Vamo conversar"
 	end
 }
 script 72 mmbn3s {
@@ -238074,7 +237994,7 @@ script 73 mmbn3s {
 	end
 }
 script 74 mmbn3s {
-	"Thanks!"
+	"Obrigado!"
 	end
 }
 script 76 mmbn3s {
@@ -238082,7 +238002,7 @@ script 76 mmbn3s {
 	end
 }
 script 77 mmbn3s {
-	"Mr.Lan__■"
+	"Sr. Lan_■"
 	end
 }
 script 78 mmbn3s {
@@ -238090,7 +238010,7 @@ script 78 mmbn3s {
 	end
 }
 script 80 mmbn3s {
-	"Mr.Match■"
+	"Sr.Match■"
 	end
 }
 script 81 mmbn3s {
@@ -238102,7 +238022,7 @@ script 82 mmbn3s {
 	end
 }
 script 84 mmbn3s {
-	"Mr.Match■"
+	"Sr.Match■"
 	end
 }
 script 85 mmbn3s {
@@ -238110,11 +238030,11 @@ script 85 mmbn3s {
 	end
 }
 script 86 mmbn3s {
-	"Next!!"
+	"Próximo!!"
 	end
 }
 script 88 mmbn3s {
-	"Anon____■"
+	"Anônimo_■"
 	end
 }
 script 89 mmbn3s {
@@ -238122,7 +238042,7 @@ script 89 mmbn3s {
 	end
 }
 script 90 mmbn3s {
-	"Waiting@Square"
+	"Espero no Plz"
 	end
 }
 script 92 mmbn3s {
@@ -238146,7 +238066,7 @@ script 97 mmbn3s {
 	end
 }
 script 98 mmbn3s {
-	"Fire alert!"
+	"Incêndio!"
 	end
 }
 script 100 mmbn3s {
@@ -238158,7 +238078,7 @@ script 101 mmbn3s {
 	end
 }
 script 102 mmbn3s {
-	"Come quickly!"
+	"Vem rápido!"
 	end
 }
 script 104 mmbn3s {
@@ -238166,11 +238086,11 @@ script 104 mmbn3s {
 	end
 }
 script 105 mmbn3s {
-	"Rank 10_■"
+	"Ranque10■"
 	end
 }
 script 106 mmbn3s {
-	"The Rank9 Navi"
+	"Navi Ranque 9"
 	end
 }
 script 108 mmbn3s {
@@ -238182,7 +238102,7 @@ script 109 mmbn3s {
 	end
 }
 script 110 mmbn3s {
-	"Head to Square"
+	"Vá pro Plaza"
 	end
 }
 script 112 mmbn3s {
@@ -238194,7 +238114,7 @@ script 113 mmbn3s {
 	end
 }
 script 114 mmbn3s {
-	"Virus breeder"
+	"Doma-Vírus"
 	end
 }
 script 116 mmbn3s {
@@ -238206,7 +238126,7 @@ script 117 mmbn3s {
 	end
 }
 script 118 mmbn3s {
-	"Emergency"
+	"Emergência"
 	end
 }
 script 120 mmbn3s {
@@ -238218,7 +238138,7 @@ script 121 mmbn3s {
 	end
 }
 script 122 mmbn3s {
-	"Use this"
+	"Use isto"
 	end
 }
 script 124 mmbn3s {
@@ -238290,7 +238210,7 @@ script 145 mmbn3s {
 	end
 }
 script 146 mmbn3s {
-	"Custom Style"
+	"Estilo Custom"
 	end
 }
 script 148 mmbn3s {
@@ -238302,7 +238222,7 @@ script 149 mmbn3s {
 	end
 }
 script 150 mmbn3s {
-	"Team Style"
+	"Estilo Team"
 	end
 }
 script 152 mmbn3s {
@@ -238314,7 +238234,7 @@ script 153 mmbn3s {
 	end
 }
 script 154 mmbn3s {
-	"Shield Style"
+	"Estilo Shield"
 	end
 }
 script 156 mmbn3s {
@@ -238326,7 +238246,7 @@ script 157 mmbn3s {
 	end
 }
 script 158 mmbn3s {
-	"Ground Style"
+	"Estilo Ground"
 	end
 }
 script 160 mmbn3s {
@@ -238338,7 +238258,7 @@ script 161 mmbn3s {
 	end
 }
 script 162 mmbn3s {
-	"Shadow Style"
+	"Estilo Shadow"
 	end
 }
 script 164 mmbn3s {
@@ -238362,7 +238282,7 @@ script 169 mmbn3s {
 	end
 }
 script 170 mmbn3s {
-	"Bug Style"
+	"Estilo Bug"
 	end
 }
 @archive 7E93A8
@@ -238679,41 +238599,41 @@ script 6 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	The final N1 Grand
-	Prix preliminary
-	will be held today.
+	A última rodada
+	preliminar do Grande
+	Prêmio N1 será hoje.
 	"""
 	keyWait
 	clearMsg
 	"""
-	The location of the
-	event is a secret.
+	O local do evento é um
+	segredo.
 	"""
 	keyWait
 	clearMsg
 	"""
-	You must all find it
-	by yourselves.
+	Vocês todos devem
+	encontrá-lo sozinhos.
 	"""
 	keyWait
 	clearMsg
 	"""
-	We will provide you
-	with a clue.
+	Mas forneceremos a
+	vocês uma pista.
 	"""
 	keyWait
 	clearMsg
 	"""
-	'Enemy of viruses;
-	Cyber square;
-	Yellow'.
+	'Inimigo dos vírus;
+	Cyber plaza;
+	Amarelo'.
 	"""
 	keyWait
 	clearMsg
 	"""
-	We look forward to
-	your arriving as
-	soon as possible.
+	Aguardamos a sua
+	chegada o mais rápido
+	possível.
 	"""
 	keyWait
 	waitHold
@@ -238732,16 +238652,16 @@ script 7 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	Lan,I have to go
-	overseas for 3 days
-	on a business trip.
+	Lan, terei que viajar
+	pro exterior por três
+	dias a trabalho.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Since I won't be
-	home,can you look
-	after mom? Thanks!
+	Como não estarei em
+	casa, cuida da sua mãe,
+	tá? Valeu, filhão!"
 	"""
 	keyWait
 	waitHold
@@ -238760,26 +238680,25 @@ script 8 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	Lan,I'm sorry I got
-	you involved in all
-	of that…
+	Lan, desculpa por te
+	envolver nisso tudo...
 	"""
 	keyWait
 	clearMsg
 	"""
-	But you and MegaMan
-	are the only ones
-	that I can rely on!
+	Mas você e o MegaMan
+	são os únicos em quem
+	eu posso contar agora!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'll be waiting
-	for you two!
+	Vou ficar esperando por
+	vocês!
 	"""
 	keyWait
 	clearMsg
-	"Here,use this!"
+	"Toma, usa isto!"
 	keyWait
 	clearMsg
 	checkFlag
@@ -238795,7 +238714,7 @@ script 8 mmbn3 {
 		chip = 220
 		code = R
 		amount = 1
-	"Lan got a"
+	"Lan recebeu um"
 	keyWait
 	clearMsg
 	"\""
@@ -238803,7 +238722,7 @@ script 8 mmbn3 {
 		buffer = 0
 		item = 80
 	"""
-	" and
+	" e um
 	"
 	"""
 	printChip
@@ -238831,16 +238750,15 @@ script 9 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	Lan,huh-hurry!! The
-	bubble has already
-	turned yellow,huh!
+	Lan, d-depressa!
+	A bolha já ficou
+	amarela, é!
 	"""
 	keyWait
 	clearMsg
 	"""
-	If you don't
-	hurry,it will
-	explode,huh!!
+	Se não se apressar,
+	ela vai explodir, é!!
 	"""
 	keyWait
 	waitHold
@@ -238859,36 +238777,34 @@ script 10 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	The much-anticipated
-	Grande Prêmio N1 will
-	be held tomorrow
+	O muitíssimo aguardado
+	Grande Prêmio N1
+	será sediado amanhã,
 	"""
 	keyWait
 	clearMsg
 	"""
-	at DNN on
-	Beach Street.
+	na DNN, na Rua Angra.
 	"""
 	keyWait
 	clearMsg
 	"""
-	In preparation for
-	the N1,we will be
-	recording a special
+	Em preparação para o
+	torneio, gravaremos
+	um programa especial
 	"""
 	keyWait
 	clearMsg
 	"""
-	program in Beach
-	Square on the Net
-	today. Everyone is
+	no Angra Plaza,
+	na Rede, hoje.
 	"""
 	keyWait
 	clearMsg
 	"""
-	invited to come,so
-	feel free to bring
-	your friends!
+	Todos estão convidados,
+	e tragam a família e
+	amigos!
 	"""
 	keyWait
 	waitHold
@@ -238907,15 +238823,16 @@ script 11 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	We forgot to attach
-	an important thing
-	to our last mail.
+	Esquecemos de anexar
+	um elemento importante
+	em nosso último e-mail.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Please use this to
-	get to Beach Square.
+	Por favor, use isto
+	para acessar o Angra
+	Plaza.
 	"""
 	keyWait
 	clearMsg
@@ -238953,29 +238870,27 @@ script 12 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	Hey! Today is
-	finally the N1
-	Grand Prix!
+	Ei! Até que enfim, é dia
+	do Grande Prêmio N1!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'm in Block A,so
-	my battle is pretty
-	early.
+	Eu tô no Bloco A, então,
+	as minhas lutas vão ser
+	bem cedo.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'll go on ahead
-	of you to the
-	TV station!
+	Vou indo logo pra
+	emissora de TV na
+	frente!
 	"""
 	keyWait
 	clearMsg
 	"""
-	See you at
-	the finals!
+	Te vejo nas finais!
 	"""
 	keyWait
 	waitHold
@@ -238994,30 +238909,30 @@ script 13 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	Lan,good luck today!
-	I'll be rooting for
-	you on TV!
+	Lan, boa sorte hoje!
+	Vou ficar torcendo por
+	você pela TV!
 	"""
 	keyWait
 	clearMsg
 	"""
-	The item I attached
-	will increase your
-	Memory Map size.
+	O item anexado vai au-
+	mentar o tamanho do
+	seu Mapa de Memória.
 	"""
 	keyWait
 	clearMsg
 	"""
-	This will let you
-	use more programs
-	at once!
+	Com isso, você poderá
+	usar mais programas
+	de uma só vez!
 	"""
 	keyWait
 	clearMsg
 	"""
-	That should let you
-	customize MegaMan in
-	new ways.
+	O que deve te ajudar
+	a customizar o MegaMan
+	de novas formas.
 	"""
 	keyWait
 	clearMsg
@@ -239058,16 +238973,15 @@ script 14 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	Hello,Sunayama here!
-	Contestants should
-	come to the studio
+	Sunayama falando!
+	Competidores, venham
+	para o estúdio assim
 	"""
 	keyWait
 	clearMsg
 	"""
-	as soon as you get
-	off the boat!
-	Ciao!
+	que saírem do barco!
+	"See you"!
 	"""
 	keyWait
 	waitHold
@@ -239086,16 +239000,16 @@ script 15 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	Lan! Can you come
-	outside? I have to
-	tell you something.
+	Lan! Pode vir aqui fora?
+	Preciso conversar uma
+	coisa com você.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Yai's in trouble!
-	Meet me outside the
-	TV station!
+	A Yai tá mal!
+	Me encontra fora do
+	prédio da emissora!
 	"""
 	keyWait
 	waitHold
@@ -239612,8 +239526,8 @@ script 30 mmbn3 {
 		color = 2
 		amount = 1
 	"""
-	Lan got a 
-	NaviCust program:
+	Lan adquiriu um
+	programa do CustNavi:
 	"
 	"""
 	printNaviCustProgram
@@ -239680,21 +239594,22 @@ script 32 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	Lan,thank you for
-	the other day.
+	Lan, obrigada por me
+	salvar aquele dia.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I just made a short-
-	cut from my homepage
-	to Yoka Square!
+	Eu acabei de fazer um
+	atalho da minha página
+	pro Yoka Plaza!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Please feel free to
-	use it any time!
+	Pode ficar à vontade
+	pra usar sempre que
+	quiser!
 	"""
 	keyWait
 	clearMsg
@@ -239705,8 +239620,8 @@ script 32 mmbn3 {
 	flagSet
 		flag = 18
 	"""
-	I opened the gate
-	for you,too!
+	Eu já abri o portal pra
+	você!
 	"""
 	keyWait
 	waitHold
@@ -239725,29 +239640,30 @@ script 33 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	I can't believe Dex
-	made a shortcut to
-	ACDC Square!
+	Não acredito que o
+	Dex fez um atralho
+	pro ACDC Plaza!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Just to show him,I
-	made a shortcut to
-	the SciLab Square!
+	Eu me recuso a ficar
+	pra trás! Então, fiz um
+	atalho pro SciLab Plaza.
 	"""
 	keyWait
 	clearMsg
 	"""
-	It's on my homepage.
-	Feel free to use it
-	anytime!
+	Tá na minha página.
+	Pode usar quando
+	quiser, sem custo!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Mine is much better
-	than Dex's!
+	É MUITO melhor que
+	aquele atalho RIDÍCULO
+	do Dex!
 	"""
 	keyWait
 	clearMsg
@@ -239758,9 +239674,8 @@ script 33 mmbn3 {
 	flagSet
 		flag = 20
 	"""
-	I opened the gate
-	already,so come
-	whenever!
+	Eu já abri o portal,
+	então, fique à vontade!
 	"""
 	keyWait
 	waitHold
@@ -241243,7 +241158,7 @@ script 0 mmbn3s {
 	end
 }
 script 1 mmbn3s {
-	"SprArmor"
+	"SupArmdr"
 	end
 }
 script 2 mmbn3s {
@@ -250119,29 +250034,30 @@ script 9 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	I know this isn't
-	something to ask a
-	perfect stranger,but
+	Eu sei que isto não é
+	coisa que se peça a
+	um completo estranho,
 	"""
 	keyWait
 	clearMsg
 	"""
-	can someone PLEASE
-	lend me 8000 Zennys?
+	mas alguém aí pode,
+	POR FAVOR, me empres-
+	tar 8000 Zennys?
 	"""
 	keyWait
 	clearMsg
 	"""
-	I lost my wallet and
-	bag in Yoka. I don't
-	know what to do!
+	Perdi minha carteira e
+	bolsa em Yoka. Não sei
+	mais o que fazer!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I promise I'll pay
-	you back! I'm at the
-	Inn Lobby.
+	Juro que devolvo o
+	dinheiro depois! Estou na
+	recepção da Pousada.
 	"""
 	keyWait
 	clearMsg
@@ -250196,22 +250112,21 @@ script 10 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	For certain reasons,
-	I need to dispose
-	of a rare chip.
+	Devido a certos motivos,
+	preciso me livrar de um
+	chip raro.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'm inside a
-	Telephone.
+	Estou esperando dentro
+	de um telefone.
 	"""
 	keyWait
 	clearMsg
 	"""
-	The first one who
-	finds me gets the
-	chip!
+	O primeiro que me
+	encontrar, leva o chip!
 	"""
 	keyWait
 	clearMsg
@@ -253270,16 +253185,16 @@ script 166 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	I owe you big time.
-	My boy's finally
-	settled down.
+	Devo muito a você.
+	Meu filho, finalmente,
+	tomou jeito.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'd have it so easy
-	if my son was as
-	polite as you.
+	Minha vida seria tão
+	fácil se ele fosse
+	educado como você!
 	"""
 	keyWait
 	waitHold
@@ -253304,16 +253219,15 @@ script 167 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Thanks to you,the
-	damage was minimal.
-	I still can't
+	Graças a você, o
+	estrago foi mínimo.
 	"""
 	keyWait
 	clearMsg
 	"""
-	believe you're Dr.
-	Hikari's son. That
-	was a surprise!
+	Ainda não acredito
+	que você é filho do
+	Dr. Hikari. Fiquei besta!
 	"""
 	keyWait
 	waitHold
@@ -253338,23 +253252,23 @@ script 168 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	I'm sorry to have
-	put you through all
-	of this for nothing.
+	Desculpe por te
+	fazer passar por
+	tudo isso, pra nada.
 	"""
 	keyWait
 	clearMsg
 	"""
-	On the bright side,
-	my brother and I
-	learned a lot. From
+	Pelo menos, meu irmão
+	e eu aprendemos
+	muito. De agora em
 	"""
 	keyWait
 	clearMsg
 	"""
-	now on,we'll work
-	together as family.
-	Thank you!
+	diante, trabalharemos
+	juntos, como família.
+	Obrigado!
 	"""
 	keyWait
 	waitHold
@@ -253379,30 +253293,30 @@ script 169 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Thank you! If it
-	wasn't for you,I
-	don't know what I
+	Obrigado! Se não fosse
+	por você, nem quero
+	pensar no que eu teria
 	"""
 	keyWait
 	clearMsg
 	"""
-	would have done. You
-	know,some people may
-	try to take
+	feito. Mas, olha, certas
+	pessoas se aproveita-
+	riam da sua gentileza.
 	"""
 	keyWait
 	clearMsg
 	"""
-	advantage of your
-	kindness. It may
-	sound funny coming
+	Sei que isso pode soar
+	meio estranho vindo de
+	mim,
 	"""
 	keyWait
 	clearMsg
 	"""
-	from me,but you
-	should be very
-	cautious!
+	mas eu aconselho você
+	a tomar muito cuidado,
+	viu?!
 	"""
 	keyWait
 	waitHold
@@ -253421,23 +253335,23 @@ script 170 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	A chip ad was used
-	as cover for illegal
-	activity recently.
+	Uma oferta de chip foi
+	utilizada para ocultar
+	atividades ilegais.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Any further such
-	messages will be
-	immediately reported
+	Futuras repetições de
+	postagens dessa
+	natureza serão
 	"""
 	keyWait
 	clearMsg
-	"to the Officials."
+	"encaminhadas aos\nOficiais imediatamente."
 	keyWait
 	clearMsg
-	"-Board Administrator"
+	"-Administração do Fórum"
 	keyWait
 	waitHold
 }
@@ -253908,7 +253822,7 @@ script 184 mmbn3 {
 @size 48
 
 script 0 mmbn3s {
-	" NO NAME  Do número 3"
+	" SEM NOME Do número 3"
 	end
 }
 script 1 mmbn3s {
@@ -254016,7 +253930,7 @@ script 26 mmbn3s {
 	end
 }
 script 27 mmbn3s {
-	" NO NAME  A Undernet"
+	" SEM NOME A Undernet"
 	end
 }
 script 28 mmbn3s {
@@ -254459,15 +254373,15 @@ script 9 mmbn3 {
 	clearMsg
 	"""
 	você deleta o inimigo
-	ao ser atingido por
-	ele! Se acertar o
+	instantes antes dele
+	te atacar!
 	"""
 	keyWait
 	clearMsg
 	"""
-	tempo, seu inimigo é
-	jogado lááá pro fundo
-	do campo.
+	Se acertar o tempo
+	direitinho, só coisas
+	boas vêm pra você!
 	"""
 	keyWait
 	clearMsg
@@ -254651,43 +254565,42 @@ script 13 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	N1 is finally
-	starting today!
+	O N1 finalmente vai
+	começar! Hoje!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I couldn't wait,so I
-	went to Beach St.
-	yesterday to check
+	Eu não aguentei espe-
+	rar, então, fui pra Rua
+	Angra ontem, conferir
 	"""
 	keyWait
 	clearMsg
 	"""
-	out where it's being
-	held. It looked
-	beautiful!
+	onde o torneio vai ser
+	sediado. E o lugar é
+	liiiindooo!
 	"""
 	keyWait
 	clearMsg
 	"""
-	The coffee at that
-	cafe that overlooks
-	the sea was great!
+	E o café que vendem na
+	cafeteria com vista pro
+	mar tava uma delícia!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Everyone's going to
-	go watch the N1
-	today,right?
+	Todo mundo vai assistir
+	ao N1 hoje, né?
 	"""
 	keyWait
 	clearMsg
 	"""
-	There was a fancy
-	boutique as well,for
-	those interested.
+	Também tem uma butique
+	chique por lá, pra quem
+	se interessar.
 	"""
 	keyWait
 	waitHold
@@ -254706,52 +254619,54 @@ script 14 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	32 NetBattlers from
-	around the world
-	have arrived for N1.
+	32 NetLutadores de
+	todo o mundo vieram
+	para o N1.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Who's everyone
-	rooting for?
+	Pra quem vocês vão
+	torcer?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Personally,I think
-	Chaud will win,but
-	Tora from Swapopolis
+	Pessoalmente, eu acho
+	que o Chaud vai vencer,
 	"""
 	keyWait
 	clearMsg
 	"""
-	is a contender,too.
-	Word has it he's the
-	#1 NetBattler in the
-	"""
-	keyWait
-	clearMsg
-	"West."
-	keyWait
-	clearMsg
-	"""
-	I'm rooting for
-	Glide,myself. I'm
-	a big fan of Yai.
+	mas o Tora Aragoma,
+	de Akindo, promete,
+	também.
 	"""
 	keyWait
 	clearMsg
 	"""
-	There aren't many
-	female NetBattlers
-	left,so I
+	Parece que ele é o
+	melhor NetLutador da
+	costa oeste de Ni-Hon.
 	"""
 	keyWait
 	clearMsg
 	"""
-	really hope she
-	wins.
+	Pessoalmente, tô
+	torcendo pelo Glide.
+	Sou muito fã da Yai.
+	"""
+	keyWait
+	clearMsg
+	"""
+	Não sobraram muitas
+	NetLutadoras meninas,
+	"""
+	keyWait
+	clearMsg
+	"""
+	então, espero muito
+	que ela vença.
 	"""
 	keyWait
 	waitHold
@@ -254770,9 +254685,9 @@ script 15 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	It's MegaMan all the
-	way! Why can't
-	everyone see that?!
+	MegaMan.EXE, sem
+	discussão! Sério que tem
+	gente que não vê isso?!
 	"""
 	keyWait
 	waitHold
@@ -254791,19 +254706,19 @@ script 16 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	I'm not cheering for
-	him,but that Q guy
-	seems intriguing.
+	Eu não vou TORCER
+	por ele, mas aquele tal
+	de Q é bem intrigante.
 	"""
 	keyWait
 	clearMsg
 	"""
-	What country is that
-	NetBattler from?
+	De que país será que
+	aquele NetLutador vem?
 	"""
 	keyWait
 	clearMsg
-	"He sure is freaky."
+	"Ele dá um medo."
 	keyWait
 	waitHold
 }
@@ -254821,23 +254736,22 @@ script 17 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	You may be the only
-	intelligent person
-	here,Maki.
+	Ai, Maki, acho que
+	você é a ÚNICA pessoa
+	com cérebro, aqui.
 	"""
 	keyWait
 	clearMsg
 	"""
-	The N1's going to be
-	a piece of cake!
-	I'm going to win it
+	O N1 vai ser MO-LE-ZA!
+	Eu vou vencer sim, e,
+	depois,
 	"""
 	keyWait
 	clearMsg
 	"""
-	and make you the
-	head of my personal
-	fan club!
+	nomear você líder do
+	meu fã-clube pessoal!
 	"""
 	keyWait
 	waitHold
@@ -256136,24 +256050,24 @@ script 8 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	After school today,I
-	ran straight to the
-	program shop in
+	Hoje, depois da escola,
+	eu fui direto pra loja
+	de programas no
 	"""
 	keyWait
 	clearMsg
 	"""
-	Yoka Square and got
-	a Navi Customizer!
-	The other programs
+	Yoka Plaza e comprei um
+	Customizador de Navi!
+	Os outros programas
 	"""
 	keyWait
 	clearMsg
-	"on sale were\n"
+	"à venda eram\n"
 	printNaviCustProgram
 		buffer = 0
 		program = 36
-	","
+	" ,"
 	printNaviCustProgram
 		buffer = 0
 		program = 41
@@ -256161,24 +256075,24 @@ script 8 mmbn3 {
 	printNaviCustProgram
 		buffer = 0
 		program = 43
-	"…"
+	"..."
 	keyWait
 	clearMsg
 	"""
-	and a couple more
-	I can't remember.
+	e uns outros aí que
+	eu não lembro.
 	"""
 	keyWait
 	clearMsg
 	"""
-	The programs I
-	bought with it were
+	Os programas que eu
+	comprei com ele foram
 	
 	"""
 	printNaviCustProgram
 		buffer = 0
 		program = 36
-	" and"
+	" e"
 	keyWait
 	clearMsg
 	printNaviCustProgram
@@ -256190,25 +256104,25 @@ script 8 mmbn3 {
 		program = 36
 	"""
 	
-	was a hot seller.
-	I got the last one.
+	estão vendendo bem.
+	Peguei o último.
 	"""
 	keyWait
 	clearMsg
-	"I wanted a\n"
+	"Eu também queria um\n"
 	printNaviCustProgram
 		buffer = 0
 		program = 41
 	"""
-	 too
-	but ran out of cash.
+	, mas acabou o
+	meu dinheiro.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'll just have to
-	wait for my next
-	birthday to get one!
+	Vou ter que esperar
+	até o meu próximo ani-
+	versário pra comprar!
 	"""
 	keyWait
 	waitHold
@@ -256227,29 +256141,29 @@ script 9 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	Hey Y'all! Dex here!
-	I got a Navi
-	Customizer,too!
+	Fala, galera! Dex na
+	área! Eu também comprei
+	um Customizador de Navi!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I already customized
-	GutsMan. Now he's
-	even stronger!
+	Já customizei o meu
+	GutsMan. Ele ficou
+	ainda mais forte!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Hey,I'm taking part
-	in the N1!
+	Ah, e eu vou competir
+	no N1, também!
 	"""
 	keyWait
 	clearMsg
 	"""
-	There's some tough
-	competition,but I'm
-	not gonna lose!
+	Os oponentes são
+	barra pesada, mas eu
+	não vou perder, não!
 	"""
 	keyWait
 	waitHold
@@ -256268,30 +256182,30 @@ script 10 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	Howdy,all! I'm Dex's
-	Navi,GutsMan!
-	Yee-haw!
+	Fala, gente! Eu sou o
+	Navi do Dex, o GutsMan!
+	Guuuts!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Actually,ever since
-	Dex customized me,
-	I haven't been
+	Na verdade, desde
+	que ele me customizou,
+	eu ando me sentindo
 	"""
 	keyWait
 	clearMsg
 	"""
-	feeling well. I feel
-	drained even though
-	I'm not doing
+	meio estranho. Tô
+	esgotado, mesmo não
+	tendo feito nada...
 	"""
 	keyWait
 	clearMsg
 	"""
-	anything. What's
-	happening to me?!
-	Yee…haw……
+	O que tá acontecendo
+	comigo?!
+	Guu... ts....
 	"""
 	keyWait
 	waitHold
@@ -256310,48 +256224,48 @@ script 11 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	Yo,all! Master of
-	Disaster and
-	programmer
+	E aí, povo! Koetsu,
+	mestre das tretas
+	e programador
 	"""
 	keyWait
 	clearMsg
 	"""
-	extraordinaire
-	Koetsu at your call!
-	I got a NaviCust
+	extraordinário, ao seu
+	dispor! Também comprei
+	um Customizador de
 	"""
 	keyWait
 	clearMsg
 	"""
-	too! As for your
-	problem,GutsMan,
-	you're gonna be
+	Navi! Quanto ao seu
+	problema, GutsMan,
+	você vai ficar bem.
 	"""
 	keyWait
 	clearMsg
 	"""
-	all right. You've
-	probably got a tiny
-	glitch in your
+	Provavelmente deu
+	um pequeno bug no
+	seu sistema.
 	"""
 	keyWait
 	clearMsg
 	"""
-	system. Ask Dex to
-	check out your
-	Memory Map. Maybe
+	Peça pro Dex conferir
+	seu Mapa de Memória.
+	É bem possível que
 	"""
 	keyWait
 	clearMsg
-	"a "
+	"um "
 	printNaviCustProgram
 		buffer = 0
 		program = 36
 	"""
-	 or
-	something is above
-	your Command Line.
+	 ou algo
+	do tipo esteja sobre
+	a sua Linha de Comando.
 	"""
 	keyWait
 	waitHold
@@ -256370,37 +256284,36 @@ script 12 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	Dex here! GutsMan
-	asked me to double-
-	check his
+	Dex falando! O GutsMan
+	me pediu pra checar o
+	Mapa de Memória dele.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Memory Map. It was
-	just as Koetsu
-	suspected!
+	As suspeitas do
+	Koetsu tavam certas!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Sorry for pressing
-	Run without checking
-	for mistakes,Guts!
+	Desculpa por Executar
+	sem ver se eu tinha
+	errado antes, GutsMan!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I swear it'll never
-	happen again! Some
-	day I'm gonna be a
+	Juro que nunca mais
+	vai rolar! Um dia, eu vou
+	ser um programador
 	"""
 	keyWait
 	clearMsg
 	"""
-	master programmer
-	who doesn't make
-	mistakes,I promise!
+	expert que nunca
+	erra, promessa de
+	homem!
 	"""
 	keyWait
 	waitHold
@@ -258487,91 +258400,91 @@ script 47 mmbn3 {
 @size 48
 
 script 0 mmbn3s {
-	" Junko    I got it!"
+	" Junko    Comprei!"
 	end
 }
 script 1 mmbn3s {
-	" Mayumi   RE:I got it!"
+	" Mayumi   RE:Comprei!"
 	end
 }
 script 2 mmbn3s {
-	" Cruzil   *(asterisk)"
+	" Cruzil   *(asterisco)"
 	end
 }
 script 3 mmbn3s {
-	" Miki     RE:I got it!"
+	" Miki     RE:Comprei!"
 	end
 }
 script 4 mmbn3s {
-	" Axel     I agree!"
+	" Axel     Concordo!"
 	end
 }
 script 5 mmbn3s {
-	" Harrun   Can't be…"
+	" Harrun   Não acredito"
 	end
 }
 script 6 mmbn3s {
-	" Koetsu   RE:*(asterisk"
+	" Koetsu   RE:*(asterisc"
 	end
 }
 script 7 mmbn3s {
-	" Ogata    Hey,Koetsu!"
+	" Ogata    Oi, Koetsu!"
 	end
 }
 script 8 mmbn3s {
-	" Heylon   Extra Folder"
+	" Heylon   Pasta Extra"
 	end
 }
 script 9 mmbn3s {
-	" Takayan  RE:Extra Fold"
+	" Takayan  RE:Pasta Extr"
 	end
 }
 script 10 mmbn3s {
-	" Koetsu   RE:Extra Fold"
+	" Koetsu   RE:Pasta Extr"
 	end
 }
 script 11 mmbn3s {
-	" Koetsu   Asterisks&PA"
+	" Koetsu   Asteriscos&PA"
 	end
 }
 script 12 mmbn3s {
-	" Poteno   Oh,come on!"
+	" Poteno   Ah, fala sério!"
 	end
 }
 script 13 mmbn3s {
-	" Nukin    You bad girl!"
+	" Nukin    Malvada!"
 	end
 }
 script 14 mmbn3s {
-	" Poteno   RE:You bad gi"
+	" Poteno   RE:Malvada"
 	end
 }
 script 15 mmbn3s {
-	" Poteno   Hah!"
+	" Poteno   Ha!"
 	end
 }
 script 16 mmbn3s {
-	" Higsby   I know that!"
+	" Higsby   Eu sei disso!"
 	end
 }
 script 17 mmbn3s {
-	" Cartan   Wow"
+	" Cartan   Caramba"
 	end
 }
 script 18 mmbn3s {
-	" Koetsu   Go easy"
+	" Koetsu   Pega leve"
 	end
 }
 script 19 mmbn3s {
-	" Tetsuya  Strange virus"
+	" Tetsuya  Vírus estranh"
 	end
 }
 script 20 mmbn3s {
-	" Yama     RE:Strange vi"
+	" Yama     RE:Vírus estr"
 	end
 }
 script 21 mmbn3s {
-	" ChunG    RE:Strange vi"
+	" ChunG    RE:Vírus estr"
 	end
 }
 script 22 mmbn3s {
@@ -258669,22 +258582,22 @@ script 0 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	I just bought a
-	BubbleWash. They're
-	all the rage!
+	Acabei de comprar uma
+	Lava-Bolha. Elas
+	tão muito na moda!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Just jack it in,and
-	presto! It cleans
-	all your dishes!
+	É só se conectar, e
+	pronto! Ele lava sua
+	louça à distância, até!
 	"""
 	keyWait
 	clearMsg
 	"""
-	We really live in an
-	age of convenience!
+	Vivemos mesmo na
+	era da conveniência!
 	"""
 	keyWait
 	waitHold
@@ -258703,36 +258616,35 @@ script 1 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	You bought one too,
-	Junko? So did I!
+	Você comprou uma,
+	Junko? Eu também!
 	"""
 	keyWait
 	clearMsg
 	"""
-	But isn't it funny?
-	It's connected to
-	the Net,
+	Mas, engraçado, né?
+	Mesmo ela estando
+	ligada à Rede,
 	"""
 	keyWait
 	clearMsg
 	"""
-	but you can't jack
-	into the washer
-	itself! Still,it
+	não dá pra se conec-
+	tar NA Lava-Bolha!
+	Bom, ainda assim,
 	"""
 	keyWait
 	clearMsg
 	"""
-	looks pretty sturdy.
-	Everything nowadays
-	breaks so easily.
+	ela parece bem
+	sólida. Tudo quebra
+	tão fácil, hoje em dia.
 	"""
 	keyWait
 	clearMsg
 	"""
-	It's nice to see
-	something built so
-	well!
+	É bom ver um produto
+	projetado tão bem!
 	"""
 	keyWait
 	waitHold
@@ -258751,51 +258663,50 @@ script 2 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	I just had a look
-	at the ACDC Square
-	Chat BBS,and there
+	Acabei de dar uma
+	olhada no Fórum de
+	Bate-Papo de ACDC.
 	"""
 	keyWait
 	clearMsg
 	"""
-	seems to be a lot of
-	discussion about
-	RegularChips. They
+	Lá, estão falando
+	muito sobre Chips
+	Padrão. Mas só ficam
 	"""
 	keyWait
 	clearMsg
 	"""
-	just keep blabbing
-	about attacks and
-	recoveries,though,
+	falando sobre chips
+	de ataque e cura,
+	quando o importante
 	"""
 	keyWait
 	clearMsg
 	"""
-	when the important
-	things are the chip
-	codes rather than
+	mesmo são os CÓDIGOS
+	dos chips, não os chips
+	em si!
 	"""
 	keyWait
 	clearMsg
 	"""
-	the actual chips!
-	How about using a
-	* chip? (Kitago
+	Que tal usar um chip *?
+	(O Kitago também fala
+	das vantagens dos
 	"""
 	keyWait
 	clearMsg
 	"""
-	also talks about the
-	advantages of *
-	chips on that BBS.)
+	chips * naquele
+	Fórum.)
 	"""
 	keyWait
 	clearMsg
 	"""
-	That way,you have
-	the option of using
-	it anytime you want!
+	Assim, você teria a
+	opção de usá-lo
+	quando quisesse!
 	"""
 	keyWait
 	waitHold
@@ -258814,23 +258725,23 @@ script 3 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	Ooooh,I'm so mad I
-	could just scream!
-	My house is full of
+	Aaaah, eu tô tão fula,
+	que tô pra gritar! Minha
+	casa tá só bolhas!
 	"""
 	keyWait
 	clearMsg
 	"""
-	bubbles! I almost
-	drowned! WWW just
-	made an enemy of
+	Eu quase me afoguei!
+	A WWW acabou de
+	fazer de inimigas
 	"""
 	keyWait
 	clearMsg
 	"""
-	every lady who
-	purchased a Bubble
-	Wash!
+	todas as mulheres
+	que compraram uma
+	Lava-Bolha!
 	"""
 	keyWait
 	waitHold
@@ -258849,23 +258760,23 @@ script 4 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	I can empathize with
-	you,Miki. What a
-	terrible prank!
+	Simpatizo, Miki.
+	Que brincadeira de
+	péssimo gosto!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Say,that e-mail that
-	came when the washer
-	went berserk was
+	Ei, aquele e-mail que
+	foi mandado quando a
+	lava-louças saiu de
 	"""
 	keyWait
 	clearMsg
 	"""
-	signed by the "WWW".
-	Weren't they
-	destroyed?
+	controle foi assinado
+	pela "WWW". Eles não
+	tinham sido destruídos?
 	"""
 	keyWait
 	waitHold
@@ -258884,22 +258795,22 @@ script 5 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	The prankster must
-	have used that name
-	to scare everybody.
+	O golpista deve ter
+	usado o nome só pra
+	assustar geral.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Besides,the WWW was
-	eradicated by that
-	super-Navi,right?
+	Digo, a WWW foi dizimada
+	por aquele super-Navi,
+	não foi?
 	"""
 	keyWait
 	clearMsg
 	"""
-	There's nothing to
-	be afraid of.
+	Não há nada a temer
+	aqui.
 	Ha ha ha!
 	"""
 	keyWait
@@ -258919,50 +258830,51 @@ script 6 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	I just took a look
-	at this BBS,and
-	noticed Cruzil made
+	Acabei de dar uma
+	olhada neste Fórum, e
+	vi que o Cruzil
 	"""
 	keyWait
 	clearMsg
 	"""
-	a good point! You
-	shouldn't just make
-	a strong chip your
+	levantou um bom
+	argumento! Não se
+	deve só usar um chip
 	"""
 	keyWait
 	clearMsg
 	"""
-	Regular. You should
-	make sure it matches
-	the chip codes in
+	forte como Padrão. Ele
+	tem que combinar com
+	os códigos dos chips
 	"""
 	keyWait
 	clearMsg
 	"""
-	your folder. Since
-	asterisk chips match
-	any folder,they come
+	na sua pasta. Como
+	chips de asterisco vão
+	com qualquer pasta,
 	"""
 	keyWait
 	clearMsg
 	"""
-	in handy! Regular
-	Chips also come into
-	play when making
+	são super úteis! Chips
+	Padrão também cumprem
+	um papel na hora de
 	"""
 	keyWait
 	clearMsg
 	"""
-	Program Advances.
-	What's that,you say?
-	Heh,maybe next time!
+	fazer Programas
+	Avançados. "Que papel"?
+	He, talvez na próxima!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I gotta get over to
-	the N1! Later,gator!
+	Preciso ir pro N1, agora!
+	Tchau! Me manda um
+	e-mail e um inteiro!
 	"""
 	keyWait
 	waitHold
@@ -258981,15 +258893,15 @@ script 7 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	You're entering the
-	Grande Prêmio N1,too,
-	Koetsu?
+	Você também vai
+	competir no Grande
+	Prêmio N1, Koetsu?
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'm your biggest
-	fan! I hope you win!
+	Eu sou seu maior fã!
+	Espero que cê vença!
 	"""
 	keyWait
 	waitHold
@@ -259681,35 +259593,35 @@ script 47 mmbn3 {
 @size 48
 
 script 0 mmbn3s {
-	" MetroHQ  Roads closed"
+	" MetroCT  Interditado"
 	end
 }
 script 1 mmbn3s {
-	" DNN      N1 starts!"
+	" DNN      Começa o N1!"
 	end
 }
 script 2 mmbn3s {
-	" Goh      RE:N1 starts!"
+	" Goh      RE:Começa N1!"
 	end
 }
 script 3 mmbn3s {
-	" Goh      NO SUBJECT"
+	" Goh      SEM ASSUNTO"
 	end
 }
 script 4 mmbn3s {
-	" Tessan   What's wrong?"
+	" Tessan   O que houve?"
 	end
 }
 script 5 mmbn3s {
-	" MEGAoka  Warning"
+	" MEGAoka  Alerta"
 	end
 }
 script 6 mmbn3s {
-	" Arima    Scary!!!"
+	" Arima    Que medo!!!"
 	end
 }
 script 7 mmbn3s {
-	" BattleML Investigating"
+	" NotcLuta Investigando"
 	end
 }
 script 8 mmbn3s {
@@ -259721,51 +259633,51 @@ script 9 mmbn3s {
 	end
 }
 script 10 mmbn3s {
-	" Micchan  Why there?"
+	" Micchan  Por que lá?"
 	end
 }
 script 11 mmbn3s {
-	" Taka     RE:Why there?"
+	" Taka     RE:Por que lá?"
 	end
 }
 script 12 mmbn3s {
-	" Madmad   RE:Why there?"
+	" LokoLoko RE:Por que lá?"
 	end
 }
 script 13 mmbn3s {
-	" Mohe     RE:Why there?"
+	" Mohe     RE:Por que lá?"
 	end
 }
 script 14 mmbn3s {
-	" DNN      WWW activity"
+	" DNN      Atividade WWW"
 	end
 }
 script 15 mmbn3s {
-	" Cartan   RE:WWW activi"
+	" Cartan   RE:Ativid WWW"
 	end
 }
 script 16 mmbn3s {
-	" Hassy    RE:WWW activi"
+	" Hassy    RE:Ativid WWW"
 	end
 }
 script 17 mmbn3s {
-	" MEGAoka  RE:WWW activi"
+	" MEGAoka  RE:Ativid WWW"
 	end
 }
 script 18 mmbn3s {
-	" DNN      Urgent report"
+	" DNN      Boletim urgnt"
 	end
 }
 script 19 mmbn3s {
-	" Arima    RE:Urgent rep"
+	" Arima    RE:Boletim ur"
 	end
 }
 script 20 mmbn3s {
-	" Take&Ebi RE:Urgent rep"
+	" Take&Ebi RE:Boletim ur"
 	end
 }
 script 21 mmbn3s {
-	" Tessan   RE:RE:N1 star"
+	" Tessan   RE:RE:Comç N1"
 	end
 }
 script 22 mmbn3s {
@@ -259863,29 +259775,29 @@ script 0 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	This notice is from
-	the Beach St. Dept.
-	of Transportation.
+	Informe do Departamento
+	de Transporte da Rua
+	Angra.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Due to heavy
-	congestion expected
-	to accompany the N1,
+	Devido ao alto congestio-
+	namento causado pelo
+	Grande Prêmio N1, a
 	"""
 	keyWait
 	clearMsg
 	"""
-	the road to Seaside
-	Hospital has been
-	temporarily closed.
+	estrada para o Hospital
+	Beira-Mar ficará fecha-
+	da temporariamente.
 	"""
 	keyWait
 	clearMsg
 	"""
-	We apologize for any
-	inconvenience.
+	Pedimos desculpas pelo
+	inconveniente.
 	"""
 	keyWait
 	waitHold
@@ -259904,51 +259816,49 @@ script 1 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	It's finally time
-	for the N1 Grand
-	Prix!
+	Finalmente, é hora do
+	Grande Prêmio N1!
 	"""
 	keyWait
 	clearMsg
 	"""
-	32 of the world's
-	best NetBattlers
-	are gathering at
+	32 dos melhores Net-
+	Lutadores do Mundo
+	estão se reunindo nos
 	"""
 	keyWait
 	clearMsg
 	"""
-	the DNN Studio! Is
-	everyone ready to
-	rumble?
+	estúdios da DNN!
+	Todo mundo pronto pra
+	pauleira?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Couldn't get a
-	ticket? No fear!
-	We at DNN will
+	Não conseguiu arranjar
+	ingresso? Não tema! Nós,
+	da DNN, transmitiremos
 	"""
 	keyWait
 	clearMsg
 	"""
-	bring the excitement
-	straight to your
-	home!
+	toda a emoção da arena
+	direto para a sua casa!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Get ready for a
-	battle of truly
-	epic proportions!
+	Preparem-se para
+	batalhas
+	verdadeiramente épicas!
 	"""
 	keyWait
 	clearMsg
 	"""
-	This post was
-	brought to you by
-	DNN reporter Yasu!
+	Esta postagem foi
+	trazida a vocês por
+	Yasu, repórter da DNN!
 	"""
 	keyWait
 	waitHold
@@ -259967,50 +259877,49 @@ script 2 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	The N1 has finally
-	begun!
+	O N1, finalmente,
+	começou!
 	"""
 	keyWait
 	clearMsg
 	"""
-	At first,I thought
-	I'd never be able to
-	get ahold of a
+	No começo, eu achei
+	que nunca ia conseguir
+	um ingresso,
 	"""
 	keyWait
 	clearMsg
 	"""
-	ticket,but I managed
-	to get one through
-	the Undernet!
+	mas dei meus pulos e
+	arranjei um através
+	da Undernet!
 	"""
 	keyWait
 	clearMsg
 	"""
-	And,ya know,it was
-	worth all the money
-	and danger!
+	E, olha... valeu a pena
+	todo o dinheiro e o
+	risco de morte!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Whoops! Talk like
-	this will only make
-	people want to go
+	Ops! Falar desse jeito
+	só vai encorajar as
+	pessoas a irem lá.
 	"""
 	keyWait
 	clearMsg
 	"""
-	there. Heh heh. The
-	Undernet's no place
-	for amateurs.
+	He he. A Undernet não
+	é pra amadores.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Actually,I asked an
-	Undernetter to go
-	get me a ticket.
+	Na verdade, eu pedi
+	pra um Underneteiro
+	me arranjar o ingresso.
 	"""
 	keyWait
 	waitHold
@@ -260045,14 +259954,15 @@ script 4 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	Are you OK,Goh?
-	Goh!
+	Você está bem, Goh?
+	Goh! GOOOOHH!
 	"""
 	keyWait
 	clearMsg
 	"""
-	All you wrote was
-	your name…
+	Tudo o que você
+	escreveu foi o seu
+	nome...
 	"""
 	keyWait
 	waitHold
@@ -260071,23 +259981,23 @@ script 5 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	This is Beach Square
-	administrator
-	MEGAoka.
+	Aqui fala MEGAoka, o
+	administrador do Angra
+	Plaza.
 	"""
 	keyWait
 	clearMsg
 	"""
-	For your own safety,
-	please do not post
-	messages about
+	Para sua própria
+	segurança, por favor,
+	não postem mensagens
 	"""
 	keyWait
 	clearMsg
 	"""
-	the Undernet or the
-	Under society on this
-	BBS. Thank you.
+	sobre a Undernet ou
+	a Under sociedade
+	neste Fórum. Obrigado.
 	"""
 	keyWait
 	waitHold
@@ -260106,9 +260016,9 @@ script 6 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	I guess normal folks
-	should avoid the
-	Undernet.
+	Acho que gente normal
+	deve mesmo é evitar
+	a Undernet.
 	"""
 	keyWait
 	waitHold
@@ -260127,23 +260037,23 @@ script 7 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	The Officials are
-	currently
-	investigating Goh's
+	Os Oficiais estão
+	investigando o desapa-
+	recimento do Goh.
 	"""
 	keyWait
 	clearMsg
 	"""
-	disappearance. There
-	has been a rash of
-	crime recently,
+	Tem havido uma alta
+	onda de crimes estes
+	dias,
 	"""
 	keyWait
 	clearMsg
 	"""
-	including the Zoo,N1
-	and BubbleWash
-	incidents. Beware.
+	incluindo os incidentes
+	do zoológico, do N1 e
+	da Lava-Bolha. Cuidado.
 	"""
 	keyWait
 	waitHold
@@ -260162,44 +260072,43 @@ script 8 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	Ahhhh. Another day,
-	another win.
-	It's a tough life.
+	Ahhhh. Mais uma dia,
+	mais uma vitória.
+	Ô, vida.
 	"""
 	keyWait
 	clearMsg
 	"""
-	So this punk in the
-	Cyberworld
-	challenges me to a
+	É que teve esse otário
+	do mundo cibernético que
+	me desafiou pra uma
 	"""
 	keyWait
 	clearMsg
 	"""
-	bet,right? Says
-	he'll double up or
-	something,so I
+	aposta, sabe? Ficava
+	dobrando o valor a
+	cada uma, daí, joguei
 	"""
 	keyWait
 	clearMsg
 	"""
-	played him until
-	he'd had enough
-	punishment. When it
+	com ele até ele ter
+	sofrido o bastante.
 	"""
 	keyWait
 	clearMsg
 	"""
-	was time for him to
-	pay up,he gave me a
-	chip 'cause he was
+	Quando chegou a hora
+	dele pagar, ele me deu
+	um chip, porque ficou
 	"""
 	keyWait
 	clearMsg
 	"""
-	all out of money!
-	I was in a good
-	mood,so I took it.
+	sem nenhum dinheiro!
+	Eu tava de bom humor,
+	então, aceitei.
 	"""
 	keyWait
 	waitHold
@@ -260218,23 +260127,23 @@ script 9 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	Whoa! Exactly how
-	many times did you
-	win at Double-Up?
+	Caraca! Mas, afinal,
+	quantas vezes você
+	venceu na Dobradinha?
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'd definitely have
-	stopped after four
-	wins,myself.
+	Eu, pessoalmente,
+	teria parado depois
+	da quarta.
 	"""
 	keyWait
 	clearMsg
 	"""
-	By the way,what kind
-	of chip did you get?
-	I'm curious.
+	Aliás, que tipo de chip
+	você recebeu?
+	Fiquei curioso.
 	"""
 	keyWait
 	waitHold
@@ -260253,16 +260162,16 @@ script 10 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	I just went to the
-	Zoo,and found out
-	something about the
+	Eu acabei de ir ao
+	zoológico e descobri
+	uma coisa sobre o
 	"""
 	keyWait
 	clearMsg
 	"""
-	Giraffe Educational
-	Computer. You can
-	jack into it!
+	Computador Educativo
+	da Girafa. Dá para se
+	conectar nele!
 	"""
 	keyWait
 	waitHold
@@ -260281,23 +260190,23 @@ script 11 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	Really? I didn't
-	know you could jack
-	into that,either!
+	Sério? Eu também não
+	sabia que dava pra
+	se conectar lá!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I know another
-	secret place you
-	can jack into,but I
+	Eu conheço um outro
+	lugar secreto em que
+	dá pra se conectar,
 	"""
 	keyWait
 	clearMsg
 	"""
-	can't tell. It would
-	not be fair to the
-	SciLab programs.
+	mas não posso contar.
+	Não seria justo com os
+	programas do SciLab.
 	"""
 	keyWait
 	waitHold
@@ -260316,28 +260225,27 @@ script 12 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	Wow,there seem to be
-	a lot of secret
-	spots out there.
+	Nossa, tanto lugar
+	secreto por aí...
 	"""
 	keyWait
 	clearMsg
 	"""
-	I found one when
-	I went to Hades
-	Isle. I think there
+	Eu encontrei um quando
+	fui na Ilha do Inferno.
 	"""
 	keyWait
 	clearMsg
 	"""
-	was a warp point in
-	that Cyberworld.
+	Lá tinha o que parecia
+	ser um portal inter-
+	área cibernética.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I wonder where it
-	leads to?
+	Aonde será que ele
+	leva...?
 	"""
 	keyWait
 	waitHold
@@ -260356,16 +260264,16 @@ script 13 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	Heh heh! I found an
-	even better place
-	than Micchan's!
+	He he! Pois eu achei
+	um lugar ainda melhor
+	que o da Micchan!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I won't tell where
-	exactly,but it's in
-	the same Zoo!
+	Não vou dizer ONDE,
+	exatamente, mas
+	também é no zoológico!
 	"""
 	keyWait
 	waitHold
@@ -260384,30 +260292,30 @@ script 14 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	DNN reporter
-	Yasu here,keeping
-	you up to date!
+	Repórter Yasu, da DNN,
+	falando, mantendo
+	vocês atualizados!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Officials announced
-	today that WWW is
-	plotting a massive
+	Os Oficiais anunciaram
+	hoje que a WWW está
+	orquestrando uma
 	"""
 	keyWait
 	clearMsg
 	"""
-	conspiracy.
-	Unfortunately we
-	don't know any
+	enorme conspiração.
+	Infelizmente, não
+	temos muitos detalhes,
 	"""
 	keyWait
 	clearMsg
 	"""
-	details,except the
-	investigation isn't
-	proceeding smoothly.
+	fora o fato da
+	investigação não estar
+	indo lá tão bem.
 	"""
 	keyWait
 	waitHold
@@ -260426,16 +260334,16 @@ script 15 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	So that must be why
-	there are Officials
-	all over the place.
+	Deve ser por isso
+	que tem Oficiais por
+	toda a parte.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I was told I looked
-	suspicious. They
-	interrogated me!
+	Eles disseram que eu
+	"parecia suspeito".
+	Me interrogaram e tudo!
 	"""
 	keyWait
 	waitHold
@@ -260454,23 +260362,22 @@ script 16 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	Apparently,some
-	Officials are
-	working undercover!
+	Ao que parece, alguns
+	Oficiais estão traba-
+	lhando disfarçados!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I think I'm just
-	going to sit tight
-	at home.
+	Acho que vou ficar
+	quietinho em casa.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I don't want to get
-	in the way of the
-	investigation.
+	Não iria querer
+	atrapalhar as
+	investigações.
 	"""
 	keyWait
 	waitHold
@@ -260489,29 +260396,28 @@ script 17 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	What a dangerous
-	place this world has
-	become! Even so,the
+	O mundo ficou tão
+	perigoso!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Officials really
-	seem to be taking
-	the investigation
+	Mas os Officials parecem
+	estar levando a investi-
+	gação bem a sério.
 	"""
 	keyWait
 	clearMsg
 	"""
-	seriously. The
-	situation may be a
-	lot worse than has
+	Na verdade, é possível
+	que a situação
 	"""
 	keyWait
 	clearMsg
 	"""
-	been publicly
-	announced!
+	esteja bem pior do
+	que o que anunciaram
+	publicamente!
 	"""
 	keyWait
 	waitHold
@@ -260530,22 +260436,22 @@ script 18 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	The government has
-	just declared a
-	Level A state of
+	O governo acaba de
+	declarar estado de
+	emergência Nível A!
 	"""
 	keyWait
 	clearMsg
 	"""
-	emergency! Do not,
-	I repeat,do not
-	leave your homes.
+	Não saiam de casa.
+	Repito: NÃO SAIAM DE
+	CASA!
 	"""
 	keyWait
 	clearMsg
 	"""
-	This has been Yasu,
-	reporting for DNN!
+	Este foi Yasu,
+	repórter da DNN!
 	"""
 	keyWait
 	waitHold
@@ -260564,22 +260470,22 @@ script 19 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	Something terrible
-	has happened! I knew
-	this day would come!
+	Uma coisa terrível
+	aconteceu! Eu sabia
+	que este dia viria!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Oh,what will become
-	of us all?
+	Ah, o que vai ser de
+	nós?
 	"""
 	keyWait
 	clearMsg
 	"""
-	I should have gone
-	ahead and had that
-	sundae for desert!
+	Eu devia ter esquecido
+	a dieta e tomado aquele
+	sundae de sobremesa!
 	"""
 	keyWait
 	waitHold
@@ -260598,15 +260504,14 @@ script 20 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	Calm down! Chaud is
-	an Official,too,so
-	they'll resolve
+	Calma, gente! O Chaud
+	também é um Oficial, sei
+	que tudo será resolvido.
 	"""
 	keyWait
 	clearMsg
 	"""
-	everything. We have
-	to believe!
+	Temos que ter fé!
 	"""
 	keyWait
 	waitHold
@@ -260625,30 +260530,30 @@ script 21 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	You could get ahold
-	of a ticket that
-	way? Shoot! I wish
+	Dava pra conseguir um
+	ingresso desse jeito?
+	Poxa! Se, ao menos,
 	"""
 	keyWait
 	clearMsg
 	"""
-	I knew that earlier!
-	I would have done
-	anything to get a
+	eu soubesse!
+	Teria feito qualquer
+	coisa por um.
 	"""
 	keyWait
 	clearMsg
 	"""
-	ticket. By the way,
-	Goh,should you even
-	talk about that
+	Por sinal, Goh, devia
+	mesmo falar dessas
+	coisas aqui?
 	"""
 	keyWait
 	clearMsg
 	"""
-	here? What if the
-	Undernet guy read
-	your post?
+	E se o sujeito da
+	Undernet ler a sua
+	postagem?
 	"""
 	keyWait
 	waitHold
@@ -260672,63 +260577,63 @@ script 47 mmbn3 {
 @size 48
 
 script 0 mmbn3s {
-	" NO NAME  UnderBoard"
+	" SEM NOME UnderFórum"
 	end
 }
 script 1 mmbn3s {
-	" NO NAME  Secret chips"
+	" SEM NOME Chips secrtos"
 	end
 }
 script 2 mmbn3s {
-	" NO NAME  Dominerd"
+	" SEM NOME Dominerd"
 	end
 }
 script 3 mmbn3s {
-	" NO NAME  An amoeba?"
+	" SEM NOME Uma ameba?"
 	end
 }
 script 4 mmbn3s {
-	" NO NAME  RE:An amoeba?"
+	" SEM NOME RE:Uma ameba?"
 	end
 }
 script 5 mmbn3s {
-	" NO NAME  LifeVirus?"
+	" SEM NOME LifeVirus?"
 	end
 }
 script 6 mmbn3s {
-	" NO NAME  Giga Folder 1"
+	" SEM NOME Giga Pasta 1"
 	end
 }
 script 7 mmbn3s {
-	" NO NAME  RE:Giga Fold"
+	" SEM NOME RE:Giga Pasta"
 	end
 }
 script 8 mmbn3s {
-	" NO NAME  Wrong!"
+	" SEM NOME Errou!"
 	end
 }
 script 9 mmbn3s {
-	" NO NAME  BeeArrow3"
+	" SEM NOME BeeArrow3"
 	end
 }
 script 10 mmbn3s {
-	" NO NAME  RE:BeeArrow3"
+	" SEM NOME RE:BeeArrow3"
 	end
 }
 script 11 mmbn3s {
-	" NO NAME  Error H2"
+	" SEM NOME Erro H2"
 	end
 }
 script 12 mmbn3s {
-	" NO NAME  RE:Error H2"
+	" SEM NOME RE:Erro H2"
 	end
 }
 script 13 mmbn3s {
-	" NO NAME  Bugs…"
+	" SEM NOME Bugs..."
 	end
 }
 script 14 mmbn3s {
-	" NO NAME  The UnderKing"
+	" SEM NOME O UndeRei"
 	end
 }
 script 15 mmbn3s {
