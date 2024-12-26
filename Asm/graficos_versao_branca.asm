@@ -73,6 +73,10 @@
 .stringn "REDE   "
 .org 0x087DF1BC
 .stringn "SALVAR"
+.org 0x087E6564
+.stringn "CONVERSOR DE ENERGIA"
+.org 0x087E6A14
+.stringn "TROCA-CHIPS"
 
 ; Editando tilemap dos submenus, na parte de baixo das letras
 .loadtable "Tabelas/Telas Menus - Nomes Parte Baixo.tbl"
@@ -96,6 +100,10 @@
 .stringn "REDE   "
 .org 0x087DF1F8
 .stringn "SALVAR"
+.org 0x087E65A0
+.stringn "CONVERSOR DE ENERGIA"
+.org 0x087E6A50
+.stringn "TROCA-CHIPS"
 
 ; Gráficos inseridos no final da rom, em sua maioria comprimidos.
 ; Catalogando ponteiros dos gráficos.
@@ -103,8 +111,6 @@
 .dw logo_tela_titulo
 .org 0x08022630
 .dw nomes_tela_titulo
-;.org 0x080330fc
-;.dw menus_start_descomprimido
 .org 0x0802515c
 .dw sala_aula_cleaners1
 .org 0x08025168
@@ -128,10 +134,6 @@ logo_tela_titulo:
 nomes_tela_titulo:
 .incbin "Graficos/Recomprimidos/Nomes tela-titulo versao branca.gba"
 .align
-
-;menus_start_descomprimido:
-;;.incbin "Graficos/Editados/Menus.gba"
-;.align
 
 sala_aula_cleaners1:
 .incbin "Graficos/Recomprimidos/Sala Aula - Cleaners1.gba"

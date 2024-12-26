@@ -53,6 +53,10 @@
 .stringn "REDE   "
 .org 0x087DA4F0
 .stringn "SALVAR"
+.org 0x087E1914
+.stringn "CONVERSOR DE ENERGIA"
+.org 0x087E1DC4
+.stringn "TROCA-CHIPS"
 
 ; Editando tilemap dos submenus, na parte de baixo das letras
 .loadtable "Tabelas/Telas Menus - Nomes Parte Baixo (coletanea).tbl"
@@ -76,5 +80,9 @@
 .stringn "REDE   "
 .org 0x087DA52C
 .stringn "SALVAR"
+.org 0x087E1950
+.stringn "CONVERSOR DE ENERGIA"
+.org 0x087E1E00
+.stringn "TROCA-CHIPS"
 
 .close
