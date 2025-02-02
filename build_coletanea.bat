@@ -1,6 +1,4 @@
 :: Arquivo .bat que remonta as roms traduzidas da coletânea com gráficos editados.
-::
-:: Escrito por Solid One - Dezembro de 2024
 @echo off
 cls
 echo ==Mega Man Battle Network 3
@@ -28,6 +26,8 @@ pause
 exit
 
 :blue
+copy ".\rom_b (original).srl" ".\rom_b.srl"
+
 echo ==Aplicando patches extras na rom modificada:==
 
 echo ==Graficos==
