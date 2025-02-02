@@ -1,1 +1,3 @@
 - Editar o gráfico de "Sort", para modificar os nomes abaixo da janela, devido à tilemap super bagunçado (pedir help do denim possivelmente)
+- Corrigir bug na fonte VWF das descrições, onde alguns chips em "Coleção" ficam bugados.
+- Corrigir bug na fonte VWF das descrições, onde alguns nomes deveriam aparecer à direita ao invés da esquerda.
