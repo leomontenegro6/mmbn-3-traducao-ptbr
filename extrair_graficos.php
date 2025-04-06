@@ -22,7 +22,7 @@ $graficos = [
     (object)['nome' => 'Winner Post Link Battle', 'offset' => '0x6B2F40', 'tiles' => '1x101'],
     (object)['nome' => 'Loser Post Link Battle', 'offset' => '0x6B3F40', 'tiles' => '1x87'],
     (object)['nome' => 'Press A button', 'offset' => '0x6B4DC0', 'tiles' => '1x37'],
-    (object)['nome' => 'Additional Chip data', 'offset' => '0x6B68E0', 'tiles' => '8x7'],
+    (object)['nome' => 'Additional Chip Data', 'offset' => '0x6B68E0', 'tiles' => '8x7'],
     (object)['nome' => 'Chip Data Transmission', 'offset' => '0x6BC000', 'tiles' => '8x7'],
     (object)['nome' => 'No Data Selected', 'offset' => '0x6BD560', 'tiles' => '8x7'],
     (object)['nome' => 'Fire plus 30', 'offset' => '0x6E3600', 'tiles' => '8x7'],

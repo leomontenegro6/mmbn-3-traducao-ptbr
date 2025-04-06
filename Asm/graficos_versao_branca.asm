@@ -109,6 +109,24 @@
 .org 0x087E6A50
     .stringn "TROCA-CHIPS"
 
+; Tela de seleção de chips, entre turnos de batalhas.
+.org 0x086AFB68
+    .incbin "Graficos/Editados/Chip Select.gba"
+.org 0x086B0400
+    .incbin "Graficos/Editados/Add OK.gba"
+.org 0x086BD560
+    .incbin "Graficos/Editados/No Data Selected.gba"
+.org 0x086FFE80
+    .incbin "Graficos/Editados/No Data.gba"
+.org 0x086BC000
+    .incbin "Graficos/Editados/Chip Data Transmission.gba"
+.org 0x086B68E0
+    .incbin "Graficos/Editados/Additional Chip Data.gba"
+
+; Gráfico "Custom" e "L or R", durante as batalhas.
+.org 0x086AEC28
+    .incbin "Graficos/Editados/Custom L or R.gba"
+
 ; Telas após vencer batalhas contra vírus comuns.
 .org 0x086B2100
     .incbin "Graficos/Editados/Result Post Battle.gba"
