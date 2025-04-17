@@ -1,3 +1,7 @@
 - Editar o gráfico de "Sort", para modificar os nomes abaixo da janela, devido à tilemap super bagunçado (pedir help do denim possivelmente)
+- Editar gráficos de chips elementais, como "Fire", "Wood", "Elec", etc.
+- Editar gráficos de "Winner" / "Loser" / "Draw", em batalhas por cabo link
+- Editar gráfico de Game Over
 - Corrigir bug na fonte VWF das descrições, onde alguns chips em "Coleção" ficam bugados.
 - Corrigir bug na fonte VWF das descrições, onde alguns nomes deveriam aparecer à direita ao invés da esquerda.
+- Corrigir erro na fonte VWF, onde ela dá um erro na versão azul.
