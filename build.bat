@@ -1,6 +1,4 @@
 :: Arquivo .bat que remonta as roms traduzidas.
-::
-:: Escrito por Solid One - Outubro de 2023
 @echo off
 cls
 echo ==Mega Man Battle Network 3
@@ -35,7 +33,6 @@ echo ==Expandindo rom para 16mb==
 .\Ferramentas\armips.exe .\Asm\expansor_rom.asm -strequ output "Branca"
 
 echo Done.
-pause
 exit
 
 :blue
@@ -58,7 +55,6 @@ echo ==Expandindo rom para 16mb==
 .\Ferramentas\armips.exe .\Asm\expansor_rom.asm -strequ output "Azul"
 
 echo Done.
-pause
 exit
 
 :exit

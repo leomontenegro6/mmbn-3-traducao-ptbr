@@ -182,18 +182,27 @@
 			;coluna
 			ldr		r0, [r13]
 			
-			;a posição x precisa vir da ram, pois o jogo manipula as janelas
-			ldr		r2, =0x02007d88
-			ldrh	r2, [r2]
-			cmp		r2, 0
-			bne		@@movel
+			;byte que pode ser usado pra identicar a tela
+			ldr		r2, =0x02007cf0
+			ldrb	r2, [r2]
+			cmp		r2, DATA2
+			beq		@@movel
+			
 			add		r0, 0x12
 			ldr		r7, =0x0000b354		;prioridade 0
 			b		@@cc
 			
 		@@movel:
+			;a posição x precisa vir da ram, pois o jogo manipula as janelas
+			ldr		r2, =0x02007d88
+			ldrh	r2, [r2]
 			sub		r2, 0x24
 			add		r0, r2
+			
+			;número negativo
+			ldr		r2, =0x01ff
+			and		r0, r2
+			
 			ldr		r7, =0x0000bf54		;prioridade 3
 			
 		@@cc:

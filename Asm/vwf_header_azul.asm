@@ -20,3 +20,4 @@ PONTEIRO6		equ			0x087052f4
 PONTEIRO6a		equ			0x08707660
 
 DATA1			equ			0x976e
+DATA2			equ			0x3c
