@@ -2,8 +2,6 @@
 ; Branca. Funciona por pegar as informações de header específica de cada versão,
 ; e em seguida usar da lógica comum desse arquivo para inserir a VWF de acordo.
 ;
-; Escrito por denim - Novembro de 2023
-;
 .gba
 
 .open "Mega Man Battle Network 3 - Versao " + output + " (BR).gba", 0x08000000
@@ -101,10 +99,24 @@
 			;id do item sendo mostrado
 			ldr		r1, =0x020093d0
 			ldrh	r0, [r1, 4]
+			
+			;ponteiro base muda se o ID for maior que 100
+			cmp		r0, 0xff
+			ble		@@menoque100
+			
+			;ponteiro base alternativo
+			ldr		r1, =PONTEIRO6a
+			sub		r0, 0xff
+			sub		r0, 0x01
+			b		@@menoque100common
+			
+		@@menoque100:
 			;ponteiro base
 			ldr		r1, =PONTEIRO6
+		@@menoque100common:
 			lsl		r0, 1
 			add		r0, r1
+			
 			;offset
 			ldrh	r0, [r0]
 			add		r1, r0
@@ -169,12 +181,28 @@
 			
 			;coluna
 			ldr		r0, [r13]
+			
+			;a posição x precisa vir da ram, pois o jogo manipula as janelas
+			ldr		r2, =0x02007d88
+			ldrh	r2, [r2]
+			cmp		r2, 0
+			bne		@@movel
 			add		r0, 0x12
+			ldr		r7, =0x0000b354		;prioridade 0
+			b		@@cc
+			
+		@@movel:
+			sub		r2, 0x24
+			add		r0, r2
+			ldr		r7, =0x0000bf54		;prioridade 3
+			
+		@@cc:
 			lsl		r0, 16
 			add		r0, r1
 			
 			;ldr		r0, =0x00128060
-			ldr		r1, =0x0000b354
+			;ldr		r1, =0x0000bf54		;prioridade 3
+			mov		r1, r7
 			
 			;nchars
 			ldr		r7, [r13, 8]

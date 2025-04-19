@@ -16,6 +16,9 @@ if "%ERRORLEVEL%" == "3" GOTO exit
 
 GOTO %ERRORLEVEL%
 :white
+echo ==Unindo scripts .tpl avulsos no "script-white.tpl"
+php .\unir_scripts.php b
+
 echo ==Gerando rom traduzida da versao branca.
 .\Ferramentas\TextPet.exe run-script insert-white.tpl
 
@@ -36,6 +39,9 @@ pause
 exit
 
 :blue
+echo ==Unindo scripts .tpl avulsos no "script-blue.tpl"
+php .\unir_scripts.php a
+
 echo ==Gerando rom traduzida da versao azul.
 .\Ferramentas\TextPet.exe run-script insert-blue.tpl
 
