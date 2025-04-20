@@ -961,9 +961,9 @@ script 141 mmbn3 {
 		mugshot = BlueShirtBoy
 	msgOpen
 	"""
-	Hey,Lan! Good to see
-	you looking better!
-	Come back to school!
+	Oi, Lan! Bom ver que
+	cê tá melhor! Volta
+	logo pra escola!
 	"""
 	keyWait
 	end

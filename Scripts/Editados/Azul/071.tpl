@@ -5,30 +5,28 @@ script 0 mmbn3 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Lan,did you hear?
-	The kids in the
-	other class went
+	Lan, cê ficou sabendo?
+	A excursão do pessoal
+	da outra turma
 	"""
 	keyWait
 	clearMsg
 	"""
-	on a field trip
-	to an umbrella
-	factory.
+	foi pra uma fábrica de
+	guarda-chuvas.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I wish we could go
-	to a factory,too!
-	There's no way that
+	Poxa, queria que a nossa
+	também fosse pra uma
+	fábrica!
 	"""
 	keyWait
 	clearMsg
 	"""
-	we'd get away with
-	sneaking off to Net-
-	Battle here…
+	É impossível NetLutar
+	escondido aqui...
 	"""
 	keyWait
 	flagSet
@@ -40,21 +38,21 @@ script 1 mmbn3 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	Lan,you should pay
-	attention to this!
+	Lan, você devia prestar
+	atenção na explicação!
 	"""
 	keyWait
 	clearMsg
 	"""
-	The things we learn
-	may be on a test
-	later on!
+	Essas coisas podem
+	acabar caindo numa
+	prova depois.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Look how seriously
-	Yai is listening!
+	Olha como a Yai tá
+	focada no aprendizado!
 	"""
 	keyWait
 	flagSet
@@ -66,22 +64,22 @@ script 2 mmbn3 {
 		mugshot = Yai
 	msgOpen
 	"""
-	Mayl was saying that
-	we may have to write
-	a report about this!
+	A Mayl disse que a gente
+	pode ter que apresentar
+	um relatório disto depois!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I've got to pay
-	attention.
+	Então, tenho que prestar
+	atenção.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I may be smart,but
-	I'm not very good
-	at writing reports.
+	Eu posso ser genial,
+	mas relatórios são um
+	ponto fraco meu.
 	"""
 	keyWait
 	flagSet
@@ -93,16 +91,16 @@ script 3 mmbn3 {
 		mugshot = MsMari
 	msgOpen
 	"""
-	SciLab's virus
-	research devices are
-	the world's best!
+	O sistema de pesquisa
+	de vírus do SciLab é o
+	melhor do mundo inteiro!
 	"""
 	keyWait
 	clearMsg
 	"""
-	This is fascinating!
-	Be sure to pay
-	attention,now!
+	É tudo tão fascinante!
+	Trate de prestar
+	bastante atenção, viu?
 	"""
 	keyWait
 	flagSet
@@ -114,12 +112,12 @@ script 4 mmbn3 {
 		mugshot = BlueShirtBoy
 	msgOpen
 	"""
-	Your dad works here,
-	right?
+	O seu pai trabalha aqui,
+	né?
 	"""
 	keyWait
 	clearMsg
-	"That's so cool…!"
+	"Maneiro...!"
 	keyWait
 	flagSet
 		flag = 836
@@ -130,51 +128,49 @@ script 5 mmbn3 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	Tem corajoso. Muitos
-	perigos a salve seu amigo,
-	mas agora deve ir pra casa
+	Essas máquinas são bem
+	legais, mas nossos PETs
+	não ficam pra trás!
 	"""
 	keyWait
 	clearMsg
 	"""
-	They're so small,but
-	we can use them as a
-	phone,for e-mail,
+	Mesmo sendo tão peque-
+	nos, podemos usá-los pra
+	ligações, e-mails,
 	"""
 	keyWait
 	clearMsg
 	"""
-	as a textbook…
-	But I think that the
-	coolest thing
+	ler livros didáticos...
+	Mas, pra mim, a coisa
+	mais legal deles
 	"""
 	keyWait
 	clearMsg
 	"""
-	about them are the
-	Navis that can run
-	programs for us!
+	são os Navis, que podem
+	executar programas pra
+	gente!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Take mail,for
-	example. We just
-	open the menu,select
+	Por exemplo: e-mails.
+	É só abrir o menu,
+	selecionar "E-mail"
 	"""
 	keyWait
 	clearMsg
 	"""
-	"E-mail",and our
-	Navi opens the mail
-	screen for us!
+	e nossos Navis abrem a
+	tela de e-mail pra gente!
 	"""
 	keyWait
 	clearMsg
 	"""
-	The menu is opened
-	by pressing the
-	Start Button,right?
+	A gente acessa o menu
+	apertando "Start", sabe?
 	"""
 	keyWait
 	flagSet
@@ -188,91 +184,89 @@ script 6 mmbn3 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	Lan,do you know
-	about the Regular
-	System? It's a bit
+	Lan, você sabe sobre
+	o Sistema Padrão?
 	"""
 	keyWait
 	clearMsg
 	"""
-	tough to explain,but
-	it's a good thing to
-	know about!
+	É meio chato de explicar,
+	mas é bom entender ele!
 	"""
 	keyWait
 	clearMsg
 	"""
-	The Regular System
-	lets you choose one
-	chip as a "Regular
+	O Sistema Padrão nos
+	permite escolher um chip
+	como "Chip Padrão".
 	"""
 	keyWait
 	clearMsg
 	"""
-	Chip". That chip
-	will then always
-	appear in the
+	Um Chip Padrão é um
+	que sempre aparece
+	na Tela de Customização
 	"""
 	keyWait
 	clearMsg
 	"""
-	Custom Screen when
-	a battle starts!
+	no início das batalhas!
+	Sem precisar esperar!
 	"""
 	keyWait
 	clearMsg
 	"""
-	To set a Regular
-	Chip,open the Folder
-	Edit Screen and
+	Pra escolher um Chip
+	Padrão, abra a Tela
+	de Edição de Pastas
 	"""
 	keyWait
 	clearMsg
 	"""
-	choose a chip. Press
-	the Select Button,
-	and you're set!
+	e selecione um chip.
+	Aperte "Select" em cima
+	dele, e pronto!
 	"""
 	keyWait
 	clearMsg
 	"""
-	However,your PET has
-	a fixed capacity,and
-	chips larger than
+	Dito isso, o seu PET
+	tem uma capacidade fixa,
+	e chips acima dela
 	"""
 	keyWait
 	clearMsg
 	"""
-	that can't be set as
-	a RegularChip. To
-	check your capacity,
+	não podem ser usados
+	como Chips Padrão. Para
+	conferir sua capacidade,
 	"""
 	keyWait
 	clearMsg
 	"""
-	look at the number
-	to the right of your
-	folder name in the
+	veja o número à direita
+	do nome da sua pasta
 	"""
 	keyWait
 	clearMsg
 	"""
-	Folder Edit Screen.
-	That's the largest
-	size chip that fits.
+	na Tela de Edição de
+	Pastas. Esse é o tama-
+	nho máximo dos chips.
 	"""
 	keyWait
 	clearMsg
 	"""
-	You can increase the
-	capacity by using
-	Regular Up items.
+	Você pode aumentar
+	essa capacidade encon-
+	trando itens "RegUp".
 	"""
 	keyWait
 	clearMsg
 	"""
-	Aren't you glad I
-	told you all that?
+	E aí, não está grato
+	por eu ter te contado
+	tudo isso?
 	"""
 	keyWait
 	flagSet
@@ -284,22 +278,22 @@ script 7 mmbn3 {
 		mugshot = Girl
 	msgOpen
 	"""
-	I just know that
-	I'll forget all this
-	unless I take notes!
+	Eu me conheço, e sei
+	que vou esquecer tudo
+	se não anotar!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Let me see…
-	"You can talk to
-	your Navi by
+	Vejamos...
+	"Para falar com o seu
+	Navi,
 	"""
 	keyWait
 	clearMsg
 	"""
-	"pressing the PET's
-	L Button…"
+	é só apertar o botão
+	L do PET..."
 	"""
 	keyWait
 	flagSet
@@ -311,15 +305,14 @@ script 8 mmbn3 {
 		mugshot = Girl
 	msgOpen
 	"""
-	I've never fought a
-	virus outside of
-	school…
+	Eu nunca lutei contra
+	vírus fora da escola...
 	"""
 	keyWait
 	clearMsg
 	"""
-	I need to study all
-	of this a lot!
+	Preciso estudar isso tudo
+	até cair!
 	"""
 	keyWait
 	flagSet
@@ -330,7 +323,7 @@ script 9 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Lan! You got mail!!"
+	"Chegou e-mail!!"
 	keyWait
 	end
 }
@@ -345,9 +338,9 @@ script 11 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,where are you
-	going!? We'll get
-	in trouble!
+	Lan, aonde você pensa
+	que vai?! A gente vai
+	levar bronca!
 	"""
 	keyWait
 	end
@@ -362,9 +355,9 @@ script 20 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Another error…
-	Well,let me try
-	this sequence. Hmmm…
+	Outro erro... Bom, vou
+	tentar esta outra
+	sequência agora. Hmm...
 	"""
 	keyWait
 	end
@@ -379,9 +372,9 @@ script 21 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	NetBattlers use the
-	info we learn about
-	viruses here!
+	NetLutadores usam as
+	informações que reunimos
+	sobre vírus aqui!
 	"""
 	keyWait
 	end
@@ -396,16 +389,16 @@ script 22 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	In order to create
-	effective chips,we
-	must study viruses.
+	Para criar chips
+	eficazes, precisamos
+	estudar vírus.
 	"""
 	keyWait
 	clearMsg
 	"""
-	This research leads
-	to new discoveries,
-	so it's quite vital!
+	Essa pesquisa nos leva
+	a novas descobertas.
+	Logo, é vital, vital!
 	"""
 	keyWait
 	end
@@ -420,9 +413,9 @@ script 23 mmbn3 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	A TV producer was
-	looking for some boy
-	named Lan…
+	Um produtor de TV
+	estava atrás de um
+	menino chamado Lan...
 	"""
 	keyWait
 	end
@@ -432,9 +425,8 @@ script 30 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	My daughter should
-	be here with my
-	lunch soon!
+	A minha filha logo vai
+	trazer o meu almoço!
 	"""
 	keyWait
 	end
@@ -444,15 +436,14 @@ script 31 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Computer programs
-	are made up of 1s
-	and 0s! That's it!
+	Programas de
+	computador são feitos
+	de 1s e 0s! Só isso!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Pretty strange,
-	isn't it?
+	Tão estranho, não?
 	"""
 	keyWait
 	end
@@ -462,9 +453,9 @@ script 32 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	That's not it,
-	either! Now I have
-	to start all over!
+	Argh, também não é isso!
+	Agora, vou ter que
+	começar do zero!
 	"""
 	keyWait
 	end
@@ -474,9 +465,9 @@ script 40 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	I love that my
-	research helps my
-	fellow man!
+	É tão satisfatório saber
+	que minha pesquisa
+	ajuda o próximo!
 	"""
 	keyWait
 	end
@@ -486,9 +477,9 @@ script 41 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	My shoulders are so
-	stiff. I need to
-	take a break…
+	Os meus ombros estão
+	tão tensos. Preciso de
+	uma pausa...
 	"""
 	keyWait
 	end
@@ -498,8 +489,9 @@ script 42 mmbn3 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	We've been working
-	all night,recently.
+	Andamos trabalhando
+	até de madrugada,
+	ultimamente.
 	"""
 	keyWait
 	end
@@ -509,8 +501,8 @@ script 50 mmbn3 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	All of the staff
-	have gone to lunch.
+	Todo o pessoal saiu
+	pra almoçar.
 	"""
 	keyWait
 	end
@@ -520,16 +512,16 @@ script 60 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Someone must be
-	making the bubbles.
-	So,if we beat them…
+	Alguém deve estar fa-
+	zendo as bolhas. Se der-
+	rubarmos esse alguém...
 	"""
 	keyWait
 	clearMsg
 	"""
-	No! That might
-	endanger the lives
-	of those inside!
+	Não! Isso poderia
+	arriscar as vidas dos
+	que ainda estão nelas!
 	"""
 	keyWait
 	end
@@ -539,9 +531,9 @@ script 61 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Don't talk to me!
-	I'm writing programs
-	to destroy bubbles!
+	Não fale comigo!
+	Estou criando programas
+	pra destruir bolhas!
 	"""
 	keyWait
 	end
@@ -555,9 +547,8 @@ script 62 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	I can't seem to get
-	through the bubbles'
-	protection!
+	Ngh, não consigo quebrar
+	a proteção das bolhas!
 	"""
 	keyWait
 	end
@@ -567,16 +558,16 @@ script 65 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Compress a Navi?
-	Theoretically it's
-	possible,I guess…
+	Comprimir um Navi?
+	Bom, teoricamente, é
+	possível, eu acho...
 	"""
 	keyWait
 	clearMsg
 	"""
-	But our programs
-	can't handle such a
-	huge amount of data!
+	Mas nossos programas
+	não são capazes de lidar
+	com tantos dados assim!
 	"""
 	keyWait
 	end
@@ -586,16 +577,15 @@ script 70 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	I heard that an
-	Official Battler
-	stopped the bubbles!
+	Ouvi dizer que um
+	NetLutador Oficial parou
+	as bolhas!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I also heard that
-	he's just a kid in
-	elementary school!
+	E parece que ele é só
+	um aluno do fundamental!
 	"""
 	keyWait
 	end
@@ -605,9 +595,9 @@ script 71 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	We weren't much of a
-	help,but at least
-	it's all over now!
+	Acabou que nós não
+	ajudamos muito, mas,
+	pelo menos, acabou!
 	"""
 	keyWait
 	end
@@ -617,16 +607,15 @@ script 72 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	First the zoo,and
-	now another Net
-	Crime!
+	Primeiro, o zoológico,
+	e agora, outro NetCrime!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I can't believe that
-	the WWW is the group
-	behind all of this!
+	Não acredito que é a
+	WWW o grupo por trás 
+	disso tudo!
 	"""
 	keyWait
 	end
@@ -641,16 +630,16 @@ script 80 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	You're Lan,the lad
-	who will be in the
-	N1,correct?
+	Você é Lan, o rapazinho
+	que vai competir no
+	Grande Prêmio N1, não?
 	"""
 	keyWait
 	clearMsg
 	"""
-	We are all happy to
-	see that Dr.Hikari's
-	son is doing well!
+	Estamos todos muito fe-
+	lizes de ver que o filho
+	do Dr. Hikari está bem!
 	"""
 	keyWait
 	end
@@ -665,16 +654,15 @@ script 81 mmbn3 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	I'm cleaning the
-	machines. These
-	scientists are so
+	Estou limpando as
+	máquinas. Os cientistas
+	aqui são tão sensíveis
 	"""
 	keyWait
 	clearMsg
 	"""
-	touchy about their
-	equipment! I have to
-	polish everything!
+	quanto à aparelhagem
+	deles! Preciso polir tudo!
 	"""
 	keyWait
 	end
@@ -684,9 +672,9 @@ script 90 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	I wish that I could
-	go see the N1,but
-	I'm stuck at work!
+	Queria poder ir ver o N1,
+	mas estou preso no
+	trabalho!
 	"""
 	keyWait
 	end
@@ -696,9 +684,8 @@ script 91 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Shhh! I'm secretly
-	listening to the N1
-	on the radio!
+	Shhh! Estou ouvindo o
+	N1 no rádio, em segredo!
 	"""
 	keyWait
 	end
@@ -708,16 +695,15 @@ script 92 mmbn3 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Even if the N1 is
-	on,we still have a
-	schedule to keep!
+	Com ou sem o N1, ainda
+	temos prazos a cumprir!
 	"""
 	keyWait
 	clearMsg
 	"""
-	It's important that
-	scientists stick to
-	their priorities!
+	É importante que
+	cientistas se atenham
+	às suas prioridades!
 	"""
 	keyWait
 	end
@@ -727,29 +713,29 @@ script 100 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	As they say,"Fight
-	fire with fire"!
+	É como dizem:
+	"Enfrentar fogo com
+	fogo"!
 	"""
 	keyWait
 	clearMsg
 	"""
-	We are currently
-	researching how to
-	use good viruses to
+	Estamos pesquisando
+	como usar vírus bons
+	para deletar vírus maus!
 	"""
 	keyWait
 	clearMsg
 	"""
-	delete bad viruses!
-	Quite revolutionary,
-	wouldn't you say?
+	Bem revolucionário,
+	não acha?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Our research will be
-	finished soon! I'll
-	show it to you then!
+	Nossa pesquisa logo
+	será finalizada!
+	Aí, eu te mostro!
 	"""
 	keyWait
 	end
@@ -759,22 +745,22 @@ script 101 mmbn3 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	By definition,
-	viruses are harmful
-	to people and Navis…
+	Por definição, vírus são
+	nocivos a pessoas e
+	Navis...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Aside from that,
-	however,they are not
-	unlike Navis!
+	Porém, fora isso, eles
+	não são muitos
+	diferentes de Navis!
 	"""
 	keyWait
 	clearMsg
 	"""
-	After all,they are
-	both just programs!
+	Afinal de contas, ambos
+	são só programas!
 	"""
 	keyWait
 	end
@@ -784,36 +770,35 @@ script 102 mmbn3 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Can we make viruses
-	fight for us? The
-	answer is yes!
+	Podemos fazer vírus
+	lutarem por nós?
+	A resposta é "sim"!
 	"""
 	keyWait
 	clearMsg
 	"""
-	While it doesn't
-	happen often,when a
-	virus is deleted
+	Pode não acontecer
+	com muita frequência,
+	mas, quando um vírus
 	"""
 	keyWait
 	clearMsg
 	"""
-	it will sometimes
-	leave behind only
-	its beneficial part.
+	é deletado, às vezes,
+	ele só deixa pra trás
+	sua parte benéfica.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I hear that,already,
-	there are those in
-	the Undernet who are
+	Ouvi falar que já tem
+	gente na Undernet que
+	vem domesticando vírus
 	"""
 	keyWait
 	clearMsg
 	"""
-	raising viruses to
-	fit their own needs!
+	pra seguir comandos!
 	"""
 	keyWait
 	end
@@ -823,16 +808,16 @@ script 110 mmbn3 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	I'm sorry to ask you
-	this right after the
-	ceremony!
+	Desculpe por pedir isso
+	de você logo após a
+	cerimônia!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Please use this port
-	to jack in! That
-	should be fastest…
+	Por favor, use esta
+	entrada e se conecte!
+	Será mais rápido...
 	"""
 	keyWait
 	end
@@ -842,8 +827,8 @@ script 111 mmbn3 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	How could the WWW
-	appear here…?
+	Como pôde a WWW
+	aparecer aqui...?
 	"""
 	keyWait
 	end
@@ -853,15 +838,16 @@ script 112 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	We've been taken
-	completely off
-	guard!
+	Fomos pegos com a
+	guarda completamente
+	baixa!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Lan! Please help us
-	stop these fiends!
+	Lan! Por favor,
+	ajude-nos a deter
+	esses patifes!
 	"""
 	keyWait
 	end
@@ -871,9 +857,9 @@ script 116 mmbn3 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Thank you! Things
-	seem to have calmed
-	a bit now…
+	Obrigado! Agora, as
+	coisas parecem ter se
+	acalmado um pouco...
 	"""
 	keyWait
 	end
@@ -883,9 +869,9 @@ script 117 mmbn3 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	I just don't
-	understand! What's
-	the purpose of this?
+	Eu não entendo!
+	Qual foi o propósito
+	disso?
 	"""
 	keyWait
 	end
@@ -895,9 +881,9 @@ script 118 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	And now yet another
-	meeting… The WWW is
-	sure making us busy!
+	E mais uma reunião
+	agora... A WWW está nos
+	deixando bem ocupados!
 	"""
 	keyWait
 	end
@@ -916,16 +902,16 @@ script 120 mmbn3 {
 	mugshotShow
 		mugshot = MrMatch
 	msgOpen
-	"There you are,Lan!"
+	"Aí está você, Lan!"
 	keyWait
 	clearMsg
 	"""
-	Well,let's get right
-	to work…
+	OK, vamos direto ao
+	trabalho...
 	"""
 	keyWait
 	clearMsg
-	"First,"
+	"Primeiro"
 	waitSkip
 		frames = 30
 	"."
@@ -938,9 +924,9 @@ script 120 mmbn3 {
 	waitSkip
 		frames = 30
 	"""
-	 take
-	this to the Program
-	in SciLab 1.
+	 leve isto
+	para o Programa na
+	área SciLab 1.
 	"""
 	keyWait
 	clearMsg
@@ -952,7 +938,7 @@ script 120 mmbn3 {
 		item = 24
 		amount = 1
 	"""
-	Lan got:
+	Lan adquiriu:
 	"
 	"""
 	printItem
@@ -985,16 +971,16 @@ script 122 mmbn3 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	It looks like the
-	boy in the hospital
-	is recovering!
+	Parece que o menino
+	do hospital está se
+	recuperando!
 	"""
 	keyWait
 	clearMsg
 	"""
-	He was saying that
-	he wants to see you.
-	Please go visit him!
+	Ele disse que queria te
+	ver.
+	Por favor, vá visitá-lo!
 	"""
 	keyWait
 	end
@@ -1014,9 +1000,8 @@ script 123 mmbn3 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	Don't make your dad
-	worry about you too
-	much,now,you hear?
+	Não preocupe demais o
+	seu pai, tá bom?
 	"""
 	keyWait
 	end
@@ -1036,14 +1021,14 @@ script 124 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	What could the
-	WWW want…?
+	Mas o que a mundo WWW
+	poderia querer...?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Why would they
-	attack a hospital…?
+	Por que atacariam um
+	hospital...?
 	"""
 	keyWait
 	end
@@ -1053,13 +1038,12 @@ script 125 mmbn3 {
 		mugshot = MrMatch
 	msgOpen
 	"""
-	Take that data to
-	the Program in
-	SciLab 1!
+	Leve esses dados pro
+	Programa no SciLab 1!
 	"""
 	keyWait
 	clearMsg
-	"Hurry up!"
+	"Agora! Vai!"
 	keyWait
 	end
 }
@@ -1068,16 +1052,16 @@ script 126 mmbn3 {
 		mugshot = Dad
 	msgOpen
 	"""
-	A skilled programmer
-	with blonde hair,
-	glasses,and a beard?
+	Um programador
+	habilidoso louro, de
+	óculos e barba?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Hmm,I don't know
-	anyone who fits that
-	description…
+	Hmm, não conheço
+	ninguém com essas
+	características...
 	"""
 	keyWait
 	clearMsg
@@ -1091,8 +1075,8 @@ script 126 mmbn3 {
 	waitSkip
 		frames = 30
 	"""
-	Wait!
-	You can't mean
+	 Espera!
+	Poderia mesmo ser
 	"""
 	waitSkip
 		frames = 30
@@ -1105,19 +1089,20 @@ script 126 mmbn3 {
 	"."
 	waitSkip
 		frames = 30
-	"\nNo,it couldn't be…"
+	"\nNão, impossível..."
 	keyWait
 	clearMsg
 	"""
-	You get on home now,
-	Lan. I have a big
-	meeting to go to.
+	Vai pra casa, Lan.
+	Eu tenho uma reunião
+	importante, agora.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Try to stay out
-	of trouble,OK?
+	Se cuide pra não se
+	meter em nenhuma outra
+	loucura, OK?
 	"""
 	keyWait
 	end
@@ -1140,9 +1125,9 @@ script 131 mmbn3 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Lan,go see your
-	father. I'll talk to
-	you after that.
+	Lan, vá falar com o seu
+	pai.
+	Depois, conversamos.
 	"""
 	keyWait
 	end
@@ -1152,16 +1137,16 @@ script 132 mmbn3 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	ProtoMan and I will
-	continue our
-	investigation.
+	O ProtoMan e eu
+	continuaremos com
+	nossa investigação.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'll contact you if
-	there's any further
-	developments…
+	Eu te informo se
+	fizermos alguma outra
+	descoberta...
 	"""
 	keyWait
 	end
@@ -1172,34 +1157,33 @@ script 134 mmbn3 {
 	mugshotShow
 		mugshot = SciLabMan
 	msgOpen
-	"Welcome to our lab!"
+	"Bem-vindo ao laboratório!"
 	keyWait
 	clearMsg
 	"""
-	This here is our
-	latest invention,
-	the "Virus Breeder"!
-	"""
-	keyWait
-	clearMsg
-	"""
-	The viruses you send
-	us are put in there,
-	and raised.
+	Esta é a nossa mais
+	nova invenção, o
+	"Doma-Vírus"!
 	"""
 	keyWait
 	clearMsg
 	"""
-	We will monitor the
-	viruses constantly
-	to study them.
+	Os vírus que você nos
+	envia são colocados e
+	criados aqui.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Would you like to
-	hear more about the
-	breeder?
+	Monitoraremos os vírus
+	constantemente, para
+	estudá-los.
+	"""
+	keyWait
+	clearMsg
+	"""
+	Gostaria de ouvir mais
+	sobre o Doma-Vírus?
 	"""
 	keyWait
 	clearMsg
@@ -1211,7 +1195,7 @@ script 134 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Please\n"
+	"   Por favor\n"
 	option
 		left = 0
 		right = 0
@@ -1219,7 +1203,7 @@ script 134 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"No,thanks"
+	"          Não"
 	select
 		default = 0
 		BSeparate = false
@@ -1230,26 +1214,27 @@ script 134 mmbn3 {
 			jump = continue,
 			jump = continue
 		]
+	clearMsg
 	mugshotShow
 		mugshot = SciLabMan
 	"""
-	I see. Well,I'll
-	tell you more at
-	another time,then.
+	Entendo. Tudo bem,
+	posso explicar uma
+	outra hora.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Come back after you
-	have sent us a new
-	virus to study.
+	Volte aqui após nos
+	mandar um novo vírus
+	para ser estudado.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'm sure that our
-	research will be of
-	aid to you!
+	Estou certo de que a
+	nossa pesquisa será de
+	muita ajuda a você!
 	"""
 	keyWait
 	end
@@ -1259,9 +1244,9 @@ script 135 mmbn3 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Well then,let me
-	tell you about the
-	types of viruses.
+	Certo. Então, vou te
+	contar sobre os diferen-
+	tes tipos de vírus.
 	"""
 	keyWait
 	clearMsg
@@ -1279,7 +1264,7 @@ script 136 mmbn3 {
 	printEnemyName
 		buffer = 0
 		enemy = 1
-	"…"
+	"..."
 	keyWait
 	clearMsg
 	checkFlag
@@ -1287,21 +1272,21 @@ script 136 mmbn3 {
 		jumpIfTrue = 137
 		jumpIfFalse = continue
 	"""
-	We've developed a
-	new chip as a result
-	of our research!
+	Desenvolvemos um novo
+	chip como resultado das
+	nossas pesquisas!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Use this chip in
-	battle to call a
+	Se usá-lo em batalha,
+	poderá chamar um
 	
 	"""
 	printEnemyName
 		buffer = 0
 		enemy = 1
-	" from here!"
+	" daqui!"
 	keyWait
 	clearMsg
 	itemGiveChip
@@ -1322,8 +1307,8 @@ script 136 mmbn3 {
 	playerAnimate
 		animation = 24
 	"""
-	Lan got a VirusChip
-	for
+	Lan adquiriu o
+	ChipVírus
 	"
 	"""
 	printChip
@@ -1353,7 +1338,7 @@ script 137 mmbn3 {
 	printEnemyName
 		buffer = 0
 		enemy = 37
-	"…"
+	"..."
 	keyWait
 	clearMsg
 	checkFlag
@@ -1361,21 +1346,21 @@ script 137 mmbn3 {
 		jumpIfTrue = 138
 		jumpIfFalse = continue
 	"""
-	We've developed a
-	new chip as a result
-	of our research!
+	Desenvolvemos um novo
+	chip como resultado das
+	nossas pesquisas!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Use this chip in
-	battle to call a
+	Se usá-lo em batalha,
+	poderá chamar um
 	
 	"""
 	printEnemyName
 		buffer = 0
 		enemy = 37
-	" from here!"
+	" daqui!"
 	keyWait
 	clearMsg
 	itemGiveChip
@@ -1396,8 +1381,8 @@ script 137 mmbn3 {
 	playerAnimate
 		animation = 24
 	"""
-	Lan got a VirusChip
-	for
+	Lan adquiriu o
+	ChipVírus
 	"
 	"""
 	printChip
@@ -1427,7 +1412,7 @@ script 138 mmbn3 {
 	printEnemyName
 		buffer = 0
 		enemy = 13
-	"…"
+	"..."
 	keyWait
 	clearMsg
 	checkFlag
@@ -1435,21 +1420,21 @@ script 138 mmbn3 {
 		jumpIfTrue = 139
 		jumpIfFalse = continue
 	"""
-	We've developed a
-	new chip as a result
-	of our research!
+	Desenvolvemos um novo
+	chip como resultado das
+	nossas pesquisas!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Use this chip in
-	battle to call a
+	Se usá-lo em batalha,
+	poderá chamar um
 	
 	"""
 	printEnemyName
 		buffer = 0
 		enemy = 13
-	" from here!"
+	" daqui!"
 	keyWait
 	clearMsg
 	itemGiveChip
@@ -1470,8 +1455,8 @@ script 138 mmbn3 {
 	playerAnimate
 		animation = 24
 	"""
-	Lan got a VirusChip
-	for
+	Lan adquiriu o
+	ChipVírus
 	"
 	"""
 	printChip
@@ -1501,7 +1486,7 @@ script 139 mmbn3 {
 	printEnemyName
 		buffer = 0
 		enemy = 33
-	"…"
+	"..."
 	keyWait
 	clearMsg
 	checkFlag
@@ -1509,21 +1494,21 @@ script 139 mmbn3 {
 		jumpIfTrue = 140
 		jumpIfFalse = continue
 	"""
-	We've developed a
-	new chip as a result
-	of our research!
+	Desenvolvemos um novo
+	chip como resultado das
+	nossas pesquisas!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Use this chip in
-	battle to call a
+	Se usá-lo em batalha,
+	poderá chamar um
 	
 	"""
 	printEnemyName
 		buffer = 0
 		enemy = 33
-	" from here!"
+	" daqui!"
 	keyWait
 	clearMsg
 	itemGiveChip
@@ -1544,8 +1529,8 @@ script 139 mmbn3 {
 	playerAnimate
 		animation = 24
 	"""
-	Lan got a VirusChip
-	for
+	Lan adquiriu o
+	ChipVírus
 	"
 	"""
 	printChip
@@ -1575,7 +1560,7 @@ script 140 mmbn3 {
 	printEnemyName
 		buffer = 0
 		enemy = 49
-	"…"
+	"..."
 	keyWait
 	clearMsg
 	checkFlag
@@ -1583,21 +1568,21 @@ script 140 mmbn3 {
 		jumpIfTrue = 141
 		jumpIfFalse = continue
 	"""
-	We've developed a
-	new chip as a result
-	of our research!
+	Desenvolvemos um novo
+	chip como resultado das
+	nossas pesquisas!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Use this chip in
-	battle to call a
+	Se usá-lo em batalha,
+	poderá chamar um
 	
 	"""
 	printEnemyName
 		buffer = 0
 		enemy = 49
-	" from here!"
+	" daqui!"
 	keyWait
 	clearMsg
 	itemGiveChip
@@ -1618,8 +1603,8 @@ script 140 mmbn3 {
 	playerAnimate
 		animation = 24
 	"""
-	Lan got a VirusChip
-	for
+	Lan adquiriu o
+	ChipVírus
 	"
 	"""
 	printChip
@@ -1649,7 +1634,7 @@ script 141 mmbn3 {
 	printEnemyName
 		buffer = 0
 		enemy = 25
-	"…"
+	"..."
 	keyWait
 	clearMsg
 	checkFlag
@@ -1657,21 +1642,21 @@ script 141 mmbn3 {
 		jumpIfTrue = 142
 		jumpIfFalse = continue
 	"""
-	We've developed a
-	new chip as a result
-	of our research!
+	Desenvolvemos um novo
+	chip como resultado das
+	nossas pesquisas!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Use this chip in
-	battle to call a
+	Se usá-lo em batalha,
+	poderá chamar um
 	
 	"""
 	printEnemyName
 		buffer = 0
 		enemy = 25
-	" from here!"
+	" daqui!"
 	keyWait
 	clearMsg
 	itemGiveChip
@@ -1692,8 +1677,8 @@ script 141 mmbn3 {
 	playerAnimate
 		animation = 24
 	"""
-	Lan got a VirusChip
-	for
+	Lan adquiriu o
+	ChipVírus
 	"
 	"""
 	printChip
@@ -1723,7 +1708,7 @@ script 142 mmbn3 {
 	printEnemyName
 		buffer = 0
 		enemy = 87
-	"…"
+	"..."
 	keyWait
 	clearMsg
 	checkFlag
@@ -1731,21 +1716,21 @@ script 142 mmbn3 {
 		jumpIfTrue = 143
 		jumpIfFalse = continue
 	"""
-	We've developed a
-	new chip as a result
-	of our research!
+	Desenvolvemos um novo
+	chip como resultado das
+	nossas pesquisas!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Use this chip in
-	battle to call a
+	Se usá-lo em batalha,
+	poderá chamar um
 	
 	"""
 	printEnemyName
 		buffer = 0
 		enemy = 87
-	" from here!"
+	" daqui!"
 	keyWait
 	clearMsg
 	itemGiveChip
@@ -1766,8 +1751,8 @@ script 142 mmbn3 {
 	playerAnimate
 		animation = 24
 	"""
-	Lan got a VirusChip
-	for
+	Lan adquiriu o
+	ChipVírus
 	"
 	"""
 	printChip
@@ -1797,7 +1782,7 @@ script 143 mmbn3 {
 	printEnemyName
 		buffer = 0
 		enemy = 91
-	"…"
+	"..."
 	keyWait
 	clearMsg
 	checkFlag
@@ -1805,21 +1790,21 @@ script 143 mmbn3 {
 		jumpIfTrue = 144
 		jumpIfFalse = continue
 	"""
-	We've developed a
-	new chip as a result
-	of our research!
+	Desenvolvemos um novo
+	chip como resultado das
+	nossas pesquisas!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Use this chip in
-	battle to call a
+	Se usá-lo em batalha,
+	poderá chamar um
 	
 	"""
 	printEnemyName
 		buffer = 0
 		enemy = 91
-	" from here!"
+	" daqui!"
 	keyWait
 	clearMsg
 	itemGiveChip
@@ -1840,8 +1825,8 @@ script 143 mmbn3 {
 	playerAnimate
 		animation = 24
 	"""
-	Lan got a VirusChip
-	for
+	Lan adquiriu o
+	ChipVírus
 	"
 	"""
 	printChip
@@ -1872,8 +1857,8 @@ script 144 mmbn3 {
 		buffer = 0
 		enemy = 73
 	"""
-	…
-	Sounds misterious
+	...
+	Parece misterioso.
 	"""
 	keyWait
 	clearMsg
@@ -1882,21 +1867,21 @@ script 144 mmbn3 {
 		jumpIfTrue = 145
 		jumpIfFalse = continue
 	"""
-	We've developed a
-	new chip as a result
-	of our research!
+	Desenvolvemos um novo
+	chip como resultado das
+	nossas pesquisas!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Use this chip in
-	battle to call a
+	Se usá-lo em batalha,
+	poderá chamar um
 	
 	"""
 	printEnemyName
 		buffer = 0
 		enemy = 73
-	" from here!"
+	" daqui!"
 	keyWait
 	clearMsg
 	itemGiveChip
@@ -1917,8 +1902,8 @@ script 144 mmbn3 {
 	playerAnimate
 		animation = 24
 	"""
-	Lan got a VirusChip
-	for
+	Lan adquiriu o
+	ChipVírus
 	"
 	"""
 	printChip
@@ -1977,7 +1962,7 @@ script 145 mmbn3 {
 	mugshotShow
 		mugshot = SciLabMan
 	msgOpen
-	"Let's see."
+	"Vejamos."
 	waitSkip
 		frames = 20
 	"."
@@ -1989,16 +1974,15 @@ script 145 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Oh! But you haven't
-	caught any viruses
-	yet!
+	Ah! Mas você ainda não
+	pegou nenhum vírus!
 	"""
 	keyWait
 	clearMsg
 	"""
-	The breeder is
-	always operating,so
-	send them any time!
+	O Doma-Vírus está sem-
+	pre operacional, então,
+	mande-os quando quiser!
 	"""
 	keyWait
 	end
@@ -2007,20 +1991,19 @@ script 146 mmbn3 {
 	mugshotShow
 		mugshot = SciLabMan
 	msgOpen
-	"And that's all…"
+	"E foram todos..."
 	keyWait
 	clearMsg
 	"""
-	Please come to feed
-	the viruses some
-	time!
+	Por favor, venha
+	alimentar os vírus,
+	de vez em quando!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'm sure that the
-	viruses would love
-	to meet you!
+	Com certeza os vírus
+	adorariam te ver!
 	"""
 	keyWait
 	end
@@ -2030,71 +2013,71 @@ script 160 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	It's finally
-	complete!
+	Finalmente, está
+	terminado!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Our amazing device
-	to delete viruses
-	with viruses!
+	Nosso incrível dispositivo
+	para deletar vírus...
+	usando vírus!
 	"""
 	keyWait
 	clearMsg
 	"""
-	We used to put
-	viruses in capsules
-	for use as bombs,
+	Costuvámamos enfiar
+	vírus em cápsulas para
+	usá-los como bombas,
 	"""
 	keyWait
 	clearMsg
 	"""
-	just like the ones
-	criminals use to
-	commit crimes.
+	como as que criminosos
+	usam pra cometer seus
+	crimes.
 	"""
 	keyWait
 	clearMsg
 	"""
-	But this device is
-	a totally different
-	way of using them!
+	Mas este sistema é uma
+	forma totalmente
+	diferente de usá-los!
 	"""
 	keyWait
 	clearMsg
 	"""
-	It allows us to
-	make viruses fight
-	alongside us!
+	Ele nos permite fazer
+	vírus lutarem ao nosso
+	lado!
 	"""
 	keyWait
 	clearMsg
 	"""
-	They can now be
-	raised like pets,and
-	made to battle!
+	Agora, eles podem ser
+	criados, como pets, e
+	lutar como aliados!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Lan,I'd like you to
-	make use of this
-	new system!
+	Lan, gostaria que você
+	usasse este novo
+	sistema!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Please feel free to
-	ask the man next to
-	the Breeder about
+	Por favor, fique à
+	vontade pra perguntar
+	pro homem ao lado do
 	"""
 	keyWait
 	clearMsg
 	"""
-	our research and
-	the condition of
-	the viruses.
+	Doma-Vírus sobre
+	nossa pesquisa e a
+	condição dos vírus.
 	"""
 	keyWait
 	end
@@ -2104,57 +2087,56 @@ script 161 mmbn3 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	Unfortunately,this
-	device alone is of
-	no use to us.
+	Infelizmente, este
+	dispositivo, somente,
+	é inútil para nós.
 	"""
 	keyWait
 	clearMsg
 	"""
-	We must first obtain
-	viruses to place in
-	it and raise.
+	Primeiro, temos que
+	obter vírus para inserir
+	nele e criá-los.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Also,only viruses
-	that bear no ill
-	will towards us
+	Além do quê, só vírus
+	que não tiverem nada
+	contra nós podem ser
 	"""
 	keyWait
 	clearMsg
 	"""
-	may be raised in the
-	machine,and those
-	are rare indeed!
+	domados na máquina,
+	e esses vírus são
+	bem raros!
 	"""
 	keyWait
 	clearMsg
 	"""
-	First,you must find
-	these benevolent
-	viruses.
+	Antes de mais nada,
+	você deve achar esses
+	vírus benevolentes.
 	"""
 	keyWait
 	clearMsg
 	"""
-	If you can do that
-	for us,we will study
-	them here,
+	Se fizer isso pra nós,
+	nós os estudaremos aqui
 	"""
 	keyWait
 	clearMsg
 	"""
-	and put them into
-	chip data format to
-	give to you!
+	e os converteremos em
+	formato de chip e o
+	daremos a você!
 	"""
 	keyWait
 	clearMsg
 	"""
-	We wish you luck
-	in your efforts!
+	Desejamos a você
+	sorte na empreitada!
 	"""
 	keyWait
 	end
@@ -2164,16 +2146,16 @@ script 170 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	This is horrible! We
-	cannot allow the WWW
-	to obtain Alpha!
+	Que horror!
+	Não poedmos deixar a
+	WWW obter o Alpha!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Please help us to
-	foil the WWW's
-	evil schemes!
+	Por favor, ajude-nos a
+	frustrar o plano maligno
+	da WWW!
 	"""
 	keyWait
 	end
@@ -2183,16 +2165,16 @@ script 171 mmbn3 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	The Navi that stole
-	Alpha opened a warp
-	and disappeared!
+	O Navi que roubou o
+	Alpha abriu um portal e
+	desapareceu!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Perhaps by entering
-	the warp someone
-	could follow it!
+	Talvez alguém possa
+	segui-lo se entrar pelo
+	portal!
 	"""
 	keyWait
 	end
@@ -2212,16 +2194,15 @@ script 175 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	The meeting about
-	the WWW is upstairs
-	in Hikari's lab.
+	A reunião sobre a WWW
+	está para começar no
+	laboratório do Hikari.
 	"""
 	keyWait
 	clearMsg
 	"""
-	They'll be starting
-	soon! You'd better
-	hurry!
+	Não vai demorar!
+	Sugiro que se apresse!
 	"""
 	keyWait
 	end
@@ -2231,23 +2212,23 @@ script 180 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Unmanned tanks
-	running wild? But
-	how could their
+	Tanques não pilotados,
+	fora de controle? Mas
+	como pôde a segurança
 	"""
 	keyWait
 	clearMsg
 	"""
-	security have been
-	breached!? If a
-	virus is behind it,
+	deles ser violada?
+	Se for um vírus por trás
+	disso, é um vírus bem
 	"""
 	keyWait
 	clearMsg
 	"""
-	it must be a very
-	powerful one,so
-	please be careful!
+	poderoso, então, por
+	favor, tome muito
+	cuidado!
 	"""
 	keyWait
 	end
@@ -2257,16 +2238,16 @@ script 185 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Military weapons
-	around the world are
-	going berserk!?
+	Armas militares estão
+	saindo de controle ao
+	redor do mundo?!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Does this mean that
-	the WWW has really
-	decoded Alpha!?
+	Isso quer dizer que a
+	WWW realmente
+	decodificou o Alpha?!
 	"""
 	keyWait
 	end
@@ -2292,64 +2273,62 @@ script 190 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	I'm glad you came!
-	Yes,I posted on
-	the Job BBS.
+	Que bom que veio!
+	Sim, fui eu quem postou
+	no Fórum de Missões.
 	"""
 	keyWait
 	clearMsg
 	"""
-	You see,I have this
-	little problem…
+	Então, eu tô com um
+	probleminha...
 	"""
 	keyWait
 	clearMsg
 	"""
-	I've mistakenly sent
-	some virus data to
-	the wrong place.
+	Eu, sem querer, mandei
+	uns dados de vírus pro
+	lugar errado.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'm hoping that you
-	could find that data
-	and delete it.
+	Estava esperando que
+	você pudesse achar os
+	dados e deletá-los.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I know approximately
-	where the data was
-	sent.
+	Eu tenho a localização
+	aproximada de aonde os
+	dados foram enviados.
 	"""
 	keyWait
 	clearMsg
 	"""
-	It should be in one
-	of the educational
-	devices at the zoo.
+	Devem estar em um dos
+	computadores educativos
+	do zoológico.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'm sure that the
-	virus data must be
-	causing problems!
+	Estou certo de que os
+	dados de vírus estão
+	causando problemas!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Please find the
-	malfunctioning
-	device.
+	Por favor, encontre o
+	o dispositivo defeituoso.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Then,delete the
-	virus that is inside
-	of it!
+	Daí, delete o vírus
+	dentro dele!
 	"""
 	keyWait
 	end
@@ -2359,15 +2338,15 @@ script 191 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	The virus is in one
-	of the zoo's
-	educational devices.
+	O vírus está em um dos
+	computadores
+	educativos do zoológico.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Please find it,
-	and delete it!
+	Por favor, encontre-o
+	e delete-o!
 	"""
 	keyWait
 	end
@@ -2377,20 +2356,20 @@ script 192 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	You've deleted the
-	virus for me!
+	Você deletou o vírus
+	pra mim!
 	"""
 	keyWait
 	clearMsg
 	"""
-	You really helped
-	me out!
+	Nossa, você salvou a
+	minha vida, rapaz!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Please take this as
-	a reward!
+	Por favor, aceite esta
+	recompensa!
 	"""
 	keyWait
 	clearMsg
@@ -2411,7 +2390,7 @@ script 193 mmbn3 {
 	playerAnimate
 		animation = 24
 	"""
-	Lan got a PowerUp:
+	Lan adquiriu um PowerUp:
 	"
 	"""
 	printItem
@@ -2429,9 +2408,9 @@ script 194 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	I guess I need to be
-	more careful when I
-	send virus data!
+	Tenho que tomar mais
+	cuidado quando for
+	enviar dados de vírus!
 	"""
 	keyWait
 	end
@@ -2444,16 +2423,16 @@ script 220 mmbn3 {
 		jumpIfOutOfRange = continue
 	msgOpen
 	"""
-	These computers work
-	day and night on
-	virus research
+	Estes computadores
+	operam dia e noite,
+	pesquisando vírus.
 	"""
 	keyWait
 	clearMsg
 	"""
-	The port for jacking
-	in is always kept in
-	top condition
+	A entrada de conexão
+	é sempre mantida em
+	excelente condição.
 	"""
 	keyWait
 	end
@@ -2466,16 +2445,16 @@ script 221 mmbn3 {
 		jumpIfOutOfRange = continue
 	msgOpen
 	"""
-	The control panel
-	is covered with
-	blinking lights
+	O painel de controle é
+	coberto de luzes que
+	piscam.
 	"""
 	keyWait
 	clearMsg
 	"""
-	The port for jacking
-	in allows access at
-	any time
+	A entrada para conexão
+	permite acesso a
+	qualquer hora.
 	"""
 	keyWait
 	end
@@ -2483,9 +2462,9 @@ script 221 mmbn3 {
 script 222 mmbn3 {
 	msgOpen
 	"""
-	A virus breeding
-	system. A port
-	allows jacking in
+	Um sistema de criação de
+	vírus. Tem uma entrada
+	para conectar.
 	"""
 	keyWait
 	end
@@ -2493,16 +2472,16 @@ script 222 mmbn3 {
 script 230 mmbn3 {
 	msgOpen
 	"""
-	This huge computer
-	rapidly processes
-	research data
+	Este enorme computador
+	processa dados de pes-
+	quisa num piscar de olhos.
 	"""
 	keyWait
 	clearMsg
 	"""
-	You can,of course,
-	jack in here. But
-	you shouldn't now
+	Você pode se conectar
+	nele, claro. Mas agora
+	não é hora.
 	"""
 	keyWait
 	end
@@ -2510,16 +2489,16 @@ script 230 mmbn3 {
 script 231 mmbn3 {
 	msgOpen
 	"""
-	Very cool looking,
-	with lots of buttons
-	and panels
+	Visualmente, maneiro,
+	com múltiplos botões e
+	painéis.
 	"""
 	keyWait
 	clearMsg
 	"""
-	You can,of course,
-	jack in here. But
-	you shouldn't now
+	Você pode se conectar
+	nele, claro. Mas agora
+	não é hora.
 	"""
 	keyWait
 	end

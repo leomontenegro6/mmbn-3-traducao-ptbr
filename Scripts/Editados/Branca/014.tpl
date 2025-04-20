@@ -181,8 +181,8 @@ script 13 mmbn3 {
 	msgOpen
 	"""
 	Um estilo elétrico
-	dominado ao semastered by hiding
-	yourself well!
+	dominado ao se
+	esconder bem!
 	"""
 	keyWait
 	clearMsg

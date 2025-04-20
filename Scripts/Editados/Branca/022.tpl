@@ -18,9 +18,9 @@ script 0 mmbn3 {
 	color
 		palette = 3
 	"""
-	Lan's portable
-	terminal.MegaMan.EXE
-	is installed here.
+	O terminal portátil
+	do Lan. MegaMan.EXE
+	está instalado aqui!
 	"""
 	waitHold
 }
@@ -42,9 +42,9 @@ script 1 mmbn3 {
 	color
 		palette = 3
 	"""
-	Data used for the
-	Grande Prêmio N1
-	preliminary.
+	Dados usados para as
+	preliminares do
+	Grande Prêmio N1.
 	"""
 	waitHold
 }
@@ -66,9 +66,9 @@ script 2 mmbn3 {
 	color
 		palette = 3
 	"""
-	Data used for the
-	Grande Prêmio N1
-	preliminary.
+	Dados usados para as
+	preliminares do
+	Grande Prêmio N1.
 	"""
 	waitHold
 }
@@ -90,9 +90,9 @@ script 3 mmbn3 {
 	color
 		palette = 3
 	"""
-	This is a high-tech
-	parasol. It shuts
-	out all light.
+	Um guarda-sol de
+	alta tecnologia. Ele
+	bloqueia toda a luz.
 	"""
 	waitHold
 }
@@ -114,9 +114,9 @@ script 4 mmbn3 {
 	color
 		palette = 3
 	"""
-	A password to bypass
-	the lock on the
-	Principal's PC.
+	Esta senha abre
+	a trava no compu-
+	tador do diretor!
 	"""
 	waitHold
 }
@@ -138,9 +138,9 @@ script 5 mmbn3 {
 	color
 		palette = 3
 	"""
-	This data can bypass
-	the lock on the
-	Principal's PC.
+	Esta senha abre
+	a trava no compu-
+	tador do diretor!
 	"""
 	waitHold
 }
@@ -162,9 +162,9 @@ script 6 mmbn3 {
 	color
 		palette = 3
 	"""
-	This data can bypass
-	the lock on the
-	Principal's PC.
+	Esta senha abre
+	a trava no compu-
+	tador do diretor!
 	"""
 	waitHold
 }
@@ -186,9 +186,9 @@ script 7 mmbn3 {
 	color
 		palette = 3
 	"""
-	A password to bypass
-	the lock on the
-	Principal's PC.
+	Esta senha abre
+	a trava no compu-
+	tador do diretor!
 	"""
 	waitHold
 }
@@ -210,9 +210,9 @@ script 8 mmbn3 {
 	color
 		palette = 3
 	"""
-	A password to bypass
-	the lock on the
-	Principal's PC.
+	Esta senha abre
+	a trava no compu-
+	tador do diretor!
 	"""
 	waitHold
 }
@@ -234,9 +234,9 @@ script 9 mmbn3 {
 	color
 		palette = 3
 	"""
-	A password to bypass
-	the lock on the
-	Principal's PC.
+	Esta senha abre
+	a trava no compu-
+	tador do diretor!
 	"""
 	waitHold
 }
@@ -258,9 +258,9 @@ script 10 mmbn3 {
 	color
 		palette = 3
 	"""
-	This is a subPET to
-	use if your main one
-	is malfunctioning.
+	Este é um subPET,
+	para usar caso o seu
+	esteja com defeito.
 	"""
 	waitHold
 }
@@ -282,9 +282,9 @@ script 11 mmbn3 {
 	color
 		palette = 3
 	"""
-	A bag forgotten by a
-	customer at Higsby's
-	Careful!
+	Bolsa esquecida por
+	um cliente do Higs-
+	by. Cuidado com ela!
 	"""
 	waitHold
 }
@@ -306,9 +306,9 @@ script 12 mmbn3 {
 	color
 		palette = 3
 	"""
-	This is a system for
-	ordering chips from
-	suppliers.
+	Um sistema de
+	encomenda de chips
+	de fornecedores.
 	"""
 	waitHold
 }
@@ -330,9 +330,9 @@ script 13 mmbn3 {
 	color
 		palette = 3
 	"""
-	The beginnings of a
-	compression program.
-	Can't be installed.
+	Base pra um programa
+	de compressão. Não
+	podemos instalá-la.
 	"""
 	waitHold
 }
@@ -354,9 +354,9 @@ script 14 mmbn3 {
 	color
 		palette = 3
 	"""
-	It's the only tool
-	that can smash
-	BubbleMan's door!
+	Só isto pode pôr um
+	fim à barragem do
+	BubbleMan!
 	"""
 	waitHold
 }
@@ -378,9 +378,9 @@ script 15 mmbn3 {
 	color
 		palette = 3
 	"""
-	This disk contains
-	dad's research data!
-	Take it to him soon!
+	CD contendo dados de
+	pesquisa do papai.
+	Leva logo pra ele!
 	"""
 	waitHold
 }
@@ -402,9 +402,9 @@ script 16 mmbn3 {
 	color
 		palette = 3
 	"""
-	It's the PET case
-	dad gave us! It's
-	really strong!
+	É a capa de PET que
+	o papai nos deu.
+	É super resistente!
 	"""
 	waitHold
 }
@@ -426,9 +426,9 @@ script 17 mmbn3 {
 	color
 		palette = 3
 	"""
-	This key opens the
-	door to the Victory
-	Data!
+	Esta chave abre a
+	porta para o Dado da
+	Vitória!
 	"""
 	waitHold
 }
@@ -450,9 +450,9 @@ script 18 mmbn3 {
 	color
 		palette = 3
 	"""
-	Whoever gets this
-	data wins the N1
-	Grand Prix prelims!
+	Com estes dados,vo-
+	cê vence as prelimi-
+	nares do N1!
 	"""
 	waitHold
 }
@@ -474,9 +474,9 @@ script 55 mmbn3 {
 	color
 		palette = 3
 	"""
-	It's a tool that
-	lets you customize
-	Navis.
+	Ferramenta que permite
+	a você customizar um
+	Navi.
 	"""
 	waitHold
 }
@@ -498,9 +498,9 @@ script 80 mmbn3 {
 	color
 		palette = 3
 	"""
-	Este arquivo contém a
-	senha para acessar a
-	Net to Mayl's PC.
+	Contém a senha para
+	acessar a página da
+	Mayl da Rede!
 	"""
 	waitHold
 }
@@ -522,9 +522,9 @@ script 81 mmbn3 {
 	color
 		palette = 3
 	"""
-	Este arquivo contém a
-	senha para acessar a
-	Net to Dex's PC.
+	Contém a senha para
+	acessar a página do
+	Dex da Rede!
 	"""
 	waitHold
 }
@@ -546,9 +546,9 @@ script 82 mmbn3 {
 	color
 		palette = 3
 	"""
-	Este arquivo contém a
-	senha para acessar a
-	Net to Yai's PC.
+	Contém a senha para
+	acessar a página da
+	Yai da Rede!
 	"""
 	waitHold
 }
@@ -570,9 +570,9 @@ script 88 mmbn3 {
 	color
 		palette = 3
 	"""
-	A Metroline ticket
-	to the ACDC Station
-	(child's fare).
+	Tíquete Metrolinha
+	pra Estação ACDC!
+	(Infantil gratuito.)
 	"""
 	waitHold
 }
@@ -583,10 +583,7 @@ script 96 mmbn3 {
 	positionText
 		left = 10
 		top = 1
-	"""
-	Max HP
-	+20
-	"""
+	"PV Máximos +20"
 	waitHold
 }
 script 97 mmbn3 {
@@ -597,8 +594,8 @@ script 97 mmbn3 {
 		left = 10
 		top = 1
 	"""
-	Explains
-	ExpMemory
+	Explica
+	MemóriXP
 	"""
 	waitHold
 }
@@ -610,9 +607,9 @@ script 98 mmbn3 {
 		left = 10
 		top = 1
 	"""
-	Incr. chip
-	selection
-	capacity+1
+	Aumenta +1
+	capacidade
+	de chips.
 	"""
 	waitHold
 }
@@ -624,9 +621,9 @@ script 99 mmbn3 {
 		left = 10
 		top = 1
 	"""
-	Incr. chip
-	selection
-	capacity+2
+	Aumenta +2
+	capacidade
+	de chips.
 	"""
 	waitHold
 }
@@ -638,9 +635,9 @@ script 100 mmbn3 {
 		left = 10
 		top = 1
 	"""
-	Incr. chip
-	selection
-	capacity+3
+	Aumenta +3
+	capacidade
+	de chips.
 	"""
 	waitHold
 }
@@ -670,7 +667,10 @@ script 112 mmbn3 {
 	positionText
 		left = 10
 		top = 1
-	"Recupera 50PV!"
+	"""
+	Restaura
+	50PV!
+	"""
 	waitHold
 }
 script 113 mmbn3 {
@@ -680,7 +680,10 @@ script 113 mmbn3 {
 	positionText
 		left = 10
 		top = 1
-	"Recovers todos os PV!"
+	"""
+	Recupera
+	todos os PV!
+	"""
 	waitHold
 }
 script 114 mmbn3 {

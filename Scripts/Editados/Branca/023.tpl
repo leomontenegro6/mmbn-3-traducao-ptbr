@@ -6,7 +6,7 @@ script 0 mmbn3 {
 		item = 0
 		amount = 1
 	"""
-	Got the
+	Adquiriu
 	"
 	"""
 	printItem
@@ -21,7 +21,7 @@ script 1 mmbn3 {
 		item = 1
 		amount = 1
 	"""
-	Got the
+	Adquiriu
 	"
 	"""
 	printItem
@@ -36,7 +36,7 @@ script 2 mmbn3 {
 		item = 2
 		amount = 1
 	"""
-	Got the
+	Adquiriu
 	"
 	"""
 	printItem
@@ -51,7 +51,7 @@ script 3 mmbn3 {
 		item = 3
 		amount = 1
 	"""
-	Got the
+	Adquiriu
 	"
 	"""
 	printItem
@@ -90,8 +90,8 @@ script 4 mmbn3 {
 		amount = 1
 	msgOpen
 	"""
-	Got all of the
-	spin items
+	Adquiriu todos os
+	items de giro.
 	"""
 	end
 }
@@ -105,7 +105,7 @@ script 5 mmbn3 {
 	flagSet
 		flag = 20
 	msgOpen
-	"Link open!!"
+	"Link aberto!!"
 	end
 }
 script 6 mmbn3 {
@@ -114,7 +114,7 @@ script 6 mmbn3 {
 		item = 100
 		amount = 1
 	"""
-	Got the
+	Adquiriu
 	"
 	"""
 	printItem
@@ -130,8 +130,9 @@ script 7 mmbn3 {
 	startGiveFolder
 		folder = 1
 	"""
-	Got deck 2 and the
-	extra deck
+	Adquiriu a segunda
+	pasta e uma pasta
+	extra.
 	"""
 	end
 }
@@ -141,7 +142,7 @@ script 10 mmbn3 {
 		item = 10
 		amount = 1
 	"""
-	Got the
+	Adquiriu
 	"
 	"""
 	printItem
@@ -156,7 +157,7 @@ script 13 mmbn3 {
 		item = 15
 		amount = 1
 	"""
-	Got the
+	Adquiriu
 	"
 	"""
 	printItem
@@ -171,7 +172,7 @@ script 16 mmbn3 {
 		item = 18
 		amount = 1
 	"""
-	Got the
+	Adquiriu
 	"
 	"""
 	printItem
@@ -186,7 +187,7 @@ script 20 mmbn3 {
 		item = 21
 		amount = 1
 	"""
-	Got the
+	Adquiriu
 	"
 	"""
 	printItem
@@ -201,7 +202,7 @@ script 22 mmbn3 {
 		item = 13
 		amount = 1
 	"""
-	Got the
+	Adquiriu
 	"
 	"""
 	printItem
@@ -216,7 +217,7 @@ script 28 mmbn3 {
 		item = 27
 		amount = 1
 	"""
-	Got the
+	Adquiriu
 	"
 	"""
 	printItem
@@ -231,7 +232,7 @@ script 29 mmbn3 {
 		item = 28
 		amount = 1
 	"""
-	Got the
+	Adquiriu
 	"
 	"""
 	printItem
@@ -246,7 +247,7 @@ script 30 mmbn3 {
 		item = 29
 		amount = 1
 	"""
-	Got the
+	Adquiriu
 	"
 	"""
 	printItem
@@ -261,7 +262,7 @@ script 31 mmbn3 {
 		item = 30
 		amount = 1
 	"""
-	Got the
+	Adquiriu
 	"
 	"""
 	printItem
@@ -276,7 +277,7 @@ script 32 mmbn3 {
 		item = 31
 		amount = 1
 	"""
-	Got the
+	Adquiriu
 	"
 	"""
 	printItem
@@ -291,7 +292,7 @@ script 33 mmbn3 {
 		item = 32
 		amount = 1
 	"""
-	Got the
+	Adquiriu
 	"
 	"""
 	printItem
@@ -306,7 +307,7 @@ script 34 mmbn3 {
 		item = 58
 		amount = 1
 	"""
-	Got the
+	Adquiriu
 	"
 	"""
 	printItem
@@ -321,7 +322,7 @@ script 37 mmbn3 {
 		item = 47
 		amount = 1
 	"""
-	Got the
+	Adquiriu
 	"
 	"""
 	printItem
@@ -336,7 +337,7 @@ script 38 mmbn3 {
 		item = 35
 		amount = 1
 	"""
-	Got the
+	Adquiriu
 	"
 	"""
 	printItem
@@ -351,7 +352,7 @@ script 39 mmbn3 {
 		item = 37
 		amount = 1
 	"""
-	Got the
+	Adquiriu
 	"
 	"""
 	printItem
@@ -366,7 +367,7 @@ script 40 mmbn3 {
 		item = 36
 		amount = 1
 	"""
-	Got
+	Adquiriu
 	"
 	"""
 	printItem
@@ -381,7 +382,7 @@ script 41 mmbn3 {
 		item = 97
 		amount = 1
 	"""
-	Got the
+	Adquiriu
 	"
 	"""
 	printItem
@@ -396,7 +397,7 @@ script 42 mmbn3 {
 		item = 55
 		amount = 1
 	"""
-	Got the
+	Adquiriu
 	"
 	"""
 	printItem
@@ -412,7 +413,7 @@ script 43 mmbn3 {
 		jumpIfExact = continue
 		jumpIfDeficit = continue
 	msgOpen
-	"Bug will be lost!"
+	"Bug será perdido!"
 	keyWait
 	end
 }
@@ -423,7 +424,7 @@ script 44 mmbn3 {
 		jumpIfExact = continue
 		jumpIfDeficit = continue
 	msgOpen
-	"Bug will be lost!"
+	"Bug será perdido!"
 	keyWait
 	end
 }
@@ -433,7 +434,7 @@ script 47 mmbn3 {
 		item = 56
 		amount = 1
 	"""
-	Got the
+	Adquiriu
 	"
 	"""
 	printItem
@@ -455,8 +456,8 @@ script 70 mmbn3 {
 		flag = 136
 	msgOpen
 	"""
-	Got the black mind
-	and sense of humor
+	Adquiriu Mente Má
+	e Comédia.
 	"""
 	keyWait
 	end
@@ -466,8 +467,9 @@ script 79 mmbn3 {
 		flag = 429
 	msgOpen
 	"""
-	Bass appearance
-	requirements met
+	Cumpriu os
+	requerimentos para a
+	aparição do Bass.
 	"""
 	keyWait
 	end
@@ -477,7 +479,7 @@ script 80 mmbn3 {
 	itemGive
 		item = 80
 		amount = 1
-	"Got the\n"
+	"Adquiriu o\n"
 	printItem
 		buffer = 0
 		item = 80
@@ -488,7 +490,7 @@ script 81 mmbn3 {
 	itemGive
 		item = 81
 		amount = 1
-	"Got the\n"
+	"Adquiriu o\n"
 	printItem
 		buffer = 0
 		item = 81
@@ -499,7 +501,7 @@ script 82 mmbn3 {
 	itemGive
 		item = 82
 		amount = 1
-	"Got the\n"
+	"Adquiriu o\n"
 	printItem
 		buffer = 0
 		item = 82
@@ -510,7 +512,7 @@ script 83 mmbn3 {
 	itemGive
 		item = 83
 		amount = 1
-	"Got the\n"
+	"Adquiriu o\n"
 	printItem
 		buffer = 0
 		item = 83
@@ -521,7 +523,7 @@ script 84 mmbn3 {
 	itemGive
 		item = 84
 		amount = 1
-	"Got the\n"
+	"Adquiriu o\n"
 	printItem
 		buffer = 0
 		item = 84
@@ -532,7 +534,7 @@ script 88 mmbn3 {
 	itemGive
 		item = 88
 		amount = 1
-	"Got the\n"
+	"Adquiriu o\n"
 	printItem
 		buffer = 0
 		item = 88
@@ -543,7 +545,7 @@ script 89 mmbn3 {
 	itemGive
 		item = 89
 		amount = 1
-	"Got the\n"
+	"Adquiriu o\n"
 	printItem
 		buffer = 0
 		item = 89
@@ -554,7 +556,7 @@ script 90 mmbn3 {
 	itemGive
 		item = 90
 		amount = 1
-	"Got the\n"
+	"Adquiriu o\n"
 	printItem
 		buffer = 0
 		item = 90
@@ -565,7 +567,7 @@ script 91 mmbn3 {
 	itemGive
 		item = 91
 		amount = 1
-	"Got the\n"
+	"Adquiriu o\n"
 	printItem
 		buffer = 0
 		item = 91
@@ -576,7 +578,7 @@ script 92 mmbn3 {
 	itemGive
 		item = 92
 		amount = 1
-	"Got the\n"
+	"Adquiriu o\n"
 	printItem
 		buffer = 0
 		item = 92
@@ -587,7 +589,7 @@ script 93 mmbn3 {
 	itemGive
 		item = 93
 		amount = 1
-	"Got the\n"
+	"Adquiriu o\n"
 	printItem
 		buffer = 0
 		item = 93
@@ -598,7 +600,7 @@ script 94 mmbn3 {
 	itemGive
 		item = 94
 		amount = 1
-	"Got the\n"
+	"Adquiriu o\n"
 	printItem
 		buffer = 0
 		item = 94
@@ -609,7 +611,7 @@ script 95 mmbn3 {
 	itemGive
 		item = 95
 		amount = 1
-	"Got the\n"
+	"Adquiriu o\n"
 	printItem
 		buffer = 0
 		item = 95
@@ -749,7 +751,7 @@ script 112 mmbn3 {
 		code = E
 		amount = 1
 	msgOpen
-	"Got the "
+	"Pegou "
 	printChip
 		buffer = 0
 		chip = 32
@@ -773,7 +775,7 @@ script 114 mmbn3 {
 		jumpIfNone = continue
 		jumpIfSome = continue
 	msgOpen
-	"Got 1000 Zennys"
+	"Adquiriu 1000 Zennys"
 	end
 }
 script 115 mmbn3 {
@@ -783,7 +785,7 @@ script 115 mmbn3 {
 		jumpIfExact = continue
 		jumpIfDeficit = continue
 	msgOpen
-	"Used 1000 Zennys"
+	"Gastou 1000 Zennys"
 	end
 }
 script 116 mmbn3 {
@@ -809,8 +811,8 @@ script 118 mmbn3 {
 		flag = 136
 	msgOpen
 	"""
-	Got the compression
-	program
+	Adquiriu o programa
+	Comprime.
 	"""
 	end
 }
@@ -903,7 +905,7 @@ script 128 mmbn3 {
 	flagSet
 		flag = 133
 	msgOpen
-	"Whatever"
+	"Tanto faz"
 	end
 }
 script 129 mmbn3 {
@@ -998,7 +1000,7 @@ script 139 mmbn3 {
 	flagSet
 		flag = 1813
 	msgOpen
-	"Setting doctor"
+	"Configurando"
 	end
 }
 script 140 mmbn3 {
@@ -1014,7 +1016,7 @@ script 141 mmbn3 {
 		code = M
 		amount = 1
 	msgOpen
-	"Got the\n"
+	"Adquiriu\n"
 	printChip
 		buffer = 0
 		chip = 25
@@ -1092,7 +1094,7 @@ script 150 mmbn3 {
 	flagSet
 		flag = 167
 	msgOpen
-	"Erasing vines"
+	"Apagando vinhas"
 	end
 }
 script 151 mmbn3 {
@@ -1106,7 +1108,7 @@ script 152 mmbn3 {
 	flagSet
 		flag = 1306
 	msgOpen
-	"Sleep in bed"
+	"Dormir na cama"
 	end
 }
 script 153 mmbn3 {
@@ -1275,7 +1277,7 @@ script 167 mmbn3 {
 		jumpIfAll = continue
 		jumpIfNone = continue
 		jumpIfSome = continue
-	"Got a BugFrag"
+	"Adquiriu FragBug"
 	end
 }
 script 168 mmbn3 {
@@ -1283,7 +1285,7 @@ script 168 mmbn3 {
 	itemGive
 		item = 57
 		amount = 1
-	"Got the\n"
+	"Adquiriu o\n"
 	printItem
 		buffer = 0
 		item = 57
@@ -1444,8 +1446,8 @@ script 185 mmbn3 {
 		flag = 136
 	msgOpen
 	"""
-	Got the
-	energy change prog
+	Adquiriu programa
+	de mudança de enrg
 	"""
 	end
 }

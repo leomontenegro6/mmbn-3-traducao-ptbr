@@ -585,7 +585,7 @@ script 181 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Normal stock\n"
+	"Acervo normal\n"
 	option
 		left = 1
 		right = 1
@@ -593,7 +593,7 @@ script 181 mmbn3 {
 		down = 2
 	space
 		count = 2
-	"Chip order\n"
+	"Encomenda\n"
 	option
 		left = 2
 		right = 2
@@ -601,7 +601,7 @@ script 181 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Cancel"
+	"Sair"
 	select
 		default = 0
 		BSeparate = false
@@ -619,9 +619,9 @@ script 182 mmbn3 {
 		mugshot = Higsby
 	msgOpen
 	"""
-	Welcome!
-	O que você gostaria
-	de comprar, hein, é?
+	Bem-vindo! O que
+	você gostaria de
+	comprar, hein, é?
 	"""
 	keyWait
 	clearMsg
@@ -632,7 +632,7 @@ script 182 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Normal stock\n"
+	"Acervo normal\n"
 	option
 		left = 1
 		right = 1
@@ -640,7 +640,7 @@ script 182 mmbn3 {
 		down = 2
 	space
 		count = 2
-	"Chip order\n"
+	"Encomenda\n"
 	option
 		left = 2
 		right = 2
@@ -648,7 +648,7 @@ script 182 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Cancel"
+	"Sair"
 	select
 		default = 0
 		BSeparate = false

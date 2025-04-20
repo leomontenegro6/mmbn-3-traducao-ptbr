@@ -138,8 +138,8 @@ script 11 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Communication error!
-	Battle cancelled.
+	Erro de comunicação!
+	Batalha cancelada.
 	"""
 	keyWait
 	end
@@ -150,15 +150,15 @@ script 12 mmbn3s {
 	end
 }
 script 45 mmbn3s {
-	"DOUBLE DELETE!"
+	"DELEÇÃO DUPLA!"
 	end
 }
 script 46 mmbn3s {
-	"TRIPLE DELETE!"
+	"DELEÇÃO TRIPLA!"
 	end
 }
 script 47 mmbn3s {
-	"BugFrag "
+	"FragBug"
 	end
 }
 script 48 mmbn3 {
@@ -166,9 +166,9 @@ script 48 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Communication error!
-	Battle cancelled.
-	Error 
+	Erro de comunicação!
+	Luta cancelada.
+	Erro 
 	"""
 	printBuffer
 		minLength = 0
@@ -184,8 +184,8 @@ script 49 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I wish Lan were
-	here! What to do?
+	Queria ter o Lan
+	aqui! O que faço?
 	
 	"""
 	option
@@ -195,7 +195,7 @@ script 49 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Run "
+	" Fujo "
 	option
 		left = 0
 		right = 1
@@ -203,7 +203,7 @@ script 49 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Fight!"
+	"   Luto!"
 	select
 		default = 0
 		BSeparate = false
@@ -222,18 +222,18 @@ script 50 mmbn3 {
 	msgOpen
 	wait
 		frames = 18
-	"・"
+	"."
 	wait
 		frames = 18
-	"・"
+	"."
 	wait
 		frames = 18
-	"・"
+	"."
 	wait
 		frames = 18
 	"""
-	Yeah!
-	I made it!
+	 Isso!
+	Consegui!
 	"""
 	keyWait
 	end

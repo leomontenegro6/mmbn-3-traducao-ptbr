@@ -832,7 +832,7 @@ script 101 mmbn3 {
 	"""
 	keyWait
 	clearMsg
-	"Thanks!"
+	"Desde já,agradeço!"
 	keyWait
 	end
 }
@@ -1582,9 +1582,9 @@ script 182 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Ooops,sorry! I've
-	forgotten to bring
-	them…!
+	Ops, desculpa!
+	Esqueci de
+	trazê-los...!
 	"""
 	keyWait
 	end
@@ -1604,14 +1604,14 @@ script 190 mmbn3 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	I'm researching
-	chips to use against
-	viruses.
+	Estou pesquisando
+	chips para usar
+	contra vírus.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I need a
+	E eu preciso de um
 	"
 	"""
 	printChip
@@ -1622,15 +1622,14 @@ script 190 mmbn3 {
 		buffer = 0
 		code = S
 	"""
-	"
-	to continue.
+	" para
+	dar seguimento.
 	"""
 	keyWait
 	clearMsg
 	"""
-	If you happen to
-	have a
-	"
+	Se por acaso tiver
+	um "
 	"""
 	printChip
 		buffer = 0
@@ -1643,9 +1642,8 @@ script 190 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	would you trade it
-	for this
-	"
+	aceitaria trocar por
+	este "
 	"""
 	printChip
 		buffer = 0
@@ -1665,7 +1663,7 @@ script 190 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Sure "
+	"Tá "
 	option
 		left = 0
 		right = 0
@@ -1673,7 +1671,7 @@ script 190 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No!"
+	"Não!"
 	select
 		default = 0
 		BSeparate = false
@@ -1703,9 +1701,8 @@ script 191 mmbn3 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Thank you,lad!
-	I really appreciate
-	this!
+	Obrigado,rapaz!
+	Me ajudou demais!
 	"""
 	keyWait
 	clearMsg
@@ -1747,8 +1744,8 @@ script 193 mmbn3 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	This will really
-	help my research!
+	Isto irá me ajudar
+	com minha pesquisa!
 	"""
 	keyWait
 	end
@@ -1758,9 +1755,9 @@ script 194 mmbn3 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Hmm,that's too bad…
-	Well,tell me if you
-	change your mind!
+	Hmm, que pena...
+	Bom, se mudar de
+	ideia, avise!
 	"""
 	keyWait
 	end
@@ -1769,19 +1766,18 @@ script 195 mmbn3 {
 	mugshotShow
 		mugshot = SciLabMan
 	msgOpen
-	"Hmm,I don't see it…"
+	"Hmm, não vejo ele..."
 	keyWait
 	clearMsg
 	"""
-	But perhaps it's
-	in your folder?
+	Mas talvez esteja
+	na sua pasta, não?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Could you remove it
-	from there,if that's
-	the case?
+	Poderia removê-lo de
+	lá, se for o caso?
 	"""
 	keyWait
 	end
@@ -1791,9 +1787,9 @@ script 196 mmbn3 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	I'm sure that I can
-	make excellent use
-	of this!
+	Sei que poderei
+	utilizá-lo ao seu
+	potencial máximo!
 	"""
 	keyWait
 	end
@@ -1802,15 +1798,12 @@ script 197 mmbn3 {
 	mugshotShow
 		mugshot = SciLabMan
 	msgOpen
-	"""
-	You've changed your
-	mind?
-	"""
+	"Mudou de ideia?"
 	keyWait
 	clearMsg
 	"""
-	I'd like to trade
-	this "
+	Eu quero trocar este
+	"
 	"""
 	printChip
 		buffer = 0
@@ -1820,8 +1813,8 @@ script 197 mmbn3 {
 		buffer = 0
 		code = B
 	"""
-	" for
-	your "
+	" por um
+	"
 	"""
 	printChip
 		buffer = 0
@@ -1830,7 +1823,7 @@ script 197 mmbn3 {
 	printCode
 		buffer = 0
 		code = S
-	"\"…"
+	"\" seu..."
 	keyWait
 	clearMsg
 	mugshotHide
@@ -1841,7 +1834,7 @@ script 197 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Sure "
+	"Tá "
 	option
 		left = 0
 		right = 0
@@ -1849,7 +1842,7 @@ script 197 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No!"
+	"Não!"
 	select
 		default = 0
 		BSeparate = false

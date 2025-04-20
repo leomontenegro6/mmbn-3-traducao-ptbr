@@ -778,7 +778,7 @@ script 106 mmbn3 {
 	clearMsg
 	"""
 	MetalMan!
-	Blow him away!
+	Esmague ele!
 	"""
 	keyWait
 	clearMsg

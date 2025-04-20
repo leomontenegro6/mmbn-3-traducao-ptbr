@@ -1113,9 +1113,9 @@ script 83 mmbn3 {
 		mugshot = Maid
 	msgOpen
 	"""
-	Listen to those
-	cheers! The crowd
-	must be going crazy.
+	Ouviu a gritaria?
+	A plateia deve
+	estar ao delírio!
 	"""
 	keyWait
 	end

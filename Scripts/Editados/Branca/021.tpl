@@ -1483,9 +1483,9 @@ script 56 mmbn3 {
 	color
 		palette = 3
 	"""
-	"For the smashing of
-	seals" is carved on
-	the hammer.
+	Nele, estão cravadas
+	as palavras:
+	"Para esmagar selos"
 	"""
 	waitHold
 }
@@ -2143,9 +2143,9 @@ script 98 mmbn3 {
 		left = 10
 		top = 1
 	"""
-	Incr. chip
-	selection
-	capacity+1
+	Aumenta
+	seleção de
+	chips +1
 	"""
 	waitHold
 }
@@ -2157,9 +2157,9 @@ script 99 mmbn3 {
 		left = 10
 		top = 1
 	"""
-	Incr. chip
-	selection
-	capacity+2
+	Aumenta
+	seleção de
+	chips +2
 	"""
 	waitHold
 }
@@ -2171,9 +2171,9 @@ script 100 mmbn3 {
 		left = 10
 		top = 1
 	"""
-	Incr. chip
-	selection
-	capacity+3
+	Aumenta
+	seleção de
+	chips +3
 	"""
 	waitHold
 }

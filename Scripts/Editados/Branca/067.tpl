@@ -16,76 +16,76 @@ script 190 mmbn3 {
 	mugshotShow
 		mugshot = YoungWoman
 	msgOpen
-	"Hello,Lan!"
+	"Oi, Lan!"
 	keyWait
 	clearMsg
 	"""
-	I heard top Net-
-	Battlers may give
-	you help if you use
-	"""
-	keyWait
-	clearMsg
-	"""
-	the Job BBS,
-	but I'm surprised to
-	see you show up!
+	Disseram que NetLu-
+	tadores de alto ca-
+	libre podem oferecer
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'm a little bit
-	embarrassed to ask a
-	student for help.
+	ajuda no Quadro de
+	Missões, mas que
+	surpresa ser você!
 	"""
 	keyWait
 	clearMsg
 	"""
-	But here's the job…
-	The other day,a
-	virus bomb was sent
+	Dá um pouco de ver-
+	gonha dar o trabalho
+	pra um aluno...
 	"""
 	keyWait
 	clearMsg
 	"""
-	to the Principal's
-	computer,and now
-	there are bombs
+	Mas vai: outro dia,
+	uma bomba de vírus
+	foi mandada pro
 	"""
 	keyWait
 	clearMsg
 	"""
-	hidden all over it!
-	They can't be seen,
-	so someone has to go
+	computador do dire-
+	tor, e agora tem
+	bombas escondidas!
 	"""
 	keyWait
 	clearMsg
 	"""
-	in and check every
-	suspicious place in
-	the computer…
+	São invisíveis.
+	Alguém precisa
+	entrar lá e conferir
 	"""
 	keyWait
 	clearMsg
 	"""
-	Could you jack in to
-	the computer,and get
-	rid of the bombs?
+	todo lugar que
+	pareça suspeito
+	no computador...
 	"""
 	keyWait
 	clearMsg
 	"""
-	The Principal asked
-	me to do it,but I'm
-	just not good enough
+	Poderia se conectar
+	no computador e se
+	livrar das bombas?
 	"""
 	keyWait
 	clearMsg
 	"""
-	to find them all.
-	Thank you for your
-	help!
+	O diretor me pediu
+	isso, mas não me ga-
+	ranto o bastante pra
+	"""
+	keyWait
+	clearMsg
+	"""
+	achar todas elas.
+	Desde já, obrigada
+	pela força!
 	"""
 	keyWait
 	end
@@ -95,16 +95,16 @@ script 191 mmbn3 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	I'd like you to jack
-	in and defuse all of
-	the bombs.
+	Quero que se conecte
+	e desarme todas as
+	bombas.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I think there should
-	be about 3 of them
-	hidden in there…
+	Acho que têm umas
+	três escondidas lá,
+	se não me engano...
 	"""
 	keyWait
 	end
@@ -120,15 +120,15 @@ script 192 mmbn3 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	Oh,you got them all!
-	I just knew you
-	could do it!
+	Ah, você desarmou
+	todas! Sabia que
+	conseguiria!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Here,take this as a
-	small reward!
+	Tome, uma pequena
+	recompensa pra você!
 	"""
 	keyWait
 	clearMsg
@@ -168,9 +168,9 @@ script 194 mmbn3 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	Good luck on your
-	other jobs! I'll be
-	rooting for you!
+	Boa sorte com suas
+	outras missões! Tô
+	torcendo por você!
 	"""
 	keyWait
 	end
@@ -207,9 +207,9 @@ script 221 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Mostra uma vista incrível
-	da escola e suas
-	instalações.
+	Mostra uma vista
+	incrível da escola e
+	suas instalações.
 	"""
 	keyWait
 	end

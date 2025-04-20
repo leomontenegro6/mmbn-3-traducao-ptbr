@@ -1019,8 +1019,8 @@ script 83 mmbn3 {
 		mugshot = BlackWoman
 	msgOpen
 	"""
-	Come on,let's go and
-	watch the battle!
+	Ei, vamos lá ver a
+	luta!
 	"""
 	keyWait
 	end
@@ -1242,7 +1242,7 @@ script 97 mmbn3 {
 	clearMsg
 	"""
 	MetalMan!
-	Blow him away!
+	Esmague ele!
 	"""
 	keyWait
 	clearMsg

@@ -178,9 +178,9 @@ script 122 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's go to the
-	studio! The final
-	round awaits!
+	Vamos lá pro
+	estúdio! A rodada
+	final nos aguarda!
 	"""
 	keyWait
 	end

@@ -2479,16 +2479,16 @@ script 222 mmbn3 {
 		jumpIfOutOfRange = continue
 	msgOpen
 	"""
-	As the sign says,
-	these corndogs are
-	truly jumbo-sized
+	Clássicos bolinhos
+	de polvo: takoyaki!
+	Típico de festival.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Each juicy hotdog is
-	wrapped in smooth,
-	crispy cornbread
+	Uma deliciosa massa
+	envolve polvo.
+	Molho à parte.
 	"""
 	keyWait
 	end
@@ -2678,8 +2678,9 @@ script 234 mmbn3 {
 script 235 mmbn3 {
 	msgOpen
 	"""
-	Half-cooked corndogs
-	sit in the oven
+	Bolinhos feitos pela
+	metade repousam
+	sobre a chapa.
 	"""
 	keyWait
 	end

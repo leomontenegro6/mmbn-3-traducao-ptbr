@@ -165,23 +165,23 @@ script 40 mmbn3s {
 	end
 }
 script 41 mmbn3s {
-	"JapanMan"
+	"YamatoMn"
 	end
 }
 script 42 mmbn3s {
-	"JapanMn[V2]"
+	"YmatoMn[V2]"
 	end
 }
 script 43 mmbn3s {
-	"JapanMn[V3]"
+	"YmatoMn[V3]"
 	end
 }
 script 44 mmbn3s {
-	"JapanMn[V4]"
+	"YmatoMn[V4]"
 	end
 }
 script 45 mmbn3s {
-	"JapanMn[V5]"
+	"YmatoMn[V5]"
 	end
 }
 script 46 mmbn3s {

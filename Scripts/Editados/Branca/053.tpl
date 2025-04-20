@@ -1363,9 +1363,9 @@ script 140 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Where is everyone?
-	I'm a little worried
-	about them…
+	Cadê todo mundo? Tô
+	meio preocupado com
+	a galera...
 	"""
 	keyWait
 	flagSet

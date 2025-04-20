@@ -12,9 +12,9 @@ script 0 mmbn3 {
 		mugshot = Nurse
 	msgOpen
 	"""
-	Looking for Yai? Go
-	to the end of the
-	second floor.
+	Visita pra Yai Ayano?
+	Segundo andar, final
+	do corredor.
 	"""
 	keyWait
 	end
@@ -67,9 +67,9 @@ script 1 mmbn3 {
 		mugshot = Nurse
 	msgOpen
 	"""
-	This is Seaside
-	Hospital. Please be
-	quiet inside.
+	Este é o Hospital
+	Beira-Mar. Por
+	favor, silêncio.
 	"""
 	keyWait
 	end
@@ -89,46 +89,46 @@ script 2 mmbn3 {
 		mugshot = Nurse
 	msgOpen
 	"""
-	What! The key to
-	the basement!? Yes,
-	I do have it,but…
+	O quê?! A chave do
+	subsolo?! Sim,
+	tenho, mas...
 	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	"""
-	Please! I just want
-	to borrow it!
+	Por favor!
+	É só emprestado!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I can jack into the
-	growth system from
-	the basement!
+	Posso acessar o sistema
+	de crescimento lá do
+	subsolo!
 	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = Nurse
-	"Yes,but…"
+	"M-mas..."
 	keyWait
 	clearMsg
-	"…"
-	keyWait
-	clearMsg
-	"""
-	OK,I've decided!
-	There's nothing I
-	can do,anyway…
-	"""
+	"..."
 	keyWait
 	clearMsg
 	"""
-	It's up to you! Stop
-	that tree from
-	causing more damage!
+	Tá, pode ir! Não é
+	como se eu pudesse
+	fazer algo...
+	"""
+	keyWait
+	clearMsg
+	"""
+	É com você! Impeça a
+	árvore de causar
+	ainda mais estragos!
 	"""
 	keyWait
 	clearMsg
@@ -158,13 +158,13 @@ script 3 mmbn3 {
 		mugshot = Nurse
 	msgOpen
 	"""
-	I had a feeling that
-	you'd be able to
-	take care of things…
+	Tive o pressentimento
+	de que você poderia
+	resolver isso...
 	"""
 	keyWait
 	clearMsg
-	"Please do your best!"
+	"Vai! Você consegue!"
 	keyWait
 	end
 }
@@ -173,9 +173,9 @@ script 4 mmbn3 {
 		mugshot = Nurse
 	msgOpen
 	"""
-	What will we do!?
-	All of our systems
-	are going to stop!
+	O que faremos?!
+	Todos os nossos
+	sistemas vão parar!
 	"""
 	keyWait
 	end
@@ -185,13 +185,13 @@ script 5 mmbn3 {
 		mugshot = Nurse
 	msgOpen
 	"""
-	Thank goodness…The
-	Árvore da Vida is
-	under control again!
+	Graças aos céus... a
+	Árvore da Vida está
+	sob controle!
 	"""
 	keyWait
 	clearMsg
-	"Thank you so much!"
+	"Muito obrigada!"
 	keyWait
 	end
 }
@@ -200,15 +200,16 @@ script 10 mmbn3 {
 		mugshot = OldMan
 	msgOpen
 	"""
-	Ahh… The tree always
-	looks magnificent…
+	Ahh... A árvore é
+	sempre tão
+	magnífica...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Just looking at it
-	inspires me to do
-	my best.
+	Só de vê-la, fico
+	inspirado a não
+	desistir!
 	"""
 	keyWait
 	end
@@ -223,9 +224,9 @@ script 11 mmbn3 {
 		mugshot = PigtailsGirl
 	msgOpen
 	"""
-	When will my daddy
-	come home from the
-	hospital?
+	Quando que o papai
+	vai sair do hospital
+	e ir pra casa?
 	"""
 	keyWait
 	end
@@ -240,8 +241,9 @@ script 12 mmbn3 {
 		mugshot = Girl
 	msgOpen
 	"""
-	Very soon. Just wait
-	a little bit longer.
+	Logo, logo. Espere
+	só mais um
+	pouquinho.
 	"""
 	keyWait
 	end
@@ -256,16 +258,16 @@ script 13 mmbn3 {
 		mugshot = OldWoman
 	msgOpen
 	"""
-	A big elevator is
-	good,but they should
-	have stairs,too.
+	Elevadores grandes
+	são bons, mas escadas
+	também são.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Using elevators all
-	the time isn't good
-	for my health…
+	Andar de elevador o
+	tempo todo não é bom
+	pra minha saúde...
 	"""
 	keyWait
 	end
@@ -274,7 +276,7 @@ script 20 mmbn3 {
 	mugshotShow
 		mugshot = PigtailsGirl
 	msgOpen
-	"Let's play!"
+	"Bora brincar!"
 	keyWait
 	end
 }
@@ -283,15 +285,15 @@ script 21 mmbn3 {
 		mugshot = Girl
 	msgOpen
 	"""
-	Shhh! You can't make
-	noise in a hospital.
+	Shhh! Não pode fazer
+	barulho no hospital.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Our turn will be
-	soon,so just wait
-	a little longer.
+	A nossa vez já tá
+	chegando, espera só
+	mais um pouquinho.
 	"""
 	keyWait
 	end
@@ -301,16 +303,16 @@ script 22 mmbn3 {
 		mugshot = OldWoman
 	msgOpen
 	"""
-	Even waiting for the
-	elevator,I keep my
-	body moving.
+	Mesmo enquanto espero
+	o elevador, fico
+	mexendo o corpo.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I need exercise
-	to get better!
-	Huff,huff,huff…
+	Só com exercício eu
+	vou melhorar!
+	Uff, uff, uff...
 	"""
 	keyWait
 	end
@@ -328,9 +330,9 @@ script 23 mmbn3 {
 		mugshot = Nurse
 	msgOpen
 	"""
-	Looking for Mamoru?
-	I think he just
-	went outside.
+	Procurando pelo
+	Mamoru? Acho que ele
+	acabou de sair.
 	"""
 	keyWait
 	end
@@ -340,28 +342,29 @@ script 24 mmbn3 {
 		mugshot = Nurse
 	msgOpen
 	"""
-	What? Mamoru had
-	an attack!?
+	O quê? O Mamoru teve
+	um ataque?!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Oh my goodness…
-	Quickly,let's see,
-	Mamoru's doctor is…
+	Meu Deus... OK,
+	rápido. Vejamos, o
+	médico do Mamoru...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Yes! I think he's on
-	the third floor!
+	Isso! Acho que ele
+	está no terceiro
+	andar!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Only he can treat
-	the disease Mamoru
-	has…"HBD"!
+	Só ele consegue
+	tratar a doença do
+	Mamoru... o "HBD"!
 	"""
 	keyWait
 	end
@@ -371,22 +374,22 @@ script 25 mmbn3 {
 		mugshot = Nurse
 	msgOpen
 	"""
-	It looks like Mamoru
-	will be OK.
+	Parece que o Mamoru
+	ficará bem.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'm sorry. Nurses
-	are supposed to stay
-	calm…
+	Desculpe. Enfermeiros
+	devem sempre controlar
+	os nervos.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I should have gone
-	for the doctor
-	straight away…
+	Eu devia ter ido
+	buscar o médico
+	imediatamente...
 	"""
 	keyWait
 	end
@@ -396,9 +399,9 @@ script 30 mmbn3 {
 		mugshot = Man
 	msgOpen
 	"""
-	Tell her she's
-	still recovering and
-	has to take it easy…
+	Diga a ela que ela
+	está se recuperando
+	e deve pegar leve.
 	"""
 	keyWait
 	end
@@ -408,16 +411,16 @@ script 31 mmbn3 {
 		mugshot = OldWoman
 	msgOpen
 	"""
-	What nonsense!
-	I'm as fit as a
-	fiddle,you know!
+	Ah, que "bobajada"!
+	Ele sabe que eu tô
+	inteiraça!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I just went for
-	a short jog around
-	the hospital!
+	Só saí pra dar uma
+	voltinha rapidinha
+	aqui, no hospital!
 	"""
 	keyWait
 	end
@@ -427,15 +430,16 @@ script 32 mmbn3 {
 		mugshot = OldMan
 	msgOpen
 	"""
-	The kid they carried
-	inside was holding
-	something.
+	O menino que levaram
+	para dentro segurava
+	alguma coisa.
 	"""
 	keyWait
 	clearMsg
 	"""
-	It must be something
-	important to him…
+	Devia ser muito
+	importante para
+	ele...
 	"""
 	keyWait
 	end
@@ -445,15 +449,15 @@ script 33 mmbn3 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	Some kids are sick,
-	and some older folks
-	are healthy…
+	Tem crianças que são
+	doentinhas, tem
+	idosos saudáveis...
 	"""
 	keyWait
 	clearMsg
 	"""
-	I guess that's just
-	how it goes…
+	Acho que é a vida
+	como ela é...
 	"""
 	keyWait
 	end
@@ -463,16 +467,15 @@ script 34 mmbn3 {
 		mugshot = Nurse
 	msgOpen
 	"""
-	They're going to
-	operate on Mamoru
-	very shortly.
+	Logo vai começar a
+	operação do Mamoru.
 	"""
 	keyWait
 	clearMsg
 	"""
-	There isn't much
-	time,but please tell
-	him to be brave…
+	Falta pouco tempo.
+	Por favor, diga para
+	ele ter coragem...
 	"""
 	keyWait
 	end
@@ -482,16 +485,16 @@ script 40 mmbn3 {
 		mugshot = Woman
 	msgOpen
 	"""
-	What's happening!?
-	These plant vines
-	are blocking me!
+	O que há?! Essas vinhas
+	estão barrando meu
+	caminho!
 	"""
 	keyWait
 	clearMsg
 	"""
-	My daughter is still
-	inside! Somebody,
-	please do something!
+	Minha filha ainda tá
+	lá! Alguém faz
+	alguma coisa!
 	"""
 	keyWait
 	end
@@ -501,8 +504,8 @@ script 41 mmbn3 {
 		mugshot = Girl
 	msgOpen
 	"""
-	What will I do!? My
-	kid sister is lost!
+	O que eu faço?!
+	A minha irmã sumiu!
 	"""
 	keyWait
 	end
@@ -512,9 +515,9 @@ script 42 mmbn3 {
 		mugshot = Man
 	msgOpen
 	"""
-	My mother's still in
-	there! I shouldn't
-	have left her!
+	Minha mãe ainda tá
+	lá...! Eu não devia
+	tê-la deixado aqui!
 	"""
 	keyWait
 	end
@@ -524,9 +527,9 @@ script 44 mmbn3 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Everyone! Conditions
-	are unpredictable!
-	Please wait outside!
+	Gente! As condições
+	são imprevisíveis!
+	Esperem lá fora!
 	"""
 	keyWait
 	end
@@ -536,9 +539,9 @@ script 45 mmbn3 {
 		mugshot = Woman
 	msgOpen
 	"""
-	I'm glad to see you.
-	Are you all right?
-	No injuries?
+	Estou tão feliz de
+	te ver. Está bem?
+	Não se machucou?
 	"""
 	keyWait
 	end
@@ -548,9 +551,9 @@ script 46 mmbn3 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	M-Mother!? Huh…?
-	Aaaah! My skirt is
-	torn…Mumble,mumble…
+	M-mãe?! Hã...?
+	Aah! Minha saia rasgou...
+	Mngh, argh...
 	"""
 	keyWait
 	end
@@ -559,7 +562,7 @@ script 47 mmbn3 {
 	mugshotShow
 		mugshot = Man
 	msgOpen
-	"Mother!"
+	"Mãe!"
 	keyWait
 	end
 }
@@ -568,8 +571,8 @@ script 48 mmbn3 {
 		mugshot = OldWoman
 	msgOpen
 	"""
-	Stop sniveling,you
-	big baby!
+	Ah, chega de chororô,
+	seu bebezão!
 	"""
 	keyWait
 	end
@@ -579,15 +582,15 @@ script 49 mmbn3 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	So someone took over
-	the Árvore da Vida's
-	growth system!?
+	Roubaram o controle
+	do sistema de cres-
+	cimento da Árvore?!
 	"""
 	keyWait
 	clearMsg
 	"""
-	But who would do it,
-	and why…?
+	Mas quem faria isso?
+	E por quê...?
 	"""
 	keyWait
 	end
@@ -597,15 +600,15 @@ script 50 mmbn3 {
 		mugshot = Nurse
 	msgOpen
 	"""
-	Welcome to Seaside
-	Hospital.
+	Bem-vindo ao
+	Hospital Beira-Mar.
 	"""
 	keyWait
 	clearMsg
 	"""
-	We are trying to put
-	the Árvore da Vida
-	incident behind us.
+	Estamos trabalhando
+	para superar o
+	incidente da Árvore.
 	"""
 	keyWait
 	end
@@ -619,22 +622,23 @@ script 51 mmbn3 {
 		mugshot = OldMan
 	msgOpen
 	"""
-	My hospital friends
-	are leaving one by
-	one.
+	Meus colegas de
+	hospital estão indo
+	embora um por um.
 	"""
 	keyWait
 	clearMsg
 	"""
-	"I don't feel safe
-	here,"they say.
+	Todos dizendo: "Eu
+	não me sinto seguro
+	aqui".
 	"""
 	keyWait
 	clearMsg
 	"""
-	Until the WWW is
-	stopped,though,
-	nowhere is safe!
+	Isso é absurdo: até
+	a WWW parar, não
+	existe local seguro!
 	"""
 	keyWait
 	end
@@ -648,15 +652,16 @@ script 52 mmbn3 {
 		mugshot = Man
 	msgOpen
 	"""
-	They should cut this
-	tree down right now!
+	Eles deviam era
+	cortar essa árvore,
+	agora!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Didn't the incident
-	teach them just how
-	dangerous it is!?
+	O incidente não
+	mostrou o quanto
+	ela é perigosa?!
 	"""
 	keyWait
 	end
@@ -670,9 +675,9 @@ script 53 mmbn3 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Please calm down.
-	The tree itself is
-	perfectly normal!
+	Acalme-se, senhor.
+	A árvore em si é
+	totalmente normal!
 	"""
 	keyWait
 	end
@@ -691,9 +696,9 @@ script 54 mmbn3 {
 		mugshot = OldWoman
 	msgOpen
 	"""
-	Those two over there
-	should be quiet!
-	It's a disgrace!
+	Aqueles dois deviam
+	fazer mais silêncio!
+	Que absurdo!
 	"""
 	keyWait
 	end
@@ -703,16 +708,16 @@ script 60 mmbn3 {
 		mugshot = Nurse
 	msgOpen
 	"""
-	The hospital's
-	network devices are
-	all overheating!
+	Os aparelhos de rede
+	do hospital estão
+	superaquecendo!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Please leave the
-	building
-	immediately!
+	Por favor, saia do
+	hospital o quanto
+	antes!
 	"""
 	keyWait
 	end
@@ -726,22 +731,22 @@ script 61 mmbn3 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	This is terrible.
-	Terrible…!
+	Isso é horrível.
+	Horrível...!
 	"""
 	keyWait
 	clearMsg
 	"""
-	This hospital
-	depends on countless
-	network devices.
+	Este hospital
+	depende de aparelhos
+	ligados à Rede.
 	"""
 	keyWait
 	clearMsg
 	"""
-	We must get to the
-	heart of the problem
-	to restore control!
+	Precisamos chegar à
+	raiz do problema e
+	recuperar controle!
 	"""
 	keyWait
 	end
@@ -755,9 +760,9 @@ script 62 mmbn3 {
 		mugshot = OldWoman
 	msgOpen
 	"""
-	What's this!? It's
-	getting so hot
-	inside the hospital!
+	Que é isso?! Tá um
+	forno aqui, dentro
+	do hospital!
 	"""
 	keyWait
 	end
@@ -767,16 +772,16 @@ script 65 mmbn3 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	We're very lucky. No
-	one was injured
-	during the incident.
+	Demos sorte. Ninguém
+	se feriu gravemente
+	no incidente.
 	"""
 	keyWait
 	clearMsg
 	"""
-	We're going to open
-	a full and complete
-	investigation.
+	Iniciaremos uma
+	investigação completa
+	e meticulosa.
 	"""
 	keyWait
 	end
@@ -786,9 +791,9 @@ script 66 mmbn3 {
 		mugshot = OldWoman
 	msgOpen
 	"""
-	The temperature has
-	dropped. I expected
-	it would get hotter.
+	A temperatura caiu.
+	Eu achei que ia era
+	aumentar.
 	"""
 	keyWait
 	end
@@ -798,16 +803,16 @@ script 70 mmbn3 {
 		mugshot = Nurse
 	msgOpen
 	"""
-	We were lucky to
-	escape a major
-	catastrophe.
+	Demos sorte de
+	evitar uma grande
+	catástrofe.
 	"""
 	keyWait
 	clearMsg
 	"""
-	But the hospital has
-	lost the trust of
-	so many people…
+	Mas o hospital
+	perdeu a confiança
+	de tanta gente...
 	"""
 	keyWait
 	end
@@ -817,16 +822,16 @@ script 71 mmbn3 {
 		mugshot = OldMan
 	msgOpen
 	"""
-	I'm sorry to say,but
-	that I'm checking
-	out myself,too…
+	Lamento dizer, mas
+	eu também vou deixar
+	o hospital...
 	"""
 	keyWait
 	clearMsg
 	"""
-	No place is safe,so
-	I might as well go
-	home.
+	Não há lugar seguro,
+	então melhor ficar
+	em casa mesmo.
 	"""
 	keyWait
 	end
@@ -836,8 +841,8 @@ script 72 mmbn3 {
 		mugshot = Man
 	msgOpen
 	"""
-	So it's because of
-	this tree…
+	Então, foi graças a
+	esta árvore...
 	"""
 	keyWait
 	end
@@ -847,15 +852,16 @@ script 73 mmbn3 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	The Árvore da Vida
-	helped to reduce the
-	rise in temperature.
+	A Árvore da Vida
+	ajudou a reduzir o
+	esquentamento.
 	"""
 	keyWait
 	clearMsg
 	"""
-	That's why we didn't
-	have any fires.
+	Foi por isso que não
+	houve um incêndio,
+	por exemplo.
 	"""
 	keyWait
 	end
@@ -865,22 +871,22 @@ script 74 mmbn3 {
 		mugshot = OldWoman
 	msgOpen
 	"""
-	The tree absorbed
-	the heat and then
-	released steam.
+	A árvore absorveu o
+	calor e liberou
+	vapor.
 	"""
 	keyWait
 	clearMsg
 	"""
-	It's almost like it
-	acted as a
-	sprinkler system.
+	Serviu quase como
+	aquilo, o... o...
+	sprinkler! É!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Nature never fails
-	to surprise me…
+	A natureza nunca
+	para de surpreender...
 	"""
 	keyWait
 	end
@@ -890,16 +896,15 @@ script 80 mmbn3 {
 		mugshot = Nurse
 	msgOpen
 	"""
-	The Officials are
-	currently conducting
-	an investigation.
+	Os Oficiais estão
+	conduzindo uma
+	investigação agora.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Please do not
-	disturb the
-	investigators.
+	Por favor, não os
+	perturbe.
 	"""
 	keyWait
 	end
@@ -909,16 +914,13 @@ script 81 mmbn3 {
 		mugshot = OldWoman
 	msgOpen
 	"""
-	What's this?
-	A lot of important
-	people…
+	O que é isso?
+	Tanta gente
+	importante...
 	"""
 	keyWait
 	clearMsg
-	"""
-	Was there another
-	incident?
-	"""
+	"Outro incidente?"
 	keyWait
 	end
 }
@@ -932,15 +934,15 @@ script 82 mmbn3 {
 		mugshot = SciLabYoungMan
 	msgOpen
 	"""
-	I've been called in
-	from Ameropa.
+	Eu fui convocado da
+	Ameropa.
 	"""
 	keyWait
 	clearMsg
 	"""
-	The WWW is a global
-	threat! We must
-	fight it together!
+	A WWW é uma ameaça
+	global! Temos que
+	nos unir nessa luta!
 	"""
 	keyWait
 	end
@@ -955,9 +957,9 @@ script 83 mmbn3 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	We're using Navis to
-	investigate the
-	Cyberworld for us.
+	Estamos usando Navis
+	para investigar o
+	mundo cibernético.
 	"""
 	keyWait
 	end
@@ -967,9 +969,9 @@ script 85 mmbn3 {
 		mugshot = SciLabYoungMan
 	msgOpen
 	"""
-	I'm making a report
-	to Ameropa about
-	the latest incident!
+	Estou fazendo um
+	relatório pra Ameropa
+	acerca do incidente!
 	"""
 	keyWait
 	end
@@ -979,22 +981,23 @@ script 86 mmbn3 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	The Navis have told
-	us about Alpha. So,
+	Os Navis nos contaram
+	sobre Alpha.
+	Então, como na crise
 	"""
 	keyWait
 	clearMsg
 	"""
-	just as with the
-	BubbleWash crisis,
-	an automatic Navi
+	do BubbleMan, era um
+	Navi solo por trás
+	de tudo.
 	"""
 	keyWait
 	clearMsg
 	"""
-	was behind this.
-	Now,it's up to Navis
-	to resolve things…
+	Agora, está nas mãos
+	dos Navis resolver
+	tudo...
 	"""
 	keyWait
 	end
@@ -1004,9 +1007,9 @@ script 90 mmbn3 {
 		mugshot = Nurse
 	msgOpen
 	"""
-	The hospital is now
-	taking patients and
-	evacuees.
+	O hospital está
+	acolhendo pacientes
+	e refugiados.
 	"""
 	keyWait
 	end
@@ -1015,7 +1018,10 @@ script 91 mmbn3 {
 	mugshotShow
 		mugshot = Girl
 	msgOpen
-	"I want to go home…"
+	"""
+	Eu quero ir pra
+	casa...
+	"""
 	keyWait
 	end
 }
@@ -1024,9 +1030,9 @@ script 92 mmbn3 {
 		mugshot = Woman
 	msgOpen
 	"""
-	I wonder how long we
-	have to stay? This
-	is so depressing.
+	Até quando teremos
+	que ficar? O ambiente
+	é deprimente.
 	"""
 	keyWait
 	end
@@ -1041,15 +1047,16 @@ script 93 mmbn3 {
 		mugshot = OldMan
 	msgOpen
 	"""
-	So the enemy will
-	attack from the Net?
+	O inimigo vai atacar
+	da Rede, é isso
+	mesmo?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Then this hi-tech
-	hospital is a prime
-	target,right?
+	E este hospital ultra-
+	tecnológico é um alvo
+	atraente, não?
 	"""
 	keyWait
 	end
@@ -1059,8 +1066,8 @@ script 94 mmbn3 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	What's going to
-	happen to us?
+	O que vai ser de
+	nós?
 	"""
 	keyWait
 	end
@@ -1070,9 +1077,9 @@ script 100 mmbn3 {
 		mugshot = Nurse
 	msgOpen
 	"""
-	Dr.Hikari? I heard
-	he was go outside
-	to do rehab…
+	O Dr. Hikari? Disseram
+	que saiu pra fazer
+	fisioterapia.
 	"""
 	keyWait
 	end
@@ -1082,9 +1089,9 @@ script 110 mmbn3 {
 		mugshot = Nurse
 	msgOpen
 	"""
-	Good morning! Please
-	stay in. It's still
-	dangerous outside.
+	Por favor, não saia
+	do hospital. Ainda
+	é perigoso lá fora.
 	"""
 	keyWait
 	end
@@ -1094,8 +1101,8 @@ script 111 mmbn3 {
 		mugshot = OldMan
 	msgOpen
 	"""
-	I woke up,but the
-	nightmare continues…
+	Eu acordei, mas o
+	pesadelo continua...
 	"""
 	keyWait
 	end
@@ -1115,21 +1122,22 @@ script 200 mmbn3 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	My sick son
-	asked me to buy
-	him a chip.
+	O meu filho doente
+	me pediu pra comprar
+	um certo chip.
 	"""
 	keyWait
 	clearMsg
 	"""
-	But I think I got
-	the wrong one…
+	Mas acho que peguei
+	o errado...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Hey,do you have the
-	chip,"
+	Ei, rapaz, você tem
+	o chip
+	"
 	"""
 	printChip
 		buffer = 0
@@ -1142,8 +1150,8 @@ script 200 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	If you do,will you
-	please trade for my
+	Se tiver, por favor
+	troca por este meu
 	"
 	"""
 	printChip
@@ -1153,7 +1161,7 @@ script 200 mmbn3 {
 	printCode
 		buffer = 0
 		code = K
-	"\"…"
+	"\"...?"
 	keyWait
 	clearMsg
 	mugshotHide
@@ -1172,7 +1180,7 @@ script 200 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No thanks!"
+	"Nem vem!"
 	select
 		default = 0
 		BSeparate = false
@@ -1202,8 +1210,8 @@ script 201 mmbn3 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	Really? Great!
-	Here's my chip!
+	É mesmo? Maravilha!
+	Aqui, o seu chip!
 	"""
 	keyWait
 	clearMsg
@@ -1231,7 +1239,7 @@ script 202 mmbn3 {
 	printCode
 		buffer = 0
 		code = K
-	"\"!!"
+	"\"!"
 	keyWait
 	playerFinish
 	playerReset
@@ -1245,9 +1253,9 @@ script 203 mmbn3 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	Now my son
-	won't be angry with
-	me! Ha ha ha!
+	Agora, meu filho não
+	vai ficar zangado
+	comigo! Ha ha ha!
 	"""
 	keyWait
 	end
@@ -1257,9 +1265,9 @@ script 204 mmbn3 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	Aaah,that's a pity.
-	I suppose I'll go
-	back to the store…
+	Aaah, que pena.
+	Bom, de volta à
+	loja, eu acho...
 	"""
 	keyWait
 	end
@@ -1269,21 +1277,22 @@ script 205 mmbn3 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	Hmph! I can't seem
-	to find it…
+	Hmpf!
+	Não vejo o chip...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Could you please
-	check your folder?
+	Pode, por favor,
+	conferir se ele
+	está numa pasta?
 	"""
 	keyWait
 	clearMsg
 	"""
-	If it's there,please
-	take it out so that
-	I can see it.
+	Se estiver, tire-o
+	dela para eu poder
+	vê-lo.
 	"""
 	keyWait
 	end
@@ -1293,12 +1302,12 @@ script 206 mmbn3 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	My son's going
-	to be very happy.
+	O meu filho vai
+	ficar tão feliz.
 	"""
 	keyWait
 	clearMsg
-	"Ah,thank goodness."
+	"Ah, graças a Deus."
 	keyWait
 	end
 }
@@ -1307,14 +1316,14 @@ script 207 mmbn3 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	Oh! So you changed
-	your mind about
-	trading?
+	Ah! Então, mudou
+	de ideia quanto
+	à troca?
 	"""
 	keyWait
 	clearMsg
 	"""
-	I want to trade my
+	Quero trocar meu
 	"
 	"""
 	printChip
@@ -1325,8 +1334,8 @@ script 207 mmbn3 {
 		buffer = 0
 		code = K
 	"""
-	" for
-	your "
+	" pelo
+	seu "
 	"""
 	printChip
 		buffer = 0
@@ -1354,7 +1363,7 @@ script 207 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No thanks!"
+	"Nem vem!"
 	select
 		default = 0
 		BSeparate = false
@@ -1369,15 +1378,15 @@ script 207 mmbn3 {
 script 220 mmbn3 {
 	msgOpen
 	"""
-	An examination room
-	for children
+	Um consultório
+	infantil.
 	"""
 	keyWait
 	clearMsg
 	"""
-	The picture of the
-	bunny with a syringe
-	calms the kids down
+	O desenho do coelho
+	com a seringa acalma
+	crianças. Em tese.
 	"""
 	keyWait
 	clearMsg
@@ -1387,8 +1396,9 @@ script 220 mmbn3 {
 		jumpIfFalse = continue
 	clearMsg
 	"""
-	There's something
-	under the door
+	Tem alguma coisa
+	aqui, debaixo da
+	porta.
 	"""
 	keyWait
 	clearMsg
@@ -1411,7 +1421,7 @@ script 220 mmbn3 {
 	printCode
 		buffer = 0
 		code = *
-	"\"!!"
+	"\"!"
 	playerFinish
 	playerReset
 	keyWait
@@ -1432,8 +1442,8 @@ script 221 mmbn3 {
 script 222 mmbn3 {
 	msgOpen
 	"""
-	An elevator switch
-	Want to press it?
+	Um botão de
+	elevador. Apertar?
 	
 	"""
 	option
@@ -1443,7 +1453,7 @@ script 222 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"Sim "
 	option
 		left = 0
 		right = 0
@@ -1451,7 +1461,7 @@ script 222 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No"
+	"Não"
 	select
 		default = 0
 		BSeparate = false
@@ -1467,8 +1477,9 @@ script 222 mmbn3 {
 script 223 mmbn3 {
 	msgOpen
 	"""
-	The elevator opens!
-	Go to which floor?
+	A porta do elevador
+	abriu! Qual andar?
+	
 	"""
 	keyWait
 	clearMsg
@@ -1484,7 +1495,7 @@ script 223 mmbn3 {
 		down = 2
 	space
 		count = 2
-	"3rd Flr  "
+	"3 "
 	option
 		left = 0
 		right = 0
@@ -1492,7 +1503,7 @@ script 223 mmbn3 {
 		down = 3
 	space
 		count = 2
-	"2nd Flr\n"
+	"2\n"
 	option
 		left = 3
 		right = 3
@@ -1500,7 +1511,7 @@ script 223 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Basement "
+	"Subsolo "
 	option
 		left = 2
 		right = 2
@@ -1508,7 +1519,7 @@ script 223 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Nowhere"
+	"Ficar"
 	select
 		default = 0
 		BSeparate = false
@@ -1526,16 +1537,16 @@ script 223 mmbn3 {
 script 224 mmbn3 {
 	msgOpen
 	"""
-	This vending machine
-	has lots of low-
-	calorie items
+	Esta máquina de
+	bebidas tem opções
+	de baixa caloria.
 	"""
 	keyWait
 	clearMsg
 	"""
-	There's a port for
-	jacking in to pay
-	with NetCash
+	E tem uma entrada de
+	conexão, para pagar
+	com NetMoeda.
 	"""
 	keyWait
 	end
@@ -1553,15 +1564,16 @@ script 225 mmbn3 {
 		jumpIfInRange = 250
 		jumpIfOutOfRange = continue
 	"""
-	A reception desk
-	for out-patients
+	Um balcão de
+	recepção para
+	pacientes externos.
 	"""
 	keyWait
 	clearMsg
 	"""
-	It's staffed by a
-	hard-working nurse
-	with a great smile
+	É operado por uma
+	enfermeira dedicada
+	com um belo sorriso.
 	"""
 	keyWait
 	end
@@ -1569,21 +1581,21 @@ script 225 mmbn3 {
 script 226 mmbn3 {
 	msgOpen
 	"""
-	The shelves hold
-	lots of magazines
+	Uma prateleira cheia
+	de revistas.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Patients can read
-	them while waiting
+	Os pacientes as leem
+	enquanto esperam.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Something's written
-	on the inside of
-	the shelves…
+	Tem uma coisa
+	escrita debaixo da
+	prateleira...
 	"""
 	keyWait
 	clearMsg
@@ -1597,30 +1609,30 @@ script 226 mmbn3 {
 script 227 mmbn3 {
 	msgOpen
 	"""
-	The hospital is so
-	modern,but the TV is
-	ancient-looking
+	Apesar do hospital
+	tão moderno, essa TV
+	parece ancestral.
 	"""
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	". "
 	keyWait
 	clearMsg
 	"""
-	But wait! It has a
-	port for jacking in!
+	Ah! Ela tem uma
+	entrada de conexão!
 	"""
 	keyWait
 	clearMsg
 	"""
-	It's a lot newer
-	than it looks
+	É bem mais moderna
+	do que parece.
 	"""
 	keyWait
 	end
@@ -1628,16 +1640,15 @@ script 227 mmbn3 {
 script 228 mmbn3 {
 	msgOpen
 	"""
-	The Árvore da Vida
-	is the symbol of
-	this hospital
+	A Árvore da Vida é o
+	símbolo do hospital.
 	"""
 	keyWait
 	clearMsg
 	"""
-	This tree is tended
-	using high-tech
-	methods
+	Ela é cultivada
+	através de métodos
+	de alta tecnologia.
 	"""
 	keyWait
 	end
@@ -1645,9 +1656,9 @@ script 228 mmbn3 {
 script 229 mmbn3 {
 	msgOpen
 	"""
-	Vines and sharp
-	thorns are blocking
-	the way
+	Vinhas e espinhos
+	afiados barram o
+	caminho.
 	"""
 	keyWait
 	end
@@ -1666,9 +1677,9 @@ script 230 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,we should go to
-	reception and get
-	Yai's room number.
+	Temos que ver qual é
+	o número do quarto
+	da Yai na recepção.
 	"""
 	keyWait
 	end
@@ -1728,7 +1739,7 @@ script 236 mmbn3 {
 		down = 2
 	space
 		count = 2
-	"3rd Flr "
+	"3 "
 	option
 		left = 0
 		right = 0
@@ -1736,7 +1747,7 @@ script 236 mmbn3 {
 		down = 2
 	space
 		count = 2
-	"2nd Flr\n"
+	"2\n"
 	option
 		left = 1
 		right = 1
@@ -1744,7 +1755,7 @@ script 236 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Nowhere"
+	"Ficar"
 	select
 		default = 0
 		BSeparate = false
@@ -1771,22 +1782,25 @@ script 237 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	The nurses will look
-	inside the hospital.
-	Let's look outside!
+	As enfermeiras vão
+	procurar no hospital.
+	Veja lá fora!
 	"""
 	keyWait
 	end
 }
 script 238 mmbn3 {
 	msgOpen
-	"An emergency exit"
+	"""
+	Uma saída
+	de emergência.
+	"""
 	keyWait
 	clearMsg
 	"""
-	It's electronically
-	locked and can't be
-	opened from here
+	Está eletronicamente
+	trancada e não pode
+	ser aberta daqui.
 	"""
 	keyWait
 	end
@@ -1801,7 +1815,7 @@ script 240 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Lan,which floor?"
+	"Lan, qual andar?"
 	keyWait
 	clearMsg
 	jump
@@ -1821,9 +1835,9 @@ script 241 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	It's no good! The
-	elevator isn't
-	working!
+	Não adianta! O
+	elevador não tá
+	funcionando!
 	"""
 	keyWait
 	end
@@ -1836,7 +1850,7 @@ script 242 mmbn3 {
 		down = 2
 	space
 		count = 2
-	"3rd Flr "
+	"3 "
 	option
 		left = 0
 		right = 0
@@ -1844,7 +1858,7 @@ script 242 mmbn3 {
 		down = 2
 	space
 		count = 2
-	"2nd Flr\n"
+	"2\n"
 	option
 		left = 1
 		right = 1
@@ -1852,7 +1866,7 @@ script 242 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Nowhere"
+	"Ficar"
 	select
 		default = 0
 		BSeparate = false
@@ -1880,9 +1894,9 @@ script 245 mmbn3s {
 script 250 mmbn3 {
 	msgOpen
 	"""
-	The receptionists
-	went elsewhere
-	during the emergency
+	Os funcionários foram
+	pra outro lugar durante
+	o incidente.
 	"""
 	keyWait
 	end

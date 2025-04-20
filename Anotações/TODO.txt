@@ -3,6 +3,3 @@
 - Editar gráficos de "Winner" / "Loser" / "Draw", em batalhas por cabo link
 - Editar gráfico de Game Over
 - Portar textos do mmbn3 da coletânea para a versão de GBA.
-
-Estado da comparação entre as pastas "Scripts/Editados/Coletanea" e "Scripts/Editados/Branca":
-  Parei no 075, de 498

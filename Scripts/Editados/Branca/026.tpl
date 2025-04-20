@@ -44,8 +44,8 @@ script 5 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I…I can't seem to
-	jack out!
+	E... eu não consigo
+	me desconectar!
 	"""
 	keyWait
 	end
@@ -55,9 +55,8 @@ script 6 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	We're in the middle
-	of the N-1 Grand
-	Prix!
+	A gente tá no meio
+	do Grande Prêmio N1!
 	"""
 	keyWait
 	end
@@ -71,9 +70,9 @@ script 7 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	We can't jack out
-	now! We have to stop
-	Wily's evil plan!
+	Não podemos desco-
+	nectar agora! Temos
+	que deter o Wily!
 	"""
 	keyWait
 	end
@@ -83,9 +82,9 @@ script 8 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	No good! We can only
-	jack out at the same
-	place we jacked in!
+	Droga! Só dá pra
+	desconectar por
+	onde entramos!
 	"""
 	keyWait
 	end
@@ -94,19 +93,21 @@ script 9 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"・"
+	mugshotAnimate
+		animation = 0
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	". "
 	waitSkip
 		frames = 30
 	"""
-	It won't work! I
-	have to go back to
-	where I came in!
+	Não adianta! Eu
+	tenho que voltar por
+	onde entrei!
 	"""
 	keyWait
 	end

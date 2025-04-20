@@ -891,9 +891,9 @@ script 103 mmbn3 {
 		mugshot = MrMatch
 	msgOpen
 	"""
-	Now I have to get to
-	some other business…
-	See you around,kid!
+	Agora,vou tratar
+	de outros assuntos.
+	A gente se vê, guri!
 	"""
 	keyWait
 	end
