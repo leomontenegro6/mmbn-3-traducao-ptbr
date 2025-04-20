@@ -5,16 +5,16 @@ script 0 mmbn3 {
 		mugshot = MsMari
 	msgOpen
 	"""
-	Okay,class! We
-	certainly learned
-	a lot today!
+	Muito bem, turma! Puxa,
+	aprendemos muita coisa
+	hoje, não é mesmo?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Let's thank the
-	SciLab people for
-	having us in today.
+	Agora, vamos agradecer
+	aos nossos amigos do
+	SciLab pela recepção.
 	"""
 	keyWait
 	clearMsg
@@ -24,7 +24,7 @@ script 0 mmbn3 {
 script 1 mmbn3 {
 	mugshotHide
 	msgOpen
-	"Thank yoooou."
+	"Muito obrigaaaaadoo!"
 	keyWait
 	clearMsg
 	jump
@@ -35,15 +35,15 @@ script 2 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Don't forget! Basics
-	are fundamental,so
-	study hard!
+	Não se esqueçam:
+	o básico é fundamental,
+	então, estudem!
 	"""
 	keyWait
 	clearMsg
 	"""
-	It was a pleasure
-	having you visit!
+	Foi um prazer receber
+	vocês!
 	"""
 	keyWait
 	clearMsg
@@ -55,8 +55,8 @@ script 3 mmbn3 {
 		mugshot = MsMari
 	msgOpen
 	"""
-	Time to go back to
-	school now,class…
+	Hora de voltar para a
+	escola, turma.
 	"""
 	keyWait
 	clearMsg
@@ -68,8 +68,8 @@ script 4 mmbn3 {
 		mugshot = Yai
 	msgOpen
 	"""
-	Hey! Are you all
-	free tonight?
+	Ei! Você vão estar livres
+	hoje à noite?
 	"""
 	keyWait
 	clearMsg
@@ -83,8 +83,8 @@ script 5 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Sure! What's
-	up,Yai?
+	Aham! Tá pensando no
+	quê, Yai?
 	"""
 	keyWait
 	clearMsg
@@ -95,7 +95,7 @@ script 6 mmbn3 {
 	mugshotShow
 		mugshot = Yai
 	msgOpen
-	"Let's chat!"
+	"Bora bater papo!"
 	keyWait
 	clearMsg
 	jump
@@ -106,17 +106,18 @@ script 7 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Chat? Sure,okay!
+	Um bate-papo?
+	Por mim, beleza!
 	Dex,
 	"""
 	flagSet
 		flag = 777
 	wait
 		frames = 30
-	"\nMayl"
+	" Mayl?"
 	flagClear
 		flag = 777
-	"…How about it?"
+	" E vocês?"
 	keyWait
 	clearMsg
 	jump
@@ -128,7 +129,7 @@ script 8 mmbn3 {
 	msgOpen
 	flagSet
 		flag = 778
-	"I'm cool."
+	"Por mim, só bora."
 	keyWait
 	clearMsg
 	jump
@@ -140,7 +141,7 @@ script 9 mmbn3 {
 	msgOpen
 	flagSet
 		flag = 779
-	"I'm good to go,too!"
+	"Eu também posso ir!"
 	keyWait
 	clearMsg
 	jump
@@ -152,18 +153,19 @@ script 10 mmbn3 {
 	msgOpen
 	flagClear
 		flag = 775
-	"OK! We're set!"
+	"Eba! Tá marcado, então!"
 	keyWait
 	clearMsg
 	"""
-	Let's do it at my
-	homepage tonight.
+	O bate-papo vai ser lá
+	na minha página, hoje à
+	noite.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Let's talk more
-	after school.
+	Depois da escola, a
+	gente conversa mais.
 	"""
 	keyWait
 	clearMsg
@@ -174,12 +176,12 @@ script 11 mmbn3 {
 	mugshotShow
 		mugshot = MsMari
 	msgOpen
-	"You over there!"
+	"Vocês aí!"
 	flagSet
 		flag = 776
 	wait
 		frames = 30
-	"\nBe quiet!"
+	"\nSilêncio!"
 	keyWait
 	clearMsg
 	jump
@@ -192,9 +194,9 @@ script 12 mmbn3 {
 	flagClear
 		flag = 776
 	"""
-	Until you get home,
-	you're still on a
-	school trip! Got it?
+	Até chegarem em casa,
+	ainda estão em uma
+	excursão! Entenderam?
 	"""
 	keyWait
 	clearMsg
@@ -205,7 +207,7 @@ script 13 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Yes,ma'am…"
+	"Sim, professora..."
 	keyWait
 	clearMsg
 	jump
@@ -215,7 +217,7 @@ script 14 mmbn3 {
 	mugshotShow
 		mugshot = MsMari
 	msgOpen
-	"Okay,let's go!"
+	"Certo, vamos indo!"
 	keyWait
 	end
 }

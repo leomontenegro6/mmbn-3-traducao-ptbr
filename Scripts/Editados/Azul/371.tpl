@@ -4,7 +4,7 @@ script 0 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Dad!"
+	"Papai!"
 	keyWait
 	end
 }
@@ -13,8 +13,8 @@ script 1 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Dad! Are you
-	all right!?
+	Papai! Tá tudo bem com
+	o senhor?!
 	"""
 	keyWait
 	clearMsg
@@ -25,7 +25,7 @@ script 2 mmbn3 {
 	mugshotShow
 		mugshot = Dad
 	msgOpen
-	"Yes…I think so…"
+	"Sim... Eu acho que sim..."
 	keyWait
 	end
 }
@@ -35,8 +35,8 @@ script 3 mmbn3 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	Dr.Hikari! What are
-	you doing here!?
+	Dr. Hikari!
+	O que você faz aqui?!
 	"""
 	keyWait
 	clearMsg
@@ -48,15 +48,15 @@ script 4 mmbn3 {
 		mugshot = Dad
 	msgOpen
 	"""
-	Oh. Well,the
-	computer sustained
-	damage during the
+	Ah. Bom, o computador
+	levou bastante dano
+	durante o incidente.
 	"""
 	keyWait
 	clearMsg
 	"""
-	incident. I needed
-	to inspect…
+	Eu precisava
+	inspecionar...
 	"""
 	keyWait
 	clearMsg
@@ -68,29 +68,28 @@ script 5 mmbn3 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	What are you talking
-	about!?
+	Do que você está
+	falando?!
 	"""
 	keyWait
 	clearMsg
 	"""
-	You're the one who
-	needs to be
-	inspected! Being
+	É você quem precisa
+	ser inspecionado!
 	"""
 	keyWait
 	clearMsg
 	"""
-	trapped in a room
-	at nearly 200
-	degrees…Here,I'll
+	Ficando preso por horas
+	num quarto a quase 200
+	graus...
 	"""
 	keyWait
 	clearMsg
 	"""
-	check on the system.
-	You get over to the
-	hospital!
+	Olha, deixa que eu
+	confiro o sistema.
+	Vá para o hospital, já!
 	"""
 	keyWait
 	clearMsg
@@ -102,8 +101,8 @@ script 6 mmbn3 {
 		mugshot = Dad
 	msgOpen
 	"""
-	Oh…
-	Thank…you…
+	Ah...
+	Obri... gado...
 	"""
 	keyWait
 	end
@@ -114,7 +113,7 @@ script 7 mmbn3 {
 	soundDisableTextSFX
 	soundPlay
 		track = 258
-	"Thump!"
+	"Plomp!"
 	soundEnableTextSFX
 	keyWait
 	clearMsg
@@ -125,7 +124,7 @@ script 8 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Daaaaaad!!!"
+	"Papaaaaaaaai!!!"
 	keyWait
 	clearMsg
 	flagSet
@@ -138,13 +137,12 @@ script 9 mmbn3 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	Someone! Call a
-	doctor! Dr.Hikari
-	collapsed!
+	Alguém! Chame um médico!
+	O Dr. Hikari desmaiou!
 	"""
 	keyWait
 	clearMsg
-	"Hurry!"
+	"Rápido!"
 	keyWait
 	end
 }

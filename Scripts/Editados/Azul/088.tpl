@@ -4,7 +4,7 @@ script 0 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Lan. You got mail!!"
+	"Lan. Chegou e-mail!!"
 	keyWait
 	end
 }
@@ -19,9 +19,9 @@ script 10 mmbn3 {
 		mugshot = BlackMan
 	msgOpen
 	"""
-	Hey! Samurai boy!
-	You in N1,too?
-	Let's get it on!
+	Ei! "Samurai boy"!
+	Você também tá no N1?
+	Vamos "fight"!
 	"""
 	keyWait
 	end
@@ -31,13 +31,13 @@ script 11 mmbn3 {
 		mugshot = Man
 	msgOpen
 	"""
-	Wow…
-	I can hear the
-	cheers from here…
+	Nossa...
+	Dá pra ouvir o público
+	vibrando daqui...
 	"""
 	keyWait
 	clearMsg
-	"I'm getting nervous…"
+	"Tô ficando nervoso..."
 	keyWait
 	end
 }
@@ -45,7 +45,7 @@ script 20 mmbn3 {
 	mugshotShow
 		mugshot = NetbattlerQ
 	msgOpen
-	"……"
+	"......"
 	keyWait
 	end
 }
@@ -54,8 +54,8 @@ script 25 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's go and see
-	Mayl and the others!
+	Vamos lá até a Mayl
+	e a turma!
 	"""
 	keyWait
 	end
@@ -84,14 +84,15 @@ script 40 mmbn3 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	I thought work would
-	calm down after N1.
+	Eu pensei que o trabalho
+	daria uma acalmada
+	depois do N1.
 	"""
 	keyWait
 	clearMsg
 	"""
-	No such luck!
-	Typical…
+	E adivinha só? Não!
+	Claro que não...
 	"""
 	keyWait
 	end
@@ -105,20 +106,20 @@ script 50 mmbn3 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Now I know why we're
-	still so busy!
-	Its the WWW!
+	Agora, eu sei por que
+	continuamos tão
+	ocupados! É a WWW!
 	"""
 	keyWait
 	clearMsg
 	"""
-	With all the trouble
-	they're causing,we
-	can't take a rest!
+	Com todos os problemas
+	que eles andam causan-
+	do, não podemos relaxar!
 	"""
 	keyWait
 	clearMsg
-	"Sneaky,nasty,evil…"
+	"Essa corja vil,\nasquerosa, maligna..."
 	keyWait
 	end
 }
@@ -127,15 +128,15 @@ script 51 mmbn3 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	We're trying to send
-	emergency news
-	beyond ACDC Town!
+	Estamos tentando enviar
+	avisos de emergência
+	para além de ACDC!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Whew. We just get
-	busier and busier!
+	Uff... A vida aqui só fica
+	mais ocupada!
 	"""
 	keyWait
 	end
@@ -145,16 +146,16 @@ script 55 mmbn3 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Are you a visitor?
-	You're safe as long
-	as you're in here.
+	Você é um visitante?
+	Ficará seguro enquanto
+	estiver aqui.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Just stay here till
-	the Officials can
-	solve the problem.
+	É melhor não sair até os
+	Oficiais resolverem o
+	problema.
 	"""
 	keyWait
 	end
@@ -164,16 +165,16 @@ script 60 mmbn3 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	The TV station has
-	good security,so it
-	avoided heat damage.
+	O prédio tem ótima segu-
+	rança, por isso, evitamos
+	danos do calor.
 	"""
 	keyWait
 	clearMsg
 	"""
-	But I hear other
-	areas are in pretty
-	bad shape…
+	Mas, pelo que ouço,
+	outras áreas ficaram
+	bem avariadas...
 	"""
 	keyWait
 	end
@@ -183,16 +184,16 @@ script 70 mmbn3 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Sunayama,the old DNN
-	director,escaped
-	during the crisis.
+	Sunayama, o ex-diretor
+	da DNN, fugiu durante a
+	crise.
 	"""
 	keyWait
 	clearMsg
 	"""
-	But nobody's paying
-	much attention to
-	that right now.
+	Mas ninguém está dando
+	muita atenção para isso,
+	agora.
 	"""
 	keyWait
 	end
@@ -213,15 +214,15 @@ script 190 mmbn3 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	You?! So you came to
-	deliver the chip!
+	Você?! Então, você veio
+	entregar o chip!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Give it to me!
-	We're already five
-	minutes behind!
+	Dê aqui, pra mim!
+	Já estamos cinco
+	minutos atrasados!
 	"""
 	keyWait
 	clearMsg
@@ -236,7 +237,7 @@ script 191 mmbn3 {
 	mugshotHide
 	msgOpen
 	"""
-	Lan gave a chip for
+	Lan entregou o chip
 	"
 	"""
 	printChip
@@ -259,9 +260,9 @@ script 192 mmbn3 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	I'm so busy! I need
-	a Navi to take
-	this chip to ACDC!
+	Estou tão ocupado! Pre-
+	ciso de um Navi pra levar
+	este chip pra ACDC!
 	"""
 	keyWait
 	end
@@ -271,9 +272,9 @@ script 193 mmbn3 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	Time is against us!
-	Remember,opportunity
-	only lasts a moment!
+	O tempo está contra nós!
+	Lembre-se: oportunida-
+	des são momentâneas!
 	"""
 	keyWait
 	end
@@ -283,27 +284,27 @@ script 194 mmbn3 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	That's too bad!
-	Where's the chip!?
+	Que pena!
+	Cadê o chip?!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Business won't wait!
-	Quick,go get it!
+	Os negócios não esperam!
+	Vai lá buscar, rápido!
 	"""
 	keyWait
 	end
 }
 script 220 mmbn3 {
 	msgOpen
-	"A program poster"
+	"É o pôster de um\nprograma."
 	keyWait
 	clearMsg
 	"""
-	They must have made
-	a lot of them.
-	They're everywhere
+	Devem ter feito muitos
+	deles.
+	Estão por toda parte.
 	"""
 	keyWait
 	end
@@ -311,21 +312,21 @@ script 220 mmbn3 {
 script 221 mmbn3 {
 	msgOpen
 	"""
-	"This way to the
-	studio",it says
+	Está escrito:
+	"Estúdio, por aqui".
 	"""
 	keyWait
 	end
 }
 script 222 mmbn3 {
 	msgOpen
-	"Large stage props"
+	"Enormes adereços de\npalco."
 	keyWait
 	clearMsg
 	"""
-	Looks like they're
-	used in the popular
-	"Afternoon Show"…
+	Parece que são usados
+	no popular programa
+	"Navi Você"...
 	"""
 	keyWait
 	clearMsg
@@ -335,8 +336,8 @@ script 222 mmbn3 {
 		jumpIfFalse = continue
 	clearMsg
 	"""
-	There's something
-	shiny between them…
+	Você vê uma coisa
+	brilhando no meio deles...
 	"""
 	keyWait
 	clearMsg
@@ -348,7 +349,7 @@ script 222 mmbn3 {
 		item = 98
 		amount = 1
 	"""
-	Lan got a PowerUp:
+	Lan adquiriu um PowerUp:
 	"
 	"""
 	printItem
@@ -360,8 +361,8 @@ script 222 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Regular memory
-	increased by 1 MB!
+	Memória padrão
+	aumentada em 1 MB!
 	"""
 	keyWait
 	end
@@ -369,15 +370,16 @@ script 222 mmbn3 {
 script 223 mmbn3 {
 	msgOpen
 	"""
-	A poster of Ribitta,
-	a popular presenter
+	Um pôster da Ribitta,
+	uma apresentadora
+	muito popular.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Her fans even take
-	the posters off the
-	walls for themselves
+	Os fãs mais radicais dela
+	até arrancam estes pôs-
+	teres e levam pra casa.
 	"""
 	keyWait
 	end
@@ -385,19 +387,19 @@ script 223 mmbn3 {
 script 224 mmbn3 {
 	msgOpen
 	"""
-	The TV station's
-	vending machine has
-	special drinks…
+	A máquina de bebidas
+	da emissora possui
+	bebidas especiais...
 	"""
 	keyWait
 	clearMsg
-	"\"NetRangers Juice\"!!"
+	"\"Suco NetRangers\"!!"
 	keyWait
 	clearMsg
 	"""
-	Its just OJ,but it
-	has DNN characters
-	printed on the can
+	É suco de laranja normal,
+	mas com personagens da
+	DNN na lata.
 	"""
 	keyWait
 	end
@@ -405,15 +407,15 @@ script 224 mmbn3 {
 script 225 mmbn3 {
 	msgOpen
 	"""
-	It's a schedule of
-	studio events
+	É um cronograma dos
+	trabalhos do estúdio.
 	"""
 	keyWait
 	clearMsg
 	"""
-	It's organized
-	minute by minute.
-	They must be busy
+	Lista os planos minuto
+	por minuto. Acho que
+	eles andam ocupados.
 	"""
 	keyWait
 	end
@@ -421,8 +423,8 @@ script 225 mmbn3 {
 script 226 mmbn3 {
 	msgOpen
 	"""
-	The studio entrance
-	for the audience
+	A entrada de público
+	do estúdio.
 	"""
 	keyWait
 	end
@@ -430,9 +432,9 @@ script 226 mmbn3 {
 script 227 mmbn3 {
 	msgOpen
 	"""
-	"Entrance for TV
-	station personnel
-	only",it says
+	Está escrito:
+	"Entrada exclusiva para
+	funcionários da DNN".
 	"""
 	keyWait
 	end
@@ -445,8 +447,8 @@ script 228 mmbn3 {
 		jumpIfOutOfRange = continue
 	msgOpen
 	"""
-	An elevator switch.
-	Want to press it?
+	É um botão de elevador.
+	Quer apertá-lo?
 	
 	"""
 	option
@@ -456,7 +458,7 @@ script 228 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"   Sim "
 	option
 		left = 0
 		right = 0
@@ -464,7 +466,7 @@ script 228 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No"
+	"          Não"
 	select
 		default = 0
 		BSeparate = false
@@ -489,8 +491,8 @@ script 229 mmbn3 {
 		jumpIfFalse = 233
 	msgOpen
 	"""
-	The doors opened!
-	Want to go up?
+	O elevador se abriu!
+	Subir?
 	
 	"""
 	option
@@ -500,7 +502,7 @@ script 229 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"   Sim "
 	option
 		left = 0
 		right = 0
@@ -508,7 +510,7 @@ script 229 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No"
+	"          Não"
 	select
 		default = 0
 		BSeparate = false
@@ -527,8 +529,9 @@ script 229 mmbn3 {
 script 230 mmbn3 {
 	msgOpen
 	"""
-	A securely locked
-	storeroom door
+	A porta para uma
+	despensa. Está
+	fortemente trancada.
 	"""
 	keyWait
 	end
@@ -536,9 +539,9 @@ script 230 mmbn3 {
 script 231 mmbn3 {
 	msgOpen
 	"""
-	Looks like this
-	elevator goes up to
-	the editing room
+	Parece que esse
+	elevador dá acesso à
+	sala de edição.
 	"""
 	keyWait
 	end
@@ -548,15 +551,15 @@ script 232 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Mayl's waiting. We
-	should hurry
+	A Mayl tá esperando.
+	É melhor a gente correr.
 	"""
 	keyWait
 	end
 }
 script 233 mmbn3 {
 	msgOpen
-	"It isn't working now"
+	"Não está funcionando\nagora."
 	keyWait
 	end
 }

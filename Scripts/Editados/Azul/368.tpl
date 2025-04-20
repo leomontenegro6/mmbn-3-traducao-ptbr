@@ -5,9 +5,8 @@ script 0 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	There you are,
-	FlamMan! Prepare to
-	battle!
+	Aí está você, FlameMan!
+	Prepare-se pra lutar!
 	"""
 	keyWait
 	clearMsg
@@ -19,22 +18,22 @@ script 1 mmbn3 {
 		mugshot = FlameMan
 	msgOpen
 	"""
-	Whraaaah…
-	(You finally came,
-	boy.)
+	Urrraaaaaahhh...
+	(Enfim, você veio,
+	criança.)
 	"""
 	keyWait
 	clearMsg
 	"""
-	Whraah…Aaaah.
-	(I will burn you.)
+	Uraaah... Aaahh.
+	(Eu vou incinerá-lo.)
 	"""
 	keyWait
 	clearMsg
 	"""
-	Whraaah…
-	(Then Mr.Match will
-	be happy.)
+	Urraaahh...
+	(Aí, o Sr. Match ficará
+	feliz.)
 	"""
 	keyWait
 	clearMsg
@@ -46,8 +45,8 @@ script 2 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Try and burn me if
-	you can!
+	Tenta me incinerar,
+	quero só ver!
 	"""
 	keyWait
 	clearMsg
@@ -59,17 +58,21 @@ script 3 mmbn3 {
 		mugshot = MrMatch
 	msgOpen
 	"""
-	Heh heh heh!
-	The party's started!
+	He he he!
+	A festa começou!
 	"""
 	keyWait
 	clearMsg
-	"I'm all fired up!"
+	"""
+	O meu sangue está
+	fervendo!
+	"""
 	keyWait
 	clearMsg
 	"""
-	OK,Lan and MegaMan!
-	Come and get me!
+	Venham, Lan e MegaMan!
+	Derrubem-me, se forem
+	capazes!
 	"""
 	keyWait
 	clearMsg
@@ -81,14 +84,13 @@ script 4 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	We don't need an
-	invitation!
+	Nem precisa convidar
+	a gente!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Are you ready,
-	MegaMan?
+	Tá pronto, MegaMan?
 	"""
 	keyWait
 	clearMsg
@@ -100,8 +102,8 @@ script 5 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I was programmed
-	ready!
+	Eu fui programado
+	pronto!
 	"""
 	keyWait
 	clearMsg
@@ -112,13 +114,13 @@ script 6 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Let's get him!"
+	"Bora pra cima dele!"
 	keyWait
 	clearMsg
-	"Battle routine,"
+	"Rotina "
 	waitSkip
 		frames = 30
-	"set!"
+	"de batalha...!"
 	keyWait
 	clearMsg
 	jump
@@ -128,7 +130,7 @@ script 7 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Execute!"
+	"Executar!"
 	keyWait
 	clearMsg
 	jump
@@ -139,9 +141,9 @@ script 8 mmbn3 {
 		mugshot = MrMatch
 	msgOpen
 	"""
-	Light up,FlamMan!
-	Burn MegaMan to
-	ash!
+	Arda, FlameMan!
+	Reduza MegaMan.EXE
+	a cinzas!
 	"""
 	keyWait
 	clearMsg
@@ -152,7 +154,7 @@ script 9 mmbn3 {
 	mugshotShow
 		mugshot = FlameMan
 	msgOpen
-	"Whraaaaaaah!!"
+	"Urraaaaaaaahhh!!"
 	keyWait
 	end
 }

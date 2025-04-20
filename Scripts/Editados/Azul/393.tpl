@@ -5,9 +5,9 @@ script 0 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	So…
-	This is the Undernet
-	server?
+	Então...
+	Esse é o servidor da
+	Undernet?
 	"""
 	keyWait
 	end
@@ -17,9 +17,9 @@ script 1 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	This server's huge!
-	I've never seen
-	anything like it!
+	É enorme!
+	Eu nunca vi um servidor
+	assim antes!
 	"""
 	keyWait
 	clearMsg
@@ -30,8 +30,8 @@ script 2 mmbn3 {
 	mugshotHide
 	msgOpen
 	"""
-	Bearer of rank #2!
-	Jack in.
+	Detentor do ranque #2!
+	Conecte-se.
 	"""
 	keyWait
 	end
@@ -40,14 +40,14 @@ script 3 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Wh-who said that!?"
+	"Q-quem disse isso?!"
 	keyWait
 	end
 }
 script 4 mmbn3 {
 	mugshotHide
 	msgOpen
-	"Jack in…"
+	"Conecte-se..."
 	keyWait
 	end
 }
@@ -56,15 +56,13 @@ script 5 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Well,we didn't come
-	all this way for
-	nothing.
+	Bom, a gente não veio
+	até aqui pra nada.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Are you ready,
-	MegaMan?
+	Tá pronto, MegaMan?
 	"""
 	keyWait
 	clearMsg
@@ -75,7 +73,7 @@ script 6 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Ready and willing!"
+	"Mais que nunca!"
 	keyWait
 	end
 }

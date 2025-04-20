@@ -5,9 +5,9 @@ script 0 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	A secret area in
-	the Undernet Square…
-	Be careful!
+	Uma área secreta no
+	Undernet Plaza...
+	Toma muito cuidado!
 	"""
 	keyWait
 	end

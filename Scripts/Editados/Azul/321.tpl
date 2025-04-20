@@ -4,7 +4,7 @@ script 0 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Hey,Mamoru!"
+	"Oi, Mamoru!"
 	keyWait
 	end
 }
@@ -12,7 +12,7 @@ script 1 mmbn3 {
 	mugshotShow
 		mugshot = Mamoru
 	msgOpen
-	"Lan! You came!"
+	"Lan! Você veio!"
 	keyWait
 	clearMsg
 	jump
@@ -22,7 +22,10 @@ script 2 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"How're you feeling?"
+	"""
+	E aí, como você tá se
+	sentindo?
+	"""
 	keyWait
 	clearMsg
 	jump
@@ -33,16 +36,16 @@ script 3 mmbn3 {
 		mugshot = Mamoru
 	msgOpen
 	"""
-	I'm okay. So what
-	do you think? Nice
-	breeze,huh?
+	Eu tô bem.
+	E aí, o que achou?
+	Brisa gostosinha, né?
 	"""
 	keyWait
 	clearMsg
 	"""
-	I always come here
-	on days when I'm
-	feeling well.
+	Eu sempre venho aqui
+	nos dias em que estou
+	me sentindo bem.
 	"""
 	keyWait
 	clearMsg
@@ -56,8 +59,8 @@ script 4 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Wow! You can see the
-	horizon!
+	Caramba! Dá pra ver
+	o horizonte lá longe!
 	"""
 	keyWait
 	clearMsg
@@ -71,9 +74,9 @@ script 5 mmbn3 {
 		mugshot = Mamoru
 	msgOpen
 	"""
-	…I've been looking
-	at this view since I
-	was three.
+	... Eu venho vendo essa
+	paisagem desde os meus
+	três anos.
 	"""
 	keyWait
 	clearMsg
@@ -86,13 +89,12 @@ script 6 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Huh?"
+	"Hã?"
 	waitSkip
 		frames = 30
 	"""
-	 Since you
-	were three? That
-	means…
+	Desde os três anos?
+	Mas, então...
 	"""
 	keyWait
 	clearMsg
@@ -104,16 +106,15 @@ script 7 mmbn3 {
 		mugshot = Mamoru
 	msgOpen
 	"""
-	Yeah,I've been
-	hospitalized all
-	this time.
+	É, eu estou no hospital
+	desde aquela época.
 	"""
 	keyWait
 	clearMsg
 	"""
-	They say I have a
-	heart condition
-	called "HBD".
+	Dizem que eu tenho uma
+	doença cardíaca
+	chamada "HBD".
 	"""
 	keyWait
 	clearMsg
@@ -135,16 +136,15 @@ script 9 mmbn3 {
 		mugshot = Mamoru
 	msgOpen
 	"""
-	I've never been to
-	school and don't
-	have friends. Just
+	Eu nunca fui pra escola
+	nem tenho amigos.
 	"""
 	keyWait
 	clearMsg
 	"""
-	me and the ocean. It
-	helps me forget all
-	my troubles.
+	Sou só eu e o mar.
+	Ele me ajuda a esquecer
+	todos os meus problemas.
 	"""
 	keyWait
 	clearMsg
@@ -156,16 +156,15 @@ script 10 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	What are you talking
-	about!?
-	You've got a friend
+	Que papo é esse?!
+	Você tem um amigo bem
+	aqui!
 	"""
 	keyWait
 	clearMsg
 	"""
-	right here! You
-	don't have to be
-	lonely!
+	Não precisa sentir que
+	está sozinho!
 	"""
 	keyWait
 	clearMsg
@@ -187,7 +186,7 @@ script 11 mmbn3 {
 	"."
 	waitSkip
 		frames = 30
-	"Thank you!"
+	" Obrigado!"
 	keyWait
 	clearMsg
 	jump
@@ -199,7 +198,7 @@ script 12 mmbn3 {
 	msgOpen
 	mugshotAnimate
 		animation = 0
-	"Sure!"
+	"Quê isso!"
 	waitSkip
 		frames = 30
 	"."
@@ -214,9 +213,9 @@ script 12 mmbn3 {
 	mugshotAnimate
 		animation = 1
 	"""
-	Hey,Mamoru!
-	Is there a Battle
-	Chip you want?
+	Ei, Mamoru!
+	Tem algum BattleChip
+	que você queira?
 	"""
 	keyWait
 	clearMsg
@@ -228,22 +227,22 @@ script 13 mmbn3 {
 		mugshot = Mamoru
 	msgOpen
 	"""
-	Huh? A BattleChip I
-	want? Let's see…
-	I'd like to get my
+	Hm? Um BattleChip que
+	eu queira? Deixa eu
+	ver...
 	"""
 	keyWait
 	clearMsg
 	"""
-	hands on that chip
-	everyone on Beach
-	Street's been
+	Eu queria um chip de
+	que todo mundo na Rua
+	Angra tá falando.
 	"""
 	keyWait
 	clearMsg
 	"""
-	talking about. It's
-	called a "
+	O nome desse chip
+	é "
 	"""
 	printChip
 		buffer = 0
@@ -254,14 +253,13 @@ script 13 mmbn3 {
 		code = M
 	"""
 	",
-	but it's extremely
+	mas ele é super raro.
 	"""
 	keyWait
 	clearMsg
 	"""
-	rare. I'd be happy
-	if I could even get
-	a glimpse of it!
+	Eu já ficaria satisfeito
+	só de ver ele de longe!
 	"""
 	keyWait
 	clearMsg
@@ -273,14 +271,14 @@ script 14 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	No problem! I'll go
-	get one for you!
+	Beleza!
+	Eu arranjo um pra você!
 	"""
 	keyWait
 	clearMsg
 	"""
-	It'll be a token of
-	our friendship!
+	Vai ser um símbolo da
+	nossa amizade!
 	"""
 	keyWait
 	clearMsg
@@ -292,24 +290,24 @@ script 15 mmbn3 {
 		mugshot = Mamoru
 	msgOpen
 	"""
-	Really!? All right!
-	Promise me!
+	De verdade?! Que legal!
+	É uma promessa!
 	"""
 	keyWait
 	clearMsg
-	"Yippee! Yippee!"
+	"Ebaaa! Ebaaaa!"
 	waitSkip
 		frames = 30
 	"""
-	 Yi…
-	Achk!
+	Eb…
+	Arck!
 	"""
 	waitSkip
 		frames = 30
-	"…Uh"
+	"... Ur"
 	waitSkip
 		frames = 30
-	"Ahkuh…"
+	"Ack... ugh..."
 	keyWait
 	clearMsg
 	jump
@@ -327,7 +325,7 @@ script 16 mmbn3 {
 	waitSkip
 		frames = 30
 	"""
-	 Huff…Huff…
+	 Uff... uff...
 	.
 	"""
 	waitSkip
@@ -338,10 +336,10 @@ script 16 mmbn3 {
 	"."
 	waitSkip
 		frames = 30
-	"H-help m…"
+	"M-me aju..."
 	keyWait
 	clearMsg
-	"Uhhgh…"
+	"Uuunnhgh..."
 	keyWait
 	end
 }
@@ -351,7 +349,7 @@ script 17 mmbn3 {
 	msgOpen
 	"""
 	Mamoru!
-	Are you OK!?
+	Tá tudo bem com você?!
 	"""
 	keyWait
 	clearMsg
@@ -363,9 +361,9 @@ script 18 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Calm down,Mamoru!
-	Relax your body and
-	take deep breaths!
+	Fica calmo, Mamoru!
+	Relaxe o corpo e respire
+	fundo e devagar!
 	"""
 	keyWait
 	clearMsg
@@ -376,13 +374,13 @@ script 19 mmbn3 {
 	mugshotShow
 		mugshot = Mamoru
 	msgOpen
-	"Huff…Huff…"
+	"Uff... Uff..."
 	waitSkip
 		frames = 30
 	"""
 	Ack!
-	Ssssss… Haaaa…
-	Ssssss… Haaaa…
+	Fuuuu.... Ahhhh...
+	Fuuuu.... Ahhhh...
 	"""
 	keyWait
 	clearMsg
@@ -412,13 +410,13 @@ script 19 mmbn3 {
 		frames = 30
 	"""
 	.
-	I-
+	E-
 	"""
 	waitSkip
 		frames = 30
 	"""
-	I'm feeling…
-	a little better…
+	eu já me sinto...
+	um pouco melhor...
 	"""
 	keyWait
 	end
@@ -428,14 +426,14 @@ script 20 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan! Hurry up and
-	call a doctor!
+	Lan!
+	Rápido, chama um médico!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Quick! Before he
-	has another attack!
+	Vai! Antes que ele
+	tenha outro ataque!
 	"""
 	keyWait
 	clearMsg
@@ -446,13 +444,13 @@ script 21 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Right!"
+	"Tá bom!"
 	keyWait
 	clearMsg
 	"""
-	MegaMan…
-	How do you know so
-	much?
+	MegaMan...
+	Como você sabe tanto
+	sobre isso?
 	"""
 	keyWait
 	clearMsg
@@ -464,8 +462,8 @@ script 22 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Because I've been
-	through this before.
+	Porque eu já passei
+	por isso.
 	"""
 	keyWait
 	clearMsg
@@ -476,10 +474,10 @@ script 23 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"What!?"
+	"O quê?!"
 	keyWait
 	clearMsg
-	"You mean…"
+	"Tá dizendo que..."
 	keyWait
 	clearMsg
 	jump
@@ -489,7 +487,7 @@ script 24 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Yes"
+	"É"
 	waitSkip
 		frames = 30
 	"."
@@ -502,16 +500,16 @@ script 24 mmbn3 {
 	waitSkip
 		frames = 30
 	"""
-	HBD
-	is what took my life
-	as Hub.
+	foi o HBD
+	que tirou a minha vida
+	como Hub.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Now's not the time
-	for this,Lan! Go get
-	a doctor!
+	Mas depois a gente
+	fala disso, Lan!
+	Traz um médico!
 	"""
 	keyWait
 	clearMsg
@@ -522,7 +520,7 @@ script 25 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Oh! Yeah!"
+	"Ah! Tá, eu vou!"
 	keyWait
 	end
 }

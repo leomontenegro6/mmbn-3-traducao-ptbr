@@ -5,9 +5,9 @@ script 0 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	What!?
-	Chisao came to take
-	you to Netopia!?
+	O quê?!
+	O Chisao veio pra te
+	levar pra Ameropa?!
 	"""
 	keyWait
 	clearMsg
@@ -19,8 +19,8 @@ script 1 mmbn3 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Yeah! I'm surprised
-	myself!
+	É! Eu também tô
+	surpreso.
 	"""
 	keyWait
 	clearMsg
@@ -31,7 +31,7 @@ script 2 mmbn3 {
 	mugshotShow
 		mugshot = Mayl
 	msgOpen
-	"So you're leaving?"
+	"Então, você vai embora?"
 	keyWait
 	clearMsg
 	jump
@@ -41,20 +41,20 @@ script 3 mmbn3 {
 	mugshotShow
 		mugshot = Dex
 	msgOpen
-	"No,don't worry!"
+	"Não, relaxa!"
 	keyWait
 	clearMsg
 	"""
-	Somebody's gotta
-	stick around as boss
-	of ACDC Elementary!
+	O chefe do Colégio ACDC
+	precisa ficar aqui pra
+	manter a ordem!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I hate to disappoint
-	Chisao and my
-	father,though…
+	Dito isso, eu odeio
+	desapontar o Chisao
+	e o meu pai...
 	"""
 	keyWait
 	clearMsg
@@ -66,14 +66,14 @@ script 4 mmbn3 {
 		mugshot = Yai
 	msgOpen
 	"""
-	Well,don't let ME
-	keep you here…
+	Bom, EU é que não tô
+	te segurando aqui...
 	"""
 	keyWait
 	clearMsg
 	"""
-	So,what happened
-	to Chisao?
+	Mas e aí, o que
+	aconteceu com o Chisao?
 	"""
 	keyWait
 	clearMsg
@@ -85,22 +85,22 @@ script 5 mmbn3 {
 		mugshot = Dex
 	msgOpen
 	"""
-	He got homesick,and
-	went back to Netopia
-	yesterday!
+	Ele ficou com saudades
+	de casa, daí, voltou pra
+	Ameropa ontem!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'm sorry for all
-	the trouble he
-	caused you guys!
+	Desculpa por todos os
+	problemas que ele
+	causou pra vocês!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Please accept my
-	apologies!!!!
+	Minhas sinceras
+	desculpas!
 	"""
 	keyWait
 	clearMsg
@@ -113,7 +113,7 @@ script 6 mmbn3 {
 	msgOpen
 	playerAnimate
 		animation = 24
-	"Ah,it was nothing!"
+	"Ah, imagina!"
 	playerFinish
 	playerReset
 	keyWait
@@ -126,9 +126,9 @@ script 7 mmbn3 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	Yeah,I think it's
-	sweet,the way you
-	two are so close!
+	É. Eu acho muito fofo
+	como vocês dois são
+	próximos!
 	"""
 	keyWait
 	clearMsg
@@ -140,16 +140,16 @@ script 8 mmbn3 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Really?
-	Ha ha ha! I guess
-	we are!
+	É mesmo?
+	Ha ha ha! É, acho que
+	a gente é, mesmo!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I feel pretty good
-	now! Like I can take
-	on the WWW alone!
+	Eu tô me sentindo ótimo
+	agora! Como se pudesse
+	encarar a WWW sozinho!
 	"""
 	keyWait
 	clearMsg
@@ -161,9 +161,9 @@ script 9 mmbn3 {
 		mugshot = Yai
 	msgOpen
 	"""
-	Maybe you should try
-	to become the #1
-	NetBattler,first?
+	Hum. Que tal virar o
+	melhor NetLutador do
+	bairro, primeiro?
 	"""
 	keyWait
 	clearMsg
@@ -175,9 +175,9 @@ script 10 mmbn3 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Urk!! Why,I'll get
-	you for that,you
-	little…!
+	Urgh! Ai, cutucando a
+	ferida desse jeito...
+	cê vai ver só!
 	"""
 	keyWait
 	clearMsg

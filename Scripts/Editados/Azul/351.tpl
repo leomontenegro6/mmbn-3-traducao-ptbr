@@ -5,8 +5,8 @@ script 0 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	All right,I'm back!
-	That's it,right?
+	Pronto, voltei!
+	Foi tudo, né?
 	"""
 	keyWait
 	clearMsg
@@ -18,9 +18,9 @@ script 1 mmbn3 {
 		mugshot = MrMatch
 	msgOpen
 	"""
-	Thanks a lot,Lan!
-	Now for the lobby
-	vending machine.
+	Muito obrigado, Lan!
+	Agora, a máquina de
+	bebidas.
 	"""
 	keyWait
 	clearMsg
@@ -31,7 +31,7 @@ script 2 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"What? Another one?"
+	"Quê? Outra?"
 	keyWait
 	clearMsg
 	jump
@@ -42,9 +42,9 @@ script 3 mmbn3 {
 		mugshot = MrMatch
 	msgOpen
 	"""
-	We're almost done.
-	Hurry up and finish,
-	please!
+	Falta pouco.
+	Por favor, termina isso
+	rapidinho, vai!
 	"""
 	keyWait
 	end
@@ -54,9 +54,9 @@ script 4 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	The lobby vending
-	machine is next. We
-	promised. Let's go!
+	Agora, é a máquina de
+	bebidas do saguão. A
+	gente prometeu. Vamos!
 	"""
 	keyWait
 	clearMsg
@@ -67,7 +67,7 @@ script 5 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Yeah,yeah."
+	"Eu sei, eu sei."
 	keyWait
 	end
 }

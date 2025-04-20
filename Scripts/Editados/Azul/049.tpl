@@ -32,9 +32,9 @@ script 1 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	So this is the
-	Undernet? I don't
-	see any WWW members…
+	Então, esta é a
+	Undernet? Não tô
+	vendo nenhum membro da WWW...
 	"""
 	keyWait
 	end
@@ -60,9 +60,9 @@ script 150 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	We have to put out
-	these Net fires and
-	capture Match!!
+	Temos que apagar as
+	chamas na Rede e
+	capturar o Match!!
 	"""
 	keyWait
 	end
@@ -77,9 +77,9 @@ script 151 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	FlamMan is in
+	O FlameMan tá em
 	Undernet 3!
-	We have to hurry!!
+	Temos que correr!!
 	"""
 	keyWait
 	end
@@ -94,9 +94,9 @@ script 152 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	There's FlamMan!
-	This'll be risky,
-	but we must get him!
+	Tá ali o FlameMan! Não
+	vai ser fácil, mas a gente
+	tem que se livrar dele!
 	"""
 	keyWait
 	end
@@ -106,9 +106,8 @@ script 153 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Let's get back
-	to SciLab and check
-	on dad!!
+	Vamos voltar pro SciLab
+	e ver como o papai tá!
 	"""
 	keyWait
 	end
@@ -118,9 +117,9 @@ script 154 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan,I'm sorry…
-	I'm just not in the
-	mood for the Net…
+	MegaMan, foi mal...
+	Eu não tô no clima pra
+	zanzar pela Rede..
 	"""
 	keyWait
 	end
@@ -130,9 +129,9 @@ script 155 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	FlamMan should be
-	in this area! Let's
-	find him!!
+	O FlameMan deve estar
+	nesta área!
+	Vamos achar ele!!
 	"""
 	keyWait
 	end
@@ -142,9 +141,9 @@ script 156 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	We don't have time
-	to hesitate! We have
-	to keep moving!!
+	A gente não tem tempo
+	pra ficar hesitando!
+	Temos que ir em frente!!
 	"""
 	keyWait
 	end
@@ -178,9 +177,9 @@ script 181 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Maybe I was a bit
-	rough. Think I need
-	to go apologize?
+	Acho que eu peguei
+	pesado. Será que eu
+	devia pedir desculpa?
 	"""
 	keyWait
 	end
@@ -190,9 +189,9 @@ script 182 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	What's up with that
-	Chaud? Well,let's
-	check on dad…
+	Qual é a do Chaud, hein?
+	Bom, vamos lá ver como
+	o papai tá...
 	"""
 	keyWait
 	end
@@ -202,9 +201,9 @@ script 183 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	We don't have time
-	for this! Let's go
-	see Chaud!
+	A gente não tem tempo
+	pra isto! Vamos lá falar
+	com o Chaud!
 	"""
 	keyWait
 	end
@@ -219,9 +218,8 @@ script 184 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Break into Under
-	Square? Sounds
-	dangerous,but…
+	Invadir o Under Plaza?
+	Parece perigoso, mas...
 	"""
 	keyWait
 	end
@@ -236,9 +234,9 @@ script 185 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Let's look for the
-	other contestants!!
-	Keep it up,MegaMan!
+	Vamos atrás dos outros
+	competidores!!
+	Continua assim, MegaMan!
 	"""
 	keyWait
 	end
@@ -253,9 +251,9 @@ script 186 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	This place could be
-	dangerous! Stay on
-	your toes,MegaMan!
+	Esse lugar pode ser
+	perigoso! Fica atento,
+	MegaMan!
 	"""
 	keyWait
 	end
@@ -265,9 +263,9 @@ script 187 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Rank 10 is "where
-	evil falls"? Where
-	could that be?
+	O ranque 10 tá "onde
+	o mal cai"? Onde gente
+	má cai...? Hm...
 	"""
 	keyWait
 	end
@@ -277,9 +275,9 @@ script 188 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	We should start by
-	gathering some
-	information!
+	É melhor a gente
+	começar reunindo
+	informação!
 	"""
 	keyWait
 	end
@@ -289,9 +287,9 @@ script 189 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	The other players
-	are in Undernet
-	areas 1,2,and 3!
+	Os outros jogadores
+	tão na Undernet, nas
+	áreas 1, 2 e 3!
 	"""
 	keyWait
 	end
@@ -301,9 +299,9 @@ script 190 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	The other players
-	are in Undernet
-	areas 1,2,and 3!
+	Os outros jogadores
+	tão na Undernet, nas
+	áreas 1, 2 e 3!
 	"""
 	keyWait
 	end
@@ -353,9 +351,9 @@ script 194 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Rank 10 is "where
-	evil falls"? Where
-	could that be?
+	O ranque 10 tá "onde
+	o mal cai"? Onde gente
+	má cai...? Hm...
 	"""
 	keyWait
 	end
@@ -365,9 +363,9 @@ script 195 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	"Where science gives
-	life"? Using science
-	to live longer…?
+	"Onde a ciência nutre
+	vida"? Tipo, usar ciência
+	pra viver mais...?
 	"""
 	keyWait
 	end
@@ -378,8 +376,8 @@ script 196 mmbn3 {
 	msgOpen
 	"""
 	"Rednu3"?
-	Does that mean
-	something special…?
+	Será que tem um jeito
+	especial de ler isso...?
 	"""
 	keyWait
 	end
@@ -389,9 +387,9 @@ script 197 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	That was scary! OK,
-	let's look for the
-	"head of learning"!
+	Cara, medonho! Beleza,
+	agora, quem seria o "líder
+	do aprendizado"?
 	"""
 	keyWait
 	end
@@ -407,9 +405,9 @@ script 198 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	"One of many birds"…
-	Hmmmmm,what could
-	that be?
+	"Um de muitos pássaros"...
+	Hmmm, o que poderia ser
+	isso?
 	"""
 	keyWait
 	end
@@ -423,9 +421,9 @@ script 199 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Could that mail be
-	real? Oh,well. Let's
-	go to ACDC Square!
+	Será que aquele e-mail
+	era real? Hm. Enfim,
+	bora pro ACDC Plaza!
 	"""
 	keyWait
 	end
@@ -440,9 +438,9 @@ script 200 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	A challenge from
-	Rank 3!! I'll go
-	anywhere for that!
+	Um desafio do Ranque 3!
+	Eu toparia ir pra
+	qualquer lugar pra isso!
 	"""
 	keyWait
 	end
@@ -452,9 +450,9 @@ script 201 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	"Place of battle"?
-	I guess it must be
-	a place to fight…
+	"Local de batalha"?
+	Bom, deve ser um lugar
+	onde se luta, né...
 	"""
 	keyWait
 	end
@@ -464,9 +462,9 @@ script 202 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	"Boulder"? But those
-	are all over! Do we
-	search them all?
+	"Rocha"? Mas tem rocha
+	pra todo canto! Vamos
+	ter que conferir todas?
 	"""
 	keyWait
 	end
@@ -476,9 +474,8 @@ script 204 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	We have to catch
-	that Navi who
-	stole Alpha!!
+	Temos que pegar aquele
+	Navi que roubou o Alpha!!
 	"""
 	keyWait
 	end
@@ -488,9 +485,9 @@ script 205 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	This is where Rank 3
-	said he would meet
-	us,right?
+	Foi aqui que o Ranque 3
+	disse que ia se encon-
+	trar com a gente, né?
 	"""
 	keyWait
 	end
@@ -500,9 +497,9 @@ script 206 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I wonder what's up
-	with Mayl? Let's go
-	to ZooComp and see!
+	O que será que rolou
+	com a Mayl? Bom, vamos
+	ver lá no CPU Zoológc.!
 	"""
 	keyWait
 	end
@@ -512,9 +509,9 @@ script 207 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	This must be "one
-	of many birds"!
-	Let's get to Rank 7!
+	Deve ser isso o "um
+	de muitos pássaros"!
+	Vamos lá pro ranque 7!
 	"""
 	keyWait
 	end
@@ -524,9 +521,9 @@ script 208 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Who's that mail
-	from? Let's read
-	it and see!
+	De quem será aquele
+	e-mail? Vamos ler e
+	descobrir!
 	"""
 	keyWait
 	end

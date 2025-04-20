@@ -5,14 +5,15 @@ script 0 mmbn3 {
 		mugshot = FlashMan
 	msgOpen
 	"""
-	Ha,ha,ha!
-	So you came to die!
+	Ha, ha, ha!
+	Então, vocês vieram
+	para o abate!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Take this!
-	Hypno Flash!
+	Tome isto!
+	Clarão Hipnótico!
 	"""
 	keyWait
 	clearMsg
@@ -23,7 +24,7 @@ script 1 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Lan! Now!"
+	"Lan! Agora!"
 	keyWait
 	clearMsg
 	jump
@@ -33,7 +34,7 @@ script 2 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Gotcha!"
+	"Positivo!"
 	keyWait
 	end
 }
@@ -41,7 +42,7 @@ script 3 mmbn3 {
 	mugshotShow
 		mugshot = FlashMan
 	msgOpen
-	"What!!"
+	"O quê?!"
 	keyWait
 	end
 }
@@ -49,7 +50,7 @@ script 4 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Go for it,Lan!"
+	"Vai fundo, Lan!"
 	keyWait
 	end
 }
@@ -57,7 +58,7 @@ script 5 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Yaaaaaah!"
+	"Iiiáááá!"
 	wait
 		frames = 40
 	clearMsg
@@ -70,7 +71,7 @@ script 6 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Let's go,MegaMan!"
+	"Vamos nessa, MegaMan!"
 	keyWait
 	clearMsg
 	jump
@@ -80,7 +81,7 @@ script 7 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Roger!"
+	"Entendido!"
 	keyWait
 	end
 }

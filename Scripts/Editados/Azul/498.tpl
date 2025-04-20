@@ -320,7 +320,7 @@ script 91 mmbn3s {
 	end
 }
 script 92 mmbn3s {
-	" BOWNE GLOBAL"
+	" ÇÉÊÍÒÓÕÔÖÚÜ"
 	end
 }
 script 93 mmbn3s {

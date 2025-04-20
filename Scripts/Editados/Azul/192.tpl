@@ -4,7 +4,10 @@ script 0 mmbn3 {
 	mugshotShow
 		mugshot = Mom
 	msgOpen
-	"Time for dinner,Lan!"
+	"""
+	Oi, filho!
+	Então, vamos jantar?
+	"""
 	keyWait
 	clearMsg
 	jump
@@ -14,7 +17,7 @@ script 1 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Okay!"
+	"Vamos!"
 	keyWait
 	end
 }
@@ -22,7 +25,7 @@ script 2 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"That was delicious!"
+	"Tava uma delícia!"
 	keyWait
 	clearMsg
 	jump
@@ -32,7 +35,7 @@ script 3 mmbn3 {
 	mugshotShow
 		mugshot = Mom
 	msgOpen
-	"My pleasure."
+	"Fico feliz em ouvir isso."
 	keyWait
 	clearMsg
 	jump
@@ -43,8 +46,8 @@ script 4 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan! Isn't it
-	about time?
+	Lan! Já não tá quase na
+	hora?
 	"""
 	keyWait
 	clearMsg
@@ -56,8 +59,8 @@ script 5 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Yeah. Let's head
-	over to Yai's HP!
+	Tá mesmo. Vamos lá pra
+	página da Yai!
 	"""
 	keyWait
 	end

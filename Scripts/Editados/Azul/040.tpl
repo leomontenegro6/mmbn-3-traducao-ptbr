@@ -8,9 +8,9 @@ script 0 mmbn3 {
 		jumpIfOutOfRange = continue
 	msgOpen
 	"""
-	Press the L Button
-	to talk to Lan!
-	(but not yet)
+	Aperte o botão L
+	para falar com o Lan!
+	(mas ainda não)
 	"""
 	keyWait
 	end
@@ -60,9 +60,9 @@ script 10 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Look for whoever is
-	controlling the
-	robot!
+	Você tem que achar
+	quem tá controlando
+	o robô!
 	"""
 	keyWait
 	end
@@ -72,8 +72,8 @@ script 11 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	The robot stopped!
-	Let's move on!!
+	O robô parou!
+	Vamos em frente!!
 	"""
 	keyWait
 	end
@@ -88,9 +88,9 @@ script 12 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	So it wasn't
-	BubbleMan operating
-	the robot! But who…?
+	Então, não era o Bubble-
+	Man quem operava o
+	robô! Mas então, quem...?
 	"""
 	keyWait
 	end
@@ -100,9 +100,9 @@ script 13 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Ready,MegaMan?
-	Let's save before
-	this last battle!
+	Pronto, MegaMan?
+	Bora salvar o jogo
+	antes dessa última luta!
 	"""
 	keyWait
 	end
@@ -112,9 +112,9 @@ script 14 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's go,Lan! The
-	two of us will beat
-	Wily together!
+	Vamos nessa, Lan!
+	Nós dois vamos vencer
+	o Wily, juntos!
 	"""
 	keyWait
 	end
@@ -124,9 +124,9 @@ script 15 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	We have to find
-	whoever's operating
-	this robot!
+	A gente tem que achar
+	quem tá operando este
+	robô!
 	"""
 	keyWait
 	end
@@ -136,9 +136,9 @@ script 16 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I can't jack you out
-	here! You'll have to
-	go to the entrance!!
+	Eu não posso te desco-
+	nectar aqui! Você tem
+	que ir pra entrada!!
 	"""
 	keyWait
 	end

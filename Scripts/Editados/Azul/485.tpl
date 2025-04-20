@@ -1,19 +1,19 @@
 @size 48
 
 script 0 mmbn3s {
-	" Cartan   Battle BBS!"
+	" Cartan   Fórum Luta!"
 	end
 }
 script 1 mmbn3s {
-	" Kitager  My favorite!"
+	" Kitago   Meu favorito!"
 	end
 }
 script 2 mmbn3s {
-	" Beltz    NO SUBJECT"
+	" Beltz    SEM ASSUNTO"
 	end
 }
 script 3 mmbn3s {
-	" Cartan   Be careful!"
+	" Cartan   Cuidado!"
 	end
 }
 script 4 mmbn3s {
@@ -25,31 +25,31 @@ script 5 mmbn3s {
 	end
 }
 script 6 mmbn3s {
-	" Beltz    I'm sorry"
+	" Beltz    Desculpa"
 	end
 }
 script 7 mmbn3s {
-	" Bozu     Custom Navi!?"
+	" Bozu     Navi Customi.?"
 	end
 }
 script 8 mmbn3s {
-	" Beltz    Bought it!"
+	" Beltz    Comprei!"
 	end
 }
 script 9 mmbn3s {
-	" Dex      Me too!"
+	" Dex      Eu também!"
 	end
 }
 script 10 mmbn3s {
-	" GutsMan  Strange…"
+	" GutsMan  Estranho..."
 	end
 }
 script 11 mmbn3s {
-	" Koetsu   Don't worry!"
+	" Koetsu   Relaxa!"
 	end
 }
 script 12 mmbn3s {
-	" Dex      Fixed!!!"
+	" Dex      Consertei!!!"
 	end
 }
 script 13 mmbn3s {
@@ -57,11 +57,11 @@ script 13 mmbn3s {
 	end
 }
 script 14 mmbn3s {
-	" Nukky    RE:N1Grand Pr"
+	" Nukin    RE:N1Grand Pr"
 	end
 }
 script 15 mmbn3s {
-	" Koetsu   Too good!"
+	" Koetsu   Tão bom!"
 	end
 }
 script 16 mmbn3s {
@@ -73,43 +73,43 @@ script 17 mmbn3s {
 	end
 }
 script 18 mmbn3s {
-	" Cartan   Thanks!!!"
+	" Cartan   Valeu!!!"
 	end
 }
 script 19 mmbn3s {
-	" Hassy    Breaking"
+	" Hassy    Quebrar"
 	end
 }
 script 20 mmbn3s {
-	" Tessan   LavaPanels"
+	" Tessan   Qdos. de Lava"
 	end
 }
 script 21 mmbn3s {
-	" Axel     ModCodes?"
+	" Axel     CódigosMod?"
 	end
 }
 script 22 mmbn3s {
-	" Kakky    RE:ModCodes?"
+	" Kakky    RE:CódgsMd?"
 	end
 }
 script 23 mmbn3s {
-	" Bozu     I knew that"
+	" Bozu     Eu sabia"
 	end
 }
 script 24 mmbn3s {
-	" Nukky    RE:I knew tha"
+	" Nukin    RE:Eu sabia"
 	end
 }
 script 25 mmbn3s {
-	" Poteno   I didn't!"
+	" Poteno   Eu, não!"
 	end
 }
 script 26 mmbn3s {
-	" Nukky    A nice person"
+	" Nukin    Gente boa"
 	end
 }
 script 27 mmbn3s {
-	" Poteno   RE:A nice per"
+	" Poteno   RE:Gente boa"
 	end
 }
 script 28 mmbn3s {

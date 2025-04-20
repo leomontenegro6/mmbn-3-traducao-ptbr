@@ -5,9 +5,9 @@ script 0 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	BeastMan! What's the
-	WWW doing in the
-	rankings!?
+	BeastMan! O que a WWW
+	pretende, mexendo nos
+	ranques?!
 	"""
 	keyWait
 	clearMsg
@@ -18,13 +18,13 @@ script 1 mmbn3 {
 	mugshotShow
 		mugshot = BeastMan
 	msgOpen
-	"Grrrrrr…"
+	"Grrrrrr..."
 	keyWait
 	clearMsg
 	"""
-	You seem to have a
-	very bad habit of
-	getting in our way!
+	Você parece ter o
+	péssimo hábito de se
+	meter no nosso caminho!
 	"""
 	keyWait
 	clearMsg
@@ -36,16 +36,16 @@ script 2 mmbn3 {
 		mugshot = Inukai
 	msgOpen
 	"""
-	BeastMan! Jack out!
-	Once we get a hold
-	of Alpha,we'll have
+	BeastMan!
+	Desconecte-se! Quando
+	adquirirmos o Alpha,
 	"""
 	keyWait
 	clearMsg
 	"""
-	nothing to fear from
-	the Forbidden
-	Program!
+	não teremos nada a
+	temer do Programa
+	Proibido!
 	"""
 	keyWait
 	clearMsg
@@ -57,16 +57,15 @@ script 3 mmbn3 {
 		mugshot = BeastMan
 	msgOpen
 	"""
-	As much as I hate
-	fleeing from an
-	enemy…
+	Por mais que odeie
+	fugir de um inimigo...
 	"""
 	keyWait
 	clearMsg
 	"""
-	I will do so if it's
-	for our strategic
-	advantage.
+	eu o farei, se for para
+	adquirir uma vantagem
+	estragégica.
 	"""
 	keyWait
 	clearMsg
@@ -84,7 +83,7 @@ script 4 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Wait!"
+	"Espera!"
 	keyWait
 	end
 }
@@ -93,9 +92,9 @@ script 5 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,it looks like
-	the WWW's also after
-	that program!
+	Lan, parece que a WWW
+	também tá atrás desse
+	programa!
 	"""
 	keyWait
 	clearMsg
@@ -107,19 +106,18 @@ script 6 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	So they also know
-	about the Forbidden
-	Program…
+	Então, eles também
+	sabem sobre o
+	Programa Proibido...
 	"""
 	keyWait
 	clearMsg
-	"BeastMan got away."
+	"O BeastMan escapou."
 	keyWait
 	clearMsg
 	"""
-	We're without any
-	leads all over
-	again.
+	Mais uma vez, ficamos
+	sem pistas pra seguir.
 	"""
 	keyWait
 	clearMsg
@@ -138,15 +136,15 @@ script 7 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan! Something's on
-	the floor where
-	BeastMan was!
+	Lan! Tem algumas coisa
+	no chão, onde o
+	BeastMan estava!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Huh? Hey,look what
-	he dropped!
+	Hm? Ah, olha só o que
+	ele deixou cair!
 	"""
 	keyWait
 	clearMsg
@@ -162,7 +160,7 @@ script 8 mmbn3 {
 		item = 29
 		amount = 1
 	"""
-	MegaMan got:
+	MegaMan adquiriu:
 	"
 	"""
 	printItem
@@ -182,9 +180,9 @@ script 9 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Now we just need to
-	find out where the
-	#7 Navi is.
+	Agora, só precisamos
+	descobrir onde está o
+	Navi #7.
 	"""
 	keyWait
 	end
@@ -196,9 +194,9 @@ script 10 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	You're pretty tough,
-	kid,to beat that
-	beast that got me.
+	Cê é durão, hein, garoto?
+	Venceu aquele animal
+	que acabou comigo.
 	"""
 	keyWait
 	clearMsg
@@ -209,7 +207,7 @@ script 11 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Who are you?"
+	"Quem é você?"
 	keyWait
 	clearMsg
 	jump
@@ -220,25 +218,25 @@ script 12 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	Me? I am…I mean,
-	I was #8! That beast
-	thing beat me.
+	Eu? Eu sou... bom, ERA,
+	o #8! Aquele Besta-Man
+	ou sei lá me venceu.
 	"""
 	keyWait
 	clearMsg
-	"So I'm a nobody,now."
+	"Agora, sou um ninguém."
 	keyWait
 	clearMsg
 	"""
-	Thanks for making
-	quick work of my
-	enemy! In return…
+	Mas valeu por dar cabo
+	do meu inimigo!
+	Em troca...
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'll tell you the
-	hint to find #7.
+	eu vou te contar a
+	dica pra achar o #7.
 	"""
 	keyWait
 	clearMsg
@@ -249,7 +247,7 @@ script 13 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Really!?"
+	"Sério?!"
 	keyWait
 	clearMsg
 	jump
@@ -260,9 +258,9 @@ script 14 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	"Head of learning".
-	That's the clue to
-	find #7. Good luck!
+	"Líder do aprendizado".
+	Essa é a pista para
+	achar o #7. Boa sorte!
 	"""
 	keyWait
 	clearMsg
@@ -273,7 +271,7 @@ script 15 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Thanks a lot!"
+	"Muito obrigado!"
 	keyWait
 	end
 }
@@ -283,9 +281,8 @@ script 16 mmbn3 {
 	msgOpen
 	controlLock
 	"""
-	Now's my chance!
-	Give me back my
-	rank!
+	Essa é a minha chance!
+	Devolve o meu ranque!
 	"""
 	wait
 		frames = 20
@@ -301,7 +298,7 @@ script 17 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Wha…!?"
+	"O qu...?!"
 	wait
 		frames = 20
 	end

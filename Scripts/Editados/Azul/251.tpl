@@ -5,9 +5,9 @@ script 0 mmbn3 {
 		mugshot = Higsby
 	msgOpen
 	"""
-	Hi Lan! Thanks for
-	coming! Ahuh-choo!
-	…Ahuh-choo!
+	Oi, Lan! Obrigado por vir!
+	Aé-tchin!
+	... Aé-tchin!
 	"""
 	keyWait
 	clearMsg
@@ -18,7 +18,7 @@ script 1 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Are you OK,Higsby?"
+	"Você tá bem, Higsby?"
 	keyWait
 	clearMsg
 	jump
@@ -28,20 +28,20 @@ script 2 mmbn3 {
 	mugshotShow
 		mugshot = Higsby
 	msgOpen
-	"Huh? Yes,I'm fine."
+	"Hã? Estou, sim."
 	keyWait
 	clearMsg
 	"""
-	I came back safe and
-	sound from a sales
-	trip,but I caught a…
+	Eu voltei são e salvo de
+	uma viagem de negócios,
+	mas peguei uma...
 	"""
 	keyWait
 	clearMsg
 	"""
-	a…Ahuh-choo!
-	I caught a cold,huh!
-	*Sniff*!
+	uma... Aé-tchin!!
+	Peguei uma gripe, é.
+	*Snif*!
 	"""
 	keyWait
 	clearMsg
@@ -53,8 +53,9 @@ script 3 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	You said you wanted
-	to ask us something?
+	Então, você disse que
+	queria pedir uma coisa
+	pra gente?
 	"""
 	keyWait
 	clearMsg
@@ -66,30 +67,30 @@ script 4 mmbn3 {
 		mugshot = Higsby
 	msgOpen
 	"""
-	Actually,I have
-	three errands to run
-	today,but I don't
+	Na verdade, eu tenho
+	três afazeres para
+	hoje,
 	"""
 	keyWait
 	clearMsg
 	"""
-	think I can do them
-	with this awful
-	fever,huh!
+	mas acho que não vou
+	conseguir fazê-los com
+	esta febre, é!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I was hoping you'd
-	be so kind as to run
-	the errands for me,
+	Estava esperando que
+	pudesse fazer o favor
+	de fazê-los por mim.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Lan. Of course,I'll
-	pay yah as a part-
-	timer. Ahuh-choo!
+	Claro, isso será como um
+	bico, e você será pago.
+	Aé-tchin!
 	"""
 	keyWait
 	clearMsg
@@ -100,13 +101,13 @@ script 5 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Me? A job?"
+	"Eu? Trabalhar?"
 	keyWait
 	clearMsg
 	"""
-	I'm just a fifth
-	grader! You're
-	willing to trust me?
+	Eu tô só no quinto ano!
+	Você confiaria mesmo
+	isso a mim?
 	"""
 	keyWait
 	clearMsg
@@ -118,16 +119,15 @@ script 6 mmbn3 {
 		mugshot = Higsby
 	msgOpen
 	"""
-	But of course!
-	You're the most
-	trustworthy
+	Claro! Você é o aluno do
+	fundamental mais
+	confiável que existe!
 	"""
 	keyWait
 	clearMsg
 	"""
-	elementary school
-	student around! Just
-	don't tell Ms.Mari!
+	Só... não conte pra
+	srta. Mari.
 	"""
 	keyWait
 	clearMsg
@@ -138,7 +138,7 @@ script 7 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"B-But…"
+	"M-mas..."
 	keyWait
 	clearMsg
 	jump
@@ -149,16 +149,16 @@ script 8 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Don't worry,Lan!
-	It's for Higsby! It
-	will be educational!
+	Tá tudo bem, Lan!
+	É pro Higsby!
+	Vai ser... educativo.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Besides,Ms.Mari told
-	you not to goof off,
-	right?
+	Além disso, a srta. Mari
+	disse pra você não ficar
+	de bobeira, não foi?
 	"""
 	keyWait
 	clearMsg
@@ -170,16 +170,15 @@ script 9 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Well,she did say to
-	study. Guess if it's
-	educational,that's
+	Bom, ela me disse pra
+	estudar. E se é educa-
+	tivo, dá na mesma.
 	"""
 	keyWait
 	clearMsg
 	"""
-	the same thing.
-	OK. I'll do it! I'll
-	work for you!
+	OK, eu topo!
+	Vou trabalhar pra você!
 	"""
 	keyWait
 	clearMsg
@@ -191,49 +190,47 @@ script 10 mmbn3 {
 		mugshot = Higsby
 	msgOpen
 	"""
-	Really!? Oh,thank
-	you! Ahuh-choo!
-	Ahuh-choo!
+	É mesmo?!
+	Ah, muito obrigado!
+	Aé-tchin! Aé-tchin!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Now for your first
-	job,huh!
+	Agora, vamos ao seu
+	primeiro trabalho, é.
 	"""
 	keyWait
 	clearMsg
 	"""
-	The other day,I
-	purchased some
-	equipment.
+	Um dia desses, eu
+	comprei um equipamento.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I promised I'd
-	pick it up today.
+	E prometi que iria
+	buscá-lo hoje.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'd like you to go
-	pick it up for me,
-	huh?
+	Gostaria que você fosse
+	buscá-lo no meu lugar, é.
 	"""
 	keyWait
 	clearMsg
 	"""
-	The merchant will be
-	waiting at ACDC
-	Station.
+	O mercador vai estar
+	esperando na Estação
+	ACDC.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Go get my equipment
-	from him and bring
-	it back here,huh?
+	Pegue o meu
+	equipamento com ele
+	e traga aqui, é. OK?
 	"""
 	keyWait
 	clearMsg
@@ -245,9 +242,9 @@ script 11 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Roger that!
-	I'll get going right
-	away,huh!
+	Entendido!
+	Eu vou pra  lá agora
+	mesmo, é!
 	"""
 	keyWait
 	clearMsg
@@ -259,15 +256,16 @@ script 12 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Boy,Lan,you really
-	seem to be getting
-	into this!
+	Nossa, você parece
+	bem animado com isso,
+	Lan!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I guess I should,
-	too. Let's go,huh?
+	E acho que eu também
+	devia estar. Bom, vamos
+	indo, é.
 	"""
 	keyWait
 	clearMsg
@@ -278,7 +276,7 @@ script 13 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Yeah…huh!"
+	"É pra já... é!"
 	keyWait
 	clearMsg
 	jump
@@ -289,13 +287,13 @@ script 14 mmbn3 {
 		mugshot = Higsby
 	msgOpen
 	"""
-	Okay,okay,no need to
-	mimic me,huh? Go on,
-	now,huh?
+	Tá bom, tá bom, não
+	precisam me imitar, é.
+	Agora, vão indo, é.
 	"""
 	keyWait
 	clearMsg
-	"I'm counting on you!"
+	"Conto com vocês!"
 	keyWait
 	clearMsg
 	end

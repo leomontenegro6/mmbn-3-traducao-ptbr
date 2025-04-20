@@ -4,15 +4,14 @@ script 0 mmbn3 {
 	mugshotHide
 	msgOpen
 	"""
-	Three hours after
-	the operation
-	resumed…
+	Três horas após a
+	operação continuar...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Mamoru's surgery
-	finished.
+	A cirurgia do Mamoru
+	chega ao fim.
 	"""
 	keyWait
 	end
@@ -22,8 +21,8 @@ script 1 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Doctor! Mamoru will
-	be fine,right!?
+	Douto! O Mamoru vai
+	ficar bem, né?!
 	"""
 	keyWait
 	clearMsg
@@ -33,16 +32,16 @@ script 2 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	The operation would
-	have been flawless,
-	if we hadn't had
+	A operação teria sido
+	perfeita se não fosse
+	pelo incidente...
 	"""
 	keyWait
 	clearMsg
 	"""
-	that incident…But
-	now we need to wait
-	for him to wake up…
+	Mas, agora,
+	precisaremos espera
+	até ele acordar...
 	"""
 	keyWait
 	end
@@ -51,7 +50,7 @@ script 3 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Oh,no…"
+	"Não, não, não…"
 	keyWait
 	clearMsg
 	jump
@@ -62,15 +61,15 @@ script 4 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,the surgeon did
-	everything he could.
-	We have to just have
+	Lan, o cirurgião fez
+	tudo o que pôde.
 	"""
 	keyWait
 	clearMsg
 	"""
-	faith in Mamoru,and
-	wait.
+	Agora, a gente tem que
+	ter fé no Mamoru...
+	e esperar.
 	"""
 	keyWait
 	end
@@ -79,7 +78,7 @@ script 5 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Yeah. You're right."
+	"... É. Você tá certo."
 	keyWait
 	clearMsg
 }
@@ -88,8 +87,9 @@ script 6 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I'm sure he'll wake
-	up soon.
+	Eu tenho certeza de
+	que ele vai acordar
+	logo, logo.
 	"""
 	keyWait
 	clearMsg
@@ -100,14 +100,14 @@ script 7 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"I hope so."
+	"Assim espero..."
 	keyWait
 	end
 }
 script 8 mmbn3 {
 	mugshotHide
 	msgOpen
-	"Five hours later"
+	"Cinco horas depois"
 	waitSkip
 		frames = 30
 	"."
@@ -179,19 +179,18 @@ script 10 mmbn3 {
 	msgOpen
 	"""
 	Lan!
-	Wake up! Wake up!
+	Acorda! Acorda!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Now's no time to
-	sleep!
+	Isso não é hora de
+	dormir!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Mamoru's coming
-	around!
+	O Mamoru tá acordando!
 	"""
 	keyWait
 	clearMsg
@@ -203,16 +202,16 @@ script 11 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Unghnngh…
-	Just 5 more minutes…
+	Unghnngh...
+	Só mais cinco minut...
 	"""
 	keyWait
 	clearMsg
 	waitSkip
 		frames = 60
 	"""
-	What!?
-	Really,MegaMan!?
+	Quê?!
+	Sério, MegaMan?!
 	"""
 	keyWait
 	clearMsg
@@ -224,8 +223,8 @@ script 12 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Really! Quick!
-	Call the doctor!
+	Sério?!
+	Rápido, chama o médico!
 	"""
 	keyWait
 	clearMsg
@@ -236,10 +235,10 @@ script 13 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"All right!"
+	"Tá!"
 	keyWait
 	clearMsg
-	"Nurse!!"
+	"Enfermeira!!"
 	keyWait
 	end
 }
@@ -248,23 +247,23 @@ script 14 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	For now it appears
-	the operation was a
-	success. We'll have
+	Por ora, parece que
+	a operação foi um
+	sucesso.
 	"""
 	keyWait
 	clearMsg
 	"""
-	to keep him in the
-	hospital for awhile
-	to observe him.
+	Teremos que mantê-lo
+	internado por enquanto
+	para observação...
 	"""
 	keyWait
 	clearMsg
 	"""
-	But if everything
-	goes well,it looks
-	like he can go home.
+	Mas, se tudo correr bem,
+	ele poderá voltar para
+	casa.
 	"""
 	keyWait
 	clearMsg
@@ -276,8 +275,8 @@ script 15 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Really!?
-	That's great!!
+	De verdade?!
+	Que demais!!
 	"""
 	keyWait
 	clearMsg
@@ -289,15 +288,15 @@ script 16 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	That's great!
-	That's really great!!
+	Isso é tão bom!
+	Isso é ótimo!!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Hey,Lan! Mamoru's
-	trying to say
-	something!
+	Ah, Lan! O Mamoru tá
+	tentando dizer alguma
+	coisa!
 	"""
 	keyWait
 	clearMsg
@@ -309,42 +308,39 @@ script 17 mmbn3 {
 		mugshot = Mamoru
 	msgOpen
 	"""
-	Y-you know…
-	During the surgery…
-	I…I had a dream.
+	S-sabe....
+	Durante a cirurgia...
+	E... Eu tive um sonho...
 	"""
 	keyWait
 	clearMsg
 	"""
-	I could hear Lan
-	calling my name…
+	Eu ouvi o Lan chamando
+	o meu nome...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Then I was
-	surrounded by a blue
-	light…
+	Aí, eu fui cercado por
+	uma luz azul...
 	"""
 	keyWait
 	clearMsg
 	"""
-	There was a boy I'd
-	never seen before in
-	the light…
+	Na luz, estava um
+	menino que eu nunca vi...
 	"""
 	keyWait
 	clearMsg
 	"""
-	He looked just like
-	Lan…
+	Era igualzinho ao Lan...
 	"""
 	keyWait
 	clearMsg
 	"""
-	He kept saying
-	"Don't give up! You
-	can beat this!".
+	E ele ficava repetindo:
+	"Não desista!", e
+	"Você vai vencer isso!".
 	"""
 	keyWait
 	clearMsg
@@ -355,7 +351,7 @@ script 18 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"I see…"
+	"Sei..."
 	keyWait
 	clearMsg
 	jump
@@ -366,9 +362,9 @@ script 19 mmbn3 {
 		mugshot = Mamoru
 	msgOpen
 	"""
-	Lan…
-	And MegaMan…
-	Thank you…
+	Lan...
+	E MegaMan...
+	Obrigado...
 	"""
 	keyWait
 	clearMsg
@@ -380,16 +376,16 @@ script 20 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	You don't need to
-	thank us! Just
-	remember!
+	Não precisa agradecer
+	a gente! É só não
+	esquecer!
 	"""
 	keyWait
 	clearMsg
 	"""
-	You promised to Net
-	Battle me after you
-	got out of here!
+	Você prometeu NetLutar
+	comigo assim que sair
+	daqui!
 	"""
 	keyWait
 	clearMsg
@@ -400,7 +396,7 @@ script 21 mmbn3 {
 	mugshotShow
 		mugshot = Mamoru
 	msgOpen
-	"Yeah!"
+	"Uhum!"
 	keyWait
 	clearMsg
 	jump
@@ -411,9 +407,9 @@ script 22 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Well,MegaMan. Now
-	that Mamoru's fine,
-	we should head home.
+	Bom, MegaMan, agora
+	que o Mamoru tá bem, a
+	gente devia ir pra casa.
 	"""
 	keyWait
 	clearMsg
@@ -424,7 +420,7 @@ script 23 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Right!"
+	"Vamos!"
 	keyWait
 	clearMsg
 	jump
@@ -435,8 +431,9 @@ script 24 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	All right,Mamoru.
-	We'll come again!
+	Beleza, Mamoru.
+	A gente vem te visitar
+	logo!
 	"""
 	keyWait
 	end

@@ -1,11 +1,11 @@
 @size 52
 
 script 0 mmbn3s {
-	"NONE"
+	"NADA"
 	end
 }
 script 1 mmbn3s {
-	"SprArmor"
+	"SupArmdr"
 	end
 }
 script 2 mmbn3s {
@@ -49,11 +49,11 @@ script 11 mmbn3s {
 	end
 }
 script 12 mmbn3s {
-	"MegFldr1"
+	"MegPast1"
 	end
 }
 script 13 mmbn3s {
-	"MegFldr2"
+	"MegPast2"
 	end
 }
 script 14 mmbn3s {
@@ -61,11 +61,11 @@ script 14 mmbn3s {
 	end
 }
 script 15 mmbn3s {
-	"Shield"
+	"Escudo"
 	end
 }
 script 16 mmbn3s {
-	"Reflect"
+	"Refletir"
 	end
 }
 script 17 mmbn3s {
@@ -77,11 +77,11 @@ script 18 mmbn3s {
 	end
 }
 script 19 mmbn3s {
-	"AntiDmg"
+	"AntiDano"
 	end
 }
 script 20 mmbn3s {
-	"Press"
+	"Comprime"
 	end
 }
 script 21 mmbn3s {
@@ -93,7 +93,7 @@ script 22 mmbn3s {
 	end
 }
 script 23 mmbn3s {
-	"SneakRun"
+	"DeFinin"
 	end
 }
 script 24 mmbn3s {
@@ -101,15 +101,15 @@ script 24 mmbn3s {
 	end
 }
 script 25 mmbn3s {
-	"Fish"
+	"Peixe"
 	end
 }
 script 26 mmbn3s {
-	"Battery"
+	"Bateria"
 	end
 }
 script 27 mmbn3s {
-	"Jungle"
+	"Selva"
 	end
 }
 script 28 mmbn3s {
@@ -121,11 +121,11 @@ script 29 mmbn3s {
 	end
 }
 script 30 mmbn3s {
-	"UnderSht"
+	"PorUm"
 	end
 }
 script 31 mmbn3s {
-	"FstGauge"
+	"BarrVloz"
 	end
 }
 script 32 mmbn3s {
@@ -141,23 +141,23 @@ script 34 mmbn3s {
 	end
 }
 script 35 mmbn3s {
-	"WeapLV+1"
+	"NVArma+1"
 	end
 }
 script 36 mmbn3s {
-	"HP+100"
+	"PV+100"
 	end
 }
 script 37 mmbn3s {
-	"HP+200"
+	"PV+200"
 	end
 }
 script 38 mmbn3s {
-	"HP+300"
+	"PV+300"
 	end
 }
 script 39 mmbn3s {
-	"HP+500"
+	"PV+500"
 	end
 }
 script 40 mmbn3s {
@@ -165,15 +165,15 @@ script 40 mmbn3s {
 	end
 }
 script 41 mmbn3s {
-	"Atk+1"
+	"Atq+1"
 	end
 }
 script 42 mmbn3s {
-	"Speed+1"
+	"Rapidz+1"
 	end
 }
 script 43 mmbn3s {
-	"Charge+1"
+	"Carga+1"
 	end
 }
 script 44 mmbn3s {
@@ -181,19 +181,19 @@ script 44 mmbn3s {
 	end
 }
 script 45 mmbn3s {
-	"Humor"
+	"Comédia"
 	end
 }
 script 46 mmbn3s {
-	"BlckMind"
+	"MenteMá"
 	end
 }
 script 47 mmbn3s {
-	"BustrMAX"
+	"TiroMAX"
 	end
 }
 script 48 mmbn3s {
-	"GigFldr1"
+	"GigPsta1"
 	end
 }
 script 49 mmbn3s {
@@ -201,10 +201,10 @@ script 49 mmbn3s {
 	end
 }
 script 50 mmbn3s {
-	"DarkLcns"
+	"LcnçTrvs"
 	end
 }
 script 51 mmbn3s {
-	"EXECUTAR!"
+	"EXECUTAR"
 	end
 }

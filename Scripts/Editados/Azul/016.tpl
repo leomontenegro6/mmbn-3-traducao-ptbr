@@ -5,23 +5,22 @@ script 0 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	I will now begin the
-	lecture on virus
-	busting.
+	Vamos começar nossa
+	aula de luta antivírus.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'm sure you've
-	learned this before,
-	but a quick review…
+	Estou certo de que você
+	já aprendeu isto antes,
+	mas é bom revisar...
 	"""
 	keyWait
 	clearMsg
 	"""
-	First I will explain
-	the basic technique
-	of deleting viruses.
+	Primeiro, explicarei a
+	técnica básica de
+	eliminação de vírus.
 	"""
 	keyWait
 	clearMsg
@@ -33,16 +32,16 @@ script 1 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	In order to fight a
-	virus,you must send
-	chip data to a Navi.
+	Para lutar contra vírus,
+	é preciso mandar dados
+	de chips para o seu Navi.
 	"""
 	keyWait
 	clearMsg
 	"""
-	The chips you will
-	send are chosen in
-	this Custom Window.
+	Os chips para mandar
+	são selecionados nesta
+	Janela de Customização.
 	"""
 	keyWait
 	end
@@ -52,22 +51,22 @@ script 2 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	You choose the chips
-	you will send here.
+	É nela que você escolhe
+	os chips para enviar.
 	"""
 	keyWait
 	clearMsg
 	"""
-	The chips in the
-	folder you are using
-	are shown here.
+	É onde os chips da
+	pasta que você está
+	usando aparecem.
 	"""
 	keyWait
 	clearMsg
 	"""
-	The selected chip's
-	data is shown here.
-	This is the Atk Str.
+	Já os dados do chip sele-
+	cionado aparecem aqui.
+	Veja, a força de ataque.
 	"""
 	keyWait
 	end
@@ -80,9 +79,8 @@ script 4 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	This is HP,
-	the virus' hit
-	points.
+	Estes são os PV, os
+	pontos de vida dos Vírus.
 	"""
 	keyWait
 	end
@@ -92,37 +90,36 @@ script 5 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	If you do so,you can
-	use lots of chips,to
-	a big advantage.
+	Se você o fizer, poderá
+	usar vários chips, o que
+	lhe dará muita vantagem.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Very well,let's try
-	choosing the chip
-	data we will send.
+	Pois bem, vamos tentar
+	selecionar os dados de
+	chip e enviá-los.
 	"""
 	keyWait
 	clearMsg
 	"""
-	You select it with
-	the A Button. The R
-	Button shows info.
+	Para selecioná-los,
+	aperte "A". O botão "R"
+	mostra suas informações.
 	"""
 	keyWait
 	clearMsg
 	"""
-	You can try to run
-	with the L Button,
-	but you may fail.
+	Também dá para fugir da
+	luta com o botão "L",
+	mas não é garantido.
 	"""
 	keyWait
 	clearMsg
 	"""
-	OK,let's try
-	choosing the chip
-	data.
+	Enfim, vamos tentar
+	escolher os chips agora.
 	"""
 	keyWait
 	end
@@ -132,9 +129,9 @@ script 6 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	I see you chose the
-	Cannon! Good choice.
-	You get one more!
+	Vejo que escolheu um
+	Cannon! Ótima ideia. E dá
+	para selecionar mais um!
 	"""
 	keyWait
 	end
@@ -144,8 +141,8 @@ script 7 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	No,you don't need
-	to cancel now!
+	Não, não precisa cancelar
+	agora!
 	"""
 	keyWait
 	end
@@ -155,16 +152,16 @@ script 8 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Well,you could start
-	the battle with just
-	one Cannon…
+	Digo, sim, você pode
+	começar a luta com um
+	só Cannon...
 	"""
 	keyWait
 	clearMsg
 	"""
-	But this is a good
-	chance to use two
-	at once!
+	mas esta é uma boa
+	chance pra usar dois de
+	uma vez! Não desperdice!
 	"""
 	keyWait
 	end
@@ -174,9 +171,9 @@ script 9 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	You don't need to
-	use that now. I'll
-	talk about it later.
+	Não precisa usar isso
+	agora. Já já explico o
+	que é.
 	"""
 	keyWait
 	end
@@ -186,22 +183,21 @@ script 10 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	You haven't chosen
-	a chip,I see…
+	Vejo que você não
+	escolheu nenhum chip...
 	"""
 	keyWait
 	clearMsg
 	"""
-	You can fight with
-	just your MegaBuster
-	but you will do
+	É possível lutar só com
+	o seu MegaTiro, mas será
+	bem melhor usar chips!
 	"""
 	keyWait
 	clearMsg
 	"""
-	better if you use
-	chips! Let's choose
-	some this time.
+	Selecione chips desta
+	vez.
 	"""
 	keyWait
 	end
@@ -211,15 +207,14 @@ script 11 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	That's the run
-	command.
+	Esse é o botão de fuga.
 	"""
 	keyWait
 	clearMsg
 	"""
-	This is just a
-	training program,so
-	you don't need that.
+	Mas este é só um
+	programa de treino,
+	então, não precisa disso.
 	"""
 	keyWait
 	end
@@ -229,9 +224,9 @@ script 12 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	OK,let's send this
-	data to the Navi!
-	Everyone,choose OK!
+	Certo, vamos enviar
+	esses dados para o Navi!
+	Crianças, selecionem "OK"!
 	"""
 	keyWait
 	end
@@ -241,9 +236,9 @@ script 13 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	No worry,these chips
-	are enough for this
-	battle. Let's go!
+	Não se preocupe, esses
+	chips são suficientes
+	para a luta. Vamos lá!
 	"""
 	keyWait
 	end
@@ -253,9 +248,9 @@ script 14 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	We've sent the data!
-	Now we will fight
-	the virus!
+	Enviamos os dados!
+	Agora, hora de lutar
+	contra os vírus!
 	"""
 	keyWait
 	end
@@ -265,23 +260,23 @@ script 15 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	OK,now I will
-	explain things as
-	you are fighting.
+	Bom, vou explicando as
+	coisas à medida que você
+	luta.
 	"""
 	keyWait
 	clearMsg
 	"""
-	You can move your
-	Navi around the
-	battle field.
+	Você pode mover o seu
+	Navi livremente pelo
+	campo de batalha.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Fire the MegaBuster
-	with the B Button.
-	It's weak,but fast.
+	Apertando "B", você
+	dispara o MegaTiro.
+	É fraco, mas veloz.
 	"""
 	keyWait
 	end
@@ -291,9 +286,9 @@ script 16 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Your HP is shown
-	at left. Don't let
-	this reach zero!
+	Os seus PV aparecem
+	à esquerda. Não deixe
+	eles chegarem a zero!
 	"""
 	keyWait
 	end
@@ -303,36 +298,35 @@ script 17 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	The data that you
-	sent is shown above
-	your Navi's head.
+	Os dados que você
+	enviou aparecem sobre
+	a cabeça do seu Navi.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Use it with the A
-	Button,but you can
-	only use it once!
+	Use-os apertando "A".
+	Cuidado, pois só pode
+	usá-los uma vez cada!
 	"""
 	keyWait
 	clearMsg
 	"""
-	And that's the basic
-	procedure! Pretty
-	simple,eh?
+	E esse é o básico da
+	coisa! Bem simples, né?
 	"""
 	keyWait
 	clearMsg
 	"""
-	And now,a question
-	for you all.
+	Bom, agora, uma pergunta
+	para todos vocês.
 	"""
 	keyWait
 	clearMsg
 	"""
-	What do you do when
-	you've used up all
-	of your chips?
+	O que se faz quando
+	todos os chips já foram
+	usados?
 	"""
 	keyWait
 	clearMsg
@@ -343,7 +337,7 @@ script 18 mmbn3 {
 	mugshotShow
 		mugshot = Dex
 	msgOpen
-	"I know! I know!!"
+	"Eu sei! Eu sei!!!"
 	keyWait
 	end
 }
@@ -352,23 +346,23 @@ script 19 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	That's right! This
-	is the Custom Gauge.
-	It slowly fills up.
+	Exatamente! Esta é a
+	Barra de Customização.
+	Ela enche aos poucos.
 	"""
 	keyWait
 	clearMsg
 	"""
-	When it's full,press
-	the L or R Button to
-	send more chip data.
+	Quando encher, aperte
+	"L" ou "R" para enviar
+	mais dados de chips.
 	"""
 	keyWait
 	clearMsg
 	"""
-	OK,let's try some
-	real virus busting!
-	Be careful now!
+	Chega de papo, vamos
+	lutar contra vírus pra
+	valer. Com cuidado!
 	"""
 	keyWait
 	end
@@ -377,13 +371,13 @@ script 21 mmbn3 {
 	mugshotShow
 		mugshot = Scientist
 	msgOpen
-	"Choose the Cannon!"
+	"Escolha o Cannon!"
 	keyWait
 	clearMsg
 	"""
-	Press the B Button
-	to cancel,and then
-	choose the Cannon!
+	Aperte "B" para cancelar
+	e, depois, escolha o
+	Cannon!
 	"""
 	keyWait
 	end
@@ -392,13 +386,13 @@ script 22 mmbn3 {
 	mugshotShow
 		mugshot = Scientist
 	msgOpen
-	"Choose the Cannon!"
+	"Escolha o Cannon!"
 	keyWait
 	clearMsg
 	"""
-	Press the B Button
-	to cancel,and then
-	choose the Cannon!
+	Aperte "B" para cancelar
+	e, depois, escolha o
+	Cannon!
 	"""
 	keyWait
 	end
@@ -408,16 +402,15 @@ script 23 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Normally you can
-	only use one chip
-	per turn,
+	Normalmente, só se pode
+	usar um chip por turno,
 	"""
 	keyWait
 	clearMsg
 	"""
-	but you can send
-	more of the same
-	type.
+	mas você pode mandar
+	vários, se eles forem do
+	mesmo tipo.
 	"""
 	keyWait
 	end

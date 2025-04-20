@@ -5,8 +5,8 @@ script 0 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Doctor!
-	Will dad be okay?
+	Doutor!
+	O papai vai ficar bem?
 	"""
 	keyWait
 	clearMsg
@@ -18,23 +18,23 @@ script 1 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	If he hadn't arrived
-	here so quickly he
-	might not have been,
+	Se ele não tivesse
+	chegado aqui rápido,
+	talvez não ficasse,
 	"""
 	keyWait
 	clearMsg
 	"""
-	but he'll live. What
-	he needs now is
-	complete rest.
+	mas está tudo bem.
+	Agora, ele só precisa
+	repousar bastante.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I can't believe
-	someone would attack
-	SciLab. What an age!
+	Eu não acredito que
+	alguém atacaria o Sci-
+	Lab. Tempos perigosos...
 	"""
 	keyWait
 	end
@@ -44,32 +44,32 @@ script 2 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	…It…was all…
-	my fault…
+	... Foi... tudo...
+	culpa minha...
 	"""
 	keyWait
 	clearMsg
 	"""
-	The SciLab attack,
-	dad's injury…
-	Everything!!
+	O ataque do SciLab,
+	a condição do papai...
+	Tudo!!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I thought I was so
-	great being called
-	the hero of ACDC,
+	Eu tava me achando tão
+	incrível, sendo chamado
+	de herói de ACDC,
 	"""
 	keyWait
 	clearMsg
 	"""
-	I helped Match…
-	I helped the WWW!
+	mas eu ajudei o Match...
+	Eu ajudei a WWW!
 	"""
 	keyWait
 	clearMsg
-	"Sniff!"
+	"Chuif!"
 	keyWait
 	clearMsg
 	jump
@@ -79,7 +79,7 @@ script 3 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Lan…"
+	"Lan..."
 	keyWait
 	end
 }
@@ -88,16 +88,16 @@ script 4 mmbn3 {
 		mugshot = Mom
 	msgOpen
 	"""
-	Lan,you should get
-	on home. I'll watch
-	after dad. I don't
+	Lan, é melhor você ir
+	pra casa. Eu fico aqui,
+	cuidando do seu pai.
 	"""
 	keyWait
 	clearMsg
 	"""
-	think I can come
-	home tonight,so be
-	sure to lock up.
+	Acho que não vou voltar
+	pra casa hoje, então,
+	lembre de trancar tudo.
 	"""
 	keyWait
 	end
@@ -107,9 +107,9 @@ script 5 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan…
-	Why don't we go
-	home?
+	Lan...
+	Por que a gente não vai
+	pra casa?
 	"""
 	keyWait
 	clearMsg
@@ -120,7 +120,7 @@ script 6 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"……"
+	"......"
 	keyWait
 	end
 }

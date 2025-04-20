@@ -5,16 +5,16 @@ script 0 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Okay,Tora. I held
-	up my end of the
-	bargain!
+	Beleza, Tora.
+	Eu já cumpri a minha parte
+	do acordo.
 	"""
 	keyWait
 	clearMsg
 	"""
-	So out with it!
-	What's Chaud's
-	secret?
+	Então, desembucha!
+	Qual é o segredo do
+	Chaud?
 	"""
 	keyWait
 	clearMsg
@@ -26,16 +26,16 @@ script 1 mmbn3 {
 		mugshot = Tora
 	msgOpen
 	"""
-	OK. You know how
-	Chaud is world-
-	renowned?
+	Tá bom, lá vai. Tu sabe
+	como o Chaud é
+	mundialmente renomado?
 	"""
 	keyWait
 	clearMsg
 	"""
-	How he's seen as a
-	natural-born genius
-	at NetBattling?
+	Como ele é visto como
+	um gênio nato das
+	NetLutas e coisa e tal?
 	"""
 	keyWait
 	clearMsg
@@ -46,7 +46,7 @@ script 2 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Yeah,sure."
+	"É, sei."
 	keyWait
 	clearMsg
 	jump
@@ -56,12 +56,11 @@ script 3 mmbn3 {
 	mugshotShow
 		mugshot = Tora
 	msgOpen
-	"Actually…"
+	"Então, "
 	keyWait
 	clearMsg
 	"""
-	It's all just an
-	act.
+	é tudo fingimento.
 	"""
 	keyWait
 	clearMsg
@@ -73,8 +72,8 @@ script 4 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	An act? What do you
-	mean?
+	Fingimento?
+	Como assim?
 	"""
 	keyWait
 	clearMsg
@@ -85,7 +84,7 @@ script 5 mmbn3 {
 	mugshotShow
 		mugshot = Tora
 	msgOpen
-	"Ten hours a day."
+	"10 horas por dia."
 	keyWait
 	clearMsg
 	jump
@@ -96,8 +95,8 @@ script 6 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Ten hours? What are
-	you talking about?
+	10 horas?
+	Que papo é esse?
 	"""
 	keyWait
 	clearMsg
@@ -109,9 +108,8 @@ script 7 mmbn3 {
 		mugshot = Tora
 	msgOpen
 	"""
-	That's how much time
-	Chaud spends
-	training each day.
+	É o tempo que o Chaud
+	treina todo dia.
 	"""
 	keyWait
 	clearMsg
@@ -126,9 +124,9 @@ script 8 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	I thought he was so
-	strong,he didn't
-	need to train!
+	Eu achei que ele fosse
+	tão forte, que não
+	precisasse treinar!
 	"""
 	keyWait
 	clearMsg
@@ -140,23 +138,22 @@ script 9 mmbn3 {
 		mugshot = Tora
 	msgOpen
 	"""
-	That's just what he
-	wants people to
-	believe.
+	Ele só quer que geral
+	acredite nisso.
 	"""
 	keyWait
 	clearMsg
 	"""
-	He's only as strong
-	as he is,though,
-	for one reason.
+	Na real, ele só é
+	forte daquele jeito
+	por um motivo:
 	"""
 	keyWait
 	clearMsg
 	"""
-	He's been practicing
-	like that every day
-	for years!
+	porque ele treina esse
+	tanto todos os dias,
+	e isso já faz anos!
 	"""
 	keyWait
 	clearMsg
@@ -167,7 +164,7 @@ script 10 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"No way!"
+	"Não brinca!"
 	keyWait
 	clearMsg
 	jump
@@ -178,16 +175,16 @@ script 11 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Chaud's that good
-	because he's been
-	training so hard?
+	O Chaud só é bom
+	daquele jeito porque
+	treina duro assim...?
 	"""
 	keyWait
 	clearMsg
 	"""
-	He's done a really
-	remarkable job
-	keeping it a secret!
+	Ele fez um trabalho
+	incrível mantendo isso
+	em segredo!
 	"""
 	keyWait
 	clearMsg
@@ -199,30 +196,29 @@ script 12 mmbn3 {
 		mugshot = Tora
 	msgOpen
 	"""
-	Exactly! That's the
-	amazing thing! He's
-	been training hard,
+	E "num" é?! Isso que é
+	o doido!
 	"""
 	keyWait
 	clearMsg
 	"""
-	but still he's
-	managed to keep it
-	hidden! He's putting
+	Ele treina assim, feito
+	louco,e conseguiu
+	esconder do povo todo.
 	"""
 	keyWait
 	clearMsg
 	"""
-	in more effort than
-	anyone! His battle
-	intuition and
+	Sendo que ele se
+	esforça mais que todo
+	mundo!
 	"""
 	keyWait
 	clearMsg
 	"""
-	customizing
-	technique are all
-	natural,though.
+	Mas é aquilo: a intuição e
+	técnica de customização
+	dele são natas, sim.
 	"""
 	keyWait
 	clearMsg
@@ -234,9 +230,9 @@ script 13 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Man! I've gotta
-	train more,too! I
-	can't lose to Chaud!
+	Cara... Então, eu também
+	preciso treinar mais! Não
+	posso perder pro Chaud!
 	"""
 	keyWait
 	clearMsg
@@ -248,15 +244,16 @@ script 14 mmbn3 {
 		mugshot = Tora
 	msgOpen
 	"""
-	You know,if you ask
-	me who the real
-	geniuses are,
+	Ó, eu sei que eu falei
+	isso tudo, mas, se
+	perguntassem pra mim,
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'd say it's guys
-	like you,Lan.
+	eu diria que gênio de
+	verdade é "os bicho"
+	que nem tu, Lan.
 	"""
 	keyWait
 	clearMsg
@@ -268,15 +265,14 @@ script 15 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	……!
-	What are you talking
-	about!?
+	......!
+	Que história é essa?!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'm not that good
-	yet!
+	Eu ainda tô longe de
+	ser bom assim!
 	"""
 	keyWait
 	clearMsg
@@ -287,27 +283,26 @@ script 16 mmbn3 {
 	mugshotShow
 		mugshot = Tora
 	msgOpen
-	"…Yeah,you're right!"
+	"... É, tu tem razão!"
 	keyWait
 	clearMsg
 	"""
-	Hahaha! OK! OK! So
-	I got a little
-	carried away.
-	"""
-	keyWait
-	clearMsg
-	"""
-	Anyway,that's what I
-	got on Chaud.
-	Here,this is for
+	Ha ha ha! Tá bom, é,
+	acabou que eu me
+	empolguei.
 	"""
 	keyWait
 	clearMsg
 	"""
-	you. It's a little
-	something in return
-	for your help.
+	Mas é, era isso que eu
+	sabia do Chaud.
+	Toma, isto aqui é pra tu.
+	"""
+	keyWait
+	clearMsg
+	"""
+	Um negocinho pra
+	agradecer a tua ajuda.
 	"""
 	keyWait
 	clearMsg
@@ -322,7 +317,7 @@ script 17 mmbn3 {
 	soundPlay
 		track = 133
 	"""
-	Lan got:
+	Lan adquiriu:
 	"
 	"""
 	printFolderName
@@ -341,16 +336,16 @@ script 18 mmbn3 {
 		mugshot = Tora
 	msgOpen
 	"""
-	Thanks for today,
-	Lan. Give your mom
-	my regards!
+	'Brigado pelo que tu fez
+	hoje, Lan. Abraço pra
+	tua mãe!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'll be in DenCity
-	for a while,so I'll
-	keep in touch.
+	Eu vou continuar por
+	DenCity um pouquinho,
+	então, a gente se fala.
 	"""
 	keyWait
 	clearMsg
@@ -361,11 +356,11 @@ script 19 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"All right!"
+	"Beleza!"
 	keyWait
 	clearMsg
 	"""
-	Well,let's go home,
+	Bom, vamos pra casa,
 	MegaMan!
 	"""
 	keyWait
@@ -378,8 +373,7 @@ script 20 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Sure. See you,
-	Tora!
+	Claro. Até mais, Tora!
 	"""
 	keyWait
 	end

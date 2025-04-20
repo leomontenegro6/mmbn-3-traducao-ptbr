@@ -4,7 +4,7 @@ script 0 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"What is this place?"
+	"Que lugar é este?"
 	keyWait
 	clearMsg
 	jump
@@ -15,15 +15,14 @@ script 1 mmbn3 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	It looks like Wily's
-	research lab…
+	Parece ser o laboratório
+	de pesquisa do Wily...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Doesn't seem to be
-	anyone around,
-	though.
+	Mas não parece haver
+	ninguém aqui.
 	"""
 	keyWait
 	clearMsg
@@ -35,9 +34,8 @@ script 2 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Looks like Wily
-	must be somewhere
-	else.
+	Acho que o Wily tá em
+	outro canto.
 	"""
 	keyWait
 	clearMsg
@@ -48,13 +46,13 @@ script 3 mmbn3 {
 	mugshotShow
 		mugshot = Chaud
 	msgOpen
-	"Looks that way…"
+	"É o que parece..."
 	keyWait
 	clearMsg
 	"""
-	There must be some
-	way to another room
-	from here.
+	Deve haver um acesso
+	para um outro cômodo
+	daqui.
 	"""
 	keyWait
 	clearMsg
@@ -65,10 +63,10 @@ script 4 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Well…"
+	"Bom..."
 	keyWait
 	clearMsg
-	"Let's find it!"
+	"Vamos achar ele!"
 	keyWait
 	end
 }

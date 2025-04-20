@@ -4,13 +4,13 @@ script 0 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"This window's open."
+	"Esta janela tá aberta."
 	keyWait
 	clearMsg
 	"""
-	This is the second
-	floor. And the ocean
-	is below.
+	A gente tá no segundo
+	andar.
+	E lá embaixo, o mar...
 	"""
 	keyWait
 	clearMsg
@@ -21,7 +21,7 @@ script 1 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Lan,you can't!"
+	"Lan, não!"
 	keyWait
 	clearMsg
 	jump
@@ -31,17 +31,17 @@ script 2 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Oh yes I can!"
+	"Lan, sim!"
 	keyWait
 	clearMsg
 	"""
-	This is an
-	emergency! There's
-	no time to hesitate!
+	É uma emergência!
+	Eu não tenho tempo pra
+	ficar hesitando!
 	"""
 	keyWait
 	clearMsg
-	"Bombs away!"
+	"Hora de cair com estilo!"
 	keyWait
 	clearMsg
 	jump
@@ -51,7 +51,7 @@ script 3 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Roger!"
+	"... Beleza!"
 	keyWait
 	end
 }
@@ -71,7 +71,7 @@ script 5 mmbn3 {
 	soundDisableTextSFX
 	soundPlay
 		track = 250
-	"Splaaaash!"
+	"Chuáááá!"
 	wait
 		frames = 60
 	keyWait

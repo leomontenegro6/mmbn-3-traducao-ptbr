@@ -70,8 +70,8 @@ script 222 mmbn3 {
 script 230 mmbn3 {
 	msgOpen
 	"""
-	MegaMan accessed the
-	mystery data.
+	MegaMan acessou os
+	dados misteriosos.
 	"""
 	wait
 		frames = 10
@@ -95,8 +95,8 @@ script 230 mmbn3 {
 	playerAnimate
 		animation = 24
 	"""
-	MegaMan got a
-	SubChip for
+	MegaMan adquiriu o
+	SubChip
 	"
 	"""
 	printItem
@@ -111,8 +111,8 @@ script 230 mmbn3 {
 script 231 mmbn3 {
 	msgOpen
 	"""
-	MegaMan accessed the
-	mystery data.
+	MegaMan acessou os
+	dados misteriosos.
 	"""
 	wait
 		frames = 10
@@ -134,8 +134,7 @@ script 231 mmbn3 {
 		code = E
 		amount = 1
 	"""
-	MegaMan got a chip
-	for
+	MegaMan adquiriu o chip
 	"
 	"""
 	printChip
@@ -154,8 +153,8 @@ script 231 mmbn3 {
 script 232 mmbn3 {
 	msgOpen
 	"""
-	MegaMan accessed the
-	mystery data.
+	MegaMan acessou os
+	dados misteriosos.
 	"""
 	wait
 		frames = 10
@@ -178,7 +177,7 @@ script 232 mmbn3 {
 		jumpIfNone = continue
 		jumpIfSome = continue
 	"""
-	MegaMan got:
+	MegaMan adquiriu:
 	"2000 Zennys"!!
 	"""
 	playerFinish
@@ -192,9 +191,8 @@ script 233 mmbn3 {
 		buffer = 0
 		item = 113
 	"""
-	 is full.
-	You can't carry
-	any more
+	s demais.
+	Não pode carregar mais.
 	"""
 	keyWait
 	end

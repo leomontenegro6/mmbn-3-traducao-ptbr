@@ -4,7 +4,7 @@ script 0 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Hand over Alpha!"
+	"Me entrega o Alpha!"
 	keyWait
 	clearMsg
 	jump
@@ -14,26 +14,25 @@ script 1 mmbn3 {
 	mugshotShow
 		mugshot = DrillMan
 	msgOpen
-	"…MegaMan!"
+	"... MegaMan!"
 	keyWait
 	clearMsg
 	"""
-	Heh heh! So I ran
-	into you before
-	awakening Alpha…
-	"""
-	keyWait
-	clearMsg
-	"""
-	This must be my
-	lucky day!
+	He he! Então, acabei es-
+	barrando em você antes
+	de despertar o Alpha...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Now I can pay you
-	back for what you've
-	done!
+	Este deve ser o meu
+	dia de sorte!
+	"""
+	keyWait
+	clearMsg
+	"""
+	Agora, posso me vingar
+	pelo que você fez!
 	"""
 	keyWait
 	clearMsg
@@ -44,7 +43,7 @@ script 2 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"What I've done?"
+	"O que eu fiz?"
 	keyWait
 	clearMsg
 	jump
@@ -55,15 +54,14 @@ script 3 mmbn3 {
 		mugshot = DrillMan
 	msgOpen
 	"""
-	Yes! I'm going to
-	drill a hole right
-	through you!
+	Sim! Vou abrir um buraco
+	enorme em você!
 	"""
 	keyWait
 	clearMsg
 	"""
-	You'll pay for what
-	you did to my cousin
+	Você vai pagar pelo
+	que fez ao meu primo,
 	BubbleMan!
 	"""
 	keyWait
@@ -76,13 +74,12 @@ script 4 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Here he comes,
-	MegaMan!
-	Battle routine,
+	Lá vem ele, MegaMan!
+	Rotina de
 	"""
 	waitSkip
 		frames = 30
-	"set!"
+	"batalha...!"
 	keyWait
 	clearMsg
 	jump
@@ -92,7 +89,7 @@ script 5 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Execute!"
+	"Executar!"
 	keyWait
 	clearMsg
 	jump
@@ -103,9 +100,8 @@ script 6 mmbn3 {
 		mugshot = DrillMan
 	msgOpen
 	"""
-	I'm going to drill
-	you into a pile of
-	dust!
+	Vou perfurar você até
+	virar pó!
 	"""
 	keyWait
 	end

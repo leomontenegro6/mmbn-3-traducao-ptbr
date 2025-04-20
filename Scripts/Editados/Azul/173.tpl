@@ -11,15 +11,15 @@ script 0 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	Show me your
+	Mostre a sua
 	"
 	"""
 	printItem
 		buffer = 0
 		item = 21
 	"""
-	" or you
-	can't go through.
+	", ou não
+	pode passar.
 	"""
 	keyWait
 	end
@@ -29,15 +29,15 @@ script 1 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	I see you have
+	Vejo que você tem a
 	"
 	"""
 	printItem
 		buffer = 0
 		item = 21
 	"""
-	". OK,you
-	can pass.
+	". OK, garoto,
+	pode passar.
 	"""
 	keyWait
 	flagSet
@@ -51,16 +51,16 @@ script 10 mmbn3 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	I came all this way,
-	and now the paths
-	are too narrow!
+	Eu cruzei todo este ca-
+	minho e, agora, a estrada
+	ficou estreita demais!
 	"""
 	keyWait
 	clearMsg
 	"""
-	It's just not fair!
-	And Beach Square is
-	so close,too…
+	Que injusto!
+	E o Angra Plaza tá tão
+	perto, também...
 	"""
 	keyWait
 	end
@@ -70,23 +70,22 @@ script 11 mmbn3 {
 		mugshot = NormalNaviGreen
 	msgOpen
 	"""
-	Did you come to see
-	them tape the TV
-	show,too?
+	Você também veio ver
+	eles filmando o programa
+	de TV?
 	"""
 	keyWait
 	clearMsg
 	"""
-	This area is so
-	complicated! To get
-	to Beach Square,you
+	Esta área é tão
+	complicada! Pra chegar
+	no Angra Plaza,
 	"""
 	keyWait
 	clearMsg
 	"""
-	really have to take
-	a lot of twists and
-	turns.
+	é preciso se perder e
+	se achar várias vezes.
 	"""
 	keyWait
 	end
@@ -96,23 +95,22 @@ script 12 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	Hello,there!
-	Welcome to the Beach
-	area!
+	Olá!
+	Bem-vindo à área Angra!
 	"""
 	keyWait
 	clearMsg
 	"""
-	With the ocean so
-	close,it sure makes
-	you feel tropical!
+	Com o oceano tão perto,
+	a gente fica se sentindo
+	muito tropical aqui!
 	"""
 	keyWait
 	clearMsg
 	"""
-	This area's main
-	street is orange…
-	Like the summer sun!
+	A Rua Central desta
+	área é laranja...
+	Como o sol do verão!
 	"""
 	keyWait
 	end
@@ -147,16 +145,16 @@ script 20 mmbn3 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	We're improving
-	security,just in
-	case the N1 fans
+	Estamos aprimorando a
+	segurança, pro caso de
+	fãs do N1 causarem
 	"""
 	keyWait
 	clearMsg
 	"""
-	start to riot. If
-	you see anything
-	suspicious,tell me.
+	baderna. Se vir alguma
+	coisa suspeita, por
+	favor, informe-nos.
 	"""
 	keyWait
 	end
@@ -166,16 +164,16 @@ script 30 mmbn3 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	I'm investigating
-	reports that suspi-
-	cious characters are
+	Estou investigando
+	relatos de que indivíduos
+	suspeitos vêm cruzando
 	"""
 	keyWait
 	clearMsg
 	"""
-	coming through the
-	Beach area. You'd
-	better be careful.
+	a área Angra.
+	Aconselho que tome
+	cuidado, senhor.
 	"""
 	keyWait
 	end
@@ -184,19 +182,22 @@ script 40 mmbn3 {
 	mugshotShow
 		mugshot = HeelNavi
 	msgOpen
-	"Yo,I'm no WWW Navi!!"
-	keyWait
-	clearMsg
 	"""
-	You got a problem,
-	huh!?
+	Ô, eu não "sô" Navi da
+	WWW não, caramba!!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Who do you think yer
-	lookin' at!? You
-	want a piece of me?
+	Quê que é?
+	"Num" gostou?!
+	"""
+	keyWait
+	clearMsg
+	"""
+	Tá olhando o quê?!
+	Vai encarar?!
+	Cai dentro, ô!
 	"""
 	keyWait
 	clearMsg
@@ -223,7 +224,7 @@ script 41 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Lan! You got mail!"
+	"Lan! Chegou e-mail!"
 	keyWait
 	end
 }
@@ -251,23 +252,23 @@ script 50 mmbn3 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	I know there's an
-	entrance to the
-	Undernet around
+	Eu sei que há uma
+	entrada para a
+	Undernet por aqui,
 	"""
 	keyWait
 	clearMsg
 	"""
-	here,but to go
-	through it,you need
-	a Tally.
+	mas, para passar por
+	ela, eu precisaria ter
+	uma Contagem.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Maybe I should
-	just force my way
-	in…!?
+	Talvez eu devesse só
+	entrar à força,
+	mesmo...?!
 	"""
 	keyWait
 	end
@@ -277,13 +278,13 @@ script 55 mmbn3 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	So the WWW and the
-	Undernet are
-	connected after all!
+	Então, a WWW e a
+	Undernet estão
+	conectadas, afinal!
 	"""
 	keyWait
 	clearMsg
-	"Go get 'em!"
+	"Vá lá e acabe com ela!"
 	keyWait
 	end
 }
@@ -292,16 +293,15 @@ script 60 mmbn3 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	There's no link
-	between the WWW and
-	the Undernet.
+	Não há ligação entre a
+	WWW e a Undernet.
 	"""
 	keyWait
 	clearMsg
 	"""
-	But still,they're
-	both criminal
-	organizations,so…
+	Ainda assim, ambas são
+	organizações criminosas,
+	então...
 	"""
 	keyWait
 	end
@@ -311,15 +311,14 @@ script 70 mmbn3 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	I'm still OK,but I
-	feel really
-	sluggish…
+	Eu ainda estou bem, só
+	um pouco cambaleante...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Grrr! I won't give
-	in!
+	Grrr! Não vou me dar
+	por vencido!
 	"""
 	keyWait
 	end
@@ -333,8 +332,8 @@ script 180 mmbn3 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	Welcome to my
-	SubChip shop!
+	Bem-vindo à minha loja
+	de SubChips! Conferir?
 	
 	"""
 	option
@@ -344,7 +343,7 @@ script 180 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Look "
+	"   Sim "
 	option
 		left = 0
 		right = 0
@@ -352,7 +351,7 @@ script 180 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Don't look"
+	"          Não"
 	select
 		default = 0
 		BSeparate = false
@@ -368,7 +367,7 @@ script 180 mmbn3 {
 }
 script 181 mmbn3 {
 	clearMsg
-	"Come again!"
+	"Volte sempre!"
 	keyWait
 	end
 }
@@ -377,9 +376,9 @@ script 182 mmbn3 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	I'm a SubChip
-	dealer,but I'm out
-	of merchandise now!
+	Sou um mercador de
+	SubChips, mas estou
+	sem estoque agora!
 	"""
 	keyWait
 	end
@@ -391,15 +390,16 @@ script 220 mmbn3 {
 script 221 mmbn3 {
 	msgOpen
 	"""
-	From this sign,go
-	down the forked road
-	to Beach 1
+	Desta placa, desça na
+	bifurcação para chegar
+	em Angra 1.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Beach Square is
-	straight ahead
+	Desta placa, siga direto
+	para cima para chegar
+	no Angra Plaza.
 	"""
 	keyWait
 	end
@@ -407,16 +407,15 @@ script 221 mmbn3 {
 script 222 mmbn3 {
 	msgOpen
 	"""
-	The CyberMetro is
-	at the bottom
-	of this ramp
+	O CyberMetrô fica
+	descendo esta rampa.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Follow the orange
-	path to Beach
-	Square
+	Siga a estrada laranja
+	para chegar no Angra
+	Plaza.
 	"""
 	keyWait
 	end
@@ -424,9 +423,9 @@ script 222 mmbn3 {
 script 223 mmbn3 {
 	msgOpen
 	"""
-	It's the CyberMetro
-	line,which links
-	many Internet areas
+	Essa é a linha do
+	CyberMetrô, que conecta
+	várias áreas da Rede.
 	"""
 	keyWait
 	end
@@ -440,22 +439,22 @@ script 224 mmbn3 {
 		jumpIfLess = continue
 	msgOpen
 	"""
-	A door is blocking
-	your way
+	Um porta lhe impede
+	de passar.
 	"""
 	keyWait
 	end
 }
 script 225 mmbn3 {
 	msgOpen
-	"What a flame…"
+	"Chamas tão intensas..."
 	keyWait
 	end
 }
 script 226 mmbn3 {
 	msgOpen
 	"""
-	MegaMan used:
+	MegaMan usou:
 	"
 	"""
 	printItem
@@ -470,8 +469,8 @@ script 226 mmbn3 {
 script 230 mmbn3 {
 	msgOpen
 	"""
-	MegaMan accessed the
-	mystery data.
+	MegaMan acessou os
+	dados misteriosos.
 	"""
 	wait
 		frames = 10
@@ -493,8 +492,8 @@ script 230 mmbn3 {
 		code = G
 		amount = 1
 	"""
-	MegaMan got a chip
-	for"
+	MegaMan adquiriu o chip
+	"
 	"""
 	printChip
 		buffer = 0
@@ -512,8 +511,8 @@ script 230 mmbn3 {
 script 231 mmbn3 {
 	msgOpen
 	"""
-	MegaMan accessed the
-	mystery data.
+	MegaMan acessou os
+	dados misteriosos.
 	"""
 	wait
 		frames = 10
@@ -534,8 +533,8 @@ script 231 mmbn3 {
 		item = 100
 		amount = 1
 	"""
-	MegaMan got a
-	PowerUp:
+	MegaMan adquiriu
+	um PowerUp:
 	"
 	"""
 	printItem
@@ -547,8 +546,8 @@ script 231 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Regular memory
-	increased by 3 MB!!
+	Memória padrão
+	aumentada em 3 MB!
 	"""
 	keyWait
 	end
@@ -556,8 +555,8 @@ script 231 mmbn3 {
 script 235 mmbn3 {
 	msgOpen
 	"""
-	MegaMan accessed the
-	mystery data.
+	MegaMan acessou os
+	dados misteriosos.
 	"""
 	wait
 		frames = 10
@@ -574,7 +573,7 @@ script 235 mmbn3 {
 		jumpIfTrue = continue
 		jumpIfFalse = 236
 	"""
-	The SubChip
+	O SubChip
 	"
 	"""
 	printItem
@@ -582,14 +581,14 @@ script 235 mmbn3 {
 		item = 115
 	"""
 	"
-	was activated!!
+	foi ativado!!
 	"""
 	keyWait
 	clearMsg
 	"""
-	The virus hidden
-	in the mystery data
-	was deleted!
+	O vírus que se escondia
+	nos dados misteriosos
+	foi deletado!
 	"""
 	keyWait
 }
@@ -615,8 +614,8 @@ script 236 mmbn3 {
 script 237 mmbn3 {
 	msgOpen
 	"""
-	The mystery data was
-	a virus!!
+	Os dados misteriosos
+	eram vírus!!
 	"""
 	keyWait
 	startRandomBattle
@@ -663,8 +662,7 @@ script 238 mmbn3 {
 	playerAnimate
 		animation = 24
 	"""
-	MegaMan got a chip
-	for
+	MegaMan adquiriu o chip
 	"
 	"""
 	printChip
@@ -705,7 +703,7 @@ script 239 mmbn3 {
 	playerAnimate
 		animation = 24
 	"""
-	MegaMan got:
+	MegaMan adquiriu:
 	"
 	"""
 	printBuffer
@@ -722,8 +720,8 @@ script 239 mmbn3 {
 script 240 mmbn3 {
 	msgOpen
 	"""
-	MegaMan accessed the
-	mystery data.
+	MegaMan acessou os
+	dados misteriosos.
 	"""
 	wait
 		frames = 10
@@ -740,7 +738,7 @@ script 240 mmbn3 {
 		jumpIfTrue = continue
 		jumpIfFalse = 241
 	"""
-	The SubChip
+	O SubChip
 	"
 	"""
 	printItem
@@ -748,14 +746,14 @@ script 240 mmbn3 {
 		item = 115
 	"""
 	"
-	was activated!!
+	foi ativado!!
 	"""
 	keyWait
 	clearMsg
 	"""
-	The virus hidden
-	in the mystery data
-	was deleted!
+	O vírus que se escondia
+	nos dados misteriosos
+	foi deletado!
 	"""
 	keyWait
 }
@@ -781,8 +779,8 @@ script 241 mmbn3 {
 script 242 mmbn3 {
 	msgOpen
 	"""
-	The mystery data was
-	a virus!!
+	Os dados misteriosos
+	eram vírus!!
 	"""
 	keyWait
 	startRandomBattle
@@ -829,8 +827,7 @@ script 243 mmbn3 {
 	playerAnimate
 		animation = 24
 	"""
-	MegaMan got a chip
-	for
+	MegaMan adquiriu o chip
 	"
 	"""
 	printChip
@@ -871,7 +868,7 @@ script 244 mmbn3 {
 	playerAnimate
 		animation = 24
 	"""
-	MegaMan got:
+	MegaMan adquiriu:
 	"
 	"""
 	printBuffer

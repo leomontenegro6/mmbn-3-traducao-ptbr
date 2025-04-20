@@ -5,9 +5,9 @@ script 0 mmbn3 {
 		mugshot = PlantMan
 	msgOpen
 	"""
-	Arrrgh…! Even if you
-	can beat us,you'll
-	never defeat Alpha!
+	Arrrgh...! Mesmo nos ven-
+	cendo, nunca conseguirá
+	derrotar Alpha!
 	"""
 	keyWait
 	clearMsg
@@ -22,20 +22,19 @@ script 1 mmbn3 {
 		mugshot = MrMatch
 	msgOpen
 	"""
-	And I thought that
-	I'd be able to watch
-	the world end…
+	E eu, que achei que
+	ia poder ver o fim do
+	mundo...
 	"""
 	keyWait
 	clearMsg
 	"""
-	But…
-	Alpha will
-	soon awaken…
+	Mas...
+	Alpha logo despertará...
 	"""
 	keyWait
 	clearMsg
-	"So hot…"
+	"Tão quente..."
 	keyWait
 	end
 }
@@ -44,9 +43,9 @@ script 2 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	"Alpha will soon
-	awaken"? Lan,we have
-	to hurry!!
+	"Alpha logo despertará"?
+	Lan, a gente tem que
+	correr!!
 	"""
 	keyWait
 	clearMsg
@@ -57,13 +56,13 @@ script 3 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Yeah!"
+	"É!"
 	keyWait
 	clearMsg
 	"""
-	Wait! How's Chaud
-	doing!? I'm jacking
-	out now,MegaMan!
+	Espera! Como tá o
+	Chaud?! Eu vou
+	desconectar, MegaMan!
 	"""
 	keyWait
 	clearMsg

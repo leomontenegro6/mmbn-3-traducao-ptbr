@@ -5,8 +5,8 @@ script 0 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan! I beat the WWW
-	Navis!
+	Lan! Eu venci os Navis
+	da WWW!
 	"""
 	keyWait
 	clearMsg
@@ -17,7 +17,7 @@ script 1 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Good job,MegaMan!"
+	"Mandou bem, MegaMan!"
 	keyWait
 	end
 }
@@ -25,7 +25,7 @@ script 2 mmbn3 {
 	mugshotHide
 	msgOpen
 	soundDisableTextSFX
-	"Beep Beep Beep!"
+	"Bip Bip Bip!"
 	keyWait
 	soundEnableTextSFX
 	end
@@ -34,17 +34,17 @@ script 3 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"You got mail!"
+	"Chegou e-mail!"
 	keyWait
 	clearMsg
 	"""
-	It's from Mr.Match!
-	I wonder what he
-	wants?
+	É do Sr. Match!
+	O que será que ele
+	quer?
 	"""
 	keyWait
 	clearMsg
-	"It says,"
+	"Tá escrito:"
 	keyWait
 	clearMsg
 	jump
@@ -59,16 +59,16 @@ script 4 mmbn3 {
 	mugshotAnimate
 		animation = 0
 	"""
-	"Now the WWW is
-	terrorizing the
-	Beach area! Hurry!
+	"Agora, a WWW está
+	aterrorizando a área
+	Angra! Não perca tempo!
 	"""
 	keyWait
 	clearMsg
 	"""
-	"All I can do now is
-	direct you,but I'm
-	rooting for you!"
+	No momento, eu só posso
+	te direcionar, mas tô
+	torcendo por vocês!"
 	"""
 	flagAddMail
 		flag = 4372
@@ -84,9 +84,8 @@ script 5 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	It looks like
-	Mr.Match really has
-	changed!
+	Parece que o Sr. Match
+	mudou mesmo!
 	"""
 	keyWait
 	clearMsg
@@ -98,9 +97,9 @@ script 6 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I hope you're right,
-	MegaMan. Come on,to
-	the Beach area!
+	Tomara que você tenha
+	razão, MegaMan. Enfim,
+	bora lá pra área Angra!
 	"""
 	keyWait
 	end

@@ -4,7 +4,7 @@ script 0 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"We did it,MegaMan!"
+	"Vencemos, MegaMan!"
 	keyWait
 	end
 }
@@ -13,9 +13,9 @@ script 1 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	We've got a long way
-	to go,but at this
-	rate,we may win!
+	Ainda tem muito chão pela
+	frente, mas, nesse ritmo,
+	a gente pode vencer!
 	"""
 	keyWait
 	clearMsg
@@ -26,7 +26,7 @@ script 2 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Yeah!!"
+	"É!!"
 	keyWait
 	end
 }
@@ -34,18 +34,18 @@ script 3 mmbn3 {
 	mugshotShow
 		mugshot = Tamako
 	msgOpen
-	"You two can do it!"
+	"Vocês dois conseguem!"
 	keyWait
 	clearMsg
 	"""
-	After all,you beat
-	me!!
+	Afinal de contas, vocês
+	me venceram, né?!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Good luck in the
-	next battle!
+	Boa sorte na próxima
+	luta de vocês!
 	"""
 	keyWait
 	clearMsg
@@ -56,8 +56,8 @@ script 4 mmbn3 {
 	mugshotHide
 	msgOpen
 	"""
-	And the victor is…
-	Lan!!
+	E o vencedor é...
+	Lan Hikari!!
 	"""
 	keyWait
 	end
@@ -86,16 +86,16 @@ script 7 mmbn3 {
 	mugshotHide
 	msgOpen
 	"""
-	Congratulations,Lan.
-	The four people
-	remaining from
+	Meus parabéns, Lan.
+	Os quatro competidores
+	remanescentes
 	"""
 	keyWait
 	clearMsg
 	"""
-	blocks A and B are
-	waiting through that
-	door.
+	dos blocos A e B lhe
+	esperam atrás dessa
+	porta.
 	"""
 	keyWait
 	clearMsg
@@ -107,15 +107,15 @@ script 8 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	The four people
-	remaining from
-	blocks A and B…
+	Os quatro NetLutadores
+	remanescentes dos
+	blocos A e B...
 	"""
 	keyWait
 	clearMsg
 	"""
-	I wonder if Chaud
-	made it?
+	Será que o Chaud tá
+	entre eles?
 	"""
 	keyWait
 	clearMsg
@@ -127,9 +127,9 @@ script 9 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	There's no way he
-	didn't make it to
-	the top 8!
+	Com certeza. Impossível
+	ele não ficar entre os
+	oito melhores!
 	"""
 	keyWait
 	clearMsg
@@ -141,16 +141,16 @@ script 10 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Yeah,you're right!
-	Say,the people
-	remaining must all
+	É, tem razão. Aliás,
+	o pessoal que sobrou
+	deve ser bem forte!
 	"""
 	keyWait
 	clearMsg
 	"""
-	be really good!
-	Let's show 'em what
-	we've got!
+	Vamos lá mostrar pra
+	eles que a gente não
+	fica pra trás!
 	"""
 	keyWait
 	clearMsg
@@ -161,7 +161,7 @@ script 11 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"You bet!!"
+	"Pode apostar!!"
 	keyWait
 	end
 }
@@ -169,29 +169,30 @@ script 12 mmbn3 {
 	mugshotHide
 	msgOpen
 	"""
-	I will now explain
-	how the next battle
-	will work. You will
+	Agora, explicarei a próxi-
+	ma luta. Vocês usarão
+	uma nova pasta.
 	"""
 	keyWait
 	clearMsg
 	"""
-	fight with a new
-	folder. Several
-	types of folder data
+	Há várias pastas dife-
+	rentes escondidas pela
+	Ilha do Inferno.
 	"""
 	keyWait
 	clearMsg
 	"""
-	are hidden about
-	Hades Isle. Search
-	for them and equip
+	Procurem por elas e
+	equipem aquela que
+	acharem melhor.
 	"""
 	keyWait
 	clearMsg
 	"""
-	whichever folder you
-	like best.
+	Essa será a pasta que
+	acompanhará vocês
+	nessa rodada!
 	"""
 	keyWait
 	clearMsg
@@ -202,20 +203,19 @@ script 13 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Really!?"
+	"Sério isso?!"
 	keyWait
 	clearMsg
 	"""
-	I wonder what kind
-	of chips are in
-	these new folders!?
+	Que tipos de chips será
+	que tem nessas novas
+	pastas...?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Let's go find a
-	super-powerful
-	folder!
+	Vamos lá pegar uma
+	ultra-forte!
 	"""
 	keyWait
 	clearMsg
@@ -226,30 +226,29 @@ script 14 mmbn3 {
 	mugshotHide
 	msgOpen
 	"""
-	However!
-	You have a time
-	limit of 3 minutes!
+	Contudo! Vocês terão
+	um limite de tempo de
+	três minutos!
 	"""
 	keyWait
 	clearMsg
 	"""
-	You must search for
-	the hidden folders
-	and equip one within
+	Devem achar e equipar
+	as pastas escondidas
+	dentro desse intervalo.
 	"""
 	keyWait
 	clearMsg
 	"""
-	this time. The
-	folder you have
-	equipped when the
+	A pasta que tiverem
+	equipada quando o
+	tempo acabar
 	"""
 	keyWait
 	clearMsg
 	"""
-	time is up will be
-	the one you'll use
-	in the next battle!
+	será a que usarão
+	na próxima luta!
 	"""
 	keyWait
 	clearMsg
@@ -261,9 +260,9 @@ script 15 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Only 3 minutes?
-	Isn't that a little
-	short?
+	Só três minutos?
+	Isso não é muito pouco,
+	não?
 	"""
 	keyWait
 	clearMsg
@@ -274,21 +273,21 @@ script 16 mmbn3 {
 	mugshotHide
 	msgOpen
 	"""
-	I will guide you to
-	the next stage 3
-	minutes from now.
+	Eu guiarei vocês pelo
+	terceiro estágio,
+	daqui a três minutos.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Now then,let us
-	begin.
+	Pois bem, então,
+	vamos começar.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Ready?
-	Go!!
+	Prontos?
+	Busquem!!
 	"""
 	keyWait
 	end

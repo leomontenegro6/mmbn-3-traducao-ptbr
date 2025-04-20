@@ -5,13 +5,13 @@ script 0 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	I'm displaying the
-	name of today's
-	class helper.
+	Estou exibindo o nome
+	da ajudante de classe
+	de hoje.
 	"""
 	keyWait
 	clearMsg
-	"Beep,beep,beep!"
+	"Bip, bip, bip!"
 	keyWait
 	end
 }
@@ -20,13 +20,13 @@ script 1 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	Mayl always cleans
-	the blackboard until
-	it really shines.
+	A Mayl sempre limpa
+	o quadro negro até
+	ele ficar reluzente.
 	"""
 	keyWait
 	clearMsg
-	"I'm very grateful."
+	"E eu sempre fico grato."
 	keyWait
 	end
 }
@@ -35,16 +35,16 @@ script 2 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	I'm storing the
-	information from the
-	blackboard.
+	Estou salvando as
+	informações do quadro
+	negro.
 	"""
 	keyWait
 	clearMsg
 	"""
-	But I always delete
-	Dex's scribbling
-	right away.
+	Mas os rabiscos do
+	Dex, eu sempre deleto
+	imediatamente.
 	"""
 	keyWait
 	end
@@ -63,54 +63,53 @@ script 190 mmbn3 {
 		mugshot = NormalNaviGreen
 	msgOpen
 	"""
-	Oh no! I goofed up!
-	I forgot to bring my
-	work tools!
+	Essa não! Que vacilo!
+	Esqueci de trazer minha
+	ferramenta de trabalho!
 	"""
 	keyWait
 	clearMsg
 	"""
-	That's it! No more
-	work today!
+	OK, já deu!
+	Chega de trabalho hoje!
 	"""
 	keyWait
 	clearMsg
 	waitSkip
 		frames = 20
-	"…Eh?"
+	"... Hã?"
 	keyWait
 	clearMsg
 	"""
-	What?
-	What do you want
-	with me?
+	Que foi?
+	O que você quer comigo?
 	"""
 	keyWait
 	clearMsg
 	waitSkip
 		frames = 10
 	"""
-	Hey! My
-	work tools!
-	Wow,tha…
+	Ah! Minha ferramenta
+	de trabalho!
+	Puxa, muito ob...
 	"""
 	keyWait
 	clearMsg
-	"……"
+	"......"
 	waitSkip
 		frames = 20
 	keyWait
 	clearMsg
 	"""
-	…Hmph! Give 'em to
-	me before I change
-	my mind…
+	... Hmpf! Dá ela aqui
+	antes que eu mude de
+	ideia...
 	"""
 	keyWait
 	clearMsg
 	mugshotHide
 	"""
-	MegaMan gave:
+	MegaMan deu:
 	"
 	"""
 	printItem
@@ -121,22 +120,22 @@ script 190 mmbn3 {
 	clearMsg
 	mugshotShow
 		mugshot = NormalNaviGreen
-	"……"
+	"......"
 	waitSkip
 		frames = 20
 	keyWait
 	clearMsg
 	"""
-	Tell the person who
-	asked you to deliver
-	these…
+	Diga à pessoa que
+	mandou você entregar
+	esta ferramenta...
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'm only taking
-	them because I have
-	no choice…
+	"Só estou aceitando
+	porque não tenho
+	escolha"...
 	"""
 	keyWait
 	end
@@ -146,15 +145,15 @@ script 191 mmbn3 {
 		mugshot = NormalNaviGreen
 	msgOpen
 	"""
-	Don't expect me to
-	be grateful!!
+	Não espere gratidão
+	vindo de mim!!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Fine! Time to work!
-	Time for you to get
-	out of here!
+	OK! Hora de trabalhar!
+	E hora de você dar o
+	fora daqui!
 	"""
 	keyWait
 	end
@@ -162,8 +161,8 @@ script 191 mmbn3 {
 script 230 mmbn3 {
 	msgOpen
 	"""
-	MegaMan accessed the
-	mystery data.
+	MegaMan acessou os
+	dados misteriosos.
 	"""
 	wait
 		frames = 10
@@ -184,8 +183,8 @@ script 230 mmbn3 {
 		item = 98
 		amount = 1
 	"""
-	MegaMan got a
-	PowerUp:
+	MegaMan adquiriu
+	um PowerUp:
 	"
 	"""
 	printItem
@@ -197,8 +196,8 @@ script 230 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Regular memory
-	increased by 1 MB!
+	Memória padrão
+	aumentada em 1 MB!
 	"""
 	keyWait
 	end

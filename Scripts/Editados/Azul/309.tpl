@@ -5,8 +5,8 @@ script 0 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Let's see,Tea…
-	Here we go!
+	Vamos ver, chá... chá...
+	Ah, tá aqui!
 	"""
 	keyWait
 	clearMsg
@@ -19,12 +19,12 @@ script 1 mmbn3 {
 	soundDisableTextSFX
 	soundPlay
 		track = 226
-	"Peep! "
+	"Plip! "
 	wait
 		frames = 30
 	soundPlay
 		track = 209
-	"Ka-Chunk!"
+	"Cra-bronc!"
 	wait
 		frames = 30
 	keyWait
@@ -35,7 +35,7 @@ script 1 mmbn3 {
 	soundPlay
 		track = 133
 	"""
-	Lan got:
+	Lan adquiriu:
 	"
 	"""
 	printItem
@@ -56,8 +56,8 @@ script 2 mmbn3 {
 	flagSet
 		flag = 1795
 	"""
-	Now then,back to
-	Yai's room.
+	Bom, de volta ao quarto
+	da Yai.
 	"""
 	keyWait
 	end
@@ -67,9 +67,9 @@ script 3 mmbn3 {
 		mugshot = Nurse
 	msgOpen
 	"""
-	Excuse me. Have you
-	seen a boy in a
-	wheelchair?
+	Com licença. Você viu um
+	menino de cadeira de
+	rodas?
 	"""
 	keyWait
 	clearMsg
@@ -81,15 +81,14 @@ script 4 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	A boy in a
-	wheelchair? No,I
-	don't think so.
+	Um menino de cadeira
+	de rodas? Não, acho
+	que não vi.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Is something the
-	matter with him?
+	Algum problema com ele?
 	"""
 	keyWait
 	clearMsg
@@ -101,23 +100,22 @@ script 5 mmbn3 {
 		mugshot = Nurse
 	msgOpen
 	"""
-	He's one of our
-	hospitalized
-	patients. Even
+	Ele é um dos nossos
+	pacientes internados.
 	"""
 	keyWait
 	clearMsg
 	"""
-	though we told him
-	we need to run some
-	test,he's gone off
+	Dissemos pra ele que
+	precisávamos fazer
+	uns exames,
 	"""
 	keyWait
 	clearMsg
 	"""
-	somewhere. I'm sure
-	he couldn't have
-	gone too far.
+	e ele fugiu pra algum
+	lugar.
+	Não deve ter ido longe.
 	"""
 	keyWait
 	clearMsg
@@ -131,15 +129,16 @@ script 6 mmbn3 {
 	flagClear
 		flag = 1795
 	"""
-	Lan,this nurse could
-	probably use a hand.
+	Lan, acho que essa
+	enfermeira precisa de
+	uma ajuda.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Why don't we help
-	her look for the
-	boy?
+	Por que a gente não
+	ajuda ela a procurar
+	por esse menino?
 	"""
 	keyWait
 	clearMsg
@@ -153,16 +152,15 @@ script 7 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	You're right! People
-	have helped us out
-	in the past!
+	Concordo! Reproduzir
+	a gentileza que outros
+	já nos ofereceram!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'll help you find
-	him! Where should I
-	look?
+	Eu te ajudo a procurar!
+	Onde eu olho?
 	"""
 	keyWait
 	clearMsg
@@ -173,18 +171,21 @@ script 8 mmbn3 {
 	mugshotShow
 		mugshot = Nurse
 	msgOpen
-	"You will? Thank you!"
-	keyWait
-	clearMsg
 	"""
-	I'll search inside
-	the hospital,
+	De verdade?
+	Muito obrigada!
 	"""
 	keyWait
 	clearMsg
 	"""
-	so can you check
-	the outside?
+	Eu vou procurar dentro
+	do hospital,
+	"""
+	keyWait
+	clearMsg
+	"""
+	então, pode conferir
+	a parte externa?
 	"""
 	keyWait
 	clearMsg
@@ -195,7 +196,7 @@ script 9 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Yes,ma'am!"
+	"Sim, senhora!"
 	keyWait
 	clearMsg
 	jump
@@ -206,14 +207,14 @@ script 10 mmbn3 {
 		mugshot = Nurse
 	msgOpen
 	"""
-	The boy's name is
+	O nome do menino é
 	Mamoru.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I hope we can find
-	him soon!
+	Espero que nós o
+	encontremos logo!
 	"""
 	keyWait
 	end
@@ -231,7 +232,7 @@ script 11 mmbn3 {
 	"."
 	waitSkip
 		frames = 30
-	"\nWhere could you be?"
+	"\nOnde será que ele tá?"
 	keyWait
 	end
 }

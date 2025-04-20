@@ -4,7 +4,7 @@ script 0 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Ms.Mari's here!"
+	"A srta. Mari chegou!"
 	keyWait
 	end
 }
@@ -13,9 +13,9 @@ script 1 mmbn3 {
 		mugshot = MsMari
 	msgOpen
 	"""
-	Good morning,
-	everyone! Let's
-	begin today's class!
+	Bom dia, turma!
+	Vamos começar a aula
+	de hoje!
 	"""
 	keyWait
 	clearMsg
@@ -27,9 +27,9 @@ script 2 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Dex still hasn't
-	come. Is he taking
-	the day off?
+	O Dex ainda não chegou.
+	Será que ele decidiu
+	matar aula?
 	"""
 	keyWait
 	clearMsg
@@ -41,9 +41,9 @@ script 3 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Ms.Mari! Do you know
-	where Dex is? Is he
-	coming today?
+	Srta. Mari!
+	Sabe onde o Dex tá?
+	Ele vem hoje?
 	"""
 	keyWait
 	clearMsg
@@ -55,8 +55,8 @@ script 4 mmbn3 {
 		mugshot = MsMari
 	msgOpen
 	"""
-	Um…Well…
-	Dex is…
+	Hum... Bom...
+	O Dex, ele...
 	"""
 	keyWait
 	clearMsg
@@ -68,8 +68,8 @@ script 5 mmbn3 {
 		mugshot = Yai
 	msgOpen
 	"""
-	Is something wrong
-	with Dex,Ms.Mari?
+	O Dex tá com algum
+	problema, srta. Mari?
 	"""
 	keyWait
 	clearMsg
@@ -80,7 +80,7 @@ script 6 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"What is it,Ms.Mari?"
+	"O que rolou, srta. Mari?"
 	keyWait
 	clearMsg
 	jump
@@ -90,19 +90,19 @@ script 7 mmbn3 {
 	mugshotShow
 		mugshot = MsMari
 	msgOpen
-	"Um…"
+	"Er..."
 	waitSkip
 		frames = 30
 	"""
-	Actually…
-	Dex asked me not to
-	tell anyone,
+	 Na verdade...
+	o Dex me pediu para
+	não contar a ninguém,
 	"""
 	keyWait
 	clearMsg
 	"""
-	but from today he
-	will be…
+	mas, a partir de hoje,
+	ele...
 	"""
 	keyWait
 	clearMsg
@@ -110,9 +110,9 @@ script 7 mmbn3 {
 		frames = 60
 	soundStop
 	"""
-	Well…he will be
-	moving to a new
-	school.
+	Bom... ele será
+	transferido para uma
+	nova escola.
 	"""
 	keyWait
 	clearMsg
@@ -123,7 +123,7 @@ script 8 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"What!?"
+	"O quê?!"
 	keyWait
 	clearMsg
 	jump
@@ -133,7 +133,7 @@ script 9 mmbn3 {
 	mugshotShow
 		mugshot = Mayl
 	msgOpen
-	"You're kidding!!"
+	"Não pode ser!!"
 	keyWait
 	clearMsg
 	jump
@@ -144,8 +144,8 @@ script 10 mmbn3 {
 		mugshot = Yai
 	msgOpen
 	"""
-	He never told us
-	anything like that!
+	Ele não contou essa
+	história pra gente!
 	"""
 	keyWait
 	clearMsg
@@ -157,9 +157,9 @@ script 11 mmbn3 {
 		mugshot = MsMari
 	msgOpen
 	"""
-	He said getting all
-	emotional wasn't
-	his "style".
+	Ele disse que despedidas
+	emotivas não eram o
+	"estilo" dele.
 	"""
 	keyWait
 	end
@@ -169,15 +169,15 @@ script 12 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	What was Dex
-	thinking?
+	O que o Dex tinha na
+	cabeça?
 	"""
 	keyWait
 	clearMsg
 	"""
-	He should have told
-	us something this
-	important!
+	Ele devia ter contado
+	uma coisa importante
+	dessas pra gente!
 	"""
 	keyWait
 	clearMsg
@@ -189,14 +189,14 @@ script 13 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,there may still
-	be time!
+	Lan, talvez ainda dê
+	tempo!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Let's get over to
-	Dex's house!
+	Vamos lá pra casa do
+	Dex!
 	"""
 	keyWait
 	clearMsg
@@ -207,7 +207,7 @@ script 14 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Right!"
+	"Vamos!"
 	keyWait
 	end
 }

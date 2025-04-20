@@ -5,15 +5,15 @@ script 0 mmbn3 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Bem, vamos começar
-	com esta aula de
-	luta antivírus?
+	Certo, agora, vamos dar
+	início à nossa aula de
+	luta antivírus.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Sei que é só treino,
-	mas tentem dar tudo
+	Sim, é só um treino, mas,
+	por favor, deem o melhor
 	de si!
 	"""
 	keyWait

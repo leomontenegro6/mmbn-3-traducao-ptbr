@@ -4,19 +4,18 @@ script 0 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Where's PlantMan!?"
+	"Cadê o PlantMan?!"
 	keyWait
 	clearMsg
 	"""
-	Looks like he ran
-	away!
+	Droga, parece que ele
+	fugiu!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Lan! Let's hurry
-	back to the
-	operating room!
+	Lan! Vamos voltar pra
+	sala de cirurgia, rápido!
 	"""
 	keyWait
 	clearMsg
@@ -28,8 +27,8 @@ script 1 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Right!
-	Jacking out!
+	Agora!
+	Desconectando!
 	"""
 	keyWait
 	end

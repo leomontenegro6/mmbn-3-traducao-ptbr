@@ -5,8 +5,9 @@ script 0 mmbn3 {
 		mugshot = Bass
 	msgOpen
 	"""
-	I cannot…
-	I cannot have lost…
+	Não pode ser...
+	Eu não posso...
+	ter sido derrotado...
 	"""
 	keyWait
 	clearMsg
@@ -18,9 +19,9 @@ script 1 mmbn3 {
 		mugshot = LordWily
 	msgOpen
 	"""
-	Hmm…And I was
-	hoping that you'd
-	delete each other…
+	Hmm... E aqui estava eu,
+	torcendo para que dele-
+	tassem um ao outro...
 	"""
 	keyWait
 	clearMsg
@@ -31,7 +32,7 @@ script 2 mmbn3 {
 	mugshotShow
 		mugshot = Bass
 	msgOpen
-	"What…!?"
+	"O quê...?!"
 	keyWait
 	clearMsg
 	jump
@@ -44,36 +45,35 @@ script 3 mmbn3 {
 		mugshot = LordWily
 	msgOpen
 	"""
-	Bass,the Guardian
-	program that you
-	destroyed…
+	Bass, o programa
+	Guardião que você
+	destruiu...
 	"""
 	keyWait
 	clearMsg
 	"""
-	It was the final
-	protection placed
-	on Alpha!
+	Era a proteção final
+	instalada no Alpha!
 	"""
 	keyWait
 	clearMsg
 	"""
-	It takes a lot to
-	destroy it,you know.
-	So I used your power.
+	É necessário muito poder
+	para destrui-lo, sabe?
+	Então, eu usei o seu.
 	"""
 	keyWait
 	clearMsg
 	"""
-	It's the reason I
-	used Gospel to make
-	a copy of you!
+	Aliás, foi por isso que eu
+	usei a Gospel para criar
+	uma cópia sua!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Just to bring
-	back Alpha!!
+	Foi tudo para reviver
+	Alpha!!
 	"""
 	keyWait
 	clearMsg
@@ -84,7 +84,7 @@ script 4 mmbn3 {
 	mugshotShow
 		mugshot = Bass
 	msgOpen
-	"Wily…You…"
+	"Wily... Seu..."
 	keyWait
 	clearMsg
 	jump
@@ -95,15 +95,16 @@ script 5 mmbn3 {
 		mugshot = LordWily
 	msgOpen
 	"""
-	Navis are,after all,
-	just tools to use!!
-	Do you see now!?
+	Afinal, Navis não passam
+	de ferramentas para se
+	usar!! Entende, agora?!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I would use anything
-	to complete my plan!
+	Eu sou capaz de usar
+	qualquer coisa para
+	completar o meu plano!
 	"""
 	keyWait
 	clearMsg
@@ -114,7 +115,7 @@ script 6 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"That dirty old man!"
+	"Velho sujo!"
 	keyWait
 	end
 }
@@ -122,7 +123,7 @@ script 7 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Whoa!!"
+	"Ah!!"
 	keyWait
 	clearMsg
 	jump
@@ -143,16 +144,16 @@ script 9 mmbn3 {
 		mugshot = LordWily
 	msgOpen
 	"""
-	Here it comes!!
-	Here it comes!!
-	Finally!!
+	Está vindo!!
+	Está vindo!!
+	Finalmente!!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Alpha's awakening!
-	It's the end of
-	Network society!
+	Alpha está despertando!
+	É o fim da sociedade da
+	Rede!
 	"""
 	keyWait
 	end
@@ -161,10 +162,10 @@ script 10 mmbn3 {
 	mugshotShow
 		mugshot = Bass
 	msgOpen
-	"Guraaagh!!"
+	"Goraaahhh!!"
 	keyWait
 	clearMsg
-	"Graaaaaauggghh!"
+	"Graaaaaaurrrhh!"
 	keyWait
 	end
 }
@@ -176,9 +177,9 @@ script 11 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Bass is…
-	What…
-	What's happening!?
+	O Bass tá...
+	O que...
+	O que tá acontecendo?!
 	"""
 	keyWait
 	clearMsg
@@ -195,29 +196,29 @@ script 12 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	That is Alpha!!
-	The beast who will
-	devour Cyberworld!!
+	Esse é Alpha!!
+	A besta que devorará
+	o mundo cibernético!!
 	"""
 	keyWait
 	clearMsg
 	"""
-	This is the end!
-	Of Net society…
-	And the world!!
+	Esse é o fim!
+	Da sociedade da Rede...
+	e do mundo!!
 	"""
 	keyWait
 	clearMsg
 	"""
 	Alpha!
-	Swallow it all!
-	All of it!
+	Devore tudo!
+	Não deixe sobrar nada!
 	"""
 	keyWait
 	clearMsg
 	flagSet
 		flag = 2629
-	"Aahahahaha!!"
+	"Aaah ha ha ha ha!!"
 	keyWait
 	clearMsg
 	flagClear
@@ -228,10 +229,10 @@ script 13 mmbn3 {
 	mugshotShow
 		mugshot = LordWily
 	msgOpen
-	"Huh…!?"
+	"O qu...?!"
 	keyWait
 	clearMsg
-	"Stop!! What…!?"
+	"Pare!! Não...!!"
 	keyWait
 	clearMsg
 	"Aaaahhhhh!!"
@@ -246,8 +247,7 @@ script 14 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	It's even swallowed
-	up Wily…!
+	Ele engoliu até o Wily...!
 	"""
 	keyWait
 	clearMsg
@@ -266,7 +266,7 @@ script 16 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"So this is Alpha!!"
+	"Então, esse é o Alpha!!"
 	keyWait
 	clearMsg
 	jump
@@ -279,16 +279,16 @@ script 17 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	The monster that
-	would swallow all
-	of Cyberworld…
+	O monstro que pode
+	devorar todo o mundo
+	cibernético...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Lan,we have
-	to stop this
-	thing here and now!!
+	Lan, a gente tem que
+	deter essa coisa aqui
+	e agora!!
 	"""
 	keyWait
 	clearMsg
@@ -300,19 +300,19 @@ script 18 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Of course!
-	For peace,and
-	for our future!!
+	Com certeza!
+	Pela paz do mundo...
+	e pelo nosso futuro!!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Let's go,MegaMan!
-	Battle routine,
+	Vamos nessa, MegaMan!
+	Rotina
 	"""
 	waitSkip
 		frames = 30
-	"set!"
+	"de batalha...!"
 	keyWait
 	clearMsg
 	jump
@@ -322,7 +322,7 @@ script 19 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Execute!"
+	"Executar!"
 	keyWait
 	end
 }

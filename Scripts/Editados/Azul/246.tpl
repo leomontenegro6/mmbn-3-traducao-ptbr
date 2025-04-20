@@ -11,7 +11,7 @@ script 0 mmbn3 {
 script 1 mmbn3 {
 	mugshotHide
 	msgOpen
-	"QUACK!"
+	"SQUA!"
 	wait
 		frames = 60
 	keyWait
@@ -22,9 +22,9 @@ script 2 mmbn3 {
 		mugshot = Chisao
 	msgOpen
 	"""
-	…Quack? Huh?
-	Ahh! I'm falling!
-	He'p me!
+	... "Squa"? Quê?
+	Aaahh! Eu vou cair!
+	Socorro!
 	"""
 	keyWait
 	clearMsg
@@ -35,7 +35,7 @@ script 3 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Watch out!!"
+	"Cuidado!!"
 	keyWait
 	end
 }
@@ -44,8 +44,8 @@ script 4 mmbn3 {
 		mugshot = Chisao
 	msgOpen
 	"""
-	Big brother!
-	You saved me!!
+	Irmãozão!
+	Você me salvou!!
 	"""
 	keyWait
 	clearMsg
@@ -57,9 +57,9 @@ script 5 mmbn3 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Heh! No,you need to
-	thank the #1
-	NetBattler,there!!
+	He! Não, você devia é
+	agradecer ao melhor
+	NetLutador ali!!
 	"""
 	keyWait
 	clearMsg
@@ -71,8 +71,8 @@ script 6 mmbn3 {
 		mugshot = Chisao
 	msgOpen
 	"""
-	Huh? But YOU'RE
-	da #1 NetBattler!?
+	Hã? Mas VOCÊ é o
+	melhor NetLutador!
 	"""
 	keyWait
 	clearMsg
@@ -83,7 +83,7 @@ script 7 mmbn3 {
 	mugshotShow
 		mugshot = Dex
 	msgOpen
-	"No,Chisao…"
+	"Não, Chisao..."
 	keyWait
 	clearMsg
 	jump
@@ -93,7 +93,7 @@ script 8 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Dex,it's OK!"
+	"Dex, tá de boa!"
 	keyWait
 	clearMsg
 	jump
@@ -104,9 +104,9 @@ script 9 mmbn3 {
 		mugshot = Dex
 	msgOpen
 	"""
-	…Heh.
-	I guess I owe you
-	one again,Lan…
+	... He.
+	Acho que vou ficar te
+	devendo outra, Lan...
 	"""
 	keyWait
 	clearMsg
@@ -118,8 +118,8 @@ script 10 mmbn3 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	Oh,I'm so glad that
-	Chisao is OK…
+	Ah, eu tô tão feliz que
+	o Chisao tá bem...
 	"""
 	keyWait
 	clearMsg
@@ -130,7 +130,7 @@ script 11 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Yeah!"
+	"É!"
 	keyWait
 	clearMsg
 	jump
@@ -140,7 +140,10 @@ script 12 mmbn3 {
 	mugshotShow
 		mugshot = Yai
 	msgOpen
-	"I think I might cry!"
+	"""
+	Eu acho que eu vou
+	chorar!
+	"""
 	keyWait
 	end
 }

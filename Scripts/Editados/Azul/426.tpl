@@ -4,7 +4,7 @@ script 0 mmbn3 {
 	mugshotShow
 		mugshot = DesertMan
 	msgOpen
-	"Yaaaaaahhh!!"
+	"Jjiiaaaaaaahhh!!"
 	keyWait
 	clearMsg
 	jump
@@ -35,14 +35,14 @@ script 3 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Hey! The guard
-	robot stopped!!
+	Ah! O robô vigia parou!!
 	"""
 	keyWait
 	clearMsg
 	"""
-	We have to check
-	on Chaud!! Jack out!
+	Temos que ir ver como
+	tá o Chaud!!
+	Desconectar!
 	"""
 	keyWait
 	clearMsg
@@ -53,7 +53,7 @@ script 4 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Roger!"
+	"Entendido!"
 	keyWait
 	end
 }

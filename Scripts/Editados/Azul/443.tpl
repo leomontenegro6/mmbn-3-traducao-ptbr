@@ -5,8 +5,7 @@ script 0 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,we're almost
-	there!
+	Lan, estamos quase lá!
 	"""
 	keyWait
 	clearMsg
@@ -18,15 +17,15 @@ script 1 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	We have to get back
-	to everyone,fast!
+	A gente tem que voltar
+	pro pessoal, rápido!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'm sure that Mayl
-	and the others are
-	worried about us!
+	Com certeza a Mayl e
+	os outros tão preocupa-
+	dos com a gente!
 	"""
 	keyWait
 	clearMsg
@@ -38,7 +37,7 @@ script 2 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Yeah…"
+	"É..."
 	keyWait
 	end
 }
@@ -46,7 +45,7 @@ script 3 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Whoa!!"
+	"Aahh!!"
 	keyWait
 	clearMsg
 	jump
@@ -57,13 +56,12 @@ script 4 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	It's a part of
-	Alpha! It's still
-	alive!
+	É uma parte do Alpha!
+	Ele ainda tá vivo!
 	"""
 	keyWait
 	clearMsg
-	"Whoa!!"
+	"Agh!!"
 	keyWait
 	end
 }
@@ -72,7 +70,7 @@ script 5 mmbn3 {
 		frames = 90
 	mugshotHide
 	msgOpen
-	"…an! …Lan…!"
+	"... an! ... Lan...!"
 	keyWait
 	clearMsg
 	jump
@@ -83,12 +81,12 @@ script 6 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	…Huh…?
-	Me…Mega…Man…
+	... Hã...?
+	Me... Mega... Man...
 	"""
 	keyWait
 	clearMsg
-	"Gasp!"
+	"Aarr!"
 	keyWait
 	clearMsg
 	jump
@@ -98,7 +96,7 @@ script 7 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Lan,are you awake!?"
+	"Lan, acordou?!"
 	keyWait
 	clearMsg
 	jump
@@ -109,14 +107,14 @@ script 8 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan,where
-	are we?
+	MegaMan, onde é que
+	a gente tá?
 	"""
 	keyWait
 	clearMsg
 	"""
-	It's pitch black,
-	and I can't move!
+	Tá um breu aqui, e eu
+	não consigo me mexer!
 	"""
 	keyWait
 	clearMsg
@@ -128,16 +126,15 @@ script 9 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	We're in Alpha,I
-	think. We've been in
-	here for some time…
+	Acho que estamos dentro
+	do Alpha. E já faz um
+	tempo que estamos aqui...
 	"""
 	keyWait
 	clearMsg
 	"""
-	I can feel Alpha
-	creeping inside
-	of me…
+	Eu tô sentindo o Alpha
+	me invadindo...
 	"""
 	keyWait
 	clearMsg
@@ -149,9 +146,9 @@ script 10 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	What!!??
-	Are we going to be
-	absorbed by Alpha!?
+	O quê?!
+	A gente vai ser
+	absorvido pelo Alpha?!
 	"""
 	keyWait
 	clearMsg
@@ -162,19 +159,19 @@ script 11 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"…Looks that way."
+	"... É o que parece."
 	keyWait
 	clearMsg
 	"""
-	After just a few
-	hours,we'll be just
-	bits of junk data.
+	Depos de algumas horas,
+	seremos reduzidos a
+	restos de dados.
 	"""
 	keyWait
 	clearMsg
 	"""
-	We'll disappear,
-	along with Alpha…
+	Vamos desaparecer,
+	junto com o Alpha...
 	"""
 	keyWait
 	clearMsg
@@ -185,12 +182,13 @@ script 12 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"No…!!"
+	"Não...!!"
 	keyWait
 	clearMsg
 	"""
-	Isn't there some
-	way we can escape?
+	Não tem nenhum jeito
+	da gente escapar
+	daqui?
 	"""
 	keyWait
 	clearMsg
@@ -204,28 +202,27 @@ script 13 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	There's only
-	one way…
+	... Só um...
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'll need to build
-	up all my remaining
-	power,and overload.
+	Eu tenho que reunir
+	toda a energia que me
+	resta e sobrecarregar.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I think that should
-	create a hole in
-	Alpha for a time.
+	Acho que isso criará
+	um buraco temporário
+	no Alpha.
 	"""
 	keyWait
 	clearMsg
 	"""
-	You can use that
-	hole to escape…
+	E você pode usá-lo pra
+	sair daqui...
 	"""
 	keyWait
 	clearMsg
@@ -237,22 +234,22 @@ script 14 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	And what will you
-	do after that!?
+	E o que você vai fazer
+	depois disso?!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I can't do that!
-	I can't be separated
-	from you!!
+	Não, eu não posso!
+	Não posso me separar
+	de você!!
 	"""
 	keyWait
 	clearMsg
 	"""
-	We promised!!
-	That we'll always
-	be together!
+	A gente prometeu!!
+	Nós vamos ficar juntos
+	pra sempre!
 	"""
 	keyWait
 	clearMsg
@@ -263,26 +260,27 @@ script 15 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Cut that out!"
+	"Para com isso!"
 	keyWait
 	clearMsg
 	"""
-	Lan,these are my
-	final words as Hub
-	Hikari…
-	"""
-	keyWait
-	clearMsg
-	"""
-	Lan,you have to go
-	on living,and have
-	a future!
+	Lan, estas são minhas
+	últimas palavras como
+	Hub Hikari...
 	"""
 	keyWait
 	clearMsg
 	"""
-	I will…
-	Always be with you…
+	Lan, você tem que
+	continuar vivendo, tem
+	que ter um futuro!
+	"""
+	keyWait
+	clearMsg
+	"""
+	Eu sempre...
+	Sempre estarei com
+	você...
 	"""
 	keyWait
 	clearMsg
@@ -294,8 +292,8 @@ script 16 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	No,Hub!
-	I can't do that!
+	Hub... Não, não!
+	Eu não posso fazer isso!
 	"""
 	keyWait
 	clearMsg
@@ -307,50 +305,50 @@ script 17 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I already died
-	once and came back
-	as MegaMan.EXE.
+	Eu já morri e voltei
+	como MegaMan.EXE uma
+	vez.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Meeting you,playing
-	with you,fighting
-	with you…
+	Conhecer você,
+	brincar com você,
+	brigar com você...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Every day that I
-	spent with you was
-	a happy one…
+	Todos os dias que eu
+	passei com você foram
+	muito felizes...
 	"""
 	keyWait
 	clearMsg
 	"""
-	And finally I have
-	been able to meet
-	you face-to-face…
+	E eu, finalmente,
+	pude te encontrar
+	cara a cara...
 	"""
 	keyWait
 	clearMsg
 	"""
-	I've never been
-	happier…
+	Eu nunca estive tão
+	feliz...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Lan,you will be able
-	to make so many more
-	people happy!
+	Lan, você ainda vai
+	deixar muito mais gente
+	feliz!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'm so proud to have
-	had a brother like
-	you…
+	Eu tenho orgulho de ter
+	você como irmão...
+	Orgulho demais.
 	"""
 	keyWait
 	clearMsg
@@ -361,16 +359,16 @@ script 18 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"H…Hub…"
+	"H... Hub..."
 	keyWait
 	clearMsg
 	"""
-	I've been happy
-	being with you,too!
+	Eu também fui feliz
+	vivendo com você!
 	"""
 	keyWait
 	clearMsg
-	"But…But…"
+	"Mas... Mas...!"
 	keyWait
 	clearMsg
 	jump
@@ -381,21 +379,21 @@ script 19 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	And now I must
-	speak as MegaMan.
+	E, agora, eu preciso
+	falar como MegaMan.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Just because I'm
-	gone,don't you skip
-	your homework!
+	Só porque eu não vou
+	estar lá, não deixe de
+	fazer a lição de casa!
 	"""
 	keyWait
 	clearMsg
 	"""
-	And learn how to
-	wake up by yourself!
+	E aprenda a acordar
+	sozinho!
 	"""
 	keyWait
 	clearMsg
@@ -407,19 +405,19 @@ script 20 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	…I can't do it,
-	MegaMan…
+	... Eu não posso,
+	MegaMan...
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'll do my homework!
-	I'll wake up by
-	myself!
+	Eu faço a minha lição!
+	Eu acordo sozinho de
+	agora em diante!
 	"""
 	keyWait
 	clearMsg
-	"Just don't leave me!"
+	"Só não me deixa!"
 	keyWait
 	clearMsg
 	jump
@@ -430,13 +428,13 @@ script 21 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,nothing could
-	replace the days I
-	spent with you.
+	Lan, nada pode
+	substituir os dias que
+	eu passei com você.
 	"""
 	keyWait
 	clearMsg
-	"Thank you!"
+	"Obrigado!"
 	keyWait
 	clearMsg
 	jump
@@ -454,7 +452,7 @@ script 23 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Good bye,Lan!"
+	"Adeus, Lan!"
 	keyWait
 	end
 }

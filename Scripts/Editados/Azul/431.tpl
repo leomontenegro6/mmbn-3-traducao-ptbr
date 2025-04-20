@@ -5,8 +5,7 @@ script 0 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Is this place
-	deserted?
+	Este lugar tá vazio?
 	"""
 	keyWait
 	clearMsg
@@ -18,9 +17,9 @@ script 1 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,we need to look
-	for clues that will
-	lead us to Wily!
+	Lan, precisamos achar
+	pistas que nos levem
+	ao Wily!
 	"""
 	keyWait
 	clearMsg
@@ -31,7 +30,7 @@ script 2 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Yeah,let's go!"
+	"É, hora de vasculhar!"
 	keyWait
 	end
 }

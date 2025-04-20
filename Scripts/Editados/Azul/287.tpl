@@ -4,40 +4,43 @@ script 0 mmbn3 {
 	mugshotHide
 	msgOpen
 	"""
-	These doors lead
-	further into the
-	depths of Hades!
+	Essas portas são
+	acessos a profundezas
+	ainda piores do Inferno!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Beyond each door
-	lies an unimaginable
-	nightmare,and a
+	Atrás de cada uma
+	aguarda um pesadelo
+	inimaginável,
 	"""
 	keyWait
 	clearMsg
 	"""
-	winner of C-Block!
-	Each of you,choose
-	the door of your
+	e um vencedor do
+	Bloco C! Cada um de
+	vocês escolherá a porta
 	"""
 	keyWait
 	clearMsg
 	"""
-	destiny. You may
-	decide amongst
-	yourselves who will
+	de seus destinos.
+	Quais portas, exata-
+	mente, essas serão,
 	"""
 	keyWait
 	clearMsg
-	"enter which door."
+	"""
+	vocês deverão decidir
+	entre vocês mesmos.
+	"""
 	keyWait
 	clearMsg
 	"""
-	Of course,I can
-	always decide for
-	you…
+	Bom, eu sempre posso
+	fazer a decisão por
+	vocês, se quiserem...
 	"""
 	keyWait
 	clearMsg
@@ -49,16 +52,15 @@ script 1 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Okay! I'll decide
-	first! All the doors
-	lead to some kind of
+	Beleza! Eu decido primei-
+	ro! Todas as portas
+	dão num pesadelo, né?
 	"""
 	keyWait
 	clearMsg
 	"""
-	nightmare anyway,
-	right? So I'll
-	choose first!
+	Então, deixa que eu
+	escolho primeiro!
 	"""
 	keyWait
 	clearMsg
@@ -70,21 +72,21 @@ script 2 mmbn3 {
 		mugshot = Tora
 	msgOpen
 	"""
-	I'll go last.
-	As the saying goes,
+	E eu vou por último.
+	Como diz o velho ditado:
 	"""
 	keyWait
 	clearMsg
 	"""
-	"Good things come to
-	those who wait".
+	"A pressa é inimiga
+	da perfeição".
 	"""
 	keyWait
 	clearMsg
 	"""
-	I don't know if
-	any good things are
-	in Hades,though.
+	Se bem que "perfeição"
+	é um negócio meio estra-
+	nho pro Inferno...
 	"""
 	keyWait
 	clearMsg
@@ -96,8 +98,7 @@ script 3 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	All right,then,I'm
-	going!
+	OK, então, lá vou eu!
 	"""
 	keyWait
 	clearMsg
@@ -109,8 +110,8 @@ script 4 mmbn3 {
 		mugshot = BlackWoman
 	msgOpen
 	"""
-	I don't mind. By all
-	means,be my guest.
+	Por mim, tudo bem.
+	Manda ver, menor.
 	"""
 	keyWait
 	clearMsg
@@ -121,7 +122,7 @@ script 5 mmbn3 {
 	mugshotShow
 		mugshot = NetbattlerQ
 	msgOpen
-	"………"
+	"........."
 	keyWait
 	end
 }
@@ -129,9 +130,9 @@ script 6 mmbn3 {
 	mugshotHide
 	msgOpen
 	"""
-	Stay tuned for the
-	epic battle
-	awaiting Lan!!
+	Fiquem ligados para a
+	intensa batalha que
+	aguarda Lan Hikari!!
 	"""
 	keyWait
 	end

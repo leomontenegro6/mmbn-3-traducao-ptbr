@@ -5,14 +5,14 @@ script 0 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	We were told to wait
-	here.
+	Mandaram a gente
+	esperar aqui.
 	"""
 	keyWait
 	clearMsg
 	"""
-	But is this really
-	the right spot?
+	Mas este é mesmo o
+	lugar certo?
 	"""
 	keyWait
 	clearMsg
@@ -24,16 +24,16 @@ script 1 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	You think we were
-	tricked? This is
-	the Undernet.
+	Você acha que
+	enganaram a gente?
+	Digo, é a Undernet.
 	"""
 	keyWait
 	clearMsg
 	"""
-	There may be a lot
-	of false information
-	going around.
+	Deve ter um montão de
+	informação falsa rolando
+	por aqui.
 	"""
 	keyWait
 	end
@@ -44,13 +44,12 @@ script 2 mmbn3 {
 	mugshotShow
 		mugshot = HeelNavi
 	msgOpen
-	"Who are YOU?"
+	"Quem é TU?"
 	keyWait
 	clearMsg
 	"""
-	Yo,kid! This ain't
-	no place for
-	children!
+	Ô, piá! Aqui né lugar pra
+	moleque, não!
 	"""
 	keyWait
 	end
@@ -62,13 +61,13 @@ script 3 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	Huh,huh! I'm gonna
-	get ranked this
-	time,for sure!
+	Hu hu! Desta vez, eu
+	vou entrar pro ranque
+	com certeza!
 	"""
 	keyWait
 	clearMsg
-	"Huh,huh,huh!"
+	"Hu hu hu!"
 	keyWait
 	end
 }
@@ -79,13 +78,13 @@ script 4 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	Look at all these
-	chumps! I'm as good
-	as ranked already.
+	Olha só esse bando de
+	byte-mole! Aquele ranque
+	já tá no papo.
 	"""
 	keyWait
 	clearMsg
-	"Ho-hee-hee-hee!"
+	"Huo hi hi hi hi!"
 	keyWait
 	clearMsg
 	jump
@@ -95,7 +94,7 @@ script 5 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"We're surrounded!"
+	"Estamos cercados!"
 	keyWait
 	clearMsg
 	jump
@@ -106,9 +105,9 @@ script 6 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan! Watch out!
-	Who knows what'll
-	happen next!
+	MegaMan! Cuidado!
+	Vai saber o que vai
+	acontecer agora!
 	"""
 	keyWait
 	end
@@ -121,8 +120,9 @@ script 7 mmbn3 {
 	mugshotHide
 	msgOpen
 	"""
-	Reckless Navis who
-	desire to be ranked…
+	Navis inconsequentes
+	que desejam ser
+	ranqueados...
 	"""
 	keyWait
 	clearMsg
@@ -134,9 +134,9 @@ script 8 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan! The statue's
-	speaking! It said
-	"ranked"!
+	Lan! A estátua tá
+	falando! E ela
+	mencionou "ranqueados"!
 	"""
 	keyWait
 	clearMsg
@@ -148,9 +148,9 @@ script 9 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Yeah!
-	What do we have to
-	do to become ranked?
+	Pois é!
+	O que temos que fazer
+	pra sermos ranqueados?
 	"""
 	keyWait
 	clearMsg
@@ -161,29 +161,29 @@ script 10 mmbn3 {
 	mugshotHide
 	msgOpen
 	"""
-	If you want a rank,
-	you must defeat a
-	ranked Navi.
+	Se deseja um ranque,
+	terá de derrotar um
+	Navi ranqueado.
 	"""
 	keyWait
 	clearMsg
 	"""
-	However,only one
-	of you can battle.
+	Contudo, somente um
+	de vocês poderá lutar.
 	"""
 	keyWait
 	clearMsg
 	"""
-	You must fight each
-	other to determine
-	who that will be!
+	Devem enfrentar um ao
+	outro para determinar
+	quem esse será!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Power is everything.
-	That is the only law
-	of the Undernet.
+	A força é tudo.
+	Essa é a única lei da
+	Undernet.
 	"""
 	keyWait
 	end
@@ -192,15 +192,15 @@ script 11 mmbn3 {
 	mugshotShow
 		mugshot = HeelNavi
 	msgOpen
-	"Huh,huh,huh!"
+	"Hu hu hu!"
 	keyWait
 	clearMsg
 	flagClear
 		flag = 2308
 	"""
-	So if I beat all
-	these chumps,I can
-	fight a ranked Navi?
+	Então, se eu acabar com
+	esses otários, posso
+	desafiar um ranqueado?
 	"""
 	keyWait
 	clearMsg
@@ -211,21 +211,22 @@ script 12 mmbn3 {
 	mugshotHide
 	msgOpen
 	"""
-	Yes.
-	There are no rules.
+	Exatamente.
+	Não há regras.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Only the winner will
-	receive a chance to
-	be ranked.
+	Somente o vencedor
+	receberá a chance de
+	ser ranqueado.
 	"""
 	keyWait
 	clearMsg
 	"""
-	You may fight freely
-	in Under 1,2 and 3.
+	Vocês poderão lutar
+	livremente em Undernet
+	1, 2 e 3.
 	"""
 	keyWait
 	end
@@ -234,22 +235,22 @@ script 13 mmbn3 {
 	mugshotShow
 		mugshot = HeelNavi
 	msgOpen
-	"No rules,eh?"
+	"Sem regras, é?"
 	keyWait
 	clearMsg
 	"""
-	We can fight however
-	we want in Under 1,2
-	and 3…
+	A gente pode bater em
+	quem quiser nas áreas
+	1, 2 e 3 daqui...
 	"""
 	keyWait
 	clearMsg
 	flagClear
 		flag = 2309
 	"""
-	Heh,heh! That's just
-	the way we like it!
-	Let the party begin!
+	He he! É assim mesmo
+	que a gente gosta!
+	Bora começar a festa!
 	"""
 	keyWait
 	end
@@ -259,8 +260,8 @@ script 14 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Hey Lan! Let's go,
-	too!
+	Ei, Lan!
+	Vamos indo, também!
 	"""
 	keyWait
 	clearMsg
@@ -272,16 +273,16 @@ script 15 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	There are no rules?
-	Who knows what these
-	UnderNavis will do!
+	Não tem regras?
+	Vai saber o que esses
+	UnderNavis vão fazer!
 	"""
 	keyWait
 	clearMsg
 	"""
-	All right,MegaMan!
-	Let's show them what
-	we've got!
+	Beleza, MegaMan!
+	Bora mostrar pra eles
+	do que a gente é capaz!
 	"""
 	keyWait
 	clearMsg
@@ -292,7 +293,7 @@ script 16 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Roger!"
+	"Vamos, sim!"
 	keyWait
 	end
 }

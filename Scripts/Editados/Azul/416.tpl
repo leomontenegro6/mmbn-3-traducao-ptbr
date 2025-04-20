@@ -5,9 +5,9 @@ script 0 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan,we need to
-	stop this thing,
-	and fast!
+	MegaMan, a gente tem
+	que parar essa coisa,
+	e rápido!
 	"""
 	keyWait
 	clearMsg
@@ -19,9 +19,9 @@ script 1 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Roger!
-	I'll look for the
-	control system!
+	Entendido!
+	Eu vou procurar pelo
+	sistema de controle!
 	"""
 	keyWait
 	clearMsg
@@ -36,9 +36,8 @@ script 2 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	But be careful!
-	This is a
-	dangerous place!
+	Mas cuidado!
+	Esse lugar é perigoso!
 	"""
 	keyWait
 	clearMsg
@@ -49,7 +48,7 @@ script 3 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"OK!!"
+	"Pode deixar!!"
 	keyWait
 	end
 }

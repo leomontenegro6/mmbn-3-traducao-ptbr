@@ -388,7 +388,7 @@ script 227 mmbn3 {
 	mugshotHide
 	msgOpen
 	"""
-	MegaMan used:
+	MegaMan usou:
 	"
 	"""
 	printItem
@@ -451,7 +451,7 @@ script 229 mmbn3 {
 	mugshotHide
 	msgOpen
 	"""
-	MegaMan used:
+	MegaMan usou:
 	"
 	"""
 	printItem
@@ -546,8 +546,8 @@ script 234 mmbn3 {
 script 240 mmbn3 {
 	msgOpen
 	"""
-	MegaMan accessed the
-	mystery data.
+	MegaMan acessou os
+	dados misteriosos.
 	"""
 	wait
 		frames = 10
@@ -569,8 +569,8 @@ script 240 mmbn3 {
 		color = 3
 		amount = 1
 	"""
-	MegaMan got a Navi
-	Customizer program:
+	Adquiriu um programa do
+	Customizador de Navi:
 	"
 	"""
 	printNaviCustProgram
@@ -585,8 +585,8 @@ script 240 mmbn3 {
 script 241 mmbn3 {
 	msgOpen
 	"""
-	MegaMan accessed the
-	mystery data.
+	MegaMan acessou os
+	dados misteriosos.
 	"""
 	wait
 		frames = 10
@@ -608,8 +608,7 @@ script 241 mmbn3 {
 		code = M
 		amount = 1
 	"""
-	MegaMan got a chip
-	for
+	MegaMan adquiriu o chip
 	"
 	"""
 	printChip
@@ -628,8 +627,8 @@ script 241 mmbn3 {
 script 242 mmbn3 {
 	msgOpen
 	"""
-	MegaMan accessed the
-	mystery data.
+	MegaMan acessou os
+	dados misteriosos.
 	"""
 	wait
 		frames = 10
@@ -650,8 +649,8 @@ script 242 mmbn3 {
 		item = 96
 		amount = 1
 	"""
-	MegaMan got a
-	PowerUp:
+	MegaMan adquiriu
+	um PowerUp:
 	"
 	"""
 	printItem
@@ -666,8 +665,8 @@ script 242 mmbn3 {
 script 243 mmbn3 {
 	msgOpen
 	"""
-	MegaMan accessed the
-	mystery data.
+	MegaMan acessou os
+	dados misteriosos.
 	"""
 	wait
 		frames = 10
@@ -684,7 +683,7 @@ script 243 mmbn3 {
 		jumpIfTrue = continue
 		jumpIfFalse = 244
 	"""
-	The SubChip
+	O SubChip
 	"
 	"""
 	printItem
@@ -692,14 +691,14 @@ script 243 mmbn3 {
 		item = 115
 	"""
 	"
-	was activated!!
+	foi ativado!!
 	"""
 	keyWait
 	clearMsg
 	"""
-	The virus hidden
-	in the mystery data
-	was deleted!
+	O vírus que se escondia
+	nos dados misteriosos
+	foi deletado!
 	"""
 	keyWait
 }
@@ -773,8 +772,7 @@ script 246 mmbn3 {
 	playerAnimate
 		animation = 24
 	"""
-	MegaMan got a chip
-	for
+	MegaMan adquiriu o chip
 	"
 	"""
 	printChip
@@ -815,7 +813,7 @@ script 247 mmbn3 {
 	playerAnimate
 		animation = 24
 	"""
-	MegaMan got:
+	MegaMan adquiriu:
 	"
 	"""
 	printBuffer
@@ -832,8 +830,8 @@ script 247 mmbn3 {
 script 248 mmbn3 {
 	msgOpen
 	"""
-	MegaMan accessed the
-	mystery data.
+	MegaMan acessou os
+	dados misteriosos.
 	"""
 	wait
 		frames = 10
@@ -850,7 +848,7 @@ script 248 mmbn3 {
 		jumpIfTrue = continue
 		jumpIfFalse = 249
 	"""
-	The SubChip
+	O SubChip
 	"
 	"""
 	printItem
@@ -858,14 +856,14 @@ script 248 mmbn3 {
 		item = 115
 	"""
 	"
-	was activated!!
+	foi ativado!!
 	"""
 	keyWait
 	clearMsg
 	"""
-	The virus hidden
-	in the mystery data
-	was deleted!
+	O vírus que se escondia
+	nos dados misteriosos
+	foi deletado!
 	"""
 	keyWait
 }
@@ -939,8 +937,7 @@ script 251 mmbn3 {
 	playerAnimate
 		animation = 24
 	"""
-	MegaMan got a chip
-	for
+	MegaMan adquiriu o chip
 	"
 	"""
 	printChip
@@ -981,7 +978,7 @@ script 252 mmbn3 {
 	playerAnimate
 		animation = 24
 	"""
-	MegaMan got:
+	MegaMan adquiriu:
 	"
 	"""
 	printBuffer

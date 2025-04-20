@@ -4,7 +4,7 @@ script 0 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"L…L…La…"
+	"L... L... La..."
 	keyWait
 	end
 }
@@ -23,24 +23,27 @@ script 2 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	…………
+	............
 	MegaMan!
 	"""
 	keyWait
 	clearMsg
 	"""
-	So the Pulse
-	Transmission worked!
+	A Transmissão de Pulso
+	funcionou!
 	"""
 	keyWait
 	clearMsg
-	"I'm in Cyberworld!"
+	"""
+	Eu tô no mundo
+	cibernético!
+	"""
 	keyWait
 	clearMsg
 	"""
-	I've never been able
-	to look at you like
-	this! This is great!
+	Nossa... é a primeira vez
+	que eu olho pra você
+	assim. Que demais!
 	"""
 	keyWait
 	clearMsg
@@ -51,7 +54,7 @@ script 3 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"I agree! It is!"
+	"Concordo, é sim!"
 	keyWait
 	clearMsg
 	jump
@@ -62,8 +65,8 @@ script 4 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	It's almost like…
-	a dream…No!
+	É quase como...
+	um sonho... Não!
 	"""
 	keyWait
 	clearMsg
@@ -74,7 +77,7 @@ script 5 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Lan? What's wrong?"
+	"Lan? Que foi?"
 	keyWait
 	clearMsg
 	jump
@@ -85,15 +88,15 @@ script 6 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	No,nothing.
-	Nothing important.
+	N-nada, nada não.
+	Besteira.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Wily is this
-	way! Let's go save
-	the world together!
+	O Wily tá indo pro Alpha!
+	Vamos lá, vamos salvar
+	o mundo, juntos!
 	"""
 	keyWait
 	clearMsg
@@ -104,7 +107,7 @@ script 7 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Yeah!"
+	"É!"
 	keyWait
 	end
 }
@@ -113,9 +116,9 @@ script 8 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	We don't have much
-	time! We have to
-	find Wily quick!
+	A gente não tem muito
+	tempo. Temos que achar
+	o Wily rápido!
 	"""
 	keyWait
 	clearMsg
@@ -126,7 +129,7 @@ script 9 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Roger!!"
+	"Entendido!!"
 	keyWait
 	end
 }

@@ -98,8 +98,8 @@ script 230 mmbn3 {
 		jumpIfFalse = 232
 	msgOpen
 	"""
-	MegaMan accessed the
-	mystery data.
+	MegaMan acessou os
+	dados misteriosos.
 	"""
 	wait
 		frames = 10
@@ -118,8 +118,8 @@ script 230 mmbn3 {
 		color = 2
 		amount = 1
 	"""
-	MegaMan got a Navi
-	Customizer program:
+	Adquiriu um programa do
+	Customizador de Navi:
 	"
 	"""
 	printNaviCustProgram
@@ -136,8 +136,8 @@ script 230 mmbn3 {
 script 231 mmbn3 {
 	msgOpen
 	"""
-	MegaMan accessed the
-	mystery data.
+	MegaMan acessou os
+	dados misteriosos.
 	"""
 	wait
 		frames = 10
@@ -158,8 +158,8 @@ script 231 mmbn3 {
 		item = 98
 		amount = 1
 	"""
-	MegaMan got a
-	PowerUp:
+	MegaMan adquiriu
+	um PowerUp:
 	"
 	"""
 	printItem
@@ -171,8 +171,8 @@ script 231 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Regular memory
-	increased by 1 MB!
+	Memória padrão
+	aumentada em 1 MB!
 	"""
 	keyWait
 	end
@@ -180,15 +180,15 @@ script 231 mmbn3 {
 script 232 mmbn3 {
 	msgOpen
 	"""
-	It's locked.
+	Está bloqueado.
 	"
 	"""
 	printItem
 		buffer = 0
 		item = 117
 	"""
-	" is needed
-	to open it
+	" é necessário
+	para acessar os dados.
 	"""
 	keyWait
 	end

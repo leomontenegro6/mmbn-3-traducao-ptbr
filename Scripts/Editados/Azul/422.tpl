@@ -6,8 +6,7 @@ script 0 mmbn3 {
 	msgOpen
 	"""
 	MegaMan!
-	Shut this
-	thing down!!
+	Desliga essa coisa!!
 	"""
 	keyWait
 	clearMsg
@@ -18,7 +17,7 @@ script 1 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Roger!"
+	"Pode deixar!"
 	keyWait
 	end
 }

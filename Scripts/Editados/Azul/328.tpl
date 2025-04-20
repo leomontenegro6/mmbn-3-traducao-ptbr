@@ -5,14 +5,15 @@ script 0 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	The vines are here
-	too!?
+	As vinhas também tão
+	aqui?!
 	"""
 	keyWait
 	clearMsg
 	"""
-	What's going on in
-	the operating room!?
+	O que é que tá
+	acontecendo na sala
+	de cirurgia?!
 	"""
 	keyWait
 	end
@@ -21,7 +22,7 @@ script 1 mmbn3 {
 	mugshotShow
 		mugshot = Nurse
 	msgOpen
-	"Oh! It's you!"
+	"Ah! É você!"
 	keyWait
 	clearMsg
 	jump
@@ -32,9 +33,9 @@ script 2 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Enfermeira!
-	Como tá a sala
-	de operação?!
+	Enfermeira! Como tão
+	as coisas na sala de
+	cirurgia?!
 	"""
 	keyWait
 	clearMsg
@@ -46,16 +47,16 @@ script 3 mmbn3 {
 		mugshot = Nurse
 	msgOpen
 	"""
-	The operation room
-	devices are still
-	functioning.
+	Os aparelhos na sala
+	de cirurgia ainda estão
+	operacionais.
 	"""
 	keyWait
 	clearMsg
 	"""
-	But the vines are
-	just about to enter
-	into the room!
+	Mas as vinhas estão
+	prestes a se infiltrar
+	na sala!
 	"""
 	keyWait
 	clearMsg
@@ -67,9 +68,8 @@ script 4 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I'll try to do
-	something about
-	the vines!
+	Eu vou tentar resolver
+	o problema das vinhas!
 	"""
 	keyWait
 	clearMsg
@@ -81,9 +81,9 @@ script 5 mmbn3 {
 		mugshot = Nurse
 	msgOpen
 	"""
-	The Tree of Life's
-	growth system may be
-	malfunctioning!
+	O sistema de crescimen-
+	to da Árvore da Vida
+	pode estar defeituoso!
 	"""
 	keyWait
 	clearMsg
@@ -95,9 +95,9 @@ script 6 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Where is the Tree
-	of Life's growth
-	system!?
+	Onde fica o sistema de
+	crescimento da Árvore
+	da Vida?!
 	"""
 	keyWait
 	clearMsg
@@ -109,15 +109,13 @@ script 7 mmbn3 {
 		mugshot = Nurse
 	msgOpen
 	"""
-	It's underneath this
-	hospital!
+	Abaixo do hospital!
 	"""
 	keyWait
 	clearMsg
 	"""
-	The elevator can
-	take you directly to
-	the basement.
+	O elevador pode levá-lo
+	direto para o porão.
 	"""
 	keyWait
 	clearMsg
@@ -130,7 +128,7 @@ script 8 mmbn3 {
 	msgOpen
 	"""
 	OK!
-	I'll check it out!
+	Eu vou lá conferir!
 	"""
 	keyWait
 	end
@@ -140,15 +138,15 @@ script 9 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	……
-	It's no use!
-	It won't budge!
+	......
+	Não adianta!
+	Não abre!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Of all the times for
-	it to break down…!
+	Argh, ele tinha que
+	quebrar justo agora...!
 	"""
 	keyWait
 	end
@@ -158,15 +156,14 @@ script 10 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Nurse! The elevator
-	isn't working!
+	Enfermeira!
+	O elevador não funciona!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Is there any other
-	way to get to the
-	basement!?
+	Tem algum outro jeito
+	de chegar no porão?!
 	"""
 	keyWait
 	clearMsg
@@ -177,27 +174,26 @@ script 11 mmbn3 {
 	mugshotShow
 		mugshot = Nurse
 	msgOpen
-	"Yes! From outside!"
+	"Sim! Lá de fora!"
 	keyWait
 	clearMsg
 	"""
-	There's a door to
-	the basement on the
-	outside!
-	"""
-	keyWait
-	clearMsg
-	"""
-	The door next to the
-	elevator is an
-	emergency exit.
+	Há uma porta para o
+	porão do lado de fora!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Go down to the lobby
-	and try to find a
-	way out!
+	A porta ao lado do
+	elevador é uma saída
+	de emergência.
+	"""
+	keyWait
+	clearMsg
+	"""
+	Desça até o saguão
+	e tente achar uma
+	forma de sair!
 	"""
 	keyWait
 	clearMsg
@@ -208,7 +204,7 @@ script 12 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"The emergency exit!"
+	"A saída de emergência!"
 	keyWait
 	end
 }
@@ -216,12 +212,12 @@ script 13 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"This must be it!"
+	"Deve ser esta!"
 	keyWait
 	clearMsg
 	"""
-	What the!?
-	It won't open!
+	Mas o quê...?!
+	Não abre!
 	"""
 	keyWait
 	clearMsg
@@ -233,15 +229,15 @@ script 14 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan! It looks like
-	it's electronically
-	locked!
+	Lan! Parece que ela
+	tá trancada
+	eletronicamente!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'll go see what I
-	can do! Jack me in!
+	Eu vou ver o que dá
+	pra fazer! Me conecta!
 	"""
 	keyWait
 	end

@@ -5,8 +5,8 @@ script 0 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Are you the one who
-	sent me that mail?
+	Foi você quem me
+	mandou aquele e-mail?
 	"""
 	keyWait
 	clearMsg
@@ -18,29 +18,29 @@ script 1 mmbn3 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	MegaMan,I presume.
-	Thank you for
-	coming. I watched
+	MegaMan.EXE, presumo.
+	Obrigado por vir.
 	"""
 	keyWait
 	clearMsg
 	"""
-	you at the N1 Grand
-	Prix. You were most
-	impressive.
+	Vi você no Grande
+	Prêmio N1. Foi muito
+	impressionante.
 	"""
 	keyWait
 	clearMsg
 	"""
-	(As I suspected this
-	Navi has amazing
-	potential…)
+	(Como suspeitei, esse
+	Navi tem um potencial
+	absurdo...)
 	"""
 	keyWait
 	clearMsg
 	"""
-	(I expect he could
-	even handle…)
+	(Imagino que ele possa
+	até ser capaz de
+	manuseá-lo...)
 	"""
 	keyWait
 	clearMsg
@@ -52,8 +52,8 @@ script 2 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Well? Why did you
-	call me here?
+	E então? Por que me
+	chamou aqui?
 	"""
 	keyWait
 	clearMsg
@@ -65,9 +65,9 @@ script 3 mmbn3 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Do you know an indi-
-	vidual at SciLab by
-	the name of "Match"?
+	Você conhece uma
+	pessoa no SciLab com
+	o nome "Match"?
 	"""
 	keyWait
 	clearMsg
@@ -78,7 +78,7 @@ script 4 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"You mean Mr.Match?"
+	"Quer dizer, o Sr. Match?"
 	keyWait
 	clearMsg
 	jump
@@ -89,15 +89,15 @@ script 5 mmbn3 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Yes.
-	You should be wary
-	of him.
+	Isso.
+	É melhor você tomar
+	cuidado com ele.
 	"""
 	keyWait
 	clearMsg
 	"""
-	He has the scent of
-	danger about him.
+	Ele está impregnado
+	pelo cheiro do perigo.
 	"""
 	keyWait
 	clearMsg
@@ -108,7 +108,7 @@ script 6 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Scent of danger?"
+	"Cheiro do perigo?"
 	keyWait
 	clearMsg
 	jump
@@ -119,19 +119,19 @@ script 7 mmbn3 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	That is all I have
-	to tell you.
+	Isso é tudo que tenho
+	a dizer.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I am sure we will
-	meet again in the
-	near future.
+	Estou certo de que nos
+	encontraremos de novo
+	num futuro próximo.
 	"""
 	keyWait
 	clearMsg
-	"Farewell!"
+	"Adeus!"
 	keyWait
 	end
 }
@@ -140,8 +140,8 @@ script 8 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Hey Lan.
-	Who was that guy?
+	Ei, Lan.
+	... Quem era aquele?
 	"""
 	keyWait
 	clearMsg
@@ -152,26 +152,25 @@ script 9 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"I have no idea."
+	"Nem imagino."
 	keyWait
 	clearMsg
 	"""
-	Whoever he was,he
-	seemed far more
-	suspicious than
-	"""
-	keyWait
-	clearMsg
-	"""
-	Mr.Match. Besides,
-	Mr.Match has mended
-	his ways!
+	Seja lá quem for, ele
+	me parecia bem mais
+	suspeito que o Sr. Match.
 	"""
 	keyWait
 	clearMsg
 	"""
-	There's nothing to
-	worry about!
+	Além disso, o Sr. Match
+	mudou de vida!
+	"""
+	keyWait
+	clearMsg
+	"""
+	Não tem nada pra se
+	preocupar!
 	"""
 	keyWait
 	clearMsg
@@ -183,8 +182,8 @@ script 10 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Yeah,you're probably
-	right…
+	É, acho que você tem
+	razão...
 	"""
 	keyWait
 	clearMsg
@@ -196,9 +195,9 @@ script 11 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	We've lost a lot of
-	time. Come on,let's
-	go to the hospital.
+	A gente já perdeu
+	tempo demais. Vem,
+	vamos lá pro hospital.
 	"""
 	keyWait
 	clearMsg
@@ -209,7 +208,7 @@ script 12 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Right!"
+	"Vamos!"
 	keyWait
 	end
 }

@@ -4,7 +4,7 @@ script 0 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Down to the lobby!"
+	"Pro saguão!"
 	keyWait
 	clearMsg
 	jump
@@ -16,14 +16,14 @@ script 1 mmbn3 {
 	soundDisableTextSFX
 	soundPlay
 		track = 167
-	"Whirrrrr…"
+	"Vrrrrrrr...."
 	wait
 		frames = 60
 	keyWait
 	clearMsg
 	soundPlay
 		track = 241
-	"Bang! Ka-Clunk!"
+	"Pam! Ti-Clam!"
 	wait
 		frames = 60
 	keyWait
@@ -37,9 +37,8 @@ script 2 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	What was that!?
-	The elevator
-	stopped!
+	O que foi isso?!
+	O elevador parou!
 	"""
 	keyWait
 	clearMsg
@@ -52,14 +51,14 @@ script 3 mmbn3 {
 	soundDisableTextSFX
 	soundPlay
 		track = 242
-	"Clunkclunkclunkclunk"
+	"Clom-clom-clom-clom"
 	wait
 		frames = 60
 	keyWait
 	clearMsg
 	soundPlay
 		track = 167
-	"Whee…Whirrrrr!"
+	"Vrr... Vrrrriiirrrr!"
 	wait
 		frames = 60
 	keyWait
@@ -73,8 +72,7 @@ script 4 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	It's moving again,
-	Lan!
+	Voltou a funcionar, Lan!
 	"""
 	keyWait
 	end
@@ -83,7 +81,10 @@ script 5 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"What's going on!?"
+	"""
+	O que é que tá
+	acontecendo?!
+	"""
 	keyWait
 	soundPlayBGM
 		track = 13
@@ -94,8 +95,8 @@ script 6 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	What in the world
-	happened!?
+	Mas o que é que tá
+	rolando aqui?!
 	"""
 	keyWait
 	clearMsg
@@ -106,8 +107,8 @@ script 7 mmbn3 {
 	mugshotHide
 	msgOpen
 	"""
-	Attention!
-	Attention!
+	Atenção, funcionários!
+	Atenção, funcionários!
 	"""
 	keyWait
 	clearMsg
@@ -118,7 +119,7 @@ script 8 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Lan,the intercom!"
+	"Lan, o intercomunicador!"
 	keyWait
 	end
 }
@@ -126,23 +127,22 @@ script 9 mmbn3 {
 	mugshotHide
 	msgOpen
 	"""
-	Please remain calm!
-	Mysterious vines
-	have sprouted from
+	Por favor, peço que
+	mantenham a calma!
 	"""
 	keyWait
 	clearMsg
 	"""
-	the Tree of Life!
-	Due to the vines,
-	most of the medical
+	Vinhas misteriosas
+	foram expelidas pela
+	Árvore da Vida!
 	"""
 	keyWait
 	clearMsg
 	"""
-	devices within the
-	hospital have
-	stopped working!
+	Devido a elas, maior par-
+	te do maquinário do hos-
+	pital parou de funcionar!
 	"""
 	keyWait
 	clearMsg
@@ -154,9 +154,9 @@ script 10 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Stopped working!?
-	Mamoru's in the
-	middle of surgery!
+	Parou de funcionar?!
+	Mas o Mamoru tá no
+	meio da cirurgia!
 	"""
 	keyWait
 	clearMsg
@@ -167,16 +167,16 @@ script 11 mmbn3 {
 	mugshotHide
 	msgOpen
 	"""
-	Everyone,please
-	evacuate the
-	building at once.
+	Pedimos a todos para
+	que, por favor, evacuem
+	o hospital de imediato.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Repeat,please
-	evacuate
-	immediately!
+	Repetindo: por favor,
+	evacuem o hospital
+	imediatamente!
 	"""
 	keyWait
 	clearMsg
@@ -188,8 +188,8 @@ script 12 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Oh no! Lan! We've
-	got to help Mamoru!
+	Não...! Lan, a gente tem
+	que ajudar o Mamoru!
 	"""
 	keyWait
 	clearMsg
@@ -200,7 +200,7 @@ script 13 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Let's go!"
+	"Vamos!"
 	keyWait
 	end
 }

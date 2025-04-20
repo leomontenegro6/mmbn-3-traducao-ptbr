@@ -4,20 +4,18 @@ script 0 mmbn3 {
 	mugshotShow
 		mugshot = MrProg
 	msgOpen
-	"At your service!"
+	"Ao seu serviço!"
 	keyWait
 	clearMsg
 	"""
-	I operate the air
-	purifier for the
-	Ura Inn!
+	Eu opero o purificador
+	de ar da Pousada Unda!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I shouldn't have
-	said! It's supposed
-	to be secret!
+	... Ah, não era para eu
+	falar! É segredo!
 	"""
 	keyWait
 	end
@@ -27,16 +25,16 @@ script 1 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	You must be quite
-	curious to have come
-	this far.
+	Você deve ser muito
+	curioso para chegar
+	aqui.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Most people don't
-	check the armor for
-	a port to jack in!
+	A maioria não procura
+	por uma entrada de
+	conexão na armadura!
 	"""
 	keyWait
 	end
@@ -44,8 +42,8 @@ script 1 mmbn3 {
 script 230 mmbn3 {
 	msgOpen
 	"""
-	MegaMan accessed the
-	mystery data.
+	MegaMan acessou os
+	dados misteriosos.
 	"""
 	wait
 		frames = 10
@@ -66,8 +64,8 @@ script 230 mmbn3 {
 		item = 101
 		amount = 1
 	"""
-	MegaMan got a
-	PowerUp:
+	MegaMan adquiriu
+	um PowerUp:
 	"
 	"""
 	printItem
@@ -77,8 +75,8 @@ script 230 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	You can carry more
-	SubChips!!
+	Agora, você pode
+	carregar mais SubChips!
 	"""
 	playerFinish
 	playerUnlock

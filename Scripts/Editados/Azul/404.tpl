@@ -15,21 +15,19 @@ script 1 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Great!
-	We stopped
-	the tank!!
+	Legal!
+	A gente parou o tanque!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Wow,that was a
-	powerful virus…
+	Cara, esse vírus era
+	forte pra caramba...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Are you OK,
-	MegaMan?
+	Você tá bem, MegaMan?
 	"""
 	keyWait
 	clearMsg
@@ -41,9 +39,9 @@ script 2 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Yeah. But was that
-	just a virus running
-	that tank?
+	Tô, sim. Mas será que
+	aquilo no tanque era
+	só um vírus, mesmo?
 	"""
 	keyWait
 	clearMsg
@@ -54,7 +52,7 @@ script 3 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"What do you mean?"
+	"Como assim?"
 	keyWait
 	clearMsg
 	jump
@@ -65,15 +63,15 @@ script 4 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	That it wasn't just
-	a normal virus.
+	Aquilo não era um vírus
+	normal.
 	"""
 	keyWait
 	clearMsg
 	"""
-	It seemed to be
-	trying to…
-	absorb me!
+	Parecia até que tava
+	tentando...
+	me absorver!
 	"""
 	keyWait
 	clearMsg
@@ -85,8 +83,8 @@ script 5 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Absorb you?
-	A virus?
+	O vírus tentou...
+	te absorver?
 	"""
 	keyWait
 	clearMsg
@@ -98,16 +96,16 @@ script 6 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Yes. Usually viruses
-	just attack and try
-	to delete Navis…
+	Aham. Normalmente,
+	vírus só atacam e
+	tentam deletar Navis...
 	"""
 	keyWait
 	clearMsg
 	"""
-	But that virus's
-	attacks were meant
-	to absorb me…
+	Mas os ataques daquele
+	vírus eram com a inten-
+	ção de me absorver...
 	"""
 	keyWait
 	clearMsg
@@ -119,28 +117,26 @@ script 7 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	A virus that
-	absorbs Navis…
+	Um vírus que absorve
+	Navis...
 	"""
 	keyWait
 	clearMsg
 	"""
-	It'd be serious
-	trouble if those
-	things multiplied!
+	Seria péssimo se essas
+	coisas se multiplicassem!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Hey! I wonder how
-	the Officials are
-	doing?
+	Ah! Como será que os
+	Oficiais tão indo?
 	"""
 	keyWait
 	clearMsg
 	"""
-	MegaMan! Time
-	to jack out!
+	MegaMan!
+	Hora de desconectar!
 	"""
 	keyWait
 	clearMsg
@@ -151,7 +147,7 @@ script 8 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Roger!"
+	"Certo!"
 	keyWait
 	end
 }

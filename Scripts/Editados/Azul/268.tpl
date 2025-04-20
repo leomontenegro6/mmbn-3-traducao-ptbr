@@ -5,8 +5,8 @@ script 0 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Now we've really
-	got you,BubbleMan!
+	Agora, sim, a gente te
+	pegou, BubbleMan!
 	"""
 	keyWait
 	clearMsg
@@ -18,34 +18,33 @@ script 1 mmbn3 {
 		mugshot = BubbleMan
 	msgOpen
 	"""
-	My sudlings lost so
-	soon? Those
-	blundering blubs!
+	Meus su-glub-alternos
+	perderam rápido assim?
+	Aqueles glub-obalhões!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Even so,they must
-	have damaged you.
+	Mesmo assim, eles devem
+	ter te danificado.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Blub blub,now's my
-	chance!
+	Glub glub, essa é a
+	minha chance!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'm going to win
-	this battle,and pay
-	back all those who
+	Eu vou te vencer, e es-
+	fregar na cara de todos
+	que zombaram de mim!
 	"""
 	keyWait
 	clearMsg
 	"""
-	mocked me!
-	Bla-blublublublub!
+	Glaaa-glubglubglubglub!
 	"""
 	keyWait
 	end
@@ -53,7 +52,7 @@ script 1 mmbn3 {
 script 2 mmbn3 {
 	mugshotHide
 	msgOpen
-	"Briiiinnng!"
+	"Trrrrriiiiiiiiim!"
 	keyWait
 	end
 }
@@ -62,8 +61,8 @@ script 3 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,a phone call!
-	It's Higsby!
+	Lan, é uma ligação!
+	Do Higsby!
 	"""
 	keyWait
 	clearMsg
@@ -75,15 +74,15 @@ script 4 mmbn3 {
 		mugshot = Higsby
 	msgOpen
 	"""
-	Lan! The bubbles
-	have turned red,huh!
+	Lan! As bolhas ficaram
+	vermelhas, é!
 	"""
 	keyWait
 	clearMsg
 	"""
-	They're going to
-	explode! Hurry!
-	Huh!!
+	Elas vão explodir!
+	Acelera aí!
+	É!!
 	"""
 	keyWait
 	clearMsg
@@ -95,16 +94,16 @@ script 5 mmbn3 {
 		mugshot = BubbleMan
 	msgOpen
 	"""
-	Blub! It's already
-	time for my bubbles
-	to burst,blublub!
+	Glub! Minhas bolhas estão
+	pra estourar-barra-
+	explodir, glublub!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Time's run out,
-	MegaMan. You're too
-	late! Blablublublub!
+	O tempo acabou,
+	MegaMan. É tarde demais
+	pra você! Glaa-glubglub!
 	"""
 	keyWait
 	clearMsg
@@ -116,8 +115,7 @@ script 6 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan! It's now or
-	never!
+	Lan! É agora ou nunca!
 	"""
 	keyWait
 	clearMsg
@@ -128,17 +126,16 @@ script 7 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Right!"
+	"Tá!"
 	keyWait
 	clearMsg
 	"""
-	Let's do this,
-	MegaMan! Battle
-	routine,
+	Vamos nessa, MegaMan!
+	Rotina 
 	"""
 	waitSkip
 		frames = 30
-	"set!!"
+	"de batalha...!"
 	keyWait
 	clearMsg
 	jump
@@ -148,7 +145,7 @@ script 8 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Execute!"
+	"Executar!"
 	keyWait
 	clearMsg
 	jump
@@ -158,7 +155,7 @@ script 9 mmbn3 {
 	mugshotShow
 		mugshot = BubbleMan
 	msgOpen
-	"Blubbbbb!"
+	"Glubbbbb!"
 	keyWait
 	end
 }

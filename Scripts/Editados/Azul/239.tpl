@@ -5,9 +5,9 @@ script 0 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Yaaaawn…!
-	Good morning,Lan!
-	Yesterday was fun!
+	Uaaaahhh...!
+	Bom dia, Lan!
+	Ontem foi tão legal!
 	"""
 	keyWait
 	clearMsg
@@ -19,9 +19,9 @@ script 1 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Yeah!
-	Hey,who's that mail
-	from?
+	Pois é!
+	Ei, de quem é esse
+	e-mail?
 	"""
 	keyWait
 	clearMsg
@@ -33,8 +33,8 @@ script 2 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let me see…
-	Oh,it's from dad!
+	Deixa eu ver...
+	Ah, é do papai!
 	"""
 	keyWait
 	clearMsg
@@ -46,8 +46,8 @@ script 3 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Cool! I guess he
-	fixed the program!
+	Maneiro! Ele deve ter
+	consertado o programa!
 	"""
 	keyWait
 	clearMsg
@@ -59,8 +59,7 @@ script 4 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Want me to
-	install it?
+	Quer que eu instale ele?
 	"""
 	keyWait
 	clearMsg
@@ -71,7 +70,7 @@ script 5 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Yeah! Go ahead!"
+	"Aham! Manda ver!"
 	keyWait
 	clearMsg
 	jump
@@ -82,13 +81,13 @@ script 6 mmbn3 {
 	msgOpen
 	soundSetTextSFX
 		track = 196
-	"…beep beep beep…\n"
+	"... bip bip bip...\n"
 	soundDisableTextSFX
 	soundPlay
 		track = 220
 	playerAnimate
 		animation = 24
-	"Bing!!!"
+	"Pim!!!"
 	playerFinish
 	playerAnimate
 		animation = 4
@@ -105,12 +104,13 @@ script 7 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Great! Now we can
-	jack in again!
+	Legal! Agora a gente
+	pode se conectar de
+	novo!
 	"""
 	keyWait
 	clearMsg
-	"…Huh?"
+	"... Ué?"
 	keyWait
 	end
 }
@@ -119,8 +119,8 @@ script 8 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	What's wrong? It's
-	not working?
+	Que foi? Ainda tá com
+	defeito?
 	"""
 	keyWait
 	clearMsg
@@ -132,9 +132,9 @@ script 9 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	No,there was another
-	file with the mail.
-	What's this?
+	Não, é que veio outro
+	arquivo no e-mail.
+	O que é isto?
 	"""
 	keyWait
 	end

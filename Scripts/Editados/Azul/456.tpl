@@ -16,8 +16,8 @@ script 1 mmbn3 {
 		mugshot = NormalNaviGreen
 	msgOpen
 	"""
-	Just a little
-	gambling,eh?
+	Bora jogar um joguinho
+	de azar?
 	"""
 	keyWait
 	clearMsg
@@ -29,7 +29,7 @@ script 1 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"OK\n"
+	"   OK\n"
 	option
 		left = 1
 		right = 1
@@ -37,7 +37,7 @@ script 1 mmbn3 {
 		down = 2
 	space
 		count = 2
-	"Explain\n"
+	"   Explicar\n"
 	option
 		left = 2
 		right = 2
@@ -45,7 +45,7 @@ script 1 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"No,thanks"
+	"   Não, valeu"
 	select
 		default = 0
 		BSeparate = false
@@ -57,31 +57,31 @@ script 1 mmbn3 {
 			jump = 4,
 			jump = continue
 		]
+	clearMsg
 	mugshotShow
 		mugshot = NormalNaviGreen
 	"""
-	The rules are easy!
-	I'll put some panels
-	on the floor there.
+	As regras são simples!
+	Eu vou colocar paineis
+	no chão aqui.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Just one of those
-	panels will be the
-	right one.
+	Só um deles será o
+	painel certo.
 	"""
 	keyWait
 	clearMsg
 	"""
-	You bet on the panel
-	you think is right…
+	Você aposta no painel
+	que acha ser o certo...
 	"""
 	keyWait
 	clearMsg
 	"""
-	And if you're right,
-	you'll win 
+	e, se estiver certo,
+	você leva 
 	"""
 	printBuffer
 		minLength = 0
@@ -89,8 +89,8 @@ script 1 mmbn3 {
 		padLeft = true
 		buffer = 3
 	"""
-	 times
-	your money back!!
+	 vezes
+	o que você apostou!!
 	"""
 	keyWait
 	clearMsg
@@ -101,15 +101,15 @@ script 2 mmbn3 {
 	mugshotShow
 		mugshot = NormalNaviGreen
 	msgOpen
-	"The minimum bet is\n"
+	"A aposta mínima é\n"
 	printBuffer
 		minLength = 0
 		padZeros = false
 		padLeft = true
 		buffer = 1
 	"""
-	 zennys.
-	Give me 
+	 Zennys.
+	Passa pra cá os 
 	"""
 	printBuffer
 		minLength = 0
@@ -127,7 +127,7 @@ script 2 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"   Sim "
 	option
 		left = 0
 		right = 0
@@ -135,7 +135,7 @@ script 2 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No"
+	"          Não"
 	select
 		default = 0
 		BSeparate = false
@@ -146,9 +146,10 @@ script 2 mmbn3 {
 			jump = continue,
 			jump = continue
 		]
+	clearMsg
 	mugshotShow
 		mugshot = NormalNaviGreen
-	"You want to cancel?"
+	"Vai desistir?"
 	keyWait
 	clearMsg
 	option
@@ -158,7 +159,7 @@ script 2 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"   Sim "
 	option
 		left = 0
 		right = 0
@@ -166,7 +167,7 @@ script 2 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No"
+	"          Não"
 	select
 		default = 0
 		BSeparate = false
@@ -191,9 +192,8 @@ script 4 mmbn3 {
 		mugshot = NormalNaviGreen
 	msgOpen
 	"""
-	Then what are you
-	doing hanging
-	around here!?
+	Então, pra que cê tá
+	aqui?!
 	"""
 	keyWait
 	end
@@ -203,9 +203,9 @@ script 5 mmbn3 {
 		mugshot = NormalNaviGreen
 	msgOpen
 	"""
-	Good luck!
-	(Left・Right: Move)
-	(A Button: Select)
+	Boa sorte!
+	(<- ・ ->: Mover)
+	(Botão A: Selecionar)
 	"""
 	waitHold
 }
@@ -214,7 +214,7 @@ script 6 mmbn3 {
 	mugshotShow
 		mugshot = NormalNaviGreen
 	msgOpenQuick
-	"You're sure?"
+	"Tem certeza?"
 	keyWait
 	clearMsg
 	mugshotHide
@@ -225,7 +225,7 @@ script 6 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"   Sim "
 	option
 		left = 0
 		right = 0
@@ -233,7 +233,7 @@ script 6 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No"
+	"          Não"
 	select
 		default = 0
 		BSeparate = false
@@ -250,7 +250,7 @@ script 6 mmbn3 {
 }
 script 7 mmbn3 {
 	msgOpen
-	"And the winner is…!"
+	"E o painel certo é...!"
 	keyWait
 	end
 }
@@ -258,7 +258,7 @@ script 8 mmbn3 {
 	mugshotShow
 		mugshot = NormalNaviGreen
 	msgOpen
-	"Too bad!"
+	"Que pena!"
 	keyWait
 	end
 }
@@ -266,7 +266,7 @@ script 9 mmbn3 {
 	mugshotShow
 		mugshot = NormalNaviGreen
 	msgOpen
-	"Try again?"
+	"Tentar de novo?"
 	keyWait
 	clearMsg
 	mugshotHide
@@ -277,7 +277,7 @@ script 9 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"   Sim "
 	option
 		left = 0
 		right = 0
@@ -285,7 +285,7 @@ script 9 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No"
+	"          Não"
 	select
 		default = 0
 		BSeparate = false
@@ -303,8 +303,7 @@ script 10 mmbn3 {
 		mugshot = NormalNaviGreen
 	msgOpen
 	"""
-	Want to
-	try again?
+	Quer tentar de novo?
 	"""
 	keyWait
 	clearMsg
@@ -316,7 +315,7 @@ script 10 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"   Sim "
 	option
 		left = 0
 		right = 0
@@ -324,7 +323,7 @@ script 10 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No"
+	"          Não"
 	select
 		default = 0
 		BSeparate = false
@@ -343,7 +342,7 @@ script 11 mmbn3 {
 	mugshotShow
 		mugshot = NormalNaviGreen
 	msgOpen
-	"Really cancel?"
+	"Confirmar cancelamento?"
 	keyWait
 	clearMsg
 	mugshotHide
@@ -354,7 +353,7 @@ script 11 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"   Sim "
 	option
 		left = 0
 		right = 0
@@ -362,7 +361,7 @@ script 11 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No"
+	"          Não"
 	select
 		default = 0
 		BSeparate = false
@@ -382,8 +381,8 @@ script 12 mmbn3 {
 		mugshot = NormalNaviGreen
 	msgOpen
 	"""
-	If you don't have
-	any money,get out!
+	Se cê não tem grana,
+	cai fora!
 	"""
 	keyWait
 	end
@@ -393,14 +392,14 @@ script 13 mmbn3 {
 		mugshot = NormalNaviGreen
 	msgOpen
 	"""
-	You…You've
-	bankrupted me!
+	Não, cê... Cê me faliu!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Please,let me call
-	it a night!
+	Por favor, perdoa o
+	excedente que eu não
+	posso pagar!
 	"""
 	keyWait
 	end
@@ -415,9 +414,9 @@ script 16 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	My…My money!
-	Well,I'll get it
-	back next time…
+	Meu... Meu dinheiro!
+	Bom, na próxima, eu
+	recupero...
 	"""
 	keyWait
 	end
@@ -429,7 +428,7 @@ script 17 mmbn3 {
 	soundPlay
 		track = 133
 	"""
-	MegaMan got:
+	MegaMan adquiriu:
 	"
 	"""
 	printBuffer
@@ -450,7 +449,7 @@ script 18 mmbn3 {
 	mugshotShow
 		mugshot = NormalNaviGreen
 	msgOpen
-	"Come again!"
+	"Volte sempre!"
 	keyWait
 	end
 }
@@ -459,8 +458,8 @@ script 19 mmbn3 {
 		mugshot = NormalNaviGreen
 	msgOpen
 	"""
-	You've driven me
-	out of business…
+	Cê acabou com o
+	meu negócio...
 	"""
 	keyWait
 	end
@@ -471,7 +470,7 @@ script 20 mmbn3 {
 		chip = 142
 		code = H
 		amount = 1
-	"MegaMan got:"
+	"MegaMan adquiriu:"
 	keyWait
 	clearMsg
 	"\""
@@ -482,7 +481,7 @@ script 20 mmbn3 {
 		buffer = 2
 	"""
 	 Zennys"
-	and a chip
+	e o chip
 	"
 	"""
 	printChip
@@ -502,7 +501,7 @@ script 21 mmbn3 {
 		chip = 39
 		code = L
 		amount = 1
-	"MegaMan got:"
+	"MegaMan adquiriu:"
 	keyWait
 	clearMsg
 	"\""
@@ -513,7 +512,7 @@ script 21 mmbn3 {
 		buffer = 2
 	"""
 	 Zennys"
-	and a chip
+	e o chip
 	"
 	"""
 	printChip
@@ -533,7 +532,7 @@ script 22 mmbn3 {
 		chip = 48
 		code = O
 		amount = 1
-	"MegaMan got:"
+	"MegaMan adquiriu:"
 	keyWait
 	clearMsg
 	"\""
@@ -544,7 +543,7 @@ script 22 mmbn3 {
 		buffer = 2
 	"""
 	 Zennys"
-	and a chip
+	e o chip
 	"
 	"""
 	printChip
@@ -563,8 +562,8 @@ script 23 mmbn3 {
 		mugshot = NormalNaviGreen
 	msgOpen
 	"""
-	Well,what'll it
-	be? Try your luck?
+	E aí, o que vai ser?
+	Vai arriscar?
 	"""
 	keyWait
 	clearMsg
@@ -576,7 +575,7 @@ script 23 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Sure! "
+	"   Vou! "
 	option
 		left = 0
 		right = 0
@@ -584,7 +583,7 @@ script 23 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Nope"
+	"          Não"
 	select
 		default = 0
 		BSeparate = false
@@ -601,9 +600,9 @@ script 24 mmbn3 {
 		mugshot = NormalNaviGreen
 	msgOpen
 	"""
-	Good luck!
-	(Control Pad: Move)
-	(A Button: Select)
+	Boa sorte!
+	(Direcionais: Mover)
+	(Botão A: Select)
 	"""
 	waitHold
 }

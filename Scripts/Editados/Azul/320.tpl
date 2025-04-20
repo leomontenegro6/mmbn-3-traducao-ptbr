@@ -4,8 +4,8 @@ script 0 mmbn3 {
 	mugshotHide
 	msgOpen
 	"""
-	Later that day,
-	after school…
+	Mais tarde, naquele
+	mesmo dia, após a aula...
 	"""
 	keyWait
 	end
@@ -15,8 +15,9 @@ script 1 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	So what do you want
-	to do today,MegaMan?
+	Então, o que você tá
+	a fim de fazer hoje,
+	MegaMan?
 	"""
 	keyWait
 	clearMsg
@@ -27,7 +28,7 @@ script 2 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Hmm. I don't know."
+	"Hmm. Sei lá."
 	keyWait
 	clearMsg
 	jump
@@ -38,8 +39,8 @@ script 3 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Sigh. It's no fun
-	without Dex around.
+	Afe... Não tem graça
+	sem o Dex por perto.
 	"""
 	keyWait
 	clearMsg
@@ -51,9 +52,9 @@ script 4 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Yeah,he was always
-	free to hang out
-	with us.
+	É, ele sempre tava
+	disponível pra ficar de
+	bobeira com a gente.
 	"""
 	keyWait
 	end
@@ -62,7 +63,7 @@ script 5 mmbn3 {
 	mugshotHide
 	msgOpen
 	soundDisableTextSFX
-	"Beep Beep Beep!"
+	"Bip Bip Bip!"
 	keyWait
 	soundEnableTextSFX
 	end
@@ -72,8 +73,8 @@ script 6 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Mail! It would be
-	funny if it was from
+	Um e-mail. Seria
+	engraçado se fosse do
 	Dex!
 	"""
 	keyWait
@@ -88,19 +89,19 @@ script 6 mmbn3 {
 	waitSkip
 		frames = 30
 	"""
-	Oh.
-	It's Mamoru,the boy
-	from the hospital.
+	Ah.
+	É do Mamoru, aquele
+	menino do hospital.
 	"""
 	keyWait
 	clearMsg
-	"It says,"
+	"Está escrito:"
 	keyWait
 	clearMsg
 	"""
-	"Thanks for the
-	other day,Lan! Come
-	drop by again,OK?".
+	"Muito obrigado pelo
+	outro dia, Lan! Venha
+	me visitar de novo, OK?".
 	"""
 	flagAddMail
 		flag = 4370
@@ -116,8 +117,7 @@ script 7 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	All right! Let's
-	head over to the
+	Já é! Vamos lá pro
 	hospital!
 	"""
 	keyWait
@@ -130,8 +130,7 @@ script 8 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Yeah,that sounds
-	great! Let's go!
+	Ótima ideia! Vamos!
 	"""
 	keyWait
 	end

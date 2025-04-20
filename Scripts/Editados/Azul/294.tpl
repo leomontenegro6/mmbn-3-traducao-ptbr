@@ -4,8 +4,9 @@ script 0 mmbn3 {
 	mugshotHide
 	msgOpen
 	"""
-	We will now hold
-	the quarter-finals!
+	E, agora, realizaremos
+	as semifinais do
+	Grande Prêmio N1!
 	"""
 	keyWait
 	end
@@ -14,9 +15,9 @@ script 1 mmbn3 {
 	mugshotHide
 	msgOpen
 	"""
-	The last fearsome
-	battle determined
-	the top 8!
+	As últimas ferozes
+	batalhas determinaram
+	os oito melhores!
 	"""
 	keyWait
 	end
@@ -24,13 +25,13 @@ script 1 mmbn3 {
 script 2 mmbn3 {
 	mugshotHide
 	msgOpen
-	"In Arena 1:"
+	"Na Arena 1:"
 	keyWait
 	clearMsg
 	"""
-	Lan from D-Block
-	Vs
-	Dex from A-Block!
+	Lan Hikari do Bloco D
+	Vs.
+	Dex Oyama do Bloco A!
 	"""
 	keyWait
 	end
@@ -40,23 +41,22 @@ script 3 mmbn3 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Lan! I can't believe
-	we're paired up
-	here!
+	Lan! Não acredito que
+	a gente foi pareado
+	aqui!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I hate to break this
-	to you,but I'm gonna
-	have to win!
+	Odeio ter que dizer isso,
+	mas essa é uma luta que
+	eu não posso perder!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Chisao's cheering
-	for me by the TV
-	set!
+	O Chisao tá torcendo
+	por mim na TV!
 	"""
 	keyWait
 	clearMsg
@@ -68,14 +68,14 @@ script 4 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I'm the one who has
-	to win!
+	Quem vai vencer aqui
+	sou eu!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'm going to the
-	semi-finals!
+	E, depois, vou pras
+	semifinais!
 	"""
 	keyWait
 	end
@@ -83,13 +83,13 @@ script 4 mmbn3 {
 script 5 mmbn3 {
 	mugshotHide
 	msgOpen
-	"In Arena 2:"
+	"Na Arena 2:"
 	keyWait
 	clearMsg
 	"""
-	Yai from B-Block
-	Vs
-	Q from D-Block!
+	Yai Ayano do Bloco B
+	Vs.
+	NetLutador Q do Bloco D!
 	"""
 	keyWait
 	end
@@ -99,9 +99,9 @@ script 6 mmbn3 {
 		mugshot = Yai
 	msgOpen
 	"""
-	My dynamite
-	technique will blow
-	you to pieces!
+	As minhas técnicas
+	dinamite dinâmicas vão
+	reduzir você a pó!
 	"""
 	keyWait
 	clearMsg
@@ -113,8 +113,8 @@ script 7 mmbn3 {
 		mugshot = NetbattlerQ
 	msgOpen
 	"""
-	Hee hee hee…
-	…Shrimp…
+	He he he...
+	... Pirralha...
 	"""
 	keyWait
 	clearMsg
@@ -126,16 +126,15 @@ script 8 mmbn3 {
 		mugshot = Yai
 	msgOpen
 	"""
-	W-Who's a shrimp!?
-	You'd better
-	remember this!
+	Q-quem tá chamando de
+	pirralha?! Ai, espera só!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'm not gonna ease
-	up when you come
-	crying for mercy!
+	Nem adianta implorar por
+	misericórdia, que eu não
+	vou pegar leve!
 	"""
 	keyWait
 	end
@@ -143,13 +142,13 @@ script 8 mmbn3 {
 script 9 mmbn3 {
 	mugshotHide
 	msgOpen
-	"In Arena 3:"
+	"Na Arena 3:"
 	keyWait
 	clearMsg
 	"""
-	Tora from D-Block
-	Vs
-	Masa from A-Block!
+	Tora Aragoma do Bloco D
+	Vs.
+	Masa do Bloco A!
 	"""
 	keyWait
 	end
@@ -159,9 +158,9 @@ script 10 mmbn3 {
 		mugshot = Tora
 	msgOpen
 	"""
-	You're luck just ran
-	out,being paired
-	with me!!
+	Tu é muito azarado,
+	cara, sendo colocado
+	pra lutar comigo!!
 	"""
 	keyWait
 	clearMsg
@@ -173,16 +172,16 @@ script 11 mmbn3 {
 		mugshot = Masa
 	msgOpen
 	"""
-	Quit talkin' that
-	trash! I've been
-	battling before you
+	Para de ficar de
+	lero! Eu NetLuto desde
+	antes de cê nascer,
 	"""
 	keyWait
 	clearMsg
 	"""
-	were born,and I'm
-	not gonna lose to a
-	baby brat like you!
+	e "num" vou perder pra
+	um peixinho que mal saiu
+	das fraldas!
 	"""
 	keyWait
 	end
@@ -190,13 +189,13 @@ script 11 mmbn3 {
 script 12 mmbn3 {
 	mugshotHide
 	msgOpen
-	"In Arena 4:"
+	"Na Arena 4:"
 	keyWait
 	clearMsg
 	"""
-	Chaud from B-Block
-	Vs
-	Raoul from C-Block!
+	Eugene Chaud do Bloco B
+	Vs.
+	Raoul do Bloco C!
 	"""
 	keyWait
 	end
@@ -206,9 +205,8 @@ script 13 mmbn3 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Nothing personal,but
-	I'm going to have to
-	defeat you.
+	Nada pessoal, mas eu
+	preciso te derrotar.
 	"""
 	keyWait
 	clearMsg
@@ -220,9 +218,9 @@ script 14 mmbn3 {
 		mugshot = Raoul
 	msgOpen
 	"""
-	I shall win this
-	match to protect the
-	pride of my clan!
+	Vencerei esta luta para
+	honrar o orgulho do meu
+	clã!
 	"""
 	keyWait
 	end
@@ -231,23 +229,23 @@ script 15 mmbn3 {
 	mugshotHide
 	msgOpen
 	"""
-	Now then,these are
-	the rules of the
-	quarter-finals.
+	Agora, explicarei as
+	regras para as quartas
+	de finais.
 	"""
 	keyWait
 	clearMsg
 	"""
-	The quarter-finals
-	consist of straight-
-	forward NetBattles!
+	Elas consistirão de
+	NetLutas simples e
+	diretas!
 	"""
 	keyWait
 	clearMsg
 	"""
-	The 4 victors can
-	exit through that
-	Door of Glory!
+	Os quatro vencedores
+	poderão sair por aquela
+	Porta da Glória!
 	"""
 	keyWait
 	end
@@ -256,14 +254,14 @@ script 16 mmbn3 {
 	mugshotHide
 	msgOpen
 	"""
-	Now then,everyone.
-	Are you ready?
+	Bom, competidores...
+	Prontos?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Begin battling on my
-	mark!
+	Ao meu sinal, iniciaremos
+	as batalhas!
 	"""
 	keyWait
 	clearMsg
@@ -274,7 +272,7 @@ script 17 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"This is it,Dex!"
+	"É agora, Dex!"
 	keyWait
 	clearMsg
 	jump
@@ -284,7 +282,7 @@ script 18 mmbn3 {
 	mugshotShow
 		mugshot = Dex
 	msgOpen
-	"Come get me,Lan!"
+	"Cai dentro, Lan!"
 	keyWait
 	clearMsg
 	jump
@@ -293,22 +291,22 @@ script 18 mmbn3 {
 script 19 mmbn3 {
 	mugshotHide
 	msgOpen
-	"Here we go!"
+	"Aqui vamos nós!"
 	keyWait
 	clearMsg
 	"""
-	N1 Grand Prix
-	Quarter-Finals!
+	As Quartas de Finais
+	do Grande Prêmio N1!
 	"""
 	keyWait
 	clearMsg
-	"Battle routines,"
+	"Rotinas"
 	waitSkip
 		frames = 30
-	"set!"
+	" de batalha...!"
 	keyWait
 	clearMsg
-	"Execute!"
+	"Executar!"
 	keyWait
 	end
 }

@@ -5,22 +5,19 @@ script 0 mmbn3 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Lan!!
-	It's up to you now!
+	Lan!! Agora, é com
+	você!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I want to go,too.
-	But I'd just slow
-	you down.
+	Eu também queria
+	ir, mas sei que só
+	ia atrasar vocês.
 	"""
 	keyWait
 	clearMsg
-	"""
-	I'm counting on
-	you,Lan!
-	"""
+	"Conto contigo, Lan!"
 	keyWait
 	clearMsg
 	jump
@@ -31,8 +28,8 @@ script 1 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Challenge Dex
-	to a NetBattle?
+	Desafiar Dex
+	para uma NetLuta?
 	
 	"""
 	option
@@ -42,7 +39,7 @@ script 1 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"Sim "
 	option
 		left = 0
 		right = 0
@@ -50,7 +47,7 @@ script 1 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No\n"
+	"Não\n"
 	select
 		default = 1
 		BSeparate = false
@@ -91,7 +88,10 @@ script 3 mmbn3 {
 	mugshotShow
 		mugshot = Dex
 	msgOpen
-	"C'mon,you chicken!"
+	"""
+	Ah, vai, não seja
+	medroso!
+	"""
 	keyWait
 	end
 }
@@ -100,9 +100,9 @@ script 4 mmbn3 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Give me some time
-	to make GutsMan
-	stronger,OK? OK?
+	Dá só um tempo pra
+	eu deixar o GutsMan
+	mais forte, tá? TÁ?
 	"""
 	keyWait
 	end
@@ -112,8 +112,9 @@ script 5 mmbn3 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Ha! Don't cry like a
-	baby when you lose!
+	Ha! Não vai chorar que
+	nem bebezinho quando
+	perder!
 	"""
 	keyWait
 	clearMsg
@@ -125,15 +126,16 @@ script 6 mmbn3 {
 		mugshot = Dex
 	msgOpen
 	"""
-	This isn't the same
-	GutsMan from before!
+	Este aqui não é o
+	mesmo GutsMan de
+	antes!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Prepare to face the
-	might of my newly
-	customized GutsMan!
+	Se prepara pra enfren-
+	tar a fúria do meu
+	GutsMan customizado!
 	"""
 	keyWait
 	clearMsg
@@ -145,16 +147,15 @@ script 7 mmbn3 {
 		mugshot = Dex
 	msgOpen
 	"""
-	I've configured
-	GutsMan to his
-	supreme level!
+	Eu configurei o GutsMan
+	ao nível máximo dele!
 	"""
 	keyWait
 	clearMsg
 	"""
-	He's gonna make you
-	pay for all those
-	times you beat him!
+	Ele vai fazer vocês
+	pagarem por todas as
+	vezes que venceram ele!
 	"""
 	keyWait
 	clearMsg
@@ -166,9 +167,9 @@ script 8 mmbn3 {
 		mugshot = Dex
 	msgOpen
 	"""
-	My new Neo GutsMan
-	is going to punish
-	you good!
+	O meu novo Neo GutsMan
+	vai dar uma lição segura
+	em vocês!
 	"""
 	keyWait
 	clearMsg
@@ -182,9 +183,9 @@ script 9 mmbn3 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Anytime you want to
-	battle me,Lan,just
-	bring it on!
+	Quando quiser lutar
+	comigo de novo, Lan,
+	só vem!
 	"""
 	keyWait
 	clearMsg
@@ -218,8 +219,8 @@ script 12 mmbn3 {
 		mugshot = Dex
 	msgOpen
 	"""
-	I'll get you next
-	time!
+	Da próxima vez, cê vai
+	ver só!
 	"""
 	keyWait
 	end
@@ -229,8 +230,8 @@ script 13 mmbn3 {
 		mugshot = Dex
 	msgOpen
 	"""
-	What? Why can't
-	I beat you?!
+	O quê?! Por que eu não
+	consigo te vencer?!
 	"""
 	keyWait
 	end
@@ -240,8 +241,8 @@ script 14 mmbn3 {
 		mugshot = Dex
 	msgOpen
 	"""
-	No fair!
-	You cheated!
+	Ô, não valeu!
+	Cê roubou!
 	"""
 	keyWait
 	end
@@ -250,7 +251,7 @@ script 15 mmbn3 {
 	mugshotShow
 		mugshot = Dex
 	msgOpen
-	"……"
+	"......"
 	keyWait
 	end
 }
@@ -259,9 +260,8 @@ script 16 mmbn3 {
 		mugshot = Dex
 	msgOpen
 	"""
-	How'd you like that?
-	Now you know
-	GutsMan's power!
+	Toma! Agora cê entendeu
+	todo o poder do GutsMan!
 	"""
 	keyWait
 	end
@@ -271,8 +271,7 @@ script 17 mmbn3 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Check this out,
-	Chisao!
+	Saca só essa, Chisao!
 	"""
 	keyWait
 	clearMsg
@@ -284,9 +283,9 @@ script 18 mmbn3 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Anytime you want to
-	battle me,Lan,just
-	bring it on!
+	Quando quiser lutar
+	comigo de novo, Lan,
+	só vem!
 	"""
 	keyWait
 	clearMsg
@@ -298,8 +297,9 @@ script 21 mmbn3 {
 		mugshot = Tora
 	msgOpen
 	"""
-	Lan,I know you can
-	defeat the WWW!
+	Lan, eu sei que tu
+	pode dar um pau na
+	WWW!
 	"""
 	keyWait
 	clearMsg
@@ -311,7 +311,7 @@ script 22 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	NetBattle with
+	Quer NetLutar com o
 	Tora?
 	
 	"""
@@ -322,7 +322,7 @@ script 22 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"   Sim "
 	option
 		left = 0
 		right = 0
@@ -330,7 +330,7 @@ script 22 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No\n"
+	"          Não\n"
 	select
 		default = 1
 		BSeparate = false
@@ -367,9 +367,9 @@ script 24 mmbn3 {
 		mugshot = Tora
 	msgOpen
 	"""
-	It's smart to avoid
-	battles with people
-	you can't beat!
+	É inteligente fugir
+	de briga que tu sabe
+	que "num" vence!
 	"""
 	keyWait
 	end
@@ -379,9 +379,9 @@ script 25 mmbn3 {
 		mugshot = Tora
 	msgOpen
 	"""
-	I'm busy. I'm
-	working on some
-	new strategies…
+	Agora, não, tô ocupado.
+	Fazendo umas
+	estratégias novas, aqui...
 	"""
 	keyWait
 	end
@@ -391,8 +391,9 @@ script 26 mmbn3 {
 		mugshot = Tora
 	msgOpen
 	"""
-	Come on,then! I'll
-	rip you to shreds!
+	Então, bora!
+	Vou te dar uma pisa das
+	BOAS!
 	"""
 	keyWait
 	clearMsg
@@ -404,15 +405,14 @@ script 27 mmbn3 {
 		mugshot = Tora
 	msgOpen
 	"""
-	Let's see how
-	you handle THIS
-	strategy!!
+	Quero ver tu encarar
+	ESTA estratégia, aqui!!
 	"""
 	keyWait
 	clearMsg
 	"""
 	KingMan!
-	Crush him!!
+	"Xeque-mata" ele!!
 	"""
 	keyWait
 	clearMsg
@@ -424,15 +424,15 @@ script 28 mmbn3 {
 		mugshot = Tora
 	msgOpen
 	"""
-	Now take on all of
-	my best strategies
-	combined!
+	Agora, tu vai enfrentar
+	as minhas melhores es-
+	tratégias, tudo "junta"!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Time for a
-	checkmate!!
+	Prepara pro
+	xeque-mate!!
 	"""
 	keyWait
 	clearMsg
@@ -444,9 +444,9 @@ script 29 mmbn3 {
 		mugshot = Tora
 	msgOpen
 	"""
-	It's not just the
-	same old GutsMan!
-	It's…Neo GutsMan!
+	Este não é o GutsMan
+	de sempre. Não...
+	É o Neo Gutsman!
 	"""
 	keyWait
 	clearMsg
@@ -460,8 +460,8 @@ script 30 mmbn3 {
 		mugshot = Tora
 	msgOpen
 	"""
-	I'll take you on
-	any time,Lan!
+	Eu topo lutar com você
+	a qualquer hora, Lan!
 	"""
 	keyWait
 	clearMsg
@@ -495,9 +495,9 @@ script 33 mmbn3 {
 		mugshot = Tora
 	msgOpen
 	"""
-	Where did my
-	strategy fail!?
-	Let me rethink this…
+	Por que a minha estraté-
+	gia "num" deu certo?
+	Tenho que refletir...
 	"""
 	keyWait
 	end
@@ -507,16 +507,16 @@ script 34 mmbn3 {
 		mugshot = Tora
 	msgOpen
 	"""
-	What!? That strategy
-	should have been
-	flawless…!
+	Ué?! Era pra minha
+	estratégia ter sido
+	perfeita...!
 	"""
 	keyWait
 	clearMsg
 	"""
-	But I won't give up!
-	I still have other
-	strategies to use!
+	Ah, mas eu "num" vou
+	desistir, não! Tenho mais
+	estratégias na manga!
 	"""
 	keyWait
 	end
@@ -526,14 +526,14 @@ script 35 mmbn3 {
 		mugshot = Tora
 	msgOpen
 	"""
-	What…? Why…? How…?
-	I can't believe it!
+	Quê...? Por quê...? Como?
+	Eu "num" acredito!
 	"""
 	keyWait
 	clearMsg
 	"""
-	But just you wait!
-	I'll defeat you yet!
+	Mas "pera" só, Lan!
+	Eu ainda vou te vencer!
 	"""
 	keyWait
 	end
@@ -542,7 +542,7 @@ script 36 mmbn3 {
 	mugshotShow
 		mugshot = Tora
 	msgOpen
-	"……"
+	"......"
 	keyWait
 	end
 }
@@ -551,9 +551,9 @@ script 37 mmbn3 {
 		mugshot = Tora
 	msgOpen
 	"""
-	Hah! You'll never
-	win without a
-	strategy yourself!!
+	Ha! Tu nunca vai
+	conseguir vencer sem
+	uma estratégia tua!!
 	"""
 	keyWait
 	end
@@ -563,16 +563,15 @@ script 39 mmbn3 {
 		mugshot = Tora
 	msgOpen
 	"""
-	You've given me
-	insight into a new
-	line of strategies!
+	Tu me fez pensar numas
+	estratégias novas, aqui!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Let's battle again
-	so that I can steal
-	more ideas!
+	Bora lutar de novo
+	"preu" roubar mais ideia
+	tua!
 	"""
 	keyWait
 	clearMsg
@@ -582,14 +581,14 @@ script 39 mmbn3 {
 script 50 mmbn3 {
 	msgOpen
 	"""
-	Something is written
-	on the pillar…
+	Há uma coisa escrita
+	nesse pilar...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Error number: D2G
-	Code: OI[ModTools1]UWMAN
+	Número de erro: D2G
+	Código: OI[ModTools1]UWMAN
 	"""
 	keyWait
 	end
@@ -599,8 +598,8 @@ script 51 mmbn3 {
 		mugshot = Tora
 	msgOpen
 	"""
-	Lan! Take care of
-	this guy quickly!
+	Lan! Acaba com este
+	doido aqui, vai logo!
 	"""
 	keyWait
 	end
@@ -615,9 +614,9 @@ script 52 mmbn3 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	I've managed to hold
-	back the hypnotic
-	beam! Stop him!
+	Eu consegui atrasar
+	o raio hipnótico!
+	Pare esta máquina!
 	"""
 	keyWait
 	end
@@ -626,7 +625,10 @@ script 55 mmbn3 {
 	mugshotShow
 		mugshot = Chaud
 	msgOpen
-	"We'd better hurry!"
+	"""
+	Temos que nos
+	apressar!
+	"""
 	keyWait
 	end
 }
@@ -635,8 +637,8 @@ script 56 mmbn3 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Hurry,Lan!
-	Stop the robots!!
+	Rápido, Lan! Pare
+	esse robô feio!!
 	"""
 	keyWait
 	end
@@ -646,9 +648,9 @@ script 60 mmbn3 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Forget about me…
-	Quickly! Deal with
-	Wily.
+	Me esqueça...
+	Rápido! Cuide logo
+	do Wily...
 	"""
 	keyWait
 	end
@@ -656,15 +658,15 @@ script 60 mmbn3 {
 script 220 mmbn3 {
 	msgOpen
 	"""
-	A DNN boat with an
-	improved engine
+	Um barco da DNN com
+	um motor aprimorado.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Buffeted by waves,it
-	waits for the return
-	of its operator
+	Secudido pelas ondas,
+	espera o retorno
+	de seu operador.
 	"""
 	keyWait
 	end
@@ -672,9 +674,9 @@ script 220 mmbn3 {
 script 221 mmbn3 {
 	msgOpen
 	"""
-	Filthy water flows
-	straight into the
-	ocean!
+	Uma água suja flui
+	direto para o
+	oceano!
 	"""
 	keyWait
 	end
@@ -682,8 +684,8 @@ script 221 mmbn3 {
 script 222 mmbn3 {
 	msgOpen
 	"""
-	The elevator opens!
-	Go down?
+	A porta do elevador
+	abriu! Descer? 
 	
 	"""
 	option
@@ -693,7 +695,7 @@ script 222 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"Sim "
 	option
 		left = 0
 		right = 0
@@ -701,7 +703,7 @@ script 222 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No"
+	"Não"
 	select
 		default = 0
 		BSeparate = false
@@ -720,8 +722,8 @@ script 222 mmbn3 {
 script 223 mmbn3 {
 	msgOpen
 	"""
-	An elevator switch
-	Want to press it?
+	Um botão de
+	elevador. Apertar?
 	
 	"""
 	option
@@ -731,7 +733,7 @@ script 223 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"Sim "
 	option
 		left = 0
 		right = 0
@@ -739,7 +741,7 @@ script 223 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No"
+	"Não"
 	select
 		default = 0
 		BSeparate = false
@@ -755,8 +757,8 @@ script 223 mmbn3 {
 script 224 mmbn3 {
 	msgOpen
 	"""
-	The elevator opens!
-	Go down?
+	A porta do elevador
+	abriu! Descer? 
 	
 	"""
 	option
@@ -766,7 +768,7 @@ script 224 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"Sim "
 	option
 		left = 0
 		right = 0
@@ -774,7 +776,7 @@ script 224 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No"
+	"Não"
 	select
 		default = 0
 		BSeparate = false
@@ -795,8 +797,8 @@ script 224 mmbn3 {
 script 225 mmbn3 {
 	msgOpen
 	"""
-	An elevator switch
-	Want to press it?
+	Um botão de
+	elevador. Apertar?
 	
 	"""
 	option
@@ -806,7 +808,7 @@ script 225 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"Sim "
 	option
 		left = 0
 		right = 0
@@ -814,7 +816,7 @@ script 225 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No"
+	"Não"
 	select
 		default = 0
 		BSeparate = false
@@ -830,15 +832,15 @@ script 225 mmbn3 {
 script 226 mmbn3 {
 	msgOpen
 	"""
-	The stone facade
-	has fallen away to
-	reveal computers
+	Pedras falsas
+	caíram, revelando
+	computadores atrás.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Looks like you can
-	jack in from here!
+	Parece que dá para
+	se conectar daqui!
 	"""
 	keyWait
 	end
@@ -848,8 +850,8 @@ script 227 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	We'd better deal
-	with the robots!
+	A gente tem que
+	lidar com o robô!
 	"""
 	keyWait
 	end
@@ -857,21 +859,22 @@ script 227 mmbn3 {
 script 228 mmbn3 {
 	msgOpen
 	"""
-	A defense robot,
-	built by Wily
+	Um robô de defesa,
+	construído pelo
+	Wily.
 	"""
 	keyWait
 	clearMsg
 	"""
-	It looks a lot like
-	the Electopia army's
-	tanks…
+	É muito parecido com
+	os tanques do Exército
+	ni-honense...
 	"""
 	keyWait
 	clearMsg
 	"""
-	It looks like
-	you can jack in!
+	Parece que dá para
+	se conectar nele!
 	"""
 	keyWait
 	end
@@ -879,21 +882,22 @@ script 228 mmbn3 {
 script 229 mmbn3 {
 	msgOpen
 	"""
-	A defense robot,
-	built by Wily
+	Um robô de defesa,
+	construído pelo
+	Wily.
 	"""
 	keyWait
 	clearMsg
 	"""
-	It looks a lot like
-	the Electopia army's
-	tanks…
+	É muito parecido com
+	os tanques do Exército
+	ni-honense...
 	"""
 	keyWait
 	clearMsg
 	"""
-	It looks like
-	you can jack in!
+	Parece que dá para
+	se conectar nele!
 	"""
 	keyWait
 	end
@@ -901,21 +905,22 @@ script 229 mmbn3 {
 script 230 mmbn3 {
 	msgOpen
 	"""
-	A defense robot,
-	built by Wily
+	Um robô de defesa,
+	construído pelo
+	Wily.
 	"""
 	keyWait
 	clearMsg
 	"""
-	It looks a lot like
-	the Electopia army's
-	tanks…
+	É muito parecido com
+	os tanques do Exército
+	ni-honense...
 	"""
 	keyWait
 	clearMsg
 	"""
-	It looks like
-	you can jack in!
+	Parece que dá para
+	se conectar nele!
 	"""
 	keyWait
 	end
@@ -923,9 +928,9 @@ script 230 mmbn3 {
 script 231 mmbn3 {
 	msgOpen
 	"""
-	A Bubble Bomb!
-	No way to tell when
-	it will explode!
+	Uma Bomba-Bolha! Não
+	há como saber quando
+	ela explodirá!
 	"""
 	keyWait
 	end
@@ -933,21 +938,22 @@ script 231 mmbn3 {
 script 232 mmbn3 {
 	msgOpen
 	"""
-	A defense robot,
-	built by Wily
+	Um robô de defesa,
+	construído pelo
+	Wily.
 	"""
 	keyWait
 	clearMsg
 	"""
-	It looks a lot like
-	the Electopia army's
-	tanks…
+	É muito parecido com
+	os tanques do Exército
+	ni-honense...
 	"""
 	keyWait
 	clearMsg
 	"""
-	It looks like
-	you can jack in!
+	Parece que dá para
+	se conectar nele!
 	"""
 	keyWait
 	end
@@ -955,9 +961,9 @@ script 232 mmbn3 {
 script 233 mmbn3 {
 	msgOpen
 	"""
-	The fire blazes
-	fiercely! The heat
-	is terrible!!
+	As chamas queimam
+	intensamente! O calor
+	é insuportável!
 	"""
 	keyWait
 	end

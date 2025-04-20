@@ -5,9 +5,8 @@ script 0 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I think this is
-	where the BBS told
-	us to go.
+	Acho que foi aqui que o
+	Fórum disse pra ir.
 	"""
 	keyWait
 	clearMsg
@@ -19,8 +18,8 @@ script 1 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	How nice of you to
-	come!
+	Que gentileza a sua,
+	vir aqui!
 	"""
 	keyWait
 	clearMsg
@@ -35,7 +34,7 @@ script 2 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Wha…!"
+	"O qu...!"
 	keyWait
 	end
 }
@@ -44,16 +43,16 @@ script 3 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	I heard a baby Navi
-	was nosing around,
-	asking about S.
+	Fiquei sabendo que tinha
+	um Navi guri fuçando a
+	Under, atrás do S.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Deleting little kids
-	always gives me
-	nightmares…
+	Deletar criancinhas
+	sempre me dá
+	pesadelos...
 	"""
 	keyWait
 	end
@@ -63,8 +62,8 @@ script 4 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Which one of you is
-	ranked #3!?
+	Qual de vocês é o
+	ranque #3?!
 	"""
 	keyWait
 	end
@@ -74,22 +73,21 @@ script 5 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	What's it matter to
-	you,boy? Weren't you
-	paying attention?
+	Que diferença faz pra
+	você, moleque? Não
+	tava ouvindo, não?
 	"""
 	keyWait
 	clearMsg
 	"""
-	You're gonna be
-	deleted.
-	Right here and now!
+	Cê vai ser deletado.
+	Aqui e agora!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Heh heh heh!!
-	Get him,guys!
+	He he he!
+	Pega ele, galera!
 	"""
 	keyWait
 	end
@@ -98,13 +96,13 @@ script 6 mmbn3 {
 	mugshotShow
 		mugshot = HeelNavi
 	msgOpen
-	"Hooooo!!"
+	"Hooooou!!"
 	keyWait
 	clearMsg
 	"""
-	Three-in-one lethal
-	combo! CyberStone!
-	Hiii-YAH!
+	Combo letal 3-em-1!
+	CyberPedregulho!
+	Rááái-IÁ!
 	"""
 	keyWait
 	end
@@ -114,8 +112,9 @@ script 7 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	No! No room to dodge
-	that boulder…!
+	Droga! Não tem espaço
+	pra eu desviar dessa
+	pedra...!
 	"""
 	keyWait
 	clearMsg
@@ -127,9 +126,9 @@ script 8 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	We're out of
-	options! MegaMan!
-	Brace for impact!
+	A gente tá sem opções!
+	MegaMan!
+	Preparar pra impacto!
 	"""
 	keyWait
 	end
@@ -139,9 +138,8 @@ script 9 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	Heave-ho!
-	It's all over for
-	you!
+	Rola, rola, rola!
+	Acabou pra você!
 	"""
 	keyWait
 	end
@@ -153,8 +151,9 @@ script 10 mmbn3 {
 		mugshot = GutsMan
 	msgOpen
 	"""
-	Yee-haaaaw!
-	Are you OK,MegaMan?
+	GUUUUUUTS!
+	Tudo bem com você,
+	MegaMan?
 	"""
 	keyWait
 	end
@@ -169,9 +168,8 @@ script 11 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	This isn't a dream,
-	is it? You're really
-	here!?
+	Isto não é um sonho, né?
+	Você tá mesmo aqui?!
 	"""
 	keyWait
 	clearMsg
@@ -183,9 +181,8 @@ script 12 mmbn3 {
 		mugshot = Dex
 	msgOpen
 	"""
-	You've gotten
-	sloppy,Lan! Get your
-	act together!
+	Cê ficou vacilão, hein,
+	Lan? Acorda pra cuspir!
 	"""
 	keyWait
 	clearMsg
@@ -198,8 +195,8 @@ script 13 mmbn3 {
 	msgOpen
 	"""
 	Dex!
-	What are you doing
-	here?
+	O que você tá fazendo
+	aqui?
 	"""
 	keyWait
 	clearMsg
@@ -211,19 +208,20 @@ script 14 mmbn3 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Let's talk later!
-	Check out GutsMan's
-	power!
+	Depois, a gente
+	conversa! Saca só a
+	força do GutsMan!
 	"""
 	keyWait
 	clearMsg
 	"""
-	We've been training
-	hard in Netopia!
+	A gente andou
+	treinando duro na
+	Ameropa!
 	"""
 	keyWait
 	clearMsg
-	"Go get 'em,GutsMan!"
+	"Manda ver, GutsMan!"
 	keyWait
 	clearMsg
 	jump
@@ -234,8 +232,8 @@ script 15 mmbn3 {
 		mugshot = GutsMan
 	msgOpen
 	"""
-	Yeee-haaaaaw!
-	GutsHammer!!
+	GUUUUUTS, vai!
+	Martelo Guts!!
 	"""
 	keyWait
 	end
@@ -245,15 +243,15 @@ script 16 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	Was that supposed to
-	be an attack?
+	Era pra isso ser um
+	ataque?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Or maybe…
-	Were you trying to
-	massage us to death?
+	Ou cê pretendia
+	matar a gente na
+	massagem? Ha ha ha!
 	"""
 	keyWait
 	clearMsg
@@ -265,7 +263,7 @@ script 17 mmbn3 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Don't underestimate
+	Não subestimem o
 	GutsMan!!
 	"""
 	keyWait
@@ -275,7 +273,7 @@ script 18 mmbn3 {
 	mugshotShow
 		mugshot = HeelNavi
 	msgOpen
-	"W-W-What's going on?"
+	"O-o-o que tá rolando?"
 	keyWait
 	end
 }
@@ -284,8 +282,8 @@ script 19 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	You never told us
-	he had a friend!!
+	Cê nunca falou que ele
+	tinha um parça!
 	C-CopyMan!!
 	"""
 	keyWait
@@ -299,8 +297,8 @@ script 20 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	GutsMan! Thanks!
-	You saved me!
+	GutsMan! Valeu!
+	Você me salvou!
 	"""
 	keyWait
 	clearMsg
@@ -312,9 +310,9 @@ script 21 mmbn3 {
 		mugshot = GutsMan
 	msgOpen
 	"""
-	Helpin' friends is
-	what friendship is
-	all about! Yee-haw!
+	Ajudar os amigos é
+	o coração da amizade!
+	Guts, Guts!
 	"""
 	keyWait
 	clearMsg
@@ -326,8 +324,9 @@ script 22 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Dex! What are you
-	doing here,anyway?
+	Dex! Mas você tá
+	fazendo o que aqui,
+	afinal de contas?
 	"""
 	keyWait
 	clearMsg
@@ -339,15 +338,14 @@ script 23 mmbn3 {
 		mugshot = Dex
 	msgOpen
 	"""
-	I heard from Mayl
-	that you were
-	feeling down.
+	A Mayl me contou que
+	você andava pra baixo.
 	"""
 	keyWait
 	clearMsg
 	"""
-	So I came to cheer
-	you up!
+	Aí eu vim te dar uma
+	animada!
 	"""
 	keyWait
 	clearMsg
@@ -359,9 +357,9 @@ script 24 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	You came all the way
-	from Netopia just to
-	check on me?
+	Você veio lá da Ameropa
+	só pra conferir se eu
+	tava bem?
 	"""
 	keyWait
 	clearMsg
@@ -373,22 +371,22 @@ script 25 mmbn3 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Of course! If any of
-	my friends are in
-	trouble,I'll help!
+	Claro, né?! Se um amigo
+	meu tá com problemas,
+	eu sempre vou ajudar!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Even if I'm on
-	the opposite side of
-	the world!
+	Mesmo se eu estiver
+	do outro lado do
+	planeta!
 	"""
 	keyWait
 	clearMsg
 	"""
-	That's what Dex is
-	all about!
+	Esse é o estilo Dex de
+	ser!
 	"""
 	keyWait
 	clearMsg
@@ -399,7 +397,7 @@ script 26 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Aw,Dex…"
+	"Ah, Dex..."
 	keyWait
 	clearMsg
 	jump
@@ -410,13 +408,13 @@ script 27 mmbn3 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Lan,let's jack out.
-	We've got lots to
-	talk about.
+	Lan, bora desconectar.
+	A gente tem muito papo
+	pra botar em dia.
 	"""
 	keyWait
 	clearMsg
-	"GutsMan! Jack out!"
+	"GutsMan! Desconectar!"
 	keyWait
 	end
 }
@@ -425,8 +423,9 @@ script 28 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan,let's jack
-	out too,OK?
+	MegaMan, vamos
+	desconectar também,
+	OK?
 	"""
 	keyWait
 	clearMsg
@@ -439,7 +438,7 @@ script 29 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Right."
+	"OK."
 	keyWait
 	end
 }
@@ -447,15 +446,15 @@ script 30 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"What is it,GutsMa…"
+	"Que foi, GutsMa..."
 	keyWait
 	clearMsg
 	playerAnimate
 		animation = 29
 	"""
-	Hey! You're not
-	GutsMan! Who are
-	you!?
+	Aí! Você não é o
+	GutsMan!
+	Quem é você?!
 	"""
 	keyWait
 	clearMsg
@@ -467,9 +466,9 @@ script 31 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	What are you talking
-	about,MegaMan? Of
-	course it's GutsMan!
+	Do que você tá falando,
+	MegaMan? Claro que é
+	o GutsMan!
 	"""
 	keyWait
 	clearMsg
@@ -481,7 +480,7 @@ script 32 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	No! This isn't
+	Não! Esse não é o
 	GutsMan!
 	"""
 	keyWait
@@ -493,25 +492,25 @@ script 33 mmbn3 {
 	mugshotShow
 		mugshot = GutsMan
 	msgOpen
-	"Heh heh heh…"
+	"He he he..."
 	keyWait
 	clearMsg
 	"""
-	You're pretty sharp.
-	I'm not GutsMan.
-	"""
-	keyWait
-	clearMsg
-	"""
-	I'm the Navi ranked
-	#3! I'm CopyMan!
+	Você é bem afiado.
+	É, não sou o GutsMan.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I can copy the data
-	of any Navi I see,
-	and make it my own!
+	Eu sou o Navi de ranque
+	#3! CopyMan!
+	"""
+	keyWait
+	clearMsg
+	"""
+	Posso copiar os dados
+	de todo Navi que eu vir
+	e torná-los meus!
 	"""
 	keyWait
 	clearMsg
@@ -522,12 +521,13 @@ script 34 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"You're #3?"
+	"Você é o #3?"
 	keyWait
 	clearMsg
 	"""
-	So those Navi's that
-	GutsMan beat were…
+	Então, aqueles Navis
+	que o GutsMan venceu
+	eram...
 	"""
 	keyWait
 	clearMsg
@@ -539,23 +539,23 @@ script 35 mmbn3 {
 		mugshot = GutsMan
 	msgOpen
 	"""
-	Those were my
-	subordinates,ranked
-	#6,5 and 4.
+	Meus subordinados, sim.
+	Os Navis de ranques
+	#6, 5 e 4.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Kid,the word on the
-	circuit is you're
-	looking for S.
+	Então, moleque, tão
+	dizendo por aí que você
+	tá atrás do S.
 	"""
 	keyWait
 	clearMsg
 	"""
-	What is it you're
-	after? The Forbidden
-	Program?
+	O que é que você quer
+	com ele?
+	O Programa Proibido?
 	"""
 	keyWait
 	clearMsg
@@ -566,7 +566,7 @@ script 36 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"You know S?"
+	"Você conhece o S?"
 	keyWait
 	clearMsg
 	jump
@@ -577,23 +577,23 @@ script 37 mmbn3 {
 		mugshot = GutsMan
 	msgOpen
 	"""
-	I might. If you beat
-	me,I'll tell you
-	what I know.
+	Talvez. Se você me
+	vencer, eu conto o que
+	eu sei.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Of course,you'll
-	have to survive the
-	power of GutsMan!
+	Claro que, para isso, vo-
+	cê terá que sobreviver
+	ao poder do GutsMan!
 	"""
 	keyWait
 	clearMsg
 	"""
-	He deleted those
-	3 ranked Navis with
-	a single hit!
+	Sendo que ele deletou
+	aqueles 3 Navis ranque-
+	ados com um golpe só!
 	"""
 	keyWait
 	end

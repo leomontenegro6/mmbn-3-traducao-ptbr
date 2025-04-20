@@ -5,8 +5,7 @@ script 0 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Dex! I found the
-	disk! Look!
+	Dex! Achei o CD! Olha!
 	"""
 	keyWait
 	clearMsg
@@ -18,8 +17,8 @@ script 1 mmbn3 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Really? Thanks,Lan!
-	You saved my life!
+	Sério?! Valeu, Lan!
+	Cê salvou a minha vida!
 	"""
 	keyWait
 	clearMsg
@@ -31,8 +30,8 @@ script 2 mmbn3 {
 		mugshot = Yai
 	msgOpen
 	"""
-	You should be more
-	careful,Dex.
+	Agora toma mais cuidado,
+	Dex.
 	"""
 	keyWait
 	clearMsg
@@ -45,7 +44,7 @@ script 3 mmbn3 {
 	mugshotShow
 		mugshot = Dex
 	msgOpen
-	"Sorry! Thanks!"
+	"Eu sei, foi mal! E valeu!"
 	keyWait
 	clearMsg
 	jump
@@ -56,15 +55,15 @@ script 4 mmbn3 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	Glad we found the
-	disk!
+	Que bom que a gente
+	achou o CD!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Now we'd better get
-	home. It's getting
-	late.
+	Tá, é melhor a gente
+	voltar pra casa. Tá
+	ficando tarde.
 	"""
 	keyWait
 	clearMsg
@@ -75,7 +74,7 @@ script 5 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Guess so!"
+	"Pois é, né?"
 	keyWait
 	clearMsg
 	flagClear
@@ -88,8 +87,8 @@ script 6 mmbn3 {
 		mugshot = Yai
 	msgOpen
 	"""
-	Huh? Hey,did you
-	just hear something?
+	Hm? Ei, vocês ouviram
+	alguma coisa?
 	"""
 	keyWait
 	end
@@ -98,18 +97,18 @@ script 7 mmbn3 {
 	mugshotShow
 		mugshot = Mayl
 	msgOpen
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
 	"""
-	・Uh…
-	Not really.
+	 Er...
+	Não, nada.
 	"""
 	keyWait
 	clearMsg
@@ -122,7 +121,8 @@ script 8 mmbn3 {
 	msgOpen
 	"""
 	Hmmm.
-	Guess I imagined it.
+	Acho que foi só a minha
+	imaginação.
 	"""
 	keyWait
 	clearMsg
@@ -135,7 +135,10 @@ script 9 mmbn3 {
 	mugshotShow
 		mugshot = Dex
 	msgOpen
-	"L-L-Let's g-go!"
+	"""
+	V-V-Vamos embora
+	l-l-logo!
+	"""
 	keyWait
 	end
 }

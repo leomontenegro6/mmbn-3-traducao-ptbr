@@ -4,9 +4,9 @@ script 0 mmbn3 {
 	mugshotHide
 	msgOpen
 	"""
-	Hiss… Hiss…
-	(MegaMan,this shall
-	become your grave!)
+	Jjooh... Juuooh...
+	(MegaMan.EXE, este
+	será o seu túmulo!)
 	"""
 	keyWait
 	end
@@ -16,8 +16,8 @@ script 1 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Who is that!?
-	Where are you!?
+	Quem disse isso?!
+	Cadê você?!
 	"""
 	keyWait
 	end
@@ -26,7 +26,7 @@ script 2 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"MegaMan! Below you!!"
+	"MegaMan! Embaixo!!"
 	keyWait
 	end
 }
@@ -34,19 +34,19 @@ script 3 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Whoa!"
+	"Ah!"
 	keyWait
 	end
 }
 script 4 mmbn3 {
 	mugshotHide
 	msgOpen
-	"Hiss… Hiss…\n"
+	"Jjjoooaahh...\n"
 	playerAnimate
 		animation = 28
 	"""
-	(Almost had
-	you,there…)
+	(Quase que eu te
+	pego...)
 	"""
 	keyWait
 	clearMsg
@@ -58,8 +58,8 @@ script 5 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	This is digisand!
-	Which means…
+	Digiareia!
+	O que quer dizer...
 	"""
 	keyWait
 	clearMsg
@@ -73,8 +73,8 @@ script 6 mmbn3 {
 		mugshot = Sunayama
 	msgOpen
 	"""
-	That's right,
-	Lan and MegaMan!!
+	Exatamente, Lan Hikari
+	e MegaMan.EXE!!
 	"""
 	keyWait
 	end
@@ -87,9 +87,8 @@ script 7 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	But,weren't you
-	arrested by the
-	Officials!?
+	Mas você não foi preso
+	pelos Oficiais?!
 	"""
 	keyWait
 	clearMsg
@@ -100,20 +99,20 @@ script 8 mmbn3 {
 	mugshotShow
 		mugshot = Sunayama
 	msgOpen
-	"Hah!!"
+	"Ha!!"
 	keyWait
 	clearMsg
 	"""
-	Lord Wily hacked
-	into the system,
-	and freed me!!
+	O Lorde Wily hackeou
+	o sistema carcerário
+	e me libertou!!
 	"""
 	keyWait
 	clearMsg
 	"""
-	And it's so good
-	to be back! Now I
-	can watch TV again!
+	E é tão bom estar de
+	volta! Posso assistir TV
+	de novo!
 	"""
 	keyWait
 	clearMsg
@@ -124,7 +123,7 @@ script 9 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"You escaped…!?"
+	"Você fugiu...?!"
 	keyWait
 	clearMsg
 	jump
@@ -134,54 +133,54 @@ script 10 mmbn3 {
 	mugshotShow
 		mugshot = Sunayama
 	msgOpen
-	"You bet!"
+	"Claro!"
 	keyWait
 	clearMsg
 	"""
-	To delete those who
-	stand in the way of
-	Lord Wily's plans!
-	"""
-	keyWait
-	clearMsg
-	"""
-	Chaud wouldn't even
-	tell me the ratings
-	of the N1!
+	Para deletar todos que
+	tentarem atrapalhar os
+	planos do Lorde Wily!
 	"""
 	keyWait
 	clearMsg
 	"""
-	You'd think that an
-	Official would keep
-	his promises!
+	O Chaud nem foi lá me
+	contar a audiência do
+	Grande Prêmio N1!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Anyway,it's time for
-	you to have some fun
-	with DesertMan!
+	Um Oficial que não
+	cumpre uma promessa,
+	é mole?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Things won't go as
-	smoothly as they did
-	during N1,I promise!
+	Enfim, hora de você se
+	brincar um pouquinho
+	com o DesertMan!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Let's see how you
-	like it under a
-	desert of digisand!
+	E não vai ser tão leve
+	como foi no N1, isso eu
+	garanto!
+	"""
+	keyWait
+	clearMsg
+	"""
+	Vejamos se vai gostar
+	ficar enterrado sob um
+	deserto de digiareia.
 	"""
 	keyWait
 	clearMsg
 	"""
 	DesertMan!!
-	Full Synchro!!
+	Sincronia Total!!
 	"""
 	keyWait
 	end
@@ -190,13 +189,13 @@ script 11 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Lan! This is bad!"
+	"Lan! Isso é péssimo!"
 	keyWait
 	clearMsg
 	"""
-	DesertMan is under
-	the sand,but I
-	can't tell where!!
+	O DesertMan tá debaixo
+	da areia, mas eu não
+	sei dizer onde!!
 	"""
 	keyWait
 	clearMsg
@@ -208,9 +207,9 @@ script 12 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Ach! Isn't there
-	some way you can
-	lure him out!?
+	Ach! Não tem nenhum
+	jeito de você atrair ele
+	pra fora?!
 	"""
 	keyWait
 	end
@@ -219,7 +218,7 @@ script 13 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Yaahhh!"
+	"Jjooaaaahh!"
 	keyWait
 	end
 }
@@ -228,9 +227,9 @@ script 14 mmbn3 {
 		mugshot = Sunayama
 	msgOpen
 	"""
-	Hahahaha!
-	You should be
-	in comedy!
+	Ha ha ha ha!
+	Você devia tentar fazer
+	um programa de comédia!
 	"""
 	keyWait
 	clearMsg
@@ -242,9 +241,9 @@ script 15 mmbn3 {
 		mugshot = DesertMan
 	msgOpen
 	"""
-	Hisssss!!
-	(The next blow shall
-	be your last!)
+	Jjjjooooohh!!
+	(O próximo golpe será
+	o último!)
 	"""
 	keyWait
 	clearMsg
@@ -259,7 +258,7 @@ script 16 mmbn3 {
 	msgOpen
 	"""
 	GutsMan!
-	Help MegaMan!
+	Ajuda o MegaMan!
 	"""
 	keyWait
 	clearMsg
@@ -270,7 +269,7 @@ script 17 mmbn3 {
 	mugshotShow
 		mugshot = GutsMan
 	msgOpen
-	"Gaaaahhhh!!"
+	"Graaaahhhh!!"
 	keyWait
 	flagSet
 		flag = 2629
@@ -281,9 +280,9 @@ script 18 mmbn3 {
 		mugshot = Sunayama
 	msgOpen
 	"""
-	What was that!?
-	An earthquake!?
-	Ouch,my head!
+	O que foi isso?!
+	Um terremoto?!
+	Ai, minha cabeça!
 	"""
 	keyWait
 	clearMsg
@@ -297,7 +296,7 @@ script 19 mmbn3 {
 	mugshotShow
 		mugshot = Dex
 	msgOpen
-	"Now,Lan!!"
+	"Agora, Lan!!"
 	keyWait
 	clearMsg
 	jump
@@ -308,15 +307,15 @@ script 20 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Thanks,Dex!!
-	Go for it,MegaMan!!
+	Valeu, Dex!!
+	Manda ver, MegaMan!!
 	"""
 	keyWait
 	clearMsg
-	"Battle routine,"
+	"Rotina de"
 	waitSkip
 		frames = 30
-	"\nset!"
+	"\nbatalha...!"
 	keyWait
 	clearMsg
 	jump
@@ -326,7 +325,7 @@ script 21 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Execute!"
+	"Executar!"
 	keyWait
 	end
 }

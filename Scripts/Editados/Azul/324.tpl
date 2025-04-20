@@ -5,15 +5,15 @@ script 0 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	It's been three days
-	since we've heard
-	from Mamoru.
+	Já faz três dias que a
+	gente não ouve notícias
+	do Mamoru.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I hope he hasn't
-	changed his mind.
+	Espero que ele não
+	tenha mudado de ideia...
 	"""
 	keyWait
 	clearMsg
@@ -25,9 +25,9 @@ script 1 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I'm sure he hasn't.
-	He promised us he'd
-	have the surgery.
+	Eu tenho certeza que
+	não mudou. Ele prometeu
+	que faria a cirurgia.
 	"""
 	keyWait
 	clearMsg
@@ -39,9 +39,9 @@ script 2 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Yeah,that's true.
-	Maybe we'll hear
-	from him soon.
+	É, tem razão.
+	A gente deve ser
+	notificado logo, logo.
 	"""
 	keyWait
 	end
@@ -50,7 +50,7 @@ script 3 mmbn3 {
 	mugshotHide
 	msgOpen
 	soundDisableTextSFX
-	"Beep Beep Beep!"
+	"Bip Bip Bip!"
 	keyWait
 	soundEnableTextSFX
 	end
@@ -60,33 +60,31 @@ script 4 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan! You got mail!
-	Maybe it's Mamoru?
+	Lan! Chegou e-mail!
+	Será que é do Mamoru?
 	"""
 	keyWait
 	clearMsg
 	"""
-	……!!
-	No,it's from the
-	hospital!!
+	......!!
+	Não, é do hospital!
 	"""
 	keyWait
 	clearMsg
-	"It says,"
+	"Tá escrito:"
 	keyWait
 	clearMsg
 	mugshotHide
 	"""
-	"Mamoru's condition
-	has taken a sudden
-	turn for the worse.
+	"A condição do Mamoru
+	piorou de repente.
 	"""
 	keyWait
 	clearMsg
 	"""
-	"We will perform an
-	emergency operation
-	today."
+	Realizaremos a
+	operação de
+	emergência hoje."
 	"""
 	flagAddMail
 		flag = 4371
@@ -97,7 +95,7 @@ script 4 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Oh,no!
+	Essa não!!
 	Lan!
 	"""
 	keyWait
@@ -109,13 +107,13 @@ script 5 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"What!?"
+	"Não pode ser!"
 	keyWait
 	clearMsg
 	"""
-	Come on,MegaMan! We
-	have to get to the
-	hospital!
+	Vamos, MegaMan!
+	A gente tem que ir
+	pro hospital, agora!
 	"""
 	keyWait
 	clearMsg
@@ -126,7 +124,7 @@ script 6 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Yeah!"
+	"É!"
 	keyWait
 	end
 }

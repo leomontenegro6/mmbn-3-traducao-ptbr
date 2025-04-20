@@ -42,8 +42,8 @@ script 221 mmbn3 {
 script 230 mmbn3 {
 	msgOpen
 	"""
-	MegaMan accessed the
-	mystery data.
+	MegaMan acessou os
+	dados misteriosos.
 	"""
 	wait
 		frames = 10
@@ -64,7 +64,7 @@ script 230 mmbn3 {
 		item = 39
 		amount = 1
 	"""
-	MegaMan got:
+	MegaMan adquiriu:
 	"
 	"""
 	printItem
@@ -79,8 +79,8 @@ script 230 mmbn3 {
 script 231 mmbn3 {
 	msgOpen
 	"""
-	MegaMan accessed the
-	mystery data.
+	MegaMan acessou os
+	dados misteriosos.
 	"""
 	wait
 		frames = 10
@@ -103,7 +103,7 @@ script 231 mmbn3 {
 		jumpIfNone = continue
 		jumpIfSome = continue
 	"""
-	MegaMan got:
+	MegaMan adquiriu:
 	"1800 Zennys"!!
 	"""
 	playerFinish
@@ -114,8 +114,8 @@ script 231 mmbn3 {
 script 232 mmbn3 {
 	msgOpen
 	"""
-	MegaMan accessed the
-	mystery data.
+	MegaMan acessou os
+	dados misteriosos.
 	"""
 	wait
 		frames = 10
@@ -137,8 +137,8 @@ script 232 mmbn3 {
 		code = P
 		amount = 1
 	"""
-	MegaMan got a
-	chip for
+	MegaMan recebeu o
+	chip
 	"
 	"""
 	printChip
@@ -157,8 +157,8 @@ script 232 mmbn3 {
 script 233 mmbn3 {
 	msgOpen
 	"""
-	MegaMan accessed the
-	mystery data.
+	MegaMan acessou os
+	dados misteriosos.
 	"""
 	wait
 		frames = 10
@@ -179,8 +179,8 @@ script 233 mmbn3 {
 		item = 96
 		amount = 1
 	"""
-	MegaMan got a
-	PowerUp:
+	MegaMan adquiriu
+	um PowerUp:
 	"
 	"""
 	printItem

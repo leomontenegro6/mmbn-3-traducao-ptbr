@@ -5,9 +5,9 @@ script 0 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Higsby! Can you
-	modify this for our
-	Navi Customizer?
+	Higsby! Pode modificar
+	isto pra funcionar no meu
+	Customizador de Navi?
 	"""
 	keyWait
 	clearMsg
@@ -18,14 +18,14 @@ script 1 mmbn3 {
 	mugshotHide
 	msgOpen
 	"""
-	Lan gave
+	Lan entregou
 	"
 	"""
 	printItem
 		buffer = 0
 		item = 13
 	"""
-	" and
+	" e
 	"PET"!!
 	"""
 	keyWait
@@ -36,16 +36,16 @@ script 2 mmbn3 {
 		mugshot = Higsby
 	msgOpen
 	"""
-	A Navi Customizer?
-	Huh. Never heard of
-	that before. If the
+	Um Customizador de Navi?
+	É... Nunca ouvi falar
+	disso antes.
 	"""
 	keyWait
 	clearMsg
 	"""
-	program only needs
-	minor modifications,
-	maybe I could,huh…
+	Se o programa só exigir
+	pequenas modificações,
+	é, talvez eu possa...
 	"""
 	keyWait
 	clearMsg
@@ -56,7 +56,7 @@ script 3 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Well?"
+	"E aí?"
 	keyWait
 	clearMsg
 	jump
@@ -67,13 +67,15 @@ script 4 mmbn3 {
 		mugshot = Higsby
 	msgOpen
 	"""
-	Huh! I'm sorry,but
-	this needs more
-	advanced skills
+	Hm!
 	"""
 	keyWait
 	clearMsg
-	"than I have. Huh!"
+	"""
+	Desculpa. Isto requer
+	habilidades mais avança-
+	das que as minhas. É.
+	"""
 	keyWait
 	clearMsg
 	jump
@@ -84,8 +86,8 @@ script 5 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Oh no! This can't
-	be happening!
+	Não! Isso não pode tá
+	acontecendo!
 	"""
 	keyWait
 	clearMsg
@@ -97,16 +99,16 @@ script 6 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	There's no time to
-	lose hope,Lan! Let's
-	go find someone who
+	Não temos tempo pra
+	desespero, Lan! Vamos
+	logo achar quem possa
 	"""
 	keyWait
 	clearMsg
 	"""
-	can make the
-	modifications! Mayl&
-	Ms.Mari could die!
+	fazer as modificações.
+	A Mayl e a srta. Mari
+	podem acabar morrendo!
 	"""
 	keyWait
 	end

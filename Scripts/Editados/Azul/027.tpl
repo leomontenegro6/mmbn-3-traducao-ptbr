@@ -5,9 +5,9 @@ script 0 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	Welcome to Cyber-
-	ACDC Station!
-	Where to?
+	Bem-vindo à
+	CyberEstação ACDC!
+	Qual o seu destino?
 	"""
 	keyWait
 	clearMsg
@@ -19,9 +19,9 @@ script 1 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	Welcome to Cyber-
-	SciLab Station!
-	Where to?
+	Bem-vindo à
+	CyberEstação do SciLab!
+	Qual o seu destino?
 	"""
 	keyWait
 	clearMsg
@@ -33,9 +33,9 @@ script 2 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	Welcome to Cyber-
-	Yoka Station!
-	Where to?
+	Bem-vindo à
+	CyberEstação de Yoka!
+	Qual o seu destino?
 	"""
 	keyWait
 	clearMsg
@@ -47,9 +47,9 @@ script 3 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	Welcome to Cyber-
-	Beach Station!
-	Where to?
+	Bem-vindo à
+	CyberEstação Angra!
+	Qual o seu destino?
 	"""
 	keyWait
 	clearMsg
@@ -68,8 +68,8 @@ script 5 mmbn3 {
 	controlSet
 		bitmask = 16
 	"""
-	You don't have
-	a ticket!
+	Você não tem nenhum
+	tíquete!
 	"""
 	keyWait
 	end
@@ -81,7 +81,7 @@ script 6 mmbn3 {
 		jumpIfEqual = 7
 		jumpIfGreater = 7
 		jumpIfLess = continue
-	"Where to?\n"
+	"Destino?\n"
 	option
 		left = 1
 		right = 1
@@ -89,7 +89,7 @@ script 6 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"SciLab "
+	"   SciLab "
 	option
 		left = 0
 		right = 0
@@ -97,7 +97,7 @@ script 6 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Cancel\n"
+	"          Sair\n"
 	select
 		default = 0
 		BSeparate = false
@@ -117,7 +117,7 @@ script 7 mmbn3 {
 		jumpIfEqual = 8
 		jumpIfGreater = 8
 		jumpIfLess = continue
-	"Where to?\n"
+	"Destino?\n"
 	option
 		left = 1
 		right = 1
@@ -125,7 +125,7 @@ script 7 mmbn3 {
 		down = 2
 	space
 		count = 2
-	"SciLab "
+	"   SciLab "
 	option
 		left = 0
 		right = 0
@@ -133,7 +133,7 @@ script 7 mmbn3 {
 		down = 2
 	space
 		count = 2
-	"Yoka\n"
+	"          Yoka\n"
 	option
 		left = 1
 		right = 1
@@ -141,7 +141,7 @@ script 7 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Cancel"
+	"   Ficar"
 	select
 		default = 0
 		BSeparate = false
@@ -156,7 +156,7 @@ script 7 mmbn3 {
 	end
 }
 script 8 mmbn3 {
-	"Where to?\n"
+	"Destino?\n"
 	option
 		left = 1
 		right = 1
@@ -164,7 +164,7 @@ script 8 mmbn3 {
 		down = 2
 	space
 		count = 2
-	"SciLab "
+	"   SciLab "
 	option
 		left = 0
 		right = 0
@@ -172,7 +172,7 @@ script 8 mmbn3 {
 		down = 3
 	space
 		count = 2
-	"Yoka\n"
+	"          Yoka\n"
 	option
 		left = 3
 		right = 3
@@ -180,7 +180,7 @@ script 8 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Beach  "
+	"   Angra "
 	option
 		left = 2
 		right = 2
@@ -188,7 +188,7 @@ script 8 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Cancel"
+	"          Ficar"
 	select
 		default = 0
 		BSeparate = false
@@ -215,8 +215,8 @@ script 10 mmbn3 {
 	controlSet
 		bitmask = 16
 	"""
-	You don't have
-	a ticket!
+	Você não tem nenhum
+	tíquete!
 	"""
 	keyWait
 	end
@@ -228,7 +228,7 @@ script 11 mmbn3 {
 		jumpIfEqual = 12
 		jumpIfGreater = 12
 		jumpIfLess = continue
-	"Where to?\n"
+	"Destino?\n"
 	option
 		left = 1
 		right = 1
@@ -236,7 +236,7 @@ script 11 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"ACDC "
+	"   ACDC "
 	option
 		left = 0
 		right = 0
@@ -244,7 +244,7 @@ script 11 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Cancel\n"
+	"         Sair\n"
 	select
 		default = 0
 		BSeparate = false
@@ -264,7 +264,7 @@ script 12 mmbn3 {
 		jumpIfEqual = 13
 		jumpIfGreater = 13
 		jumpIfLess = continue
-	"Where to?\n"
+	"Destino?\n"
 	option
 		left = 1
 		right = 1
@@ -272,7 +272,7 @@ script 12 mmbn3 {
 		down = 2
 	space
 		count = 2
-	"ACDC "
+	"   ACDC "
 	option
 		left = 0
 		right = 0
@@ -280,7 +280,7 @@ script 12 mmbn3 {
 		down = 2
 	space
 		count = 2
-	"Yoka\n"
+	"         Yoka\n"
 	option
 		left = 1
 		right = 1
@@ -288,7 +288,7 @@ script 12 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Cancel"
+	"   Ficar"
 	select
 		default = 0
 		BSeparate = false
@@ -303,7 +303,7 @@ script 12 mmbn3 {
 	end
 }
 script 13 mmbn3 {
-	"Where to?\n"
+	"Destino?\n"
 	option
 		left = 1
 		right = 1
@@ -311,7 +311,7 @@ script 13 mmbn3 {
 		down = 2
 	space
 		count = 2
-	"ACDC  "
+	"   ACDC "
 	option
 		left = 0
 		right = 0
@@ -319,7 +319,7 @@ script 13 mmbn3 {
 		down = 3
 	space
 		count = 2
-	"Yoka\n"
+	"         Yoka\n"
 	option
 		left = 3
 		right = 3
@@ -327,7 +327,7 @@ script 13 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Beach "
+	"   Angra "
 	option
 		left = 2
 		right = 2
@@ -335,7 +335,7 @@ script 13 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Cancel"
+	"          Ficar"
 	select
 		default = 0
 		BSeparate = false
@@ -362,8 +362,8 @@ script 15 mmbn3 {
 	controlSet
 		bitmask = 16
 	"""
-	You don't have
-	a ticket!
+	Você não tem nenhum
+	tíquete!
 	"""
 	keyWait
 	end
@@ -375,7 +375,7 @@ script 16 mmbn3 {
 		jumpIfEqual = 17
 		jumpIfGreater = 17
 		jumpIfLess = continue
-	"Where to?\n"
+	"Destino?\n"
 	option
 		left = 1
 		right = 1
@@ -383,7 +383,7 @@ script 16 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"ACDC "
+	"   ACDC "
 	option
 		left = 0
 		right = 0
@@ -391,7 +391,7 @@ script 16 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Cancel\n"
+	"       Ficar\n"
 	select
 		default = 0
 		BSeparate = false
@@ -411,7 +411,7 @@ script 17 mmbn3 {
 		jumpIfEqual = 18
 		jumpIfGreater = 18
 		jumpIfLess = continue
-	"Where to?\n"
+	"Destino?\n"
 	option
 		left = 1
 		right = 1
@@ -419,7 +419,7 @@ script 17 mmbn3 {
 		down = 2
 	space
 		count = 2
-	"ACDC "
+	"   ACDC "
 	option
 		left = 0
 		right = 0
@@ -427,7 +427,7 @@ script 17 mmbn3 {
 		down = 2
 	space
 		count = 2
-	"SciLab\n"
+	"        SciLab\n"
 	option
 		left = 1
 		right = 1
@@ -435,7 +435,7 @@ script 17 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Cancel"
+	"   Ficar"
 	select
 		default = 0
 		BSeparate = false
@@ -450,7 +450,7 @@ script 17 mmbn3 {
 	end
 }
 script 18 mmbn3 {
-	"Where to?\n"
+	"Destino?\n"
 	option
 		left = 1
 		right = 1
@@ -458,7 +458,7 @@ script 18 mmbn3 {
 		down = 2
 	space
 		count = 2
-	"ACDC  "
+	"   ACDC "
 	option
 		left = 0
 		right = 0
@@ -466,7 +466,7 @@ script 18 mmbn3 {
 		down = 3
 	space
 		count = 2
-	"SciLab\n"
+	"         SciLab\n"
 	option
 		left = 3
 		right = 3
@@ -474,7 +474,7 @@ script 18 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Beach "
+	"   Angra "
 	option
 		left = 2
 		right = 2
@@ -482,7 +482,7 @@ script 18 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Cancel"
+	"          Ficar"
 	select
 		default = 0
 		BSeparate = false
@@ -509,8 +509,8 @@ script 20 mmbn3 {
 	controlSet
 		bitmask = 16
 	"""
-	You don't have
-	a ticket!
+	Você não tem nenhum
+	tíquete!
 	"""
 	keyWait
 	end
@@ -522,7 +522,7 @@ script 21 mmbn3 {
 		jumpIfEqual = 22
 		jumpIfGreater = 22
 		jumpIfLess = continue
-	"Where to?\n"
+	"Destino?\n"
 	option
 		left = 1
 		right = 1
@@ -530,7 +530,7 @@ script 21 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"ACDC "
+	"   ACDC "
 	option
 		left = 0
 		right = 0
@@ -538,7 +538,7 @@ script 21 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Cancel\n"
+	"          Ficar\n"
 	select
 		default = 0
 		BSeparate = false
@@ -558,7 +558,7 @@ script 22 mmbn3 {
 		jumpIfEqual = 23
 		jumpIfGreater = 23
 		jumpIfLess = continue
-	"Where to?\n"
+	"Destino?\n"
 	option
 		left = 1
 		right = 1
@@ -566,7 +566,7 @@ script 22 mmbn3 {
 		down = 2
 	space
 		count = 2
-	"ACDC "
+	"   ACDC "
 	option
 		left = 0
 		right = 0
@@ -574,7 +574,7 @@ script 22 mmbn3 {
 		down = 2
 	space
 		count = 2
-	"SciLab\n"
+	"          SciLab\n"
 	option
 		left = 1
 		right = 1
@@ -582,7 +582,7 @@ script 22 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Cancel"
+	"   Ficar"
 	select
 		default = 0
 		BSeparate = false
@@ -597,7 +597,7 @@ script 22 mmbn3 {
 	end
 }
 script 23 mmbn3 {
-	"Where to?\n"
+	"Destino?\n"
 	option
 		left = 1
 		right = 1
@@ -605,7 +605,7 @@ script 23 mmbn3 {
 		down = 2
 	space
 		count = 2
-	"ACDC "
+	"   ACDC "
 	option
 		left = 0
 		right = 0
@@ -613,7 +613,7 @@ script 23 mmbn3 {
 		down = 3
 	space
 		count = 2
-	"SciLab\n"
+	"         SciLab\n"
 	option
 		left = 3
 		right = 3
@@ -621,7 +621,7 @@ script 23 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yoka "
+	"   Yoka "
 	option
 		left = 2
 		right = 2
@@ -629,7 +629,7 @@ script 23 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Cancel"
+	"         Ficar"
 	select
 		default = 0
 		BSeparate = false

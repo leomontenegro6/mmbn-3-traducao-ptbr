@@ -20,9 +20,9 @@ script 0 mmbn3 {
 	color
 		palette = 3
 	"""
-	Lan's portable
-	terminal. I'm
-	installed in here!
+	O terminal portátil do
+	Lan. Eu estou instalado
+	aqui!
 	"""
 	waitHold
 }
@@ -46,9 +46,9 @@ script 1 mmbn3 {
 	color
 		palette = 3
 	"""
-	This is data for the
-	N1 Grand Prix!
-	Let's take it there!
+	Um dado do Grande
+	Prêmio N1. Vamos levá-lo
+	praquele cara!
 	"""
 	waitHold
 }
@@ -72,9 +72,9 @@ script 2 mmbn3 {
 	color
 		palette = 3
 	"""
-	This is data for the
-	N1 Grand Prix!
-	Let's take it there!
+	Um dado do Grande
+	Prêmio N1. Vamos levá-lo
+	praquele cara!
 	"""
 	waitHold
 }
@@ -98,9 +98,9 @@ script 3 mmbn3 {
 	color
 		palette = 3
 	"""
-	This is a high-tech
-	parasol! It shuts
-	out all light!
+	Um guarda-sol de alta
+	tecnologia. Ele bloqueia
+	toda a luz!
 	"""
 	waitHold
 }
@@ -124,9 +124,9 @@ script 4 mmbn3 {
 	color
 		palette = 3
 	"""
-	This data can bypass
-	the lock on the
-	Principal's PC!
+	Estes dados podem
+	destrancar a trava no
+	computador do diretor!
 	"""
 	waitHold
 }
@@ -150,9 +150,9 @@ script 5 mmbn3 {
 	color
 		palette = 3
 	"""
-	This data can bypass
-	the lock on the
-	Principal's PC!
+	Estes dados podem
+	destrancar a trava no
+	computador do diretor!
 	"""
 	waitHold
 }
@@ -176,9 +176,9 @@ script 6 mmbn3 {
 	color
 		palette = 3
 	"""
-	This data can bypass
-	the lock on the
-	Principal's PC!
+	Estes dados podem
+	destrancar a trava no
+	computador do diretor!
 	"""
 	waitHold
 }
@@ -202,9 +202,9 @@ script 7 mmbn3 {
 	color
 		palette = 3
 	"""
-	This password can
-	bypass the lock on
-	the Principal's PC!
+	Esta senha pode
+	destrancar a trava no
+	computador do diretor!
 	"""
 	waitHold
 }
@@ -228,9 +228,9 @@ script 8 mmbn3 {
 	color
 		palette = 3
 	"""
-	This password can
-	bypass the lock on
-	the Principal's PC!
+	Esta senha pode
+	destrancar a trava no
+	computador do diretor!
 	"""
 	waitHold
 }
@@ -254,9 +254,9 @@ script 9 mmbn3 {
 	color
 		palette = 3
 	"""
-	This password can
-	bypass the lock on
-	the Principal's PC!
+	Esta senha pode
+	destrancar a trava no
+	computador do diretor!
 	"""
 	waitHold
 }
@@ -280,9 +280,9 @@ script 10 mmbn3 {
 	color
 		palette = 3
 	"""
-	This is a SubPET to
-	use if your main one
-	is malfunctioning.
+	Este é o SubPET que
+	se usa quando o PET
+	normal está com defeito.
 	"""
 	waitHold
 }
@@ -306,9 +306,9 @@ script 11 mmbn3 {
 	color
 		palette = 3
 	"""
-	A bag forgotten by a
-	customer at Higsby's
-	Careful!
+	Uma bolsa esquecida por
+	um cliente do Higsby.
+	Cuidado com ela!
 	"""
 	waitHold
 }
@@ -332,9 +332,9 @@ script 12 mmbn3 {
 	color
 		palette = 3
 	"""
-	This is a system for
-	ordering chips from
-	suppliers.
+	Um sistema de
+	encomenda de chips de
+	fornecedores.
 	"""
 	waitHold
 }
@@ -358,9 +358,9 @@ script 13 mmbn3 {
 	color
 		palette = 3
 	"""
-	The beginnings of a
-	compression program.
-	We can't install it.
+	A base para um programa
+	de compressão.
+	Não podemos instalá-la.
 	"""
 	waitHold
 }
@@ -384,9 +384,9 @@ script 14 mmbn3 {
 	color
 		palette = 3
 	"""
-	It's the only tool
-	that can smash
-	BubbleMan's door!
+	A única ferramenta que
+	pode dar um fim na
+	barragem do BubbleMan!
 	"""
 	waitHold
 }
@@ -410,9 +410,9 @@ script 15 mmbn3 {
 	color
 		palette = 3
 	"""
-	This disk contains
-	dad's research data!
-	Take it to him soon!
+	CD contendo dados de
+	pesquisa do papai.
+	Leva logo pra ele!
 	"""
 	waitHold
 }
@@ -436,9 +436,9 @@ script 16 mmbn3 {
 	color
 		palette = 3
 	"""
-	It's the PET case
-	dad gave us! It's
-	really strong!
+	É a capa de PET que o
+	papai deu pra gente.
+	É super resistente!
 	"""
 	waitHold
 }
@@ -462,9 +462,9 @@ script 17 mmbn3 {
 	color
 		palette = 3
 	"""
-	This key opens the
-	door to the Victory
-	Data!
+	Esta chave abre a
+	porta para o Dado
+	da Vitória!
 	"""
 	waitHold
 }
@@ -488,9 +488,9 @@ script 18 mmbn3 {
 	color
 		palette = 3
 	"""
-	Whoever gets this
-	data wins the N1
-	Grand Prix prelims!
+	Quem adquire estes da-
+	dos vence as prelimina-
+	res do Grande Prêmio N1!
 	"""
 	waitHold
 }
@@ -514,9 +514,9 @@ script 19 mmbn3 {
 	color
 		palette = 3
 	"""
-	This data holds
-	health info about
-	all the students!
+	Estes dados contêm
+	informações de saúde
+	sobre todos os alunos!
 	"""
 	waitHold
 }
@@ -540,9 +540,9 @@ script 20 mmbn3 {
 	color
 		palette = 3
 	"""
-	This is half of a
-	map,drawn by hand
-	in crayon.
+	Isto é metade de um
+	mapa, desenhado a mão
+	em giz de cera.
 	"""
 	waitHold
 }
@@ -566,9 +566,9 @@ script 21 mmbn3 {
 	color
 		palette = 3
 	"""
-	Looks like a pass to
-	somewhere. It feels
-	evil,somehow…
+	Parece ser um passe
+	para algum lugar. Parece
+	maligno, de certa forma...
 	"""
 	waitHold
 }
@@ -592,8 +592,7 @@ script 22 mmbn3 {
 	color
 		palette = 3
 	"""
-	This is the tea that
-	Yai wants!
+	É o chá que a Yai quer!
 	"""
 	waitHold
 }
@@ -617,9 +616,9 @@ script 23 mmbn3 {
 	color
 		palette = 3
 	"""
-	This key opens the
-	door to the basement
-	of Seaside Hospital!
+	Esta chave abre a
+	porta para o porão do
+	Hospital Beira-Mar!
 	"""
 	waitHold
 }
@@ -643,9 +642,9 @@ script 24 mmbn3 {
 	color
 		palette = 3
 	"""
-	Match gave us this
-	data. It looks like
-	it can start a fire!
+	O Match nos deu isso.
+	Parece capaz de
+	começar um incêndio!
 	"""
 	waitHold
 }
@@ -669,9 +668,9 @@ script 25 mmbn3 {
 	color
 		palette = 3
 	"""
-	Match gave us this
-	data. It's really
-	hot…Ouch!
+	O Match nos deu isso.
+	São dados bem quentes...
+	Ai!
 	"""
 	waitHold
 }
@@ -695,9 +694,9 @@ script 26 mmbn3 {
 	color
 		palette = 3
 	"""
-	Match gave us this
-	data. It's exremely
-	hot!
+	O Match nos deu isso.
+	São dados que estão
+	pelando!
 	"""
 	waitHold
 }
@@ -721,9 +720,9 @@ script 27 mmbn3 {
 	color
 		palette = 3
 	"""
-	This data proves
-	that we were ranked
-	10th place!
+	Estes dados provam que
+	estamos na posição 10
+	do ranque.
 	"""
 	waitHold
 }
@@ -747,9 +746,9 @@ script 28 mmbn3 {
 	color
 		palette = 3
 	"""
-	This data proves
-	that we were ranked
-	9th place!
+	Estes dados provam que
+	estamos na posição 9
+	do ranque.
 	"""
 	waitHold
 }
@@ -773,9 +772,9 @@ script 29 mmbn3 {
 	color
 		palette = 3
 	"""
-	This data proves
-	that we were ranked
-	8th place!
+	Estes dados provam que
+	estamos na posição 8
+	do ranque.
 	"""
 	waitHold
 }
@@ -799,9 +798,9 @@ script 30 mmbn3 {
 	color
 		palette = 3
 	"""
-	This data proves
-	that we were ranked
-	7th place!
+	Estes dados provam que
+	estamos na posição 7
+	do ranque.
 	"""
 	waitHold
 }
@@ -825,9 +824,9 @@ script 31 mmbn3 {
 	color
 		palette = 3
 	"""
-	This data proves
-	that we were ranked
-	3rd place!
+	Estes dados provam que
+	estamos na posição 3
+	do ranque.
 	"""
 	waitHold
 }
@@ -851,9 +850,9 @@ script 32 mmbn3 {
 	color
 		palette = 3
 	"""
-	This data proves
-	that we were ranked
-	2nd place!
+	Estes dados provam que
+	estamos na posição 2
+	do ranque.
 	"""
 	waitHold
 }
@@ -877,9 +876,8 @@ script 33 mmbn3 {
 	color
 		palette = 3
 	"""
-	It's an origami
-	bird that we took
-	from the hospital.
+	É um pássaro de origami
+	que pegamos do hospital.
 	"""
 	waitHold
 }
@@ -903,9 +901,9 @@ script 34 mmbn3 {
 	color
 		palette = 3
 	"""
-	This is known as the
-	"Forbidden Program".
-	Use it for Alpha…?
+	Este é o famigerado
+	"Programa Proibido".
+	Usá-lo para o Alpha...?
 	"""
 	waitHold
 }
@@ -929,9 +927,9 @@ script 35 mmbn3 {
 	color
 		palette = 3
 	"""
-	This gives you the
-	same rights as an
-	Official NetBattler!
+	Isto lhe dá os mesmos
+	direitos que um
+	NetLutador Oficial!
 	"""
 	waitHold
 }
@@ -955,8 +953,8 @@ script 36 mmbn3 {
 	color
 		palette = 3
 	"""
-	A letter from dad!
-	It says…
+	Uma carta do papai!
+	Nela, está escrito:
 	"""
 	keyWait
 	clearMsg
@@ -972,7 +970,7 @@ script 36 mmbn3 {
 		top = 140
 	msgOpenInvisible
 		unused = 12
-	"\"I need to research\n Alpha. Sorry for\n worrying you!\""
+	"\"Preciso pesquisar o\n Alpha. Desculpe por\n te preocupar, filho!\""
 	waitHold
 }
 script 37 mmbn3 {
@@ -995,9 +993,9 @@ script 37 mmbn3 {
 	color
 		palette = 3
 	"""
-	It looks like a key
-	to some lock… But I
-	wonder which one?
+	Parece uma chave pra
+	algum tipo de tranca...
+	Mas qual?
 	"""
 	waitHold
 }
@@ -1021,9 +1019,9 @@ script 38 mmbn3 {
 	color
 		palette = 3
 	"""
-	It's a painkiller!
-	We need to get
-	it to dad!
+	Um analgésico.
+	Temos que levá-lo pro
+	papai!
 	"""
 	waitHold
 }
@@ -1047,9 +1045,9 @@ script 39 mmbn3 {
 	color
 		palette = 3
 	"""
-	This key opens a
-	lock in the WWW
-	security robot!
+	Esta chave abre uma
+	trava no robô de
+	segurança da WWW!
 	"""
 	waitHold
 }
@@ -1073,9 +1071,9 @@ script 40 mmbn3 {
 	color
 		palette = 3
 	"""
-	This key opens a
-	lock in the WWW
-	security robot!
+	Esta chave abre uma
+	trava no robô de
+	segurança da WWW!
 	"""
 	waitHold
 }
@@ -1099,9 +1097,9 @@ script 41 mmbn3 {
 	color
 		palette = 3
 	"""
-	This key opens a
-	lock in the WWW
-	security robot!
+	Esta chave abre uma
+	trava no robô de
+	segurança da WWW!
 	"""
 	waitHold
 }
@@ -1125,9 +1123,9 @@ script 42 mmbn3 {
 	color
 		palette = 3
 	"""
-	This key opens a
-	lock in the WWW
-	security robot!
+	Esta chave abre uma
+	trava no robô de
+	segurança da WWW!
 	"""
 	waitHold
 }
@@ -1151,9 +1149,9 @@ script 43 mmbn3 {
 	color
 		palette = 3
 	"""
-	It's a message from
-	Gramps to dad,but
-	it's encrypted!
+	É uma mensagem do
+	vovô pro papai, mas
+	tá criptografada!
 	"""
 	waitHold
 }
@@ -1177,9 +1175,9 @@ script 44 mmbn3 {
 	color
 		palette = 3
 	"""
-	It's a very old,well
-	worn tool.Talk about
-	craftsmanship!
+	Uma ferramenta bem
+	velha e gasta.
+	Trabalho manual na veia!
 	"""
 	waitHold
 }
@@ -1203,9 +1201,9 @@ script 45 mmbn3 {
 	color
 		palette = 3
 	"""
-	This is ID data for
-	withdrawing cash
-	from a bank.
+	Um cartão de
+	identificação pra sacar
+	dinheiro de um banco.
 	"""
 	waitHold
 }
@@ -1229,11 +1227,11 @@ script 46 mmbn3 {
 	color
 		palette = 3
 	"""
-	It's an old doll,
-	repaired many times.
+	Um bonequinho bem velho
+	com muitos reparos.
 	"""
 	waitHold
-	"It resembles Chisao!"
+	"É igualzinho ao Chisao!"
 }
 script 47 mmbn3 {
 	positionText
@@ -1255,9 +1253,9 @@ script 47 mmbn3 {
 	color
 		palette = 3
 	"""
-	This is ID data for
-	WWW members! Maybe
-	we can pass as one!
+	Dados de identificação
+	pra membros da WWW! Po-
+	demos nos passar por um!
 	"""
 	waitHold
 }
@@ -1281,8 +1279,8 @@ script 48 mmbn3 {
 	color
 		palette = 3
 	"""
-	Old data that looks
-	like a cloud…?
+	Velhos dados que
+	parecem uma nuvem...?
 	"__■_■____■■__■■■■"
 	"""
 	waitHold
@@ -1307,8 +1305,8 @@ script 49 mmbn3 {
 	color
 		palette = 3
 	"""
-	Old data that looks
-	like a mountain…?
+	Velhos dados que pare-
+	cem uma montanha...?
 	"_■___■_______■__■"
 	"""
 	waitHold
@@ -1333,8 +1331,8 @@ script 50 mmbn3 {
 	color
 		palette = 3
 	"""
-	Old data that looks
-	like an ocean…?
+	Velhos dados que
+	parecem um oceano...?
 	"■_____■_■■■■___■_"
 	"""
 	waitHold
@@ -1359,9 +1357,9 @@ script 51 mmbn3 {
 	color
 		palette = 3
 	"""
-	If we get a lot of
-	stamps on this card,
-	we may win a prize!
+	Se conseguirmos carimbar
+	todo este cartão,
+	ganharemos um prêmio!
 	"""
 	waitHold
 }
@@ -1407,9 +1405,9 @@ script 53 mmbn3 {
 	color
 		palette = 3
 	"""
-	It's a photo of a
-	man holding a baby,
-	and a woman.
+	É a foto de um homem
+	com um bebê no colo,
+	e uma mulher ao lado.
 	"""
 	waitHold
 }
@@ -1433,9 +1431,9 @@ script 54 mmbn3 {
 	color
 		palette = 3
 	"""
-	It's a camera that
-	someone lost.
-	Have we met him?
+	Uma câmera que alguém
+	perdeu. Já conhecemos
+	alguém assim?
 	"""
 	waitHold
 }
@@ -1459,9 +1457,9 @@ script 55 mmbn3 {
 	color
 		palette = 3
 	"""
-	It's a tool that
-	lets you customize
-	Navis.
+	Ferramenta que permite
+	a você customizar um
+	Navi.
 	"""
 	waitHold
 }
@@ -1485,9 +1483,9 @@ script 56 mmbn3 {
 	color
 		palette = 3
 	"""
-	"For the smashing of
-	seals" is carved on
-	the hammer.
+	Nele, estão cravadas
+	as palavras:
+	"Para esmagar selos"
 	"""
 	waitHold
 }
@@ -1511,9 +1509,9 @@ script 57 mmbn3 {
 	color
 		palette = 3
 	"""
-	Mr.Famous' personal
-	wristband! What will
-	happen if we try it?
+	O bracelete pessoal do
+	Sr. Famoso! O que
+	acontece se usarmos?
 	"""
 	waitHold
 }
@@ -1537,9 +1535,9 @@ script 58 mmbn3 {
 	color
 		palette = 3
 	"""
-	This data proves
-	that we were ranked
-	1st place!
+	Estes dados provam que
+	estamos na primeira
+	posição do ranque!
 	"""
 	waitHold
 }
@@ -1563,9 +1561,9 @@ script 71 mmbn3 {
 	color
 		palette = 3
 	"""
-	It lets you rotate
-	white parts with
-	the L and R Buttons!
+	Lhe permite rotacionar
+	peças brancas com os
+	botões L e R!
 	"""
 	waitHold
 }
@@ -1589,9 +1587,9 @@ script 72 mmbn3 {
 	color
 		palette = 3
 	"""
-	It lets you rotate
-	pink parts with
-	the L and R Buttons!
+	Lhe permite rotacionar
+	peças cor-de-rosa com
+	os botões L e R!
 	"""
 	waitHold
 }
@@ -1615,9 +1613,9 @@ script 73 mmbn3 {
 	color
 		palette = 3
 	"""
-	It lets you rotate
-	yellow parts with
-	the L and R Buttons!
+	Lhe permite rotacionar
+	peças amarelas com os
+	botões L e R!
 	"""
 	waitHold
 }
@@ -1641,9 +1639,9 @@ script 74 mmbn3 {
 	color
 		palette = 3
 	"""
-	It lets you rotate
-	red parts with
-	the L and R Buttons!
+	Lhe permite rotacionar
+	peças vermelhas com
+	os botões L e R!
 	"""
 	waitHold
 }
@@ -1667,9 +1665,9 @@ script 75 mmbn3 {
 	color
 		palette = 3
 	"""
-	It lets you rotate
-	blue parts with
-	the L and R Buttons!
+	Lhe permite rotacionar
+	peças azuis com os
+	botões L e R!
 	"""
 	waitHold
 }
@@ -1693,9 +1691,9 @@ script 76 mmbn3 {
 	color
 		palette = 3
 	"""
-	It lets you rotate
-	green parts with
-	the L and R Buttons!
+	Lhe permite rotacionar
+	peças verdes com os
+	botões L e R!
 	"""
 	waitHold
 }
@@ -1719,9 +1717,9 @@ script 77 mmbn3 {
 	color
 		palette = 3
 	"""
-	It lets you rotate
-	orange parts with
-	the L and R Buttons!
+	Lhe permite rotacionar
+	peças laranja com os
+	botões L e R!
 	"""
 	waitHold
 }
@@ -1745,9 +1743,9 @@ script 78 mmbn3 {
 	color
 		palette = 3
 	"""
-	It lets you rotate
-	purple parts with
-	the L and R Buttons!
+	Lhe permite rotacionar
+	peças lilases com os
+	botões L e R!
 	"""
 	waitHold
 }
@@ -1771,9 +1769,9 @@ script 79 mmbn3 {
 	color
 		palette = 3
 	"""
-	It lets you rotate
-	gray parts with
-	the L and R Buttons!
+	Lhe permite rotacionar
+	peças cinza com os
+	botões L e R!
 	"""
 	waitHold
 }
@@ -1797,9 +1795,9 @@ script 80 mmbn3 {
 	color
 		palette = 3
 	"""
-	Este arquivo tem
-	a senha pra página
-	da Mayl!
+	Este arquivo contém a
+	senha para acessar a
+	página da Mayl da Rede!
 	"""
 	waitHold
 }
@@ -1823,9 +1821,9 @@ script 81 mmbn3 {
 	color
 		palette = 3
 	"""
-	This file has the
-	passcode from the
-	Net to Dex's PC!
+	Este arquivo contém a
+	senha para acessar a
+	página do Dex da Rede!
 	"""
 	waitHold
 }
@@ -1849,9 +1847,9 @@ script 82 mmbn3 {
 	color
 		palette = 3
 	"""
-	This file has the
-	passcode from the
-	Net to Yai's PC!
+	Este arquivo contém a
+	senha para acessar a
+	página da Yai da Rede!
 	"""
 	waitHold
 }
@@ -1875,9 +1873,9 @@ script 83 mmbn3 {
 	color
 		palette = 3
 	"""
-	This file has the
-	passcode from the
-	Net to Tamako's PC!
+	Contém a senha para
+	acessar a página da
+	Tamako da Rede!
 	"""
 	waitHold
 }
@@ -1901,9 +1899,9 @@ script 84 mmbn3 {
 	color
 		palette = 3
 	"""
-	This file has the
-	passcode from the
-	Net to Hosp Comp 2!
+	Este arquivo contém a
+	senha para acessar
+	CPU Hospital 2 da Rede!
 	"""
 	waitHold
 }
@@ -1927,9 +1925,8 @@ script 88 mmbn3 {
 	color
 		palette = 3
 	"""
-	It's a Metroline
-	ticket to the ACDC
-	Station!
+	Um tíquete da Metrolinha
+	para a Estação ACDC!
 	"""
 	waitHold
 }
@@ -1953,9 +1950,8 @@ script 89 mmbn3 {
 	color
 		palette = 3
 	"""
-	It's a Metroline
-	ticket to the SciLab
-	Station!
+	Um tíquete da Metrolinha
+	para a Estação SciLab!
 	"""
 	waitHold
 }
@@ -1979,9 +1975,8 @@ script 90 mmbn3 {
 	color
 		palette = 3
 	"""
-	It's a Metroline
-	ticket to the Yoka
-	Station!
+	Um tíquete da Metrolinha
+	para a Estação Yoka!
 	"""
 	waitHold
 }
@@ -2005,9 +2000,8 @@ script 91 mmbn3 {
 	color
 		palette = 3
 	"""
-	It's a Metroline
-	ticket to the Beach
-	Station!
+	Um tíquete da Metrolinha
+	para a Estação Angra!
 	"""
 	waitHold
 }
@@ -2031,9 +2025,9 @@ script 92 mmbn3 {
 	color
 		palette = 3
 	"""
-	It's a CyberMetro
-	ticket to the
-	ACDC Station!
+	É um tíquete de
+	CyberMetrô para a
+	Estação ACDC!
 	"""
 	waitHold
 }
@@ -2057,9 +2051,9 @@ script 93 mmbn3 {
 	color
 		palette = 3
 	"""
-	It's a CyberMetro
-	ticket to the
-	SciLab Station!
+	É um tíquete de
+	CyberMetrô para a
+	Estação SciLab!
 	"""
 	waitHold
 }
@@ -2083,9 +2077,9 @@ script 94 mmbn3 {
 	color
 		palette = 3
 	"""
-	It's a CyberMetro
-	ticket to the
-	Yoka Station!
+	É um tíquete de
+	CyberMetrô para a
+	Estação Yoka!
 	"""
 	waitHold
 }
@@ -2109,9 +2103,9 @@ script 95 mmbn3 {
 	color
 		palette = 3
 	"""
-	It's a CyberMetro
-	ticket to the
-	Beach Station!
+	É um tíquete de
+	CyberMetrô para a
+	Estação Angra!
 	"""
 	waitHold
 }
@@ -2123,8 +2117,8 @@ script 96 mmbn3 {
 		left = 10
 		top = 1
 	"""
-	+20 to
-	Max HP
+	+20 de
+	PV máximos
 	"""
 	waitHold
 }
@@ -2136,8 +2130,8 @@ script 97 mmbn3 {
 		left = 10
 		top = 1
 	"""
-	Explains
-	ExpMemory
+	Explica
+	MemóriXP
 	"""
 	waitHold
 }
@@ -2149,9 +2143,9 @@ script 98 mmbn3 {
 		left = 10
 		top = 1
 	"""
-	Incr. chip
-	selection
-	capacity+1
+	Aumenta
+	seleção de
+	chips +1
 	"""
 	waitHold
 }
@@ -2163,9 +2157,9 @@ script 99 mmbn3 {
 		left = 10
 		top = 1
 	"""
-	Incr. chip
-	selection
-	capacity+2
+	Aumenta
+	seleção de
+	chips +2
 	"""
 	waitHold
 }
@@ -2177,9 +2171,9 @@ script 100 mmbn3 {
 		left = 10
 		top = 1
 	"""
-	Incr. chip
-	selection
-	capacity+3
+	Aumenta
+	seleção de
+	chips +3
 	"""
 	waitHold
 }
@@ -2191,8 +2185,8 @@ script 101 mmbn3 {
 		left = 10
 		top = 1
 	"""
-	Explains
-	SubMemory
+	Explica
+	SubMemória
 	"""
 	waitHold
 }
@@ -2209,7 +2203,7 @@ script 112 mmbn3 {
 	positionText
 		left = 10
 		top = 1
-	"Recovers 50HP!"
+	"Recupera 50PV!"
 	waitHold
 }
 script 113 mmbn3 {
@@ -2219,7 +2213,7 @@ script 113 mmbn3 {
 	positionText
 		left = 10
 		top = 1
-	"Recovers max HP!"
+	"Recupera todos os PV!"
 	waitHold
 }
 script 114 mmbn3 {
@@ -2230,9 +2224,9 @@ script 114 mmbn3 {
 		left = 10
 		top = 1
 	"""
-	For a short while,
-	you will encounter
-	no weak viruses
+	Fique temporariamente
+	sem encontrar vírus
+	fracos.
 	"""
 	waitHold
 }
@@ -2244,8 +2238,8 @@ script 115 mmbn3 {
 		left = 10
 		top = 1
 	"""
-	Removes traps on
-	mystery data
+	Remove armadilhas
+	de dados misteriosos.
 	"""
 	waitHold
 }
@@ -2257,9 +2251,9 @@ script 116 mmbn3 {
 		left = 10
 		top = 1
 	"""
-	Makes it easier to
-	encounter an enemy
-	you just ran into
+	Aumenta as chances
+	de encontrar o último
+	inimigo de novo.
 	"""
 	waitHold
 }
@@ -2271,9 +2265,9 @@ script 117 mmbn3 {
 		left = 10
 		top = 1
 	"""
-	Unlocks mystery
-	data that is
-	security-protected
+	Desbloqueia dados
+	misteriosos
+	protegidos.
 	"""
 	waitHold
 }

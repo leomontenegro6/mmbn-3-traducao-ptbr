@@ -4,35 +4,34 @@ script 0 mmbn3 {
 	mugshotHide
 	msgOpen
 	"""
-	Now then,it's time
-	for Round 1!
+	Bom, chegou a hora
+	da Primeira Rodada!
 	"""
 	keyWait
 	clearMsg
 	"""
-	These are the rules.
-	First of all,while
-	you were asleep on
+	Agora, às regras. Para
+	começar, enquanto vo-
+	cês dormiam no barco,
 	"""
 	keyWait
 	clearMsg
 	"""
-	the ferry,we made
-	a couple minor
-	adjustments to your
+	nós fizemos pequenas
+	alterações nos seus
+	PETs.
 	"""
 	keyWait
 	clearMsg
 	"""
-	PETs. Some of you
-	may already have
-	noticed,but your
+	Alguns de vocês já
+	devem ter notado,
 	"""
 	keyWait
 	clearMsg
 	"""
-	equipped folders
-	were changed to
+	mas suas pastas equipa-
+	das foram trocadas por
 	"
 	"""
 	printFolderName
@@ -42,9 +41,9 @@ script 0 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Everyone currently
-	has the exact same
-	folder equipped.
+	Todos, no momento,
+	estão equipados com
+	a mesma pasta.
 	"""
 	keyWait
 	clearMsg
@@ -55,17 +54,21 @@ script 1 mmbn3 {
 	mugshotShow
 		mugshot = Man
 	msgOpen
-	"I see."
+	"Entendo."
 	keyWait
 	clearMsg
 	"""
-	So if everyone has
-	the same folder,this
-	round will test our
+	Então, como todos
+	estamos com a mesma
+	pasta,
 	"""
 	keyWait
 	clearMsg
-	"operation skills!"
+	"""
+	esta rodada será um
+	teste das nossas habi-
+	lidades como operadores!
+	"""
 	keyWait
 	clearMsg
 	jump
@@ -75,9 +78,8 @@ script 2 mmbn3 {
 	mugshotHide
 	msgOpen
 	"""
-	Exactly so,Koetsu!
-	You're quick on the
-	uptake!
+	Exatamente, Koetsu!
+	Você pega rápido!
 	"""
 	keyWait
 	clearMsg
@@ -89,9 +91,9 @@ script 3 mmbn3 {
 		mugshot = BlackMan
 	msgOpen
 	"""
-	Hey!
-	So,what are the
-	rules for Round 1?
+	Aê!
+	Então, quais são as re-
+	gras da Primeira Rodada?
 	"""
 	keyWait
 	clearMsg
@@ -102,23 +104,23 @@ script 4 mmbn3 {
 	mugshotHide
 	msgOpen
 	"""
-	Everyone will jack
-	in to the port
-	in front of you.
+	Vocês todos se
+	conectarão às entradas
+	na frente de vocês.
 	"""
 	keyWait
 	clearMsg
 	"""
-	That machine is
-	connected to the
-	Net. When you jack
+	Essa máquina está
+	ligada à Rede. Ao se
+	conectarem nela,
 	"""
 	keyWait
 	clearMsg
 	"""
-	in,you will enter
-	the Hades Isle area.
-	There are four
+	entrarão na área da
+	Ilha do Inferno. Há
+	quatro
 	"""
 	keyWait
 	clearMsg
@@ -127,16 +129,15 @@ script 4 mmbn3 {
 		buffer = 0
 		item = 18
 	"""
-	s" hidden
-	there. The four
-	people to find them
+	"s escondidos
+	lá. Os quatro que os
+	encontrarem
 	"""
 	keyWait
 	clearMsg
 	"""
-	will be able to
-	advance to the next
-	round.
+	avançarão para a
+	próxima rodada.
 	"""
 	keyWait
 	clearMsg
@@ -148,16 +149,15 @@ script 5 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	This is like the
-	first preliminary.
-	We've got to hurry
+	Que nem na primeira preli-
+	minar. Temos que achar
+	logo um desses itens.
 	"""
 	keyWait
 	clearMsg
 	"""
-	and find one of
-	those items. Only 4
-	people can advance!
+	Somente quatro pessoas
+	vão poder avançar!
 	"""
 	keyWait
 	clearMsg
@@ -169,15 +169,15 @@ script 6 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Half of us will be
-	cut already? That's
-	pretty severe!
+	Então, metade da gente
+	já vai ser eliminado?
+	Severo!
 	"""
 	keyWait
 	clearMsg
 	"""
-	We have to pass this
-	round,MegaMan!
+	A gente tem que passar
+	nesta rodada, MegaMan!
 	"""
 	keyWait
 	clearMsg
@@ -188,8 +188,8 @@ script 7 mmbn3 {
 	mugshotHide
 	msgOpen
 	"""
-	Now then,everyone!
-	Jack in!!
+	Prontos, competidores?
+	Conectar!!
 	"""
 	keyWait
 	clearMsg
@@ -198,13 +198,13 @@ script 8 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Jack in!!"
+	"Conectar!!"
 	wait
 		frames = 10
-	"\nMegaMan,"
+	"\nMegaMan.EXE,"
 	wait
 		frames = 10
-	"Execute!!"
+	"\ntransmissão!!"
 	keyWait
 	end
 }
@@ -212,15 +212,16 @@ script 9 mmbn3 {
 	mugshotHide
 	msgOpen
 	"""
-	Round 1 has begun!
-	Only four people
-	will remain!
+	A Primeira Rodada
+	começou! Somente quatro
+	terminarão de pé!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Who will be the ones
-	to advance!?
+	Quem será o quarteto
+	de lutadores que irá
+	avançar?!
 	"""
 	keyWait
 	end

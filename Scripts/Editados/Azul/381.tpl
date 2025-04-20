@@ -5,9 +5,9 @@ script 0 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan! We did it! We
-	beat all ten of the
-	challengers!
+	Lan! A gente conseguiu!
+	Vencemos todos os 10
+	desafiantes!
 	"""
 	keyWait
 	clearMsg
@@ -19,9 +19,9 @@ script 1 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Yeah! Now we can
-	finally meet a
-	ranked Navi!
+	É! Agora a gente, final-
+	mente, pode se resolver
+	com um Navi ranqueado!
 	"""
 	keyWait
 	clearMsg
@@ -34,29 +34,29 @@ script 2 mmbn3 {
 	soundDisableTextSFX
 	soundPlay
 		track = 290
-	"Zh…zzhzhzzzzz"
+	"Zr... zzrzrzzzzz..."
 	wait
 		frames = 148
 	soundEnableTextSFX
 	keyWait
 	clearMsg
 	"""
-	Mighty victor of the
-	reckless ten…
+	Poderoso vencedor dos
+	10 inconsequentes...
 	"""
 	keyWait
 	clearMsg
 	"""
-	You have earned the
-	right to challenge a
-	ranked Navi.
+	Você conquistou o
+	direito de desafiar um
+	Navi ranqueado.
 	"""
 	keyWait
 	clearMsg
 	"""
-	The Navi ranked #10
-	may be found "where
-	the evil fall".
+	O Navi de ranque #10
+	está lhe esperando
+	"onde o mal cai".
 	"""
 	keyWait
 	clearMsg
@@ -67,7 +67,7 @@ script 3 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Where the evil fall?"
+	"Onde o mal cai?"
 	keyWait
 	clearMsg
 	jump
@@ -77,22 +77,22 @@ script 4 mmbn3 {
 	mugshotHide
 	msgOpen
 	"""
-	If you can defeat
-	that Navi,you will
-	be ranked #10.
+	Se derrotar esse Navi,
+	você ocupará o ranque
+	#10.
 	"""
 	keyWait
 	clearMsg
 	soundDisableTextSFX
 	soundPlay
 		track = 291
-	"Zzhzzhzh…zzhnnnn"
+	"Tzzhzzhzh... tzzhnnnn."
 	wait
 		frames = 148
 	"\n"
 	soundPlay
 		track = 284
-	"Click!"
+	"Clic!"
 	soundEnableTextSFX
 	keyWait
 	clearMsg
@@ -104,15 +104,15 @@ script 5 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	The communication's
-	been cut off…
+	A comunicação foi
+	cortada...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Lan,do you have any
-	idea "where the evil
-	fall" may be?
+	Lan, tem alguma ideia
+	de onde fica "onde o
+	mal cai"?
 	"""
 	keyWait
 	clearMsg
@@ -123,19 +123,19 @@ script 6 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Hmmm…"
+	"Hmmm..."
 	keyWait
 	clearMsg
 	"""
-	Where is it that
-	evil people fall to?
+	Um lugar onde pessoas
+	más caem... talvez?
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'm not sure,but
-	we'd better start
-	looking!
+	Sei lá. Mas é bom a
+	gente começar a
+	procurar logo!
 	"""
 	keyWait
 	clearMsg
@@ -146,7 +146,7 @@ script 7 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Right!"
+	"É!"
 	keyWait
 	end
 }

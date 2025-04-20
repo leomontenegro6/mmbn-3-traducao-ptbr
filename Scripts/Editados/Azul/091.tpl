@@ -34,8 +34,8 @@ script 20 mmbn3 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	Oh no… They're
-	booing the stage…
+	Ai, não...
+	Estão vaiando o palco...
 	"""
 	keyWait
 	end
@@ -74,15 +74,16 @@ script 21 mmbn3 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	DNN's lost people's
-	trust after N1,but
-	it's popular again!
+	A DNN perdeu muita con-
+	fiança com o N1, mas re-
+	cuperou a popularidade!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I guess people want
-	to be entertained.
+	Acho que as pessoas
+	querem mesmo um
+	entretenimento.
 	"""
 	keyWait
 	end
@@ -92,9 +93,9 @@ script 30 mmbn3 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	I'm controlling the
-	panels,so I can see
-	the audience react…
+	Estou controlando os
+	paineis, não posso ver
+	as reações do público...
 	"""
 	keyWait
 	end
@@ -104,15 +105,16 @@ script 31 mmbn3 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	The hospital crisis
-	has been dominating
-	our broadcasts.
+	A crise no hospital tem
+	dominado os nossos
+	programas.
 	"""
 	keyWait
 	clearMsg
 	"""
-	People are watching
-	WWW's every move.
+	As pessoas estão de
+	olho em cada passo da
+	WWW.
 	"""
 	keyWait
 	end
@@ -126,15 +128,15 @@ script 35 mmbn3 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	A fire broke out
-	in SciLab…!
+	Houve um incêndio no
+	SciLab...!
 	"""
 	keyWait
 	clearMsg
 	"""
-	We'd better organize
-	a special program
-	right away!
+	Temos que organizar
+	uma reportagem especial
+	imediatamente!
 	"""
 	keyWait
 	end
@@ -148,16 +150,16 @@ script 36 mmbn3 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	I can't believe
-	there was a fire at
-	SciLab…
+	Eu não acredito que
+	teve um incêncio no
+	SciLab...
 	"""
 	keyWait
 	clearMsg
 	"""
-	A fire should have
-	been no problem for
-	SciLab's security.
+	Fogo não devia ser
+	problema nenhum para
+	a segurança deles.
 	"""
 	keyWait
 	end
@@ -167,15 +169,15 @@ script 38 mmbn3 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	Fire never spread
-	from the Internet
-	like this before!
+	Incêndios nunca se
+	espalharam pela Rede
+	deste jeito antes!
 	"""
 	keyWait
 	clearMsg
 	"""
-	What's going on in
-	the Cyberworld…?
+	O que está havendo no
+	mundo cibernético...?
 	"""
 	keyWait
 	end
@@ -185,15 +187,15 @@ script 39 mmbn3 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	It's easy to prepare
-	the program,but will
-	anyone watch it…?
+	Preparar o programa é
+	fácil, mas será que
+	alguém vai assistir...?
 	"""
 	keyWait
 	clearMsg
 	"""
-	I mean,the network
-	itself is burning…
+	Digo, o próprio canal
+	está queimando agora...
 	"""
 	keyWait
 	end
@@ -203,15 +205,15 @@ script 40 mmbn3 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	Finally,the network
-	devices have cooled!
+	Finalmente, os aparelhos
+	de rede esfriaram!
 	"""
 	keyWait
 	clearMsg
 	"""
-	And it wasn't the
-	Officials who solved
-	this problem!
+	E não foram os Oficiais
+	quem resolveram este
+	problema!
 	"""
 	keyWait
 	end
@@ -221,14 +223,15 @@ script 41 mmbn3 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	"SciLab Under Threat
-	from the WWW"
+	"SciLab Sob Ameaça Da
+	WWW".
 	"""
 	keyWait
 	clearMsg
 	"""
-	I hope this headline
-	is good enough.
+	Espero que esta
+	manchete seja boa o
+	bastante.
 	"""
 	keyWait
 	end
@@ -238,8 +241,8 @@ script 50 mmbn3 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	Aaah,Net Blue…
-	He's losing it…
+	Aaah, Net Azul...
+	Ele está surtando...
 	"""
 	keyWait
 	end
@@ -249,9 +252,9 @@ script 51 mmbn3 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	All this crisis news
-	is depressing! We
-	need to laugh,too…
+	Todos esses informes de
+	crise são deprimentes!
+	Precisamos rir, também...
 	"""
 	keyWait
 	end
@@ -261,15 +264,15 @@ script 60 mmbn3 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	We don't know where
-	the WWW base is,or
-	about the virus.
+	Não sabemos onde a
+	base da WWW fica, nem
+	sobre os vírus.
 	"""
 	keyWait
 	clearMsg
 	"""
-	It's making everyone
-	tense and anxious.
+	Isso está deixando
+	todos tensos e ansiosos.
 	"""
 	keyWait
 	end
@@ -279,23 +282,23 @@ script 61 mmbn3 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	If they hear the
-	truth,people could
-	start to panic.
+	Se ouvirem a verdade,
+	o público pode começar
+	a entrar em pânico.
 	"""
 	keyWait
 	clearMsg
 	"""
-	This crisis is like
-	the network trouble
-	of decades ago.
+	Esta crise é como a
+	ameaça à Rede de
+	décadas atrás.
 	"""
 	keyWait
 	clearMsg
 	"""
-	It was really bad…
-	I hope it doesn't
-	happen ever again…
+	Foi bem ruim, aquilo...
+	Espero que não se
+	repita...
 	"""
 	keyWait
 	end
@@ -315,28 +318,28 @@ script 190 mmbn3 {
 		mugshot = BlackMan
 	msgOpen
 	"""
-	Aaaah…
-	Terrible! No good!
+	Aaaah...
+	Que horror! Que péssimo!
 	"""
 	keyWait
 	clearMsg
 	"""
-	This battle scene's
-	just not exciting
-	enough!
+	Essa cena de luta
+	simplesmente não está
+	intensa o bastante!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I know! We need a
-	more exciting chip
-	to thrill everyone!
+	Já sei! Precisamos de um
+	chip mais incrível para
+	emocionar a todos!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Hey,you!
-	Have you got a
+	Ei, você!
+	Você teria aí um
 	"
 	"""
 	printChip
@@ -350,8 +353,8 @@ script 190 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	I'd like to swap for
-	this "
+	Quero trocá-lo por
+	este "
 	"""
 	printChip
 		buffer = 0
@@ -364,9 +367,9 @@ script 190 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	I need inspiration!
-	Quickly,before I
-	forget!
+	Eu preciso de inspiração!
+	Rápido, antes que eu
+	esqueça!
 	"""
 	keyWait
 	clearMsg
@@ -378,7 +381,7 @@ script 190 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"OK "
+	"   OK "
 	option
 		left = 0
 		right = 0
@@ -386,7 +389,7 @@ script 190 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No thanks."
+	"          Não."
 	select
 		default = 0
 		BSeparate = false
@@ -415,7 +418,7 @@ script 191 mmbn3 {
 	mugshotShow
 		mugshot = BlackMan
 	msgOpen
-	"OK,hand it over!"
+	"Beleza, dá aqui!"
 	keyWait
 	clearMsg
 	jump
@@ -432,7 +435,7 @@ script 192 mmbn3 {
 		code = F
 		amount = 1
 	"""
-	Lan got a chip for
+	Lan adquiriu o chip
 	"
 	"""
 	printChip
@@ -456,15 +459,15 @@ script 193 mmbn3 {
 		mugshot = BlackMan
 	msgOpen
 	"""
-	Yes,yes! Now I feel
-	inspired!
+	Isso, isso! Agora, eu tô
+	pura inspiração!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'm the director,and
-	I'll make this show
-	a success!
+	Eu sou o diretor, e EU
+	vou fazer deste
+	programa um sucesso!
 	"""
 	keyWait
 	end
@@ -474,8 +477,8 @@ script 194 mmbn3 {
 		mugshot = BlackMan
 	msgOpen
 	"""
-	Grrrr! My chip isn't
-	good enough,huh?!
+	Grrrr! Este meu chip não
+	basta, é?!
 	"""
 	keyWait
 	end
@@ -485,22 +488,22 @@ script 195 mmbn3 {
 		mugshot = BlackMan
 	msgOpen
 	"""
-	You don't have it!
-	Are you trying to
-	make a fool of me?!
+	Você não tem ele!
+	Tá tentando me fazer
+	de otário?!
 	"""
 	keyWait
 	clearMsg
 	"""
-	D'ya think it might
-	be in your folder?
+	Será que tá na sua
+	pasta, sei lá?
 	"""
 	keyWait
 	clearMsg
 	"""
-	I can't check for
-	you. You'll have to
-	take it out.
+	Eu não posso ver isso
+	pra você. VOCÊ vai ter
+	que tirar ele de lá.
 	"""
 	keyWait
 	end
@@ -510,9 +513,9 @@ script 196 mmbn3 {
 		mugshot = BlackMan
 	msgOpen
 	"""
-	Thanks to your chip,
-	now I can shoot a
-	cool scene! Thanks!
+	Graças ao seu chip,
+	agora, eu posso filmar
+	uma cena irada! Valeu!
 	"""
 	keyWait
 	end
@@ -522,14 +525,14 @@ script 197 mmbn3 {
 		mugshot = BlackMan
 	msgOpen
 	"""
-	Aaah…My inspiration
-	is fading fast…!
+	Aaah... A minha inspiração
+	tá evaporando...!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Quickly,give me
-	your "
+	Rápido, troca aqui o
+	seu "
 	"""
 	printChip
 		buffer = 0
@@ -540,7 +543,7 @@ script 197 mmbn3 {
 		code = H
 	"""
 	"
-	for my "
+	pelo meu "
 	"""
 	printChip
 		buffer = 0
@@ -560,7 +563,7 @@ script 197 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"OK "
+	"   OK "
 	option
 		left = 0
 		right = 0
@@ -568,7 +571,7 @@ script 197 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No thanks!"
+	"          Não!"
 	select
 		default = 0
 		BSeparate = false
@@ -583,14 +586,14 @@ script 197 mmbn3 {
 script 220 mmbn3 {
 	msgOpen
 	"""
-	Posters are replaced
-	on a regular basis
+	Pôsteres são trocados
+	regularmente.
 	"""
 	keyWait
 	clearMsg
 	"""
-	There's lots of
-	tape on the wall
+	Tem um monte de fita
+	adesiva na parede.
 	"""
 	keyWait
 	end
@@ -603,8 +606,8 @@ script 221 mmbn3 {
 		jumpIfOutOfRange = continue
 	msgOpen
 	"""
-	Details of
-	recording schedules…
+	Detalhes de cronogramas
+	de filmagem...
 	"""
 	keyWait
 	end
@@ -612,16 +615,16 @@ script 221 mmbn3 {
 script 222 mmbn3 {
 	msgOpen
 	"""
-	A door to the sound
-	room. Lots of noise
-	comes from inside
+	Uma porta para a sala
+	de som. Você ouve muito
+	barulho vindo dela.
 	"""
 	keyWait
 	clearMsg
 	"""
-	The door is locked
-	to reduce sound
-	leakage
+	A porta está trancada
+	para reduzir vazamento
+	de som.
 	"""
 	keyWait
 	end
@@ -629,15 +632,15 @@ script 222 mmbn3 {
 script 223 mmbn3 {
 	msgOpen
 	"""
-	Wow! A signed poster
-	of Ribitta!
+	Caramba! Um pôster
+	autografado da Ribitta!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Just as you might
-	expect,this being
-	DNN's editing room
+	O que era de se
+	esperar de ver na sala
+	de edição da DNN.
 	"""
 	keyWait
 	end
@@ -645,9 +648,8 @@ script 223 mmbn3 {
 script 224 mmbn3 {
 	msgOpen
 	"""
-	The sound room is
-	visible through the
-	glass
+	A sala de som é visível
+	através do vidro.
 	"""
 	keyWait
 	end
@@ -655,15 +657,15 @@ script 224 mmbn3 {
 script 225 mmbn3 {
 	msgOpen
 	"""
-	The wall is covered
-	with monitors
+	A parede está coberta
+	por monitores.
 	"""
 	keyWait
 	clearMsg
 	"""
-	The monitors are for
-	editing the footage
-	together
+	Os monitores são para
+	editar as filmagens,
+	fundindo-as.
 	"""
 	keyWait
 	end
@@ -671,14 +673,14 @@ script 225 mmbn3 {
 script 226 mmbn3 {
 	msgOpen
 	"""
-	The studio is behind
-	a wall and glass
+	O estúdio fica atrás de
+	uma parede de vidro.
 	"""
 	keyWait
 	clearMsg
 	"""
-	The whole studio is
-	visible from here
+	O estúdio inteiro é visível
+	daqui.
 	"""
 	keyWait
 	end
@@ -686,8 +688,9 @@ script 226 mmbn3 {
 script 227 mmbn3 {
 	msgOpen
 	"""
-	Details of
-	recording schedules…
+	Detalhes de
+	cronogramas de
+	filmagem...
 	"""
 	keyWait
 	clearMsg
@@ -697,8 +700,8 @@ script 227 mmbn3 {
 		jumpIfFalse = continue
 	clearMsg
 	"""
-	Something's attached
-	with a clip…
+	Há uma coisa aqui presa
+	com clipe de papel...
 	"""
 	keyWait
 	clearMsg
@@ -710,7 +713,7 @@ script 227 mmbn3 {
 		item = 99
 		amount = 1
 	"""
-	Lan got a PowerUp:
+	Lan adquiriu um PowerUp:
 	"
 	"""
 	printItem
@@ -722,8 +725,8 @@ script 227 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Regular memory
-	increased by 2 MB!!
+	Memória padrão
+	aumentada em 2 MB!
 	"""
 	keyWait
 	end

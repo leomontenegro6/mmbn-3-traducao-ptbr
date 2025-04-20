@@ -34,9 +34,9 @@ script 11 mmbn3 {
 		mugshot = Higsby
 	msgOpen
 	"""
-	Sorry,Lan,but this
-	data is a bit too
-	complex for me,huh.
+	Desculpa, Lan, mas esses
+	dados são meio complexos
+	demais pra mim, é.
 	"""
 	keyWait
 	end
@@ -46,15 +46,15 @@ script 12 mmbn3 {
 		mugshot = Higsby
 	msgOpen
 	"""
-	Oh! You found
-	someone who could
-	fix the data,huh?
+	Ah! Você achou alguém
+	capaz de ajeitar os
+	dados, é?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Then you'd better
-	hurry,huh!!
+	Então, "pernas pra que
+	te quero", é!!
 	"""
 	keyWait
 	end
@@ -64,37 +64,35 @@ script 13 mmbn3 {
 		mugshot = Higsby
 	msgOpen
 	"""
-	You want to
-	compress MegaMan,
-	huh?
+	Você quer comprimir o
+	MegaMan, é?
 	"""
 	keyWait
 	clearMsg
 	"""
 	Hmmmm.
-	Theoretically that's
-	possible…
+	Teoricamente, isso é
+	possível...
 	"""
 	keyWait
 	clearMsg
 	"""
-	But it would take
-	some advanced
-	technology,huh.
+	Mas seria necessário
+	uma tecnologia bem
+	avançada, é.
 	"""
 	keyWait
 	clearMsg
 	"""
-	If you had some
-	compression data
-	you could do it.
+	Daria, se você tivesse
+	tivesse uns dados de
+	compressão.
 	"""
 	keyWait
 	clearMsg
 	"""
-	But I don't have
-	anything like that,
-	huh!!
+	Mas eu não tenho nem
+	sombra disso, é!!
 	"""
 	keyWait
 	end
@@ -105,7 +103,7 @@ script 14 mmbn3 {
 	msgOpen
 	"""
 	Lan. MegaMan.
-	Good luck,huh!
+	Boa sorte, é!
 	"""
 	keyWait
 	end
@@ -118,12 +116,12 @@ script 30 mmbn3 {
 	mugshotShow
 		mugshot = Mayl
 	msgOpen
-	"Sorry,Lan."
+	"Desculpa, Lan."
 	keyWait
 	clearMsg
 	"""
-	I've seen viruses
-	with "
+	Hm, eu já vi vírus que
+	derrubam "
 	"""
 	printChip
 		buffer = 0
@@ -134,14 +132,14 @@ script 30 mmbn3 {
 		code = *
 	"""
 	"
-	around Yoka area 1…
+	lá pela área Yoka 1...
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'll put on some
-	delicious tea and
-	be waiting for you!
+	Vou preparar um chá
+	delicioso pra quando
+	você voltar, tá?
 	"""
 	keyWait
 	end
@@ -155,8 +153,8 @@ script 31 mmbn3 {
 		mugshot = MsMari
 	msgOpen
 	"""
-	You're such a good
-	boy,Lan. Keep it up!
+	Você é um menino muito
+	bom, Lan. Continue assim!
 	"""
 	keyWait
 	end
@@ -177,7 +175,7 @@ script 32 mmbn3 {
 		mugshot = Higsby
 	msgOpen
 	"""
-	Bring me a
+	Traga para mim um
 	"
 	"""
 	printChip
@@ -187,7 +185,7 @@ script 32 mmbn3 {
 	printCode
 		buffer = 0
 		code = *
-	"\",huh?"
+	"\", é?"
 	keyWait
 	end
 }
@@ -203,16 +201,16 @@ script 33 mmbn3 {
 	mugshotShow
 		mugshot = Higsby
 	msgOpen
-	"Oh! You got it,huh!"
+	"Ah! Você trouxe!"
 	keyWait
 	clearMsg
 	"""
-	Let me just check
-	this out,huh…
+	Deixe-me só dar uma
+	conferida nele...
 	"""
 	keyWait
 	clearMsg
-	"Yep,this is it,huh!"
+	"É, é ele mesmo! É!"
 	keyWait
 	clearMsg
 	flagSet
@@ -224,9 +222,9 @@ script 34 mmbn3 {
 		mugshot = Higsby
 	msgOpen
 	"""
-	Good luck,Lan!
-	Get back as soon as
-	you can,huh?
+	Boa sorte, Lan!
+	Volte assim que puder,
+	OK? É!
 	"""
 	keyWait
 	end
@@ -235,7 +233,7 @@ script 35 mmbn3 {
 	mugshotShow
 		mugshot = Mayl
 	msgOpen
-	"L-Lan…Help me…"
+	"L-Lan... Socorro..."
 	keyWait
 	end
 }
@@ -243,7 +241,7 @@ script 36 mmbn3 {
 	mugshotShow
 		mugshot = MsMari
 	msgOpen
-	"Lan,help us quick!"
+	"Lan, rápido, nos ajude!"
 	keyWait
 	end
 }
@@ -252,22 +250,20 @@ script 40 mmbn3 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	Being trapped in
-	the bubbles was so
-	scary…
+	Ficar presa na bolha
+	deu tanto medo...
 	"""
 	keyWait
 	clearMsg
 	"""
-	But I was OK once I
-	knew that you were
-	going to help us!
+	Mas eu fiquei tranquila
+	assim que vi que você ia
+	nos salvar!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Thank you so
-	much,Lan!
+	Muito obrigada, Lan!
 	"""
 	keyWait
 	end
@@ -275,16 +271,16 @@ script 40 mmbn3 {
 script 220 mmbn3 {
 	msgOpen
 	"""
-	Mayl has done a good
-	job cultivating this
-	plant
+	A Mayl tem feito um
+	bom trabalho cuidando
+	dessa planta.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Sometimes,she moves
-	it to places with
-	better light
+	Às vezes, ela a troca
+	de lugar, para lugares
+	com mais sol.
 	"""
 	keyWait
 	end
@@ -292,21 +288,24 @@ script 220 mmbn3 {
 script 221 mmbn3 {
 	msgOpen
 	"""
-	A soft sofa with
-	soft cushions
+	Um sofá macio com
+	almofadas macias.
 	"""
 	keyWait
 	clearMsg
-	"Perfect for a nap!"
+	"""
+	Perfeito para uma
+	soneca!
+	"""
 	keyWait
 	end
 }
 script 222 mmbn3 {
 	msgOpen
 	"""
-	Mayl practices hard
-	on this piano. It's
-	very clean
+	A Mayl treina
+	assiduamente nesse
+	piano. Está bem limpo.
 	"""
 	keyWait
 	end
@@ -314,15 +313,14 @@ script 222 mmbn3 {
 script 223 mmbn3 {
 	msgOpen
 	"""
-	A built-in
-	refrigerator
+	Uma geladeira embutida.
 	"""
 	keyWait
 	clearMsg
 	"""
-	The top door is very
-	high and hard to
-	reach
+	O compartimento de
+	cima fica muito alto,
+	é difícil de alcançar.
 	"""
 	keyWait
 	end
@@ -330,16 +328,16 @@ script 223 mmbn3 {
 script 224 mmbn3 {
 	msgOpen
 	"""
-	This panel controls
-	the room temperature
-	and humidity
+	Esse painel controla
+	a temperatura e
+	umidade da sala.
 	"""
 	keyWait
 	clearMsg
 	"""
-	This device keeps
-	the room comfortable
-	all year round
+	É o aparelho que mantém
+	a cômoda confortável o
+	ano inteiro.
 	"""
 	keyWait
 	end
@@ -357,15 +355,15 @@ script 225 mmbn3 {
 		jumpIfOutOfRange = continue
 	msgOpen
 	"""
-	The BubbleWash dish
-	washer was built
-	very solidly
+	A lava-louças
+	"Lava-Bolha" tem uma
+	construção bem firme.
 	"""
 	keyWait
 	clearMsg
 	"""
-	It's now being used
-	as a cupboard
+	Agora, está sendo
+	usada como prateleira.
 	"""
 	keyWait
 	end
@@ -375,9 +373,9 @@ script 226 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan! Jack in so that
-	we can see what's
-	happening!
+	Lan! Se conecta, pra
+	gente ver o que tá
+	acontecendo!
 	"""
 	keyWait
 	end
@@ -389,16 +387,16 @@ script 227 mmbn3 {
 		jumpIfFalse = 228
 	msgOpen
 	"""
-	This dishwasher was
-	actually created by
-	the WWW
+	Esta lava-louças, na
+	verdade, foi criada pela
+	WWW.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Even though it's an
-	online device,you
-	can't jack in to it
+	Apesar de ser um
+	aparelho online, não dá
+	pra se conectar nela.
 	"""
 	keyWait
 	end

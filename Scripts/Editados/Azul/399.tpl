@@ -5,16 +5,16 @@ script 0 mmbn3 {
 		mugshot = LordWily
 	msgOpen
 	"""
-	Hee,hee,hee…
-	Gwa-ha-ha-ha-ha!!
-	We did it,Bass!
+	He, he, he...
+	Aah ha ha ha ha!!
+	Conseguimos, Bass!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Alpha is mine at
-	last! How I have
-	dreamed of this day!
+	Alpha, enfim, é meu!
+	Ah, como tenho sonhado
+	com este dia!
 	"""
 	keyWait
 	end
@@ -24,25 +24,25 @@ script 1 mmbn3 {
 		mugshot = LordWily
 	msgOpen
 	"""
-	The end of the Net
-	society is finally
-	at hand!!
+	O fim da sociedade da
+	Rede, enfim, está
+	próximo!!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Gather to me once
-	more,my WWW
-	operators!
+	Reúnam-se a mim
+	mais uma vez, meus
+	operadores da WWW!
 	"""
 	keyWait
 	clearMsg
 	flagClear
 		flag = 2305
-	"Hee,hee,hee…"
+	"He he he..."
 	wait
 		frames = 18
-	"\nGwa-ha-ha-ha-ha-ha!!"
+	"\nAaaah ha ha ha ha ha!!"
 	keyWait
 	end
 }

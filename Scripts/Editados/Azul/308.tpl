@@ -5,8 +5,8 @@ script 0 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Yai! How're you
-	feeling?
+	Yai! Como você tá se
+	sentindo?
 	"""
 	keyWait
 	clearMsg
@@ -20,16 +20,16 @@ script 1 mmbn3 {
 		palette = 2
 	msgOpen
 	"""
-	I'm totally fine,
-	but they still won't
-	let me go home,just
+	Eu já tô bem, mas eles
+	não me deixam ir pra
+	casa, porque eu
 	"""
 	keyWait
 	clearMsg
 	"""
-	in case I'm not
-	ready. They treat me
-	like I'm a baby!
+	"posso não estar
+	pronta". Ai, eles me
+	tratam feito bebê!
 	"""
 	keyWait
 	clearMsg
@@ -41,16 +41,15 @@ script 2 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	From the sound of
-	it,you're as good as
-	ever!
+	Pelo que parece,
+	você tá muito bem,
+	mesmo!
 	"""
 	keyWait
 	clearMsg
 	"""
-	We're all hoping
-	you can come back
-	soon!
+	A gente espera que
+	você possa voltar logo.
 	"""
 	keyWait
 	clearMsg
@@ -64,9 +63,9 @@ script 3 mmbn3 {
 		palette = 2
 	msgOpen
 	"""
-	I suspect they won't
-	detain me much
-	longer.
+	Acredito que não vão
+	me manter aqui por muito
+	mais tempo, não.
 	"""
 	keyWait
 	clearMsg
@@ -78,21 +77,20 @@ script 4 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Well,that's good
-	news.
+	Bom, bom saber.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Hey,this room's kind
-	of plain for you,
-	Yai.
+	Mudando de assunto, es-
+	te quarto não é simples
+	demais pra você, Yai?
 	"""
 	keyWait
 	clearMsg
 	"""
-	I expected something
-	more luxurious!
+	Eu tava esperando uma
+	coisa muito mais luxuosa!
 	"""
 	keyWait
 	clearMsg
@@ -106,28 +104,29 @@ script 5 mmbn3 {
 		palette = 2
 	msgOpen
 	"""
-	It may look drab,
-	but this is a
-	hi-tech hospital.
+	Pode PARECER pacato,
+	mas este é um hospital
+	ultra-tecnológico.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Everything in it is
-	run by computers!
+	Tudo nele é operado
+	por computadores!
 	"""
 	keyWait
 	clearMsg
 	"""
-	The medical
-	treatment here is
-	flawless.
+	O tratamento médico
+	aqui é simplesmente
+	perfeito.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Oh yeah! Did you see
-	the Tree of Life?
+	Ah, é mesmo!
+	Vocês viram a Árvore
+	da Vida?
 	"""
 	keyWait
 	clearMsg
@@ -138,7 +137,7 @@ script 6 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"The Tree of Life?"
+	"Árvore da Vida?"
 	keyWait
 	clearMsg
 	jump
@@ -149,9 +148,9 @@ script 7 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	She means that big
-	tree in the center
-	of the hospital.
+	Ela tá falando daquela
+	árvore enorme no
+	centro do hospital.
 	"""
 	keyWait
 	clearMsg
@@ -165,16 +164,16 @@ script 8 mmbn3 {
 		palette = 2
 	msgOpen
 	"""
-	Yes,that one. It's
-	run by a computer,
-	too! It never drops
+	Sim, essa mesma. Ela
+	também é operada por
+	computador!
 	"""
 	keyWait
 	clearMsg
 	"""
-	leaves or whithers.
-	It's a symbol of
-	health for patients.
+	Nunca perde folhas ou
+	murcha. É um símbolo de
+	saúde pros pacientes.
 	"""
 	keyWait
 	clearMsg
@@ -186,8 +185,9 @@ script 9 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	The tree's run by a
-	computer? Wow.
+	A árvore é operada
+	por um computador?
+	Caramba...
 	"""
 	keyWait
 	clearMsg
@@ -201,21 +201,21 @@ script 10 mmbn3 {
 		palette = 2
 	msgOpen
 	"""
-	All this talk's
-	making me thristy.
+	Todo este papo tá
+	me dando uma sede.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Lan,go buy me
-	something to drink.
+	Lan, vá comprar uma
+	bebida pra mim.
 	"""
 	keyWait
 	clearMsg
 	"""
-	You did see the
-	vending machine in
-	the lobby,right?
+	Você viu a máquina de
+	bebidas no saguão, não
+	viu?
 	"""
 	keyWait
 	clearMsg
@@ -227,16 +227,15 @@ script 11 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	What!?
-	Why do I have to buy
-	you a drink!?
+	O quê?!
+	Por que eu tenho que
+	te comprar uma bebida?!
 	"""
 	keyWait
 	clearMsg
 	"""
-	There's nothing
-	wrong with you. Buy
-	one yourself!
+	Você tá perfeitamente
+	saudável. Compra você!
 	"""
 	keyWait
 	clearMsg
@@ -250,15 +249,15 @@ script 12 mmbn3 {
 		palette = 2
 	msgOpen
 	"""
-	How rude! I'm a
-	real patient in a
-	real hospital!
+	Grosso! Eu sou uma paci-
+	ente de verdade neste
+	hospital de verdade!
 	"""
 	keyWait
 	clearMsg
 	"""
-	You should take pity
-	on the injured.
+	Cadê a sua consideração
+	para com os enfermos?
 	"""
 	keyWait
 	clearMsg
@@ -270,9 +269,9 @@ script 13 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	"The injured"!? Oh,
-	forget it. I suppose
-	you want Tea?
+	"Os enfermos"?! Eu...!
+	... Ah, esquece.
+	É Chá que você quer?
 	"""
 	keyWait
 	clearMsg
@@ -286,9 +285,9 @@ script 14 mmbn3 {
 		palette = 2
 	msgOpen
 	"""
-	A girl's got to
-	watch her calories!
-	Tee hee!
+	Uma donzela tem que fi-
+	car de olho nas calorias!
+	Hi hi!
 	"""
 	keyWait
 	clearMsg
@@ -300,8 +299,8 @@ script 15 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Fine. I'll be right
-	back.
+	"Hi hi".
+	Tá bom. Volto já.
 	"""
 	keyWait
 	end

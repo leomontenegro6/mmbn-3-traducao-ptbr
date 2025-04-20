@@ -5,9 +5,9 @@ script 0 mmbn3 {
 		mugshot = Anetta
 	msgOpen
 	"""
-	You!! Destroying
-	nature while you
-	fight the WWW!!
+	Você!! Destruindo a
+	natureza enquanto
+	enfrenta a WWW!!
 	"""
 	keyWait
 	clearMsg
@@ -19,15 +19,15 @@ script 1 mmbn3 {
 		mugshot = PlantMan
 	msgOpen
 	"""
-	That's the one who
-	deleted me while I
-	protected nature.
+	Foi ele quem me deletou
+	enquanto eu protegia
+	a natureza.
 	"""
 	keyWait
 	clearMsg
 	"""
-	He is an incarnation
-	of civilization!
+	Ele é uma encarnação
+	da civilização!
 	"""
 	keyWait
 	clearMsg
@@ -38,13 +38,12 @@ script 2 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"What!?"
+	"Quê?!"
 	keyWait
 	clearMsg
 	"""
-	YOU'RE the ones
-	who want to ruin
-	the Earth!!
+	São VOCÊS que querem
+	arruinar a Terra!!
 	"""
 	keyWait
 	clearMsg
@@ -56,16 +55,15 @@ script 3 mmbn3 {
 		mugshot = MrMatch
 	msgOpen
 	"""
-	Hah! No need to get
-	all hot under the
-	collar!
+	Ha! Não precisa ficar
+	todo esquentadinho.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Thanks for the other
-	day! You really were
-	a help with SciLab!
+	Obrigado por aquele dia.
+	Vocês me ajudaram
+	muito com o SciLab!
 	"""
 	keyWait
 	clearMsg
@@ -77,9 +75,9 @@ script 4 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Match! Have
-	any idea how many
-	people you hurt!?
+	Match! Você tem ideia
+	de quanta gente você
+	machucou?!
 	"""
 	keyWait
 	clearMsg
@@ -91,19 +89,19 @@ script 5 mmbn3 {
 		mugshot = MrMatch
 	msgOpen
 	"""
-	We're just doing
-	our job!
+	Só estávamos fazendo
+	o nosso trabalho!
 	"""
 	keyWait
 	clearMsg
 	"""
-	It doesn't matter
-	how many people
-	are hurt!
+	Não importa quantas
+	pessoas se queimem no
+	processo.
 	"""
 	keyWait
 	clearMsg
-	"Right,Anetta?"
+	"Não é mesmo, Anetta?"
 	keyWait
 	clearMsg
 	flagSet
@@ -116,15 +114,14 @@ script 6 mmbn3 {
 		mugshot = Anetta
 	msgOpen
 	"""
-	Hey,watch that heat!
-	You're going to set
-	PlantMan on fire!
+	Ô, cuidado com o calor!
+	Vai acabar tocando
+	fogo no PlantMan!
 	"""
 	keyWait
 	clearMsg
 	"""
-	But,yeah!
-	You're right!!
+	Mas, sim, você tá certo!!
 	"""
 	keyWait
 	clearMsg
@@ -138,18 +135,20 @@ script 7 mmbn3 {
 		mugshot = PlantMan
 	msgOpen
 	"""
-	MegaMan is a danger.
-	He must be deleted.
+	MegaMan.EXE é uma
+	ameaça. Ele precisa ser
+	deletado.
 	"""
 	keyWait
 	clearMsg
 	"""
-	FlamMan and I will
-	do that right now.
+	O FlameMan e eu
+	vamos fazer isso
+	agora mesmo.
 	"""
 	keyWait
 	clearMsg
-	"Ready,FlamMan?"
+	"Pronto, FlameMan?"
 	keyWait
 	clearMsg
 	jump
@@ -170,19 +169,19 @@ script 9 mmbn3 {
 		mugshot = MrMatch
 	msgOpen
 	"""
-	My heat is fueled by
-	pure passion!!
+	A minha vontade é
+	alimentada pelas chamas
+	da minha paixão!!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Flare away,FlamMan!
-	And let's burn
-	together!!
+	Queime mais, FlameMan!
+	Vamos arder juntos!!
 	"""
 	keyWait
 	clearMsg
-	"Full Synchro!!"
+	"Sincronia Total!!"
 	keyWait
 	end
 }
@@ -191,8 +190,8 @@ script 10 mmbn3 {
 		mugshot = PlantMan
 	msgOpen
 	"""
-	Let us be joined
-	as well,Anetta!!
+	Vamos nos unir também,
+	Anetta!!
 	"""
 	keyWait
 	clearMsg
@@ -203,10 +202,10 @@ script 11 mmbn3 {
 	mugshotShow
 		mugshot = Anetta
 	msgOpen
-	"Of course!!"
+	"Claro!!"
 	keyWait
 	clearMsg
-	"Full Synchro!!"
+	"Sincronia Total!!"
 	keyWait
 	end
 }
@@ -215,9 +214,8 @@ script 12 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Both of them at
-	once!?
-	That's not fair!
+	Os dois juntos?!
+	Que injusto!
 	"""
 	keyWait
 	clearMsg
@@ -229,9 +227,9 @@ script 13 mmbn3 {
 		mugshot = MrMatch
 	msgOpen
 	"""
-	"Not fair"?
-	It's called
-	strategy,boy!
+	"Injusto"?
+	Isso se chama
+	estratégia, moleque!
 	"""
 	keyWait
 	clearMsg
@@ -242,7 +240,7 @@ script 14 mmbn3 {
 	mugshotShow
 		mugshot = Anetta
 	msgOpen
-	"Here we come!!"
+	"Atacar!!"
 	keyWait
 	clearMsg
 	jump
@@ -252,7 +250,7 @@ script 15 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Lan! Watch out!"
+	"Lan! Cuidado!"
 	keyWait
 	clearMsg
 	jump
@@ -263,15 +261,15 @@ script 16 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	We can take them!
+	A gente dá conta deles!
 	MegaMan!
 	"""
 	keyWait
 	clearMsg
-	"Double routine!"
+	"Dupla rotina"
 	waitSkip
 		frames = 30
-	"\nSet!"
+	"\nde batalha...!"
 	keyWait
 	clearMsg
 	jump
@@ -281,7 +279,7 @@ script 17 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Execute!"
+	"Executar!"
 	keyWait
 	end
 }

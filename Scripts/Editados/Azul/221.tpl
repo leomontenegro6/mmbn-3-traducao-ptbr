@@ -4,7 +4,7 @@ script 0 mmbn3 {
 	mugshotShow
 		mugshot = Ray
 	msgOpen
-	"I have returned."
+	"Estou de volta."
 	keyWait
 	clearMsg
 	jump
@@ -12,7 +12,10 @@ script 0 mmbn3 {
 }
 script 1 mmbn3 {
 	mugshotHide
-	"And? Did you get it?"
+	"""
+	E então?
+	Conseguiu adquiri-lo?
+	"""
 	keyWait
 	clearMsg
 	jump
@@ -22,7 +25,7 @@ script 2 mmbn3 {
 	mugshotShow
 		mugshot = Ray
 	msgOpen
-	"As you commanded."
+	"Como o senhor ordenou."
 	keyWait
 	end
 }
@@ -30,7 +33,7 @@ script 3 mmbn3 {
 	mugshotShow
 		mugshot = Ray
 	msgOpen
-	"Here it is,my lord."
+	"Aqui está, milorde."
 	keyWait
 	end
 }
@@ -38,23 +41,22 @@ script 4 mmbn3 {
 	mugshotShow
 		mugshot = LordWily
 	msgOpen
-	"Heh heh heh…"
+	"He he he…"
 	wait
 		frames = 16
-	"\nHah hah hah hah!"
+	"\nHaaa ha ha ha!"
 	keyWait
 	clearMsg
 	"""
-	This time there is
-	no way my plan will
-	fail!
+	Desta vez, não há como
+	o meu plano falhar!
 	"""
 	keyWait
 	clearMsg
 	"""
-	We are…
-	Different from
-	before!
+	Agora, somos...
+	diferentes de como
+	éramos antes!
 	"""
 	keyWait
 	clearMsg
@@ -66,9 +68,8 @@ script 5 mmbn3 {
 		mugshot = Ray
 	msgOpen
 	"""
-	With your leave,
-	I shall make my
-	departure now!
+	Com sua licença, irei me
+	retirar agora, senhor.
 	"""
 	keyWait
 	end
@@ -77,7 +78,7 @@ script 6 mmbn3 {
 	mugshotShow
 		mugshot = LordWily
 	msgOpen
-	"Next,it's your turn…"
+	"Agora, é a sua vez..."
 	keyWait
 	clearMsg
 	jump
@@ -88,9 +89,9 @@ script 7 mmbn3 {
 		mugshot = Inukai
 	msgOpen
 	"""
-	I will do all that I
-	can to destroy that
-	which you hate most!
+	Farei todo o possível
+	para destruir aquilo que
+	o senhor mais odeia!
 	"""
 	keyWait
 	clearMsg
@@ -101,7 +102,7 @@ script 8 mmbn3 {
 	mugshotShow
 		mugshot = LordWily
 	msgOpen
-	"And that would be…?"
+	"Que seria...?"
 	keyWait
 	clearMsg
 	jump
@@ -112,8 +113,7 @@ script 9 mmbn3 {
 		mugshot = Inukai
 	msgOpen
 	"""
-	Human "love",
-	my lord!
+	O "amor" humano, milorde!
 	"""
 	keyWait
 	clearMsg
@@ -126,10 +126,10 @@ script 10 mmbn3 {
 	mugshotShow
 		mugshot = LordWily
 	msgOpen
-	"Hah hah hah!"
+	"Ha ha ha!"
 	wait
 		frames = 16
-	"\nMuwah hah hah hah!"
+	"\nGaa ha ha haa!"
 	keyWait
 	end
 }

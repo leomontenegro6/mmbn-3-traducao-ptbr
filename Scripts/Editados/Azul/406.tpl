@@ -4,7 +4,7 @@ script 0 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Mom!!"
+	"Mamãe!!"
 	keyWait
 	clearMsg
 	jump
@@ -24,7 +24,7 @@ script 2 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Have you found dad!?"
+	"Achou o papai?!"
 	keyWait
 	clearMsg
 	jump
@@ -34,17 +34,16 @@ script 3 mmbn3 {
 	mugshotShow
 		mugshot = Mom
 	msgOpen
-	"No,not yet…"
+	"Não, ainda não..."
 	keyWait
 	clearMsg
 	"""
-	And it's almost time
-	for him to take
-	his medication!
+	E já está quase na
+	hora do remédio dele!
 	"""
 	keyWait
 	clearMsg
-	"Oh,what shall we do?"
+	"Ai, o que faremos?"
 	keyWait
 	clearMsg
 	jump
@@ -54,7 +53,7 @@ script 4 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Medication?"
+	"Remédio?"
 	keyWait
 	clearMsg
 	jump
@@ -65,23 +64,22 @@ script 5 mmbn3 {
 		mugshot = Mom
 	msgOpen
 	"""
-	Yes,your father has
-	been taking pain
-	medicine every day…
+	Sim, o seu pai tem
+	tomado um remédio para
+	a dor todos os dias...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Without it,he isn't
-	able to even get up
-	out of bed!
+	Sem ele, ele nem
+	consegue sair da cama!
 	"""
 	keyWait
 	clearMsg
 	"""
-	But he's run off
-	somewhere without
-	taking it!
+	E, ainda assim, ele saiu
+	pra algum lugar sem
+	tomar!
 	"""
 	keyWait
 	clearMsg
@@ -93,13 +91,13 @@ script 6 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	So,if the effects of
-	his last dose
-	run out…
+	Então, se os efeitos da
+	última dose dele
+	passarem...
 	"""
 	keyWait
 	clearMsg
-	"Oh,no!!"
+	"Ai, não!!"
 	keyWait
 	clearMsg
 	jump
@@ -111,7 +109,8 @@ script 7 mmbn3 {
 	msgOpen
 	"""
 	Lan!
-	We have to find dad!
+	A gente tem que achar
+	o papai!
 	"""
 	keyWait
 	clearMsg
@@ -123,9 +122,9 @@ script 8 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	But we have no
-	clue where he could
-	be!
+	Mas a gente não tem
+	nenhuma pista de onde
+	ele pode estar!
 	"""
 	keyWait
 	clearMsg
@@ -137,15 +136,16 @@ script 9 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Well,let's start by
-	searching this room,
-	top to bottom!
+	Bom, vamos começar
+	vasculhando este
+	quarto de cima a baixo!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Maybe we can find
-	some sort of clue!
+	Talvez a pista de que a
+	gente precisa esteja
+	por aqui!
 	"""
 	keyWait
 	clearMsg
@@ -156,13 +156,13 @@ script 10 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"OK!"
+	"Tá bom!"
 	keyWait
 	clearMsg
 	"""
-	Mom,don't worry!
-	I promise that I'll
-	find dad!
+	Não se preocupa, mamãe!
+	Eu prometo que vou
+	achar o papai!
 	"""
 	keyWait
 	clearMsg
@@ -173,13 +173,13 @@ script 11 mmbn3 {
 	mugshotShow
 		mugshot = Mom
 	msgOpen
-	"Lan…"
+	"Lan..."
 	keyWait
 	clearMsg
 	"""
-	Oh,here! Take this!
-	It's your father's
-	pain medication!
+	Ah, aqui! Tome!
+	É o remédio para a dor
+	do seu pai!
 	"""
 	keyWait
 	clearMsg
@@ -194,7 +194,7 @@ script 12 mmbn3 {
 	soundPlay
 		track = 133
 	"""
-	Lan got:
+	Lan adquiriu:
 	"
 	"""
 	printItem
@@ -213,9 +213,9 @@ script 13 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Come on,MegaMan!
-	Let's look
-	for clues!
+	Vamos, MegaMan!
+	Hora de procurar por
+	pistas!
 	"""
 	keyWait
 	clearMsg
@@ -226,7 +226,7 @@ script 14 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Roger!"
+	"Vamos lá!"
 	keyWait
 	end
 }

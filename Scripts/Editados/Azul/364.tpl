@@ -5,16 +5,15 @@ script 0 mmbn3 {
 		mugshot = MrMatch
 	msgOpen
 	"""
-	This is live footage
-	from the hidden
-	camera I placed in
+	Estas são imagens ao
+	vivo da câmera que eu
+	escondi no SciLab.
 	"""
 	keyWait
 	clearMsg
 	"""
-	SciLab. What do you
-	think? Pretty clear,
-	huh?
+	O que achou?
+	Bem claras, né?
 	"""
 	keyWait
 	clearMsg
@@ -26,15 +25,15 @@ script 1 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Dad!!
-	Match! I'm going
-	to make you pay for
+	Papai!!
+	Match...! Eu vou te
+	fazer pagar por isso,
 	"""
 	keyWait
 	clearMsg
 	"""
-	this if it's the
-	last thing I do!!
+	nem que seja a última
+	coisa que eu faça!!
 	"""
 	keyWait
 	clearMsg
@@ -46,16 +45,16 @@ script 2 mmbn3 {
 		mugshot = MrMatch
 	msgOpen
 	"""
-	Relax,it looks like
-	pops is still
-	breathing.
+	Relaxe, parece que o
+	seu paizão ainda está
+	respirando.
 	"""
 	keyWait
 	clearMsg
 	"""
-	You'd better hurry
-	though,he doesn't
-	look so cold! Ha ha!
+	Mas é bom correr, ele
+	não parece estar com
+	a cabeça fria! Ha ha!
 	"""
 	keyWait
 	clearMsg
@@ -67,12 +66,12 @@ script 3 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Hurry,MegaMan! Find
-	FlamMan!
+	Rápido, MegaMan!
+	Encontra o FlameMan!
 	"""
 	keyWait
 	clearMsg
-	"He's in Undernet 3!"
+	"Ele tá em Undernet 3!"
 	keyWait
 	clearMsg
 	jump
@@ -82,7 +81,7 @@ script 4 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Right!"
+	"Tá!"
 	keyWait
 	end
 }

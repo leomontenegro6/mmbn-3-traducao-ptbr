@@ -6,14 +6,14 @@ script 0 mmbn3 {
 	soundPlay
 		track = 301
 	"""
-	Your Guts Style
-	has advanced to LV2!
+	O seu Estilo Guts
+	avançou para o NV2!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Lan got a
-	NaviCust program:
+	Lan adquiriu um
+	programa do CustNavi:
 	"
 	"""
 	printNaviCustProgram
@@ -35,14 +35,14 @@ script 1 mmbn3 {
 	soundPlay
 		track = 301
 	"""
-	Your Guts Style
-	has advanced to LV3!
+	O seu Estilo Guts
+	avançou para o NV3!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Lan got a
-	NaviCust program:
+	Lan adquiriu um
+	programa do CustNavi:
 	"
 	"""
 	printNaviCustProgram
@@ -64,15 +64,15 @@ script 2 mmbn3 {
 	soundPlay
 		track = 301
 	"""
-	Your Guts Style
-	has advanced to LV4!
-	(Max)
+	O seu Estilo Guts
+	avançou para o NV4!
+	(Máx)
 	"""
 	keyWait
 	clearMsg
 	"""
-	Lan got a
-	NaviCust program:
+	Lan adquiriu um
+	programa do CustNavi:
 	"
 	"""
 	printNaviCustProgram
@@ -94,14 +94,14 @@ script 8 mmbn3 {
 	soundPlay
 		track = 301
 	"""
-	Your Custom Style
-	has advanced to LV2!
+	O seu Estilo Custom
+	avançou para o NV2!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Lan got a
-	NaviCust program:
+	Lan adquiriu um
+	programa do CustNavi:
 	"
 	"""
 	printNaviCustProgram
@@ -123,14 +123,14 @@ script 9 mmbn3 {
 	soundPlay
 		track = 301
 	"""
-	Your Custom Style
-	has advanced to LV3!
+	O seu Estilo Custom
+	avançou para o NV3!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Lan got a
-	NaviCust program:
+	Lan adquiriu um
+	programa do CustNavi:
 	"
 	"""
 	printNaviCustProgram
@@ -152,15 +152,15 @@ script 10 mmbn3 {
 	soundPlay
 		track = 301
 	"""
-	Your Custom Style
-	has advanced to LV4!
-	(Max)
+	O seu Estilo Custom
+	avançou para o NV4!
+	(Máx)
 	"""
 	keyWait
 	clearMsg
 	"""
-	Lan got a
-	NaviCust program:
+	Lan adquiriu um
+	programa do CustNavi:
 	"
 	"""
 	printNaviCustProgram
@@ -182,14 +182,14 @@ script 16 mmbn3 {
 	soundPlay
 		track = 301
 	"""
-	Your Team Style
-	has advanced to LV2!
+	O seu Estilo Team
+	avançou para o NV2!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Lan got a
-	NaviCust program:
+	Lan adquiriu um
+	programa do CustNavi:
 	"
 	"""
 	printNaviCustProgram
@@ -211,14 +211,14 @@ script 17 mmbn3 {
 	soundPlay
 		track = 301
 	"""
-	Your Team Style
-	has advanced to LV3!
+	O seu Estilo Team
+	avançou para o NV3!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Lan got a
-	NaviCust program:
+	Lan adquiriu um
+	programa do CustNavi:
 	"
 	"""
 	printNaviCustProgram
@@ -240,15 +240,15 @@ script 18 mmbn3 {
 	soundPlay
 		track = 301
 	"""
-	Your Team Style
-	has advanced to LV4!
-	(Max)
+	O seu Estilo Team
+	avançou para o NV4!
+	(Máx)
 	"""
 	keyWait
 	clearMsg
 	"""
-	Lan got a
-	NaviCust program:
+	Lan adquiriu um
+	programa do CustNavi:
 	"
 	"""
 	printNaviCustProgram
@@ -270,14 +270,14 @@ script 24 mmbn3 {
 	soundPlay
 		track = 301
 	"""
-	Your Shield Style
-	has advanced to LV2!
+	O seu Estilo Shield
+	avançou para o NV2!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Lan got a
-	NaviCust program:
+	Lan adquiriu um
+	programa do CustNavi:
 	"
 	"""
 	printNaviCustProgram
@@ -299,14 +299,14 @@ script 25 mmbn3 {
 	soundPlay
 		track = 301
 	"""
-	Your Shield Style
-	has advanced to LV3!
+	O seu Estilo Shield
+	avançou para o NV3!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Lan got a
-	NaviCust program:
+	Lan adquiriu um
+	programa do CustNavi:
 	"
 	"""
 	printNaviCustProgram
@@ -328,15 +328,15 @@ script 26 mmbn3 {
 	soundPlay
 		track = 301
 	"""
-	Your Shield Style
-	has advanced to LV4!
-	(Max)
+	O seu Estilo Shield
+	avançou para o NV4!
+	(Máx)
 	"""
 	keyWait
 	clearMsg
 	"""
-	Lan got a
-	NaviCust program:
+	Lan adquiriu um
+	programa do CustNavi:
 	"
 	"""
 	printNaviCustProgram
@@ -358,14 +358,14 @@ script 32 mmbn3 {
 	soundPlay
 		track = 301
 	"""
-	Your Ground Style
-	has advanced to LV2!
+	O seu Estilo Ground
+	avançou para o NV2!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Lan got a
-	NaviCust program:
+	Lan adquiriu um
+	programa do CustNavi:
 	"
 	"""
 	printNaviCustProgram
@@ -387,14 +387,14 @@ script 33 mmbn3 {
 	soundPlay
 		track = 301
 	"""
-	Your Ground Style
-	has advanced to LV3!
+	O seu Estilo Ground
+	avançou para o NV3!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Lan got a
-	NaviCust program:
+	Lan adquiriu um
+	programa do CustNavi:
 	"
 	"""
 	printNaviCustProgram
@@ -416,14 +416,14 @@ script 34 mmbn3 {
 	soundPlay
 		track = 301
 	"""
-	Your Ground Style
-	has advanced to LV4!
+	O seu Estilo Ground
+	avançou para o NV4!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Lan got a
-	NaviCust program:
+	Lan adquiriu um
+	programa do CustNavi:
 	"
 	"""
 	printNaviCustProgram
@@ -445,15 +445,15 @@ script 35 mmbn3 {
 	soundPlay
 		track = 301
 	"""
-	Your Ground Style
-	has advanced to LV5!
-	(Max)
+	O seu Estilo Ground
+	avançou para o NV5!
+	(Máx)
 	"""
 	keyWait
 	clearMsg
 	"""
-	Lan got a
-	NaviCust program:
+	Lan adquiriu um
+	programa do CustNavi:
 	"
 	"""
 	printNaviCustProgram
@@ -475,14 +475,14 @@ script 40 mmbn3 {
 	soundPlay
 		track = 301
 	"""
-	Your Shadow Style
-	has advanced to LV2!
+	O seu Estilo Shadow
+	avançou para o NV2!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Lan got a
-	NaviCust program:
+	Lan adquiriu um
+	programa do CustNavi:
 	"
 	"""
 	printNaviCustProgram
@@ -504,14 +504,14 @@ script 41 mmbn3 {
 	soundPlay
 		track = 301
 	"""
-	Your Shadow Style
-	has advanced to LV3!
+	O seu Estilo Shadow
+	avançou para o NV3!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Lan got a
-	NaviCust program:
+	Lan adquiriu um
+	programa do CustNavi:
 	"
 	"""
 	printNaviCustProgram
@@ -533,15 +533,15 @@ script 42 mmbn3 {
 	soundPlay
 		track = 301
 	"""
-	Your Shadow Style
-	has advanced to LV4!
-	(Max)
+	O seu Estilo Shadow
+	avançou para o NV4!
+	(Máx)
 	"""
 	keyWait
 	clearMsg
 	"""
-	Lan got a
-	NaviCust program:
+	Lan adquiriu um
+	programa do CustNavi:
 	"
 	"""
 	printNaviCustProgram
@@ -563,14 +563,14 @@ script 48 mmbn3 {
 	soundPlay
 		track = 301
 	"""
-	Your Bug Style
-	has advanced to LV2!
+	O seu Estilo Bug
+	avançou para o NV2!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Lan got a
-	NaviCust program:
+	Lan adquiriu um
+	programa do CustNavi:
 	"
 	"""
 	printNaviCustProgram
@@ -592,15 +592,15 @@ script 49 mmbn3 {
 	soundPlay
 		track = 301
 	"""
-	Your Bug Style
-	has advanced to LV3!
-	(Max)
+	O seu Estilo Bug
+	avançou para o NV3!
+	(Máx)
 	"""
 	keyWait
 	clearMsg
 	"""
-	Lan got a
-	NaviCust program:
+	Lan adquiriu um
+	programa do CustNavi:
 	"
 	"""
 	printNaviCustProgram
@@ -617,7 +617,7 @@ script 49 mmbn3 {
 		target = 57
 }
 script 56 mmbn3 {
-	"Keep this style?\n"
+	"Manter este estilo?\n"
 	option
 		left = 0
 		right = 0
@@ -625,7 +625,7 @@ script 56 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Keep advancing!\n"
+	"   Manter!\n"
 	option
 		left = 1
 		right = 1
@@ -633,7 +633,7 @@ script 56 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"New style!"
+	"   Estilo novo!"
 	select
 		default = 0
 		BSeparate = false
@@ -651,9 +651,9 @@ script 57 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Guess I mastered
-	that style…Time
-	to find a new one!
+	Acho que a gente domi-
+	nou esse estilo! Hora de
+	arranjar um novo!
 	"""
 	keyWait
 	clearMsg

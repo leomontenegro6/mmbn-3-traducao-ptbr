@@ -3,7 +3,7 @@
 script 0 mmbn3 {
 	mugshotHide
 	msgOpen
-	"One hour later…"
+	"Uma hora depois..."
 	keyWait
 	end
 }
@@ -11,7 +11,7 @@ script 1 mmbn3 {
 	mugshotShow
 		mugshot = Yai
 	msgOpen
-	"It's getting late."
+	"Tá ficando tarde, né?"
 	keyWait
 	clearMsg
 	jump
@@ -22,9 +22,9 @@ script 2 mmbn3 {
 		mugshot = Glide
 	msgOpen
 	"""
-	It's getting late,
-	everyone,so let's
-	call it a night.
+	A madrugada se aproxi-
+	ma, amigos. Acho melhor
+	encerrarmos por hoje.
 	"""
 	keyWait
 	clearMsg
@@ -36,8 +36,8 @@ script 3 mmbn3 {
 		mugshot = Roll
 	msgOpen
 	"""
-	Look at the time!
-	It's time for bed.
+	Nossa, olha a hora!
+	Já é hora de dormir.
 	"""
 	keyWait
 	clearMsg
@@ -49,9 +49,8 @@ script 4 mmbn3 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	By the way,Lan and
-	Dex,did you do your
-	homework?
+	Aliás, Lan, Dex, vocês
+	fizeram a lição de casa?
 	"""
 	keyWait
 	clearMsg
@@ -62,7 +61,7 @@ script 5 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Ack!"
+	"Acgh!"
 	keyWait
 	clearMsg
 	jump
@@ -73,8 +72,8 @@ script 6 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I'm sorry,Lan!
-	I forgot,too…
+	Desculpa, Lan!
+	Eu também esqueci...
 	"""
 	keyWait
 	clearMsg
@@ -86,9 +85,8 @@ script 7 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Hey,no problem! This
-	assignment's a piece
-	of cake!
+	Ei, de boa! Essa tarefa
+	é molezinha!
 	"""
 	keyWait
 	clearMsg
@@ -99,7 +97,7 @@ script 8 mmbn3 {
 	mugshotShow
 		mugshot = Dex
 	msgOpen
-	"Agh!!"
+	"Acgggh!!"
 	keyWait
 	clearMsg
 	jump
@@ -110,8 +108,8 @@ script 9 mmbn3 {
 		mugshot = GutsMan
 	msgOpen
 	"""
-	Dex…?
-	Are you okay?
+	Dex...?
+	Tudo bem contigo, Guts?
 	"""
 	keyWait
 	flagSet
@@ -123,8 +121,8 @@ script 10 mmbn3 {
 		mugshot = Dex
 	msgOpen
 	"""
-	My disk!
-	I left it at school!
+	O meu CD!
+	Eu deixei na escola!
 	"""
 	keyWait
 	clearMsg
@@ -136,9 +134,9 @@ script 11 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Guess you'll be on
-	toilet-cleaning
-	duty tomorrow,Dex!
+	Acho que já sabemos
+	quem vai limpar as pri-
+	vadas amanhã! Ha ha!
 	"""
 	keyWait
 	clearMsg
@@ -150,8 +148,8 @@ script 12 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Don't make him feel
-	any worse,Lan!
+	Não cutuca a ferida,
+	Lan!
 	"""
 	keyWait
 	clearMsg
@@ -163,8 +161,7 @@ script 13 mmbn3 {
 		mugshot = GutsMan
 	msgOpen
 	"""
-	Dex! Let's go and
-	get a disk!
+	Dex! Bora lá pegar o CD!
 	"""
 	keyWait
 	clearMsg
@@ -176,13 +173,13 @@ script 14 mmbn3 {
 		mugshot = Yai
 	msgOpen
 	"""
-	You mean,go into the
-	school? At night?
-	Sounds kinda fun!
+	Como assim? Tipo, ir na
+	escola? À noite?
+	... Parece divertido!
 	"""
 	keyWait
 	clearMsg
-	"Take me,too!"
+	"Posso ir com vocês?!"
 	keyWait
 	clearMsg
 	jump
@@ -193,9 +190,9 @@ script 15 mmbn3 {
 		mugshot = Glide
 	msgOpen
 	"""
-	Please reconsider,
-	Miss Yai! It's too
-	dangerous!
+	Por favor, reconsidere,
+	srta. Yai! É perigoso
+	demais!
 	"""
 	keyWait
 	clearMsg
@@ -207,9 +204,9 @@ script 16 mmbn3 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	I want to go,too! I
-	always wanted to see
-	the school at night!
+	Eu também quero ir!
+	Sempre quis ver como
+	a escola é à noite!
 	"""
 	keyWait
 	clearMsg
@@ -221,9 +218,9 @@ script 17 mmbn3 {
 		mugshot = Roll
 	msgOpen
 	"""
-	I'm so excited!
-	What if we see a
-	ghost?!
+	Hi hi, tô tão animada!
+	E se a gente achar um
+	fantasma?!
 	"""
 	keyWait
 	clearMsg
@@ -235,8 +232,8 @@ script 18 mmbn3 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	Don't scare me,
-	Roll! I'm serious!
+	Ai, não me assusta, Roll!
+	Eu tô falando sério!
 	"""
 	keyWait
 	clearMsg
@@ -248,8 +245,8 @@ script 19 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Well,I guess I'm
-	going,too!
+	Bom, acho que eu também
+	vou, então!
 	"""
 	keyWait
 	clearMsg
@@ -261,8 +258,8 @@ script 20 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	What about your
-	homework,Lan?
+	E a sua lição de casa,
+	Lan?
 	"""
 	keyWait
 	clearMsg
@@ -274,9 +271,9 @@ script 21 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Aw,don't be such a
-	pessimist! It'll be
-	fine.
+	Ah, sai pra lá com esse
+	pessimismo! Vai ficar tudo
+	bem.
 	"""
 	keyWait
 	clearMsg
@@ -288,9 +285,8 @@ script 22 mmbn3 {
 		mugshot = Dex
 	msgOpen
 	"""
-	H-Hey! I didn't say
-	I was going over
-	there!
+	E-ei! Eu não concordei
+	em ir lá!
 	"""
 	keyWait
 	clearMsg
@@ -302,14 +298,14 @@ script 23 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	What's wrong,Dex?
-	Don't be a wimp!
+	Que foi, Dex?
+	Não seja mole!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Or are you…
-	Scared of ghosts?
+	Ou será que você...
+	tem medo de fantasma?
 	"""
 	keyWait
 	clearMsg
@@ -321,9 +317,9 @@ script 24 mmbn3 {
 		mugshot = GutsMan
 	msgOpen
 	"""
-	Dex isn't afraid of
-	anything! Bravery
-	is his middle name!
+	O Dex não tem medo de
+	nada, Guts! Ele é
+	coragem pura!
 	"""
 	keyWait
 	clearMsg
@@ -335,9 +331,9 @@ script 25 mmbn3 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Uh…That's right! So
-	l-let's m-m-meet in
-	front of the school!
+	Er... É, isso aí! E-então,
+	n-nos e-e-encontramos
+	na f-frente d-da escola!
 	"""
 	keyWait
 	clearMsg
@@ -348,7 +344,7 @@ script 26 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Let's go,MegaMan!"
+	"Vamos lá, MegaMan!"
 	keyWait
 	clearMsg
 	jump
@@ -359,8 +355,8 @@ script 27 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I'm worried about
-	your homework,Lan!
+	Ainda preocupado com a
+	sua lição de casa, Lan...
 	"""
 	keyWait
 	end

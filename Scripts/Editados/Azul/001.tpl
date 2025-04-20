@@ -16,9 +16,9 @@ script 10 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	My style's changed,
-	so I'll start the
-	Navi Customizer!
+	O meu estilo mudou,
+	então abrirei o Cus-
+	tomizador de Navi!
 	"""
 	keyWait
 	waitHold
@@ -28,9 +28,9 @@ script 11 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I can't use the
-	current folder now,
-	so I'm switching!
+	Não posso usar a
+	pasta atual agora.
+	Trocando pra outra!
 	"""
 	keyWait
 	end
@@ -48,7 +48,8 @@ script 20 mmbn3 {
 		item = 114
 	"""
 	"
-	just expired!
+	deixou de ter
+	efeito!
 	"""
 	keyWait
 	end
@@ -66,7 +67,8 @@ script 21 mmbn3 {
 		item = 116
 	"""
 	"
-	just expired!
+	deixou de ter
+	efeito!
 	"""
 	keyWait
 	end

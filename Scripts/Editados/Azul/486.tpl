@@ -14,23 +14,24 @@ script 0 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	Hello,everyone! My
-	name's Cartan,and I
-	oversee ACDC Square.
+	Oi, gente! O meu nome
+	é Cartan, eu gerencio
+	o ACDC Plaza.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I am pleased to
-	announce we now have
-	a Battle Board! No
+	E é um imenso prazer
+	anunciar que, agora,
+	temos um Fórum de Luta!
+	
 	"""
 	keyWait
 	clearMsg
 	"""
-	matter what your
-	skill,feel free to
-	post messages!
+	Não importa seu nível
+	de habilidade, fique à
+	vontade para postar!
 	"""
 	keyWait
 	waitHold
@@ -49,59 +50,58 @@ script 1 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	Hi,I'm Kitager. Wow!
-	A board for battle
-	information! I'm not
+	Oi, eu sou o Kitago.
+	Caramba! Um fórum pra
+	informações de luta!
 	"""
 	keyWait
 	clearMsg
 	"""
-	good at virus
-	busting,but I'll try
-	to contribute to it!
+	Eu não sou incrível em
+	lutar contra vírus, mas
+	vou tentar contribuir!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'll start off by
-	telling you what my
-	RegularChip is.
+	Pra começar, vou
+	contar pra vocês qual
+	é o meu Chip Padrão.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Actually,I'm using
-	an 
+	Agora, eu estou usando
+	um 
 	"""
 	printChip
 		buffer = 0
 		chip = 4
 	"""
-	. Its *
-	code lets it join
+	. O código *
+	dele facilita combiná-lo
 	"""
 	keyWait
 	clearMsg
 	"""
-	with other chips. It
-	shoots through
-	
+	com outros chips. Ele
+	atravessa 	
 	"""
 	printEnemyName
 		buffer = 0
 		enemy = 5
-	"s,allowing"
+	"s,\nme permitindo"
 	keyWait
 	clearMsg
 	"""
-	me to double delete
-	them with a
+	fazer uma deleção dupla
+	neles com um
 	
 	"""
 	printChip
 		buffer = 0
 		chip = 10
-	" or "
+	" ou "
 	printChip
 		buffer = 0
 		chip = 11
@@ -122,7 +122,7 @@ script 2 mmbn3 {
 		top = 100
 	msgOpenInvisible
 		unused = 12
-	"How to beat "
+	"Como vence o "
 	printEnemyName
 		buffer = 0
 		enemy = 139
@@ -144,77 +144,77 @@ script 3 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	Hi,Beltz!
-	About your message,
-	for common courtesy
+	Oi, Beltz!
+	Então, sua postagem...
+	Por favor, em prol da
 	"""
 	keyWait
 	clearMsg
 	"""
-	please try to write
-	a little more when
-	posting. It also
+	etiqueta daqui, tente
+	escrever um pouco mais
+	ao postar. Também ajuda
 	"""
 	keyWait
 	clearMsg
 	"""
-	helps to include a
-	title,so others know
-	what your post is
+	incluir um título, pros
+	outros saberem sobre o
+	que é a sua postagem.
 	"""
 	keyWait
 	clearMsg
 	"""
-	about. Your question
-	was a little crude
-	as well.
+	E a sua pergunta
+	também foi meio curta
+	e grossa demais.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Using polite
-	language is proper
-	etiquette on the Net
+	Usar uma linguagem
+	mais polida também é
+	etiqueta na Rede,
 	"""
 	keyWait
 	clearMsg
 	"""
-	since you don't know
-	the other users. We
-	call it Netiquette!
+	já que você não conhece
+	os outros usuários.
+	É, tipo... "Netiqueta"!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Let me guess,you're
-	an elementary school
-	student,right?
+	Se eu fosse chutar...
+	diria que você tá no
+	fundamental, né?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Please be careful!
-	Now,about 
+	Por favor, mais cuidado!
+	Mas, tá,  
 	"""
 	printEnemyName
 		buffer = 0
 		enemy = 139
 	"""
-	s,
-	sorry! I don't know
+	s...
+	foi mal! Também não sei
 	"""
 	keyWait
 	clearMsg
 	"""
-	how to beat them
-	either! I wish I
-	could help you out.
+	como derrotá-los!
+	Bem que eu queria
+	poder te ajudar.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Can anyone offer
-	some advice?!
+	Alguém aí tem macetes
+	pra oferecer?!
 	"""
 	keyWait
 	waitHold
@@ -233,8 +233,8 @@ script 4 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	Whaddup all?
-	Koetsu in da house!
+	Fala, galera!
+	Koetsu na área!
 	"""
 	keyWait
 	clearMsg
@@ -242,36 +242,36 @@ script 4 mmbn3 {
 		buffer = 0
 		enemy = 139
 	"""
-	s are
-	tricky li'l devils.
+	s são uns
+	trocinhos chatinhos.
 	"""
 	keyWait
 	clearMsg
 	"""
-	What you gotta do
-	is,get right up in
-	their faces!
+	A chave aqui é...
+	chegar bem perto
+	deles!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Then,when they stop
-	to fire off a shot
-	at you,back up a
+	Aí, quando eles
+	pararem pra disparar
+	em você, recue em um
 	"""
 	keyWait
 	clearMsg
 	"""
-	square and…Bam!
-	Right in the kisser!
-	If they shoot while
+	quadro e... Pôu!
+	Bem na cara do infeliz!
+	E se ele disparar
 	"""
 	keyWait
 	clearMsg
 	"""
-	you're in the center
-	just go around with
-	the electricity!
+	enquanto estiver no
+	centro, é só rodar
+	no choquinho!
 	"""
 	keyWait
 	waitHold
@@ -290,21 +290,21 @@ script 5 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	Bravo,Koetsu!
+	Bravo, Koetsu!
 	Bravo!!
 	"""
 	keyWait
 	clearMsg
 	"""
-	How about it,Beltz?
-	Did that answer your
-	question?
+	E aí, Beltz?
+	Respondeu à sua
+	pergunta?
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'm going to try
-	this out myself!
+	Eu também vou tentar
+	isso!
 	"""
 	keyWait
 	waitHold
@@ -323,58 +323,58 @@ script 6 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	Hi,it's Beltz again.
-	I apologize for not
-	being polite,Cartan.
+	Oi, é o Beltz, de novo.
+	Desculpa pela falta de
+	educação, Cartan.
 	"""
 	keyWait
 	clearMsg
 	"""
-	As you guessed,I'm
-	a schoolboy. Thank
-	you so much for your
+	Você acertou, sou um
+	estudante. Obrigado
+	pela ajuda, Koetsu!
 	"""
 	keyWait
 	clearMsg
 	"""
-	help,Koetsu! I hope
-	I can become as good
-	as you someday!
+	Espero me tornar tão
+	bom quanto você, um
+	dia!
 	"""
 	keyWait
 	clearMsg
 	"""
-	To show my gratitude
-	I'll share some
-	information as well.
+	Pra mostrar minha
+	gratidão, vou dar umas
+	informações, também.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I hear a new program
-	called a Navi
-	Customizer is coming
+	Ouvi que um novo
+	programa chamado
+	Customizador de Navi
 	"""
 	keyWait
 	clearMsg
 	"""
-	out. They say it's
-	a system the Virus
-	Lab developed for
+	tá pra sair. Dizem
+	que o SciLab o fez
+	para instalar em PETs.
 	"""
 	keyWait
 	clearMsg
 	"""
-	PETs that lets you
-	customize your
-	Navi's abilities!
+	Ele permite que você
+	customize as habilida-
+	des do seu Navi!
 	"""
 	keyWait
 	clearMsg
 	"""
-	You know I'll be
-	there when that hits
-	the shelves!
+	Podem apostar que eu
+	vou estar na fila
+	quando lançarem!
 	"""
 	keyWait
 	waitHold
@@ -393,30 +393,29 @@ script 7 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	That sounds cool!
-	I can't wait to
-	install one!
+	Parece muito da hora!
+	Mal posso esperar
+	pra instalar!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I wish my parents
-	worked at the Virus
-	Lab. Then I could
+	Queria que os meus
+	pais trabalhassem
+	no SciLab. Aí, aposto
 	"""
 	keyWait
 	clearMsg
 	"""
-	probably get my
-	hands on one before
-	they came out!
+	que eu conseguiria um
+	antes de chegarem nas
+	lojas!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Oh well. That's just
-	wishful thinking,I
-	guess. Ha ha!
+	Bom... "sonhar é de
+	graça", né? Ha ha!
 	"""
 	keyWait
 	waitHold
@@ -435,24 +434,24 @@ script 8 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	After school today,I
-	ran straight to the
-	program shop in
+	Hoje, depois da escola,
+	eu fui direto pra loja
+	de programas no
 	"""
 	keyWait
 	clearMsg
 	"""
-	Yoka Square and got
-	a Navi Customizer!
-	The other programs
+	Yoka Plaza e comprei um
+	Customizador de Navi!
+	Os outros programas
 	"""
 	keyWait
 	clearMsg
-	"on sale were\n"
+	"à venda eram\n"
 	printNaviCustProgram
 		buffer = 0
 		program = 36
-	","
+	" ,"
 	printNaviCustProgram
 		buffer = 0
 		program = 41
@@ -460,24 +459,24 @@ script 8 mmbn3 {
 	printNaviCustProgram
 		buffer = 0
 		program = 43
-	"…"
+	"..."
 	keyWait
 	clearMsg
 	"""
-	and a couple more
-	I can't remember.
+	e uns outros aí que
+	eu não lembro.
 	"""
 	keyWait
 	clearMsg
 	"""
-	The programs I
-	bought with it were
+	Os programas que eu
+	comprei com ele foram
 	
 	"""
 	printNaviCustProgram
 		buffer = 0
 		program = 36
-	" and"
+	" e"
 	keyWait
 	clearMsg
 	printNaviCustProgram
@@ -489,25 +488,25 @@ script 8 mmbn3 {
 		program = 36
 	"""
 	
-	was a hot seller.
-	I got the last one.
+	estão vendendo bem.
+	Peguei o último.
 	"""
 	keyWait
 	clearMsg
-	"I wanted a\n"
+	"Eu também queria um\n"
 	printNaviCustProgram
 		buffer = 0
 		program = 41
 	"""
-	 too
-	but ran out of cash.
+	, mas acabou o
+	meu dinheiro.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'll just have to
-	wait for my next
-	birthday to get one!
+	Vou ter que esperar
+	até o meu próximo ani-
+	versário pra comprar!
 	"""
 	keyWait
 	waitHold
@@ -526,29 +525,29 @@ script 9 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	Hey Y'all! Dex here!
-	I got a Navi
-	Customizer,too!
+	Fala, galera! Dex na
+	área! Eu também comprei
+	um Customizador de Navi!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I already customized
-	GutsMan. Now he's
-	even stronger!
+	Já customizei o meu
+	GutsMan. Ele ficou
+	ainda mais forte!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Hey,I'm taking part
-	in the N1!
+	Ah, e eu vou competir
+	no N1, também!
 	"""
 	keyWait
 	clearMsg
 	"""
-	There's some tough
-	competition,but I'm
-	not gonna lose!
+	Os oponentes são
+	barra pesada, mas eu
+	não vou perder, não!
 	"""
 	keyWait
 	waitHold
@@ -567,30 +566,30 @@ script 10 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	Howdy,all! I'm Dex's
-	Navi,GutsMan!
-	Yee-haw!
+	Fala, gente! Eu sou o
+	Navi do Dex, o GutsMan!
+	Guuuts!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Actually,ever since
-	Dex customized me,
-	I haven't been
+	Na verdade, desde
+	que ele me customizou,
+	eu ando me sentindo
 	"""
 	keyWait
 	clearMsg
 	"""
-	feeling well. I feel
-	drained even though
-	I'm not doing
+	meio estranho. Tô
+	esgotado, mesmo não
+	tendo feito nada...
 	"""
 	keyWait
 	clearMsg
 	"""
-	anything. What's
-	happening to me?!
-	Yee…haw……
+	O que tá acontecendo
+	comigo?!
+	Guu... ts....
 	"""
 	keyWait
 	waitHold
@@ -609,48 +608,48 @@ script 11 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	Yo,all! Master of
-	Disaster and
-	programmer
+	E aí, povo! Koetsu,
+	mestre das tretas
+	e programador
 	"""
 	keyWait
 	clearMsg
 	"""
-	extraordinaire
-	Koetsu at your call!
-	I got a NaviCust
+	extraordinário, ao seu
+	dispor! Também comprei
+	um Customizador de
 	"""
 	keyWait
 	clearMsg
 	"""
-	too! As for your
-	problem,GutsMan,
-	you're gonna be
+	Navi! Quanto ao seu
+	problema, GutsMan,
+	você vai ficar bem.
 	"""
 	keyWait
 	clearMsg
 	"""
-	all right. You've
-	probably got a tiny
-	glitch in your
+	Provavelmente deu
+	um pequeno bug no
+	seu sistema.
 	"""
 	keyWait
 	clearMsg
 	"""
-	system. Ask Dex to
-	check out your
-	Memory Map. Maybe
+	Peça pro Dex conferir
+	seu Mapa de Memória.
+	É bem possível que
 	"""
 	keyWait
 	clearMsg
-	"a "
+	"um "
 	printNaviCustProgram
 		buffer = 0
 		program = 36
 	"""
-	 or
-	something is above
-	your Command Line.
+	 ou algo
+	do tipo esteja sobre
+	a sua Linha de Comando.
 	"""
 	keyWait
 	waitHold
@@ -669,37 +668,36 @@ script 12 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	Dex here! GutsMan
-	asked me to double-
-	check his
+	Dex falando! O GutsMan
+	me pediu pra checar o
+	Mapa de Memória dele.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Memory Map. It was
-	just as Koetsu
-	suspected!
+	As suspeitas do
+	Koetsu tavam certas!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Sorry for pressing
-	Run without checking
-	for mistakes,Guts!
+	Desculpa por Executar
+	sem ver se eu tinha
+	errado antes, GutsMan!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I swear it'll never
-	happen again! Some
-	day I'm gonna be a
+	Juro que nunca mais
+	vai rolar! Um dia, eu vou
+	ser um programador
 	"""
 	keyWait
 	clearMsg
 	"""
-	master programmer
-	who doesn't make
-	mistakes,I promise!
+	expert que nunca
+	erra, promessa de
+	homem!
 	"""
 	keyWait
 	waitHold
@@ -1460,7 +1458,7 @@ script 27 mmbn3 {
 		unused = 12
 	"""
 	Thanks for the help,
-	Nukky! Now I can
+	Nukin! Now I can
 	build up my Navi!
 	"""
 	keyWait

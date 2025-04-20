@@ -40,8 +40,8 @@ script 10 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Are you ready,Lan!?
-	Let's move on!
+	Pronto, Lan?!
+	Vamos lá!
 	"""
 	keyWait
 	end
@@ -51,8 +51,8 @@ script 11 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	What is this room?
-	Let's look around!
+	Que sala é esta?
+	Vamos explorar!
 	"""
 	keyWait
 	end
@@ -62,9 +62,9 @@ script 12 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I hope Cossak is OK…
-	But we don't have
-	time now! Let's go!
+	Sr. Cossak, esteja bem...
+	Mas não temos tempo
+	pra isso agora! Vamos!
 	"""
 	keyWait
 	end
@@ -74,9 +74,9 @@ script 13 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Where are you going?
-	We have to stop that
-	robot! Jack me in!
+	Aonde você vai?
+	Temos que parar aquele
+	robô! Me conecta!
 	"""
 	keyWait
 	end
@@ -98,9 +98,8 @@ script 16 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,let's move on!
-	We have to stop
-	Wily!
+	Lan, vamos em frente!
+	Temos que deter o Wily!
 	"""
 	keyWait
 	end
@@ -115,9 +114,9 @@ script 17 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's go back to
-	that room! We can't
-	waste time here!
+	Vamos voltar praquela
+	sala! Não podemos
+	perder tempo aqui!
 	"""
 	keyWait
 	end
@@ -127,9 +126,9 @@ script 18 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	There has to be a
-	way to go further!
-	Let's look for it!
+	Tem que ter um jeito
+	pra gente seguir em
+	frente! Vamos procurar!
 	"""
 	keyWait
 	end
@@ -139,9 +138,8 @@ script 19 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,let's move on!
-	We have to stop
-	Wily!
+	Lan, vamos em frente!
+	Temos que deter o Wily!
 	"""
 	keyWait
 	end
@@ -151,9 +149,9 @@ script 20 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Where are you going?
-	We have to stop that
-	robot! Jack me in!
+	Aonde você vai?
+	Temos que parar aquele
+	robô! Me conecta!
 	"""
 	keyWait
 	end
@@ -183,9 +181,9 @@ script 22 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's hurry,Lan!!
-	I'm worried about
-	Chaud!
+	Vamos logo, Lan!!
+	Eu tô preocupado com
+	o Chaud!
 	"""
 	keyWait
 	end
@@ -195,9 +193,9 @@ script 23 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Chaud is in danger!!
-	We have to stop that
-	robot! Jack in!
+	O Chaud tá em perigo!!
+	A gente tem que parar
+	aquele robô! Me conecta!
 	"""
 	keyWait
 	end
@@ -212,9 +210,8 @@ script 24 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,let's move on!
-	We have to stop
-	Wily!
+	Lan, vamos em frente!
+	Temos que deter o Wily!
 	"""
 	keyWait
 	end
@@ -224,9 +221,9 @@ script 25 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	What is this place?
-	There's something
-	strange about it…
+	Que lugar é este?
+	Tem alguma coisa
+	estranha nele...
 	"""
 	keyWait
 	end
@@ -235,7 +232,7 @@ script 26 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Be careful,Lan!"
+	"Toma cuidado, Lan"
 	keyWait
 	end
 }
@@ -244,9 +241,9 @@ script 27 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Where are you going?
-	We have to stop that
-	robot to move on!!
+	Aonde você vai?
+	Temos que parar aquele
+	robô e seguir!!
 	"""
 	keyWait
 	end
@@ -261,9 +258,9 @@ script 28 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's go,Lan!!
-	Wily should be
-	just ahead!
+	Vamos nessa, Lan!!
+	O Wily deve estar logo
+	à frente!
 	"""
 	keyWait
 	end
@@ -273,9 +270,9 @@ script 29 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Are you ready,Lan?
-	Maybe we should save
-	before this battle!
+	Pronto, Lan? Talvez fos-
+	se uma boa ideia salvar
+	o jogo antes dessa luta!
 	"""
 	keyWait
 	end

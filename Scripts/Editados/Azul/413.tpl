@@ -5,9 +5,9 @@ script 0 mmbn3 {
 		mugshot = Cossak
 	msgOpen
 	"""
-	Hmmm. This seems to
-	be the elevator
-	control program…
+	Hmmm. Este parece ser
+	o programa de controle
+	do elevador...
 	"""
 	keyWait
 	clearMsg
@@ -20,19 +20,19 @@ script 1 mmbn3 {
 	soundDisableTextSFX
 	soundPlay
 		track = 162
-	"Click!"
+	"Clic!"
 	wait
 		frames = 27
 	soundPlay
 		track = 162
-	" Clack!…"
+	" Clac!..."
 	wait
 		frames = 24
 	keyWait
 	clearMsg
 	soundPlay
 		track = 220
-	"Ping!!"
+	"Pim!!"
 	soundEnableTextSFX
 	keyWait
 	end
@@ -42,9 +42,9 @@ script 2 mmbn3 {
 		mugshot = Cossak
 	msgOpen
 	"""
-	OK,you should be
-	able to use the
-	elevator now.
+	OK, vocês devem
+	conseguir usar o
+	elevador agora.
 	"""
 	keyWait
 	end
@@ -58,19 +58,19 @@ script 3 mmbn3 {
 	"!!"
 	keyWait
 	clearMsg
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
 	"""
-	Hmmm…
-	Just my imagination,
-	I guess…
+	Hmmm...
+	Acho que foi só a minha
+	imaginação...
 	"""
 	keyWait
 	flagClear
@@ -82,15 +82,15 @@ script 4 mmbn3 {
 		mugshot = Bass
 	msgOpen
 	"""
-	So a puny human
-	dares to come into
-	my world…
+	Então, um humano
+	patético ousa entrar
+	no meu mundo...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Have you come to
-	die,Cossak?
+	Veio aqui morrer,
+	Cossak?
 	"""
 	keyWait
 	flagClear
@@ -104,15 +104,15 @@ script 5 mmbn3 {
 		mugshot = Cossak
 	msgOpen
 	"""
-	Bass…!
-	So you ARE here,
-	as I suspected!
+	Bass...!
+	Então, você ESTAVA
+	aqui, como suspeitei!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Why are you
-	helping Wily!?
+	Por que está ajudando
+	o Wily?!
 	"""
 	keyWait
 	clearMsg
@@ -124,21 +124,22 @@ script 6 mmbn3 {
 		mugshot = Bass
 	msgOpen
 	"""
-	I have no interest
-	in that fool's plan!
+	Eu não tenho nenhum
+	interesse no plano
+	daquele tolo!
 	"""
 	keyWait
 	clearMsg
 	"""
-	There is only one
-	thing that I desire!
-	Absolute power!
+	Só existe uma coisa que
+	eu desejo!
+	Poder absoluto!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Power to destroy
-	you humans!
+	Poder para destruir
+	vocês, humanos!
 	"""
 	keyWait
 	end
@@ -151,9 +152,9 @@ script 7 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	I can't believe this
-	power!! He's become
-	even stronger!
+	Esse poder... é
+	inacreditável! Ele ficou
+	ainda mais forte!
 	"""
 	keyWait
 	clearMsg
@@ -165,20 +166,19 @@ script 8 mmbn3 {
 		mugshot = Bass
 	msgOpen
 	"""
-	On that day that the
-	Navi Elite Corps
-	attacked me,
+	Naquele dia, quando a
+	Tropa Navi de Elite
+	me atacou,
 	"""
 	keyWait
 	clearMsg
 	"""
-	I crawled,near
-	deletion,through the
-	Internet…
+	eu me rastejei, quase
+	deletado, pela Rede...
 	"""
 	keyWait
 	clearMsg
-	"Behold!"
+	"Observe!"
 	keyWait
 	flagSet
 		flag = 2626
@@ -189,34 +189,33 @@ script 9 mmbn3 {
 		mugshot = Bass
 	msgOpen
 	"""
-	This is the wound
-	they inflicted
-	upon me!
+	Esta é a ferida que
+	eles causaram em mim!
 	"""
 	keyWait
 	clearMsg
 	"""
-	As I began to fade,
-	I swore revenge on
-	the humans!
+	Enquanto eu desapare-
+	cia, jurei vingança
+	contra os humanos.
 	"""
 	keyWait
 	clearMsg
-	"And I survived・"
+	"E eu sobrevivi."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
 	keyWait
 	clearMsg
 	"""
-	Thanks to the "Get
-	Ability Program" you
-	installed into me!
+	Graças ao "Programa de
+	Aquisição de Habilidade"
+	que você instalou em mim!
 	"""
 	keyWait
 	clearMsg
@@ -228,15 +227,15 @@ script 10 mmbn3 {
 		mugshot = Cossak
 	msgOpen
 	"""
-	The program that
-	allows you to take
-	on others' powers!?
+	O programa que permitia
+	a você pegar os
+	poderes dos outros?!
 	"""
 	keyWait
 	clearMsg
 	"""
-	But,how could you
-	become so strong?
+	Mas... como você pôde
+	ficar tão forte?
 	"""
 	keyWait
 	clearMsg
@@ -248,23 +247,23 @@ script 11 mmbn3 {
 		mugshot = Bass
 	msgOpen
 	"""
-	Day after day I was
-	attacked by hordes
-	of viruses…
+	Dia após dia, eu era
+	atacado por enxames
+	de vírus...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Occasionally I fed
-	upon the remains of
-	fallen Navis…
+	Eventualmente, eu me
+	alimentava dos restos
+	de Navis caídos...
 	"""
 	keyWait
 	clearMsg
 	"""
-	I gained this power
-	through trials that
-	you cannot imagine!
+	Obtive este poder atra-
+	vés de provações que
+	você nem pode imaginar!
 	"""
 	keyWait
 	clearMsg
@@ -276,28 +275,28 @@ script 12 mmbn3 {
 		mugshot = Cossak
 	msgOpen
 	"""
-	All of that,just for
-	revenge on humans?
+	Tudo isso, só para se
+	vingar dos humanos?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Bass,it seems that
-	we have become
-	totally different…
+	Bass, parece que nós
+	dois nos tornamos com-
+	pletamente diferentes...
 	"""
 	keyWait
 	clearMsg
 	"""
-	You will become a
-	threat to mankind.
+	Você logo representará
+	uma ameaça à humanidade.
 	"""
 	keyWait
 	clearMsg
 	"""
-	So before that
-	happens,you must go
-	down with me!!
+	Então, antes que isso
+	aconteça, você vai ser
+	apagado comigo!!
 	"""
 	keyWait
 	clearMsg
@@ -309,9 +308,9 @@ script 13 mmbn3 {
 		mugshot = Bass
 	msgOpen
 	"""
-	And just what does
-	the puny human think
-	it can do to me??
+	E o que um humano pífio
+	pensa que pode fazer
+	comigo?
 	"""
 	keyWait
 	clearMsg
@@ -323,13 +322,13 @@ script 14 mmbn3 {
 		mugshot = Cossak
 	msgOpen
 	"""
-	Yes,I'm a human.
-	But a human in
-	Cyberworld!
+	É verdade, eu sou só
+	humano. Mas um humano
+	no mundo cibernético!
 	"""
 	keyWait
 	clearMsg
-	"And I can do this!"
+	"E posso fazer isto!"
 	keyWait
 	flagSet
 		flag = 2625
@@ -340,19 +339,19 @@ script 15 mmbn3 {
 		mugshot = Bass
 	msgOpen
 	"""
-	Hmmm…? What's all
-	this power you're
-	building up…? 
+	Hmmm...? Que poder
+	todo é esse que você
+	está acumulando...?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Do you intend to
-	self-destruct?
+	Pretende se
+	autodestruir?
 	"""
 	keyWait
 	clearMsg
-	"Human fool!"
+	"Humano tolo!"
 	keyWait
 	clearMsg
 	jump
@@ -363,15 +362,15 @@ script 16 mmbn3 {
 		mugshot = Cossak
 	msgOpen
 	"""
-	Yes,I was a fool to
-	have created a thing
-	like you…
+	Sim, eu fui tolo...
+	por criar uma coisa
+	como você.
 	"""
 	keyWait
 	clearMsg
 	"""
-	And now I make
-	my penance!
+	E, agora, vou expiar
+	por esse pecado!
 	"""
 	keyWait
 	flagClear
@@ -383,15 +382,15 @@ script 17 mmbn3 {
 		mugshot = Bass
 	msgOpen
 	"""
-	You cannot delete me
-	with such pitifully
-	small power!
+	Não pode me deletar
+	com uma quantidade tão
+	minúscula de poder!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Wake up,human!
-	Time to die.
+	Acorde, humano!
+	Hora de morrer.
 	"""
 	keyWait
 	end

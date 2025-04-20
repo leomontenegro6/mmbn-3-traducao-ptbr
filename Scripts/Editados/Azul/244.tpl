@@ -17,7 +17,7 @@ script 1 mmbn3 {
 	soundDisableTextSFX
 	soundPlay
 		track = 135
-	"Roaaaar!"
+	"Graaaauuurrr!"
 	wait
 		frames = 100
 	keyWait
@@ -30,7 +30,7 @@ script 2 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Is that a virus?"
+	"Isso é um vírus?"
 	keyWait
 	clearMsg
 	jump
@@ -41,9 +41,8 @@ script 3 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	No! It looks like
-	one,but that's a
-	Navi!
+	Não! Pode parecer um,
+	mas é um Navi!
 	"""
 	keyWait
 	clearMsg
@@ -59,28 +58,27 @@ script 4 mmbn3 {
 	soundDisableTextSFX
 	soundPlay
 		track = 135
-	"Roaaaaar!"
+	"Graaaaauurr!"
 	wait
 		frames = 100
 	"\n"
 	soundEnableTextSFX
 	"""
-	So you've found
-	me out!!
+	Então, vocês me
+	acharam!!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I was hoping you'd
-	get closer to my
-	ripping claws!
+	Eu esperava que vocês
+	fossem se aproximar mais
+	das minhas garras!
 	"""
 	keyWait
 	clearMsg
 	"""
-	But I guess you're
-	a bit smarter than
-	you look!
+	Mas acho que são menos
+	burros do que parecem!
 	"""
 	keyWait
 	clearMsg
@@ -92,8 +90,9 @@ script 5 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	You'll never fool
-	NetBattlers like us!
+	Nunca que você
+	enganaria NetLutadores
+	como a gente!
 	"""
 	keyWait
 	clearMsg
@@ -104,19 +103,20 @@ script 6 mmbn3 {
 	mugshotShow
 		mugshot = BeastMan
 	msgOpen
-	"Oh,how cute."
+	"Ah, que meigo."
 	keyWait
 	clearMsg
 	"""
-	But I hate you noisy
-	human-shaped Navis…
+	Como eu odeio vocês,
+	Navis humanóides
+	barulhentos...
 	"""
 	keyWait
 	clearMsg
 	"""
-	You're always so
-	arrogant,always
-	looking down on us…
+	Sempre tão arrogantes,
+	sempre nos
+	menosprezando...
 	"""
 	keyWait
 	clearMsg
@@ -128,9 +128,9 @@ script 7 mmbn3 {
 		mugshot = Inukai
 	msgOpen
 	"""
-	BeastMan!! Enough
-	chatter! Hurry up
-	and delete it!
+	BeastMan!!
+	Chega de conversa!
+	Delete ele de uma vez!
 	"""
 	keyWait
 	clearMsg
@@ -142,9 +142,9 @@ script 8 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	How can you call
-	yourself a zookeeper
-	and still do this!?
+	Como você pode se dizer
+	um tratador de animais
+	e fazer isso?!
 	"""
 	keyWait
 	clearMsg
@@ -156,14 +156,16 @@ script 9 mmbn3 {
 		mugshot = Inukai
 	msgOpen
 	"""
-	Ah-hahaha!
-	I'm no zookeeper!
+	Aah ha ha ha!
+	Eu não sou tratador
+	coisa nenhuma!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'm a WWW member,
-	stupid! Got it!?
+	Sou membro da WWW,
+	imbecil!
+	A Mundo Três!
 	"""
 	keyWait
 	clearMsg
@@ -174,7 +176,7 @@ script 10 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"The WWW!?"
+	"A WWW?!"
 	keyWait
 	clearMsg
 	jump
@@ -185,8 +187,8 @@ script 11 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	But…But Wily is
-	supposed to be dead!
+	Mas... Mas o Wily tinha
+	morrido!
 	"""
 	keyWait
 	clearMsg
@@ -198,30 +200,29 @@ script 12 mmbn3 {
 		mugshot = Inukai
 	msgOpen
 	"""
-	Ah-hahaha!
-	Wily doesn't die
-	that easily!
+	Aah ha ha ha!
+	O Wily não é tão fácil
+	assim de matar!
 	"""
 	keyWait
 	clearMsg
 	"""
-	He's gathered us
-	together,and built
-	an all-new WWW!
+	Ele nos reuniu e criou
+	uma nova WWW!
 	"""
 	keyWait
 	clearMsg
 	"""
-	But enough of that!
-	BeastMan,can you
-	hear me!?
+	Mas chega dessa
+	conversa! BeastMan,
+	está me ouvindo?!
 	"""
 	keyWait
 	clearMsg
 	"""
-	You delete the Navi!
-	I'll use the animals
-	to get these kids!
+	Delete o Navi! Enquanto
+	isso, vou usar os animais
+	para eliminar os pirralhos!
 	"""
 	keyWait
 	clearMsg
@@ -233,15 +234,16 @@ script 13 mmbn3 {
 		mugshot = BeastMan
 	msgOpen
 	"""
-	Grrr…! He doesn't
-	play nice,does he!?
+	Grrr...! Ele não sabe
+	jogar limpo, não é
+	mesmo?!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Now,boy! Take the
-	call of the wild
-	to your grave!!
+	Vem, garoto! O seu túmulo
+	será na natureza
+	selvagem!!
 	"""
 	keyWait
 	clearMsg
@@ -252,7 +254,7 @@ script 13 mmbn3 {
 	soundDisableTextSFX
 	soundPlay
 		track = 135
-	"Roaaaaar!"
+	"Graaaaauuurrr!"
 	wait
 		frames = 90
 	"\n"

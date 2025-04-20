@@ -5,13 +5,13 @@ script 0 mmbn3 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	If this were a real
-	battle,you would
-	have been deleted!
+	Se fosse uma batalha
+	de verdade, você teria
+	sido deletado!
 	"""
 	keyWait
 	clearMsg
-	"Try again!"
+	"Tente de novo!"
 	keyWait
 	end
 }

@@ -4,7 +4,7 @@ script 0 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"What the…!?"
+	"Mas o que é que...?!"
 	keyWait
 	clearMsg
 	jump
@@ -17,8 +17,8 @@ script 1 mmbn3 {
 	flagSet
 		flag = 139
 	"""
-	Could this be a
-	style change!?
+	Será que é...
+	uma troca de estilo?!
 	"""
 	keyWait
 	end
@@ -29,7 +29,7 @@ script 2 mmbn3 {
 	soundDisableTextSFX
 	soundPlay
 		track = 219
-	"…beep beep beep…"
+	"... Plip Plip Plip..."
 	keyWait
 	clearMsg
 	soundEnableTextSFX
@@ -41,12 +41,13 @@ script 3 mmbn3 {
 		mugshot = Dad
 	msgOpen
 	"""
-	It looks like you've
-	made a style change!
+	Parece que você
+	realizou uma troca de
+	estilo!
 	"""
 	keyWait
 	clearMsg
-	"That would be the…"
+	"Esse aí é o..."
 	keyWait
 	clearMsg
 	jump
@@ -58,7 +59,7 @@ script 4 mmbn3 {
 	soundDisableTextSFX
 	soundPlay
 		track = 219
-	"…beep beep beep…"
+	"... Plip Plip Plip..."
 	keyWait
 	clearMsg
 	soundEnableTextSFX
@@ -70,12 +71,13 @@ script 5 mmbn3 {
 		mugshot = Dad
 	msgOpen
 	"""
-	It looks like you've
-	made a style change!
+	Parece que você
+	realizou uma troca de
+	estilo!
 	"""
 	keyWait
 	clearMsg
-	"That would be the…"
+	"Esse aí é o..."
 	keyWait
 	clearMsg
 	jump
@@ -87,7 +89,7 @@ script 6 mmbn3 {
 	soundDisableTextSFX
 	soundPlay
 		track = 219
-	"…beep beep beep…"
+	"... Plip Plip Plip..."
 	keyWait
 	clearMsg
 	soundEnableTextSFX
@@ -99,12 +101,13 @@ script 7 mmbn3 {
 		mugshot = Dad
 	msgOpen
 	"""
-	It looks like you've
-	made a style change!
+	Parece que você
+	realizou uma troca de
+	estilo!
 	"""
 	keyWait
 	clearMsg
-	"That would be the…"
+	"Esse aí é o..."
 	keyWait
 	clearMsg
 	jump
@@ -116,7 +119,7 @@ script 8 mmbn3 {
 	soundDisableTextSFX
 	soundPlay
 		track = 219
-	"…beep beep beep…"
+	"... Plip Plip Plip..."
 	keyWait
 	clearMsg
 	soundEnableTextSFX
@@ -128,12 +131,13 @@ script 9 mmbn3 {
 		mugshot = Dad
 	msgOpen
 	"""
-	It looks like you've
-	made a style change!
+	Parece que você
+	realizou uma troca de
+	estilo!
 	"""
 	keyWait
 	clearMsg
-	"That would be the…"
+	"Esse aí é o..."
 	keyWait
 	clearMsg
 	jump
@@ -144,8 +148,7 @@ script 10 mmbn3 {
 		mugshot = Dad
 	msgOpen
 	"""
-	Electric Guts
-	Style!
+	Estilo Electric Guts!
 	"""
 	keyWait
 	clearMsg
@@ -156,7 +159,7 @@ script 11 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Electric Guts…"
+	"Estilo..."
 	keyWait
 	clearMsg
 	jump
@@ -166,7 +169,7 @@ script 12 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Style…?"
+	"Electric Guts?"
 	keyWait
 	clearMsg
 	jump
@@ -177,30 +180,30 @@ script 13 mmbn3 {
 		mugshot = Dad
 	msgOpen
 	"""
-	An electric style
-	mastered by using
-	Buster attacks!
+	Um estilo elétrico domi-
+	nado ao se usar muito
+	o MegaAtirador!
 	"""
 	keyWait
 	clearMsg
 	"""
-	This style will turn
-	your Buster into a
-	Guts Machine Gun!
+	Esse estilo transformará
+	o seu Atirador em uma
+	Super Metralhadora!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Your PowerAttack
-	will also become
-	a ZapRing!
+	E o seu Ataque
+	Carregado se tornará
+	um ZapRing!
 	"""
 	keyWait
 	clearMsg
 	"""
-	But you'll take
-	double damage from
-	Wood-based attacks!
+	Mas você vai levar o
+	dobro do dano de
+	ataques de Madeira!
 	"""
 	keyWait
 	clearMsg
@@ -212,9 +215,8 @@ script 14 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Pretty cool,huh
-	MegaMan!?
-	Electric Guts Style!
+	Que legal, né, MegaMan?!
+	Estilo Electric Guts!
 	"""
 	keyWait
 	clearMsg
@@ -226,8 +228,8 @@ script 15 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Yeah! I'm crackling
-	with power!
+	É! Eu tô faiscando de
+	tanto poder!
 	"""
 	keyWait
 	end
@@ -237,8 +239,7 @@ script 20 mmbn3 {
 		mugshot = Dad
 	msgOpen
 	"""
-	Heat Guts
-	Style!
+	Estilo Heat Guts!
 	"""
 	keyWait
 	clearMsg
@@ -249,7 +250,7 @@ script 21 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Heat Guts…"
+	"Estilo..."
 	keyWait
 	clearMsg
 	jump
@@ -259,7 +260,7 @@ script 22 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Style?"
+	"Heat Guts?"
 	keyWait
 	clearMsg
 	jump
@@ -270,30 +271,30 @@ script 23 mmbn3 {
 		mugshot = Dad
 	msgOpen
 	"""
-	A fire style
-	mastered by using
-	Buster attacks!
+	Um estilo de fogo
+	dominado ao se utilizar
+	muito o MegaAtirador!
 	"""
 	keyWait
 	clearMsg
 	"""
-	This style will turn
-	your Buster into a
-	Guts Machine Gun!
+	Esse estilo transformará
+	o seu Atirador em uma
+	Super Metralhadora!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Your PowerAttack
-	will also become
-	a flame-thrower!
+	E o seu Ataque Carre-
+	gado também se tornará
+	um lança-chamas!
 	"""
 	keyWait
 	clearMsg
 	"""
-	But you'll take
-	double damage from
-	Aqua-based attacks!
+	Mas você vai levar o
+	dobro do dano de
+	ataques de Água!
 	"""
 	keyWait
 	clearMsg
@@ -305,9 +306,8 @@ script 24 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Pretty cool,huh
-	MegaMan!?
-	Heat Guts Style!
+	Que legal, né, MegaMan?!
+	Estilo Heat Guts!
 	"""
 	keyWait
 	clearMsg
@@ -319,8 +319,8 @@ script 25 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Yeah! I'm burning
-	with power!
+	É! Eu tô ardendo de
+	tanto poder!
 	"""
 	keyWait
 	end
@@ -329,7 +329,7 @@ script 30 mmbn3 {
 	mugshotShow
 		mugshot = Dad
 	msgOpen
-	"Aqua Guts Style!"
+	"Estilo Aqua Guts!"
 	keyWait
 	clearMsg
 	jump
@@ -339,7 +339,7 @@ script 31 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Aqua Guts…"
+	"Estilo..."
 	keyWait
 	clearMsg
 	jump
@@ -349,7 +349,7 @@ script 32 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Style…?"
+	"Aqua Guts?"
 	keyWait
 	clearMsg
 	jump
@@ -360,30 +360,30 @@ script 33 mmbn3 {
 		mugshot = Dad
 	msgOpen
 	"""
-	An aqua style
-	mastered by using
-	Buster attacks!
+	Um estilo de água
+	dominado ao se utilizar
+	muito o MegaAtirador!
 	"""
 	keyWait
 	clearMsg
 	"""
-	This style will turn
-	your Buster into a
-	Guts Machine Gun!
+	Esse estilo transformará
+	o seu Atirador em uma
+	Super Metralhadora!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Your PowerAttack
-	will also become
-	an AquaShot!
+	E o seu Ataque Carre-
+	gado se tornará um
+	AquaShot!
 	"""
 	keyWait
 	clearMsg
 	"""
-	But you'll take
-	double damage from
-	Elec-based attacks!
+	Mas você vai levar o
+	dobro do dano de
+	ataques Elétricos!
 	"""
 	keyWait
 	clearMsg
@@ -395,9 +395,8 @@ script 34 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Pretty cool,huh
-	MegaMan!?
-	Aqua Guts Style!
+	Que legal, né, MegaMan?!
+	Estilo Aqua Guts!
 	"""
 	keyWait
 	clearMsg
@@ -409,8 +408,8 @@ script 35 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Yeah! I can feel the
-	power flowing!
+	É! Dá pra sentir o poder
+	fluindo pelo meu corpo!
 	"""
 	keyWait
 	end
@@ -419,7 +418,7 @@ script 40 mmbn3 {
 	mugshotShow
 		mugshot = Dad
 	msgOpen
-	"Wood Guts Style!"
+	"Estilo Wood Guts!"
 	keyWait
 	clearMsg
 	jump
@@ -429,7 +428,7 @@ script 41 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Wood Guts…"
+	"Estilo..."
 	keyWait
 	clearMsg
 	jump
@@ -439,7 +438,7 @@ script 42 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Style…?"
+	"Wood Guts?"
 	keyWait
 	clearMsg
 	jump
@@ -450,30 +449,30 @@ script 43 mmbn3 {
 		mugshot = Dad
 	msgOpen
 	"""
-	A wood style
-	mastered by using
-	Buster attacks!
+	Um estilo de Madeira
+	dominado ao se utilizar
+	muito o MegaAtirador!
 	"""
 	keyWait
 	clearMsg
 	"""
-	This style will turn
-	your Buster into a
-	Guts Machine Gun!
+	Esse estilo transformará
+	o seu Atirador em uma
+	Super Metralhadora!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Your PowerAttack
-	will also become
-	a Twister!
+	E o seu Ataque Carre-
+	gado se tornará um
+	Twister!
 	"""
 	keyWait
 	clearMsg
 	"""
-	But you'll take
-	double damage from
-	Fire-based attacks!
+	Mas você vai levar o
+	dobro do dano de
+	ataques de Fogo!
 	"""
 	keyWait
 	clearMsg
@@ -485,9 +484,8 @@ script 44 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Pretty cool,huh
-	MegaMan!?
-	Wood Guts Style!
+	Que legal, né, MegaMan?!
+	Estilo Wood Guts!
 	"""
 	keyWait
 	clearMsg
@@ -499,8 +497,8 @@ script 45 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Yeah! I can feel the
-	power growing in me!
+	É! Dá pra sentir o poder
+	crescendo dentro de mim!
 	"""
 	keyWait
 	end
@@ -509,7 +507,7 @@ script 50 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Is this another…?"
+	"Espera, esta é outra..."
 	keyWait
 	clearMsg
 	jump
@@ -521,7 +519,7 @@ script 51 mmbn3 {
 	msgOpen
 	flagSet
 		flag = 139
-	"…style change!?"
+	"... troca de estilo?!"
 	keyWait
 	end
 }
@@ -531,7 +529,7 @@ script 52 mmbn3 {
 	soundDisableTextSFX
 	soundPlay
 		track = 219
-	"…beep beep beep…"
+	"... Plip Plip Plip..."
 	keyWait
 	clearMsg
 	soundEnableTextSFX
@@ -543,12 +541,13 @@ script 53 mmbn3 {
 		mugshot = Dad
 	msgOpen
 	"""
-	It looks like you've
-	made a style change!
+	Parece que você
+	realizou uma troca de
+	estilo!
 	"""
 	keyWait
 	clearMsg
-	"That would be the…"
+	"Esse aí é o..."
 	keyWait
 	clearMsg
 	jump
@@ -560,7 +559,7 @@ script 54 mmbn3 {
 	soundDisableTextSFX
 	soundPlay
 		track = 219
-	"…beep beep beep…"
+	"... Plip Plip Plip..."
 	keyWait
 	clearMsg
 	soundEnableTextSFX
@@ -572,12 +571,13 @@ script 55 mmbn3 {
 		mugshot = Dad
 	msgOpen
 	"""
-	It looks like you've
-	made a style change!
+	Parece que você
+	realizou uma troca de
+	estilo!
 	"""
 	keyWait
 	clearMsg
-	"That would be the…"
+	"Esse aí é o..."
 	keyWait
 	clearMsg
 	jump
@@ -589,7 +589,7 @@ script 56 mmbn3 {
 	soundDisableTextSFX
 	soundPlay
 		track = 219
-	"…beep beep beep…"
+	"... Plip Plip Plip..."
 	keyWait
 	clearMsg
 	soundEnableTextSFX
@@ -601,12 +601,13 @@ script 57 mmbn3 {
 		mugshot = Dad
 	msgOpen
 	"""
-	It looks like you've
-	made a style change!
+	Parece que você
+	realizou uma troca de
+	estilo!
 	"""
 	keyWait
 	clearMsg
-	"That would be the…"
+	"Esse aí é o..."
 	keyWait
 	clearMsg
 	jump
@@ -618,7 +619,7 @@ script 58 mmbn3 {
 	soundDisableTextSFX
 	soundPlay
 		track = 219
-	"…beep beep beep…"
+	"... Plip Plip Plip..."
 	keyWait
 	clearMsg
 	soundEnableTextSFX
@@ -630,12 +631,13 @@ script 59 mmbn3 {
 		mugshot = Dad
 	msgOpen
 	"""
-	It looks like you've
-	made a style change!
+	Parece que você
+	realizou uma troca de
+	estilo!
 	"""
 	keyWait
 	clearMsg
-	"That would be the…"
+	"Esse aí é o..."
 	keyWait
 	clearMsg
 	jump
@@ -648,9 +650,9 @@ script 60 mmbn3 {
 	flagSet
 		flag = 14
 	"""
-	Do you want to work
-	more on this style,
-	or find another?
+	Você quer continuar
+	aperfeiçoando esse 
+	estilo, ou adquirir outro?
 	"""
 	keyWait
 	clearMsg
@@ -662,7 +664,7 @@ script 60 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Improve this one\n"
+	"   Aperfeiçoar\n"
 	option
 		left = 1
 		right = 1
@@ -670,7 +672,7 @@ script 60 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Find another"
+	"   Quero outro"
 	select
 		default = 0
 		BSeparate = false
@@ -690,9 +692,9 @@ script 61 mmbn3 {
 	flagSet
 		flag = 13
 	"""
-	If you keep using
-	this style,it will
-	level up soon!
+	Se continuar usando
+	esse estilo, logo logo
+	o nível dele vai subir!
 	"""
 	keyWait
 	end
@@ -704,9 +706,9 @@ script 62 mmbn3 {
 	flagClear
 		flag = 13
 	"""
-	You'll probably find
-	a new style as you
-	battle! Good luck!
+	Você deve adquirir um
+	novo estilo no decorrer
+	das lutas. Boa sorte!
 	"""
 	keyWait
 	end
@@ -716,9 +718,8 @@ script 70 mmbn3 {
 		mugshot = Dad
 	msgOpen
 	"""
-	Give up on the other
-	style and change to
-	this one?
+	Desistir do outro estilo
+	e trocar para este?
 	"""
 	keyWait
 	clearMsg
@@ -729,7 +730,7 @@ script 70 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Change to this\n"
+	"Mudar para este\n"
 	option
 		left = 1
 		right = 1
@@ -737,7 +738,7 @@ script 70 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Use the other"
+	"Usar o outro"
 	select
 		default = 0
 		BSeparate = false
@@ -755,13 +756,13 @@ script 71 mmbn3 {
 		mugshot = Dad
 	msgOpen
 	"""
-	You're sure you want
-	to overwrite it,now?
+	Tem certeza de que
+	quer sobrescrevê-lo?
 	"""
 	keyWait
 	clearMsg
 	mugshotHide
-	"Overwrite?\n"
+	"Sobrescrever?\n"
 	option
 		left = 0
 		right = 0
@@ -769,7 +770,7 @@ script 71 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Overwrite!\n"
+	"Sobrescreve!\n"
 	option
 		left = 1
 		right = 1
@@ -777,7 +778,7 @@ script 71 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Never mind!"
+	"Esquece!"
 	select
 		default = 0
 		BSeparate = false
@@ -799,9 +800,9 @@ script 72 mmbn3 {
 	flagSet
 		flag = 14
 	"""
-	Do you want to work
-	more on this style,
-	or find another?
+	Você quer continuar
+	aperfeiçoando esse 
+	estilo, ou adquirir outro?
 	"""
 	keyWait
 	clearMsg
@@ -813,7 +814,7 @@ script 72 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Improve this one\n"
+	"   Aperfeiçoar\n"
 	option
 		left = 1
 		right = 1
@@ -821,7 +822,7 @@ script 72 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Find another"
+	"   Quero outro"
 	select
 		default = 0
 		BSeparate = false
@@ -841,9 +842,9 @@ script 73 mmbn3 {
 	flagClear
 		flag = 14
 	"""
-	Do you want to work
-	more on this style,
-	or find another?
+	Você quer continuar
+	aperfeiçoando esse 
+	estilo, ou adquirir outro?
 	"""
 	keyWait
 	clearMsg
@@ -855,7 +856,7 @@ script 73 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Improve this one\n"
+	"   Aperfeiçoar\n"
 	option
 		left = 1
 		right = 1
@@ -863,7 +864,7 @@ script 73 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Find another"
+	"   Quero outro"
 	select
 		default = 0
 		BSeparate = false
@@ -881,9 +882,8 @@ script 80 mmbn3 {
 		mugshot = Dad
 	msgOpen
 	"""
-	Give up on the other
-	style and change to
-	this one?
+	Desistir do outro estilo
+	e trocar para este?
 	"""
 	keyWait
 	clearMsg
@@ -895,7 +895,7 @@ script 80 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Change to this\n"
+	"Mudar para este\n"
 	option
 		left = 1
 		right = 1
@@ -903,7 +903,7 @@ script 80 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Use the other"
+	"Usar o outro"
 	select
 		default = 0
 		BSeparate = false
@@ -921,13 +921,13 @@ script 81 mmbn3 {
 		mugshot = Dad
 	msgOpen
 	"""
-	You're sure you want
-	to overwrite it,now?
+	Tem certeza de que
+	quer sobrescrevê-lo?
 	"""
 	keyWait
 	clearMsg
 	mugshotHide
-	"Overwrite?\n"
+	"Sobrescrever?\n"
 	option
 		left = 0
 		right = 0
@@ -935,7 +935,7 @@ script 81 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Overwrite!\n"
+	"Sobrescreve!\n"
 	option
 		left = 1
 		right = 1
@@ -943,7 +943,7 @@ script 81 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Never mind!"
+	"Esquece!"
 	select
 		default = 0
 		BSeparate = false
@@ -965,9 +965,9 @@ script 82 mmbn3 {
 	flagSet
 		flag = 14
 	"""
-	Do you want to work
-	more on this style,
-	or find another?
+	Você quer continuar
+	aperfeiçoando esse 
+	estilo, ou adquirir outro?
 	"""
 	keyWait
 	clearMsg
@@ -979,7 +979,7 @@ script 82 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Improve this one\n"
+	"   Aperfeiçoar\n"
 	option
 		left = 1
 		right = 1
@@ -987,7 +987,7 @@ script 82 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Find another"
+	"   Quero outro"
 	select
 		default = 0
 		BSeparate = false
@@ -1007,8 +1007,8 @@ script 83 mmbn3 {
 	flagClear
 		flag = 14
 	"""
-	MegaMan,let's try to
-	find a new style!
+	Vamos tentar arranjar
+	um novo estilo, MegaMan!
 	"""
 	keyWait
 	clearMsg
@@ -1021,7 +1021,7 @@ script 84 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Roger!"
+	"Entendido!"
 	keyWait
 	end
 }

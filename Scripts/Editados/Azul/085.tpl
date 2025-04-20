@@ -30,15 +30,13 @@ script 0 mmbn3 {
 		mugshot = MetrolineMan
 	msgOpen
 	"""
-	Welcome to
-	Beach Street!
+	Bem-vindo à Rua Angra!
 	"""
 	keyWait
 	clearMsg
 	"""
-	N1 is being held
-	at the very end
-	of this street.
+	O N1 está sendo
+	realizado no final da Rua.
 	"""
 	keyWait
 	end
@@ -48,9 +46,9 @@ script 1 mmbn3 {
 		mugshot = Woman
 	msgOpen
 	"""
-	My husband is late.
-	He'd better hurry,or
-	we'll miss N1!
+	O meu marido tá atrasa-
+	do. Ele tem que correr,
+	vamos perder o N1!
 	"""
 	keyWait
 	end
@@ -60,8 +58,9 @@ script 5 mmbn3 {
 		mugshot = MetrolineMan
 	msgOpen
 	"""
-	With N1 over,I can
-	finally take a rest…
+	Agora que o N1 acabou,
+	finalmente, eu posso
+	respirar...
 	"""
 	keyWait
 	end
@@ -71,16 +70,16 @@ script 10 mmbn3 {
 		mugshot = MetrolineMan
 	msgOpen
 	"""
-	It's interesting to
-	watch all the people
-	coming through here.
+	É interessante observar
+	todas as pessoas que
+	passam por aqui.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Some are happy,some
-	disappointed. Every-
-	one's different.
+	Algumas estão felizes.
+	Outras, decepcionadas.
+	Todos somos diferentes.
 	"""
 	keyWait
 	end
@@ -94,15 +93,15 @@ script 13 mmbn3 {
 		mugshot = MetrolineMan
 	msgOpen
 	"""
-	T-The train…
-	Its getting so hot!
+	O-o trem...
+	Está ficando quente!
 	"""
 	keyWait
 	clearMsg
 	"""
-	You could get on,
-	but it's too
-	dangerous like this!
+	Está operando, mas é
+	perigoso demais as
+	coisas continuarem assim!
 	"""
 	keyWait
 	end
@@ -112,15 +111,15 @@ script 14 mmbn3 {
 		mugshot = MetrolineMan
 	msgOpen
 	"""
-	The Metroline could
-	have been wrecked!
+	A Metrolinha poderia ter
+	sido destruída!
 	"""
 	keyWait
 	clearMsg
-	"・・・"
+	"..."
 	keyWait
 	clearMsg
-	"That was close…"
+	"Foi por pouco..."
 	keyWait
 	end
 }
@@ -129,21 +128,22 @@ script 15 mmbn3 {
 		mugshot = MetrolineMan
 	msgOpen
 	"""
-	The world is so
-	dangerous these
-	days…
+	O mundo anda tão
+	perigoso estes dias...
 	"""
 	keyWait
 	clearMsg
 	"""
-	If Net Crimes become
-	more frequent,
+	Se os NetCrimes se
+	tornarem mais
+	frequentes,
 	"""
 	keyWait
 	clearMsg
 	"""
-	the Metroline could
-	be in jepoardy.
+	a Metrolinha pode
+	acabar correndo um
+	grande risco.
 	"""
 	keyWait
 	end
@@ -167,16 +167,16 @@ script 20 mmbn3 {
 		mugshot = MetrolineMan
 	msgOpen
 	"""
-	I can't believe it!
-	They're even sending
-	out tanks now!
+	Eu não acredito nisso!
+	Estão mandando até
+	tanques agora!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Sir,I think you
-	should avoid going
-	outside…
+	Sugiro que evite sair
+	de casa por ora,
+	senhor...
 	"""
 	keyWait
 	end
@@ -186,16 +186,16 @@ script 25 mmbn3 {
 		mugshot = MetrolineMan
 	msgOpen
 	"""
-	Sir! I advise that
-	you avoid going to
-	ACDC Town or Yoka!
+	Meu jovem! Aconselho o
+	você a evitar ir para
+	ACDC ou Yoka!
 	"""
 	keyWait
 	clearMsg
 	"""
-	The AutoTanks are
-	out of control!
-	It's too dangerous!
+	Os AutoTanques estão
+	fora de controle!
+	É perigoso demais!
 	"""
 	keyWait
 	end
@@ -205,16 +205,16 @@ script 30 mmbn3 {
 		mugshot = MetrolineMan
 	msgOpen
 	"""
-	Beach St. is totally
-	deserted. It's like
-	a ghost town…
+	A Rua Angra está comple-
+	tamente deserta. Como
+	uma cidade fantasma...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Some folks are still
-	at the Hospital and
-	the TV Station.
+	Mas ainda há algumas
+	pessoas no Hospital e
+	no prédio da DNN.
 	"""
 	keyWait
 	end
@@ -224,15 +224,15 @@ script 40 mmbn3 {
 		mugshot = MetrolineMan
 	msgOpen
 	"""
-	I saw lots of people
-	fixing their boats
-	at the port…
+	Vi várias pessoas
+	mexendo em barcos no
+	porto...
 	"""
 	keyWait
 	clearMsg
 	"""
-	I wonder what
-	they're up to?
+	O que será que estão
+	aprontando?
 	"""
 	keyWait
 	end
@@ -240,9 +240,9 @@ script 40 mmbn3 {
 script 220 mmbn3 {
 	msgOpen
 	"""
-	With so many people,
-	this trash can is
-	nearly full already
+	Com tantas pessoas
+	aqui, esta lixeira já está
+	quase cheia.
 	"""
 	keyWait
 	end
@@ -250,15 +250,16 @@ script 220 mmbn3 {
 script 221 mmbn3 {
 	msgOpen
 	"""
-	A poster from a big
-	candy manufacturer
+	Um pôster de uma
+	mega produtora de
+	doces.
 	"""
 	keyWait
 	clearMsg
 	"""
-	They're famous for
-	lots of other things
-	besides candy,too
+	Que também são famosos
+	por várias outras coisas
+	além de doces.
 	"""
 	keyWait
 	end
@@ -266,15 +267,15 @@ script 221 mmbn3 {
 script 222 mmbn3 {
 	msgOpen
 	"""
-	This kiosk sells
-	a lot of TV
-	character items
+	Esta lojinha vende vários
+	produtos licenciados de
+	figuras da TV.
 	"""
 	keyWait
 	clearMsg
 	"""
-	They even seem to
-	have Ribitta cards!
+	Eles parecem até ter
+	cards da Ribitta!
 	"""
 	keyWait
 	end
@@ -282,15 +283,15 @@ script 222 mmbn3 {
 script 223 mmbn3 {
 	msgOpen
 	"""
-	The rack is jammed
-	full of posters
+	Uma grade abarrotada
+	de pôsteres.
 	"""
 	keyWait
 	clearMsg
 	"""
-	The popular ones
-	always sell out
-	quickly
+	Os mais populares
+	sempre esgotam bem
+	rápido.
 	"""
 	keyWait
 	end
@@ -301,7 +302,7 @@ script 230 mmbn3 {
 		jumpIfTrue = 232
 		jumpIfFalse = continue
 	msgOpen
-	"Buy a ticket to:\n"
+	"Comprar tíquete para:\n"
 	option
 		left = 1
 		right = 1
@@ -309,7 +310,7 @@ script 230 mmbn3 {
 		down = 2
 	space
 		count = 2
-	"ACDC Twn "
+	"   ACDC "
 	option
 		left = 0
 		right = 0
@@ -317,7 +318,7 @@ script 230 mmbn3 {
 		down = 3
 	space
 		count = 2
-	"SciLab\n"
+	"         SciLab\n"
 	option
 		left = 3
 		right = 3
@@ -325,7 +326,7 @@ script 230 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yoka     "
+	"   Yoka "
 	option
 		left = 2
 		right = 2
@@ -333,7 +334,7 @@ script 230 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Nowhere"
+	"         Ficar"
 	select
 		default = 0
 		BSeparate = false
@@ -358,7 +359,7 @@ script 231 mmbn3 {
 	playerAnimate
 		animation = 24
 	"""
-	Lan got:
+	Lan adquiriu:
 	"
 	"""
 	printItem
@@ -374,7 +375,7 @@ script 231 mmbn3 {
 }
 script 232 mmbn3 {
 	msgOpen
-	"Change ticket?\n"
+	"Trocar de tíquete?\n"
 	option
 		left = 1
 		right = 1
@@ -382,7 +383,7 @@ script 232 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"Sim "
 	option
 		left = 0
 		right = 0
@@ -390,7 +391,7 @@ script 232 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No"
+	"Não"
 	select
 		default = 0
 		BSeparate = false
@@ -417,9 +418,8 @@ script 233 mmbn3 {
 		flag = 10
 	msgOpen
 	"""
-	Lan returned the
-	ticket he was
-	holding!
+	Lan devolveu o tíquete
+	que tinha consigo!
 	"""
 	keyWait
 	clearMsg
@@ -432,7 +432,7 @@ script 234 mmbn3 {
 		amount = 1
 	msgOpen
 	"""
-	Lan used:
+	Lan usou:
 	"
 	"""
 	printItem
@@ -452,7 +452,7 @@ script 235 mmbn3 {
 	playerAnimate
 		animation = 24
 	"""
-	Lan got:
+	Lan adquiriu:
 	"
 	"""
 	printItem
@@ -472,7 +472,7 @@ script 236 mmbn3 {
 		amount = 1
 	msgOpen
 	"""
-	Lan used:
+	Lan usou:
 	"
 	"""
 	printItem
@@ -492,7 +492,7 @@ script 237 mmbn3 {
 	playerAnimate
 		animation = 24
 	"""
-	Lan got:
+	Lan adquiriu:
 	"
 	"""
 	printItem
@@ -512,7 +512,7 @@ script 238 mmbn3 {
 		amount = 1
 	msgOpen
 	"""
-	Lan used:
+	Lan usou:
 	"
 	"""
 	printItem

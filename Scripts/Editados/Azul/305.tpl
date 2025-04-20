@@ -5,9 +5,9 @@ script 0 mmbn3 {
 		mugshot = Sunayama
 	msgOpen
 	"""
-	This isn't
-	happening! DesertMan
-	has been deleted!?
+	Isso não pode estar
+	acontecendo!
+	DesertMan foi deletado?!
 	"""
 	keyWait
 	clearMsg
@@ -19,8 +19,8 @@ script 1 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Give it up,Sunayama!
-	You're finished!
+	Desiste, Sunayama!
+	Você já era!
 	"""
 	keyWait
 	clearMsg
@@ -37,15 +37,15 @@ script 2 mmbn3 {
 	mugshotAnimate
 		animation = 0
 	"""
-	(Lord Wily was quite
-	upset with the
-	BubbleMan incident…
+	(O Lorde Wily ficou bem
+	irritado com o incidente
+	do BubbleMan.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I can't let them
-	catch me here…)
+	Não posso deixar que
+	me peguem aqui...)
 	"""
 	keyWait
 	end
@@ -55,8 +55,8 @@ script 3 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	There's nowhere for
-	you to run!
+	Você não tem pra onde
+	fugir!
 	"""
 	keyWait
 	clearMsg
@@ -70,8 +70,8 @@ script 4 mmbn3 {
 	flagSet
 		flag = 1538
 	"""
-	Oh!!
-	Lord Wily!!
+	Ah!!
+	Lorde Wily!!
 	"""
 	keyWait
 	clearMsg
@@ -84,7 +84,7 @@ script 5 mmbn3 {
 	msgOpen
 	flagClear
 		flag = 1537
-	"Wily!?"
+	"Wily?!"
 	keyWait
 	clearMsg
 	jump
@@ -94,7 +94,7 @@ script 6 mmbn3 {
 	mugshotShow
 		mugshot = Sunayama
 	msgOpen
-	"Now's my chance!"
+	"É a minha chance!"
 	keyWait
 	end
 }
@@ -102,7 +102,7 @@ script 7 mmbn3 {
 	mugshotShow
 		mugshot = Sunayama
 	msgOpen
-	"No,not you!!"
+	"Não! Você, não!!"
 	keyWait
 	clearMsg
 	jump
@@ -113,8 +113,8 @@ script 8 mmbn3 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Where do you think
-	you're going?
+	Aonde você pensa que
+	vai?
 	"""
 	keyWait
 	end
@@ -124,13 +124,13 @@ script 9 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I can't believe you
-	pulled a BubbleMan
-	on me!
+	Não acredito que você
+	deu uma BubbleMan-zada
+	em mim!
 	"""
 	keyWait
 	clearMsg
-	"We have you now!!"
+	"Agora, a gente te pegou!!"
 	keyWait
 	clearMsg
 	flagClear
@@ -143,16 +143,15 @@ script 10 mmbn3 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	There's no escape.
-	The building's
-	surrounded. I hereby
+	Não há escapatória.
+	O prédio está cercado.
 	"""
 	keyWait
 	clearMsg
 	"""
-	arrest you under the
-	rights bestowed upon
-	me as an Official!
+	Sob a autoridade
+	conferida a mim como
+	Oficial, você está preso!
 	"""
 	keyWait
 	clearMsg
@@ -164,22 +163,22 @@ script 11 mmbn3 {
 		mugshot = Sunayama
 	msgOpen
 	"""
-	Heh heh heh!
-	So this is how it
-	ends,huh?
+	He he he!
+	Então, é assim que tudo
+	termina, é?
 	"""
 	keyWait
 	clearMsg
 	"""
-	The bad guy gets
-	caught in the end…
+	O bandido é pego no
+	final...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Say…
-	Can I ask one simple
-	request?
+	Ei...
+	Posso só fazer um
+	pedido bem simples?
 	"""
 	keyWait
 	clearMsg
@@ -190,7 +189,7 @@ script 12 mmbn3 {
 	mugshotShow
 		mugshot = Chaud
 	msgOpen
-	"What is it?"
+	"Qual?"
 	keyWait
 	clearMsg
 	jump
@@ -201,16 +200,15 @@ script 13 mmbn3 {
 		mugshot = Sunayama
 	msgOpen
 	"""
-	When the ratings
-	come out for this N1
-	Grand Prix,can you
+	Quando anunciarem a au-
+	diência do Grande Prêmio
+	N1, pode me informar?
 	"""
 	keyWait
 	clearMsg
 	"""
-	tell me? I
-	don't think I can
-	watch TV in jail.
+	Acho que não vão me
+	deixar ver TV na cadeia.
 	"""
 	keyWait
 	clearMsg
@@ -222,21 +220,20 @@ script 14 mmbn3 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Hmph.
-	Sure…
+	Hmpf.
+	Claro...
 	"""
 	keyWait
 	clearMsg
 	"""
-	……
-	Chaud reporting.
-	I've apprehended the
+	......
+	Aqui é Chaud.
+	Apreendi o suspeito.
 	"""
 	keyWait
 	clearMsg
 	"""
-	suspect. Take him
-	in.
+	Podem levá-lo.
 	"""
 	keyWait
 	end
@@ -245,7 +242,7 @@ script 15 mmbn3 {
 	mugshotShow
 		mugshot = Chaud
 	msgOpen
-	"Lan……"
+	"Lan......"
 	keyWait
 	clearMsg
 	jump
@@ -256,16 +253,15 @@ script 16 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	So the N1 Grand Prix
-	was cancelled. If
-	this hadn't happened
+	Então, o Grande Prêmio
+	N1 foi cancelado. Se isto
+	não tivesse acontecido,
 	"""
 	keyWait
 	clearMsg
 	"""
-	we could have faced
-	each other in the
-	finals!
+	a gente teria se
+	enfrentado nas finais!
 	"""
 	keyWait
 	clearMsg
@@ -277,13 +273,13 @@ script 17 mmbn3 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Hmph!
-	I'll settle scores
-	with you someday.
+	Hmpf!
+	Um dia, eu acerto as
+	contas com você.
 	"""
 	keyWait
 	clearMsg
-	"Someday…"
+	"Um dia..."
 	keyWait
 	end
 }
@@ -292,16 +288,16 @@ script 18 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Who'd have thought
-	the WWW was involved
-	with the N1 Grand
+	Quem ia imaginar que a
+	WWW tava envolvida com
+	o Grande Prêmio N1...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Prix? I wonder what
-	they're plotting
-	next?
+	O que será que eles
+	tão planejando fazer
+	agora?
 	"""
 	keyWait
 	clearMsg
@@ -313,23 +309,22 @@ script 19 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I don't know,
-	but I've got a bad
-	feeling.
+	Eu não sei, mas tô com
+	um péssimo
+	pressentimento.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'm still worried
-	about what that WWW
-	operator mentioned
+	Ainda tô preocupado com
+	o que aquele operador
+	da WWW falou durante
 	"""
 	keyWait
 	clearMsg
 	"""
-	during that school
-	burglary. "A major
-	catastrophe"…
+	a invasão da escola.
+	"Uma catástrofe maior"...
 	"""
 	keyWait
 	clearMsg
@@ -340,7 +335,7 @@ script 20 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Yeah."
+	"É."
 	keyWait
 	clearMsg
 	jump
@@ -351,14 +346,14 @@ script 21 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Come on,Lan. Let's
-	call it a day!
+	Enfim, vamos indo, Lan.
+	Acho que já de por hoje!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I've got to rest my
-	weary frame!
+	Os meus megabytes
+	estão exaustos!
 	"""
 	keyWait
 	clearMsg
@@ -370,16 +365,15 @@ script 22 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Oh,yeah! You've been
-	battling all day
-	long!
+	Nossa, verdade, né?
+	Você lutou o dia todo!
 	"""
 	keyWait
 	clearMsg
 	"""
-	We should also drop
-	by the hospital and
-	visit Yai!
+	E a gente também tem
+	que passar no hospital
+	pra visitar a Yai.
 	"""
 	keyWait
 	end

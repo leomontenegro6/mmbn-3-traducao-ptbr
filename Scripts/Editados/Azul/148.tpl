@@ -4,7 +4,7 @@ script 0 mmbn3 {
 	mugshotShow
 		mugshot = MrProg
 	msgOpen
-	"Goal!"
+	"Gol!"
 	keyWait
 	clearMsg
 	"Offside!"
@@ -357,8 +357,8 @@ script 20 mmbn3 {
 		mugshot = BowlMan
 	msgOpen
 	"""
-	I'll take you on
-	any time,Lan!
+	Eu topo lutar com você
+	a qualquer hora, Lan!
 	"""
 	keyWait
 	clearMsg
@@ -667,8 +667,8 @@ script 40 mmbn3 {
 		mugshot = MistMan
 	msgOpen
 	"""
-	I'll take you on
-	any time,Lan!
+	Eu topo lutar com você
+	a qualquer hora, Lan!
 	"""
 	keyWait
 	clearMsg
@@ -943,8 +943,8 @@ script 190 mmbn3 {
 script 230 mmbn3 {
 	msgOpen
 	"""
-	MegaMan accessed the
-	mystery data.
+	MegaMan acessou os
+	dados misteriosos.
 	"""
 	wait
 		frames = 10
@@ -966,8 +966,7 @@ script 230 mmbn3 {
 		code = H
 		amount = 1
 	"""
-	MegaMan got a chip
-	for
+	MegaMan adquiriu o chip
 	"
 	"""
 	printChip

@@ -5,8 +5,9 @@ script 0 mmbn3 {
 		mugshot = Dex
 	msgOpen
 	"""
-	If anything happens,
-	just scream!
+	Se acontecer alguma
+	coisa, é só cê dar um
+	berro!
 	"""
 	keyWait
 	end
@@ -24,7 +25,7 @@ script 1 mmbn3 {
 	"."
 	waitSkip
 		frames = 20
-	"\nbe careful!"
+	"\ntoma cuidado!"
 	keyWait
 	end
 }
@@ -32,7 +33,10 @@ script 2 mmbn3 {
 	mugshotShow
 		mugshot = Yai
 	msgOpen
-	"You watch out,now!"
+	"""
+	Não vá fazer nenhuma
+	loucura, viu?!
+	"""
 	keyWait
 	end
 }
@@ -41,16 +45,16 @@ script 10 mmbn3 {
 		mugshot = MsMari
 	msgOpen
 	"""
-	Why are you here?
-	Only Dex has
-	detention!
+	Lan, por que você
+	está aqui? Só o Dex
+	levou detenção!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Of course,you can
-	join him if you want
-	to! Hee,hee,hee!
+	Digo, você PODE se
+	juntar a ele, se quiser!
+	Hi hi hi!
 	"""
 	keyWait
 	end
@@ -60,9 +64,9 @@ script 15 mmbn3 {
 		mugshot = PigtailsGirl
 	msgOpen
 	"""
-	I'm going to ask for
-	some help. I hope my
-	teacher is here…
+	Eu vim pedir ajuda.
+	Espero que o meu
+	professor esteja aqui...
 	"""
 	keyWait
 	end
@@ -72,16 +76,16 @@ script 20 mmbn3 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	I'm surprised that
-	Yai made it to the
-	N1 Grand Prix…!
+	Fico surpreso da Yai
+	ter chegado no Grande
+	Prêmio N1...!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I didn't know that
-	she was so strong
-	of a NetBattler!
+	Eu não sabia que ela
+	era uma NetLutadora
+	forte assim!
 	"""
 	keyWait
 	end
@@ -101,14 +105,14 @@ script 190 mmbn3 {
 		mugshot = Girl
 	msgOpen
 	"""
-	Oh,no! I lost a chip
-	that my friend let
-	me borrow!
+	Essa não! Eu perdi um
+	chip que uma amiga me
+	emprestou!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Lan,do you have a
+	Lan, você tem aí um
 	"
 	"""
 	printChip
@@ -120,13 +124,13 @@ script 190 mmbn3 {
 		code = W
 	"""
 	"
-	you could spare?
+	sobrando?
 	"""
 	keyWait
 	clearMsg
 	"""
-	If you do,would you
-	trade it for this
+	Se tiver, se não for
+	abuso, troca por este 
 	"
 	"""
 	printChip
@@ -147,7 +151,7 @@ script 190 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Sure! "
+	"   Tá! "
 	option
 		left = 0
 		right = 0
@@ -155,7 +159,7 @@ script 190 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No way!"
+	"          Não!"
 	select
 		default = 0
 		BSeparate = false
@@ -185,8 +189,8 @@ script 191 mmbn3 {
 		mugshot = Girl
 	msgOpen
 	"""
-	You will!?
-	Thank you!
+	Troca mesmo?!
+	Obrigada!
 	"""
 	keyWait
 	clearMsg
@@ -204,7 +208,7 @@ script 192 mmbn3 {
 	playerAnimate
 		animation = 24
 	"""
-	Lan got a chip for
+	Lan adquiriu o chip
 	"
 	"""
 	printChip
@@ -228,9 +232,9 @@ script 193 mmbn3 {
 		mugshot = Girl
 	msgOpen
 	"""
-	I'm so relieved!
-	I thought I'd be in
-	biiiig trouble!
+	Ai, que alívio!
+	Eu achei que ia me
+	sujar com a amiga!
 	"""
 	keyWait
 	end
@@ -240,15 +244,15 @@ script 194 mmbn3 {
 		mugshot = Girl
 	msgOpen
 	"""
-	Oh…
-	Well,that's OK…
+	Ah...
+	Bom, tudo bem...
 	"""
 	keyWait
 	clearMsg
 	"""
-	But what can I do…?
-	I'm going to be in
-	biiiig trouble…
+	Fazer o quê, né...?
+	Lá se vai a minha
+	AMIZADE INTEIRA...
 	"""
 	keyWait
 	end
@@ -258,21 +262,21 @@ script 195 mmbn3 {
 		mugshot = Girl
 	msgOpen
 	"""
-	Hmmm,it doesn't seem
-	to be in your pack…
+	Hmmm, não parece
+	estar na sua mochila...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Maybe you have it in
-	your folder?
+	Será que você botou
+	na sua pasta?
 	"""
 	keyWait
 	clearMsg
 	"""
-	If so,you'll need to
-	move it to your
-	pack first…
+	Se sim, vai ter que
+	transferir pra sua
+	mochila, primeiro...
 	"""
 	keyWait
 	end
@@ -282,9 +286,9 @@ script 196 mmbn3 {
 		mugshot = Girl
 	msgOpen
 	"""
-	Thank you,Lan! Now
-	I can give this to
-	my friend!
+	Valeu, Lan! Agora, eu
+	posso dar este chip pra
+	minha amiga!
 	"""
 	keyWait
 	end
@@ -294,13 +298,14 @@ script 197 mmbn3 {
 		mugshot = Girl
 	msgOpen
 	"""
-	I still can't find
-	my friend's chip!
+	Eu ainda não consegui
+	achar o chip da minha
+	amiga!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Would you trade that
+	Topa trocar aquele
 	"
 	"""
 	printChip
@@ -311,8 +316,8 @@ script 197 mmbn3 {
 		buffer = 0
 		code = W
 	"""
-	" for
-	this "
+	" por este
+	 "
 	"""
 	printChip
 		buffer = 0
@@ -321,7 +326,7 @@ script 197 mmbn3 {
 	printCode
 		buffer = 0
 		code = P
-	"\"?"
+	"\" agora?"
 	keyWait
 	clearMsg
 	mugshotHide
@@ -332,7 +337,7 @@ script 197 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Sure! "
+	"   Tá! "
 	option
 		left = 0
 		right = 0
@@ -340,7 +345,7 @@ script 197 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No way!"
+	"          Não!"
 	select
 		default = 0
 		BSeparate = false
@@ -355,15 +360,15 @@ script 197 mmbn3 {
 script 220 mmbn3 {
 	msgOpen
 	"""
-	The door to the
-	storage room
+	A porta para a
+	despensa.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Someone has put a
-	big lock on it,and
-	you can't get in
+	Alguém colocou um
+	cadeado gigante nela.
+	Não dá para entrar.
 	"""
 	keyWait
 	end

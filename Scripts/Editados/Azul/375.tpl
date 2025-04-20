@@ -4,7 +4,7 @@ script 0 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"……"
+	"......"
 	keyWait
 	clearMsg
 	jump
@@ -16,8 +16,8 @@ script 1 mmbn3 {
 	msgOpen
 	"""
 	Lan.
-	How about we go to
-	school tomorrow?
+	Que tal a gente ir pra
+	escola amanhã?
 	"""
 	keyWait
 	clearMsg
@@ -29,8 +29,8 @@ script 2 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	……
-	I don't want to go…
+	......
+	Eu não quero ir...
 	"""
 	keyWait
 	clearMsg
@@ -42,8 +42,8 @@ script 3 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Everyone's probably
-	worried about you.
+	Todo mundo deve estar
+	preocupado com você.
 	"""
 	keyWait
 	clearMsg
@@ -56,7 +56,7 @@ script 4 mmbn3 {
 	soundDisableTextSFX
 	soundPlay
 		track = 212
-	"Ding-dong!"
+	"Dim-Dom!"
 	wait
 		frames = 60
 	keyWait
@@ -71,14 +71,13 @@ script 5 mmbn3 {
 	msgOpen
 	"""
 	Laaaaan!
-	We know you're in
-	there!
+	Sabemos que você tá aí!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Mayl and I came to
-	cheer you up!
+	A Mayl e eu viemos te
+	dar uma animada!
 	"""
 	keyWait
 	clearMsg
@@ -90,9 +89,9 @@ script 6 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	See? What did I tell
-	you? Let's let them
-	in.
+	Viu? Eu disse.
+	Vamos lá receber as
+	duas.
 	"""
 	keyWait
 	clearMsg
@@ -104,8 +103,8 @@ script 7 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I don't want to see
-	anyone…
+	Eu não quero falar com
+	ninguém...
 	"""
 	keyWait
 	clearMsg
@@ -117,9 +116,9 @@ script 8 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Come on,Lan! They
-	came because they
-	care about you!
+	Lan, por favor! Elas
+	vieram porque se
+	importam com você!
 	"""
 	keyWait
 	clearMsg
@@ -130,7 +129,7 @@ script 9 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"……"
+	"......"
 	keyWait
 	end
 }
@@ -139,8 +138,8 @@ script 10 mmbn3 {
 		mugshot = Yai
 	msgOpen
 	"""
-	You've been through
-	a lot,Lan.
+	Você passou por muita
+	coisa mesmo, Lan.
 	"""
 	keyWait
 	clearMsg
@@ -152,8 +151,8 @@ script 11 mmbn3 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	How's your father
-	doing,Lan?
+	Como é que tá o seu
+	pai?
 	"""
 	keyWait
 	clearMsg
@@ -165,9 +164,9 @@ script 12 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	He's a lot better,
-	but mom called and
-	said he needs rest.
+	Melhorou bastante já,
+	mas a mamãe disse que
+	precisa de mais repouso.
 	"""
 	keyWait
 	clearMsg
@@ -179,8 +178,8 @@ script 13 mmbn3 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	Oh…
-	And your mother?
+	Ah...
+	E a sua mãe?
 	"""
 	keyWait
 	clearMsg
@@ -192,8 +191,8 @@ script 14 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	She hasn't left
-	dad's side…
+	Ela não saiu do lado do
+	papai...
 	"""
 	keyWait
 	clearMsg
@@ -205,29 +204,29 @@ script 15 mmbn3 {
 		mugshot = Yai
 	msgOpen
 	"""
-	……
-	Hey,Lan.
-	Come back to school.
+	......
+	Ei, Lan.
+	Volta pra escola.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Everyone's worried
-	about you.
+	Tá todo mundo
+	preocupado com você.
 	"""
 	keyWait
 	clearMsg
 	"""
-	They say you solved
-	that WWW incident,
-	you know!
+	Todos ficam falando so-
+	bre como você resolveu
+	o incidente da WWW.
 	"""
 	keyWait
 	clearMsg
 	"""
-	It's hard to
-	celebrate without
-	the hero in class!
+	E é meio complicado
+	comemorar sem o herói
+	lá, na classe!
 	"""
 	keyWait
 	clearMsg
@@ -238,7 +237,7 @@ script 16 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"……"
+	"......"
 	keyWait
 	end
 }
@@ -246,7 +245,7 @@ script 17 mmbn3 {
 	mugshotShow
 		mugshot = Mayl
 	msgOpen
-	"What is it,Lan?"
+	"Que foi, Lan?"
 	keyWait
 	clearMsg
 	jump
@@ -257,8 +256,7 @@ script 18 mmbn3 {
 		mugshot = Yai
 	msgOpen
 	"""
-	Are you feeling
-	sick?
+	Tá passando mal?
 	"""
 	keyWait
 	clearMsg
@@ -270,8 +268,8 @@ script 19 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Go home! Both of
-	you!
+	Vão logo pra casa!
+	Vocês duas, vão!
 	"""
 	soundStop
 	keyWait
@@ -284,9 +282,9 @@ script 20 mmbn3 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	What's wrong,Lan?
-	Was it something we
-	said?
+	O que foi, Lan?
+	Foi alguma coisa que eu
+	disse?
 	"""
 	keyWait
 	clearMsg
@@ -298,8 +296,8 @@ script 21 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Just leave me alone!
-	Go home!
+	Só me deixem em paz!
+	Vão embora!
 	"""
 	keyWait
 	end
@@ -309,9 +307,9 @@ script 22 mmbn3 {
 		mugshot = Yai
 	msgOpen
 	"""
-	Hey! We came here
-	because we were
-	worried about you!
+	Ei! A gente só veio aqui
+	porque estávamos
+	preocupadas com você!
 	"""
 	keyWait
 	clearMsg
@@ -323,8 +321,8 @@ script 23 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Just forget about
-	me! I'm fine!
+	Me esqueçam, tá?!
+	Eu tô bem!
 	"""
 	keyWait
 	clearMsg
@@ -338,9 +336,9 @@ script 24 mmbn3 {
 	flagClear
 		flag = 2307
 	"""
-	Fine then! Be that
-	way! Come on,Mayl.
-	Let's go!
+	Tá bom, então! Mofa aí!
+	Vem, Mayl, vamos
+	embora.
 	"""
 	keyWait
 	clearMsg
@@ -351,7 +349,7 @@ script 25 mmbn3 {
 	mugshotShow
 		mugshot = Mayl
 	msgOpen
-	"Uh…OK…"
+	"Er... Tá..."
 	keyWait
 	end
 }
@@ -360,16 +358,16 @@ script 26 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Don't you think that
-	was a little too
-	much,Lan? I mean…
+	Você não acha que
+	exagerou, não, Lan?
+	Quer dizer...
 	"""
 	keyWait
 	clearMsg
 	"""
-	I know how you feel,
-	but they only came
-	because they care!
+	Eu entendo como se
+	sente, mas elas só vie-
+	ram porque se importam!
 	"""
 	keyWait
 	clearMsg
@@ -380,20 +378,19 @@ script 27 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"I know,I know…!"
+	"Eu sei, eu sei! Eu sei..."
 	keyWait
 	clearMsg
 	"""
-	But I'm no "hero".
-	After what I've
-	done…
+	Mas eu não sou "herói"
+	coisa nenhuma.
+	Depois do que eu fiz...
 	"""
 	keyWait
 	clearMsg
 	"""
-	How am I supposed
-	to show my face at
-	school!?
+	Como eu poderia dar
+	as caras na escola?!
 	"""
 	keyWait
 	clearMsg
@@ -408,23 +405,23 @@ script 28 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	How long are you
-	going to sulk? What
-	is done is done!
+	Até quando você vai
+	ficar se lamentando?!
+	O que passou, passou!
 	"""
 	keyWait
 	clearMsg
 	"""
-	All you can do is to
-	accept it and make
-	amends.
+	Só o que se pode fazer
+	é aceitar e se esforçar
+	pra se redimir.
 	"""
 	keyWait
 	clearMsg
 	"""
-	It isn't fair for
-	you to take it out
-	on your friends!
+	Não é justo você
+	descontar nas suas
+	amigas!
 	"""
 	keyWait
 	clearMsg
@@ -437,7 +434,7 @@ script 29 mmbn3 {
 	soundDisableTextSFX
 	soundPlay
 		track = 212
-	"Ding-dong!"
+	"Dim-Dom!"
 	wait
 		frames = 60
 	keyWait
@@ -451,9 +448,9 @@ script 30 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	That must be them
-	again. Let's go down
-	and apologize!
+	Devem ser elas de
+	novo.
+	Vamos lá pedir desculpas!
 	"""
 	keyWait
 	end

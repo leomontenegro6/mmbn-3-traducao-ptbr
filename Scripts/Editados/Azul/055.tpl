@@ -21,16 +21,16 @@ script 0 mmbn3 {
 		mugshot = Mom
 	msgOpen
 	"""
-	Welcome home!
-	How was the new
+	Você voltou, filho!
+	Como foi lá no novo
 	SciLab?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Your father told me
-	that they've done it
-	up quite nicely.
+	O seu pai me contou que
+	a reforma deixou o lugar
+	incrível.
 	"""
 	keyWait
 	end
@@ -40,9 +40,9 @@ script 1 mmbn3 {
 		mugshot = Mom
 	msgOpen
 	"""
-	Did you finish your
-	homework? Don't just
-	play on the Net,now!
+	Já terminou a lição de
+	casa? Não fique brincan-
+	do na Rede o dia todo!
 	"""
 	keyWait
 	end
@@ -52,9 +52,9 @@ script 2 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Where are you going?
-	It's time for the
-	chat to start!
+	Aonde você vai?
+	Já tá na hora do
+	bate-papo!
 	"""
 	keyWait
 	end
@@ -64,9 +64,9 @@ script 3 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,shouldn't you
-	tell mom that we're
-	home now?
+	Lan, não vai falar pra
+	mamãe que a gente
+	chegou?
 	"""
 	keyWait
 	end
@@ -85,18 +85,18 @@ script 6 mmbn3 {
 		mugshot = Mom
 	msgOpen
 	"""
-	I have to wash
-	those dishes…
+	Preciso lavar esta
+	louça toda...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Oh,and my soap opera
-	is starting soon!
+	Ah, e a minha novela
+	já vai começar!
 	"""
 	keyWait
 	clearMsg
-	"So busy,so busy…"
+	"Trabalho, trabalho..."
 	keyWait
 	end
 }
@@ -145,14 +145,14 @@ script 10 mmbn3 {
 		mugshot = Mom
 	msgOpen
 	"""
-	You're going to
-	see Dex?
+	Então, você vai sair
+	pra falar com o Dex?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Don't bother him
-	for too long,now!
+	Não vá alugar ele por
+	muito tempo, viu?
 	"""
 	keyWait
 	end
@@ -161,7 +161,7 @@ script 11 mmbn3 {
 	mugshotShow
 		mugshot = Mom
 	msgOpen
-	"You're home already?"
+	"Já voltou, filho?"
 	keyWait
 	end
 }
@@ -170,15 +170,14 @@ script 15 mmbn3 {
 		mugshot = Mom
 	msgOpen
 	"""
-	You sure are late!
-	You get to bed,now.
+	Olha a hora, menino!
+	Pra cama, já!
 	"""
 	keyWait
 	clearMsg
 	"""
-	You don't want to be
-	late for school
-	tomorrow!
+	Senão, vai se atrasar
+	pra escola amanhã!
 	"""
 	keyWait
 	end
@@ -193,9 +192,9 @@ script 16 mmbn3 {
 		mugshot = Mom
 	msgOpen
 	"""
-	Just where do you
-	think you're going,
-	Lan? It's bedtime!
+	Aonde você pensa que
+	vai, mocinho?
+	Hora de dormir!
 	"""
 	keyWait
 	end
@@ -215,30 +214,28 @@ script 18 mmbn3 {
 		mugshot = Mom
 	msgOpen
 	"""
-	You're going to
-	SciLab to see
-	your father?
+	Você vai no SciLab
+	falar com o seu pai?
 	"""
 	keyWait
 	clearMsg
 	"""
-	You went by bus when
-	you went for a field
-	trip,didn't you?
+	Da última vez, vocês
+	foram lá de ônibus, na
+	excursão, não foi?
 	"""
 	keyWait
 	clearMsg
 	"""
-	You know,the
-	Metroline goes
-	there,too!
+	Mas, sabe, a Metrolinha
+	também leva pra lá!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Don't disturb your
-	father's work too
-	much,now!
+	Só não vá atrapalhar
+	muito o trabalho do seu
+	pai, Lan!
 	"""
 	keyWait
 	end
@@ -247,13 +244,13 @@ script 19 mmbn3 {
 	mugshotShow
 		mugshot = Mom
 	msgOpen
-	"Chisao is in town?"
+	"O Chisao está no bairro?"
 	keyWait
 	clearMsg
 	"""
-	The last time I saw
-	him,he was just a
-	little baby!
+	Da última vez que eu o
+	vi, ele ainda era
+	bebezinho!
 	"""
 	keyWait
 	end
@@ -263,15 +260,16 @@ script 20 mmbn3 {
 		mugshot = Dad
 	msgOpen
 	"""
-	I don't know any of
-	these TV shows…
+	Eu não conheço nenhum
+	desses programas de
+	TV...
 	"""
 	keyWait
 	clearMsg
 	"""
-	I guess I just never
-	have time to watch
-	TV…
+	Acho que já faz anos
+	que eu não tenho tempo
+	pra ver TV.
 	"""
 	keyWait
 	end
@@ -281,15 +279,15 @@ script 21 mmbn3 {
 		mugshot = Mom
 	msgOpen
 	"""
-	I think I'll make
-	your father's
-	favorite dinner…
+	Acho que vou fazer o
+	prato favorito do seu
+	pai pro jantar!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Hmmm…What was it
-	that he likes?
+	Hmm... Do que é que ele
+	gostava, mesmo?
 	"""
 	keyWait
 	end
@@ -302,19 +300,19 @@ script 22 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	I told you to go to
-	bed! Go to sleep
+	Já falei que é hora de
+	dormir! Pra cama, 
 	
 	"""
 	waitSkip
 		frames = 30
-	"N"
+	"A"
 	waitSkip
 		frames = 30
-	"O"
+	"GO"
 	waitSkip
 		frames = 30
-	"W"
+	"RA"
 	waitSkip
 		frames = 30
 	"!"
@@ -330,9 +328,9 @@ script 23 mmbn3 {
 		mugshot = Mom
 	msgOpen
 	"""
-	I think you're
-	spending too much
-	time on the Net!
+	Eu acho que você
+	passa tempo demais na
+	Rede, Lan!
 	"""
 	keyWait
 	end
@@ -341,7 +339,7 @@ script 25 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Lan! You got mail!!"
+	"Lan! Chegou e-mail!"
 	keyWait
 	end
 }
@@ -350,9 +348,9 @@ script 27 mmbn3 {
 		mugshot = Mom
 	msgOpen
 	"""
-	Your field trip is
-	today! Don't be
-	late,now!
+	A sua excursão é hoje!
+	Não vá se atrasar,
+	hein?
 	"""
 	keyWait
 	end
@@ -376,20 +374,20 @@ script 30 mmbn3 {
 	mugshotShow
 		mugshot = Mom
 	msgOpen
-	"Welcome home!"
+	"Bem-vindo de volta!"
 	keyWait
 	clearMsg
 	"""
-	Higsby called you!
-	I told him you
-	weren't home yet.
+	O Higsby ligou te procu-
+	rando! Disse que você
+	não tinha chegado ainda.
 	"""
 	keyWait
 	clearMsg
 	"""
-	He sounded all
-	stuffy,like he has
-	a cold.
+	Ele parecia estar com o
+	nariz todo entupido.
+	Será que gripou?
 	"""
 	keyWait
 	end
@@ -399,14 +397,15 @@ script 31 mmbn3 {
 		mugshot = Mom
 	msgOpen
 	"""
-	You're helping
-	Higsby?
+	Você está ajudando
+	o Higsby?
 	"""
 	keyWait
 	clearMsg
 	"""
-	I wish you'd help
-	ME out some time!
+	Bom, que tal ME ajudar
+	na casa, de vez em
+	quando?!
 	"""
 	keyWait
 	end
@@ -416,16 +415,16 @@ script 32 mmbn3 {
 		mugshot = Mom
 	msgOpen
 	"""
-	You're going out
-	again? But you just
-	got back home!
+	Já vai sair, filho?
+	Mas você acabou de
+	chegar!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Oh,by the way,I'll
-	be out for a town
-	meeting tomorrow!
+	Ah, sim: eu vou ficar
+	fora amanhã, numa
+	reunião do bairro!
 	"""
 	keyWait
 	end
@@ -435,28 +434,29 @@ script 33 mmbn3 {
 		mugshot = Mom
 	msgOpen
 	"""
-	I heard that there
-	was a lot of trouble
-	today! How scary!
+	Soube que ocorreram
+	várias coisas perigosas
+	hoje! Que medo!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Those brand new
-	dishwashers went
-	berserk,they say.
+	Disseram que aquelas
+	novas lava-louças
+	deram pane geral.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I almost bought one
-	of those,myself!
+	Pior que eu quase
+	comprei uma pra mim,
+	acredita?!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'm sure glad that
-	I didn't!
+	Ainda bem que desisti da
+	ideia!
 	"""
 	keyWait
 	end
@@ -481,29 +481,30 @@ script 40 mmbn3 {
 		mugshot = Mom
 	msgOpen
 	"""
-	What's this N1 I've
-	been hearing so
-	much about?
+	Lan, o que é esse tal
+	de "N1" de que todo
+	mundo anda falando?
 	"""
 	keyWait
 	clearMsg
 	mugshotAnimate
 		animation = 0
-	"……"
+	"......"
 	keyWait
 	clearMsg
 	mugshotAnimate
 		animation = 1
 	"""
-	What!?
-	You're in it,too!?
+	O quê?!
+	Você também vai
+	participar?!
 	"""
 	keyWait
 	clearMsg
 	"""
-	So that's why you've
-	been playing on the
-	Internet so much…
+	Então é por isso que
+	você anda brincando
+	tanto na Rede...
 	"""
 	keyWait
 	end
@@ -517,9 +518,9 @@ script 41 mmbn3 {
 		mugshot = Mom
 	msgOpen
 	"""
-	Be sure to give that
-	to your father,now!
-	Thank you!
+	Entregue pro seu pai
+	assim que puder, tá bom?
+	Obrigada, filho!
 	"""
 	keyWait
 	end
@@ -529,12 +530,13 @@ script 42 mmbn3 {
 		mugshot = Mom
 	msgOpen
 	"""
-	I'll be watching you
-	on TV! Good luck!
+	Vou torcer por você
+	pela TV!
+	Boa sorte, Lan!
 	"""
 	keyWait
 	clearMsg
-	"And don't get hurt!"
+	"Não vá se machucar!"
 	keyWait
 	end
 }
@@ -543,9 +545,8 @@ script 43 mmbn3 {
 		mugshot = Mom
 	msgOpen
 	"""
-	I thought that you
-	were going to the
-	TV station?
+	Pensei que você ia
+	pra emissora de TV...
 	"""
 	keyWait
 	end
@@ -555,8 +556,8 @@ script 44 mmbn3 {
 		mugshot = Mom
 	msgOpen
 	"""
-	Thank you,Lan!
-	How was your father?
+	Ai, obrigada, Lan!
+	Como o seu pai estava?
 	"""
 	keyWait
 	end
@@ -571,18 +572,23 @@ script 45 mmbn3 {
 		mugshot = Mom
 	msgOpen
 	"""
-	You're going to see
-	Yai in the hospital?
+	Você vai visitar a Yai
+	no hospital?
 	"""
 	keyWait
 	clearMsg
 	"""
-	I hope she wasn't
-	hurt too badly…
+	Espero que ela não
+	tenha se ferido muito
+	feio...
 	"""
 	keyWait
 	clearMsg
-	"Give her my best!"
+	"""
+	Diga pra ela que estou
+	torcendo pela
+	recuperação dela!
+	"""
 	keyWait
 	end
 }
@@ -591,14 +597,15 @@ script 46 mmbn3 {
 		mugshot = Mom
 	msgOpen
 	"""
-	He says that he met
-	you at the N1.
+	Ele disse que te
+	conheceu no Grande
+	Prêmio N1.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Don't keep him
-	waiting,now!
+	Vamos, não deixe o
+	rapaz esperando!
 	"""
 	keyWait
 	end
@@ -612,9 +619,9 @@ script 47 mmbn3 {
 		mugshot = Mom
 	msgOpen
 	"""
-	No,Tora,it's OK!
-	I don't need help.
-	Go play with Lan.
+	Não, Tora, eu não faria
+	essa desfeita! Não!
+	Vá brincar com o Lan.
 	"""
 	keyWait
 	clearMsg
@@ -626,16 +633,16 @@ script 48 mmbn3 {
 		mugshot = Tora
 	msgOpen
 	"""
-	No bother at all! I
-	do this much every
-	day at home!
+	Né desfeita, não!
+	Eu "fass'aqui" direto
+	lá em casa!
 	"""
 	keyWait
 	clearMsg
 	"""
-	And I couldn't just
-	eat such a wonderful
-	meal for nothing!
+	Desfeita seria eu comer
+	uma comida deliciosa
+	daquelas sem ajudar!
 	"""
 	keyWait
 	end
@@ -645,15 +652,16 @@ script 49 mmbn3 {
 		mugshot = Mom
 	msgOpen
 	"""
-	I hope that once
-	you're in Jr. High
-	school
+	Lan, espero que,
+	quando você chegar
+	no Fundamental II,
 	"""
 	keyWait
 	clearMsg
 	"""
-	you learn to be as
-	polite as Tora is!
+	aprenda a ser tão
+	educado e prestativo
+	quanto o Tora!
 	"""
 	keyWait
 	end
@@ -663,15 +671,15 @@ script 50 mmbn3 {
 		mugshot = Tora
 	msgOpen
 	"""
-	Hey,Lan! I'm going
-	to help your mother
-	out here.
+	Fala, Lan!
+	Eu vou ajudar a
+	senhora tua mãe aqui.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Could you go wait
-	for me somewhere?
+	Me espera em algum
+	lugar aí.
 	"""
 	keyWait
 	end
@@ -685,12 +693,13 @@ script 55 mmbn3 {
 		mugshot = Mom
 	msgOpen
 	"""
-	How many times do I
-	have to wake you up?
+	Quantas vezes eu vou
+	precisar te acordar,
+	Lan?!
 	"""
 	keyWait
 	clearMsg
-	"Get going to school!"
+	"Pra escola, anda!"
 	keyWait
 	end
 }
@@ -699,15 +708,15 @@ script 56 mmbn3 {
 		mugshot = Mom
 	msgOpen
 	"""
-	What? Dex
-	is moving!?
+	O quê?
+	O Dex vai se mudar?!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Maybe you can catch
-	him before he leaves
-	town,if you hurry!
+	Talvez ainda consiga
+	vê-lo antes dele deixar
+	o bairro! Corre, Lan!
 	"""
 	keyWait
 	end
@@ -726,13 +735,13 @@ script 57 mmbn3 {
 		mugshot = Mom
 	msgOpen
 	"""
-	Don't get all upset
-	because Dex moved,
-	now!
+	Não fique tristinho
+	porque o Dex se mudou,
+	filho!
 	"""
 	keyWait
 	clearMsg
-	"Cheer up,Lan!!"
+	"Vai, se anima!!"
 	keyWait
 	end
 }
@@ -741,16 +750,16 @@ script 58 mmbn3 {
 		mugshot = Mom
 	msgOpen
 	"""
-	Your friend is in
-	the hospital?
-	Oh,my…
+	O seu amiguinho está
+	no hospital?
+	Nossa...
 	"""
 	keyWait
 	clearMsg
 	"""
-	You go see if there
-	isn't something you
-	can do for him!
+	Bom, fale com ele, veja
+	se não pode fazer algo
+	para ajudá-lo!
 	"""
 	keyWait
 	end
@@ -760,12 +769,12 @@ script 60 mmbn3 {
 		mugshot = Mom
 	msgOpen
 	"""
-	Your friend is going
-	to have surgery?
+	Aquele seu amigo vai
+	passar por uma cirurgia?
 	"""
 	keyWait
 	clearMsg
-	"I hope he's OK!"
+	"Sei que ele vai ficar bem!"
 	keyWait
 	end
 }
@@ -774,13 +783,13 @@ script 65 mmbn3 {
 		mugshot = Mom
 	msgOpen
 	"""
-	You're getting a
-	commendation?
-	That's wonderful!
+	Você vai receber uma
+	condecoração!
+	Que maravilhoso!
 	"""
 	keyWait
 	clearMsg
-	"Well go get it,then!"
+	"Bom, não perca tempo!"
 	keyWait
 	end
 }
@@ -789,21 +798,21 @@ script 66 mmbn3 {
 		mugshot = Mom
 	msgOpen
 	"""
-	You don't look very
-	well,Lan. What's
-	wrong?
+	Você não tá com uma
+	carinha muito boa, Lan.
+	O que foi?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Oh,how did the
-	ceremony go?
+	Ah, sim, como foi lá na
+	cerimônia?
 	"""
 	keyWait
 	clearMsg
 	"""
-	You said WHAT
-	happened???
+	.......
+	Aconteceu o QUÊ?!
 	"""
 	keyWait
 	end
@@ -813,9 +822,9 @@ script 67 mmbn3 {
 		mugshot = Mom
 	msgOpen
 	"""
-	I heard that there
-	was another incident
-	on the Internet…
+	Ouvi dizer que houve
+	outro incidente na
+	Rede...
 	"""
 	keyWait
 	end
@@ -825,9 +834,9 @@ script 70 mmbn3 {
 		mugshot = Mom
 	msgOpen
 	"""
-	Things seem so
-	dangerous on the
-	Net these days…
+	As coisas parecem que
+	andam tão perigosas
+	na Rede estes dias...
 	"""
 	keyWait
 	end
@@ -841,16 +850,16 @@ script 73 mmbn3 {
 		mugshot = Mom
 	msgOpen
 	"""
-	Welcome home! We're
-	having pork chops
-	for dinner…
+	Bem-vindo, filho! Hoje
+	vamos ter costelinha
+	de porco pro jantar...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Why don't you go
-	finish your homework
-	before dinner?
+	Por que não termina
+	sua lição de casa
+	e come depois?
 	"""
 	keyWait
 	end
@@ -860,18 +869,18 @@ script 74 mmbn3 {
 		mugshot = Mom
 	msgOpen
 	"""
-	Lan! The SciLab…!!
-	Your father…!!
+	Lan! O SciLab...!!
+	O seu pai...!!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Oh,I hope that
-	he's OK…
+	Ah, tomara que ele
+	esteja bem...
 	"""
 	keyWait
 	clearMsg
-	"Oh,honey…!"
+	"Yuichiro, querido...!"
 	keyWait
 	end
 }
@@ -880,8 +889,8 @@ script 77 mmbn3 {
 		mugshot = Mom
 	msgOpen
 	"""
-	Oh,honey…
-	Please be safe…
+	Ah, Yuichiro...
+	Por favor, esteja bem...
 	"""
 	keyWait
 	end
@@ -891,34 +900,33 @@ script 80 mmbn3 {
 		mugshot = Mom
 	msgOpen
 	"""
-	You're going there,
-	Lan?
+	Você vai lá, Lan?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Your father told me
-	all about it…
+	Seu pai me explicou
+	a coisa toda...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Come back safely!
-	I'll protect our
-	home!
+	Volte em segurança!
+	Eu vou proteger a
+	nossa casa!
 	"""
 	keyWait
 	clearMsg
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"\nBe careful,dear!"
+	"\nToma cuidado, filho!"
 	keyWait
 	end
 }
@@ -929,16 +937,16 @@ script 220 mmbn3 {
 		jumpIfFalse = continue
 	msgOpen
 	"""
-	Dad bought this doll
-	for mom when he went
-	overseas
+	O papai comprou essa
+	boneca pra mamãe quan-
+	do viajou pro exterior.
 	"""
 	keyWait
 	clearMsg
 	"""
-	It's quite cute. Dad
-	is good at choosing
-	gifts like this
+	É muito bonitinha.
+	O papai é bom em esco-
+	lher presentes do tipo.
 	"""
 	keyWait
 	end
@@ -950,22 +958,22 @@ script 221 mmbn3 {
 		jumpIfFalse = continue
 	msgOpen
 	"""
-	A strawberry and
-	cream shortcake
+	Um bolo de morango
+	com creme.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Mom has been 
-	learning how to bake
-	cakes recently
+	A mamãe anda
+	aprendendo a fazer
+	bolos.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Slightly sour
-	strawberries make
-	for a sweeter cake
+	Morangos levemente
+	azedos resultam em
+	um bolo mais doce.
 	"""
 	keyWait
 	end
@@ -973,16 +981,16 @@ script 221 mmbn3 {
 script 222 mmbn3 {
 	msgOpen
 	"""
-	All the ingredients
-	to bake a cake are
-	arranged here
+	Todos os ingredientes
+	para assar um bolo
+	estão organizados aqui.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Looks like you could
-	make a lot of cakes
-	with all of this
+	Parece que daria para
+	fazer muitos bolos com
+	tudo isso.
 	"""
 	keyWait
 	end
@@ -990,14 +998,14 @@ script 222 mmbn3 {
 script 223 mmbn3 {
 	msgOpen
 	"""
-	The perfect oven
-	for baking cakes
+	O forno perfeito
+	pra assar bolos.
 	"""
 	keyWait
 	clearMsg
 	"""
-	You smell a sponge
-	cake inside
+	Você sente o aroma de
+	pão-de-ló saindo dele.
 	"""
 	keyWait
 	end
@@ -1009,9 +1017,9 @@ script 224 mmbn3 {
 		jumpIfFalse = continue
 	msgOpen
 	"""
-	Mom's collection of
-	cooking utensils is
-	arranged here
+	A coleção de utensílios
+	de cozinha da mamãe
+	fica organizada aqui.
 	"""
 	keyWait
 	end
@@ -1019,9 +1027,9 @@ script 224 mmbn3 {
 script 225 mmbn3 {
 	msgOpen
 	"""
-	This TV is so thin
-	that you can roll it
-	up like a poster
+	Essa TV é tão fina que
+	parece até que dá pra
+	enrolar feito um pôster.
 	"""
 	keyWait
 	end
@@ -1034,16 +1042,16 @@ script 226 mmbn3 {
 		jumpIfOutOfRange = continue
 	msgOpen
 	"""
-	This is the control
-	unit for all of the
-	appliances here
+	Essa é a unidade de
+	controle de todos os
+	eletrodomésticos.
 	"""
 	keyWait
 	clearMsg
 	"""
-	You can jack in to
-	perform maintenance
-	and adjustments
+	É possível se conectar
+	para fazer manutenção
+	e ajuster.
 	"""
 	keyWait
 	end
@@ -1051,16 +1059,15 @@ script 226 mmbn3 {
 script 227 mmbn3 {
 	msgOpen
 	"""
-	You got in trouble
-	for tasting one of
-	these recently
+	Você levou bronca por
+	experimentar um teco,
+	um dia destes.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Maybe you'd best
-	leave this one
-	alone!
+	Acho que é melhor
+	deixar intocado!
 	"""
 	keyWait
 	end
@@ -1072,15 +1079,15 @@ script 228 mmbn3 {
 		jumpIfFalse = continue
 	msgOpen
 	"""
-	Mom's special,
-	Beef Stroganoff!
+	O especial da mamãe:
+	estrogonofe de carne!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Who can resist the
-	smell of demi-glace
-	sauce?
+	Quem no mundo é capaz
+	de resistir ao aroma de
+	molho demi-glace?
 	"""
 	keyWait
 	end
@@ -1088,21 +1095,21 @@ script 228 mmbn3 {
 script 229 mmbn3 {
 	msgOpen
 	"""
-	A famous potter made
-	this giant plate
+	Um oleiro famoso fez
+	esse prato gigante.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Dad won this as an
-	award for work he
-	did at SciLab
+	O papai ganhou isso
+	como prêmio pelo
+	trabalho dele no SciLab.
 	"""
 	keyWait
 	clearMsg
 	"""
-	It almost looks like
-	a fossil shellfish
+	Parece quase com um
+	marisco fossilizado.
 	"""
 	keyWait
 	end
@@ -1110,22 +1117,22 @@ script 229 mmbn3 {
 script 230 mmbn3 {
 	msgOpen
 	"""
-	The sweet smell of
-	chocolate almost
-	drives you crazy
+	O doce cheio de
+	chocolate quase te
+	leva à loucura.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Mom has really been
-	into baking cakes
-	recently
+	A mamãe tem estado
+	fissurada em assar
+	bolos, ultimamente.
 	"""
 	keyWait
 	clearMsg
 	"""
-	She's getting pretty
-	good at it,too!
+	E tá ficando muito boa
+	nisso!
 	"""
 	keyWait
 	end
@@ -1133,16 +1140,14 @@ script 230 mmbn3 {
 script 231 mmbn3 {
 	msgOpen
 	"""
-	Mom and dad have
-	been using these
-	plates forever
+	A mamãe e o papai usam
+	esses pratos há eras.
 	"""
 	keyWait
 	clearMsg
 	"""
-	They've got a lot
-	of sentimental value
-	for them
+	Têm grande valor
+	sentimental para eles.
 	"""
 	keyWait
 	end
@@ -1150,9 +1155,9 @@ script 231 mmbn3 {
 script 232 mmbn3 {
 	msgOpen
 	"""
-	Some of mom's stew
-	is inside. Mom's
-	stew is the best!
+	Tá com um restinho do
+	guisado da mamãe dentro.
+	O dela é imbatível!
 	"""
 	keyWait
 	end
@@ -1160,16 +1165,16 @@ script 232 mmbn3 {
 script 233 mmbn3 {
 	msgOpen
 	"""
-	This is the control
-	for all of the
-	appliances here
+	Esse é o controlador
+	de todos os aparelhos
+	daqui.
 	"""
 	keyWait
 	clearMsg
 	"""
-	It has a port,but
-	mom has already run
-	a virus check here
+	Tem uma entrada, mas
+	a mamãe já escaneou
+	contra vírus.
 	"""
 	keyWait
 	end

@@ -5,15 +5,16 @@ script 0 mmbn3 {
 		mugshot = Bass
 	msgOpen
 	"""
-	I had much higher
-	expectations…
+	Minhas expectativas
+	eram muito mais altas
+	que isso...
 	"""
 	keyWait
 	clearMsg
 	"""
-	I must have made a
-	miscalculation. Time
-	now,for deletion.
+	Devo ter cometido um
+	erro de cálculo. Bom, é
+	a hora de sua deleção...
 	"""
 	keyWait
 	end
@@ -23,8 +24,8 @@ script 1 mmbn3 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	At last I have found
-	you,Bass!
+	Enfim, eu encontrei você,
+	Bass!
 	"""
 	keyWait
 	end
@@ -34,9 +35,8 @@ script 2 mmbn3 {
 		mugshot = Bass
 	msgOpen
 	"""
-	How is it you know
-	my name? Who are
-	you…?
+	Como sabe o meu nome?
+	Quem é você...?
 	"""
 	keyWait
 	clearMsg
@@ -48,9 +48,8 @@ script 3 mmbn3 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Does the Alpha
-	Rebellion ring any
-	bells?
+	O nome "Rebelião Alpha"
+	soa familiar?
 	"""
 	keyWait
 	clearMsg
@@ -62,20 +61,20 @@ script 4 mmbn3 {
 		mugshot = Bass
 	msgOpen
 	"""
-	Alpha Rebellion…
+	Rebelião Alpha...
 	!!
 	"""
 	keyWait
 	clearMsg
 	"""
-	You were sent from
-	SciLab.
+	Vocês foram enviados
+	pelo SciLab.
 	"""
 	keyWait
 	clearMsg
 	"""
-	So there is still a
-	human after me.
+	Então, ainda há um
+	humano a me perseguir.
 	"""
 	keyWait
 	clearMsg
@@ -88,14 +87,14 @@ script 5 mmbn3 {
 	msgOpen
 	"""
 	Bass!
-	I am going to delete
-	you!
+	Eu vou deletar você
+	aqui e agora!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Indeed,I must delete
-	you!
+	Não... eu PRECISO
+	deletar você!
 	"""
 	keyWait
 	end
@@ -105,9 +104,9 @@ script 6 mmbn3 {
 		mugshot = Bass
 	msgOpen
 	"""
-	Navi slave to the
-	humans. Do you think
-	you can defeat me?
+	Navi escravo dos
+	humanos, acha mesmo
+	que pode me vencer?
 	"""
 	keyWait
 	clearMsg
@@ -119,20 +118,20 @@ script 7 mmbn3 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	In order to fight
-	you,I of course did
-	not come unprepared.
+	Claro que não vim
+	despreparado para
+	lutar com você.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Gather to me,power
-	of darkness!
-	Haaaaaaaaa!
+	Reúna-se em mim,
+	poder das trevas!
+	Haaaaaaaa!
 	"""
 	keyWait
 	clearMsg
-	"DarkAura!"
+	"Aura das Trevas!"
 	keyWait
 	end
 }
@@ -141,22 +140,22 @@ script 8 mmbn3 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Bass! You don an
-	aura yourself,so you
-	must be aware…
+	Bass! Você também
+	usa aura, então,
+	deve saber disso...
 	"""
 	keyWait
 	clearMsg
 	"""
-	The defensive
-	strength of this
-	DarkAura…
+	O poder defensivo
+	desta Aura das
+	Trevas...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Far surpasses that
-	of the LifeAura!
+	é muito superior ao da
+	Aura da Vida!
 	"""
 	keyWait
 	clearMsg
@@ -168,8 +167,8 @@ script 9 mmbn3 {
 		mugshot = Bass
 	msgOpen
 	"""
-	An aura of darkness.
-	How impudent…
+	Um aura de escuridão.
+	Quanta insolência...
 	"""
 	keyWait
 	clearMsg
@@ -181,23 +180,22 @@ script 10 mmbn3 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	So long as I'm
-	protected by this
+	Enquanto eu estiver
+	protegido por esta
 	aura,
 	"""
 	keyWait
 	clearMsg
 	"""
-	I could survive
-	even if the entire
-	Cyberworld was
+	posso sobreviver mesmo
+	se toda a Rede for
+	aniquilada.
 	"""
 	keyWait
 	clearMsg
 	"""
-	annihilated. In
-	short,you cannot
-	harm me!
+	Em suma, você não tem
+	como me machucar!
 	"""
 	keyWait
 	clearMsg
@@ -209,9 +207,9 @@ script 11 mmbn3 {
 		mugshot = Bass
 	msgOpen
 	"""
-	Hmm. Interesting. I
-	shall enjoy testing
-	out your theory.
+	Hmm. Interessante.
+	Será divertido testar
+	essa sua teoria.
 	"""
 	keyWait
 	clearMsg
@@ -222,7 +220,7 @@ script 12 mmbn3 {
 	mugshotShow
 		mugshot = OfficialNavi
 	msgOpen
-	"Be my guest!"
+	"Pois tente!"
 	keyWait
 	end
 }
@@ -230,7 +228,7 @@ script 13 mmbn3 {
 	mugshotShow
 		mugshot = Bass
 	msgOpen
-	"EarthBreak!"
+	"Ruptura da Terra!"
 	keyWait
 	end
 }
@@ -239,15 +237,14 @@ script 14 mmbn3 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Oooof!
-	Huff…Huff…
+	Ooooouugh!
+	Arf... Arf...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Even wearing the
-	aura,the impact was
-	so powerful…
+	Mas com a aura, o
+	impacto foi tão grande...
 	"""
 	keyWait
 	clearMsg
@@ -259,15 +256,15 @@ script 15 mmbn3 {
 		mugshot = Bass
 	msgOpen
 	"""
-	You've managed to
-	withstand my
-	EarthBreak…
+	Você aguentou a minha
+	Ruptura da Terra...
 	"""
 	keyWait
 	clearMsg
 	"""
-	But will you survive
-	my next attack?
+	Mas será que
+	sobreviverá ao meu
+	próximo ataque?
 	"""
 	keyWait
 	end
@@ -290,14 +287,15 @@ script 17 mmbn3 {
 		mugshot = LordWily
 	msgOpen
 	"""
-	Bass,do you hear me?
-	This is Wily.
+	Bass, você está na
+	escuta?
+	É o Wily.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I have just gathered
-	all four TetraCodes.
+	Acabei de reunir todos
+	os quatro TetraCódigos.
 	"""
 	keyWait
 	clearMsg
@@ -309,23 +307,23 @@ script 18 mmbn3 {
 		mugshot = Bass
 	msgOpen
 	"""
-	Not that feeble-
-	minded idiot again…
-	Hmph. I have matters
+	Não aquele imbecil
+	irresoluto de novo...
+	Hmpf.
 	"""
 	keyWait
 	clearMsg
 	"""
-	to attend. Our conf-
-	rontation shall have
-	to be postponed.
+	Tenho negócios a tratar.
+	Nosso confronto terá de
+	ser adiado.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Hear me,operator! I
-	will have my revenge
-	on the human race!
+	Ouça-me bem, operador!
+	Eu VOU ter minha vingan-
+	ça sobre a raça humana!
 	"""
 	keyWait
 	end
@@ -335,16 +333,16 @@ script 19 mmbn3 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Wha…!! The DarkAura!
-	His power was far
-	more than I had
+	O qu...!! A Aura das
+	Trevas! O poder dele
+	era muito maior do que
 	"""
 	keyWait
 	clearMsg
 	"""
-	anticipated! If he
-	had hit me again,I
-	might have been…!!
+	eu previ! Se ele tivesse
+	me atingido de novo, eu
+	poderia acabar tendo...!!
 	"""
 	keyWait
 	clearMsg
@@ -358,23 +356,22 @@ script 20 mmbn3 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	I never suspected
-	Wily and Bass would
-	be consorting with
+	Nunca imaginei que Wily
+	e Bass estariam
+	trabalhando juntos.
 	"""
 	keyWait
 	clearMsg
 	"""
-	each other. He also
-	mentioned the
-	TetraCodes! He can't
+	E ele também mencionou
+	os TetraCódigos!
 	"""
 	keyWait
 	clearMsg
 	"""
-	be planning on
-	awakening that beast
-	Alpha…
+	Estariam eles
+	planejando despertar
+	Alpha, a besta...?
 	"""
 	keyWait
 	end
@@ -384,16 +381,16 @@ script 21 mmbn3 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	I thought this boy
-	could face Bass,but
-	the gap in their
+	Achei que este menino
+	pudesse encarar o
+	Bass, mas a diferença
 	"""
 	keyWait
 	clearMsg
 	"""
-	powers was far more
-	than expected.
-	Bass. Wily. Hmm…
+	entre suas forças era
+	maior do que o esperado.
+	Bass. Wily. Hmm...
 	"""
 	keyWait
 	end
@@ -404,7 +401,7 @@ script 22 mmbn3 {
 	soundDisableTextSFX
 	soundPlay
 		track = 290
-	"Zh-Zhhzhh…zzhz"
+	"Zh-zhhzhh... zzhz."
 	wait
 		frames = 120
 	soundEnableTextSFX
@@ -418,14 +415,14 @@ script 23 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Me……an…
-	…ga…n!
+	Me...... an...
+	... ga... n!
 	"""
 	keyWait
 	clearMsg
 	"""
-	MegaMan! Are you
-	all right!?
+	MegaMan!
+	Tá tudo bem com você?!
 	"""
 	keyWait
 	clearMsg
@@ -436,7 +433,7 @@ script 24 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Uu…uuh…"
+	"Un... uugh..."
 	keyWait
 	end
 }
@@ -445,15 +442,15 @@ script 25 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Are you OK!?
+	Você tá legal?!
 	MegaMan!
 	"""
 	keyWait
 	clearMsg
 	"""
-	After you were
-	defeated,I suddenly
-	lost contact!
+	Depois que você foi
+	derrotado, eu perdi
+	contato com você!
 	"""
 	keyWait
 	clearMsg
@@ -465,16 +462,16 @@ script 26 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	……
-	It looks like
-	someone saved me.
+	......
+	Parece que alguém me
+	salvou.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Hey! Dad! We have
-	to get back to
-	SciLab!
+	Ah! O papai!
+	A gente precisa voltar
+	pro SciLab!
 	"""
 	keyWait
 	end

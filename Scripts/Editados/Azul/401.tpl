@@ -4,7 +4,7 @@ script 0 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Hub…"
+	"Hub..."
 	keyWait
 	clearMsg
 	jump
@@ -22,7 +22,7 @@ script 2 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Was that…a dream?"
+	"Foi só... um sonho?"
 	keyWait
 	clearMsg
 	jump
@@ -33,9 +33,9 @@ script 3 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	You look like you
-	had an awful dream…
-	Are you OK?
+	Parece que você teve
+	um pesadelo horrível...
+	Tudo bem com você?
 	"""
 	keyWait
 	clearMsg
@@ -47,8 +47,7 @@ script 4 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Yeah,it was just a
-	nightmare.
+	É... é, foi só um pesadelo.
 	"""
 	keyWait
 	clearMsg
@@ -60,8 +59,9 @@ script 5 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	You sure you're OK?
-	Well,if you say so…
+	Você tá bem mesmo?
+	Bom, se você diz que
+	tá...
 	"""
 	keyWait
 	end
@@ -71,8 +71,8 @@ script 6 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	What's that going
-	on outside?
+	O que tá rolando lá
+	fora?
 	"""
 	keyWait
 	clearMsg
@@ -84,16 +84,15 @@ script 7 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I noticed that,too.
-	So I checked on the
-	Internet.
+	Eu também percebi.
+	Daí, conferi na Internet.
 	"""
 	keyWait
 	clearMsg
 	"""
-	The army marched in
-	this morning! We're
-	under martial law!
+	O Exército começou a
+	marchar de manhã!
+	Estamos sob lei marcial!
 	"""
 	keyWait
 	clearMsg
@@ -105,9 +104,8 @@ script 8 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Are they preparing
-	for an attack by
-	Alpha?
+	Eles tão se preparando
+	pra um ataque do Alpha?
 	"""
 	keyWait
 	clearMsg
@@ -118,20 +116,19 @@ script 9 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Yeah,I guess…"
+	"Acho que sim..."
 	keyWait
 	clearMsg
 	"""
-	The army showing up
-	like this can mean
-	only one thing…
+	O Exército aparecer
+	assim só pode significar
+	uma coisa...
 	"""
 	keyWait
 	clearMsg
 	"""
-	The situation has
-	gotten very
-	dangerous!
+	Que a situação ficou
+	bem séria!
 	"""
 	keyWait
 	clearMsg
@@ -142,19 +139,19 @@ script 10 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Wow…"
+	"Caramba..."
 	keyWait
 	clearMsg
 	"""
-	None of this would
-	have happened if I
-	had gotten Alpha!
+	Nada disso teria acon-
+	tecido se eu tivesse
+	pego o Alpha...
 	"""
 	keyWait
 	clearMsg
 	"""
-	I've got to do
-	something!
+	Eu tenho que fazer
+	alguma coisa!
 	"""
 	keyWait
 	clearMsg
@@ -166,16 +163,16 @@ script 11 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Well,the army is
-	here,and I'm sure
-	Officials are,too.
+	Bom, o Exército tá aqui,
+	e os Oficiais também
+	devem estar.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Best thing for us
-	to do now is just
-	get to school!
+	O melhor que a gente
+	pode fazer agora é só
+	ir pra escola!
 	"""
 	keyWait
 	clearMsg
@@ -186,7 +183,7 @@ script 12 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Yeah,I guess so."
+	"É, acho que sim..."
 	keyWait
 	end
 }

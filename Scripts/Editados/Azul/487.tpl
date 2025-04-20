@@ -1,95 +1,95 @@
 @size 48
 
 script 0 mmbn3s {
-	" Sakasso  Battle BBS"
+	" Sakasso  Fórum de luta"
 	end
 }
 script 1 mmbn3s {
-	" Pachy    Hello"
+	" Pachi    Oie"
 	end
 }
 script 2 mmbn3s {
-	" Brake    Ice panels"
+	" Breca    Quadros gelo"
 	end
 }
 script 3 mmbn3s {
-	" Sakasso  Custom Navis!"
+	" Sakasso  Navis cust.!"
 	end
 }
 script 4 mmbn3s {
-	" Yusuke   RE:Custom Nav"
+	" Yusuke   RE:Navis cus"
 	end
 }
 script 5 mmbn3s {
-	" Takayan  Mole virus"
+	" Takayan  Vrus toupeira"
 	end
 }
 script 6 mmbn3s {
-	" DrHikari Customization"
+	" DrHikari Customização"
 	end
 }
 script 7 mmbn3s {
-	" Harrun   Wonderful!"
+	" Harrun   Maravilhoso!"
 	end
 }
 script 8 mmbn3s {
-	" ChunG    ModTools"
+	" ChunG    UtiliMods"
 	end
 }
 script 9 mmbn3s {
-	" Mole     RE:ModTools"
+	" Toupeira RE:UtiliMods"
 	end
 }
 script 10 mmbn3s {
-	" Haru     New ModCode!"
+	" Haru     Novo UtiliMod"
 	end
 }
 script 11 mmbn3s {
-	" U-pon    Vine virus"
+	" U-pon    Vírus cipó"
 	end
 }
 script 12 mmbn3s {
-	" Heylon   Floater virus"
+	" Heylon   Vírus flutua"
 	end
 }
 script 13 mmbn3s {
-	" Maki     RE:Floater vi"
+	" Maki     RE:Vírus flu"
 	end
 }
 script 14 mmbn3s {
-	" Takken   Half damage!"
+	" Takken   Meio dano!"
 	end
 }
 script 15 mmbn3s {
-	" Shira-bo Me,too,then"
+	" Shira-bo Eu tb, então"
 	end
 }
 script 16 mmbn3s {
-	" Kuro     Help!"
+	" Kuro     Ajuda!"
 	end
 }
 script 17 mmbn3s {
-	" Haru     RE:Help!"
+	" Haru     RE:Ajuda!"
 	end
 }
 script 18 mmbn3s {
-	" Dohma    No way…"
+	" Dohma    N acredito"
 	end
 }
 script 19 mmbn3s {
-	" Chaud    Just give up"
+	" Chaud    Desista logo"
 	end
 }
 script 20 mmbn3s {
-	" Kuro     WOW!!"
+	" Kuro     CARACA!!"
 	end
 }
 script 21 mmbn3s {
-	" Arima    PA info!"
+	" Arima    Dicas PA!"
 	end
 }
 script 22 mmbn3s {
-	" Ogata    RE:PA info!"
+	" Ogata    RE:Dicas PA!"
 	end
 }
 script 23 mmbn3s {

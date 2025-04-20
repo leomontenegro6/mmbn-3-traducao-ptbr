@@ -4,7 +4,7 @@ script 0 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"How do you feel?"
+	"Como você tá?"
 	keyWait
 	clearMsg
 	jump
@@ -15,9 +15,9 @@ script 1 mmbn3 {
 		mugshot = Mamoru
 	msgOpen
 	"""
-	I'm doing better
-	now,but the doctor
-	said to stay in bed.
+	Já tô melhor, mas o
+	médico mandou eu
+	continuar em repouso.
 	"""
 	keyWait
 	clearMsg
@@ -28,16 +28,16 @@ script 2 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Oh."
+	"Ah."
 	keyWait
 	clearMsg
-	"……"
+	"......"
 	waitSkip
 		frames = 40
 	"""
 	
-	Mamoru,why won't
-	you have surgery?
+	Mamoru, por que você
+	não quer a cirurgia?
 	"""
 	keyWait
 	clearMsg
@@ -49,15 +49,14 @@ script 3 mmbn3 {
 		mugshot = Mamoru
 	msgOpen
 	"""
-	Surgery won't change
-	anything. I've had
+	A cirurgia não vai mudar
+	nada.
 	"""
 	keyWait
 	clearMsg
 	"""
-	surgery lots of
-	times,but nothing's
-	improved.
+	Eu já fiz um monte delas,
+	mas nada melhorou.
 	"""
 	keyWait
 	clearMsg
@@ -69,9 +68,9 @@ script 4 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	But the nurse said
-	there's a new kind
-	of surgery for HBD.
+	Mas a enfermeira disse
+	que acharam uma nova
+	cirurgia pro HBD.
 	"""
 	keyWait
 	clearMsg
@@ -83,15 +82,15 @@ script 5 mmbn3 {
 		mugshot = Mamoru
 	msgOpen
 	"""
-	So? That doesn't
-	mean I'm going to
-	get any better.
+	E daí? Isso não quer
+	dizer que eu vou ser
+	curado.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'm just sick of
-	all of this…
+	Eu tô de saco cheio
+	disso tudo...
 	"""
 	keyWait
 	clearMsg
@@ -112,9 +111,9 @@ script 6 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Hey!!
-	I'm not going to let
-	you just give up!
+	Ô!!
+	Eu não vou deixar você
+	desistir fácil assim!
 	"""
 	keyWait
 	clearMsg
@@ -125,7 +124,7 @@ script 7 mmbn3 {
 	mugshotShow
 		mugshot = Mamoru
 	msgOpen
-	"……"
+	"......"
 	keyWait
 	clearMsg
 	jump
@@ -136,23 +135,23 @@ script 8 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Mamoru,I once had a
-	twin brother. When
-	he was one,he died
+	Mamoru, eu já tive um
+	irmão gêmeo. Quando ele
+	tinha um ano de idade,
 	"""
 	keyWait
 	clearMsg
 	"""
-	from a certain heart
-	condition because he
-	couldn't undergo
+	ele morreu de uma certa
+	doença do coração
+	porque não pôde fazer
 	"""
 	keyWait
 	clearMsg
 	"""
-	surgery. Still,he
-	fought his sickness
-	to his last breath.
+	cirurgia. Mas, mesmo
+	assim, ele lutou contra a
+	doença até o fim.
 	"""
 	keyWait
 	clearMsg
@@ -163,7 +162,7 @@ script 9 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Lan…"
+	"Lan..."
 	keyWait
 	clearMsg
 	jump
@@ -174,23 +173,23 @@ script 10 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Mamoru,please try
-	surgery! It's not
-	too late! Even if
+	Mamoru, por favor,
+	tenta fazer a cirurgia!
+	Não é tarde demais!
 	"""
 	keyWait
 	clearMsg
 	"""
-	there's only a 1%
-	chance you'll get
-	better,take it! I'm
+	Mesmo se a chance de
+	dar certo for só de 1%,
+	tenta!
 	"""
 	keyWait
 	clearMsg
 	"""
-	can't just stand
-	by and watch this
-	sickness beat you!
+	Eu me recuso a ficar
+	parado e deixar essa
+	doença te derrubar!
 	"""
 	keyWait
 	clearMsg
@@ -203,28 +202,27 @@ script 11 mmbn3 {
 		mugshot = Mamoru
 	msgOpen
 	"""
-	The sickness your
-	brother had…
-	Was it…?
+	Essa doença que o seu
+	irmão tinha...
+	Era o...?
 	"""
 	keyWait
 	clearMsg
 	"""
-	……
-	OK,Lan.
+	......
+	Tá bom, Lan.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'll have the
-	surgery.
+	Eu vou fazer a cirurgia.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'll fight.
-	For your brother's
-	sake,too!
+	Eu vou lutar.
+	Por mim... e pelo seu
+	irmão, também!
 	"""
 	keyWait
 	clearMsg
@@ -236,15 +234,15 @@ script 12 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	You can beat it,
-	Mamoru! If Lan's
-	brother was alive,
+	Você consegue, Mamoru!
+	Se o irmão do Lan
+	estivesse vivo,
 	"""
 	keyWait
 	clearMsg
 	"""
-	I know he'd be very
-	proud of you!
+	sei que ele ficaria
+	muito orgulhoso de você!
 	"""
 	keyWait
 	clearMsg
@@ -256,16 +254,15 @@ script 13 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Mamoru…
-	Sorry if I sounded
-	harsh. Good luck
+	Mamoru... Desculpa se
+	eu fui muito cruel.
+	Boa sorte com a cirurgia.
 	"""
 	keyWait
 	clearMsg
 	"""
-	with your surgery.
-	Oh yeah! Here,this
-	is for you!
+	Ah, é mesmo!
+	Toma, é pra você!
 	"""
 	keyWait
 	clearMsg
@@ -276,7 +273,7 @@ script 14 mmbn3 {
 	mugshotHide
 	msgOpen
 	"""
-	Lan gave a chip for
+	Lan entregou o chip
 	"
 	"""
 	printChip
@@ -297,22 +294,23 @@ script 15 mmbn3 {
 		mugshot = Mamoru
 	msgOpen
 	"""
-	What? You got me the
-	chip!? Thank you!!
+	O quê? Você conseguiu
+	o chip pra mim?!
+	Obrigado!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I can't believe
-	this! I'm not going
-	to give up,Lan!
+	Não acredito nisso!
+	... Eu não vou desistir,
+	Lan!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'll fight this
-	illness with
-	everything I've got!
+	Vou lutar contra essa
+	doença com tudo o que
+	eu tenho!
 	"""
 	keyWait
 	clearMsg
@@ -324,16 +322,15 @@ script 16 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	That's the spirit!
-	With that attitude,
-	I know you'll get
+	Esse é o espírito!
+	Com essa atitude, eu
+	sei que você vai sarar!
 	"""
 	keyWait
 	clearMsg
 	"""
-	better! Hey,let me
-	know when your
-	surgery will be,OK?
+	Ah, me avisa quando for
+	o dia dessa cirurgia, tá?
 	"""
 	keyWait
 	clearMsg
@@ -345,14 +342,14 @@ script 17 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	You can beat this,
-	Mamoru!
+	Você consegue vencer
+	essa, Mamoru!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Come on,Lan,we'd
-	better get on home.
+	Vamos, Lan. É melhor a
+	gente voltar pra casa.
 	"""
 	keyWait
 	clearMsg
@@ -363,12 +360,12 @@ script 18 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Yeah,you're right."
+	"É, tem razão."
 	keyWait
 	clearMsg
 	"""
-	All right,Mamoru.
-	See you later!
+	Beleza, Mamoru.
+	Até a próxima!
 	"""
 	keyWait
 	end

@@ -5,15 +5,14 @@ script 0 mmbn3 {
 		mugshot = CloakedNavi
 	msgOpen
 	"""
-	So. You got it
-	right…
-	Very well…
+	Então, você acertou...
+	Muito bem...
 	"""
 	keyWait
 	clearMsg
 	"""
-	I will award you the
-	7th rank…
+	Premiarei você com o
+	sétimo ranque...
 	"""
 	keyWait
 	clearMsg
@@ -29,7 +28,7 @@ script 1 mmbn3 {
 		item = 30
 		amount = 1
 	"""
-	MegaMan got:
+	MegaMan adquiriu:
 	"
 	"""
 	printItem
@@ -47,9 +46,9 @@ script 2 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Um,could you tell me
-	the clue to find the
-	next Navi?
+	Hum, poderia me dar a
+	dica pra achar o próximo
+	Navi?
 	"""
 	keyWait
 	clearMsg
@@ -61,9 +60,9 @@ script 3 mmbn3 {
 		mugshot = CloakedNavi
 	msgOpen
 	"""
-	Yes,the clue. Hmm…
-	What was it again?
-	I can't recall…
+	Ah, sim, a dica. Hmm...
+	Qual era mesmo?
+	Não estou lembrando...
 	"""
 	keyWait
 	clearMsg
@@ -75,12 +74,12 @@ script 4 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	What do you mean,you
-	can't recall??
+	Como assim, não tá
+	lembrando?!
 	"""
 	keyWait
 	clearMsg
-	"Try a little harder!"
+	"Faz um esforço!"
 	keyWait
 	clearMsg
 	jump
@@ -91,16 +90,16 @@ script 5 mmbn3 {
 		mugshot = CloakedNavi
 	msgOpen
 	"""
-	Shut up! If I
-	forgot,I forgot!
-	End of story!
+	Cala a boca, ô! Se eu
+	esqueci, eu esqueci!
+	Ponto final!
 	"""
 	keyWait
 	clearMsg
 	"""
-	You don't like
-	it? Give me back my
-	rank!
+	Não gostou?
+	Então devolve o meu
+	ranque!
 	"""
 	keyWait
 	clearMsg
@@ -112,9 +111,9 @@ script 6 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I guess I'll just
-	have to search on
-	my own…
+	Acho que vou ter que
+	procurar sozinho,
+	então...
 	"""
 	keyWait
 	clearMsg
@@ -126,9 +125,9 @@ script 7 mmbn3 {
 		mugshot = CloakedNavi
 	msgOpen
 	"""
-	Hmph! You youngsters
-	have got it too
-	easy,anyhow!
+	Hmpf! Quer saber? A vida
+	já anda fácil demais pra
+	vocês, jovens, mesmo!
 	"""
 	keyWait
 	clearMsg
@@ -139,7 +138,7 @@ script 8 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Oh boy…"
+	"Ai, ai..."
 	keyWait
 	end
 }

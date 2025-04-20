@@ -5,9 +5,9 @@ script 0 mmbn3 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	Thank you so much,
-	Lan! Hold on,I'll
-	serve some tea.
+	Muito obrigada, Lan!
+	Fica aí, eu vou trazer
+	um chá pra gente.
 	"""
 	keyWait
 	clearMsg
@@ -20,7 +20,7 @@ script 1 mmbn3 {
 	flagSet
 		flag = 1308
 	soundDisableTextSFX
-	"Ding-Dong!"
+	"Dim-Dom!"
 	wait
 		frames = 60
 	keyWait
@@ -33,8 +33,8 @@ script 2 mmbn3 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	Maybe that's the
-	BubbleWash!
+	Talvez seja a
+	Lava-Bolha!
 	"""
 	keyWait
 	end
@@ -44,8 +44,9 @@ script 3 mmbn3 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	If it is,help me!
-	OK Lan?
+	É ela! Me ajuda a levar
+	ela pra cozinha, Lan?
+	Por favor?
 	"""
 	keyWait
 	clearMsg
@@ -57,8 +58,8 @@ script 4 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I'm starting to feel
-	like your slave.
+	Eu tô começando a me
+	sentir bem escravo seu.
 	"""
 	keyWait
 	end
@@ -68,16 +69,16 @@ script 5 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	There,it's all set
-	up and ready to go!
-	That's strange…
+	Pronto, montada e
+	pronta pra usar!
+	Mas é estranho...
 	"""
 	keyWait
 	clearMsg
 	"""
-	It's connected to
-	the Net,but you
-	can't jack into it.
+	Ela é ligada à Rede, mas
+	não dá pra se conectar
+	nela.
 	"""
 	keyWait
 	clearMsg
@@ -89,9 +90,8 @@ script 6 mmbn3 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	That's probably just
-	so water doesn't get
-	into the circuits.
+	Deve ser para a água
+	não entrar nos circuitos.
 	"""
 	keyWait
 	clearMsg
@@ -103,8 +103,8 @@ script 7 mmbn3 {
 		mugshot = MsMari
 	msgOpen
 	"""
-	Well then. How about
-	some tea,everyone?
+	Bom, resolvido, então.
+	Quem quer chá?
 	"""
 	keyWait
 	end

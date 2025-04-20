@@ -3,7 +3,7 @@
 script 0 mmbn3 {
 	mugshotHide
 	msgOpen
-	"Bang! Bang! Bang!"
+	"Blam! Blam! Blam!"
 	keyWait
 	clearMsg
 	jump
@@ -30,7 +30,7 @@ script 2 mmbn3 {
 	mugshotShow
 		mugshot = Scientist
 	msgOpen
-	"Who's there!?"
+	"Quem tá aí?!"
 	keyWait
 	clearMsg
 	jump
@@ -41,8 +41,8 @@ script 3 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	How's Mamoru!
-	Is he alright!?
+	Como o Mamoru tá?!
+	Ele tá bem?!
 	"""
 	keyWait
 	clearMsg
@@ -54,23 +54,23 @@ script 4 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	The surgery
-	equipment suddenly
-	stopped working!
+	O equipamento de
+	cirurgia parou de
+	funcionar de repente!
 	"""
 	keyWait
 	clearMsg
 	"""
-	The lock on this
-	door won't open.
-	We're stuck inside!
+	A tranca desta porta
+	não abre. Estamos
+	presos aqui dentro!
 	"""
 	keyWait
 	clearMsg
 	"""
-	If we don't do
-	something soon,
-	Mamoru could die!
+	Se não fizermos algo
+	logo, o Mamoru pode
+	morrer!
 	"""
 	keyWait
 	clearMsg
@@ -85,8 +85,8 @@ script 5 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Is there anything I
-	can do to help?
+	Eu posso fazer alguma
+	coisa pra ajudar?
 	"""
 	keyWait
 	clearMsg
@@ -98,29 +98,27 @@ script 6 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Do you see the
-	control panel on the
-	side of this door?
+	Está vendo o painel de
+	controle ao lado desta
+	porta?
 	"""
 	keyWait
 	clearMsg
 	"""
-	It's connected to
-	this operating room!
+	Ele está conectado a
+	esta sala de cirurgia!
 	"""
 	keyWait
 	clearMsg
 	"""
-	If you can jack into
-	it and remove the
-	bug…
+	Se você se conectar
+	nele e remover o bug,
 	"""
 	keyWait
 	clearMsg
 	"""
-	We may be able to
-	continue with the
-	operation!
+	talvez possamos dar
+	seguimento à cirurgia!
 	"""
 	keyWait
 	clearMsg
@@ -132,8 +130,8 @@ script 7 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I'll see what I can
-	do!
+	Vou ver o que eu posso
+	fazer!
 	"""
 	keyWait
 	clearMsg
@@ -145,9 +143,9 @@ script 8 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	PlantMan probably
-	did this! Let's
-	hurry,Lan!
+	Deve ter sido coisa do
+	PlantMan. Vamos rápido,
+	Lan!
 	"""
 	keyWait
 	end
@@ -156,13 +154,13 @@ script 9 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Jack in!!"
+	"Conectar!!"
 	wait
 		frames = 10
-	"\nMegaMan,"
+	"\nMegaMan.EXE,"
 	wait
 		frames = 10
-	"Execute!!"
+	"transmissão!!"
 	keyWait
 	end
 }

@@ -5,9 +5,8 @@ script 0 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Mamoru looked like
-	he was doing really
-	well!
+	O Mamoru parecia muito
+	bem!
 	"""
 	keyWait
 	clearMsg
@@ -19,9 +18,9 @@ script 1 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Yeah! At this rate,
-	he can probably go
-	home soon!
+	É! Nesse ritmo, aposto
+	que ele vai poder ir
+	pra casa logo, logo!
 	"""
 	keyWait
 	clearMsg
@@ -33,8 +32,8 @@ script 2 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	We'll have to throw
-	him a party!
+	Vamos ter que fazer
+	uma festa pra ele!
 	"""
 	keyWait
 	clearMsg
@@ -46,9 +45,9 @@ script 3 mmbn3 {
 		mugshot = MrMatch
 	msgOpen
 	"""
-	Visiting a friend?
-	Our hero is busy,I
-	see.
+	Visitando um amigo?
+	Vejo que o nosso herói
+	está bem ocupado.
 	"""
 	keyWait
 	end
@@ -58,9 +57,9 @@ script 4 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Mr.Match!
-	What are you doing
-	here?
+	Sr. Match!
+	O que você tá fazendo
+	por aqui?
 	"""
 	keyWait
 	clearMsg
@@ -72,8 +71,9 @@ script 5 mmbn3 {
 		mugshot = MrMatch
 	msgOpen
 	"""
-	I have a small favor
-	to ask you.
+	Eu tenho outro
+	favorzinho para te
+	pedir.
 	"""
 	keyWait
 	clearMsg
@@ -85,8 +85,7 @@ script 6 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	A favor to ask me?
-	What is it?
+	Um favor? Qual?
 	"""
 	keyWait
 	clearMsg
@@ -98,16 +97,16 @@ script 7 mmbn3 {
 		mugshot = MrMatch
 	msgOpen
 	"""
-	I was told to
-	install a program in
-	the SciLab system.
+	Me mandaram instalar um
+	certo programa no
+	sistema do SciLab.
 	"""
 	keyWait
 	clearMsg
 	"""
-	But I'm not exactly
-	sure how to do it.
-	Can you help me?
+	Mas não sei ao certo
+	como fazer isso.
+	Pode me ajudar?
 	"""
 	keyWait
 	clearMsg
@@ -119,14 +118,15 @@ script 8 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	You were given this
-	job to do,right?
+	Ué, mas eles deram
+	essa tarefa pra VOCÊ,
+	não foi?
 	"""
 	keyWait
 	clearMsg
 	"""
-	So shouldn't you do
-	it by yourself?
+	Então... não era VOCÊ
+	quem devia fazer?
 	"""
 	keyWait
 	clearMsg
@@ -138,23 +138,23 @@ script 9 mmbn3 {
 		mugshot = MrMatch
 	msgOpen
 	"""
-	Hmph! Some "hero"
-	you are! The man who
-	saves your life asks
+	Hmpf! Grande "herói"
+	você é! O cara salva a
+	sua vida
 	"""
 	keyWait
 	clearMsg
 	"""
-	you a favor,and
-	that's your answer?
-	"Do it yourself"?
+	e te perde um favor,
+	e essa é a sua
+	resposta? "Se vira"?
 	"""
 	keyWait
 	clearMsg
 	"""
-	I see you like being
-	appreciated,but not
-	appreciating others.
+	Vejo que você gosta de
+	ser gratificado, mas não
+	de mostrar gratidão.
 	"""
 	keyWait
 	clearMsg
@@ -165,26 +165,25 @@ script 10 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Ooooh!"
+	"Aaaahh!"
 	keyWait
 	clearMsg
 	"""
-	……
-	Okay! I'll do it!
-	"""
-	keyWait
-	clearMsg
-	"""
-	I'm not going to
-	stand by and let you
-	talk to me that way!
+	......
+	Tá bom! Eu faço!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'll help you,but
-	after this we're
-	even!
+	Não posso ficar parado
+	enquanto você fala
+	essas coisas de mim!
+	"""
+	keyWait
+	clearMsg
+	"""
+	Eu te ajudo, mas, depois
+	dessa, estamos quites!
 	"""
 	keyWait
 	clearMsg
@@ -196,20 +195,20 @@ script 11 mmbn3 {
 		mugshot = MrMatch
 	msgOpen
 	"""
-	Heh heh! I knew I
-	could count on you,
-	hero of ACDC!
+	He he! Sabia que podia
+	contar com você,
+	herói de ACDC!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'll go make some
-	preparations. Meet
-	me in the Virus Lab.
+	Preciso fazer uns pre-
+	parativos. Me encontre
+	no Laboratório de Vírus.
 	"""
 	keyWait
 	clearMsg
-	"I'll be waiting!"
+	"Vou estar esperando!"
 	keyWait
 	end
 }
@@ -218,9 +217,9 @@ script 12 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I get the feeling
-	Mr.Match just played
-	you.
+	Eu tô sentindo que o
+	Sr. Match te manipulou
+	bonito.
 	"""
 	keyWait
 	clearMsg
@@ -231,20 +230,20 @@ script 13 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"What!?"
+	"Quê?!"
 	keyWait
 	clearMsg
 	"""
-	You expect me to let
-	him get away with
-	saying all that!?
+	Queria o quê, que eu
+	deixasse passar ele
+	falando aquelas coisas?!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Let's just hurry to
-	Virus Lab and get
-	this over with.
+	Olha, vamos logo pro
+	Laboratório de Vírus e
+	acabar logo com isso.
 	"""
 	keyWait
 	end

@@ -5,13 +5,13 @@ script 0 mmbn3 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	You won't be able to
-	defend against
-	viruses like that!
+	Não vai conseguir se
+	defender de vírus desse
+	jeito!
 	"""
 	keyWait
 	clearMsg
-	"Try again!"
+	"Tente de novo!"
 	keyWait
 	end
 }

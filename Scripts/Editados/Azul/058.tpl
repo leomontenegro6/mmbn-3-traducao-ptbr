@@ -20,9 +20,9 @@ script 0 mmbn3 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	Good luck in the N1!
-	Shouldn't you jack
-	in soon?
+	Boa sorte no Grande
+	Prêmio! Você não devia
+	se conectar logo?
 	"""
 	keyWait
 	end
@@ -32,21 +32,21 @@ script 1 mmbn3 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	I'm looking forward
-	to our chat at 8PM!
+	Tô ansiosa pro nosso
+	bate-papo às 20h!
 	"""
 	keyWait
 	clearMsg
 	"""
-	What's wrong?
-	you can't wait?
+	Que foi, Lan?
+	Não aguenta esperar?
 	"""
 	keyWait
 	clearMsg
 	"""
-	It's still a little
-	early yet. Why don't
-	you go eat first?
+	Ainda tá meio cedo.
+	Por que não vai jantar,
+	primeiro?
 	"""
 	keyWait
 	end
@@ -60,23 +60,23 @@ script 10 mmbn3 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	Lan! Round 2 of the
-	N1 preliminaries has
-	already started!
+	Lan! A segunda rodada
+	das preliminares do N1
+	já começaram!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I was worried when
-	I didn't see
-	MegaMan there.
+	Eu fiquei preocupada
+	quando não vi o
+	MegaMan lá.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Hurry up and send
-	MegaMan to SciLab
-	Square!
+	Rápido, manda o
+	MegaMan pro SciLab
+	Plaza!
 	"""
 	keyWait
 	end
@@ -86,16 +86,16 @@ script 11 mmbn3 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	I'm glad you made it
-	to the preliminaries
-	in time!
+	Que bom que você
+	chegou nas preliminares
+	a tempo!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Let's both do our
-	best to get through
-	the preliminaries!
+	Bom, vamos dar o nosso
+	melhor pra nós dois pas-
+	sarmos nas preliminares!
 	"""
 	keyWait
 	end
@@ -110,9 +110,9 @@ script 15 mmbn3 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	Higsby is in town!?
-	I didn't know that
-	he was back…
+	O Higsby tá na cidade?!
+	Eu não sabia que ele
+	tinha voltado...
 	"""
 	keyWait
 	end
@@ -130,20 +130,20 @@ script 16 mmbn3 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	You were helping
+	Você tava ajudando o
 	Higsby?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Did he say anything
-	about me?
+	Ele falou alguma coisa
+	sobre mim?
 	"""
 	keyWait
 	clearMsg
 	"""
-	…No,no.
-	It's nothing!
+	... Não, não.
+	Não é nada, não!
 	"""
 	keyWait
 	end
@@ -153,9 +153,9 @@ script 17 mmbn3 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	Do well in the N1!
-	I'll be there,
-	rooting for you!
+	Arrasa lá no N1!
+	Vou estar aqui,
+	torcendo por você!
 	"""
 	keyWait
 	end
@@ -165,16 +165,15 @@ script 18 mmbn3 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	I can't find the
-	Navi guys! Where can
-	they be hiding?
+	Não consigo achar os
+	homens-Navi! Onde será
+	que tão escondidos?
 	"""
 	keyWait
 	clearMsg
 	"""
-	I've only found the
-	one that was at the
-	zoo…
+	Só achei aquele que tá
+	no zoológico...
 	"""
 	keyWait
 	end
@@ -184,21 +183,21 @@ script 20 mmbn3 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	How was your
-	TV appearance?
+	Como foi a sua aparição
+	na TV?
 	"""
 	keyWait
 	clearMsg
 	"""
-	!?
-	You're joking!?
+	?!
+	Não brinca!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Chaud is going to be
-	in the N1 Grand Prix
-	too?
+	O Chaud vai competir
+	no Grande Prêmio N1
+	também?
 	"""
 	keyWait
 	end
@@ -213,9 +212,9 @@ script 25 mmbn3 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	So Dex really left…
-	He must have really
-	missed his brother…
+	O Dex foi mesmo...
+	Devia estar sentindo
+	muita falta do irmão...
 	"""
 	keyWait
 	end
@@ -225,21 +224,22 @@ script 27 mmbn3 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	What's wrong? Why
-	that expression?
+	Que foi?
+	Por que você tá com
+	essa cara?
 	"""
 	keyWait
 	clearMsg
 	"""
-	You friend is having
-	surgery? That's
-	awful!
+	Um amigo seu está no
+	meio de uma cirurgia?
+	Que terrível!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Well,so what are
-	you doing here!?
+	Bom, então, tá fazendo
+	o que aqui, Lan?!
 	"""
 	keyWait
 	end
@@ -273,23 +273,22 @@ script 30 mmbn3 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	Listen to Ms.Mari!
-	You stay out of
-	danger!
+	Escute à srta. Mari.
+	Tenta evitar o perigo!
 	"""
 	keyWait
 	clearMsg
 	"""
-	You always just rush
-	headlong into
-	things…
+	Você sempre se joga
+	de cabeça nessas
+	coisas...
 	"""
 	keyWait
 	clearMsg
 	"""
-	You're a good person
-	for wanting to help
-	others,though!
+	Digo, é muito legal de
+	você querer ajudar os
+	outros, mas...!
 	"""
 	keyWait
 	end
@@ -299,8 +298,8 @@ script 31 mmbn3 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	Time to study for
-	tomorrow…
+	Hora de estudar pra
+	amanhã...
 	"""
 	keyWait
 	end
@@ -313,13 +312,12 @@ script 34 mmbn3 {
 	mugshotShow
 		mugshot = Mayl
 	msgOpen
-	"I'm done reviewing!"
+	"Pronto, tudo revisado!"
 	keyWait
 	clearMsg
 	"""
-	You should do some
-	review and practice
-	too,Lan!
+	Você também devia
+	revisar e treinar, Lan!
 	"""
 	keyWait
 	end
@@ -329,12 +327,12 @@ script 35 mmbn3 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	Lan! SciLab is
-	on fire!!
+	Lan! O SciLab tá
+	pegando fogo!!
 	"""
 	keyWait
 	clearMsg
-	"Is everyone safe!?"
+	"Tá todo mundo bem lá?!"
 	keyWait
 	end
 }
@@ -343,15 +341,16 @@ script 37 mmbn3 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	Why is my computer
-	so hot!?
+	Por que o meu
+	computador tá tão
+	quente?!
 	"""
 	keyWait
 	clearMsg
 	"""
-	What!?
-	The Internet is
-	covered in flames!?
+	Quê?
+	A Rede tá coberta de
+	chamas?!
 	"""
 	keyWait
 	end
@@ -361,22 +360,22 @@ script 39 mmbn3 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	The fires on the Net
-	are out now,
+	Os incêndios da Rede
+	foram apagados,
 	"""
 	keyWait
 	clearMsg
 	"""
-	but it looks like
-	SciLab is still
-	burning!
+	mas parece que o
+	SciLab ainda tá pegando
+	fogo!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Don't worry,Lan.
-	I'm sure that
-	everyone is OK!
+	Não se preocupa, Lan.
+	Tenho certeza de que
+	tá todo mundo bem!
 	"""
 	keyWait
 	end
@@ -386,15 +385,15 @@ script 40 mmbn3 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	What!? Your dad!
-	I can't believe it…
+	O quê?! O seu pai?!
+	Não pode ser...
 	"""
 	keyWait
 	clearMsg
 	"""
-	…I'm sorry.
-	I don't even know
-	what to say…
+	... Eu sinto muito.
+	Puxa, eu nem sei o que
+	dizer, Lan...
 	"""
 	keyWait
 	end
@@ -404,15 +403,15 @@ script 42 mmbn3 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	No matter what Yai
-	says,I know that
-	she's just worried…
+	Não importa o que a Yai
+	diga, eu sei que ela só
+	tá preocupada...
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'm a little
-	worried,too…
+	E eu também tô,
+	um pouco...
 	"""
 	keyWait
 	end
@@ -445,19 +444,19 @@ script 43 mmbn3 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	You look much better
-	than before!
-	・
+	Você parece bem melhor
+	agora!
+	.
 	"""
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"I'm so glad…"
+	"Fico tão feliz..."
 	keyWait
 	end
 }
@@ -466,9 +465,9 @@ script 44 mmbn3 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	It looks like the
-	Officials are out
-	patrolling around…
+	Parece que os Oficiais
+	tão patrulhando as
+	ruas...
 	"""
 	keyWait
 	end
@@ -478,9 +477,9 @@ script 45 mmbn3 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	A fake e-mail? From
-	me? But I'd never
-	call anyone "kiddo"!
+	Um e-mail falso? Meu?
+	Mas eu NUNCA usaria
+	a palavra "moleque"!
 	"""
 	keyWait
 	end
@@ -494,15 +493,16 @@ script 46 mmbn3 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	Maybe you shouldn't
-	jack in today…
+	Talvez fosse melhor
+	você não se conectar
+	na Rede hoje...
 	"""
 	keyWait
 	clearMsg
 	"""
-	There are Officials
-	all over! Something
-	must be up!
+	Tem Oficiais pra todo
+	canto! Deve estar acon-
+	cendo alguma coisa...
 	"""
 	keyWait
 	end
@@ -512,16 +512,15 @@ script 47 mmbn3 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	Lan! Have you heard?
-	Dex moved back to
-	ACDC!
+	Lan! Ficou sabendo?
+	O Dex voltou pra ACDC!
 	"""
 	keyWait
 	clearMsg
 	"""
-	You've already seen
-	him? Aw,I wanted to
-	surprise you! Darn!
+	Hã? Já falou com ele?
+	Poxa, eu queria te dar
+	a notícia! Humpf...
 	"""
 	keyWait
 	end
@@ -531,14 +530,14 @@ script 48 mmbn3 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	I haven't jacked in
-	for a long time.
+	Faz tempo que eu não
+	me conecto.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I wonder how things
-	are on the Net?
+	Como será que tão as
+	coisas na Rede?
 	"""
 	keyWait
 	end
@@ -548,16 +547,16 @@ script 49 mmbn3 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	Yai just wrote and
-	said the SciLab area
-	is under attack!
+	A Yai acabou de me
+	avisar que a área
+	SciLab tá sob ataque!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Do you think the WWW
-	is behind this
-	incident,too?
+	Você acha que a WWW
+	tá por trás desse
+	incidente, também?
 	"""
 	keyWait
 	end
@@ -572,8 +571,8 @@ script 52 mmbn3 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	Thank you,Lan!
-	Are you hurt?
+	Obrigada, Lan!
+	Você se machucou?
 	"""
 	keyWait
 	end
@@ -591,14 +590,14 @@ script 54 mmbn3 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	How could a war just
-	break out like that?
+	Como uma guerra pôde
+	começar, rápido assim?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Everything was fine
-	until recently…!
+	Tava tudo tão bem até
+	ainda agora...!
 	"""
 	keyWait
 	end
@@ -608,22 +607,20 @@ script 55 mmbn3 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	You're looking for
-	a boat engine?
+	Você tá atrás de um
+	motor de barco?
 	"""
 	keyWait
 	clearMsg
 	"""
-	I have no idea where
-	you could find
-	something like that…
+	Eu nem imagino onde dê
+	pra achar uma coisa
+	assim...
 	"""
 	keyWait
 	clearMsg
 	"""
-	There must be
-	someone who knows,
-	though.
+	Mas alguém deve saber.
 	"""
 	keyWait
 	end
@@ -633,15 +630,14 @@ script 56 mmbn3 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	Things seem to be
-	getting worse and
-	worse.
+	As coisas parecem só
+	estar piorando...
 	"""
 	keyWait
 	clearMsg
 	"""
-	How will everything
-	turn out in the end?
+	Como será que isso vai
+	acabar?
 	"""
 	keyWait
 	end
@@ -653,9 +649,9 @@ script 220 mmbn3 {
 		jumpIfFalse = continue
 	msgOpen
 	"""
-	These characters are
-	from the popular TV
-	show "Family Boone"
+	Esses são personagens
+	do famoso programa de
+	TV, "A Bonne Família".
 	"""
 	keyWait
 	end
@@ -663,33 +659,35 @@ script 220 mmbn3 {
 script 221 mmbn3 {
 	msgOpen
 	"""
-	This is Mayl's
-	computer
+	Esse é o computador
+	da Mayl.
 	"""
 	keyWait
 	clearMsg
 	"""
-	The computer is
-	probably as neat and
-	clean as the room
+	Provavelmente é tão
+	organizado e limpo quanto
+	o quarto em que está.
 	"""
 	keyWait
 	clearMsg
 	"""
-	The power is on,so
-	you can jack in
+	Ele está ligado, então,
+	você pode se conectar
+	nele.
 	"""
 	keyWait
 	end
 }
 script 222 mmbn3 {
 	msgOpen
-	"It's empty"
+	"Está vazio."
 	keyWait
 	clearMsg
 	"""
-	She probably empties
-	it out a lot
+	A Mayl, provavelmente,
+	o esvazia com
+	frequência.
 	"""
 	keyWait
 	end
@@ -697,14 +695,13 @@ script 222 mmbn3 {
 script 223 mmbn3 {
 	msgOpen
 	"""
-	A full-length
-	mirror
+	Um espelho grande.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Mayl uses it to get
-	dressed each day
+	A Mayl o usa para se
+	vestir, todos os dias.
 	"""
 	keyWait
 	end
@@ -712,14 +709,14 @@ script 223 mmbn3 {
 script 224 mmbn3 {
 	msgOpen
 	"""
-	This ladder leads
-	up to the bed
+	Essa escada leva à
+	cama.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Wonder if she ever
-	falls off?
+	Será que a Mayl cai daí,
+	às vezes?
 	"""
 	keyWait
 	end
@@ -727,16 +724,16 @@ script 224 mmbn3 {
 script 225 mmbn3 {
 	msgOpen
 	"""
-	Doll figures from
-	the popular TV show
-	"The Kasket Kids".
+	Bonequinhos do popular
+	programa de TV
+	"Os Kasket-itos".
 	"""
 	keyWait
 	clearMsg
 	"""
-	They're really
-	detailed and
-	accurate
+	São super detalhados e
+	fieis a como aparecem
+	na TV.
 	"""
 	keyWait
 	end

@@ -9,28 +9,27 @@ script 0 mmbn3 {
 	mugshotShow
 		mugshot = CapBoy
 	msgOpen
-	"I got this "
+	"Eu ganhei este "
 	printItem
 		buffer = 0
 		item = 3
 	"""
 	
-	on a field trip the
-	other day.
+	numa excursão outro
+	dia.
 	"""
 	keyWait
 	clearMsg
 	"""
-	But I don't need it,
-	because I always
-	wear this hat.
+	Mas não preciso dele,
+	porque eu sempre tô
+	de boné.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I guess I'll just
-	leave it in this
-	classroom.
+	Acho que vou deixar ele
+	na minha sala de aula.
 	"""
 	keyWait
 	end
@@ -39,7 +38,7 @@ script 1 mmbn3 {
 	mugshotShow
 		mugshot = OrangeShirtBoy
 	msgOpen
-	"See ya!"
+	"Falou!"
 	keyWait
 	end
 }
@@ -48,8 +47,7 @@ script 2 mmbn3 {
 		mugshot = MsMari
 	msgOpen
 	"""
-	Go straight home,
-	now!
+	Vá direto para casa!
 	"""
 	keyWait
 	end
@@ -61,14 +59,14 @@ script 10 mmbn3 {
 		mugshot = Yai
 	msgOpen
 	"""
-	Flap,flap…
-	Flap,flap…
+	Flap, flap...
+	Flap, flap...
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'm a swan!
-	A beautiful swan!
+	Eu sou um cisne!
+	Um liiiindo cisne!
 	"""
 	keyWait
 	end
@@ -82,23 +80,23 @@ script 20 mmbn3 {
 		mugshot = CapBoy
 	msgOpen
 	"""
-	That Dex is calling
-	himself the #1 Net
-	Battler in town!
+	O Dex tá saindo por aí
+	se dizendo o melhor
+	NetLutador do bairro!
 	"""
 	keyWait
 	clearMsg
 	"""
-	He challenged me to
-	a battle,but now
-	he's stuck in class!
+	Ele me desafiou pra uma
+	NetLuta. E levou o quê?
+	Detenção.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'm tired of waiting
-	for him. Maybe I'll
-	just go home…
+	E eu cansei de esperar
+	por ele. Acho que vou
+	pra casa...
 	"""
 	keyWait
 	end
@@ -108,9 +106,9 @@ script 21 mmbn3 {
 		mugshot = CapBoy
 	msgOpen
 	"""
-	You two came out
-	together. Is his
-	detention finished?
+	Vocês dois saíram dali
+	juntos. A detenção dele
+	já acabou?
 	"""
 	keyWait
 	end
@@ -120,14 +118,14 @@ script 25 mmbn3 {
 		mugshot = MsMari
 	msgOpen
 	"""
-	That Dex! He skipped
-	out of detention!
+	Aquele Dex! Ele fugiu
+	da detenção!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Lan,do you know
-	where he went?
+	Lan, você sabe pra
+	onde ele foi?
 	"""
 	keyWait
 	end
@@ -137,9 +135,8 @@ script 30 mmbn3 {
 		mugshot = MsMari
 	msgOpen
 	"""
-	I'll see you all
-	again after the
-	holidays!
+	Vejo vocês todos de
+	novo após o feriado!
 	"""
 	keyWait
 	end
@@ -149,9 +146,8 @@ script 31 mmbn3 {
 		mugshot = CapBoy
 	msgOpen
 	"""
-	Higsby sure was
-	coughing a lot. He
-	must have a cold.
+	O Higsby anda tossindo
+	muito. Deve ter gripado.
 	"""
 	keyWait
 	end
@@ -160,7 +156,7 @@ script 32 mmbn3 {
 	mugshotShow
 		mugshot = OrangeShirtBoy
 	msgOpen
-	"See you later!"
+	"Até, Lan!"
 	keyWait
 	end
 }
@@ -169,9 +165,9 @@ script 50 mmbn3 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	If I go home,my
-	parents will make me
-	study…
+	Se eu for pra casa,
+	os meus pais vão me
+	forçar a estudar...
 	"""
 	keyWait
 	end
@@ -186,9 +182,9 @@ script 60 mmbn3 {
 		mugshot = BlueShirtBoy
 	msgOpen
 	"""
-	Ms.Mari and the
-	class have already
-	left for the N1!
+	A srta. Mari e a turma
+	já saíram pro Grande
+	Prêmio N1!
 	"""
 	keyWait
 	end
@@ -198,21 +194,21 @@ script 70 mmbn3 {
 		mugshot = CapBoy
 	msgOpen
 	"""
-	You're going to see
-	Yai in the hospital?
+	Você vai visitar a Yai
+	no hospital?
 	"""
 	keyWait
 	clearMsg
 	"""
-	I was in the
-	hospital once. It's
-	so boring!
+	Eu já tive que ficar no
+	hospital, uma vez.
+	É tããããão chato!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'm sure she'll be
-	happy to see you!
+	Com certeza ela vai
+	ficar mó feliz de te ver!
 	"""
 	keyWait
 	end
@@ -222,9 +218,9 @@ script 80 mmbn3 {
 		mugshot = BlueShirtBoy
 	msgOpen
 	"""
-	Too bad you couldn't
-	wipe out the whole
-	WWW last time!
+	Que pena que cê não
+	conseguiu dizimar a WWW
+	da última vez!
 	"""
 	keyWait
 	end
@@ -239,15 +235,15 @@ script 90 mmbn3 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	Me? No,I'm not a
-	suspicious person!
+	Eu? Não, eu não sou
+	"suspeito"!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'm an Official! I'm
-	investigating this
-	school.
+	Sou um Oficial!
+	Estou investigando esta
+	escola.
 	"""
 	keyWait
 	end
@@ -257,15 +253,14 @@ script 100 mmbn3 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	What's this? An
-	emergency call from
-	headquarters…?
+	O quê? Um chamado de
+	emergência da central...?
 	"""
 	keyWait
 	clearMsg
 	"""
-	I wonder what
-	happened?
+	O que será que
+	aconteceu?
 	"""
 	keyWait
 	end
@@ -292,27 +287,26 @@ script 190 mmbn3 {
 	mugshotShow
 		mugshot = PigtailsGirl
 	msgOpen
-	"Ah! Lan,it's you!"
+	"Ah! Lan, é você!"
 	keyWait
 	clearMsg
 	"""
-	I'm the one who
-	requested help
-	with a job.
-	"""
-	keyWait
-	clearMsg
-	"""
-	I've heard so much
-	about you! You're a
-	great NetBattler!
+	Fui eu quem postou
+	aquele pedido de missão.
 	"""
 	keyWait
 	clearMsg
 	"""
-	That's why I wanted
-	to ask for your help
-	with this.
+	Eu ouvi falar muito
+	sobre você! Que você
+	é um NetLutador incrível!
+	"""
+	keyWait
+	clearMsg
+	"""
+	E é por isso que eu
+	quero pedir a sua ajuda
+	com isto aqui.
 	"""
 	keyWait
 	clearMsg
@@ -329,7 +323,7 @@ script 191 mmbn3 {
 	playerAnimate
 		animation = 24
 	"""
-	Lan got:
+	Lan adquiriu:
 	"
 	"""
 	printItem
@@ -349,57 +343,57 @@ script 192 mmbn3 {
 		mugshot = PigtailsGirl
 	msgOpen
 	"""
-	That's my father's
-	will…
+	Esse é o testamento
+	do meu pai...
 	"""
 	keyWait
 	clearMsg
 	"""
-	My father is a Net-
-	Battler,too,and he's
-	travelled the world.
+	O meu pai também era
+	NetLutador, e ele
+	viajou o mundo todo.
 	"""
 	keyWait
 	clearMsg
 	"""
-	One day he left that
-	will behind,and just
-	vanished!
+	Um dia, ele deixou esse
+	testamento pra trás
+	e desapareceu!
 	"""
 	keyWait
 	clearMsg
 	"""
-	We lost track of him
-	somewhere in
-	Netopia…
+	Nós perdemos o rastro
+	dele ali, perto da
+	Ameropa...
 	"""
 	keyWait
 	clearMsg
 	"""
-	I know there's no
-	way I could ask you
-	to find him,but
+	Sei que seria absurdo
+	pedir pra você
+	encontrar ele,
 	"""
 	keyWait
 	clearMsg
 	"""
-	I was hoping you
-	could figure out
-	this will.
+	mas estava esperando
+	que pudesse, ao menos,
+	decifrar o testamento.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Since you're both
-	great NetBattlers,
-	maybe you can…
+	Como vocês dois são
+	NetLutadores incríveis,
+	talvez você consiga...
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'll be waiting here
-	to hear from you!
-	Thank you,Lan!
+	Vou ficar esperando
+	aqui por você.
+	Obrigada, Lan!
 	"""
 	keyWait
 	end
@@ -409,36 +403,36 @@ script 193 mmbn3 {
 		mugshot = PigtailsGirl
 	msgOpen
 	"""
-	Lan! Were you able
-	to decode the will?
+	Lan! Você conseguiu
+	decifrar o testamento?
 	"""
 	keyWait
 	clearMsg
 	"""
-	It just looks like a
-	bunch of letters to
-	me…
+	Ele só parece um
+	monte de letras pra
+	mim...
 	"""
 	keyWait
 	clearMsg
 	"""
-	The only clue I have
-	is that just before
-	he went to Netopia,
+	A única pista que eu
+	tenho é que, antes
+	dele ir pra Ameropa,
 	"""
 	keyWait
 	clearMsg
 	"""
-	his Navi was seen
-	doing something to
-	the squirrel in
+	o Navi dele foi visto
+	fazendo alguma coisa
+	com o esquilo
 	"""
 	keyWait
 	clearMsg
 	"""
-	the ACDC area of the
-	Net. I wonder if
-	that's a clue?
+	na área ACDC da Rede.
+	Será que isso serve
+	como pista?
 	"""
 	keyWait
 	end
@@ -451,13 +445,13 @@ script 194 mmbn3 {
 	mugshotShow
 		mugshot = PigtailsGirl
 	msgOpen
-	"Lan! You solved it!?"
+	"Lan! Você decifrou?!"
 	keyWait
 	clearMsg
 	"""
-	What…?
-	This is what he had
-	hidden?
+	O quê...?
+	Era isso que ele tinha
+	escondido?
 	"""
 	keyWait
 	clearMsg
@@ -471,7 +465,7 @@ script 195 mmbn3 {
 	mugshotHide
 	msgOpen
 	"""
-	Lan gave a
+	Lan entregou uma
 	"
 	"""
 	printItem
@@ -488,65 +482,64 @@ script 196 mmbn3 {
 		mugshot = PigtailsGirl
 	msgOpen
 	"""
-	This is a picture of
-	him and me and my
-	mother…
+	É uma foto dele, de mim
+	e da minha mãe...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Did he want me to
-	find this? No,that
-	can't be right…
+	Ele queria que eu
+	encontrasse isto?
+	Não, não pode ser...
 	"""
 	keyWait
 	clearMsg
 	"""
-	He always told me
-	that he wanted me to
-	be a top NetBattler…
+	Ele sempre me disse
+	que queria ser um
+	grande NetLutador...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Maybe he didn't want
-	me to have the
-	photo,per se.
+	Talvez ele não quises-
+	se que eu VISSE a
+	foto, necessariamente.
 	"""
 	keyWait
 	clearMsg
 	"""
-	He wanted me to have
-	to track down where
-	it was hidden…
+	Ele queria que eu
+	tivesse feito a busca
+	pelo esconderijo dela...
 	"""
 	keyWait
 	clearMsg
-	"………"
+	"........."
 	keyWait
 	clearMsg
 	"""
-	Well,anyway,thank
-	you for solving
-	this,Lan!
-	"""
-	keyWait
-	clearMsg
-	"""
-	Here,this is a chip
-	that belonged to my
-	father…
+	Bom, de qualquer jeito,
+	obrigada por resolver
+	esse enigma, Lan!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I think that you can
-	probably put it to
-	better use than I…
+	Toma, este é um chip
+	que pertencia ao meu
+	pai...
 	"""
 	keyWait
 	clearMsg
-	"Please. Take it…"
+	"""
+	Acho que você, prova-
+	velmente, vai conseguir
+	usá-lo melhor que eu...
+	"""
+	keyWait
+	clearMsg
+	"Por favor. Aceite..."
 	keyWait
 	clearMsg
 	jump
@@ -563,7 +556,7 @@ script 197 mmbn3 {
 	playerAnimate
 		animation = 24
 	"""
-	Lan got a chip for
+	Lan adquiriu o chip
 	"
 	"""
 	printChip
@@ -587,16 +580,16 @@ script 198 mmbn3 {
 		mugshot = PigtailsGirl
 	msgOpen
 	"""
-	I hate to disappoint
-	my father,but I'll
-	never be NetBattler…
+	Eu odeio decepcionar o
+	meu pai, mas nunca vou
+	ser uma NetLutadora...
 	"""
 	keyWait
 	clearMsg
 	"""
-	But I'm so happy
-	that he treasured
-	this photo.
+	Ainda assim, fico feliz
+	que ele guardou esta
+	foto com carinho.
 	"""
 	keyWait
 	end
@@ -606,8 +599,9 @@ script 199 mmbn3 {
 		mugshot = PigtailsGirl
 	msgOpen
 	"""
-	I'll treasure this
-	photo forever…
+	Vou guardar esta foto
+	com muito carinho,
+	também...
 	"""
 	keyWait
 	end
@@ -615,52 +609,50 @@ script 199 mmbn3 {
 script 220 mmbn3 {
 	msgOpen
 	"""
-	Mayl's calligraphy
-	is well-drawn
+	A caligrafia shodô da
+	Mayl é muito bonita.
 	"""
 	keyWait
 	clearMsg
-	"Maybe 7 points?"
+	"Acho que nota... 7?"
 	keyWait
 	end
 }
 script 221 mmbn3 {
 	msgOpen
 	"""
-	The size of his name
-	really shows his
-	personality…
+	O tamanho do nome do
+	Dex diz muito sobre a
+	personalidade dele...
 	"""
 	keyWait
 	clearMsg
-	"2 points,tops"
+	"Nota 2, e olhe lá."
 	keyWait
 	end
 }
 script 222 mmbn3 {
 	msgOpen
 	"""
-	Yours isn't bad at
-	all!
+	O seu não tá nada mau!
 	"""
 	keyWait
 	clearMsg
-	"8 points,at least"
+	"Nota 8, no mínimo."
 	keyWait
 	end
 }
 script 223 mmbn3 {
 	msgOpen
 	"""
-	Yai's just a kid,but
-	her calligraphy is
-	like a pro's!
+	A Yai pode ser novinha,
+	mas a caligrafia shodô
+	dela já é profissional!
 	"""
 	keyWait
 	clearMsg
 	"""
-	This has to be
-	a 10-pointer!
+	Nota 10, com certeza!
 	"""
 	keyWait
 	end
@@ -668,9 +660,9 @@ script 223 mmbn3 {
 script 224 mmbn3 {
 	msgOpen
 	"""
-	The students were
-	assigned calligraphy
-	for homework
+	Os alunos receberam
+	lição de casa de
+	caligrafia shodô.
 	"""
 	keyWait
 	end
@@ -678,14 +670,14 @@ script 224 mmbn3 {
 script 225 mmbn3 {
 	msgOpen
 	"""
-	Unused desks are
-	piled up here
+	Mesas que não são
+	usadas ficam empilhadas
+	aqui.
 	"""
 	keyWait
 	end
 	"""
-	There's nothing
-	else here
+	Não tem mais nada aqui.
 	"""
 	keyWait
 	end
@@ -693,9 +685,9 @@ script 225 mmbn3 {
 script 226 mmbn3 {
 	msgOpen
 	"""
-	There are so many
-	boxes here,you
-	can't get by
+	Está cheio de caixas
+	aqui.
+	Não dá para passar.
 	"""
 	keyWait
 	end
@@ -705,15 +697,15 @@ script 227 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	We don't have time
-	to go back into the
-	classroom,Lan!
+	A gente não tem tempo
+	pra voltar pra sala
+	agora, Lan!
 	"""
 	keyWait
 	end
 }
 script 230 mmbn3 {
-	"Huh? What's this?"
+	"Hã? O que é isso?"
 	keyWait
 	clearMsg
 	playerAnimate
@@ -723,7 +715,7 @@ script 230 mmbn3 {
 		code = A
 		amount = 1
 	"""
-	Lan got a chip for
+	Lan adquiriu o chip
 	"
 	"""
 	printChip
@@ -733,7 +725,7 @@ script 230 mmbn3 {
 	printCode
 		buffer = 0
 		code = A
-	"\"!!"
+	"\"!"
 	playerFinish
 	playerReset
 	keyWait

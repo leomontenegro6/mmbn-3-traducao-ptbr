@@ -5,8 +5,8 @@ script 0 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Mayl! Dex! What's
-	this about Yai!?
+	Mayl! Dex!
+	Quê que tem a Yai?!
 	"""
 	keyWait
 	clearMsg
@@ -18,9 +18,9 @@ script 1 mmbn3 {
 		mugshot = Dex
 	msgOpen
 	"""
-	You know how the
-	losers were dropped
-	through the floor?
+	Sabe como os perdedo-
+	res caíram por aquele
+	buraco no chão?
 	"""
 	keyWait
 	clearMsg
@@ -32,13 +32,12 @@ script 2 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Yeah! Hey,you fell
-	through the floor
-	too!
+	É! Ah, é, você também
+	caiu por ele!
 	"""
 	keyWait
 	clearMsg
-	"Are you all right?"
+	"Tá tudo bem com você?"
 	keyWait
 	clearMsg
 	jump
@@ -49,23 +48,21 @@ script 3 mmbn3 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Actually,there were
-	cushioned mats
-	placed where we
+	Na verdade, tinha uns
+	colchões posicionados
+	lá onde a gente caiu.
 	"""
 	keyWait
 	clearMsg
 	"""
-	fell. But Yai
-	fell down right on
-	her head!
+	Só que a Yai caiu de
+	cabeça!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I mean,you know how
-	big that head of
-	hers is!
+	E, tipo, cê sabe como a
+	cabeça dela é colossal!
 	"""
 	keyWait
 	clearMsg
@@ -77,8 +74,7 @@ script 4 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Really? Is she
-	all right!?
+	Caramba... Ela tá bem?!
 	"""
 	keyWait
 	clearMsg
@@ -90,16 +86,16 @@ script 5 mmbn3 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	Well,she hit it real
-	hard and got knocked
-	out. They took her
+	Bom, ela bateu com
+	muito força e acabou
+	desmaiando.
 	"""
 	keyWait
 	clearMsg
 	"""
-	to the hospital and
-	are going to run
-	some tests.
+	Levaram ela pro hospital,
+	e vão fazer uns exames
+	agora.
 	"""
 	keyWait
 	clearMsg
@@ -111,9 +107,9 @@ script 6 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	That sounds serious!
-	I hope she's going
-	to be OK!
+	A coisa parece séria!
+	Espero que ela fique
+	bem...
 	"""
 	keyWait
 	clearMsg
@@ -125,8 +121,8 @@ script 7 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Which hospital did
-	they take her to?
+	Pra qual hospital
+	levaram ela?
 	"""
 	keyWait
 	clearMsg
@@ -138,9 +134,9 @@ script 8 mmbn3 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	She's at the Seaside
-	Hospital,straight up
-	Beach Street.
+	Ela tá no Hospital
+	Beira-Mar, lá na
+	Rua Angra.
 	"""
 	keyWait
 	clearMsg
@@ -152,8 +148,8 @@ script 9 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Come on,then! Let's
-	get over to the
+	Vamos lá, então!
+	A gente tem que ir pro
 	hospital!
 	"""
 	keyWait
@@ -166,8 +162,8 @@ script 10 mmbn3 {
 		mugshot = Dex
 	msgOpen
 	"""
-	But Lan,what about
-	the N1 Grand Prix?
+	Mas, Lan, e o Grande
+	Prêmio N1?
 	"""
 	keyWait
 	clearMsg
@@ -179,8 +175,7 @@ script 11 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Now's not the time
-	for that!
+	Agora não é hora disso!
 	"""
 	keyWait
 	end
@@ -189,7 +184,7 @@ script 12 mmbn3 {
 	mugshotHide
 	msgOpen
 	soundDisableTextSFX
-	"Briiinnng!"
+	"Trrriiiiiiim!"
 	keyWait
 	soundEnableTextSFX
 	end
@@ -199,8 +194,7 @@ script 13 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,you've got a
-	phone call!
+	Lan, ligação!
 	"""
 	keyWait
 	end
@@ -209,12 +203,12 @@ script 14 mmbn3 {
 	mugshotShow
 		mugshot = Yai
 	msgOpen
-	"Hello,Lan?"
+	"Alô, Lan?"
 	keyWait
 	clearMsg
 	"""
-	How are you doing?
-	Are you winning?
+	E aí, tudo bem?
+	Ganhando todas aí?
 	"""
 	keyWait
 	clearMsg
@@ -227,7 +221,7 @@ script 15 mmbn3 {
 	msgOpen
 	"""
 	Yai!
-	Are you OK!?
+	Você tá legal?!
 	"""
 	keyWait
 	clearMsg
@@ -239,16 +233,16 @@ script 16 mmbn3 {
 		mugshot = Yai
 	msgOpen
 	"""
-	No I'm not OK! They
-	dropped me on my
-	head! I'm going to
+	Claro que eu não tô
+	"legal"! Eles me fizeram
+	cair de cabeça!
 	"""
 	keyWait
 	clearMsg
 	"""
-	sue that producer
-	Sunayama for
-	everything he's got!
+	Ah, eu processo aquele
+	produtor Sunayama! Ar-
+	ranco cada Zenny dele!
 	"""
 	keyWait
 	clearMsg
@@ -261,11 +255,11 @@ script 17 mmbn3 {
 	msgOpen
 	"""
 	Yai!
-	You're all right!
+	Você tá bem!
 	"""
 	keyWait
 	clearMsg
-	"What a relief!"
+	"Que alívio!"
 	keyWait
 	clearMsg
 	jump
@@ -276,29 +270,28 @@ script 18 mmbn3 {
 		mugshot = Yai
 	msgOpen
 	"""
-	You call this "all
-	right"!?
+	Você chama isto de
+	"bem"?!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I have to be
-	hospitalized for
-	days so they can
+	Eu vou ter que ficar
+	internada por dias pra
+	eles fazerem exames!
 	"""
 	keyWait
 	clearMsg
 	"""
-	run tests! I'm so
-	bored I could just
-	scream!
+	Tô tão entediada que
+	tô pra surtar!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Anyway,Lan. You just
-	win that tournament,
-	you hear me!?
+	Enfim, Lan: apenas se
+	certifique de vencer
+	esse torneio, ouviu?!
 	"""
 	keyWait
 	clearMsg
@@ -309,10 +302,10 @@ script 19 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Oh,I will!"
+	"Ah, pode deixar!"
 	keyWait
 	clearMsg
-	"Wish me luck!"
+	"Fica só olhando!"
 	keyWait
 	clearMsg
 	jump
@@ -324,7 +317,7 @@ script 20 mmbn3 {
 	soundDisableTextSFX
 	soundPlay
 		track = 284
-	"Click!"
+	"Clic!"
 	wait
 		frames = 30
 	keyWait
@@ -336,9 +329,9 @@ script 21 mmbn3 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	It sounds like Yai's
-	going to be OK. What
-	a relief!
+	Parece que a Yai vai
+	ficar bem.
+	Ufa, que alívio!
 	"""
 	keyWait
 	clearMsg
@@ -350,13 +343,16 @@ script 22 mmbn3 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Now you can just
-	concentrate on the
-	tournament,Lan!
+	Agora você pode se
+	concentrar só no
+	torneio, Lan!
 	"""
 	keyWait
 	clearMsg
-	"Go win it for us!"
+	"""
+	Vai lá, vence ele pela
+	gente!
+	"""
 	keyWait
 	clearMsg
 	jump
@@ -367,9 +363,9 @@ script 23 mmbn3 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	You can do it,Lan!
-	We're counting on
-	you!
+	Você consegue, Lan!
+	Estamos torcendo com
+	tudo por você!
 	"""
 	keyWait
 	clearMsg
@@ -380,13 +376,13 @@ script 24 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Thanks guys!"
+	"Valeu, galera!"
 	keyWait
 	clearMsg
 	"""
-	I'll win this thing
-	without breaking a
-	sweat!
+	Eu vou vencer esse
+	negócio rapidinho,
+	vai ser moleza!
 	"""
 	keyWait
 	clearMsg
@@ -399,7 +395,7 @@ script 25 mmbn3 {
 	soundDisableTextSFX
 	soundPlay
 		track = 249
-	"Ooooohhh!!"
+	"Uuuooooooohhh!!"
 	wait
 		frames = 180
 	keyWait
@@ -411,18 +407,18 @@ script 26 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	The crowd's going
-	wild!
+	A plateia tá indo à
+	loucura!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Maybe Chaud's battle
-	is over!
+	A luta do Chaud já deve
+	ter acabado.
 	"""
 	keyWait
 	clearMsg
-	"Let's go,Lan!"
+	"Vamos lá ver, Lan!"
 	keyWait
 	end
 }
@@ -431,8 +427,7 @@ script 27 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Alright guys,I'm
-	off!
+	OK, gente, eu vou lá!
 	"""
 	keyWait
 	clearMsg
@@ -444,14 +439,13 @@ script 28 mmbn3 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Hooray! Hooray!
-	Lan!
+	Luta, Lan! Vence, Lan!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Hooray! Hooray!
-	Lan!
+	Arrasa, Lan!
+	Ô-lê, olê olê olá!
 	"""
 	keyWait
 	clearMsg
@@ -462,7 +456,7 @@ script 29 mmbn3 {
 	mugshotShow
 		mugshot = Mayl
 	msgOpen
-	"Good luck!"
+	"Boa sorte!"
 	keyWait
 	end
 }

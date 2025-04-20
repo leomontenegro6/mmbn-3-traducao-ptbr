@@ -16,8 +16,8 @@ script 0 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Looks like a
-	new message!
+	Parece que tem
+	postagem nova!
 	"""
 	keyWait
 	waitHold
@@ -38,8 +38,7 @@ script 1 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	There aren't
-	any messages.
+	Zero postagens aqui.
 	"""
 	keyWait
 	waitHold

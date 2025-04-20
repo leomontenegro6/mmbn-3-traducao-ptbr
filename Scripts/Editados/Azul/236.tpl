@@ -3,7 +3,7 @@
 script 0 mmbn3 {
 	mugshotHide
 	msgOpen
-	"Later that day…"
+	"Mais tarde, naquele dia..."
 	keyWait
 	end
 }
@@ -11,10 +11,10 @@ script 1 mmbn3 {
 	mugshotShow
 		mugshot = MsMari
 	msgOpen
-	"Is everyone here?"
+	"Estão todos aqui?"
 	waitSkip
 		frames = 30
-	"\nWe've reached Yoka!"
+	"\nChegamos em Yoka!"
 	keyWait
 	clearMsg
 	jump
@@ -24,7 +24,7 @@ script 2 mmbn3 {
 	mugshotShow
 		mugshot = Dex
 	msgOpen
-	"All riiiight!"
+	"Aêêêêê!"
 	keyWait
 	clearMsg
 	jump
@@ -34,7 +34,7 @@ script 3 mmbn3 {
 	mugshotShow
 		mugshot = Mayl
 	msgOpen
-	"Yeah!"
+	"Eba!"
 	keyWait
 	clearMsg
 	jump
@@ -45,9 +45,8 @@ script 4 mmbn3 {
 		mugshot = Yai
 	msgOpen
 	"""
-	I just knew this
-	place would smell
-	like a zoo…
+	Ai, sabia que o lugar ia
+	ter cheiro de zoológico...
 	"""
 	keyWait
 	clearMsg
@@ -59,8 +58,8 @@ script 5 mmbn3 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	Ms.Mari! Which way
-	is the zoo?
+	Srta. Mari! Pra que lado
+	fica o zoológico?
 	"""
 	keyWait
 	clearMsg
@@ -72,9 +71,9 @@ script 6 mmbn3 {
 		mugshot = MsMari
 	msgOpen
 	"""
-	I'm sorry,I just
-	learned that it's
-	closed today!
+	Lamento, mas me
+	disseram que ele está
+	fechado hoje!
 	"""
 	keyWait
 	clearMsg
@@ -85,7 +84,7 @@ script 7 mmbn3 {
 	mugshotShow
 		mugshot = Dex
 	msgOpen
-	"Oh,come on!!"
+	"Ah, fala sério!!"
 	keyWait
 	clearMsg
 	jump
@@ -95,7 +94,7 @@ script 8 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"No way!"
+	"Poxa!"
 	keyWait
 	clearMsg
 	jump
@@ -106,26 +105,26 @@ script 9 mmbn3 {
 		mugshot = MsMari
 	msgOpen
 	"""
-	It's true,I'm
-	afraid.
+	Infelizmente, essa é a
+	verdade.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Well,we'll just go
-	there tomorrow,so
-	today's a free day!
+	Mas tudo bem, vamos lá
+	amanhã. Portanto, hoje
+	será um dia livre!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Everyone,be sure to
-	get back to the inn
-	in time for dinner!
+	Só lembrem-se de voltar
+	à pousada a tempo pro
+	jantar, crianças!
 	"""
 	keyWait
 	clearMsg
-	"See you later!"
+	"Até já!"
 	keyWait
 	clearMsg
 	jump
@@ -134,7 +133,7 @@ script 9 mmbn3 {
 script 10 mmbn3 {
 	mugshotHide
 	msgOpen
-	"Yes,ma'am!!"
+	"Sim, professora!!"
 	keyWait
 	end
 }

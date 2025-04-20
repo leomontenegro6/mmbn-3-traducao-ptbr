@@ -4,7 +4,7 @@ script 0 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"That's quite a door!"
+	"Caramba, que portona!"
 	keyWait
 	clearMsg
 	jump
@@ -15,8 +15,8 @@ script 1 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I'm sure Wily
-	must be inside…
+	Aposto que o Wily tá aí
+	dentro...
 	"""
 	keyWait
 	clearMsg
@@ -28,14 +28,14 @@ script 2 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan…
-	No…Hub…
+	MegaMan...
+	Não... Hub...
 	"""
 	keyWait
 	clearMsg
 	"""
-	We'll always be
-	together,right?
+	A gente sempre vai
+	ficar junto, né?
 	"""
 	keyWait
 	clearMsg
@@ -46,16 +46,16 @@ script 3 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Lan…"
+	"Lan..."
 	keyWait
 	clearMsg
 	"""
-	Of course we will!
-	Together forever!
+	Claro que vamos!
+	Juntos pra sempre!
 	"""
 	keyWait
 	clearMsg
-	"Forever and ever!"
+	"Pra todo o sempre!"
 	keyWait
 	clearMsg
 	jump
@@ -65,12 +65,13 @@ script 4 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Thanks!!"
+	"Obrigado!!"
 	keyWait
 	clearMsg
 	"""
-	Let's go,MegaMan!
-	To our final battle!
+	Vamos lá, MegaMan!
+	Para a nossa batalha
+	final!
 	"""
 	keyWait
 	clearMsg
@@ -81,7 +82,7 @@ script 5 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Roger!!"
+	"Vamos!!"
 	keyWait
 	end
 }
@@ -89,7 +90,7 @@ script 6 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Wh-What!?"
+	"O-o quê?!"
 	keyWait
 	end
 }
@@ -97,7 +98,7 @@ script 7 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Lan,get back!!"
+	"Lan, recua!!"
 	keyWait
 	end
 }
@@ -106,8 +107,8 @@ script 8 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Oh,no!!
-	Not another one!!
+	Droga!!
+	Lá vem outro!!
 	"""
 	keyWait
 	clearMsg
@@ -119,15 +120,15 @@ script 9 mmbn3 {
 		mugshot = DrillMan
 	msgOpen
 	"""
-	Too bad!
-	Almost got you!
+	Que pena!
+	Quase que eu te pego!
 	"""
 	keyWait
 	clearMsg
 	"""
-	MegaMan! Do you hear
-	me!? Jack in,now!
-	I will delete you!
+	MegaMan! Está me ouvin-
+	do?! Conecte-se, agora!
+	Eu quero te deletar!
 	"""
 	keyWait
 	clearMsg
@@ -139,15 +140,15 @@ script 10 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	DrillMan is
-	back,too!?
+	O DrillMan também
+	voltou?!
 	"""
 	keyWait
 	clearMsg
 	"""
 	Lan!
-	We'll have to fight
-	this one,too!
+	A gente vai ter que
+	enfrentar ele, também!
 	"""
 	keyWait
 	clearMsg
@@ -159,9 +160,9 @@ script 11 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	There's not much
-	time before Alpha
-	wakes up! Hurry!
+	Não falta muito tempo
+	pro Alpha acordar!
+	Não demora!
 	"""
 	keyWait
 	clearMsg
@@ -173,9 +174,9 @@ script 12 mmbn3 {
 		mugshot = DrillMan
 	msgOpen
 	"""
-	You're going to be
-	deleted right now,
-	so why hurry?
+	Você vai ser deletado,
+	mesmo. Então, pra que
+	a pressa?
 	"""
 	keyWait
 	clearMsg
@@ -186,7 +187,7 @@ script 13 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Ready,Lan!"
+	"Prepara, Lan!"
 	keyWait
 	clearMsg
 	jump
@@ -197,8 +198,8 @@ script 14 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	There's no way
-	we can lose!!
+	A gente não vai perder
+	de jeito nenhum!!
 	"""
 	keyWait
 	end

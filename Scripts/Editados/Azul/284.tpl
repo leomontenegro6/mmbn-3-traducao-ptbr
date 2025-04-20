@@ -5,8 +5,8 @@ script 0 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Whoa!
-	What is this place!?
+	Caramba!
+	Mas que lugar é esse?!
 	"""
 	keyWait
 	end
@@ -15,41 +15,43 @@ script 1 mmbn3 {
 	mugshotHide
 	msgOpen
 	"""
-	This is Hades
-	Mountain. It's said
-	that those sentenced
+	Esta é a Montanha do
+	Inferno. Diz-se que
+	aqueles condenados
 	"""
 	keyWait
 	clearMsg
 	"""
-	to eternal damnation
-	are skewered here.
+	à danação eterna são
+	empalados e expostos
+	aqui.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Now then! Cross the
-	bridge and enter the
-	ring. From here on,
+	Atenção, todos!
+	Atravessem a ponte e
+	entrem no ringue.
 	"""
 	keyWait
 	clearMsg
 	"""
-	my voice will be
-	your guide!
+	Daqui em diante,
+	somente a minha voz
+	irá guiá-los!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'm DNN reporter
-	Yasu,by the way.
+	Por sinal, eu sou o Yasu,
+	repórter da DNN.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Please follow my
-	instructions
-	closely.
+	Por favor, sigam as
+	minhas instruções com
+	atenção.
 	"""
 	keyWait
 	clearMsg
@@ -61,15 +63,15 @@ script 2 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Uh,this is probably
-	just a set they made
-	for the show!
+	Er, deve ser só um set
+	que construíram pro
+	show.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Come on,let's cross
-	over!
+	Tá, vamos lá
+	atravessar!
 	"""
 	keyWait
 	clearMsg
@@ -80,16 +82,16 @@ script 3 mmbn3 {
 	mugshotHide
 	msgOpen
 	"""
-	Watch your step. If
-	you fall,you may go
-	to the real Hades!
+	Cuidado onde pisa. Se
+	cair, pode acabar paran-
+	do no Inferno pra valer!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Of course you can
-	always turn back and
-	drop out.
+	Lembre-se que sempre
+	pode desistir e voltar
+	atrás.
 	"""
 	keyWait
 	clearMsg
@@ -100,7 +102,7 @@ script 4 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Lan! Be careful!"
+	"Lan! Toma cuidado!"
 	keyWait
 	clearMsg
 	jump
@@ -111,8 +113,8 @@ script 5 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I-I'll be OK!
-	Trust me!
+	V-vai ficar tudo bem!
+	Confia!
 	"""
 	keyWait
 	end

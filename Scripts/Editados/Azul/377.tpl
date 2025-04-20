@@ -7,13 +7,13 @@ script 0 mmbn3 {
 		palette = 2
 	msgOpen
 	"""
-	So Wily used you to
-	form the netmafia
-	syndicate Gospel?
+	Então, o Wily usou você
+	pra formar o sindicato
+	da netmáfia Gospel?
 	"""
 	keyWait
 	clearMsg
-	"Is that right,Sean?"
+	"Foi isso mesmo, Sean?"
 	keyWait
 	clearMsg
 	jump
@@ -24,29 +24,29 @@ script 1 mmbn3 {
 		mugshot = Sean
 	msgOpen
 	"""
-	Yes,that's true. I'd
-	lost both my parents
-	in a plane crash.
+	Sim, foi o que aconteceu.
+	Eu perdi meus pais em
+	uma queda de avião.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I was totally
-	devastated.
+	Fiquei completamente
+	arrasado.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I spent my days in
-	the Cyberworld,as an
-	escape from reality.
+	E passei meus dias no
+	mundo cibernético,
+	fugindo da realidade.
 	"""
 	keyWait
 	clearMsg
 	"""
-	One day on the Net,I
-	was approached by an
-	unfamiliar Navi.
+	Um dia, na Rede, fui
+	contatado por um
+	Navi desconhecido.
 	"""
 	keyWait
 	clearMsg
@@ -60,8 +60,8 @@ script 2 mmbn3 {
 		palette = 2
 	msgOpen
 	"""
-	And that Navi was
-	operated by Wily?
+	E esse Navi era
+	operado pelo Wily?
 	"""
 	keyWait
 	clearMsg
@@ -73,28 +73,29 @@ script 3 mmbn3 {
 		mugshot = Sean
 	msgOpen
 	"""
-	Probably…
-	Anyway,the Navi
-	asked me,
+	Provavelmente...
+	Enfim, o Navi me
+	perguntou:
 	"""
 	keyWait
 	clearMsg
 	"""
-	"Would you like to
-	rule Cyberworld"?
+	"Você não gostaria de
+	governar o mundo
+	cibernético?"
 	"""
 	keyWait
 	clearMsg
 	"""
-	Fed up with the real
-	world,I started
-	doing whatever the
+	Como eu estava cheio
+	do mundo real, comecei
+	a fazer tudo o que o
 	"""
 	keyWait
 	clearMsg
 	"""
-	Navi told me,without
-	question.
+	Navi me mandava fazer,
+	sem questionar.
 	"""
 	keyWait
 	clearMsg
@@ -107,7 +108,7 @@ script 4 mmbn3 {
 	mugshotPalette
 		palette = 2
 	msgOpen
-	"I see. Then what?"
+	"Entendo. E depois?"
 	keyWait
 	clearMsg
 	jump
@@ -118,16 +119,16 @@ script 5 mmbn3 {
 		mugshot = Sean
 	msgOpen
 	"""
-	I expanded the
-	syndicate as ordered
-	and commanded others
+	Eu expandi o sindicato,
+	como ele ordenou, e
+	ordenei que os membros
 	"""
 	keyWait
 	clearMsg
 	"""
-	to commit crimes.
-	That's when the Navi
-	told me to build it.
+	cometessem crimes. Foi
+	quando o Navi me disse
+	para construir aquilo.
 	"""
 	keyWait
 	clearMsg
@@ -141,8 +142,8 @@ script 6 mmbn3 {
 		palette = 2
 	msgOpen
 	"""
-	"It"? What did he
-	tell you to build?
+	"Aquilo"? O que ele te
+	disse para construir?
 	"""
 	keyWait
 	clearMsg
@@ -153,7 +154,7 @@ script 7 mmbn3 {
 	mugshotShow
 		mugshot = Sean
 	msgOpen
-	"The ultimate Navi."
+	"O Navi supremo."
 	waitSkip
 		frames = 30
 	"."
@@ -164,15 +165,15 @@ script 7 mmbn3 {
 		frames = 30
 	"""
 	
-	Bass. He said an
-	ultimate Navi was
+	Bass. Ele disse que um
+	Navi supremo era
 	"""
 	keyWait
 	clearMsg
 	"""
-	necessary in order
-	to rule over all of
-	Cyberworld.
+	necessário para se
+	governar todo o mundo
+	cibernético.
 	"""
 	keyWait
 	clearMsg
@@ -185,7 +186,7 @@ script 8 mmbn3 {
 	soundDisableTextSFX
 	soundPlay
 		track = 289
-	"Thump!"
+	"Plomp!"
 	soundEnableTextSFX
 	keyWait
 	clearMsg
@@ -198,7 +199,7 @@ script 9 mmbn3 {
 	mugshotPalette
 		palette = 2
 	msgOpen
-	"…Is someone there!?"
+	"... Tem alguém aí?!"
 	keyWait
 	end
 }
@@ -207,8 +208,8 @@ script 10 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Sorry! I didn't mean
-	to eavesdrop!
+	Desculpa! Eu não queria
+	ouvir a conversa!
 	"""
 	keyWait
 	clearMsg
@@ -230,8 +231,7 @@ script 12 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	You're looking good,
-	Sean!
+	Você parece bem, Sean!
 	"""
 	keyWait
 	clearMsg
@@ -245,8 +245,8 @@ script 13 mmbn3 {
 		palette = 2
 	msgOpen
 	"""
-	Let's talk more some
-	other time. OK,Sean?
+	A gente conversa mais
+	outra hora. OK, Sean?
 	"""
 	keyWait
 	end
@@ -256,8 +256,8 @@ script 14 mmbn3 {
 		mugshot = Sean
 	msgOpen
 	"""
-	OK. I'd better get
-	going.
+	Tudo bem. É melhor eu
+	ir andando.
 	"""
 	keyWait
 	end
@@ -266,7 +266,7 @@ script 15 mmbn3 {
 	mugshotShow
 		mugshot = Sean
 	msgOpen
-	"See you,Lan."
+	"Até mais, Lan."
 	keyWait
 	clearMsg
 	jump
@@ -277,9 +277,8 @@ script 16 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Oh…
-	You're going
-	already?
+	Ah...
+	Já vai embora?
 	"""
 	keyWait
 	clearMsg
@@ -291,9 +290,9 @@ script 17 mmbn3 {
 		mugshot = Sean
 	msgOpen
 	"""
-	Yeah,I have to go
-	to SciLab now.
-	I'll see you around!
+	Sim, tenho que ir pro
+	SciLab agora.
+	A gente se vê por aí!
 	"""
 	keyWait
 	end
@@ -305,37 +304,37 @@ script 18 mmbn3 {
 		palette = 2
 	msgOpen
 	"""
-	Sean was the former
-	kingpin of the
-	netmafia,Gospel.
+	Como você sabe, o
+	Sean é o ex-chefão
+	da netmáfia Gospel.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Ever since Gospel's
-	collapse,he's been
-	going to various
+	Desde a queda da
+	Gospel, ele tem ido a
+	vários lugares quase
 	"""
 	keyWait
 	clearMsg
 	"""
-	places almost every
-	day,sharing what he
-	knows with others.
+	todos os dias,
+	compartilhando o que
+	sabe com os outros.
 	"""
 	keyWait
 	clearMsg
 	"""
-	He's trying his best
-	to make amends for
-	the crimes he's
+	Ele está fazendo o pos-
+	sível para expiar pelos
+	crimes que cometeu
 	"""
 	keyWait
 	clearMsg
 	"""
-	committed by helping
-	us with our investi-
-	gation of the WWW.
+	ao nos ajudar com
+	nossa investigação da
+	WWW.
 	"""
 	keyWait
 	clearMsg
@@ -352,18 +351,18 @@ script 19 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Sean's making up…
-	For the crimes he's
-	committed…?
+	O Sean tá expiando...
+	pelos crimes que
+	cometeu...?
 	"""
 	keyWait
 	clearMsg
 	mugshotAnimate
 		animation = 0
 	"""
-	(All I'm doing is
-	turning inward in
-	guilt & self-pity.)
+	(Tudo que EU tô fazendo
+	é me recolhendo na
+	minha culpa...)
 	"""
 	keyWait
 	clearMsg
@@ -377,8 +376,8 @@ script 20 mmbn3 {
 		palette = 2
 	msgOpen
 	"""
-	Hm? Is something
-	wrong,Lan?
+	Hm? Algum problema,
+	Lan?
 	"""
 	keyWait
 	clearMsg
@@ -392,9 +391,9 @@ script 21 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Dad…
-	There's something I
-	have to tell you.
+	Papai...
+	Tem uma coisa que eu
+	preciso te contar.
 	"""
 	keyWait
 	end
@@ -406,9 +405,9 @@ script 22 mmbn3 {
 		palette = 2
 	msgOpen
 	"""
-	Lan,you did the
-	right thing,telling
-	me this.
+	Lan, você fez a coisa
+	certa ao me contar
+	isso.
 	"""
 	keyWait
 	clearMsg
@@ -419,7 +418,7 @@ script 23 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"I'm so sorry…"
+	"*chuif* Desculpa..."
 	keyWait
 	clearMsg
 	jump
@@ -432,29 +431,28 @@ script 24 mmbn3 {
 		palette = 2
 	msgOpen
 	"""
-	You made a major
-	mistake.
+	Você cometeu um
+	grande erro.
 	"""
 	keyWait
 	clearMsg
 	"""
-	But you can't dwell
-	on it forever. Like
-	Sean,you should do
+	Mas não pode ficar
+	preso nele para sempre.
 	"""
 	keyWait
 	clearMsg
 	"""
-	your best to make
-	amends for the
-	mistake you made.
+	Como o Sean, você deve
+	fazer o possível para
+	expiar por esse erro.
 	"""
 	keyWait
 	clearMsg
 	"""
-	If you can't do
-	that,all you'll have
-	left is regret.
+	Se não fizer isso, só
+	vai continuar sozinho
+	com o arrependimento.
 	"""
 	keyWait
 	clearMsg
@@ -466,15 +464,15 @@ script 25 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Dad…
-	I'll do it! I'll do
-	everything I can!
+	Papai...
+	Eu vou! Vou fazer tudo
+	que eu puder!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I've got to make up
-	for what I've done!
+	Eu preciso compensar
+	a vacilada que eu dei!
 	"""
 	keyWait
 	clearMsg
@@ -488,8 +486,8 @@ script 26 mmbn3 {
 		palette = 2
 	msgOpen
 	"""
-	That's my boy!
-	Never give up,Lan!
+	Isso, filhão!
+	Nunca desista, Lan!
 	"""
 	keyWait
 	clearMsg
@@ -501,8 +499,8 @@ script 27 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan! Let's go
-	to SciLab!
+	MegaMan!
+	Vamos lá pro ScILab!
 	"""
 	keyWait
 	clearMsg
@@ -514,8 +512,8 @@ script 28 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	You mean to see
-	Chaud!?
+	Quer dizer, pra falar
+	com o Chaud?!
 	"""
 	keyWait
 	clearMsg
@@ -526,10 +524,10 @@ script 29 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Right!"
+	"Aham!"
 	keyWait
 	clearMsg
-	"See you later,dad!"
+	"Tchau, papai!"
 	keyWait
 	end
 }

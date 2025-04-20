@@ -5,9 +5,9 @@ script 0 mmbn3 {
 		mugshot = Inukai
 	msgOpen
 	"""
-	That fool! Losing
-	a battle by trying
-	to show off!
+	Esse idiota! Perdeu a
+	luta porque ficou se
+	exibindo!
 	"""
 	keyWait
 	clearMsg
@@ -19,8 +19,9 @@ script 1 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	You're the operator!
-	Why blame the Navi?
+	Você que é o operador!
+	Por que tá botando a
+	culpa no Navi?
 	"""
 	keyWait
 	clearMsg
@@ -32,9 +33,9 @@ script 2 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	There! Now you can't
-	control the animals
-	anymore!
+	Pronto! Agora você não
+	pode mais controlar os
+	animais!
 	"""
 	keyWait
 	clearMsg
@@ -45,17 +46,17 @@ script 3 mmbn3 {
 	mugshotShow
 		mugshot = Inukai
 	msgOpen
-	"Oops,gotta run…!"
+	"Opa, hora de dar no pé."
 	keyWait
 	clearMsg
 	"""
-	Well,at least I got
-	the 2nd TetraCode!
-	Wily will be happy!
+	Bom, pelo menos peguei
+	o segundo TetraCódigo!
+	O Wily vai ficar satisfeito.
 	"""
 	keyWait
 	clearMsg
-	"Time to run!!"
+	"Adeus!"
 	keyWait
 	clearMsg
 	jump
@@ -66,9 +67,9 @@ script 4 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Wait! Are you
-	serious about Wily
-	being alive!?
+	Ei, espera! Era sério
+	aquela história do Wily
+	estar vivo?! 
 	"""
 	keyWait
 	clearMsg
@@ -81,7 +82,7 @@ script 5 mmbn3 {
 	soundDisableTextSFX
 	soundPlay
 		track = 284
-	"Click…"
+	"Clic..."
 	wait
 		frames = 60
 	keyWait
@@ -95,8 +96,8 @@ script 6 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Too bad! He cut the
-	connection!
+	Droga! Ele encerrou a
+	conexão!
 	"""
 	keyWait
 	end
@@ -106,9 +107,9 @@ script 7 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,we can worry
-	about the WWW later!
-	Chisao comes first!
+	Lan, a gente lida com a
+	WWW depois!
+	O Chisao vem primeiro.
 	"""
 	keyWait
 	clearMsg
@@ -120,9 +121,8 @@ script 8 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	You're right! Let's
-	go check on
-	everybody!
+	Cê tem razão! Vamos lá
+	ver como o pessoal tá!
 	"""
 	keyWait
 	end

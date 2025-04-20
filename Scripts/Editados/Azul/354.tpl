@@ -4,9 +4,9 @@ script 0 mmbn3 {
 	mugshotHide
 	msgOpen
 	"""
-	By the time Lan got
-	home,the SciLab was
-	in serious trouble…
+	Até Lan chegar em casa,
+	o SciLab já estava com
+	sérios problemas...
 	"""
 	keyWait
 	end
@@ -16,9 +16,9 @@ script 1 mmbn3 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	…Don't you think
-	it's unusually hot
-	today?
+	... Você não acha que
+	esse calor de hoje tá
+	anormal?
 	"""
 	keyWait
 	clearMsg
@@ -30,8 +30,8 @@ script 2 mmbn3 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Is the air
-	conditioner broken?
+	Será que quebrou o
+	ar condicionado?
 	"""
 	keyWait
 	clearMsg
@@ -44,13 +44,13 @@ script 3 mmbn3 {
 	soundDisableTextSFX
 	soundPlay
 		track = 242
-	"Clunk! KaClunkClunk!"
+	"Clam! Cla-Clum-Clom!"
 	wait
 		frames = 60
 	"\n"
 	soundPlay
 		track = 262
-	"Beeee"
+	"Biiii"
 	wait
 		frames = 60
 	"p!!"
@@ -64,7 +64,7 @@ script 4 mmbn3 {
 	mugshotShow
 		mugshot = BusinessMan
 	msgOpen
-	"What in the…!?"
+	"Mas o que...?!"
 	keyWait
 	end
 }
@@ -74,13 +74,13 @@ script 5 mmbn3 {
 	soundDisableTextSFX
 	soundPlay
 		track = 242
-	"Clunk! KaClunkClunk!"
+	"Clam! Cla-Clum-Clom!"
 	wait
 		frames = 42
 	"\n"
 	soundPlay
 		track = 242
-	"ClunkClunkClunk!"
+	"Clom-Clom-Clonc!"
 	wait
 		frames = 48
 	soundEnableTextSFX
@@ -91,15 +91,14 @@ script 6 mmbn3 {
 	mugshotShow
 		mugshot = SciLabMan
 	msgOpen
-	"Maybe it's broken?"
+	"Será que quebrou?"
 	keyWait
 	clearMsg
 	flagClear
 		flag = 2096
 	"""
-	Ow! This vending
-	machine's burning
-	hot!
+	Ai! Essa máquina tá
+	pelando!
 	"""
 	keyWait
 	clearMsg
@@ -111,9 +110,9 @@ script 7 mmbn3 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	I'll jack in and
-	see what's going
-	on.
+	Eu vou me conectar
+	nela e ver o que está
+	acontecendo.
 	"""
 	keyWait
 	clearMsg
@@ -124,7 +123,7 @@ script 8 mmbn3 {
 	mugshotShow
 		mugshot = SciLabMan
 	msgOpen
-	"Be careful."
+	"Cuidado."
 	keyWait
 	end
 }
@@ -134,7 +133,7 @@ script 9 mmbn3 {
 	mugshotShow
 		mugshot = BusinessMan
 	msgOpen
-	"Fire!"
+	"Fogo!"
 	keyWait
 	clearMsg
 	jump
@@ -144,7 +143,7 @@ script 10 mmbn3 {
 	mugshotShow
 		mugshot = SciLabMan
 	msgOpen
-	"Someone! Help!"
+	"Alguém! Socorro!"
 	keyWait
 	end
 }

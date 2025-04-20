@@ -5,8 +5,8 @@ script 0 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan! Up there!
-	On the tower!
+	Lan! Ali em cima!
+	Na torre!
 	"""
 	keyWait
 	end
@@ -26,9 +26,9 @@ script 2 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I'll let the others
-	know that we found
-	Chisao!
+	Eu vou avisar aos
+	outros que nós achamos
+	o Chisao!
 	"""
 	keyWait
 	clearMsg
@@ -39,12 +39,12 @@ script 3 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Good idea!"
+	"Boa!"
 	keyWait
 	clearMsg
 	"""
-	Hang on,Chisao!
-	I'll save you!
+	Aguenta aí, Chisao!
+	Eu vou te salvar!
 	"""
 	keyWait
 	end
@@ -54,9 +54,8 @@ script 4 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	That condor won't
-	let us climb up
-	there!
+	Aquele condor não quer
+	deixar a gente escalar!
 	"""
 	keyWait
 	clearMsg
@@ -68,8 +67,9 @@ script 5 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Gosh!
-	What can we do!?
+	Droga!
+	O que a gente pode
+	fazer?!
 	"""
 	keyWait
 	clearMsg
@@ -79,7 +79,7 @@ script 5 mmbn3 {
 script 6 mmbn3 {
 	mugshotHide
 	msgOpen
-	"……"
+	"......"
 	keyWait
 	clearMsg
 	jump
@@ -97,7 +97,7 @@ script 8 mmbn3 {
 	mugshotShow
 		mugshot = Dex
 	msgOpen
-	"Lan! Where's Chisao?"
+	"Lan! Cadê o Chisao?"
 	keyWait
 	clearMsg
 	jump
@@ -109,7 +109,7 @@ script 9 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Up there!"
+	"Lá em cima!"
 	keyWait
 	end
 }
@@ -119,7 +119,7 @@ script 10 mmbn3 {
 	msgOpen
 	"""
 	Chisao!
-	Chisaooooo!
+	Chisaaaaaooo!
 	"""
 	keyWait
 	clearMsg
@@ -130,7 +130,7 @@ script 11 mmbn3 {
 	mugshotShow
 		mugshot = Chisao
 	msgOpen
-	"Bro…Brother?"
+	"Ir... Irmãozão?"
 	keyWait
 	flagSet
 		flag = 1029
@@ -141,22 +141,22 @@ script 12 mmbn3 {
 		mugshot = Chisao
 	msgOpen
 	"""
-	Big broooooo!
-	Where are yoooou!?
+	Irmãozããããooo!
+	Cadê vocêêêê?!
 	"""
 	keyWait
 	clearMsg
-	"…and where am I?"
+	"... e onde é que eu tô?"
 	keyWait
 	clearMsg
 	"""
 	Aaaaahhhh!!!
-	Too hiiiiigh!!
-	So scared!!
+	Tá tão alto!!
+	Que medo!!
 	"""
 	keyWait
 	clearMsg
-	"Sob,sob!"
+	"Chuif, sniff!"
 	keyWait
 	flagSet
 		flag = 1029
@@ -166,7 +166,7 @@ script 13 mmbn3 {
 	mugshotShow
 		mugshot = Dex
 	msgOpen
-	"Chisaooooo!"
+	"Chisaaaaooo!"
 	keyWait
 	clearMsg
 	jump
@@ -177,9 +177,9 @@ script 14 mmbn3 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	What could make the
-	animals act like
-	this?
+	O que será que tá
+	fazendo os animais
+	agirem desse jeito?
 	"""
 	keyWait
 	clearMsg
@@ -190,7 +190,7 @@ script 15 mmbn3 {
 	mugshotShow
 		mugshot = ZooWoman
 	msgOpen
-	"Somebody help!!!!!"
+	"Socorro, alguém!!!!!"
 	keyWait
 	end
 }
@@ -199,8 +199,7 @@ script 16 mmbn3 {
 		mugshot = ZooWoman
 	msgOpen
 	"""
-	The zookeeper!
-	The zookeeper!
+	O tratador! O tratador!
 	"""
 	keyWait
 	clearMsg
@@ -212,8 +211,7 @@ script 17 mmbn3 {
 		mugshot = Yai
 	msgOpen
 	"""
-	He's being
-	attacked!?
+	Ele tá sendo atacado?!
 	"""
 	keyWait
 	clearMsg
@@ -225,9 +223,9 @@ script 18 mmbn3 {
 		mugshot = ZooWoman
 	msgOpen
 	"""
-	No! He's controlling
-	the animals from the
-	zoo office!
+	Não! Está controlando os
+	animais, da sala de admi-
+	nistração do zoológico!
 	"""
 	keyWait
 	clearMsg
@@ -239,8 +237,8 @@ script 19 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Controlling them?
-	What do you mean!?
+	Controlando?
+	Mas como assim?!
 	"""
 	keyWait
 	clearMsg
@@ -252,16 +250,16 @@ script 20 mmbn3 {
 		mugshot = ZooWoman
 	msgOpen
 	"""
-	The animals have
-	chips in them to
-	monitor health!
+	Os animais têm chips
+	implantados neles para
+	monitorar a saúde.
 	"""
 	keyWait
 	clearMsg
 	"""
-	He's using the chips
-	to send programs to
-	control them!
+	Ele está usando esses
+	chips para mandar pro-
+	gramas para controlá-los!
 	"""
 	keyWait
 	clearMsg
@@ -273,8 +271,8 @@ script 21 mmbn3 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	Chips…?
-	That's sick!
+	Chips...?
+	Isso é doentio!
 	"""
 	keyWait
 	clearMsg
@@ -286,15 +284,15 @@ script 22 mmbn3 {
 		mugshot = ZooWoman
 	msgOpen
 	"""
-	He put them in when
-	he started working
-	here! Most of the
+	Ele os instalou neles
+	assim que começou a
+	trabalhar aqui!
 	"""
 	keyWait
 	clearMsg
 	"""
-	employees didn't
-	even know!
+	A maioria dos empregados
+	nem sabia!
 	"""
 	keyWait
 	clearMsg
@@ -306,8 +304,8 @@ script 23 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,we have to stop
-	that zookeeper!
+	Lan, a gente tem que
+	parar esse tratador!
 	"""
 	keyWait
 	clearMsg
@@ -319,8 +317,8 @@ script 24 mmbn3 {
 		mugshot = Yai
 	msgOpen
 	"""
-	I guess that's the
-	only way we can save
+	Acho que esse é o único
+	jeito da gente salvar o
 	Chisao!
 	"""
 	keyWait
@@ -342,7 +340,7 @@ script 26 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"OK! I'll go!"
+	"Tá! Eu vou!"
 	keyWait
 	clearMsg
 	jump
@@ -353,16 +351,16 @@ script 27 mmbn3 {
 		mugshot = ZooWoman
 	msgOpen
 	"""
-	You can enter the
-	zoo network from the
-	MultiUnit on the
+	Dá para acessar a rede
+	do zoológico através da
+	MultiUnidade
 	"""
 	keyWait
 	clearMsg
 	"""
-	panda cage!
-	Go through there to
-	get to the server!
+	na jaula do panda!
+	Conecte-se a ela para
+	acessar o servidor!
 	"""
 	keyWait
 	end

@@ -2,7 +2,7 @@
 
 script 220 mmbn3 {
 	msgOpen
-	"It's a server"
+	"É um servidor."
 	keyWait
 	end
 }

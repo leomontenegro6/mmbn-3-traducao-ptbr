@@ -5,9 +5,9 @@ script 0 mmbn3 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	So there you are…
-	Lan is here now,
-	so let's begin!
+	Então, aí está você...
+	O Hikari chegou, então,
+	vamos começar!
 	"""
 	keyWait
 	end
@@ -17,23 +17,22 @@ script 1 mmbn3 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	I'd like to discuss
-	what we plan to
-	do about Alpha.
+	Gostaríamos de discutir
+	nossos planos para lidar
+	com o Alpha.
 	"""
 	keyWait
 	clearMsg
 	"""
-	But first,now that
-	the WWW has stolen
-	Alpha,
+	Mas, primeiro: agora que
+	a WWW roubou o Alpha,
 	"""
 	keyWait
 	clearMsg
 	"""
-	I need to tell
-	you all what
-	it really is…
+	preciso contar a todos
+	vocês o que ele é, de
+	verdade...
 	"""
 	keyWait
 	clearMsg
@@ -44,12 +43,12 @@ script 2 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"\"What it\n really is\"……?"
+	"\"O que o Alpha é\n de verdade\"......?"
 	keyWait
 	clearMsg
 	mugshotAnimate
 		animation = 0
-	"Gulp…"
+	"Glup..."
 	keyWait
 	clearMsg
 	jump
@@ -60,22 +59,21 @@ script 3 mmbn3 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	SciLab created Alpha
-	a decade ago in a
-	top secret project.
+	O SciLab criou o Alpha
+	10 anos atrás para um
+	projeto ultrassecreto.
 	"""
 	keyWait
 	clearMsg
 	"""
-	It was developed
-	as the basis for
-	our Net community…
+	Ele foi desenvolvido como
+	a base para a nossa
+	comunidade da Rede...
 	"""
 	keyWait
 	clearMsg
 	"""
-	It is the primal
-	Internet…
+	É a Internet primordial...
 	"""
 	keyWait
 	clearMsg
@@ -87,15 +85,14 @@ script 4 mmbn3 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	"The primal
-	Internet…"!?
+	"A Internet primordial"...?!
 	"""
 	keyWait
 	clearMsg
 	"""
-	We thought it was
-	a monster,but…
-	It's the Internet??
+	Pensávamos que ele
+	fosse só um monstro,
+	mas... é a Internet??
 	"""
 	keyWait
 	clearMsg
@@ -107,58 +104,58 @@ script 5 mmbn3 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	That is correct.
-	The original form of
-	our current Net.
+	Isso mesmo.
+	A forma original da
+	Rede atual.
 	"""
 	keyWait
 	clearMsg
 	"""
-	We tried many things
-	to create the Net
-	that we know today.
+	Tentamos muitas coisas
+	para criar a Rede
+	que conhecemos hoje.
 	"""
 	keyWait
 	clearMsg
 	"""
-	One day,all of the
-	devices connected to
-	Alpha malfunctioned.
+	Um dia, todos os apare-
+	lhos ligados ao Alpha
+	apresentaram defeito.
 	"""
 	keyWait
 	clearMsg
 	"""
-	At the time,our
-	researchers thought
-	the problem was
+	Na época, nossos pes-
+	quisadores acreditaram
+	que o problema era
 	"""
 	keyWait
 	clearMsg
 	"""
-	the "AutoNavi",
-	which was developed
-	at the same time.
+	o "AutoNavi",
+	que estava sendo
+	desenvolvido em paralelo.
 	"""
 	keyWait
 	clearMsg
 	"""
-	We at SciLab
-	reacted…strongly…
-	against the man who
+	Nós, no SciLab, tomamos
+	uma atitude... severa...
+	contra o homem
 	"""
 	keyWait
 	clearMsg
 	"""
-	developed the
-	AutoNavi,and decided
-	it must be deleted.
+	que desenvolveu o
+	AutoNavi, e decidimos
+	que ele seria deletado.
 	"""
 	keyWait
 	clearMsg
 	"""
-	He was held in
-	custody,and the
-	Navi Elite Corps…
+	Ele foi mantido sob
+	custódia, e a Tropa
+	Navi de Elite...
 	"""
 	keyWait
 	clearMsg
@@ -175,20 +172,19 @@ script 5 mmbn3 {
 		frames = 30
 	mugshotAnimate
 		animation = 1
-	"deleted his Navi."
+	" deletou o Navi dele."
 	keyWait
 	clearMsg
 	"""
-	We thought that
-	would be the end
-	of it…
+	Pensamos que esse
+	seria o fim da história...
 	"""
 	keyWait
 	clearMsg
 	"""
-	But after that,the
-	worst net-accident
-	in history occurred.
+	Mas, depois disso, o
+	pior net-acidente da
+	história aconteceu.
 	"""
 	keyWait
 	clearMsg
@@ -199,7 +195,7 @@ script 6 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"An accident?"
+	"Um acidente?"
 	keyWait
 	clearMsg
 	jump
@@ -210,9 +206,9 @@ script 7 mmbn3 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	All devices
-	connected to Alpha
-	were destroyed.
+	Todos os dispositivos
+	ligados ao Alpha foram
+	destruídos.
 	"""
 	keyWait
 	clearMsg
@@ -224,9 +220,9 @@ script 8 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	So the AutoNavi
-	wasn't responsible
-	after all?
+	Então, o AutoNavi não
+	tinha sido responvável,
+	no final?
 	"""
 	keyWait
 	clearMsg
@@ -238,30 +234,29 @@ script 9 mmbn3 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Precisely. Alpha
-	itself caused the
-	accident.
+	Exatamente. O próprio
+	Alpha causou o acidente.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Unknown to the Alpha
-	team,it was riddled
-	with bugs.
+	A equipe do Alpha não
+	sabia disso, mas ele
+	estava cheio de bugs.
 	"""
 	keyWait
 	clearMsg
 	"""
-	It gained a level of
-	intelligence,around
-	that of an amoeba.
+	Ele adquiriu um certo
+	nível de inteligência, pró-
+	ximo ao de uma ameba.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Well,perhaps not
-	intelligence. More
-	like…instinct.
+	Bom, talvez não
+	"inteligência".
+	Mais... "instinto".
 	"""
 	keyWait
 	clearMsg
@@ -273,9 +268,9 @@ script 10 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I can't believe that
-	the Internet could
-	become self aware!
+	Inacreditável... a
+	Internet, criando
+	consciência própria!
 	"""
 	keyWait
 	clearMsg
@@ -287,56 +282,57 @@ script 11 mmbn3 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Using its newfound
-	instincts,
+	Com o uso de seus
+	recém-descobertos
+	instintos,
 	"""
 	keyWait
 	clearMsg
 	"""
-	Alpha crept into all
-	devices connected
-	to itself.
+	Alpha invadiu todos os
+	aparelhos que estavam
+	conectados a si mesmo.
 	"""
 	keyWait
 	clearMsg
 	"""
-	It absorbed all
-	manner of Navis,
-	programs,everything.
+	Ele absorveu todo tipo
+	de Navi, programa...
+	tudo.
 	"""
 	keyWait
 	clearMsg
 	"""
-	It was as if a giant
-	amoeba was devouring
-	all of Cyberworld.
+	Como uma ameba
+	gigante, devorando todo
+	o mundo cibernético.
 	"""
 	keyWait
 	clearMsg
 	"""
-	A week later,it had
-	devoured everything,
-	and SciLab took
+	Uma semana depois,
+	ele já tinha devorado
+	tudo, e o SciLab
 	"""
 	keyWait
 	clearMsg
 	"""
-	advantage of its
-	bloated state to
-	caputure it.
+	se aproveitou de seu
+	estado inchado para
+	capturá-lo.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Alpha had finally
-	been captured,
+	Alpha havia, enfim,
+	sido capturado.
 	"""
 	keyWait
 	clearMsg
 	"""
-	But for 6 months,all
-	of Net society was
-	brought to a halt
+	Mas, por 6 meses, toda
+	a sociedade da Rede
+	ficou paralisada
 	"""
 	mugshotAnimate
 		animation = 0
@@ -354,9 +350,9 @@ script 11 mmbn3 {
 	mugshotAnimate
 		animation = 1
 	"""
-	This event is known
-	today as
-	"The Alpha Revolt".
+	Esse evento ficou
+	conhecido como
+	"A Revolta Alpha".
 	"""
 	keyWait
 	clearMsg
@@ -368,16 +364,16 @@ script 12 mmbn3 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	Back then,only a few
-	devices were hooked
-	into Alpha.
+	Naquela época, somente
+	uns poucos aparelhos
+	eram ligados ao Alpha.
 	"""
 	keyWait
 	clearMsg
 	"""
-	But if Alpha were
-	to return today,with
-	all that's online…
+	Mas, se o Alpha voltasse
+	hoje, com tudo que é
+	online agora...
 	"""
 	keyWait
 	clearMsg
@@ -389,26 +385,24 @@ script 13 mmbn3 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	There would be
-	nothing we could do.
+	Não haveria nada que
+	poderíamos fazer.
 	"""
 	keyWait
 	clearMsg
 	"""
-	It would be the
-	end of all of 
-	Net society.
+	Seria o fim de toda a
+	sociedade da Rede.
 	"""
 	keyWait
 	clearMsg
 	"""
-	And now that Alpha
-	is in the hands of
-	the WWW…
+	E agora, que o Alpha
+	está nas mãos da WWW...
 	"""
 	keyWait
 	clearMsg
-	"It MUST be deleted!!"
+	"Ele TEM que ser\ndeletado!!"
 	keyWait
 	clearMsg
 	jump
@@ -422,35 +416,35 @@ script 14 mmbn3 {
 	soundDisableTextSFX
 	soundPlay
 		track = 299
-	"Whoot! "
+	"Buuuon! "
 	wait
 		frames = 64
 	soundPlay
 		track = 299
-	"Whoot! "
+	"Buuuon! "
 	wait
 		frames = 64
 	soundPlay
 		track = 299
-	"Whoot!"
+	"Buuuon!"
 	wait
 		frames = 64
 	"\n"
 	soundEnableTextSFX
-	"Emergency!!"
+	"Emergência!!"
 	keyWait
 	clearMsg
 	"""
-	All AutoTanks on
-	patrol have gone
-	berserk!
+	Todos os AutoTanques
+	de patrulha saíram de
+	controle!
 	"""
 	keyWait
 	clearMsg
 	"""
-	They cannot be
-	controlled! Civilian
-	casualties possible!
+	Estão todos
+	incontroláveis!
+	Vítimas civis, possíveis!
 	"""
 	keyWait
 	clearMsg
@@ -462,9 +456,9 @@ script 15 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	AutoTanks? Like
-	the ones that
-	were in ACDC??
+	AutoTanques? Tipo
+	aqueles que tavam em
+	ACDC?!
 	"""
 	keyWait
 	clearMsg
@@ -475,7 +469,7 @@ script 16 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Gosh,I hope not!"
+	"Agh... Espero que não!"
 	keyWait
 	clearMsg
 	jump
@@ -486,8 +480,9 @@ script 17 mmbn3 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Quickly,everyone!
-	We'd better go!
+	Rápido, gente!
+	Temos que partir
+	imediatamente!
 	"""
 	keyWait
 	clearMsg
@@ -497,7 +492,7 @@ script 17 mmbn3 {
 script 18 mmbn3 {
 	mugshotHide
 	msgOpen
-	"Roger!!"
+	"Entendido!!"
 	keyWait
 	end
 }
@@ -505,7 +500,7 @@ script 19 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Lan,let's go,too!"
+	"Lan, vamos, também!"
 	keyWait
 	clearMsg
 	jump
@@ -515,7 +510,7 @@ script 20 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"You bet!"
+	"Claro!"
 	keyWait
 	end
 }

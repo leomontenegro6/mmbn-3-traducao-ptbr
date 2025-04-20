@@ -4,28 +4,28 @@ script 0 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"A virus!?"
+	"Um vírus?!"
 	keyWait
 	clearMsg
 	"""
-	Looks like it's
-	making the tank go
-	out of control!!
+	Parece que é ele que
+	tá fazendo o tanque
+	sair de controle!!
 	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	"""
-	MegaMan! You've got
-	to delete that virus
-	and stop the tank!!
+	MegaMan! Você tem que
+	deletar esse vírus e
+	parar o tanque!!
 	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"Gotcha!!"
+	"Claro!!"
 	keyWait
 	clearMsg
 	msgClose
@@ -46,8 +46,8 @@ script 0 mmbn3 {
 script 230 mmbn3 {
 	msgOpen
 	"""
-	MegaMan accessed the
-	mystery data.
+	MegaMan acessou os
+	dados misteriosos.
 	"""
 	wait
 		frames = 10
@@ -68,8 +68,8 @@ script 230 mmbn3 {
 		item = 96
 		amount = 1
 	"""
-	MegaMan got a
-	PowerUp:
+	MegaMan adquiriu
+	um PowerUp:
 	"
 	"""
 	printItem
@@ -84,8 +84,8 @@ script 230 mmbn3 {
 script 231 mmbn3 {
 	msgOpen
 	"""
-	MegaMan accessed the
-	mystery data.
+	MegaMan acessou os
+	dados misteriosos.
 	"""
 	wait
 		frames = 10
@@ -106,8 +106,8 @@ script 231 mmbn3 {
 		item = 99
 		amount = 1
 	"""
-	MegaMan got a
-	PowerUp:
+	MegaMan adquiriu
+	um PowerUp:
 	"
 	"""
 	printItem
@@ -119,8 +119,8 @@ script 231 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Regular memory
-	increased by 2 MB!
+	Memória padrão
+	aumentada em 2 MB!
 	"""
 	keyWait
 	end

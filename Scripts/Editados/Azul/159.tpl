@@ -5,43 +5,43 @@ script 0 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	AH-OOO-GA!
-	AH-OOO-GA!
+	UI-UUUUUUUUUUU!
+	UI-UUUUUUUUUUU!
 	"""
 	keyWait
 	clearMsg
 	"""
-	AH-OOO-GA!
-	AH-OOO-GA!
+	UI-UUUUUUUUUUU!
+	UI-UUUUUUUUUUU!
 	"""
 	keyWait
 	clearMsg
-	"Huff,huff…"
+	"Urf, urf..."
 	keyWait
 	clearMsg
 	"""
-	My job is to sound
-	the alarm.
-	"""
-	keyWait
-	clearMsg
-	"""
-	But the speaker in
-	the real world is
-	broken and silent…
+	O meu trabalho é soar
+	o alarme.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Still,I practice
-	everyday in case the
-	speaker gets fixed.
+	Mas o autofalante no
+	mundo real está
+	quebrado e baixinho...
 	"""
 	keyWait
 	clearMsg
 	"""
-	AH-OOO-GA!
-	AH-OOO-GA!
+	Ainda assim, eu pratico
+	todos os dias, pro caso
+	dele ser consertado.
+	"""
+	keyWait
+	clearMsg
+	"""
+	UI-UUUUUUUUUUU!
+	UI-UUUUUUUUUUU!
 	"""
 	keyWait
 	end
@@ -51,21 +51,22 @@ script 1 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	He still practices…
-	But what's the use?
-	He can't be heard…
+	E ele segue praticando...
+	Pra quê?
+	Nem dá pra ouvir ele...
 	"""
 	keyWait
 	clearMsg
 	"""
-	To be honest,we have
-	no real purpose…
+	Pra ser sincero, nós
+	não temos nenhum
+	propósito real.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Maybe he's just
-	in denial…
+	Talvez ele esteja em
+	negação...
 	"""
 	keyWait
 	end
@@ -73,8 +74,8 @@ script 1 mmbn3 {
 script 230 mmbn3 {
 	msgOpen
 	"""
-	MegaMan accessed the
-	mystery data.
+	MegaMan acessou os
+	dados misteriosos.
 	"""
 	wait
 		frames = 10
@@ -95,8 +96,8 @@ script 230 mmbn3 {
 		item = 98
 		amount = 1
 	"""
-	MegaMan got a
-	PowerUp:
+	MegaMan adquiriu
+	um PowerUp:
 	"
 	"""
 	printItem
@@ -108,8 +109,8 @@ script 230 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Regular memory
-	increased by 1 MB!
+	Memória padrão
+	aumentada em 1 MB!
 	"""
 	keyWait
 	end
@@ -121,8 +122,8 @@ script 231 mmbn3 {
 		jumpIfFalse = 232
 	msgOpen
 	"""
-	MegaMan accessed the
-	mystery data.
+	MegaMan acessou os
+	dados misteriosos.
 	"""
 	wait
 		frames = 10
@@ -141,8 +142,7 @@ script 231 mmbn3 {
 		code = B
 		amount = 1
 	"""
-	MegaMan got a chip
-	for
+	MegaMan adquiriu o chip
 	"
 	"""
 	printChip
@@ -163,15 +163,15 @@ script 231 mmbn3 {
 script 232 mmbn3 {
 	msgOpen
 	"""
-	It's locked.
+	Está bloqueado.
 	"
 	"""
 	printItem
 		buffer = 0
 		item = 117
 	"""
-	" is needed
-	to open it
+	" é necessário
+	para acessar os dados.
 	"""
 	keyWait
 	end

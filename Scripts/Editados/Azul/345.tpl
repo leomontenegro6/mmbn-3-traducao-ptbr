@@ -5,29 +5,30 @@ script 0 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Did you hear that,
-	MegaMan? I'm the
-	hero of ACDC Town!
+	Ouviu isso, MegaMan?
+	Eu sou o herói do bairro
+	ACDC!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Hearing that makes
-	me all pumped up!
-	Bring it on,WWW!
+	Ouvir isso me deixou
+	empogadaço!
+	Pode vir, WWW!
 	"""
 	keyWait
 	clearMsg
 	"""
-	The superhero of
-	ACDC Town is ready
-	for you!
+	O super-herói de ACDC
+	tá pronto pra encarar
+	vocês!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I feel like I could
-	take on the world!
+	Eu tô sentindo como
+	se nada no mundo
+	pudesse me deter!
 	"""
 	keyWait
 	clearMsg
@@ -39,14 +40,14 @@ script 1 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,if you get too
-	overconfident…
+	Lan, se ficar confiante
+	demais...
 	"""
 	keyWait
 	clearMsg
 	"""
-	You'll wind up
-	getting hurt.
+	vai acabar se
+	machucando.
 	"""
 	keyWait
 	clearMsg
@@ -64,16 +65,15 @@ script 2 mmbn3 {
 	textSpeed
 		delay = 1
 	"""
-	Ha! Not me! I'm a
-	hero!
+	Ha! Eu, não!
+	Não um herói como eu!
 	"""
 	wait
 		frames = 30
 	clearMsg
 	"""
-	I can take on any…
-	Huh? Hey! It's that
-	guy!
+	Eu encaro qualquer...
+	Hã? Ah! É aquele cara!
 	"""
 	controlUnlock
 	keyWait
@@ -85,7 +85,7 @@ script 3 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Match!"
+	"O Match!"
 	keyWait
 	end
 }
@@ -94,9 +94,9 @@ script 4 mmbn3 {
 		mugshot = MrMatch
 	msgOpen
 	"""
-	Who dares address me
-	that way!? It's
-	"MISTER Match"!
+	Quem ousa me chamar
+	com esse desrespeito?!
+	É "SENHOR Match"!
 	"""
 	keyWait
 	end
@@ -106,14 +106,14 @@ script 5 mmbn3 {
 		mugshot = MrMatch
 	msgOpen
 	"""
-	……
-	Oh. It's you.
+	......
+	Ah. É você.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Long time no see,
-	kid.
+	Há quanto tempo, hein,
+	pirralho?
 	"""
 	keyWait
 	clearMsg
@@ -125,9 +125,9 @@ script 6 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	"Long time no see"!?
-	Just what are you up
-	to here!?
+	"Há quanto tempo"?!
+	O que é que você tá
+	aprontando aí?!
 	"""
 	keyWait
 	clearMsg
@@ -139,22 +139,22 @@ script 7 mmbn3 {
 		mugshot = MrMatch
 	msgOpen
 	"""
-	Hey,now just calm
-	down. I left the WWW
-	a long time ago.
+	Ô, calma, leãozinho.
+	Eu já deixei a WWW
+	faz muito tempo.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'm a model citizen
-	now,man!
+	Sou um cidadão de bem
+	agora!
 	"""
 	keyWait
 	clearMsg
 	"""
-	In fact,I'm gonna
-	have SciLab help
-	me out.
+	Aliás, eu estava indo
+	pedir uma ajudinha ao
+	SciLab.
 	"""
 	keyWait
 	clearMsg
@@ -166,8 +166,8 @@ script 8 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	What!? Help you out?
-	SciLab!?
+	O quê?! O SciLab?!
+	Ajudar você?!
 	"""
 	keyWait
 	clearMsg
@@ -179,23 +179,22 @@ script 9 mmbn3 {
 		mugshot = MrMatch
 	msgOpen
 	"""
-	Yeah,I'm gonna work
-	there. After leaving
-	the WWW,I changed my
+	Aham. Eu vou trabalhar
+	lá. Depois de largar a
+	WWW, eu mudei pra valer!
 	"""
 	keyWait
 	clearMsg
 	"""
-	ways big time!
-	I got my act
-	together,and
+	Parei com os crimes,
+	fiquei íntegro
 	"""
 	keyWait
 	clearMsg
 	"""
-	determined I would
-	help the world,and
-	everyone in it!
+	e decidi que vou ajudar
+	o mundo e todos que
+	vivem nele!
 	"""
 	keyWait
 	clearMsg
@@ -207,9 +206,9 @@ script 10 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	What!?
-	You expect me to buy
-	that?
+	Quê?!
+	Acha mesmo que eu
+	vou cair nessa?
 	"""
 	keyWait
 	clearMsg
@@ -221,26 +220,26 @@ script 11 mmbn3 {
 		mugshot = MrMatch
 	msgOpen
 	"""
-	Hey,man,don't look
-	at me that way!
+	Pô, não me olha assim,
+	cara!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'm speaking from
-	my heart! Just check
-	out these eyes! The
+	Eu tô falando de
+	coração! Olha bem no
+	fundo dos meus olhos.
 	"""
 	keyWait
 	clearMsg
 	"""
-	flame of justice
-	burns bright in my
-	pupils!
+	Veja como as chamas
+	da justiça ardem nas
+	minhas pupilas!
 	"""
 	keyWait
 	clearMsg
-	"See for yourself!"
+	"VEJA!!"
 	keyWait
 	clearMsg
 	jump
@@ -250,7 +249,7 @@ script 12 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Hmmmm…"
+	"Hmmmm..."
 	keyWait
 	end
 }
@@ -264,15 +263,15 @@ script 13 mmbn3 {
 	playerAnimate
 		animation = 1
 	"""
-	Can you lend us a
-	hand? The WWW's back
-	again!
+	Pode nos dar uma ajuda
+	agora? A WWW voltou a
+	atacar!
 	"""
 	keyWait
 	clearMsg
 	"""
-	They're wreaking
-	havoc in Yoka 2!
+	Estão causando
+	confusão em Yoka 2!
 	"""
 	keyWait
 	end
@@ -283,7 +282,8 @@ script 14 mmbn3 {
 	msgOpen
 	"""
 	Match!
-	Don't tell me you…!
+	Não vai dizer que foi
+	você que...!
 	"""
 	keyWait
 	clearMsg
@@ -294,19 +294,23 @@ script 15 mmbn3 {
 	mugshotShow
 		mugshot = MrMatch
 	msgOpen
-	"You still doubt me?"
-	keyWait
-	clearMsg
 	"""
-	I swear,I've got
-	nothing to do with
-	this! Stop eyeing
+	Você ainda duvida de
+	mim?
 	"""
 	keyWait
 	clearMsg
 	"""
-	me and hurry up and
-	jack into the Net!
+	Eu juro, menino,
+	não tenho nada a ver
+	com isso!
+	"""
+	keyWait
+	clearMsg
+	"""
+	Agora, para de ficar me
+	fitando e se conecta
+	logo da Rede!
 	"""
 	keyWait
 	clearMsg
@@ -318,12 +322,12 @@ script 16 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,Yoka 2 takes
-	priority!
+	Lan, a situação de
+	Yoka 2 tem prioridade!
 	"""
 	keyWait
 	clearMsg
-	"Quick,let's go!"
+	"Vamos lá, rápido!"
 	keyWait
 	end
 }
@@ -332,14 +336,15 @@ script 17 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Something smells
-	fishy to me…
+	Pra mim, tem alguma
+	coisa muito suspeita
+	rolando aqui...
 	"""
 	keyWait
 	clearMsg
 	"""
-	You're right,though.
-	We've got to hurry!
+	Mas você tá certo.
+	A gente tem que correr!
 	"""
 	keyWait
 	end

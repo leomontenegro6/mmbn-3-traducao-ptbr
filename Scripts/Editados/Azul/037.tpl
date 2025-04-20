@@ -18,9 +18,9 @@ script 0 mmbn3 {
 		jumpIfOutOfRange = continue
 	msgOpen
 	"""
-	Press the L Button
-	to talk to Lan!
-	(but not yet)
+	Aperte o botão L
+	para falar com o Lan!
+	(mas ainda não)
 	"""
 	keyWait
 	end
@@ -42,9 +42,9 @@ script 15 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	"Head of learning"…
-	Could that be…here?
-	MegaMan,let's look!
+	"Líder do aprendizado"...
+	Será que é... lá?
+	MegaMan, bora procurar!
 	"""
 	keyWait
 	end
@@ -60,9 +60,9 @@ script 16 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	"One of many birds"?
-	That's tough. What
-	could it mean?
+	"Um de muitos pássaros"?
+	Difícil... O que será que
+	isso quer dizer?
 	"""
 	keyWait
 	end
@@ -72,9 +72,9 @@ script 17 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	This must be "one
-	of many birds"!
-	Let's get to Rank 7!
+	Deve ser isso o "um
+	de muitos pássaros"!
+	Vamos lá pro ranque 7!
 	"""
 	keyWait
 	end
@@ -88,9 +88,9 @@ script 18 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Was that mail from
-	Chaud real? Let's
-	go to ACDC Square!
+	Aquele e-mail do Chaud
+	era real mesmo? Vamos
+	lá pro ACDC Plaza!
 	"""
 	keyWait
 	end
@@ -100,9 +100,8 @@ script 19 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Who's the mail from?
-	Let's read it and
-	see!!
+	De quem é esse e-mail?
+	Vamos ler e descobrir!!
 	"""
 	keyWait
 	end
@@ -132,7 +131,7 @@ script 25 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan,look for
+	MegaMan, encontra o
 	FlashMan!
 	"""
 	keyWait
@@ -161,9 +160,9 @@ script 34 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Look for the "Key
-	data" that will open
-	the security door!
+	Procura pela "Chave"
+	que abre a porta de
+	segurança!
 	"""
 	keyWait
 	end
@@ -190,7 +189,7 @@ script 35 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"OK! Let's move on!"
+	"Beleza! Indo em frente!"
 	keyWait
 	end
 }
@@ -199,8 +198,8 @@ script 36 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	OK,let's move on!
-	Be careful,MegaMan!
+	OK, vamos indo!
+	Toma cuidado, MegaMan!
 	"""
 	keyWait
 	end
@@ -210,9 +209,9 @@ script 37 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Where could FlashMan
-	be? We'll just keep
-	looking!
+	Onde será que tá o
+	FlashMan? Vamos
+	continuar procurando!
 	"""
 	keyWait
 	end
@@ -222,9 +221,9 @@ script 38 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I'm worried about
-	everyone! Let's go
-	see how they are!
+	Eu tô preocupado com
+	o pessoal! Vamos ver
+	como eles tão!
 	"""
 	keyWait
 	end
@@ -234,8 +233,8 @@ script 39 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan,open the
-	security door!
+	MegaMan, abre a porta
+	de segurança!
 	"""
 	keyWait
 	end
@@ -245,9 +244,8 @@ script 40 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Look for the
-	"Passwrd" that will
-	open the door!
+	Encontra a "Senha" pra
+	abrir a porta!
 	"""
 	keyWait
 	end
@@ -257,9 +255,9 @@ script 41 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Looks like there are
-	no more problems
-	from FlashMan…
+	Parece que não tem
+	mais nenhum problema
+	do FlashMan aqui...
 	"""
 	keyWait
 	end

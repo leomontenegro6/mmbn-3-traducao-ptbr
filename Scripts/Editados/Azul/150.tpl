@@ -5,16 +5,16 @@ script 0 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	I'm not just for
-	show! I'm not a
-	decoration!
+	Eu não sou só de
+	enfeite!
+	Não sou só decoração!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'm a telephone! But
-	nobody uses me!
-	Sigh…
+	Eu. Sou. Um telefone!
+	Mas ninguém me usa!
+	... Chuif...
 	"""
 	keyWait
 	end
@@ -32,37 +32,37 @@ script 190 mmbn3 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Well,well! An
-	unexpected visitor.
+	Ora, ora, um visitante
+	inesperado.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'm surprised. None
-	of the others made
-	it this far.
+	Que surpresa. Nenhum
+	dos outros conseguiu
+	chegar longe assim.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Is this place too
-	intense…? Were my
-	messages too crude…?
+	O lugar é remoto demais?
+	Minhas mensagens foram
+	grosseiras demais...?
 	"""
 	keyWait
 	clearMsg
-	"Sigh. You know…"
+	"Ai, ai. Sabe..."
 	keyWait
 	clearMsg
-	"It's a shame…"
+	"é uma pena..."
 	waitSkip
 		frames = 20
 	keyWait
 	clearMsg
 	"""
-	That I only get to
-	rob a stupid
-	little kid!!
+	que eu só vou poder
+	assaltar um pivete
+	imbecil como você!!
 	"""
 	keyWait
 	flagSet
@@ -78,15 +78,15 @@ script 191 mmbn3 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	What are you? Some
-	kind of freak?
+	Mas o que é você?
+	Um monstro?!
 	"""
 	keyWait
 	clearMsg
 	"Ngh!"
 	waitSkip
 		frames = 10
-	" No!"
+	" Não!"
 	waitSkip
 		frames = 6
 	"."
@@ -97,15 +97,15 @@ script 191 mmbn3 {
 		frames = 6
 	"""
 	.
-	So,so strong…
-	Hua,ha,ha…
+	T-Tão forte... Tão...
+	Hua... ha... ha...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Look! I'm sorry! You
-	can take this if you
-	let me go!
+	Olha! Desculpa! Se me
+	deixar escapar, eu te
+	dou isto aqui!
 	"""
 	keyWait
 	clearMsg
@@ -124,7 +124,7 @@ script 192 mmbn3 {
 	playerAnimate
 		animation = 24
 	"""
-	MegaMan got:
+	MegaMan adquiriu:
 	"10000 Zennys"!!
 	"""
 	playerFinish
@@ -138,9 +138,9 @@ script 193 mmbn3 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	I give up! That's
-	enough! You'll let
-	me go,right?
+	Eu em rendo!
+	Chega, chega!
+	Você vai me liberar, né?
 	"""
 	keyWait
 	end
@@ -148,8 +148,8 @@ script 193 mmbn3 {
 script 230 mmbn3 {
 	msgOpen
 	"""
-	MegaMan accessed the
-	mystery data.
+	MegaMan acessou os
+	dados misteriosos.
 	"""
 	wait
 		frames = 10
@@ -171,8 +171,7 @@ script 230 mmbn3 {
 		code = A
 		amount = 1
 	"""
-	MegaMan got a chip
-	for
+	MegaMan adquiriu o chip
 	"
 	"""
 	printChip

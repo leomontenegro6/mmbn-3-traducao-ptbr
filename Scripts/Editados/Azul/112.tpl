@@ -8,17 +8,17 @@ script 0 mmbn3 {
 	mugshotShow
 		mugshot = MrProg
 	msgOpen
-	"Katakatakatakata…"
+	"Brret brrret brrret..."
 	keyWait
 	clearMsg
 	mugshotHide
 	"""
-	It's a beetle-type
-	program
+	É um programa tipo
+	besouro.
 	"""
 	keyWait
 	clearMsg
-	"Take it with you?\n"
+	"Quer levá-lo com você?\n"
 	option
 		left = 0
 		right = 0
@@ -26,7 +26,7 @@ script 0 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Yes\n"
+	"   Sim\n"
 	option
 		left = 0
 		right = 0
@@ -34,7 +34,7 @@ script 0 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"No"
+	"   Não"
 	select
 		default = 0
 		BSeparate = false
@@ -89,17 +89,17 @@ script 2 mmbn3 {
 	mugshotShow
 		mugshot = MrProg
 	msgOpen
-	"Chomp,chomp,chomp!!"
+	"Tchoc, tchoc, tchoc!!"
 	keyWait
 	clearMsg
 	mugshotHide
 	"""
-	It's a beaver-type
-	program
+	É um programa tipo
+	castor.
 	"""
 	keyWait
 	clearMsg
-	"Take it with you?\n"
+	"Quer levá-lo com você?\n"
 	option
 		left = 0
 		right = 0
@@ -107,7 +107,7 @@ script 2 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Yes\n"
+	"   Sim\n"
 	option
 		left = 0
 		right = 0
@@ -115,7 +115,7 @@ script 2 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"No"
+	"   Não"
 	select
 		default = 0
 		BSeparate = false
@@ -143,17 +143,17 @@ script 3 mmbn3 {
 	mugshotShow
 		mugshot = MrProg
 	msgOpen
-	"Peck,peck,peck!"
+	"Tec, tec, tec!"
 	keyWait
 	clearMsg
 	mugshotHide
 	"""
-	It's a woodpecker-
-	type program
+	É um programa tipo
+	pica-pau.
 	"""
 	keyWait
 	clearMsg
-	"Take it with you?\n"
+	"Quer levá-lo com você?\n"
 	option
 		left = 0
 		right = 0
@@ -161,7 +161,7 @@ script 3 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Yes\n"
+	"   Sim\n"
 	option
 		left = 0
 		right = 0
@@ -169,7 +169,7 @@ script 3 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"No"
+	"   Não"
 	select
 		default = 0
 		BSeparate = false
@@ -197,17 +197,17 @@ script 4 mmbn3 {
 	mugshotShow
 		mugshot = MrProg
 	msgOpen
-	"Rustle,rustle…"
+	"Rsha, rsha..."
 	keyWait
 	clearMsg
 	mugshotHide
 	"""
-	It's a bamboo-type
-	program
+	É um programa tipo
+	bambu.
 	"""
 	keyWait
 	clearMsg
-	"Take it with you?\n"
+	"Quer levá-lo com você?\n"
 	option
 		left = 0
 		right = 0
@@ -215,7 +215,7 @@ script 4 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Yes\n"
+	"   Sim\n"
 	option
 		left = 0
 		right = 0
@@ -223,7 +223,7 @@ script 4 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"No"
+	"   Não"
 	select
 		default = 0
 		BSeparate = false
@@ -251,17 +251,17 @@ script 5 mmbn3 {
 	mugshotShow
 		mugshot = MrProg
 	msgOpen
-	"Roll,roll,roll…"
+	"Rola, rola, rola..."
 	keyWait
 	clearMsg
 	mugshotHide
 	"""
-	It's a tire-type
-	program
+	É um programa tipo
+	pneu.
 	"""
 	keyWait
 	clearMsg
-	"Take it with you?\n"
+	"Quer levá-lo com você?\n"
 	option
 		left = 0
 		right = 0
@@ -269,7 +269,7 @@ script 5 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Yes\n"
+	"   Sim\n"
 	option
 		left = 0
 		right = 0
@@ -277,7 +277,7 @@ script 5 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"No"
+	"   Não"
 	select
 		default = 0
 		BSeparate = false
@@ -305,17 +305,17 @@ script 6 mmbn3 {
 	mugshotShow
 		mugshot = MrProg
 	msgOpen
-	"……"
+	"......"
 	keyWait
 	clearMsg
 	mugshotHide
 	"""
-	It's a raw-meat-type
-	program
+	É um programa tipo
+	carne crua.
 	"""
 	keyWait
 	clearMsg
-	"Take it with you?\n"
+	"Quer levá-lo com você?\n"
 	option
 		left = 0
 		right = 0
@@ -323,7 +323,7 @@ script 6 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Yes\n"
+	"   Sim\n"
 	option
 		left = 0
 		right = 0
@@ -331,7 +331,7 @@ script 6 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"No"
+	"   Não"
 	select
 		default = 0
 		BSeparate = false
@@ -359,17 +359,17 @@ script 7 mmbn3 {
 	mugshotShow
 		mugshot = MrProg
 	msgOpen
-	"Brush,brush!"
+	"Esfrega, esfrega!"
 	keyWait
 	clearMsg
 	mugshotHide
 	"""
-	It's a cattail-weed-
-	type program
+	É um programa tipo
+	taboa.
 	"""
 	keyWait
 	clearMsg
-	"Take it with you?\n"
+	"Quer levá-lo com você?\n"
 	option
 		left = 0
 		right = 0
@@ -377,7 +377,7 @@ script 7 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Yes\n"
+	"   Sim\n"
 	option
 		left = 0
 		right = 0
@@ -385,7 +385,7 @@ script 7 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"No"
+	"   Não"
 	select
 		default = 0
 		BSeparate = false
@@ -413,17 +413,17 @@ script 8 mmbn3 {
 	mugshotShow
 		mugshot = MrProg
 	msgOpen
-	"Hssspssspsss!!"
+	"Rssspssspsss!!"
 	keyWait
 	clearMsg
 	mugshotHide
 	"""
-	It's a tree-snake-
-	type program
+	É um programa tipo
+	cobra-cipó.
 	"""
 	keyWait
 	clearMsg
-	"Take it with you?\n"
+	"Quer levá-lo com você?\n"
 	option
 		left = 0
 		right = 0
@@ -431,7 +431,7 @@ script 8 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Yes\n"
+	"   Sim\n"
 	option
 		left = 0
 		right = 0
@@ -439,7 +439,7 @@ script 8 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"No"
+	"   Não"
 	select
 		default = 0
 		BSeparate = false
@@ -467,17 +467,17 @@ script 9 mmbn3 {
 	mugshotShow
 		mugshot = MrProg
 	msgOpen
-	"Blobble,blobble…"
+	"Gluop, gluop..."
 	keyWait
 	clearMsg
 	mugshotHide
 	"""
-	It's an octopus-type
-	program
+	É um programa tipo
+	polvo.
 	"""
 	keyWait
 	clearMsg
-	"Take it with you?\n"
+	"Quer levá-lo com você?\n"
 	option
 		left = 0
 		right = 0
@@ -485,7 +485,7 @@ script 9 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Yes\n"
+	"   Sim\n"
 	option
 		left = 0
 		right = 0
@@ -493,7 +493,7 @@ script 9 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"No"
+	"   Não"
 	select
 		default = 0
 		BSeparate = false
@@ -521,17 +521,17 @@ script 10 mmbn3 {
 	mugshotShow
 		mugshot = MrProg
 	msgOpen
-	"……"
+	"......"
 	keyWait
 	clearMsg
 	mugshotHide
 	"""
-	It's a shellfish
-	type program
+	É um programa tipo
+	concha.
 	"""
 	keyWait
 	clearMsg
-	"Take it with you?\n"
+	"Quer levá-lo com você?\n"
 	option
 		left = 0
 		right = 0
@@ -539,7 +539,7 @@ script 10 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Yes\n"
+	"   Sim\n"
 	option
 		left = 0
 		right = 0
@@ -547,7 +547,7 @@ script 10 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"No"
+	"   Não"
 	select
 		default = 0
 		BSeparate = false
@@ -575,17 +575,17 @@ script 11 mmbn3 {
 	mugshotShow
 		mugshot = MrProg
 	msgOpen
-	"HSSSS…!!"
+	"SSSSSS...!!"
 	keyWait
 	clearMsg
 	mugshotHide
 	"""
-	It's a cobra-type
-	program
+	É um programa tipo
+	naja.
 	"""
 	keyWait
 	clearMsg
-	"Take it with you?\n"
+	"Quer levá-lo com você?\n"
 	option
 		left = 0
 		right = 0
@@ -593,7 +593,7 @@ script 11 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Yes\n"
+	"   Sim\n"
 	option
 		left = 0
 		right = 0
@@ -601,7 +601,7 @@ script 11 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"No"
+	"   Não"
 	select
 		default = 0
 		BSeparate = false
@@ -625,13 +625,13 @@ script 12 mmbn3 {
 	mugshotShow
 		mugshot = MrProg
 	msgOpen
-	"Katakatakatakata…"
+	"Brret brrret brrret..."
 	keyWait
 	clearMsg
 	mugshotHide
 	"""
-	It looks like a
-	beetle-type program
+	Parece ser um programa
+	tipo besouro.
 	"""
 	keyWait
 	end
@@ -640,13 +640,13 @@ script 13 mmbn3 {
 	mugshotShow
 		mugshot = MrProg
 	msgOpen
-	"Chomp,chomp…"
+	"Tchoc, tchoc..."
 	keyWait
 	clearMsg
 	mugshotHide
 	"""
-	It looks like a
-	beaver-type program
+	Parece ser um programa
+	tipo castor.
 	"""
 	keyWait
 	end
@@ -655,14 +655,13 @@ script 14 mmbn3 {
 	mugshotShow
 		mugshot = MrProg
 	msgOpen
-	"Peck,peck,peck!"
+	"Tec, tec, tec!"
 	keyWait
 	clearMsg
 	mugshotHide
 	"""
-	It looks like a
-	woodpecker-type
-	program
+	Parece ser um programa
+	tipo pica-pau.
 	"""
 	keyWait
 	end
@@ -671,13 +670,13 @@ script 15 mmbn3 {
 	mugshotShow
 		mugshot = MrProg
 	msgOpen
-	"Rustle,rustle…"
+	"Rsha, rsha..."
 	keyWait
 	clearMsg
 	mugshotHide
 	"""
-	It looks like a
-	bamboo-type program
+	Parece ser um programa
+	tipo bambu.
 	"""
 	keyWait
 	end
@@ -685,8 +684,9 @@ script 15 mmbn3 {
 script 16 mmbn3 {
 	msgOpen
 	"""
-	You can't take any
-	more with you
+	Não pode levar mais
+	programas do que já
+	tem.
 	"""
 	keyWait
 	msgClose
@@ -700,13 +700,13 @@ script 17 mmbn3 {
 	mugshotShow
 		mugshot = MrProg
 	msgOpen
-	"Roll,roll,roll…"
+	"Rola, rola, rola..."
 	keyWait
 	clearMsg
 	mugshotHide
 	"""
-	It looks like a
-	tire-type program
+	Parece ser um programa
+	tipo pneu.
 	"""
 	keyWait
 	end
@@ -715,13 +715,13 @@ script 18 mmbn3 {
 	mugshotShow
 		mugshot = MrProg
 	msgOpen
-	"……"
+	"......"
 	keyWait
 	clearMsg
 	mugshotHide
 	"""
-	It looks like a raw
-	meat-type program
+	Parece ser um programa
+	tipo carne crua.
 	"""
 	keyWait
 	end
@@ -861,8 +861,8 @@ script 29 mmbn3 {
 script 30 mmbn3 {
 	msgOpen
 	"""
-	Leave the beetle-
-	type program?
+	Deixar o programa tipo
+	besouro?
 	
 	"""
 	option
@@ -872,7 +872,7 @@ script 30 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"   Sim "
 	option
 		left = 0
 		right = 0
@@ -880,7 +880,7 @@ script 30 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"No"
+	"          Não"
 	select
 		default = 0
 		BSeparate = false
@@ -898,8 +898,8 @@ script 30 mmbn3 {
 script 31 mmbn3 {
 	msgOpen
 	"""
-	Leave the beaver-
-	type program?
+	Deixar o programa tipo
+	castor?
 	
 	"""
 	option
@@ -909,7 +909,7 @@ script 31 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"   Sim "
 	option
 		left = 0
 		right = 0
@@ -917,7 +917,7 @@ script 31 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"No"
+	"          Não"
 	select
 		default = 0
 		BSeparate = false
@@ -935,8 +935,8 @@ script 31 mmbn3 {
 script 32 mmbn3 {
 	msgOpen
 	"""
-	Leave the woodpecker
-	type program?
+	Deixar o programa tipo
+	pica-pau?
 	
 	"""
 	option
@@ -946,7 +946,7 @@ script 32 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"   Sim "
 	option
 		left = 0
 		right = 0
@@ -954,7 +954,7 @@ script 32 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"No"
+	"          Não"
 	select
 		default = 0
 		BSeparate = false
@@ -972,8 +972,8 @@ script 32 mmbn3 {
 script 33 mmbn3 {
 	msgOpen
 	"""
-	Leave the bamboo-
-	type program?
+	Deixar o programa tipo
+	bambu?
 	
 	"""
 	option
@@ -983,7 +983,7 @@ script 33 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"   Sim "
 	option
 		left = 0
 		right = 0
@@ -991,7 +991,7 @@ script 33 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"No"
+	"          Não"
 	select
 		default = 0
 		BSeparate = false
@@ -1009,8 +1009,8 @@ script 33 mmbn3 {
 script 34 mmbn3 {
 	msgOpen
 	"""
-	Leave the tire-
-	type program?
+	Deixar o programa tipo
+	pneu?
 	
 	"""
 	option
@@ -1020,7 +1020,7 @@ script 34 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"   Sim "
 	option
 		left = 0
 		right = 0
@@ -1028,7 +1028,7 @@ script 34 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"No"
+	"          Não"
 	select
 		default = 0
 		BSeparate = false
@@ -1046,8 +1046,8 @@ script 34 mmbn3 {
 script 35 mmbn3 {
 	msgOpen
 	"""
-	Leave the raw-meat-
-	type program?
+	Deixar o programa tipo
+	carne crua?
 	
 	"""
 	option
@@ -1057,7 +1057,7 @@ script 35 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"   Sim "
 	option
 		left = 0
 		right = 0
@@ -1065,7 +1065,7 @@ script 35 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"No"
+	"          Não"
 	select
 		default = 0
 		BSeparate = false
@@ -1083,8 +1083,8 @@ script 35 mmbn3 {
 script 36 mmbn3 {
 	msgOpen
 	"""
-	Leave the cattail-
-	weed-type program?
+	Deixar o programa tipo
+	taboa?
 	
 	"""
 	option
@@ -1094,7 +1094,7 @@ script 36 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"   Sim "
 	option
 		left = 0
 		right = 0
@@ -1102,7 +1102,7 @@ script 36 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"No"
+	"          Não"
 	select
 		default = 0
 		BSeparate = false
@@ -1120,8 +1120,8 @@ script 36 mmbn3 {
 script 37 mmbn3 {
 	msgOpen
 	"""
-	Leave the tree-
-	snake-type program?
+	Deixar o programa tipo
+	cobra-cipó?
 	
 	"""
 	option
@@ -1131,7 +1131,7 @@ script 37 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"   Sim "
 	option
 		left = 0
 		right = 0
@@ -1139,7 +1139,7 @@ script 37 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"No"
+	"          Não"
 	select
 		default = 0
 		BSeparate = false
@@ -1157,8 +1157,8 @@ script 37 mmbn3 {
 script 38 mmbn3 {
 	msgOpen
 	"""
-	Leave the octopus-
-	type program?
+	Deixar o programa tipo
+	polvo?
 	
 	"""
 	option
@@ -1168,7 +1168,7 @@ script 38 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"   Sim "
 	option
 		left = 0
 		right = 0
@@ -1176,7 +1176,7 @@ script 38 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"No"
+	"          Não"
 	select
 		default = 0
 		BSeparate = false
@@ -1194,8 +1194,8 @@ script 38 mmbn3 {
 script 39 mmbn3 {
 	msgOpen
 	"""
-	Leave the shellfish-
-	type program?
+	Deixar o programa tipo
+	concha?
 	
 	"""
 	option
@@ -1205,7 +1205,7 @@ script 39 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"   Sim "
 	option
 		left = 0
 		right = 0
@@ -1213,7 +1213,7 @@ script 39 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"No"
+	"          Não"
 	select
 		default = 0
 		BSeparate = false
@@ -1231,8 +1231,8 @@ script 39 mmbn3 {
 script 40 mmbn3 {
 	msgOpen
 	"""
-	Leave the viper-
-	type program?
+	Deixar o programa tipo
+	naja?
 	
 	"""
 	option
@@ -1242,7 +1242,7 @@ script 40 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"   Sim "
 	option
 		left = 0
 		right = 0
@@ -1250,7 +1250,7 @@ script 40 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"No"
+	"          Não"
 	select
 		default = 0
 		BSeparate = false
@@ -1272,14 +1272,13 @@ script 42 mmbn3 {
 	mugshotShow
 		mugshot = MrProg
 	msgOpen
-	"Brush,brush!"
+	"Esfrega, esfrega!"
 	keyWait
 	clearMsg
 	mugshotHide
 	"""
-	It looks like a
-	cattail-weed-type
-	program
+	Parece ser um programa
+	tipo taboa.
 	"""
 	keyWait
 	end
@@ -1288,13 +1287,13 @@ script 43 mmbn3 {
 	mugshotShow
 		mugshot = MrProg
 	msgOpen
-	"Hssspssspsss!!"
+	"Sssspssspsss!!"
 	keyWait
 	clearMsg
 	mugshotHide
 	"""
-	It looks like a tree
-	snake-type program
+	Parece ser um programa
+	tipo cobra-cipó.
 	"""
 	keyWait
 	end
@@ -1303,13 +1302,13 @@ script 44 mmbn3 {
 	mugshotShow
 		mugshot = MrProg
 	msgOpen
-	"Blobble,blobble…"
+	"Gluop, gluop..."
 	keyWait
 	clearMsg
 	mugshotHide
 	"""
-	It looks like an
-	octopus-type program
+	Parece ser um programa
+	tipo polvo.
 	"""
 	keyWait
 	end
@@ -1318,14 +1317,13 @@ script 45 mmbn3 {
 	mugshotShow
 		mugshot = MrProg
 	msgOpen
-	"……"
+	"......"
 	keyWait
 	clearMsg
 	mugshotHide
 	"""
-	It looks like a
-	shellfish-type
-	program
+	Parece ser um programa
+	tipo concha.
 	"""
 	keyWait
 	end
@@ -1334,14 +1332,13 @@ script 46 mmbn3 {
 	mugshotShow
 		mugshot = MrProg
 	msgOpen
-	"HSSSSS…!!"
+	"SSSSSS…!!"
 	keyWait
 	clearMsg
 	mugshotHide
 	"""
-	It looks like a
-	cobra-type
-	program
+	Parece ser um programa
+	tipo naja.
 	"""
 	keyWait
 	end
@@ -1359,14 +1356,14 @@ script 190 mmbn3 {
 		palette = 1
 	msgOpen
 	"""
-	Yikes! You found me!
-	So much for that…
+	Eita! Você me achou!
+	E eu aqui, me achando
+	indetectável...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Go on! Take the
-	chip!
+	Toma! Pode pegar o chip!
 	"""
 	keyWait
 	clearMsg
@@ -1384,8 +1381,8 @@ script 191 mmbn3 {
 	playerAnimate
 		animation = 24
 	"""
-	MegaMan got a
-	chip for
+	MegaMan recebeu o
+	chip
 	"
 	"""
 	printChip
@@ -1411,8 +1408,8 @@ script 192 mmbn3 {
 		palette = 1
 	msgOpen
 	"""
-	I should have hidden
-	over there instead.
+	Eu devia era ter me
+	escondido ali.
 	"""
 	keyWait
 	end
@@ -1424,8 +1421,8 @@ script 193 mmbn3 {
 		palette = 1
 	msgOpen
 	"""
-	Waiting around is
-	so boring…
+	Ficar esperando é tão
+	chato...
 	"""
 	keyWait
 	end
@@ -1436,21 +1433,21 @@ script 220 mmbn3 {
 		jumpIfTrue = 225
 		jumpIfFalse = continue
 	msgOpen
-	"Creeeeak…"
+	"Nnnnhhéééé..."
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	A huge tree-like
-	virus is blocking
-	the way!!
+	Um enorme vírus estilo
+	árvore está barrando
+	o caminho!!
 	"""
 	keyWait
 	clearMsg
 	"""
-	It won't budge. Not
-	an inch…
+	Ele não se mexe.
+	Nem um centímetro...
 	"""
 	keyWait
 	checkFlag
@@ -1469,7 +1466,7 @@ script 220 mmbn3 {
 }
 script 221 mmbn3 {
 	msgOpen
-	"It's Virus 2"
+	"É o Vírus 2."
 	keyWait
 	flagSet
 		flag = 1087
@@ -1483,22 +1480,22 @@ script 222 mmbn3 {
 		jumpIfTrue = 226
 		jumpIfFalse = continue
 	msgOpen
-	"Grrrrrrr…"
+	"Grrrrrrr..."
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Two panda-like
-	viruses are blocking
-	the way!!
+	Dois vírus estilo panda
+	estão barrando o
+	caminho!!
 	"""
 	keyWait
 	clearMsg
 	"""
-	One of them looks
-	hungry,and the other
-	looks bored!!
+	Um deles parece
+	faminto, e o outro,
+	entediado!!
 	"""
 	keyWait
 	checkFlag
@@ -1521,22 +1518,22 @@ script 223 mmbn3 {
 		jumpIfTrue = 227
 		jumpIfFalse = continue
 	msgOpen
-	"Quick! Quick,quick!"
+	"Fui! fuifui, fuifui!"
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
 	"""
-	A mongoose virus is
-	blocking the way!
+	Um vírus mangusto está
+	barrando o caminho!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Looks like he's
-	waiting for a
-	rival to fight!!
+	Parece que ele está à
+	espera de um rival com
+	quem lutar!!
 	"""
 	keyWait
 	checkFlag
@@ -1559,21 +1556,21 @@ script 224 mmbn3 {
 		jumpIfTrue = 228
 		jumpIfFalse = continue
 	msgOpen
-	"Jar,jar jar…"
+	"Vaso, vaso, vaso..."
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	A heavy,jar-like
-	virus is blocking
-	the way!!
+	Um vírus pesado estilo
+	vaso está barrando o
+	caminho!!
 	"""
 	keyWait
 	clearMsg
 	"""
-	It looks a little
-	unsatisfied…
+	Parece meio
+	insatisfeito...
 	"""
 	keyWait
 	checkFlag
@@ -1598,14 +1595,14 @@ script 225 mmbn3 {
 	mugshotShow
 		mugshot = MrProg
 	msgOpen
-	"Chomp,chomp,chomp!!"
+	"Tchoc, tchoc, tchoc!!"
 	keyWait
 	clearMsg
 	mugshotHide
 	"""
-	The huge tree virus
-	was chomped away by
-	the beaver program!
+	O enorme vírus árvore
+	foi roído pelo programa
+	castor!
 	"""
 	keyWait
 	flagClear
@@ -1631,27 +1628,27 @@ script 226 mmbn3 {
 		jumpIfFalse = 230
 	msgOpen
 	"""
-	Panda virus 1 ate
-	the bamboo program!!
+	O Vírus panda 1 comeu
+	o programa bambu!!
 	"""
 	keyWait
 	clearMsg
 	"""
-	But he ate so much
-	that he exploded!!
+	Mas ele comeu tanto
+	que explodiu!!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Panda virus 2
-	is playing with the
-	tire program!
+	O Vírus panda 2 está
+	brincando com o
+	programa pneu!
 	"""
 	keyWait
 	clearMsg
 	"""
-	He played so much
-	that he exploded!
+	Ele brincou tanto que
+	explodiu!
 	"""
 	keyWait
 	flagClear
@@ -1677,23 +1674,22 @@ script 227 mmbn3 {
 		jumpIfFalse = 230
 	msgOpen
 	"""
-	The mongoose virus
-	began wrestling
-	the cobra program!!
+	O vírus mangusto
+	começou a brigar com
+	o programa naja!!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Just when it looked
-	like the mongoose
-	virus would win,
+	E, justo quando parecia
+	que o vírus mangusto ia
+	vencer,
 	"""
 	keyWait
 	clearMsg
 	"""
-	the cobra got the
-	upper hand! The
-	mongoose exploded!
+	a naja virou o jogo!
+	O mangusto explodiu!
 	"""
 	keyWait
 	flagClear
@@ -1715,23 +1711,22 @@ script 228 mmbn3 {
 		jumpIfFalse = 230
 	msgOpen
 	"""
-	The octopus program
-	climbed inside the
-	jar-like virus!!
+	O programa polvo
+	entrou no vírus estilo
+	vaso!!
 	"""
 	keyWait
 	clearMsg
 	"""
-	The octopus-type
-	program is bigger
-	than the jar virus!
+	O programa tipo polvo é
+	maior que o vírus vaso!
 	"""
 	keyWait
 	clearMsg
 	"""
-	The octopus pushed
-	the jar virus until
-	it exploded!
+	O polvo empurrou as
+	paredes do vírus vaso
+	até ele explodir!
 	"""
 	keyWait
 	flagClear
@@ -1751,9 +1746,9 @@ script 230 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	It's no good,Lan.
-	This program can't
-	remove the virus!
+	Não rola, Lan.
+	Este programa não
+	remove o vírus!
 	"""
 	keyWait
 	flagClear
@@ -1768,8 +1763,8 @@ script 231 mmbn3s {
 script 235 mmbn3 {
 	msgOpen
 	"""
-	MegaMan accessed the
-	mystery data.
+	MegaMan acessou os
+	dados misteriosos.
 	"""
 	wait
 		frames = 10
@@ -1791,8 +1786,7 @@ script 235 mmbn3 {
 		code = *
 		amount = 1
 	"""
-	MegaMan got a chip
-	for
+	MegaMan adquiriu o chip
 	"
 	"""
 	printChip
@@ -1811,8 +1805,8 @@ script 235 mmbn3 {
 script 236 mmbn3 {
 	msgOpen
 	"""
-	MegaMan accessed the
-	mystery data.
+	MegaMan acessou os
+	dados misteriosos.
 	"""
 	wait
 		frames = 10
@@ -1835,7 +1829,7 @@ script 236 mmbn3 {
 		jumpIfNone = continue
 		jumpIfSome = continue
 	"""
-	MegaMan got:
+	MegaMan adquiriu:
 	"800 Zennys"!!
 	"""
 	playerFinish
@@ -1846,8 +1840,8 @@ script 236 mmbn3 {
 script 237 mmbn3 {
 	msgOpen
 	"""
-	MegaMan accessed the
-	mystery data.
+	MegaMan acessou os
+	dados misteriosos.
 	"""
 	wait
 		frames = 10
@@ -1869,8 +1863,8 @@ script 237 mmbn3 {
 		color = 3
 		amount = 1
 	"""
-	MegaMan got a Navi
-	Customizer program:
+	Adquiriu um programa do
+	Customizador de Navi:
 	"
 	"""
 	printNaviCustProgram
@@ -1885,8 +1879,8 @@ script 237 mmbn3 {
 script 238 mmbn3 {
 	msgOpen
 	"""
-	MegaMan accessed the
-	mystery data.
+	MegaMan acessou os
+	dados misteriosos.
 	"""
 	wait
 		frames = 10
@@ -1908,8 +1902,7 @@ script 238 mmbn3 {
 		code = C
 		amount = 1
 	"""
-	MegaMan got a chip
-	for
+	MegaMan adquiriu o chip
 	"
 	"""
 	printChip

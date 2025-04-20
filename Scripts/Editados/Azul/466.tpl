@@ -1,83 +1,83 @@
 @size 29
 
 script 0 mmbn3s {
-	"ERROR"
+	"ERRO"
 	end
 }
 script 1 mmbn3s {
-	"ERROR A1"
+	"ERRO A1"
 	end
 }
 script 2 mmbn3s {
-	"ERROR A2"
+	"ERRO A2"
 	end
 }
 script 3 mmbn3s {
-	"ERROR A3"
+	"ERRO A3"
 	end
 }
 script 4 mmbn3s {
-	"ERROR B1"
+	"ERRO B1"
 	end
 }
 script 5 mmbn3s {
-	"ERROR B2"
+	"ERRO B2"
 	end
 }
 script 6 mmbn3s {
-	"ERROR B3"
+	"ERRO B3"
 	end
 }
 script 7 mmbn3s {
-	"ERROR B4"
+	"ERRO B4"
 	end
 }
 script 8 mmbn3s {
-	"ERROR B5"
+	"ERRO B5"
 	end
 }
 script 9 mmbn3s {
-	"ERROR B6"
+	"ERRO B6"
 	end
 }
 script 10 mmbn3s {
-	"ERROR C1"
+	"ERRO C1"
 	end
 }
 script 11 mmbn3s {
-	"ERROR C2"
+	"ERRO C2"
 	end
 }
 script 12 mmbn3s {
-	"ERROR E1"
+	"ERRO E1"
 	end
 }
 script 13 mmbn3s {
-	"ERROR E2"
+	"ERRO E2"
 	end
 }
 script 14 mmbn3s {
-	"ERROR F1"
+	"ERRO F1"
 	end
 }
 script 15 mmbn3s {
-	"ERROR F2"
+	"ERRO F2"
 	end
 }
 script 16 mmbn3s {
-	"ERROR F3"
+	"ERRO F3"
 	end
 }
 script 17 mmbn3s {
-	"ERROR H1"
+	"ERRO H1"
 	end
 }
 script 18 mmbn3s {
-	"ERROR H2"
+	"ERRO H2"
 	end
 }
 script 19 mmbn3s {
-	"ERROR H3"
+	"ERRO H3"
 	end
 }
 script 20 mmbn3s {

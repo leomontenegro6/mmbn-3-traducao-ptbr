@@ -4,13 +4,16 @@ script 0 mmbn3 {
 	mugshotShow
 		mugshot = NormalNaviGreen
 	msgOpen
-	"Thanks for coming!"
+	"""
+	Obrigado por sua
+	participação!
+	"""
 	keyWait
 	clearMsg
 	"""
-	This concludes the
-	first round of the
-	N1 Grand Prix!
+	Isso conclui a primeira
+	rodada do Grande Prêmio
+	N1!
 	"""
 	keyWait
 	clearMsg
@@ -24,9 +27,9 @@ script 1 mmbn3 {
 	playerAnimate
 		animation = 24
 	"""
-	Way to go,Lan!
-	We aced the first
-	round!
+	Mandou muito, Lan! A
+	gente passou na primeira
+	rodada com perfeição!
 	"""
 	playerFinish
 	playerAnimate
@@ -40,16 +43,16 @@ script 2 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Good job,MegaMan!"
+	"Bom trabalho, MegaMan!"
 	keyWait
 	clearMsg
 	playerFinish
 	playerAnimate
 		animation = 1
 	"""
-	Looks like we all
-	made it through the
-	first round!
+	Parece que todos nós
+	passamos na primeira
+	rodada!
 	"""
 	keyWait
 	clearMsg
@@ -60,7 +63,7 @@ script 3 mmbn3 {
 	mugshotShow
 		mugshot = GutsMan
 	msgOpen
-	"Piece of cake!!"
+	"Moleza, Guts!!"
 	keyWait
 	flagSet
 		flag = 778
@@ -70,7 +73,7 @@ script 4 mmbn3 {
 	mugshotShow
 		mugshot = Roll
 	msgOpen
-	"We did it,Mayl!"
+	"Conseguimos, Mayl!"
 	keyWait
 	flagSet
 		flag = 779
@@ -81,8 +84,8 @@ script 5 mmbn3 {
 		mugshot = Glide
 	msgOpen
 	"""
-	Let's keep it up,
-	Miss Yai!
+	Continuemos assim,
+	srta. Yai!
 	"""
 	keyWait
 	clearMsg
@@ -94,16 +97,15 @@ script 6 mmbn3 {
 		mugshot = Yai
 	msgOpen
 	"""
-	About the chat…
-	Since it's already
-	6PM…
+	Sobre o bate-papo...
+	Como já são 18h...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Let's meet at my
-	homepage after
-	dinner,at 8PM!
+	Vamos nos encontrar
+	na minha página depois
+	do jantar, às 20h!
 	"""
 	keyWait
 	clearMsg
@@ -116,13 +118,13 @@ script 7 mmbn3 {
 	mugshotShow
 		mugshot = Glide
 	msgOpen
-	"Ahem. "
+	"Ca-hem. "
 	flagSet
 		flag = 784
 	"""
-	Please use
-	this to access
-	Miss Yai's homepage.
+	Por favor, usem
+	isto para acessar a
+	página da srta. Yai.
 	"""
 	keyWait
 	clearMsg
@@ -137,7 +139,7 @@ script 8 mmbn3 {
 	soundPlay
 		track = 133
 	"""
-	MegaMan got:
+	MegaMan adquiriu:
 	"
 	"""
 	printItem
@@ -155,8 +157,9 @@ script 9 mmbn3 {
 		mugshot = Glide
 	msgOpen
 	"""
-	We look forward
-	to seeing you.
+	Estamos ansiosos para
+	recebê-los em nossa
+	morada.
 	"""
 	keyWait
 	clearMsg
@@ -170,8 +173,8 @@ script 10 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's go eat
-	dinner,Lan!
+	Vamos pra casa jantar,
+	Lan!
 	"""
 	keyWait
 	clearMsg
@@ -183,8 +186,9 @@ script 11 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Yeah,I guess I
-	haven't eaten yet!
+	Nossa, é mesmo, acho
+	que eu ainda não comi
+	nada, né?
 	"""
 	keyWait
 	clearMsg
@@ -195,7 +199,7 @@ script 12 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"See you later!"
+	"Até já, pessoal!"
 	keyWait
 	end
 }

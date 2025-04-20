@@ -5,9 +5,9 @@ script 0 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	Hmmm,hmm,hm…
-	I'm grading a math
-	test at the moment.
+	Hmmm, hmm, hm...
+	Estou avaliando uma
+	prova de matemática.
 	"""
 	keyWait
 	end
@@ -17,8 +17,8 @@ script 1 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	Beep,beep,ka-ching…!
-	100% for Yai!
+	Bip, bip, caplip...!
+	Nota 10 para a Yai!
 	"""
 	keyWait
 	end
@@ -28,8 +28,8 @@ script 2 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	Beep,beep,ka-ching…!
-	85% for Mayl!
+	Bip, bip, caplip...!
+	Nota 8,5 para a Mayl!
 	"""
 	keyWait
 	end
@@ -39,8 +39,8 @@ script 3 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	Beep,beep,ka-ching…!
-	15% for Dex!
+	Bip, bip, caplip...!
+	Nota 1,5 para o Dex!
 	"""
 	keyWait
 	end
@@ -48,8 +48,8 @@ script 3 mmbn3 {
 script 230 mmbn3 {
 	msgOpen
 	"""
-	MegaMan accessed the
-	mystery data.
+	MegaMan acessou os
+	dados misteriosos.
 	"""
 	wait
 		frames = 10
@@ -71,8 +71,7 @@ script 230 mmbn3 {
 		code = *
 		amount = 1
 	"""
-	MegaMan got a chip
-	for
+	MegaMan adquiriu o chip
 	"
 	"""
 	printChip
@@ -91,8 +90,8 @@ script 230 mmbn3 {
 script 231 mmbn3 {
 	msgOpen
 	"""
-	MegaMan accessed the
-	mystery data.
+	MegaMan acessou os
+	dados misteriosos.
 	"""
 	wait
 		frames = 10
@@ -113,8 +112,8 @@ script 231 mmbn3 {
 		item = 96
 		amount = 1
 	"""
-	MegaMan got a
-	PowerUp:
+	MegaMan adquiriu
+	um PowerUp:
 	"
 	"""
 	printItem

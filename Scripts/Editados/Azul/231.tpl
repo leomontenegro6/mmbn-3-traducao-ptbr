@@ -5,9 +5,9 @@ script 0 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	How could you beat
-	me!!?? What a
-	powerful Navi!!!
+	Como pôde vencer a
+	MIM??!! O poder desse
+	Navi... é ABSURDO!!!
 	"""
 	keyWait
 	end
@@ -16,7 +16,7 @@ script 1 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"……"
+	"......"
 	keyWait
 	clearMsg
 	playerAnimate
@@ -29,8 +29,7 @@ script 2 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	And what a crummy
-	actor…
+	Que atuação chinfrim...
 	"""
 	keyWait
 	end
@@ -40,8 +39,8 @@ script 3 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Yeah,but I'm g・ad
-	tha・ we ・on!
+	Né. Mas que b・m qu・ a
+	g・nte ganh・u!
 	"""
 	keyWait
 	clearMsg
@@ -53,8 +52,8 @@ script 4 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Uh-oh. Is the PET
-	acting up again?
+	Eita. O PET tá dando
+	defeito de novo?
 	"""
 	keyWait
 	clearMsg
@@ -65,7 +64,7 @@ script 5 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"It ・ooks t・at ・ay…"
+	"É o ・ue p・rec・..."
 	keyWait
 	clearMsg
 	jump
@@ -76,9 +75,9 @@ script 6 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I wish that we
-	could get dad to
-	fix it…
+	Queria que o papai
+	pudesse consertar ele
+	pra gente...
 	"""
 	keyWait
 	clearMsg
@@ -90,9 +89,9 @@ script 7 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Well,you know he's
-	busy. Hey,it's
-	working again…!
+	Bom, você sabe que ele
+	é ocupado. Ah, voltou a
+	funcionar...!
 	"""
 	keyWait
 	clearMsg
@@ -104,9 +103,9 @@ script 8 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Yeah,I guess so. OK,
-	let's head back for
-	the next mission!
+	Hm, verdade. OK, vamos
+	pra próxima missão,
+	então!
 	"""
 	keyWait
 	end

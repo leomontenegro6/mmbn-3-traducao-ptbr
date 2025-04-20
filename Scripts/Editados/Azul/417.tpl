@@ -5,9 +5,9 @@ script 0 mmbn3 {
 		mugshot = Ray
 	msgOpen
 	"""
-	So nice to meet you
-	again,MegaMan.
-	And you,Lan.
+	Que prazer lhe ver de
+	novo, MegaMan.
+	Você também, Lan Hikari.
 	"""
 	keyWait
 	clearMsg
@@ -20,13 +20,14 @@ script 1 mmbn3 {
 	msgOpen
 	"""
 	F-FlashMan!!
-	And his operator!
+	E o operador dele!
 	"""
 	keyWait
 	clearMsg
 	"""
-	So you WERE the one
-	behind that beam!
+	Então era VOCÊ quem
+	tava por trás daquele
+	feixe de luz!
 	"""
 	keyWait
 	clearMsg
@@ -37,20 +38,20 @@ script 2 mmbn3 {
 	mugshotShow
 		mugshot = FlashMan
 	msgOpen
-	"Wahahaha!!"
+	"Aah ha ha ha ha!!"
 	keyWait
 	clearMsg
 	"""
-	I've been brought
-	back,thanks to
-	Lord Wily!
+	Fui trazido de volta à
+	vida graças ao Lorde
+	Wily!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Don't think that
-	I'll be deleted as
-	easily as last time!
+	Não pense que serei
+	deletado tão facilmente
+	quanto da última vez!
 	"""
 	keyWait
 	clearMsg
@@ -62,16 +63,16 @@ script 3 mmbn3 {
 		mugshot = Ray
 	msgOpen
 	"""
-	The only way you can
-	stop the guard robot
-	is by defeating us!
+	O único jeito de parar
+	o robô vigia é nos
+	derrotando!
 	"""
 	keyWait
 	clearMsg
 	"""
 	FlashMan! Delete
-	MegaMan,and take our
-	revenge!!
+	MegaMan.EXE e execute
+	a nossa vingança!!
 	"""
 	keyWait
 	clearMsg
@@ -82,7 +83,7 @@ script 4 mmbn3 {
 	mugshotShow
 		mugshot = FlashMan
 	msgOpen
-	"Yes,sir!!"
+	"Sim, senhor!!"
 	keyWait
 	clearMsg
 	jump
@@ -93,14 +94,14 @@ script 5 mmbn3 {
 		mugshot = Ray
 	msgOpen
 	"""
-	Wait'll you get a
-	look at this,Lan!
+	Espere só até ver
+	isto, Lan Hikari!
 	"""
 	keyWait
 	clearMsg
 	"""
 	FlashMan!
-	Full Synchro!!
+	Sincronia Total!!
 	"""
 	keyWait
 	flagSet
@@ -111,12 +112,12 @@ script 6 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Full Synchro!?"
+	"Sincronia Total?!"
 	keyWait
 	clearMsg
 	"""
-	How is that even
-	possible!?
+	Mas... como isso é
+	possível?!
 	"""
 	keyWait
 	clearMsg
@@ -128,15 +129,15 @@ script 7 mmbn3 {
 		mugshot = Ray
 	msgOpen
 	"""
-	I have been
-	fully digitized!
+	Eu fui inteiramente
+	digitalizado!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Synching with my
-	Navi is second
-	nature to me now!!
+	Me sincronizar com o
+	meu Navi, agora, já é
+	reflexo pra mim!!
 	"""
 	keyWait
 	flagClear
@@ -148,28 +149,28 @@ script 8 mmbn3 {
 		mugshot = Ray
 	msgOpen
 	"""
-	Wahahaha!
-	I can feel the
-	power within me…
+	Ga ha ha ha!
+	Posso sentir o poder
+	dentro de mim...
 	"""
 	keyWait
 	clearMsg
 	"""
-	By synchronizing,
-	we can operate at
-	100% efficiency!!
+	Com a sincronização,
+	podemos operar com
+	eficiência total!!
 	"""
 	keyWait
 	clearMsg
 	"""
-	You'll never be able
-	to defeat us!
+	Você nunca será capaz
+	de nos vencer!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Time to be
-	deleted,MegaMan!
+	Hora de ser deletado,
+	MegaMan.EXE!
 	"""
 	keyWait
 	clearMsg
@@ -190,13 +191,13 @@ script 10 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Here we go!"
+	"Vamos lá!"
 	keyWait
 	clearMsg
-	"Battle routine,"
+	"Rotina"
 	waitSkip
 		frames = 30
-	"\nset!"
+	"\nde batalha...!"
 	keyWait
 	clearMsg
 	jump
@@ -206,7 +207,7 @@ script 11 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Execute!"
+	"Executar!"
 	keyWait
 	clearMsg
 	jump
@@ -217,13 +218,12 @@ script 12 mmbn3 {
 		mugshot = FlashMan
 	msgOpen
 	"""
-	You'll pay dearly
-	for what you did
-	to me!!
+	Você vai pagar caro
+	pelo que fez comigo!!
 	"""
 	keyWait
 	clearMsg
-	"Wahahaha!!"
+	"Ha ha ha ha!!"
 	keyWait
 	end
 }

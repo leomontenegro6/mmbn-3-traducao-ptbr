@@ -4,16 +4,16 @@ script 0 mmbn3 {
 	mugshotShow
 		mugshot = MrProg
 	msgOpen
-	"Receiving data…"
+	"Recebendo dados..."
 	keyWait
 	clearMsg
-	"…"
+	"..."
 	keyWait
 	clearMsg
 	"""
-	Tomorrow's forecast:
-	Clear skies,becoming
-	overcast later.
+	Previsão de amanhã:
+	tempo claro, ficando
+	nublado mais à frente.
 	"""
 	keyWait
 	end
@@ -23,29 +23,29 @@ script 190 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	They took everything
-	from me in the N1!
-	Someone will pay!
+	Eles tiraram tudo de
+	mim no N1! E alguém tem
+	que pagar por isso!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I gave it my all,
-	but was eliminated
-	in the first round!!
+	Eu dei tudo de mim, mas
+	fui eliminado logo na
+	primeira rodada!!
 	"""
 	keyWait
 	clearMsg
 	"""
-	What?
-	Who are you? From
-	the TV station,huh?
+	Quê?
+	Quem é você?
+	Um agente da DNN, é?
 	"""
 	keyWait
 	clearMsg
 	"""
-	You're gonna get it!
-	Take this!!
+	Pois prepara pra sofrer!
+	Toma esta!!
 	"""
 	keyWait
 	clearMsg
@@ -67,8 +67,8 @@ script 190 mmbn3 {
 script 230 mmbn3 {
 	msgOpen
 	"""
-	MegaMan accessed the
-	mystery data.
+	MegaMan acessou os
+	dados misteriosos.
 	"""
 	wait
 		frames = 10
@@ -90,8 +90,8 @@ script 230 mmbn3 {
 		color = 2
 		amount = 1
 	"""
-	MegaMan got a Navi
-	Customizer program:
+	Adquiriu um programa do
+	Customizador de Navi:
 	"
 	"""
 	printNaviCustProgram

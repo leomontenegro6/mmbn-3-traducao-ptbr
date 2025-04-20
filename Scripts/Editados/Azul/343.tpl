@@ -5,16 +5,16 @@ script 0 mmbn3 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	It's been a week
-	since Dex moved,but
-	when we all get
+	Já foi uma semana
+	desde que o Dex se
+	mudou, mas,
 	"""
 	keyWait
 	clearMsg
 	"""
-	together like this,
-	it still seems like
-	he'll show up.
+	sempre que nos reunimos
+	aqui, ainda parece que
+	ele vai aparecer.
 	"""
 	keyWait
 	clearMsg
@@ -26,9 +26,9 @@ script 1 mmbn3 {
 		mugshot = Yai
 	msgOpen
 	"""
-	It's hard to believe
-	that he's really
-	gone.
+	É difícil de acreditar
+	que ele foi mesmo
+	embora...
 	"""
 	keyWait
 	clearMsg
@@ -40,16 +40,16 @@ script 2 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	If I know Dex,he'll
-	come visit us soon
-	enough.
+	Conhecendo o Dex, ele
+	vai vir visitar a gente
+	logo, logo.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'm sure he's having
-	a blast in his new
-	town.
+	Ele deve tá curtindo
+	pra caramba a cidade
+	nova.
 	"""
 	keyWait
 	clearMsg
@@ -60,13 +60,13 @@ script 3 mmbn3 {
 	mugshotShow
 		mugshot = Yai
 	msgOpen
-	"Yeah! And besides…"
+	"É! E além disso..."
 	keyWait
 	clearMsg
 	"""
-	Netopia is only a
-	few hours away by my
-	private jet!
+	a Ameropa só fica a
+	umas poucas horas de
+	jatinho particular!
 	"""
 	keyWait
 	clearMsg
@@ -78,8 +78,7 @@ script 4 mmbn3 {
 		mugshot = MsMari
 	msgOpen
 	"""
-	Oh! There you are!
-	Lan!
+	Ah! Aí está você! Lan!
 	"""
 	keyWait
 	end
@@ -89,8 +88,8 @@ script 5 mmbn3 {
 		mugshot = MsMari
 	msgOpen
 	"""
-	Lan,I've been
-	looking for you!
+	Eu estava te
+	procurando!
 	"""
 	keyWait
 	clearMsg
@@ -101,7 +100,7 @@ script 6 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"What is it,Ms.Mari?"
+	"Que foi, srta. Mari?"
 	keyWait
 	clearMsg
 	jump
@@ -112,16 +111,16 @@ script 7 mmbn3 {
 		mugshot = MsMari
 	msgOpen
 	"""
-	Lan,I heard you
-	resolved that WWW
-	incident at the
+	Lan, soube que você
+	resolveu o incidente da
+	WWW no hospital.
 	"""
 	keyWait
 	clearMsg
 	"""
-	hospital. They said
-	you'd be receiving
-	a commendation!
+	Bom, disseram que
+	você receberá uma
+	condecoração!
 	"""
 	keyWait
 	clearMsg
@@ -133,8 +132,9 @@ script 8 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Me? A commendation?
-	really?
+	Eu? Uma condecoração...
+	Tipo, uma medalha?
+	Sério?
 	"""
 	keyWait
 	clearMsg
@@ -145,7 +145,7 @@ script 9 mmbn3 {
 	mugshotShow
 		mugshot = Mayl
 	msgOpen
-	"Way to go,Lan!"
+	"Arrasou, Lan!"
 	keyWait
 	clearMsg
 	jump
@@ -156,8 +156,8 @@ script 10 mmbn3 {
 		mugshot = Yai
 	msgOpen
 	"""
-	It's not easy to
-	get a commendation.
+	Não é fácil ser
+	condecorado.
 	"""
 	keyWait
 	clearMsg
@@ -169,9 +169,9 @@ script 11 mmbn3 {
 		mugshot = MsMari
 	msgOpen
 	"""
-	They want to hold an
-	awards ceremony for
-	you at SciLab.
+	E querem fazer uma
+	cerimônia de premiação
+	para você no SciLab.
 	"""
 	keyWait
 	clearMsg
@@ -183,9 +183,9 @@ script 12 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	An awards ceremony…?
-	At SciLab!? C'mon
-	MegaMan,let's go!
+	Uma cerimônia...?
+	No SciLab?! Bora lá
+	agora mesmo, MegaMan!
 	"""
 	keyWait
 	end
@@ -194,7 +194,7 @@ script 13 mmbn3 {
 	mugshotShow
 		mugshot = MsMari
 	msgOpen
-	"Lan,wait!"
+	"Calma, Lan!"
 	keyWait
 	end
 }
@@ -203,8 +203,9 @@ script 14 mmbn3 {
 		mugshot = MsMari
 	msgOpen
 	"""
-	There's something I
-	want to tell you.
+	Tem uma coisa que eu
+	preciso contar para
+	você.
 	"""
 	keyWait
 	clearMsg
@@ -216,8 +217,7 @@ script 15 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Huh? What is it,
-	Ms.Mari?
+	Hm? O quê, srta. Mari?
 	"""
 	keyWait
 	clearMsg
@@ -229,42 +229,43 @@ script 16 mmbn3 {
 		mugshot = MsMari
 	msgOpen
 	"""
-	When I heard about
-	the awards ceremony,
+	Quando fiquei sabendo
+	dessa cerimônia de
+	premiação,
 	"""
 	keyWait
 	clearMsg
 	"""
-	I was both happy and
-	frightened.
-	Everything worked
+	eu fiquei feliz, mas,
+	ao mesmo tempo,
+	assustada.
 	"""
 	keyWait
 	clearMsg
 	"""
-	out fine,which is
-	wonderful,but if it
-	hadn't…
+	Tudo acabou bem desta
+	vez, mas, se não
+	tivesse...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Lan,being awarded is
-	a true honor and I'm
-	proud of you.
+	Lan, ser condecorado
+	é uma honra, e eu estou
+	tão orgulhosa de você.
 	"""
 	keyWait
 	clearMsg
 	"""
-	But please promise
-	me you won't ever
-	risk your own life.
+	Mas, por favor, prometa
+	que nunca vai arriscar
+	a própria vida.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Do you understand
-	what I'm saying?
+	Entende o que eu
+	quero dizer?
 	"""
 	keyWait
 	clearMsg
@@ -276,9 +277,9 @@ script 17 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I understand.
-	I'm sorry I made you
-	worry.
+	Entendo.
+	Me desculpa por te
+	preocupar, srta. Mari.
 	"""
 	keyWait
 	clearMsg
@@ -290,13 +291,16 @@ script 18 mmbn3 {
 		mugshot = MsMari
 	msgOpen
 	"""
-	OK,so long as you
-	understand. Now
-	then! Get on over to
+	Bom, o importante é que
+	você entendeu.
+	Bom, vá lá, então!
 	"""
 	keyWait
 	clearMsg
-	"the awards ceremony!"
+	"""
+	A sua cerimônia de
+	premiação lhe espera!
+	"""
 	keyWait
 	clearMsg
 	jump
@@ -307,8 +311,7 @@ script 19 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	All right! See you
-	later!
+	Tá! Até depois, gente!
 	"""
 	keyWait
 	end

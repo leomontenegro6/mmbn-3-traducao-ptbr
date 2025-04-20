@@ -1,63 +1,63 @@
 @size 48
 
 script 0 mmbn3s {
-	" NO NAME  UnderBoard"
+	" SEM NOME UnderFórum"
 	end
 }
 script 1 mmbn3s {
-	" NO NAME  Secret chips"
+	" SEM NOME Chips secrtos"
 	end
 }
 script 2 mmbn3s {
-	" NO NAME  Dominerd"
+	" SEM NOME Dominerd"
 	end
 }
 script 3 mmbn3s {
-	" NO NAME  An amoeba?"
+	" SEM NOME Uma ameba?"
 	end
 }
 script 4 mmbn3s {
-	" NO NAME  RE:An amoeba?"
+	" SEM NOME RE:Uma ameba?"
 	end
 }
 script 5 mmbn3s {
-	" NO NAME  LifeVirus?"
+	" SEM NOME LifeVirus?"
 	end
 }
 script 6 mmbn3s {
-	" NO NAME  Giga Folder 1"
+	" SEM NOME Giga Pasta 1"
 	end
 }
 script 7 mmbn3s {
-	" NO NAME  RE:Giga Fold"
+	" SEM NOME RE:Giga Pasta"
 	end
 }
 script 8 mmbn3s {
-	" NO NAME  Wrong!"
+	" SEM NOME Errou!"
 	end
 }
 script 9 mmbn3s {
-	" NO NAME  BeeArrow3"
+	" SEM NOME BeeArrow3"
 	end
 }
 script 10 mmbn3s {
-	" NO NAME  RE:BeeArrow3"
+	" SEM NOME RE:BeeArrow3"
 	end
 }
 script 11 mmbn3s {
-	" NO NAME  Error H2"
+	" SEM NOME Erro H2"
 	end
 }
 script 12 mmbn3s {
-	" NO NAME  RE:Error H2"
+	" SEM NOME RE:Erro H2"
 	end
 }
 script 13 mmbn3s {
-	" NO NAME  Bugs…"
+	" SEM NOME Bugs..."
 	end
 }
 script 14 mmbn3s {
-	" NO NAME  The UnderKing"
+	" SEM NOME O UndeRei"
 	end
 }
 script 15 mmbn3s {

@@ -12,7 +12,7 @@ script 0 mmbn3 {
 	"\n"
 	playerAnimate
 		animation = 7
-	"Hey,Roll!"
+	"Ei, Roll!"
 	wait
 		frames = 60
 	keyWait
@@ -23,8 +23,8 @@ script 1 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan! I don't see
-	Roll anywhere.
+	Lan! Não tô vendo a
+	Roll em lugar nenhum.
 	"""
 	keyWait
 	clearMsg
@@ -36,8 +36,9 @@ script 2 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	You fell for it! How
-	naive can you be!?
+	Cê caiu nessa!
+	Nem acredito que cês
+	são ingênuos assim!
 	"""
 	keyWait
 	end
@@ -47,9 +48,9 @@ script 3 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	We lost to this
-	twerp? Man,how did
-	THAT happen!?
+	Nós "perdeu" pra esse
+	pivete?
+	Como, mano? COMO?!
 	"""
 	keyWait
 	end
@@ -59,16 +60,15 @@ script 4 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	We have our pride as
-	evil thugs to
-	protect.
+	Nós "tem" o nosso
+	orgulho de bandidão
+	pra zelar.
 	"""
 	keyWait
 	clearMsg
 	"""
-	It's our duty and
-	obligation to make
-	you pay!
+	E é nossa obrigação
+	fazer tu pagar!
 	"""
 	keyWait
 	end
@@ -78,9 +78,9 @@ script 5 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	Yeah,yeah! Pay real
-	good!
-	Huh,huh,huh!
+	Éééé! E pagar no
+	AmeDólar!
+	Hu hu hu hu!
 	"""
 	keyWait
 	end
@@ -90,15 +90,15 @@ script 6 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan! These are the
-	Navis we fought
-	before!
+	Lan! Esses são os Navis
+	que a gente enfrentou
+	antes!
 	"""
 	keyWait
 	clearMsg
 	"""
-	So that mail from
-	Mayl was…
+	Então, aquele e-mail da
+	Mayl era...
 	"""
 	keyWait
 	end
@@ -108,16 +108,16 @@ script 7 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	Bait! I wrote that
-	to lure you out
-	here!
+	Uma isca! Eu escrevi
+	aquilo pra atrair vocês
+	aqui!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Pretty convincing,
-	eh?
-	Hya-ha-ha-ha!
+	Convincente pra
+	carácoles, né não?
+	Riá ha ha ha!
 	"""
 	keyWait
 	clearMsg
@@ -129,8 +129,8 @@ script 8 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	You dirty,stinking
-	cowards!
+	Seus covardes sujos,
+	patifes e maltrapilhos!
 	"""
 	keyWait
 	clearMsg
@@ -142,23 +142,22 @@ script 9 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	Cowards? Hey,that
-	has a nice ring to
-	it! That's right!
+	Covardes? Ah, até que
+	isso aí soa bem!
+	É, quer saber?
 	"""
 	keyWait
 	clearMsg
 	"""
-	We're cowards! Is
-	something wrong with
-	cowards using
+	Nós "é covarde", mesmo!
+	Algum problema com
+	covarde usar covardia?
 	"""
 	keyWait
 	clearMsg
 	"""
-	cowardly tricks? So
-	long as you're gone,
-	we don't care!
+	Desde que tu seja
+	deletado, daaane-se!
 	"""
 	keyWait
 	clearMsg
@@ -169,7 +168,7 @@ script 10 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Lan! Here they come!"
+	"Lan! Lá vem eles!"
 	keyWait
 	clearMsg
 	jump
@@ -180,13 +179,13 @@ script 11 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	Get ready! This
-	ain't gonna end like
-	before!
+	Prepara, moleque!
+	Desta vez não vai
+	acabar como da última!
 	"""
 	keyWait
 	clearMsg
-	"Get him!!"
+	"Pega ele!!"
 	keyWait
 	end
 }

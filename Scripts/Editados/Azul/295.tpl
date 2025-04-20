@@ -4,7 +4,7 @@ script 0 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Yes!"
+	"Isso!"
 	keyWait
 	clearMsg
 	jump
@@ -14,7 +14,7 @@ script 1 mmbn3 {
 	mugshotShow
 		mugshot = Dex
 	msgOpen
-	"No! I lost!!"
+	"Não acredito! Eu perdi!!"
 	keyWait
 	clearMsg
 	jump
@@ -24,7 +24,10 @@ script 2 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"We're in the top 4!"
+	"""
+	A gente tá entre os
+	quatro melhores!
+	"""
 	keyWait
 	end
 }
@@ -33,15 +36,15 @@ script 3 mmbn3 {
 		mugshot = Dex
 	msgOpen
 	"""
-	……
-	I hate losing,but
-	you really are
+	......
+	Eu odeio perder, mas
+	cê é forte mesmo, Lan!
 	"""
 	keyWait
 	clearMsg
 	"""
-	good,Lan! Go get
-	that title!
+	Agora vai lá e leva
+	aquele troféu pra casa!
 	"""
 	keyWait
 	clearMsg
@@ -53,9 +56,8 @@ script 4 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Thanks! I'll be
-	fighting for you
-	too,Dex!!
+	Valeu! Eu vou lutar por
+	você também, Dex!!
 	"""
 	keyWait
 	clearMsg
@@ -66,7 +68,7 @@ script 5 mmbn3 {
 	mugshotShow
 		mugshot = Yai
 	msgOpen
-	"Eeeeek!"
+	"Aaaaiii!"
 	keyWait
 	end
 }
@@ -75,8 +77,8 @@ script 6 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Sounds like Yai's
-	battling!
+	Parece que a Yai tá
+	lutando!
 	"""
 	keyWait
 	end
@@ -86,12 +88,12 @@ script 7 mmbn3 {
 		mugshot = Yai
 	msgOpen
 	"""
-	My-my eyes!
-	I can't see!
+	M-meus olhos!
+	Eu não tô enxergando!
 	"""
 	keyWait
 	clearMsg
-	"What's going on!?"
+	"O que tá acontecendo?!"
 	keyWait
 	clearMsg
 	jump
@@ -101,7 +103,7 @@ script 8 mmbn3 {
 	mugshotShow
 		mugshot = NetbattlerQ
 	msgOpen
-	"…You're mine!"
+	"... Acabou!"
 	keyWait
 	clearMsg
 	jump
@@ -111,7 +113,7 @@ script 9 mmbn3 {
 	mugshotShow
 		mugshot = Glide
 	msgOpen
-	"Nooo! Miss Yaaai!!"
+	"Oh, nãão! Srta. Yaaai!!"
 	keyWait
 	clearMsg
 	jump
@@ -123,18 +125,18 @@ script 10 mmbn3 {
 	soundDisableTextSFX
 	soundPlay
 		track = 169
-	"Ka-Boooom!!"
+	"Cabruuuummm!!"
 	wait
 		frames = 60
 	keyWait
 	clearMsg
 	soundEnableTextSFX
-	"Glide is deleted!"
+	"Glide foi deletado!"
 	keyWait
 	clearMsg
 	"""
-	The victory goes to
-	NetBattler Q!!
+	A vitória vai para o
+	NetLutador Q!!
 	"""
 	keyWait
 	clearMsg
@@ -147,7 +149,7 @@ script 11 mmbn3 {
 	mugshotShow
 		mugshot = Yai
 	msgOpen
-	"N-no!"
+	"N-não!"
 	keyWait
 	end
 }
@@ -156,9 +158,9 @@ script 12 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan,did you
-	notice anything odd
-	about that battle?
+	MegaMan, você notou
+	alguma coisa estranha
+	nessa luta?
 	"""
 	keyWait
 	clearMsg
@@ -169,13 +171,12 @@ script 13 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Yeah."
+	"Aham."
 	keyWait
 	clearMsg
 	"""
-	Something's fishy
-	about that
-	NetBattler Q.
+	Tem alguma suspeita
+	nesse tal NetLutador Q.
 	"""
 	keyWait
 	end
@@ -184,18 +185,18 @@ script 14 mmbn3 {
 	mugshotHide
 	msgOpen
 	"""
-	The top 4 have been
-	decided!
+	Os quatro melhores
+	foram definidos!
 	"""
 	keyWait
 	clearMsg
 	"""
-	The glorious four
-	are…
+	O quarteto glorioso
+	é composto por...
 	"""
 	keyWait
 	clearMsg
-	"These contestants!"
+	"estes competidores!"
 	keyWait
 	end
 }
@@ -203,62 +204,61 @@ script 15 mmbn3 {
 	mugshotHide
 	msgOpen
 	"""
-	Congratulations!
-	Now then,the locks
-	on your extra
+	Meus parabéns!
 	"""
 	keyWait
 	clearMsg
 	"""
-	folders will be
-	released.
+	Agora, liberaremos as
+	travas nas suas pastas
+	extras.
 	"""
 	keyWait
 	clearMsg
 	soundDisableTextSFX
 	soundPlay
 		track = 262
-	"Beeeep!"
+	"Biiiip!"
 	wait
 		frames = 60
 	" "
 	soundPlay
 		track = 162
-	"Ka-Chink!"
+	"Di-Ding!"
 	keyWait
 	clearMsg
 	soundEnableTextSFX
 	"""
-	Now for the semi-
-	finals! From here on
-	you will battle with
+	E agora, as semifinais!
+	Daqui em diante, vocês
+	lutarão com suas
 	"""
 	keyWait
 	clearMsg
 	"""
-	your own folders.
-	Equip the folder of
-	your choice before
+	próprias pastas.
+	Equipem a pasta que
+	quiserem antes de
 	"""
 	keyWait
 	clearMsg
 	"""
-	the semi-finals
-	begin. Now,climb the
-	Victory Bridge and
+	começarem as semi-
+	finais. Agora, atravessem
+	a Ponte da Vitória e
 	"""
 	keyWait
 	clearMsg
 	"""
-	proceed outside! 
-	Board the ferry and
-	head back to the
+	sigam para o lado de
+	fora! Depois, entrem no
+	barco e voltem para o
 	"""
 	keyWait
 	clearMsg
 	"""
-	TV Station. Good
-	luck,everyone!
+	prédio da emissora.
+	Boa sorte a todos!
 	"""
 	keyWait
 	end

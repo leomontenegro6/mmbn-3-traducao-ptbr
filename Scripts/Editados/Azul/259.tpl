@@ -5,29 +5,29 @@ script 0 mmbn3 {
 		mugshot = BubbleMan
 	msgOpen
 	"""
-	Blub! You've trailed
-	me all this way?!
+	Glub! Você me seguiu até
+	aqui?!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Blublub! You can't
-	cross this bridge
-	like that!
+	Gluglub! Não vai conseguir
+	atravessar essa ponte
+	como está!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'm light as foam!
-	That's why I could,
-	blub blub!
+	Eu sou leve feito
+	espuma! Por isso,
+	consegui, glub glub!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Blublublub! C'mon!
-	I dare you to come
-	over and get me!
+	Glugluglub! Vamos!
+	Duvido você vir aqui me
+	pegar!
 	"""
 	keyWait
 	end
@@ -37,9 +37,9 @@ script 1 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan! This bridge is
-	too narrow for me to
-	cross!
+	Lan! Essa ponte é
+	pequena e estreita
+	demais pra atravessar!
 	"""
 	keyWait
 	clearMsg
@@ -51,16 +51,16 @@ script 2 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	While we're fooling
-	around here,Mayl
-	and Ms.Mari are
+	Droga! Enquanto a gente
+	tá aqui, a Mayl e a srta.
+	Mari
 	"""
 	keyWait
 	clearMsg
 	"""
-	going to be blown to
-	bits! What should we
-	do?!
+	tão a segundos de
+	irem pelos ares!
+	O que a gente faz?!
 	"""
 	keyWait
 	clearMsg
@@ -72,9 +72,9 @@ script 3 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I have an idea! Do
-	you remember class
-	yesterday?
+	Tive uma ideia!
+	Lembra da aula de
+	ontem?
 	"""
 	keyWait
 	clearMsg
@@ -86,8 +86,8 @@ script 4 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Class yesterday…?
-	Um.
+	A aula de ontem?
+	Er.
 	"""
 	waitSkip
 		frames = 20
@@ -97,10 +97,10 @@ script 4 mmbn3 {
 	"."
 	waitSkip
 		frames = 20
-	"That's it!"
+	" Ah, sim!"
 	keyWait
 	clearMsg
-	"Compression!"
+	"Compressão!"
 	keyWait
 	clearMsg
 	jump
@@ -111,16 +111,15 @@ script 5 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Yeah! If you
-	compress my data and
-	shrink me,
+	Aham! Se você comprimir
+	os meus dados e me
+	encolher,
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'll be able to pass
-	over this bridge,no
-	prob!
+	atravessar esta ponte
+	vai ser moleza!
 	"""
 	keyWait
 	clearMsg
@@ -132,9 +131,9 @@ script 6 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	But where can we get
-	a compression
-	program?
+	Mas onde a gente vai
+	arranjar um programa
+	de compressão?
 	"""
 	keyWait
 	clearMsg
@@ -146,15 +145,14 @@ script 7 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Didn't Ms.Mari say
-	there was some place
-	that compresses data
+	A srta. Mari não mencio-
+	nou um lugar que compri-
+	mia dados todos os dias?
 	"""
 	keyWait
 	clearMsg
 	"""
-	everyday? Where was
-	that?
+	Onde era mesmo...?
 	"""
 	keyWait
 	end
@@ -164,20 +162,20 @@ script 8 mmbn3 {
 		mugshot = BubbleMan
 	msgOpen
 	"""
-	Blub blub!
-	What are you
-	blubbing about?
+	Glub glub glub!
+	O que vocês tão
+	bal-glub-ceando aí?
 	"""
 	keyWait
 	clearMsg
 	"""
-	If you don't hurry,
-	my bubble bomb's
-	gonna blu-blow!
+	Se não se apressarem,
+	minhas bombas bolha vão
+	ex-glub-dir!
 	"""
 	keyWait
 	clearMsg
-	"Blublublub!"
+	"Glugluglub!"
 	keyWait
 	end
 }
@@ -186,9 +184,9 @@ script 9 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,let's hurry up
-	and find a
-	compression program!
+	Lan, a gente tem que
+	arranjar um programa de
+	compressão, pra ontem!
 	"""
 	keyWait
 	clearMsg
@@ -200,9 +198,9 @@ script 10 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I guess that's our
-	only chance.
-	Let's go!
+	Acho que é a nossa
+	única chance mesmo.
+	Vamos lá!
 	"""
 	keyWait
 	end

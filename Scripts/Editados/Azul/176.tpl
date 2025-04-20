@@ -5,9 +5,9 @@ script 10 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	Hah! I'm gonna smash
-	my way into the
-	rankings!
+	Ha! Eu vou subir de
+	ranque bem rápido, à
+	força bruta!
 	"""
 	keyWait
 	clearMsg
@@ -31,9 +31,9 @@ script 11 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	No little twerp like
-	you's gonna get
-	ranked!!
+	Nenhum pirralho tosco
+	como tu vai entrar pro
+	ranque!!
 	"""
 	keyWait
 	clearMsg
@@ -57,9 +57,9 @@ script 12 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	Hey you! Nobody gets
-	in my way and lives!
-	C'mere!
+	Ô, cê aí! Ninguém se
+	mete no meu caminho e
+	vive! Chega aqui!
 	"""
 	keyWait
 	clearMsg
@@ -109,16 +109,16 @@ script 20 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	Who are you?
-	Don't you know this
-	is the Undernet?
+	Quem é você?
+	Não sabe que isto aqui
+	é a Undernet, naõ?
 	"""
 	keyWait
 	clearMsg
 	"""
-	If you know what's
-	good for you,you'll
-	run home to mama!
+	Se tem amor à vida,
+	volta logo pro colinho da
+	mamãe!
 	"""
 	keyWait
 	end
@@ -340,7 +340,7 @@ script 220 mmbn3 {
 script 221 mmbn3 {
 	msgOpen
 	"""
-	MegaMan used:
+	MegaMan usou:
 	"
 	"""
 	printItem
@@ -355,8 +355,8 @@ script 221 mmbn3 {
 script 230 mmbn3 {
 	msgOpen
 	"""
-	MegaMan accessed the
-	mystery data.
+	MegaMan acessou os
+	dados misteriosos.
 	"""
 	wait
 		frames = 10
@@ -379,7 +379,7 @@ script 230 mmbn3 {
 		jumpIfNone = continue
 		jumpIfSome = continue
 	"""
-	MegaMan got:
+	MegaMan adquiriu:
 	"1200 Zennys"!!
 	"""
 	playerFinish
@@ -390,8 +390,8 @@ script 230 mmbn3 {
 script 231 mmbn3 {
 	msgOpen
 	"""
-	MegaMan accessed the
-	mystery data.
+	MegaMan acessou os
+	dados misteriosos.
 	"""
 	wait
 		frames = 10
@@ -413,8 +413,8 @@ script 231 mmbn3 {
 		color = 2
 		amount = 1
 	"""
-	MegaMan got a Navi
-	Customizer program:
+	Adquiriu um programa do
+	Customizador de Navi:
 	"
 	"""
 	printNaviCustProgram
@@ -429,8 +429,8 @@ script 231 mmbn3 {
 script 232 mmbn3 {
 	msgOpen
 	"""
-	MegaMan accessed the
-	mystery data.
+	MegaMan acessou os
+	dados misteriosos.
 	"""
 	wait
 		frames = 10
@@ -447,7 +447,7 @@ script 232 mmbn3 {
 		jumpIfTrue = continue
 		jumpIfFalse = 233
 	"""
-	The SubChip
+	O SubChip
 	"
 	"""
 	printItem
@@ -455,14 +455,14 @@ script 232 mmbn3 {
 		item = 115
 	"""
 	"
-	was activated!!
+	foi ativado!!
 	"""
 	keyWait
 	clearMsg
 	"""
-	The virus hidden
-	in the mystery data
-	was deleted!
+	O vírus que se escondia
+	nos dados misteriosos
+	foi deletado!
 	"""
 	keyWait
 }
@@ -488,8 +488,8 @@ script 233 mmbn3 {
 script 234 mmbn3 {
 	msgOpen
 	"""
-	The mystery data was
-	a virus!!
+	Os dados misteriosos
+	eram vírus!!
 	"""
 	keyWait
 	startRandomBattle
@@ -578,7 +578,7 @@ script 236 mmbn3 {
 	playerAnimate
 		animation = 24
 	"""
-	MegaMan got:
+	MegaMan adquiriu:
 	"
 	"""
 	printBuffer
@@ -595,8 +595,8 @@ script 236 mmbn3 {
 script 237 mmbn3 {
 	msgOpen
 	"""
-	MegaMan accessed the
-	mystery data.
+	MegaMan acessou os
+	dados misteriosos.
 	"""
 	wait
 		frames = 10
@@ -613,7 +613,7 @@ script 237 mmbn3 {
 		jumpIfTrue = continue
 		jumpIfFalse = 238
 	"""
-	The SubChip
+	O SubChip
 	"
 	"""
 	printItem
@@ -621,14 +621,14 @@ script 237 mmbn3 {
 		item = 115
 	"""
 	"
-	was activated!!
+	foi ativado!!
 	"""
 	keyWait
 	clearMsg
 	"""
-	The virus hidden
-	in the mystery data
-	was deleted!
+	O vírus que se escondia
+	nos dados misteriosos
+	foi deletado!
 	"""
 	keyWait
 }
@@ -654,8 +654,8 @@ script 238 mmbn3 {
 script 239 mmbn3 {
 	msgOpen
 	"""
-	The mystery data was
-	a virus!!
+	Os dados misteriosos
+	eram vírus!!
 	"""
 	keyWait
 	startRandomBattle
@@ -702,8 +702,7 @@ script 240 mmbn3 {
 	playerAnimate
 		animation = 24
 	"""
-	MegaMan got a chip
-	for
+	MegaMan adquiriu o chip
 	"
 	"""
 	printChip
@@ -744,7 +743,7 @@ script 241 mmbn3 {
 	playerAnimate
 		animation = 24
 	"""
-	MegaMan got:
+	MegaMan adquiriu:
 	"
 	"""
 	printBuffer

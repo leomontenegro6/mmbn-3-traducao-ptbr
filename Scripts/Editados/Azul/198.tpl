@@ -6,7 +6,7 @@ script 0 mmbn3 {
 	soundDisableTextSFX
 	soundPlay
 		track = 161
-	"Clack! Clatter!"
+	"Claque! Prec-prec!"
 	wait
 		frames = 60
 	keyWait
@@ -21,7 +21,7 @@ script 1 mmbn3 {
 	mugshotShow
 		mugshot = Dex
 	msgOpen
-	"Yaaah!"
+	"Aaaaaaaaahhh!"
 	keyWait
 	end
 }
@@ -30,8 +30,8 @@ script 2 mmbn3 {
 		mugshot = Yai
 	msgOpen
 	"""
-	So I wasn't just
-	hearing things!
+	Arrá! Não era a minha
+	imaginação!
 	"""
 	keyWait
 	clearMsg
@@ -42,7 +42,7 @@ script 3 mmbn3 {
 	mugshotShow
 		mugshot = Dex
 	msgOpen
-	"Is it a g-g-ghost?"
+	"É um f-f-f-fantasma?"
 	keyWait
 	clearMsg
 	jump
@@ -53,8 +53,8 @@ script 4 mmbn3 {
 		mugshot = Yai
 	msgOpen
 	"""
-	Don't be stupid!
-	Must be a teacher.
+	Ai, não seja bobo!
+	Deve ser um professor.
 	"""
 	keyWait
 	clearMsg
@@ -65,7 +65,7 @@ script 5 mmbn3 {
 	mugshotShow
 		mugshot = Mayl
 	msgOpen
-	"HAS to be."
+	"TEM que ser..."
 	keyWait
 	clearMsg
 	jump
@@ -77,10 +77,10 @@ script 6 mmbn3 {
 	soundDisableTextSFX
 	soundPlay
 		track = 163
-	"Clack! "
+	"Claque! "
 	flagClear
 		flag = 788
-	"Rattle,rattle!"
+	"Prec-prec-prec!"
 	wait
 		frames = 80
 	keyWait
@@ -94,9 +94,9 @@ script 7 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	But something feels
-	strange. What if
-	it's a burglar?
+	Mas tem alguma coisa
+	estranha aqui. E se for
+	um ladrão?
 	"""
 	keyWait
 	clearMsg
@@ -108,9 +108,8 @@ script 8 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	It's coming from the
-	Teachers' Lounge!
-	Let's go!
+	Veio da Sala dos
+	Professores! Vamos lá!
 	"""
 	keyWait
 	end

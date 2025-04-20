@@ -5,8 +5,8 @@ script 0 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Hey!
-	A door!!
+	Ah!
+	Uma porta!!
 	"""
 	keyWait
 	clearMsg
@@ -19,7 +19,7 @@ script 1 mmbn3 {
 	soundDisableTextSFX
 	soundPlay
 		track = 318
-	"Beep! Beep!!"
+	"Bip! Bip!!"
 	soundEnableTextSFX
 	keyWait
 	clearMsg
@@ -30,12 +30,12 @@ script 2 mmbn3 {
 	mugshotShow
 		mugshot = Tora
 	msgOpen
-	"What's that sound?"
+	"Que barulho é esse?"
 	keyWait
 	clearMsg
 	"""
 	………
-	Lan!! Above you!!
+	Lan!! Em cima de ti!!
 	"""
 	keyWait
 	clearMsg
@@ -46,7 +46,7 @@ script 3 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Huh? Above me?"
+	"Hã? Em cima?"
 	keyWait
 	end
 }
@@ -54,7 +54,7 @@ script 4 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"What IS that?!"
+	"O QUÊ que é aquilo?!"
 	keyWait
 	end
 }
@@ -63,12 +63,12 @@ script 5 mmbn3 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	It must be a robot
-	guarding the door!
+	Deve ser um robô que
+	vigia a porta!
 	"""
 	keyWait
 	clearMsg
-	"Here it comes!!"
+	"Lá vem!!"
 	keyWait
 	end
 }
@@ -77,9 +77,9 @@ script 6 mmbn3 {
 		mugshot = Tora
 	msgOpen
 	"""
-	Guess we can't
-	just waltz through
-	the WWW base!
+	Acho que a gente não
+	pode só entrar na
+	base da WWW na boa.
 	"""
 	keyWait
 	clearMsg
@@ -92,7 +92,7 @@ script 7 mmbn3 {
 	soundDisableTextSFX
 	soundPlay
 		track = 318
-	"Beep! Beep!"
+	"Bip! Bip!"
 	soundEnableTextSFX
 	keyWait
 	clearMsg
@@ -103,7 +103,7 @@ script 8 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Lan! Look out!!"
+	"Lan! Cuidado!!"
 	keyWait
 	flagSet
 		flag = 2625
@@ -113,12 +113,12 @@ script 9 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Whoa!"
+	"Opa!"
 	keyWait
 	clearMsg
 	"""
-	Hey,I've seen that
-	attack before…
+	Ei, eu já vi esse ataque
+	antes...
 	"""
 	keyWait
 	clearMsg
@@ -130,22 +130,20 @@ script 10 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	That was FlashMan's
-	Hypno Flash!
+	Era o Clarão Hipnótico
+	do FlashMan!
 	"""
 	keyWait
 	clearMsg
 	"""
-	But FlashMan is
-	supposed to have
-	been deleted!
+	Mas a gente tinha
+	deletado o FlashMan!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Be careful,everyone!
-	That light can
-	hypnotize you!!
+	Cuidado, gente!
+	Essa luz hipnotiza!!
 	"""
 	keyWait
 	clearMsg
@@ -158,17 +156,17 @@ script 11 mmbn3 {
 	mugshotShow
 		mugshot = Tora
 	msgOpen
-	"What!?"
+	"Quê?!"
 	keyWait
 	clearMsg
 	"""
-	How are we going to
-	approach that thing
-	if it can do that!?
+	Como a gente faz pra
+	chegar perto daquele
+	negócio, então?!
 	"""
 	keyWait
 	clearMsg
-	"…………"
+	"............"
 	keyWait
 	clearMsg
 	jump
@@ -178,10 +176,10 @@ script 12 mmbn3 {
 	mugshotShow
 		mugshot = Chaud
 	msgOpen
-	"Careful!\n"
+	"Cuidado!\n"
 	flagClear
 		flag = 2626
-	"Here it comes again!"
+	"Ele vai atacar de novo!"
 	keyWait
 	clearMsg
 	jump
@@ -192,13 +190,16 @@ script 13 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	We can't just stand
-	here and let it
-	attack us…
+	A gente não pode só
+	ficar parado aqui,
+	deixando ele atacar...
 	"""
 	keyWait
 	clearMsg
-	"But what can we do?"
+	"""
+	Mas o que podemos
+	fazer?
+	"""
 	keyWait
 	clearMsg
 	jump
@@ -210,14 +211,14 @@ script 14 mmbn3 {
 	msgOpen
 	"""
 	Lan! Chaud!
-	I have a plan!
+	Tô com um plano, aqui!
 	"""
 	keyWait
 	clearMsg
 	"""
-	When I give the
-	signal,you two
-	rush that thing!
+	Eu vou dar um sinal
+	e vocês saem "disparado"
+	pra cima dele!
 	"""
 	keyWait
 	clearMsg
@@ -229,8 +230,8 @@ script 15 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Rush it?
-	But we'll be…
+	Sair disparado?
+	Mas a gente vai ser...
 	"""
 	keyWait
 	clearMsg
@@ -242,13 +243,13 @@ script 16 mmbn3 {
 		mugshot = Tora
 	msgOpen
 	"""
-	You have to look a
-	few moves ahead to
-	win the game!
+	Pra vencer o jogo,
+	tu tem que prever
+	as jogadas!
 	"""
 	keyWait
 	clearMsg
-	"OK! Now!!"
+	"Tá bom! Vai!!"
 	keyWait
 	flagSet
 		flag = 2626
@@ -259,15 +260,15 @@ script 17 mmbn3 {
 		mugshot = Tora
 	msgOpen
 	"""
-	Hey,you hunk of
-	junk!!
-	I'm over here!!
+	Ô, maquininha
+	escangalhada!!
+	Eu tô aqui, ó!!
 	"""
 	keyWait
 	clearMsg
 	"""
 	Lan!! Chaud!!
-	Do it now!
+	Agora, vai!
 	"""
 	keyWait
 	clearMsg
@@ -278,7 +279,7 @@ script 18 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Yaaaaah!!"
+	"Iááááá!!"
 	keyWait
 	end
 }
@@ -287,9 +288,9 @@ script 19 mmbn3 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Lan,you jack in!!
-	I'll do something
-	about this beam!
+	Lan, conecte-se você!!
+	Eu vou dar um jeito
+	neste raio!
 	"""
 	keyWait
 	clearMsg
@@ -300,7 +301,7 @@ script 20 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Gotcha!!"
+	"Beleza!!"
 	keyWait
 	end
 }

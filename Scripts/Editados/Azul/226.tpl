@@ -5,8 +5,8 @@ script 0 mmbn3 {
 		mugshot = Chisao
 	msgOpen
 	"""
-	……
-	……
+	......
+	......
 	"""
 	keyWait
 	clearMsg
@@ -27,7 +27,7 @@ script 2 mmbn3 {
 	mugshotShow
 		mugshot = Chisao
 	msgOpen
-	"……"
+	"......"
 	keyWait
 	end
 }
@@ -36,8 +36,7 @@ script 3 mmbn3 {
 		mugshot = Chisao
 	msgOpen
 	"""
-	Big brother,
-	I HATE youuuu!
+	Irmãozão, eu te ODEIOOO!
 	"""
 	keyWait
 	end
@@ -47,8 +46,8 @@ script 4 mmbn3 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Chisao,wait!
-	Let me explain!
+	Chisao, espera!
+	Eu posso explicar!
 	"""
 	keyWait
 	end
@@ -57,7 +56,7 @@ script 5 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Wait,Dex!"
+	"Dex, espera!"
 	keyWait
 	clearMsg
 	jump
@@ -67,7 +66,7 @@ script 6 mmbn3 {
 	mugshotShow
 		mugshot = Mayl
 	msgOpen
-	"Lan…"
+	"Lan..."
 	keyWait
 	clearMsg
 	jump
@@ -78,9 +77,9 @@ script 7 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I think we should
-	just let Dex handle
-	this,Lan.
+	Acho que é melhor a
+	gente deixar o Dex lidar
+	com isso, Lan.
 	"""
 	keyWait
 	clearMsg
@@ -92,8 +91,8 @@ script 8 mmbn3 {
 		mugshot = Yai
 	msgOpen
 	"""
-	Please do! We want
-	to go shopping!
+	Sim, por favor! A gente
+	quer ir fazer compras!
 	"""
 	keyWait
 	clearMsg
@@ -105,16 +104,16 @@ script 9 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I know how you feel,
-	but we n・ed to
-	ge・ to ・ad's…Huh?
+	Eu entendo como se
+	sente, mas t・mos ・ue ir
+	p・o lab・rató・io... Hã?
 	"""
 	keyWait
 	clearMsg
 	"""
-	T・e PET s・ems to ・e
-	a・ting st・ange
-	a・ain…!
+	O PE・ par・ce es・ar
+	dan・o def・ito d・
+	n・vo...!
 	"""
 	keyWait
 	end

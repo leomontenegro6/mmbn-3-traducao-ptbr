@@ -5,23 +5,23 @@ script 0 mmbn3 {
 		mugshot = LordWily
 	msgOpen
 	"""
-	Finally! I have all
-	of the TetraCodes!
-	All I have to
+	Finalmente! Todos os
+	TetraCódigos estão em
+	minhas mãos!
 	"""
 	keyWait
 	clearMsg
 	"""
-	do now is obtain
-	Alpha's data,and the
-	Net society is over!
+	Agora, só preciso obter
+	os dados de Alpha, e a
+	sociedade da Rede ruirá!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Hee hee hee!
-	Delete! Delete!
-	Deleeeeete!!!
+	He he he!
+	Deletar! Deletar!
+	Deletaaaaaaar!!!
 	"""
 	keyWait
 	end
@@ -33,8 +33,8 @@ script 1 mmbn3 {
 		mugshot = LordWily
 	msgOpen
 	"""
-	DrillMan! Come
-	forward,DrillMan!!
+	DrillMan!
+	Apareça, DrillMan!!
 	"""
 	keyWait
 	clearMsg
@@ -46,8 +46,8 @@ script 2 mmbn3 {
 		mugshot = DrillMan
 	msgOpen
 	"""
-	You summoned me,
-	Lord Wily?
+	O senhor me convocou,
+	Lorde Wily?
 	"""
 	keyWait
 	clearMsg
@@ -59,21 +59,20 @@ script 3 mmbn3 {
 		mugshot = LordWily
 	msgOpen
 	"""
-	Yes. I am entrusting
-	the TetraCodes to
-	you.
+	Convoquei. Irei confiar
+	os TetraCódigos a você.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Use your abilities
-	to bring me Alpha!
+	Use suas habilidades
+	e traga Alpha até mim!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Failure will not be
-	tolerated!
+	O fracasso NÃO será
+	tolerado!
 	"""
 	keyWait
 	clearMsg
@@ -85,16 +84,15 @@ script 4 mmbn3 {
 		mugshot = DrillMan
 	msgOpen
 	"""
-	Thanks to Mr.Match,
-	SciLab's security is
-	weakened. This will
+	Graças ao Sr. Match,
+	a segurança do SciLab
+	está enfraquecida.
 	"""
 	keyWait
 	clearMsg
 	"""
-	be easier for me
-	than drilling
-	through plywood!
+	Vai ser mais fácil que
+	perfurar compensado!
 	"""
 	keyWait
 	clearMsg
@@ -106,16 +104,16 @@ script 5 mmbn3 {
 		mugshot = LordWily
 	msgOpen
 	"""
-	Heh heh. I crafted
-	you well,my Navi of
-	destruction!
+	He he. Eu o programei
+	bem, meu Navi de
+	destruição!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Over-confidence can
-	be costly,however.
-	Stay vigilant!
+	Porém, confiança exces-
+	siva pode ser fatal.
+	Fique bem atento!
 	"""
 	keyWait
 	clearMsg
@@ -126,12 +124,12 @@ script 6 mmbn3 {
 	mugshotShow
 		mugshot = DrillMan
 	msgOpen
-	"Yes,my lord."
+	"Claro, milorde."
 	keyWait
 	clearMsg
 	"""
-	I will not fail you.
-	Alpha will be yours.
+	Juro que não falharei.
+	Alpha logo será seu.
 	"""
 	keyWait
 	clearMsg
@@ -143,9 +141,8 @@ script 7 mmbn3 {
 		mugshot = LordWily
 	msgOpen
 	"""
-	Go,then,DrillMan!
-	For the sake of
-	anarchy!
+	Então, vá, DrillMan!
+	Pela anarquia!
 	"""
 	keyWait
 	clearMsg
@@ -156,7 +153,7 @@ script 8 mmbn3 {
 	mugshotShow
 		mugshot = DrillMan
 	msgOpen
-	"Deleeete!!"
+	"Deletaaaaaar!!"
 	keyWait
 	end
 }
@@ -165,22 +162,22 @@ script 9 mmbn3 {
 		mugshot = LordWily
 	msgOpen
 	"""
-	Hee hee! My plan
-	is perfect,if I do
-	say so myself!
+	He he! O meu plano é
+	perfeito, modéstia à
+	parte!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Even if DrillMan
-	should fail,that
-	other one can always
+	Mesmo se DrillMan
+	fracassar, aquele outro
+	pode sempre
 	"""
 	keyWait
 	clearMsg
 	"""
-	deliver Alpha's data
-	to me
+	me trazer os dados
+	do Alpha
 	"""
 	waitSkip
 		frames = 30
@@ -192,21 +189,21 @@ script 9 mmbn3 {
 		frames = 30
 	"""
 	.
-	Hoo-hoo-hoo!
+	Hu hu huuu!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Enjoy yourself
-	while you can,Net
-	society!
+	Aproveite sua
+	existência enquanto
+	pode, sociedade da Rede!
 	"""
 	keyWait
 	clearMsg
 	"""
-	The time for my
-	revenge has come!
-	Deleeeeete!!
+	É chegada a hora da
+	minha vingança!
+	Deletaaaaar!!
 	"""
 	keyWait
 	flagSet
@@ -214,7 +211,7 @@ script 9 mmbn3 {
 	wait
 		frames = 32
 	clearMsg
-	"Mwa-ha-ha-ha-ha!!!"
+	"Iá ha ha ha ha ha ha!!!"
 	keyWait
 	end
 }

@@ -5,15 +5,16 @@ script 0 mmbn3 {
 		mugshot = LordWily
 	msgOpen
 	"""
-	Welcome,my elites
-	of the WWW!
+	Bem-vindos, meus
+	operadores de elite da
+	WWW!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Thanks to your
-	efforts,Alpha is now
-	under our control!
+	Graças ao seu empenho,
+	Alpha, agora, está sob
+	o nosso controle!
 	"""
 	keyWait
 	clearMsg
@@ -25,9 +26,9 @@ script 1 mmbn3 {
 		mugshot = Ray
 	msgOpen
 	"""
-	And now,Lord Wily,
-	we may proceed with
-	our plan?
+	Imagino que, agora, Lorde
+	Wily, prosseguiremos com
+	o nosso plano, não?
 	"""
 	keyWait
 	clearMsg
@@ -38,13 +39,13 @@ script 2 mmbn3 {
 	mugshotShow
 		mugshot = LordWily
 	msgOpen
-	"Precisely!!"
+	"Correto!!"
 	keyWait
 	clearMsg
 	"""
-	We shall now free
-	Alpha from SciLab's
-	imprisonment!
+	Agora, libertaremos
+	Alpha dos grilhões do
+	SciLab!
 	"""
 	keyWait
 	clearMsg
@@ -56,16 +57,15 @@ script 3 mmbn3 {
 		mugshot = Sunayama
 	msgOpen
 	"""
-	Ha ha ha!! This will
-	be the event of the
-	century!
+	Ha ha ha!! Esse será o
+	acontecimento do século!
 	"""
 	keyWait
 	clearMsg
 	"""
-	This was definitely
-	worth breaking out
-	of prison for!!
+	Definitivamente valeu a
+	pena fugir da prisão por
+	isto!!
 	"""
 	keyWait
 	clearMsg
@@ -77,9 +77,9 @@ script 4 mmbn3 {
 		mugshot = Anetta
 	msgOpen
 	"""
-	So,Net society
-	will finally come
-	to an end!?
+	Então, a sociedade da
+	Rede finalmente vai
+	acabar?!
 	"""
 	keyWait
 	clearMsg
@@ -91,18 +91,18 @@ script 5 mmbn3 {
 		mugshot = MrMatch
 	msgOpen
 	"""
-	This will be the
-	end of the world…
+	Vai ser o fim do mundo...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Heh heh heh…
-	I'm gettin' hot!
+	He he he...
+	As coisas estão
+	esquentando mesmo!
 	"""
 	keyWait
 	clearMsg
-	"Just burnin',baby!"
+	"Eu estou fervendo!"
 	keyWait
 	clearMsg
 	jump
@@ -113,9 +113,9 @@ script 6 mmbn3 {
 		mugshot = Ray
 	msgOpen
 	"""
-	Lord Wily,I can't
-	seem to find Inukai,
-	BeastMan's operator…
+	Lorde Wily, não vejo
+	Inukai, o operador do
+	BeastMan...
 	"""
 	keyWait
 	clearMsg
@@ -126,13 +126,13 @@ script 7 mmbn3 {
 	mugshotShow
 		mugshot = LordWily
 	msgOpen
-	"Inukai?"
+	"O Inukai?"
 	keyWait
 	clearMsg
 	"""
-	He failed his
-	mission.
-	So I deleted him.
+	Ele falhou em sua
+	missão.
+	Então, eu o deletei.
 	"""
 	keyWait
 	clearMsg
@@ -143,19 +143,19 @@ script 8 mmbn3 {
 	mugshotShow
 		mugshot = Sunayama
 	msgOpen
-	"………"
+	"........."
 	keyWait
 	clearMsg
 	"""
-	Hail to Lord Wily!
-	The evilest of all!
+	Vida longa ao Lorde Wily!
+	O mais cruel que há!
 	"""
 	keyWait
 	clearMsg
 	"""
-	The perfect king for
-	our new world of
-	chaos!!
+	O rei perfeito para o
+	nosso novo mundo de
+	puro caos!!
 	"""
 	keyWait
 	clearMsg
@@ -166,44 +166,43 @@ script 9 mmbn3 {
 	mugshotShow
 		mugshot = LordWily
 	msgOpen
-	"Muwahahaha!"
+	"Ua ha ha ha ha!"
 	keyWait
 	clearMsg
 	"""
-	Your new mission,
-	my followers,is to
-	protect Alpha…
-	"""
-	keyWait
-	clearMsg
-	"""
-	Protect it from
-	those Net society
-	fools!
+	Sua nova missão, meus
+	seguidores, é proteger
+	Alpha...
 	"""
 	keyWait
 	clearMsg
 	"""
-	A new world
-	awaits us!
+	Proteja-o daqueles tolos
+	da sociedade da Rede!
 	"""
 	keyWait
 	clearMsg
 	"""
-	And it will stand
-	upon the ashes of
-	Net society!!
+	Um novo mundo nos
+	espera!
 	"""
 	keyWait
 	clearMsg
 	"""
-	It is time to crush
-	Net society with an
-	iron fist of wrath!!
+	E ele será construído
+	sobre as cinzas da
+	sociedade da Rede!
 	"""
 	keyWait
 	clearMsg
-	"Delete it!!"
+	"""
+	É chegada a hora de
+	esmagá-la com punhos
+	de ferro e fúria!!
+	"""
+	keyWait
+	clearMsg
+	"Deletar!!"
 	keyWait
 	clearMsg
 	jump
@@ -213,7 +212,7 @@ script 10 mmbn3 {
 	mugshotShow
 		mugshot = Ray
 	msgOpen
-	"Delete it!!"
+	"Deletar!!"
 	keyWait
 	clearMsg
 	jump
@@ -223,7 +222,7 @@ script 11 mmbn3 {
 	mugshotShow
 		mugshot = Sunayama
 	msgOpen
-	"Deleeeete itttt!!"
+	"Deletaaaaaaaar!!"
 	keyWait
 	clearMsg
 	jump
@@ -233,7 +232,7 @@ script 12 mmbn3 {
 	mugshotShow
 		mugshot = Anetta
 	msgOpen
-	"Delete it!!"
+	"Deletar!!"
 	keyWait
 	clearMsg
 	jump
@@ -243,7 +242,7 @@ script 13 mmbn3 {
 	mugshotShow
 		mugshot = MrMatch
 	msgOpen
-	"De! Lete! It!"
+	"De! Le! Tar!"
 	keyWait
 	flagSet
 		flag = 2625
@@ -257,7 +256,7 @@ script 14 mmbn3 {
 	mugshotShow
 		mugshot = LordWily
 	msgOpen
-	"Muwahahahahaha!!"
+	"Uua ha ha ha ha ha ha!!"
 	keyWait
 	end
 }
@@ -265,66 +264,66 @@ script 15 mmbn3 {
 	mugshotShow
 		mugshot = LordWily
 	msgOpen
-	"Ah,ahem…"
+	"Ah... a-hem."
 	keyWait
 	clearMsg
 	"""
-	Attention,fools who
-	depend upon Net
-	society!
-	"""
-	keyWait
-	clearMsg
-	"""
-	I am Wily!
-	Leader of the WWW!!
+	Atenção, todos que
+	dependem da sociedade
+	da Rede!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Very shortly,
-	we will conduct an
-	assault on the Net!
+	Eu sou Wily!
+	Líder da WWW!!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Our assault will
-	destroy all Net
-	society functions!
+	Muito em breve,
+	lançaremos um ataque
+	sobre a Rede!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Army systems
-	will start wars
-	around the globe!
+	Nosso ataque destruirá
+	todas as funções da
+	sociedade da Rede!
 	"""
 	keyWait
 	clearMsg
 	"""
-	This is a
-	declaration
-	of war!!
+	Sistemas do Exército
+	iniciarão guerras ao
+	redor do globo!
 	"""
 	keyWait
 	clearMsg
 	"""
-	There is nothing you
-	can do to stop us!
+	Esta é uma declaração
+	de guerra!!
 	"""
 	keyWait
 	clearMsg
 	"""
-	The only thing in
-	your future is…
-	Destruction!!
+	Não há nada que vocês
+	possam fazer para nos
+	deter!
+	"""
+	keyWait
+	clearMsg
+	"""
+	A única coisa que seu
+	futuro lhes reserva é...
+	a destruição!!
 	"""
 	keyWait
 	clearMsg
 	flagSet
 		flag = 2625
-	"MUWAHAHAHAHA!!"
+	"UA HA HA HA HA HA HA!!"
 	keyWait
 	end
 }

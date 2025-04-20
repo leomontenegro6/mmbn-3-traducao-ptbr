@@ -5,22 +5,21 @@ script 0 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	You were a fool to
-	seek me out,little
-	Navi!
+	Você foi tolo por vir ao
+	meu encontro, Navi
+	patético!
 	"""
 	keyWait
 	clearMsg
 	"""
-	You dare to take on
-	the most feared Navi
-	in the Undernet…
+	Ousa desafiar o maior
+	e mais temido Navi de
+	toda a Undernet...
 	"""
 	keyWait
 	clearMsg
 	"""
-	…the legendary
-	Virus King!?
+	... o lendário Rei Vírus?!
 	"""
 	keyWait
 	clearMsg
@@ -31,16 +30,16 @@ script 1 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"The Virus King?\n"
+	"O Rei Vírus?\n"
 	playerAnimate
 		animation = 26
-	"Lan,be careful!"
+	"Lan, toma cuidado!"
 	keyWait
 	clearMsg
 	"""
-	This may be the
-	strongest opponent
-	we've ever faced!
+	Esse pode ser o inimigo
+	mais forte que já
+	enfrentamos!
 	"""
 	keyWait
 	clearMsg
@@ -52,9 +51,9 @@ script 2 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	No,MegaMan! He's
-	just an actor for
-	the TV show!
+	... Não, Megaman. Ele é
+	só um ator trabalhando
+	pro programa de TV.
 	"""
 	keyWait
 	clearMsg
@@ -65,12 +64,12 @@ script 3 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Huh?\n"
+	"Hã?\n"
 	playerAnimate
 		animation = 1
 	"""
-	Oh,I get it! So he
-	isn't really strong?
+	Ah, saquei!
+	Então, ele é fraquinho?
 	"""
 	keyWait
 	end
@@ -79,13 +78,13 @@ script 4 mmbn3 {
 	mugshotShow
 		mugshot = HeelNavi
 	msgOpen
-	"…C'mon,guys!"
+	"... Gente, pelamor!"
 	keyWait
 	clearMsg
 	"""
-	We're on live TV
-	here! The viewers
-	will get bored!
+	A gente tá ao vivo!
+	Os telespectadores vão
+	morrer de tédio!
 	"""
 	keyWait
 	end
@@ -95,9 +94,9 @@ script 5 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	We can't use this!
-	Cut! Cut to another
-	camera!
+	Ai, não dá pra usar isto.
+	Corta! Troca pra outra
+	câmera!
 	"""
 	keyWait
 	end
@@ -107,22 +106,22 @@ script 6 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	All right,let's try
-	a retake,OK?
+	Olha, vamos tentar de
+	novo do zero, tá?
 	"""
 	keyWait
 	clearMsg
 	"""
-	We'll start with you
-	searching for me in
-	area 2!
+	Começando com você
+	procurando por mim na
+	área 2!
 	"""
 	keyWait
 	clearMsg
 	"""
-	And please,try to
-	get a little more
-	into your part,OK?
+	E, por favor, investe
+	mais no seu papel desta
+	vez, pode ser?
 	"""
 	keyWait
 	end
@@ -132,8 +131,8 @@ script 7 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Wow. We blew that
-	one,huh?
+	Caramba. A gente
+	estragou tudo, né?
 	"""
 	keyWait
 	clearMsg
@@ -145,9 +144,8 @@ script 8 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Don't worry about
-	it! Let's go find
-	him again!
+	Ah, relaxa! Vamos lá
+	encontrar ele de novo!
 	"""
 	keyWait
 	end

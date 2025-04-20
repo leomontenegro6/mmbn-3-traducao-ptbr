@@ -76,8 +76,8 @@ script 5 mmbn3 {
 		mugshot = NormalNaviGreen
 	msgOpen
 	"""
-	Hey,you! Wanna play
-	a little game?
+	Ei, você! Topa encarar
+	um joguinho?
 	
 	"""
 	option
@@ -87,7 +87,7 @@ script 5 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Sure "
+	"Tá "
 	option
 		left = 0
 		right = 0
@@ -95,7 +95,7 @@ script 5 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Nah"
+	"         Não"
 	select
 		default = 0
 		BSeparate = false
@@ -1370,7 +1370,7 @@ script 180 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Look "
+	"   Sim "
 	option
 		left = 0
 		right = 0
@@ -1378,7 +1378,7 @@ script 180 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Don't look"
+	"          Não"
 	select
 		default = 0
 		BSeparate = false
@@ -1394,7 +1394,7 @@ script 180 mmbn3 {
 }
 script 181 mmbn3 {
 	clearMsg
-	"Come again!"
+	"Volte sempre!"
 	keyWait
 	end
 }
@@ -1415,8 +1415,8 @@ script 183 mmbn3 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Welcome to my
-	program shop!
+	Bem-vindo à minha loja
+	de programas!
 	
 	"""
 	option
@@ -1426,7 +1426,7 @@ script 183 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Look "
+	"   Sim "
 	option
 		left = 0
 		right = 0
@@ -1434,7 +1434,7 @@ script 183 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Don't look"
+	"          Não"
 	select
 		default = 0
 		BSeparate = false
@@ -1450,7 +1450,7 @@ script 183 mmbn3 {
 }
 script 184 mmbn3 {
 	clearMsg
-	"Come again!"
+	"Volte sempre!"
 	keyWait
 	end
 }
@@ -1459,8 +1459,8 @@ script 185 mmbn3 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Sorry,I'm all out of
-	merchandise…
+	Desculpe, estou sem
+	mercadorias...
 	"""
 	keyWait
 	end
@@ -1578,7 +1578,7 @@ script 192 mmbn3 {
 	playerAnimate
 		animation = 24
 	"""
-	MegaMan got:
+	MegaMan adquiriu:
 	"
 	"""
 	printItem

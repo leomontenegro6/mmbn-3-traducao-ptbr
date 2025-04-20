@@ -4,7 +4,7 @@ script 0 mmbn3 {
 	mugshotShow
 		mugshot = Chaud
 	msgOpen
-	"………"
+	"........."
 	keyWait
 	end
 }
@@ -12,7 +12,10 @@ script 1 mmbn3 {
 	mugshotShow
 		mugshot = ChaudsDad
 	msgOpen
-	"Well,what is it?"
+	"""
+	Pois bem, o que você
+	queria?
+	"""
 	keyWait
 	clearMsg
 	jump
@@ -22,13 +25,13 @@ script 2 mmbn3 {
 	mugshotShow
 		mugshot = Chaud
 	msgOpen
-	"Um………"
+	"Hum........."
 	keyWait
 	clearMsg
 	"""
-	………
-	I'm going to win
-	tomorrow! I promise!
+	.........
+	Eu vou vencer amanhã!
+	Prometo!
 	"""
 	keyWait
 	clearMsg
@@ -40,13 +43,16 @@ script 3 mmbn3 {
 		mugshot = ChaudsDad
 	msgOpen
 	"""
-	What? You
-	bothered me just
-	to say that?
+	... O quê? Você me
+	interrompeu só para
+	dizer isso?
 	"""
 	keyWait
 	clearMsg
-	"Idiot. I'm leaving…"
+	"""
+	Criança idiota.
+	Vou embora...
+	"""
 	keyWait
 	end
 }
@@ -54,19 +60,19 @@ script 4 mmbn3 {
 	mugshotShow
 		mugshot = Chaud
 	msgOpen
-	"No,really,dad!"
+	"Não, é sério, pai!"
 	keyWait
 	clearMsg
 	"""
-	I won't let anyone
-	beat me! I'm going
-	to be number one!
+	Não vou deixar ninguém
+	me vencer! Serei o
+	número 1 do mundo!
 	"""
 	keyWait
 	clearMsg
 	"""
-	So please…Come out
-	to watch.
+	Então, por favor...
+	Venha assistir.
 	"""
 	keyWait
 	clearMsg
@@ -78,23 +84,21 @@ script 5 mmbn3 {
 		mugshot = ChaudsDad
 	msgOpen
 	"""
-	Ha! I always tell
-	you: "Victory
-	is all!" and "Elites
+	Ha! Eu sempre lhe digo:
+	"Vitória é tudo" e "A elite
+	não tolera fracassos".
 	"""
 	keyWait
 	clearMsg
 	"""
-	don't tolerate
-	failure!" You
-	should be training
+	Você deveria era estar
+	treinando para amanhã,
 	"""
 	keyWait
 	clearMsg
 	"""
-	for tomorrow
-	rather than wasting
-	your time here.
+	não perdendo seu tempo
+	aqui.
 	"""
 	keyWait
 	end
@@ -103,7 +107,7 @@ script 6 mmbn3 {
 	mugshotShow
 		mugshot = Chaud
 	msgOpen
-	"………"
+	"........."
 	keyWait
 	end
 }

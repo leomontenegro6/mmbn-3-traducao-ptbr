@@ -4,10 +4,10 @@ script 0 mmbn3 {
 	mugshotHide
 	msgOpen
 	soundDisableTextSFX
-	"Crunch… Crunch…\n"
+	"Crunc... Crunc...\n"
 	soundPlay
 		track = 321
-	"Grind…"
+	"Prrrc..."
 	wait
 		frames = 6
 	keyWait
@@ -20,7 +20,7 @@ script 1 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"What's that noise?"
+	"Que barulho foi esse?"
 	keyWait
 	clearMsg
 	msgClose
@@ -38,9 +38,9 @@ script 2 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Just my imagination,
-	I guess! Let's get
-	going!
+	... Acho que foi só a
+	minha imaginação.
+	Vamos indo!
 	"""
 	keyWait
 	clearMsg
@@ -53,7 +53,7 @@ script 3 mmbn3 {
 	soundDisableTextSFX
 	soundPlay
 		track = 321
-	"Grind…"
+	"Prrrc..."
 	wait
 		frames = 60
 	soundEnableTextSFX
@@ -66,7 +66,7 @@ script 4 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Huh?"
+	"Hã?"
 	keyWait
 	playerAnimate
 		animation = 1
@@ -76,7 +76,7 @@ script 5 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Whoa!!"
+	"Opa!!"
 	wait
 		frames = 10
 	end
@@ -85,7 +85,7 @@ script 6 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Wow,that was close…"
+	"Nossa, foi por pouco..."
 	keyWait
 	clearMsg
 	"Chaud!!"
@@ -98,7 +98,7 @@ script 7 mmbn3 {
 	msgOpen
 	"""
 	Chaud!!
-	Are you OK!?
+	Você tá legal?!
 	"""
 	keyWait
 	clearMsg
@@ -109,12 +109,12 @@ script 8 mmbn3 {
 	mugshotShow
 		mugshot = Chaud
 	msgOpen
-	"L-Lan…!"
+	"L-Lan...!"
 	keyWait
 	clearMsg
 	"""
-	Go on,
-	through that door!
+	Vá, passe por aquela
+	porta!
 	"""
 	keyWait
 	clearMsg
@@ -126,9 +126,9 @@ script 9 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	What are you talking
-	about!? I'm going
-	to help you!
+	Do que você tá
+	falando?!
+	Eu vou te ajudar!
 	"""
 	keyWait
 	clearMsg
@@ -140,15 +140,15 @@ script 10 mmbn3 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Don't worry
-	about me!
+	Não se preocupe
+	comigo!
 	"""
 	keyWait
 	clearMsg
 	"""
-	You have to delete
-	Alpha,now! This is
-	to protect us all!!
+	Você tem que deletar o
+	Alpha, agora! Isso é para
+	proteger a todos nós!!
 	"""
 	keyWait
 	clearMsg
@@ -159,24 +159,24 @@ script 11 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"No way!!"
+	"Nem pensar!!"
 	keyWait
 	clearMsg
 	"""
-	How can I help the
-	entire world if I
-	can't help a friend?
+	Como eu poderia salvar
+	um mundo inteiro se nem
+	consigo ajudar um amigo?
 	"""
 	keyWait
 	clearMsg
 	"""
-	There's no way I'm
-	going to leave
-	you behind!
+	Eu não vou te deixar
+	pra trás de jeito
+	nenhum!
 	"""
 	keyWait
 	clearMsg
-	"C'mon,MegaMan!!"
+	"Bora, MegaMan!!"
 	keyWait
 	clearMsg
 	jump
@@ -186,7 +186,7 @@ script 12 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"You bet!!"
+	"Concordo!!"
 	keyWait
 	end
 }

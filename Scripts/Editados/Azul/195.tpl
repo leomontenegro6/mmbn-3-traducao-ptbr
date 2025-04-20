@@ -5,8 +5,8 @@ script 0 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Where's this guard
-	Navi?
+	Cadê o tal Navizão
+	guarda...?
 	"""
 	keyWait
 	clearMsg
@@ -18,8 +18,8 @@ script 1 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Looks like he's
-	taking a nap.
+	Parece que ele tá
+	dormindo no serviço.
 	"""
 	keyWait
 	clearMsg
@@ -31,9 +31,9 @@ script 2 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	That's great!
-	Just be careful not
-	to wake him up!
+	Perfeito pra gente!
+	Só toma cuidado pra não
+	acordar ele!
 	"""
 	keyWait
 	clearMsg
@@ -45,9 +45,9 @@ script 3 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I know.
-	Okay,I'm going to
-	unlock it. Quietly.
+	Eu sei.
+	Tá, vou destrancar.
+	Em silêncio...
 	"""
 	keyWait
 	flagClear
@@ -60,13 +60,13 @@ script 4 mmbn3 {
 	soundDisableTextSFX
 	soundPlay
 		track = 226
-	"Click."
+	"Clic."
 	wait
 		frames = 30
 	" "
 	soundPlay
 		track = 160
-	"CLUNK!!"
+	"CLUNC!!"
 	wait
 		frames = 30
 	soundEnableTextSFX
@@ -77,7 +77,7 @@ script 5 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Yikes!"
+	"Ai!"
 	keyWait
 	end
 }
@@ -85,7 +85,7 @@ script 6 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Oh,man!"
+	"Droga!"
 	keyWait
 	clearMsg
 	jump
@@ -96,8 +96,8 @@ script 7 mmbn3 {
 		mugshot = NormalNaviGreen
 	msgOpen
 	"""
-	HEY! What're you
-	doing!?
+	Ô! O que é que você
+	tá fazendo?!
 	"""
 	keyWait
 	clearMsg
@@ -119,8 +119,8 @@ script 9 mmbn3 {
 		mugshot = NormalNaviGreen
 	msgOpen
 	"""
-	…Szzzznork. Mumble,
-	mumble. ZZzzzzz…
+	... Szzzzronc. Mnham,
+	nham. Zzzzzzz...
 	"""
 	keyWait
 	clearMsg
@@ -131,7 +131,7 @@ script 10 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"He's still asleep…"
+	"Ele ainda tá dormindo..."
 	keyWait
 	end
 }
@@ -140,8 +140,8 @@ script 11 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	That gave me a heart
-	attack!
+	Aquilo tirou uns dez anos
+	da minha vida!
 	"""
 	keyWait
 	end
@@ -151,8 +151,8 @@ script 12 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Okay,Lan. Let's go
-	back to the others.
+	Beleza, Lan, vamos lá
+	voltar pro pessoal!
 	"""
 	keyWait
 	clearMsg
@@ -164,8 +164,8 @@ script 13 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Yeah,let's split
-	before he wakes up!
+	É, melhor dar o fora
+	antes que ele acorde!
 	"""
 	keyWait
 	end

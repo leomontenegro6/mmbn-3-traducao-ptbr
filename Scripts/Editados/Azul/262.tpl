@@ -4,7 +4,7 @@ script 0 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Whoa!"
+	"Opa!"
 	keyWait
 	end
 }
@@ -13,16 +13,15 @@ script 1 mmbn3 {
 		mugshot = Cossak
 	msgOpen
 	"""
-	Oh,watch your step.
-	I was just passing
-	by when I heard all
+	Ah, tente prestar mais
+	atenção. Eu estava de
+	passagem e ouvi toda
 	"""
 	keyWait
 	clearMsg
 	"""
-	this commotion. Is
-	something the
-	matter?
+	esta comoção.
+	Algum problema?
 	"""
 	keyWait
 	clearMsg
@@ -34,29 +33,28 @@ script 2 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	If I don't get
-	"
+	Tenho que modificar
+	estes "
 	"""
 	printItem
 		buffer = 0
 		item = 13
 	"""
-	" modified
-	and compress my Navi
+	" pra
+	comprimir o meu Navi,
 	"""
 	keyWait
 	clearMsg
 	"""
-	my friends will be
-	in serious trouble!
-	The modifications
+	ou as minhas amigas já
+	eram!
 	"""
 	keyWait
 	clearMsg
 	"""
-	can't be made
-	without special
-	programming,though!
+	Mas as modificações só
+	podem ser feitas com uma
+	programação especial aí!
 	"""
 	keyWait
 	clearMsg
@@ -68,15 +66,14 @@ script 3 mmbn3 {
 		mugshot = Cossak
 	msgOpen
 	"""
-	Hmm. I know a thing
-	or two about
-	programming.
+	Hmm. Eu até que
+	entendo um pouco de
+	programação.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Here,let me have a
-	look.
+	Posso dar uma olhada?
 	"""
 	keyWait
 	clearMsg
@@ -90,7 +87,7 @@ script 4 mmbn3 {
 	playerFinish
 	msgOpen
 	"""
-	Lan gave
+	Lan entregou
 	"
 	"""
 	printItem
@@ -98,7 +95,7 @@ script 4 mmbn3 {
 		item = 13
 	"""
 	"
-	and "PET"!!
+	e "PET"!!
 	"""
 	keyWait
 	playerReset
@@ -109,47 +106,46 @@ script 5 mmbn3 {
 		mugshot = Cossak
 	msgOpen
 	"""
-	I'll just take a
-	look inside this PET
-	here…
+	Vou só dar uma olhada
+	na parte interna deste
+	PET...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Hm. The person who
-	made this Navi
-	Customizer must be
+	Hm. A pessoa que criou
+	este Customizador de
+	Navi deve ser uma
 	"""
 	keyWait
 	clearMsg
 	"""
-	quite an engineer.
-	Hmm. Let's see now.
-	Aha!
+	engenheira das boas.
+	Hmm... Vejamos...
+	A-ha!
 	"""
 	keyWait
 	clearMsg
-	"This \""
+	"Estes \""
 	printItem
 		buffer = 0
 		item = 13
 	"""
 	"
-	needs to be made to
-	fit this NaviCust.
+	precisam de modificações
+	para se encaixarem aqui.
 	"""
 	keyWait
 	clearMsg
 	"""
-	You're right. This
-	can't be done with
-	normal techniques.
+	Você tem razão. Não
+	daria para fazer com
+	um nível técnico normal.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Give me a minute,
-	here.
+	Me dá só um minutinho.
 	"""
 	keyWait
 	clearMsg
@@ -162,32 +158,32 @@ script 6 mmbn3 {
 	soundDisableTextSFX
 	soundPlay
 		track = 266
-	"*Clink* *Clank*…"
+	"*Clinc* *Clanc*..."
 	wait
 		frames = 90
 	"\n"
 	soundPlay
 		track = 282
-	"Beep Beep!…"
+	"Bip Bip! ..."
 	wait
 		frames = 60
 	"\n"
 	soundPlay
 		track = 219
-	"Beep Beep Beep!…"
+	"Bip Bip Bip! ..."
 	wait
 		frames = 60
 	keyWait
 	clearMsg
 	soundPlay
 		track = 165
-	"Ka-Chunk!"
+	"Carunc!"
 	wait
 		frames = 30
 	"\n"
 	soundPlay
 		track = 220
-	"Ping!"
+	"Dim!"
 	wait
 		frames = 60
 	keyWait
@@ -198,26 +194,26 @@ script 7 mmbn3 {
 	mugshotShow
 		mugshot = Cossak
 	msgOpen
-	"There we go."
+	"Prontinho."
 	keyWait
 	clearMsg
 	"""
-	Now you can install
-	the "
+	Agora, vai poder instalar
+	os "
 	"""
 	printItem
 		buffer = 0
 		item = 13
 	"""
-	" in
-	the Navi Customizer.
+	" no
+	Customizador de Navi.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Well then,you'd best
-	be off to help your
-	friends!
+	Bom, acho que é melhor
+	você se apressar pra
+	ajudar suas amigas!
 	"""
 	keyWait
 	clearMsg
@@ -232,7 +228,7 @@ script 8 mmbn3 {
 	soundPlay
 		track = 133
 	"""
-	Lan got his
+	Lan recuperou seu
 	"
 	"""
 	printNaviCustProgram
@@ -240,7 +236,7 @@ script 8 mmbn3 {
 		program = 20
 	"""
 	"
-	and "PET" back!!
+	e seu "PET"!!
 	"""
 	keyWait
 	playerReset
@@ -250,7 +246,7 @@ script 9 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Thank you,sir!"
+	"Muito obrigado, moço!"
 	keyWait
 	end
 }
@@ -259,22 +255,21 @@ script 10 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Did you see that,
-	Lan?! That guy's
-	programming skills
+	Você viu aquilo, Lan?!
+	As habilidades de
+	programação do cara
 	"""
 	keyWait
 	clearMsg
 	"""
-	were incredible! He
-	may be as good as
-	your dad! Maybe
+	eram incríveis! Tão boas
+	quanto às do papai.
+	Não, talvez até melhores!
 	"""
 	keyWait
 	clearMsg
 	"""
-	even better! Just
-	who was that guy?
+	Quem era ele...?
 	"""
 	keyWait
 	clearMsg
@@ -286,14 +281,15 @@ script 11 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Yeah! I'll ask dad
-	next time I see him.
+	Né? Eu pergunto pro
+	papai da próxima vez
+	que a gente se vir.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Alright,MegaMan!
-	Let's go!
+	Beleza, MegaMan!
+	Vamos!
 	"""
 	keyWait
 	end

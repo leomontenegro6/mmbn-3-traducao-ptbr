@@ -15,13 +15,13 @@ script 0 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Jack in!!"
+	"Conectar!"
 	wait
 		frames = 10
-	"\nMegaMan,"
+	"\nMegaMan.EXE,"
 	wait
 		frames = 10
-	"Execute!"
+	"\ntransmissão!"
 	wait
 		frames = 30
 	controlUnlock
@@ -30,8 +30,8 @@ script 0 mmbn3 {
 script 1 mmbn3 {
 	msgOpen
 	"""
-	MegaMan is already
-	in the Cyberworld!
+	O MegaMan já está no
+	mundo cibernético!
 	"""
 	keyWait
 	flagSet
@@ -48,9 +48,9 @@ script 2 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's go to the park
-	first. We can jack
-	in later!
+	Vamos lá no parque
+	primeiro. Depois a gente
+	se conecta na Rede!
 	"""
 	keyWait
 	flagSet
@@ -60,8 +60,9 @@ script 2 mmbn3 {
 script 3 mmbn3 {
 	msgOpen
 	"""
-	You can't jack in
-	with a SubPET!!
+	Não dá para se
+	conectar com um
+	SubPET!!
 	"""
 	keyWait
 	flagSet

@@ -5,9 +5,9 @@ script 0 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	He beat all four of
-	us? Who is this
-	guy!?
+	Ele acabou com nós
+	quatro? Quem é esse
+	sujeito?!
 	"""
 	keyWait
 	end
@@ -16,7 +16,7 @@ script 1 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"You want some more?"
+	"E aí, querem mais?"
 	keyWait
 	clearMsg
 	jump
@@ -27,21 +27,22 @@ script 2 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	Hey!
-	You just remember
-	this day!
+	Grrr!
+	Tu escorregou feio
+	hoje, pirralho!
 	"""
 	keyWait
 	clearMsg
 	"""
-	You're gonna pay
-	for this!
+	Tu ainda vai pagar
+	caro por isso!
 	"""
 	keyWait
 	clearMsg
 	"""
-	We won't forget your
-	face!
+	A gente não vai
+	esquecer essa tua
+	carinha!
 	"""
 	keyWait
 	end
@@ -51,15 +52,15 @@ script 3 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Four on one. So this
-	is how they do it in
-	the Undernet.
+	Quatro contra um.
+	Então, é assim que são
+	as coisas na Undernet.
 	"""
 	keyWait
 	clearMsg
 	"""
-	There really aren't
-	any rules!
+	Realmente, não tem
+	regras!
 	"""
 	keyWait
 	clearMsg
@@ -71,15 +72,15 @@ script 4 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Who knows where,when
-	or how we'll be
-	attacked next.
+	Vai saber onde, quando
+	ou como o próximo
+	ataque vai ser.
 	"""
 	keyWait
 	clearMsg
 	"""
-	We'd better keep on
-	our toes.
+	É melhor a gente ficar
+	esperto.
 	"""
 	keyWait
 	clearMsg
@@ -91,8 +92,9 @@ script 5 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Right…
-	I'll watch my back.
+	É...
+	Não vou baixar a
+	guarda.
 	"""
 	keyWait
 	end

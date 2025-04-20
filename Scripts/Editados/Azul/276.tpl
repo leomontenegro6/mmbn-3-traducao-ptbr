@@ -7,30 +7,29 @@ script 0 mmbn3 {
 		mugshot = LordWily
 	msgOpen
 	"""
-	That Official ace
-	NetBattler Chaud and
-	his Navi ProtoMan
+	Aquele NetLutador Oficial
+	gênio, Eugene Chaud, e
+	seu Navi, ProtoMan,
 	"""
 	keyWait
 	clearMsg
 	"""
-	are starting
-	to get in the way
-	of WWW's plans.
+	estão começando a ser
+	um empecilho para os
+	planos da WWW.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I believe we'll
-	have to eliminate
-	them earlier rather
+	Creio que tenhamos que
+	eliminá-los o quanto
+	antes.
 	"""
 	keyWait
 	clearMsg
 	"""
-	than later. How is
-	our little plan
-	coming along?
+	Como está indo o nosso
+	singelo plano?
 	"""
 	keyWait
 	clearMsg
@@ -41,15 +40,14 @@ script 1 mmbn3 {
 	mugshotHide
 	msgOpen
 	"""
-	It is proceeding
-	smoothly,sir!
+	Está prosseguindo sem
+	empecilhos, senhor!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Soon the entire
-	world will fear
-	the WWW.
+	Logo, o mundo inteiro irá
+	temer a WWW.
 	"""
 	keyWait
 	clearMsg
@@ -61,9 +59,9 @@ script 2 mmbn3 {
 		mugshot = LordWily
 	msgOpen
 	"""
-	Take precautions not
-	to end up like
-	BubbleMan did.
+	Tome precauções para
+	não terminar como o
+	BubbleMan.
 	"""
 	keyWait
 	clearMsg
@@ -74,23 +72,23 @@ script 3 mmbn3 {
 	mugshotHide
 	msgOpen
 	"""
-	Mwahahaha! Please do
-	not compare me to
-	such an inferior
+	Mahahaha! Por favor,
+	não me compare àquele
+	Navi inferior.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Navi. I will deliver
-	you footage that
-	will delight your
+	Darei a você filmagens
+	que deleitarão seus
+	olhos, Lorde Wily!
 	"""
 	keyWait
 	clearMsg
 	"""
-	eyes,Lord Wily!
-	Chaud's public
-	execution!
+	Registros audiovisuais...
+	da execução pública
+	de Eugene Chaud!
 	"""
 	keyWait
 	clearMsg
@@ -101,10 +99,13 @@ script 4 mmbn3 {
 	mugshotShow
 		mugshot = LordWily
 	msgOpen
-	"I'm counting on you."
+	"""
+	Estou contando com
+	você.
+	"""
 	keyWait
 	clearMsg
-	"Delete it!"
+	"Deletar!"
 	keyWait
 	clearMsg
 	jump
@@ -113,7 +114,7 @@ script 4 mmbn3 {
 script 5 mmbn3 {
 	mugshotHide
 	msgOpen
-	"Deleeeete it!"
+	"Deletaaar!!"
 	keyWait
 	end
 }

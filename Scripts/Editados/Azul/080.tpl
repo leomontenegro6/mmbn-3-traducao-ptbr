@@ -4,7 +4,7 @@ script 0 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Lan! You got mail!"
+	"Lan! Chegou e-mail!"
 	keyWait
 	end
 }
@@ -19,16 +19,16 @@ script 10 mmbn3 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	Yai! Look! a
-	raccoon just ran
-	along the eaves!
+	Yai! Olha! Um cão-guaxinim
+	acabou de passar ali, no
+	beiral!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Huh? Lan?
-	Yai was right here a
-	second ago. Hmm.
+	Hã? Lan?
+	Mas a Yai tava aqui até
+	ainda agora. Hmm...
 	"""
 	keyWait
 	end
@@ -38,15 +38,14 @@ script 11 mmbn3 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	Yai just went
-	through here.
+	A Yai acabou de passar
+	por aqui.
 	"""
 	keyWait
 	clearMsg
 	"""
-	She said she was
-	going to explore
-	the inn.
+	Ela disse que ia explorar
+	a pousada.
 	"""
 	keyWait
 	end
@@ -56,44 +55,43 @@ script 12 mmbn3 {
 		mugshot = Girl
 	msgOpen
 	"""
-	I decided to relax
-	back here at the inn
-	during free time.
+	Decidi ficar descansando
+	aqui, na pousada, duran-
+	te nosso período livre.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Hey,have you heard
-	about style changes
-	Navis evolve,
+	Ei, já ouviu falar de
+	mudanças de estilo, que
+	Navis sofrem baseado
 	"""
 	keyWait
 	clearMsg
 	"""
-	based on how their
-	operators fight!
-	When a style change
+	em como seus operado-
+	res lutam? Quando uma
+	troca de estilo ocorre,
 	"""
 	keyWait
 	clearMsg
 	"""
-	occurs,the Navi gets
-	all kinds of special
-	powers!
+	o Navi ganha um monte
+	de poderes especiais!
 	"""
 	keyWait
 	clearMsg
 	"""
-	My Navi's never gone
-	through a style
-	change…
+	O meu Navi nunca
+	passou por uma troca
+	de estilo...
 	"""
 	keyWait
 	clearMsg
 	"""
-	But MegaMan might
-	go through one
-	sometime!
+	Mas o MegaMan pode
+	ter uma, qualquer hora
+	dessas!
 	"""
 	keyWait
 	end
@@ -103,21 +101,22 @@ script 30 mmbn3 {
 		mugshot = Girl
 	msgOpen
 	"""
-	The snake won't let
-	us out,and the smell
-	in here is too much!
+	A cobra não deixa a
+	gente sair, e o cheiro
+	aqui tá insuportável!
 	"""
 	keyWait
 	clearMsg
-	"Sniff…! Sniff…!"
+	"Snif...! Snif...!"
 	keyWait
 	end
 }
 script 40 mmbn3 {
 	msgOpen
 	"""
-	Phew! Why'd he
-	have to go here?
+	Eca! Por que ele TINHA
+	que fazer as
+	necessidades dele aqui?
 	"""
 	keyWait
 	end
@@ -182,9 +181,9 @@ script 51 mmbn3 {
 		mugshot = InnMan
 	msgOpen
 	"""
-	Not bad,huh?
-	This is easier than
-	playing cards,right?
+	Nada mal, né?
+	Bem mais fácil que jogar
+	mahjong, eu sinto!
 	"""
 	keyWait
 	end
@@ -249,15 +248,15 @@ script 52 mmbn3 {
 		mugshot = InnWoman
 	msgOpen
 	"""
-	Let's see,where are
-	the rules?
+	Vejamos... onde estão
+	as regras...?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Is this how many
-	cards I should
-	have?
+	É esta a quantidade de
+	pedras que eu devo
+	segurar?
 	"""
 	keyWait
 	end
@@ -322,8 +321,8 @@ script 53 mmbn3 {
 		mugshot = PigtailsGirl
 	msgOpen
 	"""
-	Let's see. These
-	three go together…
+	Vejamos...
+	Eu junto estas três...
 	"""
 	keyWait
 	end
@@ -388,14 +387,15 @@ script 54 mmbn3 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	Yes! I got a set! I
-	got a set!
+	Isso!
+	Fiz uma combinação!
+	Olha!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I think I'm getting
-	the hang of this!
+	Acho que tô começando
+	a pegar o jeito disto!
 	"""
 	keyWait
 	end
@@ -410,9 +410,9 @@ script 55 mmbn3 {
 		mugshot = Man
 	msgOpen
 	"""
-	Today's so noisy.
-	People I don't know
-	keep talking to me.
+	Está tanto barulho, hoje.
+	E gente estranha não
+	para de falar comigo.
 	"""
 	keyWait
 	end
@@ -422,9 +422,9 @@ script 60 mmbn3 {
 		mugshot = Man
 	msgOpen
 	"""
-	That family seems to
-	be having fun
-	playing gin rummy.
+	Aquela família parece
+	estar se divertindo bas-
+	tante, jogando mahjong.
 	"""
 	keyWait
 	end
@@ -434,9 +434,9 @@ script 65 mmbn3 {
 		mugshot = InnMan
 	msgOpen
 	"""
-	Everybody is being
-	so noisy! By the
-	way,honey,I win!
+	Esse povo tá fazendo
+	tanto barulho! Por sinal,
+	querida, bati!
 	"""
 	keyWait
 	end
@@ -446,8 +446,8 @@ script 66 mmbn3 {
 		mugshot = InnWoman
 	msgOpen
 	"""
-	What? Are you out,
-	Dear?
+	Quê? Acabaram mesmo
+	as suas pedras?
 	"""
 	keyWait
 	end
@@ -457,8 +457,9 @@ script 67 mmbn3 {
 		mugshot = PigtailsGirl
 	msgOpen
 	"""
-	No way! I was almost
-	ready to go out!
+	Não acredito!
+	Faltava tão pouquinho
+	pra mim!
 	"""
 	keyWait
 	end
@@ -468,9 +469,9 @@ script 68 mmbn3 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	All right now,how
-	much were aces
-	worth?
+	Então, com as pedras
+	de letras, só podem ser
+	trios iguais, é isso?
 	"""
 	keyWait
 	end
@@ -480,15 +481,15 @@ script 70 mmbn3 {
 		mugshot = BlueShirtBoy
 	msgOpen
 	"""
-	I heard that family
-	played gin right
-	through the crisis!
+	Ouvi que aquela família
+	ficou jogando mahjong do
+	começo ao fim da crise!
 	"""
 	keyWait
 	clearMsg
 	"""
-	That game must sure
-	be a lot of fun.
+	Esse jogo deve ser
+	divertido mesmo.
 	"""
 	keyWait
 	end
@@ -498,9 +499,9 @@ script 71 mmbn3 {
 		mugshot = InnMan
 	msgOpen
 	"""
-	Ha-ha! Now you'll
-	see my years of
-	practice in action!
+	Ha ha! Agora, vocês vão
+	ver os resultados dos
+	meus anos de prática!
 	"""
 	keyWait
 	end
@@ -510,9 +511,9 @@ script 72 mmbn3 {
 		mugshot = InnWoman
 	msgOpen
 	"""
-	Was it OK to scoop
-	up the cards if I
-	play the bottom one?
+	Será que eu posso
+	declarar Riichi com esta
+	pedra aqui?
 	"""
 	keyWait
 	end
@@ -522,9 +523,9 @@ script 73 mmbn3 {
 		mugshot = PigtailsGirl
 	msgOpen
 	"""
-	Ugh. Look at this
-	hand! Who shuffled
-	these!?
+	Ugh. Que mão horrível!
+	Essas pedras tão
+	viciadas, só pode!
 	"""
 	keyWait
 	end
@@ -534,14 +535,15 @@ script 74 mmbn3 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	Oh no! Dad went out
-	already! Darn!
+	Ah, poxa! O papai já
+	bateu! Que droga!
 	"""
 	keyWait
 	clearMsg
 	"""
-	What? A crisis? That
-	really happened?
+	Quê? Uma crise?
+	Sério que isso
+	aconteceu?
 	"""
 	keyWait
 	end
@@ -551,9 +553,9 @@ script 83 mmbn3 {
 		mugshot = InnMan
 	msgOpen
 	"""
-	Watch out! Daddy's
-	gonna win the next
-	round,too!
+	Fiquem espertos! Porque
+	o papai aqui vai vencer
+	esta rodada, também!
 	"""
 	keyWait
 	end
@@ -563,9 +565,9 @@ script 84 mmbn3 {
 		mugshot = InnWoman
 	msgOpen
 	"""
-	Oh,no,we won't let
-	you beat us so
-	easily next time!
+	Ah, não! Desta vez,
+	não vamos deixar você
+	vencer fácil assim!
 	"""
 	keyWait
 	end
@@ -575,8 +577,8 @@ script 85 mmbn3 {
 		mugshot = PigtailsGirl
 	msgOpen
 	"""
-	I won't give up till
-	I win!
+	Eu não vou desistir até
+	vencer!
 	"""
 	keyWait
 	end
@@ -586,9 +588,9 @@ script 86 mmbn3 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	Everybody's off at
-	N1,but I'd rather
-	play gin rummy!
+	Foi todo mundo lá pro
+	Grande Prêmio N1, mas
+	prefiro jogar mahjong!
 	"""
 	keyWait
 	end
@@ -598,8 +600,8 @@ script 90 mmbn3 {
 		mugshot = InnMan
 	msgOpen
 	"""
-	Ha! Just what I
-	need! I win!
+	Ha! Justo a peça de
+	que eu precisava!
 	"""
 	keyWait
 	end
@@ -608,7 +610,7 @@ script 91 mmbn3 {
 	mugshotShow
 		mugshot = InnWoman
 	msgOpen
-	"What? You won again?"
+	"Não acredito!\nVocê venceu de novo?"
 	keyWait
 	end
 }
@@ -618,15 +620,14 @@ script 92 mmbn3 {
 	msgOpen
 	mugshotAnimate
 		animation = 0
-	"Awwwww!"
+	"Aaaaaahhh!"
 	keyWait
 	clearMsg
 	mugshotAnimate
 		animation = 1
 	"""
-	This is the one you
-	were waiting for,
-	dad!
+	Você pegou justo a peça
+	que faltava, papai?!
 	"""
 	keyWait
 	end
@@ -636,14 +637,14 @@ script 93 mmbn3 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	Looks like nobody
-	can beat dad!
+	O papai parece mesmo
+	imbatível!
 	"""
 	keyWait
 	clearMsg
 	"""
-	But we're not
-	finished yet!
+	Mas a gente ainda não
+	vai se dar por vencido!
 	"""
 	keyWait
 	end
@@ -653,9 +654,9 @@ script 100 mmbn3 {
 		mugshot = InnMan
 	msgOpen
 	"""
-	Ha ha. If my luck
-	holds out,I'm sure
-	to win!
+	Ha ha. Se a minha sorte
+	continuar, com certeza,
+	vou vencer!
 	"""
 	keyWait
 	end
@@ -665,9 +666,9 @@ script 101 mmbn3 {
 		mugshot = InnWoman
 	msgOpen
 	"""
-	I don't believe it!
-	He's winning by a
-	mile!
+	Não acredito nisso!
+	O récorde de vitórias
+	dele está absurdo!
 	"""
 	keyWait
 	end
@@ -676,13 +677,14 @@ script 102 mmbn3 {
 	mugshotShow
 		mugshot = PigtailsGirl
 	msgOpen
-	"……"
+	"......"
 	keyWait
 	clearMsg
 	mugshotHide
 	"""
-	She is frantically
-	studying the rules
+	Ele está estudando
+	as regras
+	desesperadamente.
 	"""
 	keyWait
 	end
@@ -692,8 +694,9 @@ script 103 mmbn3 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	Now the real battle
-	begins!
+	Agora é que a
+	verdadeira batalha
+	começa!
 	"""
 	keyWait
 	end
@@ -703,9 +706,9 @@ script 105 mmbn3 {
 		mugshot = InnMan
 	msgOpen
 	"""
-	Hold on. What was
-	the rule for calling
-	"gin"?
+	Espera aí. Qual era a
+	regra mesmo para bater
+	a primeira?
 	"""
 	keyWait
 	end
@@ -715,8 +718,8 @@ script 106 mmbn3 {
 		mugshot = InnWoman
 	msgOpen
 	"""
-	Oh my! You scared me
-	for a second there!
+	Ai! Meu coração quase
+	saiu pela boca!
 	"""
 	keyWait
 	end
@@ -726,8 +729,8 @@ script 107 mmbn3 {
 		mugshot = PigtailsGirl
 	msgOpen
 	"""
-	Ha ha! You messed
-	up!
+	Ha ha! Você pisou na
+	bola, papai!
 	"""
 	keyWait
 	end
@@ -737,8 +740,8 @@ script 108 mmbn3 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	Thanks,mom! That's
-	the one I needed!
+	Valeu, mamãe! Era desse
+	mesmo que eu precisava!
 	"""
 	keyWait
 	clearMsg
@@ -751,13 +754,13 @@ script 108 mmbn3 {
 	"."
 	waitSkip
 		frames = 20
-	"Ah!"
+	" Ah!"
 	keyWait
 	clearMsg
 	"""
-	I thought that club
-	was a spade!
-	Aw,man…!
+	Eu achei que era de
+	espadas, não de paus!
+	Poxa...!
 	"""
 	keyWait
 	end
@@ -767,14 +770,15 @@ script 110 mmbn3 {
 		mugshot = InnMan
 	msgOpen
 	"""
-	OK,looks like you're
-	all warmed up now!
+	OK, parece que vocês,
+	finalmente, tão
+	aquecidos!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Now it's anyone's
-	game!
+	Agora, estamos todos
+	em pé de igualdade!
 	"""
 	keyWait
 	end
@@ -784,8 +788,7 @@ script 111 mmbn3 {
 		mugshot = InnWoman
 	msgOpen
 	"""
-	Ha ha! I caught up
-	to you!
+	Ha ha! Eu te alcancei!
 	"""
 	keyWait
 	end
@@ -795,8 +798,8 @@ script 112 mmbn3 {
 		mugshot = PigtailsGirl
 	msgOpen
 	"""
-	I'm getting better,
-	aren't I?
+	Eu tô ficando melhor,
+	não tô?
 	"""
 	keyWait
 	end
@@ -806,8 +809,8 @@ script 113 mmbn3 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	Whoa! I'm on a roll
-	now!!
+	Caramba! Eu tô imbatível
+	agora!!
 	"""
 	keyWait
 	end
@@ -817,13 +820,13 @@ script 115 mmbn3 {
 		mugshot = InnMan
 	msgOpen
 	"""
-	Our game is so
-	fierce,it's really
-	getting hot in here!
+	O nosso jogo tá tão
+	intenso que até começou
+	a esquentar aqui!
 	"""
 	keyWait
 	clearMsg
-	"Whew!"
+	"Ufe!"
 	keyWait
 	end
 }
@@ -832,9 +835,8 @@ script 116 mmbn3 {
 		mugshot = InnWoman
 	msgOpen
 	"""
-	Doesn't it smell
-	like something's
-	burning?
+	Não tá com cheiro de
+	queimado, aqui?
 	"""
 	keyWait
 	end
@@ -844,8 +846,7 @@ script 117 mmbn3 {
 		mugshot = PigtailsGirl
 	msgOpen
 	"""
-	Phew! I'm drenched
-	in sweat!
+	Aif! Tô banhada de suor!
 	"""
 	keyWait
 	end
@@ -855,8 +856,8 @@ script 118 mmbn3 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	Wow! It's really
-	burning up in here!
+	Caramba! Eu tô pegando
+	FOGO agora!
 	"""
 	keyWait
 	end
@@ -866,9 +867,9 @@ script 120 mmbn3 {
 		mugshot = InnMan
 	msgOpen
 	"""
-	I had no idea our
-	daughter was so
-	talented!
+	Eu não sabia que a
+	nossa filha era tão
+	talentosa assim!
 	"""
 	keyWait
 	end
@@ -878,8 +879,8 @@ script 121 mmbn3 {
 		mugshot = InnWoman
 	msgOpen
 	"""
-	She sure has caught
-	on fast!
+	Ela subiu de nível tão
+	rápido!
 	"""
 	keyWait
 	end
@@ -889,15 +890,15 @@ script 122 mmbn3 {
 		mugshot = PigtailsGirl
 	msgOpen
 	"""
-	You bet I've caught
-	on!
+	É isso aí, estou num nível
+	altíssimo, agora!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I can figure what
-	cards everyone needs
-	at a glance!
+	Sei dizer de que peças
+	todos precisam só ao
+	ver de relance!
 	"""
 	keyWait
 	end
@@ -907,9 +908,9 @@ script 123 mmbn3 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	I don't believe it!
-	Now I'm trailing
-	behind!
+	Eu não acredito nisso!
+	Agora, eu tô ficando pra
+	trás!
 	"""
 	keyWait
 	end
@@ -919,8 +920,8 @@ script 125 mmbn3 {
 		mugshot = InnMan
 	msgOpen
 	"""
-	What?! You won
-	another one?
+	O quê?!
+	Você venceu de novo?
 	"""
 	keyWait
 	end
@@ -930,8 +931,9 @@ script 126 mmbn3 {
 		mugshot = InnWoman
 	msgOpen
 	"""
-	I think this just
-	isn't my lucky day.
+	Acho que hoje não é
+	mesmo meu dia de
+	sorte...
 	"""
 	keyWait
 	end
@@ -941,13 +943,13 @@ script 127 mmbn3 {
 		mugshot = PigtailsGirl
 	msgOpen
 	"""
-	I can hear the cards
-	telling me what to
-	play…
+	Eu posso ouvir as
+	peças me dizendo o que
+	jogar...
 	"""
 	keyWait
 	clearMsg
-	"Just kidding!"
+	"Brincadeirinha!"
 	keyWait
 	end
 }
@@ -956,15 +958,15 @@ script 128 mmbn3 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	She's now way in the
-	lead!
+	Agora ela tá disparada
+	na liderança!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Dad's second,I'm
-	third and mom's in
-	last place.
+	O papai tá em segundo
+	lugar, eu tô em terceiro
+	e a mamãe tá em último.
 	"""
 	keyWait
 	end
@@ -974,16 +976,16 @@ script 130 mmbn3 {
 		mugshot = InnMan
 	msgOpen
 	"""
-	Looks like something
-	big's going on
-	outside.
+	Parece que tá
+	acontecendo alguma
+	coisa séria lá fora.
 	"""
 	keyWait
 	clearMsg
 	"""
-	At times like this,
-	everyone should play
-	gin rummy!
+	Nessas horas, todo
+	mundo devia era jogar
+	mahjong!
 	"""
 	keyWait
 	end
@@ -993,14 +995,14 @@ script 131 mmbn3 {
 		mugshot = InnWoman
 	msgOpen
 	"""
-	Who knows what's
-	going to happen?
+	Quem sabe o que será
+	do futuro?
 	"""
 	keyWait
 	clearMsg
 	"""
-	We should have fun
-	while we still can!
+	Precisamos nos divertir
+	enquanto podemos!
 	"""
 	keyWait
 	end
@@ -1010,13 +1012,13 @@ script 132 mmbn3 {
 		mugshot = PigtailsGirl
 	msgOpen
 	"""
-	If only toppling the
-	WWW were as easy as
-	winning gin rummy!
+	Se, ao menos, deter a
+	WWW fosse tão fácil quan-
+	to vencer no mahjong!
 	"""
 	keyWait
 	clearMsg
-	"Well."
+	"Bom."
 	waitSkip
 		frames = 20
 	"."
@@ -1028,8 +1030,8 @@ script 132 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Maybe it's too much
-	to expect…
+	Talvez isso seja utópico
+	demais de imaginar...
 	"""
 	keyWait
 	end
@@ -1039,9 +1041,9 @@ script 133 mmbn3 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	The WWW should give
-	up ruling the world,
-	and play gin rummy!
+	A WWW devia esquecer
+	essa de dominar o mundo
+	e jogar mahjong!
 	"""
 	keyWait
 	end
@@ -1049,16 +1051,16 @@ script 133 mmbn3 {
 script 220 mmbn3 {
 	msgOpen
 	"""
-	This is a pay TV,set
-	up to accept Net
-	Cash
+	É uma TV monetária.
+	Ela é configurada para
+	aceitar NetMoeda.
 	"""
 	keyWait
 	clearMsg
 	"""
-	It has a port for
-	jacking in,to accept
-	payment
+	Tem uma entrada para
+	se conectar. Para
+	recolher pagamento.
 	"""
 	keyWait
 	end
@@ -1071,9 +1073,9 @@ script 221 mmbn3 {
 		jumpIfOutOfRange = continue
 	msgOpen
 	"""
-	These giant jars are
-	finely crafted and
-	smooth to the touch
+	Estes vasos gigantes
+	são lisinhos e elengante-
+	mente moldados.
 	"""
 	keyWait
 	end
@@ -1081,9 +1083,9 @@ script 221 mmbn3 {
 script 222 mmbn3 {
 	msgOpen
 	"""
-	A cool-looking
-	calendar with a
-	dynamic design
+	Um calendário maneiro,
+	com um desenho bem
+	dinâmico.
 	"""
 	keyWait
 	end
@@ -1091,9 +1093,9 @@ script 222 mmbn3 {
 script 223 mmbn3 {
 	msgOpen
 	"""
-	There are matching
-	pillows,sheets and
-	blankets in here
+	Aqui, há travesseiros,
+	lençóis e cobertores
+	combinando.
 	"""
 	keyWait
 	end
@@ -1101,9 +1103,9 @@ script 223 mmbn3 {
 script 224 mmbn3 {
 	msgOpen
 	"""
-	Outside the window,
-	a chain of green
-	mountains is visible
+	Pela janela, você
+	observa uma fileira de
+	montanhas verdinhas.
 	"""
 	keyWait
 	end
@@ -1111,15 +1113,15 @@ script 224 mmbn3 {
 script 225 mmbn3 {
 	msgOpen
 	"""
-	There is cold tea in
-	the cup on the table
+	A copo na mesa contém
+	chá frio.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Somebody must have
-	been drinking it,but
-	then had to leave
+	Alguém devia estar
+	tomando, mas teve que
+	sair antes de terminar.
 	"""
 	keyWait
 	end
@@ -1147,8 +1149,8 @@ script 226 mmbn3 {
 	mugshotHide
 	msgOpen
 	"""
-	There's something
-	under the desk
+	Tem alguma coisa
+	debaixo de mesa.
 	"""
 	keyWait
 	clearMsg
@@ -1158,7 +1160,7 @@ script 226 mmbn3 {
 		item = 11
 		amount = 1
 	"""
-	Lan got:
+	Lan adquiriu:
 	"
 	"""
 	printItem
@@ -1175,55 +1177,54 @@ script 226 mmbn3 {
 script 227 mmbn3 {
 	msgOpen
 	"""
-	The room has been
-	partitioned off by
-	sliding doors
+	O quarto está separado
+	por portas de correr.
 	"""
 	keyWait
 	end
 }
 script 228 mmbn3 {
 	msgOpen
-	"ZZzzzzzz…"
+	"ZZzzzzzz..."
 	keyWait
 	end
 }
 script 229 mmbn3 {
 	msgOpen
-	"Zzzznkkk…"
+	"Zzzznronc..."
 	keyWait
 	end
 }
 script 230 mmbn3 {
 	msgOpen
-	"There's no one here"
+	"Não há ninguém aqui."
 	keyWait
 	end
 }
 script 231 mmbn3 {
 	msgOpen
-	"ZZZ…"
+	"ZZZ..."
 	keyWait
 	end
 }
 script 232 mmbn3 {
 	msgOpen
-	"Snort!"
+	"Rronc!"
 	keyWait
 	end
 }
 script 233 mmbn3 {
 	msgOpen
-	"Grind! Grind!"
+	"Ronc-fiu! Ronc-fiu!"
 	keyWait
 	end
 }
 script 234 mmbn3 {
 	msgOpen
 	"""
-	The inn's tea is
-	known to be quite
-	relaxing
+	O chá da pousada é
+	conhecido por ser muito
+	relaxante.
 	"""
 	keyWait
 	end
@@ -1233,15 +1234,15 @@ script 235 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	This is the bag that
-	the salesman was
-	talking about!
+	É a bolsa de que
+	aquele vendedor tava
+	falando!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Back to ACDC
-	Station!
+	Bom, de volta à Estação
+	ACDC!
 	"""
 	keyWait
 	end
@@ -1249,16 +1250,15 @@ script 235 mmbn3 {
 script 236 mmbn3 {
 	msgOpen
 	"""
-	This is a special
-	set of MegaMan cards
-	for playing gin!
+	É um tabuleiro especial
+	com peças-Navi para
+	jogar mahjong!
 	"""
 	keyWait
 	clearMsg
 	"""
-	It can be used for
-	playing other games
-	as well!
+	E pode ser usado para
+	outros jogos, também!
 	"""
 	keyWait
 	end
@@ -1266,9 +1266,9 @@ script 236 mmbn3 {
 script 237 mmbn3 {
 	msgOpen
 	"""
-	These giant jars are
-	finely crafted and
-	smooth to the touch
+	Estes vasos gigantes
+	são lisinhos e elengante-
+	mente moldados.
 	"""
 	keyWait
 	clearMsg
@@ -1278,15 +1278,15 @@ script 237 mmbn3 {
 		jumpIfFalse = continue
 	clearMsg
 	"""
-	There's something
-	shiny in one of the
-	jars!
+	Tem alguma coisa
+	brilhante dentro de um
+	dos vasos!
 	"""
 	keyWait
 	clearMsg
 	"""
-	If you can just
-	reach in…
+	Você tenta enfiar a
+	mão e pegar...
 	"""
 	keyWait
 	clearMsg
@@ -1298,7 +1298,7 @@ script 237 mmbn3 {
 	flagSet
 		flag = 4320
 	"""
-	Lan got a PowerUp:
+	Lan adquiriu um PowerUp:
 	"
 	"""
 	printItem
@@ -1310,8 +1310,8 @@ script 237 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Regular memory
-	increased by 1 MB!!
+	Memória padrão
+	aumentada em 1 MB!
 	"""
 	keyWait
 	end
@@ -1324,8 +1324,8 @@ script 240 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's read dad's
-	mail!
+	Vamos ler o e-mail do
+	papai!
 	"""
 	keyWait
 	end

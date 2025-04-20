@@ -4,10 +4,10 @@ script 0 mmbn3 {
 	mugshotShow
 		mugshot = Dex
 	msgOpen
-	"Hey,thief!"
+	"Aí, ladrão!"
 	flagSet
 		flag = 784
-	"\nStop it right there!"
+	"\nPode parar por aí!"
 	keyWait
 	end
 }
@@ -16,15 +16,16 @@ script 1 mmbn3 {
 		mugshot = Ray
 	msgOpen
 	"""
-	Kids…?
-	They saw me?
+	Crianças...?
+	Elas estavam me
+	observando?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Kids or not,nobody
-	who sees me can
-	survive!
+	Crianças ou não, ninguém
+	que me vê vive para
+	contar a história!
 	"""
 	keyWait
 	clearMsg
@@ -36,8 +37,8 @@ script 2 mmbn3 {
 		mugshot = Yai
 	msgOpen
 	"""
-	Wow. He sounds
-	pretty hard-core.
+	Nossa. Ele parece ser
+	barra pesada.
 	"""
 	keyWait
 	end
@@ -47,8 +48,8 @@ script 3 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Dex,Mayl,Yai!
-	Get back!
+	Dex, Mayl, Yai!
+	Recuem!
 	"""
 	keyWait
 	clearMsg
@@ -62,8 +63,8 @@ script 4 mmbn3 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Lan! We already said
-	this was our turn!
+	Lan! A gente já disse,
+	é a nossa vez!
 	"""
 	keyWait
 	clearMsg
@@ -77,15 +78,15 @@ script 5 mmbn3 {
 		mugshot = Ray
 	msgOpen
 	"""
-	Lan? Are you THE
-	Lan?
+	Lan? AQUELE Lan?
+	O Hikari?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Heh heh! Looks like
-	this is my lucky
-	day!
+	He he he! Parece que
+	hoje é o meu dia de
+	sorte!
 	"""
 	keyWait
 	clearMsg
@@ -97,8 +98,8 @@ script 6 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Huh? What's that
-	supposed to mean?
+	Hã? O que você quer
+	dizer com isso?
 	"""
 	keyWait
 	clearMsg
@@ -110,21 +111,21 @@ script 7 mmbn3 {
 		mugshot = Ray
 	msgOpen
 	"""
-	Your name is on my
-	organization's
-	blacklist,Lan!
+	O seu nome está na lista
+	negra da minha organi-
+	zação, Lan Hikari!
 	"""
 	keyWait
 	clearMsg
 	"""
-	If I kill you and
-	that Navi of yours,
+	Se eu matar você e
+	esse seu Navi,
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'll get a big,juicy
-	promotion!
+	com certeza receberei
+	uma ENORME promoção!
 	"""
 	keyWait
 	clearMsg
@@ -135,31 +136,31 @@ script 8 mmbn3 {
 	mugshotShow
 		mugshot = Mayl
 	msgOpen
-	"Kill Lan?"
+	"Matar o Lan?"
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
 	"""
-	・
-	We won't let you!
+	.
+	A gente não vai deixar!
 	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = Dex
-	"Lan! Stay back!"
+	"Lan! Pra trás!"
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = Yai
 	"""
-	We can do this,if
-	we work together!
+	A gente consegue, se
+	trabalharmos juntos!
 	"""
 	keyWait
 	clearMsg
@@ -171,18 +172,17 @@ script 9 mmbn3 {
 		mugshot = Ray
 	msgOpen
 	"""
-	You stupid little
-	brats!
+	Pirralhos estúpidos!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'll kill all of
-	you at once!
+	Matarei todos vocês de
+	uma só vez!
 	"""
 	keyWait
 	clearMsg
-	"FlashMan,GO!"
+	"FlashMan, ATACAR!"
 	keyWait
 	flagClear
 		flag = 784
@@ -193,8 +193,8 @@ script 10 mmbn3 {
 		mugshot = FlashMan
 	msgOpen
 	"""
-	Wheeeeee!
-	Hypno Flash!
+	Fuiiiiiiinn!
+	Clarão Hipnótico!
 	"""
 	keyWait
 	end
@@ -203,7 +203,7 @@ script 11 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Everyone!"
+	"Pessoal!"
 	keyWait
 	clearMsg
 	jump
@@ -213,7 +213,7 @@ script 12 mmbn3 {
 	mugshotShow
 		mugshot = FlashMan
 	msgOpen
-	"Wheeeeee!"
+	"Fuuuiiiiinn!"
 	keyWait
 	end
 }
@@ -223,7 +223,7 @@ script 13 mmbn3 {
 	msgOpen
 	"""
 	Dex! Mayl! Yai!
-	You all okay?
+	Vocês tão bem?
 	"""
 	keyWait
 	clearMsg
@@ -237,9 +237,9 @@ script 14 mmbn3 {
 		mugshot = Dex
 	msgOpen
 	"""
-	……
-	I'm a choo-choo!
-	Chugga,chugga!!
+	......
+	Olha o trenzinho!
+	Tchú-tchúú!
 	"""
 	keyWait
 	msgClose
@@ -253,7 +253,7 @@ script 15 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Dex!!"
+	"Dex?!"
 	keyWait
 	clearMsg
 	jump
@@ -265,7 +265,7 @@ script 16 mmbn3 {
 	mugshotShow
 		mugshot = Yai
 	msgOpen
-	"I'm a biiig swan!\n"
+	"Eu sou um graande cisne!\n"
 	playerAnimate
 		animation = 1
 	"Flap flap flap!"
@@ -282,8 +282,8 @@ script 17 mmbn3 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	Nnngh…
-	Run…Lan…
+	Nnngh...
+	Foge... Lan...
 	"""
 	keyWait
 	playerAnimate
@@ -297,9 +297,9 @@ script 18 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	They're hypnotized!
-	Lan,stay away from
-	that light!
+	Eles foram hipnotizados!
+	Lan, fica longe daquela
+	luz!
 	"""
 	keyWait
 	clearMsg
@@ -313,22 +313,22 @@ script 19 mmbn3 {
 		mugshot = FlashMan
 	msgOpen
 	"""
-	That's correct,Mega-
-	Man. If you're hit
-	by my Hypno Flash,
+	Acertou, MegaMan.
+	Quem for atingido pelo
+	meu Clarão Hipnótico
 	"""
 	keyWait
 	clearMsg
 	"""
-	you'll be hypnotized
-	until I get deleted!
+	é hipnotizado até eu ser
+	deletado!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Now that I'm done
-	with them,you're
-	next!
+	Agora que já me resolvi
+	com eles, você será o
+	próximo!
 	"""
 	keyWait
 	flagClear
@@ -339,7 +339,7 @@ script 20 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Run,Lan!"
+	"Corre, Lan!"
 	keyWait
 	clearMsg
 	jump
@@ -350,9 +350,9 @@ script 21 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	No choice! I've got
-	to drop back for
-	now!
+	Droga, não tenho escolha!
+	Vou ter que recuar por
+	enquanto!
 	"""
 	keyWait
 	flagSet
@@ -365,19 +365,19 @@ script 22 mmbn3 {
 	mugshotShow
 		mugshot = Ray
 	msgOpen
-	"He got away!"
+	"Ele fugiu!"
 	keyWait
 	clearMsg
 	"""
-	Ah,well. Today's
-	mission was to steal
-	the TetraCode.
+	Ah, tanto faz. A missão
+	de hoje era roubar o
+	TetraCódigo, afinal.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I don't need to
-	waste time on him!
+	Não preciso perder
+	tempo com ele!
 	"""
 	keyWait
 	end
@@ -388,14 +388,14 @@ script 23 mmbn3 {
 	msgOpen
 	"""
 	FlashMan!
-	I'm transmitting the
-	TetraCode!
+	Vou transmitir o
+	TetraCódigo agora.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'll leave Lan and
-	MegaMan to you!
+	Deixo Lan e MegaMan
+	nas suas mãos!
 	"""
 	keyWait
 	clearMsg
@@ -406,7 +406,7 @@ script 24 mmbn3 {
 	mugshotShow
 		mugshot = FlashMan
 	msgOpen
-	"Yes,sir!"
+	"Sim, senhor!"
 	keyWait
 	end
 }

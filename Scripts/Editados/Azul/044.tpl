@@ -25,9 +25,9 @@ script 0 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	There's a port in
-	the armor! I never
-	thought of that…
+	Tem uma entrada na
+	armadura! Eu nunca
+	imaginaria...
 	"""
 	keyWait
 	end
@@ -37,9 +37,9 @@ script 1 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Now how did they
-	manage a port in
-	this cardboard?
+	Espera, COMO alguém
+	instalou uma entrada
+	em papelão?
 	"""
 	keyWait
 	end
@@ -49,9 +49,8 @@ script 2 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I guess they hit
-	this alarm if the
-	panda escapes…
+	Acho que este alarme é
+	pra caso o panda fuja...
 	"""
 	keyWait
 	end
@@ -61,9 +60,9 @@ script 3 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	So this is where the
-	door sensor is! I
-	never noticed it!
+	Então, é aqui que fica
+	o sensor da porta!
+	Eu nem reparei!
 	"""
 	keyWait
 	end
@@ -73,9 +72,9 @@ script 4 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	You can jack in to
-	this wall? What kind
-	of island is this?
+	Dá pra se conectar
+	nesta parede...? Que
+	raios de ilha é esta?!
 	"""
 	keyWait
 	end

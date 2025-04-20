@@ -4,7 +4,7 @@ script 0 mmbn3 {
 	mugshotShow
 		mugshot = Sunayama
 	msgOpen
-	"Well hello there!"
+	"Opa, oi!"
 	flagSet
 		flag = 1029
 	keyWait
@@ -27,8 +27,8 @@ script 2 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	It's that DNN
-	producer,isn't it?
+	Ah, é aquele produtor da
+	DNN, né?
 	"""
 	keyWait
 	end
@@ -38,8 +38,8 @@ script 3 mmbn3 {
 		mugshot = Sunayama
 	msgOpen
 	"""
-	What are you
-	doing here!?
+	O que você faz aqui,
+	jovem?!
 	"""
 	keyWait
 	clearMsg
@@ -51,8 +51,8 @@ script 4 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I just came to
-	get my dad to…
+	Vim visitar o meu pai pra
+	ver se...
 	"""
 	keyWait
 	clearMsg
@@ -64,16 +64,15 @@ script 5 mmbn3 {
 		mugshot = Sunayama
 	msgOpen
 	"""
-	No time,no time!
-	You need to go get
-	on the air!
+	Shiu, sem tempo!
+	Você já vai pro ar!
 	"""
 	keyWait
 	clearMsg
 	"""
-	The 2nd round of
-	the preliminaries
-	are starting!
+	A segunda rodada das
+	preliminares já vai
+	começar!
 	"""
 	keyWait
 	clearMsg
@@ -84,7 +83,7 @@ script 6 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"What? Really!?"
+	"Quê? É sério?!"
 	keyWait
 	clearMsg
 	jump
@@ -95,23 +94,23 @@ script 7 mmbn3 {
 		mugshot = Sunayama
 	msgOpen
 	"""
-	Really! Get there
-	soon,or you'll be
-	disqualified!
+	Sim, é sério! Então entra
+	logo lá, ou vai ser
+	desqualificado!
 	"""
 	keyWait
 	clearMsg
 	"""
-	But you did so well
-	in round 1,I'll
-	make sure you get
+	Mas você foi super bem
+	na primeira rodada. Com
+	certeza vai se qualificar
 	"""
 	keyWait
 	clearMsg
 	"""
-	in if you hurry to
-	SciLab Square right
-	now! Hurry,hurry!
+	se for pro SciLab Plaza
+	agora mesmo. Então, vai!
+	Vai! Eu disse VAI!
 	"""
 	keyWait
 	clearMsg
@@ -123,8 +122,8 @@ script 8 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I'm not really
-	prepared,but…OK!
+	Er, eu não tô preparado
+	direito, mas... tá bom!
 	"""
 	keyWait
 	clearMsg
@@ -136,16 +135,15 @@ script 9 mmbn3 {
 		mugshot = Sunayama
 	msgOpen
 	"""
-	Well stop chatting
-	and get going!
-	Hurry,hurry!
+	Então para de
+	conversinha e vai! VAI!
 	"""
 	keyWait
 	clearMsg
 	"""
-	We're shooting live
-	this time,so hurry!
-	I've gotta go,too!
+	Desta vez, será ao vivo,
+	então, corre! Eu também
+	tenho que correr!
 	"""
 	keyWait
 	end
@@ -155,8 +153,8 @@ script 10 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	That guy sure has a
-	lot of energy…
+	Aquele cara é um poço
+	de energia, né...?
 	"""
 	keyWait
 	clearMsg
@@ -167,7 +165,7 @@ script 11 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Yep."
+	"Aham."
 	keyWait
 	end
 }
@@ -176,8 +174,8 @@ script 12 mmbn3 {
 		mugshot = Sunayama
 	msgOpen
 	"""
-	Oh,sorry! I forgot
-	to give you this!
+	Opa, perdão! Esqueci de
+	te dar isto aqui!
 	"""
 	keyWait
 	clearMsg
@@ -192,7 +190,7 @@ script 13 mmbn3 {
 	soundPlay
 		track = 133
 	"""
-	Lan got:
+	Lan adquiriu:
 	"
 	"""
 	printItem
@@ -211,8 +209,8 @@ script 14 mmbn3 {
 		mugshot = Sunayama
 	msgOpen
 	"""
-	No time to explain!
-	Hurry,hurry!
+	Não tenho tempo pra
+	explicar! Só vai! VAI!
 	"""
 	keyWait
 	end
@@ -221,7 +219,7 @@ script 15 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"What should we do?"
+	"O que a gente faz?"
 	keyWait
 	clearMsg
 	jump
@@ -232,9 +230,8 @@ script 16 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Well,we sure don't
-	want to be
-	disqualified!
+	Bom, a gente não quer
+	ser desqualificado!
 	"""
 	keyWait
 	clearMsg
@@ -246,9 +243,9 @@ script 17 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	No way!
-	Well,then,let's
-	hurry,hurry!
+	Não mesmo! Bom, nesse
+	caso, a gente tem que ir!
+	Vai! VAI!
 	"""
 	keyWait
 	clearMsg
@@ -260,8 +257,8 @@ script 18 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Enough with the
-	"hurry,hurry",OK!?
+	Chega desse papo de
+	"vai, vai", caramba!
 	"""
 	keyWait
 	end

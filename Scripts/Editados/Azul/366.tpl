@@ -4,7 +4,7 @@ script 0 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"An earthquake!"
+	"Um terremoto!"
 	keyWait
 	clearMsg
 	jump
@@ -13,7 +13,7 @@ script 0 mmbn3 {
 script 1 mmbn3 {
 	mugshotHide
 	msgOpen
-	"Grkkgrrrchkchkk!!"
+	"Grrghgharghghrrrgh!!"
 	keyWait
 	end
 }
@@ -22,9 +22,9 @@ script 2 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Whoa!
-	This tremor is
-	massive!
+	Caramba!
+	Esse tremor é dos
+	grandes!
 	"""
 	keyWait
 	end
@@ -38,7 +38,7 @@ script 3 mmbn3 {
 		track = 257
 	flagSet
 		flag = 2097
-	"Crack!!"
+	"Crec!!"
 	flagSet
 		flag = 2096
 	soundEnableTextSFX
@@ -51,14 +51,14 @@ script 4 mmbn3 {
 	msgOpen
 	"""
 	Lan!
-	The path tore open!
+	O caminho se partiu!
 	"""
 	keyWait
 	clearMsg
 	"""
-	If I had taken one
-	more step,I might
-	have been a goner!
+	Se eu tivesse dado só
+	mais um passo, teria sido
+	o meu fim!
 	"""
 	keyWait
 	clearMsg
@@ -70,15 +70,14 @@ script 5 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan! Are you OK?
-	We'll have to head
-	back the way we came
+	MegaMan! Você tá bem?
 	"""
 	keyWait
 	clearMsg
 	"""
-	and find another
-	route!
+	Vamos ter que voltar
+	por onde viemos e achar
+	outro caminho!
 	"""
 	keyWait
 	clearMsg
@@ -89,20 +88,19 @@ script 6 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Right!"
+	"Beleza!"
 	keyWait
 	clearMsg
 	"""
-	But…I've never heard
-	of an earthquake in
-	Cyberworld!
+	Mas... eu nunca ouvi
+	falar de terremotos no
+	Mundo Cibernético!
 	"""
 	keyWait
 	clearMsg
 	"""
-	There must be some
-	incredible force at
-	work here.
+	Deve haver uma força
+	absurda em ação aqui.
 	"""
 	keyWait
 	clearMsg
@@ -114,9 +112,8 @@ script 7 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	An incredible force?
-	I wonder what it
-	could be…
+	Uma força absurda?
+	O que poderia ser...?
 	"""
 	keyWait
 	clearMsg
@@ -127,25 +124,26 @@ script 8 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"I don't know."
+	"Eu não sei."
 	keyWait
 	clearMsg
 	"""
-	I have no idea what
-	may happen next.
-	"""
-	keyWait
-	clearMsg
-	"""
-	Still,we have to
-	find FlamMan
-	immediately!
+	Não faço ideia do que
+	pode acontecer a partir
+	de agora.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Come on,Lan!
-	Let's go!
+	Mas não importa: ainda
+	temos que achar o
+	FlameMan, agora!
+	"""
+	keyWait
+	clearMsg
+	"""
+	Vamos nessa, Lan!
+	Seguindo em frente!
 	"""
 	keyWait
 	clearMsg
@@ -156,7 +154,7 @@ script 9 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Yeah!"
+	"É!"
 	keyWait
 	end
 }

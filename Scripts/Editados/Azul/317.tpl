@@ -5,9 +5,9 @@ script 0 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan! Wake up! It's
-	morning! If we don't
-	hurry,we'll be late!
+	Lan! Acorda! Já amanhe-
+	ceu! Se não corrermos,
+	vamos nos atrasar!
 	"""
 	keyWait
 	end
@@ -17,9 +17,9 @@ script 1 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Nngh…School again?
-	It's tough being an
-	elementary student!
+	Nngh... Escola de novo?
+	Ninguém merece ser aluno
+	do fundamental, viu?
 	"""
 	keyWait
 	clearMsg
@@ -31,9 +31,9 @@ script 2 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	You'll probably be
-	the last one to
-	class again today.
+	Você vai acabar sendo
+	o último a chegar hoje,
+	de novo.
 	"""
 	keyWait
 	clearMsg
@@ -44,12 +44,12 @@ script 3 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Aw,shut up!"
+	"Ah, cala a boca!"
 	keyWait
 	clearMsg
 	"""
-	Come on,we'd better
-	hurry!
+	Vamos, melhor a gente
+	correr!
 	"""
 	keyWait
 	end

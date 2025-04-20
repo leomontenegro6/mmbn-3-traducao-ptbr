@@ -4,7 +4,7 @@ script 0 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Hurry up,Dex!"
+	"Acelera aí, Dex!"
 	keyWait
 	clearMsg
 	jump
@@ -15,8 +15,9 @@ script 1 mmbn3 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Hold on! Now,where
-	did I put it?
+	Não me apressa! Tá,
+	onde foi mesmo que eu
+	botei...?
 	"""
 	keyWait
 	clearMsg
@@ -32,9 +33,9 @@ script 1 mmbn3 {
 	wait
 		frames = 30
 	"""
-	Gasp!
-	I can't find my
-	disk!
+	 Agh!
+	Não tô achando o meu
+	CD!
 	"""
 	keyWait
 	end
@@ -43,7 +44,8 @@ script 2 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Look closer!"
+	"Procura com mais
+	atenção!"
 	keyWait
 	clearMsg
 	jump
@@ -55,13 +57,13 @@ script 3 mmbn3 {
 	mugshotShow
 		mugshot = Dex
 	msgOpen
-	"No. "
+	"Não. "
 	wait
 		frames = 90
-	"Nope."
+	"Nada."
 	wait
 		frames = 60
-	"\nWhere IS it?"
+	"\nCADÊ ele?"
 	keyWait
 	end
 }
@@ -70,9 +72,8 @@ script 4 mmbn3 {
 		mugshot = Yai
 	msgOpen
 	"""
-	Knowing you,you
-	probably dropped
-	it somewhere!
+	Conhecendo você, deve
+	ter deixado cair por aí.
 	"""
 	keyWait
 	end
@@ -82,9 +83,9 @@ script 5 mmbn3 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	Well,we'll help you
-	look. Any idea where
-	it might be?
+	Bom, a gente ajuda a
+	procurar. Algum palpite
+	de onde possa estar?
 	"""
 	keyWait
 	clearMsg
@@ -96,9 +97,9 @@ script 6 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Try to remember what
-	you did since you
-	got the disk today!
+	Tenta lembrar o que
+	você fez depois de
+	receber o CD hoje!
 	"""
 	keyWait
 	clearMsg
@@ -110,9 +111,9 @@ script 7 mmbn3 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Um,let's see…
-	I was hanging out by
-	Mayl or Yai's desk.
+	Hm, xô ver...
+	Bati papo na carteira da
+	Mayl... ou na da Yai.
 	"""
 	keyWait
 	clearMsg
@@ -123,7 +124,7 @@ script 8 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Which one?"
+	"Qual das duas?"
 	keyWait
 	clearMsg
 	jump
@@ -134,9 +135,8 @@ script 9 mmbn3 {
 		mugshot = Yai
 	msgOpen
 	"""
-	Weren't you playing
-	with the animal
-	cages today?
+	Você não brincou com as
+	gaiolas dos animais hoje?
 	"""
 	keyWait
 	end
@@ -146,9 +146,8 @@ script 10 mmbn3 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	Weren't you doodling
-	on the blackboard,
-	too?
+	E você também desenhou
+	no quadro, não foi?
 	"""
 	keyWait
 	end
@@ -158,8 +157,9 @@ script 11 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Didn't you see the
-	books on the locker?
+	E também mexeu nos
+	livros da estante,
+	não foi?
 	"""
 	keyWait
 	end
@@ -177,8 +177,8 @@ script 12 mmbn3 {
 	flagClear
 		flag = 778
 	"""
-	You're confusing me
-	even more!
+	Vocês só tão me
+	confundindo mais!
 	"""
 	keyWait
 	clearMsg
@@ -190,9 +190,9 @@ script 13 mmbn3 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	Anyway,let's go to
-	the places you can
-	remember going to.
+	Enfim, vamos conferir os
+	lugares em que você
+	lembra ter ido.
 	"""
 	keyWait
 	clearMsg
@@ -204,9 +204,9 @@ script 14 mmbn3 {
 		mugshot = Yai
 	msgOpen
 	"""
-	Guess we have to.
-	You'd better be
-	appreciative,Dex!
+	Acho que é o jeito.
+	É bom você ficar muití-
+	ssimo grato, Dex!
 	"""
 	keyWait
 	clearMsg
@@ -218,8 +218,8 @@ script 15 mmbn3 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Sorry,guys. Thanks
-	in advance!
+	Foi mal, galera.
+	E já agradeço adiantado!
 	"""
 	keyWait
 	end

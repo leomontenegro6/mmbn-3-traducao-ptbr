@@ -5,16 +5,15 @@ script 0 mmbn3 {
 		mugshot = GirlNaviOrange
 	msgOpen
 	"""
-	Oh,you're one of the
-	contestants in the
-	Grand Prix,right?
+	Ah, você é um dos
+	participantes do N1, né?
 	"""
 	keyWait
 	clearMsg
 	"""
-	We'll interview you
-	later,so please wait
-	over there.
+	A gente vai te entrevis-
+	tar já já.
+	Por favor, espere ali.
 	"""
 	keyWait
 	end
@@ -23,10 +22,10 @@ script 1 mmbn3 {
 	mugshotShow
 		mugshot = PurpleNavi
 	msgOpen
-	"OK! We're on in…"
+	"OK! Transmitindo em..."
 	keyWait
 	clearMsg
-	"5…4…3…2…1…"
+	"5... 4... 3... 2..."
 	keyWait
 	clearMsg
 	jump
@@ -37,30 +36,29 @@ script 2 mmbn3 {
 		mugshot = GirlNaviOrange
 	msgOpen
 	"""
-	Hello everyone! This
-	week's "My Neighbor,
-	my NetBattler" will
+	Fala, galera! O "NetLuta
+	Espetacular" de hoje
+	será especial:
 	"""
 	keyWait
 	clearMsg
 	"""
-	focus on the N1
-	Grand Prix!
-	We will be showing
+	vamos cobrir todos os
+	detalhes do Grande
+	Prêmio N1!
 	"""
 	keyWait
 	clearMsg
 	"""
-	you what's going on
-	behind the scenes,
-	beginning with
+	E o melhor detalhe são
+	os bastidores, claro,
 	"""
 	keyWait
 	clearMsg
 	"""
-	interviews with
-	actual N1
-	contestants!
+	então, vamos entrevistar
+	alguns dos participantes
+	para vocês!
 	"""
 	keyWait
 	end
@@ -70,16 +68,16 @@ script 3 mmbn3 {
 		mugshot = GirlNaviOrange
 	msgOpen
 	"""
-	Welcome,contestants!
-	Please tell us your
-	name,and give the
+	Bem-vindos, competidores!
+	Podem nos dizer seus
+	nomes e dar uma rápida
 	"""
 	keyWait
 	clearMsg
 	"""
-	audience a brief
-	remark. Let's start
-	with the blue Navi!
+	mensagem pros nossos
+	telespectadores? Hm...
+	Navi Azul, você começa!
 	"""
 	keyWait
 	clearMsg
@@ -91,15 +89,14 @@ script 4 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Uh,er…my name is
-	MegaMan.
+	Ah, er... o-o meu nome
+	é MegaMan.EXE.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'm going to try my
-	best to win
-	tomorrow.
+	Pretendo dar tudo de
+	mim amanhã pra vencer.
 	"""
 	keyWait
 	clearMsg
@@ -111,15 +108,15 @@ script 5 mmbn3 {
 		mugshot = GirlNaviOrange
 	msgOpen
 	"""
-	Thank you very much,
-	and good luck!
+	Muito obrigada, MegaMan,
+	e muito boa sorte!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Now let's hear from
-	the large Navi next
-	to MegaMan.
+	Agora, vamos conhecer
+	o Navi grandão que está
+	ao lado do MegaMan.
 	"""
 	keyWait
 	clearMsg
@@ -131,16 +128,16 @@ script 6 mmbn3 {
 		mugshot = GutsMan
 	msgOpen
 	"""
-	I-I-I-I-I'm-m…
-	G-G-G-Gu-G-Gu-Guts…
+	E-e-e-e-e-eu s-s-ou...
+	o-o-o G-G-G-Gu-G-Guts...
 	G-GutsM-Man!
 	"""
 	keyWait
 	clearMsg
 	"""
-	T-t-tomorrow…
-	I-I'm g-go-gon-na…
-	G-G-Guts…
+	A-a-a-amanhã...
+	E-eu v-v-vo-vou...
+	G-G-Guts...
 	"""
 	keyWait
 	end
@@ -149,23 +146,23 @@ script 7 mmbn3 {
 	mugshotShow
 		mugshot = PurpleNavi
 	msgOpen
-	"Oh no!"
+	"Essa não!"
 	keyWait
 	clearMsg
-	"This just in!"
-	keyWait
-	clearMsg
-	"""
-	Frenzied fans have
-	gotten out of
-	control in the Beach
-	"""
+	"Notícia urgente!"
 	keyWait
 	clearMsg
 	"""
-	Area! If we can get
-	an on-site report,
-	it'll be a scoop!
+	Fãs enlouquecidos
+	saíram do controle na
+	Área Angra!
+	"""
+	keyWait
+	clearMsg
+	"""
+	E, se cobrirmos isso em
+	primeira mão...
+	vai ser um furo!
 	"""
 	keyWait
 	clearMsg
@@ -177,16 +174,14 @@ script 8 mmbn3 {
 		mugshot = GirlNaviOrange
 	msgOpen
 	"""
-	I bet we might even
-	get an
-	Employee Award
+	Podemos até virar
+	funcionários do mês por
+	cobrir algo assim!
 	"""
 	keyWait
 	clearMsg
 	"""
-	for covering
-	something like this!
-	Quick! Let's go!
+	Rápido! Vamos lá!
 	"""
 	keyWait
 	end
@@ -196,15 +191,15 @@ script 9 mmbn3 {
 		mugshot = GutsMan
 	msgOpen
 	"""
-	Hold your horses!
-	My interview isn't
-	over yet!
+	E-ei, espera aí!
+	A minha entrevista
+	ainda não acabou, Guts!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Hold up! GutsMan's
-	going too! Yee-haaw!
+	Volta aqui! O GutsMan
+	também vai! Guuuuuts!
 	"""
 	keyWait
 	end
@@ -214,16 +209,16 @@ script 10 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan! GutsMan took
-	off after the TV
-	crew! They said the
+	Lan! O GutsMan saiu
+	correndo atrás da
+	equipe de filmagem!
 	"""
 	keyWait
 	clearMsg
 	"""
-	NetBattle fans are
-	out of control! I'm
-	a little worried.
+	Disseram que fãs de
+	NetLuta saíram do con-
+	trole. Tô preocupado...
 	"""
 	keyWait
 	clearMsg
@@ -235,9 +230,9 @@ script 11 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Now what? All right,
-	MegaMan,let's go
-	check it out.
+	E agora...? Beleza,
+	MegaMan, vamos lá
+	conferir!
 	"""
 	keyWait
 	clearMsg
@@ -248,7 +243,7 @@ script 12 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Roger!"
+	"Tá!"
 	keyWait
 	end
 }

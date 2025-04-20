@@ -28,9 +28,8 @@ script 2 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	Channel 8:
-	"Love & Loss on the
-	Net"
+	Canal 8:
+	"Rede Nostra".
 	"""
 	keyWait
 	end
@@ -52,7 +51,7 @@ script 4 mmbn3 {
 	msgOpen
 	"""
 	Channel 36:
-	"Netopia Chronicles:
+	"Ameropa Chronicles:
 	A One-Week Vacation"
 	"""
 	keyWait
@@ -198,8 +197,8 @@ script 192 mmbn3 {
 		color = 2
 		amount = 1
 	"""
-	MegaMan got a Navi
-	Customizer program:
+	Adquiriu um programa do
+	Customizador de Navi:
 	"
 	"""
 	printNaviCustProgram
@@ -232,7 +231,7 @@ script 192 mmbn3 {
 	playerAnimate
 		animation = 24
 	"""
-	MegaMan got:
+	MegaMan adquiriu:
 	"
 	"""
 	printItem
@@ -272,8 +271,8 @@ script 194 mmbn3 {
 script 230 mmbn3 {
 	msgOpen
 	"""
-	MegaMan accessed the
-	mystery data.
+	MegaMan acessou os
+	dados misteriosos.
 	"""
 	wait
 		frames = 10
@@ -295,8 +294,7 @@ script 230 mmbn3 {
 		code = *
 		amount = 1
 	"""
-	MegaMan got a chip
-	for
+	MegaMan adquiriu o chip
 	"
 	"""
 	printChip

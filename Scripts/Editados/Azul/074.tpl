@@ -49,9 +49,9 @@ script 30 mmbn3 {
 		mugshot = MetrolineMan
 	msgOpen
 	"""
-	The panicked people
-	were a lot scarier
-	than the animals!
+	As pessoas em pânico
+	deram muito mais medo
+	que os animais!
 	"""
 	keyWait
 	end
@@ -75,15 +75,15 @@ script 31 mmbn3 {
 		mugshot = BlueShirtBoy
 	msgOpen
 	"""
-	They never did solve
-	that zoo incident.
+	Nunca fecharam aquele
+	caso do zoológico pra
+	valer.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I wonder what the
-	perpetrator's
-	motives were?
+	Qual será que era a
+	motivação do criminoso?
 	"""
 	keyWait
 	end
@@ -93,15 +93,15 @@ script 35 mmbn3 {
 		mugshot = BlueShirtBoy
 	msgOpen
 	"""
-	Was the mascot of
-	this zoo a Navi?
+	O mascote do zoológico
+	sempre foi um Navi?
 	"""
 	keyWait
 	clearMsg
 	"""
-	I saw some guy in a
-	Navi outfit go
-	outside…
+	Eu vi um cara fantasiado
+	de Navi saindo daqui, da
+	estação...
 	"""
 	keyWait
 	end
@@ -111,16 +111,15 @@ script 40 mmbn3 {
 		mugshot = MetrolineMan
 	msgOpen
 	"""
-	I get the feeling
-	something bad's
-	going to happen.
+	Tenho o pressentimento
+	de que uma coisa ruim
+	logo vai acontecer.
 	"""
 	keyWait
 	clearMsg
 	"""
-	At times like
-	this,I'm usually
-	right…
+	E, nessas horas, eu
+	costumo estar certo...
 	"""
 	keyWait
 	end
@@ -130,16 +129,16 @@ script 45 mmbn3 {
 		mugshot = BlueShirtBoy
 	msgOpen
 	"""
-	Station attendant!
-	Something bad
-	happened at the inn!
+	Atendente do metrô!
+	Aconteceu uma coisa
+	muito ruim na pousada!
 	"""
 	keyWait
 	clearMsg
 	"""
-	We've got to warn
-	everyone!
-	…Huh? Where'd he go?
+	A gente tem que avisar
+	todo mundo! E...
+	Ué? Cadê ele?
 	"""
 	keyWait
 	end
@@ -149,9 +148,9 @@ script 50 mmbn3 {
 		mugshot = MetrolineMan
 	msgOpen
 	"""
-	I was right not to
-	tell others about
-	the trouble…I think.
+	Eu acertei em não con-
+	tar pra ninguém sobre o
+	pressentimento... talvez.
 	"""
 	keyWait
 	end
@@ -161,9 +160,9 @@ script 51 mmbn3 {
 		mugshot = BlueShirtBoy
 	msgOpen
 	"""
-	If the bubbles blew,
-	people would've been
-	even more panicked!
+	Se as bolhas explodissem,
+	as pessoas teriam ficado
+	em ainda mais pânico!
 	"""
 	keyWait
 	end
@@ -173,9 +172,9 @@ script 60 mmbn3 {
 		mugshot = MetrolineMan
 	msgOpen
 	"""
-	Everyone's excited
-	about the N1. I'd
-	like to go,too.
+	Estão todos animados
+	para o N1. Bem que eu
+	gostaria de ir, também.
 	"""
 	keyWait
 	end
@@ -185,16 +184,15 @@ script 61 mmbn3 {
 		mugshot = Girl
 	msgOpen
 	"""
-	Official NetBattlers
-	are in the N1,too,
-	right?
+	Tem NetLutadores
+	Oficiais no N1 também,
+	né?
 	"""
 	keyWait
 	clearMsg
 	"""
-	I don't think anyone
-	will be able to beat
-	them.
+	Duvido que alguém vá
+	conseguir vencê-los.
 	"""
 	keyWait
 	end
@@ -204,9 +202,9 @@ script 62 mmbn3 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	Have you bought any
-	wafer chocolates
-	from that kiosk?
+	Cê já comprou um wafer
+	de chocolate nesta
+	lojinha aqui?
 	"""
 	keyWait
 	clearMsg
@@ -218,7 +216,7 @@ script 62 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Not yet "
+	"   Ainda não "
 	option
 		left = 0
 		right = 0
@@ -226,7 +224,7 @@ script 62 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes"
+	"           Sim"
 	select
 		default = 0
 		BSeparate = false
@@ -237,32 +235,32 @@ script 62 mmbn3 {
 			jump = 63,
 			jump = continue
 		]
+	clearMsg
 	mugshotShow
 		mugshot = OrangeShirtBoy
 	"""
-	The packages contain
-	papers with lotto
-	numbers.
+	As embalagens têm
+	números de loteria.
 	"""
 	keyWait
 	clearMsg
 	"""
-	You can enter them
-	in the number trader
-	at Higsby's in ACDC!
+	Dá pra usar eles no
+	Troca-Números na loja
+	do Higsby, em ACDC!
 	"""
 	keyWait
 	clearMsg
 	"""
-	If you have a
-	winning number,you
-	get a prize!
+	E, se você tirar o
+	número premiado, leva
+	um prêmio pra casa!
 	"""
 	keyWait
 	clearMsg
 	"""
-	If not,you don't get
-	anything.
+	Se não tirar...
+	não leva nada.
 	"""
 	keyWait
 	end
@@ -272,9 +270,9 @@ script 63 mmbn3 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	They're delicious &
-	have lotto numbers!
-	You can't go wrong!
+	Eles são uma delícia, e
+	têm números de loteria!
+	Só sucesso!
 	"""
 	keyWait
 	end
@@ -284,14 +282,14 @@ script 65 mmbn3 {
 		mugshot = MetrolineMan
 	msgOpen
 	"""
-	Everyone seems to
-	have gone to the N1.
+	Parece que todos foram
+	para o N1.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Thanks to that,this
-	place is deserted!
+	Graças a isso, este
+	lugar está deserto!
 	"""
 	keyWait
 	end
@@ -301,16 +299,15 @@ script 70 mmbn3 {
 		mugshot = MetrolineMan
 	msgOpen
 	"""
-	There was a lot of
-	commotion with the
-	zoo and bubble
+	Houve muita comoção
+	com os incidentes do
+	zoológico e das bolhas,
 	"""
 	keyWait
 	clearMsg
 	"""
-	incidents,but peace
-	has returned to Yoka
-	at last.
+	mas a paz, enfim, voltou
+	a Yoka.
 	"""
 	keyWait
 	end
@@ -320,16 +317,15 @@ script 90 mmbn3 {
 		mugshot = MetrolineMan
 	msgOpen
 	"""
-	I heard there was a
-	crisis at the
-	hospital.
+	Ouvi falar que houve
+	uma crise no hospital.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I just hope no more
-	incidents happen in
-	Yoka…
+	Eu só espero que não
+	haja mais nenhum
+	incidente em Yoka...
 	"""
 	keyWait
 	end
@@ -339,9 +335,9 @@ script 95 mmbn3 {
 		mugshot = MetrolineMan
 	msgOpen
 	"""
-	Whew…! The Metroline
-	is safe! The crisis
-	seems to be over.
+	Ufa...! A Metrolinha está
+	a salvo! A crise parece
+	ter passado.
 	"""
 	keyWait
 	end
@@ -351,16 +347,16 @@ script 100 mmbn3 {
 		mugshot = MetrolineMan
 	msgOpen
 	"""
-	Most people are fed
-	up with the danger,
-	and have left Yoka.
+	A maioria dos cidadãos
+	se cansou do perigo
+	e deixou Yoka.
 	"""
 	keyWait
 	clearMsg
 	"""
-	They've suffered so
-	much. I guess it's
-	a natural reaction…
+	Eles sofreram muito.
+	Acho que é uma reação
+	natural...
 	"""
 	keyWait
 	end
@@ -370,16 +366,15 @@ script 110 mmbn3 {
 		mugshot = MetrolineMan
 	msgOpen
 	"""
-	It's my job to carry
-	passengers on the
-	Metroline,no matter
+	É meu dever transportar
+	passageiros na Metroli-
+	nha, haja o que houver!
 	"""
 	keyWait
 	clearMsg
 	"""
-	what! I won't let
-	them shut the
-	Metroline down!
+	Não vou deixar que
+	fechem a Metrolinha!
 	"""
 	keyWait
 	end
@@ -423,9 +418,9 @@ script 150 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Lotto number:
+	Número de loteria:
 	"86508964".
-	Let's not forget!
+	Não vamos esquecer!
 	"""
 	keyWait
 	end
@@ -435,9 +430,9 @@ script 151 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Lotto number:
+	Número de loteria:
 	"24586483".
-	Let's not forget!
+	Não vamos esquecer!
 	"""
 	keyWait
 	end
@@ -447,9 +442,9 @@ script 152 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Lotto number:
+	Número de loteria:
 	"35331089".
-	Let's not forget!
+	Não vamos esquecer!
 	"""
 	keyWait
 	end
@@ -459,9 +454,9 @@ script 153 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Lotto number:
+	Número de loteria:
 	"31549798".
-	Let's not forget!
+	Não vamos esquecer!
 	"""
 	keyWait
 	end
@@ -471,9 +466,9 @@ script 154 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Lotto number:
+	Número de loteria:
 	"73984011".
-	Let's not forget!
+	Não vamos esquecer!
 	"""
 	keyWait
 	end
@@ -483,9 +478,9 @@ script 155 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Lotto number:
+	Número de loteria:
 	"66720934".
-	Let's not forget!
+	Não vamos esquecer!
 	"""
 	keyWait
 	end
@@ -495,9 +490,9 @@ script 156 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Lotto number:
+	Número de loteria:
 	"51290021".
-	Let's not forget!
+	Não vamos esquecer!
 	"""
 	keyWait
 	end
@@ -507,9 +502,9 @@ script 157 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Lotto number:
+	Número de loteria:
 	"91027364".
-	Let's not forget!
+	Não vamos esquecer!
 	"""
 	keyWait
 	end
@@ -540,9 +535,9 @@ script 158 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Lotto number:
+	Número de loteria:
 	"23415891".
-	Let's not forget!
+	Não vamos esquecer!
 	"""
 	keyWait
 	end
@@ -552,9 +547,9 @@ script 159 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Lotto number:
+	Número de loteria:
 	"63997824".
-	Let's not forget!
+	Não vamos esquecer!
 	"""
 	keyWait
 	end
@@ -564,9 +559,9 @@ script 160 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Lotto number:
+	Número de loteria:
 	"87824510".
-	Let's not forget!
+	Não vamos esquecer!
 	"""
 	keyWait
 	end
@@ -576,9 +571,9 @@ script 161 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Lotto number:
+	Número de loteria:
 	"01697824".
-	Let's not forget!
+	Não vamos esquecer!
 	"""
 	keyWait
 	end
@@ -588,9 +583,9 @@ script 162 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Lotto number:
+	Número de loteria:
 	"72938474".
-	Let's not forget!
+	Não vamos esquecer!
 	"""
 	keyWait
 	end
@@ -600,9 +595,9 @@ script 163 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Lotto number:
+	Número de loteria:
 	"09817262".
-	Let's not forget!
+	Não vamos esquecer!
 	"""
 	keyWait
 	end
@@ -612,9 +607,9 @@ script 164 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Lotto number:
+	Número de loteria:
 	"63345398".
-	Let's not forget!
+	Não vamos esquecer!
 	"""
 	keyWait
 	end
@@ -624,9 +619,9 @@ script 165 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Lotto number:
+	Número de loteria:
 	"31912830".
-	Let's not forget!
+	Não vamos esquecer!
 	"""
 	keyWait
 	end
@@ -657,9 +652,9 @@ script 166 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Lotto number:
+	Número de loteria:
 	"67918452".
-	Let's not forget!
+	Não vamos esquecer!
 	"""
 	keyWait
 	end
@@ -669,9 +664,9 @@ script 167 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Lotto number:
+	Número de loteria:
 	"05088930".
-	Let's not forget!
+	Não vamos esquecer!
 	"""
 	keyWait
 	end
@@ -681,9 +676,9 @@ script 168 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Lotto number:
+	Número de loteria:
 	"15789208".
-	Let's not forget!
+	Não vamos esquecer!
 	"""
 	keyWait
 	end
@@ -693,9 +688,9 @@ script 169 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Lotto number:
+	Número de loteria:
 	"41465278".
-	Let's not forget!
+	Não vamos esquecer!
 	"""
 	keyWait
 	end
@@ -705,9 +700,9 @@ script 170 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Lotto number:
+	Número de loteria:
 	"42312003".
-	Let's not forget!
+	Não vamos esquecer!
 	"""
 	keyWait
 	end
@@ -717,9 +712,9 @@ script 171 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Lotto number:
+	Número de loteria:
 	"30902331".
-	Let's not forget!
+	Não vamos esquecer!
 	"""
 	keyWait
 	end
@@ -729,9 +724,9 @@ script 172 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Lotto number:
+	Número de loteria:
 	"01928736".
-	Let's not forget!
+	Não vamos esquecer!
 	"""
 	keyWait
 	end
@@ -741,9 +736,9 @@ script 173 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Lotto number:
+	Número de loteria:
 	"56098914".
-	Let's not forget!
+	Não vamos esquecer!
 	"""
 	keyWait
 	end
@@ -774,9 +769,9 @@ script 174 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Lotto number:
+	Número de loteria:
 	"56892168".
-	Let's not forget!
+	Não vamos esquecer!
 	"""
 	keyWait
 	end
@@ -786,9 +781,9 @@ script 175 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Lotto number:
+	Número de loteria:
 	"76889120".
-	Let's not forget!
+	Não vamos esquecer!
 	"""
 	keyWait
 	end
@@ -798,9 +793,9 @@ script 176 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Lotto number:
+	Número de loteria:
 	"95913876".
-	Let's not forget!
+	Não vamos esquecer!
 	"""
 	keyWait
 	end
@@ -810,9 +805,9 @@ script 177 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Lotto number:
+	Número de loteria:
 	"03284579".
-	Let's not forget!
+	Não vamos esquecer!
 	"""
 	keyWait
 	end
@@ -822,9 +817,9 @@ script 178 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Lotto number:
+	Número de loteria:
 	"23746172".
-	Let's not forget!
+	Não vamos esquecer!
 	"""
 	keyWait
 	end
@@ -834,9 +829,9 @@ script 179 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Lotto number:
+	Número de loteria:
 	"81742195".
-	Let's not forget!
+	Não vamos esquecer!
 	"""
 	keyWait
 	end
@@ -846,9 +841,9 @@ script 180 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Lotto number:
+	Número de loteria:
 	"21237803".
-	Let's not forget!
+	Não vamos esquecer!
 	"""
 	keyWait
 	end
@@ -858,9 +853,9 @@ script 181 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Lotto number:
+	Número de loteria:
 	"31146320".
-	Let's not forget!
+	Não vamos esquecer!
 	"""
 	keyWait
 	end
@@ -884,44 +879,43 @@ script 190 mmbn3 {
 		mugshot = Woman
 	msgOpen
 	"""
-	Oh,you came! You're
-	confident in your
-	ability,right?
+	Ah, você veio! Você se
+	garante nas suas
+	habilidades, né?
 	"""
 	keyWait
 	clearMsg
 	"""
-	As I posted,my son
-	has been going
-	around pulling worse
+	Como eu postei, meu
+	filho anda aprontando
+	umas brincadeiras
 	"""
 	keyWait
 	clearMsg
 	"""
-	and worse pranks.
-	Lately he's been
-	spreading viruses.
+	cada vez piores.
+	Ultimamente, ele vem
+	espalhando vírus.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'd like someone
-	strong to knock some
-	sense into him.
+	Eu queria que alguém
+	desse um sacode nele,
+	pra ele tomar jeito.
 	"""
 	keyWait
 	clearMsg
 	"""
-	He's hanging out in
-	ACDC now. Go over
-	there and give him a
+	Ele tá na área ACDC,
+	agora. Vá lá e dê um
+	puxão de orelha nele!
 	"""
 	keyWait
 	clearMsg
 	"""
-	whallop! I'm
-	counting on you to
-	set him straight!
+	Conto com você pra
+	pôr ele na linha!
 	"""
 	keyWait
 	end
@@ -931,9 +925,9 @@ script 191 mmbn3 {
 		mugshot = Woman
 	msgOpen
 	"""
-	My boy's hanging out
-	in the ACDC area.
-	I'm counting on you!
+	O meu menino está ali,
+	pela área ACDC.
+	Conto com você!
 	"""
 	keyWait
 	end
@@ -947,30 +941,30 @@ script 192 mmbn3 {
 		mugshot = Woman
 	msgOpen
 	"""
-	Hey there! So you
-	had a little talk
-	with my boy? Thanks!
+	Opa! E aí, conversou a
+	sério com o meu filho?
+	Obrigada!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I reckon I should
-	have been the one
-	talking to him,being
+	Sei que sou eu quem
+	devia ter falado com
+	ele, sendo a mãe dele,
 	"""
 	keyWait
 	clearMsg
 	"""
-	his pop. But I don't
-	know the first thing
-	about NetBattling.
+	mas não entendo nada
+	de NetLuta.
+	Aí, já viu, né?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Here's something for
-	your troubles.
-	Thanks again!
+	Aqui está um pequeno
+	agrado pelo trabalho
+	todo. Obrigada de novo!
 	"""
 	keyWait
 	clearMsg
@@ -987,7 +981,7 @@ script 193 mmbn3 {
 	playerAnimate
 		animation = 24
 	"""
-	Lan got:
+	Lan adquiriu:
 	"
 	"""
 	printItem
@@ -995,14 +989,14 @@ script 193 mmbn3 {
 		item = 73
 	"""
 	"!!
-	You can now rotate
+	Agora, pode rotacionar
 	"""
 	keyWait
 	clearMsg
 	"""
-	yellow program parts
-	in your NaviCust
-	w/ the L&R Buttons!
+	peças amarelas de pro-
+	grama no seu CustNavi
+	apertando "L" e "R"!
 	"""
 	playerFinish
 	playerReset
@@ -1015,9 +1009,8 @@ script 194 mmbn3 {
 		mugshot = Woman
 	msgOpen
 	"""
-	Thanks to you,my son
-	has learned his
-	lesson!
+	Graças a você, o meu
+	filho aprendeu a lição!
 	"""
 	keyWait
 	end
@@ -1028,20 +1021,22 @@ script 220 mmbn3 {
 		jumpIfTrue = 240
 		jumpIfFalse = continue
 	msgOpen
-	"A recycling bin"
-	keyWait
-	clearMsg
 	"""
-	This bin is designed
-	in the shape of a
-	frog
+	Uma lata de lixo para
+	recicláveis.
 	"""
 	keyWait
 	clearMsg
 	"""
-	In this day and age,
-	it's important to
-	recycle
+	Esta lixeira tem o
+	formato de um sapo.
+	"""
+	keyWait
+	clearMsg
+	"""
+	Nos dias de hoje,
+	reciclar é muito
+	importante.
 	"""
 	keyWait
 	end
@@ -1049,16 +1044,16 @@ script 220 mmbn3 {
 script 221 mmbn3 {
 	msgOpen
 	"""
-	The placement of
-	this poster was well
-	planned. It catches
+	A posição desse pôster
+	foi bem planejada. Ele
+	captura a sua atenção
 	"""
 	keyWait
 	clearMsg
 	"""
-	your eye when going
-	from the kiosk to
-	the ticket machines
+	no trajeto da lojinha
+	para a máquina de
+	venda de tíquetes.
 	"""
 	keyWait
 	end
@@ -1071,15 +1066,15 @@ script 222 mmbn3 {
 		jumpIfOutOfRange = continue
 	msgOpen
 	"""
-	Local snacks made in
-	Yoka are on display
+	Doces locais de Yoka
+	estão expostos.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Trying out different
-	snacks is one of the
-	joys of travel
+	Experimentar comidas
+	diferentes é uma das
+	dádivas de viajar.
 	"""
 	keyWait
 	end
@@ -1087,16 +1082,15 @@ script 222 mmbn3 {
 script 223 mmbn3 {
 	msgOpen
 	"""
-	Various sports
-	newspapers are
-	organized here
+	Há vários jornais de
+	esporte separados aqui.
 	"""
 	keyWait
 	clearMsg
 	"""
-	People buy them up
-	when their favorite
-	teams win
+	As pessoas os compram
+	quando os times
+	favoritos delas vencem.
 	"""
 	keyWait
 	end
@@ -1104,26 +1098,27 @@ script 223 mmbn3 {
 script 224 mmbn3 {
 	msgOpen
 	"""
-	There's a bulletin
-	by the cash register
+	Tem um quadro de
+	anúncios perto da
+	caixa registradora.
 	"""
 	keyWait
 	clearMsg
 	"""
-	"New item: Nut-wafer
-	chocolates w/lotto
-	numbers:500 Zennys!"
+	"Novidade! Wafer de cho-
+	colate com número de
+	loteria: 500 Zennys!"
 	"""
 	keyWait
 	clearMsg
 	"""
-	The treats contain
-	sweet chocolate and
-	crispy wafers
+	Como o nome sugere,
+	são biscoitos de wafer
+	com chocolate.
 	"""
 	keyWait
 	clearMsg
-	"Buy for 500 Zennys?\n"
+	"Levar por 500 Zennys?\n"
 	option
 		left = 0
 		right = 0
@@ -1131,7 +1126,7 @@ script 224 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Yes!!\n"
+	"   Sim!!\n"
 	option
 		left = 1
 		right = 1
@@ -1139,7 +1134,7 @@ script 224 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"No…"
+	"   Não..."
 	select
 		default = 0
 		BSeparate = false
@@ -1155,14 +1150,14 @@ script 224 mmbn3 {
 		jumpIfSurplus = continue
 		jumpIfExact = continue
 		jumpIfDeficit = 226
+	clearMsg
 	playerAnimate
 		animation = 24
 	soundPlay
 		track = 133
 	"""
-	Lan got:
-	"Nut-wafer
-	chocolate"!!
+	Lan adquiriu:
+	"Wafer de chocolate"!!
 	"""
 	playerFinish
 	playerAnimate
@@ -1171,33 +1166,32 @@ script 224 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Crack!
-	(Munch munch munch)
+	Crec!
+	(Nham nham nham)
 	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"This "
+	"Mas "
 	wait
 		frames = 30
-	"is "
+	"que "
 	wait
 		frames = 30
-	"the "
+	"de"
 	wait
 		frames = 30
 	"""
-	best!
-	The crispy wafers go
-	perfectly with the
+	lícia!
+	O wafer complementa
+	o chocolate tão bem!
 	"""
 	keyWait
 	clearMsg
 	"""
-	sweet chocolate! Hm?
-	There's something
-	written here!
+	Hm? Tem alguma coisa
+	escrita aqui!
 	"""
 	keyWait
 	clearMsg
@@ -1209,15 +1203,14 @@ script 225 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"I'd better not…"
+	"É melhor não..."
 	keyWait
 	end
 }
 script 226 mmbn3 {
 	msgOpen
 	"""
-	I don't have enough
-	Zennys…
+	Tô sem Zennys...
 	"""
 	keyWait
 	end
@@ -1233,7 +1226,7 @@ script 230 mmbn3 {
 		jumpIfInRange = 235
 		jumpIfOutOfRange = continue
 	msgOpen
-	"Buy a ticket to:\n"
+	"Comprar tíquete para:\n"
 	option
 		left = 1
 		right = 1
@@ -1241,7 +1234,7 @@ script 230 mmbn3 {
 		down = 2
 	space
 		count = 2
-	"ACDC Twn "
+	"   ACDC "
 	option
 		left = 0
 		right = 0
@@ -1249,7 +1242,7 @@ script 230 mmbn3 {
 		down = 2
 	space
 		count = 2
-	"SciLab\n"
+	"         SciLab\n"
 	option
 		left = 1
 		right = 1
@@ -1257,7 +1250,7 @@ script 230 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Nowhere"
+	"   Ficar"
 	select
 		default = 0
 		BSeparate = false
@@ -1281,7 +1274,7 @@ script 231 mmbn3 {
 	playerAnimate
 		animation = 24
 	"""
-	Lan got:
+	Lan adquiriu:
 	"
 	"""
 	printItem
@@ -1297,7 +1290,7 @@ script 231 mmbn3 {
 }
 script 232 mmbn3 {
 	msgOpen
-	"Change ticket?\n"
+	"Trocar de tíquete?\n"
 	option
 		left = 1
 		right = 1
@@ -1305,7 +1298,7 @@ script 232 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"   Sim "
 	option
 		left = 0
 		right = 0
@@ -1313,7 +1306,7 @@ script 232 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No"
+	"          Não"
 	select
 		default = 0
 		BSeparate = false
@@ -1340,9 +1333,8 @@ script 233 mmbn3 {
 		flag = 10
 	msgOpen
 	"""
-	Lan returned the
-	ticket he was
-	holding!
+	Lan devolveu o tíquete
+	que tinha consigo!
 	"""
 	keyWait
 	clearMsg
@@ -1355,7 +1347,7 @@ script 234 mmbn3 {
 		amount = 1
 	msgOpen
 	"""
-	Lan used:
+	Lan usou:
 	"
 	"""
 	printItem
@@ -1371,7 +1363,7 @@ script 235 mmbn3 {
 		jumpIfTrue = 232
 		jumpIfFalse = continue
 	msgOpen
-	"Buy a ticket to:\n"
+	"Comprar tíquete para:\n"
 	option
 		left = 1
 		right = 1
@@ -1379,7 +1371,7 @@ script 235 mmbn3 {
 		down = 2
 	space
 		count = 2
-	"ACDC Twn "
+	"   ACDC "
 	option
 		left = 0
 		right = 0
@@ -1387,7 +1379,7 @@ script 235 mmbn3 {
 		down = 3
 	space
 		count = 2
-	"SciLab\n"
+	"         SciLab\n"
 	option
 		left = 3
 		right = 3
@@ -1395,7 +1387,7 @@ script 235 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Beach    "
+	"   Angra "
 	option
 		left = 2
 		right = 2
@@ -1403,7 +1395,7 @@ script 235 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Nowhere"
+	"          Ficar"
 	select
 		default = 0
 		BSeparate = false
@@ -1428,7 +1420,7 @@ script 236 mmbn3 {
 	playerAnimate
 		animation = 24
 	"""
-	Lan got:
+	Lan adquiriu:
 	"
 	"""
 	printItem
@@ -1448,7 +1440,7 @@ script 237 mmbn3 {
 		amount = 1
 	msgOpen
 	"""
-	Lan used:
+	Lan usou:
 	"
 	"""
 	printItem
@@ -1468,7 +1460,7 @@ script 238 mmbn3 {
 	playerAnimate
 		animation = 24
 	"""
-	Lan got:
+	Lan adquiriu:
 	"
 	"""
 	printItem
@@ -1488,7 +1480,7 @@ script 239 mmbn3 {
 		amount = 1
 	msgOpen
 	"""
-	Lan used:
+	Lan usou:
 	"
 	"""
 	printItem
@@ -1501,23 +1493,23 @@ script 239 mmbn3 {
 script 240 mmbn3 {
 	msgOpen
 	"""
-	This garbage can for
-	empty cans is shaped
-	like a kangaroo
+	Esta lixeira de latas
+	tem o formato de um
+	cangurú.
 	"""
 	keyWait
 	clearMsg
 	"""
-	It almost seems to
-	say,"Let me take
-	that can for you!"
+	Quase parece dizer:
+	"Deixa que eu cuido
+	dessa lata pra você!"
 	"""
 	keyWait
 	clearMsg
 	"""
-	The station's gotten
-	much cleaner since
-	it was put here
+	A estação ficou bem
+	mais limpa depois que
+	colocaram ela aqui.
 	"""
 	keyWait
 	end

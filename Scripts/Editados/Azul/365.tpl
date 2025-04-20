@@ -13,8 +13,8 @@ script 1 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	What is it,MegaMan?
-	Is something wrong?
+	Que foi, MegaMan?
+	Alguma coisa errada?
 	"""
 	keyWait
 	clearMsg
@@ -28,16 +28,15 @@ script 2 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I just sensed
-	something…
-	Some kind of immense
+	Eu só senti alguma
+	coisa...
 	"""
 	keyWait
 	clearMsg
 	"""
-	power which I've
-	felt somewhere
-	before.
+	Um tipo de poder imenso
+	que eu já senti antes,
+	em algum lugar.
 	"""
 	keyWait
 	clearMsg
@@ -48,7 +47,7 @@ script 3 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Is it FlamMan?"
+	"É o FlameMan?"
 	keyWait
 	clearMsg
 	jump
@@ -59,16 +58,15 @@ script 4 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	No…
-	FlamMan doesn't emit
-	power like this.
+	Não...
+	O FlameMan não emite
+	um poder desses.
 	"""
 	keyWait
 	clearMsg
 	"""
-	It's strong enough
-	to penetrate my very
-	core!
+	É forte o bastante pra
+	afetar o meu cerne!
 	"""
 	keyWait
 	clearMsg
@@ -80,13 +78,13 @@ script 5 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Hmm…Well,whatever
-	it is,we don't have
-	time to worry now!
+	Hmm... Bom, o que quer
+	que seja, não temos
+	tempo pra isso agora!
 	"""
 	keyWait
 	clearMsg
-	"Let's keep going!"
+	"Vamos indo!"
 	keyWait
 	clearMsg
 	jump
@@ -96,7 +94,7 @@ script 6 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"R-Roger!"
+	"E-entendido!"
 	keyWait
 	end
 }

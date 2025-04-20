@@ -4,7 +4,7 @@ script 0 mmbn3 {
 	mugshotShow
 		mugshot = GirlNaviOrange
 	msgOpen
-	"Eeeeeeeeek!"
+	"Aaaaaaaahhh!"
 	keyWait
 	end
 }
@@ -13,8 +13,8 @@ script 1 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan! I heard a girl
-	scream!
+	Lan! Eu ouvi um grito de
+	mulher!
 	"""
 	keyWait
 	end
@@ -23,7 +23,7 @@ script 2 mmbn3 {
 	mugshotHide
 	msgOpen
 	soundDisableTextSFX
-	"Briiinnng!"
+	"Trrrriiiiiim!"
 	keyWait
 	soundEnableTextSFX
 	end
@@ -33,8 +33,7 @@ script 3 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,a phone call
-	from Dex!
+	Lan, ligação do Dex!
 	"""
 	keyWait
 	end
@@ -44,8 +43,8 @@ script 4 mmbn3 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Lan! Something bad's
-	going down!
+	Lan! Tá rolando alguma
+	treta aqui!
 	"""
 	keyWait
 	clearMsg
@@ -56,7 +55,7 @@ script 5 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"What's happening?!"
+	"Que treta?!"
 	keyWait
 	clearMsg
 	jump
@@ -67,9 +66,9 @@ script 6 mmbn3 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Those rioting Navis
-	surrounded GutsMan!
-	He's trapped!
+	Os Navis que endoidaram
+	cercaram o GutsMan!
+	Ele tá preso!
 	"""
 	keyWait
 	clearMsg
@@ -80,7 +79,7 @@ script 7 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Where exactly is he?"
+	"Onde ele tá?"
 	keyWait
 	clearMsg
 	jump
@@ -90,10 +89,10 @@ script 8 mmbn3 {
 	mugshotShow
 		mugshot = Dex
 	msgOpen
-	"Beach 1,by the…"
+	"Em Angra 1, perto do..."
 	keyWait
 	clearMsg
-	"Lookout! GutsMan!"
+	"Cuidado! GutsMan!"
 	keyWait
 	clearMsg
 	jump
@@ -105,22 +104,22 @@ script 9 mmbn3 {
 	soundDisableTextSFX
 	soundPlay
 		track = 284
-	"Thunk!\n"
+	"Tonc!\n"
 	soundPlay
 		track = 260
-	"Boop!"
+	"Tuu!"
 	wait
 		frames = 58
 	" "
 	soundPlay
 		track = 260
-	"Boop!"
+	"Tuu!"
 	wait
 		frames = 58
 	" "
 	soundPlay
 		track = 260
-	"Boop!"
+	"Tuu!"
 	wait
 		frames = 58
 	keyWait
@@ -134,21 +133,21 @@ script 10 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Dex was cut off!
-	What's going on
-	around GutsMan!?
+	A ligação com o Dex caiu!
+	O que tá rolando com o
+	GutsMan?!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Dex said Beach 1,
-	right?
+	O Dex disse "Angra 1",
+	né?
 	"""
 	keyWait
 	clearMsg
 	"""
-	He must be near
-	here!
+	Ele deve estar perto
+	daqui!
 	"""
 	keyWait
 	clearMsg
@@ -160,9 +159,9 @@ script 11 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	C'mon,MegaMan! Let's
-	find GutsMan and the
-	TV crew!
+	Vamos nessa, MegaMan!
+	Bora achar o GutsMan
+	e a equipe da TV!
 	"""
 	keyWait
 	end

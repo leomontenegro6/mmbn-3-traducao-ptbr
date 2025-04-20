@@ -5,14 +5,14 @@ script 0 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	What is this place?
-	A desert?
+	Que lugar é este?
+	Um deserto?
 	"""
 	keyWait
 	clearMsg
 	"""
-	We have to battle
-	here!?
+	A gente vai ter que
+	lutar aqui?!
 	"""
 	keyWait
 	end
@@ -21,15 +21,16 @@ script 1 mmbn3 {
 	mugshotHide
 	msgOpen
 	"""
-	Lan,this is called
-	the "Desert Pit".
+	Jovem Lan, esse é o
+	chamado "Fosso do
+	Deserto".
 	"""
 	keyWait
 	clearMsg
 	"""
-	Now,then,proceed!
-	Your opponent is
-	waiting.
+	Bom, prossiga!
+	Sua adversária o
+	aguarda.
 	"""
 	keyWait
 	end
@@ -39,15 +40,14 @@ script 2 mmbn3 {
 		mugshot = Tamako
 	msgOpen
 	"""
-	Hey,kid! You're
-	my opponent!? Pretty
-	intense,huh!?
+	Oi, menino! Então, você
+	é o meu oponente?
+	Intenso, hein?!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Come on,let's have
-	at it!
+	Vamos lá, vamos lutar!
 	"""
 	keyWait
 	end
@@ -56,15 +56,15 @@ script 3 mmbn3 {
 	mugshotHide
 	msgOpen
 	"""
-	Round 2 is a desert
-	battle!!
+	A Segunda Rodada é
+	uma batalha no deserto!!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Are you ready? Begin
-	the battle on my
-	mark!
+	NetLutadores, prontos?
+	A luta começará ao meu
+	sinal!
 	"""
 	keyWait
 	clearMsg
@@ -75,7 +75,7 @@ script 4 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"You ready MegaMan?"
+	"Pronto, MegaMan?"
 	keyWait
 	clearMsg
 	jump
@@ -85,7 +85,7 @@ script 5 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Roger!"
+	"Eu nasci pronto!"
 	keyWait
 	clearMsg
 	jump
@@ -96,8 +96,8 @@ script 6 mmbn3 {
 		mugshot = Tamako
 	msgOpen
 	"""
-	I'm not planning to
-	lose,y'know!
+	Eu não pretendo
+	perder, viu?
 	"""
 	keyWait
 	clearMsg
@@ -108,15 +108,15 @@ script 7 mmbn3 {
 	mugshotHide
 	msgOpen
 	"""
-	N1 Grand Prix!!
-	Battle routines,
+	Grande Prêmio N1!!
+	Rotinas
 	"""
 	waitSkip
 		frames = 30
-	"set!"
+	"de batalha...!"
 	keyWait
 	clearMsg
-	"Execute!"
+	"Executar!"
 	keyWait
 	end
 }

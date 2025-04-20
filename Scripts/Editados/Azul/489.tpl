@@ -1,91 +1,91 @@
 @size 48
 
 script 0 mmbn3s {
-	" Junko    I got it!"
+	" Junko    Comprei!"
 	end
 }
 script 1 mmbn3s {
-	" Mayumi   RE:I got it!"
+	" Mayumi   RE:Comprei!"
 	end
 }
 script 2 mmbn3s {
-	" Crosser  *(asterisk)"
+	" Cruzil   *(asterisco)"
 	end
 }
 script 3 mmbn3s {
-	" Miki     RE:I got it!"
+	" Miki     RE:Comprei!"
 	end
 }
 script 4 mmbn3s {
-	" Axel     I agree!"
+	" Axel     Concordo!"
 	end
 }
 script 5 mmbn3s {
-	" Harrun   Can't be…"
+	" Harrun   Não acredito"
 	end
 }
 script 6 mmbn3s {
-	" Koetsu   RE:*(asterisk"
+	" Koetsu   RE:*(asterisc"
 	end
 }
 script 7 mmbn3s {
-	" Ogata    Hey,Koetsu!"
+	" Ogata    Oi, Koetsu!"
 	end
 }
 script 8 mmbn3s {
-	" Heylon   Extra Folder"
+	" Heylon   Pasta Extra"
 	end
 }
 script 9 mmbn3s {
-	" Takayan  RE:Extra Fold"
+	" Takayan  RE:Pasta Extr"
 	end
 }
 script 10 mmbn3s {
-	" Koetsu   RE:Extra Fold"
+	" Koetsu   RE:Pasta Extr"
 	end
 }
 script 11 mmbn3s {
-	" Koetsu   Asterisks&PA"
+	" Koetsu   Asteriscos&PA"
 	end
 }
 script 12 mmbn3s {
-	" Poteno   Oh,come on!"
+	" Poteno   Ah, fala sério!"
 	end
 }
 script 13 mmbn3s {
-	" Nukky    You bad girl!"
+	" Nukin    Malvada!"
 	end
 }
 script 14 mmbn3s {
-	" Poteno   RE:You bad gi"
+	" Poteno   RE:Malvada"
 	end
 }
 script 15 mmbn3s {
-	" Poteno   Hah!"
+	" Poteno   Ha!"
 	end
 }
 script 16 mmbn3s {
-	" Higsby   I know that!"
+	" Higsby   Eu sei disso!"
 	end
 }
 script 17 mmbn3s {
-	" Cartan   Wow"
+	" Cartan   Caramba"
 	end
 }
 script 18 mmbn3s {
-	" Koetsu   Go easy"
+	" Koetsu   Pega leve"
 	end
 }
 script 19 mmbn3s {
-	" Tetsuya  Strange virus"
+	" Tetsuya  Vírus estranh"
 	end
 }
 script 20 mmbn3s {
-	" Yama     RE:Strange vi"
+	" Yama     RE:Vírus estr"
 	end
 }
 script 21 mmbn3s {
-	" ChunG    RE:Strange vi"
+	" ChunG    RE:Vírus estr"
 	end
 }
 script 22 mmbn3s {

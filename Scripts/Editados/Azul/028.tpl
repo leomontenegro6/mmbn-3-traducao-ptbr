@@ -11,13 +11,12 @@ script 0 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"I can't fit,Lan!"
+	"Eu não caibo, Lan!"
 	keyWait
 	clearMsg
 	"""
-	This pathway is
-	too narrow for
-	me to get through!
+	Esse caminho é estreito
+	demais para eu passar!
 	"""
 	keyWait
 	end
@@ -30,15 +29,15 @@ script 1 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Install the
+	Instale o programa
 	"
 	"""
 	printNaviCustProgram
 		buffer = 0
 		program = 20
 	"""
-	" program
-	with the NaviCust!
+	" usando o
+	CustNavi!
 	"""
 	keyWait
 	end
@@ -47,13 +46,12 @@ script 2 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"I can't fit,Lan!"
+	"Eu não caibo, Lan!"
 	keyWait
 	clearMsg
 	"""
-	This pathway is
-	too narrow for
-	me to get through!
+	Esse caminho é estreito
+	demais para eu passar!
 	"""
 	keyWait
 	end
@@ -63,15 +61,16 @@ script 3 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Huh? The Press
-	compression program
-	isn't working…
+	Hã? O programa de
+	compressão não está
+	funcionando...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Maybe something is
-	wrong with the path?
+	Será que tem alguma
+	coisa errada com o
+	caminho, mesmo?
 	"""
 	keyWait
 	end

@@ -5,9 +5,9 @@ script 0 mmbn3 {
 		mugshot = DrillMan
 	msgOpen
 	"""
-	So there you are,
-	MegaMan! Where d'ya
-	want some holes?
+	Então, aí tá você,
+	MegaMan! Onde cê quer
+	que eu bote os buracos?
 	"""
 	keyWait
 	clearMsg
@@ -19,14 +19,15 @@ script 1 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	You can't
-	hurt me!
+	Você não vai me
+	machucar!
 	"""
 	keyWait
 	clearMsg
 	"""
-	We can't lose now,
-	after coming so far!
+	Não podemos perder
+	agora, depois de chegar
+	tão longe!
 	"""
 	keyWait
 	clearMsg
@@ -38,15 +39,14 @@ script 2 mmbn3 {
 		mugshot = DrillMan
 	msgOpen
 	"""
-	That's what you
-	think!
+	Sonhar é bom, né?!
 	"""
 	keyWait
 	clearMsg
 	"""
-	But just wait until
-	I turn you into
-	swiss cheese!!
+	Espera só até eu te
+	transformar em queijo
+	suiço!!
 	"""
 	keyWait
 	clearMsg
@@ -58,19 +58,19 @@ script 3 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	You think we'll let
-	someone like YOU
-	beat us!?
+	Acha mesmo que a
+	gente vai deixar gente
+	da SUA laia nos vencer?!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Go,MegaMan!!
-	Battle routine,
+	Vai lá, MegaMan!!
+	Rotina
 	"""
 	waitSkip
 		frames = 30
-	"\nset!"
+	"\nde batalha...!"
 	keyWait
 	clearMsg
 	jump
@@ -80,7 +80,7 @@ script 4 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Execute!"
+	"Executar!"
 	keyWait
 	end
 }

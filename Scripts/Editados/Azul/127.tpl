@@ -5,22 +5,22 @@ script 20 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	Welcome to this
-	homepage!
+	Bem-vindo a esta
+	página!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'm the caretaker
-	program. GutsMan is
-	out at the moment.
+	Eu sou o programa
+	governanta. O GutsMan
+	está ausente agora.
 	"""
 	keyWait
 	clearMsg
 	"""
-	He's taking part in
-	the Endurance
-	Contest at Yoka.
+	Ele está participando do
+	Concurso de Resitência,
+	em Yoka.
 	"""
 	keyWait
 	flagSet
@@ -30,8 +30,8 @@ script 20 mmbn3 {
 script 230 mmbn3 {
 	msgOpen
 	"""
-	MegaMan accessed the
-	mystery data.
+	MegaMan acessou os
+	dados misteriosos.
 	"""
 	wait
 		frames = 10
@@ -54,7 +54,7 @@ script 230 mmbn3 {
 		jumpIfNone = continue
 		jumpIfSome = continue
 	"""
-	MegaMan got:
+	MegaMan adquiriu:
 	"200 Zennys"!!
 	"""
 	playerFinish
@@ -67,8 +67,8 @@ script 231 mmbn3 {
 		flag = 4177
 	msgOpen
 	"""
-	MegaMan accessed the
-	mystery data.
+	MegaMan acessou os
+	dados misteriosos.
 	"""
 	wait
 		frames = 10
@@ -88,8 +88,7 @@ script 231 mmbn3 {
 		code = B
 		amount = 1
 	"""
-	MegaMan got a chip
-	for
+	MegaMan adquiriu o chip
 	"
 	"""
 	printChip

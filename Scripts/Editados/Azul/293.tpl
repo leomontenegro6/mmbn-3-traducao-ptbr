@@ -5,43 +5,42 @@ script 0 mmbn3 {
 	msgOpen
 	"""
 	OK!
-	Time's up!
-	We will now lock in
+	Acabou o tempo!
 	"""
 	keyWait
 	clearMsg
 	"""
-	the folder you
-	currently have
-	equipped!
+	Agora, vocês ficarão
+	presos às pastas que
+	têm equipadas agora!
 	"""
 	keyWait
 	clearMsg
 	soundDisableTextSFX
 	soundPlay
 		track = 262
-	"Beeep!"
+	"Biiiip!"
 	wait
 		frames = 60
 	" "
 	soundPlay
 		track = 162
-	"Ka-Chink!"
+	"Ca-Tim!"
 	wait
 		frames = 30
 	keyWait
 	clearMsg
 	soundEnableTextSFX
 	"""
-	Now,then,go through
-	your door to the
-	final stage on Hades
+	Agora, atravessem a
+	porta e adentrem a fase
+	final da Ilha do Inferno!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Isle! We call it…
-	Eternal Hades!
+	Nós a chamamos de...
+	o Inferno Eterno!
 	"""
 	keyWait
 	clearMsg
@@ -53,13 +52,12 @@ script 1 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	At last,the final
-	battle on Hades
-	Isle!
+	Até que enfim, a batalha
+	final na Ilha do Inferno!
 	"""
 	keyWait
 	clearMsg
-	"I'm all fired up!"
+	"Eu tô tão animado!"
 	keyWait
 	end
 }

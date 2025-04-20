@@ -1,39 +1,39 @@
 @size 48
 
 script 0 mmbn3s {
-	" MetroHQ  Roads closed"
+	" MetroCT  Interditado"
 	end
 }
 script 1 mmbn3s {
-	" DNN      N1 starts!"
+	" DNN      Começa o N1!"
 	end
 }
 script 2 mmbn3s {
-	" Goh      RE:N1 starts!"
+	" Goh      RE:Começa N1!"
 	end
 }
 script 3 mmbn3s {
-	" Goh      NO SUBJECT"
+	" Goh      SEM ASSUNTO"
 	end
 }
 script 4 mmbn3s {
-	" Tessan   What's wrong?"
+	" Tessan   O que houve?"
 	end
 }
 script 5 mmbn3s {
-	" MEGAoka  Warning"
+	" MEGAoka  Alerta"
 	end
 }
 script 6 mmbn3s {
-	" Arima    Scary!!!"
+	" Arima    Que medo!!!"
 	end
 }
 script 7 mmbn3s {
-	" BattleML Investigating"
+	" NotcLuta Investigando"
 	end
 }
 script 8 mmbn3s {
-	" KingKoma Gambler"
+	" ReiArto  Gambler"
 	end
 }
 script 9 mmbn3s {
@@ -41,51 +41,51 @@ script 9 mmbn3s {
 	end
 }
 script 10 mmbn3s {
-	" Micchan  Why there?"
+	" Micchan  Por que lá?"
 	end
 }
 script 11 mmbn3s {
-	" Taka     RE:Why there?"
+	" Taka     RE:Por que lá?"
 	end
 }
 script 12 mmbn3s {
-	" Madmad   RE:Why there?"
+	" LokoLoko RE:Por que lá?"
 	end
 }
 script 13 mmbn3s {
-	" Mohe     RE:Why there?"
+	" Mohe     RE:Por que lá?"
 	end
 }
 script 14 mmbn3s {
-	" DNN      WWW activity"
+	" DNN      Atividade WWW"
 	end
 }
 script 15 mmbn3s {
-	" Cartan   RE:WWW activi"
+	" Cartan   RE:Ativid WWW"
 	end
 }
 script 16 mmbn3s {
-	" Hassy    RE:WWW activi"
+	" Hassy    RE:Ativid WWW"
 	end
 }
 script 17 mmbn3s {
-	" MEGAoka  RE:WWW activi"
+	" MEGAoka  RE:Ativid WWW"
 	end
 }
 script 18 mmbn3s {
-	" DNN      Urgent report"
+	" DNN      Boletim urgnt"
 	end
 }
 script 19 mmbn3s {
-	" Arima    RE:Urgent rep"
+	" Arima    RE:Boletim ur"
 	end
 }
 script 20 mmbn3s {
-	" Take&Ebi RE:Urgent rep"
+	" Take&Ebi RE:Boletim ur"
 	end
 }
 script 21 mmbn3s {
-	" Tessan   RE:RE:N1 star"
+	" Tessan   RE:RE:Comç N1"
 	end
 }
 script 22 mmbn3s {

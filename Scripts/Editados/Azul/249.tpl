@@ -5,9 +5,9 @@ script 0 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,I'll open the
-	Navi Customizer
-	practice file!
+	Lan, vou abrir o arquivo
+	de treino para o
+	Customizador de Navi!
 	"""
 	keyWait
 	end
@@ -17,9 +17,9 @@ script 1 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Hey,Lan! It's time
-	to meet up with the
-	others!
+	Aí, Lan! Já tá na hora
+	da gente se encontrar
+	com o pessoal!
 	"""
 	keyWait
 	end

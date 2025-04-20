@@ -4,27 +4,27 @@ script 0 mmbn3 {
 	mugshotShow
 		mugshot = Scientist
 	msgOpen
-	"Huff…Huff…"
+	"Uff... Arf..."
 	keyWait
 	clearMsg
 	flagSet
 		flag = 2096
 	"""
-	Dr.Hikari! It's no
-	use! Let's get out
-	of here!
+	Dr. Hikari! Não adianta!
+	Vamos sair daqui!
 	"""
 	keyWait
 	clearMsg
 	"""
-	The room temperature
-	is over 120 degrees!
+	A temperatura da sala
+	está acima dos 120
+	graus!
 	"""
 	keyWait
 	clearMsg
 	"""
-	The computer's about
-	to spit flame!
+	O computador está
+	prestes a pegar fogo!
 	"""
 	keyWait
 	clearMsg
@@ -36,23 +36,22 @@ script 1 mmbn3 {
 		mugshot = Dad
 	msgOpen
 	"""
-	There's evidence
-	that some data has
-	been altered…
+	Há provas de que
+	alguns dados foram
+	alterados...
 	"""
 	keyWait
 	clearMsg
 	"""
-	What the!? This is
-	no mere computer
-	malfunction!
+	O quê?! Isso não é só
+	um simples defeito de
+	computador!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Someone has actually
-	sabotaged the
-	system!
+	Alguém sabotou o
+	sistema!
 	"""
 	keyWait
 	end
@@ -62,8 +61,8 @@ script 2 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	You mean this wasn't
-	an accident?
+	Quer dizer que isto
+	não foi um acidente?
 	"""
 	keyWait
 	clearMsg
@@ -75,14 +74,14 @@ script 3 mmbn3 {
 		mugshot = Dad
 	msgOpen
 	"""
-	No! This was a
-	calculated assault!
+	Não! Foi um ataque
+	calculado!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Hurry! Run to
-	safety!
+	Rápido! Vá para um
+	lugar seguro!
 	"""
 	keyWait
 	clearMsg
@@ -94,8 +93,8 @@ script 4 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	But what about you,
-	Dr.Hikari!?
+	Mas e o senhor,
+	Dr. Hikari?
 	"""
 	keyWait
 	clearMsg
@@ -107,28 +106,28 @@ script 5 mmbn3 {
 		mugshot = Dad
 	msgOpen
 	"""
-	I've got to retrieve
-	the back-up data!
+	Eu preciso recuperar
+	os dados de backup!
 	"""
 	keyWait
 	clearMsg
 	"""
-	If the SciLab system
-	is destroyed,all of
-	Electopia will be in
+	Se o sistema do SciLab
+	for destruído, Ni-Hon
+	será mergulhada em caos!
 	"""
 	keyWait
 	clearMsg
 	"""
-	chaos! I must do
-	whatever I can to
-	prevent that!
+	Preciso fazer todo o
+	possível para impedir
+	isso!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Leave this to me!
-	You! Hurry out!
+	Deixe isto comigo!
+	Vamos! Depressa!
 	"""
 	keyWait
 	end
@@ -137,7 +136,7 @@ script 6 mmbn3 {
 	mugshotShow
 		mugshot = Dad
 	msgOpen
-	"What are you doing!?"
+	"O que está fazendo?!"
 	keyWait
 	clearMsg
 	jump
@@ -148,15 +147,16 @@ script 7 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	I'm not leaving you.
-	I'm a scientist too.
+	Não vou deixá-lo aqui.
+	Eu também sou um
+	cientista.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'm ready to give my
-	life to protect
-	SciLab!
+	Estou pronto para dar
+	a minha vida para
+	proteger o SciLab!
 	"""
 	keyWait
 	clearMsg
@@ -168,21 +168,21 @@ script 8 mmbn3 {
 		mugshot = Dad
 	msgOpen
 	"""
-	……
-	Thank you!
+	......
+	Obrigado!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Huff…Huff…
-	Now the question is…
+	Urf... Arf...
+	Agora, a questão é...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Can we last as long
-	as it takes to get
-	the back-up data…?
+	Nós vamos durar o
+	bastante para salvar os
+	dados de backup...?
 	"""
 	keyWait
 	end
@@ -191,12 +191,12 @@ script 9 mmbn3 {
 	mugshotShow
 		mugshot = SciLabMan
 	msgOpen
-	"Huff…Huff…"
+	"Uff... Arf..."
 	keyWait
 	clearMsg
 	"""
-	Dr.Hikari,we'll
-	help too!
+	Dr. Hikari, nós também
+	vamos ajudar!
 	"""
 	keyWait
 	end
@@ -206,9 +206,9 @@ script 10 mmbn3 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	The more there are,
-	the faster we can
-	finish!
+	Quanto mais de nós, mais
+	rápido terminaremos o
+	processo!
 	"""
 	keyWait
 	clearMsg
@@ -219,13 +219,12 @@ script 11 mmbn3 {
 	mugshotShow
 		mugshot = Dad
 	msgOpen
-	"You guys…"
+	"Pessoal..."
 	keyWait
 	clearMsg
 	"""
-	All right. Let's
-	hurry up and get
-	that data!
+	Certo. Vamos reunir
+	esses dados, pra ontem!
 	"""
 	keyWait
 	end

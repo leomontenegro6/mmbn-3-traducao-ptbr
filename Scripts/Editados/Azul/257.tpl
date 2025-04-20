@@ -5,9 +5,9 @@ script 0 mmbn3 {
 		mugshot = Higsby
 	msgOpen
 	"""
-	Wowowow!
-	That was some good
-	tea! Yes-huh!
+	Nossa, puxa, caramba!
+	Esse chá estava uma
+	delícia! Aham, é!
 	"""
 	keyWait
 	clearMsg
@@ -18,7 +18,7 @@ script 1 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Yeah,thanks Mayl!"
+	"É! Valeu, Mayl!"
 	keyWait
 	clearMsg
 	jump
@@ -29,9 +29,9 @@ script 2 mmbn3 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	Sure! Say,how about
-	we try out the
-	BubbleWash?
+	De nada! Ei, que tal a
+	gente testar a
+	Lava-Bolha?
 	"""
 	keyWait
 	clearMsg
@@ -43,8 +43,8 @@ script 3 mmbn3 {
 		mugshot = MsMari
 	msgOpen
 	"""
-	What a splendid
-	idea,Mayl!
+	Que ideia maravilhosa,
+	Mayl!
 	"""
 	keyWait
 	end
@@ -54,14 +54,14 @@ script 4 mmbn3 {
 		mugshot = Higsby
 	msgOpen
 	"""
-	You two sure seem
-	excited,huh!
+	As duas parecem bem
+	animadas, é!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Like me when I get
-	a rare chip. Huh!
+	Que nem eu quando
+	consigo um chip raro. É!
 	"""
 	keyWait
 	clearMsg
@@ -75,9 +75,8 @@ script 5 mmbn3 {
 	flagSet
 		flag = 1308
 	"""
-	It's just a
-	dishwasher. What's
-	the big deal?
+	É só uma lava-louças.
+	Não entendo o bafafá.
 	"""
 	keyWait
 	clearMsg
@@ -89,16 +88,16 @@ script 6 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,you know how
-	when you get a new
-	chip?
+	Lan, sabe como você
+	fica quando ganha um
+	chip novo?
 	"""
 	keyWait
 	clearMsg
 	"""
-	You want to try it,
-	right? This is the
-	same thing!
+	Dá vontade de testar
+	ele, né? Bom, com ela,
+	é a mesma coisa!
 	"""
 	keyWait
 	clearMsg
@@ -111,7 +110,7 @@ script 7 mmbn3 {
 	msgOpen
 	flagSet
 		flag = 1309
-	"Exactly! Huh!"
+	"Exatamente! É!"
 	keyWait
 	clearMsg
 	jump
@@ -121,7 +120,7 @@ script 8 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Whatever…"
+	"Nhé..."
 	keyWait
 	clearMsg
 	jump
@@ -133,7 +132,7 @@ script 9 mmbn3 {
 	mugshotShow
 		mugshot = Mayl
 	msgOpen
-	"Eeeeeek!!"
+	"Aaaaahhh!!"
 	keyWait
 	clearMsg
 	flagClear
@@ -156,8 +155,8 @@ script 11 mmbn3 {
 		mugshot = Higsby
 	msgOpen
 	"""
-	The kitchen!
-	Let's go! Huh!
+	A cozinha!
+	Vamos! É!
 	"""
 	keyWait
 	end
@@ -166,7 +165,7 @@ script 12 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"What happened?!"
+	"O que aconteceu aqui?!"
 	keyWait
 	clearMsg
 	jump
@@ -177,9 +176,9 @@ script 13 mmbn3 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	When I started the
-	BubbleWash,the
-	bubbles trapped us!
+	Quando eu liguei a
+	Lava-Bolha, as bolhas
+	prenderam a gente!
 	"""
 	keyWait
 	clearMsg
@@ -191,9 +190,9 @@ script 14 mmbn3 {
 		mugshot = MsMari
 	msgOpen
 	"""
-	What kind of bubbles
-	are these? They
-	don't break!
+	Que tipo de bolhas são
+	estas?
+	Elas não estouram!
 	"""
 	keyWait
 	clearMsg
@@ -207,22 +206,22 @@ script 15 mmbn3 {
 	flagSet
 		flag = 1309
 	"""
-	Step aside! Huh!
-	I studied Yum-Fu in
-	Yumland!
+	Para trás! É!
+	Eu aprendi Sabo-Fu em
+	Saborya!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I've been waiting
-	for this! I'll chop
-	that bubble apart!
+	Estive esperando por
+	isso! Vou partir essa
+	bolha ao meio... na mão!
 	"""
 	keyWait
 	clearMsg
 	flagClear
 		flag = 1309
-	"HUH-YUUUUM!"
+	"SABOOOO-RYAAAAAA!"
 	keyWait
 	clearMsg
 	jump
@@ -234,7 +233,7 @@ script 16 mmbn3 {
 	soundDisableTextSFX
 	flagSet
 		flag = 1310
-	"Beep Beep Beep!"
+	"Bip Bip Bip!"
 	wait
 		frames = 90
 	keyWait
@@ -247,45 +246,45 @@ script 17 mmbn3 {
 		mugshot = Roll
 	msgOpen
 	"""
-	Mayl! You got mail!
-	It says,"Thank you
-	for purchasing
+	Mayl! Chegou e-mail!
+	Tá escrito:
+	"Obrigado por comprar
 	"""
 	keyWait
 	clearMsg
 	mugshotHide
 	"""
-	"WWW's BubbleWash,
-	blub blub. The
-	machine's bubbles
+	a Lava-Bolha da WWW,
+	glub glub. As bolhas da
+	máquina mudarão de cor,
 	"""
 	keyWait
 	clearMsg
 	"""
-	"will change color
-	from blue to yellow
-	to red,blub blub.
+	de azul para amarelo,
+	depois de amarelo para
+	vermelho, glub glub.
 	"""
 	keyWait
 	clearMsg
 	"""
-	"After they turn red
-	they'll BLU-BANG!
-	Lord Wily will
+	Depois que ficarem
+	vermelhas, vão GLU-BUM!
+	
 	"""
 	keyWait
 	clearMsg
 	"""
-	"cleanse the Network
-	society he so hates,
-	blub blub!".
+	O Lorde Wily dizimará a
+	sociedade da Rede que
+	ele tanto odeia, glub!".
 	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = Roll
 	msgOpen
-	"Oh,my!"
+	"Meu Deus!"
 	keyWait
 	clearMsg
 	jump
@@ -296,8 +295,7 @@ script 18 mmbn3 {
 		mugshot = Higsby
 	msgOpen
 	"""
-	They're going to
-	explode? Huh?!
+	Elas vão explodir? É?!
 	"""
 	keyWait
 	clearMsg
@@ -311,9 +309,8 @@ script 19 mmbn3 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	They said the WWW!
-	What are we going to
-	do,Lan?!
+	O e-mail disse "WWW"!
+	O que a gente faz, Lan?!
 	"""
 	keyWait
 	clearMsg
@@ -325,9 +322,9 @@ script 20 mmbn3 {
 		mugshot = MsMari
 	msgOpen
 	"""
-	No! I'm too young to
-	die! I'm not even
-	married yet!
+	Não! Eu sou jovem demais
+	pra morrer! Eu nem me
+	casei ainda!
 	"""
 	keyWait
 	clearMsg
@@ -338,33 +335,32 @@ script 21 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"The WWW again?!"
+	"A WWW de novo?!"
 	keyWait
 	clearMsg
 	"""
-	We can't just let
-	them get away with
-	attacking innocent
-	"""
-	keyWait
-	clearMsg
-	"""
-	people! Lan,the
-	BubbleWash is
-	connected to the
+	A gente não pode deixar
+	eles impunes por atacar
+	gente inocente!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Net,right? Then the
-	one causing all the
-	bubbles may be
+	Lan, a Lava-Bolha está
+	ligada à Rede, né?
 	"""
 	keyWait
 	clearMsg
 	"""
-	there,too! C'mon!
-	Let's go find him!
+	Então, o culpado pelas
+	bolhas pode estar lá,
+	também!
+	"""
+	keyWait
+	clearMsg
+	"""
+	Vamos! A gente tem
+	que achar o sujeito!
 	"""
 	keyWait
 	clearMsg
@@ -378,22 +374,22 @@ script 22 mmbn3 {
 	flagClear
 		flag = 1308
 	"""
-	All right! When we
-	find him,I'm going
-	to make him pay!
+	Beleza! E quando a
+	gente achar, a coisa vai
+	ficar feia pra ele!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Higsby! Keep an eye
-	on these two!
+	Higsby! Fica de olho
+	nessas duas!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Mayl! Ms.Mari! Hang
-	in there! We'll get
-	you out!
+	Mayl! Srta. Mari!
+	Aguentem firme! A gente
+	vai tirar vocês daí!
 	"""
 	keyWait
 	clearMsg
@@ -405,16 +401,15 @@ script 23 mmbn3 {
 		mugshot = Higsby
 	msgOpen
 	"""
-	If you have any
-	trouble,contact me
-	immediately! Huh!
+	Se esbarrarem em algum
+	problema, contatem-me
+	imediatamente! É!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'll be watching
-	after Ms.Mari and
-	Mayl! Huh!
+	Ficarei aqui cuidando da
+	srta. Mari e da Mayl! É!
 	"""
 	keyWait
 	end

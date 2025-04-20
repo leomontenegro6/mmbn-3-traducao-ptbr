@@ -7,9 +7,9 @@ script 0 mmbn3 {
 	textSpeed
 		delay = 0
 	"""
-	Order what chip,huh?
-	L・R Button:Page
-	B Button:No order
+	Que chip quer pedir?
+	Botões L e R: Página
+	Botão B: Não pedir
 	"""
 	waitHold
 }
@@ -20,9 +20,9 @@ script 1 mmbn3 {
 	textSpeed
 		delay = 0
 	"""
-	Which one,huh?
-	L・R Button:Page
-	B Button:No order
+	Qual vai querer?
+	Botões L e R: Página
+	Botão B: Não pedir
 	"""
 	waitHold
 }
@@ -36,7 +36,7 @@ script 2 mmbn3 {
 		mugshot = MegaMan
 	textSpeed
 		delay = 0
-	"Are you leaving now?\n"
+	"Deixar a loja?\n"
 	option
 		left = 1
 		right = 1
@@ -44,7 +44,7 @@ script 2 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"   Sim "
 	option
 		left = 0
 		right = 0
@@ -52,7 +52,7 @@ script 2 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No"
+	"          Não"
 	select
 		default = 0
 		BSeparate = false
@@ -71,7 +71,7 @@ script 3 mmbn3 {
 		mugshot = Higsby
 	textSpeed
 		delay = 0
-	"Come again,huh!"
+	"Volte sempre, é!"
 	waitHold
 }
 script 5 mmbn3 {
@@ -96,7 +96,7 @@ script 5 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"   Sim "
 	option
 		left = 0
 		right = 0
@@ -104,7 +104,7 @@ script 5 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No"
+	"          Não"
 	select
 		default = 0
 		BSeparate = false
@@ -120,29 +120,29 @@ script 5 mmbn3 {
 script 6 mmbn3 {
 	clearMsg
 	"""
-	OK,I'll send this to
-	NumberMan…
-	NumberMan,new order!
+	OK, vou mandar o pedido
+	para o NumberMan...
+	NumberMan! Encomenda!
 	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = NumberMan
-	"Transferring now!\n"
+	"Transferindo!\n"
 	wait
 		frames = 30
-	"・"
+	"."
 	wait
 		frames = 30
-	"・"
+	"."
 	wait
 		frames = 30
-	"・"
+	"."
 	wait
 		frames = 20
 	"""
 	OK!
-	Transfer complete!
+	Transferência concluída!
 	"""
 	keyWait
 	waitHold
@@ -152,7 +152,7 @@ script 7 mmbn3 {
 	textSpeed
 		delay = 0
 	"""
-	Lan got a chip for
+	Lan adquiriu o chip
 	"
 	"""
 	printChip
@@ -176,7 +176,7 @@ script 8 mmbn3 {
 		mugshot = MegaMan
 	textSpeed
 		delay = 0
-	"Not enough Zennys…"
+	"Preciso de mais Zennys..."
 	keyWait
 	waitHold
 }
@@ -191,8 +191,8 @@ script 9 mmbn3 {
 	textSpeed
 		delay = 0
 	"""
-	I can't hold
-	any more.
+	Já estou com a
+	quantidade máxima.
 	"""
 	keyWait
 	waitHold
@@ -204,9 +204,9 @@ script 10 mmbn3 {
 	textSpeed
 		delay = 0
 	"""
-	We're all sold out!
-	Thank yah for
-	yer business,huh!
+	Estamos esgotados!
+	Obrigado por comprar
+	conosco, é!
 	"""
 	keyWait
 	waitHold
@@ -249,7 +249,7 @@ script 18 mmbn3 {
 	msgOpenQuick
 	textSpeed
 		delay = 0
-	"Are you leaving now?\n"
+	"Deixar a loja?\n"
 	option
 		left = 1
 		right = 1
@@ -257,7 +257,7 @@ script 18 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"   Sim "
 	option
 		left = 0
 		right = 0
@@ -265,7 +265,7 @@ script 18 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No"
+	"          Não"
 	select
 		default = 0
 		BSeparate = false
@@ -283,7 +283,7 @@ script 20 mmbn3 {
 	textSpeed
 		delay = 0
 	"""
-	You bought
+	Você comprou
 	"
 	"""
 	printChip
@@ -301,7 +301,7 @@ script 21 mmbn3 {
 	msgOpenQuick
 	textSpeed
 		delay = 0
-	"Insufficient Zennys."
+	"Zennys insuficientes."
 	keyWait
 	waitHold
 }
@@ -309,7 +309,7 @@ script 22 mmbn3 {
 	msgOpenQuick
 	textSpeed
 		delay = 0
-	"Can't hold any more."
+	"Já está com a\nquantidade máxima."
 	keyWait
 	waitHold
 }
@@ -319,14 +319,14 @@ script 24 mmbn3 {
 		mugshot = Higsby
 	textSpeed
 		delay = 0
-	"A \""
+	"Um \""
 	printChip
 		buffer = 1
 		chip = 0
 	"""
-	",huh?
-	I'll see if I can
-	order it… Hmmmm…
+	", é?
+	Vou ver se consigo
+	encomendar... hmm....
 	"""
 	keyWait
 	waitHold
@@ -337,14 +337,14 @@ script 25 mmbn3 {
 		mugshot = Higsby
 	textSpeed
 		delay = 0
-	"A \""
+	"Um \""
 	printChip
 		buffer = 1
 		chip = 0
 	"""
-	",huh?
-	I'll see if I can
-	order it… Hmmmm…
+	", é?
+	Vou ver se consigo
+	encomendar... hmm....
 	"""
 	keyWait
 	waitHold
@@ -355,14 +355,14 @@ script 26 mmbn3 {
 		mugshot = Higsby
 	textSpeed
 		delay = 0
-	"A \""
+	"Um \""
 	printChip
 		buffer = 1
 		chip = 0
 	"""
-	",huh?
-	I've never heard of
-	that,but I'll try…
+	", é?
+	Nunca ouvi falar desse,
+	mas vou tentar...
 	"""
 	keyWait
 	waitHold
@@ -373,20 +373,20 @@ script 27 mmbn3 {
 		mugshot = Higsby
 	textSpeed
 		delay = 0
-	"I have a \""
+	"Eu tenho um \""
 	printCode
 		buffer = 2
 		code = A
 	"""
 	"!
-	That's 
+	Custa 
 	"""
 	printBuffer
 		minLength = 0
 		padZeros = false
 		padLeft = false
 		buffer = 3
-	"z,OK?\n"
+	"z, OK?\n"
 	option
 		left = 1
 		right = 1
@@ -394,7 +394,7 @@ script 27 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"   Sim "
 	option
 		left = 0
 		right = 0
@@ -402,7 +402,7 @@ script 27 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No"
+	"          Não"
 	select
 		default = 0
 		BSeparate = false
@@ -422,9 +422,9 @@ script 28 mmbn3 {
 	textSpeed
 		delay = 0
 	"""
-	Ooops,sorry!
-	Don't have that in
-	stock…
+	Ops, lamento!
+	Não tenho esse no
+	meu acervo, é...
 	"""
 	keyWait
 	waitHold
@@ -436,9 +436,9 @@ script 29 mmbn3 {
 	textSpeed
 		delay = 0
 	"""
-	…Nope,don't see it.
-	Huh. Are you sure
-	there's such a chip?
+	... Não, não estou vendo
+	esse aqui. É. Tem certe-
+	za de que é um chip?
 	"""
 	keyWait
 	waitHold

@@ -3,8 +3,9 @@
 script 0 mmbn3 {
 	msgOpen
 	"""
-	Now,cross Victory
-	Bridge and exit!
+	Agora, atravesse a
+	Ponte da Vitória e deixe
+	este covil!
 	"""
 	keyWait
 	end
@@ -21,7 +22,7 @@ script 70 mmbn3 {
 	mugshotShow
 		mugshot = Chaud
 	msgOpen
-	"Hmmph. So you came…"
+	"Hmmpf. Então, você\nveio..."
 	keyWait
 	clearMsg
 	jump
@@ -32,8 +33,8 @@ script 71 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	NetBattle with
-	Chaud?
+	Desafiar o Chaud para
+	uma NetLuta?
 	
 	"""
 	option
@@ -43,7 +44,7 @@ script 71 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"   Sim "
 	option
 		left = 0
 		right = 0
@@ -51,7 +52,7 @@ script 71 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No\n"
+	"          Não\n"
 	select
 		default = 1
 		BSeparate = false
@@ -93,15 +94,15 @@ script 73 mmbn3 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	So you don't feel up
-	to it,huh?
+	Então, você não tá
+	a fim agora, é?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Hah! Come back when
-	you're at your best…
-	I'll STILL beat you!
+	He! Volte quando estiver
+	em sua melhor forma...
+	Não importa: eu vencerei!
 	"""
 	keyWait
 	end
@@ -111,9 +112,9 @@ script 74 mmbn3 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	If you want a real
-	battle,you need to
-	get experience.
+	Se quer uma batalha
+	de verdade, vai precisar
+	acumular experiência.
 	"""
 	keyWait
 	end
@@ -123,8 +124,9 @@ script 75 mmbn3 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	ProtoMan,put him in
-	his place…
+	ProtoMan, mostre a ele
+	o abismo que nos
+	separa...
 	"""
 	keyWait
 	clearMsg
@@ -136,8 +138,8 @@ script 76 mmbn3 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	No holding back this
-	time,ProtoMan!!
+	Não pegue leve desta
+	vez, ProtoMan!!
 	"""
 	keyWait
 	clearMsg
@@ -149,9 +151,9 @@ script 77 mmbn3 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	There's no way you
-	can beat ProtoMan
-	at his best!
+	Você nunca vai conseguir
+	vencer o ProtoMan em
+	sua melhor forma!
 	"""
 	keyWait
 	clearMsg
@@ -201,15 +203,15 @@ script 82 mmbn3 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	I was only testing
-	you this time…
+	Eu só estava te
+	testando, desta vez...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Come back when you
-	get stronger. I'll
-	show you a battle…
+	Volte quando ficar mais
+	forte. Aí, sim, darei uma
+	luta de verdade...
 	"""
 	keyWait
 	end
@@ -219,16 +221,16 @@ script 83 mmbn3 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Not bad. But still
-	not enough to
-	beat ProtoMan!
+	Nada mal. Mas ainda não
+	bom o bastante pra
+	vencer o ProtoMan!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Believe me,you still
-	haven't seen what he
-	can really do!
+	Não se engane: você
+	ainda não viu do que ele
+	realmente é capaz!
 	"""
 	keyWait
 	end
@@ -238,16 +240,15 @@ script 84 mmbn3 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Even I've got to
-	admit it. You're
-	pretty good.
+	Até eu devo admitir:
+	você é muito bom.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'm looking forward
-	to learning more by
-	battling you!
+	Estou ansioso para
+	aprender mais ao lutar
+	com você!
 	"""
 	keyWait
 	end
@@ -256,7 +257,7 @@ script 85 mmbn3 {
 	mugshotShow
 		mugshot = Chaud
 	msgOpen
-	"……"
+	"......"
 	keyWait
 	end
 }
@@ -265,14 +266,14 @@ script 86 mmbn3 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Is that the best
-	you can do!?
+	Isso é o melhor que
+	você consegue fazer?!
 	"""
 	keyWait
 	clearMsg
 	"""
-	If it is,don't
-	bother me again!
+	Se for, então nunca
+	mais me incomode!
 	"""
 	keyWait
 	end
@@ -282,9 +283,9 @@ script 88 mmbn3 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Okay,I'll take
-	you on. Don't expect
-	any mercy,though!
+	Tudo bem, eu luto com
+	você. Só não espere
+	misericórdia!
 	"""
 	keyWait
 	clearMsg
@@ -296,8 +297,8 @@ script 91 mmbn3 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Let's just see how
-	strong you are…
+	Vejamos o quão forte
+	você está...
 	"""
 	keyWait
 	clearMsg
@@ -309,9 +310,9 @@ script 92 mmbn3 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Lan,it's time to see
-	who is stronger!
-	Once and for all!
+	Lan, hora de decidirmos
+	quem é o mais forte, de
+	uma vez por todas!
 	"""
 	keyWait
 	clearMsg
@@ -321,15 +322,15 @@ script 92 mmbn3 {
 script 220 mmbn3 {
 	msgOpen
 	"""
-	A multi-player Net
-	Battle machine
+	Uma máquina de
+	NetLutas multijogador.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Built just for N1,
-	this machine cost
-	millions of Zennys
+	Construída para o N1,
+	essa máquina criou
+	milhões de Zennys.
 	"""
 	keyWait
 	end
@@ -337,15 +338,15 @@ script 220 mmbn3 {
 script 221 mmbn3 {
 	msgOpen
 	"""
-	A multi-player Net
-	Battle machine
+	Uma máquina de
+	NetLutas multijogador.
 	"""
 	keyWait
 	clearMsg
 	"""
-	It's hundreds of
-	times faster than a
-	home computer
+	É centenas de vezes
+	mais rápida que um
+	computador pessoal.
 	"""
 	keyWait
 	end
@@ -353,15 +354,15 @@ script 221 mmbn3 {
 script 222 mmbn3 {
 	msgOpen
 	"""
-	A multi-player Net
-	Battle machine
+	Uma máquina de
+	NetLutas multijogador.
 	"""
 	keyWait
 	clearMsg
 	"""
-	NetBattle footage
-	is sent to the TV
-	station in seconds
+	Filmagens de NetLutas
+	são enviadas para ca-
+	nais de TV em segundos.
 	"""
 	keyWait
 	end
@@ -369,15 +370,15 @@ script 222 mmbn3 {
 script 223 mmbn3 {
 	msgOpen
 	"""
-	A multi-player Net
-	Battle machine
+	Uma máquina de
+	NetLutas multijogador.
 	"""
 	keyWait
 	clearMsg
 	"""
-	It's only available
-	for jacking in
-	during N1
+	Só fica disponível para
+	se conectar durante o
+	Grande Prêmio N1.
 	"""
 	keyWait
 	end
@@ -385,8 +386,8 @@ script 223 mmbn3 {
 script 224 mmbn3 {
 	msgOpen
 	"""
-	An elevator switch
-	Want to press it?
+	Um botão de elevador.
+	Apertar?
 	
 	"""
 	option
@@ -396,7 +397,7 @@ script 224 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"   Sim "
 	option
 		left = 0
 		right = 0
@@ -404,7 +405,7 @@ script 224 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No"
+	"          Não"
 	select
 		default = 0
 		BSeparate = false
@@ -420,8 +421,8 @@ script 224 mmbn3 {
 script 225 mmbn3 {
 	msgOpen
 	"""
-	The elevator opens!
-	Go up?
+	O elevador se abriu!
+	Subir?
 	
 	"""
 	option
@@ -431,7 +432,7 @@ script 225 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"   Sim "
 	option
 		left = 0
 		right = 0
@@ -439,7 +440,7 @@ script 225 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No"
+	"          Não"
 	select
 		default = 0
 		BSeparate = false

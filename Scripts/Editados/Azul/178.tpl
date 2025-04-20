@@ -394,7 +394,7 @@ script 192 mmbn3 {
 	playerAnimate
 		animation = 24
 	"""
-	MegaMan got:
+	MegaMan adquiriu:
 	"
 	"""
 	printItem
@@ -551,9 +551,9 @@ script 220 mmbn3 {
 		jumpIfFalse = continue
 	msgOpen
 	"""
-	This security cube
-	is kept sealed by a
-	powerful Navi
+	Este Cubo de Segurança
+	é mantido selado por
+	um Navi poderoso.
 	"""
 	keyWait
 	clearMsg
@@ -590,8 +590,8 @@ script 221 mmbn3 {
 script 230 mmbn3 {
 	msgOpen
 	"""
-	MegaMan accessed the
-	mystery data.
+	MegaMan acessou os
+	dados misteriosos.
 	"""
 	wait
 		frames = 10
@@ -612,8 +612,8 @@ script 230 mmbn3 {
 		item = 96
 		amount = 1
 	"""
-	MegaMan got a
-	PowerUp:
+	MegaMan adquiriu
+	um PowerUp:
 	"
 	"""
 	printItem
@@ -628,8 +628,8 @@ script 230 mmbn3 {
 script 231 mmbn3 {
 	msgOpen
 	"""
-	MegaMan accessed the
-	mystery data.
+	MegaMan acessou os
+	dados misteriosos.
 	"""
 	wait
 		frames = 10
@@ -651,8 +651,7 @@ script 231 mmbn3 {
 		code = R
 		amount = 1
 	"""
-	MegaMan got a chip
-	for
+	MegaMan adquiriu o chip
 	"
 	"""
 	printChip
@@ -671,8 +670,8 @@ script 231 mmbn3 {
 script 232 mmbn3 {
 	msgOpen
 	"""
-	MegaMan accessed the
-	mystery data.
+	MegaMan acessou os
+	dados misteriosos.
 	"""
 	wait
 		frames = 10
@@ -689,7 +688,7 @@ script 232 mmbn3 {
 		jumpIfTrue = continue
 		jumpIfFalse = 233
 	"""
-	The SubChip
+	O SubChip
 	"
 	"""
 	printItem
@@ -697,14 +696,14 @@ script 232 mmbn3 {
 		item = 115
 	"""
 	"
-	was activated!!
+	foi ativado!!
 	"""
 	keyWait
 	clearMsg
 	"""
-	The virus hidden
-	in the mystery data
-	was deleted!
+	O vírus que se escondia
+	nos dados misteriosos
+	foi deletado!
 	"""
 	keyWait
 }
@@ -742,8 +741,8 @@ script 236 mmbn3 {
 script 237 mmbn3 {
 	msgOpen
 	"""
-	MegaMan accessed the
-	mystery data.
+	MegaMan acessou os
+	dados misteriosos.
 	"""
 	wait
 		frames = 10
@@ -760,7 +759,7 @@ script 237 mmbn3 {
 		jumpIfTrue = continue
 		jumpIfFalse = 238
 	"""
-	The SubChip
+	O SubChip
 	"
 	"""
 	printItem
@@ -768,14 +767,14 @@ script 237 mmbn3 {
 		item = 115
 	"""
 	"
-	was activated!!
+	foi ativado!!
 	"""
 	keyWait
 	clearMsg
 	"""
-	The virus hidden
-	in the mystery data
-	was deleted!
+	O vírus que se escondia
+	nos dados misteriosos
+	foi deletado!
 	"""
 	keyWait
 }
@@ -801,8 +800,8 @@ script 238 mmbn3 {
 script 239 mmbn3 {
 	msgOpen
 	"""
-	The mystery data was
-	a virus!!
+	Os dados misteriosos
+	eram vírus!!
 	"""
 	keyWait
 	startRandomBattle
@@ -849,8 +848,7 @@ script 240 mmbn3 {
 	playerAnimate
 		animation = 24
 	"""
-	MegaMan got a chip
-	for
+	MegaMan adquiriu o chip
 	"
 	"""
 	printChip
@@ -876,8 +874,7 @@ script 241 mmbn3 {
 		code = S
 		amount = 1
 	"""
-	MegaMan got a chip
-	for:
+	MegaMan adquiriu o chip:
 	"
 	"""
 	printChip

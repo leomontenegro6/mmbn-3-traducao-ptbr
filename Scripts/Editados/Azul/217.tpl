@@ -5,13 +5,13 @@ script 0 mmbn3 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	If you're not
-	careful,you could
-	get hurt,you know!
+	Se não tomar cuidado,
+	pode se machucar feio
+	numa luta real.
 	"""
 	keyWait
 	clearMsg
-	"Try again!"
+	"Tente de novo!"
 	keyWait
 	end
 }

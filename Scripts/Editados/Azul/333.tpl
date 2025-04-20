@@ -4,7 +4,7 @@ script 0 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Look at these vines!"
+	"Olha só essas vinhas!"
 	keyWait
 	end
 }
@@ -13,13 +13,12 @@ script 1 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	This is what must be
-	causing all the
-	trouble.
+	Essa deve ser a fonte
+	do problema.
 	"""
 	keyWait
 	clearMsg
-	"Lan! Jack me in!"
+	"Lan! Me conecta!"
 	keyWait
 	clearMsg
 	jump
@@ -30,8 +29,9 @@ script 2 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Hold on,Mamoru!
-	All right,MegaMan!
+	Aguenta só mais um
+	pouco, Mamoru...
+	Beleza, MegaMan!
 	"""
 	keyWait
 	end
@@ -40,7 +40,7 @@ script 3 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Jack i…"
+	"Conect..."
 	keyWait
 	clearMsg
 	jump
@@ -52,7 +52,7 @@ script 4 mmbn3 {
 	soundDisableTextSFX
 	soundPlay
 		track = 167
-	"Whirrrrr!"
+	"Vrrrrrrr!"
 	wait
 		frames = 60
 	keyWait
@@ -66,8 +66,8 @@ script 5 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Wait! The elevator's
-	moving!
+	Espera! O elevador tá
+	descendo!
 	"""
 	keyWait
 	end
@@ -77,8 +77,8 @@ script 6 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	How? It was just
-	broken a moment ago!
+	Mas como? Ele tava
+	parado ainda agora!
 	"""
 	keyWait
 	end
@@ -89,13 +89,13 @@ script 7 mmbn3 {
 	soundDisableTextSFX
 	soundPlay
 		track = 167
-	"Whirrr!"
+	"Vrrrrrr!"
 	wait
 		frames = 60
 	"\n"
 	soundPlay
 		track = 193
-	"Ding-Dong!"
+	"Dim-Dom!"
 	keyWait
 	soundEnableTextSFX
 	end
@@ -105,15 +105,15 @@ script 8 mmbn3 {
 		mugshot = Anetta
 	msgOpen
 	"""
-	I can't seem to find
-	that TetraCode.
-	Where could it be?
+	Eu não tô achando
+	esse TetraCódigo.
+	Onde será que tá?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Hey! You! What are
-	you doing!?
+	Ei! Você! Tá fazendo o
+	quê aí?!
 	"""
 	keyWait
 	end
@@ -123,9 +123,8 @@ script 9 mmbn3 {
 		mugshot = Anetta
 	msgOpen
 	"""
-	Hey! Just what do
-	you think you're
-	doing!?
+	Ei! O que você pensa
+	que tá fazendo?!
 	"""
 	keyWait
 	clearMsg
@@ -137,9 +136,9 @@ script 10 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	What? I came to root
-	out these vines all
-	over the hospital!
+	O que mais? Eu vim
+	acabar com as vinhas
+	envolvendo o hospital!
 	"""
 	keyWait
 	clearMsg
@@ -151,16 +150,16 @@ script 11 mmbn3 {
 		mugshot = Anetta
 	msgOpen
 	"""
-	You mean these vines
-	that I so carefully
-	grew?
+	Quer dizer, as vinhas
+	que eu cultivei com
+	tanto carinho?
 	"""
 	keyWait
 	clearMsg
 	"""
-	You must be a Net
-	society spy…
-	Aren't you!?
+	Você deve ser um
+	espião da sociedade da
+	Rede... É isso, não é?!
 	"""
 	keyWait
 	clearMsg
@@ -171,18 +170,21 @@ script 12 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"A Net society spy?"
-	keyWait
-	clearMsg
 	"""
-	What are you talking
-	about?
+	Espião da sociedade
+	de quê?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Whatever. Just put a
-	stop to those vines!
+	Que papo é esse?
+	"""
+	keyWait
+	clearMsg
+	"""
+	Ah, deixa pra lá.
+	Só acaba logo com
+	essas vinhas!
 	"""
 	keyWait
 	clearMsg
@@ -193,20 +195,22 @@ script 13 mmbn3 {
 	mugshotShow
 		mugshot = Anetta
 	msgOpen
-	"OK! Right! Sure!"
-	keyWait
-	clearMsg
 	"""
-	You think I'm so
-	dumb I'll listen to
-	a Net society spy?
+	Ah, tá! Claro!
+	Pode deixar!
 	"""
 	keyWait
 	clearMsg
 	"""
-	This hospital
-	deserves to be
-	destroyed!
+	Tá pensando que eu
+	sou idiota o bastante
+	pra ouvir um espião?
+	"""
+	keyWait
+	clearMsg
+	"""
+	Este hospital MERECE
+	ser destruído!
 	"""
 	keyWait
 	clearMsg
@@ -218,15 +222,15 @@ script 14 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	My friend is in the
-	middle of an
-	operation!
+	O meu amigo tá no meio
+	de uma cirurgia!
 	"""
 	keyWait
 	clearMsg
 	"""
-	If these vines don't
-	stop,he could die!
+	Se essas vinhas não
+	pararem, ele pode
+	acabar morrendo!
 	"""
 	keyWait
 	clearMsg
@@ -238,15 +242,15 @@ script 15 mmbn3 {
 		mugshot = Anetta
 	msgOpen
 	"""
-	Some sacrifices must
-	be made to preserve
-	Mother Nature.
+	Alguns sacrifícios são
+	necessários para pre-
+	servar a Mãe Natureza.
 	"""
 	keyWait
 	clearMsg
 	"""
-	That's what Wily
-	always says!
+	É o que o Wily sempre
+	diz!
 	"""
 	keyWait
 	clearMsg
@@ -258,8 +262,9 @@ script 16 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Wily!? So you work
-	for the WWW!
+	Então?!
+	Então... você trabalha
+	pra WWW!
 	"""
 	keyWait
 	clearMsg
@@ -271,15 +276,16 @@ script 17 mmbn3 {
 		mugshot = Anetta
 	msgOpen
 	"""
-	That's right!
-	The WWW will destroy
-	the Net society!
+	É isso aí!
+	A WWW irá destruir a
+	sociedade da Rede!
 	"""
 	keyWait
 	clearMsg
 	"""
-	It's the only way
-	to preserve nature!
+	Essa é a única forma
+	de preservar a
+	natureza!
 	"""
 	keyWait
 	clearMsg
@@ -291,14 +297,13 @@ script 18 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Preserve nature!?
-	Yeah,right!
+	Preservar a natureza?!
+	Até parece!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Wily's just using
-	you!
+	O Wily só tá te usando!
 	"""
 	keyWait
 	clearMsg
@@ -311,7 +316,7 @@ script 19 mmbn3 {
 	soundDisableTextSFX
 	soundPlay
 		track = 190
-	"Bleep!"
+	"Blip!"
 	keyWait
 	clearMsg
 	soundEnableTextSFX
@@ -323,15 +328,16 @@ script 20 mmbn3 {
 		mugshot = PlantMan
 	msgOpen
 	"""
-	Anetta,do not be
-	fooled. Lord Wily
-	warned us,
+	Anetta, não se deixe
+	enganar. O Lorde Wily
+	nos avisou.
 	"""
 	keyWait
 	clearMsg
 	"""
-	"Net society people
-	are all liars."
+	"Os integrantes da
+	sociedade da Rede são
+	todos mentirosos."
 	"""
 	keyWait
 	clearMsg
@@ -342,12 +348,12 @@ script 21 mmbn3 {
 	mugshotShow
 		mugshot = Anetta
 	msgOpen
-	"I know,PlantMan!"
+	"Eu sei, PlantMan!"
 	keyWait
 	clearMsg
 	"""
-	I won't let this kid
-	fool me!
+	Não vou deixar esse
+	guri me fazer de besta!
 	"""
 	keyWait
 	clearMsg
@@ -359,14 +365,16 @@ script 22 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Wily has her totally
-	brainwashed!
+	A lavagem cerebral do
+	Wily sobre ela é bem
+	séria!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Lan,she won't listen
-	to a word we say!
+	Lan, ela não vai ouvir
+	nada do que a gente
+	falar!
 	"""
 	keyWait
 	clearMsg
@@ -378,15 +386,15 @@ script 23 mmbn3 {
 		mugshot = Anetta
 	msgOpen
 	"""
-	PlantMan! Sprout out
-	some more vines,OK?
+	PlantMan! Produza mais
+	algumas vinhas, tá?
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'm gonna look
-	around some more for
-	the TetraCode.
+	Enquanto isso, eu vou
+	dar outra procurada
+	pelo TetraCódigo.
 	"""
 	keyWait
 	end
@@ -395,7 +403,7 @@ script 24 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Stop right there!"
+	"Parada aí!"
 	keyWait
 	end
 }
@@ -404,15 +412,16 @@ script 25 mmbn3 {
 		mugshot = Anetta
 	msgOpen
 	"""
-	The vines are
-	spreading! If you
-	don't stop PlantMan…
+	As vinhas estão se
+	espalhando. Se você
+	não detiver o PlantMan...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Your friend will be
-	in trouble!
+	Bom, nem quero pensar
+	o que vai ser daquele
+	seu amigo!
 	"""
 	keyWait
 	end
@@ -422,8 +431,9 @@ script 26 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan,she's right!
-	We have to jack in!
+	MegaMan, ela tá certa!
+	A gente tem que se
+	conectar!
 	"""
 	keyWait
 	clearMsg

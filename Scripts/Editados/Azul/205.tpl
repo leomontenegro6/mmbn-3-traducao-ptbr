@@ -5,34 +5,34 @@ script 0 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	The security door
-	is closed.
+	A porta de segurança
+	está trancada.
 	"""
 	keyWait
 	clearMsg
 	"""
-	You must unlock the
-	security door to
+	É necessário destrancar
+	a porta de segurança
 	"""
 	keyWait
 	clearMsg
 	"""
-	pass to the area
-	beyond it.
+	para seguir rumo à
+	área além dela.
 	"""
 	keyWait
 	clearMsg
 	"""
-	"Keydata" is needed
-	to open each
-	security door.
+	Dados "Chave" são obri-
+	gatórios para abrir as
+	portas de segurança.
 	"""
 	keyWait
 	clearMsg
 	"""
-	The "Keydata" should
-	be around here,but
-	it's too dark now.
+	As "Chaves" devem estar
+	jogadas por aí, mas está
+	escuro demais...
 	"""
 	keyWait
 	clearMsg
@@ -43,21 +43,22 @@ script 1 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"I agree."
+	"Concordo."
 	keyWait
 	clearMsg
 	"""
-	It'll be too hard to
-	find the "Keydata"
-	in the dark.
+	Vai ser praticamente
+	impossível achar as
+	"Chaves" no escuro.
 	"""
 	keyWait
 	clearMsg
 	playerAnimate
 		animation = 4
 	"""
-	Can you do something
-	about it,Lan?
+	Você consegue fazer
+	alguma coisa pra ajudar,
+	Lan?
 	"""
 	keyWait
 	clearMsg
@@ -69,9 +70,9 @@ script 2 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Okay! Let me figure
-	out some way to make
-	your area brighter!
+	Claro! Eu vou achar um
+	jeito de iluminar essa
+	área aí!
 	"""
 	keyWait
 	clearMsg
@@ -83,8 +84,9 @@ script 3 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Hold on! Program
-	is saying something!
+	Calma! O Programa tá
+	dizendo mais alguma
+	coisa...
 	"""
 	keyWait
 	clearMsg
@@ -96,32 +98,31 @@ script 4 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	In order to make the
-	area brighter…
+	Para iluminar a área...
 	"""
 	keyWait
 	clearMsg
 	"""
-	You'll have to turn
-	on the light switch
-	in the real world.
+	você precisará ligar o
+	interruptor de luz no
+	mundo real.
 	"""
 	keyWait
 	clearMsg
 	"""
-	By the way,I saw a
-	doodle the other
-	day. It said,
+	Só para constar, eu vi
+	um negócio rabiscado
+	outro dia. Estava escrito:
 	"""
 	keyWait
 	clearMsg
-	"\"Cleaners1\""
+	"\"Limpadores1\""
 	keyWait
 	clearMsg
 	"""
-	Perhaps it has some-
-	thing to do with the
-	real world.
+	Talvez tenha alguma
+	coisa a ver com o mundo
+	real.
 	"""
 	keyWait
 	clearMsg
@@ -133,9 +134,9 @@ script 5 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	"Cleaners1"…? Is it
-	a clue for the real
-	world for this area?
+	"Limpadores1"...? Essa é
+	uma pista no mundo real
+	para esta área?
 	"""
 	keyWait
 	end

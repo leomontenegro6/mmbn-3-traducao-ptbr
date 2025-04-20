@@ -4,7 +4,7 @@ script 0 mmbn3 {
 	mugshotHide
 	msgOpen
 	soundDisableTextSFX
-	"Briiiiing!"
+	"Trriiiiim!"
 	keyWait
 	soundEnableTextSFX
 	end
@@ -14,8 +14,7 @@ script 1 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan! You got a phone
-	call!
+	Lan! Ligação pra você!
 	"""
 	keyWait
 	clearMsg
@@ -27,15 +26,15 @@ script 2 mmbn3 {
 		mugshot = MrMatch
 	msgOpen
 	"""
-	Well done! You've
-	put out the fires in
-	the Yoka area.
+	Muito bem! Vocês
+	apagaram todas as
+	chamas da área Yoka.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Maybe I'd better
-	start warming up!
+	Talvez eu deva começar
+	a me aquecer aqui!
 	"""
 	keyWait
 	clearMsg
@@ -44,22 +43,22 @@ script 2 mmbn3 {
 	soundDisableTextSFX
 	soundPlay
 		track = 284
-	"Click!"
+	"Clic!"
 	wait
 		frames = 30
 	soundPlay
 		track = 260
-	"Boop!"
+	"Tuu!"
 	wait
 		frames = 58
 	soundPlay
 		track = 260
-	"Boop!"
+	"Tuu!"
 	wait
 		frames = 58
 	soundPlay
 		track = 260
-	"Boop…"
+	"Tuu..."
 	wait
 		frames = 55
 	keyWait
@@ -73,9 +72,9 @@ script 3 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	C'mon! If we don't
-	hurry,dad's going to
-	die!!
+	Vamos logo! Se a gente
+	não correr, o papai vai
+	morrer!!
 	"""
 	keyWait
 	end

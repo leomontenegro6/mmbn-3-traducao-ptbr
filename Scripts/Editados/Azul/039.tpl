@@ -18,9 +18,9 @@ script 0 mmbn3 {
 		jumpIfOutOfRange = continue
 	msgOpen
 	"""
-	Press the L Button
-	to talk to Lan!
-	(but not yet)
+	Aperte o botão L
+	para falar com o Lan!
+	(mas ainda não)
 	"""
 	keyWait
 	end
@@ -52,9 +52,9 @@ script 181 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan! Remove the
-	security from the
-	emergency exit!
+	MegaMan! Remova a
+	segurança da saída de
+	emergência!
 	"""
 	keyWait
 	end
@@ -64,9 +64,9 @@ script 182 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	We don't need to
-	stay here any more!
-	Find a way out!
+	A gente não precisa
+	mais ficar aqui!
+	Encontra uma saída!
 	"""
 	keyWait
 	end
@@ -76,8 +76,8 @@ script 187 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	We have to stop the
-	Tree of Life!
+	A gente tem que parar
+	a Árvore da Vida!
 	"""
 	keyWait
 	end
@@ -87,9 +87,8 @@ script 188 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan,let's head
-	to the operating
-	room!
+	MegaMan, vamos lá pra
+	sala de cirurgia!
 	"""
 	keyWait
 	end
@@ -99,8 +98,8 @@ script 189 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Stop PlantMan!
-	You can do it,
+	Detenha o PlantMan!
+	Você consegue,
 	MegaMan!!
 	"""
 	keyWait
@@ -111,9 +110,9 @@ script 194 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Looks like there are
-	no more problems
-	from PlantMan…
+	Parece que não tem
+	mais nenhum problema
+	do PlantMan aqui...
 	"""
 	keyWait
 	end
@@ -139,9 +138,9 @@ script 201 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	"Where science gives
-	life"? Maybe that's
-	here! Let's search!
+	"Onde a ciência nutre
+	vida"? Talvez isso seja
+	aqui! Vamos explorar!
 	"""
 	keyWait
 	end
@@ -151,9 +150,8 @@ script 202 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan,let's go
-	look for the 8th
-	Ranked Navi!!
+	MegaMan, vamos atrás
+	do Navi de ranque 8!!
 	"""
 	keyWait
 	end

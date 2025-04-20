@@ -5,27 +5,27 @@ script 0 mmbn3 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	OK,that's enough
-	for today!
+	Certo, já está bom por
+	hoje!
 	"""
 	keyWait
 	clearMsg
 	"""
-	You never know when
-	a virus will strike!
+	Nunca se sabe quando
+	um vírus pode atacar.
 	"""
 	keyWait
 	clearMsg
 	"""
-	If it happens to
-	you,just remember
-	these lessons!
+	Se acontecer com vocês,
+	é só lembrarem destas
+	lições!
 	"""
 	keyWait
 	clearMsg
 	"""
-	OK! You can jack
-	out now!
+	OK! Já podem
+	desconectar!
 	"""
 	keyWait
 	end

@@ -4,25 +4,26 @@ script 0 mmbn3 {
 	mugshotShow
 		mugshot = MrProg
 	msgOpen
-	"So,today's date is…"
+	"Então, hoje é dia..."
 	keyWait
 	clearMsg
 	"""
-	OK. So,this many
-	people have come in…
-	"""
-	keyWait
-	clearMsg
-	"""
-	Ah! I have to count
-	the change,too!
+	OK. Então, o número de
+	pessoas que entrou foi
+	este tanto...
 	"""
 	keyWait
 	clearMsg
 	"""
-	This is too much for
-	just one program. I
-	should have help!
+	Ah! Preciso calcular o
+	troco, também!
+	"""
+	keyWait
+	clearMsg
+	"""
+	Isto é demais pra um
+	Programa só. Eu devia
+	ter um ajudante!
 	"""
 	keyWait
 	end
@@ -31,36 +32,36 @@ script 1 mmbn3 {
 	mugshotShow
 		mugshot = NormalNaviGreen
 	msgOpen
-	"Absolutely not!!"
+	"De JEITO nenhum!!"
 	keyWait
 	clearMsg
 	"""
-	We can't afford to
-	increase program
-	costs any more!!
+	Não temos verba pra
+	contratar outro
+	Programa!!
 	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = MrProg
 	"""
-	Program costs!?
-	You don't pay me
-	a single Zenny!!
+	"Verba"?! Mas você não
+	me paga um Zenny
+	sequer!!
 	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = NormalNaviGreen
-	"Urk!"
+	"Urck!"
 	keyWait
 	end
 }
 script 230 mmbn3 {
 	msgOpen
 	"""
-	MegaMan accessed the
-	mystery data.
+	MegaMan acessou os
+	dados misteriosos.
 	"""
 	wait
 		frames = 10
@@ -81,8 +82,8 @@ script 230 mmbn3 {
 		item = 98
 		amount = 1
 	"""
-	MegaMan got a
-	PowerUp:
+	MegaMan adquiriu
+	um PowerUp:
 	"
 	"""
 	printItem
@@ -94,8 +95,8 @@ script 230 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Regular memory
-	increased by 1 MB!
+	Memória padrão
+	aumentada em 1 MB!
 	"""
 	keyWait
 	end

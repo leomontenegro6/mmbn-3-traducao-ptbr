@@ -5,9 +5,9 @@ script 0 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I have you now! It's
-	time for you to dis-
-	solve those bubbles!
+	Agora, você me paga!
+	Hora de você dissolver
+	aquelas bolhas!
 	"""
 	keyWait
 	clearMsg
@@ -19,14 +19,14 @@ script 1 mmbn3 {
 		mugshot = BubbleMan
 	msgOpen
 	"""
-	You can't beat me
-	that easily,blub!
+	Você não vai me vencer
+	assim, tão fácil, glub!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Bla bla bla blah!
-	Bubble Door!!
+	Blá blá blá não-sei-o-quê!
+	Barragem Bolha!!
 	"""
 	keyWait
 	end
@@ -46,8 +46,8 @@ script 3 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Roger!
-	MegaBuster!!
+	Pode deixar!
+	MegaTiro!!
 	"""
 	keyWait
 	end
@@ -57,8 +57,8 @@ script 4 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	My MegaBuster isn't
-	working!
+	O meu MegaTiro não tá
+	funcionando!
 	"""
 	keyWait
 	end
@@ -68,22 +68,21 @@ script 5 mmbn3 {
 		mugshot = BubbleMan
 	msgOpen
 	"""
-	Blublublublub!
-	Your efforts are
-	useless! It'll take
+	Glugluglubglub!
+	Nem adianta tentar!
 	"""
 	keyWait
 	clearMsg
 	"""
-	more than that to
-	blust my Bubble
-	Door,blub blub!
+	Vai ser preciso muito mais
+	que isso pra estourar a
+	Barragem Bolha, glub!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Bubble Brigade!
-	Blub over here!
+	Brigada Bolha!
+	"Gluni-vos"!
 	"""
 	keyWait
 	end
@@ -93,16 +92,16 @@ script 6 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	You called,Master
-	BubbleMan? Oh! Is
-	that MegaMan?
+	Chamou, Mestre
+	BubbleMan?
+	Ah! É o MegaMan?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Whoa! Wow! Uh,we're
-	not going to be
-	fighting him,are we?
+	Putz...! Caraca! Er, a
+	gente não vai lutar
+	contra ele, vai?
 	"""
 	keyWait
 	end
@@ -112,27 +111,27 @@ script 7 mmbn3 {
 		mugshot = BubbleMan
 	msgOpen
 	"""
-	For blub's sake!
-	Can't you guys sound
-	tougher? Strike
+	Pelo glub de Deus!
+	Vocês têm que ser mais
+	durões! Botem medo!
 	"""
 	keyWait
 	clearMsg
 	"""
-	some fear in people?
-	Oh,blub it. Take
-	this "
+	... É, falei besteira.
+	Ah, que se glub. Tomem
+	esta "
 	"""
 	printItem
 		buffer = 0
 		item = 14
-	"\" and"
+	"\" e"
 	keyWait
 	clearMsg
 	"""
-	run far away so
-	MegaMan can't catch
-	you,blub blub!
+	fujam para bem longe,
+	pro MegaMan não poder
+	pegar vocês, glub glub!
 	"""
 	keyWait
 	clearMsg
@@ -144,15 +143,15 @@ script 8 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	Oh. Okey-dokey. So
-	we should run away?
+	Ah. Belezura! Então,
+	é só a gente fugir?
 	"""
 	keyWait
 	clearMsg
 	"""
-	We're good at that!
-	You can trust us,
-	sir!
+	Nisso, a gente se
+	garante! Pode contar
+	com a gente, senhor!
 	"""
 	keyWait
 	clearMsg
@@ -163,13 +162,13 @@ script 9 mmbn3 {
 	mugshotShow
 		mugshot = BubbleMan
 	msgOpen
-	"Just GO already!"
+	"Que glub! VÃO LOGO!"
 	keyWait
 	clearMsg
 	"""
-	I'll delete MegaMan.
-	I just need you to
-	wear him down!
+	Eu vou deletar o
+	MegaMan. Vocês só
+	precisam cansar ele!
 	"""
 	keyWait
 	end
@@ -179,15 +178,16 @@ script 10 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	Okey-dokey!
-	C'mon guys.
-	Up,up and…
+	Entendido!
+	Vamos lá, povo.
+	Ao infinito e...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Waaaaaait a minute.
-	Where should we go?
+	Eeeeeeeeiii.... peraí.
+	Pra onde a gente vai,
+	mesmo?
 	"""
 	keyWait
 	clearMsg
@@ -201,15 +201,13 @@ script 11 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	Well,how about
-	ACDC 2?
+	Hm, que tal ACDC 2?
 	"""
 	keyWait
 	clearMsg
 	"""
-	There are a couple
-	good places to hide
-	there,right?
+	Lá tem uns bons
+	esconderijos, né?
 	"""
 	keyWait
 	clearMsg
@@ -223,12 +221,11 @@ script 12 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	That's sounds
-	just peachy to me.
+	Pra mim, tá perfeito.
 	"""
 	keyWait
 	clearMsg
-	"Away we goooo!"
+	"Bora láááááá!"
 	keyWait
 	end
 }
@@ -237,9 +234,8 @@ script 13 mmbn3 {
 		mugshot = BubbleMan
 	msgOpen
 	"""
-	Oh,blub! The
-	trouble those suds
-	put me through…!
+	Glub-affe! Esses manés
+	só me dão trabalho...!
 	"""
 	keyWait
 	end
@@ -248,26 +244,26 @@ script 14 mmbn3 {
 	mugshotShow
 		mugshot = BubbleMan
 	msgOpen
-	"Anyway,MegaMan!"
+	"Enfim, MegaMan!"
 	keyWait
 	clearMsg
 	"""
-	My sudlings escaped
-	with a "
+	Meus "su-glub-alternos"
+	fugiram com uma "
 	"""
 	printItem
 		buffer = 0
 		item = 14
 	"""
 	"
-	that can break this
+	capaz de perfurar esta
 	"""
 	keyWait
 	clearMsg
 	"""
-	Bubble Door. If you
-	get it from them,
-	I'll take you on!
+	Barragem Bolha. Se
+	arrancar deles, eu luto
+	contigo!
 	"""
 	keyWait
 	clearMsg
@@ -288,12 +284,12 @@ script 16 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Gotcha!"
+	"Nem precisa falar!"
 	keyWait
 	clearMsg
 	"""
-	Those guys went to
-	ACDC 2! Let's go!
+	Aqueles sujeitos foram
+	pra ACDC 2! Bora pra lá!
 	"""
 	keyWait
 	end

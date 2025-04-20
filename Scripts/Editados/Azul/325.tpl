@@ -5,8 +5,8 @@ script 0 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Mamoru! Mamoru!
-	Can you hear me!?
+	Mamoru! Ei, Mamoru!
+	Tá me ouvindo?!
 	"""
 	keyWait
 	clearMsg
@@ -19,7 +19,7 @@ script 1 mmbn3 {
 	msgOpen
 	mugshotAnimate
 		animation = 0
-	"Unh…"
+	"Unh..."
 	keyWait
 	clearMsg
 	jump
@@ -30,9 +30,9 @@ script 2 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I'm here with you,so
-	everything's gonna
-	be all right!
+	Eu tô aqui com você,
+	então, vai ficar tudo
+	bem!
 	"""
 	keyWait
 	clearMsg
@@ -44,9 +44,9 @@ script 3 mmbn3 {
 		mugshot = Mamoru
 	msgOpen
 	"""
-	I…I'll…be…OK.
-	I…have…your…
-	chip of friendship…
+	E... Eu vou ficar... bem.
+	Eu... tô com... o seu...
+	chip da amizade...
 	"""
 	keyWait
 	end
@@ -56,9 +56,9 @@ script 4 mmbn3 {
 		mugshot = Nurse
 	msgOpen
 	"""
-	Mamoru. We'll take
-	you to the operating
-	room now.
+	Mamoru. Vamos te levar
+	para a sala de cirurgia
+	agora.
 	"""
 	keyWait
 	end
@@ -67,12 +67,12 @@ script 5 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Nurse…\n"
+	"Enfermeira...\n"
 	flagSet
 		flag = 1793
 	"""
-	Please take good
-	care of him!
+	Por favor, cuida bem
+	dele!
 	"""
 	keyWait
 	clearMsg
@@ -84,16 +84,16 @@ script 6 mmbn3 {
 		mugshot = Nurse
 	msgOpen
 	"""
-	Of course. We'll do
-	our best!
+	Claro. Faremos tudo ao
+	nosso alcance!
 	"""
 	keyWait
 	clearMsg
 	flagClear
 		flag = 1793
 	"""
-	Now then,Mamoru.
-	Let's go upstairs.
+	Vamos então, Mamoru.
+	A sala fica lá em cima.
 	"""
 	keyWait
 	clearMsg
@@ -107,7 +107,7 @@ script 7 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	You'll be fine,
+	Você vai ficar bem,
 	Mamoru!
 	"""
 	keyWait
@@ -118,16 +118,16 @@ script 8 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	There he goes…
-	MegaMan! Let's go to
-	the operating room!
+	E lá vai ele...
+	MegaMan! Vamos lá pra
+	sala de cirurgia!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I want to stay as
-	close to him as
-	possible!
+	Eu quero ficar o mais
+	perto dele quanto eu
+	puder!
 	"""
 	keyWait
 	clearMsg
@@ -139,9 +139,9 @@ script 9 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Yeah,let's go! I
-	think the room is on
-	the third floor!
+	É, vamos!
+	Acho que ela fica no
+	terceiro andar!
 	"""
 	keyWait
 	end

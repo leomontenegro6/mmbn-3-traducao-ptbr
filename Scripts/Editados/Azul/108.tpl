@@ -18,7 +18,7 @@ script 1 mmbn3 {
 	mugshotShow
 		mugshot = MrProg
 	msgOpen
-	"Sigh…It's so dark."
+	"Ai... Tá tão escuro."
 	keyWait
 	end
 }
@@ -27,15 +27,16 @@ script 2 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	I wish this PC
-	had better security.
+	Queria que este
+	computador tivesse
+	mais segurança.
 	"""
 	keyWait
 	clearMsg
 	"""
-	But the Principal
-	doesn't seem to
-	feel the same way…
+	Mas o diretor não
+	parece concordar
+	comigo...
 	"""
 	keyWait
 	end
@@ -49,7 +50,7 @@ script 220 mmbn3 {
 		jumpIfGreater = 226
 		jumpIfLess = continue
 	"""
-	You will need
+	É preciso usar a
 	"
 	"""
 	printItem
@@ -57,7 +58,7 @@ script 220 mmbn3 {
 		item = 6
 	"""
 	"
-	to open this door
+	para abrir esta porta.
 	"""
 	keyWait
 	end
@@ -71,7 +72,7 @@ script 221 mmbn3 {
 		jumpIfGreater = 227
 		jumpIfLess = continue
 	"""
-	You will need
+	É preciso usar a
 	"
 	"""
 	printItem
@@ -79,7 +80,7 @@ script 221 mmbn3 {
 		item = 4
 	"""
 	"
-	to open this door
+	para abrir esta porta.
 	"""
 	keyWait
 	end
@@ -93,7 +94,7 @@ script 222 mmbn3 {
 		jumpIfGreater = 228
 		jumpIfLess = continue
 	"""
-	You will need
+	É preciso usar a
 	"
 	"""
 	printItem
@@ -101,7 +102,7 @@ script 222 mmbn3 {
 		item = 5
 	"""
 	"
-	to open this door
+	para abrir esta porta.
 	"""
 	keyWait
 	end
@@ -113,8 +114,9 @@ script 223 mmbn3 {
 		jumpIfFalse = continue
 	msgOpen
 	"""
-	Lots of textbook
-	programs for PETs
+	Vários programas de
+	livros didáticos para
+	PETs.
 	"""
 	keyWait
 	end
@@ -122,16 +124,16 @@ script 223 mmbn3 {
 script 224 mmbn3 {
 	msgOpen
 	"""
-	It says that it's
-	Group 1's turn for
-	cleaning duty…
+	Aqui diz que é a vez
+	do Grupo 1 de limpar a
+	sala...
 	"""
 	keyWait
 	clearMsg
 	"""
-	You could change the
-	number,but that
-	wouldn't be nice
+	Você poderia mudar o
+	número, mas seria muito
+	danado da sua parte.
 	"""
 	keyWait
 	end
@@ -139,20 +141,20 @@ script 224 mmbn3 {
 script 225 mmbn3 {
 	msgOpen
 	"""
-	A blackboard for
-	messages from the
-	teachers' Navis
+	Um quadro negro para
+	mensagens dos Navis
+	dos professores.
 	"""
 	keyWait
 	clearMsg
-	"\"5-B:All present\""
+	"\"5-B: Todos presentes.\""
 	keyWait
 	end
 }
 script 226 mmbn3 {
 	msgOpen
 	"""
-	MegaMan used:
+	MegaMan usou:
 	"
 	"""
 	printItem
@@ -172,7 +174,7 @@ script 226 mmbn3 {
 script 227 mmbn3 {
 	msgOpen
 	"""
-	MegaMan used:
+	MegaMan usou:
 	"
 	"""
 	printItem
@@ -192,7 +194,7 @@ script 227 mmbn3 {
 script 228 mmbn3 {
 	msgOpen
 	"""
-	MegaMan used:
+	MegaMan usou:
 	"
 	"""
 	printItem
@@ -212,8 +214,8 @@ script 228 mmbn3 {
 script 230 mmbn3 {
 	msgOpen
 	"""
-	MegaMan accessed the
-	mystery data.
+	MegaMan acessou os
+	dados misteriosos.
 	"""
 	wait
 		frames = 10
@@ -234,13 +236,13 @@ script 230 mmbn3 {
 		item = 4
 		amount = 1
 	"""
-	MegaMan got:
+	MegaMan adquiriu:
 	"
 	"""
 	printItem
 		buffer = 0
 		item = 4
-	"\"!!"
+	"\"!"
 	playerFinish
 	playerUnlock
 	keyWait
@@ -249,8 +251,8 @@ script 230 mmbn3 {
 script 231 mmbn3 {
 	msgOpen
 	"""
-	MegaMan accessed the
-	mystery data.
+	MegaMan acessou os
+	dados misteriosos.
 	"""
 	wait
 		frames = 10
@@ -271,13 +273,13 @@ script 231 mmbn3 {
 		item = 5
 		amount = 1
 	"""
-	MegaMan got:
+	MegaMan adquiriu:
 	"
 	"""
 	printItem
 		buffer = 0
 		item = 5
-	"\"!!"
+	"\"!"
 	playerFinish
 	playerUnlock
 	keyWait
@@ -286,8 +288,8 @@ script 231 mmbn3 {
 script 232 mmbn3 {
 	msgOpen
 	"""
-	MegaMan accessed the
-	mystery data.
+	MegaMan acessou os
+	dados misteriosos.
 	"""
 	wait
 		frames = 10
@@ -308,13 +310,13 @@ script 232 mmbn3 {
 		item = 6
 		amount = 1
 	"""
-	MegaMan got:
+	MegaMan adquiriu:
 	"
 	"""
 	printItem
 		buffer = 0
 		item = 6
-	"\"!!"
+	"\"!"
 	playerFinish
 	playerUnlock
 	keyWait
@@ -328,8 +330,8 @@ script 234 mmbn3 {
 		flag = 3779
 	msgOpen
 	"""
-	Launching intruder
-	ejection program!
+	Iniciando programa de
+	contenção de intrusos!
 	"""
 	keyWait
 	startRandomBattle
@@ -340,8 +342,8 @@ script 235 mmbn3 {
 		flag = 3780
 	msgOpen
 	"""
-	Launching intruder
-	ejection program!
+	Iniciando programa de
+	contenção de intrusos!
 	"""
 	keyWait
 	startRandomBattle
@@ -350,8 +352,8 @@ script 235 mmbn3 {
 script 236 mmbn3 {
 	msgOpen
 	"""
-	MegaMan accessed the
-	mystery data.
+	MegaMan acessou os
+	dados misteriosos.
 	"""
 	wait
 		frames = 10
@@ -374,7 +376,7 @@ script 236 mmbn3 {
 		jumpIfNone = continue
 		jumpIfSome = continue
 	"""
-	MegaMan got:
+	MegaMan adquiriu:
 	"600 Zennys"!!
 	"""
 	playerFinish
@@ -385,8 +387,8 @@ script 236 mmbn3 {
 script 237 mmbn3 {
 	msgOpen
 	"""
-	MegaMan accessed the
-	mystery data.
+	MegaMan acessou os
+	dados misteriosos.
 	"""
 	wait
 		frames = 10
@@ -407,21 +409,21 @@ script 237 mmbn3 {
 		item = 98
 		amount = 1
 	"""
-	MegaMan got a
-	PowerUp:
+	MegaMan adquiriu
+	um PowerUp:
 	"
 	"""
 	printItem
 		buffer = 0
 		item = 98
-	"\"!!"
+	"\"!"
 	playerFinish
 	playerUnlock
 	keyWait
 	clearMsg
 	"""
-	Regular memory
-	increased by 1 MB!!
+	Memória padrão
+	aumentada em 1 MB!
 	"""
 	keyWait
 	end
@@ -429,8 +431,8 @@ script 237 mmbn3 {
 script 238 mmbn3 {
 	msgOpen
 	"""
-	MegaMan accessed the
-	mystery data.
+	MegaMan acessou os
+	dados misteriosos.
 	"""
 	wait
 		frames = 10
@@ -452,8 +454,7 @@ script 238 mmbn3 {
 		code = *
 		amount = 1
 	"""
-	MegaMan got a chip
-	for
+	MegaMan adquiriu o chip
 	"
 	"""
 	printChip
@@ -463,7 +464,7 @@ script 238 mmbn3 {
 	printCode
 		buffer = 0
 		code = *
-	"\"!!"
+	"\"!"
 	playerFinish
 	playerUnlock
 	keyWait
@@ -476,30 +477,30 @@ script 240 mmbn3 {
 		jumpIfFalse = continue
 	msgOpen
 	"""
-	…!!
-	Someone attached a
-	virus bomb!
+	...!!
+	Alguém plantou uma
+	bomba de vírus aqui!
 	"""
 	keyWait
 	clearMsg
 	"""
-	The bomb is
-	speckled in blue and
-	yellow
+	A bomba é pontilhada
+	com manchas azuis e
+	amarelas.
 	"""
 	keyWait
 	clearMsg
 	"""
-	It says,"Mix me in
-	to make black" on
-	the bomb
+	Escrito nela: "Coloque-me
+	na mistura para fazer
+	preto".
 	"""
 	keyWait
 	clearMsg
 	"""
-	You see three small
-	buttons in white,
-	green,and red…
+	Você vê 3 botões
+	das cores branco,
+	verde e vermelho...
 	"""
 	keyWait
 	clearMsg
@@ -510,7 +511,7 @@ script 240 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Press white\n"
+	"Apertar branco\n"
 	option
 		left = 1
 		right = 1
@@ -518,7 +519,7 @@ script 240 mmbn3 {
 		down = 2
 	space
 		count = 2
-	"Press green\n"
+	"Apertar verde\n"
 	option
 		left = 2
 		right = 2
@@ -526,7 +527,7 @@ script 240 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Press red"
+	"Apertar vermelho"
 	select
 		default = 0
 		BSeparate = false
@@ -545,8 +546,8 @@ script 241 mmbn3 {
 		flag = 2733
 	msgOpen
 	"""
-	"Incorrect action:
-	Releasing virus."
+	"Ação incorreta.
+	Liberando vírus."
 	"""
 	keyWait
 	flagSet
@@ -557,19 +558,19 @@ script 242 mmbn3 {
 	flagSet
 		flag = 2733
 	msgOpen
-	"\"Shutting down.\""
+	"\"Desligando.\""
 	keyWait
 	clearMsg
-	"Beep,beep,click!"
+	"Bip, bip, clic!"
 	keyWait
 	end
 }
 script 243 mmbn3 {
 	msgOpen
 	"""
-	The bomb has been
-	defused. The virus
-	will not be released
+	A bomba foi desarmada.
+	O vírus não será
+	liberado.
 	"""
 	keyWait
 	end

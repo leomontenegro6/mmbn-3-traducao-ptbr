@@ -80,9 +80,9 @@ script 0 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	As long as this dog
-	house is here,no
-	robbers will get in!
+	Enquanto esta casinha
+	de cachorro estiver aqui,
+	nenhum ladrão vai entrar!
 	"""
 	keyWait
 	end
@@ -92,9 +92,9 @@ script 1 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I love the fact that
-	you can jack in to
-	our blackboards!
+	Eu adoro como dá pra
+	gente se conectar nos
+	nossos quadros negros!
 	"""
 	keyWait
 	end
@@ -104,8 +104,8 @@ script 2 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I sure would like
-	something to drink…
+	Uma bebida agora cairia
+	tão bem...
 	"""
 	keyWait
 	end
@@ -115,9 +115,9 @@ script 3 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Dad uses this
-	computer for work…
-	Better be careful…
+	O papai usa este compu-
+	tador pro trabalho...
+	Anda com jeitinho.
 	"""
 	keyWait
 	end
@@ -127,9 +127,9 @@ script 4 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Mom always checks
-	for viruses,but they
-	always come back…
+	A mamãe sempre
+	escaneia os vírus, mas
+	eles sempre voltam...
 	"""
 	keyWait
 	end
@@ -139,8 +139,8 @@ script 5 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Where are those test
-	answers.
+	Cadê as respostas
+	daquela prova.
 	"""
 	waitSkip
 		frames = 20
@@ -151,8 +151,8 @@ script 5 mmbn3 {
 	waitSkip
 		frames = 20
 	"""
-	? Just
-	kidding,MegaMan!
+	?
+	É brincadeira, MegaMan!
 	"""
 	keyWait
 	end
@@ -162,9 +162,9 @@ script 6 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Reporters rely on
-	info,so even their
-	cars have ports!
+	Repórteres dependem de
+	informação. Daí, até seus
+	carros têm entradas!
 	"""
 	keyWait
 	end
@@ -184,8 +184,9 @@ script 7 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	A great battle will
-	start here soon!
+	Uma batalha incrível
+	será travada aqui
+	muito em breve!
 	"""
 	keyWait
 	end
@@ -195,9 +196,9 @@ script 8 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Even I can jack in
-	here? These guys
-	need more security!
+	Até eu consigo me
+	conectar aqui? Essa
+	segurança tá fraca!!
 	"""
 	keyWait
 	end
@@ -207,8 +208,8 @@ script 9 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Who uses the phones
-	on these things?
+	Quem que usa telefones
+	assim hoje em dia?
 	"""
 	keyWait
 	end
@@ -218,9 +219,9 @@ script 10 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I guess hospital TVs
-	are just like any
-	ordinary TV…
+	Acho que TVs de
+	hospital são só TVs
+	comuns, mesmo...
 	"""
 	keyWait
 	end
@@ -230,9 +231,9 @@ script 11 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Cool! You can jack
-	in to hospital
-	beds!
+	Irado! Dá pra se
+	conectar nas camas do
+	hospital!
 	"""
 	keyWait
 	end
@@ -242,9 +243,9 @@ script 12 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I wonder if hospital
-	vending machines
-	serve healthy sodas?
+	Será que as máquinas do
+	hospital só vendem
+	refrigerantes saudáveis?
 	"""
 	keyWait
 	end
@@ -254,8 +255,9 @@ script 13 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	This machine sells
-	zoo tickets,huh?
+	Esta máquina vende
+	ingressos pro zoológico,
+	é?
 	"""
 	keyWait
 	end
@@ -265,9 +267,9 @@ script 14 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	So this is a tank?
-	MegaMan,don't
-	touch anything!
+	Então, isto aqui é um
+	tanque? MegaMan, não
+	encosta em nada!
 	"""
 	keyWait
 	end
@@ -277,9 +279,9 @@ script 15 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I can't believe that
-	a TV this old has a
-	jack in port…
+	Nem acredito que uma
+	TV antiga destas tem
+	entrada de conexão...
 	"""
 	keyWait
 	end
@@ -293,8 +295,8 @@ script 16 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	This has to be the
-	"place of battle"!
+	Deve ser aqui o
+	"local de batalha"!
 	"""
 	keyWait
 	end
@@ -308,8 +310,8 @@ script 17 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Let's look for the
-	Undernet server!!
+	Vamos procurar pelo
+	servidor da Undernet!!
 	"""
 	keyWait
 	end

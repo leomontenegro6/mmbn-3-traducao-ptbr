@@ -5,8 +5,8 @@ script 0 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Oh,no!
-	I overslept!
+	Ah, não!
+	Eu dormi demais!
 	"""
 	keyWait
 	end
@@ -16,8 +16,8 @@ script 1 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan,why didn't
-	you wake me up!?
+	MegaMan, por que você
+	não me acordou?!
 	"""
 	keyWait
 	clearMsg
@@ -28,30 +28,31 @@ script 2 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Yawn…!"
+	"Uaaahh...!"
 	keyWait
 	clearMsg
-	"Sorry… \""
+	"Desculpa... o \""
 	printItem
 		buffer = 0
 		item = 10
 	"""
 	"
-	doesn't have an
-	alarm function…
+	não tem função de
+	alarme...
 	"""
 	keyWait
 	clearMsg
 	"""
-	We'd better get to
-	school right away!
+	Enfim, a gente tem que
+	ir pra escola agora
+	mesmo!
 	"""
 	keyWait
 	clearMsg
 	"""
-	If we're late,
-	they'll leave us
-	behind!
+	Se a gente se atrasar,
+	vão nos deixar pra
+	trás!
 	"""
 	keyWait
 	clearMsg
@@ -63,8 +64,8 @@ script 3 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Hey,yeah!
-	Let's hurry!
+	Ah, pois é!
+	Acelerando!
 	"""
 	keyWait
 	end

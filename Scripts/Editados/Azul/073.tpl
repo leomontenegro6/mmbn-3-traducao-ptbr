@@ -5,9 +5,9 @@ script 20 mmbn3 {
 		mugshot = Dad
 	msgOpen
 	"""
-	You be careful,son.
-	Don't do anything
-	too dangerous!
+	Toma muito cuidado, filho.
+	Não vá fazer nada
+	perigoso!
 	"""
 	keyWait
 	end
@@ -15,16 +15,16 @@ script 20 mmbn3 {
 script 220 mmbn3 {
 	msgOpen
 	"""
-	This computer is
-	used to house all of
-	SciLab's data
+	O computador é usado
+	para armazenar todos
+	os dados do SciLab.
 	"""
 	keyWait
 	clearMsg
 	"""
-	It's designed so the
-	data can be freely
-	accessed any time
+	É projetado de forma
+	que possam ser acessa-
+	dos a qualquer hora.
 	"""
 	keyWait
 	end
@@ -32,15 +32,15 @@ script 220 mmbn3 {
 script 221 mmbn3 {
 	msgOpen
 	"""
-	Dad must have put
-	this photo here
+	O papai deve ter
+	colocado esta foto aqui.
 	"""
 	keyWait
 	clearMsg
 	"""
-	It shows him and mom
-	along with two
-	smiling boys
+	É uma foto dele e da
+	mamãe com dois meninos
+	sorridentes.
 	"""
 	keyWait
 	end
@@ -48,9 +48,9 @@ script 221 mmbn3 {
 script 222 mmbn3 {
 	msgOpen
 	"""
-	A huge computer that
-	holds all of the
-	data of Hikari's lab
+	Um enorme computador
+	com todos os dados do
+	laboratório do Dr. Hikari.
 	"""
 	keyWait
 	end
@@ -58,15 +58,16 @@ script 222 mmbn3 {
 script 223 mmbn3 {
 	msgOpen
 	"""
-	This box holds data
-	disks used for
-	backups
+	Esta caixa contém
+	discos de dados usados
+	em backups.
 	"""
 	keyWait
 	clearMsg
 	"""
-	It's neatly sorted
-	by type of data
+	Estão cuidadosamente
+	separados por tipo de
+	dados.
 	"""
 	keyWait
 	end

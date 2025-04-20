@@ -5,9 +5,8 @@ script 0 mmbn3 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Excellent! OK,let's
-	move on to the next
-	lesson,then!
+	Excelente! OK, para a
+	próxima lição, então!
 	"""
 	keyWait
 	end

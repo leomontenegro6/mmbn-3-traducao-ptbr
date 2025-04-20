@@ -7,53 +7,55 @@ script 0 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	As máquinas do mundo
-	são interligadas por
-	uma rede mundial.
+	Os aparelhos do mundo
+	todo estão conectados
+	por uma rede mundial.
 	"""
 	keyWait
 	clearMsg
 	"""
-	But there is a dark
-	side to this
-	convenience as well:
+	Porém, existe também
+	um lado sombrio para
+	tanta conveniência:
 	"""
 	keyWait
 	clearMsg
 	"""
-	Computer viruses,
-	and an increase in
-	NetCrime.
+	vírus de computador,
+	além de um aumento
+	nos NetCrimes.
 	"""
 	keyWait
 	clearMsg
 	"""
-	The Virus Lab at the
-	SciLab…
+	O Laborátio de Vírus
+	do SciLab
 	"""
 	keyWait
 	clearMsg
 	"""
-	Conducts research
-	into ways of dealing
-	with these viruses.
-	"""
-	keyWait
-	clearMsg
-	"One day…"
-	keyWait
-	clearMsg
-	"""
-	The students of ACDC
-	School,in ACDC Town
-	in DenCity,
+	conduz pesquisas para
+	achar formas de lidar
+	com esses vírus.
 	"""
 	keyWait
 	clearMsg
 	"""
-	took a field trip
-	to the SciLab's
-	Virus Lab.
+	Um belo dia,
+	"""
+	keyWait
+	clearMsg
+	"""
+	os alunos do Colégio
+	ACDC, no bairro ACDC,
+	em DenCity,
+	"""
+	keyWait
+	clearMsg
+	"""
+	partiram em uma excur-
+	são para o Laboratório
+	de Vírus do SciLab.
 	"""
 	keyWait
 	end
@@ -63,14 +65,15 @@ script 1 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	So this is the new
-	Virus Lab,huh…?
+	Então, este é o novo
+	Laboratório de Vírus,
+	é?
 	"""
 	keyWait
 	clearMsg
 	"""
-	This is even cooler
-	than I heard it was!
+	É ainda mais da hora do
+	que eu tinha ouvido falar!
 	"""
 	keyWait
 	clearMsg
@@ -86,15 +89,15 @@ script 2 mmbn3 {
 		frames = 20
 	"""
 	
-	We're here on a
-	school trip!
+	A gente tá aqui numa
+	excursão de estudo!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Stay focused and
-	quit daydreaming,
-	okay?
+	Que tal tentar se
+	concentrar e parar de
+	ficar viajando?
 	"""
 	keyWait
 	clearMsg
@@ -105,7 +108,7 @@ script 3 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"I know,MegaMan…"
+	"Aham, é, MegaMan..."
 	keyWait
 	clearMsg
 	jump
@@ -116,14 +119,14 @@ script 4 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Hey! Lan! Didn't you
-	hear what I said?
+	Ô! Lan! Não ouviu o que
+	eu falei?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Look! Everyone else
-	is paying attention!
+	Olha só! Todos os outros
+	tão prestando atenção!
 	"""
 	keyWait
 	end

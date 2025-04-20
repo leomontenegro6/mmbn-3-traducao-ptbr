@@ -5,9 +5,9 @@ script 0 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	All right! We're
-	going back to the
-	TV station!
+	Certo! Hora da gente
+	voltar pra emissora de
+	TV!
 	"""
 	keyWait
 	clearMsg
@@ -19,9 +19,9 @@ script 1 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Sunayama isn't here.
-	Can we just board by
-	ourselves?
+	O Sunayama não tá aqui.
+	A gente pode mesmo
+	voltar sozinho?
 	"""
 	keyWait
 	clearMsg
@@ -33,8 +33,8 @@ script 2 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	He told us to get on
-	the ferry.
+	Ele só disse pra gente
+	entrar no barco.
 	"""
 	keyWait
 	clearMsg
@@ -46,8 +46,8 @@ script 3 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Okay,then,let's
-	go!
+	Bom, nesse caso,
+	vamos lá!
 	"""
 	keyWait
 	clearMsg
@@ -59,8 +59,7 @@ script 4 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Semi-finals,
-	here we come!
+	Semi-finais, lá vamos nós!
 	"""
 	keyWait
 	end
@@ -70,8 +69,8 @@ script 5 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,the ferry's
-	leaving port!
+	Lan, o barco já tá
+	deixando o porto!
 	"""
 	keyWait
 	end

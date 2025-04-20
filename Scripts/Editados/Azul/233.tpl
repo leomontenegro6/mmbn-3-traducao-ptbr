@@ -4,9 +4,9 @@ script 0 mmbn3 {
 	mugshotHide
 	msgOpen
 	"""
-	MegaMan made it back
-	to the PET,but needs
-	to be stored in the
+	MegaMan voltou para o
+	PET, mas precisará ficar
+	guardado no
 	"""
 	keyWait
 	clearMsg
@@ -15,12 +15,15 @@ script 0 mmbn3 {
 		buffer = 0
 		item = 10
 	"""
-	" until the
-	normal PET is fixed.
+	" até o PET
+	normal ser consertado.
 	"""
 	keyWait
 	clearMsg
-	"Later that night…"
+	"""
+	Mais tarde,
+	naquela noite...
+	"""
 	keyWait
 	end
 }
@@ -28,7 +31,7 @@ script 1 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Man,this is no fun…"
+	"Cara, que chato..."
 	keyWait
 	clearMsg
 	jump
@@ -39,9 +42,9 @@ script 2 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Yeah,we can't go
-	online,and we can't
-	even NetBattle…
+	Pois é. Não podemos nos
+	conectar na Rede, nem
+	NetLutar...
 	"""
 	keyWait
 	clearMsg
@@ -53,8 +56,8 @@ script 3 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I hope we can get
-	the PET fixed soon!
+	Espero que o PET seja
+	consertado logo!
 	"""
 	keyWait
 	flagSet
@@ -66,15 +69,15 @@ script 4 mmbn3 {
 		mugshot = Mom
 	msgOpen
 	"""
-	Lan!!
-	Come over here and
-	eat your dinner!
+	Lan!
+	O jantar tá pronto!
+	Vamos comer.
 	"""
 	keyWait
 	clearMsg
 	"""
-	You have to get up
-	early tomorrow!
+	Afinal, você tem que
+	acordar cedo amanhã!
 	"""
 	keyWait
 	clearMsg
@@ -88,9 +91,9 @@ script 5 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	All right,all right!
-	But why do I have
-	to get up early?
+	Tá bom, tá bom!
+	Mas por que eu tenho
+	que acordar cedo?
 	"""
 	keyWait
 	clearMsg
@@ -102,9 +105,8 @@ script 6 mmbn3 {
 		mugshot = Mom
 	msgOpen
 	"""
-	You've already
-	forgotten? Tomorrow
-	is your field trip!
+	Já esqueceu? Amanhã
+	é a sua excursão!
 	"""
 	keyWait
 	clearMsg
@@ -115,7 +117,7 @@ script 7 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Hey! That's right!!"
+	"Ah! É mesmo!!"
 	keyWait
 	clearMsg
 	jump
@@ -126,15 +128,14 @@ script 8 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Oh,yeah! I had
-	completely
-	forgotten!
+	Verdade! Eu tinha
+	esquecido completamente!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I can't wait to see
-	the Yoka zoo!
+	Mal posso esperar pra
+	ver o zoológico de Yoka!
 	"""
 	keyWait
 	clearMsg
@@ -148,8 +149,9 @@ script 9 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Gosh,you sound like
-	a little kid…
+	Ah, MegaMan, você
+	pareceu até uma
+	criancinha falando...
 	"""
 	keyWait
 	clearMsg
@@ -161,9 +163,9 @@ script 10 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Um,who was it that
-	cried when dad was
-	too busy to take us?
+	... Quem foi mesmo que
+	chorou quando o papai
+	não pôde nos levar lá?
 	"""
 	keyWait
 	clearMsg
@@ -175,8 +177,7 @@ script 11 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	T-That was a long
-	time ago!
+	I-isso foi há um tempão!
 	"""
 	keyWait
 	clearMsg
@@ -188,9 +189,9 @@ script 12 mmbn3 {
 		mugshot = Mom
 	msgOpen
 	"""
-	I thought I told
-	you to come here
-	and eat!!
+	Coma logo, Lan!
+	Eu não vou avisar de
+	novo!
 	"""
 	keyWait
 	end
@@ -201,7 +202,7 @@ script 13 mmbn3 {
 	soundDisableTextSFX
 	soundPlay
 		track = 212
-	"Ding dong!"
+	"Dim dom!"
 	wait
 		frames = 70
 	soundEnableTextSFX
@@ -213,8 +214,8 @@ script 14 mmbn3 {
 		mugshot = Mom
 	msgOpen
 	"""
-	Who could that be
-	at this late hour?
+	Quem pode ser a esta
+	hora?
 	"""
 	keyWait
 	end
@@ -223,7 +224,7 @@ script 15 mmbn3 {
 	mugshotShow
 		mugshot = Dad
 	msgOpen
-	"I'm home,everyone!"
+	"Cheguei, gente!"
 	keyWait
 	end
 }
@@ -231,7 +232,7 @@ script 16 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Dad!! Hey!!!"
+	"Papai!! Oi!!!"
 	keyWait
 	clearMsg
 	jump
@@ -241,7 +242,7 @@ script 17 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Welcome home!"
+	"Bem-vindo ao lar!"
 	keyWait
 	clearMsg
 	jump
@@ -252,8 +253,8 @@ script 18 mmbn3 {
 		mugshot = Mom
 	msgOpen
 	"""
-	It's so good to see
-	you home so early!
+	É tão bom ver você
+	voltando pra casa cedo!
 	"""
 	keyWait
 	clearMsg
@@ -265,8 +266,8 @@ script 19 mmbn3 {
 		mugshot = Dad
 	msgOpen
 	"""
-	Yeah,I guess it's
-	been a while!
+	He he. É, acho que já
+	faz um tempo!
 	"""
 	keyWait
 	clearMsg
@@ -278,9 +279,9 @@ script 20 mmbn3 {
 		mugshot = Mom
 	msgOpen
 	"""
-	You don't have to
-	work late tonight,
-	as usual?
+	Você não tem que tra-
+	balhar hoje até de ma-
+	drugada, como sempre?
 	"""
 	keyWait
 	clearMsg
@@ -292,15 +293,14 @@ script 21 mmbn3 {
 		mugshot = Dad
 	msgOpen
 	"""
-	Well,I have work to
-	do,but the server is
-	off for maintenance.
+	Bom, eu TENHO trabalho,
+	mas o servidor foi des-
+	ligado para manutenção.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Um,would it be OK
-	if I came in?
+	Er, tudo bem eu entrar?
 	"""
 	keyWait
 	end
@@ -310,9 +310,9 @@ script 22 mmbn3 {
 		mugshot = Mom
 	msgOpen
 	"""
-	Oh,my! I'm sorry,I
-	kept you standing
-	there!
+	Ai, nossa! Desculpa, eu
+	te deixei em pé aí, na
+	porta!
 	"""
 	keyWait
 	clearMsg
@@ -324,8 +324,8 @@ script 23 mmbn3 {
 		mugshot = Dad
 	msgOpen
 	"""
-	It took you this
-	long to notice?
+	Custou tudo isso pra
+	você notar...?
 	"""
 	keyWait
 	clearMsg
@@ -336,7 +336,7 @@ script 24 mmbn3 {
 	mugshotShow
 		mugshot = Mom
 	msgOpen
-	"Sorry,honey!!"
+	"Desculpa, Yuichiro!!"
 	keyWait
 	clearMsg
 	jump
@@ -345,7 +345,7 @@ script 24 mmbn3 {
 script 25 mmbn3 {
 	mugshotHide
 	msgOpen
-	"Ha,ha,ha!"
+	"Ha ha ha!"
 	keyWait
 	end
 }
@@ -353,12 +353,13 @@ script 26 mmbn3 {
 	mugshotShow
 		mugshot = Dad
 	msgOpen
-	"Oh,by the way…"
+	"Ah, e, por sinal..."
 	keyWait
 	clearMsg
 	"""
-	I heard you dropped
-	by SciLab today,Lan?
+	Me disseram que você
+	passou no SciLab hoje,
+	Lan. Foi isso mesmo?
 	"""
 	keyWait
 	clearMsg
@@ -370,8 +371,8 @@ script 27 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Yeah,my PET broke!
-	Can you fix it?
+	Foi! O meu PET quebrou!
+	Pode consertar?
 	"""
 	keyWait
 	end
@@ -380,13 +381,13 @@ script 28 mmbn3 {
 	mugshotShow
 		mugshot = Dad
 	msgOpen
-	"Well,let's see…"
+	"Hum, deixa eu ver..."
 	keyWait
 	clearMsg
 	"""
-	Wow,what a mess. The
-	transmission program
-	is totally fried.
+	Nossa, que estrago. O
+	programa de transmissão
+	queimou bonito.
 	"""
 	keyWait
 	clearMsg
@@ -397,7 +398,7 @@ script 29 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Can you fix it?"
+	"Dá pra consertar?"
 	keyWait
 	clearMsg
 	jump
@@ -407,7 +408,7 @@ script 30 mmbn3 {
 	mugshotShow
 		mugshot = Dad
 	msgOpen
-	"Of course!"
+	"Claro!"
 	keyWait
 	clearMsg
 	jump
@@ -417,7 +418,7 @@ script 31 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Cool! Thanks,dad!"
+	"Irado! Valeu, papai!"
 	keyWait
 	clearMsg
 	jump
@@ -428,9 +429,9 @@ script 32 mmbn3 {
 		mugshot = Dad
 	msgOpen
 	"""
-	But not now. I'll
-	have to take it to
-	SciLab for repairs.
+	Mas agora, não. Vou
+	precisar levar pro SciLab
+	pra fazer os reparos.
 	"""
 	keyWait
 	clearMsg
@@ -442,8 +443,8 @@ script 33 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	You mean I have to
-	wait even longer?
+	Então, eu vou ter que
+	esperar ainda mais?
 	"""
 	keyWait
 	clearMsg
@@ -455,15 +456,15 @@ script 34 mmbn3 {
 		mugshot = Dad
 	msgOpen
 	"""
-	Well,that's the
-	price you pay for a
-	full-custom PET!
+	Bom, é o preço que se
+	paga por um PET 100%
+	customizado!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'll send you some
-	new data tomorrow.
+	Amanhã eu te mando uns
+	dados novos.
 	"""
 	keyWait
 	clearMsg
@@ -475,9 +476,9 @@ script 35 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Thank you!
-	We can wait,
-	right,Lan?
+	Obrigado!
+	A gente pode esperar,
+	né, Lan?
 	"""
 	keyWait
 	clearMsg
@@ -488,7 +489,7 @@ script 36 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Yeah,I guess…"
+	"É, acho que sim..."
 	keyWait
 	clearMsg
 	jump
@@ -499,9 +500,9 @@ script 37 mmbn3 {
 		mugshot = Mom
 	msgOpen
 	"""
-	Lan,you have to get
-	to bed so you don't
-	oversleep tomorrow!!
+	Lan, você tem que ir pra
+	cama pra não perder a
+	hora amanhã!
 	"""
 	keyWait
 	clearMsg
@@ -512,13 +513,13 @@ script 38 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"OK,OK!"
+	"Tá bom, tá bom!"
 	keyWait
 	clearMsg
 	"""
-	Promise me you'll
-	get to it tomorrow,
-	dad!
+	Me promete que vai
+	trabalhar nele amanhã,
+	papai!
 	"""
 	keyWait
 	end

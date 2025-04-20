@@ -10,31 +10,30 @@ script 0 mmbn3 {
 		palette = 2
 	msgOpenAlt
 	"""
-	This is the
-	customization
-	screen.
+	Esta é a tela de
+	customização.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Right now,
-	MegaMan.EXE is
-	shutting down.
+	Neste exato momento,
+	MegaMan.EXE está sendo
+	desligado.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Now we can make a
-	program to customize
-	MegaMan's abilities.
+	Agora, podemos usar um
+	programa para customi-
+	zar as habilidades dele.
 	"""
 	keyWait
 	clearMsg
 	flagSet
 		flag = 163
 	"""
-	You customize by
-	loading programs…
+	Para customizar,
+	instalamos programas...
 	
 	"""
 	waitFlag
@@ -54,8 +53,8 @@ script 1 mmbn3 {
 	flagSet
 		flag = 163
 	"""
-	…Into his "Memory
-	Map,"like this.
+	... no "Mapa de Memória"
+	dele, assim.
 	"""
 	waitFlag
 		flag = 164
@@ -71,38 +70,37 @@ script 2 mmbn3 {
 		flipY = false
 		palette = 2
 	msgOpenAltQuick
-	"Let's add \""
+	"Vamos instalar \""
 	printNaviCustProgram
 		buffer = 0
 		program = 30
 	"""
 	".
-	It ensures his HP
-	never drops below 1.
+	Ele garante que sobrevi-
+	va com 1 PV numa luta.
 	"""
 	keyWait
 	clearMsg
-	"Choose \""
+	"Coloque \""
 	printNaviCustProgram
 		buffer = 0
 		program = 30
 	"""
 	"
-	from the upper right
-	window to add it…
+	na janela ao lado para
+	instalar...
 	"""
 	keyWait
 	clearMsg
 	"""
-	But there is a rule
-	you must follow!
+	Mas há uma regra que
+	você precisará seguir!
 	"""
 	keyWait
 	clearMsg
 	"""
-	See the line in the
-	middle of the
-	Memory Map?
+	Vê a linha no meio do
+	Mapa de Memória?
 	"""
 	keyWait
 	flagSet
@@ -119,27 +117,28 @@ script 3 mmbn3 {
 		palette = 2
 	msgOpenAlt
 	"""
-	That's called the
-	Command Line. You
-	must set programs…
+	Ela é o que chamamos de
+	Linha de Comando. Preci-
+	sa posicionar programas
 	"""
 	keyWait
 	clearMsg
 	"""
-	…on the Command Line
-	before they will
-	begin functioning.
+	na Linha de Comando
+	para que possam
+	funcionar devidamente.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Just being on one
-	square is enough!
+	Mesmo se só um bloco
+	dele ficar na linha,
+	isso já basta!
 	"""
 	keyWait
 	clearMsg
 	"""
-	OK,let's try setting
+	OK, tente posicionar
 	"
 	"""
 	printNaviCustProgram
@@ -159,7 +158,7 @@ script 10 mmbn3 {
 		palette = 2
 	msgOpenAlt
 	"""
-	No,that's not
+	Não, esse não é o
 	"
 	"""
 	printNaviCustProgram
@@ -179,8 +178,8 @@ script 11 mmbn3 {
 		palette = 2
 	msgOpenAlt
 	"""
-	You don't need to
-	choose that now.
+	Não precisa selecionar
+	isso agora.
 	"""
 	keyWait
 	end
@@ -195,8 +194,9 @@ script 12 mmbn3 {
 		palette = 2
 	msgOpenAlt
 	"""
-	No,the program isn't
-	on the Command Line!
+	Não, o programa não
+	está na Linha de
+	Comando!
 	"""
 	keyWait
 	end
@@ -211,7 +211,7 @@ script 15 mmbn3 {
 		palette = 2
 	msgOpenAlt
 	"""
-	OK,next let's try
+	Certo, agora, tente o
 	"
 	"""
 	printNaviCustProgram
@@ -220,7 +220,7 @@ script 15 mmbn3 {
 	"\"!"
 	keyWait
 	clearMsg
-	"Try it,Lan!"
+	"Experimente, Lan!"
 	keyWait
 	end
 }
@@ -234,7 +234,7 @@ script 16 mmbn3 {
 		palette = 2
 	msgOpenAlt
 	"""
-	No,that's not
+	Não, esse não é o
 	"
 	"""
 	printNaviCustProgram
@@ -254,8 +254,8 @@ script 17 mmbn3 {
 		palette = 2
 	msgOpenAlt
 	"""
-	You don't need to
-	choose that now.
+	Não precisa selecionar
+	isso agora.
 	"""
 	keyWait
 	end
@@ -270,9 +270,8 @@ script 18 mmbn3 {
 		palette = 2
 	msgOpenAlt
 	"""
-	You can just leave
-	that one where it is
-	for now.
+	Pode deixar esse aí
+	onde está, por ora.
 	"""
 	keyWait
 	end
@@ -287,8 +286,8 @@ script 20 mmbn3 {
 		palette = 2
 	msgOpenAlt
 	"""
-	Now,there's another
-	rule. Look at this
+	Agora, mais uma regra.
+	Veja este
 	"
 	"""
 	printNaviCustProgram
@@ -310,21 +309,21 @@ script 21 mmbn3 {
 		palette = 2
 	msgOpenAlt
 	"""
-	See the pattern?
-	This is a Plus
-	Parts program.
+	Vê a "estampa" dele?
+	Esse é um programa
+	Peça Próton.
 	"""
 	keyWait
 	clearMsg
 	"""
-	You should never put
-	Plus Parts on the
-	Command Line.
+	Nunca se deve colocar
+	uma Peça Próton na
+	Linha de Comando.
 	"""
 	keyWait
 	clearMsg
 	"""
-	OK,try setting the
+	Tá, tente instalar o
 	"
 	"""
 	printNaviCustProgram
@@ -349,8 +348,8 @@ script 22 mmbn3 {
 		program = 41
 	"""
 	"
-	shouldn't go on the
-	Command Line!
+	não pode ser posicionado
+	na Linha de Comando!
 	"""
 	keyWait
 	end
@@ -369,9 +368,9 @@ script 23 mmbn3 {
 		buffer = 0
 		program = 30
 	"""
-	" is
-	already there,so
-	that won't fit.
+	" já
+	está aí, então,
+	esse não vai encaixar.
 	"""
 	keyWait
 	end
@@ -386,8 +385,8 @@ script 25 mmbn3 {
 		palette = 2
 	msgOpenAlt
 	"""
-	OK. Finally,let's try
-	setting the program
+	OK. E, por fim, vamos
+	colocar o programa
 	"
 	"""
 	printNaviCustProgram
@@ -396,7 +395,7 @@ script 25 mmbn3 {
 	"\"."
 	keyWait
 	clearMsg
-	"Try it,Lan!"
+	"Experimenta, Lan!"
 	keyWait
 	end
 }
@@ -410,8 +409,8 @@ script 26 mmbn3 {
 		palette = 2
 	msgOpenAlt
 	"""
-	You don't need to
-	choose that now.
+	Não precisa selecionar
+	esse agora.
 	"""
 	keyWait
 	end
@@ -426,9 +425,8 @@ script 27 mmbn3 {
 		palette = 2
 	msgOpenAlt
 	"""
-	You can just leave
-	that one where it is
-	for now.
+	Pode deixar esse aí
+	onde está, por ora.
 	"""
 	keyWait
 	end
@@ -443,21 +441,21 @@ script 28 mmbn3 {
 		palette = 2
 	msgOpenAlt
 	"""
-	Now here's the third
-	rule. It's the last
-	one. Pay attention!
+	Então, tem uma terceira
+	regra. É a última, preste
+	atenção!
 	"""
 	keyWait
 	clearMsg
 	"""
-	You can't line up
-	two programs with
-	the same color!
+	Dois programas da mesma
+	cor não podem ficar
+	colados!
 	"""
 	keyWait
 	clearMsg
 	"""
-	For example,this
+	Por exemplo, este
 	"
 	"""
 	printNaviCustProgram
@@ -465,7 +463,7 @@ script 28 mmbn3 {
 		program = 30
 	"""
 	"
-	and…
+	e...
 	"""
 	keyWait
 	flagSet
@@ -481,13 +479,13 @@ script 29 mmbn3 {
 		flipY = false
 		palette = 2
 	msgOpenAlt
-	"…this \""
+	"... este \""
 	printNaviCustProgram
 		buffer = 0
 		program = 42
 	"""
 	"
-	are the same color.
+	são da mesma cor.
 	"""
 	keyWait
 	flagSet
@@ -504,13 +502,13 @@ script 30 mmbn3 {
 		palette = 2
 	msgOpenAlt
 	"""
-	You must be careful
-	not to put them next
-	to each other.
+	Sempre tome cuidado
+	para não posicioná-los
+	lado a lado.
 	"""
 	keyWait
 	clearMsg
-	"Now,you try it!"
+	"Bom, agora, tente você!"
 	keyWait
 	end
 }
@@ -529,8 +527,8 @@ script 31 mmbn3 {
 		program = 42
 	"""
 	"
-	shouldn't go on the
-	Command Line!
+	não pode ficar na Linha
+	de Comando!
 	"""
 	keyWait
 	end
@@ -545,9 +543,9 @@ script 32 mmbn3 {
 		palette = 2
 	msgOpenAlt
 	"""
-	Another program is
-	already there,so
-	that won't fit.
+	Já tem outro programa
+	aí, então, esse não vai
+	caber.
 	"""
 	keyWait
 	end
@@ -562,9 +560,9 @@ script 33 mmbn3 {
 		palette = 2
 	msgOpenAlt
 	"""
-	No,you can't put two
-	white programs next
-	to each other!
+	Não, você não pode dei-
+	xar dois programas bran-
+	cos colados um no outro!
 	"""
 	keyWait
 	end
@@ -579,27 +577,27 @@ script 35 mmbn3 {
 		palette = 2
 	msgOpenAlt
 	"""
-	OK,now I'll tell you
-	about the "RUN"
-	command!
+	Certo, agora, vou
+	falar sobre o comando
+	"EXECUTAR".
 	"""
 	keyWait
 	clearMsg
 	"""
-	RUN will start the
-	NetNavi program
+	EXECUTAR irá ligar o
+	programa NetNavi
 	MegaMan.EXE.
 	"""
 	keyWait
 	clearMsg
 	"""
-	MegaMan will awaken,
-	able to use programs
-	on his Memory Map.
+	O MegaMan vai acordar,
+	podendo usar os progra-
+	mas no Mapa de Memória.
 	"""
 	keyWait
 	clearMsg
-	"Try hitting RUN,Lan!"
+	"Aperte EXECUTAR, Lan!"
 	keyWait
 	end
 }
@@ -613,9 +611,8 @@ script 36 mmbn3 {
 		palette = 2
 	msgOpenAlt
 	"""
-	You can just leave
-	that one where it is
-	for now.
+	Pode deixar esse aí
+	onde está, por ora.
 	"""
 	keyWait
 	end
@@ -630,89 +627,88 @@ script 37 mmbn3 {
 		palette = 2
 	msgOpenAlt
 	"""
-	OK,now it's running!
-	Try talking to
-	MegaMan!
+	Isso, boa execução!
+	Agora, tente falar com
+	o MegaMan!
 	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	"""
-	I hope he's OK…
-	MegaMan,how do you
-	feel?
+	Espero que ele esteja
+	bem... MegaMan, como
+	você tá se sentindo?
 	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"Mmmmph…"
+	"Mmmmpf..."
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	"""
-	Mega…
-	MegaMan!?
+	Mega...
+	MegaMan?!
 	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Looks like it went
-	well,Lan! I feel
-	stronger already!
+	Parece que deu tudo
+	certo, Lan! Eu já tô me
+	sentindo mais forte!
 	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	"""
-	Hey,don't scare me
-	like that!
+	Poxa, não me assusta
+	desse jeito!
 	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = Dad
 	"""
-	Looks like it's
-	running. You can add
-	more programs later!
+	É, está operacional. Você
+	poderá adicionar mais
+	programas mais tarde.
 	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	"""
-	Cool! I'll look for
-	more programs to
-	make him stronger!
+	Maneiro! Vou atrás de
+	mais programas pra
+	fortalecer ele ainda mais!
 	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = Dad
 	"""
-	That's fine Lan,but
-	don't forget the 3
-	rules I told you!
+	Tudo bem, Lan, mas não
+	vá esquecer as três
+	regras que eu ensinei!
 	"""
 	keyWait
 	clearMsg
 	"""
-	If you don't obey
-	those rules,you
-	could create a bug!
+	Se não segui-las, pode
+	acabar criando um bug!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Now,MegaMan can
-	only use programs of
-	these colors.
+	Por ora, MegaMan só
+	pode usar programas
+	destas cores.
 	"""
 	keyWait
 	flagSet
@@ -729,33 +725,33 @@ script 38 mmbn3 {
 		palette = 2
 	msgOpenAltQuick
 	"""
-	If you try to use
-	any other colors,
-	you'll get an error!
+	Se tentar usar outras
+	cores, vai ocorrer um
+	erro!
 	"""
 	keyWait
 	clearMsg
 	"""
-	If an error occurs,
-	MegaMan won't be
-	able to start up!
+	E se ocorrer, o MegaMan
+	nem vai conseguir ficar
+	de pé!
 	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	"""
-	Got it!
-	Thanks,dad!
+	Entendido!
+	Valeu, papai!
 	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = Dad
 	"""
-	That's it for the
-	Customizer.
-	Have fun,you two!
+	Bom, e esse é o
+	Customizador.
+	Divirtam-se, meninos!
 	"""
 	keyWait
 	end

@@ -5,16 +5,16 @@ script 0 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan,it's almost
-	time for Alpha to
-	awaken!
+	MegaMan, já tá quase
+	na hora do Alpha
+	despertar!
 	"""
 	keyWait
 	clearMsg
 	"""
-	We don't have time
-	to waste! Find
-	DrillMan! Fast!
+	A gente não pode
+	perder tempo! Encontra
+	o DrillMan, rápido!
 	"""
 	keyWait
 	clearMsg
@@ -25,7 +25,7 @@ script 1 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Roger!!"
+	"Claro!!"
 	keyWait
 	end
 }

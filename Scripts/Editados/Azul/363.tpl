@@ -4,7 +4,7 @@ script 0 mmbn3 {
 	mugshotHide
 	msgOpen
 	soundDisableTextSFX
-	"Briiiiing!"
+	"Trriiiiiiiim!"
 	keyWait
 	soundEnableTextSFX
 	end
@@ -14,8 +14,7 @@ script 1 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan! You got a phone
-	call!
+	Lan! Ligação pra você!
 	"""
 	keyWait
 	clearMsg
@@ -27,9 +26,9 @@ script 2 mmbn3 {
 		mugshot = MrMatch
 	msgOpen
 	"""
-	I see you've managed
-	to put out all of
-	FlamMan's fires.
+	Vejo que conseguiram
+	apagar todas as chamas
+	do FlameMan.
 	"""
 	keyWait
 	clearMsg
@@ -41,14 +40,14 @@ script 3 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	All right,Match!
-	Where are you!?
+	Pronto, Match!
+	E aí, cadê você?!
 	"""
 	keyWait
 	clearMsg
 	"""
-	There's a battle we
-	have to settle!
+	A gente tem uma luta
+	pra travar!
 	"""
 	keyWait
 	clearMsg
@@ -60,22 +59,22 @@ script 4 mmbn3 {
 		mugshot = MrMatch
 	msgOpen
 	"""
-	Heh heh heh!
-	Oh,you'll have your
-	battle!
+	He he he!
+	Ah, você vai ter essa
+	luta, sim.
 	"""
 	keyWait
 	clearMsg
 	"""
-	FlamMan's in
+	O FlameMan está em
 	Undernet 3!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Want to fight?
-	You'll have to come
-	to us!
+	Quer brigar?
+	Pois vai ter que vir até
+	aqui!
 	"""
 	keyWait
 	clearMsg
@@ -86,12 +85,12 @@ script 5 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Undernet 3,right?"
+	"Undernet 3, né?"
 	keyWait
 	clearMsg
 	"""
-	You just wait! We'll
-	be right there!
+	Espera só!
+	A gente já vai aí!
 	"""
 	keyWait
 	clearMsg
@@ -103,15 +102,15 @@ script 6 mmbn3 {
 		mugshot = MrMatch
 	msgOpen
 	"""
-	Oh,yeah,I've got
-	something nice to
-	show you.
+	Ah, sim, e eu tenho uma
+	coisa muito legal pra
+	mostrar pra vocês.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Check out what's
-	happening inside
+	Vejam só o que está
+	acontecendo dentro do
 	SciLab!
 	"""
 	keyWait
@@ -123,7 +122,7 @@ script 7 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"What!?"
+	"O quê?!"
 	keyWait
 	end
 }

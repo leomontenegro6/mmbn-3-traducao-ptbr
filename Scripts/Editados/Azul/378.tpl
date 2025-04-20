@@ -5,9 +5,9 @@ script 0 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Chaud. Tell me more
-	about the Forbidden
-	Program.
+	Chaud. Me fala mais
+	sobre o Programa
+	Proibido.
 	"""
 	keyWait
 	clearMsg
@@ -19,8 +19,8 @@ script 1 mmbn3 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	I see you've finally
-	come around.
+	Vejo que, finalmente,
+	acordou pra vida.
 	"""
 	keyWait
 	clearMsg
@@ -32,9 +32,9 @@ script 2 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Yeah,thanks to you
-	I've finally come to
-	my senses!
+	É. Graças a você, eu
+	finalmente tô
+	enxergando de novo!
 	"""
 	keyWait
 	clearMsg
@@ -46,29 +46,29 @@ script 3 mmbn3 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Me? I don't recall
-	doing anything.
+	A mim? Eu não me lembro
+	de fazer nada.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Anyway,I'll brief
-	you on the mission
-	details.
+	Enfim, explicarei para
+	você os detalhes da
+	missão.
 	"""
 	keyWait
 	clearMsg
 	"""
-	First though,I must
-	warn you that this
-	is a particularly
+	Mas, antes de mais
+	nada, devo avisar que
+	essa será uma missão
 	"""
 	keyWait
 	clearMsg
 	"""
-	dangerous mission.
-	You could even…
-	lose MegaMan.
+	particularmente perigosa.
+	Você pode até...
+	perder o MegaMan.
 	"""
 	keyWait
 	clearMsg
@@ -79,7 +79,7 @@ script 4 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Uh…"
+	"Ungh..."
 	keyWait
 	clearMsg
 	jump
@@ -90,13 +90,12 @@ script 5 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I don't mind! I'm
-	ready to take risks
-	like that!
+	Tudo bem! Eu tô pronto
+	pra encarar esse risco!
 	"""
 	keyWait
 	clearMsg
-	"Let's do this,Lan!"
+	"Vamos nessa, Lan!"
 	keyWait
 	clearMsg
 	jump
@@ -107,15 +106,15 @@ script 6 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Thanks,MegaMan. OK.
-	Chaud,MegaMan and I
-	can accomplish any
+	Valeu, MegaMan. OK.
+	Chaud, o MegaMan e eu
+	podemos completar
 	"""
 	keyWait
 	clearMsg
 	"""
-	mission,no matter
-	what the odds!!
+	qualquer missão, não
+	importam as chances!!
 	"""
 	keyWait
 	clearMsg
@@ -127,23 +126,21 @@ script 7 mmbn3 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Very well. I will
-	continue then.
-	According to the
+	Pois bem. Vou continuar
+	com a explicação, então.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Officials'
-	investigation,the
-	Undernet has a
+	De acordo com a inves-
+	tigação dos Oficiais, a
+	Undernet tem um sistema
 	"""
 	keyWait
 	clearMsg
 	"""
-	system simply
-	referred to as
-	the "ranking".
+	conhecido simplesmente
+	como o "ranqueamento".
 	"""
 	keyWait
 	clearMsg
@@ -154,7 +151,7 @@ script 8 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"The ranking?"
+	"Ranqueamento?"
 	keyWait
 	clearMsg
 	jump
@@ -165,29 +162,29 @@ script 9 mmbn3 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	There are ten Navis
-	ranked 1 to 10 in
-	the Undernet.
+	Há dez Naviz de
+	ranques de 1 a 10 na
+	Undernet.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Unranked Navis
-	cannot even meet
-	the ranked ones.
+	Navis sem ranque nem
+	podem falar com os
+	ranqueados.
 	"""
 	keyWait
 	clearMsg
 	"""
-	The Navi called S,
-	whom you will be
-	seeking,
+	O Navi chamado S, que
+	é quem você precisa
+	encontrar,
 	"""
 	keyWait
 	clearMsg
 	"""
-	appears to be a
-	ranked Navi.
+	parece ser um Navi
+	ranqueado.
 	"""
 	keyWait
 	clearMsg
@@ -199,21 +196,20 @@ script 10 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	So…
-	In order to meet
-	this guy S…
+	Então...
+	Pra eu achar esse tal
+	de S...
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'll need to become
-	ranked,too!
+	Eu também vou ter que
+	entrar pro ranque!
 	"""
 	keyWait
 	clearMsg
 	"""
-	But,how do I do
-	that?
+	Mas... como eu faço isso?
 	"""
 	keyWait
 	clearMsg
@@ -225,8 +221,8 @@ script 11 mmbn3 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	That's still under
-	investigation.
+	Isso, ainda estamos
+	investigando.
 	"""
 	keyWait
 	clearMsg
@@ -238,9 +234,9 @@ script 12 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I guess we should
-	go to the Undernet
-	and look around.
+	Acho que a gente devia
+	ir pra Undernet e dar
+	uma sondada.
 	"""
 	keyWait
 	clearMsg
@@ -252,9 +248,9 @@ script 13 mmbn3 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	That's the mission.
-	Here's something
-	that may help you.
+	Essa é a missão.
+	Tome, isto poderá te
+	ajudar.
 	"""
 	keyWait
 	clearMsg
@@ -269,8 +265,8 @@ script 14 mmbn3 {
 	soundPlay
 		track = 133
 	"""
-	Lan got a Navi
-	Customizer program:
+	Lan pegou um programa
+	do Customizador de Navi:
 	"
 	"""
 	printNaviCustProgram
@@ -288,7 +284,7 @@ script 15 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"What's this?"
+	"O que é isto?"
 	keyWait
 	clearMsg
 	jump
@@ -299,30 +295,30 @@ script 16 mmbn3 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Install that program
-	into MegaMan when
-	entering the Under
+	Instale esse programa
+	no MegaMan quando
+	entrar no Under Plaza.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Square. It emits the
-	same electronic
-	waves as UnderNavis.
+	Ele emitirá as mesmas
+	ondas eletrônicas que
+	os UnderNavis.
 	"""
 	keyWait
 	clearMsg
 	"""
-	So long as that's
-	equipped,they'll
-	think you're one of
+	Enquanto ele tiver isso
+	equipado, eles verão o
+	MegaMan como um deles.
 	"""
 	keyWait
 	clearMsg
 	"""
-	them. UnderNavis
-	hate surface Navis
-	with a passion.
+	Os UnderNavis odeiam
+	Navis normais
+	intensamente.
 	"""
 	keyWait
 	clearMsg
@@ -334,20 +330,20 @@ script 17 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	So basically,if
-	MegaMan has this
-	installed…
+	Então, basicamente,
+	se eu instalar isto
+	no MegaMan...
 	"""
 	keyWait
 	clearMsg
 	"""
-	He'll look like a
-	bad guy. Got it!
-	All right,MegaMan!
+	ele vai parecer um
+	bandido. Saquei!
+	Beleza, MegaMan!
 	"""
 	keyWait
 	clearMsg
-	"Let's go!"
+	"Vamos nessa!"
 	keyWait
 	clearMsg
 	jump
@@ -357,7 +353,7 @@ script 18 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Roger!!"
+	"Entendido!!"
 	keyWait
 	end
 }

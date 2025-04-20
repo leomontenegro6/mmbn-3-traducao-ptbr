@@ -10,29 +10,30 @@ script 10 mmbn3 {
 		mugshot = MetrolineMan
 	msgOpen
 	"""
-	You need a ticket
-	to SciLab?
+	Você está precisando
+	de um tíquete para o
+	SciLab?
 	"""
 	keyWait
 	clearMsg
 	"""
-	You just need to buy
-	a ticket from that
-	machine,and walk in.
+	É só comprar um
+	naquela máquina ali
+	e passar pela catraca.
 	"""
 	keyWait
 	clearMsg
 	"""
-	If you accidentally
-	buy the wrong ticket
-	you can exchange it.
+	Se comprar o tíquete
+	errado por acidente, é
+	só trocar na máquina.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Oh,and elementary
-	school students ride
-	for free.
+	Ah, e alunos do
+	fundamental têm passe
+	livre e gratuito aqui!
 	"""
 	keyWait
 	end
@@ -42,21 +43,21 @@ script 11 mmbn3 {
 		mugshot = Woman
 	msgOpen
 	"""
-	You want to go
-	to SciLab?
+	Você quer ir para o
+	SciLab?
 	"""
 	keyWait
 	clearMsg
 	"""
-	You just have to buy
-	a "
+	Então, terá que comprar
+	um "
 	"""
 	printItem
 		buffer = 0
 		item = 89
 	"""
-	" from
-	that machine!
+	" naquela
+	máquina ali!
 	"""
 	keyWait
 	end
@@ -66,23 +67,21 @@ script 20 mmbn3 {
 		mugshot = MetrolineMan
 	msgOpen
 	"""
-	There is a Metroline
-	in Cyberworld that
-	Navis can use.
+	Há uma Metrolinha na
+	Rede que Navis podem
+	usar.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Only certain Navis
-	are allowed to ride
-	it,though.
+	Mas somente certos
+	Navis podem andar nela.
 	"""
 	keyWait
 	clearMsg
 	"""
-	That's because it
-	has a limited
-	capacity.
+	Isso porque ela tem uma
+	capacidade bem limitada.
 	"""
 	keyWait
 	end
@@ -92,15 +91,15 @@ script 21 mmbn3 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	What? There's no
-	kiosk here?
+	O quê? Não tem nenhum
+	tipo de loja aqui?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Well,where am I
-	supposed to buy my
-	morning coffee?
+	Ora, então onde você
+	espera que eu compre
+	o meu cafézinho matinal?
 	"""
 	keyWait
 	end
@@ -124,52 +123,52 @@ script 50 mmbn3 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	You're Higsby?
-	You're younger than
-	I thought!
+	Você é o Higsby?
+	Puxa, é bem mais novo
+	do que eu imaginava!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Well,anyway,about
-	that "
+	Enfim, quanto ao
+	"
 	"""
 	printItem
 		buffer = 0
 		item = 12
 	"""
 	"
-	you needed…
+	de que você precisava...
 	"""
 	keyWait
 	clearMsg
-	"・"
+	"."
 	waitSkip
 		frames = 20
-	"・"
+	"."
 	waitSkip
 		frames = 20
-	"・"
+	"."
 	waitSkip
 		frames = 20
 	"""
-	Sorry!
-	Actually,I put it
-	in my briefcase…
-	"""
-	keyWait
-	clearMsg
-	"""
-	And forgot the case
-	at an inn that I
-	stayed at yesterday!
+	 Perdão!
+	Na verdade, eu o deixei
+	na minha bolsa...
 	"""
 	keyWait
 	clearMsg
 	"""
-	I don't suppose you
-	could do me a favor
-	and go get it?
+	mas a esqueci em uma
+	pousada em que
+	pernoitei ontem!
+	"""
+	keyWait
+	clearMsg
+	"""
+	Seria pedir demais para
+	você me fazer o favor
+	de ir lá buscá-la?
 	"""
 	keyWait
 	clearMsg
@@ -191,27 +190,27 @@ script 51 mmbn3 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	Thank you,Higsby!
-	Your kindness is why
-	your shop does well!
+	Obrigado, Higsby! É por
+	essa gentileza que sua
+	loja é tão próspera!
 	"""
 	keyWait
 	clearMsg
-	"Thank you so much!"
+	"Fico muito grato!"
 	keyWait
 	clearMsg
 	"""
-	Well,here's the
-	product you ordered!
+	Bom, eis aqui o produto
+	que o senhor pediu!
 	"""
 	keyWait
 	clearMsg
 	flagSet
 		flag = 1293
 	"""
-	I look forward to
-	doing more business
-	with you!
+	Espero ansioso por
+	futuras negociações
+	com o senhor!
 	"""
 	keyWait
 	clearMsg
@@ -228,7 +227,7 @@ script 52 mmbn3 {
 		item = 12
 		amount = 1
 	"""
-	Lan got:
+	Lan adquiriu:
 	"
 	"""
 	printItem
@@ -248,9 +247,9 @@ script 53 mmbn3 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	I look forward to
-	getting your orders!
-	Heh,heh,heh!
+	Ficarei de prontidão para
+	mais encomendas suas!
+	He he he!
 	"""
 	keyWait
 	end
@@ -260,20 +259,20 @@ script 54 mmbn3 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	I forgot the case
-	at an inn in Yoka.
+	Esqueci a bolsa em uma
+	pousada de Yoka.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'm sorry that I'm
-	so forgetful!
+	Desculpe por ser tão
+	esquecido!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Thanks for your
-	help,Higsby!
+	E obrigado pela ajuda,
+	Higsby!
 	"""
 	keyWait
 	end
@@ -283,16 +282,16 @@ script 60 mmbn3 {
 		mugshot = MetrolineMan
 	msgOpen
 	"""
-	I thought that the
-	problems at Yoka
-	would have decreased
+	Eu pensei que os
+	problemas em Yoka
+	reduziriam o número
 	"""
 	keyWait
 	clearMsg
 	"""
-	the number of people
-	going there,but now
-	more go than ever!
+	de pessoas viajando
+	para lá, mas, não: esse
+	número bateu o récorde!
 	"""
 	keyWait
 	end
@@ -306,9 +305,9 @@ script 61 mmbn3 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	I went to Yoka,but
-	it looks the same as
-	it always did!
+	Eu fui lá pra Yoka, mas
+	tá igual a como sempre
+	é!
 	"""
 	keyWait
 	end
@@ -318,15 +317,13 @@ script 65 mmbn3 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	Some guy dressed as
-	a Navi went through
-	here…
+	Um tio aí vestido de
+	Navi passou por aqui...
 	"""
 	keyWait
 	clearMsg
 	"""
-	What's up with
-	that guy?
+	Qual era a dele?
 	"""
 	keyWait
 	end
@@ -341,9 +338,9 @@ script 70 mmbn3 {
 		mugshot = MetrolineMan
 	msgOpen
 	"""
-	A new line will be
-	opening up soon! I
-	can't wait!
+	Uma nova linha logo
+	será inaugurada!
+	Mal posso esperar!
 	"""
 	keyWait
 	end
@@ -358,8 +355,8 @@ script 71 mmbn3 {
 		mugshot = CapBoy
 	msgOpen
 	"""
-	Hey,Lan!
-	Where are you going?
+	Ô, Lan!
+	Aonde cê vai?
 	"""
 	keyWait
 	end
@@ -369,9 +366,9 @@ script 75 mmbn3 {
 		mugshot = CapBoy
 	msgOpen
 	"""
-	What's going on?
-	Did something
-	happen?
+	O que tá rolando?
+	Aconteceu alguma
+	coisa?
 	"""
 	keyWait
 	end
@@ -381,9 +378,9 @@ script 80 mmbn3 {
 		mugshot = MetrolineMan
 	msgOpen
 	"""
-	That was horrible!
-	I'm glad the bubbles
-	are all gone now!
+	Isso foi horrível!
+	Ainda bem que as bolhas
+	já desapareceram!
 	"""
 	keyWait
 	end
@@ -393,13 +390,13 @@ script 81 mmbn3 {
 		mugshot = CapBoy
 	msgOpen
 	"""
-	What!?
-	Mayl was trapped in
-	the bubbles,too!?
+	Quê?!
+	A Mayl também ficou
+	presa numa bolha?!
 	"""
 	keyWait
 	clearMsg
-	"I didn't know that!"
+	"Eu não sabia dessa!"
 	keyWait
 	end
 }
@@ -437,9 +434,9 @@ script 85 mmbn3 {
 		mugshot = MetrolineMan
 	msgOpen
 	"""
-	We're doing our best
-	to finish Beach Stn
-	before the N1!
+	Estamos fazendo o pos-
+	sível para terminar a Es-
+	tação Angra antes do N1!
 	"""
 	keyWait
 	end
@@ -449,15 +446,16 @@ script 86 mmbn3 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	I hear that the
-	CyberMetro goes to
-	the Beach area now!
+	Ouvi dizer que, agora,
+	o CyberMetrô leva pra
+	área Angra, também!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Now,if only I could
-	get a ticket…
+	Agora é só eu dar um
+	jeito de arranjar um
+	tíquete...
 	"""
 	keyWait
 	end
@@ -467,9 +465,9 @@ script 90 mmbn3 {
 		mugshot = MetrolineMan
 	msgOpen
 	"""
-	We are providing
-	increased service to
-	Beach Stn today.
+	Estamos oferecendo
+	serviço ampliado para
+	a Estação Angra hoje.
 	"""
 	keyWait
 	end
@@ -479,16 +477,16 @@ script 95 mmbn3 {
 		mugshot = MetrolineMan
 	msgOpen
 	"""
-	You can now go to
-	the hospital via
-	the Metroline.
+	Agora, é possível
+	acessar o hospital via
+	Metrolinha.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Please get off at
-	Beach Stn if you're
-	going there.
+	Por favor, desça na
+	Estação Angra se esse
+	for o seu destino.
 	"""
 	keyWait
 	end
@@ -498,9 +496,8 @@ script 100 mmbn3 {
 		mugshot = MetrolineMan
 	msgOpen
 	"""
-	There are no
-	problems with the
-	Metroline today!
+	A Metrolinha opera sem
+	problemas hoje!
 	"""
 	keyWait
 	end
@@ -510,22 +507,22 @@ script 105 mmbn3 {
 		mugshot = MetrolineMan
 	msgOpen
 	"""
-	The Metroline heated
-	up due to the fires
-	on the Internet!
+	A Metrolinha aqueceu
+	bastante devido aos
+	incêndios na Rede.
 	"""
 	keyWait
 	clearMsg
 	"""
-	But we're OK
-	for now!
+	Mas estamos todos bem,
+	por ora!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Our cooling devices
-	are working,so we're
-	still running!
+	Nosso sistema de resfri-
+	amento está operacional,
+	então, também estamos!
 	"""
 	keyWait
 	end
@@ -535,15 +532,16 @@ script 108 mmbn3 {
 		mugshot = MetrolineMan
 	msgOpen
 	"""
-	We somehow managed
-	to withstand all of
-	that heat…
+	Milagrosamente, demos
+	um jeito de aguentar
+	todo aquele calor...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Thank goodness for
-	the cooling device!
+	Ah,  que seria de nós
+	sem o sistema de
+	resfriamento?
 	"""
 	keyWait
 	end
@@ -553,16 +551,16 @@ script 110 mmbn3 {
 		mugshot = MetrolineMan
 	msgOpen
 	"""
-	Those fires caused
-	some damage to the
-	Metroline…
+	Aqueles incêndios
+	avariaram um pouco a
+	Metrolinha...
 	"""
 	keyWait
 	clearMsg
 	"""
-	We're still running,
-	but we will have to
-	make some repairs.
+	Seguimos operacionais,
+	mas precisaremos fazer
+	alguns reparos.
 	"""
 	keyWait
 	end
@@ -574,16 +572,15 @@ script 220 mmbn3 {
 		jumpIfFalse = continue
 	msgOpen
 	"""
-	A recycling bin for
-	old magazines and
-	newspapers
+	Uma lixeira para
+	revistas e jornais
+	velhos.
 	"""
 	keyWait
 	clearMsg
 	"""
-	The frog almost
-	seems to be begging
-	you for your trash
+	O sapo quase parece
+	imploorar pelo seu lixo.
 	"""
 	keyWait
 	end
@@ -591,15 +588,15 @@ script 220 mmbn3 {
 script 221 mmbn3 {
 	msgOpen
 	"""
-	This wall is covered
-	with posters
+	Esta parede está
+	coberta de pôsteres.
 	"""
 	keyWait
 	clearMsg
 	"""
-	The Metroline makes
-	a lot of money from
-	these ads
+	A Metrolinha lucra
+	bastante com esses
+	anúncios.
 	"""
 	keyWait
 	end
@@ -607,22 +604,23 @@ script 221 mmbn3 {
 script 222 mmbn3 {
 	msgOpen
 	"""
-	A new type of
-	garbage can for
-	recycling soda cans
+	Um novo tipo de lata de
+	lixo para reciclagem de
+	latas de bebidas.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Maybe this should be
-	called a "CANgaroo"?
+	Este canguruzinho é
+	um belo dum
+	"mar-SUCO-pial"!
 	"""
 	keyWait
 	clearMsg
 	"""
-	…We apologize for
-	that last joke. It
-	wasn't punny at all
+	... Perdão pela piada.
+	Foi um trocadilho que
+	nem vale um trocado.
 	"""
 	keyWait
 	end
@@ -630,22 +628,23 @@ script 222 mmbn3 {
 script 223 mmbn3 {
 	msgOpen
 	"""
-	A poster for very
-	sweet,cute candies
+	Uma propaganda de
+	docinhos bonitinhos
+	e bem açucarados.
 	"""
 	keyWait
 	clearMsg
 	"""
-	The characters on
-	each piece have a
-	different face
+	Os personagens em
+	cada embalagem têm
+	rostos diferentes.
 	"""
 	keyWait
 	clearMsg
 	"""
-	It must take them
-	forever to draw
-	those on there
+	Deve ter demorado uma
+	vida para desenhar
+	todos eles.
 	"""
 	keyWait
 	end
@@ -666,7 +665,7 @@ script 230 mmbn3 {
 		jumpIfInRange = 235
 		jumpIfOutOfRange = continue
 	msgOpen
-	"Buy a ticket to:\n"
+	"Comprar tíquete para:\n"
 	option
 		left = 0
 		right = 0
@@ -674,7 +673,7 @@ script 230 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"SciLab\n"
+	"   SciLab\n"
 	option
 		left = 1
 		right = 1
@@ -682,7 +681,7 @@ script 230 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Nowhere"
+	"   Ficar"
 	select
 		default = 0
 		BSeparate = false
@@ -705,7 +704,7 @@ script 231 mmbn3 {
 	playerAnimate
 		animation = 24
 	"""
-	Lan got:
+	Lan adquiriu:
 	"
 	"""
 	printItem
@@ -721,7 +720,7 @@ script 231 mmbn3 {
 }
 script 232 mmbn3 {
 	msgOpen
-	"Exchange ticket?\n"
+	"Trocar tíquete?\n"
 	option
 		left = 1
 		right = 1
@@ -729,7 +728,7 @@ script 232 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"   Sim "
 	option
 		left = 0
 		right = 0
@@ -737,7 +736,7 @@ script 232 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No"
+	"          Não"
 	select
 		default = 0
 		BSeparate = false
@@ -764,8 +763,8 @@ script 233 mmbn3 {
 		flag = 10
 	msgOpen
 	"""
-	Lan returned his
-	ticket!
+	Lan devolveu o tíquete
+	que tinha!
 	"""
 	keyWait
 	clearMsg
@@ -778,7 +777,7 @@ script 234 mmbn3 {
 		amount = 1
 	msgOpen
 	"""
-	Lan used:
+	Lan usou:
 	"
 	"""
 	printItem
@@ -790,7 +789,7 @@ script 234 mmbn3 {
 }
 script 235 mmbn3 {
 	msgOpen
-	"Buy a ticket to:\n"
+	"Comprar tíquete para:\n"
 	option
 		left = 1
 		right = 1
@@ -798,7 +797,7 @@ script 235 mmbn3 {
 		down = 2
 	space
 		count = 2
-	"SciLab     "
+	"   SciLab"
 	option
 		left = 0
 		right = 0
@@ -806,7 +805,7 @@ script 235 mmbn3 {
 		down = 2
 	space
 		count = 2
-	"Yoka\n"
+	"          Yoka\n"
 	option
 		left = 1
 		right = 1
@@ -814,7 +813,7 @@ script 235 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Nowhere"
+	"   Ficar"
 	select
 		default = 0
 		BSeparate = false
@@ -838,7 +837,7 @@ script 236 mmbn3 {
 	playerAnimate
 		animation = 24
 	"""
-	Lan got:
+	Lan adquiriu:
 	"
 	"""
 	printItem
@@ -858,7 +857,7 @@ script 237 mmbn3 {
 		amount = 1
 	msgOpen
 	"""
-	Lan used:
+	Lan usou:
 	"
 	"""
 	printItem
@@ -870,7 +869,7 @@ script 237 mmbn3 {
 }
 script 238 mmbn3 {
 	msgOpen
-	"Buy a ticket to:\n"
+	"Comprar tíquete para:\n"
 	option
 		left = 1
 		right = 1
@@ -878,7 +877,7 @@ script 238 mmbn3 {
 		down = 2
 	space
 		count = 2
-	"SciLab    "
+	"   SciLab "
 	option
 		left = 0
 		right = 0
@@ -886,7 +885,7 @@ script 238 mmbn3 {
 		down = 3
 	space
 		count = 2
-	"Yoka\n"
+	"          Yoka\n"
 	option
 		left = 3
 		right = 3
@@ -894,7 +893,7 @@ script 238 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Beach     "
+	"   Angra  "
 	option
 		left = 2
 		right = 2
@@ -902,7 +901,7 @@ script 238 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Nowhere"
+	"          Ficar"
 	select
 		default = 0
 		BSeparate = false
@@ -927,7 +926,7 @@ script 239 mmbn3 {
 	playerAnimate
 		animation = 24
 	"""
-	Lan got:
+	Lan adquiriu:
 	"
 	"""
 	printItem
@@ -947,7 +946,7 @@ script 240 mmbn3 {
 		amount = 1
 	msgOpen
 	"""
-	Lan used:
+	Lan usou:
 	"
 	"""
 	printItem

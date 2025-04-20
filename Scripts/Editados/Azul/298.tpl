@@ -5,9 +5,9 @@ script 0 mmbn3 {
 		mugshot = Ribitta
 	msgOpen
 	"""
-	Welcome to the
-	first-ever N1 Grand
-	Prix semi-finals!
+	Bem-vindos às primeiras
+	semifinais do Grande
+	Prêmio N1!
 	"""
 	keyWait
 	end
@@ -17,23 +17,23 @@ script 1 mmbn3 {
 		mugshot = Ribitta
 	msgOpen
 	"""
-	32 elite contestants
-	battled through a
-	series of rigorous
+	32 competidores de elite
+	batalharam em uma série
+	de preliminares ferozes
 	"""
 	keyWait
 	clearMsg
 	"""
-	preliminaries to the
-	N1 Grand Prix. The
-	best 4 of them now
+	neste grande torneio,
+	e os melhores quatro
+	deles estão aqui,
 	"""
 	keyWait
 	clearMsg
 	"""
-	stand before you! We
-	will now determine
-	the 1st N1 champion!
+	diante de vocês, agora!
+	Hora de determinarmos
+	nosso primeiro campião N1!
 	"""
 	keyWait
 	clearMsg
@@ -46,21 +46,21 @@ script 2 mmbn3 {
 	soundDisableTextSFX
 	soundPlay
 		track = 249
-	"Yaaaaay!"
+	"Êêêêêêê!"
 	wait
 		frames = 180
 	keyWait
 	clearMsg
 	soundPlay
 		track = 249
-	"Yiippeeee!"
+	"Ieeeebaaaa!"
 	wait
 		frames = 180
 	keyWait
 	clearMsg
 	soundPlay
 		track = 249
-	"Wooohoooo!"
+	"Uhuuuuuuuu!"
 	wait
 		frames = 180
 	keyWait
@@ -74,15 +74,15 @@ script 3 mmbn3 {
 		mugshot = Ribitta
 	msgOpen
 	"""
-	Now let's hear a
-	comment from each
-	contestant!
+	Agora, vamos ouvir um
+	comentário de cada
+	competidor!
 	"""
 	keyWait
 	clearMsg
 	"""
-	First we'll hear
-	from Lan.
+	Para começar, o jovem
+	Lan Hikari!
 	"""
 	keyWait
 	end
@@ -92,9 +92,9 @@ script 4 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I made it this far,
-	so I'm going to go
-	for the title!
+	Eu já cheguei até aqui,
+	então, só tô de olho no
+	título!
 	"""
 	keyWait
 	clearMsg
@@ -105,7 +105,7 @@ script 5 mmbn3 {
 	mugshotShow
 		mugshot = Ribitta
 	msgOpen
-	"Now from Tora!"
+	"E agora, Tora Aragoma!"
 	keyWait
 	end
 }
@@ -114,22 +114,22 @@ script 6 mmbn3 {
 		mugshot = Tora
 	msgOpen
 	"""
-	After taking a look
-	at these chumps,I'm
-	not worried.
+	Agora que eu venci
+	esses fuleiros, nem
+	tô preocupado.
 	"""
 	keyWait
 	clearMsg
 	"""
-	They all look like
-	sissies to me.
+	Pra mim, são tudo um
+	monte de otário fraco.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Chaud's probably the
-	only one who'll give
-	me a good battle.
+	Acho que só o Chaud
+	pra me dar um desafio
+	que valha a pena.
 	"""
 	keyWait
 	clearMsg
@@ -140,12 +140,13 @@ script 7 mmbn3 {
 	mugshotShow
 		mugshot = Ribitta
 	msgOpen
-	"My,what confidence!"
+	"Puxa, quanta confiança!"
 	keyWait
 	clearMsg
 	"""
-	Now let's hear from
-	NetBattler Q!
+	Agora, vamos ouvir o
+	que o NetLutador Q
+	tem a nos dizer!
 	"""
 	keyWait
 	end
@@ -155,8 +156,8 @@ script 8 mmbn3 {
 		mugshot = NetbattlerQ
 	msgOpen
 	"""
-	………
-	………
+	.........
+	.........
 	"""
 	keyWait
 	clearMsg
@@ -168,9 +169,9 @@ script 9 mmbn3 {
 		mugshot = Ribitta
 	msgOpen
 	"""
-	Excuse me,Q…
-	Please,just a
-	single comment…
+	Desculpe, er, Sr. Q...
+	Por favor, só um
+	comentário...?
 	"""
 	keyWait
 	clearMsg
@@ -181,7 +182,7 @@ script 10 mmbn3 {
 	mugshotShow
 		mugshot = NetbattlerQ
 	msgOpen
-	"………"
+	"........."
 	keyWait
 	clearMsg
 	jump
@@ -192,22 +193,23 @@ script 11 mmbn3 {
 		mugshot = Ribitta
 	msgOpen
 	"""
-	…All right,then! Q
-	seems to be a person
-	of action,not words!
+	... C-certo, então! O sr. Q
+	parece ser um homem de
+	ação, não de palavras!
 	"""
 	keyWait
 	clearMsg
 	"""
-	We're looking
-	forward to see you
-	show your stuff!
+	Estamos ansiosos pra
+	ver as técnicas incríveis
+	que ele tem guardadas!
 	"""
 	keyWait
 	clearMsg
 	"""
-	And finally,let's
-	hear from Chaud!
+	E, finalmente, vamos
+	ouvir algumas palavras
+	do grande Eugene Chaud!
 	"""
 	keyWait
 	end
@@ -217,9 +219,9 @@ script 12 mmbn3 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	I have nothing to
-	say. I'll fight,I'll
-	win. That's all.
+	Não tenho nada a dizer.
+	Eu vou lutar, eu vou
+	vencer. Nada além disso.
 	"""
 	keyWait
 	clearMsg
@@ -231,16 +233,16 @@ script 13 mmbn3 {
 		mugshot = Ribitta
 	msgOpen
 	"""
-	A cool yet subtly
-	provocative
-	statement! Now then,
+	Hm! Um declaração fria,
+	porém sutilmente
+	provocativa do Chaud!
 	"""
 	keyWait
 	clearMsg
 	"""
-	let's get underway
-	with the 1st battle
-	of the semi-finals!
+	Bom, agora, vamos à
+	primeira luta das
+	semifinais!
 	"""
 	keyWait
 	end
@@ -250,15 +252,15 @@ script 14 mmbn3 {
 		mugshot = Ribitta
 	msgOpen
 	"""
-	The first battle
-	will be…
+	E a primeira disputa
+	será...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Lan
-	Vs
-	Toraaaa!!
+	Lan Hikari
+	Vs.
+	Tora Aragomaaaa!!
 	"""
 	keyWait
 	clearMsg
@@ -270,22 +272,22 @@ script 15 mmbn3 {
 		mugshot = Tora
 	msgOpen
 	"""
-	What? I gotta fight
-	this punk? I wanted
-	to face Chaud!
+	Quê? Eu vou ter que
+	lutar com esse Zé aí?
+	Queria era o Chaud!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Ah well,I'll just
-	save that battle for
-	the finals.
+	Mas tá, né? Vou ter
+	que guardar essa luta
+	pras finais.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'll make short work
-	of this kid.
+	Agora, é hora de bater
+	muito nesse guri.
 	"""
 	keyWait
 	clearMsg
@@ -298,16 +300,16 @@ script 16 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"What!?"
+	"Como é que é?!"
 	keyWait
 	clearMsg
-	"I'll show you!!"
+	"Ah, você vai ver!!"
 	keyWait
 	clearMsg
 	"""
-	Come on,MegaMan!
-	Let's mutilate this
-	creep!
+	Vamos lá, MegaMan!
+	Bora fatiar essa tora
+	de árvore!
 	"""
 	keyWait
 	clearMsg
@@ -319,23 +321,22 @@ script 17 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan! Don't let your
-	emotions get the
-	best of you!
+	Lan! Não se deixe levar
+	pelas emoções!
 	"""
 	keyWait
 	clearMsg
 	"""
-	In combat,he who
-	loses his cool loses
-	the battle!
+	No combate, aquele que
+	perde a calma, perde a
+	disputa.
 	"""
 	keyWait
 	clearMsg
 	"""
-	If you just calm
-	down,we'll be able
-	to win,no problem!
+	É só você se acalmar,
+	que a gente vence esta
+	luta, moleza!
 	"""
 	keyWait
 	clearMsg
@@ -347,9 +348,9 @@ script 18 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	You're right.
-	Gotta stay calm…
-	Gotta stay calm…
+	... É, você tá certo.
+	Preciso ficar calmo...
+	Calmo...
 	"""
 	keyWait
 	clearMsg
@@ -361,15 +362,15 @@ script 19 mmbn3 {
 		mugshot = Tora
 	msgOpen
 	"""
-	Ahahahaha! Look! The
-	Navi's comforting
-	him like a little
+	Ahahahaha! Tu viu isso?
+	O Navi apaziguando o
+	operador bebêzinho dele!
 	"""
 	keyWait
 	clearMsg
 	"""
-	baby! This battle's
-	all mine!
+	Esta luta vai ser fácil
+	demais!
 	"""
 	keyWait
 	clearMsg
@@ -380,12 +381,12 @@ script 20 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Oooh I'm gonna……!"
+	"Grrrrrr! Eu voouuuu...!"
 	keyWait
 	clearMsg
 	"""
-	Gotta stay calm…
-	Gotta stay calm…
+	... Ficar calmo...
+	Ficar calmo...
 	"""
 	keyWait
 	clearMsg
@@ -397,9 +398,9 @@ script 21 mmbn3 {
 		mugshot = Ribitta
 	msgOpen
 	"""
-	Now then! Lan,Tora.
-	Please proceed to
-	the center stage!
+	OK, então! Lan, Tora?
+	Sigam para o palco
+	central!
 	"""
 	keyWait
 	end
@@ -409,22 +410,22 @@ script 22 mmbn3 {
 		mugshot = Ribitta
 	msgOpen
 	"""
-	Start battling on my
-	mark!
+	Ao meu sinal, a luta irá
+	começar!
 	"""
 	keyWait
 	clearMsg
 	"""
-	N1 Grand Prix!
-	Semi-Finals!
-	Battle routines,
+	Grande Prêmio N1!
+	Semifinais!
+	Rotinas de
 	"""
 	waitSkip
 		frames = 30
-	"set!"
+	" batalha...!"
 	keyWait
 	clearMsg
-	"Execute!"
+	"Executar!"
 	keyWait
 	clearMsg
 	jump
@@ -434,7 +435,7 @@ script 23 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Go,MegaMan!!"
+	"Vai, MegaMan!!"
 	keyWait
 	clearMsg
 	jump
@@ -444,7 +445,7 @@ script 24 mmbn3 {
 	mugshotShow
 		mugshot = Tora
 	msgOpen
-	"Get him,KingMan!"
+	"Acaba com ele, KingMan!"
 	keyWait
 	end
 }

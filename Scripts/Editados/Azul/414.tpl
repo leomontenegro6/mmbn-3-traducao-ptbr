@@ -12,10 +12,13 @@ script 1 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Cossak!!"
+	"Sr. Cossak!!"
 	keyWait
 	clearMsg
-	"Cossak!! Are you OK?"
+	"""
+	Sr. Cossak!!
+	O senhor tá bem?
+	"""
 	keyWait
 	clearMsg
 	jump
@@ -26,22 +29,22 @@ script 2 mmbn3 {
 		mugshot = Cossak
 	msgOpen
 	"""
-	What was I hoping to
-	accomplish in
-	creating Bass…?
+	O que eu pretendia,
+	criando o Bass...?
 	"""
 	keyWait
 	clearMsg
 	"""
-	The world's first
-	independent Navi…?
+	Produzir o primeiro Navi
+	independente do
+	mundo...?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Or was I just making
-	a vain display of
-	my ability…?
+	Ou só exibir minhas
+	habilidades, tão
+	arrogantemente...?
 	"""
 	keyWait
 	clearMsg
@@ -53,8 +56,8 @@ script 3 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Don't talk,Cossak!
-	Just stay calm!!
+	Sr. Cossak, não fala!
+	Tenta ficar calmo!!
 	"""
 	keyWait
 	clearMsg
@@ -65,64 +68,67 @@ script 4 mmbn3 {
 	mugshotShow
 		mugshot = Cossak
 	msgOpen
-	"Please. Delete Bass…"
+	"""
+	Por favor.
+	Delete o Bass...
+	"""
 	keyWait
 	clearMsg
 	"""
-	You're the only one
-	who can do it…
-	・
+	Você é o único que
+	pode fazer isso...
+	.
 	"""
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"Please…"
+	"Por favor..."
 	keyWait
 	clearMsg
-	"・"
+	"."
 	waitSkip
 		frames = 20
-	"・"
+	"."
 	waitSkip
 		frames = 20
-	"・"
+	"."
 	waitSkip
 		frames = 20
-	"・"
+	"."
 	waitSkip
 		frames = 20
-	"・"
+	"."
 	waitSkip
 		frames = 20
-	"・"
+	"."
 	waitSkip
 		frames = 20
 	keyWait
 	clearMsg
 	"""
-	If only I could turn
-	back the clock…
-	・
+	Se, ao menos, eu pudes-
+	se voltar no tempo...
+	.
 	"""
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"Bass…"
+	"Bass..."
 	keyWait
 	clearMsg
 	mugshotAnimate
 		animation = 0
-	"Nghh……"
+	"Nghh..."
 	keyWait
 	clearMsg
 	jump
@@ -132,7 +138,7 @@ script 5 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Cossak!!"
+	"Sr. Cossak!!"
 	keyWait
 	end
 }
@@ -140,13 +146,13 @@ script 6 mmbn3 {
 	mugshotShow
 		mugshot = Chaud
 	msgOpen
-	"Don't touch him!"
+	"Não encoste nele!"
 	keyWait
 	clearMsg
 	"""
-	He's still alive,but
-	barely. We need to
-	get him to safety.
+	Ele ainda está vivo, mas
+	por um triz. Temos de le-
+	vá-lo a um lugar seguro.
 	"""
 	keyWait
 	clearMsg
@@ -160,16 +166,16 @@ script 7 mmbn3 {
 		mugshot = Dex
 	msgOpen
 	"""
-	I'll take him!
-	You guys hurry on
-	ahead!
+	Eu levo ele!
+	Cês vão indo na
+	frente!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'll catch up as
-	soon as I get him
-	somewhere safe!
+	Eu alcanço vocês assim
+	que achar um lugar
+	seguro pra deixar ele!
 	"""
 	keyWait
 	clearMsg
@@ -182,10 +188,10 @@ script 8 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Thanks,Dex!!"
+	"Valeu, Dex!!"
 	keyWait
 	clearMsg
-	"C'mon! Let's go!"
+	"OK! Vamos lá!"
 	keyWait
 	clearMsg
 	jump
@@ -197,7 +203,7 @@ script 9 mmbn3 {
 	msgOpen
 	mugshotAnimate
 		animation = 0
-	"Agreed."
+	"Certo."
 	keyWait
 	clearMsg
 	jump
@@ -208,8 +214,8 @@ script 10 mmbn3 {
 		mugshot = Tora
 	msgOpen
 	"""
-	We'll avenge you,
-	Cossak!!
+	A gente vai te vingar,
+	seu Cossak!!
 	"""
 	keyWait
 	end

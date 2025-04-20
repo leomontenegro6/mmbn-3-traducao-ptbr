@@ -4,12 +4,12 @@ script 0 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Sir!"
+	"Moço!"
 	keyWait
 	clearMsg
 	"""
-	Where's my dad!?
-	Is he all right!?
+	Cadê o meu pai?!
+	Ele tá bem?!
 	"""
 	keyWait
 	clearMsg
@@ -20,7 +20,7 @@ script 1 mmbn3 {
 	mugshotShow
 		mugshot = SciLabMan
 	msgOpen
-	"You're Dr.Hikari's…"
+	"O filho do Hikari..."
 	keyWait
 	clearMsg
 	jump
@@ -30,7 +30,7 @@ script 2 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Where is he!?"
+	"Cadê ele?!"
 	keyWait
 	clearMsg
 	jump
@@ -41,8 +41,8 @@ script 3 mmbn3 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	……
-	He's,uh…well…
+	......
+	Bom, er, ele...
 	"""
 	keyWait
 	clearMsg
@@ -53,7 +53,7 @@ script 4 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"No…!"
+	"Não...!"
 	keyWait
 	clearMsg
 	jump
@@ -64,8 +64,8 @@ script 5 mmbn3 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	He's still in his
-	lab…
+	Ele ainda está no
+	laboratório dele...
 	"""
 	keyWait
 	clearMsg
@@ -77,14 +77,14 @@ script 6 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Why hasn't anyone
-	gone to save him!?
+	Por que ninguém foi lá
+	salvar ele?!
 	"""
 	keyWait
 	clearMsg
 	"""
-	In that heat,
-	dad'll…he'll…
+	Nesse calor, o papai...
+	ele vai...
 	"""
 	keyWait
 	clearMsg
@@ -96,15 +96,16 @@ script 7 mmbn3 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	I know. Believe me,
-	we want to…
+	Eu sei. Acredite, nós
+	queremos muito ir lá
+	buscá-lo...
 	"""
 	keyWait
 	clearMsg
 	"""
-	But it's too hot to
-	even send a rescue
-	team inside.
+	Mas está quente demais
+	até para mandar uma
+	equipe de resgate.
 	"""
 	keyWait
 	clearMsg
@@ -115,7 +116,7 @@ script 8 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"No…"
+	"Não..."
 	keyWait
 	end
 }
@@ -123,7 +124,7 @@ script 9 mmbn3 {
 	mugshotHide
 	msgOpen
 	soundDisableTextSFX
-	"Briiiiing!"
+	"Trriiiiiiiim!"
 	keyWait
 	soundEnableTextSFX
 	end
@@ -133,8 +134,8 @@ script 10 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan! You got a phone
-	call!
+	Lan! Tem alguém ligando
+	pra você!
 	"""
 	keyWait
 	end
@@ -144,14 +145,14 @@ script 11 mmbn3 {
 		mugshot = MrMatch
 	msgOpen
 	"""
-	Hey there,Lan! How's
-	the SciLab?
+	Oi, Lan!
+	E aí, como vai o SciLab?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Is it hot enough for
-	you!?
+	Quente o bastante pra
+	você?!
 	"""
 	keyWait
 	clearMsg
@@ -163,16 +164,15 @@ script 12 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Match! You're
-	behind all this!
-	You've been lying
+	Match! É você que tá
+	por trás disto!
 	"""
 	keyWait
 	clearMsg
 	"""
-	all along about
-	having changed your
-	evil ways!
+	Você tava mentindo
+	sobre ter largado a
+	maldade!
 	"""
 	keyWait
 	clearMsg
@@ -184,13 +184,13 @@ script 13 mmbn3 {
 		mugshot = MrMatch
 	msgOpen
 	"""
-	You were a big help!
-	Thanks to you my
-	operation went
+	Você me ajudou tanto!
+	Graças a você, minha
+	operação foi impecável!
 	"""
 	keyWait
 	clearMsg
-	"perfectly! Hahahaha!"
+	"Ha ha ha ha!"
 	keyWait
 	clearMsg
 	jump
@@ -200,7 +200,7 @@ script 14 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"I helped you"
+	"Eu te ajudei"
 	waitSkip
 		frames = 30
 	"."
@@ -211,14 +211,13 @@ script 14 mmbn3 {
 		frames = 30
 	"""
 	.
-	No!!
+	Não!!
 	"""
 	keyWait
 	clearMsg
 	"""
-	No,I couldn't have!
-	I would never help
-	the WWW!
+	Não, não é possível!
+	Eu nunca ajudaria a WWW!
 	"""
 	keyWait
 	clearMsg
@@ -230,15 +229,16 @@ script 15 mmbn3 {
 		mugshot = MrMatch
 	msgOpen
 	"""
-	Oh,but you have.
-	Face the facts!
+	Ah, mas ajudou.
+	Encare a realidade,
+	garoto!
 	"""
 	keyWait
 	clearMsg
 	"""
-	You're the reason
-	why the SciLab is
-	facing this crisis!
+	Você é a causa pro
+	SciLab estar nessa
+	crise!
 	"""
 	keyWait
 	clearMsg
@@ -249,7 +249,7 @@ script 16 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"I'm the reason…?"
+	"Eu sou a causa...?"
 	keyWait
 	clearMsg
 	jump
@@ -260,9 +260,9 @@ script 17 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	You big coward…
-	You won't get away
-	with this!
+	Seu covarde...
+	Você não vai se safar
+	dessa!
 	"""
 	keyWait
 	clearMsg
@@ -274,37 +274,35 @@ script 18 mmbn3 {
 		mugshot = MrMatch
 	msgOpen
 	"""
-	Heh heh heh!
-	That's it,let your
-	hate flare up!
+	He he he!
+	Isso, continue abanando
+	esse seu fogo!
 	"""
 	keyWait
 	clearMsg
 	"""
-	It will only serve
-	to feed my hungry
-	flames!!
+	Ele só irá alimentar as
+	minhas chamas famintas!!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Hya-ha-ha-ha!
-	You know,I never
-	dreamed you'd be
+	Hia ha ha ha! Sabe, eu
+	nunca imaginei que vocês
+	seriam tão ingênuos!
 	"""
 	keyWait
 	clearMsg
 	"""
-	so gullible!
-	What a sucker!
-	Do you know why
+	A estupidez de vocês
+	é cômica! Digo...
 	"""
 	keyWait
 	clearMsg
 	"""
-	those WWW Navis
-	appeared all over
-	the Net?
+	Sabem por que aqueles
+	Navis da WWW brotaram
+	na Rede de repente?
 	"""
 	keyWait
 	clearMsg
@@ -319,55 +317,54 @@ script 18 mmbn3 {
 	"."
 	waitSkip
 		frames = 30
-	"No!!"
+	" Não!!"
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = MrMatch
 	"""
-	Because I put them
-	there! Heh heh heh!
+	Porque eu os plantei lá!
+	He he he!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Children are so
-	naive…So much fun to
-	dupe!
+	Crianças são tão ingê-
+	nuas... É tão divertido
+	passar a perna nelas!
 	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Grrrr…!"
+	"Grrrr...!"
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = MrMatch
 	"""
-	Yes,I deceived you,
-	but it was you two
-	who perpetrated this
+	Sim, eu enganei vocês,
+	mas foram vocês quem
+	praticaram este crime.
 	"""
 	keyWait
 	clearMsg
 	"""
-	crime. Accept it.
-	You're one of us!
+	Aceite, garoto.
+	Você é um de nós!
 	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"N-no…I can't be!"
+	"N-não... Eu nunca seria!"
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = MrMatch
 	"""
-	Now then,Lan. Are
-	you up for a little
-	game?
+	Que seja. Enfim, Lan...
+	Que tal um joguinho?
 	"""
 	keyWait
 	clearMsg
@@ -378,7 +375,7 @@ script 19 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"A…game?"
+	"Um... jogo?"
 	keyWait
 	clearMsg
 	jump
@@ -389,30 +386,30 @@ script 20 mmbn3 {
 		mugshot = MrMatch
 	msgOpen
 	"""
-	I will now send out
-	FlamMan to set the
-	whole Net ablaze.
+	Agora, eu mandarei o
+	FlameMan para atear
+	fogo na Rede inteira.
 	"""
 	keyWait
 	clearMsg
 	"""
-	If you can put out
-	all the fires,I'll
-	allow you to fight
+	Se vocês conseguirem
+	apagar todos eles, eu
+	permitirei que lutem
 	"""
 	keyWait
 	clearMsg
 	"""
-	FlamMan. If you win,
-	I'll put out the
-	flames at SciLab.
+	contra o FlameMan. E
+	se vencerem, apagarei
+	o incêndio do SciLab.
 	"""
 	keyWait
 	clearMsg
 	"""
-	If you don't hurry,
-	everyone inside will
-	be burned to ash!
+	Mas se não correrem,
+	todos aí dentro virarão
+	cinzas!
 	"""
 	keyWait
 	clearMsg
@@ -424,9 +421,8 @@ script 21 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,it doesn't look
-	like we have any
-	choice.
+	Lan, acho que a gente
+	não tem escolha.
 	"""
 	keyWait
 	clearMsg
@@ -438,16 +434,16 @@ script 22 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I can't let dad and
-	everyone die because
-	of what I did!
+	Eu não posso deixar o
+	papai e os outros morre-
+	rem pelo que eu fiz!
 	"""
 	keyWait
 	clearMsg
 	"""
-	……
-	All right,Match.
-	I'll play your game.
+	......
+	Tudo bem, Match.
+	Eu topo esse seu jogo.
 	"""
 	keyWait
 	clearMsg
@@ -459,19 +455,20 @@ script 23 mmbn3 {
 		mugshot = MrMatch
 	msgOpen
 	"""
-	Heh heh! The heat is
-	on!!
+	He he!
+	Agora, a chapa vai
+	esquentar!!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Go,FlamMan! Turn the
-	Net into an ocean of
-	flame!
+	Vá, FlameMan!
+	Transforme a Rede em
+	um mar de chamas!
 	"""
 	keyWait
 	clearMsg
-	"Fire!!!!!"
+	"Fogo!!!!!"
 	keyWait
 	clearMsg
 	jump
@@ -481,7 +478,7 @@ script 24 mmbn3 {
 	mugshotShow
 		mugshot = FlameMan
 	msgOpen
-	"Whraaaaaah!"
+	"Urrraaaaaahh!"
 	keyWait
 	end
 }
@@ -490,15 +487,15 @@ script 25 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	How are we going to
-	put out the flames?
+	Como a gente vai fazer
+	pra apagar as chamas?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Do we have anything
-	that we could use,
-	MegaMan?
+	A gente tem alguma
+	coisa que possa usar
+	pra isso, MegaMan?
 	"""
 	keyWait
 	clearMsg
@@ -510,16 +507,15 @@ script 26 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	We need water to
-	extinguish fire…
-	Hey! How about that
+	Precisamos de água
+	pra apagar fogo...
 	"""
 	keyWait
 	clearMsg
 	"""
-	one program!? If it
-	can produce fire,it
-	might produce water!
+	Ah! Que tal AQUELE pro-
+	grama? Se ele faz fogo,
+	também deve fazer água!
 	"""
 	keyWait
 	clearMsg
@@ -530,7 +526,7 @@ script 27 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"That program…"
+	"AQUELE programa..."
 	keyWait
 	end
 }

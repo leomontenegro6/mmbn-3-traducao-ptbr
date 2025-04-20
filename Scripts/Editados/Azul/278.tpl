@@ -4,7 +4,7 @@ script 0 mmbn3 {
 	mugshotShow
 		mugshot = Dad
 	msgOpen
-	"Oh,hi there,Lan!"
+	"Ah, oi, filho!"
 	keyWait
 	end
 }
@@ -13,7 +13,7 @@ script 1 mmbn3 {
 		mugshot = Dad
 	msgOpen
 	"""
-	You brought me my
+	Você trouxe o meu
 	"
 	"""
 	printItem
@@ -21,7 +21,7 @@ script 1 mmbn3 {
 		item = 15
 	"""
 	"?
-	Thanks!
+	Obrigado!
 	"""
 	keyWait
 	clearMsg
@@ -33,16 +33,14 @@ script 2 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Yeah,I gave it to
-	the researcher
-	upstairs.
+	É, deixei ele com o
+	pesquisador lá em cima.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Hey,
-	what's Chaud doing
-	here?
+	Aí, o que o Chaud tá
+	fazendo aqui?
 	"""
 	keyWait
 	clearMsg
@@ -54,23 +52,21 @@ script 3 mmbn3 {
 		mugshot = Dad
 	msgOpen
 	"""
-	SciLab just held
-	a joint meeting with
-	the Officials to
+	O SciLab acabou de
+	terminar uma reunião com
+	os Oficiais pra discutir
 	"""
 	keyWait
 	clearMsg
 	"""
-	discuss how to
-	handle the annual
-	influx of evil
+	como lidar com a onda
+	atual de vírus malignos.
 	"""
 	keyWait
 	clearMsg
 	"""
-	viruses. We just
-	happened to run into
-	each other there.
+	A gente só se esbarrou
+	lá por acaso.
 	"""
 	keyWait
 	clearMsg
@@ -82,9 +78,9 @@ script 4 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Oh yeah! I'm going
-	to be in the N1
-	Grand Prix tomorrow!
+	Ah, é mesmo! Eu vou
+	participar do Grande
+	Prêmio N1 amanhã!
 	"""
 	keyWait
 	clearMsg
@@ -96,23 +92,23 @@ script 5 mmbn3 {
 		mugshot = Dad
 	msgOpen
 	"""
-	Wow,the same Grand
-	Prix that everyone
-	in town's talking
+	Puxa, o mesmo N1 de
+	que todo mundo está
+	falando na cidade?
 	"""
 	keyWait
 	clearMsg
 	"""
-	about? That's great!
-	Oh,but unfortunately
-	I have a meeting
+	Que incrível! Ah, mas,
+	infelizmente, eu tenho
+	uma reunião amanhã...
 	"""
 	keyWait
 	clearMsg
 	"""
-	tomorrow. It doesn't
-	look like I can go
-	root for you. Sorry!
+	Acho que não vou poder
+	ir lá torcer por você.
+	Desculpa o seu pai, Lan!
 	"""
 	keyWait
 	clearMsg
@@ -124,16 +120,16 @@ script 6 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Yeah,I know. I mean,
-	if I had told you
-	earlier,you'd just
+	Ah, eu sei. E se eu
+	tivesse te contado
+	antes, você só teria
 	"""
 	keyWait
 	clearMsg
 	"""
-	work yourself sick
-	trying to make time
-	to go,right?
+	se matado de trabalhar
+	pra abrir um espaço na
+	agenda pra ir lá, né?
 	"""
 	keyWait
 	clearMsg
@@ -145,30 +141,30 @@ script 7 mmbn3 {
 		mugshot = Dad
 	msgOpen
 	"""
-	I'm sorry to make
-	you worry about me
-	so much,Lan.
+	Desculpa por te fazer
+	se preocupar tanto
+	comigo, Lan.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Here. I'll give you
-	this to make up for
-	me not being able to
+	Toma. Vou te dar isto
+	aqui pra compensar não
+	poder comparecer.
 	"""
 	keyWait
 	clearMsg
 	"""
-	go. The N1 Grand
-	Prix will be packed
-	with fierce battles,
+	O Grande Prêmio N1 vai
+	ser recheado de lutas
+	bem difíceis, né?
 	"""
 	keyWait
 	clearMsg
 	"""
-	right? It wouldn't
-	do if your PET broke
-	again.
+	Então, seria bem ruim se
+	o seu PET quebrasse de
+	novo.
 	"""
 	keyWait
 	clearMsg
@@ -183,7 +179,7 @@ script 8 mmbn3 {
 	soundPlay
 		track = 133
 	"""
-	Lan got:
+	Lan adquiriu:
 	"
 	"""
 	printItem
@@ -201,18 +197,18 @@ script 9 mmbn3 {
 		mugshot = Dad
 	msgOpen
 	"""
-	If you put your PET
-	in that,an elephant
-	couldn't break it.
+	Se colocar o seu PET
+	nisso, nem um elefante
+	conseguirá quebrar!
 	"""
 	keyWait
 	clearMsg
 	flagSet
 		flag = 1537
 	"""
-	Say,are you going to
-	be in the N1 Grand
-	Prix too,Chaud?
+	Aliás, você também vai
+	participar do Grande
+	Prêmio N1, Chaud?
 	"""
 	keyWait
 	clearMsg
@@ -225,7 +221,7 @@ script 10 mmbn3 {
 	msgOpen
 	flagSet
 		flag = 1538
-	"Yes."
+	"Sim, vou."
 	keyWait
 	clearMsg
 	jump
@@ -236,9 +232,8 @@ script 11 mmbn3 {
 		mugshot = Dad
 	msgOpen
 	"""
-	Is one of your
-	parents coming to
-	cheer you on?
+	E os seus pais irão lá,
+	torcer por você?
 	"""
 	keyWait
 	clearMsg
@@ -250,8 +245,7 @@ script 12 mmbn3 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	No. They won't be
-	coming…
+	Não. Não irão...
 	"""
 	keyWait
 	clearMsg
@@ -263,17 +257,17 @@ script 13 mmbn3 {
 		mugshot = Dad
 	msgOpen
 	"""
-	Oh. Well,anyway,I
-	wish you both the
-	best of luck!
+	Ah... Bom, enfim, desejo
+	muita boa sorte a vocês
+	dois!
 	"""
 	keyWait
 	clearMsg
 	flagClear
 		flag = 1537
 	"""
-	Now,then,I'd better
-	get back to work.
+	Mas, agora, preciso
+	voltar ao trabalho.
 	"""
 	keyWait
 	end
@@ -283,9 +277,9 @@ script 14 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Chaud! I won't be
-	losing tomorrow!
-	Heh heh!
+	Chaud! Eu não vou perder
+	amanhã, nem pensar!
+	He he!
 	"""
 	keyWait
 	end
@@ -295,23 +289,22 @@ script 15 mmbn3 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	I told you before
-	and I'll tell you
-	again. You don't
+	Eu já falei, mas vou
+	repetir. Você não tem
+	a menor chance.
 	"""
 	keyWait
 	clearMsg
 	"""
-	stand a chance. I'm
-	going to win. If I
-	were you,I'd just
+	Eu vou vencer.
+	Se eu fosse você,
 	"""
 	keyWait
 	clearMsg
 	"""
-	concentrate on
-	trying to pass the
-	first round!
+	me contentaria em
+	almejar só passar
+	na primeira rodada.
 	"""
 	keyWait
 	end
@@ -321,13 +314,13 @@ script 16 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	What's his problem?
-	Why's he always
-	gotta be like that?
+	Qual é a dele?
+	Por que ele tem sempre
+	que ser assim?
 	"""
 	keyWait
 	clearMsg
-	"He makes me so mad!"
+	"Ele me deixa fulo da vida!"
 	keyWait
 	clearMsg
 	jump
@@ -338,16 +331,16 @@ script 17 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Calm down,Lan. Chaud
-	is probably just on
-	edge because of
+	Calma, Lan. O Chaud só
+	deve estar arisco por
+	causa de amanhã.
 	"""
 	keyWait
 	clearMsg
 	"""
-	tomorrow. Let's head
-	home and sleep early
-	for the Grand Prix.
+	Vamos logo pra casa e
+	dormir cedo pro Grande
+	Prêmio N1.
 	"""
 	keyWait
 	clearMsg
@@ -359,9 +352,9 @@ script 18 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Yeah,yeah,I know. I
-	promise though,I'm
-	not losing to him!
+	Eu sei, eu sei. Mas uma
+	coisa eu prometo: eu não
+	vou perder pra ele!
 	"""
 	keyWait
 	end

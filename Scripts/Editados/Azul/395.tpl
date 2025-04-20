@@ -4,9 +4,9 @@ script 0 mmbn3 {
 	mugshotHide
 	msgOpen
 	"""
-	I knew it wouldn't
-	take you long to
-	reach Serenade.
+	Eu sabia que não
+	demoraria até você
+	chegar a Serenade.
 	"""
 	keyWait
 	end
@@ -15,7 +15,7 @@ script 1 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Who's there!?"
+	"Quem tá aí?!"
 	keyWait
 	clearMsg
 	jump
@@ -25,9 +25,8 @@ script 2 mmbn3 {
 	mugshotHide
 	msgOpen
 	"""
-	I am the
-	administrator of the
-	Undernet…
+	Eu sou o administrador
+	da Undernet...
 	"""
 	keyWait
 	end
@@ -40,13 +39,12 @@ script 3 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	You're the
-	administrator of the
-	Undernet!?
+	Você é o administrador
+	da Undernet?!
 	"""
 	keyWait
 	clearMsg
-	"You!?"
+	"... Você?!"
 	keyWait
 	clearMsg
 	jump
@@ -57,15 +55,15 @@ script 4 mmbn3 {
 		mugshot = Mamoru
 	msgOpen
 	"""
-	Actually,the creator
-	of the Undernet was
-	a SciLab scientist.
+	Na verdade, o criador
+	da Undernet foi um
+	cientista do SciLab.
 	"""
 	keyWait
 	clearMsg
 	"""
-	That scientist is my
-	father.
+	Esse cientista era o
+	meu pai.
 	"""
 	keyWait
 	clearMsg
@@ -77,23 +75,22 @@ script 5 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	What? Your father!?
-	A SciLab scientist
-	created the
+	O quê? O seu pai?!
+	Um cientista do SciLab
+	criou a Undernet?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Undernet? So you
-	mean it was a SciLab
-	project?
+	Então... era um projeto
+	do SciLab?
 	"""
 	keyWait
 	clearMsg
 	"""
-	I've never heard of
-	anything like that
-	before!
+	Eu nunca tinha ouvido
+	falar de uma história
+	dessas!
 	"""
 	keyWait
 	clearMsg
@@ -105,16 +102,16 @@ script 6 mmbn3 {
 		mugshot = Mamoru
 	msgOpen
 	"""
-	The Undernet is a
-	weapon to counter
-	Alpha…
+	A Undernet é uma
+	arma com o propósito
+	de contar Alpha...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Created to develop
-	and preserve the
-	Forbidden Program.
+	Criada para desenvolver
+	e preservar o Programa
+	Proibido.
 	"""
 	keyWait
 	clearMsg
@@ -126,9 +123,9 @@ script 7 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	But if SciLab made
-	the Undernet,why is
-	it so dangerous now?
+	Mas, se o SciLab fez a
+	Undernet, por que lá é
+	tão perigoso agora?
 	"""
 	keyWait
 	clearMsg
@@ -140,23 +137,23 @@ script 8 mmbn3 {
 		mugshot = Mamoru
 	msgOpen
 	"""
-	Because the
-	Forbidden Program
-	was too dangerous.
+	Porque o Programa
+	Proibido era perigoso
+	demais.
 	"""
 	keyWait
 	clearMsg
 	"""
-	It has the power to
-	freeze Alpha,which
-	means if misused…
+	Ele tem o poder de
+	paralisar Alpha, que, se
+	utilizado para o mal...
 	"""
 	keyWait
 	clearMsg
 	"""
-	All of Net society
-	could be frozen
-	in an instant.
+	poderia congelar
+	toda a sociedade da
+	Rede em um instante.
 	"""
 	keyWait
 	clearMsg
@@ -168,8 +165,8 @@ script 9 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	It has that much
-	power?
+	Ele tem todo esse
+	poder...?
 	"""
 	keyWait
 	clearMsg
@@ -181,30 +178,29 @@ script 10 mmbn3 {
 		mugshot = Mamoru
 	msgOpen
 	"""
-	Yes. That is why
-	they created a vast
-	area away from the
+	Tem. Por isso criaram
+	uma enorme área afas-
+	tada da Rede normal.
 	"""
 	keyWait
 	clearMsg
 	"""
-	regular Net. If an
-	accident were to
-	occur,the damage
+	Se acabasse aconte-
+	cendo um acidente, o
+	estrago seria contido.
 	"""
 	keyWait
 	clearMsg
 	"""
-	would be contained.
-	Since it was so
-	isolated,it turned
+	Mas, como era uma área
+	isolada,
 	"""
 	keyWait
 	clearMsg
 	"""
-	out to be a perfect
-	hiding place for
-	criminals.
+	ela acabou se mostrando
+	um esconderijo perfeito
+	para criminosos.
 	"""
 	keyWait
 	clearMsg
@@ -216,15 +212,16 @@ script 11 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Tell me,Mamoru. If
-	so many measures
-	had to be taken
+	Hm... Ei, me diz, Mamoru.
+	Se tantas medidas
+	tiveram que ser tomadas
 	"""
 	keyWait
 	clearMsg
 	"""
-	against Alpha,what
-	exactly is he?
+	contra o Alpha...
+	o que, exatamente,
+	ele é?
 	"""
 	keyWait
 	clearMsg
@@ -235,12 +232,12 @@ script 12 mmbn3 {
 	mugshotShow
 		mugshot = Mamoru
 	msgOpen
-	"The ultimate beast…"
+	"A besta suprema..."
 	keyWait
 	clearMsg
 	"""
-	And a creation of
-	SciLab,of course.
+	E uma criação do
+	SciLab, é claro.
 	"""
 	keyWait
 	clearMsg
@@ -251,7 +248,7 @@ script 13 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"SciLab…?"
+	"SciLab...?"
 	keyWait
 	clearMsg
 	jump
@@ -265,31 +262,31 @@ script 14 mmbn3 {
 	soundDisableTextSFX
 	soundPlay
 		track = 299
-	"Weoo!"
+	"Uééon!"
 	wait
 		frames = 60
 	soundPlay
 		track = 299
-	"Weoo!"
+	"Uééon!"
 	wait
 		frames = 60
 	soundPlay
 		track = 299
-	"Weoo!"
+	"Uééon!"
 	wait
 		frames = 60
 	soundPlay
 		track = 299
-	"Weoo!"
+	"Uééon!"
 	wait
 		frames = 60
 	keyWait
 	clearMsg
 	soundEnableTextSFX
 	"""
-	Emergency alert!
-	The TetraGate has
-	been destroyed.
+	Alerta de emergência!
+	O TetraPortal foi
+	destruído.
 	"""
 	keyWait
 	clearMsg
@@ -301,14 +298,14 @@ script 15 mmbn3 {
 		mugshot = Mamoru
 	msgOpen
 	"""
-	No! It's Alpha!
-	Quick,Lan! Hurry to
-	SciLab 1!
+	Essa não! É o Alpha!
+	Rápido, Lan! Vá para
+	SciLab 1 agora mesmo!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Someone's stealing
+	Alguém está roubando o
 	Alpha!
 	"""
 	keyWait
@@ -321,9 +318,9 @@ script 16 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Got it!!
-	MegaMan! Let's get
-	over to SciLab 1!
+	Pode deixar!!
+	MegaMan! Vamos lá pra
+	SciLab 1!
 	"""
 	keyWait
 	clearMsg
@@ -334,7 +331,7 @@ script 17 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Roger!"
+	"Entendido!"
 	keyWait
 	end
 }

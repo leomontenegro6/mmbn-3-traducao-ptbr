@@ -35,7 +35,7 @@ script 0 mmbn3 {
 	"""
 	keyWait
 	clearMsg
-	"Accept this job?\n"
+	"Aceitar missão?\n"
 	option
 		left = 1
 		right = 1
@@ -43,7 +43,7 @@ script 0 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"   Sim "
 	option
 		left = 0
 		right = 0
@@ -51,7 +51,7 @@ script 0 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No"
+	"          Não"
 	select
 		default = 0
 		BSeparate = false
@@ -106,7 +106,7 @@ script 1 mmbn3 {
 	"""
 	keyWait
 	clearMsg
-	"Accept this job?\n"
+	"Aceitar missão?\n"
 	option
 		left = 1
 		right = 1
@@ -114,7 +114,7 @@ script 1 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"   Sim "
 	option
 		left = 0
 		right = 0
@@ -122,7 +122,7 @@ script 1 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No"
+	"          Não"
 	select
 		default = 0
 		BSeparate = false
@@ -177,7 +177,7 @@ script 2 mmbn3 {
 	"""
 	keyWait
 	clearMsg
-	"Accept this job?\n"
+	"Aceitar missão?\n"
 	option
 		left = 1
 		right = 1
@@ -185,7 +185,7 @@ script 2 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"   Sim "
 	option
 		left = 0
 		right = 0
@@ -193,7 +193,7 @@ script 2 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No"
+	"          Não"
 	select
 		default = 0
 		BSeparate = false
@@ -241,7 +241,7 @@ script 3 mmbn3 {
 	"""
 	keyWait
 	clearMsg
-	"Accept this job?\n"
+	"Aceitar missão?\n"
 	option
 		left = 1
 		right = 1
@@ -249,7 +249,7 @@ script 3 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"   Sim "
 	option
 		left = 0
 		right = 0
@@ -257,7 +257,7 @@ script 3 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No"
+	"          Não"
 	select
 		default = 0
 		BSeparate = false
@@ -292,31 +292,32 @@ script 4 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	Can someone make a
-	delivery for me?
+	Alguém poderia fazer
+	uma entrega pra mim?
 	"""
 	keyWait
 	clearMsg
 	"""
-	It isn't dangerous,
-	so anyone can do it.
+	Não é nada perigoso,
+	aceito qualquer um.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'm the red Navi
-	between ACDC Square
-	and the CyberMetro.
+	Sou o Navi vermelho que
+	está entre ACDC Plaza
+	e o CyberMetrô.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Come see me,and I'll
-	tell you the rest.
+	Venha aqui.
+	O resto da missão,
+	eu conto pessoalmente.
 	"""
 	keyWait
 	clearMsg
-	"Accept this job?\n"
+	"Aceitar missão?\n"
 	option
 		left = 1
 		right = 1
@@ -324,7 +325,7 @@ script 4 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"   Sim "
 	option
 		left = 0
 		right = 0
@@ -332,7 +333,7 @@ script 4 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No"
+	"          Não"
 	select
 		default = 0
 		BSeparate = false
@@ -367,14 +368,14 @@ script 5 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	Hello!
-	My Navi's feeling
-	under the weather.
+	Olá!
+	O meu Navi anda meio
+	doentinho.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Apparently I need a
+	Preciso de um
 	"
 	"""
 	printChip
@@ -386,12 +387,12 @@ script 5 mmbn3 {
 		code = *
 	"""
 	"
-	to fix him.
+	pra resolver isso.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Does anyone have a
+	Alguém aí tem um
 	"
 	"""
 	printChip
@@ -405,19 +406,19 @@ script 5 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	I'll pay a reward
-	to anyone who finds
-	me the chip!
+	Darei uma boa
+	recompensa a quem me
+	arranjar esse chip!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'm waiting at the
-	SciLab Station.
+	Estarei esperando na
+	Estação SciLab.
 	"""
 	keyWait
 	clearMsg
-	"Accept this job?\n"
+	"Aceitar missão?\n"
 	option
 		left = 1
 		right = 1
@@ -425,7 +426,7 @@ script 5 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"   Sim "
 	option
 		left = 0
 		right = 0
@@ -433,7 +434,7 @@ script 5 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No"
+	"          Não"
 	select
 		default = 0
 		BSeparate = false
@@ -468,27 +469,27 @@ script 6 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	Um… This is rather
-	embarrassing,but I'm
-	having trouble with
+	Er... Isso é meio embara-
+	çoso, mas ando tendo
+	problemas com o meu
 	"""
 	keyWait
 	clearMsg
 	"""
-	my son. I can't talk
-	about it here,so can
-	you come to Yoka
+	filho. Não posso falar
+	disso aqui, então, por
+	favor, venha falar
 	"""
 	keyWait
 	clearMsg
 	"""
-	Station? I'd prefer
-	someone skilled at
-	NetBattling.
+	comigo na Estação Yoka.
+	De preferência, um
+	NetLutador forte.
 	"""
 	keyWait
 	clearMsg
-	"Accept this job?\n"
+	"Aceitar missão?\n"
 	option
 		left = 1
 		right = 1
@@ -496,7 +497,7 @@ script 6 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"   Sim "
 	option
 		left = 0
 		right = 0
@@ -504,7 +505,7 @@ script 6 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No"
+	"          Não"
 	select
 		default = 0
 		BSeparate = false
@@ -539,26 +540,26 @@ script 7 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	I sent some data to
-	the wrong place!
+	Eu enviei certos dados
+	pro lugar errado!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I need someone to
-	delete it,or there's
-	going to be trouble.
+	Preciso que alguém vá
+	deletá-los, ou a coisa
+	vai ficar feia.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Come to the Virus
-	Lab at SciLab,and
-	I'll fill you in.
+	Venha ao Laboratório
+	de Vírus no SciLab.
+	Explico o resto lá.
 	"""
 	keyWait
 	clearMsg
-	"Accept this job?\n"
+	"Aceitar missão?\n"
 	option
 		left = 1
 		right = 1
@@ -566,7 +567,7 @@ script 7 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"   Sim "
 	option
 		left = 0
 		right = 0
@@ -574,7 +575,7 @@ script 7 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No"
+	"          Não"
 	select
 		default = 0
 		BSeparate = false
@@ -609,20 +610,20 @@ script 8 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	I need to know the
-	price a rival is
-	asking for a chip.
+	Preciso saber o preço
+	que um rival está co-
+	brando por um certo chip.
 	"""
 	keyWait
 	clearMsg
 	"""
-	If he finds out,it
-	could get ugly,so
-	meet me at ACDC Sqr.
+	Não quero deixar vazar
+	muito, então, me encon-
+	tre no ACDC Plaza.
 	"""
 	keyWait
 	clearMsg
-	"Accept this job?\n"
+	"Aceitar missão?\n"
 	option
 		left = 1
 		right = 1
@@ -630,7 +631,7 @@ script 8 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"   Sim "
 	option
 		left = 0
 		right = 0
@@ -638,7 +639,7 @@ script 8 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No"
+	"          Não"
 	select
 		default = 0
 		BSeparate = false
@@ -673,33 +674,34 @@ script 9 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	I know this isn't
-	something to ask a
-	perfect stranger,but
+	Eu sei que isto não é
+	coisa que se peça a
+	um completo estranho,
 	"""
 	keyWait
 	clearMsg
 	"""
-	can someone PLEASE
-	lend me 8000 Zennys?
+	mas alguém aí pode,
+	POR FAVOR, me empres-
+	tar 8000 Zennys?
 	"""
 	keyWait
 	clearMsg
 	"""
-	I lost my wallet and
-	bag in Yoka. I don't
-	know what to do!
+	Perdi minha carteira e
+	bolsa em Yoka. Não sei
+	mais o que fazer!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I promise I'll pay
-	you back! I'm at the
-	Inn Lobby.
+	Juro que devolvo o
+	dinheiro depois! Estou na
+	recepção da Pousada.
 	"""
 	keyWait
 	clearMsg
-	"Accept this job?\n"
+	"Aceitar missão?\n"
 	option
 		left = 1
 		right = 1
@@ -707,7 +709,7 @@ script 9 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"   Sim "
 	option
 		left = 0
 		right = 0
@@ -715,7 +717,7 @@ script 9 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No"
+	"          Não"
 	select
 		default = 0
 		BSeparate = false
@@ -750,26 +752,25 @@ script 10 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	For certain reasons,
-	I need to dispose
-	of a rare chip.
+	Devido a certos motivos,
+	preciso me livrar de um
+	chip raro.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'm inside a
-	Telephone.
+	Estou esperando dentro
+	de um telefone.
 	"""
 	keyWait
 	clearMsg
 	"""
-	The first one who
-	finds me gets the
-	chip!
+	O primeiro que me
+	encontrar, leva o chip!
 	"""
 	keyWait
 	clearMsg
-	"Accept this job?\n"
+	"Aceitar missão?\n"
 	option
 		left = 1
 		right = 1
@@ -777,7 +778,7 @@ script 10 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"   Sim "
 	option
 		left = 0
 		right = 0
@@ -785,7 +786,7 @@ script 10 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No"
+	"          Não"
 	select
 		default = 0
 		BSeparate = false
@@ -840,7 +841,7 @@ script 11 mmbn3 {
 	"""
 	keyWait
 	clearMsg
-	"Accept this job?\n"
+	"Aceitar missão?\n"
 	option
 		left = 1
 		right = 1
@@ -848,7 +849,7 @@ script 11 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"   Sim "
 	option
 		left = 0
 		right = 0
@@ -856,7 +857,7 @@ script 11 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No"
+	"          Não"
 	select
 		default = 0
 		BSeparate = false
@@ -918,7 +919,7 @@ script 12 mmbn3 {
 	"""
 	keyWait
 	clearMsg
-	"Accept this job?\n"
+	"Aceitar missão?\n"
 	option
 		left = 1
 		right = 1
@@ -926,7 +927,7 @@ script 12 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"   Sim "
 	option
 		left = 0
 		right = 0
@@ -934,7 +935,7 @@ script 12 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No"
+	"          Não"
 	select
 		default = 0
 		BSeparate = false
@@ -996,7 +997,7 @@ script 13 mmbn3 {
 	"""
 	keyWait
 	clearMsg
-	"Accept this job?\n"
+	"Aceitar missão?\n"
 	option
 		left = 1
 		right = 1
@@ -1004,7 +1005,7 @@ script 13 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"   Sim "
 	option
 		left = 0
 		right = 0
@@ -1012,7 +1013,7 @@ script 13 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No"
+	"          Não"
 	select
 		default = 0
 		BSeparate = false
@@ -1072,7 +1073,7 @@ script 14 mmbn3 {
 	"""
 	keyWait
 	clearMsg
-	"Accept this job?\n"
+	"Aceitar missão?\n"
 	option
 		left = 1
 		right = 1
@@ -1080,7 +1081,7 @@ script 14 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"   Sim "
 	option
 		left = 0
 		right = 0
@@ -1088,7 +1089,7 @@ script 14 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No"
+	"          Não"
 	select
 		default = 0
 		BSeparate = false
@@ -1150,7 +1151,7 @@ script 15 mmbn3 {
 	"""
 	keyWait
 	clearMsg
-	"Accept this job?\n"
+	"Aceitar missão?\n"
 	option
 		left = 1
 		right = 1
@@ -1158,7 +1159,7 @@ script 15 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"   Sim "
 	option
 		left = 0
 		right = 0
@@ -1166,7 +1167,7 @@ script 15 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No"
+	"          Não"
 	select
 		default = 0
 		BSeparate = false
@@ -1228,7 +1229,7 @@ script 16 mmbn3 {
 	"""
 	keyWait
 	clearMsg
-	"Accept this job?\n"
+	"Aceitar missão?\n"
 	option
 		left = 1
 		right = 1
@@ -1236,7 +1237,7 @@ script 16 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"   Sim "
 	option
 		left = 0
 		right = 0
@@ -1244,7 +1245,7 @@ script 16 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No"
+	"          Não"
 	select
 		default = 0
 		BSeparate = false
@@ -1299,7 +1300,7 @@ script 17 mmbn3 {
 	"""
 	keyWait
 	clearMsg
-	"Accept this job?\n"
+	"Aceitar missão?\n"
 	option
 		left = 1
 		right = 1
@@ -1307,7 +1308,7 @@ script 17 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"   Sim "
 	option
 		left = 0
 		right = 0
@@ -1315,7 +1316,7 @@ script 17 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No"
+	"          Não"
 	select
 		default = 0
 		BSeparate = false
@@ -1377,7 +1378,7 @@ script 18 mmbn3 {
 	"""
 	keyWait
 	clearMsg
-	"Accept this job?\n"
+	"Aceitar missão?\n"
 	option
 		left = 1
 		right = 1
@@ -1385,7 +1386,7 @@ script 18 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"   Sim "
 	option
 		left = 0
 		right = 0
@@ -1393,7 +1394,7 @@ script 18 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No"
+	"          Não"
 	select
 		default = 0
 		BSeparate = false
@@ -1430,7 +1431,7 @@ script 19 mmbn3 {
 	"Come to Hades Isle…"
 	keyWait
 	clearMsg
-	"Accept this job?\n"
+	"Aceitar missão?\n"
 	option
 		left = 1
 		right = 1
@@ -1438,7 +1439,7 @@ script 19 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"   Sim "
 	option
 		left = 0
 		right = 0
@@ -1446,7 +1447,7 @@ script 19 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No"
+	"          Não"
 	select
 		default = 0
 		BSeparate = false
@@ -1521,7 +1522,7 @@ script 20 mmbn3 {
 	"""
 	keyWait
 	clearMsg
-	"Accept this job?\n"
+	"Aceitar missão?\n"
 	option
 		left = 1
 		right = 1
@@ -1529,7 +1530,7 @@ script 20 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"   Sim "
 	option
 		left = 0
 		right = 0
@@ -1537,7 +1538,7 @@ script 20 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No"
+	"          Não"
 	select
 		default = 0
 		BSeparate = false
@@ -1574,7 +1575,7 @@ script 21 mmbn3 {
 	"""
 	We want to meet that
 	Navi MegaMan from
-	the N1 Grand Prix!
+	the Grande Prêmio N1!
 	"""
 	keyWait
 	clearMsg
@@ -1598,7 +1599,7 @@ script 21 mmbn3 {
 	"""
 	keyWait
 	clearMsg
-	"Accept this job?\n"
+	"Aceitar missão?\n"
 	option
 		left = 1
 		right = 1
@@ -1606,7 +1607,7 @@ script 21 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"   Sim "
 	option
 		left = 0
 		right = 0
@@ -1614,7 +1615,7 @@ script 21 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No"
+	"          Não"
 	select
 		default = 0
 		BSeparate = false
@@ -1662,7 +1663,7 @@ script 22 mmbn3 {
 	"""
 	keyWait
 	clearMsg
-	"Accept this job?\n"
+	"Aceitar missão?\n"
 	option
 		left = 1
 		right = 1
@@ -1670,7 +1671,7 @@ script 22 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"   Sim "
 	option
 		left = 0
 		right = 0
@@ -1678,7 +1679,7 @@ script 22 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No"
+	"          Não"
 	select
 		default = 0
 		BSeparate = false
@@ -1731,7 +1732,7 @@ script 23 mmbn3 {
 	"""
 	keyWait
 	clearMsg
-	"Accept this job?\n"
+	"Aceitar missão?\n"
 	option
 		left = 1
 		right = 1
@@ -1739,7 +1740,7 @@ script 23 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"   Sim "
 	option
 		left = 0
 		right = 0
@@ -1747,7 +1748,7 @@ script 23 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No"
+	"          Não"
 	select
 		default = 0
 		BSeparate = false
@@ -1802,7 +1803,7 @@ script 24 mmbn3 {
 	"""
 	keyWait
 	clearMsg
-	"Accept this job?\n"
+	"Aceitar missão?\n"
 	option
 		left = 1
 		right = 1
@@ -1810,7 +1811,7 @@ script 24 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"   Sim "
 	option
 		left = 0
 		right = 0
@@ -1818,7 +1819,7 @@ script 24 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No"
+	"          Não"
 	select
 		default = 0
 		BSeparate = false
@@ -1860,16 +1861,15 @@ script 48 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	You've already
-	accepted another
-	job.
+	Você já aceitou uma
+	outra missão.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Come back again
-	after you finish
-	your current job.
+	Tente de novo após
+	terminar a sua missão
+	atual.
 	"""
 	keyWait
 	waitHold
@@ -1895,7 +1895,7 @@ script 64 mmbn3 {
 		top = 100
 	msgOpenInvisible
 		unused = 12
-	"Job accepted."
+	"Missão aceita."
 	keyWait
 	waitHold
 }
@@ -1920,7 +1920,7 @@ script 65 mmbn3 {
 		top = 100
 	msgOpenInvisible
 		unused = 12
-	"Job accepted."
+	"Missão aceita."
 	keyWait
 	waitHold
 }
@@ -1945,7 +1945,7 @@ script 66 mmbn3 {
 		top = 100
 	msgOpenInvisible
 		unused = 12
-	"Job accepted."
+	"Missão aceita."
 	keyWait
 	waitHold
 }
@@ -1970,7 +1970,7 @@ script 67 mmbn3 {
 		top = 100
 	msgOpenInvisible
 		unused = 12
-	"Job accepted."
+	"Missão aceita."
 	keyWait
 	waitHold
 }
@@ -1995,7 +1995,7 @@ script 68 mmbn3 {
 		top = 100
 	msgOpenInvisible
 		unused = 12
-	"Job accepted."
+	"Missão aceita."
 	keyWait
 	waitHold
 }
@@ -2020,7 +2020,7 @@ script 69 mmbn3 {
 		top = 100
 	msgOpenInvisible
 		unused = 12
-	"Job accepted."
+	"Missão aceita."
 	keyWait
 	waitHold
 }
@@ -2045,7 +2045,7 @@ script 70 mmbn3 {
 		top = 100
 	msgOpenInvisible
 		unused = 12
-	"Job accepted."
+	"Missão aceita."
 	keyWait
 	waitHold
 }
@@ -2070,7 +2070,7 @@ script 71 mmbn3 {
 		top = 100
 	msgOpenInvisible
 		unused = 12
-	"Job accepted."
+	"Missão aceita."
 	keyWait
 	waitHold
 }
@@ -2095,7 +2095,7 @@ script 72 mmbn3 {
 		top = 100
 	msgOpenInvisible
 		unused = 12
-	"Job accepted."
+	"Missão aceita."
 	keyWait
 	waitHold
 }
@@ -2120,7 +2120,7 @@ script 73 mmbn3 {
 		top = 100
 	msgOpenInvisible
 		unused = 12
-	"Job accepted."
+	"Missão aceita."
 	keyWait
 	waitHold
 }
@@ -2145,7 +2145,7 @@ script 74 mmbn3 {
 		top = 100
 	msgOpenInvisible
 		unused = 12
-	"Job accepted."
+	"Missão aceita."
 	keyWait
 	waitHold
 }
@@ -2170,7 +2170,7 @@ script 75 mmbn3 {
 		top = 100
 	msgOpenInvisible
 		unused = 12
-	"Job accepted."
+	"Missão aceita."
 	keyWait
 	waitHold
 }
@@ -2195,7 +2195,7 @@ script 76 mmbn3 {
 		top = 100
 	msgOpenInvisible
 		unused = 12
-	"Job accepted."
+	"Missão aceita."
 	keyWait
 	waitHold
 }
@@ -2220,7 +2220,7 @@ script 77 mmbn3 {
 		top = 100
 	msgOpenInvisible
 		unused = 12
-	"Job accepted."
+	"Missão aceita."
 	keyWait
 	waitHold
 }
@@ -2245,7 +2245,7 @@ script 78 mmbn3 {
 		top = 100
 	msgOpenInvisible
 		unused = 12
-	"Job accepted."
+	"Missão aceita."
 	keyWait
 	waitHold
 }
@@ -2270,7 +2270,7 @@ script 79 mmbn3 {
 		top = 100
 	msgOpenInvisible
 		unused = 12
-	"Job accepted."
+	"Missão aceita."
 	keyWait
 	waitHold
 }
@@ -2295,7 +2295,7 @@ script 80 mmbn3 {
 		top = 100
 	msgOpenInvisible
 		unused = 12
-	"Job accepted."
+	"Missão aceita."
 	keyWait
 	waitHold
 }
@@ -2320,7 +2320,7 @@ script 81 mmbn3 {
 		top = 100
 	msgOpenInvisible
 		unused = 12
-	"Job accepted."
+	"Missão aceita."
 	keyWait
 	waitHold
 }
@@ -2345,7 +2345,7 @@ script 82 mmbn3 {
 		top = 100
 	msgOpenInvisible
 		unused = 12
-	"Job accepted."
+	"Missão aceita."
 	keyWait
 	waitHold
 }
@@ -2370,7 +2370,7 @@ script 83 mmbn3 {
 		top = 100
 	msgOpenInvisible
 		unused = 12
-	"Job accepted."
+	"Missão aceita."
 	keyWait
 	waitHold
 }
@@ -2395,7 +2395,7 @@ script 84 mmbn3 {
 		top = 100
 	msgOpenInvisible
 		unused = 12
-	"Job accepted."
+	"Missão aceita."
 	keyWait
 	waitHold
 }
@@ -2420,7 +2420,7 @@ script 85 mmbn3 {
 		top = 100
 	msgOpenInvisible
 		unused = 12
-	"Job accepted."
+	"Missão aceita."
 	keyWait
 	waitHold
 }
@@ -2445,7 +2445,7 @@ script 86 mmbn3 {
 		top = 100
 	msgOpenInvisible
 		unused = 12
-	"Job accepted."
+	"Missão aceita."
 	keyWait
 	waitHold
 }
@@ -2470,7 +2470,7 @@ script 87 mmbn3 {
 		top = 100
 	msgOpenInvisible
 		unused = 12
-	"Job accepted."
+	"Missão aceita."
 	keyWait
 	waitHold
 }
@@ -2495,7 +2495,7 @@ script 88 mmbn3 {
 		top = 100
 	msgOpenInvisible
 		unused = 12
-	"Job accepted."
+	"Missão aceita."
 	keyWait
 	waitHold
 }
@@ -2513,14 +2513,15 @@ script 112 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	You're already
-	working on this job.
+	Você já está
+	trabalhando nesta
+	missão.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Meeting place:
-	ACDC Park
+	Local de encontro:
+	Parque ACDC.
 	"""
 	keyWait
 	waitHold
@@ -2539,14 +2540,15 @@ script 113 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	You're already
-	working on this job.
+	Você já está
+	trabalhando nesta
+	missão.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Meeting place:
-	Beach Area 1
+	Local de encontro:
+	Área Angra 1.
 	"""
 	keyWait
 	waitHold
@@ -2565,14 +2567,16 @@ script 114 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	You're already
-	working on this job.
+	Você já está
+	trabalhando nesta
+	missão.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Meeting place:
-	TV Station Lobby
+	Local de encontro:
+	Saguão da Emissora
+	de TV.
 	"""
 	keyWait
 	waitHold
@@ -2591,14 +2595,15 @@ script 115 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	You're already
-	working on this job.
+	Você já está
+	trabalhando nesta
+	missão.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Meeting place:
-	Teachers' Lounge
+	Local de encontro:
+	Sala dos Professores.
 	"""
 	keyWait
 	waitHold
@@ -2617,14 +2622,15 @@ script 116 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	You're already
-	working on this job.
+	Você já está
+	trabalhando nesta
+	missão.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Meeting place:
-	ACDC 1
+	Local de encontro:
+	ACDC 1.
 	"""
 	keyWait
 	waitHold
@@ -2643,14 +2649,15 @@ script 117 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	You're already
-	working on this job.
+	Você já está
+	trabalhando nesta
+	missão.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Meeting place:
-	SciLab Station
+	Local de encontro:
+	Estação SciLab.
 	"""
 	keyWait
 	waitHold
@@ -2669,14 +2676,15 @@ script 118 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	You're already
-	working on this job.
+	Você já está
+	trabalhando nesta
+	missão.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Meeting place:
-	Yoka Station
+	Local de encontro:
+	Estação Yoka.
 	"""
 	keyWait
 	waitHold
@@ -2695,14 +2703,15 @@ script 119 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	You're already
-	working on this job.
+	Você já está
+	trabalhando nesta
+	missão.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Meeting place:
-	Virus Lab
+	Local de encontro:
+	Laboratório de Vírus.
 	"""
 	keyWait
 	waitHold
@@ -2721,14 +2730,15 @@ script 120 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	You're already
-	working on this job.
+	Você já está
+	trabalhando nesta
+	missão.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Meeting place:
-	ACDC Square
+	Local de encontro:
+	ACDC Plaza.
 	"""
 	keyWait
 	waitHold
@@ -2747,14 +2757,15 @@ script 121 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	You're already
-	working on this job.
+	Você já está
+	trabalhando nesta
+	missão.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Meeting place:
-	Inn Lobby
+	Local de encontro:
+	Recepção da pousada.
 	"""
 	keyWait
 	waitHold
@@ -2773,14 +2784,15 @@ script 122 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	You're already
-	working on this job.
+	Você já está
+	trabalhando nesta
+	missão.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Meeting place:
-	Inside Telephone
+	Local de encontro:
+	Dentro de um telefone.
 	"""
 	keyWait
 	waitHold
@@ -2799,14 +2811,15 @@ script 123 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	You're already
-	working on this job.
+	Você já está
+	trabalhando nesta
+	missão.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Meeting place:
-	Beach Square
+	Local de encontro:
+	Angra Plaza
 	"""
 	keyWait
 	waitHold
@@ -2825,15 +2838,16 @@ script 124 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	You're already
-	working on this job.
+	Você já está
+	trabalhando nesta
+	missão.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Meeting place:
-	Yoka
-	Front of Inn
+	Local de encontro:
+	Yoka, área à frente
+	da pousada.
 	"""
 	keyWait
 	waitHold
@@ -2852,14 +2866,15 @@ script 125 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	You're already
-	working on this job.
+	Você já está
+	trabalhando nesta
+	missão.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Meeting place:
-	Principal's Office
+	Local de encontro:
+	Diretoria.
 	"""
 	keyWait
 	waitHold
@@ -2878,14 +2893,15 @@ script 126 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	You're already
-	working on this job.
+	Você já está
+	trabalhando nesta
+	missão.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Meeting place:
-	Zoo 1
+	Local de encontro:
+	Zoológico 1.
 	"""
 	keyWait
 	waitHold
@@ -2904,15 +2920,15 @@ script 127 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	You're already
-	working on this job.
+	Você já está
+	trabalhando nesta
+	missão.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Meeting place:
-	Hospital
-	Inside TV
+	Local de encontro:
+	Hospital, dentro da TV.
 	"""
 	keyWait
 	waitHold
@@ -2931,15 +2947,16 @@ script 128 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	You're already
-	working on this job.
+	Você já está
+	trabalhando nesta
+	missão.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Meeting place:
-	SciLab,Inside
-	Vending Machine
+	Local de encontro:
+	SciLab, dentro da
+	máquina de bebidas.
 	"""
 	keyWait
 	waitHold
@@ -2958,14 +2975,15 @@ script 129 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	You're already
-	working on this job.
+	Você já está
+	trabalhando nesta
+	missão.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Meeting place:
-	Yoka Square
+	Local de encontro:
+	Yoka Plaza.
 	"""
 	keyWait
 	waitHold
@@ -2984,14 +3002,15 @@ script 130 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	You're already
-	working on this job.
+	Você já está
+	trabalhando nesta
+	missão.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Meeting place:
-	SciLab 2
+	Local de encontro:
+	SciLab 2.
 	"""
 	keyWait
 	waitHold
@@ -3010,14 +3029,15 @@ script 131 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	You're already
-	working on this job.
+	Você já está
+	trabalhando nesta
+	missão.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Meeting place:
-	Hades Isle
+	Local de encontro:
+	Ilha do Inferno.
 	"""
 	keyWait
 	waitHold
@@ -3036,14 +3056,15 @@ script 132 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	You're already
-	working on this job.
+	Você já está
+	trabalhando nesta
+	missão.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Meeting place:
-	Front of Zoo
+	Local de encontro:
+	Na frente do zoológico.
 	"""
 	keyWait
 	waitHold
@@ -3062,14 +3083,15 @@ script 133 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	You're already
-	working on this job.
+	Você já está
+	trabalhando nesta
+	missão.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Meeting place:
-	Undernet 2
+	Local de encontro:
+	Undernet 2.
 	"""
 	keyWait
 	waitHold
@@ -3088,14 +3110,15 @@ script 134 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	You're already
-	working on this job.
+	Você já está
+	trabalhando nesta
+	missão.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Meeting place:
-	Hades Isle
+	Local de encontro:
+	Ilha do Inferno.
 	"""
 	keyWait
 	waitHold
@@ -3114,14 +3137,15 @@ script 135 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	You're already
-	working on this job.
+	Você já está
+	trabalhando nesta
+	missão.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Meeting place:
-	Hospital 2F
+	Local de encontro:
+	Hospital 2P.
 	"""
 	keyWait
 	waitHold
@@ -3140,14 +3164,16 @@ script 136 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	You're already
-	working on this job.
+	Você já está
+	trabalhando nesta
+	missão.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Meeting place:
-	Classroom Hallway
+	Local de encontro:
+	Corredor de turmas
+	do colégio.
 	"""
 	keyWait
 	waitHold
@@ -3165,7 +3191,7 @@ script 137 mmbn3 {
 		top = 100
 	msgOpenInvisible
 		unused = 12
-	"Job in progress."
+	"Missão em andamento."
 	keyWait
 	waitHold
 }
@@ -3182,7 +3208,7 @@ script 138 mmbn3 {
 		top = 100
 	msgOpenInvisible
 		unused = 12
-	"Job in progress."
+	"Missão em andamento."
 	keyWait
 	waitHold
 }
@@ -3199,7 +3225,7 @@ script 139 mmbn3 {
 		top = 100
 	msgOpenInvisible
 		unused = 12
-	"Job in progress."
+	"Missão em andamento."
 	keyWait
 	waitHold
 }
@@ -3216,7 +3242,7 @@ script 140 mmbn3 {
 		top = 100
 	msgOpenInvisible
 		unused = 12
-	"Job in progress."
+	"Missão em andamento."
 	keyWait
 	waitHold
 }
@@ -3233,7 +3259,7 @@ script 141 mmbn3 {
 		top = 100
 	msgOpenInvisible
 		unused = 12
-	"Job in progress."
+	"Missão em andamento."
 	keyWait
 	waitHold
 }
@@ -3250,7 +3276,7 @@ script 142 mmbn3 {
 		top = 100
 	msgOpenInvisible
 		unused = 12
-	"Job in progress."
+	"Missão em andamento."
 	keyWait
 	waitHold
 }
@@ -3267,7 +3293,7 @@ script 143 mmbn3 {
 		top = 100
 	msgOpenInvisible
 		unused = 12
-	"Job in progress."
+	"Missão em andamento."
 	keyWait
 	waitHold
 }
@@ -3284,7 +3310,7 @@ script 144 mmbn3 {
 		top = 100
 	msgOpenInvisible
 		unused = 12
-	"Job in progress."
+	"Missão em andamento."
 	keyWait
 	waitHold
 }
@@ -3301,7 +3327,7 @@ script 145 mmbn3 {
 		top = 100
 	msgOpenInvisible
 		unused = 12
-	"Job in progress."
+	"Missão em andamento."
 	keyWait
 	waitHold
 }
@@ -3318,7 +3344,7 @@ script 146 mmbn3 {
 		top = 100
 	msgOpenInvisible
 		unused = 12
-	"Job in progress."
+	"Missão em andamento."
 	keyWait
 	waitHold
 }
@@ -3335,7 +3361,7 @@ script 147 mmbn3 {
 		top = 100
 	msgOpenInvisible
 		unused = 12
-	"Job in progress."
+	"Missão em andamento."
 	keyWait
 	waitHold
 }
@@ -3352,7 +3378,7 @@ script 148 mmbn3 {
 		top = 100
 	msgOpenInvisible
 		unused = 12
-	"Job in progress."
+	"Missão em andamento."
 	keyWait
 	waitHold
 }
@@ -3369,7 +3395,7 @@ script 149 mmbn3 {
 		top = 100
 	msgOpenInvisible
 		unused = 12
-	"Job in progress."
+	"Missão em andamento."
 	keyWait
 	waitHold
 }
@@ -3386,7 +3412,7 @@ script 150 mmbn3 {
 		top = 100
 	msgOpenInvisible
 		unused = 12
-	"Job in progress."
+	"Missão em andamento."
 	keyWait
 	waitHold
 }
@@ -3403,7 +3429,7 @@ script 151 mmbn3 {
 		top = 100
 	msgOpenInvisible
 		unused = 12
-	"Job in progress."
+	"Missão em andamento."
 	keyWait
 	waitHold
 }
@@ -3420,7 +3446,7 @@ script 152 mmbn3 {
 		top = 100
 	msgOpenInvisible
 		unused = 12
-	"Job in progress."
+	"Missão em andamento."
 	keyWait
 	waitHold
 }
@@ -3437,7 +3463,7 @@ script 153 mmbn3 {
 		top = 100
 	msgOpenInvisible
 		unused = 12
-	"Job in progress."
+	"Missão em andamento."
 	keyWait
 	waitHold
 }
@@ -3454,7 +3480,7 @@ script 154 mmbn3 {
 		top = 100
 	msgOpenInvisible
 		unused = 12
-	"Job in progress."
+	"Missão em andamento."
 	keyWait
 	waitHold
 }
@@ -3471,7 +3497,7 @@ script 155 mmbn3 {
 		top = 100
 	msgOpenInvisible
 		unused = 12
-	"Job in progress."
+	"Missão em andamento."
 	keyWait
 	waitHold
 }
@@ -3488,7 +3514,7 @@ script 156 mmbn3 {
 		top = 100
 	msgOpenInvisible
 		unused = 12
-	"Job in progress."
+	"Missão em andamento."
 	keyWait
 	waitHold
 }
@@ -3505,7 +3531,7 @@ script 157 mmbn3 {
 		top = 100
 	msgOpenInvisible
 		unused = 12
-	"Job in progress."
+	"Missão em andamento."
 	keyWait
 	waitHold
 }
@@ -3522,7 +3548,7 @@ script 158 mmbn3 {
 		top = 100
 	msgOpenInvisible
 		unused = 12
-	"Job in progress."
+	"Missão em andamento."
 	keyWait
 	waitHold
 }
@@ -3539,7 +3565,7 @@ script 159 mmbn3 {
 		top = 100
 	msgOpenInvisible
 		unused = 12
-	"Job in progress."
+	"Missão em andamento."
 	keyWait
 	waitHold
 }
@@ -3557,8 +3583,8 @@ script 160 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	(Words of thanks
-	from your client)
+	(Agradecimento do
+	cliente.)
 	"""
 	keyWait
 	clearMsg
@@ -3612,8 +3638,8 @@ script 161 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	(Words of thanks
-	from your client)
+	(Agradecimento do
+	cliente.)
 	"""
 	keyWait
 	clearMsg
@@ -3645,8 +3671,8 @@ script 162 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	(Words of thanks
-	from your client)
+	(Agradecimento do
+	cliente.)
 	"""
 	keyWait
 	clearMsg
@@ -3679,8 +3705,8 @@ script 163 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	(Words of thanks
-	from your client)
+	(Agradecimento do
+	cliente.)
 	"""
 	keyWait
 	clearMsg
@@ -3719,22 +3745,22 @@ script 164 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	(Words of thanks
-	from your client)
+	(Agradecimento do
+	cliente.)
 	"""
 	keyWait
 	clearMsg
 	"""
-	Thank you so much!
-	My master's shy,so
-	he's not good with
+	Muito obrigada!
+	O meu marido é tímido
+	e meio ruim com as
 	"""
 	keyWait
 	clearMsg
 	"""
-	words,but I know
-	he's grateful.
-	Thanks again!
+	palavras, mas sei que
+	também está grato.
+	De novo, obrigada!
 	"""
 	keyWait
 	waitHold
@@ -3753,28 +3779,28 @@ script 165 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	(Words of thanks
-	from your client)
+	(Agradecimento do
+	cliente.)
 	"""
 	keyWait
 	clearMsg
 	"""
-	My Navi got better
-	right away!
+	A minha Navi sarou na
+	mesma hora!
 	"""
 	keyWait
 	clearMsg
 	"""
-	How are you faring,
-	my knight in shining
-	armor?
+	E como VOCÊ tá,
+	meu cavaleiros dos
+	olhos faiscantes?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Thank you so much
-	for trading me that
-	chip!
+	Muito obrigada por
+	trocar aquele chip
+	comigo!
 	"""
 	keyWait
 	waitHold
@@ -3793,22 +3819,22 @@ script 166 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	(Words of thanks
-	from your client)
+	(Agradecimento do
+	cliente.)
 	"""
 	keyWait
 	clearMsg
 	"""
-	I owe you big time.
-	My boy's finally
-	settled down.
+	Devo muito a você.
+	Meu filho, finalmente,
+	tomou jeito.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'd have it so easy
-	if my son was as
-	polite as you.
+	Minha vida seria tão
+	fácil se ele fosse
+	educado como você!
 	"""
 	keyWait
 	waitHold
@@ -3827,22 +3853,21 @@ script 167 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	(Words of thanks
-	from your client)
+	(Agradecimento do
+	cliente.)
 	"""
 	keyWait
 	clearMsg
 	"""
-	Thanks to you,the
-	damage was minimal.
-	I still can't
+	Graças a você, o
+	estrago foi mínimo.
 	"""
 	keyWait
 	clearMsg
 	"""
-	believe you're Dr.
-	Hikari's son. That
-	was a surprise!
+	Ainda não acredito
+	que você é filho do
+	Dr. Hikari. Fiquei besta!
 	"""
 	keyWait
 	waitHold
@@ -3861,29 +3886,29 @@ script 168 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	(Words of thanks
-	from your client)
+	(Agradecimento do
+	cliente.)
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'm sorry to have
-	put you through all
-	of this for nothing.
+	Desculpe por te
+	fazer passar por
+	tudo isso, pra nada.
 	"""
 	keyWait
 	clearMsg
 	"""
-	On the bright side,
-	my brother and I
-	learned a lot. From
+	Pelo menos, meu irmão
+	e eu aprendemos
+	muito. De agora em
 	"""
 	keyWait
 	clearMsg
 	"""
-	now on,we'll work
-	together as family.
-	Thank you!
+	diante, trabalharemos
+	juntos, como família.
+	Obrigado!
 	"""
 	keyWait
 	waitHold
@@ -3902,36 +3927,36 @@ script 169 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	(Words of thanks
-	from your client)
+	(Agradecimento do
+	cliente.)
 	"""
 	keyWait
 	clearMsg
 	"""
-	Thank you! If it
-	wasn't for you,I
-	don't know what I
+	Obrigado! Se não fosse
+	por você, nem quero
+	pensar no que eu teria
 	"""
 	keyWait
 	clearMsg
 	"""
-	would have done. You
-	know,some people may
-	try to take
+	feito. Mas, olha, certas
+	pessoas se aproveita-
+	riam da sua gentileza.
 	"""
 	keyWait
 	clearMsg
 	"""
-	advantage of your
-	kindness. It may
-	sound funny coming
+	Sei que isso pode soar
+	meio estranho vindo de
+	mim,
 	"""
 	keyWait
 	clearMsg
 	"""
-	from me,but you
-	should be very
-	cautious!
+	mas eu aconselho você
+	a tomar muito cuidado,
+	viu?!
 	"""
 	keyWait
 	waitHold
@@ -3950,23 +3975,23 @@ script 170 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	A chip ad was used
-	as cover for illegal
-	activity recently.
+	Uma oferta de chip foi
+	utilizada para ocultar
+	atividades ilegais.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Any further such
-	messages will be
-	immediately reported
+	Futuras repetições de
+	postagens dessa
+	natureza serão
 	"""
 	keyWait
 	clearMsg
-	"to the Officials."
+	"encaminhadas aos\nOficiais imediatamente."
 	keyWait
 	clearMsg
-	"-Board Administrator"
+	"-Administração do Fórum"
 	keyWait
 	waitHold
 }
@@ -3984,8 +4009,8 @@ script 171 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	(Words of thanks
-	from your client)
+	(Agradecimento do
+	cliente.)
 	"""
 	keyWait
 	clearMsg
@@ -4011,8 +4036,8 @@ script 172 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	(Words of thanks
-	from your client)
+	(Agradecimento do
+	cliente.)
 	"""
 	keyWait
 	clearMsg
@@ -4045,8 +4070,8 @@ script 173 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	(Words of thanks
-	from your client)
+	(Agradecimento do
+	cliente.)
 	"""
 	keyWait
 	clearMsg
@@ -4079,8 +4104,8 @@ script 174 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	(Words of thanks
-	from your client)
+	(Agradecimento do
+	cliente.)
 	"""
 	keyWait
 	clearMsg
@@ -4119,8 +4144,8 @@ script 175 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	(Words of thanks
-	from your client)
+	(Agradecimento do
+	cliente.)
 	"""
 	keyWait
 	clearMsg
@@ -4153,8 +4178,8 @@ script 176 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	(Words of thanks
-	from your client)
+	(Agradecimento do
+	cliente.)
 	"""
 	keyWait
 	clearMsg
@@ -4187,8 +4212,8 @@ script 177 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	(Words of thanks
-	from your client)
+	(Agradecimento do
+	cliente.)
 	"""
 	keyWait
 	clearMsg
@@ -4219,8 +4244,8 @@ script 178 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	(Words of thanks
-	from your client)
+	(Agradecimento do
+	cliente.)
 	"""
 	keyWait
 	clearMsg
@@ -4253,8 +4278,8 @@ script 179 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	(Words of thanks
-	from your client)
+	(Agradecimento do
+	cliente.)
 	"""
 	keyWait
 	clearMsg
@@ -4276,8 +4301,8 @@ script 180 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	(Words of thanks
-	from your client)
+	(Agradecimento do
+	cliente.)
 	"""
 	keyWait
 	clearMsg
@@ -4343,8 +4368,8 @@ script 182 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	(Words of thanks
-	from your client)
+	(Agradecimento do
+	cliente.)
 	"""
 	keyWait
 	clearMsg
@@ -4377,8 +4402,8 @@ script 183 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	(Words of thanks
-	from your client)
+	(Agradecimento do
+	cliente.)
 	"""
 	keyWait
 	clearMsg
@@ -4404,8 +4429,8 @@ script 184 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	(Words of thanks
-	from your client)
+	(Agradecimento do
+	cliente.)
 	"""
 	keyWait
 	clearMsg
@@ -4429,7 +4454,7 @@ script 184 mmbn3 {
 	"""
 	keyWait
 	clearMsg
-	"Good luck!"
+	"Boa sorte!"
 	keyWait
 	waitHold
 }

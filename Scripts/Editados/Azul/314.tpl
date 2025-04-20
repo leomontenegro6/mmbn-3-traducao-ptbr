@@ -3,7 +3,7 @@
 script 0 mmbn3 {
 	mugshotHide
 	msgOpen
-	"The next morning…"
+	"Na manhã seguinte..."
 	keyWait
 	end
 }
@@ -11,7 +11,7 @@ script 1 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Huh? Where's Tora?"
+	"Ué? Cadê o Tora?"
 	keyWait
 	clearMsg
 	jump
@@ -22,15 +22,13 @@ script 2 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	He went to help out
-	mom.
+	Ele foi ajudar a mamãe.
 	"""
 	keyWait
 	clearMsg
 	"""
-	You know,you could
-	learn something from
-	him,too,Lan.
+	Você podia aprender
+	com ele, sabe, Lan?
 	"""
 	keyWait
 	clearMsg
@@ -42,8 +40,9 @@ script 3 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Do you have to nag
-	so early?
+	Não tá cedo demais pra
+	você encher o meu saco,
+	não?
 	"""
 	keyWait
 	end
@@ -52,7 +51,7 @@ script 4 mmbn3 {
 	mugshotHide
 	msgOpen
 	soundDisableTextSFX
-	"Beep Beep Beep!"
+	"Bip Bip Bip!"
 	keyWait
 	soundEnableTextSFX
 	end
@@ -62,8 +61,8 @@ script 5 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan! You got mail!
-	It's from Dex.
+	Lan! Chegou e-mail!
+	É do Dex.
 	"""
 	keyWait
 	clearMsg
@@ -74,7 +73,7 @@ script 6 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"What's it say?"
+	"E ele diz o quê?"
 	keyWait
 	clearMsg
 	jump
@@ -85,9 +84,9 @@ script 7 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	It says,"We've gotta
-	talk. Come to the
-	park."
+	"A gente precisa levar
+	um papo. Vem pro
+	parque agora."
 	"""
 	flagAddMail
 		flag = 4369
@@ -96,14 +95,14 @@ script 7 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Dex was acting
-	strange yesterday.
+	O Dex tava meio
+	estranho ontem.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I wonder if
-	something's wrong?
+	Será que tá rolando
+	algum problema?
 	"""
 	keyWait
 	clearMsg
@@ -115,8 +114,8 @@ script 8 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Yeah. Let's go check
-	it out!
+	Pode ser, né...?
+	Vamos lá ver!
 	"""
 	keyWait
 	end

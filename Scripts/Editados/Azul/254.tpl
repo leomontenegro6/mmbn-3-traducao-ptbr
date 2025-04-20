@@ -5,15 +5,15 @@ script 0 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I've been waiting
-	all week for today!
-	Yippee! No school!
+	Eu esperei a semana
+	toda por hoje!
+	Aleluia! Não tem aula!
 	"""
 	keyWait
 	clearMsg
 	"""
-	So what's the plan,
-	MegaMan?
+	E aí, qual é o plano pra
+	hoje, MegaMan?
 	"""
 	keyWait
 	end
@@ -23,9 +23,8 @@ script 1 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	What's the plan? Our
-	plan is to go help
-	Mayl.
+	Que pergunta é essa?
+	O plano é ajudar a Mayl.
 	"""
 	keyWait
 	clearMsg
@@ -37,8 +36,8 @@ script 2 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Oh yeah. Forgot
-	about that.
+	Ah, é. Tinha esquecido
+	disso.
 	"""
 	keyWait
 	clearMsg
@@ -50,8 +49,8 @@ script 3 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Mayl's probably
-	waiting for us.
+	A Mayl já deve estar
+	esperando pela gente.
 	"""
 	keyWait
 	clearMsg
@@ -66,7 +65,7 @@ script 4 mmbn3 {
 	soundPlay
 		track = 134
 	soundDisableTextSFX
-	"Beep Beep Beep!"
+	"Bip Bip Bip!"
 	soundEnableTextSFX
 	keyWait
 	end
@@ -75,15 +74,15 @@ script 5 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Lan! You got mail!"
+	"Lan! Chegou e-mail!"
 	keyWait
 	clearMsg
-	"Maybe it's Mayl?"
+	"Será que é a Mayl?"
 	keyWait
 	clearMsg
 	"""
-	Hey,it's from dad!
-	It says,
+	Ah, é do papai!
+	Nele, tá escrito:
 	"""
 	keyWait
 	clearMsg
@@ -95,9 +94,9 @@ script 6 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Poor dad. Saturday's
-	finally here and he
-	can't even take off.
+	Coitado do papai. Final-
+	mente é sábado, e ele
+	não pode tirar uma folga.
 	"""
 	keyWait
 	clearMsg
@@ -109,14 +108,15 @@ script 7 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Oh,well. His work
-	is really important.
+	Bom, fazer o quê, né?
+	O trabalho dele é bem
+	importante.
 	"""
 	keyWait
 	clearMsg
 	"""
-	C'mon,let's get over
-	to Mayl's!
+	Vamos lá, bora pra casa
+	da Mayl!
 	"""
 	keyWait
 	end
@@ -130,16 +130,16 @@ script 8 mmbn3 {
 	mugshotAnimate
 		animation = 0
 	"""
-	"Lan,I have to go
-	overseas for 3 days
-	on a business trip.
+	"Lan, terei que viajar
+	pro exterior por três
+	dias a trabalho.
 	"""
 	keyWait
 	clearMsg
 	"""
-	"Since I won't be
-	home,can you look
-	after mom? Thanks!".
+	Como não estarei em
+	casa, cuida da sua mãe,
+	tá? Valeu, filhão!"
 	"""
 	flagAddMail
 		flag = 4359

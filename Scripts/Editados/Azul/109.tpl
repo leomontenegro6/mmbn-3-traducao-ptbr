@@ -19,9 +19,9 @@ script 1 mmbn3 {
 		mugshot = NormalNaviGreen
 	msgOpen
 	"""
-	I dozed off and
-	woke up to find
-	things like this!
+	Eu cochilei e, quando
+	acordei, as coisas
+	estavam assim!
 	"""
 	keyWait
 	end
@@ -31,8 +31,8 @@ script 2 mmbn3 {
 		mugshot = NormalNaviGreen
 	msgOpen
 	"""
-	But somehow I didn't
-	get fired.
+	E, milagrosamente,
+	eu não fui demitido.
 	"""
 	keyWait
 	end
@@ -58,8 +58,8 @@ script 20 mmbn3 {
 		mugshot = CloakedNavi
 	msgOpen
 	"""
-	How well you managed
-	to get here
+	Ótimo trabalhando
+	chegando aqui
 	"""
 	waitSkip
 		frames = 30
@@ -71,48 +71,49 @@ script 20 mmbn3 {
 		frames = 30
 	"""
 	.
-	I'm ranked 7.
+	Eu sou o ranque 7.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Those who are ranked
-	are duty-bound to
-	take any challenge…
+	Os ranqueados têm o
+	dever irrecusável de
+	encarar desafios.
 	"""
 	keyWait
 	clearMsg
 	"""
-	You may have made it
-	this far,but success
-	is more than power.
+	Pode ter chegado
+	longe, mas "sucesso"
+	é mais que só poder.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Real strength is
-	driven by
-	intelligence.
+	Poder de verdade é
+	guiado pela
+	inteligência.
 	"""
 	keyWait
 	clearMsg
 	"""
-	So. Let me now offer
-	you a quest…
+	Então... Permita-me
+	oferecer uma missão
+	a você...
 	"""
 	keyWait
 	clearMsg
 	"""
-	If you can find what
-	I ask,you will get
-	my rank as well…
+	Se achar o que eu
+	pedir, darei também
+	meu ranque...
 	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	What should we do,
+	O que a gente faz,
 	Lan?
 	"""
 	keyWait
@@ -120,43 +121,50 @@ script 20 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	There's no question.
-	Take him on!
+	Nem tem no que
+	pensar.
+	Encara esse desafio!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Get him to give us
-	the quest! Quickly!
+	Faz ele dar essa tal
+	missão! Rápido!
 	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = CloakedNavi
 	"""
-	You are a forceful
-	operator…
+	Que operador mais
+	mandão...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Prepare to receive
-	your quest.
+	Prepare-se para
+	receber sua missão.
 	"""
 	keyWait
 	clearMsg
-	"\"One of many birds\"."
+	"""
+	"Um de muitos
+	pássaros".
+	"""
 	keyWait
 	clearMsg
-	"Go now,and find it…"
+	"""
+	Agora,vá e
+	encontre-o...
+	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	"One of many birds"?
-	That's going to be
-	tough! Let's go,Lan!
+	"Um de muitos pássaros"?
+	Difícil charada...
+	Vamos, Lan!
 	"""
 	keyWait
 	end
@@ -171,15 +179,15 @@ script 22 mmbn3 {
 		mugshot = CloakedNavi
 	msgOpen
 	"""
-	What's this?
-	Given up already…?
+	O que foi?
+	Já desistiram...?
 	"""
 	keyWait
 	clearMsg
 	"""
-	"One of many birds"…
-	You cannot receive
-	the rank without it.
+	"Um de muitos pássaros".
+	Não receberá o ranque
+	sem ele.
 	"""
 	keyWait
 	end
@@ -189,15 +197,15 @@ script 23 mmbn3 {
 		mugshot = CloakedNavi
 	msgOpen
 	"""
-	I've totally
-	forgotten about rank
-	6…
+	Eu já me esqueci
+	completamente do
+	ranque 6...
 	"""
 	keyWait
 	clearMsg
 	"""
-	How dare you look
-	at me like that!
+	Como ousa olhar para
+	mim dessa forma?!
 	"""
 	keyWait
 	end
@@ -206,7 +214,7 @@ script 24 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Lan! You got mail!"
+	"Lan! Chegou e-mail!"
 	keyWait
 	end
 }
@@ -237,7 +245,7 @@ script 220 mmbn3 {
 		jumpIfGreater = continue
 		jumpIfLess = 224
 	"""
-	MegaMan used:
+	MegaMan usou:
 	"
 	"""
 	printItem
@@ -253,7 +261,7 @@ script 220 mmbn3 {
 	"\","
 	keyWait
 	clearMsg
-	"and \""
+	"e \""
 	printItem
 		buffer = 0
 		item = 9
@@ -281,9 +289,9 @@ script 221 mmbn3 {
 		jumpIfFalse = continue
 	msgOpen
 	"""
-	There are servers in
-	Cyberworld for the
-	teachers' Navis
+	Há servidores no mundo
+	cibernético para os
+	Navis dos professores.
 	"""
 	keyWait
 	end
@@ -291,15 +299,16 @@ script 221 mmbn3 {
 script 222 mmbn3 {
 	msgOpen
 	"""
-	A graph shows data
-	on students who miss
-	time from school
+	Um gráfico mostrando
+	dados de alunos que
+	desrespeitam horários.
 	"""
 	keyWait
 	clearMsg
 	"""
-	There seem to be a
-	lot of late arrivals
+	Parece que está
+	havendo um monte de
+	atrasos.
 	"""
 	keyWait
 	end
@@ -311,9 +320,9 @@ script 223 mmbn3 {
 		jumpIfFalse = continue
 	msgOpen
 	"""
-	This huge statue
-	is something like a
-	good-luck charm
+	Esta enorme estátua
+	serve meio que como um
+	amuleto de boa sorte.
 	"""
 	keyWait
 	end
@@ -321,8 +330,8 @@ script 223 mmbn3 {
 script 224 mmbn3 {
 	msgOpen
 	"""
-	You need 3 passwords
-	to go on!
+	Você precisa de três
+	senhas para passar!
 	"""
 	keyWait
 	end
@@ -330,8 +339,8 @@ script 224 mmbn3 {
 script 230 mmbn3 {
 	msgOpen
 	"""
-	MegaMan accessed the
-	mystery data.
+	MegaMan acessou os
+	dados misteriosos.
 	"""
 	wait
 		frames = 10
@@ -352,13 +361,13 @@ script 230 mmbn3 {
 		item = 7
 		amount = 1
 	"""
-	MegaMan got:
+	MegaMan adquiriu:
 	"
 	"""
 	printItem
 		buffer = 0
 		item = 7
-	"\"!!"
+	"\"!"
 	playerFinish
 	playerUnlock
 	keyWait
@@ -367,8 +376,8 @@ script 230 mmbn3 {
 script 231 mmbn3 {
 	msgOpen
 	"""
-	MegaMan accessed the
-	mystery data.
+	MegaMan acessou os
+	dados misteriosos.
 	"""
 	wait
 		frames = 10
@@ -389,13 +398,13 @@ script 231 mmbn3 {
 		item = 8
 		amount = 1
 	"""
-	MegaMan got:
+	MegaMan adquiriu:
 	"
 	"""
 	printItem
 		buffer = 0
 		item = 8
-	"\"!!"
+	"\"!"
 	playerFinish
 	playerUnlock
 	keyWait
@@ -404,8 +413,8 @@ script 231 mmbn3 {
 script 232 mmbn3 {
 	msgOpen
 	"""
-	MegaMan accessed the
-	mystery data.
+	MegaMan acessou os
+	dados misteriosos.
 	"""
 	wait
 		frames = 10
@@ -426,13 +435,13 @@ script 232 mmbn3 {
 		item = 9
 		amount = 1
 	"""
-	MegaMan got:
+	MegaMan adquiriu:
 	"
 	"""
 	printItem
 		buffer = 0
 		item = 9
-	"\"!!"
+	"\"!"
 	playerFinish
 	playerUnlock
 	keyWait
@@ -446,8 +455,8 @@ script 234 mmbn3 {
 		flag = 3787
 	msgOpen
 	"""
-	Launching intruder
-	ejection program!
+	Iniciando programa de
+	contenção de intrusos!
 	"""
 	keyWait
 	startRandomBattle
@@ -458,8 +467,8 @@ script 235 mmbn3 {
 		flag = 3788
 	msgOpen
 	"""
-	Launching intruder
-	ejection program!
+	Iniciando programa de
+	contenção de intrusos!
 	"""
 	keyWait
 	startRandomBattle
@@ -468,8 +477,8 @@ script 235 mmbn3 {
 script 236 mmbn3 {
 	msgOpen
 	"""
-	MegaMan accessed the
-	mystery data.
+	MegaMan acessou os
+	dados misteriosos.
 	"""
 	wait
 		frames = 10
@@ -492,7 +501,7 @@ script 236 mmbn3 {
 		jumpIfNone = continue
 		jumpIfSome = continue
 	"""
-	MegaMan got:
+	MegaMan adquiriu:
 	"1200 Zennys"!!
 	"""
 	playerFinish
@@ -503,8 +512,8 @@ script 236 mmbn3 {
 script 237 mmbn3 {
 	msgOpen
 	"""
-	MegaMan accessed the
-	mystery data.
+	MegaMan acessou os
+	dados misteriosos.
 	"""
 	wait
 		frames = 10
@@ -526,8 +535,7 @@ script 237 mmbn3 {
 		code = P
 		amount = 1
 	"""
-	MegaMan got a chip
-	for
+	MegaMan adquiriu o chip
 	"
 	"""
 	printChip
@@ -537,7 +545,7 @@ script 237 mmbn3 {
 	printCode
 		buffer = 0
 		code = P
-	"\"!!"
+	"\"!"
 	playerFinish
 	playerUnlock
 	keyWait
@@ -546,8 +554,8 @@ script 237 mmbn3 {
 script 238 mmbn3 {
 	msgOpen
 	"""
-	MegaMan accessed the
-	mystery data.
+	MegaMan acessou os
+	dados misteriosos.
 	"""
 	wait
 		frames = 10
@@ -568,14 +576,14 @@ script 238 mmbn3 {
 		item = 96
 		amount = 1
 	"""
-	MegaMan got a
-	PowerUp:
+	MegaMan adquiriu
+	um PowerUp:
 	"
 	"""
 	printItem
 		buffer = 0
 		item = 96
-	"\"!!"
+	"\"!"
 	playerFinish
 	playerUnlock
 	keyWait
@@ -588,23 +596,23 @@ script 240 mmbn3 {
 		jumpIfFalse = continue
 	msgOpen
 	"""
-	…!!
-	Someone attached a
-	virus bomb!
+	...!!
+	Alguém plantou uma
+	bomba de vírus aqui!
 	"""
 	keyWait
 	clearMsg
 	"""
-	A simple message is
-	written on the bomb:
-	"It floats".
+	Há uma curta mensagem
+	escrita na bomba:
+	"Ele flutua."
 	"""
 	keyWait
 	clearMsg
 	"""
-	And underneath are
-	steel,silver,and
-	wooden buttons
+	E, abaixo dela, você vê
+	3 botões: 1 de aço, 1 de
+	prata e 1 de madeira.
 	"""
 	keyWait
 	clearMsg
@@ -615,7 +623,7 @@ script 240 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Press steel\n"
+	"Apertar de aço\n"
 	option
 		left = 1
 		right = 1
@@ -623,7 +631,7 @@ script 240 mmbn3 {
 		down = 2
 	space
 		count = 2
-	"Press silver\n"
+	"Apertar de prata\n"
 	option
 		left = 2
 		right = 2
@@ -631,7 +639,7 @@ script 240 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Press wooden"
+	"Apertar de madeira"
 	select
 		default = 0
 		BSeparate = false
@@ -650,8 +658,8 @@ script 241 mmbn3 {
 		flag = 2735
 	msgOpen
 	"""
-	"Incorrect action:
-	Releasing virus."
+	"Ação incorreta.
+	Liberando vírus."
 	"""
 	keyWait
 	flagSet
@@ -662,19 +670,19 @@ script 242 mmbn3 {
 	flagSet
 		flag = 2735
 	msgOpen
-	"\"Shutting down.\""
+	"\"Desligando.\""
 	keyWait
 	clearMsg
-	"Beep,beep,click!"
+	"Bip, bip, clic!"
 	keyWait
 	end
 }
 script 243 mmbn3 {
 	msgOpen
 	"""
-	The bomb has been
-	defused. The virus
-	will not be released
+	A bomba foi desarmada.
+	O vírus não será
+	liberado.
 	"""
 	keyWait
 	end
@@ -686,23 +694,23 @@ script 244 mmbn3 {
 		jumpIfFalse = continue
 	msgOpen
 	"""
-	…!!
-	Someone attached a
-	virus bomb!
+	...!!
+	Alguém plantou uma
+	bomba de vírus aqui!
 	"""
 	keyWait
 	clearMsg
 	"""
-	It says,"Immune to
-	multiplication and
-	to division" on it.
+	Nela, tem escrito:
+	"Imune a multiplicação
+	e divisão".
 	"""
 	keyWait
 	clearMsg
 	"""
-	And underneath are
-	buttons with the
-	numbers 0,1,and 7
+	E, abaixo dela, há três
+	botões, com os números
+	0, 1 e 7.
 	"""
 	keyWait
 	clearMsg
@@ -713,7 +721,7 @@ script 244 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Press 0\n"
+	"Apertar 0\n"
 	option
 		left = 1
 		right = 1
@@ -721,7 +729,7 @@ script 244 mmbn3 {
 		down = 2
 	space
 		count = 2
-	"Press 1\n"
+	"Apertar 1\n"
 	option
 		left = 2
 		right = 2
@@ -729,7 +737,7 @@ script 244 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Press 7"
+	"Apertar 7"
 	select
 		default = 0
 		BSeparate = false
@@ -748,8 +756,8 @@ script 245 mmbn3 {
 		flag = 2734
 	msgOpen
 	"""
-	"Incorrect action:
-	Releasing virus."
+	"Ação incorreta.
+	Liberando vírus."
 	"""
 	keyWait
 	flagSet
@@ -760,19 +768,19 @@ script 246 mmbn3 {
 	flagSet
 		flag = 2734
 	msgOpen
-	"\"Shutting down.\""
+	"\"Desligando.\""
 	keyWait
 	clearMsg
-	"Beep,beep,click!"
+	"Bip, bip, clic!"
 	keyWait
 	end
 }
 script 247 mmbn3 {
 	msgOpen
 	"""
-	The bomb has been
-	defused. The virus
-	will not be released
+	A bomba foi desarmada.
+	O vírus não será
+	liberado.
 	"""
 	keyWait
 	end

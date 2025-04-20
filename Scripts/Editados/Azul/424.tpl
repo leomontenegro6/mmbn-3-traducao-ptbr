@@ -5,21 +5,20 @@ script 0 mmbn3 {
 		mugshot = BubbleMan
 	msgOpen
 	"""
-	I can't believe you
-	blub-beat me again?
+	Não acredito que você
+	me glub-ateu de novo!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Just you wait!
-	Alpha will
-	absorb you!!
+	Espera só pra ver!
+	O Alpha vai te absorver!!
 	"""
 	keyWait
 	clearMsg
 	flagSet
 		flag = 2626
-	"Blu-blu-bwaaah!!"
+	"Glu-blu-blaaaaaah!!"
 	keyWait
 	end
 }
@@ -29,8 +28,7 @@ script 1 mmbn3 {
 	msgOpen
 	"""
 	Lan!!
-	Has the guard
-	robot stopped!?
+	O robô vigia parou?!
 	"""
 	keyWait
 	clearMsg
@@ -41,20 +39,20 @@ script 2 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"No!"
+	"Não!"
 	keyWait
 	clearMsg
 	"""
-	So BubbleMan wasn't
-	operating
-	that thing!?
+	Então, o BubbleMan não
+	tava operando essa
+	coisa?!
 	"""
 	keyWait
 	clearMsg
 	"""
-	MegaMan! Someone
-	else is behind this!
-	Go find him!!
+	MegaMan! Tem outro
+	sujeito por trás disso!
+	Encontra ele!!
 	"""
 	keyWait
 	clearMsg
@@ -65,7 +63,7 @@ script 3 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Roger!!"
+	"Pode deixar!!"
 	keyWait
 	end
 }

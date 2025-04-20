@@ -5,24 +5,24 @@ script 0 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Huff! Huff!
-	The door's locked!
+	Arf! Arf!
+	A porta tá trancada!
 	"""
 	keyWait
 	clearMsg
-	"We're too late."
+	"A gente chegou tarde..."
 	keyWait
 	clearMsg
 	"""
-	What were you
-	thinking,Dex? Moving
-	without telling us…
+	Como você pôde fazer
+	isso, Dex? Se mudar
+	sem contar pra gente...
 	"""
 	keyWait
 	clearMsg
 	mugshotAnimate
 		animation = 0
-	"……Knucklehead."
+	"...... Aquele cabeça-dura."
 	keyWait
 	clearMsg
 	jump
@@ -32,7 +32,7 @@ script 1 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Lan…"
+	"Lan..."
 	keyWait
 	clearMsg
 	msgClose
@@ -48,12 +48,13 @@ script 2 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"…Is this it,MegaMan?"
+	"... É isso, MegaMan?"
 	keyWait
 	clearMsg
 	"""
-	He's just gone? I'll
-	never see him again?
+	Ele só... foi embora?
+	A gente nunca mais vai
+	ver ele?
 	"""
 	keyWait
 	clearMsg
@@ -65,22 +66,21 @@ script 3 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Don't say that! Of
-	course we'll see Dex
-	again!
+	Não fala isso!
+	Claro que a gente vai
+	ver o Dex de novo!
 	"""
 	keyWait
 	clearMsg
 	"""
-	It won't do you any
-	good getting all
-	depressed.
+	Não vai ajudar nada
+	você ficar todo deprê.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Come on,let's get
-	back to school!
+	Vai, vamos voltar pra
+	escola!
 	"""
 	keyWait
 	clearMsg
@@ -91,7 +91,7 @@ script 4 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"……Okay."
+	"......... Tá."
 	keyWait
 	end
 }
@@ -102,9 +102,8 @@ script 5 mmbn3 {
 	waitSkip
 		frames = 30
 	"""
-	Lan…
-	What are you doing
-	here?
+	Lan...
+	Tá fazendo o quê aqui?
 	"""
 	keyWait
 	clearMsg
@@ -118,7 +117,7 @@ script 6 mmbn3 {
 	"Dex!!"
 	keyWait
 	clearMsg
-	"Why"
+	"Por"
 	waitSkip
 		frames = 30
 	"."
@@ -131,16 +130,16 @@ script 6 mmbn3 {
 	waitSkip
 		frames = 30
 	"""
-	Why were you
-	just going to leave
-	without telling us!?
+	 Por que você
+	resolveu ir embora sem
+	contar pra gente?!
 	"""
 	keyWait
 	clearMsg
 	"""
-	What were you
-	thinking!? We're
-	your friends,Dex!
+	O que você tinha na
+	cabeça?! Nós somos
+	seus amigos, Dex!
 	"""
 	keyWait
 	clearMsg
@@ -152,16 +151,16 @@ script 7 mmbn3 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Lan…I'm sorry…
-	I tried to tell you
-	guys,but whenever we
+	Lan... Foi mal...
+	Eu tentei contar pra
+	vocês,
 	"""
 	keyWait
 	clearMsg
 	"""
-	were together the
-	words just wouldn't
-	come out…
+	mas, sempre que a gente
+	tava junto, as palavras
+	não saíam...
 	"""
 	keyWait
 	clearMsg
@@ -176,7 +175,7 @@ script 8 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"……"
+	"......"
 	wait
 		frames = 180
 	flagClear
@@ -191,8 +190,9 @@ script 9 mmbn3 {
 		mugshot = Yai
 	msgOpen
 	"""
-	Why do you two look
-	so glum!?
+	Por que vocês dois tão
+	aí, com essa cara de
+	enterro?!
 	"""
 	keyWait
 	end
@@ -202,9 +202,9 @@ script 10 mmbn3 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	Now's no time to
-	cry! Let's show Dex
-	our gratitude!
+	Agora não é hora pra
+	chorar! Vamos mostrar a
+	nossa gratidão pro Dex!
 	"""
 	keyWait
 	clearMsg
@@ -216,8 +216,8 @@ script 11 mmbn3 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Yai…and Mayl!
-	…and……
+	Yai... e Mayl!
+	... e......
 	"""
 	keyWait
 	clearMsg
@@ -230,7 +230,7 @@ script 12 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Everyone!"
+	"Pessoal!"
 	keyWait
 	end
 }
@@ -239,19 +239,19 @@ script 13 mmbn3 {
 		mugshot = MsMari
 	msgOpen
 	"""
-	I'm sorry,Dex. I
-	know I promised to
-	be quiet…
+	Me desculpa, Dex.
+	Eu sei que prometi não
+	falar nada, mas...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Take good care of
-	yourself in Netopia.
+	Cuide-se bem lá na
+	Ameropa.
 	"""
 	keyWait
 	clearMsg
-	"Sniff,sniff…"
+	"Chuif, snif..."
 	keyWait
 	clearMsg
 	jump
@@ -262,16 +262,16 @@ script 14 mmbn3 {
 		mugshot = Yai
 	msgOpen
 	"""
-	Don't get all
-	emotional,Ms.Mari.
-	Let's give Dex a
+	Não fique tão chorosa,
+	srta. Mari. O Dex merece
+	uma despedida feliz!
 	"""
 	keyWait
 	clearMsg
 	"""
-	happy farewell! I'll
-	use my private jet
-	to visit you,Dex!
+	Relaxa, eu te visito no
+	meu jatinho particular,
+	Dex!
 	"""
 	keyWait
 	clearMsg
@@ -283,9 +283,9 @@ script 15 mmbn3 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	Let's e-mail each
-	other,OK? Say hi to
-	Chisao for me!
+	A gente troca e-mails,
+	tá? E manda um beijo
+	pro Chisao!
 	"""
 	keyWait
 	clearMsg
@@ -297,7 +297,7 @@ script 16 mmbn3 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	We're gonna miss you
+	Vamos sentir saudades,
 	Dex!
 	"""
 	keyWait
@@ -310,8 +310,8 @@ script 17 mmbn3 {
 		mugshot = Girl
 	msgOpen
 	"""
-	Good luck in your
-	new school!
+	Boa sorte na nova
+	escola!
 	"""
 	keyWait
 	clearMsg
@@ -323,8 +323,8 @@ script 18 mmbn3 {
 		mugshot = BlueShirtBoy
 	msgOpen
 	"""
-	You can leave this
-	class in my hands!
+	Pode deixar esta turma
+	nas minhas mãos!
 	"""
 	keyWait
 	clearMsg
@@ -336,8 +336,8 @@ script 19 mmbn3 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	We can meet anytime
-	in the Cyberworld!
+	Podemos nos ver a
+	qualquer hora na Rede!
 	"""
 	keyWait
 	clearMsg
@@ -349,8 +349,7 @@ script 20 mmbn3 {
 		mugshot = Girl
 	msgOpen
 	"""
-	Come back to visit
-	us!
+	Venha visitar a gente!
 	"""
 	keyWait
 	clearMsg
@@ -362,23 +361,23 @@ script 21 mmbn3 {
 		mugshot = Dex
 	msgOpen
 	"""
-	All right!! Take a
-	good look at me,
-	guys,'cause I'm
+	OK!! Podem dar uma
+	boa olhada em mim,
+	galera,
 	"""
 	keyWait
 	clearMsg
 	"""
-	gonna become the
-	best NetBattler in
-	all of Netopia!
+	porque eu vou virar o
+	melhor NetLutador de
+	toda a Ameropa!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Lan! I'll be seeing
-	you at the next N1
-	Grand Prix finals!
+	Lan! A gente vai se ver
+	nas finais do próximo
+	Grande Prêmio N1!
 	"""
 	keyWait
 	clearMsg
@@ -390,8 +389,9 @@ script 22 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Yeah!
-	I'll be there!
+	É!
+	Eu vou estar lá,
+	pode apostar!
 	"""
 	keyWait
 	clearMsg
@@ -402,17 +402,16 @@ script 23 mmbn3 {
 	mugshotShow
 		mugshot = Dex
 	msgOpen
-	"Hey you guys!"
+	"Galera!"
 	keyWait
 	clearMsg
 	"""
-	……
-	Thanks for
-	everything!
+	......
+	Valeu por tudo!
 	"""
 	keyWait
 	clearMsg
-	"Goodbye!"
+	"Tchau!"
 	keyWait
 	end
 }
@@ -420,17 +419,19 @@ script 24 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Dex is really gone…"
-	keyWait
-	clearMsg
 	"""
-	We didn't really get
-	to talk much. Are
-	you OK?
+	O Dex foi embora
+	mesmo...
 	"""
 	keyWait
 	clearMsg
-	"……Lan?"
+	"""
+	Não pudemos conversar
+	muito. Você tá bem?
+	"""
+	keyWait
+	clearMsg
+	"...... Lan?"
 	keyWait
 	clearMsg
 	jump
@@ -440,7 +441,7 @@ script 25 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"……"
+	"......"
 	keyWait
 	clearMsg
 	jump
@@ -450,7 +451,7 @@ script 26 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Lan…?"
+	"Lan...?"
 	keyWait
 	clearMsg
 	jump
@@ -461,14 +462,15 @@ script 27 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	……
+	......
 	MegaMan.
 	"""
 	keyWait
 	clearMsg
 	"""
-	We gotta train so we
-	won't lose to Dex!
+	A gente vai treinar
+	duro pra não perder
+	pro Dex!
 	"""
 	keyWait
 	clearMsg
@@ -479,7 +481,7 @@ script 28 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"All right!"
+	"Vamos, sim!"
 	keyWait
 	end
 }
@@ -487,7 +489,7 @@ script 29 mmbn3 {
 	mugshotShow
 		mugshot = Dex
 	msgOpen
-	"Adios!"
+	"Falou!"
 	keyWait
 	end
 }

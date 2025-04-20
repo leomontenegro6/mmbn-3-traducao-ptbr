@@ -3,8 +3,8 @@
 script 0 mmbn3 {
 	msgOpen
 	"""
-	It's a Chip Trader.
-	Insert 3 BtlChips?
+	É um Troca-Chips.
+	Inserir 3 chips?
 	
 	"""
 	option
@@ -14,7 +14,7 @@ script 0 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"   Sim "
 	option
 		left = 0
 		right = 0
@@ -22,7 +22,7 @@ script 0 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No"
+	"          Não"
 	select
 		default = 0
 		BSeparate = false
@@ -48,9 +48,8 @@ script 1 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,you have less
-	than 3 chips in your
-	pack.
+	Lan, você tem menos
+	de três chips na mochila.
 	"""
 	keyWait
 	end
@@ -74,7 +73,7 @@ script 2 mmbn3 {
 		delay = 0
 	color
 		palette = 3
-	"Add these 3?\n"
+	"Usar estes 3?\n"
 	option
 		left = 1
 		right = 1
@@ -82,7 +81,7 @@ script 2 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"   Sim "
 	option
 		left = 0
 		right = 0
@@ -90,7 +89,7 @@ script 2 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No"
+	"          Não"
 	select
 		default = 0
 		BSeparate = false
@@ -112,7 +111,7 @@ script 3 mmbn3 {
 	soundDisableTextSFX
 	soundPlay
 		track = 233
-	"Click-k-k-k...THUNK!"
+	"Clic-c-c-c... TCHONC!"
 	soundEnableTextSFX
 	keyWait
 	clearMsg
@@ -126,7 +125,7 @@ script 3 mmbn3 {
 		left = 11
 		top = 1
 	"""
-	Lan got a chip for
+	Lan adquiriu o chip
 	"
 	"""
 	printChip
@@ -146,7 +145,7 @@ script 3 mmbn3 {
 	positionText
 		left = 8
 		top = 1
-	"Try again?\n"
+	"Tentar de novo?\n"
 	option
 		left = 1
 		right = 1
@@ -154,7 +153,7 @@ script 3 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"   Sim "
 	option
 		left = 0
 		right = 0
@@ -162,7 +161,7 @@ script 3 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No"
+	"          Não"
 	select
 		default = 0
 		BSeparate = false
@@ -189,9 +188,9 @@ script 4 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Too bad,Lan…You
-	have less than 3
-	chips in your pack!
+	Poxa, Lan, que pena...
+	Você tem menos de
+	3 chips na mochila!
 	"""
 	keyWait
 	end
@@ -202,8 +201,8 @@ script 5 mmbn3s {
 script 6 mmbn3 {
 	msgOpen
 	"""
-	Chip Trader Special
-	Insert 10 Btlchips?
+	Troca-Chips Especial.
+	Inserir 10 chips?
 	
 	"""
 	option
@@ -213,7 +212,7 @@ script 6 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"   Sim "
 	option
 		left = 0
 		right = 0
@@ -221,7 +220,7 @@ script 6 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No"
+	"          Não"
 	select
 		default = 0
 		BSeparate = false
@@ -247,9 +246,8 @@ script 7 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,you have less
-	than 10 chips in
-	your pack.
+	Lan, você tem menos de
+	10 chips na mochila.
 	"""
 	keyWait
 	end
@@ -273,7 +271,7 @@ script 8 mmbn3 {
 		delay = 0
 	color
 		palette = 3
-	"Add these 10?\n"
+	"Usar estes 10?\n"
 	option
 		left = 1
 		right = 1
@@ -281,7 +279,7 @@ script 8 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"   Sim "
 	option
 		left = 0
 		right = 0
@@ -289,7 +287,7 @@ script 8 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No"
+	"          Não"
 	select
 		default = 0
 		BSeparate = false
@@ -311,7 +309,7 @@ script 9 mmbn3 {
 	soundDisableTextSFX
 	soundPlay
 		track = 233
-	"Click-k-k-k...THUNK!"
+	"Cric-c-c-c... TCHONK!"
 	soundEnableTextSFX
 	keyWait
 	clearMsg
@@ -325,7 +323,7 @@ script 9 mmbn3 {
 		left = 11
 		top = 1
 	"""
-	Lan got a chip for
+	Lan adquiriu o chip
 	"
 	"""
 	printChip
@@ -345,7 +343,7 @@ script 9 mmbn3 {
 	positionText
 		left = 8
 		top = 1
-	"Try again?\n"
+	"Tentar de novo?\n"
 	option
 		left = 1
 		right = 1
@@ -353,7 +351,7 @@ script 9 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"   Sim "
 	option
 		left = 0
 		right = 0
@@ -361,7 +359,7 @@ script 9 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No"
+	"          Não"
 	select
 		default = 0
 		BSeparate = false
@@ -388,9 +386,9 @@ script 10 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Too bad,Lan…You
-	have less than 10
-	chips in your pack!
+	Que pena, Lan... você
+	tem menos de 10 chips
+	na mochila!
 	"""
 	keyWait
 	end
@@ -401,8 +399,8 @@ script 11 mmbn3s {
 script 12 mmbn3 {
 	msgOpen
 	"""
-	A BugFrag Trader.
-	Insert 10 BugFrags?
+	Um Troga-FragBugs.
+	Inserir 10 FragBugs?
 	
 	"""
 	option
@@ -412,7 +410,7 @@ script 12 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"   Sim "
 	option
 		left = 0
 		right = 0
@@ -420,7 +418,7 @@ script 12 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No"
+	"          Não"
 	select
 		default = 0
 		BSeparate = false
@@ -444,8 +442,8 @@ script 13 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,you don't have
-	10 BugFrags!
+	Lan, você não tem
+	10 FragBugs!
 	"""
 	keyWait
 	end
@@ -453,8 +451,8 @@ script 13 mmbn3 {
 script 15 mmbn3 {
 	msgOpenQuick
 	"""
-	MegaMan handed over
-	the BugFrags!
+	MegaMan cedeu os
+	FragBugs!
 	"""
 	keyWait
 	flagSet
@@ -466,14 +464,14 @@ script 15 mmbn3 {
 	soundDisableTextSFX
 	soundPlay
 		track = 150
-	"Grrrr…Growwwwl!"
+	"Grrrr... ggrraaaw!"
 	soundEnableTextSFX
 	keyWait
 	clearMsg
 	"""
-	Chip data appeared
-	with a thunderous
-	growl!
+	Dados de chips
+	apareceram com um
+	rugido feroz!
 	"""
 	keyWait
 	clearMsg
@@ -487,8 +485,7 @@ script 15 mmbn3 {
 		left = 11
 		top = 1
 	"""
-	MegaMan got a chip
-	for
+	MegaMan adquiriu o chip
 	"
 	"""
 	printChip
@@ -512,7 +509,7 @@ script 15 mmbn3 {
 		flag = 345
 		jumpIfTrue = 18
 		jumpIfFalse = continue
-	"Try again?\n"
+	"Tentar de novo?\n"
 	option
 		left = 1
 		right = 1
@@ -520,7 +517,7 @@ script 15 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"   Sim "
 	option
 		left = 0
 		right = 0
@@ -528,7 +525,7 @@ script 15 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No"
+	"          Não"
 	select
 		default = 0
 		BSeparate = false
@@ -553,9 +550,9 @@ script 16 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Too bad,Lan…
-	We don't have
-	10 BugFrags!
+	Que pena, Lan...
+	A gente não tem
+	10 FragBugs!
 	"""
 	keyWait
 	msgClose
@@ -567,7 +564,7 @@ script 17 mmbn3 {
 	soundDisableTextSFX
 	soundPlay
 		track = 136
-	"Grrrrrr…"
+	"Grrrrrr..."
 	soundEnableTextSFX
 	keyWait
 	msgClose
@@ -583,19 +580,19 @@ script 18 mmbn3 {
 	soundDisableTextSFX
 	soundPlay
 		track = 150
-	"Growwwwl!"
+	"Grraaaaauww!"
 	wait
 		frames = 60
 	soundEnableTextSFX
 	keyWait
 	clearMsg
-	"・"
+	"."
 	wait
 		frames = 30
-	"・"
+	"."
 	wait
 		frames = 30
-	"・"
+	"."
 	wait
 		frames = 30
 	keyWait
@@ -605,13 +602,13 @@ script 18 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	I wonder what
-	that growling was?
+	Que rugido será que
+	foi esse?
 	"""
 	keyWait
 	clearMsg
 	mugshotHide
-	"Try again?\n"
+	"Tentar de novo?\n"
 	option
 		left = 1
 		right = 1
@@ -619,7 +616,7 @@ script 18 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"   Sim "
 	option
 		left = 0
 		right = 0
@@ -627,7 +624,7 @@ script 18 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No"
+	"          Não"
 	select
 		default = 0
 		BSeparate = false
@@ -645,8 +642,8 @@ script 18 mmbn3 {
 script 20 mmbn3 {
 	msgOpen
 	"""
-	You don't have
-	3 chips in your pack
+	Você não tem três
+	chips na mochila.
 	"""
 	keyWait
 	end
@@ -655,8 +652,8 @@ script 21 mmbn3 {
 	clearMsg
 	msgOpen
 	"""
-	You don't have 3
-	chips in your pack
+	Você não tem três
+	chips na mochila.
 	"""
 	keyWait
 	end
@@ -664,8 +661,8 @@ script 21 mmbn3 {
 script 22 mmbn3 {
 	msgOpen
 	"""
-	You don't have 10
-	chips in your pack
+	Você não tem 10
+	chips na mochila.
 	"""
 	keyWait
 	end
@@ -674,8 +671,8 @@ script 23 mmbn3 {
 	clearMsg
 	msgOpen
 	"""
-	You don't have 10
-	chips in your pack
+	Você não tem 10
+	chips na mochila.
 	"""
 	keyWait
 	end
@@ -683,8 +680,8 @@ script 23 mmbn3 {
 script 24 mmbn3 {
 	msgOpen
 	"""
-	You don't have
-	10 BugFrags
+	Você não tem
+	10 FragBugs
 	"""
 	keyWait
 	end
@@ -693,8 +690,8 @@ script 25 mmbn3 {
 	clearMsg
 	msgOpen
 	"""
-	You don't have
-	10 BugFrags
+	Você não tem
+	10 FragBugs
 	"""
 	keyWait
 	waitHold

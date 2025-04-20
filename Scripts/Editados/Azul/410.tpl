@@ -5,8 +5,7 @@ script 0 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan,
-	are you ready?
+	MegaMan, tá pronto?
 	"""
 	keyWait
 	clearMsg
@@ -18,8 +17,8 @@ script 1 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	You bet!
-	Let's finish this!!
+	Pode crer!
+	Vamos acabar com isso!!
 	"""
 	keyWait
 	clearMsg
@@ -31,9 +30,8 @@ script 2 mmbn3 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Where do you think
-	you're going,
-	without us?
+	Aonde cê pensa que
+	vai... sem a gente?
 	"""
 	keyWait
 	end
@@ -42,7 +40,7 @@ script 3 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"What the…?"
+	"O quê...?"
 	keyWait
 	end
 }
@@ -51,8 +49,8 @@ script 4 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	What are you guys
-	doing here?
+	Mas o que vocês tão
+	fazendo aqui?
 	"""
 	keyWait
 	clearMsg
@@ -64,9 +62,9 @@ script 5 mmbn3 {
 		mugshot = Yai
 	msgOpen
 	"""
-	I knew you'd try to
-	go alone!
-	How dare you!
+	Eu sabia que você ia
+	tentar lutar sozinho!
+	A ousadia do menino!
 	"""
 	keyWait
 	clearMsg
@@ -78,8 +76,8 @@ script 6 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Yai,you told
-	everyone!?
+	Yai, você contou pra
+	todo mundo?!
 	"""
 	keyWait
 	clearMsg
@@ -91,13 +89,13 @@ script 7 mmbn3 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	You always try to do
-	dangerous things
-	on your own!
+	Você sempre tenta
+	fazer essas coisas
+	perigosas sozinho!
 	"""
 	keyWait
 	clearMsg
-	"We worry about you!"
+	"A gente fica preocupado!"
 	keyWait
 	clearMsg
 	jump
@@ -108,20 +106,20 @@ script 8 mmbn3 {
 		mugshot = Dex
 	msgOpen
 	"""
-	We want you
-	to trust our
-	abilities more!
+	A gente quer que cê
+	confie mais nas nossas
+	habilidades!
 	"""
 	keyWait
 	clearMsg
 	"""
-	The whole world is
-	in danger! You can't
-	do this alone!
+	O mundo inteiro tá em
+	perigo! Cê não pode
+	encarar essa sozinho!
 	"""
 	keyWait
 	clearMsg
-	"We're goin' with ya!"
+	"A gente vai com você!"
 	keyWait
 	clearMsg
 	jump
@@ -132,9 +130,9 @@ script 9 mmbn3 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Trying to go it
-	alone again,huh?
-	I don't think so.
+	Tentando ir lutar
+	sozinho de novo, é?
+	Não sem me consultar.
 	"""
 	keyWait
 	clearMsg
@@ -145,10 +143,10 @@ script 10 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Thanks,guys…"
+	"Valeu, galora..."
 	keyWait
 	clearMsg
-	"But…"
+	"Mas"
 	keyWait
 	clearMsg
 	jump
@@ -158,12 +156,15 @@ script 11 mmbn3 {
 	mugshotShow
 		mugshot = Dex
 	msgOpen
-	"No \"buts\" about it!"
+	"""
+	Não vem com essa de
+	"mas"!
+	"""
 	keyWait
 	clearMsg
 	"""
-	We already know
-	it's dangerous!!
+	A gente já sabe que é
+	perigoso!!
 	"""
 	keyWait
 	clearMsg
@@ -174,19 +175,19 @@ script 12 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Dex…"
+	"Dex..."
 	keyWait
 	clearMsg
 	"""
-	OK!
-	Dex,Chaud…
-	Let's go!
+	Tá bom!
+	Dex, Chaud...
+	Vamos lá!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Mayl,Yai,
-	You two wait here!
+	Mayl, Yai,
+	vocês esperam aqui!
 	"""
 	keyWait
 	clearMsg
@@ -198,16 +199,16 @@ script 13 mmbn3 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	No,Lan! We're going
-	with you! We're Net
-	Battlers,too!
+	Não, Lan! A gente vai
+	com vocês! Também
+	somos NetLutadoras!
 	"""
 	keyWait
 	clearMsg
 	"""
-	We can't let you
-	face this danger
-	by yourself!
+	Não podemos deixar
+	você encarar esse
+	perigo sozinho!
 	"""
 	keyWait
 	clearMsg
@@ -219,8 +220,8 @@ script 14 mmbn3 {
 		mugshot = Yai
 	msgOpen
 	"""
-	Yeah!
-	Take us with you!
+	É!
+	Leva a gente também!
 	"""
 	keyWait
 	clearMsg
@@ -232,16 +233,15 @@ script 15 mmbn3 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	No,the two of you
-	would just get in
-	the way.
+	Não. Vocês duas só
+	nos atrapalhariam.
 	"""
 	keyWait
 	clearMsg
 	"""
-	We can't fight and
-	protect you at the
-	same time!
+	Não podemos lutar e
+	proteger vocês ao
+	mesmo tempo!
 	"""
 	keyWait
 	clearMsg
@@ -255,15 +255,14 @@ script 16 mmbn3 {
 		mugshot = Yai
 	msgOpen
 	"""
-	What are you
-	talking about?
+	Mas que papo é esse?
 	"""
 	keyWait
 	clearMsg
 	"""
-	I was one of the
-	top 8 battlers at
-	the N1 Grand Prix!!
+	Eu fiquei entre os 8
+	melhores no Grande
+	Prêmio N1!!
 	"""
 	keyWait
 	clearMsg
@@ -277,8 +276,8 @@ script 17 mmbn3 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	……
-	Yai,Chaud is right…
+	......
+	Yai, o Chaud tá certo...
 	"""
 	keyWait
 	clearMsg
@@ -300,13 +299,13 @@ script 18 mmbn3 {
 	"・"
 	waitSkip
 		frames = 30
-	"\nI know…"
+	"\nEu sei..."
 	keyWait
 	clearMsg
 	"""
-	But I can't just
-	sit back and
-	do nothing…!
+	Mas eu não posso ficar
+	aqui parada sem fazer
+	nada...!
 	"""
 	keyWait
 	clearMsg
@@ -319,13 +318,16 @@ script 19 mmbn3 {
 	mugshotShow
 		mugshot = Mayl
 	msgOpen
-	"Lan,we'll wait here."
+	"""
+	Lan, vamos esperar
+	aqui.
+	"""
 	keyWait
 	clearMsg
 	"""
-	But you guys had
-	better come back
-	safely!
+	Mas é bom vocês
+	voltarem sãos e salvos,
+	viu?!
 	"""
 	keyWait
 	clearMsg
@@ -337,15 +339,15 @@ script 20 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	You bet! We'll be
-	back as soon as we
-	crush the WWW!
+	Claro, né?! A gente vai
+	voltar assim que acabar
+	com a WWW!
 	"""
 	keyWait
 	clearMsg
 	"""
 	Dex! Chaud!
-	Let's go!!
+	Vamos nessa!!
 	"""
 	keyWait
 	end
@@ -356,7 +358,7 @@ script 21 mmbn3 {
 	msgOpen
 	"""
 	Mayl! Yai!
-	We'll be back!
+	A gente vai voltar!
 	"""
 	keyWait
 	clearMsg
@@ -368,9 +370,8 @@ script 22 mmbn3 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	OK!
-	Please come back
-	safely!
+	Tá!
+	Por favor, voltem bem!
 	"""
 	keyWait
 	clearMsg
@@ -381,7 +382,7 @@ script 23 mmbn3 {
 	mugshotShow
 		mugshot = Tora
 	msgOpen
-	"Hold that boat!!"
+	"Ô, segura esse barco aí!!"
 	keyWait
 	flagSet
 		flag = 2626
@@ -394,8 +395,7 @@ script 24 mmbn3 {
 		mugshot = Tora
 	msgOpen
 	"""
-	Whew!
-	I made it!
+	Ufa! Deu!
 	"""
 	keyWait
 	clearMsg
@@ -417,15 +417,14 @@ script 26 mmbn3 {
 		mugshot = Tora
 	msgOpen
 	"""
-	I hear you're going
-	to take on the WWW.
-	That right,Lan?
+	Ouvi dizer que vocês
+	vão lutar com a WWW.
+	Tá certo isso, Lan?
 	"""
 	keyWait
 	clearMsg
 	"""
-	I heard it from
-	Forehead there!
+	A Testuda ali que falou!
 	"""
 	keyWait
 	end
@@ -435,8 +434,8 @@ script 27 mmbn3 {
 		mugshot = Yai
 	msgOpen
 	"""
-	Don't call me
-	"Forehead"!!
+	"Testuda" é a
+	vovozinha!!
 	"""
 	keyWait
 	clearMsg
@@ -448,22 +447,22 @@ script 28 mmbn3 {
 		mugshot = Tora
 	msgOpen
 	"""
-	Take me with
-	you,Lan!
+	Deixa eu ir também,
+	Lan!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I can't let those
-	WWW creeps get away
-	with all this!
+	"Num" posso deixar
+	esses doidos da WWW
+	"fazer" isso, não!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'll help you put
-	them in checkmate
-	for good!!
+	Eu ajudo vocês a dar
+	um xeque-mate seguro
+	neles!!
 	"""
 	keyWait
 	clearMsg
@@ -474,13 +473,13 @@ script 29 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Tora…"
+	"Tora..."
 	keyWait
 	clearMsg
 	"""
-	OK!!
-	Come on,everyone!
-	To the WWW base!!
+	Claro!!
+	Vamos lá, pessoal!
+	Pra base da WWW!!
 	"""
 	keyWait
 	end

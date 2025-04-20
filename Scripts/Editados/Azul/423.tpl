@@ -15,16 +15,16 @@ script 1 mmbn3 {
 		mugshot = BubbleMan
 	msgOpen
 	"""
-	So it's MegaMan!
-	I owe you for being
-	mean to me,blubblub!
+	Ora, é o MegaMan! Tô te
+	devendo uma surra por
+	ser mau comigo, glubglub!
 	"""
 	keyWait
 	clearMsg
 	"""
-	That MegaBuster
-	hurt! So did
-	ProtoMan's sword!
+	Aquele MegaTiro doeu!
+	A espada do ProtoMan
+	também!
 	"""
 	keyWait
 	clearMsg
@@ -36,13 +36,13 @@ script 2 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	First FlashMan,
-	and now BubbleMan!?
+	Primeiro, o FlashMan,
+	agora, o BubbleMan!?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Here we go again,
+	Hora de lutar de novo,
 	MegaMan!
 	"""
 	keyWait
@@ -54,19 +54,19 @@ script 3 mmbn3 {
 	mugshotShow
 		mugshot = BubbleMan
 	msgOpen
-	"Blub blub blub!"
+	"Glub glub glub glub!"
 	keyWait
 	clearMsg
 	"""
-	Lord Wily has made
-	me a lot stronger
-	than I was before!!
+	O Lorde Wily me deixou
+	mais forte do que eu
+	era antes!!
 	"""
 	keyWait
 	clearMsg
 	"""
-	This time I will
-	delete you,blubblub!
+	Desta vez, eu vou te
+	deletar, glublublub!
 	"""
 	keyWait
 	clearMsg
@@ -78,15 +78,15 @@ script 4 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Don't let your guard
-	down,MegaMan!
+	Não baixe a guarda,
+	MegaMan!
 	"""
 	keyWait
 	clearMsg
-	"Battle routine,"
+	"Rotina"
 	waitSkip
 		frames = 30
-	"\nset!"
+	"\nde batalha...!"
 	keyWait
 	clearMsg
 	jump
@@ -96,7 +96,7 @@ script 5 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Execute!"
+	"Executar!"
 	keyWait
 	end
 }

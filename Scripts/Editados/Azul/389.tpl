@@ -5,9 +5,9 @@ script 0 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Who'd have thought
-	we'd get #3's
-	attention?
+	Quem ia imaginar que
+	chamaríamos a atenção
+	do #3, né?
 	"""
 	keyWait
 	clearMsg
@@ -19,16 +19,16 @@ script 1 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	If we beat him,we'll
-	instantly go up four
-	ranks!
+	Se vencermos ele,
+	vamos subir quatro
+	ranques de uma vez!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Something tells me
-	there's more to this
-	than meets the eye…
+	... Alguma coisa me diz
+	que tem mais coisa por
+	trás disso...
 	"""
 	keyWait
 	clearMsg
@@ -39,12 +39,12 @@ script 2 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Still,we have to go!"
+	"Mas temos que ir!"
 	keyWait
 	clearMsg
 	"""
-	We don't have time
-	to waste!
+	Não temos tempo a
+	perder!
 	"""
 	keyWait
 	clearMsg
@@ -56,16 +56,15 @@ script 3 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Yeah,you're right!
-	We've got to keep
-	climbing the ladder!
+	É, você tá certo!
+	Temos que continuar
+	subindo posições!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Come on,MegaMan!
-	We're going to
-	Under 4!
+	Vamos lá, MegaMan!
+	Pra Undernet 4!
 	"""
 	keyWait
 	clearMsg
@@ -76,7 +75,7 @@ script 4 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Roger!"
+	"Vamos!"
 	keyWait
 	end
 }

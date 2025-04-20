@@ -5,8 +5,8 @@ script 0 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Looks like the
-	operation has began.
+	Parece que já
+	começaram a operação.
 	"""
 	keyWait
 	clearMsg
@@ -18,14 +18,12 @@ script 1 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Hang in there,
-	Mamoru.
+	Força, Mamoru!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'm right here with
-	you.
+	Eu tô aqui com você.
 	"""
 	keyWait
 	end
@@ -34,8 +32,8 @@ script 2 mmbn3 {
 	mugshotHide
 	msgOpen
 	"""
-	Three hours into the
-	operation…
+	Três horas de cirurgia
+	depois...
 	"""
 	keyWait
 	end
@@ -45,14 +43,14 @@ script 3 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,why don't you
-	take a break?
+	Lan, por que você não
+	faz uma pausa?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Let's go outside and
-	get some fresh air.
+	Vamos lá fora tomar um
+	ar.
 	"""
 	keyWait
 	end
@@ -62,8 +60,8 @@ script 4 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	No,I should be here
-	for Mamoru.
+	Não, eu tenho que ficar
+	aqui, pelo Mamoru.
 	"""
 	keyWait
 	clearMsg
@@ -75,21 +73,21 @@ script 5 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I know,but you need
-	to take a breather.
+	Eu sei, mas você
+	precisa de um tempo.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Let's try to stay
-	patient,Lan.
+	A gente tem que ser
+	paciente, Lan.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'm sure the
-	operation will
-	be a success!
+	Eu tenho certeza de
+	que a operação vai ser
+	um sucesso!
 	"""
 	keyWait
 	clearMsg
@@ -100,13 +98,12 @@ script 6 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"You're right."
+	"... É, você tá certo."
 	keyWait
 	clearMsg
 	"""
-	All right.
-	Let's step outside
-	for a minute.
+	Tá. Vamos dar uma
+	saída rápida.
 	"""
 	keyWait
 	end

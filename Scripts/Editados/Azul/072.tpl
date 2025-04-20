@@ -12,48 +12,48 @@ script 0 mmbn3 {
 	mugshotShow
 		mugshot = Scientist
 	msgOpen
-	"Huh? Who are you?"
+	"Hã? Quem é você?"
 	keyWait
 	clearMsg
-	"Dr.Hikari's son!?"
+	"O filho do Dr. Hikari?!"
 	keyWait
 	clearMsg
 	"""
-	Oh,that's right!
-	I've seen you at
-	our old lab.
+	Ah, verdade! Eu te vi
+	umas vezes no antigo
+	laboratório.
 	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	"""
-	Um,is my dad around?
-	I'd like him to take
-	a look at my PET…
+	Então, o papai tá aqui?
+	Eu queria que ele desse
+	uma olhada no meu PET...
 	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = Scientist
 	"""
-	Sorry,he's in a
-	meeting now. He's
-	quite busy,you know.
+	Desculpa, mas ele tá em
+	reunião agora. Ele é um
+	cara ocupado, sabe?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Your PET is a custom
-	job,so he'd have to
-	fix it personally…
+	Seu PET é customizado,
+	então ele teria que con-
+	sertá-lo pessoalmente...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Try using this for
-	now. At least it'll
-	let you back up.
+	Tente usar este, por
+	enquanto. Pelo menos
+	vai servir para o básico.
 	"""
 	keyWait
 	clearMsg
@@ -65,7 +65,7 @@ script 0 mmbn3 {
 		animation = 24
 	mugshotHide
 	"""
-	Lan got:
+	Lan adquiriu:
 	"
 	"""
 	printItem
@@ -80,41 +80,41 @@ script 0 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Thank you!
-	But,my dad…
+	Obrigado!
+	Mas o meu pai...
 	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = Scientist
 	"""
-	I'll be sure to let
-	him know you came
-	by!
+	Pode deixar que eu
+	aviso pra ele que você
+	passou aqui!
 	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Should we go home,
-	then? Dad can check
-	out the PET later…
+	Bom, vamos pra casa,
+	então? O papai pode
+	checar o PET depois...
 	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	"""
-	Huh? Is the PET
-	working again,
-	or what?
+	Hm? É impressão minha,
+	ou o PET voltou a
+	funcionar?
 	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"Hey,you're right!"
+	"Ah, verdade!"
 	keyWait
 	flagSet
 		flag = 841
@@ -125,8 +125,8 @@ script 1 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Feel free to take a
-	look around!
+	Fique à vontade pra
+	explorar o laboratório!
 	"""
 	keyWait
 	end
@@ -141,16 +141,16 @@ script 2 mmbn3 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Dr.Hikari is
-	quite an amazing
-	scientist!
+	O Dr. Hikari é um
+	cientista simplesmente
+	incrível!
 	"""
 	keyWait
 	clearMsg
 	"""
-	He's currently
-	working on a new
-	Navi system!
+	No momento, ele está
+	trabalhando em um novo
+	sistema para Navis!
 	"""
 	keyWait
 	end
@@ -160,9 +160,9 @@ script 3 mmbn3 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	This is the Navi
-	research lab. Dr.
-	Hikari is lab chief.
+	Este é o laboratório de
+	pesquisa de Navis. O Dr.
+	Hikari é nosso chefe.
 	"""
 	keyWait
 	end
@@ -171,7 +171,7 @@ script 4 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Lan! You got mail!!"
+	"Lan! Chegou e-mail!"
 	keyWait
 	end
 }
@@ -186,16 +186,16 @@ script 10 mmbn3 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Dr.Hikari is
-	working on a Navi
-	Customizer.
+	O Dr. Hikari está traba-
+	lhando em um Customiza-
+	dor de Navi agora.
 	"""
 	keyWait
 	clearMsg
 	"""
-	It will allow Navis
-	to be more helpful
-	to us than ever!
+	Ele deixará os Navis
+	ainda mais prestativos
+	que nunca!
 	"""
 	keyWait
 	end
@@ -205,9 +205,9 @@ script 11 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	As viruses become
-	more complex,Navis
-	must,too!
+	Vírus vão ficando cada
+	vez mais complexos, e
+	Navis também precisam!
 	"""
 	keyWait
 	end
@@ -217,21 +217,20 @@ script 20 mmbn3 {
 		mugshot = Dad
 	msgOpen
 	"""
-	Lan,you've come to
-	see me?
+	Lan! Veio me ver, filhão?
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'm sorry,I'm a bit
-	busy just now…
+	Desculpa, mas eu tô
+	meio ocupado agora...
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'm sorry I can't
-	talk after you've
-	come all this way!
+	Me sinto horrível por não
+	poder falar com você
+	depois de vir tão longe!
 	"""
 	keyWait
 	end
@@ -241,9 +240,9 @@ script 21 mmbn3 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	So you're Dr.
-	Hikari's son?
-	So nice to meet you!
+	Você é o filho do Dr.
+	Hikari?
+	Oi, muito prazer!
 	"""
 	keyWait
 	end
@@ -253,9 +252,9 @@ script 22 mmbn3 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	You came to see your
-	father? He's in the
-	lab just now.
+	Veio ver o seu pai?
+	Ele está no laboratório,
+	agora.
 	"""
 	keyWait
 	end
@@ -265,9 +264,9 @@ script 23 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	We've been kept busy
-	by all of these new
-	breeds of virus!
+	Andamos bem ocupados
+	com todas essas novas
+	espécies de vírus!
 	"""
 	keyWait
 	end
@@ -298,22 +297,22 @@ script 30 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Dr.Hikari is in a
-	meeting with the
-	Officials just now.
+	O Dr. Hikari está em
+	uma reunião com os
+	Oficiais agora.
 	"""
 	keyWait
 	clearMsg
 	"""
-	A package for him?
-	I'd be glad to give
-	it to him for you.
+	Uma entrega para ele?
+	Claro, passo para ele
+	com o maior prazer.
 	"""
 	keyWait
 	clearMsg
 	mugshotHide
 	"""
-	Lan gave:
+	Lan deu:
 	"
 	"""
 	printItem
@@ -328,8 +327,8 @@ script 31 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	I'll be sure he
-	gets this.
+	Vou garantir que isto
+	chegue às mãos dele.
 	"""
 	keyWait
 	end
@@ -339,14 +338,15 @@ script 32 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Hmm,I have to finish
-	this paper by today…
+	Hmm, preciso terminar
+	este relatório ainda
+	hoje...
 	"""
 	keyWait
 	clearMsg
 	"""
-	I hate being
-	this busy!
+	Odeio ficar ocupado
+	assiiiiiim!
 	"""
 	keyWait
 	end
@@ -361,9 +361,9 @@ script 35 mmbn3 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	Lan? Didn't you know
-	your father is on
-	a business trip?
+	Ué, Lan? Não ficou
+	sabendo que o seu pai
+	viajou a trabalho?
 	"""
 	keyWait
 	end
@@ -378,41 +378,39 @@ script 36 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	You want to know
-	about compressing
-	Navis?
+	Você quer saber mais
+	sobre comprimir Navis?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Quite a chip off the
-	old block,eh? That's
-	an interesting idea…
+	Filho de peixe, peixinho
+	é, hein? E é uma ideia
+	interessante...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Yes,that would
-	certainly be
-	possible…
+	É, definitivamente,
+	isso seria possível...
 	"""
 	keyWait
 	clearMsg
 	"""
-	However,we would
-	have to modify some
+	Mas, talvez, fosse ne-
+	cessário modificar uns
 	"
 	"""
 	printItem
 		buffer = 0
 		item = 13
-	"\"…"
+	"\"..."
 	keyWait
 	clearMsg
 	"""
-	Probably only myself
-	or Dr.Hikari could
-	manage that,though.
+	E imagino que só eu ou
+	o Dr. Hikari seríamos
+	capazes disso.
 	"""
 	keyWait
 	end
@@ -427,9 +425,9 @@ script 37 mmbn3 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Dr.Hikari is well
-	known,and therefore
-	in great demand!
+	O Dr. Hikari é muito
+	conhecido, e, portanto,
+	muito requisitado!
 	"""
 	keyWait
 	end
@@ -443,9 +441,9 @@ script 40 mmbn3 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	We've contacted the
-	Officials. They are
-	on the case.
+	Já contatamos os
+	Oficiais.
+	Eles já estão agindo.
 	"""
 	keyWait
 	end
@@ -459,15 +457,16 @@ script 41 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	I'm working on this
-	bubble problem now.
+	Estou trabalhando no
+	problema das bolhas
+	agora.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'll show you what
-	the assistant to Dr.
-	Hikari can do!
+	Vou mostrar pra você
+	do que o assistente do
+	Dr. Hikari é capaz!
 	"""
 	keyWait
 	end
@@ -477,9 +476,9 @@ script 42 mmbn3 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	What bad timing,to
-	have this occur with
-	Dr.Hikari away…
+	Péssima hora. Isso TINHA
+	que acontecer com o
+	Dr. Hikari ausente...
 	"""
 	keyWait
 	end
@@ -489,22 +488,22 @@ script 45 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Hm? Compress a Navi?
-	Sorry,I'm busy with
-	these bubbles!
+	Hm? Comprimir um Navi?
+	Olha, desculpa, tô ocupa-
+	do com estas bolhas!
 	"""
 	keyWait
 	clearMsg
 	"""
-	We do have some
+	Dito isso, tem uns
 	"
 	"""
 	printItem
 		buffer = 0
 		item = 13
 	"""
-	" in that
-	computer,though!
+	" neste
+	computador aqui.
 	"""
 	keyWait
 	end
@@ -514,9 +513,9 @@ script 46 mmbn3 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	Lan,please don't
-	bother everyone
-	while they work,OK?
+	Lan, por favor, não
+	incomoda o trabalho
+	do pessoal aqui, tá?
 	"""
 	keyWait
 	end
@@ -526,9 +525,9 @@ script 50 mmbn3 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	Why do you look so
-	glum,even with the
-	problem solved?
+	O problema foi resolvido,
+	então... por que você
+	parece tão tristinho?
 	"""
 	keyWait
 	end
@@ -538,16 +537,15 @@ script 51 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	I can't believe that
-	someone else could
-	modify that program!
+	Eu não acredito que
+	outro cara conseguiu mo-
+	dificar aquele programa!
 	"""
 	keyWait
 	clearMsg
 	"""
-	That person must
-	be an amazing
-	programmer!
+	Ele deve ser um
+	programador fenomenal!
 	"""
 	keyWait
 	end
@@ -557,8 +555,9 @@ script 52 mmbn3 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Whew… I get tired
-	just watching this…
+	Ufa...
+	Eu fico exausto só de
+	me lembrar de tudo...
 	"""
 	keyWait
 	end
@@ -608,16 +607,16 @@ script 60 mmbn3 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	SciLab is funded by
-	the government and
-	private companies.
+	O SciLab é financiado
+	pelo governo e por
+	empresas privadas.
 	"""
 	keyWait
 	clearMsg
 	"""
-	The technology we
-	create is used to
-	make new products.
+	A tecnologia que criamos
+	é utilizada para criar
+	novos produtos.
 	"""
 	keyWait
 	end
@@ -642,9 +641,9 @@ script 61 mmbn3 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Dr.Hikari is in a
-	meeting. It could
-	last quite a while…
+	O Dr. Hikari está em
+	reunião. Ela pode
+	demorar um pouco...
 	"""
 	keyWait
 	end
@@ -654,9 +653,9 @@ script 70 mmbn3 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	Yesterday,I met the
-	president of IPC. He
-	looks so familiar…
+	Ontem, eu conheci o
+	presidente da IPC. Ele
+	me parece tão familiar...
 	"""
 	keyWait
 	end
@@ -666,21 +665,22 @@ script 71 mmbn3 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	You're heading over
-	to the N1 now?
+	Você está indo para
+	o Grande Prêmio N1
+	agora?
 	"""
 	keyWait
 	clearMsg
 	"""
-	It takes a while to
-	get to Beach Stn,so
-	you should hurry!
+	A Estação Angra é meio
+	longe, então, acho melhor
+	você ir logo!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'll be watching you
-	on TV! Good luck!
+	Vou assistir tudo na TV.
+	Boa sorte, garoto!
 	"""
 	keyWait
 	end
@@ -690,9 +690,9 @@ script 75 mmbn3 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	Was everyone really
-	OK after falling
-	into those holes!?
+	Os competidores ficaram
+	bem depois de cair
+	naqueles buracos?!
 	"""
 	keyWait
 	end
@@ -702,15 +702,15 @@ script 76 mmbn3 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	I've been watching
-	you on TV!
+	Eu venho te
+	acompanhando na TV!
 	"""
 	keyWait
 	clearMsg
 	"""
-	You're very good!
-	Your father must be
-	so proud!
+	Você é muito bom!
+	O seu pai deve morrer
+	de orgulho!
 	"""
 	keyWait
 	end
@@ -720,15 +720,15 @@ script 80 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Dr.Hikari is in
-	a meeting.
+	O Dr. Hikari está em
+	reunião.
 	"""
 	keyWait
 	clearMsg
 	"""
-	He's an important
-	man,and so is almost
-	always busy!
+	Ele é um homem
+	importante, e portanto,
+	um homem ocupado!
 	"""
 	keyWait
 	end
@@ -738,15 +738,15 @@ script 81 mmbn3 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	How's the Navi
-	Customizer?
+	Como está o seu
+	Customizador de Navi?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Between you,MegaMan,
-	and the Customizer,
-	you can't lose!
+	Com você, MegaMan e o
+	Customizador juntando
+	forças, ninguém segura!
 	"""
 	keyWait
 	end
@@ -756,15 +756,15 @@ script 82 mmbn3 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	Lan,you did so well
-	in the N1!
+	Lan, você foi excelente
+	no Grande Prêmio N1!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Your father must be
-	proud of both you
-	and MegaMan!
+	O seu pai deve ter
+	tanto orgulho de você
+	e do MegaMan!
 	"""
 	keyWait
 	end
@@ -774,16 +774,16 @@ script 90 mmbn3 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	Lan,the virus
-	research lab is on
-	the first floor!
+	Lan, o laboratório de
+	pesquisa de vírus fica
+	no PRIMEIRO andar!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I think Dr.Hikari
-	is there waiting
-	for you,too!
+	E acho que o Dr. Hikari
+	também está te
+	esperando lá!
 	"""
 	keyWait
 	end
@@ -793,15 +793,15 @@ script 92 mmbn3 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	Oh,my! I can't
-	believe what's
-	happening!
+	Meu Deus!
+	Não acredito que isto
+	está acontecendo!
 	"""
 	keyWait
 	clearMsg
 	"""
-	We'll give what
-	support we can!
+	Vamos oferecer todo
+	o apoio que pudermos!
 	"""
 	keyWait
 	end
@@ -811,9 +811,9 @@ script 95 mmbn3 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	Thank goodness
-	that's over with!
-	You were a big help!
+	Graças a Deus, a crise
+	acabou! Você foi de
+	grande ajuda!
 	"""
 	keyWait
 	end
@@ -837,15 +837,14 @@ script 100 mmbn3 {
 		mugshot = MrMatch
 	msgOpen
 	"""
-	Here's the last one.
-	Take this to the
-	Program in the
+	Tome, o último.
 	"""
 	keyWait
 	clearMsg
 	"""
-	computer,and install
-	it into him.
+	Leve isto até o Programa
+	no computador e instale
+	nele.
 	"""
 	keyWait
 	clearMsg
@@ -857,7 +856,7 @@ script 100 mmbn3 {
 		item = 26
 		amount = 1
 	"""
-	Lan got:
+	Lan adquiriu:
 	"
 	"""
 	printItem
@@ -880,9 +879,9 @@ script 102 mmbn3 {
 		mugshot = MrMatch
 	msgOpen
 	"""
-	Install that data
-	into the Program in
-	the computer.
+	Instale os dados no
+	Programa dentro do
+	computador.
 	"""
 	keyWait
 	end
@@ -892,9 +891,9 @@ script 103 mmbn3 {
 		mugshot = MrMatch
 	msgOpen
 	"""
-	Now I have to get to
-	some other business…
-	See you around,kid!
+	Agora,vou tratar
+	de outros assuntos.
+	A gente se vê, guri!
 	"""
 	keyWait
 	end
@@ -909,26 +908,26 @@ script 111 mmbn3 {
 		mugshot = ZooWoman
 	msgOpen
 	"""
-	Are you Lan?
-	Please excuse my
-	outfit…
+	Você é Lan Hikari?
+	Ah, perdão pela
+	vestimenta...
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'm undercover so
-	that nobody realizes
-	I'm an Official.
+	Estou disfarçada para
+	ninguém perceber que
+	sou uma Oficial.
 	"""
 	keyWait
 	clearMsg
 	"""
-	But I am one!
-	Really!
+	Mas eu sou uma!
+	Sério!
 	"""
 	keyWait
 	clearMsg
-	"See you around!"
+	"Enfim, nos vemos por aí!"
 	keyWait
 	end
 }
@@ -937,30 +936,29 @@ script 112 mmbn3 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Oh,you're here!
-	I'm the one who
-	called you…
+	Ah, você veio!
+	Fui eu quem te chamei...
 	"""
 	keyWait
 	clearMsg
 	"""
-	The world is in
-	danger! That's why I
-	want your help!
+	O mundo corre perigo!
+	E é por isso que eu
+	quero a sua ajuda!
 	"""
 	keyWait
 	clearMsg
 	"""
-	We hear that you're
-	as good as Chaud,so
-	we'd like your help!
+	Nos foi dito que você é
+	tão bom quanto Eugene
+	Chaud, então, por favor,
 	"""
 	keyWait
 	clearMsg
 	"""
-	Help us check out
-	the WWW! You'd be a
-	huge asset to us!
+	nos ajude a espiar a
+	WWW! Você seria de
+	grande ajuda para nós!
 	"""
 	keyWait
 	end
@@ -970,22 +968,22 @@ script 113 mmbn3 {
 		mugshot = SciLabYoungMan
 	msgOpen
 	"""
-	I came here to
-	represent the
-	Netopia Officials.
+	Venho aqui como
+	representante dos
+	Oficiais da Ameropa.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Netopia,too,is very
-	concerned about the
-	WWW's activities.
+	A Ameropa também está
+	preocupada com as
+	atividades da WWW.
 	"""
 	keyWait
 	clearMsg
 	"""
-	We will help you in
-	any way we can!
+	Ajudaremos vocês de
+	todo modo que pudermos!
 	"""
 	keyWait
 	end
@@ -995,9 +993,9 @@ script 114 mmbn3 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	We have no time to
-	lose! We've all got
-	to stop the WWW!
+	Não temos tempo a
+	perder! Nós temos que
+	deter a WWW!
 	"""
 	keyWait
 	end
@@ -1007,15 +1005,15 @@ script 120 mmbn3 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	Not having Dr.Hikari
-	around is a great
-	loss to us.
+	Não ter o Dr. Hikari aqui
+	é um prejuízo enorme
+	para nós.
 	"""
 	keyWait
 	clearMsg
 	"""
-	How is the head of
-	the hospital doing?
+	Como está o dono do
+	hospital?
 	"""
 	keyWait
 	end
@@ -1025,16 +1023,15 @@ script 130 mmbn3 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	Lan! Vital SciLab
-	secrets have been
-	stolen!
+	Lan! Segredos vitais do
+	SciLab forem roubados!
 	"""
 	keyWait
 	clearMsg
 	"""
-	And with Dr.Hikari
-	gone,what am I going
-	to do!?
+	E com o Dr. Hikari
+	ausente, o que eu
+	posso fazer?!
 	"""
 	keyWait
 	end
@@ -1042,9 +1039,9 @@ script 130 mmbn3 {
 script 220 mmbn3 {
 	msgOpen
 	"""
-	This computer holds
-	vital information.
-	Don't touch it!
+	Este computador
+	armazena informações
+	vitais. Não toque!
 	"""
 	keyWait
 	end
@@ -1052,8 +1049,8 @@ script 220 mmbn3 {
 script 221 mmbn3 {
 	msgOpen
 	"""
-	Data scrolls quickly
-	across this monitor
+	Dados rolam
+	rapidamente pelo monitor.
 	"""
 	keyWait
 	end
@@ -1061,9 +1058,9 @@ script 221 mmbn3 {
 script 222 mmbn3 {
 	msgOpen
 	"""
-	The main computer on
-	this floor. It has a
-	port for jacking in
+	O computador central
+	deste andar. Tem uma
+	entrada de conexão.
 	"""
 	keyWait
 	end
@@ -1071,8 +1068,8 @@ script 222 mmbn3 {
 script 223 mmbn3 {
 	msgOpen
 	"""
-	Press the elevator
-	button?
+	Apertar o botão do
+	elevador?
 	
 	"""
 	option
@@ -1082,7 +1079,7 @@ script 223 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"   Sim "
 	option
 		left = 0
 		right = 0
@@ -1090,7 +1087,7 @@ script 223 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No"
+	"          Não"
 	select
 		default = 0
 		BSeparate = false
@@ -1106,8 +1103,8 @@ script 223 mmbn3 {
 script 224 mmbn3 {
 	msgOpen
 	"""
-	The elevator opens!
-	Go down?
+	A porta do elevador
+	abriu! Descer?
 	
 	"""
 	option
@@ -1117,7 +1114,7 @@ script 224 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"   Sim "
 	option
 		left = 0
 		right = 0
@@ -1125,7 +1122,7 @@ script 224 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No"
+	"          Não"
 	select
 		default = 0
 		BSeparate = false
@@ -1154,9 +1151,9 @@ script 227 mmbn3 {
 	mugshotHide
 	msgOpen
 	"""
-	It must be empty
-	inside. The door
-	is locked
+	Deve ser uma sala
+	vazia.
+	A porta está trancada.
 	"""
 	keyWait
 	end
@@ -1164,7 +1161,7 @@ script 227 mmbn3 {
 script 228 mmbn3 {
 	mugshotHide
 	msgOpen
-	"Lan used:\n"
+	"Lan usou:\n"
 	printItem
 		buffer = 0
 		item = 37

@@ -5,15 +5,16 @@ script 0 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	We did it,MegaMan!
-	We're going to the
-	finals!
+	A gente conseguiu,
+	MegaMan! Nós vamos
+	pras finais!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Hey,Tora!
-	How ya like me now?
+	E aí, Tora?!
+	O que você acha de mim
+	agora?
 	"""
 	keyWait
 	clearMsg
@@ -24,7 +25,7 @@ script 1 mmbn3 {
 	mugshotShow
 		mugshot = Tora
 	msgOpen
-	"………"
+	"........."
 	keyWait
 	clearMsg
 	jump
@@ -34,7 +35,7 @@ script 2 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"……Tora?"
+	"...... Tora?"
 	keyWait
 	clearMsg
 	jump
@@ -55,9 +56,9 @@ script 4 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Huh!?
-	You still want to
-	fight!?
+	Gahh!
+	Q-que foi, ainda quer
+	brigar?!
 	"""
 	keyWait
 	clearMsg
@@ -69,22 +70,22 @@ script 5 mmbn3 {
 		mugshot = Tora
 	msgOpen
 	"""
-	……Heh heh……
-	Ahahahahaha!
+	...... He he......
+	Haa ha ha ha ha ha!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Just kidding! You
-	beat me fair and
-	square!
+	Tô brincando, ô! Tu me
+	venceu, "num" tem
+	desculpa não!
 	"""
 	keyWait
 	clearMsg
 	"""
-	You know,I didn't
-	even think I'd make
-	it this far!
+	Te falar: eu nem achei
+	que ia chegar aqui,
+	'credita?
 	"""
 	keyWait
 	clearMsg
@@ -95,13 +96,13 @@ script 6 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Huh!?"
+	"Hã?!"
 	keyWait
 	clearMsg
 	"""
-	You're going to
-	accept that I beat
-	you,just like that?
+	Então... você aceita que
+	eu te venci, sem
+	nenhuma ressalva?
 	"""
 	keyWait
 	clearMsg
@@ -113,14 +114,13 @@ script 7 mmbn3 {
 		mugshot = Tora
 	msgOpen
 	"""
-	Well,you may have
-	beaten me today,
+	Bom, HOJE, tu venceu,
 	"""
 	keyWait
 	clearMsg
 	"""
-	but I'm gonna get
-	you next time!
+	mas eu acabo contigo
+	na próxima!
 	"""
 	keyWait
 	clearMsg
@@ -131,13 +131,13 @@ script 8 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Tora……"
+	"Tora......"
 	keyWait
 	clearMsg
 	"""
-	OK! Yeah!
-	We definitely have
-	to battle again!
+	... Tá! Claro!
+	A gente vai ter que lutar
+	de novo, com certeza!
 	"""
 	keyWait
 	clearMsg
@@ -149,9 +149,9 @@ script 9 mmbn3 {
 		mugshot = Tora
 	msgOpen
 	"""
-	Go win that title!
-	If you do,my loss
-	won't be so bad!
+	Agora vai lá, pô, vence
+	esse negócio! Aí eu não
+	vou ter perdido tão feio!
 	"""
 	keyWait
 	clearMsg
@@ -173,36 +173,36 @@ script 11 mmbn3 {
 		mugshot = Ribitta
 	msgOpen
 	"""
-	Enemies on the
-	field,friends in
-	real life! What
+	Inimigos na arena,
+	amigos na vida! Quanto
+	espírito esportivo!
 	"""
 	keyWait
 	clearMsg
 	"""
-	sportsmanship! The
-	winner of the first
-	semi-finals battle
+	O vencedor da primeira
+	luta das semifinais é o
+	jovem Lan Hikaariii!
 	"""
 	keyWait
 	clearMsg
 	"""
-	is Lan!!
-	Now for Battle 2!
+	E agora, a segunda
+	batalha!
 	"""
 	keyWait
 	clearMsg
 	"""
-	NetBattler Q
-	Vs
-	Chaud!!
+	NetLutador Q
+	Vs.
+	Eugene Chaud!!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Alright. Please take
-	your places on the
-	center stage!
+	Competidores, tomem
+	suas posições na arena
+	central!
 	"""
 	keyWait
 	end
@@ -212,14 +212,14 @@ script 12 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Hey,Chaud! You
-	better win this!
+	Aí, Chaud! Não vai
+	perder essa, ouviu?!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Because I want to be
-	the one to beat you!
+	Porque sou eu que
+	quero te vencer!
 	"""
 	keyWait
 	clearMsg
@@ -231,9 +231,9 @@ script 13 mmbn3 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Hmph! I'm going to
-	have your head on a
-	platter!
+	Hmpf! Você está bem
+	ansioso para ser
+	humilhado!
 	"""
 	keyWait
 	clearMsg
@@ -244,7 +244,7 @@ script 14 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"That's my line!"
+	"Isso digo eu!"
 	keyWait
 	end
 }
@@ -252,7 +252,7 @@ script 15 mmbn3 {
 	mugshotHide
 	msgOpen
 	soundDisableTextSFX
-	"Beep Beep Beep!"
+	"Bip Bip Bip!"
 	keyWait
 	soundEnableTextSFX
 	end
@@ -262,12 +262,12 @@ script 16 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan! You got mail!
-	It's from Mayl.
+	Lan! Chegou e-mail!
+	É da Mayl.
 	"""
 	keyWait
 	clearMsg
-	"It says,"
+	"Está escrito:"
 	keyWait
 	clearMsg
 	jump
@@ -282,16 +282,16 @@ script 17 mmbn3 {
 	mugshotAnimate
 		animation = 0
 	"""
-	"Lan! Can you come
-	outside? I have to
-	tell you something.
+	"Pode vir aqui fora?
+	Tenho que te falar uma
+	coisa.
 	"""
 	keyWait
 	clearMsg
 	"""
-	"Yai's in trouble!
-	Meet me outside the
-	TV station!"
+	A Yai tá mal!
+	Me encontre do lado de
+	fora da emissora!"
 	"""
 	flagAddMail
 		flag = 4367
@@ -307,8 +307,8 @@ script 18 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I wonder what's
-	happened to Yai!?
+	O que será que
+	aconteceu com a Yai?!
 	"""
 	keyWait
 	clearMsg
@@ -320,14 +320,14 @@ script 19 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	We have some time
-	before the finals.
+	A gente ainda tem um
+	tempo antes das finais.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Let's find out what
-	happened!
+	Bora lá ver o que
+	aconteceu!
 	"""
 	keyWait
 	end

@@ -5,13 +5,13 @@ script 0 mmbn3 {
 		mugshot = CloakedNavi
 	msgOpen
 	"""
-	Very impressive,kid.
-	You're now
-	ranked #10.
+	Impressionante, garoto.
+	A partir de agora, você
+	é o ranque #10.
 	"""
 	keyWait
 	clearMsg
-	"Here."
+	"Toma."
 	keyWait
 	clearMsg
 	jump
@@ -25,7 +25,7 @@ script 1 mmbn3 {
 	soundPlay
 		track = 133
 	"""
-	MegaMan got:
+	MegaMan adquiriu:
 	"
 	"""
 	printItem
@@ -44,7 +44,7 @@ script 2 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"All right!"
+	"Beleza!"
 	keyWait
 	end
 }
@@ -53,22 +53,21 @@ script 3 mmbn3 {
 		mugshot = CloakedNavi
 	msgOpen
 	"""
-	Oh yeah… about that
-	Navi called S…
+	Ah, sim... quanto ao
+	Navi chamado S...
 	"""
 	keyWait
 	clearMsg
 	"""
-	If you're looking
-	who I think you're
-	looking for…
+	Se você está atrás
+	de que eu acho que
+	está...
 	"""
 	keyWait
 	clearMsg
 	"""
-	My advice would be
-	to stay away from
-	him.
+	meu conselho seria pra
+	você ficar longe dele.
 	"""
 	keyWait
 	clearMsg
@@ -79,7 +78,7 @@ script 4 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"You know S!?"
+	"Você conhece o S?!"
 	keyWait
 	clearMsg
 	jump
@@ -90,21 +89,21 @@ script 5 mmbn3 {
 		mugshot = CloakedNavi
 	msgOpen
 	"""
-	I've said too much
-	as it is…
+	Acho que eu já falei
+	demais...
 	"""
 	keyWait
 	clearMsg
 	"""
-	You had best just
-	stop looking for
-	him.
+	A questão é, seria
+	melhor você parar de
+	procurar por ele.
 	"""
 	keyWait
 	clearMsg
 	"""
-	That is,if you value
-	your life…
+	Isso se der valor à
+	sua vida...
 	"""
 	keyWait
 	clearMsg
@@ -115,7 +114,7 @@ script 6 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"But…"
+	"Mas..."
 	keyWait
 	clearMsg
 	jump
@@ -126,23 +125,23 @@ script 7 mmbn3 {
 		mugshot = CloakedNavi
 	msgOpen
 	"""
-	Oh,and one more
-	thing. Just because
-	you're ranked now…
+	Ah, e mais uma coisa.
+	Só porque você é
+	ranqueado agora,
 	"""
 	keyWait
 	clearMsg
 	"""
-	Don't get too
-	confident. Just as
-	you came after me,
+	não fique confiante
+	demais. Assim como você
+	veio atrás de mim,
 	"""
 	keyWait
 	clearMsg
 	"""
-	others will come
-	after you. Try to
-	keep to yourself.
+	outros virão atrás de
+	você. Tente não
+	aparecer demais.
 	"""
 	keyWait
 	clearMsg
@@ -154,9 +153,8 @@ script 8 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Thanks for the
-	advice,but we've got
-	to go.
+	Obrigado pelo conselho,
+	mas temos que ir agora.
 	"""
 	keyWait
 	clearMsg
@@ -168,15 +166,15 @@ script 9 mmbn3 {
 		mugshot = CloakedNavi
 	msgOpen
 	"""
-	Oh…
-	Well,do what you
-	want,then.
+	Ah...
+	Bom, faça como quiser,
+	então.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'm out of here.
-	Later.
+	Eu vou vazar.
+	Falou.
 	"""
 	keyWait
 	end
@@ -185,20 +183,20 @@ script 10 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"He's gone…"
+	"E lá se foi ele..."
 	keyWait
 	clearMsg
 	"""
-	Hey! We forgot to
-	ask him where the
-	Navi ranked #9 is!
+	Ah! A gente esqueceu
+	de perguntar pra ele
+	onde tá o ranque #9!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Now we're all out of
-	leads!
-	What should we do?
+	Agora estamos sem
+	nenhum ponto de partida!
+	O que a gente faz?
 	"""
 	keyWait
 	clearMsg
@@ -209,7 +207,7 @@ script 11 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"This isn't good…"
+	"Putz..."
 	keyWait
 	end
 }
@@ -217,7 +215,7 @@ script 12 mmbn3 {
 	mugshotHide
 	msgOpen
 	soundDisableTextSFX
-	"Beep Beep Beep!"
+	"Bip Bip Bip!"
 	soundEnableTextSFX
 	keyWait
 	end
@@ -226,12 +224,12 @@ script 13 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Lan! You got mail!"
+	"Lan! Chegou e-mail!"
 	keyWait
 	clearMsg
 	"""
-	…It's from Mayl.
-	It says,
+	... É da Mayl.
+	Tá escrito:
 	"""
 	keyWait
 	clearMsg
@@ -247,15 +245,15 @@ script 14 mmbn3 {
 	mugshotAnimate
 		animation = 0
 	"""
-	"Lan! Help! Roll is
-	in trouble in Zoo
-	Comp 2!
+	"Lan! Socorro! A Roll
+	tá 'tretada' no CPU
+	do Zoológico 2!
 	"""
 	keyWait
 	clearMsg
 	"""
-	"Get over here now,
-	kiddo!".
+	Vem aqui logo e não
+	enrola, moleque!"
 	"""
 	flagAddMail
 		flag = 4377
@@ -271,8 +269,8 @@ script 15 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Come on Lan,
-	let's go save Roll!
+	Vamos lá, Lan,
+	temos que salvar a Roll!
 	"""
 	keyWait
 	clearMsg
@@ -284,16 +282,16 @@ script 16 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Right! Hmmm. Y'know,
-	Mayl didn't sound
-	like her usual self…
+	É! Mas... Hm. Sabe, a
+	se expressou de um
+	jeito meio estranho...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Nah,I'm just
-	imagining things.
-	Let's hurry,MegaMan!
+	Nah, deve ser só a
+	minha imaginação.
+	Vamos correr, MegaMan!
 	"""
 	keyWait
 	end

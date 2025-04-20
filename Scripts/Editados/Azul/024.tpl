@@ -3,9 +3,9 @@
 script 0 mmbn3 {
 	msgOpen
 	"""
-	Press the L Button
-	to talk to Lan!
-	(but not yet)
+	Aperte o botão L
+	para falar com o Lan!
+	(mas ainda não)
 	"""
 	keyWait
 	end

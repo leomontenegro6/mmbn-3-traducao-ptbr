@@ -5,30 +5,29 @@ script 0 mmbn3 {
 		mugshot = Sunayama
 	msgOpen
 	"""
-	Chaud. The
-	distinguished son of
-	the president of IPC
+	Eugene Chaud. O
+	renomado filho do
+	presidente da IPC.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Inc. The foremost
-	NetBattler in all of
-	Electopia. Operator
+	O maior NetLutador de
+	toda a Ni-Hon. Operador
+	de ProtoMan.EXE,
 	"""
 	keyWait
 	clearMsg
 	"""
-	of ProtoMan,a
-	Navi you customized
-	to your own
+	um Navi customizado
+	para as suas próprias
+	especificações.
 	"""
 	keyWait
 	clearMsg
 	"""
-	specifications.
-	Expert operator.
-	Master customizer.
+	Operador prodígio.
+	Customizador genial.
 	"""
 	keyWait
 	clearMsg
@@ -39,7 +38,7 @@ script 1 mmbn3 {
 	mugshotShow
 		mugshot = Chaud
 	msgOpen
-	"………"
+	"........."
 	keyWait
 	clearMsg
 	jump
@@ -50,9 +49,9 @@ script 2 mmbn3 {
 		mugshot = Sunayama
 	msgOpen
 	"""
-	With you out of the
-	way,our work will be
-	much easier.
+	Com você fora do nosso
+	caminho, nosso trabalho
+	será bem mais fácil.
 	"""
 	keyWait
 	clearMsg
@@ -64,8 +63,8 @@ script 3 mmbn3 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	…So it's a
-	NetBattle you want?
+	... Então, é uma
+	NetLuta que você quer?
 	"""
 	keyWait
 	clearMsg
@@ -76,19 +75,19 @@ script 4 mmbn3 {
 	mugshotShow
 		mugshot = Sunayama
 	msgOpen
-	"Oh,no no!"
+	"Ah, não, não, não!"
 	keyWait
 	clearMsg
 	"""
-	It is your PET that
-	I am after!
+	É do seu PET que eu
+	estou atrás!
 	"""
 	keyWait
 	clearMsg
 	"""
-	How about a trade.
-	Your PET…
-	for your father.
+	Que tal uma troca?
+	O seu PET...
+	pela vida do seu pai.
 	"""
 	keyWait
 	clearMsg
@@ -110,14 +109,15 @@ script 6 mmbn3 {
 		mugshot = Sunayama
 	msgOpen
 	"""
-	You give me your
+	Se me entregar o seu
 	PET,
 	"""
 	keyWait
 	clearMsg
 	"""
-	and I'll let your
-	father go.
+	eu solto o seu pai.
+	Sem nenhuma outra
+	condição.
 	"""
 	keyWait
 	clearMsg
@@ -128,7 +128,7 @@ script 7 mmbn3 {
 	mugshotShow
 		mugshot = Chaud
 	msgOpen
-	"You coward!!"
+	"Covarde sujo!!"
 	keyWait
 	clearMsg
 	jump
@@ -139,16 +139,15 @@ script 8 mmbn3 {
 		mugshot = Sunayama
 	msgOpen
 	"""
-	In this profession,
-	ratings and quality
-	footage are
+	Neste ramo, audiência e
+	imagens de qualidade são
+	tudo!
 	"""
 	keyWait
 	clearMsg
 	"""
-	everything!! Now
-	then,I'll give you a
-	moment to decide.
+	Bom, darei a você um
+	minuto para decidir.
 	"""
 	keyWait
 	clearMsg
@@ -160,8 +159,9 @@ script 9 mmbn3 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	Chaud. Please hand
-	him the PET.
+	Mestre Chaud.
+	Por favor,
+	entregue a ele o PET.
 	"""
 	keyWait
 	clearMsg
@@ -181,24 +181,25 @@ script 11 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	So Chaud's the heir
-	to the IPC Inc.
-	fortune…! What am I
+	Então, o Chaud é o
+	herdeiro da fortuna
+	IPC...!
 	"""
 	keyWait
 	clearMsg
 	"""
-	saying? This isn't
-	the time for that!
-	We've got to figure
+	Pera, o que eu tô
+	dizendo?
+	Não é hora pra isso!
 	"""
 	keyWait
 	clearMsg
 	flagSet
 		flag = 1538
 	"""
-	out a way to help
-	Chaud's dad!
+	A gente tem que achar
+	um jeito de ajudar o pai
+	do Chaud!
 	"""
 	keyWait
 	clearMsg
@@ -210,16 +211,16 @@ script 12 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	If we could just
-	distract Sunayama
-	for a second…
+	Se conseguíssemos
+	distrair o Sunayama
+	só por um segundo...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Are we carrying
-	anything that might
-	do the trick?
+	A gente tem alguma
+	coisa no bolso que
+	dê pra usar?
 	"""
 	keyWait
 	clearMsg
@@ -230,18 +231,17 @@ script 13 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"I have an idea!"
+	"!! Tive uma ideia!"
 	keyWait
 	clearMsg
 	"""
-	MegaMan! How about
-	we……
+	MegaMan! Que tal se......
 	"""
 	keyWait
 	clearMsg
 	"""
-	(Whisper whisper)
-	(Whisper whisper)
+	(Shhhp shhhp)
+	(Shhhp shhhp)
 	"""
 	keyWait
 	clearMsg
@@ -253,16 +253,15 @@ script 14 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	………
-	I guess we've got no
-	choice. This is an
+	.........
+	Acho que não temos es-
+	colha. É uma emergência!
 	"""
 	keyWait
 	clearMsg
 	"""
-	emergency! But we
-	can't afford to
-	miss!
+	Mas a gente NÃO PODE
+	errar!
 	"""
 	keyWait
 	clearMsg
@@ -275,7 +274,7 @@ script 15 mmbn3 {
 	msgOpen
 	flagClear
 		flag = 1538
-	"Trust me!"
+	"Confia em mim!"
 	keyWait
 	end
 }
@@ -284,15 +283,15 @@ script 16 mmbn3 {
 		mugshot = Sunayama
 	msgOpen
 	"""
-	Time's up. Have you
-	said your goodbyes
-	to ProtoMan?
+	Acabou o tempo.
+	Já se despediu do seu
+	querido ProtoMan?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Now,then,hand over
-	your PET,please.
+	Nesse caso, o PET,
+	por favor.
 	"""
 	keyWait
 	clearMsg
@@ -303,7 +302,7 @@ script 17 mmbn3 {
 	mugshotShow
 		mugshot = Chaud
 	msgOpen
-	"I'm sorry,ProtoMan……"
+	"Desculpa, ProtoMan......"
 	keyWait
 	end
 }
@@ -312,23 +311,23 @@ script 18 mmbn3 {
 		mugshot = Sunayama
 	msgOpen
 	"""
-	Viewers around the
-	world watching
-	through the hidden
+	Telespectadores mundo
+	afora estão vendo pelas
+	câmeras escondidas!
 	"""
 	keyWait
 	clearMsg
 	"""
-	cameras! Observe
-	Electopia's ace Net
-	Battler surrender to
+	Observem o NetLutador
+	prodígio de Ni-Hon se
+	rendendo à WWW.
 	"""
 	keyWait
 	clearMsg
 	"""
-	the WWW. Chaud is
-	now handing his PET
-	over to…
+	Eugene Chaud está,
+	agora, entregando seu
+	PET para...
 	"""
 	keyWait
 	end
@@ -338,8 +337,8 @@ script 19 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Nowwwwww!!
-	MegaMan,ATTACK!!
+	Eeeeeee JÁ!!
+	VOA, MegaMan!!
 	"""
 	keyWait
 	end
@@ -349,8 +348,8 @@ script 20 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Chaud,Quick!!
-	Get your dad!
+	Chaud, rápido!!
+	Liberta o seu pai!
 	"""
 	keyWait
 	clearMsg
@@ -363,7 +362,7 @@ script 21 mmbn3 {
 	msgOpen
 	mugshotAnimate
 		animation = 0
-	"OK!"
+	"Tá bom!"
 	keyWait
 	end
 }
@@ -372,14 +371,14 @@ script 22 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Chaud! Take your
-	dad to a safe place!
+	Chaud! Leva o seu pai
+	pra um lugar seguro!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Hurry! Get out of
-	here!
+	Rápido! Cai logo fora
+	daqui!
 	"""
 	keyWait
 	end
@@ -391,8 +390,9 @@ script 23 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Sunayama! Now you
-	have to face me!!
+	Sunayama! Agora,
+	você vai ter é que
+	ME encarar!!
 	"""
 	keyWait
 	clearMsg
@@ -404,36 +404,36 @@ script 24 mmbn3 {
 		mugshot = Sunayama
 	msgOpen
 	"""
-	Noooooo! So you're
-	the one who hit me
-	in the head with
+	Arrghhh, NÃO! Você me
+	atingiu na cabeça com
+	esse PET sujo?!
 	"""
 	keyWait
 	clearMsg
 	"""
-	that filthy PET!?
-	I'll just cut and
-	edit that last part…
+	Vou ter que cortar
+	esse pedaço na ilha de
+	edição...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Wait! This is a live
-	broadcast! Oooh,I
-	can't edit it!
+	Espera! Estamos ao vivo!
+	Não dá pra editar!
+	Aaaaaahhh!
 	"""
 	keyWait
 	clearMsg
 	"""
-	You've ruined my
-	entire plan! I'm
-	going to squash you!
+	Você arruinou todo o
+	meu plano!
+	Eu vou te esmagar!
 	"""
 	keyWait
 	clearMsg
 	"""
-	DesertMan! Delete
-	that brat!
+	DesertMan!
+	Delete esse pirralho!
 	"""
 	keyWait
 	clearMsg
@@ -445,16 +445,16 @@ script 25 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	We'll see who's
-	going to get
-	squashed! MegaMan!
+	Quem vai ser esmagado
+	aqui é você!
+	MegaMan!
 	"""
 	keyWait
 	clearMsg
-	"Battle routine,"
+	"Rotina "
 	waitSkip
 		frames = 30
-	"set!"
+	"de batalha...!"
 	keyWait
 	clearMsg
 	jump
@@ -464,7 +464,7 @@ script 26 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Execute!"
+	"Executar!"
 	keyWait
 	end
 }

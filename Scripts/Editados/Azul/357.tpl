@@ -4,7 +4,7 @@ script 0 mmbn3 {
 	mugshotHide
 	msgOpen
 	soundDisableTextSFX
-	"Beep Beep Beep!"
+	"Bip Bip Bip!"
 	soundEnableTextSFX
 	keyWait
 	end
@@ -13,21 +13,21 @@ script 1 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Lan! You got mail!"
+	"Lan! Chegou e-mail!"
 	keyWait
 	clearMsg
 	"""
 	Hmm?
-	An emergency news
-	flash?
+	Um alerta de
+	emergência?
 	"""
 	keyWait
 	clearMsg
-	"……"
+	"......"
 	keyWait
 	clearMsg
 	"""
-	Oh no!
+	Essa não!
 	Lan!!
 	"""
 	keyWait
@@ -38,8 +38,8 @@ script 2 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	What? Is something
-	wrong?
+	Que foi?
+	Rolou algum problema?
 	"""
 	keyWait
 	clearMsg
@@ -51,29 +51,29 @@ script 3 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Th-this mail!
-	It says,
+	E-este e-mail!
+	Tá escrito:
 	"""
 	keyWait
 	clearMsg
 	"""
-	"A fire has just
-	occured at SciLab.
-	At present the fire
+	"Ocorreu um incêndio
+	no SciLab. No momento,
+	o fogo ainda não se
 	"""
 	keyWait
 	clearMsg
 	"""
-	"is localized,but
-	the internal temper-
-	ature is 160 degrees
+	espalhou muito, mas a
+	temperatura interna
+	está nos 160 graus
 	"""
 	keyWait
 	clearMsg
 	"""
-	"and rising. Ten
-	scientists have been
-	hospitalized."
+	e não para de aumentar.
+	Dez cientistas já foram
+	hospitalizados."
 	"""
 	flagAddMail
 		flag = 4375
@@ -88,22 +88,22 @@ script 4 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"………"
+	"........."
 	keyWait
 	clearMsg
 	soundPlayBGM
 		track = 13
 	"""
-	No…this has got to
-	be some kind of
-	mistake…Dad…!
+	Não... isso tem que ser
+	um engano...
+	Papai...!
 	"""
 	keyWait
 	clearMsg
 	"""
 	MegaMan!
-	We've got to get
-	over to SciLab!
+	A gente tem que ir pro
+	SciLab!
 	"""
 	keyWait
 	clearMsg
@@ -114,7 +114,7 @@ script 5 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Right!"
+	"Claro!"
 	keyWait
 	end
 }

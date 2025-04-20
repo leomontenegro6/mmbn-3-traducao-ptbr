@@ -4,7 +4,7 @@ script 0 mmbn3 {
 	mugshotShow
 		mugshot = MrProg
 	msgOpen
-	"SSznnnzz…! Zzzzz…!"
+	"Rrnnnzz...! Zzzzz...!"
 	keyWait
 	clearMsg
 	"…Huh!?"
@@ -39,8 +39,8 @@ script 1 mmbn3 {
 script 230 mmbn3 {
 	msgOpen
 	"""
-	MegaMan accessed the
-	mystery data.
+	MegaMan acessou os
+	dados misteriosos.
 	"""
 	wait
 		frames = 10
@@ -61,8 +61,8 @@ script 230 mmbn3 {
 		item = 99
 		amount = 1
 	"""
-	MegaMan got a
-	PowerUp:
+	MegaMan adquiriu
+	um PowerUp:
 	"
 	"""
 	printItem
@@ -74,8 +74,8 @@ script 230 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Regular memory
-	increased by 2 MB!
+	Memória padrão
+	aumentada em 2 MB!
 	"""
 	keyWait
 	end

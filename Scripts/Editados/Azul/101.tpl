@@ -10,13 +10,13 @@ script 190 mmbn3 {
 	mugshotShow
 		mugshot = CloakedNavi
 	msgOpen
-	"……"
+	"......"
 	keyWait
 	clearMsg
 	mugshotHide
 	"""
-	He silently hands
-	over a BattleChip!
+	Silenciosamente, ele
+	entrega um chip!
 	"""
 	keyWait
 	clearMsg
@@ -34,7 +34,7 @@ script 191 mmbn3 {
 		code = G
 		amount = 1
 	"""
-	Lan got a chip for
+	Lan adquiriu o chip
 	"
 	"""
 	printChip
@@ -44,7 +44,7 @@ script 191 mmbn3 {
 	printCode
 		buffer = 0
 		code = G
-	"\"!!"
+	"\"!"
 	playerFinish
 	playerReset
 	playerUnlock
@@ -55,22 +55,22 @@ script 192 mmbn3 {
 	mugshotShow
 		mugshot = CloakedNavi
 	msgOpen
-	"……"
+	"......"
 	keyWait
 	end
 }
 script 220 mmbn3 {
 	msgOpen
 	"""
-	A control panel for
-	the growth device
+	Um painel de controle
+	do aparelho de crescimento.
 	"""
 	keyWait
 	clearMsg
 	"""
-	You can jack in from
-	here to access the
-	growth system
+	Conectável, pra
+	acessar o sistema de
+	crescimento.
 	"""
 	keyWait
 	end
@@ -78,8 +78,8 @@ script 220 mmbn3 {
 script 221 mmbn3 {
 	msgOpen
 	"""
-	An elevator switch
-	Want to press it?
+	Um botão de elevador.
+	Apertar?
 	
 	"""
 	option
@@ -89,7 +89,7 @@ script 221 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"Sim "
 	option
 		left = 0
 		right = 0
@@ -97,7 +97,7 @@ script 221 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No"
+	"Não"
 	select
 		default = 0
 		BSeparate = false
@@ -118,8 +118,9 @@ script 222 mmbn3 {
 		jumpIfOutOfRange = continue
 	msgOpen
 	"""
-	The elevator opens!
-	Go to which floor?
+	A porta do elevador
+	se abriu! Andar?
+	
 	"""
 	keyWait
 	clearMsg
@@ -130,7 +131,7 @@ script 222 mmbn3 {
 		down = 2
 	space
 		count = 2
-	"3rd Flr "
+	" 3 "
 	option
 		left = 0
 		right = 0
@@ -138,7 +139,7 @@ script 222 mmbn3 {
 		down = 3
 	space
 		count = 2
-	"2nd Flr\n"
+	"  2\n"
 	option
 		left = 3
 		right = 3
@@ -146,7 +147,7 @@ script 222 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"1st Flr "
+	" 1 "
 	option
 		left = 2
 		right = 2
@@ -154,7 +155,7 @@ script 222 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Nowhere"
+	"  Ficar"
 	select
 		default = 0
 		BSeparate = false
@@ -172,14 +173,14 @@ script 222 mmbn3 {
 script 223 mmbn3 {
 	msgOpen
 	"""
-	Supply pipes for
-	energy and nutrients
+	Tubos que fornecem
+	energia e nutrientes.
 	"""
 	keyWait
 	clearMsg
 	"""
-	They were roughly
-	disconnected
+	Foram desconectados
+	grosseiramente.
 	"""
 	keyWait
 	end
@@ -187,16 +188,16 @@ script 223 mmbn3 {
 script 224 mmbn3 {
 	msgOpen
 	"""
-	A growth device that
-	uses cutting-edge
-	technologies
+	Um aparelho de
+	crescimento que usa
+	tecnologia de ponta.
 	"""
 	keyWait
 	clearMsg
 	"""
-	It monitors the tree
-	and maintains ideal
-	growth conditions
+	Monitora a árvore e
+	mantém as condições
+	pro seu crescimento.
 	"""
 	keyWait
 	end
@@ -204,16 +205,16 @@ script 224 mmbn3 {
 script 225 mmbn3 {
 	msgOpen
 	"""
-	Pipes to supply the
-	tree with huge
-	volumes of water
+	Canos para fornecer
+	à arvore imensos
+	volumes de água.
 	"""
 	keyWait
 	clearMsg
 	"""
-	They're like a
-	lifeline for the
-	Tree of Life
+	Eles são como a
+	tábua de salvação
+	da Árvore da Vida.
 	"""
 	keyWait
 	end
@@ -241,9 +242,9 @@ script 229 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Where are you going,
-	Lan? You should
-	jack in right away.
+	Aonde você vai, Lan?
+	Você tem que se
+	conectar! Agora!
 	"""
 	keyWait
 	end

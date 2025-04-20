@@ -9,7 +9,7 @@ script 1 mmbn3s {
 	end
 }
 script 2 mmbn3s {
-	"____ACDC Stn■"
+	"Estação ACDC■"
 	end
 }
 script 3 mmbn3s {
@@ -17,62 +17,62 @@ script 3 mmbn3s {
 	end
 }
 script 4 mmbn3s {
-	"__Lan's Room■"
+	"__Quarto Lan■"
 	end
 }
 script 5 mmbn3s {
-	"Mayl's LvgRm■"
+	"Sala da Mayl■"
 	end
 }
 script 6 mmbn3s {
-	"_Mayl's Room■"
+	"_Quarto Mayl■"
 	end
 }
 script 7 mmbn3s {
-	"__Dex's Room■"
+	"__Quarto Dex■"
 	end
 }
 script 8 mmbn3s {
-	"__Yai's Room■"
+	"__Quarto Yai■"
 	end
 }
 script 9 mmbn3s {
-	"____Higsby's■"
+	"_Loja Higsby■"
 	end
 }
 script 10 mmbn3s {
-	"___Class 5-A■"
+	"____Sala 5-A■"
 	end
 }
 script 11 mmbn3s {
-	"___Class 5-B■"
+	"____Sala 5-B■"
 	end
 }
 script 12 mmbn3s {
-	"__Class Hall■"
+	"Corredor Trm■"
 	end
 }
 script 13 mmbn3s {
-	"__Cross Hall■"
+	"Corredor Crz■"
 	end
 }
 script 14 mmbn3s {
-	"Staff Lounge■"
+	"Sala dos Prf■"
 	end
 }
 script 15 mmbn3s {
-	"Prncpl's Ofc■"
+	"___Diretoria■"
 	end
 }
 script 16 mmbn3s {
-	"_Lounge Hall■"
+	"Corredor Prf■"
 	end
 }
 script 17 mmbn3s {
 	end
 }
 script 18 mmbn3s {
-	"__SciLab Stn■"
+	"Estç. SciLab■"
 	end
 }
 script 19 mmbn3s {
@@ -80,58 +80,58 @@ script 19 mmbn3s {
 	end
 }
 script 20 mmbn3s {
-	"___Virus Lab■"
+	"__Lab. Vírus■"
 	end
 }
 script 21 mmbn3s {
-	"___Dad's Lab■"
+	"__Lab. Papai■"
 	end
 }
 script 22 mmbn3s {
-	"____Archives■"
+	"____Arquivos■"
 	end
 }
 script 23 mmbn3s {
 	end
 }
 script 24 mmbn3s {
-	"____Yoka Stn■"
+	"Estação Yoka■"
 	end
 }
 script 25 mmbn3s {
-	"Front of Zoo■"
+	"Ent. Zoológ.■"
 	end
 }
 script 26 mmbn3s {
-	"_Hotel Front■"
+	"Frente Hotel■"
 	end
 }
 script 27 mmbn3s {
-	"_Hotel Lobby■"
+	"Saguão Hotel■"
 	end
 }
 script 28 mmbn3s {
-	"________Hall■"
+	"____Corredor■"
 	end
 }
 script 29 mmbn3s {
-	"__Guest Room■"
+	"Qrto Hóspede■"
 	end
 }
 script 30 mmbn3s {
-	"Outdoor Bath■"
+	"Banho termal■"
 	end
 }
 script 31 mmbn3s {
-	"_______Zoo 1■"
+	"_Zoológico 1■"
 	end
 }
 script 32 mmbn3s {
-	"_______Zoo 2■"
+	"_Zoológico 2■"
 	end
 }
 script 33 mmbn3s {
-	"_Secret Cave■"
+	"Cav. Secreta■"
 	end
 }
 script 34 mmbn3s {
@@ -141,42 +141,42 @@ script 35 mmbn3s {
 	end
 }
 script 36 mmbn3s {
-	"___Beach Stn■"
+	"Estaç. Angra■"
 	end
 }
 script 37 mmbn3s {
-	"___Beach St.■"
+	"___Rua Angra■"
 	end
 }
 script 38 mmbn3s {
-	"TV Stn Lobby■"
+	"_Recepção TV■"
 	end
 }
 script 39 mmbn3s {
-	"TV Stn Hall1■"
+	"Corredor1 TV■"
 	end
 }
 script 40 mmbn3s {
-	"___TV Studio■"
+	"__Estúdio TV■"
 	end
 }
 script 41 mmbn3s {
-	"TV Stn Hall2■"
+	"Corredor2 TV■"
 	end
 }
 script 42 mmbn3s {
-	"Editing Room■"
+	"Sala Edição■"
 	end
 }
 script 43 mmbn3s {
 	end
 }
 script 44 mmbn3s {
-	"__Hades Isle■"
+	"Ilha inferno■"
 	end
 }
 script 45 mmbn3s {
-	"__Hades Mntn■"
+	"__Mt Inferno■"
 	end
 }
 script 46 mmbn3s {
@@ -194,15 +194,15 @@ script 49 mmbn3s {
 	end
 }
 script 50 mmbn3s {
-	"___Shoreline■"
+	"_____Prainha■"
 	end
 }
 script 51 mmbn3s {
-	"__Hosp Lobby■"
+	"_Saguão Hosp■"
 	end
 }
 script 52 mmbn3s {
-	"_Hospital 2F■"
+	"_Hospital P2■"
 	end
 }
 script 53 mmbn3s {
@@ -210,11 +210,11 @@ script 53 mmbn3s {
 	end
 }
 script 54 mmbn3s {
-	"_Hospital 3F■"
+	"_Hospital P3■"
 	end
 }
 script 55 mmbn3s {
-	"____Basement■"
+	"_______Porão■"
 	end
 }
 script 56 mmbn3s {
@@ -228,23 +228,23 @@ script 58 mmbn3s {
 	end
 }
 script 59 mmbn3s {
-	"_Castle Wily■"
+	"Castelo Wily■"
 	end
 }
 script 60 mmbn3s {
-	"____Wily Lab■"
+	"Lab. do Wily■"
 	end
 }
 script 61 mmbn3s {
-	"Monitor Room■"
+	"Sala Monitor■"
 	end
 }
 script 62 mmbn3s {
-	"____Lab Hall■"
+	"Corredor Lab■"
 	end
 }
 script 63 mmbn3s {
-	"_Server Room■"
+	"Sl. Servidor■"
 	end
 }
 script 64 mmbn3s {
@@ -356,63 +356,63 @@ script 99 mmbn3s {
 	end
 }
 script 100 mmbn3s {
-	"Prncp's PC 1■"
+	"CPU Diretor1■"
 	end
 }
 script 101 mmbn3s {
-	"Prncp's PC 2■"
+	"CPU Diretor2■"
 	end
 }
 script 102 mmbn3s {
-	"__Zoo Comp 1■"
+	"CPU Zoológc1■"
 	end
 }
 script 103 mmbn3s {
-	"__Zoo Comp 2■"
+	"CPU Zoológc2■"
 	end
 }
 script 104 mmbn3s {
-	"__Zoo Comp 3■"
+	"CPU Zoológc3■"
 	end
 }
 script 105 mmbn3s {
-	"__Zoo Comp 4■"
+	"CPU Zoológc4■"
 	end
 }
 script 106 mmbn3s {
-	"_Hosp Comp 1■"
+	"CPU Hosptal1■"
 	end
 }
 script 107 mmbn3s {
-	"_Hosp Comp 2■"
+	"CPU Hosptal2■"
 	end
 }
 script 108 mmbn3s {
-	"_Hosp Comp 3■"
+	"CPU Hosptal3■"
 	end
 }
 script 109 mmbn3s {
-	"_Hosp Comp 4■"
+	"CPU Hosptal4■"
 	end
 }
 script 110 mmbn3s {
-	"_Hosp Comp 5■"
+	"CPU Hosptal5■"
 	end
 }
 script 111 mmbn3s {
-	"__WWW Comp 1■"
+	"CPU da WWW 1■"
 	end
 }
 script 112 mmbn3s {
-	"__WWW Comp 2■"
+	"CPU da WWW 1■"
 	end
 }
 script 113 mmbn3s {
-	"__WWW Comp 3■"
+	"CPU da WWW 1■"
 	end
 }
 script 114 mmbn3s {
-	"__WWW Comp 4■"
+	"CPU da WWW 1■"
 	end
 }
 script 115 mmbn3s {
@@ -550,83 +550,83 @@ script 158 mmbn3s {
 	end
 }
 script 159 mmbn3s {
-	"___Lion Comp■"
+	"____CPU Leão■"
 	end
 }
 script 160 mmbn3s {
-	"__Demon Comp■"
+	"_CPU Demônio■"
 	end
 }
 script 161 mmbn3s {
-	"Editing Comp■"
+	"__CPU Edição■"
 	end
 }
 script 162 mmbn3s {
-	"Monitor Comp■"
+	"_CPU Monitor■"
 	end
 }
 script 163 mmbn3s {
-	"____Lan's HP■"
+	"__Página Lan■"
 	end
 }
 script 164 mmbn3s {
-	"___Mayl's HP■"
+	"_Página Mayl■"
 	end
 }
 script 165 mmbn3s {
-	"____Dex's HP■"
+	"__Página Dex■"
 	end
 }
 script 166 mmbn3s {
-	"____Yai's HP■"
+	"__Página Yai■"
 	end
 }
 script 167 mmbn3s {
-	"_Tamako's HP■"
+	"_Pág. Tamako■"
 	end
 }
 script 168 mmbn3s {
-	"____???'s HP■"
+	"_Pág. de ???■"
 	end
 }
 script 169 mmbn3s {
-	"Breeder1 Cmp■"
+	"CPU Criação1■"
 	end
 }
 script 170 mmbn3s {
-	"Breeder2 Cmp■"
+	"CPU Criação2■"
 	end
 }
 script 171 mmbn3s {
-	"Breeder3 Cmp■"
+	"CPU Criação3■"
 	end
 }
 script 172 mmbn3s {
-	"Breeder4 Cmp■"
+	"CPU Criação4■"
 	end
 }
 script 173 mmbn3s {
-	"Breeder5 Cmp■"
+	"CPU Criação5■"
 	end
 }
 script 174 mmbn3s {
-	"Breeder6 Cmp■"
+	"CPU Criação6■"
 	end
 }
 script 175 mmbn3s {
-	"Doghouse Cmp■"
+	"CPU Cachorro■"
 	end
 }
 script 176 mmbn3s {
-	"Blkboard Cmp■"
+	"___CPU Lousa■"
 	end
 }
 script 177 mmbn3s {
-	"Vending Comp■"
+	"CPU MqVendas■"
 	end
 }
 script 178 mmbn3s {
-	"____Computer■"
+	"__Computador■"
 	end
 }
 script 179 mmbn3s {
@@ -634,15 +634,15 @@ script 179 mmbn3s {
 	end
 }
 script 180 mmbn3s {
-	"Sch Srv Comp■"
+	"CPU Srv Escl■"
 	end
 }
 script 181 mmbn3s {
-	"__Relay Comp■"
+	"CPU Notícias■"
 	end
 }
 script 182 mmbn3s {
-	"NetBattl Cmp■"
+	"CPU NetLutas■"
 	end
 }
 script 183 mmbn3s {
@@ -650,15 +650,15 @@ script 183 mmbn3s {
 	end
 }
 script 184 mmbn3s {
-	"__Phone Comp■"
+	"CPU Telefone■"
 	end
 }
 script 185 mmbn3s {
-	"_____TV Comp■"
+	"___CPU da TV■"
 	end
 }
 script 186 mmbn3s {
-	"____Bed Comp■"
+	"_CPU da Cama■"
 	end
 }
 script 187 mmbn3s {
@@ -666,31 +666,31 @@ script 187 mmbn3s {
 	end
 }
 script 188 mmbn3s {
-	"_Ticket Comp■"
+	"CPU Ingresso■"
 	end
 }
 script 189 mmbn3s {
-	"____Tank Cmp■"
+	"__CPU Tanque■"
 	end
 }
 script 190 mmbn3s {
-	"_Old TV Comp■"
+	"CPU TV velha■"
 	end
 }
 script 191 mmbn3s {
-	"__Armor Comp■"
+	"CPU Armadura■"
 	end
 }
 script 192 mmbn3s {
-	"___Sign Comp■"
+	"CPU da Placa■"
 	end
 }
 script 193 mmbn3s {
-	"__Alarm Comp■"
+	"__CPU Alarme■"
 	end
 }
 script 194 mmbn3s {
-	"DoorSens Cmp■"
+	"CPUSensorPrt■"
 	end
 }
 script 195 mmbn3s {
@@ -722,7 +722,7 @@ script 202 mmbn3s {
 	end
 }
 script 203 mmbn3s {
-	"_ACDC Square■"
+	"_ACDC Plaza■"
 	end
 }
 script 204 mmbn3s {
@@ -737,7 +737,7 @@ script 206 mmbn3s {
 	end
 }
 script 207 mmbn3s {
-	"__SciLab Sqr■"
+	"__SciLab Plz■"
 	end
 }
 script 208 mmbn3s {
@@ -755,7 +755,7 @@ script 211 mmbn3s {
 	end
 }
 script 212 mmbn3s {
-	"_Yoka Square■"
+	"__Yoka Plaza■"
 	end
 }
 script 213 mmbn3s {
@@ -765,15 +765,15 @@ script 214 mmbn3s {
 	end
 }
 script 215 mmbn3s {
-	"_____Beach 1■"
+	"_____Angra 1■"
 	end
 }
 script 216 mmbn3s {
-	"_____Beach 2■"
+	"_____Angra 2■"
 	end
 }
 script 217 mmbn3s {
-	"Beach Square■"
+	"_Angra Plaza■"
 	end
 }
 script 218 mmbn3s {
@@ -812,7 +812,7 @@ script 226 mmbn3s {
 	end
 }
 script 227 mmbn3s {
-	"Under Square■"
+	"_Under Plaza■"
 	end
 }
 script 228 mmbn3s {
@@ -822,15 +822,15 @@ script 229 mmbn3s {
 	end
 }
 script 230 mmbn3s {
-	"____Secret 1■"
+	"___Secreta 1■"
 	end
 }
 script 231 mmbn3s {
-	"____Secret 2■"
+	"___Secreta 2■"
 	end
 }
 script 232 mmbn3s {
-	"____Secret 3■"
+	"___Secreta 3■"
 	end
 }
 script 233 mmbn3s {

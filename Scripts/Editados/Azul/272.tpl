@@ -4,7 +4,7 @@ script 0 mmbn3 {
 	mugshotHide
 	msgOpen
 	soundDisableTextSFX
-	"Beep Beep Beep!"
+	"Bip Bip Bip!"
 	keyWait
 	soundEnableTextSFX
 	end
@@ -14,44 +14,42 @@ script 1 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan! You got mail!
-	Hey,it's a notice
-	from DNN about the
+	Lan! Chegou e-mail! É uma
+	mensagem da DNN sobre
+	o Grande Prêmio N1!
 	"""
 	keyWait
 	clearMsg
 	"""
-	N1 Grand Prix!
-	It says,"The much-
-	anticipated N1 Grand
+	Eu vou ler aqui:
+	"O muitíssimo aguardado
+	Grande Prêmio N1
 	"""
 	keyWait
 	clearMsg
 	"""
-	"Prix will be held
-	tomorrow at DNN on
-	Beach Street. In
+	será sediado amanhã,
+	na DNN, na Rua Angra.
 	"""
 	keyWait
 	clearMsg
 	"""
-	"preparation for
-	the N1,we will be
-	recording a special
+	Em preparação para o
+	torneio, gravaremos
+	um programa especial
 	"""
 	keyWait
 	clearMsg
 	"""
-	"program in Beach
-	Square on the Net
-	today. Everyone is
+	no Angra Plaza,
+	na Rede, hoje.
 	"""
 	keyWait
 	clearMsg
 	"""
-	"invited to come,so
-	feel free to bring
-	your friends!"
+	Todos estão convidados,
+	e tragam a família e
+	amigos!"
 	"""
 	flagAddMail
 		flag = 4362
@@ -67,9 +65,9 @@ script 2 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Cool! Let's see if
-	Dex and the others
-	want to come too!
+	Maneiro! Vamos ver se
+	o Dex e as meninas
+	topam ir, também!
 	"""
 	keyWait
 	clearMsg
@@ -81,14 +79,14 @@ script 3 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Alright. I'll e-mail
-	everyone.
+	Beleza. Vou mandar
+	e-mails pro pessoal.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Jack me into the
-	Net,Lan!
+	Me conecta na Rede,
+	Lan!
 	"""
 	keyWait
 	end

@@ -36,7 +36,7 @@ script 1 mmbn3 {
 	soundPlay
 		track = 133
 	"""
-	MegaMan got:
+	MegaMan adquiriu:
 	"
 	"""
 	printItem

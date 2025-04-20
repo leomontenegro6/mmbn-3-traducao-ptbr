@@ -13,12 +13,15 @@ script 1 mmbn3 {
 		mugshot = Mamoru
 	msgOpen
 	"""
-	Huh?
-	Wow!
+	Hã?
+	Nossa!
 	"""
 	keyWait
 	clearMsg
-	"NetBattler Lan!"
+	"""
+	É o NetLutador Lan
+	Hikari!
+	"""
 	keyWait
 	clearMsg
 	jump
@@ -28,7 +31,7 @@ script 2 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"What? You know me?"
+	"Quê? Você me conhece?"
 	keyWait
 	clearMsg
 	jump
@@ -39,16 +42,15 @@ script 3 mmbn3 {
 		mugshot = Mamoru
 	msgOpen
 	"""
-	I watched you on TV
-	in the N1 Grand
-	Prix!
+	Eu te acompanhei no
+	Grande Prêmio N1 pela
+	TV!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I can't believe I'm
-	talking with
-	NetBattler Lan!
+	Eu não acredito que tô
+	falando com O Lan Hikari!
 	"""
 	keyWait
 	clearMsg
@@ -60,8 +62,8 @@ script 4 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Come on,you're gonna
-	make me blush.
+	Ah, vai, assim eu vou
+	ficar vermelho.
 	"""
 	keyWait
 	end
@@ -71,9 +73,9 @@ script 5 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Stop blushing,Lan!
-	Remember why we're
-	here!
+	Bom, "desvermelha", Lan!
+	Lembra por que a gente
+	veio aqui.
 	"""
 	keyWait
 	clearMsg
@@ -85,13 +87,12 @@ script 6 mmbn3 {
 		mugshot = Mamoru
 	msgOpen
 	"""
-	No way! MegaMan!
-	You're MegaMan,
-	right?
+	Não brinca! MegaMan.EXE!
+	Você é ele, né?!
 	"""
 	keyWait
 	clearMsg
-	"Awesome!"
+	"Que demais!"
 	keyWait
 	clearMsg
 	jump
@@ -102,9 +103,8 @@ script 7 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Awesome…?
-	I'm not that
-	spectacular…
+	Demais...?
+	E-eu não sou tudo isso...
 	"""
 	keyWait
 	clearMsg
@@ -117,8 +117,8 @@ script 8 mmbn3 {
 	msgOpen
 	"""
 	Ha ha!
-	Now look who's
-	blushing!
+	Olha só quem tá
+	vermelho agora!
 	"""
 	keyWait
 	clearMsg
@@ -130,15 +130,15 @@ script 9 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Oh,be quiet!
-	Mamoru,a nurse is
-	looking for you!
+	Ah, shiu! Mamoru, tem
+	uma enfermeira te
+	procurando.
 	"""
 	keyWait
 	clearMsg
 	"""
-	She said you have a
-	test scheduled!
+	Ela disse que você tem
+	uns exames marcados!
 	"""
 	keyWait
 	clearMsg
@@ -150,16 +150,16 @@ script 10 mmbn3 {
 		mugshot = Mamoru
 	msgOpen
 	"""
-	Oh,that…
-	OK,I'll go back now.
-	Before I go though…
+	Ah, isso...
+	Tudo bem, eu vou voltar.
+	Mas, antes disso...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Can we talk a little
-	longer? You don't
-	mind,do you?
+	A gente pode ficar con-
+	versando mais um pouco?
+	Tudo bem com vocês?
 	"""
 	keyWait
 	clearMsg
@@ -171,9 +171,9 @@ script 11 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	No,of course not!
-	Just promise you'll
-	go back!
+	Claro!
+	Desde que você prometa
+	que vai voltar.
 	"""
 	keyWait
 	clearMsg
@@ -184,7 +184,7 @@ script 12 mmbn3 {
 	mugshotShow
 		mugshot = Mamoru
 	msgOpen
-	"All right!"
+	"OK!"
 	keyWait
 	clearMsg
 	jump
@@ -195,8 +195,8 @@ script 13 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	So,do you like
-	NetBattling too,
+	Então, você também
+	gosta de NetLutar,
 	Mamoru?
 	"""
 	keyWait
@@ -208,19 +208,19 @@ script 14 mmbn3 {
 	mugshotShow
 		mugshot = Mamoru
 	msgOpen
-	"I love it!"
+	"Adoro!"
 	keyWait
 	clearMsg
 	"""
-	Everyone is equal
-	when NetBattling!
+	Todo mundo é igual nas
+	NetLutas.
 	"""
 	keyWait
 	clearMsg
 	"""
-	It doesn't matter
-	even if you're weak,
-	like I am!
+	Então não importa se
+	você é fraquinho, que
+	nem eu sou!
 	"""
 	keyWait
 	clearMsg
@@ -232,8 +232,8 @@ script 15 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Hey! Do you want to
-	battle with me?
+	Ei! Que tal uma NetLuta
+	comigo agora?
 	"""
 	keyWait
 	clearMsg
@@ -245,16 +245,16 @@ script 16 mmbn3 {
 		mugshot = Mamoru
 	msgOpen
 	"""
-	Really!?
-	Oh,but I can't…
-	The doctor told me
+	De verdade?!
+	Ah, mas eu não posso...
+	O médico proibiu.
 	"""
 	keyWait
 	clearMsg
 	"""
-	no battles. Too much
-	excitement is bad
-	for my condition…
+	Disse que emoção demais
+	é ruim para a minha
+	doença...
 	"""
 	keyWait
 	clearMsg
@@ -265,13 +265,12 @@ script 17 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Oh…I didn't mean to…"
+	"Ah... Puxa, eu não quis..."
 	keyWait
 	clearMsg
 	"""
-	I mean,I didn't
-	know. Sorry about
-	that…
+	Digo, eu não sabia.
+	Desculpa...
 	"""
 	keyWait
 	clearMsg
@@ -282,19 +281,19 @@ script 18 mmbn3 {
 	mugshotShow
 		mugshot = Mamoru
 	msgOpen
-	"No,that's all right."
+	"Não, tá tudo bem."
 	keyWait
 	clearMsg
 	"""
-	I'd better get back
-	now.
+	É melhor eu voltar
+	agora.
 	"""
 	keyWait
 	clearMsg
 	"""
-	It was great meeting
-	you,NetBattler Lan!
-	Thanks for talking!
+	Foi ótimo te conhecer,
+	NetLutador Lan!
+	Obrigado pela conversa!
 	"""
 	keyWait
 	clearMsg
@@ -306,9 +305,9 @@ script 19 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Please,stop calling
-	me "NetBattler Lan".
-	Just call me "Lan"!
+	Por favor, sem essa
+	de "NetLutador Lan".
+	Me chama só de "Lan"!
 	"""
 	keyWait
 	clearMsg
@@ -320,13 +319,16 @@ script 20 mmbn3 {
 		mugshot = Mamoru
 	msgOpen
 	"""
-	Really…Lan? Thanks!
-	If you have time,
-	can you visit me
+	Pra valer... Lan?
+	Obrigado!
 	"""
 	keyWait
 	clearMsg
-	"again sometime?"
+	"""
+	Se você tiver tempo...
+	Será que poderia me visi-
+	tar de novo, outra hora?
+	"""
 	keyWait
 	clearMsg
 	jump
@@ -337,14 +339,15 @@ script 21 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Sure! I'd be happy
-	to visit you!
+	Claro!
+	Eu adoraria te visitar!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Once you get better,
-	let's NetBattle,OK?
+	E a gente pode NetLutar
+	quando você sarar,
+	combinado?
 	"""
 	keyWait
 	clearMsg
@@ -355,12 +358,11 @@ script 22 mmbn3 {
 	mugshotShow
 		mugshot = Mamoru
 	msgOpen
-	"…Yeah."
+	"... É."
 	keyWait
 	clearMsg
 	"""
-	All right. I'll go
-	now.
+	Tá, vou indo, então.
 	"""
 	keyWait
 	end
@@ -370,8 +372,8 @@ script 23 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I hope Mamoru will
-	get better soon.
+	Espero que o Mamoru
+	melhore logo.
 	"""
 	keyWait
 	clearMsg
@@ -382,7 +384,7 @@ script 24 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Yeah"
+	"É"
 	waitSkip
 		frames = 30
 	"."
@@ -395,8 +397,8 @@ script 24 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	C'mon,let's get back
-	to Yai's room!
+	Vamos lá, vamos voltar
+	pro quarto da Yai!
 	"""
 	keyWait
 	end

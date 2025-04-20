@@ -5,8 +5,7 @@ script 0 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Has the hypnosis
-	worn off!?
+	A hipnose foi desfeita?!
 	"""
 	keyWait
 	clearMsg
@@ -17,7 +16,10 @@ script 1 mmbn3 {
 	mugshotShow
 		mugshot = Dex
 	msgOpen
-	"Were we hypnotized?"
+	"""
+	A gente tava
+	hipnotizado?
+	"""
 	keyWait
 	clearMsg
 	jump
@@ -28,8 +30,7 @@ script 2 mmbn3 {
 		mugshot = Yai
 	msgOpen
 	"""
-	I had absolutely no
-	idea!
+	Eu nem imaginava!
 	"""
 	keyWait
 	clearMsg
@@ -41,12 +42,12 @@ script 3 mmbn3 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	You saved us again,
-	Lan.
+	Você salvou a gente de
+	novo, Lan.
 	"""
 	keyWait
 	clearMsg
-	"Thanks."
+	"Obrigada."
 	keyWait
 	clearMsg
 	jump
@@ -56,7 +57,7 @@ script 4 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"No problem!"
+	"Disponha sempre!"
 	keyWait
 	clearMsg
 	jump
@@ -67,9 +68,9 @@ script 5 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	We should go home,
-	or we'll be late for
-	school tomorrow.
+	É melhor irmos pra casa,
+	ou vamos nos atrasar
+	pra escola amanhã.
 	"""
 	keyWait
 	clearMsg
@@ -83,9 +84,9 @@ script 6 mmbn3 {
 		mugshot = Dex
 	msgOpen
 	"""
-	I can't be late!
-	Let's head back
-	home!
+	Ah, eu não posso me
+	atrasar! Vamos voltar
+	logo!
 	"""
 	keyWait
 	clearMsg
@@ -97,9 +98,9 @@ script 7 mmbn3 {
 		mugshot = Yai
 	msgOpen
 	"""
-	You're right. And I
-	need my beauty
-	sleep,too.
+	Concordo. Afinal, eu
+	também preciso do meu
+	sono da beleza.
 	"""
 	keyWait
 	clearMsg
@@ -110,7 +111,7 @@ script 8 mmbn3 {
 	mugshotShow
 		mugshot = Mayl
 	msgOpen
-	"See you tomorrow!"
+	"Até amanhã, gente!"
 	keyWait
 	end
 }
@@ -119,9 +120,9 @@ script 9 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	By the way,Lan. What
-	did that guy mean by
-	"major catastrophe"?
+	Aliás, Lan... o que aquele
+	cara quis dizer com
+	"catástrofe maior"?
 	"""
 	keyWait
 	end
@@ -131,15 +132,15 @@ script 10 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	You're thinking too
-	much,MegaMan. Don't
-	sweat it.
+	Você tá pensando
+	demais nisso, MegaMan.
+	Não estressa.
 	"""
 	keyWait
 	clearMsg
 	"""
-	We should go home,
-	too!
+	A gente tem que ir logo
+	pra casa também!
 	"""
 	keyWait
 	end

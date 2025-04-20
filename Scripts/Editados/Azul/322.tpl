@@ -5,9 +5,10 @@ script 0 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Mamoru! Hang in
-	there! The doctor's
-	here!
+	Mamoru!
+	Aguenta firme!
+	O médico já tá aqui!
+	
 	"""
 	keyWait
 	clearMsg
@@ -21,7 +22,7 @@ script 1 mmbn3 {
 	mugshotShow
 		mugshot = Mamoru
 	msgOpen
-	"Ugh…Uuuuuuuuh…"
+	"Ugh... Uuuuunnngh..."
 	keyWait
 	end
 }
@@ -30,9 +31,9 @@ script 2 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	No! Another attack!
-	You! Get him into
-	the ER!
+	Não...! Outro ataque!
+	Você! Leve ele pro
+	pronto-socorro!
 	"""
 	keyWait
 	clearMsg
@@ -43,7 +44,7 @@ script 3 mmbn3 {
 	mugshotShow
 		mugshot = Nurse
 	msgOpen
-	"Yes!"
+	"Claro!"
 	keyWait
 	end
 }
@@ -52,8 +53,8 @@ script 4 mmbn3 {
 		mugshot = Nurse
 	msgOpen
 	"""
-	Are you Mamoru's
-	friend?
+	Você é amigo do
+	Mamoru?
 	"""
 	keyWait
 	clearMsg
@@ -64,12 +65,12 @@ script 5 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Uh,yes!"
+	"Ah, sou!"
 	keyWait
 	clearMsg
 	"""
-	Miss. Is he…
-	Will he be okay?
+	Moça. Ele...
+	Ele vai ficar bem?
 	"""
 	keyWait
 	clearMsg
@@ -81,21 +82,21 @@ script 6 mmbn3 {
 		mugshot = Nurse
 	msgOpen
 	"""
-	He's in a bit better
-	shape right now,
+	Ele está um pouco
+	melhor agora,
 	"""
 	keyWait
 	clearMsg
 	"""
-	but if he has an
-	another attack,he
-	could be in danger.
+	mas, se tiver outro
+	ataque, pode correr
+	muito perigo.
 	"""
 	keyWait
 	clearMsg
 	"""
-	We'd have to operate
-	on him immediately.
+	Teríamos que operá-lo
+	imediatamente.
 	"""
 	keyWait
 	clearMsg
@@ -106,7 +107,7 @@ script 7 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Operate!?"
+	"Operar?!"
 	keyWait
 	clearMsg
 	jump
@@ -117,8 +118,8 @@ script 8 mmbn3 {
 		mugshot = Nurse
 	msgOpen
 	"""
-	However,he refuses
-	to be operated on.
+	Só que... ele se recusa
+	a receber cirurgia.
 	"""
 	keyWait
 	clearMsg
@@ -129,10 +130,10 @@ script 9 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"He refuses?"
+	"Recusa?"
 	keyWait
 	clearMsg
-	"Why?"
+	"Por quê?"
 	keyWait
 	clearMsg
 	jump
@@ -143,30 +144,30 @@ script 10 mmbn3 {
 		mugshot = Nurse
 	msgOpen
 	"""
-	He's undergone
-	surgery 3 times,but
-	he's still sick.
+	Ele já passou por três
+	cirurgias, mas continua
+	doente.
 	"""
 	keyWait
 	clearMsg
 	"""
-	That's made him lose
-	hope in treatment.
-	But there's a new
+	Isso fez ele perder fé
+	no tratamento. Só que
+	descobriram um novo
 	"""
 	keyWait
 	clearMsg
 	"""
-	treatment that can
-	work on HBD. If he'd
-	only allow us to
+	tratamento que pode
+	funcionar com o HBD.
+	Se ele nos deixasse
 	"""
 	keyWait
 	clearMsg
 	"""
-	perform the surgery,
-	there's a chance he
-	could get better.
+	fazer a cirurgia,
+	haveria uma chance de
+	ele se curar.
 	"""
 	keyWait
 	end
@@ -178,15 +179,15 @@ script 11 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan! Let's try to
-	encourage Mamoru to
-	allow the surgery!
+	Lan! Vamos tentar
+	encorajar o Mamoru
+	a fazer a cirurgia!
 	"""
 	keyWait
 	clearMsg
 	"""
-	We can't give up!
-	He can beat HBD!
+	Não podemos desistir!
+	Ele PODE vencer o HBD!
 	"""
 	keyWait
 	clearMsg
@@ -197,20 +198,19 @@ script 12 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"You're right!"
+	"Concordo!"
 	keyWait
 	clearMsg
 	"""
-	I don't know the
-	meaning of the
-	words "give up"!
+	"Desistir" nem existe
+	no meu dicionário!
 	"""
 	keyWait
 	clearMsg
 	"""
-	How are we going to
-	change Mamoru's
-	mind,though?
+	Mas... como a gente vai
+	fazer o Mamoru mudar
+	de ideia?
 	"""
 	keyWait
 	clearMsg
@@ -221,18 +221,18 @@ script 13 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Hmmm…Let's see."
+	"Hmmm... Deixa eu ver..."
 	keyWait
 	clearMsg
 	"""
-	I got it! That chip
-	he wanted! The token
-	of friendship!
+	Já sei! O chip que ele
+	queria! O símbolo de
+	amizade!
 	"""
 	keyWait
 	clearMsg
 	"""
-	If you bring him a
+	Se der pra ele um
 	"
 	"""
 	printChip
@@ -246,8 +246,8 @@ script 13 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	I'm sure he'll
-	regain hope!
+	com certeza ele vai
+	voltar a ter esperança!
 	"""
 	keyWait
 	clearMsg
@@ -258,19 +258,17 @@ script 14 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Yeah,that's it!"
+	"Sim, é isso!"
 	keyWait
 	clearMsg
 	"""
-	Let's go find that
-	chip,for the sake of
-	our friendship!
+	Vamos lá achar esse
+	chip, pela nossa amizade!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Hang in there,
-	Mamoru!
+	Aguenta firme, Mamoru!
 	"""
 	keyWait
 	end

@@ -461,7 +461,7 @@ script 22 mmbn3 {
 	msgOpen
 	"""
 	No records broken.
-	Try again?
+	Tentar de novo?
 	
 	"""
 	option
@@ -537,8 +537,7 @@ script 24 mmbn3 {
 		amount = 1
 	mugshotHide
 	"""
-	MegaMan got a chip
-	for
+	MegaMan adquiriu o chip
 	"
 	"""
 	printChip
@@ -612,8 +611,7 @@ script 27 mmbn3 {
 		amount = 1
 	mugshotHide
 	"""
-	MegaMan got a chip
-	for
+	MegaMan adquiriu o chip
 	"
 	"""
 	printChip

@@ -4,24 +4,24 @@ script 0 mmbn3 {
 	mugshotShow
 		mugshot = BubbleMan
 	msgOpen
-	"Nooooo!!!"
+	"Nãããããooo!!!"
 	keyWait
 	clearMsg
 	"""
-	Please,don't delete
-	me,blublub!
-	"""
-	keyWait
-	clearMsg
-	"""
-	I realize I can't
-	beat you!
+	Por favor, não me
+	delete, glublub!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Blub! Don't bully me
-	anymore!
+	Eu já vi que não tenho
+	como vencer!
+	"""
+	keyWait
+	clearMsg
+	"""
+	Glub! Não quero mais
+	ser maltratado!
 	"""
 	keyWait
 	clearMsg
@@ -33,9 +33,8 @@ script 1 mmbn3 {
 		mugshot = Higsby
 	msgOpen
 	"""
-	Lan! The Bubbles
-	have started
-	blinking! Huh!
+	Lan! As bolhas
+	começaram a piscar! É!
 	"""
 	keyWait
 	clearMsg
@@ -47,9 +46,8 @@ script 2 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Dissolve those
-	bubbles in the real
-	world at once!
+	Dissolve as bolhas no
+	mundo real, agora mesmo!
 	"""
 	keyWait
 	clearMsg
@@ -61,8 +59,8 @@ script 3 mmbn3 {
 		mugshot = BubbleMan
 	msgOpen
 	"""
-	Okay! I'll
-	delete them! Blub!
+	Tá bom! Eu deleto elas!
+	Glub!
 	"""
 	keyWait
 	flagSet
@@ -74,9 +72,9 @@ script 4 mmbn3 {
 		mugshot = Higsby
 	msgOpen
 	"""
-	Oh noooooo!
-	They're going to
-	blow,huh!
+	Nãããããooo!
+	Elas vão explodiiiiir!
+	Éééé!
 	"""
 	keyWait
 	clearMsg
@@ -88,16 +86,16 @@ script 5 mmbn3 {
 		mugshot = BubbleMan
 	msgOpen
 	"""
-	In just a moment…
-	They'll all be
-	gone! Blub blub…
+	Só um segundinho...
+	Elas vão todas sumir!
+	Glub glub...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Now! I'm outta here!
-	Blow up,my beautiful
-	bubbles!
+	Agora! Falou pra vocês!
+	Explodam, minhas
+	belíssimas bolhas, glub!
 	"""
 	keyWait
 	end
@@ -106,10 +104,10 @@ script 6 mmbn3 {
 	mugshotShow
 		mugshot = BubbleMan
 	msgOpen
-	"Blub!"
+	"Glub!"
 	keyWait
 	clearMsg
-	"Blub blu…!!!"
+	"Glub glu...!!!"
 	keyWait
 	end
 }
@@ -126,16 +124,15 @@ script 8 mmbn3 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	Why didn't you end
-	it right away?
-	I told you,being
+	Por que não acabou com
+	ele imediatamente?
+	Eu já disse:
 	"""
 	keyWait
 	clearMsg
 	"""
-	wishy-washy will be
-	the end of you
-	someday!
+	ser mole vai acabar te
+	deletando um dia!
 	"""
 	keyWait
 	clearMsg
@@ -147,8 +144,8 @@ script 9 mmbn3 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	You sure act wishy-
-	washy,Lan!
+	E você, definitivamente,
+	foi bem mole, Hikari.
 	"""
 	keyWait
 	clearMsg
@@ -159,7 +156,7 @@ script 10 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"What?"
+	"O quê?"
 	keyWait
 	clearMsg
 	jump
@@ -170,9 +167,9 @@ script 11 mmbn3 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Your moment of hesi-
-	tation endangered
-	thousands of people!
+	A sua hesitação pôs
+	em risco as vidas de
+	milhares de pessoas!
 	"""
 	keyWait
 	clearMsg
@@ -193,7 +190,7 @@ script 13 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"………"
+	"......"
 	keyWait
 	clearMsg
 	jump
@@ -207,20 +204,19 @@ script 14 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	The bubbles have
-	dissolved,huh!
+	As bolhas dissolveram, é!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Everyone's safe!
-	Hurry back here,huh?
+	Estão todos bem!
+	Volte logo pra cá, é.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Lan! Can you hear
-	me,huh?
+	Lan! Não está me
+	ouvindo, é?
 	"""
 	keyWait
 	clearMsg
@@ -232,16 +228,16 @@ script 15 mmbn3 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	If you can't finish
-	off WWW lowlifes
-	like these,you
+	Se não são capazes de
+	exterminar lixo da WWW
+	como esse,
 	"""
 	keyWait
 	clearMsg
 	"""
-	should hang it up!
-	Come on,ProtoMan!
-	Let's go!
+	então não atrapalhem.
+	Vamos, ProtoMan!
+	Estamos de saída.
 	"""
 	keyWait
 	clearMsg
@@ -252,7 +248,7 @@ script 16 mmbn3 {
 	mugshotShow
 		mugshot = ProtoMan
 	msgOpen
-	"Yes,sir!"
+	"Sim, senhor!"
 	keyWait
 	end
 }
@@ -260,7 +256,7 @@ script 17 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"………"
+	"........."
 	keyWait
 	clearMsg
 	jump
@@ -271,9 +267,9 @@ script 18 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	………
-	Lan. Let's get back
-	to Mayl's.
+	.........
+	Lan. Vamos lá ver como
+	aquelas duas estão.
 	"""
 	keyWait
 	end

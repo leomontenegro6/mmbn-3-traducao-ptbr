@@ -20,14 +20,14 @@ script 0 mmbn3 {
 		mugshot = Yai
 	msgOpen
 	"""
-	So this will be
-	my big TV debut…
+	Então, essa vai ser a
+	minha grande estreia
+	na TV...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Make sure not to be
-	late,now!
+	Não vá se atrasar, viu?!
 	"""
 	keyWait
 	end
@@ -37,16 +37,16 @@ script 1 mmbn3 {
 		mugshot = Yai
 	msgOpen
 	"""
-	What's wrong?
-	The chat's not until
-	8PM!
+	Que foi?
+	O bate-papo é só às
+	20h!
 	"""
 	keyWait
 	clearMsg
 	"""
-	You need to relax,
-	Lan.
-	What's the rush?
+	Você precisa relaxar,
+	Lan. Pressa faz mal
+	pra saúde, sabia?
 	"""
 	keyWait
 	end
@@ -60,16 +60,16 @@ script 10 mmbn3 {
 		mugshot = Yai
 	msgOpen
 	"""
-	What are you doing?
-	The preliminaries
-	are starting!
+	O que você tá fazendo?
+	As preliminares estão
+	começando!
 	"""
 	keyWait
 	clearMsg
 	"""
-	You'll be kicked out
-	if you don't get to
-	SciLab Square fast!
+	Você vai ser eliminado
+	se não for logo pro
+	SciLab Plaza!
 	"""
 	keyWait
 	end
@@ -79,9 +79,9 @@ script 11 mmbn3 {
 		mugshot = Yai
 	msgOpen
 	"""
-	I can't wait to show
-	the whole world my
-	operating technique!
+	Mal posso esperar pra
+	mostrar ao mundo minhas
+	habilidades de operação!
 	"""
 	keyWait
 	end
@@ -96,14 +96,14 @@ script 15 mmbn3 {
 		mugshot = Yai
 	msgOpen
 	"""
-	So Higsby is back
-	in town,huh?
+	Então, o Higsby voltou
+	pra ACDC, é?
 	"""
 	keyWait
 	clearMsg
 	"""
-	And you're helping
-	him? Well,good luck.
+	E você tá ajudando ele?
+	Hm. Boa sorte, então.
 	"""
 	keyWait
 	end
@@ -121,16 +121,16 @@ script 16 mmbn3 {
 		mugshot = Yai
 	msgOpen
 	"""
-	The final N1
-	preliminary has
-	started…
+	As preliminares finais
+	do Grande Prêmio N1
+	começaram...
 	"""
 	keyWait
 	clearMsg
 	"""
-	I can't wait to win
-	and be on TV!
-	My debut,at last!
+	Mal posso esperar pra
+	ir pra TV! Minha estrela
+	está pronta para brilhar!
 	"""
 	keyWait
 	end
@@ -140,23 +140,22 @@ script 17 mmbn3 {
 		mugshot = Yai
 	msgOpen
 	"""
-	Too bad that Mayl
-	is out of the
-	running…
+	Infelizmente, a Mayl,
+	agora, tá fora da
+	competição...
 	"""
 	keyWait
 	clearMsg
 	"""
-	You be sure to
-	battle for her,too!
-	You hear me!?
+	É bom você lutar por
+	ela também, viu?! VIU?!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Enough of the N1
-	talk…I have to get
-	ready for the opera!
+	Mas chega de falar do
+	N1... Tenho que me
+	arrumar pra ópera!
 	"""
 	keyWait
 	end
@@ -166,22 +165,21 @@ script 18 mmbn3 {
 		mugshot = Yai
 	msgOpen
 	"""
-	Those people dressed
-	as Navis?
+	Aquelas pessoas
+	fantasiadas de Navis?
 	"""
 	keyWait
 	clearMsg
 	"""
-	I just have to find
-	one more. But this
-	running around
+	Eu só tenho mais uma
+	pra achar.
 	"""
 	keyWait
 	clearMsg
 	"""
-	isn't my style.
-	So,I'm taking a
-	breather…
+	Mas toda essa correria
+	não é muito "eu", então,
+	hora da minha pausa...
 	"""
 	keyWait
 	end
@@ -191,16 +189,16 @@ script 20 mmbn3 {
 		mugshot = Yai
 	msgOpen
 	"""
-	I heard from Dex,
-	what happened in
-	the Beach Area…
+	O Dex me contou o que
+	aconteceu na Área
+	Angra...
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'm glad that I
-	didn't go to that
-	TV shoot!
+	Ufa, ainda bem que eu
+	não fui praquela
+	cobertura televisiva!
 	"""
 	keyWait
 	end
@@ -240,16 +238,16 @@ script 25 mmbn3 {
 		mugshot = Yai
 	msgOpen
 	"""
-	I still can't get
-	used to the idea
-	that Dex moved…
+	Eu ainda não consigo me
+	acostumar com a ideia
+	do Dex ter se mudado...
 	"""
 	keyWait
 	clearMsg
 	"""
-	He was my favorite
-	person to have
-	fights with!
+	Ele era minha pessoa
+	favorita pra implicar!
+	E brigar! E discutir!
 	"""
 	keyWait
 	end
@@ -259,9 +257,8 @@ script 27 mmbn3 {
 		mugshot = Yai
 	msgOpen
 	"""
-	You sure are going
-	to the hospital a
-	lot. Are you sick?
+	Você anda indo muito
+	pro hospital. Tá doente?
 	"""
 	keyWait
 	end
@@ -296,9 +293,9 @@ script 30 mmbn3 {
 		mugshot = Yai
 	msgOpen
 	"""
-	So you got your
-	commendation…
-	I want one,too!
+	Então, você recebeu
+	uma condecoração...
+	Eu também quero!
 	"""
 	keyWait
 	end
@@ -308,15 +305,15 @@ script 31 mmbn3 {
 		mugshot = Yai
 	msgOpen
 	"""
-	Mr.Match is working
-	at SciLab? I thought
-	he was a WWW agent!
+	O Match tá trabalhando
+	no SciLab? Mas ele não
+	era agente da WWW?!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Maybe people CAN
-	change,after all…!
+	Hm, talvez reabilitação
+	seja mesmo possível...!
 	"""
 	keyWait
 	end
@@ -330,9 +327,9 @@ script 34 mmbn3 {
 		mugshot = Yai
 	msgOpen
 	"""
-	Are you sure Mr.
-	Match isn't behind
-	these WWW incidents?
+	Tem CERTEZA que o
+	Match não tá por trás
+	dos incidentes da WWW?
 	"""
 	keyWait
 	end
@@ -342,12 +339,13 @@ script 35 mmbn3 {
 		mugshot = Yai
 	msgOpen
 	"""
-	I just heard about
-	SciLab on the news!
+	Acabei de aprender
+	sobre o SciLab no
+	noticiário!
 	"""
 	keyWait
 	clearMsg
-	"Is your dad OK?"
+	"O seu pai tá bem?"
 	keyWait
 	end
 }
@@ -356,15 +354,14 @@ script 37 mmbn3 {
 		mugshot = Yai
 	msgOpen
 	"""
-	What's going
-	on here!?
+	O que tá acontecendo
+	aqui?!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Glide says that the
-	Internet is up in
-	flames!
+	O Glide disse que a Rede
+	tá em chamas!
 	"""
 	keyWait
 	end
@@ -374,16 +371,16 @@ script 39 mmbn3 {
 		mugshot = Yai
 	msgOpen
 	"""
-	SciLab is supposed
-	to know all about
-	NetCrimes…
+	Era pro SciLab saber
+	de tudo sobre
+	NetCrimes...
 	"""
 	keyWait
 	clearMsg
 	"""
-	So how is it that
-	they're being
-	attacked as well!?
+	Então, como é possível
+	eles, também, estarem
+	sendo atacados?!
 	"""
 	keyWait
 	end
@@ -393,15 +390,15 @@ script 40 mmbn3 {
 		mugshot = Yai
 	msgOpen
 	"""
-	What's wrong?
-	Why that expression?
+	O que foi, Lan?
+	Por que essa cara?
 	"""
 	keyWait
 	clearMsg
 	"""
-	I don't know what's
-	up with you,but snap
-	out of it!
+	Olha, eu não sei o que
+	aconteceu com você,
+	mas sai dessa!
 	"""
 	keyWait
 	end
@@ -411,14 +408,13 @@ script 42 mmbn3 {
 		mugshot = Yai
 	msgOpen
 	"""
-	Well,what do YOU
-	want!?
+	Hmpf. Quê que VOCÊ
+	quer?!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Why don't you just
-	leave?
+	Só... vai embora, tá?!
 	"""
 	keyWait
 	end
@@ -432,14 +428,14 @@ script 43 mmbn3 {
 		mugshot = Yai
 	msgOpen
 	"""
-	Well,you sure do
-	look better now.
+	Bom, você parece bem
+	melhor agora.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I like you a lot
-	better this way!
+	Eu prefiro mil vezes
+	você assim!
 	"""
 	keyWait
 	end
@@ -449,15 +445,14 @@ script 44 mmbn3 {
 		mugshot = Yai
 	msgOpen
 	"""
-	The Undernet sure is
-	showing a lot of
-	activity recently…
+	A Undernet anda bem
+	ativa ultimamente...
 	"""
 	keyWait
 	clearMsg
 	"""
-	I wonder if it's
-	because of the WWW?
+	Será que é por causa
+	da WWW?
 	"""
 	keyWait
 	end
@@ -471,9 +466,9 @@ script 46 mmbn3 {
 		mugshot = Yai
 	msgOpen
 	"""
-	There sure are a lot
-	of Officials on the
-	Net. I wonder why?
+	A Rede tá cheia de
+	Oficiais agora.
+	Por que será?
 	"""
 	keyWait
 	end
@@ -483,15 +478,15 @@ script 47 mmbn3 {
 		mugshot = Yai
 	msgOpen
 	"""
-	I recently saw a boy
-	who looks just like
-	Dex…
+	Mais cedo, eu vi um
+	menino igualzinho ao
+	Dex...
 	"""
 	keyWait
 	clearMsg
 	"""
-	But it couldn't be
-	him,right?
+	Mas não dava pra ser
+	ele... dava?
 	"""
 	keyWait
 	end
@@ -501,16 +496,16 @@ script 48 mmbn3 {
 		mugshot = Yai
 	msgOpen
 	"""
-	I heard that a
-	powerful Navi came
-	out of the Undernet…
+	Ouvi dizer que um Navi
+	ultraforte saiu lá da
+	Undernet...
 	"""
 	keyWait
 	clearMsg
-	"ACDC is safe,right?\n"
+	"Mas ACDC tá segura, né?\n"
 	mugshotAnimate
 		animation = 0
-	"Right…?"
+	"Né...?"
 	keyWait
 	end
 }
@@ -519,8 +514,8 @@ script 49 mmbn3 {
 		mugshot = Yai
 	msgOpen
 	"""
-	The SciLab area is
-	under attack!
+	A área SciLab tá sob
+	ataque!
 	"""
 	keyWait
 	end
@@ -535,15 +530,15 @@ script 50 mmbn3 {
 		mugshot = Yai
 	msgOpen
 	"""
-	Thank you for
-	helping me! I'm
-	still shaking…
+	Obrigada por me ajudar!
+	Eu ainda tô me
+	tremendo toda...
 	"""
 	keyWait
 	clearMsg
 	"""
-	I thought that I
-	might die…Sniffle!
+	Eu achei que fosse
+	morrer... Chuiiifff!
 	"""
 	keyWait
 	end
@@ -561,9 +556,9 @@ script 53 mmbn3 {
 		mugshot = Yai
 	msgOpen
 	"""
-	Wars all over,the
-	Internet like it is…
-	What will be next?
+	Guerras começando,
+	a Rede desse jeito...
+	O que mais falta?
 	"""
 	keyWait
 	end
@@ -575,97 +570,97 @@ script 54 mmbn3 {
 		mugshot = Yai
 	msgOpen
 	"""
-	What's wrong with
-	you,Lan?
+	O que foi, Lan?
+	Pra que o alvoroço?
 	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	"""
-	I'm looking for a
-	boat engine…
+	Eu tô precisando de um
+	motor de barco...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Do you know where I
-	might find one?
+	Sabe onde eu posso
+	arranjar um, Yai?
 	"""
 	keyWait
 	clearMsg
 	"""
-	I want to install it
-	in that boat that's
-	on Beach Street.
+	Eu quero instalar
+	naquele barco que
+	fica na Rua Angra.
 	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = Yai
 	"""
-	A boat engine? Where
-	do you want to go at
-	a time like this?
+	Motor de barco? Pra
+	onde você quer ir,
+	justo numa hora destas?
 	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"I…I can't tell you…"
+	"Eu...\nEu não posso contar..."
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = Yai
 	"""
-	I'm sure that I
-	could get one if I
-	really wanted to…
+	Bom, eu poderia
+	arranjar um fácil, fácil
+	se eu quisesse...
 	"""
 	keyWait
 	clearMsg
 	"""
-	But I won't help you
-	unless you tell me
-	what it's for!
+	Mas eu não ajudo se
+	você não me contar
+	pra que vai usar!
 	"""
 	keyWait
 	clearMsg
 	"""
-	So where is it that
-	you plan to go!?
+	E aí, aonde você
+	pretende ir?!
 	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"…Somewhere…"
+	"... Um lugar aí..."
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = Yai
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
 	"""
 	
-	You found the WWW
-	base,right?
+	Você achou a base da
+	WWW, não foi?
 	"""
 	keyWait
 	clearMsg
@@ -673,121 +668,120 @@ script 54 mmbn3 {
 		mugshot = Lan
 	"""
 	!!
-	How did you know!?
+	Como você sabia?!
 	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = Yai
 	"""
-	Why didn't you just
-	say so!?
+	Por que não contou
+	logo?!
 	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"I,I just…"
+	"E-eu só..."
 	keyWait
 	clearMsg
 	"""
-	It's going to be a
-	dangerous fight,so
-	I didn't want…
+	Vai ser uma luta
+	perigosa, então, eu não
+	queria...
 	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = Yai
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
 	"""
-	You didn't
-	want anyone else
-	involved,right?
+	 "Não queria envolver
+	 mais ninguém", acertei?
 	"""
 	keyWait
 	clearMsg
 	"""
-	The fact that it's
-	dangerous is exactly
-	why we should help!
+	Mas é justamente POR
+	ser perigoso que a
+	gente devia ajudar!
 	"""
 	keyWait
 	clearMsg
 	"""
-	We're friends,right?
-	Why would you try
-	to go alone!?
-	"""
-	keyWait
-	clearMsg
-	mugshotShow
-		mugshot = Lan
-	"…I'm sorry. But I…"
-	keyWait
-	clearMsg
-	mugshotShow
-		mugshot = Yai
-	"""
-	Fine!
-	Just go alone then!
-	"""
-	keyWait
-	clearMsg
-	"""
-	……
-	I'll get your engine
-	for you…
-	"""
-	keyWait
-	clearMsg
-	"""
-	I'll see that it's
-	installed by
-	tomorrow morning.
+	Nós somos amigos ou
+	não somos? Por que
+	você faria isso sozinho?!
 	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Yai…! Thank you!"
-	keyWait
-	clearMsg
-	"""
-	Could you also…keep
-	this a secret from
-	the others…?
-	"""
+	"... Desculpa. Mas eu..."
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = Yai
-	"…Sure,whatever."
+	"""
+	Tá bom, então!
+	Vai sozinho!
+	"""
 	keyWait
 	clearMsg
 	"""
-	I'll take care of
-	things. You go get
-	ready for tomorrow.
+	......
+	Eu arranjo o motor do
+	barco...
+	"""
+	keyWait
+	clearMsg
+	"""
+	Vou garantir que seja
+	instalado até amanhã
+	de manhã.
 	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Thanks so much!"
+	"Yai...! Obrigado!"
+	keyWait
+	clearMsg
+	"""
+	Você pode também...
+	manter isso em segredo
+	dos outros...?
+	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = Yai
-	"Just get going…"
+	"... Tá, que seja."
+	keyWait
+	clearMsg
+	"""
+	Eu vou cuidar das coisas,
+	agora. Você, vá se
+	preparar pra amanhã.
+	"""
+	keyWait
+	clearMsg
+	mugshotShow
+		mugshot = Lan
+	"Muito obrigado!"
+	keyWait
+	clearMsg
+	mugshotShow
+		mugshot = Yai
+	"Só vai logo..."
 	keyWait
 	end
 }
@@ -796,14 +790,14 @@ script 55 mmbn3 {
 		mugshot = Yai
 	msgOpen
 	"""
-	I'll take care of
-	the engine.
+	Eu vou cuidar da
+	questão do motor.
 	"""
 	keyWait
 	clearMsg
 	"""
-	You go get ready
-	for tomorrow.
+	Vai pra casa, se
+	prepara pra amanhã.
 	"""
 	keyWait
 	end
@@ -811,8 +805,8 @@ script 55 mmbn3 {
 script 220 mmbn3 {
 	msgOpen
 	"""
-	A data doll lies
-	limp…
+	Um bonequinho do Data
+	jogado, imóvel...
 	"""
 	keyWait
 	end
@@ -820,16 +814,15 @@ script 220 mmbn3 {
 script 221 mmbn3 {
 	msgOpen
 	"""
-	A lot of difficult
-	books fill this
-	bookshelf
+	Vários livros complicados
+	preenchem esta estante.
 	"""
 	keyWait
 	clearMsg
 	"""
-	What do you expect
-	from an 8-year old
-	who's in grade 5?
+	O que esperava de uma
+	menina de oito anos que
+	está no quinto ano?
 	"""
 	keyWait
 	end
@@ -837,15 +830,16 @@ script 221 mmbn3 {
 script 222 mmbn3 {
 	msgOpen
 	"""
-	Yai's collection of
-	fans,neatly arranged
+	A coleção de leques
+	da Yai, impecavelmente
+	enfileirados.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Maybe she's lost
-	interest,as they are
-	covered in dust
+	Ela pode ter perdido o
+	interesse neles, pois
+	estão cobertos de pó.
 	"""
 	keyWait
 	end
@@ -853,20 +847,19 @@ script 222 mmbn3 {
 script 223 mmbn3 {
 	msgOpen
 	"""
-	Yai's ultra-thin
-	notebook computer
+	O laptop ultrafino da Yai.
 	"""
 	keyWait
 	clearMsg
 	"""
-	The latest model,and
-	incredibly powerful
+	É o modelo mais novo,
+	e sua potência é imensa.
 	"""
 	keyWait
 	clearMsg
 	"""
-	You can jack in to
-	it,of course
+	E, claro, você pode se
+	conectar nele.
 	"""
 	keyWait
 	end
@@ -879,29 +872,29 @@ script 224 mmbn3 {
 		jumpIfOutOfRange = continue
 	msgOpen
 	"""
-	Fixed phones have
-	become rare with the
-	popularity of PETs
+	Telefones fixos se
+	tornaram raros com a
+	popularidade dos PETs.
 	"""
 	keyWait
 	clearMsg
 	"""
-	It looks pretty old,
-	but it's modified to
-	allow jacking in
+	Pode parecer bem antigo,
+	mas foi modificado para
+	PETs se conectarem.
 	"""
 	keyWait
 	end
 }
 script 225 mmbn3 {
 	msgOpen
-	"A gorgeous bed"
+	"Uma luxuosa cama."
 	keyWait
 	clearMsg
 	"""
-	At least 3 people of
-	Yai's size could
-	sleep in it
+	Nela, caberiam, no mínimo,
+	três pessoas do
+	tamanho da Yai.
 	"""
 	keyWait
 	end
@@ -909,15 +902,15 @@ script 225 mmbn3 {
 script 226 mmbn3 {
 	msgOpen
 	"""
-	A creepy doll that
-	Yai's father bought
-	in NetFrica
+	Uma estatueta sinistra
+	que o pai da Yai
+	comprou na Affriq.
 	"""
 	keyWait
 	clearMsg
 	"""
-	It glows with a
-	dark,glossy sheen
+	Ela reluz com um brilho
+	oleoso e sombrio.
 	"""
 	keyWait
 	end
@@ -929,14 +922,14 @@ script 227 mmbn3 {
 		jumpIfFalse = continue
 	msgOpen
 	"""
-	A portrait of Yai
-	and her family
+	Um retrato da Yai com
+	a família dela.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Yai is smiling and
-	looks very happy
+	A Yai está sorrindo
+	e parece muito feliz.
 	"""
 	keyWait
 	end
@@ -944,8 +937,9 @@ script 227 mmbn3 {
 script 228 mmbn3 {
 	msgOpen
 	"""
-	Yai must make those
-	giant braids here
+	A Yai deve fazer as
+	tranças gigantes dela
+	aqui.
 	"""
 	keyWait
 	end
@@ -957,15 +951,15 @@ script 229 mmbn3 {
 		jumpIfFalse = continue
 	msgOpen
 	"""
-	The head of some
-	strange animal is
-	hanging here
+	Na parede, você vê
+	exposta a cabeça de
+	um estranho animal.
 	"""
 	keyWait
 	clearMsg
 	"""
-	You have no idea
-	what it could be
+	Você não faz ideia de
+	que animal seja.
 	"""
 	keyWait
 	end
@@ -973,16 +967,16 @@ script 229 mmbn3 {
 script 230 mmbn3 {
 	msgOpen
 	"""
-	Fixed phones have
-	become rare with the
-	popularity of PETs
+	Telefones fixos se
+	tornaram raros com a
+	popularidade dos PETs.
 	"""
 	keyWait
 	clearMsg
 	"""
-	It's been modified
-	to allow jacking in,
-	but it's not on now
+	Este foi modificado para
+	permitir conexão, mas
+	não está ligado agora.
 	"""
 	keyWait
 	end
@@ -990,14 +984,15 @@ script 230 mmbn3 {
 script 231 mmbn3 {
 	msgOpen
 	"""
-	A cute oil painting
-	of a puppy
+	Uma linda pintura a óleo
+	de um cachorrinho
+	filhote.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Not many people know
-	that Yai likes dogs
+	Poucos sabem que a
+	Yai adora cães.
 	"""
 	keyWait
 	end
@@ -1005,16 +1000,16 @@ script 231 mmbn3 {
 script 232 mmbn3 {
 	msgOpen
 	"""
-	Fashionable clothing
-	from the #1 designer
-	in Netopia
+	Roupas estilosas do
+	mais renomado estilista
+	da Ameropa.
 	"""
 	keyWait
 	clearMsg
 	"""
-	It's a simple design
-	and the fabric won't
-	tear or get dirty
+	É um design simples,
+	e o tecido não rasga
+	ou suja.
 	"""
 	keyWait
 	end

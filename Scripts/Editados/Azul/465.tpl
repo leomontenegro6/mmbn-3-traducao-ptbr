@@ -11,9 +11,9 @@ script 1 mmbn3 {
 		left = 10
 		top = 1
 	"""
-	You won't
-	get pushed
-	back!
+	Você
+	não é
+	empurrado!
 	"""
 	waitHold
 	end
@@ -26,9 +26,9 @@ script 2 mmbn3 {
 		left = 10
 		top = 1
 	"""
-	MegaBuster
-	pierces
-	guards!
+	MegaTiro
+	perfura
+	defesas!
 	"""
 	waitHold
 	end
@@ -41,9 +41,9 @@ script 3 mmbn3 {
 		left = 10
 		top = 1
 	"""
-	PwrAtks
-	pierce
-	guards!
+	AtqsFrç
+	perfura
+	defesas!
 	"""
 	waitHold
 	end
@@ -56,9 +56,9 @@ script 4 mmbn3 {
 		left = 10
 		top = 1
 	"""
-	Changes
-	panels
-	to grass!
+	Quadros
+	viram
+	grama!
 	"""
 	waitHold
 	end
@@ -71,9 +71,9 @@ script 5 mmbn3 {
 		left = 10
 		top = 1
 	"""
-	Changes
-	panels
-	to ice!
+	Quadros
+	viram
+	gelo!
 	"""
 	waitHold
 	end
@@ -86,9 +86,9 @@ script 6 mmbn3 {
 		left = 10
 		top = 1
 	"""
-	Changes
-	panels
-	to lava!
+	Quadros
+	viram
+	lava!
 	"""
 	waitHold
 	end
@@ -101,9 +101,9 @@ script 7 mmbn3 {
 		left = 10
 		top = 1
 	"""
-	Changes
-	panels
-	to sand!
+	Quadros
+	viram
+	areia!
 	"""
 	waitHold
 	end
@@ -116,9 +116,9 @@ script 8 mmbn3 {
 		left = 10
 		top = 1
 	"""
-	Changes
-	panels
-	to metal!
+	Quadros
+	viram
+	metal!
 	"""
 	waitHold
 	end
@@ -131,9 +131,9 @@ script 9 mmbn3 {
 		left = 10
 		top = 1
 	"""
-	Changes
-	panels
-	to holy!
+	Quadros
+	ficam
+	sagrados!
 	"""
 	waitHold
 	end
@@ -146,9 +146,9 @@ script 10 mmbn3 {
 		left = 10
 		top = 1
 	"""
-	Can choose
-	1 more
-	chip!
+	Pode esco-
+	lher mais
+	1 chip!
 	"""
 	waitHold
 	end
@@ -161,9 +161,9 @@ script 11 mmbn3 {
 		left = 10
 		top = 1
 	"""
-	Can choose
-	2 more
-	chips!
+	Pode esco-
+	lher mais
+	2 chips!
 	"""
 	waitHold
 	end
@@ -176,9 +176,9 @@ script 12 mmbn3 {
 		left = 10
 		top = 1
 	"""
-	1 more
+	Mais 1
 	MegaChip
-	in folder!
+	na pasta!
 	"""
 	waitHold
 	end
@@ -191,9 +191,9 @@ script 13 mmbn3 {
 		left = 10
 		top = 1
 	"""
-	2 more
+	Mais 2
 	MegaChips
-	in folder!
+	na pasta!
 	"""
 	waitHold
 	end
@@ -206,9 +206,9 @@ script 14 mmbn3 {
 		left = 10
 		top = 1
 	"""
-	Half dmg
-	w/ B But-
-	ton+Left
+	B+Esquerda
+	= Metade
+	do dano.
 	"""
 	waitHold
 	end
@@ -221,9 +221,8 @@ script 15 mmbn3 {
 		left = 10
 		top = 1
 	"""
-	Zero dmg
-	w/ B But-
-	ton+Left
+	B+Esquerda
+	= 0 dano.
 	"""
 	waitHold
 	end
@@ -236,9 +235,9 @@ script 16 mmbn3 {
 		left = 10
 		top = 1
 	"""
-	Return dmg
-	w/ B But-
-	ton+Left
+	B+Esquerda
+	= Reflete
+	dano.
 	"""
 	waitHold
 	end
@@ -251,9 +250,9 @@ script 17 mmbn3 {
 		left = 10
 		top = 1
 	"""
-	Walk safe
-	on cracked
-	blocks!
+	Ande sobre
+	quadros
+	rachados!
 	"""
 	waitHold
 	end
@@ -266,9 +265,9 @@ script 18 mmbn3 {
 		left = 10
 		top = 1
 	"""
-	No effect
-	from panel
-	type!
+	Quadros
+	não surtem
+	efeitos!
 	"""
 	waitHold
 	end
@@ -281,9 +280,9 @@ script 19 mmbn3 {
 		left = 10
 		top = 1
 	"""
-	When hit,
-	B Btn+Left
-	hurls star
+	B+Esquerda
+	= Contra-
+	ataque.
 	"""
 	waitHold
 	end
@@ -296,9 +295,9 @@ script 20 mmbn3 {
 		left = 10
 		top = 1
 	"""
-	Shrink
-	in tight
-	places!
+	Encolhe
+	para aces-
+	sar áreas!
 	"""
 	waitHold
 	end
@@ -311,9 +310,9 @@ script 21 mmbn3 {
 		left = 10
 		top = 1
 	"""
-	Fire,water
-	chips to
-	energy!
+	Chips de
+	fogo+água
+	energia!
 	"""
 	waitHold
 	end
@@ -326,9 +325,9 @@ script 22 mmbn3 {
 		left = 10
 		top = 1
 	"""
-	Find Alpha
-	lurking in
-	hallway!
+	Encontra
+	Alpha no
+	corredor!
 	"""
 	waitHold
 	end
@@ -341,9 +340,9 @@ script 23 mmbn3 {
 		left = 10
 		top = 1
 	"""
-	Weak enemy
-	stops
-	appearing!
+	Inimigos
+	fracos
+	somem!
 	"""
 	waitHold
 	end
@@ -356,9 +355,9 @@ script 24 mmbn3 {
 		left = 10
 		top = 1
 	"""
-	Attracts
-	Fire
-	viruses!
+	Atrai
+	vírus de
+	Fogo!
 	"""
 	waitHold
 	end
@@ -371,9 +370,9 @@ script 25 mmbn3 {
 		left = 10
 		top = 1
 	"""
-	Attracts
-	Aqua
-	viruses!
+	Atrai
+	vírus de
+	Água!
 	"""
 	waitHold
 	end
@@ -386,9 +385,9 @@ script 26 mmbn3 {
 		left = 10
 		top = 1
 	"""
-	Attracts
-	Elec
-	viruses!
+	Atrai
+	vírus
+	Elét.!
 	"""
 	waitHold
 	end
@@ -401,9 +400,9 @@ script 27 mmbn3 {
 		left = 10
 		top = 1
 	"""
-	Attracts
-	Wood
-	viruses!
+	Atrai
+	vírus de
+	Madeira!
 	"""
 	waitHold
 	end
@@ -416,9 +415,9 @@ script 28 mmbn3 {
 		left = 10
 		top = 1
 	"""
-	Find more
-	chip data
-	on enemies
+	Inimigos
+	dão mais
+	chips.
 	"""
 	waitHold
 	end
@@ -431,9 +430,9 @@ script 29 mmbn3 {
 		left = 10
 		top = 1
 	"""
-	Walk even
-	if no
-	panels!
+	Ande sobre
+	quadros
+	vazios!
 	"""
 	waitHold
 	end
@@ -446,9 +445,9 @@ script 30 mmbn3 {
 		left = 10
 		top = 1
 	"""
-	Retain 1HP
-	even on
-	fatal hit!
+	Sobrevive
+	a ataque
+	com 1PV!
 	"""
 	waitHold
 	end
@@ -461,9 +460,9 @@ script 31 mmbn3 {
 		left = 10
 		top = 1
 	"""
-	Cust Gauge
-	speeds up
-	for battle
+	Acelera
+	BarraCust
+	na luta.
 	"""
 	waitHold
 	end
@@ -476,9 +475,9 @@ script 32 mmbn3 {
 		left = 10
 		top = 1
 	"""
-	VS only!
-	Find invis
-	opponent!
+	Só pra VS!
+	Vê alvo
+	invisível!
 	"""
 	waitHold
 	end
@@ -491,9 +490,9 @@ script 33 mmbn3 {
 		left = 10
 		top = 1
 	"""
-	VS only!
-	Take high
-	lvl chips!
+	Só pra VS!
+	Leve chips
+	alto nv.!
 	"""
 	waitHold
 	end
@@ -506,9 +505,9 @@ script 34 mmbn3 {
 		left = 10
 		top = 1
 	"""
-	VS only!
-	Heals in
-	a pinch!
+	Só pra VS!
+	Cura num
+	aperto!
 	"""
 	waitHold
 	end
@@ -521,8 +520,8 @@ script 35 mmbn3 {
 		left = 10
 		top = 1
 	"""
-	+1 to
-	PwrAtks!
+	+1 de
+	FrçAtaque!
 	"""
 	waitHold
 	end
@@ -535,8 +534,8 @@ script 36 mmbn3 {
 		left = 10
 		top = 1
 	"""
-	Max HP
-	+100!
+	+100 PV
+	Máximos!
 	"""
 	waitHold
 	end
@@ -549,8 +548,8 @@ script 37 mmbn3 {
 		left = 10
 		top = 1
 	"""
-	Max HP
-	+200!
+	+200 PV
+	Máximos!
 	"""
 	waitHold
 	end
@@ -563,8 +562,8 @@ script 38 mmbn3 {
 		left = 10
 		top = 1
 	"""
-	Max HP
-	+300!
+	+300 PV
+	Máximos!
 	"""
 	waitHold
 	end
@@ -577,8 +576,8 @@ script 39 mmbn3 {
 		left = 10
 		top = 1
 	"""
-	Max HP
-	+500!
+	+500 PV
+	Máximos!
 	"""
 	waitHold
 	end
@@ -591,9 +590,9 @@ script 40 mmbn3 {
 		left = 10
 		top = 1
 	"""
-	+5MB for
-	chip
-	capacity!
+	+5MB de
+	capacida-
+	de chip!
 	"""
 	waitHold
 	end
@@ -606,8 +605,9 @@ script 41 mmbn3 {
 		left = 10
 		top = 1
 	"""
-	MegaBuster
-	atk +1!
+	+1
+	ataque do
+	MegaTiro!
 	"""
 	waitHold
 	end
@@ -620,8 +620,9 @@ script 42 mmbn3 {
 		left = 10
 		top = 1
 	"""
-	MegaBuster
-	speed +1!
+	+1
+	rapidez do
+	MegaTiro!
 	"""
 	waitHold
 	end
@@ -634,8 +635,9 @@ script 43 mmbn3 {
 		left = 10
 		top = 1
 	"""
-	MegaBuster
-	charge +1!
+	+1
+	carga do
+	MegaTiro!
 	"""
 	waitHold
 	end
@@ -648,9 +650,9 @@ script 44 mmbn3 {
 		left = 10
 		top = 1
 	"""
-	Stop
-	occurance
-	of bugs
+	Bloqueia
+	ocorrência
+	de bug.
 	"""
 	waitHold
 	end
@@ -663,9 +665,8 @@ script 45 mmbn3 {
 		left = 10
 		top = 1
 	"""
-	Install
-	and try
-	L Button!
+	Instale e
+	aperte L!
 	"""
 	waitHold
 	end
@@ -678,9 +679,9 @@ script 46 mmbn3 {
 		left = 10
 		top = 1
 	"""
-	Creates an
-	evil
-	disguise
+	Cria um
+	disfarce
+	do mal.
 	"""
 	waitHold
 	end
@@ -693,9 +694,9 @@ script 47 mmbn3 {
 		left = 10
 		top = 1
 	"""
-	Maximizes
-	MegaBuster
-	abilities!
+	Maximiza
+	poderes
+	MegaTiro!
 	"""
 	waitHold
 	end
@@ -708,8 +709,8 @@ script 48 mmbn3 {
 		left = 10
 		top = 1
 	"""
-	Hold 1
-	more
+	Porte
+	mais 1
 	GigaChip!
 	"""
 	waitHold
@@ -723,9 +724,9 @@ script 49 mmbn3 {
 		left = 10
 		top = 1
 	"""
-	Become one
-	with your
-	Navi!
+	Torne-se
+	um só com
+	seu Navi!
 	"""
 	waitHold
 	end
@@ -738,15 +739,15 @@ script 50 mmbn3 {
 		left = 10
 		top = 1
 	"""
-	Connect
-	with dark
-	denizens!
+	Conecte-se
+	a habitan-
+	tes maus!
 	"""
 	waitHold
 	end
 }
 script 51 mmbn3s {
-	"RUN?"
+	"EXECUTAR?"
 	end
 }
 script 52 mmbn3s {

@@ -5,18 +5,16 @@ script 0 mmbn3 {
 		mugshot = Sunayama
 	msgOpen
 	"""
-	Ladies and
-	gentlemen!
+	Senhoras e senhores!
 	"""
 	keyWait
 	clearMsg
 	"""
-	IPC Inc
-	presents…
+	A IPC apresenta...
 	"""
 	keyWait
 	clearMsg
-	"The N1 Grand Prix!!!"
+	"O Grande Prêmio N1!!!"
 	keyWait
 	clearMsg
 	jump
@@ -30,15 +28,15 @@ script 1 mmbn3 {
 	soundDisableTextSFX
 	soundPlay
 		track = 249
-	"Yeeeaahh!"
+	"Ééééééé!"
 	wait
 		frames = 40
 	clearMsg
-	"Yippeeeee!"
+	"Aêêêêêêê!"
 	wait
 		frames = 40
 	clearMsg
-	"Woohoooo!!"
+	"Uhuuuuuuu!!"
 	wait
 		frames = 40
 	keyWait
@@ -50,36 +48,36 @@ script 2 mmbn3 {
 		mugshot = Sunayama
 	msgOpen
 	"""
-	Thank you all for
-	coming to witness
-	this historic event!
+	Muito obrigado por virem
+	testemunhar este
+	evento histórico!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I am Sunayama,the
-	producer of this
-	show! Allow me to
+	Eu sou Sunayama, o
+	produtor desta zorra
+	toda! Permitam-me lhes
 	"""
 	keyWait
 	clearMsg
 	"""
-	welcome you in place
-	of our sponsor,the
-	president of
+	dar as boas vindas no
+	lugar do nosso patrocina-
+	dor, o presidente da IPC!
 	"""
 	keyWait
 	clearMsg
 	"""
-	IPC Inc.! Our
-	sponsor is observing
-	the tournament from
+	Nosso querido patroci-
+	nador está de olho
+	neste torneio
 	"""
 	keyWait
 	clearMsg
 	"""
-	the editing room
-	up there!
+	dali de cima, da sala de
+	edição!
 	"""
 	keyWait
 	end
@@ -89,16 +87,16 @@ script 3 mmbn3 {
 		mugshot = Sunayama
 	msgOpen
 	"""
-	I introduce to you
-	the D-Block NetBatt-
-	lers,who cleared the
+	Apresento a vocês os
+	NetLutadores do Bloco D,
+	que passaram nas
 	"""
 	keyWait
 	clearMsg
 	"""
-	prelims to vie for
-	the crown of World's
-	Strongest Battler!
+	preliminares para lutar
+	pela coroa de Melhor
+	NetLutador do Mundo!
 	"""
 	keyWait
 	end
@@ -108,16 +106,16 @@ script 4 mmbn3 {
 		mugshot = Sunayama
 	msgOpen
 	"""
-	First off,the super-
-	student who saved us
-	all from the WWW!
+	Para abrir, o ultra-aluno
+	do fundamental que der-
+	rubou a WWW e a Gospel!
 	"""
 	keyWait
 	clearMsg
 	"""
-	The flawless
-	operator of MegaMan!
-	Laaaaannnnn!!
+	O operador magistral
+	de MegaMan.EXE!
+	Laaaaaan Hikaariiiiiii!!
 	"""
 	keyWait
 	end
@@ -127,15 +125,16 @@ script 5 mmbn3 {
 		mugshot = Sunayama
 	msgOpen
 	"""
-	The grandmaster of
-	disaster,who can
-	read ahead 100 moves
+	O estrategista
+	especialista, capaz
+	de prever 100 jogadas
 	"""
 	keyWait
 	clearMsg
 	"""
-	and check you in 1!
-	Toraaaaaa!
+	e dar um xeque-mate
+	em uma só!
+	Toraaaaa Aragomaaaa!
 	"""
 	keyWait
 	flagSet
@@ -147,16 +146,16 @@ script 6 mmbn3 {
 		mugshot = Sunayama
 	msgOpen
 	"""
-	He'll twist you with
-	his bare hands!
-	The powerhouse of
+	Ele te quebra com as
+	mãos nuas! Ele é 90%
+	da força do Bloco D!
 	"""
 	keyWait
 	clearMsg
 	"""
-	D-Block! The iron
-	man of Yumland!
-	Bonzuuuuu!!
+	O homem de ferro de
+	Saborya!
+	Booooonzuuuuu!!
 	"""
 	keyWait
 	flagSet
@@ -168,20 +167,19 @@ script 7 mmbn3 {
 		mugshot = Sunayama
 	msgOpen
 	"""
-	Hailing from South
-	Netopia!
-	Beautiful skin! Slim
+	Ela vem da Ameropa do
+	Sul! Sua pele? Linda!
+	Seu corpo? Espetacular!
 	"""
 	keyWait
 	clearMsg
 	"""
-	physique! The
-	sexiest NetBattler
-	on earth!
+	A NetLutadora mais
+	sexy deste planetaaa!
 	"""
 	keyWait
 	clearMsg
-	"Jenniferrrrr!!"
+	"Jeeennifeeeer!!"
 	keyWait
 	flagSet
 		flag = 1553
@@ -192,20 +190,20 @@ script 8 mmbn3 {
 		mugshot = Sunayama
 	msgOpen
 	"""
-	Born in Netopia but
-	raised in Yumland!
-	Using techniques of
+	Nascido na Ameropa,
+	criado em Saborya!
+	Ele dominou as técnicas
 	"""
 	keyWait
 	clearMsg
 	"""
-	multiple countries!
-	The super inter-
-	cultural battler!
+	de múltiplos países!
+	O super NetLutador
+	intercultural!
 	"""
 	keyWait
 	clearMsg
-	"Johnsonnnnn!!"
+	"Johnsooooonnnnn!!"
 	keyWait
 	flagSet
 		flag = 1554
@@ -216,21 +214,21 @@ script 9 mmbn3 {
 		mugshot = Sunayama
 	msgOpen
 	"""
-	It's not all about
-	rare chips!
+	"Chips raros não são
+	tudo!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Nothing is more
-	important than your
-	operating technique!
+	Nada é mais importante
+	que sua habilidade como
+	operador!"
 	"""
 	keyWait
 	clearMsg
 	"""
-	Tecnical NetBattler
-	extraordinaire…
+	O NetLutador técnico
+	extraordinário...
 	"""
 	keyWait
 	clearMsg
@@ -245,26 +243,29 @@ script 10 mmbn3 {
 		mugshot = Sunayama
 	msgOpen
 	"""
-	At first glance he
-	doesn't look like
-	much,but he knows
+	Pode não parecer
+	grandes coisas de cara,
 	"""
 	keyWait
 	clearMsg
 	"""
-	everything there is
-	to know about chips!
-	Donning his SciLab
+	mas ele sabe tudo,
+	mas tudo mesmo,
+	sobre chips!
 	"""
 	keyWait
 	clearMsg
 	"""
-	outift,the maniac
-	NetBattler…
+	Por amor à ciência,
+	veio adornado de seu
+	uniforme do SciLab.
 	"""
 	keyWait
 	clearMsg
-	"Yoshhhhhh!!"
+	"""
+	O NetLutador obcecado,
+	Yoshioooo Yamaaadaaa!!
+	"""
 	keyWait
 	flagSet
 		flag = 1594
@@ -274,35 +275,37 @@ script 11 mmbn3 {
 	mugshotShow
 		mugshot = Sunayama
 	msgOpen
-	"Who is this guy?!"
+	"Quem é esse homem?!"
 	keyWait
 	clearMsg
 	"""
-	Age,gender,
-	nationality unknown!
-	"""
-	keyWait
-	clearMsg
-	"""
-	The owner of a
-	million mysteries!
-	"""
-	keyWait
-	clearMsg
-	"NetBattler Q!!!!"
-	keyWait
-	clearMsg
-	"""
-	These are the 8 who
-	will compete in D-
-	block!!
+	Idade, gênero,
+	nacionalidade...
+	todos desconhecidos!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Let's give them all
-	a warm round of
-	applause!
+	Mas uma coisa sabemos:
+	que ele é envolto por
+	um milhão de mistérios!
+	"""
+	keyWait
+	clearMsg
+	"NetLutador Q!!!!"
+	keyWait
+	clearMsg
+	"""
+	Esses são os oito
+	gladiadores que
+	competirão no Bloco D!!
+	"""
+	keyWait
+	clearMsg
+	"""
+	Uma grande salva de
+	palmas para os nossos
+	competidores!
 	"""
 	keyWait
 	clearMsg
@@ -311,8 +314,8 @@ script 11 mmbn3 {
 	soundPlay
 		track = 249
 	"""
-	ClapClapClapClap!
-	ClapClapClapClap!
+	Clap Clap Clap Clap
+	Clap Clap Clap Clap
 	"""
 	wait
 		frames = 180
@@ -325,15 +328,14 @@ script 12 mmbn3 {
 		mugshot = BlackMan
 	msgOpen
 	"""
-	Hey,Mr.Sunayama! In
-	total,how many
-	contestants are
+	Ei, sr. Sunayama!
 	"""
 	keyWait
 	clearMsg
 	"""
-	taking part in the
-	N1 Grand Prix?
+	No total, quantos estão
+	participando do Grande
+	Prêmio N1?
 	"""
 	keyWait
 	clearMsg
@@ -345,29 +347,29 @@ script 13 mmbn3 {
 		mugshot = Sunayama
 	msgOpen
 	"""
-	There are 4 blocks
-	from A to D,each
-	with 8 contestants
+	Há quatro blocos de
+	A a D, cada um com
+	oito competidores,
 	"""
 	keyWait
 	clearMsg
 	"""
-	for a total of 32
-	people in all!
+	resultando num total
+	de 32 pessoas!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Blocks A to C have
-	already moved to the
-	battle arena.
+	Os Blocos A e C já
+	seguiram para a arena
+	de batalha.
 	"""
 	keyWait
 	clearMsg
 	"""
-	The battles will be
-	broadcast live on
-	this giant screen!
+	As lutas serão
+	transmitidas ao vivo
+	neste telão!
 	"""
 	keyWait
 	clearMsg
@@ -381,9 +383,9 @@ script 14 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	The battle arena?
-	This isn't where
-	we'll battle?
+	A arena de batalha?
+	Então, não é aqui que a
+	gente vai lutar?
 	"""
 	keyWait
 	clearMsg
@@ -395,15 +397,16 @@ script 15 mmbn3 {
 		mugshot = Sunayama
 	msgOpen
 	"""
-	In order to battle
-	here,you must first
-	battle at the arena
+	Para lutar aqui, primeiro,
+	precisarão lutar na
+	arena
 	"""
 	keyWait
 	clearMsg
 	"""
-	and advance to the
-	top four!!
+	e avançar para ficar
+	entre os quatro
+	melhores!
 	"""
 	keyWait
 	clearMsg
@@ -417,15 +420,16 @@ script 16 mmbn3 {
 		mugshot = Tora
 	msgOpen
 	"""
-	Well then,what are
-	you waiting for?
-	Show us the arena!
+	Bom, então, a gente tá
+	esperando o quê?
+	Mostra aí a arena!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'm just itchin' to
-	battle!
+	Eu tô me coçando pra
+	dar uma coça neste
+	povo!
 	"""
 	keyWait
 	clearMsg
@@ -436,20 +440,19 @@ script 17 mmbn3 {
 	mugshotShow
 		mugshot = Sunayama
 	msgOpen
-	"Please be patient!"
+	"Paciência, por favor!"
 	keyWait
 	clearMsg
 	"""
-	We'll take you there
-	in a moment!
-	Heh heh! We'll be
+	Já iremos levar todos
+	vocês lá! He he!
 	"""
 	keyWait
 	clearMsg
 	"""
-	watching to see how
-	far your fighting
-	spirit takes you!
+	Estamos ansiosos para
+	ver o quão longe esse
+	espírito de luta o levará!
 	"""
 	keyWait
 	clearMsg
@@ -461,8 +464,9 @@ script 18 mmbn3 {
 		mugshot = Tora
 	msgOpen
 	"""
-	Shut up and show us
-	where to fight!
+	Cala a boca e mostra
+	pra gente onde a gente
+	luta!
 	"""
 	keyWait
 	clearMsg
@@ -474,38 +478,37 @@ script 19 mmbn3 {
 		mugshot = Sunayama
 	msgOpen
 	"""
-	There's a ferry in
-	front of the TV
-	Station.
+	Há um barco em frente
+	ao prédio da emissora.
 	"""
 	keyWait
 	clearMsg
 	"""
-	It will take you to
-	the battle arena!
+	É ele que os levará à
+	arena de batalha!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Your battle arena
-	will be none other
-	than…
+	E a sua arena de
+	batalha será nada
+	menos que a...
 	"""
 	keyWait
 	clearMsg
-	"Hades Isle!"
+	"Ilha do Inferno!"
 	keyWait
 	clearMsg
 	"""
-	Now then,it's time
-	to go to battle!
+	Bom, já está na hora
+	de irmos rumo à arena!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Proceed to the
-	"Hades Ferry"!
-	Oohoohooo!
+	Sigam a bordo da
+	"Barca do Inferno"!
+	Ho ho ho ho ho!
 	"""
 	keyWait
 	end
@@ -514,13 +517,13 @@ script 20 mmbn3 {
 	mugshotShow
 		mugshot = Sunayama
 	msgOpen
-	"Now then,everyone!"
+	"Bom, amigos!"
 	keyWait
 	clearMsg
 	"""
-	Enjoy the battles
-	on this large-screen
-	monitor!
+	Divirtam-se vendo as
+	lutas neste nosso
+	monitor titânico!
 	"""
 	keyWait
 	end
@@ -529,23 +532,23 @@ script 21 mmbn3 {
 	mugshotHide
 	msgOpen
 	"""
-	An opening ceremony
-	full of unexpected
-	twists!
+	Uma cerimônia de abertu-
+	ra cheia de reviravoltas
+	inesperadas!
 	"""
 	keyWait
 	clearMsg
 	"""
-	A mysterious island
-	forebodingly called
-	Hades Isle!
+	Uma ilha misteriosa com
+	o sinistro nome...
+	Ilha do Inferno!
 	"""
 	keyWait
 	clearMsg
 	"""
-	You won't believe
-	what awaits our
-	heroes on the ferry!
+	E vocês nem imaginam o
+	que aguarda nossos he-
+	róis em sua embarcação!
 	"""
 	keyWait
 	end

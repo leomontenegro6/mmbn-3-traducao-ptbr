@@ -5,9 +5,9 @@ script 0 mmbn3 {
 		mugshot = BlackWoman
 	msgOpen
 	"""
-	The horror…
-	The horror…
-	What lies ahead?
+	Que horror...
+	Que horror...
+	O que ainda nos espera?
 	"""
 	keyWait
 	end
@@ -17,8 +17,8 @@ script 1 mmbn3 {
 		mugshot = Tora
 	msgOpen
 	"""
-	Go on. Hurry up.
-	Not afraid,are you?
+	Vai, corre, menino.
+	Tá com medinho?
 	"""
 	keyWait
 	end
@@ -27,15 +27,15 @@ script 2 mmbn3 {
 	mugshotShow
 		mugshot = NetbattlerQ
 	msgOpen
-	"……"
+	"......"
 	keyWait
 	end
 }
 script 5 mmbn3 {
 	msgOpen
 	"""
-	If you go out,you'll
-	be disqualified!
+	Se você sair, será
+	desqualificado!
 	"""
 	keyWait
 	end
@@ -45,9 +45,9 @@ script 10 mmbn3 {
 		mugshot = BlackWoman
 	msgOpen
 	"""
-	Don't worry about
-	anyone else. Just
-	look after yourself!
+	Não se preocupe com
+	os outros. Cuide só de
+	você mesmo!
 	"""
 	keyWait
 	end
@@ -56,7 +56,7 @@ script 11 mmbn3 {
 	mugshotShow
 		mugshot = BlackMan
 	msgOpen
-	"Grrr…"
+	"Grrr..."
 	keyWait
 	end
 }
@@ -65,8 +65,8 @@ script 12 mmbn3 {
 		mugshot = PompadourMan
 	msgOpen
 	"""
-	I'm battling now!
-	Don't bother me!
+	Eu tô lutando agora!
+	Não me distrai!
 	"""
 	keyWait
 	end
@@ -76,13 +76,13 @@ script 13 mmbn3 {
 		mugshot = Man
 	msgOpen
 	"""
-	I can't find the
+	Não consigo achar o
 	"
 	"""
 	printItem
 		buffer = 0
 		item = 18
-	"\"…"
+	"\"..."
 	keyWait
 	end
 }
@@ -91,9 +91,9 @@ script 14 mmbn3 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	You're in the wrong
-	place. You have to
-	go down that path.
+	Você está no lugar
+	errado.
+	Tem que descer por ali.
 	"""
 	keyWait
 	end
@@ -103,9 +103,9 @@ script 15 mmbn3 {
 		mugshot = Tora
 	msgOpen
 	"""
-	What's up with you?
-	Scared and looking
-	for your mommy?
+	Que é que tu tem?
+	Tá com medinho, é?
+	Tá querendo a mamãe?
 	"""
 	keyWait
 	end
@@ -114,7 +114,7 @@ script 16 mmbn3 {
 	mugshotShow
 		mugshot = NetbattlerQ
 	msgOpen
-	"……"
+	"......"
 	keyWait
 	end
 }
@@ -127,28 +127,28 @@ script 20 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Looking for an Extra
-	Folder,are you?
+	Procurando por uma
+	Pasta Extra, é?
 	"""
 	keyWait
 	clearMsg
 	"""
-	I have a Extra
-	Folder. I'll give it
-	to you if you want.
+	Eu tenho uma aqui.
+	E posso dá-la a você,
+	se quiser.
 	"""
 	keyWait
 	clearMsg
 	"""
-	When you get a new
-	Extra Folder,
+	Ao receber uma nova
+	Pasta Extra,
 	"""
 	keyWait
 	clearMsg
 	"""
-	The one you have now
-	will be overwritten.
-	Is that OK with you?
+	a que você tem consigo
+	agora é sobrescrita.
+	Tudo bem por você?
 	"""
 	keyWait
 	clearMsg
@@ -160,7 +160,7 @@ script 20 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Sure "
+	"   Tá "
 	option
 		left = 0
 		right = 0
@@ -168,7 +168,7 @@ script 20 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"No way"
+	"          Nem"
 	select
 		default = 0
 		BSeparate = false
@@ -179,11 +179,12 @@ script 20 mmbn3 {
 			jump = continue,
 			jump = continue
 		]
+	clearMsg
 	mugshotShow
 		mugshot = Scientist
 	"""
-	Come see me if you
-	want an "
+	Venha falar comigo se
+	quiser uma "
 	"""
 	printFolderName
 		buffer = 0
@@ -199,30 +200,30 @@ script 21 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	OK! I'll give you
-	my folder.
+	OK! Darei a minha pasta
+	a você.
 	"""
 	keyWait
 	clearMsg
-	"Here we go…"
+	"Aqui vai..."
 	keyWait
 	clearMsg
 	"""
-	I carefully edited
-	this folder myself
-	last night.
+	Eu editei essa pasta
+	eu mesmo ontem à noite,
+	com muito cuidado.
 	"""
 	keyWait
 	clearMsg
-	"…Just a bit more…"
+	"... Só mais um\npouquinho..."
 	keyWait
 	clearMsg
 	soundPlay
 		track = 220
 	"""
-	…Done!
-	Your Extra Folder is
-	now "
+	... Pronto!
+	Sua Pasta Extra, agora,
+	é a "
 	"""
 	printFolderName
 		buffer = 0
@@ -236,8 +237,9 @@ script 22 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Quarterfinals next!
-	Break a leg!
+	A seguir, as quartas de
+	finais!
+	Não vá fazer feio!
 	"""
 	keyWait
 	end
@@ -251,46 +253,46 @@ script 23 mmbn3 {
 		mugshot = ZooMan
 	msgOpen
 	"""
-	Hey! Hey,you!
-	It's Lan,isn't it?
+	Ei! Ei, você!
+	Lan Hikari, não?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Oooh,I'm a big fan
-	of yours,you know!!
+	Aaaah, eu sou um
+	fãzaço seu!! Sério!!
 	"""
 	keyWait
 	clearMsg
 	"""
-	It would be great if
-	you'd use the Extra
-	Folder I edited.
+	Seria demais se você
+	usasse a Pastra Extra
+	que eu editei.
 	"""
 	keyWait
 	clearMsg
 	"""
-	How about it? Battle
-	with my folder! You
-	won't regret it!!
+	Que tal? Lute com a
+	minha pasta! Não vai se
+	arrepender!!
 	"""
 	keyWait
 	clearMsg
 	"""
-	One thing,though…
-	If you get a new
-	Extra Folder,
+	Só um detalhe...
+	Se você pegar uma
+	nova Pasta Extra,
 	"""
 	keyWait
 	clearMsg
 	"""
-	It'll overwrite the
-	one you have now…
-	No biggie,right?
+	ela sobrescreverá a
+	que você tem agora...
+	De boa, né?
 	"""
 	keyWait
 	clearMsg
-	"Wanna try it out?"
+	"Quer experimentar?"
 	keyWait
 	clearMsg
 	mugshotHide
@@ -301,7 +303,7 @@ script 23 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Sure "
+	"   Tá "
 	option
 		left = 0
 		right = 0
@@ -309,7 +311,7 @@ script 23 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"No thanks"
+	"          Não, valeu"
 	select
 		default = 0
 		BSeparate = false
@@ -320,22 +322,23 @@ script 23 mmbn3 {
 			jump = continue,
 			jump = continue
 		]
+	clearMsg
 	mugshotShow
 		mugshot = ZooMan
 	"""
-	Well,if you ever
-	want my "
+	Bom, se mudar de ideia e
+	quiser minha "
 	"""
 	printFolderName
 		buffer = 0
 		entry = 5
 	"""
 	",
-	come and get it!
+	é só pedir!
 	"""
 	keyWait
 	clearMsg
-	"I'll be waiting!!"
+	"Ficarei esperando!!"
 	keyWait
 	end
 }
@@ -346,84 +349,85 @@ script 24 mmbn3 {
 		mugshot = ZooMan
 	msgOpen
 	"""
-	OK,just a second…
-	Sending the data…
-	・
+	OK, só um instante...
+	Enviando os dados...
+	.
 	"""
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"Now!"
+	" Agora!"
 	keyWait
 	clearMsg
 	"""
-	Lan,I'm honored
-	that you will use
-	MY special folder.
-	"""
-	keyWait
-	clearMsg
-	"""
-	Aaah,I can't wait
-	to tell everyone…
+	Lan, fico honrado que
+	você escolheu usar a
+	MINHA pasta especial.
 	"""
 	keyWait
 	clearMsg
 	"""
-	My dad… My mom…
-	My girlfriend…
+	Aaah, mal posso esperar
+	pra contar pra todo
+	mundo...
 	"""
 	keyWait
 	clearMsg
 	"""
-	My grandparents…
-	Johnny next door…
-	I'll tell everyone!
+	Meu pai... Minha mãe...
+	Minha namorada...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Johnny loves Net
-	Battles. He'll be
-	green with envy!
+	Meus avós... Meu vizinho,
+	o Johnny...
+	Pra TODO MUNDO!
+	"""
+	keyWait
+	clearMsg
+	"""
+	O Johnny ama NetLutas.
+	Ele vai morrer de inveja!
 	"""
 	keyWait
 	clearMsg
 	soundPlay
 		track = 220
 	"""
-	OK! The data is all
-	fully sent!!
+	OK! Todos os dados
+	foram enviados!!
 	"""
 	keyWait
 	clearMsg
-	"The \""
+	"A \""
 	printFolderName
 		buffer = 0
 		entry = 5
 	"""
-	" is
-	now yours!
+	", agora, é
+	toda sua!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'll be cheering for
-	you. Good luck!!
+	Vou ficar torcendo por
+	você com tudo.
+	Boa sorte!!
 	"""
 	keyWait
 	end
@@ -433,9 +437,9 @@ script 25 mmbn3 {
 		mugshot = ZooMan
 	msgOpen
 	"""
-	You're bound to win!
-	After all,I'm
-	cheering for you!
+	Você, com certeza, vai
+	vencer! Afinal, eu vou
+	torcer por você!
 	"""
 	keyWait
 	end
@@ -449,20 +453,20 @@ script 26 mmbn3 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	Ah,so you're looking
-	for an Extra Folder.
-	Not easy,I'm sure…
+	Ah, então, você está em
+	busca de uma Pasta
+	Extra. Complicado...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Hey! Speaking of
-	folders,you won't
-	believe mine!!
+	Aí! Falando em pastas,
+	você NÃO VAI acreditar
+	na minha!!
 	"""
 	keyWait
 	clearMsg
-	"Wanna hear about it?\n"
+	"Quer ouvir mais?\n"
 	option
 		left = 1
 		right = 1
@@ -470,7 +474,7 @@ script 26 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Sure "
+	"   Claro "
 	option
 		left = 0
 		right = 0
@@ -478,7 +482,7 @@ script 26 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"No"
+	"          Não"
 	select
 		default = 0
 		BSeparate = false
@@ -490,9 +494,9 @@ script 26 mmbn3 {
 			jump = continue
 		]
 	"""
-	Ah,that's a pity…
-	No time for my
-	unique hyper-folder…
+	Ah, que pena... Não tem
+	tempo pra minha hiper-
+	pasta especial...
 	"""
 	keyWait
 	end
@@ -502,68 +506,67 @@ script 27 mmbn3 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	It's full of rare
-	chips and NaviChips.
-	All hard to find.
+	Ela é cheia de chips e
+	ChipsNavi raros.
+	Todos difíceis de achar.
 	"""
 	keyWait
 	clearMsg
 	"""
-	If you were to use
-	my folder,victory
-	would be guaranteed!
+	Se você usasse a minha
+	pasta, a vitória estaria
+	garantida!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I really believe
-	that it's the
-	ultimate folder…
+	Eu, realmente, acredito
+	que ela é a pasta
+	suprema...
 	"""
 	keyWait
 	clearMsg
 	"""
-	There's just one
-	thing,though.
+	Só tem um probleminha.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I forgot it today!
-	How stupid of me!
+	Eu esqueci ela hoje!
+	Que estupidez a minha!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I thought I put
-	it in my PET this
-	morning.
+	Eu podia jurar que tinha
+	colocado no meu PET
+	hoje de manhã.
 	"""
 	keyWait
 	clearMsg
 	"""
-	But now,the data is
-	all different.
+	Mas, agora, os dados
+	estão todos diferentes.
 	"""
 	keyWait
 	clearMsg
-	"Know what it is now?"
+	"Sabe o que tem agora?"
 	keyWait
 	clearMsg
 	"""
-	My checkbook!
-	Ha,ha!!
+	Meu talão de cheques!
+	Ha ha!!
 	"""
 	keyWait
 	clearMsg
 	"""
 	Ah ha ha ha ha!!
-	Heh,hee-hee-hee!!
-	AH-HA-HA-HA-HA!!
+	He, hi hi hi hi!!
+	AH HA HA HA HA!!
 	"""
 	keyWait
 	clearMsg
-	"Whew! "
+	"Uff! "
 	waitSkip
 		frames = 30
 	"・"
@@ -576,15 +579,15 @@ script 27 mmbn3 {
 	waitSkip
 		frames = 30
 	"""
-	Sorry…
-	Once I get going,I
-	can't stop laughing.
+	Desculpa...
+	Quando eu começo a rir,
+	não consigo parar.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Waaa ha ha ha…
-	Heee,hee,hee,hee…
+	Gaa ha ha ha...
+	Hee hee hee hee...
 	"""
 	keyWait
 	end
@@ -594,8 +597,9 @@ script 28 mmbn3 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	Guess I'm the joker
-	in this deck.
+	Acho que eu sou o
+	bobo-da-corte deste
+	castelo.
 	"""
 	keyWait
 	end
@@ -604,27 +608,27 @@ script 50 mmbn3 {
 	mugshotShow
 		mugshot = Scientist
 	msgOpen
-	"Want an \""
+	"Quer uma \""
 	printFolderName
 		buffer = 0
 		entry = 6
 	"""
 	"?
-	This Extra Folder
-	may prove useful.
+	Esta Pasta Extra
+	pode se mostrar útil.
 	"""
 	keyWait
 	clearMsg
 	"""
-	The new Extra Folder
-	will overwrite your
-	current one,though.
+	Mas a nova Pasta Extra
+	sobrescreverá a pasta
+	atual.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Are you sure you
-	still want it?
+	Você concorda com os
+	termos e quer continuar?
 	"""
 	keyWait
 	clearMsg
@@ -636,7 +640,7 @@ script 50 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"   Sim "
 	option
 		left = 0
 		right = 0
@@ -644,7 +648,7 @@ script 50 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"No thanks"
+	"          Não, valeu"
 	select
 		default = 0
 		BSeparate = false
@@ -658,15 +662,15 @@ script 50 mmbn3 {
 	mugshotShow
 		mugshot = Scientist
 	"""
-	Really?! If you need
-	an "
+	Mesmo?! Bom, se precisar
+	de uma "
 	"""
 	printFolderName
 		buffer = 0
 		entry = 6
 	"""
 	",
-	come back here.
+	é só voltar aqui.
 	"""
 	keyWait
 	end
@@ -675,7 +679,7 @@ script 51 mmbn3 {
 	mugshotShow
 		mugshot = ZooMan
 	msgOpen
-	"Want my \""
+	"Quer a minha \""
 	printFolderName
 		buffer = 0
 		entry = 5
@@ -683,16 +687,16 @@ script 51 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Extra is one thing.
-	What you need is one
-	that's powerful.
+	Não basta ser "extra".
+	Você precisa de uma
+	que seja FORTE.
 	"""
 	keyWait
 	clearMsg
 	"""
-	If you don't need
-	your current folder,
-	try my "
+	Se não precisar da
+	minha pasta atual,
+	tente a minha "
 	"""
 	printFolderName
 		buffer = 0
@@ -708,7 +712,7 @@ script 51 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"   OK "
 	option
 		left = 0
 		right = 0
@@ -716,7 +720,7 @@ script 51 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"No thanks"
+	"          Não, valeu"
 	select
 		default = 0
 		BSeparate = false
@@ -727,17 +731,18 @@ script 51 mmbn3 {
 			jump = continue,
 			jump = continue
 		]
+	clearMsg
 	mugshotShow
 		mugshot = ZooMan
 	"""
-	Well,I suppose if
-	that's how you feel…
+	Bom, se é assim que
+	você se sente, né...
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'll be here if you
-	ever need to use my
+	Estarei aqui caso você
+	queira usar a minha
 	"
 	"""
 	printFolderName
@@ -751,7 +756,7 @@ script 52 mmbn3 {
 	mugshotShow
 		mugshot = CapBoy
 	msgOpen
-	"Want my \""
+	"Quer a minha \""
 	printFolderName
 		buffer = 0
 		entry = 4
@@ -759,19 +764,19 @@ script 52 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	It's pretty strong!
-	And you'll need it!
+	É bem fortona!
+	E cê vai precisar, hein!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Your current folder
-	will be overwritten,
-	but it's worth it.
+	A sua pasta atual vai
+	ser sobrescrita, mas
+	vai valer a pena.
 	"""
 	keyWait
 	clearMsg
-	"Interested?"
+	"Interessado?"
 	keyWait
 	clearMsg
 	mugshotHide
@@ -782,7 +787,7 @@ script 52 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"   Sim "
 	option
 		left = 0
 		right = 0
@@ -790,7 +795,7 @@ script 52 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"No thanks"
+	"          Não, valeu"
 	select
 		default = 0
 		BSeparate = false
@@ -801,12 +806,13 @@ script 52 mmbn3 {
 			jump = continue,
 			jump = continue
 		]
+	clearMsg
 	mugshotShow
 		mugshot = CapBoy
 	"""
-	Are you sure? If
-	you change your
-	mind,look for me.
+	Certeza? Bom, se mudar
+	de ideia, vem falar
+	comigo.
 	"""
 	keyWait
 	end
@@ -815,7 +821,7 @@ script 53 mmbn3 {
 	mugshotShow
 		mugshot = SciLabMan
 	msgOpen
-	"Need my \""
+	"Precisa da minha \""
 	printFolderName
 		buffer = 0
 		entry = 3
@@ -823,22 +829,22 @@ script 53 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	I used this one in
-	the N1 Grand Prix.
+	Eu usei ela no Grande
+	Prêmio N1.
 	"""
 	keyWait
 	clearMsg
 	"""
-	It's always best to
-	use a folder you are
-	familiar with.
+	É sempre melhor usar
+	uma pasta com a qual
+	já está familiarizado.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'll send it and
-	overwrite your
-	current folder. OK?
+	Vou te mandar ela e
+	sobrescrever a sua
+	pasta atual. OK?
 	"""
 	keyWait
 	clearMsg
@@ -850,7 +856,7 @@ script 53 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"   OK "
 	option
 		left = 0
 		right = 0
@@ -858,7 +864,7 @@ script 53 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"No thanks"
+	"          Não, valeu"
 	select
 		default = 0
 		BSeparate = false
@@ -869,11 +875,12 @@ script 53 mmbn3 {
 			jump = continue,
 			jump = continue
 		]
+	clearMsg
 	mugshotShow
 		mugshot = SciLabMan
 	"""
-	I see. Well,I hope
-	you'll come again.
+	Entendo. Bom, espero que
+	você volte aqui.
 	"""
 	keyWait
 	end
@@ -883,8 +890,8 @@ script 54 mmbn3 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	How would you like
-	my "
+	E então, que tal a
+	minha "
 	"""
 	printFolderName
 		buffer = 0
@@ -893,32 +900,32 @@ script 54 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	It's got some very
-	special features!
+	Ela tem uns detalhes
+	muito especiais!
 	"""
 	keyWait
 	clearMsg
 	"""
-	A unique folder will
-	give you an edge.
+	Um pasta única lhe dará
+	uma vantagem única.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Your current folder
-	will be overwritten,
-	but if that's OK,
+	A sua pasta atual será
+	sobrescrita, mas, se
+	tudo bem por você,
 	"""
 	keyWait
 	clearMsg
 	"""
-	Shall I give you my
+	aceitaria a minha
 	"
 	"""
 	printFolderName
 		buffer = 0
 		entry = 7
-	"\""
+	"\"?"
 	keyWait
 	clearMsg
 	mugshotHide
@@ -929,7 +936,7 @@ script 54 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"   Sim "
 	option
 		left = 0
 		right = 0
@@ -937,7 +944,7 @@ script 54 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"No thanks"
+	"          Não, valeu"
 	select
 		default = 0
 		BSeparate = false
@@ -948,12 +955,13 @@ script 54 mmbn3 {
 			jump = continue,
 			jump = continue
 		]
+	clearMsg
 	mugshotShow
 		mugshot = BusinessMan
 	"""
-	Aaah,that's a pity.
-	Look for me if you
-	need my "
+	Aaah, que pena. Volte a
+	falar comigo se precisar
+	da minha "
 	"""
 	printFolderName
 		buffer = 0
@@ -969,19 +977,19 @@ script 55 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	All right,I'll send
-	the data…
+	OK, vou enviar os
+	dados agora...
 	"""
 	keyWait
 	clearMsg
 	soundPlay
 		track = 220
-	"Good! That's done!"
+	"Isso! Prontinho!"
 	keyWait
 	clearMsg
 	"""
-	Your Extra Folder is
-	now "
+	A sua Pasta Extra,
+	agora, é a "
 	"""
 	printFolderName
 		buffer = 0
@@ -997,8 +1005,9 @@ script 56 mmbn3 {
 		mugshot = ZooMan
 	msgOpen
 	"""
-	Just wait. I'll send
-	the "
+	Espera só um pouquinho.
+	Vou mandar logo agora
+	a "
 	"""
 	printFolderName
 		buffer = 0
@@ -1011,12 +1020,12 @@ script 56 mmbn3 {
 	clearMsg
 	soundPlay
 		track = 220
-	"And…Finished!"
+	"E... concluído!"
 	keyWait
 	clearMsg
 	"""
-	Your Extra Folder is
-	now "
+	Sua Pasta Extra, agora,
+	é a "
 	"""
 	printFolderName
 		buffer = 0
@@ -1031,26 +1040,26 @@ script 57 mmbn3 {
 	mugshotShow
 		mugshot = CapBoy
 	msgOpen
-	"Start \""
+	"Iniciar transmissão\nda \""
 	printFolderName
 		buffer = 0
 		entry = 4
 	"""
-	"
-	transmission… Now!!
+	"...
+	Agora!!
 	"""
 	keyWait
 	clearMsg
 	soundPlay
 		track = 220
-	"…Zap!!"
+	"... Zap!!"
 	keyWait
 	clearMsg
-	"Finished. Ta-daaa!!"
+	"Terminado. Tcharãn!!"
 	keyWait
 	clearMsg
 	"""
-	Now your folder is
+	Agora, sua pasta é a
 	"
 	"""
 	printFolderName
@@ -1067,7 +1076,7 @@ script 58 mmbn3 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Great. I'll send the
+	Ótimo. Vou enviar a
 	"
 	"""
 	printFolderName
@@ -1075,18 +1084,18 @@ script 58 mmbn3 {
 		entry = 3
 	"""
 	".
-	Here goes!!
+	Lá vai!!
 	"""
 	keyWait
 	clearMsg
 	soundPlay
 		track = 220
-	"Transfer complete!"
+	"Transferência concluída!"
 	keyWait
 	clearMsg
 	"""
-	Your Extra Folder
-	has now become
+	A sua Pasta Extra
+	se tornou a
 	"
 	"""
 	printFolderName
@@ -1103,8 +1112,8 @@ script 59 mmbn3 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	Excellent! Now,I'll
-	just send you the
+	Excelente! Agora, vou
+	mandar pra você a
 	"
 	"""
 	printFolderName
@@ -1116,13 +1125,13 @@ script 59 mmbn3 {
 	soundPlay
 		track = 220
 	"""
-	All right!
-	Complete!
+	Certo!
+	Terminado!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Your folder is now
+	Sua pasta, agora, é a
 	"
 	"""
 	printFolderName
@@ -1140,59 +1149,58 @@ script 190 mmbn3 {
 	mugshotShow
 		mugshot = Scientist
 	msgOpen
-	"Ah! You're here!"
+	"Ah! Você está aqui!"
 	keyWait
 	clearMsg
 	"""
-	Listen! Something
-	terrible's going on!
-	"""
-	keyWait
-	clearMsg
-	"""
-	We were doing tests
-	on virus battles
-	in this computer,
+	Escute! Tem uma coisa
+	terrível acontecendo!
 	"""
 	keyWait
 	clearMsg
 	"""
-	And somehow,they
-	began to multiply
-	out of control!
+	Estávamos fazendo uns
+	testes com batalhas an-
+	tivírus neste computador,
 	"""
 	keyWait
 	clearMsg
 	"""
-	The number of
-	viruses just keeps
-	increasing!
+	e, não sei como, eles co-
+	meçaram a se multiplicar,
+	fora do nosso controle!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Help! You're our
-	only hope!
+	O número de vírus não
+	para de aumentar!
 	"""
 	keyWait
 	clearMsg
 	"""
-	This computer links
-	Hades Isle and the
-	Undernet.
+	Ajude-nos! Você é a
+	nossa única esperança!
 	"""
 	keyWait
 	clearMsg
 	"""
-	If we do nothing,the
-	viruses will run
-	amok the world over!
+	Este computador
+	conecta a Ilha do
+	Inferno à Undernet.
 	"""
 	keyWait
 	clearMsg
 	"""
-	…Are you ready
-	to jack in!?
+	Se não fizermos nada,
+	os vírus vão causar
+	caos mundo afora!
+	"""
+	keyWait
+	clearMsg
+	"""
+	... Você está pronto
+	para se conectar?!
 	"""
 	keyWait
 	clearMsg
@@ -1204,7 +1212,7 @@ script 190 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"   Estou "
 	option
 		left = 0
 		right = 0
@@ -1212,7 +1220,7 @@ script 190 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No"
+	"          Não"
 	select
 		default = 0
 		BSeparate = false
@@ -1237,16 +1245,16 @@ script 191 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Great! You deleted
-	the viruses faster
-	than they grew!
+	Perfeito! Você deletou
+	os vírus mais rápido do
+	que eles se reproduziam!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'm grateful!
-	Please accept this
-	token of thanks.
+	Estou muito grato!
+	Por favor, aceite isto
+	como agradecimento.
 	"""
 	keyWait
 	clearMsg
@@ -1264,8 +1272,8 @@ script 192 mmbn3 {
 	playerAnimate
 		animation = 24
 	"""
-	Lan got 30
-	"BugFrags"!!
+	Lan recebeu 30
+	"FragBugs"!!
 	
 	"""
 	playerFinish
@@ -1280,14 +1288,13 @@ script 193 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	What would we have
-	done without you…?
+	O que teria sido de nós
+	sem você...?
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'm afraid to even
-	think about it!
+	Eu tremo só de pensar!
 	"""
 	keyWait
 	end
@@ -1297,8 +1304,8 @@ script 194 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	You've been a great
-	help. Thank you!
+	Você nos ajudou muito.
+	Obrigado!
 	"""
 	keyWait
 	end
@@ -1308,8 +1315,8 @@ script 195 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	OK! Hurry up!
-	There's no time!
+	OK! Depressa!
+	Estamos sem tempo!
 	"""
 	keyWait
 	end
@@ -1317,9 +1324,9 @@ script 195 mmbn3 {
 script 220 mmbn3 {
 	msgOpen
 	"""
-	A NetBattle machine
-	with multiple jacks,
-	used for N1
+	Uma máquina de
+	NetLutas com múltiplas
+	entradas, para o N1.
 	"""
 	keyWait
 	end
@@ -1327,14 +1334,14 @@ script 220 mmbn3 {
 script 221 mmbn3 {
 	msgOpen
 	"""
-	You can only enter
-	the door you choose.
+	Você só pode entrar
+	pela porta que escolher.
 	"""
 	keyWait
 	clearMsg
 	"""
-	…I'm Yasu,
-	a reporter.
+	... Eu sou Yasu.
+	Sou repórter.
 	"""
 	keyWait
 	end
@@ -1344,9 +1351,8 @@ script 222 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Where are you going,
-	Lan? You'll be
-	disqualified!
+	Aonde você vai, Lan?
+	Vai ser desqualificado!
 	"""
 	keyWait
 	end

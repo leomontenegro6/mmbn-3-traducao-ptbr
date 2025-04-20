@@ -7,51 +7,51 @@ script 0 mmbn3s {
 script 1 mmbn3 {
 	textSpeed
 		delay = 0
-	"[circle1][circle2]"
+	"dado"
 	textSpeed
 		delay = 2
 	wait
 		frames = 2
-	" data"
+	" [circle1][circle2]"
 	end
 }
 script 2 mmbn3 {
 	textSpeed
 		delay = 0
-	"[cross1][cross2]"
+	"dado"
 	textSpeed
 		delay = 2
 	wait
 		frames = 2
-	" data"
+	" [cross1][cross2]"
 	end
 }
 script 3 mmbn3s {
-	"Parasol"
+	"GuardSol"
 	end
 }
 script 4 mmbn3s {
-	"KeydataA"
+	"ChaveA"
 	end
 }
 script 5 mmbn3s {
-	"KeydataB"
+	"ChaveB"
 	end
 }
 script 6 mmbn3s {
-	"KeydataC"
+	"ChaveC"
 	end
 }
 script 7 mmbn3s {
-	"PasswrdA"
+	"SenhaA"
 	end
 }
 script 8 mmbn3s {
-	"PasswrdB"
+	"SenhaB"
 	end
 }
 script 9 mmbn3s {
-	"PasswrdC"
+	"SenhaC"
 	end
 }
 script 10 mmbn3s {
@@ -59,7 +59,7 @@ script 10 mmbn3s {
 	end
 }
 script 11 mmbn3s {
-	"Bag"
+	"Bolsa"
 	end
 }
 script 12 mmbn3s {
@@ -67,27 +67,27 @@ script 12 mmbn3s {
 	end
 }
 script 13 mmbn3s {
-	"PresData"
+	"DdosCpss"
 	end
 }
 script 14 mmbn3s {
-	"Needle"
+	"Agulha"
 	end
 }
 script 15 mmbn3s {
-	"DataDisk"
+	"CDDados"
 	end
 }
 script 16 mmbn3s {
-	"PET Case"
+	"Capa PET"
 	end
 }
 script 17 mmbn3s {
-	"HadesKey"
+	"ChvInfrn"
 	end
 }
 script 18 mmbn3s {
-	"VictData"
+	"DadoVitó"
 	end
 }
 script 19 mmbn3s {
@@ -99,51 +99,51 @@ script 20 mmbn3s {
 	end
 }
 script 21 mmbn3s {
-	"Tally"
+	"Contagem"
 	end
 }
 script 22 mmbn3s {
-	"Tea"
+	"Chá"
 	end
 }
 script 23 mmbn3s {
-	"BsmntKey"
+	"ChvPorão"
 	end
 }
 script 24 mmbn3s {
-	"FireData"
+	"DadoFogo"
 	end
 }
 script 25 mmbn3s {
-	"HeatData"
+	"DdoCalor"
 	end
 }
 script 26 mmbn3s {
-	"FlamData"
+	"DdoChama"
 	end
 }
 script 27 mmbn3s {
-	"Rank 10"
+	"Ranque10"
 	end
 }
 script 28 mmbn3s {
-	"Rank 9"
+	"Ranque 9"
 	end
 }
 script 29 mmbn3s {
-	"Rank 8"
+	"Ranque 8"
 	end
 }
 script 30 mmbn3s {
-	"Rank 7"
+	"Ranque 7"
 	end
 }
 script 31 mmbn3s {
-	"Rank 3"
+	"Ranque 3"
 	end
 }
 script 32 mmbn3s {
-	"Rank 2"
+	"Ranque 2"
 	end
 }
 script 33 mmbn3s {
@@ -159,11 +159,11 @@ script 35 mmbn3s {
 	end
 }
 script 36 mmbn3s {
-	"DadsNote"
+	"BilhtPai"
 	end
 }
 script 37 mmbn3s {
-	"CardKey"
+	"CartChav"
 	end
 }
 script 38 mmbn3s {
@@ -191,63 +191,63 @@ script 43 mmbn3s {
 	end
 }
 script 44 mmbn3s {
-	"Old Tool"
+	"Ferrmnta"
 	end
 }
 script 45 mmbn3s {
-	"CashData"
+	"DadsFinç"
 	end
 }
 script 46 mmbn3s {
-	"Old Doll"
+	"BnecaVlh"
 	end
 }
 script 47 mmbn3s {
-	"WWW-ID"
+	"ID-WWW"
 	end
 }
 script 48 mmbn3s {
-	"SkyTome"
+	"Tomo Céu"
 	end
 }
 script 49 mmbn3s {
-	"LandTome"
+	"TomoTrra"
 	end
 }
 script 50 mmbn3s {
-	"SeaTome"
+	"Tomo Mar"
 	end
 }
 script 51 mmbn3s {
-	"StmpCard"
+	"CtCarimb"
 	end
 }
 script 52 mmbn3s {
-	"Will"
+	"Tstmento"
 	end
 }
 script 53 mmbn3s {
-	"Photo"
+	"Foto"
 	end
 }
 script 54 mmbn3s {
-	"Camera"
+	"Câmera"
 	end
 }
 script 55 mmbn3s {
-	"ModTools"
+	"FerrmMod"
 	end
 }
 script 56 mmbn3s {
-	"Hammer"
+	"Martelo"
 	end
 }
 script 57 mmbn3s {
-	"WrstBand"
+	"FaixBraç"
 	end
 }
 script 58 mmbn3s {
-	"Rank 1"
+	"Ranque 1"
 	end
 }
 script 59 mmbn3s {
@@ -299,23 +299,23 @@ script 70 mmbn3s {
 	end
 }
 script 71 mmbn3s {
-	"SpinWhit"
+	"GiraBrnc"
 	end
 }
 script 72 mmbn3s {
-	"SpinPink"
+	"GiraRosa"
 	end
 }
 script 73 mmbn3s {
-	"SpinYllw"
+	"GiraAmrl"
 	end
 }
 script 74 mmbn3s {
-	"SpinRed"
+	"GiraVerm"
 	end
 }
 script 75 mmbn3s {
-	"SpinBlue"
+	"GiraAzul"
 	end
 }
 script 76 mmbn3s {
@@ -323,35 +323,35 @@ script 76 mmbn3s {
 	end
 }
 script 77 mmbn3s {
-	"SpinOrng"
+	"GiraVrde"
 	end
 }
 script 78 mmbn3s {
-	"SpinPrpl"
+	"GiraRoxo"
 	end
 }
 script 79 mmbn3s {
-	"SpinDark"
+	"GiraTrvs"
 	end
 }
 script 80 mmbn3s {
-	"MaylCode"
+	"CódgMayl"
 	end
 }
 script 81 mmbn3s {
-	"DexCode"
+	"CódgDex"
 	end
 }
 script 82 mmbn3s {
-	"YaiCode"
+	"CódgYai"
 	end
 }
 script 83 mmbn3s {
-	"TamaCode"
+	"CódgTama"
 	end
 }
 script 84 mmbn3s {
-	"HospCode"
+	"CódgHosp"
 	end
 }
 script 85 mmbn3s {
@@ -367,55 +367,55 @@ script 87 mmbn3s {
 	end
 }
 script 88 mmbn3s {
-	"ACDCPass"
+	"TiqtACDC"
 	end
 }
 script 89 mmbn3s {
-	"SciPass"
+	"TiqtSci"
 	end
 }
 script 90 mmbn3s {
-	"YokaPass"
+	"TiqtYoka"
 	end
 }
 script 91 mmbn3s {
-	"BeachPas"
+	"TqtAngra"
 	end
 }
 script 92 mmbn3s {
-	"CACDCPas"
+	"CTqtACDC"
 	end
 }
 script 93 mmbn3s {
-	"CSciPass"
+	"CTiqtSci"
 	end
 }
 script 94 mmbn3s {
-	"CYokaPas"
+	"CTqtYoka"
 	end
 }
 script 95 mmbn3s {
-	"CBeacPas"
+	"CTqtAngr"
 	end
 }
 script 96 mmbn3s {
-	"HPMemory"
+	"MemoriPV"
 	end
 }
 script 97 mmbn3s {
-	"ExpMemry"
+	"MemoriXP"
 	end
 }
 script 98 mmbn3s {
-	"RegUP1"
+	"Padrão+1"
 	end
 }
 script 99 mmbn3s {
-	"RegUP2"
+	"Padrão+2"
 	end
 }
 script 100 mmbn3s {
-	"RegUP3"
+	"Padrão+3"
 	end
 }
 script 101 mmbn3s {
@@ -467,23 +467,23 @@ script 112 mmbn3s {
 	end
 }
 script 113 mmbn3s {
-	"FullEnrg"
+	"EnrgTotl"
 	end
 }
 script 114 mmbn3s {
-	"SneakRun"
+	"DeFinin"
 	end
 }
 script 115 mmbn3s {
-	"Untrap"
+	"Desarma"
 	end
 }
 script 116 mmbn3s {
-	"LocEnemy"
+	"TravInmg"
 	end
 }
 script 117 mmbn3s {
-	"Unlocker"
+	"Destrava"
 	end
 }
 script 118 mmbn3s {
@@ -669,7 +669,7 @@ script 165 mmbn3s {
 	end
 }
 script 166 mmbn3s {
-	"Aqua bug"
+	"AquaBug"
 	end
 }
 script 167 mmbn3s {

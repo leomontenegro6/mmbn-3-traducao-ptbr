@@ -5,9 +5,9 @@ script 0 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	So…We've got to beat
-	FlashMan to bring
-	them back to normal?
+	Então... a gente tem que
+	vencer o FlashMan se
+	quiser curar o pessoal?
 	"""
 	keyWait
 	end
@@ -17,9 +17,9 @@ script 1 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	With that hypnotic
-	beam,we'd better
-	be careful going in…
+	Mas com esse raio hipnó-
+	tico, temos que tomar
+	cuidado antes de ir lá...
 	"""
 	keyWait
 	clearMsg
@@ -31,9 +31,9 @@ script 2 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Is there any way we
-	can get inside
-	without getting hit?
+	Não tem nenhum jeito da
+	gente entrar sem ser
+	atingido por ele?
 	"""
 	keyWait
 	clearMsg
@@ -45,9 +45,9 @@ script 3 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	If only we had some-
-	thing to block the
-	light…
+	Se ao menos a gente
+	tivesse alguma coisa pra
+	bloquear a luz...
 	"""
 	keyWait
 	clearMsg
@@ -59,15 +59,15 @@ script 4 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Something to block
-	the light…?
+	Uma coisa pra bloquear
+	a luz...?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Let's look around in
-	the school. We might
-	find something.
+	Vamos dar uma procura-
+	da na escola. Talvez
+	achemos alguma coisa.
 	"""
 	keyWait
 	end

@@ -6,14 +6,13 @@ script 0 mmbn3 {
 	msgOpen
 	"""
 	Dex!
-	I'll take care
-	of this guy!!
+	Eu cuido desse cara!!
 	"""
 	keyWait
 	clearMsg
 	"""
-	You get those two
-	to safety!!
+	Leva as duas pra um
+	lugar seguro!!
 	"""
 	keyWait
 	clearMsg
@@ -28,9 +27,9 @@ script 1 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	You be careful!
-	This guy is
-	serious!!
+	Toma cuidado!
+	Esse cara não tá pra
+	brincadeira!!
 	"""
 	keyWait
 	clearMsg
@@ -41,10 +40,10 @@ script 2 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Leave it to me!"
+	"Deixa comigo!"
 	keyWait
 	clearMsg
-	"Now,get going!"
+	"Agora, vai!"
 	keyWait
 	clearMsg
 	jump
@@ -54,7 +53,7 @@ script 3 mmbn3 {
 	mugshotShow
 		mugshot = Mayl
 	msgOpen
-	"Lan!! Look out!!"
+	"Lan!! Cuidado!!"
 	keyWait
 	clearMsg
 	jump
@@ -65,8 +64,8 @@ script 4 mmbn3 {
 		mugshot = Yai
 	msgOpen
 	"""
-	Lan! You should
-	come with us!
+	Lan! Você devia vir com
+	a gente!
 	"""
 	keyWait
 	clearMsg
@@ -78,13 +77,13 @@ script 5 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Mayl,Yai…I'm…
-	I'm sorry for what
-	I said before.
+	Mayl,Yai... Eu...
+	Desculpa pelo que eu
+	falei antes.
 	"""
 	keyWait
 	clearMsg
-	"Please forgive me!"
+	"Por favor, me perdoem!"
 	keyWait
 	clearMsg
 	jump
@@ -95,9 +94,9 @@ script 6 mmbn3 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	Don't worry about
-	that!! Just hurry up
-	and come with us!
+	Esquece isso!
+	Só vem logo,
+	vem com a gente!
 	"""
 	keyWait
 	clearMsg
@@ -109,15 +108,15 @@ script 7 mmbn3 {
 		mugshot = Yai
 	msgOpen
 	"""
-	Yeah,Lan!!
-	What can you
-	accomplish here!?
+	Pois é, Lan!!
+	O que você pode
+	fazer aqui?!
 	"""
 	keyWait
 	clearMsg
 	"""
-	That's an AutoTank
-	you're dealing with!
+	Você tá lidando com um
+	AutoTanque!
 	"""
 	keyWait
 	clearMsg
@@ -130,7 +129,7 @@ script 8 mmbn3 {
 	soundDisableTextSFX
 	soundPlay
 		track = 297
-	"Bee-bee-beep…"
+	"Pi-pi-piiiiii..."
 	wait
 		frames = 60
 	keyWait
@@ -143,8 +142,8 @@ script 9 mmbn3 {
 		mugshot = Yai
 	msgOpen
 	"""
-	I don't like the
-	sound of that!!
+	Eu não gostei nadinha
+	desse barulho!!
 	"""
 	keyWait
 	clearMsg
@@ -155,7 +154,7 @@ script 10 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Dex!! Hurry!!"
+	"Dex!! Rápido!!"
 	keyWait
 	clearMsg
 	jump
@@ -166,15 +165,15 @@ script 11 mmbn3 {
 		mugshot = Dex
 	msgOpen
 	"""
-	OK!!
-	Mayl! Yai! Come on!
+	Tá bom!!
+	Mayl! Yai! Vamos!
 	"""
 	keyWait
 	clearMsg
 	"""
 	Lan!!
-	You'd better run if
-	things get bad!
+	É bom você fugir se
+	as coisas piorarem!
 	"""
 	keyWait
 	end
@@ -184,8 +183,8 @@ script 12 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	So now,how to deal
-	with this thing…?
+	Tá... agora, como lidar
+	com essa coisa...?
 	"""
 	keyWait
 	clearMsg
@@ -198,7 +197,7 @@ script 13 mmbn3 {
 	soundDisableTextSFX
 	soundPlay
 		track = 297
-	"Beep! Bee-bee-beep…!"
+	"Piii! Pi-pi-piii...!"
 	wait
 		frames = 60
 	keyWait
@@ -213,7 +212,7 @@ script 14 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Whaaa!"
+	"Aaaahh!"
 	keyWait
 	end
 }
@@ -223,7 +222,7 @@ script 15 mmbn3 {
 	msgOpen
 	"""
 	Lan!!
-	Are you OK!?
+	Você tá bem?!
 	"""
 	keyWait
 	end
@@ -232,24 +231,24 @@ script 16 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"I…I think so…"
+	"Eu... eu acho que tô..."
 	keyWait
 	clearMsg
 	"""
-	But what should
-	I try next?
-	"""
-	keyWait
-	clearMsg
-	"""
-	If I could just
-	jack in…
+	Mas o que eu posso
+	fazer agora?
 	"""
 	keyWait
 	clearMsg
 	"""
-	But I can't get to
-	the port!
+	Se pudesse me
+	conectar nele...
+	"""
+	keyWait
+	clearMsg
+	"""
+	Mas não consigo chegar
+	na entrada!
 	"""
 	keyWait
 	clearMsg
@@ -262,7 +261,7 @@ script 17 mmbn3 {
 	msgOpen
 	"""
 	Lan!
-	Here it comes again!
+	Ele vai atacar de novo!
 	"""
 	keyWait
 	clearMsg
@@ -275,7 +274,7 @@ script 18 mmbn3 {
 	soundDisableTextSFX
 	soundPlay
 		track = 297
-	"Beebeebeebeep!"
+	"Pipipipipiiiii!"
 	wait
 		frames = 60
 	keyWait
@@ -288,7 +287,7 @@ script 19 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"There's the port!!"
+	"Tá ali a entrada!!"
 	keyWait
 	clearMsg
 	flagSet
@@ -299,13 +298,13 @@ script 20 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Got it!!"
+	"Consegui!!"
 	keyWait
 	clearMsg
 	"""
-	MegaMan!! Go take
-	care of whoever's
-	behind this!!
+	MegaMan!! Vai, acaba
+	com quem quer que
+	esteja por trás disso!!
 	"""
 	keyWait
 	end

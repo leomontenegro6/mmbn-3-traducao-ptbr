@@ -5,8 +5,7 @@ script 0 mmbn3 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	Ah!! It's boiling in
-	here!
+	Ah!! Tá fervendo aqui!
 	"""
 	keyWait
 	clearMsg
@@ -17,7 +16,7 @@ script 1 mmbn3 {
 	mugshotShow
 		mugshot = SciLabMan
 	msgOpen
-	"What happened!?"
+	"O que houve?!"
 	keyWait
 	end
 }
@@ -26,23 +25,23 @@ script 2 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Huff…Huff…
-	Hurry,evacuate! For
-	some reason the
+	Uff.. Uff...
+	Evacuem, rápido!
+	Por algum motivo,
 	"""
 	keyWait
 	clearMsg
 	"""
-	computer suddenly
-	started smoking! The
-	heat from the
+	o computador começou
+	a soltar fumaça! E o
+	calor do computador
 	"""
 	keyWait
 	clearMsg
 	"""
-	computer got into
-	the air duct,heating
-	the entire building!
+	entrou nos dutos de
+	ar, aquecendo o prédio
+	inteiro!
 	"""
 	keyWait
 	clearMsg
@@ -54,16 +53,15 @@ script 3 mmbn3 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	If the temperature
-	continues to rise,
-	the computer may
+	Se a temperatura conti-
+	nuar a aumentar, o com-
+	putador pode explodir!
 	"""
 	keyWait
 	clearMsg
 	"""
-	explode! Hurry!
-	evacuate the
-	building!
+	Rápido!
+	Evacuem o prédio!
 	"""
 	keyWait
 	clearMsg
@@ -75,16 +73,16 @@ script 4 mmbn3 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	The computer may
-	explode from the
-	heat!?
+	O computador pode
+	acabar explodindo
+	com o calor?!
 	"""
 	keyWait
 	clearMsg
 	"""
-	This isn't
-	happening! What can
-	we do!?
+	Isso não pode
+	acontecer!
+	O que podemos fazer?!
 	"""
 	keyWait
 	clearMsg
@@ -96,15 +94,15 @@ script 5 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Nothing!
-	We can't even get
-	near the computer,
+	Nada!
+	Nem conseguimos chegar
+	perto do computador,
 	"""
 	keyWait
 	clearMsg
 	"""
-	let alone jack into
-	it!
+	quem dirá nos conectar
+	nele!
 	"""
 	keyWait
 	clearMsg
@@ -116,15 +114,15 @@ script 6 mmbn3 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Oh no…!
-	If we don't do
-	something quick,
+	Não...!
+	Se não fizermos
+	alguma coisa depressa,
 	"""
 	keyWait
 	clearMsg
 	"""
-	SciLab will be
-	destroyed!
+	o SciLab vai ser
+	destruído!
 	"""
 	keyWait
 	end

@@ -14,29 +14,29 @@ script 0 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	This notice is from
-	the Beach St. Dept.
-	of Transportation.
+	Informe do Departamento
+	de Transporte da Rua
+	Angra.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Due to heavy
-	congestion expected
-	to accompany the N1,
+	Devido ao alto congestio-
+	namento causado pelo
+	Grande Prêmio N1, a
 	"""
 	keyWait
 	clearMsg
 	"""
-	the road to Seaside
-	Hospital has been
-	temporarily closed.
+	estrada para o Hospital
+	Beira-Mar ficará fecha-
+	da temporariamente.
 	"""
 	keyWait
 	clearMsg
 	"""
-	We apologize for any
-	inconvenience.
+	Pedimos desculpas pelo
+	inconveniente.
 	"""
 	keyWait
 	waitHold
@@ -55,51 +55,49 @@ script 1 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	It's finally time
-	for the N1 Grand
-	Prix!
+	Finalmente, é hora do
+	Grande Prêmio N1!
 	"""
 	keyWait
 	clearMsg
 	"""
-	32 of the world's
-	best NetBattlers
-	are gathering at
+	32 dos melhores Net-
+	Lutadores do Mundo
+	estão se reunindo nos
 	"""
 	keyWait
 	clearMsg
 	"""
-	the DNN Studio! Is
-	everyone ready to
-	rumble?
+	estúdios da DNN!
+	Todo mundo pronto pra
+	pauleira?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Couldn't get a
-	ticket? No fear!
-	We at DNN will
+	Não conseguiu arranjar
+	ingresso? Não tema! Nós,
+	da DNN, transmitiremos
 	"""
 	keyWait
 	clearMsg
 	"""
-	bring the excitement
-	straight to your
-	home!
+	toda a emoção da arena
+	direto para a sua casa!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Get ready for a
-	battle of truly
-	epic proportions!
+	Preparem-se para
+	batalhas
+	verdadeiramente épicas!
 	"""
 	keyWait
 	clearMsg
 	"""
-	This post was
-	brought to you by
-	DNN reporter Yasu!
+	Esta postagem foi
+	trazida a vocês por
+	Yasu, repórter da DNN!
 	"""
 	keyWait
 	waitHold
@@ -118,50 +116,49 @@ script 2 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	The N1 has finally
-	begun!
+	O N1, finalmente,
+	começou!
 	"""
 	keyWait
 	clearMsg
 	"""
-	At first,I thought
-	I'd never be able to
-	get ahold of a
+	No começo, eu achei
+	que nunca ia conseguir
+	um ingresso,
 	"""
 	keyWait
 	clearMsg
 	"""
-	ticket,but I managed
-	to get one through
-	the Undernet!
+	mas dei meus pulos e
+	arranjei um através
+	da Undernet!
 	"""
 	keyWait
 	clearMsg
 	"""
-	And,ya know,it was
-	worth all the money
-	and danger!
+	E, olha... valeu a pena
+	todo o dinheiro e o
+	risco de morte!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Whoops! Talk like
-	this will only make
-	people want to go
+	Ops! Falar desse jeito
+	só vai encorajar as
+	pessoas a irem lá.
 	"""
 	keyWait
 	clearMsg
 	"""
-	there. Heh heh. The
-	Undernet's no place
-	for amateurs.
+	He he. A Undernet não
+	é pra amadores.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Actually,I asked an
-	Undernetter to go
-	get me a ticket.
+	Na verdade, eu pedi
+	pra um Underneteiro
+	me arranjar o ingresso.
 	"""
 	keyWait
 	waitHold
@@ -196,14 +193,15 @@ script 4 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	Are you OK,Goh?
-	Goh!
+	Você está bem, Goh?
+	Goh! GOOOOHH!
 	"""
 	keyWait
 	clearMsg
 	"""
-	All you wrote was
-	your name…
+	Tudo o que você
+	escreveu foi o seu
+	nome...
 	"""
 	keyWait
 	waitHold
@@ -222,23 +220,23 @@ script 5 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	This is Beach Square
-	administrator
-	MEGAoka.
+	Aqui fala MEGAoka, o
+	administrador do Angra
+	Plaza.
 	"""
 	keyWait
 	clearMsg
 	"""
-	For your own safety,
-	please do not post
-	messages about
+	Para sua própria
+	segurança, por favor,
+	não postem mensagens
 	"""
 	keyWait
 	clearMsg
 	"""
-	the Undernet or the
-	Under society on this
-	BBS. Thank you.
+	sobre a Undernet ou
+	a Under sociedade
+	neste Fórum. Obrigado.
 	"""
 	keyWait
 	waitHold
@@ -257,9 +255,9 @@ script 6 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	I guess normal folks
-	should avoid the
-	Undernet.
+	Acho que gente normal
+	deve mesmo é evitar
+	a Undernet.
 	"""
 	keyWait
 	waitHold
@@ -278,23 +276,23 @@ script 7 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	The Officials are
-	currently
-	investigating Goh's
+	Os Oficiais estão
+	investigando o desapa-
+	recimento do Goh.
 	"""
 	keyWait
 	clearMsg
 	"""
-	disappearance. There
-	has been a rash of
-	crime recently,
+	Tem havido uma alta
+	onda de crimes estes
+	dias,
 	"""
 	keyWait
 	clearMsg
 	"""
-	including the Zoo,N1
-	and BubbleWash
-	incidents. Beware.
+	incluindo os incidentes
+	do zoológico, do N1 e
+	da Lava-Bolha. Cuidado.
 	"""
 	keyWait
 	waitHold
@@ -313,44 +311,43 @@ script 8 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	Ahhhh. Another day,
-	another win.
-	It's a tough life.
+	Ahhhh. Mais uma dia,
+	mais uma vitória.
+	Ô, vida.
 	"""
 	keyWait
 	clearMsg
 	"""
-	So this punk in the
-	Cyberworld
-	challenges me to a
+	É que teve esse otário
+	do mundo cibernético que
+	me desafiou pra uma
 	"""
 	keyWait
 	clearMsg
 	"""
-	bet,right? Says
-	he'll double up or
-	something,so I
+	aposta, sabe? Ficava
+	dobrando o valor a
+	cada uma, daí, joguei
 	"""
 	keyWait
 	clearMsg
 	"""
-	played him until
-	he'd had enough
-	punishment. When it
+	com ele até ele ter
+	sofrido o bastante.
 	"""
 	keyWait
 	clearMsg
 	"""
-	was time for him to
-	pay up,he gave me a
-	chip 'cause he was
+	Quando chegou a hora
+	dele pagar, ele me deu
+	um chip, porque ficou
 	"""
 	keyWait
 	clearMsg
 	"""
-	all out of money!
-	I was in a good
-	mood,so I took it.
+	sem nenhum dinheiro!
+	Eu tava de bom humor,
+	então, aceitei.
 	"""
 	keyWait
 	waitHold
@@ -369,23 +366,23 @@ script 9 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	Whoa! Exactly how
-	many times did you
-	win at Double-Up?
+	Caraca! Mas, afinal,
+	quantas vezes você
+	venceu na Dobradinha?
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'd definitely have
-	stopped after four
-	wins,myself.
+	Eu, pessoalmente,
+	teria parado depois
+	da quarta.
 	"""
 	keyWait
 	clearMsg
 	"""
-	By the way,what kind
-	of chip did you get?
-	I'm curious.
+	Aliás, que tipo de chip
+	você recebeu?
+	Fiquei curioso.
 	"""
 	keyWait
 	waitHold
@@ -404,16 +401,16 @@ script 10 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	I just went to the
-	Zoo,and found out
-	something about the
+	Eu acabei de ir ao
+	zoológico e descobri
+	uma coisa sobre o
 	"""
 	keyWait
 	clearMsg
 	"""
-	Giraffe Educational
-	Computer. You can
-	jack into it!
+	Computador Educativo
+	da Girafa. Dá para se
+	conectar nele!
 	"""
 	keyWait
 	waitHold
@@ -432,23 +429,23 @@ script 11 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	Really? I didn't
-	know you could jack
-	into that,either!
+	Sério? Eu também não
+	sabia que dava pra
+	se conectar lá!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I know another
-	secret place you
-	can jack into,but I
+	Eu conheço um outro
+	lugar secreto em que
+	dá pra se conectar,
 	"""
 	keyWait
 	clearMsg
 	"""
-	can't tell. It would
-	not be fair to the
-	SciLab programs.
+	mas não posso contar.
+	Não seria justo com os
+	programas do SciLab.
 	"""
 	keyWait
 	waitHold
@@ -467,28 +464,27 @@ script 12 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	Wow,there seem to be
-	a lot of secret
-	spots out there.
+	Nossa, tanto lugar
+	secreto por aí...
 	"""
 	keyWait
 	clearMsg
 	"""
-	I found one when
-	I went to Hades
-	Isle. I think there
+	Eu encontrei um quando
+	fui na Ilha do Inferno.
 	"""
 	keyWait
 	clearMsg
 	"""
-	was a warp point in
-	that Cyberworld.
+	Lá tinha o que parecia
+	ser um portal inter-
+	área cibernética.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I wonder where it
-	leads to?
+	Aonde será que ele
+	leva...?
 	"""
 	keyWait
 	waitHold
@@ -507,16 +503,16 @@ script 13 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	Heh heh! I found an
-	even better place
-	than Micchan's!
+	He he! Pois eu achei
+	um lugar ainda melhor
+	que o da Micchan!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I won't tell where
-	exactly,but it's in
-	the same Zoo!
+	Não vou dizer ONDE,
+	exatamente, mas
+	também é no zoológico!
 	"""
 	keyWait
 	waitHold
@@ -535,30 +531,30 @@ script 14 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	DNN reporter
-	Yasu here,keeping
-	you up to date!
+	Repórter Yasu, da DNN,
+	falando, mantendo
+	vocês atualizados!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Officials announced
-	today that WWW is
-	plotting a massive
+	Os Oficiais anunciaram
+	hoje que a WWW está
+	orquestrando uma
 	"""
 	keyWait
 	clearMsg
 	"""
-	conspiracy.
-	Unfortunately we
-	don't know any
+	enorme conspiração.
+	Infelizmente, não
+	temos muitos detalhes,
 	"""
 	keyWait
 	clearMsg
 	"""
-	details,except the
-	investigation isn't
-	proceeding smoothly.
+	fora o fato da
+	investigação não estar
+	indo lá tão bem.
 	"""
 	keyWait
 	waitHold
@@ -577,16 +573,16 @@ script 15 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	So that must be why
-	there are Officials
-	all over the place.
+	Deve ser por isso
+	que tem Oficiais por
+	toda a parte.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I was told I looked
-	suspicious. They
-	interrogated me!
+	Eles disseram que eu
+	"parecia suspeito".
+	Me interrogaram e tudo!
 	"""
 	keyWait
 	waitHold
@@ -605,23 +601,22 @@ script 16 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	Apparently,some
-	Officials are
-	working undercover!
+	Ao que parece, alguns
+	Oficiais estão traba-
+	lhando disfarçados!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I think I'm just
-	going to sit tight
-	at home.
+	Acho que vou ficar
+	quietinho em casa.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I don't want to get
-	in the way of the
-	investigation.
+	Não iria querer
+	atrapalhar as
+	investigações.
 	"""
 	keyWait
 	waitHold
@@ -640,29 +635,28 @@ script 17 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	What a dangerous
-	place this world has
-	become! Even so,the
+	O mundo ficou tão
+	perigoso!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Officials really
-	seem to be taking
-	the investigation
+	Mas os Officials parecem
+	estar levando a investi-
+	gação bem a sério.
 	"""
 	keyWait
 	clearMsg
 	"""
-	seriously. The
-	situation may be a
-	lot worse than has
+	Na verdade, é possível
+	que a situação
 	"""
 	keyWait
 	clearMsg
 	"""
-	been publicly
-	announced!
+	esteja bem pior do
+	que o que anunciaram
+	publicamente!
 	"""
 	keyWait
 	waitHold
@@ -681,22 +675,22 @@ script 18 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	The government has
-	just declared a
-	Level A state of
+	O governo acaba de
+	declarar estado de
+	emergência Nível A!
 	"""
 	keyWait
 	clearMsg
 	"""
-	emergency! Do not,
-	I repeat,do not
-	leave your homes.
+	Não saiam de casa.
+	Repito: NÃO SAIAM DE
+	CASA!
 	"""
 	keyWait
 	clearMsg
 	"""
-	This has been Yasu,
-	reporting for DNN!
+	Este foi Yasu,
+	repórter da DNN!
 	"""
 	keyWait
 	waitHold
@@ -715,22 +709,22 @@ script 19 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	Something terrible
-	has happened! I knew
-	this day would come!
+	Uma coisa terrível
+	aconteceu! Eu sabia
+	que este dia viria!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Oh,what will become
-	of us all?
+	Ah, o que vai ser de
+	nós?
 	"""
 	keyWait
 	clearMsg
 	"""
-	I should have gone
-	ahead and had that
-	sundae for desert!
+	Eu devia ter esquecido
+	a dieta e tomado aquele
+	sundae de sobremesa!
 	"""
 	keyWait
 	waitHold
@@ -749,15 +743,14 @@ script 20 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	Calm down! Chaud is
-	an Official,too,so
-	they'll resolve
+	Calma, gente! O Chaud
+	também é um Oficial, sei
+	que tudo será resolvido.
 	"""
 	keyWait
 	clearMsg
 	"""
-	everything. We have
-	to believe!
+	Temos que ter fé!
 	"""
 	keyWait
 	waitHold
@@ -776,30 +769,30 @@ script 21 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	You could get ahold
-	of a ticket that
-	way? Shoot! I wish
+	Dava pra conseguir um
+	ingresso desse jeito?
+	Poxa! Se, ao menos,
 	"""
 	keyWait
 	clearMsg
 	"""
-	I knew that earlier!
-	I would have done
-	anything to get a
+	eu soubesse!
+	Teria feito qualquer
+	coisa por um.
 	"""
 	keyWait
 	clearMsg
 	"""
-	ticket. By the way,
-	Goh,should you even
-	talk about that
+	Por sinal, Goh, devia
+	mesmo falar dessas
+	coisas aqui?
 	"""
 	keyWait
 	clearMsg
 	"""
-	here? What if the
-	Undernet guy read
-	your post?
+	E se o sujeito da
+	Undernet ler a sua
+	postagem?
 	"""
 	keyWait
 	waitHold

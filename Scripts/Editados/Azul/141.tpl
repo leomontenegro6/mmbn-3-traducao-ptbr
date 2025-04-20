@@ -9,19 +9,20 @@ script 0 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	If a burglar comes,
-	I make a noise like
-	a dog barking.
+	Se um ladrão invadir,
+	eu reproduzo o som
+	de um latido.
 	"""
 	keyWait
 	clearMsg
 	"""
-	But usually,I just
-	play bird songs.
+	Mas, normalmente, só
+	reproduzo pássaros
+	cantando, mesmo.
 	"""
 	keyWait
 	clearMsg
-	"Tweet,tweet!"
+	"Piu, piu!"
 	keyWait
 	end
 }
@@ -34,15 +35,15 @@ script 1 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	The other day,I
-	barked at a postman
-	by mistake.
+	Outro dia, eu lati pro
+	carteiro, por engano.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I feel kind of bad
-	about it,actually…
+	Na verdade, me senti
+	muito mal por fazer
+	isso...
 	"""
 	keyWait
 	end
@@ -52,16 +53,16 @@ script 2 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	Lately,that guy has
-	been barking like a
-	total beast!
+	Ultimamente, aquele
+	ali tem latido feito um...
+	sei lá, monstro, direto!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Even if people come
-	on tip-toes,he seems
-	to bark anyway.
+	Ele late até pra gente
+	que se aproxima nas
+	pontinhas dos pés.
 	"""
 	keyWait
 	end
@@ -71,34 +72,34 @@ script 3 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	What? I bark like a
-	total beast?
+	Quê? Eu lato como um
+	"lobo"?
 	"""
 	keyWait
 	clearMsg
 	"""
-	You're mistaken!
-	I haven't been
-	barking recently…
+	Isso é um engano!
+	Eu não ando latindo
+	estes dias...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Oh,no! Could there
-	be a beast…
-	On the loose here?
+	Essa não! Será que
+	tem... um monstro à
+	solta por aqui?!
 	"""
 	keyWait
 	clearMsg
-	"Ha,ha! Scared you!"
+	"Ha ha! Te assustei!"
 	keyWait
 	end
 }
 script 230 mmbn3 {
 	msgOpen
 	"""
-	MegaMan accessed the
-	mystery data.
+	MegaMan acessou os
+	dados misteriosos.
 	"""
 	wait
 		frames = 10
@@ -120,8 +121,7 @@ script 230 mmbn3 {
 		code = L
 		amount = 1
 	"""
-	MegaMan got a chip
-	for
+	MegaMan adquiriu o chip
 	"
 	"""
 	printChip

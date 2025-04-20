@@ -5,9 +5,8 @@ script 0 mmbn3 {
 		mugshot = Sunayama
 	msgOpen
 	"""
-	Hurry along and
-	board the ferry.
-	Pronto!
+	Agora, vão logo para
+	o barco. "Hurry up"!
 	"""
 	keyWait
 	clearMsg
@@ -18,7 +17,9 @@ script 1 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Pronto?"
+	"""
+	"Râri ápi"?
+	"""
 	keyWait
 	clearMsg
 	jump
@@ -29,22 +30,22 @@ script 2 mmbn3 {
 		mugshot = Sunayama
 	msgOpen
 	"""
-	It means to do
-	something right
-	away. You know,
+	Significa "acelera".
+	Corre. Apressa. Se vai.
+	Não perde tempo!
 	"""
 	keyWait
 	clearMsg
 	"""
-	time's a-wasting! Oh
-	just hurry up and
-	board!
+	Ou, com mais educação:
+	embarca logo no barco,
+	menino!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Y'know,I can't stand
-	amateurs!
+	Ai... ninguém merece
+	amadores, viu?!
 	"""
 	keyWait
 	clearMsg
@@ -56,8 +57,8 @@ script 3 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan,is "pronto"
-	English?
+	MegaMan, "râri ápi" tá
+	no dicionário?
 	"""
 	keyWait
 	clearMsg
@@ -69,16 +70,16 @@ script 4 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Actually,it's
-	derived from the
-	Spanish language.
+	No dicionário de inglês,
+	sim. Mas a sua pronúncia
+	deixa muito a desejar.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Anyway,come on!
-	We don't want to
-	keep them waiting!
+	Mas deixa isso pra lá,
+	simbora! Não devemos
+	deixar eles esperando!
 	"""
 	keyWait
 	clearMsg
@@ -89,7 +90,7 @@ script 5 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"OK!"
+	"Tá!"
 	keyWait
 	end
 }
@@ -98,16 +99,15 @@ script 6 mmbn3 {
 		mugshot = Sunayama
 	msgOpen
 	"""
-	Now then.
-	Anchors away!
-	Until we reach Hades
+	Certo, então...
+	Içar âncoras!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Isle,we need you all
-	unconscious.
-	Good night!
+	Precisarei que durmam
+	até chegarmos na Ilha
+	do Inferno. Bons sonhos!
 	"""
 	keyWait
 	clearMsg
@@ -136,9 +136,9 @@ script 8 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Whoa!
-	Something's blowing
-	out!
+	Ué?!
+	Tem alguma coisa sendo
+	borrifada!
 	"""
 	keyWait
 	clearMsg
@@ -150,9 +150,8 @@ script 9 mmbn3 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Ahhhh!
-	That's sleeping
-	gas!!
+	Aaaahh!
+	É gás do sono!!
 	"""
 	keyWait
 	clearMsg
@@ -164,13 +163,13 @@ script 10 mmbn3 {
 		mugshot = Tora
 	msgOpen
 	"""
-	Hey,hey! I don't
-	care if this is for
-	TV. It ain't kosher!
+	Ô, ei! Tô nem aí se isso
+	é pra TV, é muita
+	sacanagem!
 	"""
 	keyWait
 	clearMsg
-	"Uh-uhhhghh……"
+	"Ugh... unnnghhhhh......"
 	keyWait
 	clearMsg
 	jump
@@ -184,9 +183,9 @@ script 11 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	……
-	It's no use! They've
-	all been put out!
+	......
+	Não adianta!
+	Eles todos apagaram!
 	"""
 	keyWait
 	clearMsg
@@ -199,16 +198,16 @@ script 12 mmbn3 {
 	soundDisableTextSFX
 	soundPlay
 		track = 162
-	"Ka-Chink!"
+	"Pa-Tim!"
 	wait
 		frames = 60
 	"\n"
 	soundPlay
 		track = 162
-	"KaChink! "
+	"PaTim! "
 	soundPlay
 		track = 162
-	"KaChink!"
+	"PaTim!"
 	wait
 		frames = 60
 	keyWait
@@ -222,12 +221,12 @@ script 13 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Wh-who's there?
-	What are you doing!?
+	Qu-quem tá aí?
+	O que você tá fazendo?!
 	"""
 	keyWait
 	clearMsg
-	"Lan! La…"
+	"Lan! La..."
 	keyWait
 	clearMsg
 	jump
@@ -237,16 +236,16 @@ script 14 mmbn3 {
 	mugshotHide
 	msgOpen
 	"""
-	What happened on the
-	ferry? Are the
-	contestants alright?
+	O que aconteceu no
+	barco? Os competidores
+	estão bem?
 	"""
 	keyWait
 	clearMsg
 	"""
-	The mystery of Hades
-	Isle will soon be
-	revealed!!
+	O mistério da Ilha do
+	Inferno logo será
+	revelado!!
 	"""
 	keyWait
 	end

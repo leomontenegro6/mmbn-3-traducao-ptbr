@@ -5,8 +5,8 @@ script 0 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Good! We caught up
-	with everyone!
+	Ótimo! A gente alcançou
+	o pessoal!
 	"""
 	keyWait
 	end
@@ -16,15 +16,15 @@ script 1 mmbn3 {
 		mugshot = MsMari
 	msgOpen
 	"""
-	OK,we'll be going in
-	to the zoo now!
+	Bom, agora, vamos ao
+	zoológico!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Be sure to follow
-	the rules,and don't
-	feed the animals!
+	Lembrem-se de seguir
+	as regras e não
+	alimentar os animais!
 	"""
 	keyWait
 	clearMsg
@@ -34,7 +34,7 @@ script 1 mmbn3 {
 script 2 mmbn3 {
 	mugshotHide
 	msgOpen
-	"Yes,ma'am!!"
+	"Sim, professora!!"
 	keyWait
 	end
 }
@@ -43,9 +43,9 @@ script 3 mmbn3 {
 		mugshot = Dex
 	msgOpen
 	"""
-	I'm going to take
-	Chisao around. Let's
-	meet later to eat!
+	Vou levar o Chisao pra
+	passear. A gente se
+	reúne depois pra comer!
 	"""
 	keyWait
 	clearMsg
@@ -66,7 +66,7 @@ script 5 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"OK,see you later!"
+	"Beleza, até já!"
 	keyWait
 	end
 }

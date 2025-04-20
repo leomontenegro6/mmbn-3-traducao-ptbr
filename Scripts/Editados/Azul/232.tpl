@@ -4,7 +4,7 @@ script 0 mmbn3 {
 	mugshotShow
 		mugshot = OfficialNavi
 	msgOpen
-	"OK! Great job,kid!"
+	"OK! Bom trabalho, garoto!"
 	keyWait
 	clearMsg
 	jump
@@ -15,8 +15,8 @@ script 1 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Way to go,MegaMan!
-	I think that…
+	Mandou bem, MegaMan!
+	Eu acho que...
 	"""
 	keyWait
 	end
@@ -26,8 +26,8 @@ script 2 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan? What's wrong?
-	Lan!?
+	Lan? O que foi?
+	Lan?!
 	"""
 	keyWait
 	end
@@ -37,8 +37,8 @@ script 3 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Whoa!
-	What's happening!?
+	Aaahh!
+	O que tá acontecendo?!
 	"""
 	keyWait
 	end
@@ -50,13 +50,13 @@ script 4 mmbn3 {
 	flagSet
 		flag = 1028
 	"""
-	So,congratulations
-	on completing the…
+	Meus parabéns por
+	concluir o...
 	
 	"""
 	flagSet
 		flag = 1028
-	"Something wrong?"
+	"Algum problema?"
 	keyWait
 	clearMsg
 	jump
@@ -67,9 +67,8 @@ script 5 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	What do you mean?
-	You don't see
-	anything strange?
+	Como assim? Você não tá
+	vendo nada de anormal?
 	"""
 	keyWait
 	clearMsg
@@ -80,7 +79,7 @@ script 6 mmbn3 {
 	mugshotShow
 		mugshot = OfficialNavi
 	msgOpen
-	"Strange? No…"
+	"Anormal? Não..."
 	keyWait
 	clearMsg
 	jump
@@ -91,21 +90,21 @@ script 7 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	……
-	I get it!
+	......
+	Entendi!
 	"""
 	keyWait
 	clearMsg
 	"""
-	The PET's
-	transmission
-	program is buggy!
+	O programa de
+	transmissão do PET
+	tá bugado!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I can't get back
-	into the PET!
+	Por isso, eu não consigo
+	voltar pro PET!
 	"""
 	keyWait
 	clearMsg
@@ -117,16 +116,16 @@ script 8 mmbn3 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Sorry to leave you
-	like this,but I've
-	got to get going…
+	Desculpe por te deixar
+	assim, mas eu preciso
+	ir...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Please understand
-	that the TV station
-	cannot be held
+	Lembrando que o nosso
+	canal e seus afiliados
+	não são responsáveis...
 	"""
 	keyWait
 	end
@@ -136,9 +135,9 @@ script 9 mmbn3 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	responsible for
-	this or any damages!
-	…See ya!
+	por quaisquer danos
+	sofridos pelos
+	participantes! ... Fui!
 	"""
 	keyWait
 	end
@@ -148,8 +147,8 @@ script 10 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Well,it looks like
-	it's calmed down…
+	Bom, parece que deu
+	uma acalmada...
 	"""
 	keyWait
 	clearMsg
@@ -157,15 +156,15 @@ script 10 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	It's no use!
-	He can't hear me!
+	Não adianta, ele não me
+	ouve!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'll have to go to
-	where I jacked in to
-	jack back out!
+	Vou ter que voltar pro
+	mesmo ponto pelo qual eu
+	me conectei pra sair!
 	"""
 	keyWait
 	end

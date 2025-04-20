@@ -3,9 +3,9 @@
 script 0 mmbn3 {
 	msgOpen
 	"""
-	Friday,one month
-	after the Zoo
-	incident…
+	Sexta-feira, um mês
+	após o incidente no
+	zoológico...
 	"""
 	keyWait
 	end
@@ -15,36 +15,35 @@ script 1 mmbn3 {
 		mugshot = MsMari
 	msgOpen
 	"""
-	…thus "compression"
-	refers to the act of
-	shrinking a large
+	... logo, "compressão"
+	é o ato de encolher
+	um grande volume
 	"""
 	keyWait
 	clearMsg
 	"""
-	amount of data by
-	utilizing the
-	program's power.
+	de dados através da
+	força do programa.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Shrinking data
-	allows you to send
-	and save even more
+	Encolher dados nos
+	permite enviar e salvar
+	ainda mais dados.
 	"""
 	keyWait
 	clearMsg
 	"""
-	data. SciLab quickly
-	processes massive
-	amounts of data
+	O SciLab processa
+	quantidades enormes
+	de dados rapidamente
 	"""
 	keyWait
 	clearMsg
 	"""
-	on a daily basis by
-	using compression.
+	todos os dias, com o uso
+	da compressão.
 	"""
 	keyWait
 	clearMsg
@@ -56,8 +55,9 @@ script 2 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Ms.Mari! Can MegaMan
-	be compressed,too?
+	Srta. Mari! O MegaMan
+	também pode ser
+	comprimido?
 	"""
 	keyWait
 	clearMsg
@@ -69,16 +69,15 @@ script 3 mmbn3 {
 		mugshot = MsMari
 	msgOpen
 	"""
-	Hmm. I suppose he
-	could be,but it
-	would require some
+	Hmm. Acho que poderia,
+	mas seria necessário
 	"""
 	keyWait
 	clearMsg
 	"""
-	specialized
-	processing. It
-	wouldn't be easy.
+	um tipo especial de
+	processamento.
+	Não seria fácil.
 	"""
 	keyWait
 	clearMsg
@@ -90,16 +89,16 @@ script 4 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Aw,man! I wish it
-	were easy. Then,when
-	he tells me to do my
+	Poxa! Queria que fosse
+	fácil. Aí, quando ele me
+	mandasse fazer o dever
 	"""
 	keyWait
 	clearMsg
 	"""
-	homework,I could
-	shrink him to the
-	size of a bean!
+	de casa, eu ia poder
+	encolher ele até o
+	tamanho de uma formiga!
 	"""
 	keyWait
 	clearMsg
@@ -124,34 +123,34 @@ script 5 mmbn3 {
 		frames = 20
 	"""
 	
-	Just who would you
-	shrink to a bean?
+	Quem vai virar
+	formiga?
 	"""
 	keyWait
 	clearMsg
-	"I knew it! "
+	"Sabia! "
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
 	"""
-	 So
-	that's how you feel
-	about me! Fine! Go
+	 Então, é
+	assim que você me vê,
+	né? Tá bom!
 	"""
 	keyWait
 	clearMsg
 	"""
-	ahead and wake up by
-	yourself tomorrow!
-	See what I care!
+	Boa sorte acordando
+	sozinho amanhã.
+	Tô nem aí!
 	"""
 	keyWait
 	clearMsg
@@ -162,16 +161,16 @@ script 6 mmbn3 {
 	mugshotHide
 	msgOpen
 	soundDisableTextSFX
-	"Ding-"
+	"Bim-"
 	wait
 		frames = 35
-	"Dong "
+	"Bom "
 	wait
 		frames = 38
-	"Ding-"
+	"Bim-"
 	wait
 		frames = 35
-	"Dong"
+	"Bom"
 	wait
 		frames = 80
 	keyWait
@@ -184,22 +183,22 @@ script 7 mmbn3 {
 		mugshot = MsMari
 	msgOpen
 	"""
-	Very well then,
-	that's it for today.
-	Just because
+	Bom, essa foi a aula de
+	hoje. Lembrem-se: só
+	porque amanhã é sábado,
 	"""
 	keyWait
 	clearMsg
 	"""
-	tomorrow's Saturday
-	though doesn't mean
-	you shouldn't do
+	não quer dizer que não
+	devam fazer a lição de
+	casa, hein!
 	"""
 	keyWait
 	clearMsg
 	"""
-	your homework!
-	See you next week!
+	Até semana que vem,
+	crianças!
 	"""
 	keyWait
 	clearMsg
@@ -209,7 +208,7 @@ script 7 mmbn3 {
 script 8 mmbn3 {
 	mugshotHide
 	msgOpen
-	"Goodbye,Ms.Mari!"
+	"Tchau, srta. Mari!"
 	keyWait
 	end
 }
@@ -218,9 +217,9 @@ script 9 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	All right! No school
-	tomorrow! What
-	should we do?
+	Beleza! Amanhã não tem
+	aula! E aí, o que a
+	gente vai fazer?
 	"""
 	keyWait
 	clearMsg
@@ -232,9 +231,9 @@ script 10 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I don't know,let's
-	see what everyone
-	else is doing!
+	Não sei... Vamos ver o
+	que o resto do pessoal
+	planeja!
 	"""
 	keyWait
 	end
@@ -244,9 +243,9 @@ script 11 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Uh,I was just
-	kidding,MegaMan! I'd
-	never do that!
+	Er... eu tava só
+	brincando, MegaMan!
+	Eu nunca faria isso!
 	"""
 	keyWait
 	clearMsg
@@ -257,7 +256,7 @@ script 12 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Reeeeally?"
+	"É meeesmo?"
 	keyWait
 	clearMsg
 	jump
@@ -268,9 +267,9 @@ script 13 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I promise! Please!
-	C'mon,wake me up
-	tomorrow,OK?
+	Eu juro! Por favor!
+	Vai, me acorda amanhã!
+	Vai me acordar, né?
 	"""
 	keyWait
 	clearMsg
@@ -281,7 +280,7 @@ script 14 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Oh,all right."
+	"Ai, tá bom."
 	keyWait
 	end
 }

@@ -4,16 +4,16 @@ script 0 mmbn3 {
 	mugshotHide
 	msgOpen
 	"""
-	Hee hee hee!
-	I got the first
-	TetraCode!
+	He he he!
+	O primeiro TetraCódigo
+	é meu!
 	"""
 	keyWait
 	clearMsg
 	"""
-	If I bring this
-	back,I can make him
-	proud of me!
+	Se eu voltar com isto,
+	com certeza ele ficará
+	orgulhoso de mim!
 	"""
 	keyWait
 	clearMsg
@@ -27,9 +27,9 @@ script 1 mmbn3 {
 		mugshot = Dex
 	msgOpen
 	"""
-	I hear him talking!
-	If it's a robber,I'm
-	going to get him!
+	Eu tô ouvindo uma voz!
+	Se for um ladrão, eu
+	vou dar uma coça ele!
 	"""
 	keyWait
 	clearMsg
@@ -40,7 +40,7 @@ script 2 mmbn3 {
 	mugshotShow
 		mugshot = Mayl
 	msgOpen
-	"I'm going,too!"
+	"Eu também vou!"
 	keyWait
 	clearMsg
 	jump
@@ -50,7 +50,7 @@ script 3 mmbn3 {
 	mugshotShow
 		mugshot = Yai
 	msgOpen
-	"Me,too!"
+	"E eu!"
 	keyWait
 	clearMsg
 	jump
@@ -61,21 +61,19 @@ script 4 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Dex!
-	And Mayl and Yai?
+	Dex! Mayl, Yai?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Aren't you supposed
-	to be waiting
-	outside?
+	Não era pra vocês
+	esperarem lá fora?
 	"""
 	keyWait
 	clearMsg
 	"""
-	This is dangerous!
-	Go back!
+	É perigoso aqui!
+	Voltem lá pra fora!
 	"""
 	keyWait
 	clearMsg
@@ -89,8 +87,8 @@ script 5 mmbn3 {
 		mugshot = Yai
 	msgOpen
 	"""
-	Leave this part
-	to us!
+	Deixa esta parte com a
+	gente!
 	"""
 	keyWait
 	clearMsg
@@ -102,9 +100,8 @@ script 6 mmbn3 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	You always stick
-	your neck out for
-	us!
+	Você sempre arrisca a
+	vida pela gente!
 	"""
 	keyWait
 	clearMsg
@@ -116,9 +113,9 @@ script 7 mmbn3 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Sometimes you've got
-	to give us a turn,
-	too!
+	Às vezes, cê tem que
+	deixar a gente ter a
+	nossa vez também!
 	"""
 	keyWait
 	clearMsg
@@ -127,7 +124,7 @@ script 7 mmbn3 {
 	"OK! "
 	flagClear
 		flag = 788
-	"Ready?"
+	"Prontas?"
 	keyWait
 	clearMsg
 	jump
@@ -137,7 +134,7 @@ script 8 mmbn3 {
 	mugshotShow
 		mugshot = Yai
 	msgOpen
-	"Of course!"
+	"Claro!"
 	keyWait
 	clearMsg
 	jump
@@ -147,7 +144,7 @@ script 9 mmbn3 {
 	mugshotShow
 		mugshot = Mayl
 	msgOpen
-	"Yeah!"
+	"Aham!"
 	keyWait
 	flagSet
 		flag = 784
@@ -157,7 +154,7 @@ script 10 mmbn3 {
 	mugshotShow
 		mugshot = Dex
 	msgOpen
-	"Here…we…GO!"
+	"Um... dois... TRÊS!"
 	keyWait
 	end
 }
@@ -165,7 +162,7 @@ script 11 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Let's go,Lan!"
+	"Vamos nessa, Lan!"
 	keyWait
 	clearMsg
 	jump
@@ -175,7 +172,7 @@ script 12 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Yeah!"
+	"Vamos!"
 	keyWait
 	end
 }

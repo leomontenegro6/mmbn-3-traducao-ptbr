@@ -5,8 +5,8 @@ script 0 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	So this is the
-	WWW base…
+	Então, essa é a base
+	da WWW...
 	"""
 	keyWait
 	end
@@ -16,16 +16,14 @@ script 1 mmbn3 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Lan,there's no time
-	to waste. Let's
-	get moving!
+	Lan, não temos tempo
+	a perder. Vamos indo!
 	"""
 	keyWait
 	clearMsg
 	"""
-	There isn't much
-	time left. Every
-	second counts!
+	Não resta muito tempo.
+	Cada segundo conta!
 	"""
 	keyWait
 	end
@@ -36,7 +34,7 @@ script 2 mmbn3 {
 	msgOpen
 	"""
 	Chaud!
-	Wait!
+	Espera!
 	"""
 	keyWait
 	end
@@ -46,9 +44,9 @@ script 3 mmbn3 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Just you wait,Wily!
-	It's time for a
-	knuckle sandwich!
+	Se prepara, Wily!
+	O que é teu tá
+	guardado!
 	"""
 	keyWait
 	clearMsg
@@ -60,8 +58,8 @@ script 4 mmbn3 {
 		mugshot = Tora
 	msgOpen
 	"""
-	Can't let Chaud
-	steal the show!
+	"Num" posso deixar o
+	Chaud aparecer assim!
 	"""
 	keyWait
 	flagSet
@@ -75,8 +73,8 @@ script 5 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	C'mon,Lan!
-	Let's get moving!!
+	Vamos, Lan!
+	Vamos indo!!
 	"""
 	keyWait
 	clearMsg
@@ -87,7 +85,7 @@ script 6 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Yeah!!"
+	"É!!"
 	keyWait
 	end
 }

@@ -5,25 +5,25 @@ script 0 mmbn3 {
 		mugshot = LordWily
 	msgOpen
 	"""
-	Bass! That is Dr.
-	Hikari's greatest
-	protection program…
+	Bass! Esse é o maior
+	programa de proteção
+	do Dr. Hikari...
 	"""
 	keyWait
 	clearMsg
-	"\"Guardian\"!"
+	"\"Guardião\"!"
 	keyWait
 	clearMsg
 	"""
-	If you destroy it,
-	absorb it with your
-	Ability Program…
+	Se destruí-lo e absorvê-
+	lo com o seu Programa
+	de Habilidade...
 	"""
 	keyWait
 	clearMsg
 	"""
-	You'll have even
-	greater powers!
+	obterá um poder ainda
+	maior!
 	"""
 	keyWait
 	clearMsg
@@ -35,9 +35,9 @@ script 1 mmbn3 {
 		mugshot = Bass
 	msgOpen
 	"""
-	Old man! What are
-	you planning,
-	making me stronger?
+	Velho prepotente!
+	O que planeja,
+	me deixando mais forte?
 	"""
 	keyWait
 	clearMsg
@@ -49,16 +49,16 @@ script 2 mmbn3 {
 		mugshot = LordWily
 	msgOpen
 	"""
-	I desire only chaos
-	and the destruction
-	of Net society…
+	Só o que desejo é o
+	caos e a destruição da
+	sociedade da Rede...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Why else would I
-	desire to make
-	you stronger?
+	Por que mais eu iria
+	querer deixar você mais
+	forte?
 	"""
 	keyWait
 	clearMsg
@@ -70,15 +70,14 @@ script 3 mmbn3 {
 		mugshot = Bass
 	msgOpen
 	"""
-	But you are
-	mistaken…
+	Mas você se engana...
 	"""
 	keyWait
 	clearMsg
 	"""
-	It is not Net
-	society that I hate,
-	but you humans!
+	Não é a sociedade da
+	Rede que eu odeio...
+	são vocês, humanos!
 	"""
 	keyWait
 	clearMsg
@@ -90,23 +89,22 @@ script 4 mmbn3 {
 		mugshot = LordWily
 	msgOpen
 	"""
-	It is your desire
-	for revenge that
-	brings us together.
+	É o seu desejo de
+	vingança que nos une.
 	"""
 	keyWait
 	clearMsg
 	"""
-	What do I care if
-	this aged body is
-	destroyed…?
+	Acha que me importo se
+	este meu corpo
+	envelhecido morrer...?
 	"""
 	keyWait
 	clearMsg
 	"""
-	As long as you
-	fulfill your desires
-	I will be satisfied.
+	Desde que você alcance
+	seus objetivos, ficarei
+	satisfeito.
 	"""
 	keyWait
 	clearMsg
@@ -118,19 +116,19 @@ script 5 mmbn3 {
 		mugshot = Bass
 	msgOpen
 	"""
-	So you would
-	sacrifice even your
-	life for this?
+	Então, você até
+	sacrificaria a própria
+	vida por isso?
 	"""
 	keyWait
 	clearMsg
-	"You amuse me…"
+	"Interessante..."
 	keyWait
 	clearMsg
 	"""
-	Just watch,old man!
-	Watch me become
-	even stronger!!
+	Observe, então, velho!
+	Veja-me ficar ainda
+	mais forte!!
 	"""
 	keyWait
 	end
@@ -140,20 +138,20 @@ script 6 mmbn3 {
 		mugshot = Bass
 	msgOpen
 	"""
-	So this is the
-	Guardian core.
-	If I abosorb this…
+	Então, esse é o núcleo
+	do Guardião.
+	Se eu absorver isso...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Nothing in
-	Cyberworld will be
-	stronger than me!
+	Não haverá nada no
+	mundo cibernético mais
+	forte que eu!
 	"""
 	keyWait
 	clearMsg
-	"Get Ability Program!"
+	"Programa de Aquisição\nde Habilidade!"
 	keyWait
 	end
 }
@@ -170,9 +168,9 @@ script 8 mmbn3 {
 		mugshot = LordWily
 	msgOpen
 	"""
-	You again!
-	So you dared to
-	pulse in!!
+	Vocês de novo!
+	Então, o garoto teve a
+	ousadia de se pulsar!!
 	"""
 	keyWait
 	end
@@ -182,9 +180,9 @@ script 9 mmbn3 {
 		mugshot = Bass
 	msgOpen
 	"""
-	You again!? The Navi
-	with the idiot of a
-	human operator!
+	Aqueles dois... O Navi
+	e seu operador humano
+	completamente débil!
 	"""
 	keyWait
 	clearMsg
@@ -199,9 +197,9 @@ script 10 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Humans aren't as
-	stupid as you
-	think they are!
+	Os humanos não são
+	tão tolos quanto você
+	pensa que são!
 	"""
 	keyWait
 	clearMsg
@@ -213,16 +211,16 @@ script 11 mmbn3 {
 		mugshot = Bass
 	msgOpen
 	"""
-	Humans think of
-	Navis as merely a
-	tools to be used.
+	Os humanos só veem
+	Navis como ferramentas
+	para serem usadas.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Navis who don't
-	realize that are
-	just as foolish.
+	Navis que não percebem
+	que são tão tolos
+	quanto.
 	"""
 	keyWait
 	clearMsg
@@ -234,22 +232,21 @@ script 12 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I have never thought
-	of MegaMan as just
-	a tool!!
+	Eu nunca vi o MegaMan
+	como uma ferramenta!!
 	"""
 	keyWait
 	clearMsg
 	"""
-	We're true partners,
-	who trust and
-	respect each other!!
+	Somos parceiros de
+	verdade. Confiamos e
+	respeitamos um ao outro!!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Even Cossak,
-	who created you…
+	Até o sr. Cossak, que
+	criou você...
 	"""
 	keyWait
 	clearMsg
@@ -261,36 +258,36 @@ script 13 mmbn3 {
 		mugshot = Bass
 	msgOpen
 	"""
-	Silence!
-	Exactly what I would
-	expect from a human…
+	Quieto!
+	Típico do que eu espera-
+	ria de um humano...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Navis have no need
-	for operators…
+	Navis não precisam de
+	operadores.
 	"""
 	keyWait
 	clearMsg
 	"""
-	All we need is the
-	strength to exist
-	on our own!
+	Só do que precisamos
+	é a força para
+	existirmos sozinhos!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Absolute power,so
-	that we need cower
-	before none.
+	Poder absoluto, para
+	não termos que temer
+	ante ninguém.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I will weed out weak
-	Navis who cannot
-	fight on their own!
+	E eu vou eliminar os
+	Navis que forem incapa-
+	zes de lutar sozinhos!
 	"""
 	keyWait
 	clearMsg
@@ -302,15 +299,16 @@ script 14 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Bass! Look back!
-	I know that you once
-	felt it!
+	Bass! Tenta se lembrar!
+	Eu sei que você já
+	sentiu isso um dia!
 	"""
 	keyWait
 	clearMsg
 	"""
-	A feeling of trust
-	for Cossak!
+	Um sentimento de
+	confiança pelo
+	sr. Cossak!
 	"""
 	keyWait
 	clearMsg
@@ -322,15 +320,16 @@ script 15 mmbn3 {
 		mugshot = Bass
 	msgOpen
 	"""
-	Hah!! You think that
-	I retain such
-	pathetic emotions!?
+	Ha!! Acha mesmo que eu
+	guardaria emoções
+	patéticas como essas?!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Time for you
-	to be deleted!
+	Chega desta perda
+	de tempo! Hora de
+	deletar vocês!
 	"""
 	keyWait
 	clearMsg
@@ -342,16 +341,16 @@ script 16 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	C'mon,MegaMan!
-	Let's show him how
-	strong we are!
+	Vamos lá, MegaMan!
+	Vamos mostrar pra ele o
+	quanto nós somos fortes!
 	"""
 	keyWait
 	clearMsg
-	"Battle routine,"
+	"Rotina"
 	waitSkip
 		frames = 30
-	" \nset!"
+	" \nde batalha...!"
 	keyWait
 	clearMsg
 	jump
@@ -361,7 +360,7 @@ script 17 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Execute!"
+	"Executar!"
 	keyWait
 	end
 }

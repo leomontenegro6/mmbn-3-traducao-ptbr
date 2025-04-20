@@ -4,9 +4,9 @@ script 0 mmbn3 {
 	mugshotHide
 	msgOpen
 	"""
-	Later,after a
-	delicious and
-	filling meal…
+	Mais tarde, após uma
+	deliciosa e farta
+	refeição...
 	"""
 	keyWait
 	end
@@ -15,7 +15,7 @@ script 1 mmbn3 {
 	mugshotShow
 		mugshot = Dex
 	msgOpen
-	"I'll get you!!!!"
+	"Iá! Eu vou te pegar!!!!"
 	keyWait
 	clearMsg
 	jump
@@ -25,7 +25,7 @@ script 2 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Oh yeah? How's this!"
+	"Ah, é? Toma essa!"
 	keyWait
 	clearMsg
 	jump
@@ -36,8 +36,8 @@ script 3 mmbn3 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	Eeeek!!!
-	Take that!!
+	Aaaaiinn!!!
+	Lá vai!!
 	"""
 	keyWait
 	clearMsg
@@ -49,8 +49,8 @@ script 4 mmbn3 {
 		mugshot = Yai
 	msgOpen
 	"""
-	Hey! HEY!
-	Take it easy!
+	Ô! EI!
+	Peguem leve!
 	"""
 	keyWait
 	clearMsg
@@ -61,7 +61,7 @@ script 5 mmbn3 {
 	mugshotShow
 		mugshot = OrangeShirtBoy
 	msgOpen
-	"Ha ha ha!! YEAH!"
+	"Ha ha ha!! URRÚ!"
 	keyWait
 	end
 }

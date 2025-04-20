@@ -4,12 +4,12 @@ script 0 mmbn3 {
 	mugshotShow
 		mugshot = NormalNaviGreen
 	msgOpen
-	"Huff! Huff! Huff!"
+	"Arf! Urf! Aef!"
 	keyWait
 	clearMsg
 	"""
-	Very impressive,Mr.
-	Official NetBattler.
+	Muito impressionante,
+	Sr. NetLutador Oficial.
 	"""
 	keyWait
 	clearMsg
@@ -21,15 +21,15 @@ script 1 mmbn3 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	You're pretty strong
-	yourself,for a
-	commercial model
+	Você também é bem for-
+	te, especialmente para
+	um Navi modelo comercial.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Navi. Just who
-	exactly are you!?
+	Quem, exatamente,
+	é você?!
 	"""
 	keyWait
 	clearMsg
@@ -41,16 +41,16 @@ script 2 mmbn3 {
 		mugshot = NormalNaviGreen
 	msgOpen
 	"""
-	I am honored by
-	your words of
-	praise,but this form
+	Fico honrado com suas
+	palavras gentis, mas
+	esta forma tem seus
 	"""
 	keyWait
 	clearMsg
 	"""
-	has it's limits,and
-	isn't quite enough
-	against you.
+	limites, e não é,
+	realmente, suficiente
+	para vencer você.
 	"""
 	keyWait
 	clearMsg
@@ -61,7 +61,7 @@ script 3 mmbn3 {
 	mugshotShow
 		mugshot = ProtoMan
 	msgOpen
-	"\"This form\"?"
+	"\"Esta forma\"?"
 	keyWait
 	clearMsg
 	jump
@@ -71,7 +71,7 @@ script 4 mmbn3 {
 	mugshotShow
 		mugshot = Chaud
 	msgOpen
-	"ProtoMan! Be alert!"
+	"ProtoMan! Fique atento!"
 	keyWait
 	clearMsg
 	jump
@@ -81,7 +81,7 @@ script 5 mmbn3 {
 	mugshotShow
 		mugshot = ProtoMan
 	msgOpen
-	"Yes sir!"
+	"Sim, senhor!"
 	keyWait
 	clearMsg
 	jump
@@ -93,17 +93,17 @@ script 6 mmbn3 {
 	msgOpen
 	"""
 	Grrraaarrr!
-	Desert
-	Metamorphosis!
+	Metamorfose
+	Desértica!
 	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = NetbattlerQ
 	"""
-	W-Wait! It's too
-	soon for Desert
-	Metamorphosis!
+	E-espere! Ainda é cedo
+	demais para a
+	Metamorfose Desértica!
 	"""
 	keyWait
 	clearMsg
@@ -115,8 +115,8 @@ script 7 mmbn3 {
 		mugshot = NormalNaviGreen
 	msgOpen
 	"""
-	5…4…3…2…1…
-	Gyaaaaaa!
+	5... 4... 3... 2... 1...
+	Gaaaaaagghhh!
 	"""
 	keyWait
 	end
@@ -127,7 +127,7 @@ script 8 mmbn3 {
 	mugshotShow
 		mugshot = DesertMan
 	msgOpen
-	"Gwahh……Gwahh……"
+	"Auughh... Arrhh..."
 	keyWait
 	clearMsg
 	jump
@@ -137,7 +137,7 @@ script 9 mmbn3 {
 	mugshotShow
 		mugshot = ProtoMan
 	msgOpen
-	"……!!"
+	"......!!"
 	keyWait
 	clearMsg
 	jump
@@ -148,15 +148,15 @@ script 10 mmbn3 {
 		mugshot = DesertMan
 	msgOpen
 	"""
-	Zooo……Zwozaaah……
-	(I am DesertMan!)
+	Jjoooo... Juooaaahh......
+	(Eu sou DesertMan!)
 	"""
 	keyWait
 	clearMsg
 	"""
-	Zazuuu…Zwozaaah……
-	(This is my true
-	form!)
+	Jaauuu... Juooaao......
+	(Esta é minha
+	verdadeira forma!)
 	"""
 	keyWait
 	clearMsg
@@ -168,8 +168,8 @@ script 11 mmbn3 {
 		mugshot = NetbattlerQ
 	msgOpen
 	"""
-	DesertMan! Don't
-	delete ProtoMan yet!
+	DesertMan! Não delete
+	o ProtoMan ainda!
 	"""
 	keyWait
 	clearMsg
@@ -181,14 +181,14 @@ script 12 mmbn3 {
 		mugshot = DesertMan
 	msgOpen
 	"""
-	Zouzazoooo……
-	(Why!?)
+	Jooojaooooo......
+	(Por quê?!)
 	"""
 	keyWait
 	clearMsg
 	"""
-	Zuuzaoohooo.
-	(Why not kill the
+	Juuuaaajoooo.
+	(Por que não matar o
 	Navi!?)
 	"""
 	keyWait
@@ -201,30 +201,30 @@ script 13 mmbn3 {
 		mugshot = NetbattlerQ
 	msgOpen
 	"""
-	That wouldn't be
-	very interesting for
-	our viewers!! The
+	Não seria muito
+	interessante para os
+	nossos telespectadores!
 	"""
 	keyWait
 	clearMsg
 	"""
-	audience is always
-	looking for an
-	unexpected turn of
+	O público almeja uma
+	reviravolta inesperada.
+	Arraste a luta! Enrole!
 	"""
 	keyWait
 	clearMsg
 	"""
-	events! Drag it out!
-	Our ratings will
-	drop if you delete
+	Nossa audiência cairá
+	se você deletá-lo rápido
+	demais!
 	"""
 	keyWait
 	clearMsg
 	"""
-	him too early! Buy
-	some time with
-	dramatic moves!
+	Ganhe tempo desferindo
+	umas técnicas bem
+	dramáticas!
 	"""
 	keyWait
 	clearMsg
@@ -236,8 +236,7 @@ script 14 mmbn3 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	ProtoMan! Delete
-	him!
+	ProtoMan! Delete-o!
 	"""
 	keyWait
 	clearMsg
@@ -248,7 +247,7 @@ script 15 mmbn3 {
 	mugshotShow
 		mugshot = ProtoMan
 	msgOpen
-	"Yes,sir!"
+	"Sim, senhor!"
 	keyWait
 	clearMsg
 	jump
@@ -258,7 +257,7 @@ script 16 mmbn3 {
 	mugshotShow
 		mugshot = ProtoMan
 	msgOpen
-	"Prepare to die!"
+	"Prepare-se para morrer!"
 	keyWait
 	clearMsg
 }
@@ -266,7 +265,7 @@ script 17 mmbn3 {
 	mugshotShow
 		mugshot = NetbattlerQ
 	msgOpen
-	"Now!"
+	"Agora!"
 	keyWait
 	clearMsg
 	jump
@@ -279,8 +278,8 @@ script 18 mmbn3 {
 	flagSet
 		flag = 1538
 	"""
-	Zuoooooooo!!
-	(Desert Mirage!!)
+	Juuuuoooooooh!!
+	(Miragem do Deserto!!)
 	"""
 	keyWait
 	end
@@ -291,7 +290,7 @@ script 19 mmbn3 {
 	msgOpen
 	"""
 	Ahh!!
-	Wh-what's this!?
+	O-o que é isso?!
 	"""
 	keyWait
 	clearMsg
@@ -303,30 +302,29 @@ script 20 mmbn3 {
 		mugshot = DesertMan
 	msgOpen
 	"""
-	Zuzazoooooo……
-	(How do you like my
-	mirage world?)
+	Juuaaaoooojo......
+	(E então, gostou do meu
+	mundo de miragens?)
 	"""
 	keyWait
 	clearMsg
 	"""
-	Zuzuzuooozoooo……
-	(Your eyesight is in
-	great disorder,no?)
+	Juuujuuuoooojuuooo......
+	(Sua vista está bem
+	avariada agora, não?)
 	"""
 	keyWait
 	clearMsg
 	"""
-	Zaaaa……Zoooo……
-	(You can't even
-	attack me!)
+	Jaaaa...... Juuuo......
+	(Nem pode me atacar!)
 	"""
 	keyWait
 	clearMsg
 	"""
-	Zuzaaaaa.
-	(I'll devour you
-	slowly.)
+	Juuuaaaaa.
+	(Vou te devorar bem
+	devagar...)
 	"""
 	keyWait
 	end
@@ -337,7 +335,7 @@ script 21 mmbn3 {
 	msgOpen
 	"""
 	ProtoMan!
-	Blind Mode!
+	Modo Cego!
 	"""
 	keyWait
 	clearMsg
@@ -348,13 +346,13 @@ script 22 mmbn3 {
 	mugshotShow
 		mugshot = ProtoMan
 	msgOpen
-	"Blind Mode!!"
+	"Modo Cego!!"
 	keyWait
 	clearMsg
-	"…There you are!"
+	"... Aí está você!"
 	keyWait
 	clearMsg
-	"Hyaaah!"
+	"Ha-yá!"
 	keyWait
 	end
 }
@@ -363,9 +361,9 @@ script 23 mmbn3 {
 		mugshot = NetbattlerQ
 	msgOpen
 	"""
-	What!? You can
-	attack,even in my
-	Desert Mirage!?
+	O quê?! Como conseguiu
+	atacar, mesmo com minha
+	Miragem do Deserto?!
 	"""
 	keyWait
 	clearMsg
@@ -377,9 +375,9 @@ script 24 mmbn3 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Hmph! Little tricks
-	like that don't work
-	on ProtoMan!
+	Hmpf! Truques patéticos
+	assim não funcionam com
+	o ProtoMan!
 	"""
 	keyWait
 	clearMsg
@@ -391,22 +389,22 @@ script 25 mmbn3 {
 		mugshot = NetbattlerQ
 	msgOpen
 	"""
-	Chaud…
-	ProtoMan…
+	Eugene Chaud...
+	ProtoMan...
 	"""
 	keyWait
 	clearMsg
 	"""
-	I now see why Lord
-	Wily is concerned
-	about you.
+	Entendo agora por que
+	o Lorde Wily se sente
+	ameaçado por vocês.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I believe I'll need
-	to delete you here
-	after all.
+	Parece que, no fim das
+	contas, terei mesmo que
+	deletá-los aqui.
 	"""
 	keyWait
 	clearMsg
@@ -418,8 +416,8 @@ script 26 mmbn3 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	What!?
-	Wily!?
+	O quê?!
+	Wily?!
 	"""
 	keyWait
 	end

@@ -5,9 +5,9 @@ script 0 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Chaud is in trouble!
-	We have to find out
-	who's running this!
+	O Chaud tá em apuros!
+	A gente tem que achar
+	quem tá controlando isto!
 	"""
 	keyWait
 	clearMsg
@@ -18,7 +18,7 @@ script 1 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Roger!"
+	"Pode deixar!"
 	keyWait
 	end
 }

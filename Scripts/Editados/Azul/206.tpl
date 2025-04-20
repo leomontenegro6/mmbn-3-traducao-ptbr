@@ -7,9 +7,9 @@ script 0 mmbn3 {
 	playerAnimate
 		animation = 27
 	"""
-	I turned the lights
-	on. How is it over
-	there,MegaMan?
+	Eu liguei as luzes.
+	Como tão as coisas aí,
+	MegaMan?
 	"""
 	keyWait
 	clearMsg
@@ -21,8 +21,9 @@ script 1 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	It's bright enough
-	to search now,Lan!
+	Agora tá iluminado o
+	bastante pra procurar,
+	Lan!
 	"""
 	keyWait
 	clearMsg
@@ -34,9 +35,8 @@ script 2 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	All right! I'm
-	counting on you,
-	MegaMan!
+	Beleza! Tô contando com
+	você, MegaMan!
 	"""
 	keyWait
 	clearMsg
@@ -47,7 +47,7 @@ script 3 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"You bet!"
+	"Pode deixar!"
 	keyWait
 	end
 }
@@ -57,7 +57,7 @@ script 4 mmbn3 {
 	msgOpen
 	playerAnimate
 		animation = 27
-	"How's that,MegaMan?"
+	"E aí, MegaMan?"
 	keyWait
 	clearMsg
 	jump
@@ -68,8 +68,8 @@ script 5 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	It's still too dark
-	in here,Lan!
+	Ainda tá escuro demais
+	aqui, Lan!
 	"""
 	keyWait
 	clearMsg
@@ -81,8 +81,8 @@ script 6 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Guess that wasn't
-	it,then…
+	É, acho que não era
+	este...
 	"""
 	keyWait
 	end

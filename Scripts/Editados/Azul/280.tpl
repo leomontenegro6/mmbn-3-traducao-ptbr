@@ -5,39 +5,38 @@ script 0 mmbn3 {
 		mugshot = Tora
 	msgOpen
 	"""
-	Pfft! So maybe
-	you've got some
-	skills after
+	Pfft! Então, tu tem
+	mesmo alguma habilidade.
 	"""
 	keyWait
 	clearMsg
 	"""
-	all. Still,ya won't
-	stand a chance when
-	I play for real.
+	Ainda assim, não ia ter
+	a menor chance se eu
+	lutasse pra valer.
 	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	"""
-	You were just
-	holding back?
+	Você tava se
+	segurando?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Wow. The competition
-	here sure is deep.
+	Caramba... A concorrência
+	aqui é pesada mesmo.
 	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = Tora
 	"""
-	If ya face me later,
-	don't expect me to
-	show any mercy!
+	Se tu lutar comigo
+	depois, não vá esperar
+	misericórdia!
 	"""
 	keyWait
 	end
@@ -47,60 +46,59 @@ script 1 mmbn3 {
 		mugshot = Tora
 	msgOpen
 	"""
-	Hmph! You're all
-	hype. Go home now,
-	before ya get hurt.
+	Hmpf! Tu é só papo.
+	Vai logo pra casa,
+	antes que se ferre.
 	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	"""
-	He was so strong!
-	So this is what N1
-	is like?
+	Ele é tão forte!
+	Então, é assim que é
+	o Grande Prêmio N1?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Is everyone here
-	this strong?
+	Todo mundo aqui é
+	forte assim?
 	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	What are you whimpe-
-	ring about? The real
-	battle lies ahead!
+	O que cê tá xoramingan-
+	do aí, Lan? A verdadeira
+	luta ainda tá por vir!
 	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	"""
-	Hey! I'm gonna pay
-	you back later!
+	Aí! Eu vou dar o troco
+	depois!
 	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = Tora
 	"""
-	Say whatever you
-	want,'cause if we do
+	Blá, blá, blá, mané.
 	"""
 	keyWait
 	clearMsg
 	"""
-	end up battling each
-	other,you're gonna
-	lose all over again.
+	Se a gente acabar
+	lutando de novo, tu
+	VAI perder de novo.
 	"""
 	keyWait
 	clearMsg
-	"Hahahaha!"
+	"Ha ha ha ha!"
 	keyWait
 	end
 }
@@ -109,23 +107,23 @@ script 2 mmbn3 {
 		mugshot = Sunayama
 	msgOpen
 	"""
-	Welcome,N1
-	contestants! Sorry
-	to keep you waiting!
+	Bem-vindos, competidores
+	do N1! Desculpem por
+	deixá-los esperando!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Now,then,proceed
-	inside through this
-	entrance.
+	Agora, por favor,
+	prossigam por esta
+	entrada.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Everyone in the
-	stands is waiting
-	for your arrival!
+	Todos nas arquibancadas
+	estão esperando vocês
+	chegarem!
 	"""
 	keyWait
 	end
@@ -135,8 +133,8 @@ script 3 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	This is it,Lan!
-	Are you nervous?
+	É agora, Lan!
+	Você tá nervoso?
 	"""
 	keyWait
 	clearMsg
@@ -148,15 +146,15 @@ script 4 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Not at all. I'm
-	warmed up now.
+	Nem um pouco.
+	Agora, eu tô aquecido.
 	"""
 	keyWait
 	clearMsg
 	"""
-	That's one more
-	person I won't let
-	win!
+	Afinal de contas, tenho
+	uma pessoa a mais que
+	não posso deixar vencer!
 	"""
 	keyWait
 	end
@@ -166,9 +164,9 @@ script 5 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	C'mon,let's go!
-	We're gonna beat
-	them all!
+	Vamos lá!
+	A gente vai acabar
+	com todos eles!
 	"""
 	keyWait
 	clearMsg
@@ -179,7 +177,7 @@ script 6 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Right!"
+	"É!"
 	keyWait
 	end
 }

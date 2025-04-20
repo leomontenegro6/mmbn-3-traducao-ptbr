@@ -3,7 +3,7 @@
 script 0 mmbn3 {
 	mugshotHide
 	msgOpen
-	"Proceed."
+	"Prossiga."
 	keyWait
 	clearMsg
 	jump
@@ -13,7 +13,7 @@ script 1 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Lan,I'm going in!"
+	"Lan, eu vou entrar!"
 	keyWait
 	end
 }
@@ -22,9 +22,9 @@ script 2 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	What's this?
-	Where does this
-	giant hole lead to?
+	O que é isso?
+	Aonde esse buraco
+	enorme vai dar?
 	"""
 	keyWait
 	clearMsg
@@ -35,15 +35,15 @@ script 3 mmbn3 {
 	mugshotHide
 	msgOpen
 	"""
-	You have done well
-	to make it this far.
+	Você fez bem em
+	chegar até aqui.
 	"""
 	keyWait
 	clearMsg
 	"""
-	My name is Serenade.
-	I reign over all the
-	ranked Navis.
+	Meu nome é Serenade.
+	Eu governo todos os
+	Navis ranqueados.
 	"""
 	keyWait
 	clearMsg
@@ -56,21 +56,20 @@ script 4 mmbn3 {
 	msgOpen
 	"""
 	Serenade!
-	I am MegaMan!
+	Eu sou MegaMan.EXE!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I've come on behalf
-	of the Officials to
-	get the Forbidden
+	Vim em nome dos Oficiais
+	receber o Programa
+	Proibido!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Program! Someone is
-	trying to awaken
-	Alpha!
+	Alguém está tentando
+	despertar o Alpha!
 	"""
 	keyWait
 	clearMsg
@@ -80,20 +79,19 @@ script 4 mmbn3 {
 script 5 mmbn3 {
 	mugshotHide
 	msgOpen
-	"……"
+	"......"
 	keyWait
 	clearMsg
 	"""
-	Unfortunately the
-	Forbidden Program
-	cannot be "given".
+	Infelizmente, o Programa
+	Proibido não pode ser
+	"dado".
 	"""
 	keyWait
 	clearMsg
 	"""
-	Only a Chosen One
-	may wield the
-	program.
+	Somente um Escolhido
+	pode portar o programa.
 	"""
 	keyWait
 	clearMsg
@@ -104,13 +102,13 @@ script 6 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"A Chosen One…?"
+	"Um Escolhido...?"
 	keyWait
 	clearMsg
 	"""
-	But if I don't get
-	it,the Net society
-	will perish!
+	Mas, se eu não o
+	obtiver, a sociedade da
+	Rede vai ser destruída!
 	"""
 	keyWait
 	clearMsg
@@ -121,23 +119,23 @@ script 7 mmbn3 {
 	mugshotHide
 	msgOpen
 	"""
-	Are you prepared to
-	take the test,to see
-	if you are Chosen?
+	Está preparado para
+	passar pelo teste e
+	ver se é o Escolhido?
 	"""
 	keyWait
 	clearMsg
 	"""
-	If so,reach out and
-	take the program
-	in front of you.
+	Se sim, estenda a mão
+	e pegue o programa à
+	sua frente.
 	"""
 	keyWait
 	clearMsg
 	"""
-	It is the one which
-	you seek! It is the
-	Forbidden Program!
+	Esse é o programa que
+	você busca!
+	O Programa Proibido!
 	"""
 	keyWait
 	end
@@ -147,8 +145,8 @@ script 8 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	This is the
-	Forbidden Program?
+	Esse é o Programa
+	Proibido?
 	"""
 	keyWait
 	clearMsg
@@ -159,37 +157,37 @@ script 9 mmbn3 {
 	mugshotHide
 	msgOpen
 	"""
-	Now then,take it!
-	If it flares up with
-	blue flame,you are
+	Agora, agarre-o!
+	Se ele arder com
+	chamas azuis,
 	"""
 	keyWait
 	clearMsg
 	"""
-	a Chosen One,and can
-	wield the program.
-	However! If you are
+	você é um Escolhido, e
+	poderá usar o programa.
+	Contudo!
 	"""
 	keyWait
 	clearMsg
 	"""
-	not chosen,you will
-	immediately suffer
-	the effect of
+	Se não for um Escolhido,
+	sofrerá os efeitos do
+	programa imediatamente.
 	"""
 	keyWait
 	clearMsg
 	"""
-	the program. You,
-	MegaMan,will be
-	frozen for all
+	Você, MegaMan, será
+	congelado por toda a
+	eternidade!
 	"""
 	keyWait
 	clearMsg
 	"""
-	eternity! No power
-	will ever be able to
-	awaken you!
+	Nenhum poder, de
+	nenhuma espécie, será
+	capaz de despertá-lo!
 	"""
 	keyWait
 	clearMsg
@@ -200,7 +198,7 @@ script 10 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"……"
+	"......"
 	keyWait
 	clearMsg
 	jump
@@ -210,9 +208,9 @@ script 11 mmbn3 {
 	mugshotHide
 	msgOpen
 	"""
-	Now,then. Grasp the
-	program and discover
-	your destiny!
+	Pois bem. Agarre o
+	programa e descubra
+	o seu destino!
 	"""
 	keyWait
 	clearMsg
@@ -223,7 +221,7 @@ script 12 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"MegaMan…"
+	"MegaMan..."
 	keyWait
 	clearMsg
 	jump
@@ -233,7 +231,7 @@ script 13 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Lan…!!"
+	"Lan...!!"
 	keyWait
 	clearMsg
 	"Aaaaaah!"
@@ -258,7 +256,7 @@ script 14 mmbn3 {
 script 15 mmbn3 {
 	mugshotHide
 	msgOpen
-	"So he is frozen…"
+	"Então, ele congelou..."
 	keyWait
 	clearMsg
 	soundStop
@@ -270,7 +268,7 @@ script 16 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Noooooo!
+	Nããããããoo!
 	MegaMaaaan!!
 	"""
 	keyWait
@@ -279,7 +277,7 @@ script 16 mmbn3 {
 script 17 mmbn3 {
 	mugshotHide
 	msgOpen
-	"…Mm?"
+	"... Mm?"
 	keyWait
 	end
 }
@@ -288,8 +286,9 @@ script 18 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan! I did it! I can
-	use the program!
+	Lan! Deu certo!
+	Eu consigo usar o
+	programa!
 	"""
 	keyWait
 	clearMsg
@@ -301,9 +300,9 @@ script 19 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	What were you
-	thinking,pulling a
-	stunt like that!?
+	Onde você tava com a
+	cabeça, fazendo uma
+	loucura dessas?!
 	"""
 	keyWait
 	clearMsg
@@ -314,9 +313,9 @@ script 20 mmbn3 {
 	mugshotHide
 	msgOpen
 	"""
-	Excellent…!
-	The program is yours
-	to wield,MegaMan!
+	Excelente...!
+	O programa, agora, é
+	seu para usar, MegaMan!
 	"""
 	keyWait
 	clearMsg
@@ -331,7 +330,7 @@ script 21 mmbn3 {
 	soundPlay
 		track = 133
 	"""
-	MegaMan got:
+	MegaMan adquiriu:
 	"
 	"""
 	printItem
@@ -351,8 +350,8 @@ script 22 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	All right,MegaMan!
-	Mission completed!
+	Beleza, MegaMan!
+	Missão cumprida!
 	"""
 	keyWait
 	clearMsg
@@ -366,9 +365,9 @@ script 23 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Not yet,Lan. We have
-	to take this program
-	to the Officials!
+	Ainda não, Lan. Temos
+	que levar o programa
+	para os Oficiais!
 	"""
 	keyWait
 	clearMsg
@@ -380,8 +379,8 @@ script 24 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Oh yeah! All right,
-	let's jack out!
+	Ah, verdade! Beleza,
+	vamos desconectar!
 	"""
 	keyWait
 	clearMsg
@@ -392,7 +391,7 @@ script 25 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Roger!"
+	"Entendido!"
 	keyWait
 	end
 }
@@ -400,9 +399,9 @@ script 26 mmbn3 {
 	mugshotHide
 	msgOpen
 	"""
-	So there is another
-	Navi who can wield
-	Dr.Hikari's program…
+	Então, há outro Navi
+	capaz de utilizar o
+	programa do Dr. Hikari...
 	"""
 	keyWait
 	end

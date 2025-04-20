@@ -5,15 +5,16 @@ script 0 mmbn3 {
 		mugshot = Innkeeper
 	msgOpen
 	"""
-	Welcome! I am the
-	owner of this inn.
+	Olá! Sou Kimie Unda, a
+	dona desta humilde
+	pousada.
 	"""
 	keyWait
 	clearMsg
 	"""
-	It is my sincere
-	hope that you enjoy
-	your stay here.
+	Espero, de coração,
+	que você aprecie a
+	sua estadia.
 	"""
 	keyWait
 	end
@@ -23,16 +24,16 @@ script 1 mmbn3 {
 		mugshot = InnMan
 	msgOpen
 	"""
-	I was wondering why
-	so many kids were
-	running around.
+	Eu estava me pergun-
+	tando por que tinham
+	tantas crianças aqui.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Seems they're on a
-	school trip. So much
-	for peace and quiet…
+	Parece que estão em
+	excursão. Ah, lá se vai
+	minha paz e sossego...
 	"""
 	keyWait
 	end
@@ -47,9 +48,9 @@ script 2 mmbn3 {
 		mugshot = InnWoman
 	msgOpen
 	"""
-	I actually enjoy the
-	activity. It reminds
-	me of our kid!
+	Sinceramente, eu gosto
+	da agitação. Me faz
+	lembrar do nosso filho!
 	"""
 	keyWait
 	end
@@ -59,16 +60,16 @@ script 10 mmbn3 {
 		mugshot = Innkeeper
 	msgOpen
 	"""
-	Are you from the
-	elementary school?
-	You'd better hurry!
+	Você também é daquele
+	colégio, não?
+	Acho melhor correr!
 	"""
 	keyWait
 	clearMsg
 	"""
-	The other children
-	are already in front
-	of the zoo!
+	As outras crianças já
+	devem estar na entrada
+	do zoológico!
 	"""
 	keyWait
 	end
@@ -78,9 +79,9 @@ script 11 mmbn3 {
 		mugshot = InnWoman
 	msgOpen
 	"""
-	The zoo's open
-	today? Maybe we
-	should go,too.
+	O zoológico abriu?
+	Talvez eu devesse
+	levar minha família.
 	"""
 	keyWait
 	end
@@ -90,15 +91,15 @@ script 21 mmbn3 {
 		mugshot = InnMan
 	msgOpen
 	"""
-	Let's get out of
+	Vamos dar o fora de
 	Yoka!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Who knows what could
-	attack us if we
-	stayed!
+	Vai saber o que mais
+	pode nos atacar se
+	ficarmos aqui!
 	"""
 	keyWait
 	end
@@ -108,8 +109,8 @@ script 22 mmbn3 {
 		mugshot = InnWoman
 	msgOpen
 	"""
-	Oh,no,honey! What
-	should we do!?
+	Ai, não, querido!
+	O que faremos?!
 	"""
 	keyWait
 	end
@@ -124,9 +125,9 @@ script 30 mmbn3 {
 		mugshot = Innkeeper
 	msgOpen
 	"""
-	One guest left in a
-	hurry. He might have
-	forgotten something…
+	Um dos hóspedes saiu
+	com pressa. Ele pode
+	ter esquecido algo...
 	"""
 	keyWait
 	end
@@ -136,16 +137,15 @@ script 31 mmbn3 {
 		mugshot = InnWoman
 	msgOpen
 	"""
-	The owner of the inn
-	protected her guests
-	from the animals!
+	A dona da pousada
+	protegeu os hóspedes
+	dos animais!
 	"""
 	keyWait
 	clearMsg
 	"""
-	She's a model for
-	owners of inns
-	everywhere!
+	Ela é um exemplo para
+	hoteleiras mundo afora!
 	"""
 	keyWait
 	end
@@ -155,16 +155,16 @@ script 35 mmbn3 {
 		mugshot = Innkeeper
 	msgOpen
 	"""
-	Some TV folks have
-	been staying here
-	since yesterday.
+	Estamos com alguns
+	funcionários da TV hospe-
+	dados aqui desde ontem.
 	"""
 	keyWait
 	clearMsg
 	"""
-	They were talking
-	about the N1.
-	It's fascinating…
+	Estão falando sobre o
+	Grande Prêmio N1.
+	É fascinante...
 	"""
 	keyWait
 	end
@@ -174,9 +174,9 @@ script 40 mmbn3 {
 		mugshot = Girl
 	msgOpen
 	"""
-	We only spent one
-	night,but I had fun!
-	Let's come again!
+	Só passamos uma noite,
+	mas foi muito legal!
+	Vamos voltar aqui!
 	"""
 	keyWait
 	end
@@ -186,9 +186,9 @@ script 41 mmbn3 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	Such a quaint place.
-	Hard to imagine a
-	crime happened here!
+	Que lugarzinho pitoresco.
+	É difícil de imaginar um
+	crime ocorrendo aqui!
 	"""
 	keyWait
 	end
@@ -198,9 +198,9 @@ script 50 mmbn3 {
 		mugshot = Innkeeper
 	msgOpen
 	"""
-	Please stay calm!
-	Please evacuate in
-	an orderly manner!
+	Por favor, mantenham
+	a calma e evacuem em
+	ordem!
 	"""
 	keyWait
 	end
@@ -210,9 +210,9 @@ script 51 mmbn3 {
 		mugshot = Girl
 	msgOpen
 	"""
-	Now she's telling
-	us to evacuate? Why?
-	What happened?
+	Ela tá mandando a
+	gente evacuar?
+	Por quê? O que houve?
 	"""
 	keyWait
 	end
@@ -222,15 +222,14 @@ script 52 mmbn3 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	Bubbles came out of
-	the kitchen?
+	Saíram umas bolhas da
+	cozinha?
 	"""
 	keyWait
 	clearMsg
 	"""
-	I don't think that's
-	any cause for
-	evacuation…
+	E isso é causa pra
+	evacuação porque...?
 	"""
 	keyWait
 	end
@@ -240,9 +239,9 @@ script 53 mmbn3 {
 		mugshot = InnWoman
 	msgOpen
 	"""
-	What are you two
-	saying!? The bubbles
-	will explode!
+	Do que vocês estão
+	falando?! As bolhas vão
+	explodir!
 	"""
 	keyWait
 	end
@@ -252,15 +251,15 @@ script 60 mmbn3 {
 		mugshot = Innkeeper
 	msgOpen
 	"""
-	I'm spreading salt
-	around the entrance.
+	Estou colando talismãs
+	pela entrada.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Local legend says
-	that can ward off
-	evil…
+	Todos em Yoka acreditam
+	fortemente no poder
+	deles de espantar o mal.
 	"""
 	keyWait
 	end
@@ -270,23 +269,23 @@ script 61 mmbn3 {
 		mugshot = Man
 	msgOpen
 	"""
-	The owner of the inn
-	really must care for
-	her guests to go to
+	A dona da pousada deve
+	prezar muito por seus
+	hóspedes para ir tão
 	"""
 	keyWait
 	clearMsg
 	"""
-	such extremes! I'm
-	becoming a big fan
-	of this inn!
+	longe assim! Estou
+	começando a virar o
+	maior fã desta pousada!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Even if guests stop
-	visiting here,I'll
-	still come back!
+	Mesmo se ela parar de
+	receber hóspedes, eu
+	ainda vou voltar!
 	"""
 	keyWait
 	end
@@ -296,9 +295,9 @@ script 62 mmbn3 {
 		mugshot = Girl
 	msgOpen
 	"""
-	The bubbles are gone
-	at last! No more
-	bubble baths for me!
+	As bolhas, finalmente,
+	sumiram! Banhos de
+	espuma, nunca mais!
 	"""
 	keyWait
 	end
@@ -337,16 +336,16 @@ script 70 mmbn3 {
 		mugshot = Innkeeper
 	msgOpen
 	"""
-	Thanks to the N1,
-	business is
-	booming!
+	Graças ao Grande
+	Prêmio, os negócios
+	andam ótimos!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Many guests have
-	arrived from distant
-	places!
+	Recebemos vários
+	hóspedes de áreas bem
+	distantes!
 	"""
 	keyWait
 	end
@@ -356,16 +355,16 @@ script 71 mmbn3 {
 		mugshot = InnMan
 	msgOpen
 	"""
-	I came to watch my
-	boy NetBattle. This
-	is his big chance to
+	Vim ver o meu filho
+	NetLutar. Esta é a
+	grande chance dele
 	"""
 	keyWait
 	clearMsg
 	"""
-	be in the limelight.
-	I can't miss
-	watching this!
+	de mostrar ao mundo a
+	que veio. Não posso
+	perder isso!
 	"""
 	keyWait
 	end
@@ -375,8 +374,8 @@ script 72 mmbn3 {
 		mugshot = InnWoman
 	msgOpen
 	"""
-	I hope Koetsu is
-	doing okay…
+	Espero que o Koetsu
+	esteja bem...
 	"""
 	keyWait
 	end
@@ -386,8 +385,8 @@ script 80 mmbn3 {
 		mugshot = Innkeeper
 	msgOpen
 	"""
-	Everyone has already
-	left the inn.
+	Todos já deixaram a
+	pousada.
 	"""
 	keyWait
 	end
@@ -397,9 +396,9 @@ script 90 mmbn3 {
 		mugshot = Innkeeper
 	msgOpen
 	"""
-	You're from ACDC
-	elementary,right?
-	Good to see you!
+	Você é um dos alunos do
+	colégio ACDC, não?
+	É muito bom vê-lo!
 	"""
 	keyWait
 	end
@@ -409,16 +408,15 @@ script 100 mmbn3 {
 		mugshot = Innkeeper
 	msgOpen
 	"""
-	I heard there was
-	an incident at the
-	hospital!
+	Ouvi dizer que houve
+	um incidente no hospital!
 	"""
 	keyWait
 	clearMsg
 	"""
-	How frightening! I
-	wonder what's behind
-	all these attacks?
+	Que assustador! O que
+	será que está por trás
+	desses ataques?
 	"""
 	keyWait
 	end
@@ -428,16 +426,16 @@ script 105 mmbn3 {
 		mugshot = Innkeeper
 	msgOpen
 	"""
-	Dear! It's too
-	dangerous for you to
-	be in here!
+	Rapazinho! Desculpe,
+	mas é perigoso demais
+	você ficar aqui!
 	"""
 	keyWait
 	clearMsg
 	"""
-	The inn may catch on
-	fire! Quick! Run to
-	the creek!
+	A pousada pode pegar
+	fogo a qualquer momento!
+	Rápido! Vá para o riacho!
 	"""
 	keyWait
 	end
@@ -447,9 +445,8 @@ script 107 mmbn3 {
 		mugshot = Innkeeper
 	msgOpen
 	"""
-	You're still in
-	here!? What's that?
-	The crisis is over?
+	Você ainda está aqui?!
+	... Hã? A crise passou?
 	"""
 	keyWait
 	end
@@ -459,20 +456,20 @@ script 110 mmbn3 {
 		mugshot = Innkeeper
 	msgOpen
 	"""
-	There haven't been
-	many guests since
-	the last incident.
+	Não recebemos muitos
+	hóspedes desde o último
+	incidente.
 	"""
 	keyWait
 	clearMsg
 	"""
-	That family playing
-	gin rummy is still
-	here,though…
+	Mas aquela família
+	jogando mahjong
+	continua aqui...
 	"""
 	keyWait
 	clearMsg
-	"They sure are brave!"
+	"Corajosos, eles!"
 	keyWait
 	end
 }
@@ -486,15 +483,15 @@ script 120 mmbn3 {
 		mugshot = Woman
 	msgOpen
 	"""
-	My boy went to look
-	at the tank. But
-	he hasn't come back!
+	O meu filho saiu pra ver
+	o tanque, mas ainda não
+	voltou!
 	"""
 	keyWait
 	clearMsg
 	"""
-	He's worrying
-	me sick!
+	Aquele menino me mata
+	de preocupação!
 	"""
 	keyWait
 	end
@@ -504,9 +501,9 @@ script 121 mmbn3 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	How long do we have
-	to stay here? Is it
-	really safe here?
+	Até quando vamos ficar
+	aqui? É mesmo seguro
+	aqui dentro?
 	"""
 	keyWait
 	end
@@ -516,9 +513,9 @@ script 122 mmbn3 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	The thought of tanks
-	around here just
-	terrifies me!
+	Só de pensar em
+	tanques, já fico
+	aterrorizada!
 	"""
 	keyWait
 	end
@@ -528,9 +525,9 @@ script 123 mmbn3 {
 		mugshot = OldWoman
 	msgOpen
 	"""
-	At my age,I'm more
-	worried about these
-	kids than myself!
+	Na minha idade, fico mais
+	preocupada com estas
+	crianças do que comigo!
 	"""
 	keyWait
 	end
@@ -540,9 +537,9 @@ script 124 mmbn3 {
 		mugshot = OldMan
 	msgOpen
 	"""
-	No!! They won't let
-	me go to my favorite
-	stand by the zoo!
+	Não!! Não estão me
+	deixando ir pra minha
+	barraquinha favorita!
 	"""
 	keyWait
 	end
@@ -557,16 +554,16 @@ script 125 mmbn3 {
 		mugshot = Innkeeper
 	msgOpen
 	"""
-	We opened the inn to
-	everyone as a
-	temporary shelter.
+	Abrimos a pousada para
+	todos como um abrigo
+	temporário.
 	"""
 	keyWait
 	clearMsg
 	"""
-	It's a bit cramped,
-	but please try to
-	relax.
+	É meio apertado, mas,
+	por favor, tentem se
+	acalmar.
 	"""
 	keyWait
 	end
@@ -576,9 +573,8 @@ script 134 mmbn3 {
 		mugshot = Woman
 	msgOpen
 	"""
-	Will there ever be
-	an end to this
-	nightmare?
+	Este pesadelo não tem
+	fim?
 	"""
 	keyWait
 	end
@@ -588,9 +584,8 @@ script 135 mmbn3 {
 		mugshot = Innkeeper
 	msgOpen
 	"""
-	The refugees all
-	seem to be
-	exhausted…
+	Os refugiados parecem
+	todos exaustos...
 	"""
 	keyWait
 	end
@@ -624,30 +619,30 @@ script 190 mmbn3 {
 		mugshot = InnMan
 	msgOpen
 	"""
-	Hey! I've been
-	waiting for you! You
-	came to lend me some
+	Opa! Estive esperando!
+	Você veio me emprestar
+	aquela grana, né?
 	"""
 	keyWait
 	clearMsg
 	"""
-	money,right? Thanks!
-	I tried calling my
-	family,but no one's
+	Obrigado! Eu tentei
+	contatar minha família,
+	mas ninguém atende!
 	"""
 	keyWait
 	clearMsg
 	"""
-	home! I lost my PET
-	too,so I can't even
-	access bank account
+	E eu perdi o meu PET,
+	então nem posso acessar
+	meus dados bancários
 	"""
 	keyWait
 	clearMsg
 	"""
-	info to withdraw
-	money! So,can I
-	borrow 8000 Zennys?
+	pra sacar dinheiro!
+	Mas, e aí, me empresta
+	aqueles 8000 Zennys?
 	"""
 	keyWait
 	clearMsg
@@ -659,7 +654,7 @@ script 190 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Sure! "
+	"   Aqui! "
 	option
 		left = 0
 		right = 0
@@ -667,7 +662,7 @@ script 190 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No way!\n"
+	"            Não!\n"
 	select
 		default = 0
 		BSeparate = false
@@ -678,18 +673,19 @@ script 190 mmbn3 {
 			jump = continue,
 			jump = continue
 		]
+	clearMsg
 	mugshotShow
 		mugshot = InnMan
 	"""
-	Oh,you were just
-	messing with my
-	emotions…
+	Ah, você só estava
+	brincando com as minhas
+	emoções...
 	"""
 	keyWait
 	clearMsg
 	"""
-	I can't believe I
-	let a kid fool me!
+	Não acredito que deixei
+	um moleque me enganar!
 	"""
 	keyWait
 	end
@@ -705,7 +701,7 @@ script 191 mmbn3 {
 	mugshotHide
 	msgOpen
 	"""
-	Lan gave
+	Lan entregou
 	"8000 Zennys"!!
 	"""
 	keyWait
@@ -713,29 +709,29 @@ script 191 mmbn3 {
 	mugshotShow
 		mugshot = InnMan
 	"""
-	Thank you!
-	I'll use this money
-	to buy a PET,then
+	Obrigado! Usarei o
+	dinheiro pra comprar um
+	PET e, em seguida,
 	"""
 	keyWait
 	clearMsg
 	"""
-	use the PET to get
-	the account info
-	from my PC at home!
+	usá-lo pra recuperar
+	as informações de conta
+	do meu computador!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Whew! At last I'll
-	be able to withdraw
-	some money!
+	Ufa! E, finalmente, vou
+	poder sacar um dinheiro!
 	"""
 	keyWait
 	clearMsg
 	"""
-	You just wait! I'll
-	pay you right back!
+	Espera só um pouquinho!
+	Eu VOU devolver este
+	empréstimo!
 	"""
 	keyWait
 	end
@@ -747,37 +743,36 @@ script 192 mmbn3 {
 		mugshot = InnMan
 	msgOpen
 	"""
-	This is terrible!
-	My Navi carrying the
-	account info should
+	Ai, que droga! Meu Navi,
+	que está com minhas
+	informações de conta,
 	"""
 	keyWait
 	clearMsg
 	"""
-	have been back by
-	now. He contacted me
-	when he got to the
+	já devia ter voltado.
+	Ele me contatou quando
+	chegou na área Yoka,
 	"""
 	keyWait
 	clearMsg
 	"""
-	Yoka area,but there
-	was a lot of static
-	and I lost touch!
+	mas estava muita
+	interferência e eu perdi
+	contato!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Would you mind
-	going to the Yoka
-	area and having
+	Poderia, por favor, ir
+	à área Yoka e dar uma
+	procurada por lá?
 	"""
 	keyWait
 	clearMsg
 	"""
-	a look around? I
-	would really
-	appreciate it!
+	Eu ficaria muito, mas
+	muito grato!
 	"""
 	keyWait
 	end
@@ -794,15 +789,15 @@ script 193 mmbn3 {
 		mugshot = InnMan
 	msgOpen
 	"""
-	Wow! That's what was
-	going on? I'm glad
-	you came along!
+	Caramba! Foi isso o que
+	aconteceu? Ainda bem
+	que você resolveu!
 	"""
 	keyWait
 	clearMsg
 	mugshotHide
 	"""
-	Lan gave:
+	Lan deu:
 	"
 	"""
 	printItem
@@ -814,16 +809,15 @@ script 193 mmbn3 {
 	mugshotShow
 		mugshot = InnMan
 	"""
-	You really went out
-	of your way for me.
-	Here's the money you
+	Você ralou bastante
+	por mim. Tome, o dinheiro
+	que me emprestou,
 	"""
 	keyWait
 	clearMsg
 	"""
-	lent me,plus a
-	little something for
-	your trouble.
+	mais um pequeno bônus
+	pelo seu trabalho.
 	"""
 	keyWait
 	clearMsg
@@ -845,13 +839,13 @@ script 194 mmbn3 {
 	playerAnimate
 		animation = 24
 	"""
-	Lan got
+	Lan recebeu
 	"8000 Zennys"
 	"""
 	keyWait
 	clearMsg
 	"""
-	and a PowerUp:
+	e um PowerUp:
 	"
 	"""
 	printItem
@@ -869,16 +863,16 @@ script 195 mmbn3 {
 		mugshot = InnMan
 	msgOpen
 	"""
-	Thanks for lending
-	me the money,and for
-	all your help!
+	Obrigado por me
+	emprestar o dinheiro e
+	por toda a sua ajuda!
 	"""
 	keyWait
 	clearMsg
 	"""
-	With kids like you
-	around,there's hope
-	for the world yet!
+	Com crianças como você
+	nele, acho que o mundo
+	ainda tem esperança!
 	"""
 	keyWait
 	end
@@ -888,9 +882,9 @@ script 196 mmbn3 {
 		mugshot = InnMan
 	msgOpen
 	"""
-	Can you wait a bit
-	longer? I just need
-	my account info!
+	Pode esperar só um pou-
+	co? Só preciso da minha
+	informação de conta!
 	"""
 	keyWait
 	end
@@ -899,20 +893,20 @@ script 197 mmbn3 {
 	mugshotShow
 		mugshot = InnMan
 	msgOpen
-	"Oh,wait…"
+	"Espera..."
 	keyWait
 	clearMsg
 	"""
-	I appreciate your
-	desire to help,but
-	this isn't enough.
+	Fico feliz que queira
+	ajudar, mas, olha, você
+	não tem o bastante.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I guess it's too
-	much money for a kid
-	to have…
+	Acho que era dinheiro
+	demais para esperar que
+	uma criança tivesse...
 	"""
 	keyWait
 	end
@@ -922,9 +916,9 @@ script 198 mmbn3 {
 		mugshot = InnMan
 	msgOpen
 	"""
-	What? So you're
-	gonna lend me
-	8000 Zennys!?
+	O quê? Então, você vai
+	me emprestar aqueles
+	8000 Zennys?!
 	"""
 	keyWait
 	clearMsg
@@ -936,7 +930,7 @@ script 198 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Sure! "
+	"   Aham! "
 	option
 		left = 0
 		right = 0
@@ -944,7 +938,7 @@ script 198 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No way!"
+	"          Não!"
 	select
 		default = 0
 		BSeparate = false
@@ -955,12 +949,12 @@ script 198 mmbn3 {
 			jump = continue,
 			jump = continue
 		]
+	clearMsg
 	mugshotShow
 		mugshot = InnMan
 	"""
-	You seem to enjoy
-	teasing people in
-	need…
+	Você gosta de provocar
+	os necessitados, hein...?
 	"""
 	keyWait
 	end
@@ -968,22 +962,22 @@ script 198 mmbn3 {
 script 220 mmbn3 {
 	msgOpen
 	"""
-	Guests leave their
-	shoes and wear the
-	inn's slippers
+	Hóspedes deixam seus
+	sapatos aqui e calçam
+	os chinelos da pousada.
 	"""
 	keyWait
 	end
 }
 script 221 mmbn3 {
 	msgOpen
-	"The inn's guestbook"
+	"É o registro de\nhóspedes da pousada."
 	keyWait
 	clearMsg
 	"""
-	A quick look at this
-	would reveal who
-	stayed here when
+	Uma rápida espiada nele
+	revelaria quem já se
+	hospedou aqui e quando.
 	"""
 	keyWait
 	end
@@ -991,16 +985,16 @@ script 221 mmbn3 {
 script 222 mmbn3 {
 	msgOpen
 	"""
-	A fresh,glistening
-	flower. It must be
-	changed daily
+	Uma cintilante flor
+	recém-colhida. Deve ser
+	trocada diariamente.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Little things like
-	this give an inn
-	its charm
+	São as pequenas coisas,
+	como essa, que dão às
+	pousadas seu charme.
 	"""
 	keyWait
 	end
@@ -1012,16 +1006,15 @@ script 223 mmbn3 {
 		jumpIfFalse = continue
 	msgOpen
 	"""
-	Beyond the glass
-	lies an ancient
-	oriental suit of
+	Guardada atrás do
+	vidro, uma armadura
+	ancestral.
 	"""
 	keyWait
 	clearMsg
 	"""
-	armor. Rust and
-	scratches mar the
-	tanned leather
+	Ferrugem e arranhões
+	poluem o couro dela.
 	"""
 	keyWait
 	end
@@ -1029,22 +1022,22 @@ script 223 mmbn3 {
 script 224 mmbn3 {
 	msgOpen
 	"""
-	"BANG!"…A shot fired
-	to scare off boars
-	echoes nearby
+	"BAM!"... Um tiro disparado
+	para espantar javalis
+	ecoa nas proximidades.
 	"""
 	keyWait
 	end
 }
 script 225 mmbn3 {
 	msgOpen
-	"An ancient TV"
+	"Uma TV bem antiga."
 	keyWait
 	clearMsg
 	"""
-	There's no way you
-	can jack into this
-	antique
+	Nunca que você
+	conseguiria se conectar
+	nessa antiguidade.
 	"""
 	keyWait
 	end
@@ -1058,30 +1051,28 @@ script 250 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan! This has
-	got to be the suit
-	the will was talking
+	Ah! Essa deve ser a
+	armadura de que o
+	testamento fala!
 	"""
 	keyWait
 	clearMsg
 	"""
-	about! Hmm. There's
-	some kind of message
-	written here…
+	Hmm. Tem uma
+	mensagem escrita aqui...
 	"""
 	keyWait
 	clearMsg
 	"""
-	It says,"Demonic
-	fire that boils
-	water".
+	"Fogo demoníaco que
+	ferve água."
 	"""
 	keyWait
 	clearMsg
 	"""
-	What's this? Agh!!
-	Some viruses jumped
-	into my PET!!
+	O que é isso? Agh!!
+	Vírus invadiram o meu
+	PET!!
 	"""
 	keyWait
 	flagSet
@@ -1095,16 +1086,15 @@ script 251 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	It doesn't look like
-	there are any more
-	viruses…
+	Parece que não tem
+	mais vírus aqui...
 	"""
 	keyWait
 	clearMsg
 	"""
-	"Demonic fire that
-	boils water"?
-	Hmmm…
+	"Fogo demoníaco que
+	ferve água"?
+	Hmmm...
 	"""
 	keyWait
 	end

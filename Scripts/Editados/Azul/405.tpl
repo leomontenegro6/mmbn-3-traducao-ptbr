@@ -4,7 +4,10 @@ script 0 mmbn3 {
 	mugshotShow
 		mugshot = SciLabMan
 	msgOpen
-	"Are you OK,Lan!?"
+	"""
+	Tudo bem com você,
+	Lan?!
+	"""
 	keyWait
 	clearMsg
 	jump
@@ -15,14 +18,14 @@ script 1 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Yes.
-	I stopped the tank.
+	Tudo, sim.
+	A gente conseguiu
+	parar o tanque.
 	"""
 	keyWait
 	clearMsg
 	"""
-	How are things
-	there?
+	Como tão as coisas aí?
 	"""
 	keyWait
 	clearMsg
@@ -34,22 +37,21 @@ script 2 mmbn3 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	The Officials
-	have managed to stop
-	the other tanks.
+	Os Oficiais conseguiram
+	parar os outros
+	tanques.
 	"""
 	keyWait
 	clearMsg
 	"""
-	However,we now know
-	that the situation
+	Porém, agora sabemos
+	que a situação
 	"""
 	keyWait
 	clearMsg
 	"""
-	is much worse than
-	we previously
-	predicted!
+	está muito pior do que
+	imaginávamos!
 	"""
 	keyWait
 	clearMsg
@@ -60,7 +62,7 @@ script 3 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Wh…What do you mean?"
+	"C... como assim?"
 	keyWait
 	clearMsg
 	jump
@@ -71,9 +73,9 @@ script 4 mmbn3 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	The reason that
-	those tanks
-	went haywire…
+	O motivo para aqueles
+	tanques terem dado
+	pane...
 	"""
 	keyWait
 	clearMsg
@@ -84,7 +86,7 @@ script 5 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"You mean the virus?"
+	"Quer dizer, o vírus?"
 	keyWait
 	clearMsg
 	jump
@@ -95,13 +97,13 @@ script 6 mmbn3 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	That was no virus.
-	The force running
-	those tanks…
+	Aquilo não era um vírus.
+	A força que estava
+	manipulando os tanques...
 	"""
 	keyWait
 	clearMsg
-	"Was "
+	"era "
 	printEnemyName
 		buffer = 0
 		enemy = 129
@@ -118,7 +120,7 @@ script 7 mmbn3 {
 	printEnemyName
 		buffer = 0
 		enemy = 129
-	"!?"
+	"?!"
 	keyWait
 	clearMsg
 	jump
@@ -129,29 +131,29 @@ script 8 mmbn3 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Yes. It seems that
-	one of the bugs from
-	Alpha managed to
+	Sim. Parece que um dos
+	bugs do Alpha deu um
+	jeito de se infiltrar
 	"""
 	keyWait
 	clearMsg
 	"""
-	infiltrate one of
-	the Army systems.
+	em um dos sistemas do
+	Exército.
 	"""
 	keyWait
 	clearMsg
 	"""
-	That means that
-	Alpha has escaped
-	from somewhere…
+	O que quer dizer que o
+	Alpha escapou de algum
+	lugar...
 	"""
 	keyWait
 	clearMsg
 	"""
-	It seems that
-	Wily has started
-	decoding Alpha!
+	Parece que o Wily já
+	começou a decodificar
+	o Alpha!
 	"""
 	keyWait
 	clearMsg
@@ -163,15 +165,15 @@ script 9 mmbn3 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	We don't have
-	much time left.
+	Não nos resta muito
+	tempo.
 	"""
 	keyWait
 	clearMsg
 	"""
-	We must find the WWW
-	base and delete
-	Alpha…and fast!
+	Precisamos achar a
+	base da WWW e deletar
+	o Alpha... e rápido!
 	"""
 	keyWait
 	clearMsg
@@ -184,7 +186,7 @@ script 10 mmbn3 {
 	flagSet
 		flag = 2627
 	soundDisableTextSFX
-	"Beep beep beep!!"
+	"Bip bip bip!!"
 	wait
 		frames = 90
 	keyWait
@@ -196,19 +198,19 @@ script 11 mmbn3 {
 	mugshotShow
 		mugshot = SciLabMan
 	msgOpen
-	"Yes…?"
+	"Sim...?"
 	keyWait
 	clearMsg
 	"""
-	…………
-	What? You mean…?
+	............
+	O quê? Mas, então...?
 	"""
 	keyWait
 	clearMsg
 	"""
-	………
-	Understood.
-	I'm on my way!
+	.........
+	Entendido.
+	Estou a caminho!
 	"""
 	keyWait
 	clearMsg
@@ -221,7 +223,7 @@ script 12 mmbn3 {
 	msgOpen
 	flagSet
 		flag = 2628
-	"What happened!?"
+	"O que houve?!"
 	keyWait
 	clearMsg
 	jump
@@ -233,21 +235,21 @@ script 13 mmbn3 {
 	msgOpen
 	flagClear
 		flag = 2630
-	"Seems that "
+	"Parece que "
 	printEnemyName
 		buffer = 0
 		enemy = 129
 	"""
 	
-	has broken into Army
-	systems everywhere.
+	se infiltraram em vários
+	sistemas do Exército.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Military hardware
-	around the globe has
-	been taken over.
+	Equipamento militar ao
+	redor do planeta foi
+	tomado por eles.
 	"""
 	keyWait
 	clearMsg
@@ -259,8 +261,8 @@ script 14 mmbn3 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Could this mean…
-	War??
+	Isso poderia significar...
+	Guerra?!
 	"""
 	keyWait
 	clearMsg
@@ -271,7 +273,7 @@ script 15 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"War!?"
+	"Guerra?!"
 	keyWait
 	clearMsg
 	jump
@@ -285,16 +287,16 @@ script 16 mmbn3 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	If this situation
-	isn't dealt with
-	immediately…
+	Se esta situação
+	não for contida
+	imediatamente...
 	"""
 	keyWait
 	clearMsg
 	"""
-	It could lead to
-	a war that envelops
-	the entire Earth!!
+	ela pode levar a uma
+	guerra que envolverá
+	toda a Terra!!
 	"""
 	keyWait
 	end
@@ -304,15 +306,15 @@ script 17 mmbn3 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Officials! Quickly
-	jack in to all Nets
-	around the globe!
+	Oficiais! Rápido,
+	conectem-se a todas
+	as Redes mundo afora!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Access the Army
-	systems,and destroy
+	Acessem os sistemas do
+	Exército e destruam os
 	
 	"""
 	printEnemyName
@@ -328,7 +330,7 @@ script 18 mmbn3 {
 	msgOpen
 	flagClear
 		flag = 2630
-	"Chaud,come with me!"
+	"Chaud, você vem comigo!"
 	keyWait
 	clearMsg
 	jump
@@ -338,7 +340,7 @@ script 19 mmbn3 {
 	mugshotShow
 		mugshot = Chaud
 	msgOpen
-	"Yes,sir!"
+	"Sim, senhor!"
 	keyWait
 	end
 }
@@ -346,7 +348,7 @@ script 20 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"I'm coming,too!!"
+	"Eu também vou!!"
 	keyWait
 	clearMsg
 	flagSet
@@ -359,15 +361,14 @@ script 21 mmbn3 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	You'd just get in
-	the way. You don't
-	even have access!
+	Você só atrapalharia.
+	Nem tem acesso!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Just leave this
-	to us Officials!
+	Apenas deixe isso
+	conosco, os Oficiais!
 	"""
 	keyWait
 	end
@@ -377,9 +378,9 @@ script 22 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	A war…What will
-	happen if Alpha
-	reaches full power?
+	Uma guerra... O que vai
+	acontecer se o Alpha
+	ficar com força total?
 	"""
 	keyWait
 	end
@@ -388,7 +389,7 @@ script 23 mmbn3 {
 	mugshotHide
 	msgOpen
 	soundDisableTextSFX
-	"Beep beep beep!!"
+	"Bip bip bip!!"
 	keyWait
 	soundEnableTextSFX
 	end
@@ -399,11 +400,11 @@ script 24 mmbn3 {
 	msgOpen
 	"""
 	Lan!
-	It's a phone call!
+	É uma ligação!
 	"""
 	keyWait
 	clearMsg
-	"From mom!"
+	"Da mamãe!"
 	keyWait
 	end
 }
@@ -412,8 +413,8 @@ script 25 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Hello?
-	Mom,what's wrong!?
+	Alô!
+	Mamãe, o que foi?!
 	"""
 	keyWait
 	clearMsg
@@ -424,10 +425,10 @@ script 26 mmbn3 {
 	mugshotShow
 		mugshot = Mom
 	msgOpen
-	"Lan,help me!"
+	"Lan, me ajuda!"
 	keyWait
 	clearMsg
-	"It's your dad!"
+	"É o seu pai!"
 	keyWait
 	clearMsg
 	jump
@@ -438,8 +439,9 @@ script 27 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Mom,calm down!
-	What about dad!?
+	Mãe, calma!
+	O que é que tem o
+	papai?!
 	"""
 	keyWait
 	clearMsg
@@ -451,9 +453,9 @@ script 28 mmbn3 {
 		mugshot = Mom
 	msgOpen
 	"""
-	He's…He's…
-	disappeared from
-	the hospital!
+	Ele... Ele...
+	desapareceu do
+	hospital!
 	"""
 	keyWait
 	clearMsg
@@ -471,19 +473,19 @@ script 29 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"What!?"
+	"O quê?!"
 	keyWait
 	clearMsg
 	"""
-	I'm on my way!
-	You wait there!
+	Eu tô indo aí!
+	Espera por mim!
 	"""
 	keyWait
 	clearMsg
 	"""
 	MegaMan!
-	We have to get to
-	the hospital!
+	A gente tem que ir pro
+	hospital!
 	"""
 	keyWait
 	clearMsg
@@ -494,7 +496,7 @@ script 30 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Roger!"
+	"Claro!"
 	keyWait
 	end
 }

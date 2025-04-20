@@ -5,15 +5,14 @@ script 0 mmbn3 {
 		mugshot = PlantMan
 	msgOpen
 	"""
-	You've come at last,
-	MegaMan.
+	Enfim, você veio,
+	MegaMan.EXE.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I have already
-	obtained the
-	TetraCode.
+	Eu já adquiri o
+	TetraCódigo.
 	"""
 	keyWait
 	clearMsg
@@ -24,7 +23,7 @@ script 1 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"What TetraCode?"
+	"TetraCódigo?"
 	keyWait
 	clearMsg
 	jump
@@ -35,23 +34,22 @@ script 2 mmbn3 {
 		mugshot = PlantMan
 	msgOpen
 	"""
-	If you don't know,
-	allow me to fill you
-	in. The TetraCode is
+	Caso não saiba, permita-
+	me explicar. O Tetra-
+	Código é uma das chaves
 	"""
 	keyWait
 	clearMsg
 	"""
-	the key that will
-	unlock the demise of
-	the Net. There are 4
+	para trazer o fim da
+	Rede. Há quatro
+	TetraCódigos no total,
 	"""
 	keyWait
 	clearMsg
 	"""
-	TetraCodes. When
-	combined,"the Beast"
-	shall awaken.
+	Ao serem combinador,
+	"a Besta" despertará.
 	"""
 	keyWait
 	clearMsg
@@ -62,13 +60,13 @@ script 3 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"The Beast…?"
+	"A Besta...?"
 	keyWait
 	clearMsg
 	"""
-	So the WWW was after
-	the TetraCode all
-	along!
+	Então, era desse
+	TetraCódigo que a WWW
+	tava atrás!
 	"""
 	keyWait
 	clearMsg
@@ -79,19 +77,20 @@ script 4 mmbn3 {
 	mugshotShow
 		mugshot = PlantMan
 	msgOpen
-	"Precisely!"
+	"Precisamente!"
 	keyWait
 	clearMsg
 	"""
-	Enough chit-chat. I
-	have work to attend
-	to. Namely…
+	Mas chega de conversa.
+	Tenho uma tarefa
+	delegada a cumprir.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Your deletion,
-	MegaMan!
+	Essa sendo...
+	A sua deleção,
+	MegaMan.EXE!
 	"""
 	keyWait
 	clearMsg
@@ -102,7 +101,7 @@ script 5 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Lan! He's coming!"
+	"Lan! Lá vem ele!"
 	keyWait
 	clearMsg
 	jump
@@ -112,7 +111,7 @@ script 6 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"We can handle him!"
+	"A gente pode com ele!"
 	keyWait
 	clearMsg
 	jump
@@ -123,15 +122,15 @@ script 7 mmbn3 {
 		mugshot = PlantMan
 	msgOpen
 	"""
-	I shall enjoy
-	plucking the petals
+	Irei me divertir
+	imensamente
+	arrancando as pétalas
 	"""
 	keyWait
 	clearMsg
 	"""
-	from the wilting
-	flower that is your
-	life!
+	da flor moribunda que é
+	a sua vida!
 	"""
 	keyWait
 	clearMsg
@@ -143,12 +142,12 @@ script 8 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Let's go,MegaMan!
-	Battle routine,
+	Vamos lá, MegaMan!
+	Rotina
 	"""
 	waitSkip
 		frames = 30
-	"set!"
+	"de batalha...!"
 	keyWait
 	clearMsg
 	jump
@@ -158,7 +157,7 @@ script 9 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Execute!"
+	"Executar!"
 	keyWait
 	clearMsg
 	jump
@@ -170,7 +169,7 @@ script 10 mmbn3 {
 	msgOpen
 	"""
 	PlantMan!
-	Treacherous Bloom!
+	O Florescer da Traição!
 	"""
 	keyWait
 	end

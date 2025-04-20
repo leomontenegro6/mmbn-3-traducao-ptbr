@@ -5,9 +5,9 @@ script 0 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	So this is the
-	hospital's computer…
-	It looks strange.
+	Então, este é o
+	computador do hospital...
+	Ele tá estranho.
 	"""
 	keyWait
 	clearMsg
@@ -19,9 +19,9 @@ script 1 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Hurry and unlock the
-	emergency exit's
-	security lock!
+	Rápido, libera a trava
+	de segurança da saída
+	de emergência!
 	"""
 	keyWait
 	clearMsg
@@ -32,7 +32,7 @@ script 2 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Roger!"
+	"Pode deixar!"
 	keyWait
 	end
 }

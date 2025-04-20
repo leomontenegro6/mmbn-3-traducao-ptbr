@@ -4,10 +4,10 @@ script 0 mmbn3 {
 	mugshotHide
 	msgOpen
 	soundDisableTextSFX
-	"…"
+	"..."
 	soundPlay
 		track = 217
-	"Creeeeak…"
+	" Tuc..."
 	wait
 		frames = 60
 	soundEnableTextSFX
@@ -21,8 +21,7 @@ script 1 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	This feels great,
-	doesn't it,Lan?
+	Que gostoso, né, Lan?
 	"""
 	keyWait
 	clearMsg
@@ -33,13 +32,12 @@ script 2 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"It sure does!"
+	"Demais!"
 	keyWait
 	clearMsg
 	"""
-	…Hey,wait a minute!
-	You're not in the
-	bath!
+	... Aí, pera lá!
+	Você não tá na terma!
 	"""
 	keyWait
 	clearMsg
@@ -51,8 +49,8 @@ script 3 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Ha ha! Well,I'm with
-	you in spirit!
+	Ha ha! Ah, eu tô com
+	você em espírito!
 	"""
 	keyWait
 	clearMsg
@@ -63,7 +61,7 @@ script 4 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"…Sure!"
+	"... Tá."
 	keyWait
 	clearMsg
 	jump
@@ -73,10 +71,10 @@ script 5 mmbn3 {
 	mugshotHide
 	msgOpen
 	soundDisableTextSFX
-	"…"
+	"..."
 	soundPlay
 		track = 217
-	"Creeeeak…"
+	" Tuc..."
 	wait
 		frames = 60
 	soundEnableTextSFX

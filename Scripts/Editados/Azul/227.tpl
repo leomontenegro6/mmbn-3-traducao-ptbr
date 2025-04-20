@@ -5,8 +5,8 @@ script 0 mmbn3 {
 		mugshot = Chisao
 	msgOpen
 	"""
-	Yay! Big brother,
-	you're da greatest!
+	Êêê! Irmãozão, você é
+	imbatível!
 	"""
 	keyWait
 	clearMsg
@@ -18,9 +18,9 @@ script 1 mmbn3 {
 		mugshot = Dex
 	msgOpen
 	"""
-	How do ya like that,
-	Chisao! I told you
-	I'm the best!!
+	Gostou do show, Chisao?!
+	Eu disse que era o
+	melhor!
 	"""
 	keyWait
 	clearMsg
@@ -32,9 +32,9 @@ script 2 mmbn3 {
 		mugshot = Yai
 	msgOpen
 	"""
-	Is it just me,or did
-	Lan seem to be
-	holding back a bit?
+	Sou só eu, ou parecia
+	que o Lan tava pegando
+	leve?
 	"""
 	keyWait
 	clearMsg
@@ -46,8 +46,9 @@ script 3 mmbn3 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	I'm sure that he did
-	for Chisao's sake…
+	Ele deve ter feito isso
+	pra não decepcionar o
+	Chisao...
 	"""
 	keyWait
 	clearMsg
@@ -59,9 +60,8 @@ script 4 mmbn3 {
 		mugshot = Chisao
 	msgOpen
 	"""
-	You're so great!
-	I love you,big
-	brother!
+	Você é o "mássmo"!
+	Eu te amo, irmãozão!
 	"""
 	keyWait
 	clearMsg
@@ -72,7 +72,10 @@ script 5 mmbn3 {
 	mugshotShow
 		mugshot = Dex
 	msgOpen
-	"Ha ha! Me too,kid!"
+	"""
+	Ha ha! Eu também te
+	amo, maninho!
+	"""
 	keyWait
 	clearMsg
 	jump
@@ -83,22 +86,22 @@ script 6 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I know how you feel,
-	but just look how,
-	happy Dex is…
+	Eu entendo como você
+	se sente, mas olha como
+	o Dex ficou feliz...
 	"""
 	keyWait
 	clearMsg
 	"""
-	C'mon,let's ge・
-	goi・g to ・ad's!
+	Vem, vamos lo・o pr・o
+	labo・ató・io do ・apai!
 	"""
 	keyWait
 	clearMsg
 	"""
-	O・ops,the PE・ see・s
-	to be a・ting s・range
-	ag・in…!
+	Ah, pa・ece qu・ o PE・
+	tá d・ndo de・eit・ de
+	n・vo...!
 	"""
 	keyWait
 	end

@@ -7,9 +7,9 @@ script 0 mmbn3 {
 	textSpeed
 		delay = 0
 	"""
-	May I help yah?
-	R Button:Describe
-	B Button:Don't buy
+	Em que posso ajudar?
+	Botão R: Descrever
+	Botão B: Voltar
 	"""
 	waitHold
 }
@@ -20,9 +20,9 @@ script 1 mmbn3 {
 	textSpeed
 		delay = 0
 	"""
-	What'cha want,huh?
-	R Button:Describe
-	B Button:Don't buy
+	O que vai querer, é?
+	Botão R: Descrever
+	Botão B: Voltar
 	"""
 	waitHold
 }
@@ -36,7 +36,7 @@ script 2 mmbn3 {
 		mugshot = MegaMan
 	textSpeed
 		delay = 0
-	"Are you leaving now?\n"
+	"Deixar a loja?\n"
 	option
 		left = 1
 		right = 1
@@ -44,7 +44,7 @@ script 2 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"   Sim "
 	option
 		left = 0
 		right = 0
@@ -52,7 +52,7 @@ script 2 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No"
+	"          Não"
 	select
 		default = 0
 		BSeparate = false
@@ -71,7 +71,7 @@ script 3 mmbn3 {
 		mugshot = Higsby
 	textSpeed
 		delay = 0
-	"Come again,huh!"
+	"Volte sempre, é!"
 	waitHold
 }
 script 4 mmbn3 {
@@ -92,7 +92,7 @@ script 4 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"   Sim "
 	option
 		left = 0
 		right = 0
@@ -100,7 +100,7 @@ script 4 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No"
+	"          Não"
 	select
 		default = 0
 		BSeparate = false
@@ -135,7 +135,7 @@ script 5 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"   Sim "
 	option
 		left = 0
 		right = 0
@@ -143,7 +143,7 @@ script 5 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No"
+	"          Não"
 	select
 		default = 0
 		BSeparate = false
@@ -166,7 +166,7 @@ script 6 mmbn3 {
 		mugshot = MegaMan
 	textSpeed
 		delay = 0
-	"I bought \""
+	"Comprei \""
 	printItem
 		buffer = 1
 		item = 0
@@ -185,7 +185,7 @@ script 7 mmbn3 {
 	textSpeed
 		delay = 0
 	"""
-	I bought
+	Comprei
 	"
 	"""
 	printChip
@@ -209,7 +209,7 @@ script 8 mmbn3 {
 		mugshot = MegaMan
 	textSpeed
 		delay = 0
-	"Not enough Zennys…"
+	"Preciso de mais Zennys..."
 	keyWait
 	waitHold
 }
@@ -224,8 +224,8 @@ script 9 mmbn3 {
 	textSpeed
 		delay = 0
 	"""
-	I can't carry
-	any more.
+	Não posso carregar
+	mais desse item.
 	"""
 	keyWait
 	waitHold
@@ -237,8 +237,8 @@ script 10 mmbn3 {
 	textSpeed
 		delay = 0
 	"""
-	I'm sold out,huh.
-	Thanks so much!
+	Tudo esgotado, é.
+	Muito obrigado!
 	"""
 	keyWait
 	waitHold
@@ -253,7 +253,7 @@ script 11 mmbn3 {
 	printNaviCustProgram
 		buffer = 1
 		program = 0
-	"\",huh?\n"
+	"\", é?\n"
 	option
 		left = 1
 		right = 1
@@ -261,7 +261,7 @@ script 11 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"   Sim "
 	option
 		left = 0
 		right = 0
@@ -269,7 +269,7 @@ script 11 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No"
+	"          Não"
 	select
 		default = 0
 		BSeparate = false
@@ -293,7 +293,7 @@ script 12 mmbn3 {
 	textSpeed
 		delay = 0
 	"""
-	I bought
+	Comprei
 	"
 	"""
 	printNaviCustProgram
@@ -341,7 +341,7 @@ script 18 mmbn3 {
 	msgOpenQuick
 	textSpeed
 		delay = 0
-	"Are you leaving now?\n"
+	"Deixar a loja?\n"
 	option
 		left = 1
 		right = 1
@@ -349,7 +349,7 @@ script 18 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"   Sim "
 	option
 		left = 0
 		right = 0
@@ -357,7 +357,7 @@ script 18 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No"
+	"          Não"
 	select
 		default = 0
 		BSeparate = false
@@ -375,7 +375,7 @@ script 19 mmbn3 {
 	textSpeed
 		delay = 0
 	"""
-	You bought
+	Você comprou
 	"
 	"""
 	printItem
@@ -390,7 +390,7 @@ script 20 mmbn3 {
 	textSpeed
 		delay = 0
 	"""
-	You bought
+	Você comprou
 	"
 	"""
 	printChip
@@ -408,7 +408,7 @@ script 21 mmbn3 {
 	msgOpenQuick
 	textSpeed
 		delay = 0
-	"Insufficient Zennys."
+	"Zennys insuficientes."
 	keyWait
 	waitHold
 }
@@ -416,7 +416,7 @@ script 22 mmbn3 {
 	msgOpenQuick
 	textSpeed
 		delay = 0
-	"Can't hold any more."
+	"Já está com a\nquantidade máxima."
 	keyWait
 	waitHold
 }
@@ -425,7 +425,7 @@ script 23 mmbn3 {
 	textSpeed
 		delay = 0
 	"""
-	You bought
+	Você comprou
 	"
 	"""
 	printNaviCustProgram

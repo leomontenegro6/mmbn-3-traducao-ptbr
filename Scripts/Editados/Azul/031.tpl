@@ -113,9 +113,9 @@ script 0 mmbn3 {
 		jumpIfOutOfRange = continue
 	msgOpen
 	"""
-	Press the L Button
-	to talk to MegaMan!
-	(but not yet)
+	Aperte L para falar com
+	o MegaMan!
+	(mas ainda não)
 	"""
 	keyWait
 	end
@@ -125,9 +125,9 @@ script 5 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's see what they
-	all say! Maybe they
-	can give us a clue!
+	Vamos ver o que a gale-
+	ra tem a dizer! Talvez
+	isso nos dê um norte.
 	"""
 	keyWait
 	end
@@ -159,8 +159,9 @@ script 44 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	・ciL・b is ju・t up
-	t・ose ・tairs…
+	P・a ch・ga・ n・ Sc・Lab,
+	é ・ó sub・r es・as
+	esc・da・...
 	"""
 	keyWait
 	end
@@ -170,9 +171,9 @@ script 45 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	We・l,we ・ade it ・o
-	Sc・L・b,but w・ere'・
-	da・,I ・onder?
+	Ch・gamo・ n・ Sc・L・b.
+	O・de s・rá q・e t・ o
+	p・pa・?
 	"""
 	keyWait
 	end
@@ -182,8 +183,9 @@ script 46 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	T・is is ・ad's lab,
-	bu・ I ・on't see ・im!
+	É o ・abor・tóri・ ・o
+	・apai. M・s ・ão v・jo
+	e・e!
 	"""
 	keyWait
 	end
@@ -193,9 +195,9 @@ script 47 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Too bad we can't see
-	dad. Want to head
-	home?
+	Que pena que o papai
+	não tava. Vamos voltar
+	pra casa?
 	"""
 	keyWait
 	end
@@ -205,9 +207,9 @@ script 48 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's go to SciLab
-	Square to register
-	for N1's 2nd round!
+	Vamos pro SciLab Plaza
+	nos registrar pra segunda
+	rodada do N1!
 	"""
 	keyWait
 	end
@@ -217,9 +219,9 @@ script 49 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	The 2nd round was
-	rough,but we'll do
-	better this time!
+	A segunda rodada foi
+	difícil, mas vamos nos
+	sair melhor desta vez!
 	"""
 	keyWait
 	end
@@ -249,9 +251,9 @@ script 50 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,we're in the
-	middle of the 2nd
-	round! Go back!
+	Lan, estamos no meio
+	da segunda rodada!
+	Volta!
 	"""
 	keyWait
 	end
@@ -261,9 +263,9 @@ script 51 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's return to the
-	SciLab area for the
-	2nd round,Lan!
+	Vamos voltar pra área
+	SciLab pra segunda
+	rodada, Lan!
 	"""
 	keyWait
 	end
@@ -273,9 +275,9 @@ script 52 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	The third question
-	is in the ACDC area!
-	Let's go there now!
+	A terceira missão
+	tá na área ACDC!
+	Vamos lá agora!
 	"""
 	keyWait
 	end
@@ -285,9 +287,9 @@ script 53 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	If we finish this
-	mission,we're done!
-	Hurry to ACDC area!
+	Se terminarmos esta
+	missão, acabamos!
+	Rápido, pra área ACDC!
 	"""
 	keyWait
 	end
@@ -297,9 +299,9 @@ script 70 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's finish this
-	job! If you forgot
-	it,ask Higsby!
+	Vamos terminar este
+	trabalho! Se esqueceu,
+	pergunte pro Higsby!
 	"""
 	keyWait
 	end
@@ -327,9 +329,9 @@ script 75 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	"Enemy of viruses;
-	Cyber square;
-	yellow"…Hmmm…
+	"Inimigo dos vírus;
+	Cyber plaza;
+	Amarelo". Hmm...
 	"""
 	keyWait
 	end
@@ -339,9 +341,9 @@ script 76 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	It looks like there
-	is something in Yoka
-	Square! Let's go!
+	Parece que tem alguma
+	coisa em Yoka Plaza!
+	Vamos lá!
 	"""
 	keyWait
 	end
@@ -376,9 +378,9 @@ script 78 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	We got all of them!
-	Let's get back to
-	Yoka Square!
+	Pegamos todos eles!
+	Agora, de volta a Yoka
+	Plaza!
 	"""
 	keyWait
 	end
@@ -388,9 +390,9 @@ script 79 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	5 people dressed in
-	Navi costumes? Let's
-	go get them!
+	Cinco pessoas
+	fantasiadas de Navis?
+	Vamos atrás delas!
 	"""
 	keyWait
 	end
@@ -400,9 +402,9 @@ script 80 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,we're almost
-	done! Let's get back
-	to Yoka Square!
+	Só falta uma coisa pra
+	gente acabar: voltar
+	pra Yoka Plaza!
 	"""
 	keyWait
 	end
@@ -412,9 +414,9 @@ script 81 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Good job,Lan!
-	Let's get home and
-	get some rest!
+	Boa, Lan!
+	Agora, vamos pra casa
+	dar uma descansada.
 	"""
 	keyWait
 	end
@@ -468,8 +470,8 @@ script 85 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,aren't we going
-	to Mayl's house?
+	Lan, a gente não ia
+	pra casa da Mayl?
 	"""
 	keyWait
 	end
@@ -479,8 +481,8 @@ script 86 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Hmmm,I wonder where
-	we can find a
+	Hmmm, onde será que
+	dá pra achar um
 	"
 	"""
 	printChip
@@ -499,9 +501,9 @@ script 88 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	We've got to follow
-	BubbleMan to save
-	Mayl and Ms.Mari!
+	Temos que ir atrás do
+	BubbleMan pra salvar
+	a Mayl e a srta. Mari!
 	"""
 	keyWait
 	end
@@ -511,9 +513,9 @@ script 89 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Maybe there's a
-	compression program
-	here! Let's look!!
+	Talvez tenha um progra-
+	ma de compressão aqui!
+	Vamos procurar!!
 	"""
 	keyWait
 	end
@@ -523,9 +525,9 @@ script 90 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Didn't we meet
-	someone who said
-	they do programming?
+	Nós conhecemos uma
+	pessoa que disse ter es-
+	tudado programação, né?
 	"""
 	keyWait
 	end
@@ -535,9 +537,9 @@ script 92 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,install the
-	compression program
-	into me!
+	Lan, instala o programa
+	de compressão em mim
+	no Customizador!
 	"""
 	keyWait
 	end
@@ -547,9 +549,9 @@ script 93 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Those 3 said they
-	were running to ACDC
-	area 2,right?
+	Aqueles três disseram
+	que iam fugir pra área
+	ACDC 2, né?
 	"""
 	keyWait
 	end
@@ -559,9 +561,9 @@ script 94 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	SciLab area 1,huh?
-	Jack in so that I
-	can catch them!
+	Área SciLab 1, é?
+	Se conecta pra gente
+	ir atrás deles!
 	"""
 	keyWait
 	end
@@ -571,9 +573,9 @@ script 95 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Yoka area 1,this
-	time! How long will
-	we be chasing them?
+	Dessa vez, é Yoka 1!
+	Até quando vamos ficar
+	perseguindo eles?
 	"""
 	keyWait
 	end
@@ -583,9 +585,9 @@ script 96 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	We've almost caught
-	up to BubbleMan!
-	Jack in,quick!
+	Já estamos quase
+	chegando no BubbleMan!
+	Me conecta, rápido!
 	"""
 	keyWait
 	end
@@ -595,9 +597,9 @@ script 97 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	What a day,huh?
-	Let's go home and
-	get some sleep!
+	Que dia, hein?
+	Vamos voltar pra casa
+	e dormir!
 	"""
 	keyWait
 	end
@@ -607,9 +609,9 @@ script 100 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,let's go invite
-	everyone! Jack in
-	to the Net,please!
+	Lan, vamos lá convidar
+	o pessoal! Me conecta
+	na Rede, vai!
 	"""
 	keyWait
 	end
@@ -643,8 +645,7 @@ script 101 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's go to the
-	Beach Area!
+	Vamos pra área Angra!
 	"""
 	keyWait
 	end
@@ -654,8 +655,9 @@ script 102 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I hope that GutsMan
-	is OK! Let's check!
+	Espero que o GutsMan
+	esteja bem! Vamos lá
+	conferir!
 	"""
 	keyWait
 	end
@@ -665,8 +667,8 @@ script 103 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,we have to help
-	GutsMan!!
+	Lan, temos que ajudar
+	o GutsMan!!
 	"""
 	keyWait
 	end
@@ -689,9 +691,9 @@ script 110 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's go to dad's
-	lab! I wonder if
-	he's there?
+	Vamos pro laboratório
+	do papai! Será que ele
+	tá lá?
 	"""
 	keyWait
 	end
@@ -701,15 +703,15 @@ script 111 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	We gave over the
+	Já entregamos o
 	"
 	"""
 	printItem
 		buffer = 0
 		item = 15
 	"""
-	"…
-	Wanna go home now?
+	"...
+	Vamos pra casa?
 	"""
 	keyWait
 	end
@@ -719,8 +721,9 @@ script 112 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's get some sleep
-	for tomorrow!!
+	Vamos dormir pra
+	ficarmos preparados
+	pra amanhã!!
 	"""
 	keyWait
 	end
@@ -730,7 +733,7 @@ script 113 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Give him the
+	Entrega pra ele o
 	"
 	"""
 	printItem
@@ -753,9 +756,9 @@ script 115 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's get to the TV
-	station! It was on
-	Beach Street,right?
+	Vamos lá pro prédio da
+	emissora de TV! Fica na
+	Rua Angra, né?
 	"""
 	keyWait
 	end
@@ -765,9 +768,9 @@ script 116 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,the opening
-	ceremony is starting
-	at the TV station!!
+	Lan, a cerimônia de
+	abertura tá começando
+	lá na emissora!!
 	"""
 	keyWait
 	end
@@ -777,9 +780,9 @@ script 117 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Where are you going?
-	We have to get on
-	the boat fast!
+	Aonde você vai?
+	Temos que pegar
+	aquele barco, e rápido!
 	"""
 	keyWait
 	end
@@ -797,9 +800,9 @@ script 120 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,the semi-final
-	is starting! Go to
-	the TV station!
+	Lan, as semifinais vão
+	começar! Pro prédio da
+	emissora, rápido!
 	"""
 	keyWait
 	end
@@ -809,9 +812,9 @@ script 121 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I don't think Chaud
-	came this far!
-	Go to Beach Street!
+	Não acho que o Chaud
+	foi longe assim.
+	Volta pra Rua Angra!
 	"""
 	keyWait
 	end
@@ -821,9 +824,9 @@ script 122 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	We'll miss the
-	semi-finals if we
-	don't hurry!
+	Vamos perder as
+	semifinais se não
+	acelerarmos aqui!
 	"""
 	keyWait
 	end
@@ -843,8 +846,8 @@ script 126 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	We need to get back
-	to the studio!
+	Temos que voltar pro
+	estúdio!
 	"""
 	keyWait
 	end
@@ -854,9 +857,9 @@ script 127 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Where are you going?
-	We've got to go to
-	the editing room!
+	Aonde você vai?
+	Temos que ir pra sala
+	de edição, agora!
 	"""
 	keyWait
 	end
@@ -886,9 +889,9 @@ script 130 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Yai's hospital is
-	way down Beach
-	Street,right?
+	O hospital da Yai fica
+	em um dos extremos da
+	Rua Angra, né?
 	"""
 	keyWait
 	end
@@ -898,9 +901,9 @@ script 131 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,Yai is waiting!
-	Let's go back to the
-	hospital!
+	Lan, a Yai tá esperando!
+	Vamos voltar pro
+	hospital.
 	"""
 	keyWait
 	end
@@ -910,8 +913,8 @@ script 132 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Where are you going?
-	Let's look for
+	Aonde você vai?
+	Vamos procurar pelo
 	Mamoru!
 	"""
 	keyWait
@@ -922,15 +925,15 @@ script 133 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Hey,we have to give
-	the "
+	Ei, a gente tem que
+	dar o "
 	"""
 	printItem
 		buffer = 0
 		item = 22
 	"""
 	"
-	to Yai!
+	pra Yai!
 	"""
 	keyWait
 	end
@@ -940,9 +943,9 @@ script 134 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I'm glad that Yai is
-	doing well. Let's
-	get back home now!
+	Que bom que a Yai tá
+	bem.
+	Bom, vamos pra casa?
 	"""
 	keyWait
 	end
@@ -952,8 +955,8 @@ script 135 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	A friend? I wonder
-	who it could be?
+	Um amigo? Ué...
+	Quem será?
 	"""
 	keyWait
 	end
@@ -971,8 +974,8 @@ script 138 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I wonder what Dex
-	could want?
+	O que será que o Dex
+	quer com a gente?
 	"""
 	keyWait
 	end
@@ -998,9 +1001,8 @@ script 139 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Well,we're done!
-	Let's get back to
-	Tora!
+	Bom, terminado!
+	Vamos falar pro Tora.
 	"""
 	keyWait
 	end
@@ -1010,9 +1012,9 @@ script 140 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Well,we're done
-	helping Tora.
-	Wanna get back home?
+	Bom, terminamos de
+	ajudar o Tora.
+	Vamos pra casa?
 	"""
 	keyWait
 	end
@@ -1022,9 +1024,9 @@ script 143 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	We promised we'd
-	help Tora,so
-	let's do it!
+	Nós prometemos
+	ajudar o Tora, então,
+	vamos fazê-lo!
 	"""
 	keyWait
 	end
@@ -1049,7 +1051,7 @@ script 145 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Let's go see Mamoru!"
+	"Vamos visitar o Mamoru!"
 	keyWait
 	end
 }
@@ -1058,7 +1060,7 @@ script 148 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,give the
+	Lan, entrega o
 	"
 	"""
 	printChip
@@ -1069,7 +1071,7 @@ script 148 mmbn3 {
 		buffer = 0
 		code = M
 	"""
-	" to
+	" pro
 	Mamoru!!
 	"""
 	keyWait
@@ -1080,9 +1082,9 @@ script 149 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I hope that Mamoru's
-	operation goes OK!
-	Wanna go home now?
+	Tomara que dê tudo cer-
+	to com a operação do
+	Mamoru! Bom, pra casa?
 	"""
 	keyWait
 	end
@@ -1092,9 +1094,9 @@ script 150 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	We have to hurry to
-	the hospital!!
-	…Mamoru!!
+	A gente tem que ir pro
+	hospital, rápido!!
+	... Mamoru!!
 	"""
 	keyWait
 	end
@@ -1104,8 +1106,8 @@ script 151 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,let's be there
-	for Mamoru!
+	Lan, temos que ficar
+	do lado do Mamoru!
 	"""
 	keyWait
 	end
@@ -1139,9 +1141,9 @@ script 154 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	A commendation? Kind
-	of embarrassing,
-	isn't it?
+	Uma condecoração?
+	Meio... embaraçoso,
+	não acha, não?
 	"""
 	keyWait
 	end
@@ -1151,8 +1153,7 @@ script 155 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's go visit
-	Mamoru!
+	Vamos visitar o Mamoru!
 	"""
 	keyWait
 	end
@@ -1162,9 +1163,9 @@ script 156 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,let's go to
-	Yoka area 2!
-	Jack in,please!
+	Lan, vamos lá pra área
+	Yoka 2!
+	Me conecta, por favor!
 	"""
 	keyWait
 	end
@@ -1174,9 +1175,8 @@ script 157 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Beach area this
-	time!
-	Jack me in,please!
+	Área Angra, desta vez!
+	Vai, me conecta!
 	"""
 	keyWait
 	end
@@ -1186,9 +1186,9 @@ script 158 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	And now the SciLab
-	area? What's the WWW
-	up to? Jack me in!
+	E, agora, a área
+	SciLab? O que a WWW tá
+	tramando? Me conecta!
 	"""
 	keyWait
 	end
@@ -1198,9 +1198,9 @@ script 159 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Who could that
-	anonymous e-mail
-	be from…?
+	De quem será que
+	era aquele e-mail
+	anônimo...?
 	"""
 	keyWait
 	end
@@ -1210,9 +1210,9 @@ script 160 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Who could that Navi
-	have been…? Ah,well,
-	let's go see Mamoru!
+	Quem será que era
+	aquele Navi...? Hm. Bom,
+	vamos lá ver o Mamoru!
 	"""
 	keyWait
 	end
@@ -1222,8 +1222,9 @@ script 162 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's get started on
-	helping Mr.Match!
+	Vamos começar com
+	aquele favor pro
+	Sr. Match!
 	"""
 	keyWait
 	end
@@ -1288,9 +1289,9 @@ script 165 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I'm not sure about
-	this,but I guess we
-	should see Mr.Match.
+	Eu tenho minhas dúvidas,
+	mas acho que devíamos
+	ir falar com o Sr. Match.
 	"""
 	keyWait
 	end
@@ -1300,15 +1301,15 @@ script 166 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	We have to take this
+	Temos que levar este
 	"
 	"""
 	printItem
 		buffer = 0
 		item = 24
 	"""
-	" to
-	SciLab area 1,right?
+	" pra
+	área SciLab 1, né?
 	"""
 	keyWait
 	end
@@ -1318,9 +1319,9 @@ script 167 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	All done!
-	Let's go tell
-	Mr.Match!
+	Pronto!
+	Vamos lá avisar o
+	Match.
 	"""
 	keyWait
 	end
@@ -1330,8 +1331,9 @@ script 168 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	The lobby now?
-	When will this end…?
+	Agora, o saguão?
+	Quando é que isso vai
+	acabar...?
 	"""
 	keyWait
 	end
@@ -1341,15 +1343,15 @@ script 169 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	So now we take this
+	Agora, levamos este
 	"
 	"""
 	printItem
 		buffer = 0
 		item = 25
 	"""
-	" to the
-	vending machine,huh?
+	" pra máquina
+	de bebidas, é?
 	"""
 	keyWait
 	end
@@ -1359,9 +1361,9 @@ script 170 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Now for the last!
-	But is it OK for us
-	to go in dad's lab?
+	Enfim, o último! Mas tudo
+	bem a gente entrar no
+	laboratório do papai?
 	"""
 	keyWait
 	end
@@ -1371,15 +1373,15 @@ script 171 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	And now we give this
+	E, agora, damos este
 	"
 	"""
 	printItem
 		buffer = 0
 		item = 26
 	"""
-	" to
-	Program?
+	" pro
+	Programa?
 	"""
 	keyWait
 	end
@@ -1389,9 +1391,9 @@ script 172 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Well,we're finally
-	done! Want to go
-	home now?
+	Ufa! Até que enfim,
+	acabamos!
+	Vamos pra casa?
 	"""
 	keyWait
 	end
@@ -1401,8 +1403,9 @@ script 173 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Wow,what heat!!
-	Is dad OK!?
+	Caramba, que quente!!
+	Será que o papai tá
+	bem?
 	"""
 	keyWait
 	end
@@ -1412,9 +1415,9 @@ script 174 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	We have to put out
-	these Net fires and
-	capture Match!!
+	Temos que apagar as
+	chamas na Rede e
+	capturar o Match!!
 	"""
 	keyWait
 	end
@@ -1440,9 +1443,9 @@ script 177 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	We have to put out
-	these Net fires and
-	capture Match!!
+	Temos que apagar as
+	chamas na Rede e
+	capturar o Match!!
 	"""
 	keyWait
 	end
@@ -1452,9 +1455,9 @@ script 178 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	FlamMan is in
+	O FlameMan tá em
 	Undernet 3!
-	We have to hurry!!
+	Temos que correr!!
 	"""
 	keyWait
 	end
@@ -1464,9 +1467,9 @@ script 179 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	We have to get back
-	to the Undernet!
-	I hope it'll go OK!!
+	Temos que voltar pra
+	Undernet! Espero que
+	dê tudo certo!
 	"""
 	keyWait
 	end
@@ -1481,9 +1484,9 @@ script 180 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,let's get back
-	to SciLab and check
-	on dad!!
+	Lan, vamos voltar pro
+	SciLab e ver como o
+	papai tá!!
 	"""
 	keyWait
 	end
@@ -1493,9 +1496,9 @@ script 181 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I think you did a
-	great job,Lan.
-	Shall we go home?
+	Eu acho que você fez
+	um ótimo trabalho, Lan.
+	Vamos pra casa?
 	"""
 	keyWait
 	end
@@ -1506,7 +1509,7 @@ script 182 mmbn3 {
 	msgOpen
 	"""
 	Lan!!
-	Let's look for dad!!
+	Vamos atrás do papai!!
 	"""
 	keyWait
 	end
@@ -1542,9 +1545,9 @@ script 194 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	What was Chaud
-	trying to say about
-	dad? Let's go check!
+	O que o Chaud queria
+	dizer sobre o papai?
+	Vamos lá confirmar!
 	"""
 	keyWait
 	end
@@ -1559,9 +1562,9 @@ script 195 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	We're going to see
-	Chaud,right!?
-	Let's hurry!!
+	A gente tá indo falar
+	com o Chaud, né?!
+	Pois vamos!!
 	"""
 	keyWait
 	end
@@ -1571,9 +1574,9 @@ script 196 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	We have to get to
-	the Under Square!!
-	Let's be careful!
+	A gente tem que ir pro
+	Under Plaza.
+	Mas com cuidado!!
 	"""
 	keyWait
 	end
@@ -1583,9 +1586,9 @@ script 197 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's get back to
-	the Undernet! We
-	need info on "S"!
+	Vamos voltar pra Under-
+	net! Precisamos reunir
+	informações sobre o "S"!
 	"""
 	keyWait
 	end
@@ -1595,9 +1598,9 @@ script 198 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	This is a dangerous
-	place! But lets go
-	back and get them!
+	Este lugar é perigoso.
+	Vamos vamos voltar e
+	pegar eles!
 	"""
 	keyWait
 	end
@@ -1607,9 +1610,9 @@ script 199 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Rank 10 is "where
-	the evil fall"…?
-	Where could that be?
+	O ranque 10 está
+	"onde o mal cai"...?
+	Onde será isso?
 	"""
 	keyWait
 	end
@@ -1619,8 +1622,8 @@ script 200 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's get back
-	to Chaud!
+	Vamos voltar pro
+	Chaud!
 	"""
 	keyWait
 	end
@@ -1670,9 +1673,9 @@ script 202 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Rank 10 is "where
-	the evil fall"…?
-	Where could that be?
+	O ranque 10 está
+	"onde o mal cai"...?
+	Onde será isso?
 	"""
 	keyWait
 	end
@@ -1682,9 +1685,9 @@ script 203 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	"Where science gives
-	life"? Hmmm,where
-	would that be?
+	"Onde a ciência nutre
+	vida"? Hmm... onde
+	poderia ser isso?
 	"""
 	keyWait
 	end
@@ -1695,8 +1698,8 @@ script 204 mmbn3 {
 	msgOpen
 	"""
 	"Rednu3"?
-	Lan,do you know
-	what that means?
+	Lan, você sacou o que
+	isso significa?
 	"""
 	keyWait
 	end
@@ -1706,9 +1709,8 @@ script 205 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	"Head of learning"…?
-	Who is that,
-	I wonder?
+	"Líder do aprendizado"?
+	Quem seria esse líder?
 	"""
 	keyWait
 	end
@@ -1724,9 +1726,9 @@ script 206 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	"One of many birds"…
-	Hmmmmm,what could
-	that be?
+	"Um de muitos pássaros"...
+	Hmmm, o que poderia ser
+	isso?
 	"""
 	keyWait
 	end
@@ -1740,8 +1742,8 @@ script 207 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's go to
-	ACDC Square!
+	Vamos lá pro ACDC
+	Plaza!
 	"""
 	keyWait
 	end
@@ -1751,9 +1753,9 @@ script 208 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Even if it's
-	dangerous,we need to
-	find Undernet 4!
+	Pode ser perigoso, mas
+	temos que achar o
+	caminho pra Undernet 4!
 	"""
 	keyWait
 	end
@@ -1763,9 +1765,9 @@ script 209 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	The hint for Rank 2
-	is "place of battle"
-	right? Is "S" near…?
+	A dica pro Ranque 2 é
+	"local de batalha", né?
+	"S" tá por lá...?
 	"""
 	keyWait
 	end
@@ -1775,9 +1777,9 @@ script 210 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	A "boulder"?
-	I'm not sure where
-	that would be…
+	Uma "rocha"?
+	Isso não especifica
+	muito o lugar...
 	"""
 	keyWait
 	end
@@ -1787,9 +1789,9 @@ script 212 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,we have to catch
-	that Navi who
-	stole Alpha!!
+	Lan, a gente precisa
+	pegar aquele Navi que
+	roubou o Alpha!!
 	"""
 	keyWait
 	end
@@ -1799,9 +1801,9 @@ script 213 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I wonder what's up
-	with Mayl? Let's go
-	to the ZooComp!
+	O que será que aconte-
+	ceu com a Mayl? Vamos
+	pro CPU do Zoológico!
 	"""
 	keyWait
 	end
@@ -1811,9 +1813,9 @@ script 214 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	This must be "one
-	of many birds"!
-	Let's get to Rank 7!
+	Deve ser isso o "um
+	de muitos pássaros"!
+	Vamos lá pro ranque 7!
 	"""
 	keyWait
 	end
@@ -1844,8 +1846,8 @@ script 219 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's go to
-	dad's lab!
+	Vamos pro laboratório
+	do papai!
 	"""
 	keyWait
 	end
@@ -1855,9 +1857,9 @@ script 220 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,let's look to
-	see if there was
-	much damage in ACDC!
+	Lan, vamos ver se
+	ACDC sofreu muitos
+	danos!
 	"""
 	keyWait
 	end
@@ -1867,9 +1869,9 @@ script 221 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Where are you going?
-	We have to stop the
-	tank!! Go to ACDC!!
+	Aonde você vai?
+	Temos que parar o
+	tanque!! Vai pra ACDC!!
 	"""
 	keyWait
 	end
@@ -1879,9 +1881,9 @@ script 222 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	We have to go!
-	The meeting will
-	start soon!
+	A gente tem que ir logo!
+	A reunião tá pra
+	começar!
 	"""
 	keyWait
 	end
@@ -1913,8 +1915,8 @@ script 224 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,let's hurry
-	and see dad!!
+	Lan, rápido, vamos ir
+	ver o papai!
 	"""
 	keyWait
 	end
@@ -1924,9 +1926,9 @@ script 225 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's go back to the
-	hospital and look
-	for clues about dad!
+	Vamos voltar pro hospital
+	e ver se achamos pistas
+	sobre o papai!
 	"""
 	keyWait
 	end
@@ -1935,7 +1937,10 @@ script 226 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Let's look for dad!!"
+	"""
+	Vamos procurar pelo
+	papai!
+	"""
 	keyWait
 	end
 }
@@ -1944,9 +1949,9 @@ script 227 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	A vehicle for the
-	ocean…There was one
-	around here,right!?
+	Um veículo para o
+	oceano...
+	Tinha um por aqui, né?!
 	"""
 	keyWait
 	end
@@ -1956,9 +1961,9 @@ script 228 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I don't think that
-	boat will make it…
-	We need help!
+	Aquele barco não conse-
+	gue fazer a viagem...
+	Precisamos de ajuda!
 	"""
 	keyWait
 	end
@@ -1968,9 +1973,9 @@ script 229 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	We can't do anything
-	until the boat is
-	ready,so lets sleep!
+	Não podemos fazer nada
+	até o barco ficar pronto,
+	então, vamos dormir!
 	"""
 	keyWait
 	end
@@ -1984,9 +1989,8 @@ script 232 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	The day is finally
-	here! Let's go to
-	Beach Street!
+	O dia fatídico chegou!
+	Vamos lá pra Rua Angra!
 	"""
 	keyWait
 	end
@@ -1996,9 +2000,9 @@ script 233 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	We have to get back
-	to the WWW base when
-	you're ready!
+	Temos que voltar pra
+	base da WWW assim que
+	você estiver pronto!
 	"""
 	keyWait
 	end
@@ -2008,9 +2012,9 @@ script 240 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I wonder who that
-	mail is from? Read
-	it and see!
+	De quem será que é
+	aquele e-mail?
+	Vamos ler e descobrir!
 	"""
 	keyWait
 	end

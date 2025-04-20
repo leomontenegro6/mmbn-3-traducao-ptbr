@@ -4,8 +4,8 @@ script 0 mmbn3 {
 	mugshotHide
 	msgOpen
 	"""
-	About the same time,
-	in SciLab 1…
+	Por volta daquele mesmo
+	momento, em SciLab 1...
 	"""
 	keyWait
 	end
@@ -14,7 +14,7 @@ script 1 mmbn3 {
 	mugshotShow
 		mugshot = DrillMan
 	msgOpen
-	"Drill mode!"
+	"Modo broca!"
 	keyWait
 	end
 }
@@ -22,7 +22,7 @@ script 2 mmbn3 {
 	mugshotShow
 		mugshot = DrillMan
 	msgOpen
-	"Activate TetraCodes!"
+	"Ativar TetraCódigos!"
 	keyWait
 	end
 }
@@ -30,7 +30,7 @@ script 3 mmbn3 {
 	mugshotShow
 		mugshot = DrillMan
 	msgOpen
-	"Alpha is mine!"
+	"O Alpha, agora, é meu!"
 	keyWait
 	end
 }
@@ -39,8 +39,8 @@ script 4 mmbn3 {
 		mugshot = DrillMan
 	msgOpen
 	"""
-	This is the end of
-	the Net society!
+	Este é o fim da
+	sociedade da Rede!
 	"""
 	keyWait
 	end
@@ -50,8 +50,8 @@ script 5 mmbn3 {
 		mugshot = NormalNaviGreen
 	msgOpen
 	"""
-	An intruder is
-	stealing Alpha!
+	Tem um intruso
+	roubando o Alpha!
 	"""
 	keyWait
 	end
@@ -60,10 +60,10 @@ script 6 mmbn3 {
 	mugshotShow
 		mugshot = DrillMan
 	msgOpen
-	"Official scum…"
+	"Oficiais patéticos..."
 	keyWait
 	clearMsg
-	"You're too late!"
+	"Chegaram tarde demais!"
 	keyWait
 	end
 }
@@ -71,7 +71,7 @@ script 7 mmbn3 {
 	mugshotShow
 		mugshot = DrillMan
 	msgOpen
-	"Drill mode!"
+	"Modo broca!"
 	keyWait
 	end
 }
@@ -79,7 +79,7 @@ script 8 mmbn3 {
 	mugshotShow
 		mugshot = DrillMan
 	msgOpen
-	"Hah!"
+	"Ha!"
 	keyWait
 	end
 }
@@ -88,14 +88,13 @@ script 9 mmbn3 {
 		mugshot = NormalNaviGreen
 	msgOpen
 	"""
-	Alpha's been
-	stolen…
+	O Alpha foi roubado...
 	"""
 	keyWait
 	clearMsg
 	"""
-	The Net society is
-	doomed!
+	A sociedade da Rede
+	está condenada!
 	"""
 	keyWait
 	end

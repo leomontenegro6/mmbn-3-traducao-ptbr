@@ -9,16 +9,14 @@ script 0 mmbn3 {
 		mugshot = BowlMan
 	msgOpen
 	"""
-	You're pretty good,
-	beating me like
-	that.
+	Você é muito bom, pra
+	vencer alguém como eu.
 	"""
 	keyWait
 	clearMsg
 	"""
-	But you're not good
-	enough to defeat
-	Serenade.
+	Mas não o bastante
+	para vencer Serenade.
 	"""
 	keyWait
 	clearMsg
@@ -35,7 +33,7 @@ script 1 mmbn3 {
 	msgOpen
 	"""
 	"Serenade"?
-	You mean…
+	Quer dizer...
 	"""
 	keyWait
 	clearMsg
@@ -51,9 +49,8 @@ script 2 mmbn3 {
 		mugshot = BowlMan
 	msgOpen
 	"""
-	Yes! Serenade is the
-	real name of the
-	Navi you seek.
+	Sim! Serenade é o
+	verdadeiro nome de "S".
 	"""
 	keyWait
 	clearMsg
@@ -68,12 +65,12 @@ script 3 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Really!?"
+	"É mesmo?!"
 	keyWait
 	clearMsg
 	"""
-	Tell me where I can
-	find him!
+	Diz pra mim onde eu
+	posso achar Serenade!
 	"""
 	keyWait
 	clearMsg
@@ -89,16 +86,16 @@ script 4 mmbn3 {
 		mugshot = BowlMan
 	msgOpen
 	"""
-	Very well. Serenade
-	is deep within the
-	Under Square.
+	Tudo bem. Serenade
+	está nos confins do
+	Under Plaza.
 	"""
 	keyWait
 	clearMsg
 	"""
-	He resides in an
-	area where regular
-	Navis cannot enter.
+	Ele reside em uma área
+	na qual Navis normais
+	não podem entrar.
 	"""
 	keyWait
 	clearMsg
@@ -114,8 +111,8 @@ script 5 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	So how do I get to
-	that area?
+	E como eu faço pra
+	chegar nessa área?
 	"""
 	keyWait
 	clearMsg
@@ -131,8 +128,8 @@ script 6 mmbn3 {
 		mugshot = BowlMan
 	msgOpen
 	"""
-	Take this and go to
-	the Undernet server.
+	Pegue isto e vá para
+	o servidor da Undernet.
 	"""
 	keyWait
 	clearMsg
@@ -152,7 +149,7 @@ script 7 mmbn3 {
 		item = 32
 		amount = 1
 	"""
-	MegaMan got:
+	MegaMan adquiriu:
 	"
 	"""
 	printItem
@@ -174,7 +171,7 @@ script 8 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"The Undernet server…"
+	"O servidor da Undernet..."
 	keyWait
 	clearMsg
 	jump
@@ -189,23 +186,23 @@ script 9 mmbn3 {
 		mugshot = BowlMan
 	msgOpen
 	"""
-	The server room that
-	runs the Undernet
-	lies somewhere in
+	A sala do servidor que
+	opera a Undernet fica
+	no mundo real.
 	"""
 	keyWait
 	clearMsg
 	"""
-	the real world. From
-	there,you'll be able
-	to reach Serenade.
+	A partir de lá, você
+	conseguirá chegar ao
+	local de Serenade.
 	"""
 	keyWait
 	clearMsg
 	"""
-	The door to the
-	server room is
-	hidden by a boulder.
+	A porta para a sala do
+	servidor está escondida
+	por uma rocha.
 	"""
 	keyWait
 	clearMsg
@@ -221,15 +218,16 @@ script 10 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	A server room hidden
-	by a boulder…
+	Uma sala de servidor
+	escondida por uma
+	rocha...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Where could it be?
-	We'll just have to
-	search everywhere!
+	Onde será que é?
+	A gente vai ter que
+	verificar em todo canto!
 	"""
 	keyWait
 	end
@@ -239,16 +237,16 @@ script 11 mmbn3 {
 		mugshot = MistMan
 	msgOpen
 	"""
-	You must be
-	incredibly powerful
-	to defeat me.
+	Você deve ser
+	extremamente poderoso
+	para me derrotar.
 	"""
 	keyWait
 	clearMsg
 	"""
-	The last time I lost
-	was ten years ago,to
-	Serenade…
+	A última vez que fui
+	vencido foi há dez anos,
+	contra Serenade...
 	"""
 	keyWait
 	clearMsg
@@ -259,7 +257,7 @@ script 12 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Serenade? You mean…"
+	"Serenade? Quer dizer..."
 	keyWait
 	clearMsg
 	jump
@@ -270,9 +268,9 @@ script 13 mmbn3 {
 		mugshot = MistMan
 	msgOpen
 	"""
-	It is he,the one
-	referred to as "S",
-	that you seek.
+	A existência que você
+	busca. Aquela a quem
+	se refere como "S".
 	"""
 	keyWait
 	clearMsg
@@ -283,12 +281,12 @@ script 14 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Really!?"
+	"É mesmo?!"
 	keyWait
 	clearMsg
 	"""
-	Tell me where I can
-	find him!
+	Diz pra mim onde eu
+	posso achar Serenade!
 	"""
 	keyWait
 	clearMsg
@@ -300,16 +298,16 @@ script 15 mmbn3 {
 		mugshot = MistMan
 	msgOpen
 	"""
-	I will tell you.
-	Serenade is deep
-	within the
+	Claro, direi. Serenade
+	está, agora, nos confins
+	do Under Plaza,
 	"""
 	keyWait
 	clearMsg
 	"""
-	Under Square,in an
-	area where regular
-	Navis cannot enter.
+	em uma área à qual
+	Navis comuns não têm
+	acesso.
 	"""
 	keyWait
 	clearMsg
@@ -321,8 +319,8 @@ script 16 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	So,how do I get to
-	that area?
+	E como eu faço pra
+	chegar nessa área?
 	"""
 	keyWait
 	clearMsg
@@ -334,9 +332,9 @@ script 17 mmbn3 {
 		mugshot = MistMan
 	msgOpen
 	"""
-	Take this and make
-	haste to the
-	Undernet server.
+	Pegue isto e dirija-se
+	ao servidor da Undernet
+	o quanto antes.
 	"""
 	keyWait
 	clearMsg
@@ -352,7 +350,7 @@ script 18 mmbn3 {
 		item = 32
 		amount = 1
 	"""
-	MegaMan got:
+	MegaMan adquiriu:
 	"
 	"""
 	printItem
@@ -370,7 +368,7 @@ script 19 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"The Undernet server…"
+	"O servidor da Undernet..."
 	keyWait
 	clearMsg
 	jump
@@ -381,23 +379,22 @@ script 20 mmbn3 {
 		mugshot = MistMan
 	msgOpen
 	"""
-	The server room that
-	runs the Undernet
-	lies somewhere in
+	A sala do servidor que
+	opera a Undernet está
+	situada no mundo real.
 	"""
 	keyWait
 	clearMsg
 	"""
-	the real world. From
-	there,the way shall
-	open before you.
+	A partir dela, o caminho
+	se revelará a vocês.
 	"""
 	keyWait
 	clearMsg
 	"""
-	The door to the
-	server room is
-	hidden by a boulder.
+	A porta para a sala do
+	servidor é escondida por
+	uma rocha.
 	"""
 	keyWait
 	clearMsg
@@ -409,15 +406,16 @@ script 21 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	A server room hidden
-	by a boulder…
+	Uma sala de servidor
+	escondida por uma
+	rocha...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Where could it be?
-	We'll just have to
-	search everywhere!
+	Onde será que é?
+	A gente vai ter que
+	verificar em todo canto!
 	"""
 	keyWait
 	end

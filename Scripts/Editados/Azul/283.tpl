@@ -5,9 +5,9 @@ script 0 mmbn3 {
 		mugshot = Sunayama
 	msgOpen
 	"""
-	OK everyone!
-	Rise and shine!
-	We're at Hades Isle!
+	OK, pessoal!
+	Acorda pra vida! Chega-
+	mos na Ilha do Inferno!
 	"""
 	keyWait
 	clearMsg
@@ -18,7 +18,7 @@ script 1 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"…Uh……Uugh."
+	"... Umh...... Uugh."
 	keyWait
 	clearMsg
 	jump
@@ -29,9 +29,9 @@ script 2 mmbn3 {
 		mugshot = Sunayama
 	msgOpen
 	"""
-	Step to it,now!
-	Everyone off the
-	ferry!
+	Vamos, gente, de pé!
+	E levem esses pés pra
+	fora do barco!
 	"""
 	keyWait
 	end
@@ -41,40 +41,39 @@ script 3 mmbn3 {
 		mugshot = Sunayama
 	msgOpen
 	"""
-	Welcome to Hades
-	Isle!
+	Bem-vindos à Ilha do
+	Inferno! E é aqui que
 	
 	"""
 	flagSet
 		flag = 1537
-	"This is where I make"
+	"eu me retiro."
 	keyWait
 	clearMsg
 	"""
-	my exit! Proceed to
-	the Demon's Maw,
-	the cave off to my
-	"""
-	keyWait
-	clearMsg
-	"""
-	right. Inside,you
-	will find Hades.
-	Yes,you heard me
+	Sigam para a Goela do
+	Demônio, a caverna à
+	minha direita.
 	"""
 	keyWait
 	clearMsg
 	"""
-	right. Hades itself
-	awaits you! Many
-	horrors lie inside,
+	Dentro dela,
+	vocês encontrarão...
+	o Inferno.
 	"""
 	keyWait
 	clearMsg
 	"""
-	so if you want to
-	turn back,now is the
-	time!
+	Isso mesmo: o submundo
+	aguarda vocês! E ele
+	abriga muitos horrores,
+	"""
+	keyWait
+	clearMsg
+	"""
+	então, se quiserem fugir,
+	a hora é agora!
 	"""
 	keyWait
 	clearMsg
@@ -86,16 +85,16 @@ script 4 mmbn3 {
 		mugshot = Tora
 	msgOpen
 	"""
-	Yo! Like who's gonna
-	turn back now before
-	even one battle?
+	Ô! Quem que ia ser doido
+	de ir embora agora, sem
+	lutar nem uma vez?
 	"""
 	keyWait
 	clearMsg
 	"""
-	We're ready to go,so
-	hurry up and bring
-	it on!!
+	Ó, a gente tá pronto,
+	então manda logo esse
+	negócio aí!
 	"""
 	keyWait
 	clearMsg
@@ -107,15 +106,15 @@ script 5 mmbn3 {
 		mugshot = Man
 	msgOpen
 	"""
-	Whoa,this place is
-	creepy! No,no. I
-	can't wig out now.
+	Cruzes, esse lugar é
+	assustador! Não, não,
+	não posso recuar agora.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Who's the man!? Me!!
-	You the man!? Oui!!
+	O machão aqui? Sou eu!
+	Quem é machão? Eu!!
 	"""
 	keyWait
 	clearMsg
@@ -127,9 +126,9 @@ script 6 mmbn3 {
 		mugshot = BlackWoman
 	msgOpen
 	"""
-	Uh,Mr.Sunayama. No
-	one's backing out,so
-	can we go already?
+	Er, sr. Sunayama.
+	Ninguém vai fugir, então,
+	a gente pode ir logo?
 	"""
 	keyWait
 	clearMsg
@@ -141,14 +140,14 @@ script 7 mmbn3 {
 		mugshot = Sunayama
 	msgOpen
 	"""
-	All right then,my
-	brave warriors!
+	Pois bem então,
+	valentes guerreiros!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Into the demons'
-	den!
+	Adentremos o covil dos
+	demônios!
 	"""
 	keyWait
 	end
@@ -157,15 +156,16 @@ script 8 mmbn3 {
 	mugshotHide
 	msgOpen
 	"""
-	One by one,the
-	contestants enter
-	the Demon's Maw.
+	Um por um, os
+	competidores entram
+	na Goela do Demônio.
 	"""
 	keyWait
 	clearMsg
 	"""
-	What type of inferno
-	awaits them inside!?
+	Que tipo de danação
+	será que os aguarda
+	em seu interior...?!
 	"""
 	keyWait
 	end

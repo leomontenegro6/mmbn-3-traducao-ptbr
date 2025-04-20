@@ -14,7 +14,7 @@ script 1 mmbn3 {
 	msgOpen
 	"""
 	MegaMan!
-	Now what!?
+	O que foi agora?!
 	"""
 	keyWait
 	clearMsg
@@ -26,9 +26,9 @@ script 2 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Don't you feel it,
-	Lan? Ever since we
-	came into this area…
+	Não tá sentindo isso,
+	Lan? Desde que
+	entramos nesta área...
 	"""
 	keyWait
 	clearMsg
@@ -40,15 +40,14 @@ script 3 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Yeah,there's that
-	immense power,
+	Sim. Primeiro, aquele
+	poder absurdo,
 	"""
 	keyWait
 	clearMsg
 	"""
-	then the earthquake
-	that tore apart the
-	path…
+	depois, o terremoto que
+	partiu o caminho...
 	"""
 	keyWait
 	clearMsg
@@ -60,16 +59,16 @@ script 4 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	No,not that! Like
-	something's watching
-	us…
+	Não, isso, não! É como
+	se alguém estivesse
+	observando a gente...
 	"""
 	keyWait
 	clearMsg
 	"""
-	This whole time I've
-	felt someone's eyes
-	on me…
+	Esse tempo todo, eu
+	venho sentindo alguém
+	de olho em mim...
 	"""
 	keyWait
 	clearMsg
@@ -80,17 +79,20 @@ script 5 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"We're being watched…"
-	keyWait
-	clearMsg
 	"""
-	Now's not the time
-	to get spooked,
-	though!
+	Estamos sendo
+	monitorados...
 	"""
 	keyWait
 	clearMsg
-	"Let's find FlamMan!"
+	"""
+	Mas não é hora da
+	gente ficar se
+	assustando com isso!
+	"""
+	keyWait
+	clearMsg
+	"Bora achar o FlameMan!"
 	keyWait
 	clearMsg
 	jump
@@ -100,7 +102,7 @@ script 6 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Right!"
+	"É!"
 	keyWait
 	end
 }

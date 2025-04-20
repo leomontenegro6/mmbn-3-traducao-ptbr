@@ -4,20 +4,19 @@ script 0 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Hey,Dex!"
+	"Oi, Dex!"
 	keyWait
 	clearMsg
 	"""
-	What's going on,
-	calling me out here
-	like this?
+	Que foi? Por que você
+	me chamou assim, de
+	repente?
 	"""
 	keyWait
 	clearMsg
 	"""
-	You've been acting
-	so strange since
-	yesterday!
+	Você tá muito estranho
+	desde ontem!
 	"""
 	keyWait
 	clearMsg
@@ -28,10 +27,13 @@ script 1 mmbn3 {
 	mugshotShow
 		mugshot = Dex
 	msgOpen
-	"Oh. Uh,well…"
+	"Ah. Er, bom..."
 	keyWait
 	clearMsg
-	"Actually it's,uh…"
+	"""
+	Pra falar a verdade,
+	eu...
+	"""
 	keyWait
 	clearMsg
 	jump
@@ -41,7 +43,7 @@ script 2 mmbn3 {
 	mugshotShow
 		mugshot = Tora
 	msgOpen
-	"Yo! Lan!!"
+	"E aê! Lan!!"
 	keyWait
 	end
 }
@@ -50,9 +52,9 @@ script 3 mmbn3 {
 		mugshot = Tora
 	msgOpen
 	"""
-	Hey.
-	Am I interrupting
-	something?
+	Opa.
+	Foi mal, tô
+	interrompendo?
 	"""
 	keyWait
 	clearMsg
@@ -63,12 +65,12 @@ script 4 mmbn3 {
 	mugshotShow
 		mugshot = Dex
 	msgOpen
-	"Oh! You!"
+	"Ah! É você!"
 	keyWait
 	clearMsg
 	"""
-	You were in the N1
-	too,right?
+	Cê tava no N1 também,
+	né?
 	"""
 	keyWait
 	clearMsg
@@ -80,8 +82,7 @@ script 5 mmbn3 {
 		mugshot = Tora
 	msgOpen
 	"""
-	That's right. The
-	name's Tora.
+	Aham. Meu nome é Tora.
 	"""
 	keyWait
 	end
@@ -91,8 +92,8 @@ script 6 mmbn3 {
 		mugshot = Tora
 	msgOpen
 	"""
-	Come on,whip out
-	your PET.
+	"Vamo", pega o teu PET
+	aí.
 	"""
 	keyWait
 	clearMsg
@@ -104,8 +105,8 @@ script 7 mmbn3 {
 		mugshot = Dex
 	msgOpen
 	"""
-	What? What do you
-	want with my PET!?
+	Quê? Quê que cê quer
+	com o meu PET?!
 	"""
 	keyWait
 	clearMsg
@@ -116,23 +117,23 @@ script 8 mmbn3 {
 	mugshotShow
 		mugshot = Tora
 	msgOpen
-	"Get with it!"
+	"Não viaja!"
 	keyWait
 	clearMsg
 	"""
-	There's only one way
-	to "greet" a
-	NetBattler!
+	NetLutador a gente só
+	"cumprimenta" de um
+	jeito!
 	"""
 	keyWait
 	clearMsg
-	"By NetBattling!"
+	"NetLutando!"
 	keyWait
 	clearMsg
 	"""
-	The best way to get
-	to know each other
-	is to do battle!
+	O melhor jeito da gente
+	se conhecer é a gente
+	lutar!
 	"""
 	keyWait
 	clearMsg
@@ -144,25 +145,25 @@ script 9 mmbn3 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Sure! NetBattlers
-	don't need words to
-	greet each other.
+	... É! NetLutadores não
+	precisam de palavras
+	pra se cumprimentar.
 	"""
 	keyWait
 	clearMsg
 	"""
-	All right! C'mon!
-	Let's mix it up!
+	Beleza! Só se for agora!
+	Bora nessa!
 	"""
 	keyWait
 	clearMsg
 	"""
 	GutsMan!
-	Battle routine,
+	Rotina
 	"""
 	waitSkip
 		frames = 30
-	"set!"
+	"de batalha...!"
 	keyWait
 	clearMsg
 	jump
@@ -172,7 +173,7 @@ script 10 mmbn3 {
 	mugshotShow
 		mugshot = GutsMan
 	msgOpen
-	"Yeehaw!! Execute!"
+	"Guuuts!! Executar!"
 	keyWait
 	clearMsg
 	jump
@@ -183,15 +184,15 @@ script 11 mmbn3 {
 		mugshot = Tora
 	msgOpen
 	"""
-	This greeting's
-	gonna be a bit
-	rough on ya!
+	Prepara que este
+	"cumprimento" vai ser
+	pesado pra ti!
 	"""
 	keyWait
 	clearMsg
 	"""
-	KingMan! It's time
-	to checkmate!!
+	KingMan! Hora do
+	xeque-mate!!
 	"""
 	keyWait
 	clearMsg
@@ -206,9 +207,9 @@ script 13 mmbn3 {
 		mugshot = Tora
 	msgOpen
 	"""
-	Whew! You almost had
-	me! I thought I
-	might lose!
+	Ufa! Tu quase me pega!
+	Eu tava crente que ia
+	perder.
 	"""
 	keyWait
 	clearMsg
@@ -220,16 +221,15 @@ script 14 mmbn3 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Now I see why you
-	made it to the N1
-	semi-finals!
+	Dá pra ver como cê
+	chegou nas semifinais
+	do N1!
 	"""
 	keyWait
 	clearMsg
 	"""
-	You might even
-	become a rival of
-	Lan's!
+	Cê pode até acabar
+	virando um rival do Lan!
 	"""
 	keyWait
 	clearMsg
@@ -241,9 +241,9 @@ script 15 mmbn3 {
 		mugshot = Tora
 	msgOpen
 	"""
-	Now that we've had
-	our greeting,we can
-	be friends!
+	Agora que a gente se
+	cumprimentou, a gente
+	pode ser amigo!
 	"""
 	keyWait
 	clearMsg
@@ -254,7 +254,7 @@ script 16 mmbn3 {
 	mugshotShow
 		mugshot = Dex
 	msgOpen
-	"Yeah!"
+	"É!"
 	keyWait
 	clearMsg
 	jump
@@ -267,19 +267,18 @@ script 17 mmbn3 {
 		mugshot = Tora
 	msgOpen
 	"""
-	Alright,Lan. I'm
-	gonna get over to
-	the SciLab.
+	Já tô indo, Lan.
+	Vou lá pro SciLab.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Meet me there when
-	you're finished.
+	Me encontra lá quando
+	tiver liberado aqui.
 	"""
 	keyWait
 	clearMsg
-	"See ya!"
+	"Té já!"
 	keyWait
 	end
 }
@@ -287,12 +286,12 @@ script 18 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"See ya.\n"
+	"Até.\n"
 	flagSet
 		flag = 1793
 	"""
-	So Dex,what did you
-	want to tell me?
+	E aí, Dex, o que você
+	queria me contar?
 	"""
 	keyWait
 	clearMsg
@@ -304,22 +303,22 @@ script 19 mmbn3 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Oh,ah…Never mind.
-	It's nothing. Say,
-	that guy Tora was
+	Ah, er... Esquece.
+	Não era nada, não. Ei,
+	esse tal de Tora é bom!
 	"""
 	keyWait
 	clearMsg
 	"""
-	good! I hope you
-	two become friends!
+	Espero que cês dois
+	virem amigos!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I just remembered I
-	got something to do.
-	I'm going back home.
+	Eu acabei de lembrar que
+	tenho um negócio pra
+	fazer. Vou lá pra casa.
 	"""
 	keyWait
 	end
@@ -329,8 +328,8 @@ script 20 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Dex isn't acting
-	like himself…
+	O Dex não tá o mesmo
+	de sempre...
 	"""
 	keyWait
 	clearMsg
@@ -342,9 +341,8 @@ script 21 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Yeah. Maybe
-	something's
-	bothering him?
+	É. Será que tem alguma
+	coisa incomodando ele?
 	"""
 	keyWait
 	clearMsg
@@ -356,15 +354,13 @@ script 22 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Ah,he'll probably be
-	back to normal soon
-	enough.
+	... Ah, já já ele volta
+	ao normal, certeza.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Let's get over to
-	the SciLab!
+	Vamos lá pro SciLab!
 	"""
 	keyWait
 	end

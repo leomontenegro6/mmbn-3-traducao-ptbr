@@ -4,17 +4,17 @@ script 0 mmbn3 {
 	mugshotShow
 		mugshot = DrillMan
 	msgOpen
-	"I can't believe it!"
+	"Não acredito!"
 	keyWait
 	clearMsg
 	"""
-	I'll trigger my self
-	destruct,and blow
-	you both up!!
+	Pois eu vou acionar a
+	minha autodestruição e
+	levar vocês comigo!!
 	"""
 	keyWait
 	clearMsg
-	"Wheeeeeen!!"
+	"Eeeehhhnnn!!"
 	keyWait
 	end
 }
@@ -24,7 +24,7 @@ script 1 mmbn3 {
 	msgOpen
 	"""
 	MegaMan!
-	Stop DrillMan!!
+	Impede o DrillMan!!
 	"""
 	keyWait
 	clearMsg
@@ -35,10 +35,10 @@ script 2 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Roger…!"
+	"Entendido...!"
 	keyWait
 	clearMsg
-	"Wha!!"
+	"Quê!!"
 	keyWait
 	end
 }
@@ -57,9 +57,9 @@ script 4 mmbn3 {
 		mugshot = DrillMan
 	msgOpen
 	"""
-	Looks like your
-	battle damage is
-	taking its toll!!
+	Parece que começou a
+	sentir o dano que levou
+	na luta!!
 	"""
 	keyWait
 	clearMsg
@@ -70,7 +70,7 @@ script 5 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Lan! RUN!!"
+	"Lan! FOGE!!"
 	keyWait
 	clearMsg
 	jump
@@ -81,9 +81,9 @@ script 6 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	No way,MegaMan!
-	We'll always be
-	together,right?
+	Nem pensar, MegaMan!
+	A gente vai ficar
+	sempre junto, né?
 	"""
 	keyWait
 	clearMsg
@@ -94,13 +94,12 @@ script 7 mmbn3 {
 	mugshotShow
 		mugshot = DrillMan
 	msgOpen
-	"Stupid human!"
+	"Humano imbecil!"
 	keyWait
 	clearMsg
 	"""
-	You'll be together.
-	All the way to
-	heaven!
+	Vocês vão ficar juntos,
+	sim. Juntinhos... no Além!
 	"""
 	keyWait
 	clearMsg
@@ -119,7 +118,7 @@ script 9 mmbn3 {
 	mugshotShow
 		mugshot = DrillMan
 	msgOpen
-	"Wheeeeeen!!"
+	"Eeeeeehhhnn!!"
 	keyWait
 	end
 }
@@ -128,9 +127,8 @@ script 10 mmbn3 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	I'm not finished
-	with you yet! Come
-	back here!
+	Eu ainda não acabei
+	com você! Volte aqui!
 	"""
 	keyWait
 	clearMsg
@@ -142,7 +140,7 @@ script 11 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	………
+	.........
 	P-ProtoMan!!
 	"""
 	keyWait
@@ -156,7 +154,7 @@ script 12 mmbn3 {
 	msgOpen
 	"""
 	Chaud!!
-	But you're hurt!?
+	Mas você tá ferido!
 	"""
 	keyWait
 	clearMsg
@@ -168,20 +166,20 @@ script 13 mmbn3 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Go…Lan…
-	You're the only one
-	who can stop Wily…
+	Vá... Lan...
+	Você é o único que
+	pode deter o Wily...
 	"""
 	keyWait
 	clearMsg
 	"""
-	All of network
-	society is
-	counting on you!
+	Toda a sociedade da
+	Rede está contando
+	com você!
 	"""
 	keyWait
 	clearMsg
-	"Go,quick!"
+	"Vai, rápido!"
 	keyWait
 	clearMsg
 	jump
@@ -191,12 +189,13 @@ script 14 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"………OK!"
+	"......... OK!"
 	keyWait
 	clearMsg
 	"""
-	We'll stop Wily,
-	and his evil plans!!
+	A gente vai deter o
+	Wily e pôr um fim nos
+	planos malignos dele!!
 	"""
 	keyWait
 	end
@@ -206,9 +205,9 @@ script 15 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's go,Lan!
-	This is the
-	big battle!
+	Vamos nessa, Lan!
+	Essa vai ser a luta
+	suprema!
 	"""
 	keyWait
 	clearMsg
@@ -219,7 +218,7 @@ script 16 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"OK!!"
+	"Vamos encarar!!"
 	keyWait
 	end
 }

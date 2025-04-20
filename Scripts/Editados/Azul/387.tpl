@@ -4,7 +4,7 @@ script 0 mmbn3 {
 	mugshotShow
 		mugshot = HeelNavi
 	msgOpen
-	"Nooooooo!!"
+	"Nnããããããoo!!"
 	keyWait
 	end
 }
@@ -13,16 +13,15 @@ script 1 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	That was a little
-	too close! You
-	really can't let
+	Essa foi por muito pouco!
+	Realmente, não dá pra
+	baixar a guarda
 	"""
 	keyWait
 	clearMsg
 	"""
-	your guard down for
-	a second in the
-	Undernet!
+	nem por um segundo
+	na Undernet!
 	"""
 	keyWait
 	clearMsg
@@ -33,18 +32,18 @@ script 2 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Yeah."
+	"Pois é."
 	keyWait
 	clearMsg
 	"""
-	MegaMan,let's go
-	find #7!
+	MegaMan, hora de
+	encontrar o #7!
 	"""
 	keyWait
 	clearMsg
 	"""
-	The clue was,
-	"head of learning"!
+	A pista era:
+	"líder do aprendizado"!
 	"""
 	keyWait
 	clearMsg
@@ -55,7 +54,7 @@ script 3 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Roger!"
+	"Entendido!"
 	keyWait
 	end
 }

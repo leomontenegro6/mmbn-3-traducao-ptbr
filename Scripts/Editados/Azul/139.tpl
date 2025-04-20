@@ -35,8 +35,8 @@ script 1 mmbn3 {
 script 230 mmbn3 {
 	msgOpen
 	"""
-	MegaMan accessed the
-	mystery data.
+	MegaMan acessou os
+	dados misteriosos.
 	"""
 	wait
 		frames = 10
@@ -57,8 +57,8 @@ script 230 mmbn3 {
 		item = 96
 		amount = 1
 	"""
-	MegaMan got a
-	PowerUp:
+	MegaMan adquiriu
+	um PowerUp:
 	"
 	"""
 	printItem
@@ -77,8 +77,8 @@ script 231 mmbn3 {
 		jumpIfFalse = 232
 	msgOpen
 	"""
-	MegaMan accessed the
-	mystery data.
+	MegaMan acessou os
+	dados misteriosos.
 	"""
 	wait
 		frames = 10
@@ -97,8 +97,7 @@ script 231 mmbn3 {
 		code = J
 		amount = 1
 	"""
-	MegaMan got a chip
-	for
+	MegaMan adquiriu o chip
 	"
 	"""
 	printChip
@@ -119,15 +118,15 @@ script 231 mmbn3 {
 script 232 mmbn3 {
 	msgOpen
 	"""
-	It's locked.
+	Está bloqueado.
 	"
 	"""
 	printItem
 		buffer = 0
 		item = 117
 	"""
-	" is needed
-	to open it
+	" é necessário
+	para acessar os dados.
 	"""
 	keyWait
 	end

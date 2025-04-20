@@ -4,7 +4,7 @@ script 0 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Where am I?"
+	"Onde é que eu tô?"
 	keyWait
 	end
 }
@@ -13,14 +13,14 @@ script 1 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Is this…
-	the Cyberworld?
+	Aqui é...
+	o mundo cibernético?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Why am I in
-	that Cyberworld??
+	Por que eu tô no
+	mundo cibernético??
 	"""
 	keyWait
 	clearMsg
@@ -31,7 +31,7 @@ script 2 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Lan…"
+	"Lan..."
 	keyWait
 	clearMsg
 	jump
@@ -42,8 +42,7 @@ script 3 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Is that you,
-	MegaMan?
+	MegaMan, é você?
 	"""
 	keyWait
 	clearMsg
@@ -57,8 +56,8 @@ script 4 mmbn3 {
 	msgOpen
 	"""
 	MegaMan!
-	What am I doing
-	in the Cyberworld?
+	O que eu tô fazendo
+	no mundo cibernético?
 	"""
 	keyWait
 	clearMsg
@@ -69,7 +68,7 @@ script 5 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"I called you,Lan."
+	"Eu te chamei, Lan."
 	keyWait
 	clearMsg
 	jump
@@ -80,8 +79,7 @@ script 6 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	You did?
-	But why?
+	Chamou? Mas por quê?
 	"""
 	keyWait
 	clearMsg
@@ -92,19 +90,19 @@ script 7 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"To say goodbye."
+	"Pra me despedir."
 	keyWait
 	clearMsg
 	"""
-	I'm sorry to leave
-	you. But I must go…
+	Desculpa por te deixar.
+	Mas eu preciso ir...
 	"""
 	keyWait
 	clearMsg
 	"""
-	The years that we
-	spent together are
-	priceless to me,Lan…
+	Os anos que passamos
+	juntos são inestimáveis
+	pra mim, Lan...
 	"""
 	keyWait
 	clearMsg
@@ -116,8 +114,9 @@ script 8 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Goodbye…?
-	What do you mean!?
+	Despedir...?
+	O que quer dizer com
+	isso?!
 	"""
 	keyWait
 	clearMsg
@@ -129,13 +128,12 @@ script 9 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I'm glad to have
-	been able to see you
-	this one last time…
+	Fico feliz de poder te
+	ver esta última vez...
 	"""
 	keyWait
 	clearMsg
-	"Thank you,Lan."
+	"Obrigado, Lan."
 	keyWait
 	end
 }
@@ -144,8 +142,8 @@ script 10 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan,wait!
-	Why!?
+	MegaMan, espera!
+	Por quê?!
 	"""
 	keyWait
 	clearMsg
@@ -159,14 +157,15 @@ script 11 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Wait…Hub!!
-	Don't go!!
+	Espera... Hub!!
+	Não vá!!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Why can't I move!?
-	Hubbbbb!!
+	Por que eu não consigo
+	me mexher?!
+	Huuuuuuuub!!
 	"""
 	keyWait
 	clearMsg

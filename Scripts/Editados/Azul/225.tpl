@@ -12,7 +12,7 @@ script 1 mmbn3 {
 	mugshotShow
 		mugshot = Chisao
 	msgOpen
-	"Big brother!"
+	"Irmãozão!"
 	keyWait
 	clearMsg
 	jump
@@ -32,7 +32,7 @@ script 3 mmbn3 {
 	mugshotShow
 		mugshot = Chisao
 	msgOpen
-	"Big brother!!!"
+	"Irmãozão!!!"
 	keyWait
 	end
 }
@@ -40,7 +40,7 @@ script 4 mmbn3 {
 	mugshotShow
 		mugshot = Yai
 	msgOpen
-	"Oh,how sweet…"
+	"Ah, que meigo..."
 	keyWait
 	clearMsg
 	jump
@@ -50,7 +50,7 @@ script 5 mmbn3 {
 	mugshotShow
 		mugshot = Mayl
 	msgOpen
-	"Isn't it,though?"
+	"Não é?"
 	keyWait
 	clearMsg
 	jump
@@ -63,9 +63,9 @@ script 6 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I had completely
-	forgotten that Dex
-	has a brother…
+	Eu tinha esquecido
+	completamente que o
+	Dex tinha um irmão...
 	"""
 	keyWait
 	clearMsg
@@ -77,15 +77,15 @@ script 7 mmbn3 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	Me too! Wasn't he
-	living in Netopia…?
+	Eu também! Mas ele não
+	morava na Ameropa...?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Something about his
-	father being there
-	on business?
+	Pois o pai deles teve
+	que se mudar pra lá por
+	causa do trabalho, né?
 	"""
 	keyWait
 	clearMsg
@@ -96,27 +96,26 @@ script 8 mmbn3 {
 	mugshotShow
 		mugshot = Dex
 	msgOpen
-	"Right."
+	"Aham."
 	keyWait
 	clearMsg
 	"""
-	I've seen photos of
-	him,but I haven't
-	met since he was 1.
-	"""
-	keyWait
-	clearMsg
-	"""
-	So I'm not surprised
-	that you didn't
-	recognize him!
+	Eu vi fotos, mas não me
+	encontro com ele desde
+	que ele tinha 1 ano.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'm sorry for all
-	the trouble he
-	caused!
+	Então, não é à toa que
+	vocês não reconheceram
+	ele!
+	"""
+	keyWait
+	clearMsg
+	"""
+	Desculpa pela dor de
+	cabeça que ele causou!
 	"""
 	keyWait
 	clearMsg
@@ -127,13 +126,13 @@ script 9 mmbn3 {
 	mugshotShow
 		mugshot = Mayl
 	msgOpen
-	"That's OK,but…"
+	"De boa, mas..."
 	keyWait
 	clearMsg
 	"""
-	Why was he calling
-	you the #1
-	NetBattler in ACDC?
+	Por que ele tava te
+	chamando de o "melhor
+	NetLutador de ACDC"?
 	"""
 	keyWait
 	clearMsg
@@ -144,7 +143,7 @@ script 10 mmbn3 {
 	mugshotShow
 		mugshot = Dex
 	msgOpen
-	"Oh,that. Uh,well…"
+	"Ah, isso. Er, é que..."
 	keyWait
 	clearMsg
 	jump
@@ -155,16 +154,16 @@ script 11 mmbn3 {
 		mugshot = Chisao
 	msgOpen
 	"""
-	'Cause he IS! Just
-	like you wrote in
-	your mails!!
+	Porque ele É! Que nem
+	você disse nos seus
+	"í-mêius"!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Especially dat kid
-	Lan's Navi! You
-	ALWAYS beat it!
+	"Espeçalmente" contra
+	o Navi daquele "Lén"!
+	Você SEMPRE vence ele!
 	"""
 	keyWait
 	clearMsg
@@ -176,9 +175,9 @@ script 12 mmbn3 {
 		mugshot = Dex
 	msgOpen
 	"""
-	…Uh,yeah,sure! I'm
-	the #1 NetBattler in
-	town! Yep!
+	... Er, é, isso aí! Eu sou o
+	melhor NetLutador do
+	bairro! Aham!
 	"""
 	keyWait
 	clearMsg
@@ -189,7 +188,7 @@ script 13 mmbn3 {
 	mugshotShow
 		mugshot = Yai
 	msgOpen
-	"Snicker…!"
+	"Pfft...!"
 	keyWait
 	clearMsg
 	jump
@@ -199,7 +198,7 @@ script 14 mmbn3 {
 	mugshotShow
 		mugshot = Mayl
 	msgOpen
-	"Oh,come on,Dex!"
+	"Sério, Dex?"
 	keyWait
 	clearMsg
 	jump
@@ -210,9 +209,9 @@ script 15 mmbn3 {
 		mugshot = Chisao
 	msgOpen
 	"""
-	Big brother! Let me
-	watch you beat dat
-	big-forehead girl!
+	Irmãozão! Eu quero ver
+	você "cabando" com a
+	menina testuda!
 	"""
 	keyWait
 	clearMsg
@@ -225,7 +224,7 @@ script 16 mmbn3 {
 	mugshotShow
 		mugshot = Yai
 	msgOpen
-	"Huh!? Why,you…!"
+	"O QUÊ?! Ora, seu..."
 	keyWait
 	clearMsg
 	jump
@@ -236,9 +235,9 @@ script 17 mmbn3 {
 		mugshot = Chisao
 	msgOpen
 	"""
-	Nah,dat's too easy!
-	How 'bout dat boy
-	over dere!?
+	Hm... não, fácil demais!
+	Que tal aquele menino
+	ali?!
 	"""
 	keyWait
 	clearMsg
@@ -249,7 +248,7 @@ script 18 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Who,me!?"
+	"Quem, eu?!"
 	keyWait
 	clearMsg
 	jump
@@ -260,8 +259,8 @@ script 19 mmbn3 {
 		mugshot = Chisao
 	msgOpen
 	"""
-	Make GutsMan beat
-	dat kid's Navi!
+	Faz o GutsMan "cabar"
+	com o Navi desse menino!
 	"""
 	keyWait
 	clearMsg
@@ -272,13 +271,13 @@ script 20 mmbn3 {
 	mugshotShow
 		mugshot = Dex
 	msgOpen
-	"Uh,yeah,sure!"
+	"Ãhn... er, claro, vou sim!"
 	keyWait
 	clearMsg
 	"""
-	C'mon,Lan! Let's
-	battle! GutsMan will
-	take care of you!
+	Bora, Lan! Vamos lutar!
+	O GutsMan vai fazer
+	picadinho de você!
 	"""
 	keyWait
 	clearMsg
@@ -290,8 +289,8 @@ script 21 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	…What should
-	we do,Lan?
+	... O que a gente faz,
+	Lan?
 	"""
 	keyWait
 	end

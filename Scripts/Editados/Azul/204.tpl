@@ -4,13 +4,13 @@ script 0 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"It's dark in here."
+	"Tá tão escuro aqui."
 	keyWait
 	clearMsg
 	"""
-	This looks like the
-	data for some
-	classroom.
+	Esta área parece ser
+	conectada a uma das
+	salas de aula.
 	"""
 	keyWait
 	clearMsg
@@ -22,15 +22,15 @@ script 1 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	It's the Principal's
-	PC! It's full of
-	school data.
+	É porque é o computador
+	do diretor! Ele tá cheio
+	de dados da escola.
 	"""
 	keyWait
 	clearMsg
 	"""
-	OK,MegaMan! Let's go
-	find FlashMan!
+	Beleza, MegaMan!
+	Bora achar o FlashMan!
 	"""
 	keyWait
 	clearMsg
@@ -42,9 +42,9 @@ script 2 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Roger!
-	You handle the
-	operation,Lan!
+	Entendido!
+	Conto com você pra me
+	operar, Lan!
 	"""
 	keyWait
 	clearMsg
@@ -55,7 +55,7 @@ script 3 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"You bet!"
+	"Lógico, né?!"
 	keyWait
 	end
 }

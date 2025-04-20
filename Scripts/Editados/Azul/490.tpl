@@ -14,22 +14,22 @@ script 0 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	I just bought a
-	BubbleWash. They're
-	all the rage!
+	Acabei de comprar uma
+	Lava-Bolha. Elas
+	tão muito na moda!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Just jack it in,and
-	presto! It cleans
-	all your dishes!
+	É só se conectar, e
+	pronto! Ele lava sua
+	louça à distância, até!
 	"""
 	keyWait
 	clearMsg
 	"""
-	We really live in an
-	age of convenience!
+	Vivemos mesmo na
+	era da conveniência!
 	"""
 	keyWait
 	waitHold
@@ -48,36 +48,35 @@ script 1 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	You bought one too,
-	Junko? So did I!
+	Você comprou uma,
+	Junko? Eu também!
 	"""
 	keyWait
 	clearMsg
 	"""
-	But isn't it funny?
-	It's connected to
-	the Net,
+	Mas, engraçado, né?
+	Mesmo ela estando
+	ligada à Rede,
 	"""
 	keyWait
 	clearMsg
 	"""
-	but you can't jack
-	into the washer
-	itself! Still,it
+	não dá pra se conec-
+	tar NA Lava-Bolha!
+	Bom, ainda assim,
 	"""
 	keyWait
 	clearMsg
 	"""
-	looks pretty sturdy.
-	Everything nowadays
-	breaks so easily.
+	ela parece bem
+	sólida. Tudo quebra
+	tão fácil, hoje em dia.
 	"""
 	keyWait
 	clearMsg
 	"""
-	It's nice to see
-	something built so
-	well!
+	É bom ver um produto
+	projetado tão bem!
 	"""
 	keyWait
 	waitHold
@@ -96,51 +95,50 @@ script 2 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	I just had a look
-	at the ACDC Square
-	Chat BBS,and there
+	Acabei de dar uma
+	olhada no Fórum de
+	Bate-Papo de ACDC.
 	"""
 	keyWait
 	clearMsg
 	"""
-	seems to be a lot of
-	discussion about
-	RegularChips. They
+	Lá, estão falando
+	muito sobre Chips
+	Padrão. Mas só ficam
 	"""
 	keyWait
 	clearMsg
 	"""
-	just keep blabbing
-	about attacks and
-	recoveries,though,
+	falando sobre chips
+	de ataque e cura,
+	quando o importante
 	"""
 	keyWait
 	clearMsg
 	"""
-	when the important
-	things are the chip
-	codes rather than
+	mesmo são os CÓDIGOS
+	dos chips, não os chips
+	em si!
 	"""
 	keyWait
 	clearMsg
 	"""
-	the actual chips!
-	How about using a
-	* chip? (Kitager
+	Que tal usar um chip *?
+	(O Kitago também fala
+	das vantagens dos
 	"""
 	keyWait
 	clearMsg
 	"""
-	also talks about the
-	advantages of *
-	chips on that BBS.)
+	chips * naquele
+	Fórum.)
 	"""
 	keyWait
 	clearMsg
 	"""
-	That way,you have
-	the option of using
-	it anytime you want!
+	Assim, você teria a
+	opção de usá-lo
+	quando quisesse!
 	"""
 	keyWait
 	waitHold
@@ -159,23 +157,23 @@ script 3 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	Ooooh,I'm so mad I
-	could just scream!
-	My house is full of
+	Aaaah, eu tô tão fula,
+	que tô pra gritar! Minha
+	casa tá só bolhas!
 	"""
 	keyWait
 	clearMsg
 	"""
-	bubbles! I almost
-	drowned! WWW just
-	made an enemy of
+	Eu quase me afoguei!
+	A WWW acabou de
+	fazer de inimigas
 	"""
 	keyWait
 	clearMsg
 	"""
-	every lady who
-	purchased a Bubble
-	Wash!
+	todas as mulheres
+	que compraram uma
+	Lava-Bolha!
 	"""
 	keyWait
 	waitHold
@@ -194,23 +192,23 @@ script 4 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	I can empathize with
-	you,Miki. What a
-	terrible prank!
+	Simpatizo, Miki.
+	Que brincadeira de
+	péssimo gosto!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Say,that e-mail that
-	came when the washer
-	went berserk was
+	Ei, aquele e-mail que
+	foi mandado quando a
+	lava-louças saiu de
 	"""
 	keyWait
 	clearMsg
 	"""
-	signed by the "WWW".
-	Weren't they
-	destroyed?
+	controle foi assinado
+	pela "WWW". Eles não
+	tinham sido destruídos?
 	"""
 	keyWait
 	waitHold
@@ -229,22 +227,22 @@ script 5 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	The prankster must
-	have used that name
-	to scare everybody.
+	O golpista deve ter
+	usado o nome só pra
+	assustar geral.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Besides,the WWW was
-	eradicated by that
-	super-Navi,right?
+	Digo, a WWW foi dizimada
+	por aquele super-Navi,
+	não foi?
 	"""
 	keyWait
 	clearMsg
 	"""
-	There's nothing to
-	be afraid of.
+	Não há nada a temer
+	aqui.
 	Ha ha ha!
 	"""
 	keyWait
@@ -264,50 +262,51 @@ script 6 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	I just took a look
-	at this BBS,and
-	noticed Crosser made
+	Acabei de dar uma
+	olhada neste Fórum, e
+	vi que o Cruzil
 	"""
 	keyWait
 	clearMsg
 	"""
-	a good point! You
-	shouldn't just make
-	a strong chip your
+	levantou um bom
+	argumento! Não se
+	deve só usar um chip
 	"""
 	keyWait
 	clearMsg
 	"""
-	Regular. You should
-	make sure it matches
-	the chip codes in
+	forte como Padrão. Ele
+	tem que combinar com
+	os códigos dos chips
 	"""
 	keyWait
 	clearMsg
 	"""
-	your folder. Since
-	asterisk chips match
-	any folder,they come
+	na sua pasta. Como
+	chips de asterisco vão
+	com qualquer pasta,
 	"""
 	keyWait
 	clearMsg
 	"""
-	in handy! Regular
-	Chips also come into
-	play when making
+	são super úteis! Chips
+	Padrão também cumprem
+	um papel na hora de
 	"""
 	keyWait
 	clearMsg
 	"""
-	Program Advances.
-	What's that,you say?
-	Heh,maybe next time!
+	fazer Programas
+	Avançados. "Que papel"?
+	He, talvez na próxima!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I gotta get over to
-	the N1! Later,gator!
+	Preciso ir pro N1, agora!
+	Tchau! Me manda um
+	e-mail e um inteiro!
 	"""
 	keyWait
 	waitHold
@@ -326,15 +325,15 @@ script 7 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	You're entering the
-	N1 Grand Prix,too,
-	Koetsu?
+	Você também vai
+	competir no Grande
+	Prêmio N1, Koetsu?
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'm your biggest
-	fan! I hope you win!
+	Eu sou seu maior fã!
+	Espero que cê vença!
 	"""
 	keyWait
 	waitHold
@@ -740,7 +739,7 @@ script 15 mmbn3 {
 	"""
 	What've you got to
 	say about that,
-	Nukky?
+	Nukin?
 	"""
 	keyWait
 	clearMsg

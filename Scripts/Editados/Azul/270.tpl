@@ -4,7 +4,7 @@ script 0 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Are you two okay?"
+	"Vocês tão bem?"
 	keyWait
 	clearMsg
 	jump
@@ -16,7 +16,7 @@ script 1 mmbn3 {
 	mugshotShow
 		mugshot = Mayl
 	msgOpen
-	"Yeah,we're fine!"
+	"Aham, estamos, sim!"
 	keyWait
 	clearMsg
 	jump
@@ -29,15 +29,14 @@ script 2 mmbn3 {
 		mugshot = MsMari
 	msgOpen
 	"""
-	I was a little
-	worried for a moment
-	there!
+	Ai, por um momento ali,
+	eu fiquei preocupada!
 	"""
 	keyWait
 	clearMsg
 	"""
-	We owe you our
-	lives,Lan!
+	Devemos nossas vidas
+	a você, Lan!
 	"""
 	keyWait
 	clearMsg
@@ -48,7 +47,7 @@ script 3 mmbn3 {
 	mugshotShow
 		mugshot = Higsby
 	msgOpen
-	"Great work,Lan! Huh!"
+	"Mandou bem, Lan! É!"
 	keyWait
 	clearMsg
 	flagSet
@@ -60,7 +59,7 @@ script 4 mmbn3 {
 	mugshotShow
 		mugshot = Mayl
 	msgOpen
-	"Thanks Lan!"
+	"Obrigada, Lan!"
 	keyWait
 	clearMsg
 	jump
@@ -70,7 +69,7 @@ script 5 mmbn3 {
 	mugshotShow
 		mugshot = MsMari
 	msgOpen
-	"Thank you,Lan!"
+	"Muito obrigada, Lan!"
 	keyWait
 	clearMsg
 	jump
@@ -80,7 +79,7 @@ script 6 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Uh,sure…"
+	"Er, tá..."
 	keyWait
 	clearMsg
 	jump
@@ -91,9 +90,9 @@ script 7 mmbn3 {
 		mugshot = Higsby
 	msgOpen
 	"""
-	What's the matter?
-	You look kinda glum,
-	huh?
+	Que foi?
+	Você parece meio pra
+	baixo, é.
 	"""
 	keyWait
 	clearMsg
@@ -107,9 +106,9 @@ script 8 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	No,I'm happy,really!
-	I mean,everyone's
-	safe!
+	Er, não, eu tô super feliz,
+	sério! Digo, tá todo mundo
+	são e salvo, né?!
 	"""
 	keyWait
 	clearMsg
@@ -121,9 +120,9 @@ script 9 mmbn3 {
 		mugshot = Higsby
 	msgOpen
 	"""
-	Now that this is
-	over,I'd better get
-	back to my shop.
+	Agora que tudo isto
+	acabou, é melhor eu
+	voltar pra minha loja.
 	"""
 	keyWait
 	flagClear
@@ -135,21 +134,20 @@ script 10 mmbn3 {
 		mugshot = MsMari
 	msgOpen
 	"""
-	I'm going home now,
-	too. I don't think
-	I'll be purchasing
+	Eu também vou pra casa.
+	E não irei comprar uma
+	Lava-Bolha, com certeza!
 	"""
 	keyWait
 	clearMsg
 	"""
-	a BubbleWash!
-	Goodbye,Mayl.
+	Tchau-tchau, Mayl!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'm going to turn in
-	early today.
+	Desculpe por ir embora
+	tão cedo.
 	"""
 	keyWait
 	flagSet
@@ -161,15 +159,15 @@ script 11 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I should be going
-	now,too.
+	É melhor eu ir embora
+	também.
 	"""
 	keyWait
 	clearMsg
 	"""
-	You must be tired,
-	Mayl. You should
-	get some rest.
+	Você deve tá cansada,
+	Mayl. É melhor você
+	descansar.
 	"""
 	keyWait
 	clearMsg
@@ -181,29 +179,29 @@ script 12 mmbn3 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	Lan. Thanks for
-	saving me.
+	Lan. Obrigada por me
+	salvar.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I never doubted you.
-	Not for a moment!
+	Eu nunca duvidei de
+	você. Nem por um
+	segundo sequer!
 	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	"""
-	Cut it out,Mayl!
-	Don't look at me
-	that way!
+	Ei, para com isso, Mayl!
+	Não me olha desse jeito!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Alright then,I'll
-	see you tomorrow!
+	E-enfim, tchau, até
+	amanhã!
 	"""
 	keyWait
 	end
@@ -214,9 +212,9 @@ script 13 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan. Are you still
-	thinking about what
-	Chaud said?
+	Lan. Você ainda tá
+	pensando no que o
+	Chaud disse?
 	"""
 	controlUnlock
 	keyWait
@@ -226,25 +224,26 @@ script 14 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Yeah."
+	"Tô."
 	keyWait
 	clearMsg
 	"""
-	What he said was
-	true. My moment of
-	hesitation could
-	"""
-	keyWait
-	clearMsg
-	"""
-	have cost the lives
-	of thousands.
+	Ele falou a verdade.
+	Aquele meu momento
+	de hesitação
 	"""
 	keyWait
 	clearMsg
 	"""
-	But I can't be so
-	cold-hearted.
+	poderia ter custado
+	a vida de muita, mas
+	muita gente.
+	"""
+	keyWait
+	clearMsg
+	"""
+	Só que eu não consigo
+	ser tão frio assim.
 	"""
 	keyWait
 	clearMsg
@@ -255,26 +254,26 @@ script 15 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"What are you saying?"
+	"O que você tá dizendo?"
 	keyWait
 	clearMsg
 	"""
-	You don't need to
-	change at all!
-	"""
-	keyWait
-	clearMsg
-	"""
-	Chaud is Chaud,and
-	we're us! There's no
-	need to be who we
+	Você não tem que mudar
+	nada em você!
 	"""
 	keyWait
 	clearMsg
 	"""
-	aren't! Now let's go
-	home and get some
-	sleep. I'm beat!
+	O Chaud é o Chaud, e a
+	gente é a gente! Não
+	precisamos ser algo
+	"""
+	keyWait
+	clearMsg
+	"""
+	que não somos. Enfim,
+	vamos logo pra casa e
+	dormir. Eu tô acabado!
 	"""
 	keyWait
 	end

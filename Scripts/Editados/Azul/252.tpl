@@ -5,22 +5,22 @@ script 0 mmbn3 {
 		mugshot = Higsby
 	msgOpen
 	"""
-	Thank you Lan!
-	I knew you'd do a
-	great job,huh!
+	Obrigado, Lan!
+	Sabia que você faria
+	um ótimo trabalho!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Let me reward you
-	for your trouble,
-	Huh?
+	Vou te dar uma
+	recompensa pelo seu
+	trabalho, é!
 	"""
 	keyWait
 	clearMsg
 	"""
-	…
-	Here you go!
+	...
+	Aqui!
 	"""
 	keyWait
 	clearMsg
@@ -35,7 +35,7 @@ script 1 mmbn3 {
 	soundPlay
 		track = 133
 	"""
-	Lan got a chip for
+	Lan adquiriu o chip
 	"
 	"""
 	printChip
@@ -58,22 +58,22 @@ script 2 mmbn3 {
 		mugshot = Higsby
 	msgOpen
 	"""
-	You're a lifesaver!
-	You know,I studied
-	programming on my
+	Você salvou minha vida!
+	Sabe, eu estudei progra-
+	mação durante a viagem.
 	"""
 	keyWait
 	clearMsg
 	"""
-	trip. I learned some
-	basic programming
-	skills,so if you
+	Aprendi umas coisinhas.
+	Técnicas básicas, é.
 	"""
 	keyWait
 	clearMsg
 	"""
-	ever need help,just
-	let me know,huh?
+	Então, se precisar de
+	ajuda com coisas do tipo,
+	é só me avisar, é!
 	"""
 	keyWait
 	clearMsg
@@ -86,7 +86,7 @@ script 3 mmbn3 {
 	flagSet
 		flag = 1307
 	soundDisableTextSFX
-	"Beep Beep Beep!"
+	"Bip Bip Bip!"
 	soundEnableTextSFX
 	keyWait
 	end
@@ -95,12 +95,12 @@ script 4 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Lan! You got mail!"
+	"Lan! Chegou e-mail!"
 	keyWait
 	clearMsg
 	"""
-	It's from DNN.
-	It says,
+	É da DNN.
+	Nele, tá escrito:
 	"""
 	keyWait
 	clearMsg
@@ -108,37 +108,37 @@ script 4 mmbn3 {
 		animation = 27
 	playerFinish
 	"""
-	"The final N1 Grand
-	Prix preliminary
-	will be held today.
+	"A última rodada
+	preliminar do Grande
+	Prêmio N1 será hoje.
 	"""
 	keyWait
 	clearMsg
 	"""
-	"The location of the
-	event is a secret.
-	You must all find it
+	O local do evento é
+	um segredo. Vocês
+	todos devem 
 	"""
 	keyWait
 	clearMsg
 	"""
-	"by yourselves. We
-	will provide you
-	with a clue.
+	encontrá-lo sozinhos.
+	Mas forneceremos a
+	vocês uma pista.
 	"""
 	keyWait
 	clearMsg
 	"""
-	"'Enemy of viruses;
-	Cyber square;
-	Yellow'.
+	'Inimigo dos vírus;
+	Cyber plaza;
+	Amarelo'.
 	"""
 	keyWait
 	clearMsg
 	"""
-	"We look forward to
-	your arriving as
-	soon as possible."!
+	Aguardamos a sua
+	chegada o mais rápido
+	possível."!
 	"""
 	flagAddMail
 		flag = 4358
@@ -154,15 +154,15 @@ script 5 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	The final
-	preliminary?! That
-	means if we pass
+	A última preliminar?!
+	Então, se a gente
+	passar nela,
 	"""
 	keyWait
 	clearMsg
 	"""
-	this,we'll be in
-	the N1 Grand Prix!
+	vamos competir no
+	Grande Prêmio N1!
 	"""
 	keyWait
 	clearMsg
@@ -174,13 +174,13 @@ script 6 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I'll bet this final
-	preliminary isn't
-	going to be easy!
+	Aposto que essa última
+	preliminar não vai ser
+	fácil.
 	"""
 	keyWait
 	clearMsg
-	"Let's go for it,Lan!"
+	"Vamos pra luta, Lan!"
 	keyWait
 	clearMsg
 	jump
@@ -192,7 +192,7 @@ script 7 mmbn3 {
 	msgOpen
 	playerAnimate
 		animation = 24
-	"Of course!"
+	"Claro, né?!"
 	playerFinish
 	flagSet
 		flag = 1309
@@ -204,8 +204,8 @@ script 8 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	We've got to get
-	going,Higsby!
+	A gente tem que ir
+	agora, Higsby!
 	"""
 	keyWait
 	clearMsg
@@ -217,8 +217,8 @@ script 9 mmbn3 {
 		mugshot = Higsby
 	msgOpen
 	"""
-	I understand.
-	Good luck,huh!
+	Entendo.
+	Boa sorte, é!
 	"""
 	keyWait
 	end

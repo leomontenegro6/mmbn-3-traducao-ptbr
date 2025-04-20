@@ -5,40 +5,40 @@ script 0 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	Welcome into the old
-	TV set!!
+	Bem-vindo a este velho
+	televisor!!
 	"""
 	keyWait
 	clearMsg
 	"""
-	This TV is actually
-	broken.
+	Esta TV, na verdade,
+	está quebrada.
 	"""
 	keyWait
 	clearMsg
 	"""
-	But the owner still
-	likes it,so now it's
-	just on display.
+	Mas a dona ainda gosta
+	dela, então, ela continua
+	aqui, de enfeite.
 	"""
 	keyWait
 	clearMsg
 	"""
-	You can turn it on,
-	but all you'll see
-	is static.
+	Dá para ligar, mas só
+	o que aparecerá na tela
+	será estática.
 	"""
 	keyWait
 	clearMsg
-	"Hsssssssssss…"
+	"Tssssssssszzzzt..."
 	keyWait
 	end
 }
 script 230 mmbn3 {
 	msgOpen
 	"""
-	MegaMan accessed the
-	mystery data.
+	MegaMan acessou os
+	dados misteriosos.
 	"""
 	wait
 		frames = 10
@@ -62,8 +62,8 @@ script 230 mmbn3 {
 	playerAnimate
 		animation = 24
 	"""
-	MegaMan got a
-	SubChip for
+	MegaMan adquiriu o
+	SubChip
 	"
 	"""
 	printItem
@@ -81,9 +81,8 @@ script 231 mmbn3 {
 		buffer = 0
 		item = 117
 	"""
-	 is full.
-	You can't carry
-	any more
+	s demais.
+	Não pode carregar mais.
 	"""
 	keyWait
 	end

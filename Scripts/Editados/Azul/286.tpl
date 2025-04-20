@@ -4,8 +4,9 @@ script 0 mmbn3 {
 	mugshotHide
 	msgOpen
 	"""
-	Everyone,stop!
-	Please jack out!
+	Podem parar, pessoal!
+	Desconectem-se,
+	por favor.
 	"""
 	keyWait
 	end
@@ -13,23 +14,23 @@ script 0 mmbn3 {
 script 1 mmbn3 {
 	mugshotHide
 	msgOpen
-	"All four \""
+	"Os quatro \""
 	printItem
 		buffer = 0
 		item = 18
 	"""
-	s"
-	have been obtained.
+	"s
+	foram todos obtidos.
 	"""
 	keyWait
 	clearMsg
-	"Now for the results."
+	"Agora, os resultados."
 	keyWait
 	clearMsg
 	"""
-	The winners of Round
-	1 are…
-	these contestants!
+	Os vencedores da
+	Primeira Rodada são...
+	estes competidores!
 	"""
 	keyWait
 	end
@@ -38,13 +39,12 @@ script 2 mmbn3 {
 	mugshotShow
 		mugshot = SciLabMan
 	msgOpen
-	"Wha…!!"
+	"O quê...!!"
 	keyWait
 	clearMsg
 	"""
-	I thought I'd pass
-	for sure!
-	Aaaaaaaaaaaahhhhhh!
+	Eu tinha certeza de
+	que ia passaaaaaaahh!
 	"""
 	keyWait
 	end
@@ -54,9 +54,9 @@ script 3 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	You've gotta be
-	kidding! That's what
-	happens to losers?
+	Isso só pode ser brinca-
+	deira! E o que acontece
+	com quem perde?
 	"""
 	keyWait
 	clearMsg
@@ -67,14 +67,15 @@ script 4 mmbn3 {
 	mugshotHide
 	msgOpen
 	"""
-	Exactly! Losers will
-	be…eliminated.
+	Excelente pergunta!
+	Os perdedores são...
+	eliminados.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Only the strong will
-	survive!
+	Somente os fortes
+	sobreviverão!
 	"""
 	keyWait
 	end
@@ -84,15 +85,15 @@ script 5 mmbn3 {
 		mugshot = Tora
 	msgOpen
 	"""
-	Let the weak fall to
-	their doom! It
-	serves them right
+	Ah, os fracos que se
+	danem!
 	"""
 	keyWait
 	clearMsg
 	"""
-	for entering N1
-	without any skills!
+	É o que eles merecem
+	por entrar no N1 sendo
+	um bando de inútil.
 	"""
 	keyWait
 	clearMsg
@@ -103,8 +104,8 @@ script 6 mmbn3 {
 	mugshotHide
 	msgOpen
 	"""
-	Winners! Look
-	over there!
+	Vencedores!
+	Virem sua atenção àquilo!
 	"""
 	keyWait
 	end
@@ -113,8 +114,8 @@ script 7 mmbn3 {
 	mugshotHide
 	msgOpen
 	"""
-	Cross the bridge,
-	winners!
+	Atravessem a ponte,
+	vencedores!
 	"""
 	keyWait
 	clearMsg
@@ -125,7 +126,7 @@ script 8 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Lan……"
+	"Lan......"
 	keyWait
 	clearMsg
 	jump
@@ -136,15 +137,15 @@ script 9 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	"Losers will be
-	eliminated"…
+	"Os perdedores são
+	eliminados"...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Let's go,MegaMan!
-	We're gonna win,no
-	matter what!
+	Vamos, MegaMan!
+	A gente tem que vencer,
+	custe o que custar!
 	"""
 	keyWait
 	clearMsg
@@ -155,7 +156,7 @@ script 10 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Yeah!"
+	"É!"
 	keyWait
 	end
 }
@@ -163,30 +164,30 @@ script 11 mmbn3 {
 	mugshotHide
 	msgOpen
 	"""
-	Losers are dropped
-	mercilessly to the
-	valley below.
+	Os perdedores são
+	jogados no vale abaixo
+	sem dó nem piedade.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Those who passed
-	the first round
-	under incredible,
+	Os NetLutadores que
+	passaram na primeira
+	rodada sob uma pressão
 	"""
 	keyWait
 	clearMsg
 	"""
-	torturous pressure
-	head toward a new
-	nightmare. Little do
+	intensa e tortuosa
+	seguem rumo a um novo
+	pesadelo.
 	"""
 	keyWait
 	clearMsg
 	"""
-	they know the horrid
-	turn of events that
-	awaits them!!
+	Mal sabiam eles as
+	tenebrosas reviravoltas
+	que lhes aguardavam!!
 	"""
 	keyWait
 	end

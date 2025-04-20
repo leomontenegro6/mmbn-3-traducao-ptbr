@@ -4,21 +4,21 @@ script 0 mmbn3 {
 	mugshotHide
 	msgOpen
 	"""
-	…Where… am I…?
-	…Am I… alive…?
+	... Onde é... que eu tô...?
+	... Eu... tô vivo...?
 	"""
 	keyWait
 	clearMsg
-	"…Grrr…Growwwll…"
+	"... Grrr... Graurr..."
 	keyWait
 	clearMsg
 	"""
-	…What do…you want…?
-	…Will you save me?
+	... O que... você quer...?
+	... Vai me salvar?
 	"""
 	keyWait
 	clearMsg
-	"Grrr…Roarrr!!"
+	"Grrr... Raoarrrr!!"
 	keyWait
 	end
 }
@@ -28,8 +28,8 @@ script 1 mmbn3 {
 	msgOpen
 	"""
 	Lan!
-	Are you ready
-	for tomorrow?
+	Está pronto para
+	amanhã?
 	"""
 	keyWait
 	clearMsg
@@ -42,7 +42,7 @@ script 2 mmbn3 {
 	msgOpen
 	flagSet
 		flag = 421
-	"I'm getting ready!"
+	"Tô preparando as coisas!"
 	keyWait
 	clearMsg
 	jump
@@ -53,16 +53,16 @@ script 3 mmbn3 {
 		mugshot = Mom
 	msgOpen
 	"""
-	If you don't get to
-	bed early you'll
-	oversleep!
+	Se não for dormir cedo,
+	vai acabar dormindo
+	demais e passar da hora!
 	"""
 	keyWait
 	clearMsg
 	"""
-	You don't want to do
-	that on your first
-	day of 6th grade!
+	Não quer fazer isso no
+	seu primeiro dia no
+	sexto ano, né?
 	"""
 	keyWait
 	clearMsg
@@ -73,7 +73,7 @@ script 4 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"I know! I know!"
+	"Eu sei, eu sei!"
 	keyWait
 	end
 }
@@ -82,15 +82,15 @@ script 5 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	OK,that does it!
-	I'm ready to start
-	out as a 6th grader!
+	OK, pronto! Agora, eu tô
+	pronto pra começar a
+	minha vida de sexto ano!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Guess I'll get some
-	sleep for tomorrow!
+	Acho que é melhor eu
+	ir dormir pra amanhã!
 	"""
 	keyWait
 	end
@@ -100,9 +100,9 @@ script 6 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I'm going to bed
-	now,mom!
-	Good night!
+	Tô indo dormir agora,
+	mãe!
+	Boa noite!
 	"""
 	keyWait
 	clearMsg
@@ -113,7 +113,7 @@ script 7 mmbn3 {
 	mugshotShow
 		mugshot = Mom
 	msgOpen
-	"OK! Good night!"
+	"Tá bom! Boa noite!"
 	keyWait
 	end
 }
@@ -122,15 +122,15 @@ script 8 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	6th grade,huh? Now
-	that it's almost
-	here,I'm nervous…
+	Sexto ano... Nossa,
+	agora que tá bem aí,
+	eu tô nervoso...
 	"""
 	keyWait
 	clearMsg
 	"""
-	I hope I can get
-	to sleep…
+	Espero que eu consiga
+	dormir...
 	"""
 	keyWait
 	clearMsg
@@ -141,9 +141,9 @@ script 9 mmbn3 {
 	mugshotHide
 	msgOpen
 	"""
-	………………………
-	………………………
-	……ZZZzzz……
+	...........................
+	...........................
+	...... ZZZzzz......
 	"""
 	keyWait
 	clearMsg
@@ -153,274 +153,267 @@ script 9 mmbn3 {
 script 10 mmbn3 {
 	mugshotHide
 	msgOpen
-	"I'm home!"
+	"Cheguei!"
 	keyWait
 	clearMsg
-	"Welcome home,honey."
+	"Bem-vindo, Yuichiro."
 	keyWait
 	clearMsg
-	"Where's Lan?"
-	keyWait
-	clearMsg
-	"""
-	He's already gone
-	to bed.
-	"""
+	"Cadê o Lan?"
 	keyWait
 	clearMsg
 	"""
-	That's too bad. I
-	wanted to give him
-	this…
+	Já foi pra cama.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Oh,
-	his new Navi?
-	"""
-	keyWait
-	clearMsg
-	"Yeah."
-	keyWait
-	clearMsg
-	"""
-	I hope that he'll
-	use it…
-	"""
-	keyWait
-	clearMsg
-	"I'm sure he will."
-	keyWait
-	clearMsg
-	"""
-	So you made him a
-	pretty good one?
+	Ah, que pena. Eu queria
+	dar isto aqui pra ele...
 	"""
 	keyWait
 	clearMsg
 	"""
-	I think so. I'll
-	just install it
-	while he's asleep.
+	Ah, é o novo Navi dele?
+	"""
+	keyWait
+	clearMsg
+	"É."
+	keyWait
+	clearMsg
+	"""
+	Espero que ele aceite
+	usá-lo...
+	"""
+	keyWait
+	clearMsg
+	"Estou certo de que vai."
+	keyWait
+	clearMsg
+	"""
+	Então, você fez um bom
+	Navi pra ele?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Oh,something
-	interesting
-	happened today.
-	"""
-	keyWait
-	clearMsg
-	"What would that be?"
-	keyWait
-	clearMsg
-	"""
-	Remember that
-	letter from Pop?
+	Acho que sim. Sabe,
+	vou instalá-lo enquanto
+	ele dorme.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Oh,did you finish
-	decoding it?
+	Ah, aconteceu uma
+	coisa muito
+	interessante hoje.
+	"""
+	keyWait
+	clearMsg
+	"Que coisa?"
+	keyWait
+	clearMsg
+	"""
+	Lembra aquela carta
+	do meu pai?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Yes. It had multiple
-	layers of encoding.
-	Just amazing.
+	Ah, você terminou de
+	decodificá-la?
 	"""
 	keyWait
 	clearMsg
 	"""
-	But yesterday we
-	finally finished
-	analyzing it.
-	"""
-	keyWait
-	clearMsg
-	"So what did it say?"
-	keyWait
-	clearMsg
-	"\"I knew that my son\n would be able to\n decode this!"
-	keyWait
-	clearMsg
-	"""
-	"It looks like your
-	skill has surpassed
-	even my own!"
+	Terminei. Ela tinha
+	várias camadas de
+	codificação, era incrível.
 	"""
 	keyWait
 	clearMsg
 	"""
-	That's just like
-	him,isn't it?
-	And there's more…
+	Mas, ontem, finalmente,
+	terminamos de analizá-la.
+	"""
+	keyWait
+	clearMsg
+	"E o que tinha escrito?"
+	keyWait
+	clearMsg
+	"\"Eu sabia que meu fiho\n conseguiria decodificar\n este arquivo!"
+	keyWait
+	clearMsg
+	"""
+	Parece que as suas
+	habilidades ultrapassa-
+	ram até as minhas!"
 	"""
 	keyWait
 	clearMsg
 	"""
-	It talks about a
-	certain area inside
-	of Alpha…
-	"""
-	keyWait
-	clearMsg
-	"A certain area?"
-	keyWait
-	clearMsg
-	"""
-	The only area that
-	Alpha couldn't
-	touch himself.
+	Muito a cara dele, né?
+	Mas tem mais...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Pop's personality
-	data was stored
-	there.
+	Ela falava sobre uma
+	certa área dentro do
+	Alpha...
+	"""
+	keyWait
+	clearMsg
+	"Uma área?"
+	keyWait
+	clearMsg
+	"""
+	A única área que o
+	próprio Alpha não era
+	capaz de afetar.
 	"""
 	keyWait
 	clearMsg
 	"""
-	We didn't find that
-	area in our initial
-	search,but then…
+	Era lá que ficavam sal-
+	vos os dados de perso-
+	nalidade do meu pai.
 	"""
 	keyWait
 	clearMsg
 	"""
-	…You found it
-	yesterday,right?
-	What was in it?
+	Não encontramos essa
+	área durante nossa
+	busca inicial, mas...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Heh heh,
-	you'll find out
-	tomorrow!
+	"Encontraram ontem",
+	acertei?
+	E o que tinha lá?
+	"""
+	keyWait
+	clearMsg
+	"""
+	He he...
+	Amanhã, você verá!
 	"""
 	keyWait
 	end
 }
 script 11 mmbn3 {
 	msgOpen
-	"The next morning"
+	"Na manhã seguinte"
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	keyWait
 	clearMsg
 	soundDisableTextSFX
 	soundPlay
 		track = 219
-	"Bee-bee-beep! \n"
+	"Bi-bi-bip! \n"
 	wait
 		frames = 20
 	soundPlay
 		track = 219
-	"Bee-bee-beep!!"
+	"Bi-bi-bip!!"
 	wait
 		frames = 20
 	soundEnableTextSFX
 	keyWait
 	clearMsg
 	"""
-	Mm…Morning already?
-	yaaawn
+	Mm... Já é de manhã?
+	Uaaaaah
 	"""
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
 	keyWait
 	clearMsg
 	"""
-	I'm glad you can
-	wake up by yourself
-	now!
+	Olha, consegue acordar
+	sozinho agora!
+	Meus parabéns!
 	"""
 	keyWait
 	clearMsg
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"Huh?"
+	"Hã?"
 	keyWait
 	clearMsg
 	"""
-	Have any bad dreams
-	last night?
+	Teve algum pesadelo
+	ontem à noite?
 	"""
 	keyWait
 	clearMsg
-	"That voice! Mega"
+	"Essa voz! Mega"
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
 	"""
-	・?
-	Is this
+	.?
+	Isto é
 	"""
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"a dream?"
+	"um sonho?"
 	keyWait
 	clearMsg
 	"""
-	No,it's not
-	a dream.
+	Não, não é sonho.
 	"""
 	keyWait
 	clearMsg
-	"・"
+	"."
 	waitSkip
 		frames = 60
-	"・"
+	"."
 	waitSkip
 		frames = 60
-	"・"
+	". "
 	waitSkip
 		frames = 60
-	"Good morning,Lan!!"
+	"Bom dia, Lan!!"
 	keyWait
 	end
 }

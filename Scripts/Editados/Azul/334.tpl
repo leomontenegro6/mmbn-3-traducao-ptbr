@@ -5,9 +5,9 @@ script 0 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	We've got to help
-	Mamoru! Hurry and
-	find PlantMan!
+	A gente tem que ajudar
+	o Mamoru! Rápido,
+	encontra o PlantMan!
 	"""
 	keyWait
 	clearMsg
@@ -18,7 +18,7 @@ script 1 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Roger!"
+	"Entendido!"
 	keyWait
 	end
 }

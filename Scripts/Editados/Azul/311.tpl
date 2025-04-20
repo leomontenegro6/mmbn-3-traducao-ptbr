@@ -7,8 +7,8 @@ script 0 mmbn3 {
 		palette = 2
 	msgOpen
 	"""
-	What on earth took
-	you so long!?
+	Por que RAIOS você
+	demorou tanto?!
 	"""
 	keyWait
 	clearMsg
@@ -20,15 +20,14 @@ script 1 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Sorry! There was
-	something I had to
-	take care of.
+	Desculpa! Eu tive que
+	cuidar de uma coisa.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Here. I bought you
-	your "
+	Aqui. Eu trouxe o
+	seu "
 	"""
 	printItem
 		buffer = 0
@@ -43,7 +42,7 @@ script 2 mmbn3 {
 	mugshotHide
 	msgOpen
 	"""
-	Lan gave
+	Lan entregou
 	"
 	"""
 	printItem
@@ -62,8 +61,8 @@ script 3 mmbn3 {
 		palette = 2
 	msgOpen
 	"""
-	Thanks. I'll save
-	this for later.
+	Obrigada. Vou guardar
+	pra tomar depois.
 	"""
 	keyWait
 	end
@@ -73,9 +72,9 @@ script 4 mmbn3 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	It's been awhile
-	since we've all been
-	together like this.
+	Faz tempo que o nosso
+	quarteto não se reúne
+	assim.
 	"""
 	keyWait
 	clearMsg
@@ -89,9 +88,9 @@ script 5 mmbn3 {
 		palette = 2
 	msgOpen
 	"""
-	Things just aren't
-	the same without me,
-	are they?
+	As coisas, simplesmente,
+	não são as mesmas sem
+	mim, eu sei.
 	"""
 	keyWait
 	clearMsg
@@ -103,9 +102,9 @@ script 6 mmbn3 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	Heh heh! That's
-	right! Hurry up and
-	come back to school!
+	He he! É isso aí!
+	Então, volta logo pra
+	escola!
 	"""
 	keyWait
 	clearMsg
@@ -117,9 +116,9 @@ script 7 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Actually,it's been
-	nice and quiet
-	without Yai around.
+	Na verdade, tem sido
+	bem tranquilo e pacífico
+	sem a Yai.
 	"""
 	keyWait
 	clearMsg
@@ -132,13 +131,13 @@ script 8 mmbn3 {
 	mugshotPalette
 		palette = 2
 	msgOpen
-	"What!?"
+	"O quê?!"
 	keyWait
 	clearMsg
 	"""
-	Fine! I'm never
-	coming back! See
-	what I care!
+	Tá bom, então!
+	Eu não volto nunca mais!
+	Tô nem aí!
 	"""
 	keyWait
 	clearMsg
@@ -150,17 +149,17 @@ script 9 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Ha ha! Just kidding
-	Yai! I want you out
-	of here just as much
+	Ha ha! Tô zoando, Yai!
+	Quero você fora daqui
+	tanto quanto o resto
 	"""
 	keyWait
 	clearMsg
 	flagSet
 		flag = 1795
 	"""
-	as everyone. Same
-	with you,right Dex?
+	da turma.
+	Você também, né, Dex?
 	"""
 	keyWait
 	clearMsg
@@ -172,15 +171,18 @@ script 10 mmbn3 {
 		mugshot = Dex
 	msgOpen
 	"""
-	……
-	……
+	......
+	......
 	"""
 	keyWait
 	clearMsg
-	"Uh,yeah…"
+	"Ãh, é..."
 	keyWait
 	clearMsg
-	"Sorry,I gotta go."
+	"""
+	Foi mal, gente, eu
+	preciso vazar.
+	"""
 	keyWait
 	end
 }
@@ -189,14 +191,14 @@ script 11 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	What's the matter
-	with Dex?
+	O que foi que deu no
+	Dex?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Was it something I
-	said?
+	Foi alguma coisa que eu
+	disse?
 	"""
 	keyWait
 	clearMsg
@@ -208,9 +210,9 @@ script 12 mmbn3 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	I don't think so.
-	Maybe something's
-	wrong…
+	Acho que não.
+	Talvez ele esteja com
+	algum problema...
 	"""
 	keyWait
 	clearMsg
@@ -224,9 +226,9 @@ script 13 mmbn3 {
 		palette = 2
 	msgOpen
 	"""
-	Knowing Dex,he'll be
-	his normal arrogant
-	self again tomorrow.
+	Mas, conhecendo ele,
+	logo ele volta a ser o
+	clássico Dex arrogante.
 	"""
 	keyWait
 	end
@@ -236,15 +238,15 @@ script 14 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Yeah,you're probably
-	right. I'm sure it's
-	nothing too serious.
+	É, acho que você tem
+	razão. Não deve ser
+	nada sério.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Well,I should get
-	going too.
+	Bom, eu também tenho
+	que ir pra casa.
 	"""
 	keyWait
 	clearMsg
@@ -256,9 +258,9 @@ script 15 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Yeah,if we stay too
-	long,mom will start
-	to worry.
+	É, se ficarmos na rua
+	até tarde, a mamãe vai
+	começar a se preocupar.
 	"""
 	keyWait
 	clearMsg
@@ -272,8 +274,8 @@ script 16 mmbn3 {
 	flagClear
 		flag = 1797
 	"""
-	How about you Mayl?
-	You staying?
+	E você, Mayl?
+	Vai ficar?
 	"""
 	keyWait
 	clearMsg
@@ -285,9 +287,9 @@ script 17 mmbn3 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	Um,I think I'm going
-	to talk with Yai a
-	bit longer.
+	Hum, é, acho que vou
+	ficar conversando com
+	a Yai mais um tempinho.
 	"""
 	keyWait
 	clearMsg
@@ -301,9 +303,8 @@ script 18 mmbn3 {
 	flagClear
 		flag = 1795
 	"""
-	All right!
-	Hurry up and get
-	better,Yai!
+	Beleza!
+	Melhora logo, tá, Yai?
 	"""
 	keyWait
 	clearMsg
@@ -317,9 +318,9 @@ script 19 mmbn3 {
 		palette = 2
 	msgOpen
 	"""
-	Don't worry about
-	me! I'll be out in
-	no time!
+	Não precisa se
+	preocupar comigo!
+	Já já eu saio daqui.
 	"""
 	keyWait
 	end

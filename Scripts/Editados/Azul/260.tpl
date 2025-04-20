@@ -5,19 +5,19 @@ script 0 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	I now know you are
-	an acquaintance of
-	Dr.Hikari.
+	Agora eu sei que você
+	é um conhecido do Dr.
+	Hikari.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I apologize for my
-	rudeness.
+	Peço desculpas pela
+	minha grosseria.
 	"""
 	keyWait
 	clearMsg
-	"Please take this."
+	"Por favor, pegue isto."
 	keyWait
 	clearMsg
 	jump
@@ -31,7 +31,7 @@ script 1 mmbn3 {
 	soundPlay
 		track = 133
 	"""
-	MegaMan got:
+	MegaMan adquiriu:
 	"
 	"""
 	printItem
@@ -49,16 +49,16 @@ script 2 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Thanks!
-	Now all you have to
-	do is insert this in
+	Muito obrigado!
+	Agora, você só tem
+	que inserir isto
 	"""
 	keyWait
 	clearMsg
 	"""
-	my Navi Customizer
-	and you can compress
-	me,Lan!
+	no meu Customizador
+	de Navi, e vai poder
+	me comprimir, Lan!
 	"""
 	keyWait
 	clearMsg
@@ -70,29 +70,29 @@ script 3 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	If you install this
-	in your Navi
-	Customizer,you will
+	Se instalar isso no seu
+	Customizador, você
+	poderá ser comprimido.
 	"""
 	keyWait
 	clearMsg
 	"""
-	become able to be
-	compressed.
-	However,this is not
+	Porém, o programa não
+	é compatível com o seu
+	Customizador atual.
 	"""
 	keyWait
 	clearMsg
 	"""
-	compatible with your
-	Navi Customizer. The
-	technology in your
+	A tecnologia do seu
+	Customizador de Navi
+	é diferente do normal,
 	"""
 	keyWait
 	clearMsg
 	"""
-	Navi Customizer is
-	too advanced.
+	e avançada demais
+	para o programa.
 	"""
 	keyWait
 	clearMsg
@@ -104,8 +104,8 @@ script 4 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	What? We can't
-	install this?
+	Quê? Então, a gente
+	não pode instalar isto?
 	"""
 	keyWait
 	clearMsg
@@ -117,23 +117,23 @@ script 5 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	It may be possible
-	to install it if you
-	have someone modify
+	Pode ser possível instalá-
+	lo se alguém modificá-lo
+	para o seu Customizador.
 	"""
 	keyWait
 	clearMsg
 	"""
-	it for your Navi
-	Customizer. However,
-	very few people,if
+	Porém, pouquíssimas
+	pessoas no mundo,
+	talvez nenhuma,
 	"""
 	keyWait
 	clearMsg
 	"""
-	any,have the ability
-	to perform such
-	modifications.
+	têm a habilidade
+	necessária para fazer
+	tais modificações.
 	"""
 	keyWait
 	clearMsg
@@ -145,23 +145,23 @@ script 6 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	It figures dad's
-	out of town at a
-	time like this!
+	E claro que o papai tá
+	viajando justo numa
+	hora destas!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Who should we ask to
-	modify this? We
-	don't have time to
+	Pra quem a gente pede
+	pra modificar? Não temos
+	tempo a perder!
 	"""
 	keyWait
 	clearMsg
 	"""
-	waste! Let's hurry
-	up and find someone
-	who can program!
+	Rápido, bora achar
+	alguém que saiba
+	programar!
 	"""
 	keyWait
 	end
@@ -170,13 +170,13 @@ script 7 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"I've got it,Lan!"
+	"Já sei, Lan!"
 	keyWait
 	clearMsg
 	"""
-	Didn't someone we
-	know say they
-	studied programming?
+	Um certo alguém falou
+	pra gente que estudou
+	programação, não foi?
 	"""
 	keyWait
 	end

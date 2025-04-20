@@ -5,8 +5,8 @@ script 0 mmbn3 {
 		mugshot = DrillMan
 	msgOpen
 	"""
-	Lord Wily…
-	I have failed you…
+	Lorde Wily...
+	Eu falhei com o senhor...
 	"""
 	keyWait
 	clearMsg
@@ -14,8 +14,8 @@ script 0 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	BubbleMan…
-	I'm coming to you…
+	BubbleMan...
+	Estou indo até você...
 	"""
 	keyWait
 	clearMsg
@@ -28,9 +28,9 @@ script 1 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Whew! If Wily had
-	gotten his hands on
-	Alpha…
+	Ufa! Se o Wily tivesse
+	posto as mãos no
+	Alpha...
 	"""
 	keyWait
 	clearMsg
@@ -42,14 +42,14 @@ script 2 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Yeah,we would have
-	been gonners!
+	É, a gente teria ido
+	pelos ares!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Come on,let's take
-	Alpha back to
+	Beleza, vamos levar o
+	Alpha de volta pro
 	SciLab!
 	"""
 	keyWait
@@ -61,7 +61,7 @@ script 3 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Right…"
+	"É..."
 	keyWait
 	end
 }
@@ -70,8 +70,8 @@ script 4 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Ungh!! I know this
-	sensation!!
+	Ungh!! Eu conheço esta
+	sensação!!
 	"""
 	keyWait
 	clearMsg
@@ -83,9 +83,9 @@ script 5 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I've got a bad
-	feeling! Hurry,
-	MegaMan,get Alpha!
+	Eu tô com um mau
+	pressentimento! Rápido,
+	MegaMan, pega o Alpha!
 	"""
 	keyWait
 	clearMsg
@@ -99,8 +99,8 @@ script 6 mmbn3 {
 		mugshot = Bass
 	msgOpen
 	"""
-	I cannot allow you
-	to have Alpha…
+	Não posso permitir que
+	fiquem com o Alpha...
 	"""
 	keyWait
 	end
@@ -109,7 +109,7 @@ script 7 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"No! He's got Alpha!"
+	"Não! Ele pegou o Alpha!"
 	keyWait
 	clearMsg
 	jump
@@ -120,9 +120,9 @@ script 8 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	……
-	Lan! Let's use
-	you-know-what!
+	......
+	Lan! Vamos usar o
+	você-sabe-o-quê!
 	"""
 	keyWait
 	clearMsg
@@ -134,8 +134,8 @@ script 9 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	You mean the
-	Forbidden Program?
+	Quer dizer, o
+	Programa Proibido?
 	"""
 	keyWait
 	clearMsg
@@ -147,9 +147,8 @@ script 10 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Yes!
-	It's our only
-	chance!
+	É!
+	É a nossa única chance!
 	"""
 	keyWait
 	clearMsg
@@ -161,8 +160,7 @@ script 11 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	OK! This had better
-	work!
+	Tá! Tomara que funcione!
 	"""
 	keyWait
 	clearMsg
@@ -173,7 +171,7 @@ script 12 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Right!"
+	"OK!"
 	keyWait
 	end
 }
@@ -181,7 +179,7 @@ script 13 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"GigaFreeze!!"
+	"GigaCongelamento!!"
 	keyWait
 	end
 }
@@ -189,7 +187,7 @@ script 14 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Did we get him!?"
+	"Acertamos?!"
 	keyWait
 	end
 }
@@ -197,7 +195,7 @@ script 15 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Can't be!!"
+	"Não pode ser!!"
 	keyWait
 	clearMsg
 	jump
@@ -208,14 +206,14 @@ script 16 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	He caught it in one
-	hand!?
+	Ele pegou com uma mão
+	só?!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Why doesn't he
-	freeze!?
+	Por que ele não
+	congela?!
 	"""
 	keyWait
 	clearMsg
@@ -227,8 +225,9 @@ script 17 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Don't tell me he's
-	a Chosen One,too!?
+	Não vá me dizer... que
+	ele também é um
+	Escolhido!
 	"""
 	keyWait
 	end
@@ -238,26 +237,26 @@ script 18 mmbn3 {
 		mugshot = Bass
 	msgOpen
 	"""
-	You can use the
+	Você consegue usar o
 	"
 	"""
 	printItem
 		buffer = 0
 		item = 34
 	"""
-	"? Hmm…
-	That means you…
+	"? Hmm...
+	Então, você é...
 	"""
 	keyWait
 	clearMsg
 	"""
-	This is getting int-
-	eresting! I will let
-	you live for now.
+	Isso está ficando
+	interessante! Deixarei
+	você viver, por ora.
 	"""
 	keyWait
 	clearMsg
-	"Farewell."
+	"Adeus."
 	keyWait
 	end
 }
@@ -266,16 +265,16 @@ script 19 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	The Forbidden
-	Program didn't work…
-	Alpha's been stolen…
+	O Programa Proibido
+	não funcionou...
+	O Alpha foi roubado...
 	"""
 	keyWait
 	clearMsg
 	"""
-	We've got to do
-	something,or our Net
-	society is done for!
+	Temos que fazer alguma
+	coisa, ou a nossa socie-
+	dade da Rede já era!
 	"""
 	keyWait
 	clearMsg
@@ -287,8 +286,8 @@ script 20 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Right! First,let's
-	go report this to
+	É! Antes de mais nada,
+	vamos relatar isto ao
 	Chaud!
 	"""
 	keyWait

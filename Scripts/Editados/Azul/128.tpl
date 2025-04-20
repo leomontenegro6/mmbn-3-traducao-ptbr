@@ -6,7 +6,8 @@ script 0 mmbn3 {
 	msgOpen
 	"""
 	GutsMan! GutsMan!
-	Ready to chat!
+	Pronto pra bater nesse
+	papo!
 	"""
 	keyWait
 	flagSet
@@ -24,7 +25,7 @@ script 1 mmbn3 {
 	mugshotShow
 		mugshot = Roll
 	msgOpen
-	"Hi MegaMan!"
+	"Oi, Mega!"
 	keyWait
 	flagSet
 		flag = 771
@@ -46,8 +47,8 @@ script 2 mmbn3 {
 		mugshot = Glide
 	msgOpen
 	"""
-	Welcome. I see that
-	everyone's here now.
+	Bem-vindo. Vejo que,
+	agora, estão todos aqui.
 	"""
 	keyWait
 	flagSet
@@ -69,7 +70,7 @@ script 4 mmbn3 {
 	mugshotShow
 		mugshot = Glide
 	msgOpen
-	"Well,shall we begin?"
+	"Bem, vamos começar?"
 	keyWait
 	flagSet
 		flag = 801
@@ -80,16 +81,16 @@ script 5 mmbn3 {
 		mugshot = Glide
 	msgOpen
 	"""
-	MegaMan,you're a bit
-	early for our chat
-	today.
+	MegaMan, você se
+	adiantou um tanto para
+	o nosso bate-papo.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Would you terribly
-	mind coming back
-	after dinner?
+	Seria inconveniente
+	demais pedir para que
+	volte após o jantar?
 	"""
 	keyWait
 	end
@@ -99,33 +100,35 @@ script 20 mmbn3 {
 		mugshot = Glide
 	msgOpen
 	"""
-	Hello.
-	And welcome.
+	Olá.
+	Bem-vindo!
 	"""
 	keyWait
 	clearMsg
 	"""
-	…I see,so you're
-	making a TV show.
+	... Hm, entendo. Você irá
+	participar das filmagens
+	de um programa de TV.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Unfortunately,today
-	is Yai's study day.
+	Infelizmente, hoje é
+	o dia de estudo da
+	srta. Yai.
 	"""
 	keyWait
 	clearMsg
 	"""
-	So even if she
-	wanted to go,she
-	wouldn't be allowed.
+	Então, mesmo que ela
+	desejasse ir, a ela
+	não seria permitido.
 	"""
 	keyWait
 	clearMsg
 	"""
-	It's her father's
-	rule.
+	Regras do senhor pai
+	da Senhorita.
 	"""
 	keyWait
 	flagSet
@@ -136,7 +139,7 @@ script 21 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Lan! You got mail!!"
+	"Lan! Chegou e-mail!"
 	keyWait
 	end
 }
@@ -149,8 +152,8 @@ script 22 mmbn3 {
 script 230 mmbn3 {
 	msgOpen
 	"""
-	MegaMan accessed the
-	mystery data.
+	MegaMan acessou os
+	dados misteriosos.
 	"""
 	wait
 		frames = 10
@@ -172,8 +175,7 @@ script 230 mmbn3 {
 		code = S
 		amount = 1
 	"""
-	MegaMan got a chip
-	for
+	MegaMan adquiriu o chip
 	"
 	"""
 	printChip
@@ -192,8 +194,8 @@ script 230 mmbn3 {
 script 231 mmbn3 {
 	msgOpen
 	"""
-	MegaMan accessed the
-	mystery data.
+	MegaMan acessou os
+	dados misteriosos.
 	"""
 	wait
 		frames = 10
@@ -214,8 +216,8 @@ script 231 mmbn3 {
 		item = 99
 		amount = 1
 	"""
-	MegaMan got a
-	PowerUp:
+	MegaMan adquiriu
+	um PowerUp:
 	"
 	"""
 	printItem
@@ -227,8 +229,8 @@ script 231 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Regular memory
-	increased by 2 MB!
+	Memória padrão
+	aumentada em 2 MB!
 	"""
 	keyWait
 	end

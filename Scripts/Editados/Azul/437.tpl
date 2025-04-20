@@ -5,8 +5,7 @@ script 0 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	There you are,
-	Wily!!
+	Aí está você, Wily!!
 	"""
 	keyWait
 	end
@@ -18,28 +17,29 @@ script 1 mmbn3 {
 		mugshot = LordWily
 	msgOpen
 	"""
-	Well,now.
-	If it isn't Lan…!
+	Ora, ora.
+	Se não é o pirralho
+	Hikari...!
 	"""
 	keyWait
 	clearMsg
 	"""
-	So you've defeated
-	them all,eh?
+	Então, já derrotou
+	todos eles.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Those fool operators
-	only served to delay
-	your arrival…
+	Aqueles operadores tolos
+	eram só para atrasar a
+	sua chegada...
 	"""
 	keyWait
 	clearMsg
 	"""
-	No matter. They were
-	but pawns to be
-	sacrificed…
+	Portanto, não importa.
+	Eles eram só peões para
+	serem sacrificados...
 	"""
 	keyWait
 	end
@@ -50,14 +50,14 @@ script 2 mmbn3 {
 	msgOpen
 	"""
 	Wily!!
-	It's over for you!
+	Acabou pra você!
 	"""
 	keyWait
 	clearMsg
 	"""
-	MegaMan and I will
-	delete Alpha!
-	Once and for all!
+	O MegaMan e eu vamos
+	deletar o Alpha!
+	De uma vez por todas!
 	"""
 	keyWait
 	clearMsg
@@ -69,18 +69,18 @@ script 3 mmbn3 {
 		mugshot = LordWily
 	msgOpen
 	"""
-	Muwahahaha!!
-	You're already
-	too late!!
+	Ua ha ha ha ha ha!!
+	Você chegou tarde
+	demais!!
 	"""
 	keyWait
 	clearMsg
 	flagSet
 		flag = 2625
 	"""
-	Look above me!
-	Alpha has already
-	been 80% decoded!
+	Observe acima de mim!
+	O Alpha já foi 80%
+	decodificado!
 	"""
 	keyWait
 	clearMsg
@@ -92,22 +92,22 @@ script 4 mmbn3 {
 		mugshot = LordWily
 	msgOpen
 	"""
-	In just a few more
-	minutes,Alpha will
-	reawaken!
+	Em poucos minutos,
+	Alpha desperterá mais
+	uma vez!
 	"""
 	keyWait
 	clearMsg
 	"""
-	He will then be
-	transmitted from
-	my antenna!
+	E, então, ele será
+	transmitido pela minha
+	antena...
 	"""
 	keyWait
 	clearMsg
 	"""
-	The world will be
-	engulfed in chaos!
+	e o mundo será
+	mergulhado no caos!
 	"""
 	keyWait
 	end
@@ -117,14 +117,14 @@ script 5 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	We won't allow
-	that to happen!!
+	A gente não vai deixar
+	isso acontecer!!
 	"""
 	keyWait
 	clearMsg
 	"""
 	Lan!
-	Please jack in!!
+	Por favor, me conecta!!
 	"""
 	keyWait
 	clearMsg
@@ -136,22 +136,22 @@ script 6 mmbn3 {
 		mugshot = LordWily
 	msgOpen
 	"""
-	Hahaha! You can't!
-	There are no jacks
-	in this room!!
+	Ha ha ha! Como?!
+	Não há entradas de
+	conexão nesta sala!!
 	"""
 	keyWait
 	clearMsg
 	"""
-	You can just stand
-	there and watch
-	the world end!
+	Só o que podem fazer
+	é ficar aí e ver o mundo
+	acabar!
 	"""
 	keyWait
 	clearMsg
 	flagSet
 		flag = 2626
-	"Muwahahahaha!!"
+	"Uaaa ha ha ha ha ha!!"
 	keyWait
 	clearMsg
 	flagClear
@@ -163,21 +163,21 @@ script 7 mmbn3 {
 		mugshot = LordWily
 	msgOpen
 	"""
-	I shall now become
-	Alpha's brain!!
+	Agora, eu me tornarei
+	o cérebro de Alpha!!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I will then be able
-	to destroy the Net!!
-	Muwahahahaha!!
+	E, enfim, terei o poder
+	de destruir a Rede!!
+	Ua ha ha ha ha!!
 	"""
 	keyWait
 	clearMsg
 	soundPlay
 		track = 317
-	"Pulse transmission!!"
+	"Transmissão de Pulso!!"
 	keyWait
 	clearMsg
 	msgClose
@@ -192,8 +192,8 @@ script 8 mmbn3 {
 	msgOpen
 	"""
 	Lan!!
-	We have to
-	stop Wily!!
+	A gente tem que impedir
+	o Wily!!
 	"""
 	keyWait
 	clearMsg
@@ -205,9 +205,9 @@ script 9 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	But what can we do?
-	There must be
-	something…
+	Mas o que a gente pode
+	fazer? Tem que ter
+	alguma coisa...
 	"""
 	keyWait
 	end
@@ -216,7 +216,7 @@ script 10 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Huh!?"
+	"Hã?!"
 	keyWait
 	end
 }
@@ -224,7 +224,7 @@ script 11 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Can't we use that?"
+	"A gente não pode usar\naquilo?"
 	keyWait
 	end
 }
@@ -233,9 +233,9 @@ script 12 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	It's working!!
-	MegaMan,we'll use
-	this to follow Wily!
+	Tá ligado!
+	MegaMan, vamos usar
+	isto pra ir atrás do Wily!
 	"""
 	keyWait
 	clearMsg
@@ -247,15 +247,15 @@ script 13 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	But Lan,if something
-	were to happen to
-	you in Cyberworld…
+	Mas, Lan, se acontecer
+	alguma coisa com você
+	no mundo cibernético...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Like the
-	WWW operators…
+	Vai acabar que nem os
+	operadores da WWW...
 	"""
 	keyWait
 	clearMsg
@@ -267,28 +267,27 @@ script 14 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	We don't have time
-	to think about that!
+	A gente não tem tempo
+	pra pensar nisso!
 	"""
 	keyWait
 	clearMsg
 	"""
-	And those other
-	operators are just
-	unconscious!
+	E aqueles operadores
+	ficaram só
+	inconscientes!
 	"""
 	keyWait
 	clearMsg
 	"""
-	This is the
-	only way to
-	stop Wily!
+	Esse é o único jeito de
+	deter o Wily!
 	"""
 	keyWait
 	clearMsg
 	"""
-	And we're the only
-	ones who can do it!!
+	E nós somos os únicos
+	que podemos fazer isso!!
 	"""
 	keyWait
 	clearMsg
@@ -299,10 +298,10 @@ script 15 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Lan…"
+	"Lan..."
 	keyWait
 	clearMsg
-	"OK! Let's go!!"
+	"Certo! Vamos lá!!"
 	keyWait
 	clearMsg
 	jump
@@ -313,8 +312,8 @@ script 16 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	We can't let Wily
-	get away with this!!
+	Não podemos deixar o
+	Wily fazer isso!!
 	"""
 	keyWait
 	end
@@ -324,22 +323,22 @@ script 17 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	There's a slot for
-	a PET in this chair…
+	Tem uma entrada pra
+	PET nesta cadeira...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Hmmm… And chips are
-	automatically sent
-	from here…
+	Hmmm... E os chips são
+	automaticamente
+	enviados daqui...
 	"""
 	keyWait
 	clearMsg
 	"""
-	………
-	OK,I'm ready!
-	How about you?
+	.........
+	OK, tô pronto!
+	E você?
 	"""
 	keyWait
 	clearMsg
@@ -350,7 +349,7 @@ script 18 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Ready!!"
+	"Pronto também!!"
 	keyWait
 	clearMsg
 	jump
@@ -361,15 +360,14 @@ script 19 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Just you wait,
-	Wily!!
+	Espera só, Wily!!
 	"""
 	keyWait
 	clearMsg
-	"Go!!\n"
+	"Vai!!\n"
 	soundPlay
 		track = 317
-	"Pulse Transmission!!"
+	"Transmissão de Pulso!!"
 	keyWait
 	end
 }
@@ -377,7 +375,7 @@ script 20 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Ahaaaaaahg!!"
+	"Arraaaaaagh!!"
 	keyWait
 	end
 }

@@ -5,20 +5,19 @@ script 0 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	We programs work
-	hard for this
-	family. Heave ho!
+	Nós, programas,
+	trabalhamos duro por
+	esta família. Rúúú-ah!
 	"""
 	keyWait
 	clearMsg
 	"""
-	We operate all of
-	the devices in this
-	house.
+	Operamos todos os
+	aparelhos da casa.
 	"""
 	keyWait
 	clearMsg
-	"Heave ho!"
+	"Rúúú-ah!"
 	keyWait
 	end
 }
@@ -26,25 +25,25 @@ script 1 mmbn3 {
 	mugshotShow
 		mugshot = MrProg
 	msgOpen
-	"♪La,lala,la,laaa♪"
+	"♪La, lala, la, laaa♪"
 	keyWait
 	clearMsg
 	"""
-	All the programs
-	here are ladies…
-	It's the best way.
+	Todos os programas
+	aqui são moças...
+	É melhor assim.
 	"""
 	keyWait
 	clearMsg
-	"♪Doobie-doobie-do♪"
+	"♪ Tchuri-tchuru-pá ♪"
 	keyWait
 	end
 }
 script 230 mmbn3 {
 	msgOpen
 	"""
-	MegaMan accessed the
-	mystery data.
+	MegaMan acessou os
+	dados misteriosos.
 	"""
 	wait
 		frames = 10
@@ -66,8 +65,7 @@ script 230 mmbn3 {
 		code = N
 		amount = 1
 	"""
-	MegaMan got a chip
-	for
+	MegaMan adquiriu o chip
 	"
 	"""
 	printChip

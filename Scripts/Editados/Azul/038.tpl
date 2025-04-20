@@ -18,9 +18,9 @@ script 0 mmbn3 {
 		jumpIfOutOfRange = continue
 	msgOpen
 	"""
-	Press the L Button
-	to talk to Lan!
-	(but not yet)
+	Aperte o botão L
+	para falar com o Lan!
+	(mas ainda não)
 	"""
 	keyWait
 	end
@@ -30,9 +30,9 @@ script 67 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan,look for the
-	server! We have to
-	stop the zookeeper!!
+	MegaMan, encontra o
+	servidor! Temos que
+	deter o tratador!!
 	"""
 	keyWait
 	end
@@ -42,9 +42,9 @@ script 70 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Looks like there
-	are no more problems
-	from BeastMan…
+	Parece que não tem
+	mais nenhum problema
+	do BeastMan aqui...
 	"""
 	keyWait
 	end
@@ -71,8 +71,8 @@ script 76 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Roll was in area 2,
-	right?
+	A Roll tava na área 2,
+	né?
 	"""
 	keyWait
 	end
@@ -82,9 +82,9 @@ script 77 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I can't believe that
-	guy sent me fake
-	e-mails!
+	Eu não acredito que
+	aquele cara me mandou
+	e-mails falsos!
 	"""
 	keyWait
 	end
@@ -94,9 +94,9 @@ script 78 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Roll should be in
-	this area! We have
-	to find her!!
+	A Roll deve estar nesta
+	área! A gente tem que
+	achar ela!!
 	"""
 	keyWait
 	end

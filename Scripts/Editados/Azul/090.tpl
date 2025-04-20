@@ -15,8 +15,8 @@ script 190 mmbn3 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	Uh oh! I need to get
-	a "
+	Essa não! Preciso de um
+	chip "
 	"""
 	printChip
 		buffer = 0
@@ -26,24 +26,24 @@ script 190 mmbn3 {
 		buffer = 0
 		code = C
 	"""
-	" chip
-	for a TV program.
+	" pra usar
+	em um programa.
 	"""
 	keyWait
 	clearMsg
 	"""
-	…but how can I get
-	it so quickly? I
-	just got the order!
+	... mas como daria pra
+	arranjá-lo tão de última
+	hora? Acabaram de pedir!
 	"""
 	keyWait
 	clearMsg
-	"I got it! You,there!"
+	"Já sei! Ei, você!"
 	keyWait
 	clearMsg
 	"""
-	Do you want to trade
-	a "
+	Aceitaria trocar comigo,
+	um "
 	"""
 	printChip
 		buffer = 0
@@ -54,7 +54,7 @@ script 190 mmbn3 {
 		code = C
 	"""
 	"
-	for my "
+	pelo meu "
 	"""
 	printChip
 		buffer = 0
@@ -74,7 +74,7 @@ script 190 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"OK "
+	"   OK "
 	option
 		left = 0
 		right = 0
@@ -82,7 +82,7 @@ script 190 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Nope!"
+	"          Não!"
 	select
 		default = 0
 		BSeparate = false
@@ -111,7 +111,7 @@ script 191 mmbn3 {
 	mugshotShow
 		mugshot = SciLabWoman
 	msgOpen
-	"Really? Great!"
+	"Jura? Ai, que bom!"
 	keyWait
 	clearMsg
 	jump
@@ -128,7 +128,7 @@ script 192 mmbn3 {
 	playerAnimate
 		animation = 24
 	"""
-	Lan got a chip for
+	Lan adquiriu o chip
 	"
 	"""
 	printChip
@@ -152,9 +152,9 @@ script 193 mmbn3 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	Thank goodness. I
-	didn't want to go
-	searching all over.
+	Estou salva. Deus me
+	livre sair pela cidade à
+	procura dele.
 	"""
 	keyWait
 	end
@@ -164,9 +164,9 @@ script 194 mmbn3 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	OK. I wonder how I
-	can get my hands on
-	that chip…
+	Tá. Hm, como vou fazer
+	para arranjar aquele
+	chip...?
 	"""
 	keyWait
 	end
@@ -175,13 +175,13 @@ script 195 mmbn3 {
 	mugshotShow
 		mugshot = SciLabWoman
 	msgOpen
-	"Huh? It's not here."
+	"Hã? Não está aí."
 	keyWait
 	clearMsg
 	"""
-	If it's in your
-	folder,take it out
-	and let me see it.
+	Se estiver numa pasta,
+	tire-o de lá para que eu
+	possa ver.
 	"""
 	keyWait
 	end
@@ -191,9 +191,9 @@ script 196 mmbn3 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	Our new director is
-	really picky about
-	chips.
+	Nosso novo diretor é
+	bem chatinho quando se
+	trata de chips.
 	"""
 	keyWait
 	end
@@ -203,13 +203,13 @@ script 197 mmbn3 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	It's been a while…
-	Will you reconsider?
+	Já faz um tempo...
+	Poderia reconsiderar?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Could I trade my
+	Posso trocar o meu
 	"
 	"""
 	printChip
@@ -220,8 +220,8 @@ script 197 mmbn3 {
 		buffer = 0
 		code = S
 	"""
-	" for
-	your "
+	" pelo
+	seu "
 	"""
 	printChip
 		buffer = 0
@@ -230,7 +230,7 @@ script 197 mmbn3 {
 	printCode
 		buffer = 0
 		code = C
-	"\"."
+	"\"?"
 	keyWait
 	clearMsg
 	mugshotHide
@@ -241,7 +241,7 @@ script 197 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"OK "
+	"   OK "
 	option
 		left = 0
 		right = 0
@@ -249,7 +249,7 @@ script 197 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No thanks!"
+	"          Não."
 	select
 		default = 0
 		BSeparate = false
@@ -264,15 +264,14 @@ script 197 mmbn3 {
 script 220 mmbn3 {
 	msgOpen
 	"""
-	Posters hang on the
-	wall
+	Vários pôsteres colados
+	na parede.
 	"""
 	keyWait
 	clearMsg
 	"""
-	They're great for
-	bringing some color
-	to a room
+	Ajudam muito a dar mais
+	cor pro recinto.
 	"""
 	keyWait
 	end
@@ -285,15 +284,15 @@ script 221 mmbn3 {
 		jumpIfOutOfRange = continue
 	msgOpen
 	"""
-	A control panel that
-	operates the door
+	Um painel de controle
+	que opera a porta.
 	"""
 	keyWait
 	clearMsg
 	"""
-	This type of panel
-	has jack in ports
-	built in
+	Esse tipo de painel tem
+	entradas de conexão
+	embutidas.
 	"""
 	keyWait
 	end
@@ -301,15 +300,15 @@ script 221 mmbn3 {
 script 222 mmbn3 {
 	msgOpen
 	"""
-	The sign reads
-	"Editing Room"
+	Na placa:
+	"Sala de Edição".
 	"""
 	keyWait
 	clearMsg
 	"""
-	Footage is edited
-	for use in TV
-	programs here
+	Aqui, filmagens são
+	editadas para serem
+	usadas nos programas.
 	"""
 	keyWait
 	end
@@ -317,14 +316,15 @@ script 222 mmbn3 {
 script 223 mmbn3 {
 	msgOpen
 	"""
-	A radio show's being
-	broadcast right now
+	Um programa de rádio
+	está sendo transmitido
+	agora.
 	"""
 	keyWait
 	clearMsg
 	"""
-	You can't just
-	walk in
+	Você não pode entrar
+	sem mais nem menos.
 	"""
 	keyWait
 	end
@@ -332,15 +332,16 @@ script 223 mmbn3 {
 script 224 mmbn3 {
 	msgOpen
 	"""
-	An exciting radio
-	show is being made
-	inside
+	Um emocionante programa
+	de rádio está sendo
+	gravado aí dentro.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Must be hot inside.
-	Everyone's sweating
+	Deve estar bem quente
+	lá.
+	Estão todos suando.
 	"""
 	keyWait
 	end
@@ -348,8 +349,8 @@ script 224 mmbn3 {
 script 225 mmbn3 {
 	msgOpen
 	"""
-	An elevator switch.
-	Want to press it?
+	É um botão de elevador.
+	Quer apertá-lo?
 	
 	"""
 	option
@@ -359,7 +360,7 @@ script 225 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"   Sim "
 	option
 		left = 0
 		right = 0
@@ -367,7 +368,7 @@ script 225 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No"
+	"          Não"
 	select
 		default = 0
 		BSeparate = false
@@ -383,8 +384,8 @@ script 225 mmbn3 {
 script 226 mmbn3 {
 	msgOpen
 	"""
-	The doors opened!
-	Want to go down?
+	O elevador se abriu!
+	Descer?
 	
 	"""
 	option
@@ -394,7 +395,7 @@ script 226 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"   Sim "
 	option
 		left = 0
 		right = 0
@@ -402,7 +403,7 @@ script 226 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No"
+	"          Não"
 	select
 		default = 0
 		BSeparate = false
@@ -424,15 +425,15 @@ script 227 mmbn3s {
 script 230 mmbn3 {
 	msgOpen
 	"""
-	A control panel for
-	operating the door
+	Um painel de controle
+	para operar a porta.
 	"""
 	keyWait
 	clearMsg
 	"""
-	You can't jack in
-	during N1 for
-	security reasons
+	Não pode se conectar
+	nele durante o N1 por
+	razões de segurança.
 	"""
 	keyWait
 	end

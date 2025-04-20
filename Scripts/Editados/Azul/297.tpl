@@ -5,14 +5,14 @@ script 0 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	What are you doing
-	here,Chaud?
+	O que você tá fazendo
+	aqui, Chaud?
 	"""
 	keyWait
 	clearMsg
 	"""
-	The TV crew is
-	waiting for you!
+	O pessoal da DNN tá
+	te esperando!
 	"""
 	keyWait
 	clearMsg
@@ -23,13 +23,13 @@ script 1 mmbn3 {
 	mugshotShow
 		mugshot = Chaud
 	msgOpen
-	"Get lost."
+	"Se manda."
 	keyWait
 	clearMsg
 	"""
-	You're disturbing my
-	mental
-	concentration.
+	Você está atrapalhando
+	minha concentração
+	mental.
 	"""
 	keyWait
 	clearMsg
@@ -41,16 +41,16 @@ script 2 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	What? I came to get
-	you so you won't be
-	late,and that's how
+	Quê? Eu vim te buscar
+	pra você não se atra-
+	sar, e é assim que você
 	"""
 	keyWait
 	clearMsg
 	"""
-	you thank me? Fine!
-	Miss the battle!
-	See what I care!
+	me agradece? Tá bom,
+	então! Perde a luta!
+	Tô pouco me lixando!
 	"""
 	keyWait
 	clearMsg
@@ -62,13 +62,15 @@ script 3 mmbn3 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Hmph! Worried about
-	your opponent before
-	battle?
+	Hmpf! Preocupado com o
+	oponente antes da luta?
 	"""
 	keyWait
 	clearMsg
-	"How naive are you?"
+	"""
+	A sua ingenuindade
+	sempre se supera.
+	"""
 	keyWait
 	clearMsg
 	jump
@@ -79,15 +81,15 @@ script 4 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Hey! I'm not worried
-	about you! I'm just
-	here because a TV
+	Ei! Eu não tô preocupado
+	com você!
 	"""
 	keyWait
 	clearMsg
 	"""
-	person asked me to
-	find you!
+	Só vim aqui porque o
+	pessoal da DNN me pediu
+	pra te achar!
 	"""
 	keyWait
 	end
@@ -97,16 +99,15 @@ script 5 mmbn3 {
 		mugshot = Ribitta
 	msgOpen
 	"""
-	Oh!
-	There you are!
-	Chaud,please hurry
+	Ah! Aí estão vocês!
+	Chaud, por favor, vá logo
+	ao prédio da emissora.
 	"""
 	keyWait
 	clearMsg
 	"""
-	to the TV Station.
-	The semi-finals are
-	about to begin!
+	As semifinais estão
+	prestes de começar!
 	"""
 	keyWait
 	end
@@ -115,18 +116,18 @@ script 6 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"What's with you?"
+	"Qual é a sua, hein?"
 	keyWait
 	clearMsg
 	"""
-	You know,I'm gonna
-	win this thing!
+	Quer saber? Eu vou
+	vencer o N1!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'm not losing to
-	you!
+	Não vou perder pra
+	você de jeito nenhum!
 	"""
 	keyWait
 	clearMsg
@@ -138,9 +139,9 @@ script 7 mmbn3 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Lan…Why do you
-	want to win this
-	tournament?
+	Lan... Por que você
+	quer vencer este
+	torneio?
 	"""
 	keyWait
 	clearMsg
@@ -151,12 +152,12 @@ script 8 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Why?"
+	"... Hã? \"Por quê\"?"
 	keyWait
 	clearMsg
 	"""
-	Because I entered
-	it,that's why!
+	Porque eu entrei nele,
+	oras!
 	"""
 	keyWait
 	clearMsg
@@ -167,13 +168,13 @@ script 9 mmbn3 {
 	mugshotShow
 		mugshot = Chaud
 	msgOpen
-	"………"
+	"........."
 	keyWait
 	clearMsg
 	"""
-	With a weak reason
-	like that,you'll
-	never defeat me.
+	Com uma motivação fraca
+	dessas, não tem nenhuma
+	chance de me vencer.
 	"""
 	keyWait
 	clearMsg
@@ -184,13 +185,17 @@ script 10 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Weak? Who's weak!?"
+	"""
+	Fraca? Quem é que
+	você tá chamando de
+	fraco?!
+	"""
 	keyWait
 	clearMsg
 	"""
-	So why are YOU
-	fighting in this
-	tournament!?
+	Tá legal, bonzão: então,
+	por que VOCÊ tá lutando
+	neste torneio?!
 	"""
 	keyWait
 	clearMsg
@@ -202,8 +207,8 @@ script 11 mmbn3 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	That's none of your
-	business.
+	Isso não é da sua
+	conta.
 	"""
 	keyWait
 	end
@@ -213,9 +218,9 @@ script 12 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	What's his problem!?
-	I can't stand
-	that guy!
+	Eu não entendo qual é
+	a dele!
+	Cara insuportável!
 	"""
 	keyWait
 	clearMsg
@@ -227,9 +232,9 @@ script 13 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Yeah. Still,he seems
-	a bit different than
-	usual.
+	É. Mas, sabe, ele parece
+	meio diferente de
+	sempre.
 	"""
 	keyWait
 	clearMsg
@@ -240,7 +245,10 @@ script 14 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"I didn't notice."
+	"""
+	Pra mim tá o mesmo
+	chato de sempre...
+	"""
 	keyWait
 	clearMsg
 	jump
@@ -251,16 +259,15 @@ script 15 mmbn3 {
 		mugshot = Ribitta
 	msgOpen
 	"""
-	I've got to return
-	to the studio. Hurry
-	back too,Lan.
+	Eu preciso voltar ao
+	estúdio agora. Volte
+	logo também, Lan.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Oh no! Look at the
-	time!
-	Lan! Pronto!
+	Puxa! Olha só a hora!
+	"Hurry up", Lan!
 	"""
 	keyWait
 	end
@@ -270,9 +277,8 @@ script 16 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	All right. Let's go!
-	Off to the
-	semi-finals!
+	Tá bom. Vamos nessa!
+	Hora das semifinais!
 	"""
 	keyWait
 	clearMsg
@@ -284,14 +290,14 @@ script 17 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Yeah!
-	You just wait,Chaud!
+	É!
+	Espera só, Chaud!
 	"""
 	keyWait
 	clearMsg
 	"""
-	We'll show you who's
-	weak!
+	A gente vai te mostrar
+	quem é o fraco aqui!
 	"""
 	keyWait
 	end

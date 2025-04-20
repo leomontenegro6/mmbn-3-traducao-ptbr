@@ -5,8 +5,8 @@ script 0 mmbn3 {
 		mugshot = MsMari
 	msgOpen
 	"""
-	OK,everyone gather
-	around!
+	Certo, turma, venham
+	todos aqui!
 	"""
 	keyWait
 	end
@@ -16,15 +16,15 @@ script 1 mmbn3 {
 		mugshot = MsMari
 	msgOpen
 	"""
-	The kind people in
-	this lab are now
-	going to give us
+	Os pesquisadores deste
+	laboratório vão fazer a
+	maravilhosa gentileza
 	"""
 	keyWait
 	clearMsg
 	"""
-	a lesson in
-	virus busting!
+	de dar uma aula de luta
+	antivírus para vocês!
 	"""
 	keyWait
 	clearMsg
@@ -36,36 +36,33 @@ script 2 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Hello,boys
-	and girls!
+	Oi, criançada!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Today we're going to
-	learn the basics of
-	virus busting.
+	Hoje, iremos aprender o
+	básico da luta antivírus.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Some of you may
-	already be familiar
-	with this…
+	Alguns de vocês podem
+	já estar familiarizados
+	com isto...
 	"""
 	keyWait
 	clearMsg
 	"""
-	But remember!
-	The basics are
-	vital!
+	mas lembrem-se:
+	o básico é vital!
 	"""
 	keyWait
 	clearMsg
 	"""
-	OK,everyone please
-	jack in by pressing
-	your R Button!
+	Bom, por favor, podem
+	se conectar apertando
+	o botão "R"!
 	"""
 	keyWait
 	clearMsg
@@ -77,9 +74,9 @@ script 3 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan! Send me into
-	the Cyberworld with
-	the R Button!
+	Lan! Me manda logo pro
+	mundo cibernético com o
+	botão "R"!
 	"""
 	keyWait
 	end

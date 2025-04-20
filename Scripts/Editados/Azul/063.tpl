@@ -15,15 +15,14 @@ script 0 mmbn3 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	You guys went to
-	SciLab?
+	Vocês foram pro SciLab?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Did you learn some
-	cool new busting
-	techniques?
+	Aprenderam algum tipo de
+	super técnica antivírus
+	nova?
 	"""
 	keyWait
 	end
@@ -42,21 +41,21 @@ script 1 mmbn3 {
 	mugshotShow
 		mugshot = OrangeShirtBoy
 	msgOpen
-	"The \""
+	"O \""
 	printItem
 		buffer = 0
 		item = 3
 	"""
-	" that
-	we got at the
-	umbrella factory is
+	" que
+	ganhamos na fábrica
+	de guarda-chuvas
 	"""
 	keyWait
 	clearMsg
 	"""
-	created with a new
-	fabric that can shut
-	out all light!
+	é feito de um novo
+	tecido capaz de bloquear
+	a luz completamente!
 	"""
 	keyWait
 	end
@@ -76,15 +75,14 @@ script 2 mmbn3 {
 		mugshot = Girl
 	msgOpen
 	"""
-	The four of you are
-	having a chat
-	tonight?
+	Você e seus três amigos
+	vão bater papo hoje à
+	noite?
 	"""
 	keyWait
 	clearMsg
 	"""
-	That sounds
-	like fun…
+	Parece divertido...
 	"""
 	keyWait
 	end
@@ -103,7 +101,7 @@ script 3 mmbn3 {
 	mugshotShow
 		mugshot = CapBoy
 	msgOpen
-	"See you tomorrow!"
+	"Té amanhã!"
 	keyWait
 	end
 }
@@ -112,16 +110,16 @@ script 10 mmbn3 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	How about if we all
-	help Dex with his
-	studies?
+	E se todos nós
+	ajudarmos o Dex com os
+	estudos?
 	"""
 	keyWait
 	clearMsg
 	"""
-	On second thought,I
-	don't want to study
-	more than I do now…!
+	... Hm, pensando bem, não
+	quero estudar ainda mais
+	do que já estudo...!
 	"""
 	keyWait
 	end
@@ -131,15 +129,14 @@ script 11 mmbn3 {
 		mugshot = BlueShirtBoy
 	msgOpen
 	"""
-	We're talking about
-	how to help Dex.
+	Estamos discutindo como
+	ajudar o Dex.
 	"""
 	keyWait
 	clearMsg
 	"""
-	We'll help him with
-	studying in exchange
-	for his deserts!
+	Vamos ajudá-lo a estudar
+	em troca dos doces dele!
 	"""
 	keyWait
 	end
@@ -149,16 +146,15 @@ script 12 mmbn3 {
 		mugshot = Girl
 	msgOpen
 	"""
-	Dex is in detention
-	in the classroom
-	next to this one.
+	O Dex tá em detenção
+	na sala aqui do lado.
 	"""
 	keyWait
 	clearMsg
 	"""
-	He probably deserves
-	it,but I still feel
-	sorry for him.
+	Ele provavelmente
+	merece, mas, ainda
+	assim, dá pena dele.
 	"""
 	keyWait
 	end
@@ -183,22 +179,22 @@ script 20 mmbn3 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	I'm in charge of
-	the class pets.
+	Eu sou o encarregado
+	dos bichinhos da turma.
 	"""
 	keyWait
 	clearMsg
 	"""
-	When sunlight hits
-	the aquarium,it
-	turns cloudy.
+	Quando o sol bate no
+	aquário, ele fica todo
+	embaçado.
 	"""
 	keyWait
 	clearMsg
 	"""
-	That's why I have to
-	come to school every
-	day to clean it.
+	Por isso, eu tenho que
+	vir à escola todos os
+	dias, pra limpá-lo.
 	"""
 	keyWait
 	end
@@ -208,15 +204,15 @@ script 30 mmbn3 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	Finally! This week
-	is over!
+	Até que enfim!
+	Acabou a semana!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I just love Fridays!
-	They make me feel
-	free again!
+	Como eu amo sextas-
+	feiras! Me dão essa
+	sensação de liberdade!
 	"""
 	keyWait
 	end
@@ -226,16 +222,15 @@ script 31 mmbn3 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	I heard that your
-	class had a really
-	exciting trip!
+	Ouvi dizer que a sua
+	turma teve uma
+	excursão bem animada!
 	"""
 	keyWait
 	clearMsg
 	"""
-	We just went to a
-	museum. It was
-	really boring…
+	A gente só foi pra um
+	museu. Foi chaaaato...
 	"""
 	keyWait
 	end
@@ -245,9 +240,9 @@ script 32 mmbn3 {
 		mugshot = Girl
 	msgOpen
 	"""
-	Hmm. I wonder what
-	I'll do this
-	weekend…
+	Hmm. O que eu vou
+	fazer no fim de
+	semana...?
 	"""
 	keyWait
 	end
@@ -257,9 +252,8 @@ script 33 mmbn3 {
 		mugshot = CapBoy
 	msgOpen
 	"""
-	I want to get home
-	and play
-	video games!
+	Eu quero ir pra casa
+	jogar video game!
 	"""
 	keyWait
 	end
@@ -269,8 +263,9 @@ script 40 mmbn3 {
 		mugshot = CapBoy
 	msgOpen
 	"""
-	Heh,heh. I feel like
-	a teacher up here!
+	He, he. Eu me sinto até
+	um professor daqui!
+	"Nota zero pra você!"
 	"""
 	keyWait
 	end
@@ -285,30 +280,30 @@ script 45 mmbn3 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	My desk is such a
-	mess,I can't find
-	anything in it…
+	A minha carteira é uma
+	bagunça. Não consigo
+	achar nada nela...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Huh? What's this
-	soft thing hidden
-	back here・
+	Hm? Que coisa macia é
+	essa, escondida aqui
+	atrás.
 	"""
 	waitSkip
 		frames = 20
-	"・"
+	"."
 	waitSkip
 		frames = 20
-	"・"
+	"."
 	waitSkip
 		frames = 20
 	keyWait
 	clearMsg
 	"""
-	Yuck!! That bread's
-	been here for WEEKS!
+	Eca!! Esse pão ficou
+	SEMANAS aqui!
 	"""
 	keyWait
 	end
@@ -318,8 +313,8 @@ script 50 mmbn3 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	A BubbleWash?
-	What's that?
+	Um Lava-Bolha?
+	Que é isso?
 	"""
 	keyWait
 	end
@@ -329,15 +324,15 @@ script 55 mmbn3 {
 		mugshot = CapBoy
 	msgOpen
 	"""
-	Maybe I should have
-	competed in the N1…
+	Acho que eu devia ter
+	competido no N1...
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'd never win,
-	though. I can't even
-	beat 
+	Se bem que, nunca que
+	eu ia vencer. Eu nem me
+	garanto com 
 	"""
 	printEnemyName
 		buffer = 0
@@ -351,9 +346,8 @@ script 60 mmbn3 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	Whoa! I need to
-	hurry home to watch
-	the N1!
+	Opa! Preciso ir logo pra
+	casa, pra assistir o N1!
 	"""
 	keyWait
 	end
@@ -363,8 +357,9 @@ script 70 mmbn3 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	I think I'll take a
-	nap when I get home…
+	Acho que vou tirar um
+	cochilo quando chegar
+	em casa...
 	"""
 	keyWait
 	end
@@ -374,16 +369,15 @@ script 71 mmbn3 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	That's so cool that
-	you made it to the
-	N1 finals!
+	Que legal que você
+	chegou nas finais do N1!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I wish that I could
-	NetBattle as well
-	as you…
+	Eu queria conseguir
+	NetLutar tão bem
+	quanto você...
 	"""
 	keyWait
 	end
@@ -393,16 +387,15 @@ script 72 mmbn3 {
 		mugshot = Girl
 	msgOpen
 	"""
-	You're going to
-	visit Yai in the
+	Você vai visitar a Yai no
 	hospital?
 	"""
 	keyWait
 	clearMsg
 	"""
-	She's rich,so she
-	must be in a deluxe
-	suite room…!
+	Ela é rica, então, deve
+	estar num quarto de
+	hospital de luxo...!
 	"""
 	keyWait
 	end
@@ -412,8 +405,8 @@ script 73 mmbn3 {
 		mugshot = CapBoy
 	msgOpen
 	"""
-	Hey,Lan!
-	How ya doin'?
+	Fala, Lan!
+	O que tá pegando?
 	"""
 	keyWait
 	end
@@ -423,9 +416,9 @@ script 80 mmbn3 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	Ms.Mari was saying
-	something about data
-	something…? Huh?
+	A srta. Mari falou de
+	uma história aí de 
+	"comprar" dados...? Hã?
 	"""
 	keyWait
 	end
@@ -435,9 +428,9 @@ script 90 mmbn3 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	What are you doing
-	here? Shouldn't you
-	be in your class?
+	Tá fazendo o que aqui?
+	Não devia estar na sua
+	sala?
 	"""
 	keyWait
 	end
@@ -447,21 +440,20 @@ script 91 mmbn3 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	Ms.Mari always
-	comes to school
-	early,doesn't she?
+	A srta. Mari sempre vem
+	pra escola cedo, né?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Our teacher shows up
-	late all the time!
+	Já o nosso professor
+	se atrasa direto!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Well,less work for
-	us,I guess.
+	Bom, menos estudo pra
+	gente, né? Isso é legal.
 	"""
 	keyWait
 	end
@@ -471,9 +463,8 @@ script 92 mmbn3 {
 		mugshot = Girl
 	msgOpen
 	"""
-	Why are you here?
-	This isn't your
-	class!
+	Tá fazendo o que aqui?
+	Esta não é a sua sala!
 	"""
 	keyWait
 	end
@@ -483,9 +474,9 @@ script 93 mmbn3 {
 		mugshot = CapBoy
 	msgOpen
 	"""
-	I usually see Dex on
-	the way to school,
-	but not today…
+	Eu sempre vejo o Dex
+	a caminho da escola,
+	mas, hoje, não vi...
 	"""
 	keyWait
 	end
@@ -495,9 +486,9 @@ script 100 mmbn3 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	I've never missed
-	feeding the fish!
-	Not even once!
+	Eu nunca esqueci de
+	alimentar os peixes!
+	Nem uma vez sequer!
 	"""
 	keyWait
 	end
@@ -507,16 +498,15 @@ script 110 mmbn3 {
 		mugshot = Girl
 	msgOpen
 	"""
-	Why do you always
-	get involved in
-	these things?
+	Como é que você sempre
+	acaba se envolvendo
+	nessas coisas?
 	"""
 	keyWait
 	clearMsg
 	"""
-	You must be
-	attracted to danger,
-	or something!
+	Você deve ser um imã
+	de perigo, sei lá!
 	"""
 	keyWait
 	end
@@ -526,9 +516,9 @@ script 120 mmbn3 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	I haven't seen you
-	in a while. Did you
-	have a cold?
+	Faz um tempinho que eu
+	não te vejo.
+	Tava gripado?
 	"""
 	keyWait
 	end
@@ -538,16 +528,16 @@ script 121 mmbn3 {
 		mugshot = BlueShirtBoy
 	msgOpen
 	"""
-	I'll never forgive
-	the WWW for what
-	they've done!
+	Eu nunca vou perdoar
+	a WWW pelo que eles
+	fizeram!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'd like to crush
-	them! If only I
-	could…
+	Eu queria destruir eles!
+	Se, ao menos, eu
+	pudesse...
 	"""
 	keyWait
 	end
@@ -567,9 +557,9 @@ script 190 mmbn3 {
 		mugshot = CapBoy
 	msgOpen
 	"""
-	My brother won't
-	quit bragging about
-	his "
+	Que coisa. O meu irmão
+	não para de se gabar
+	do "
 	"""
 	printChip
 		buffer = 0
@@ -578,12 +568,12 @@ script 190 mmbn3 {
 	printCode
 		buffer = 0
 		code = C
-	"\"…"
+	"\" dele..."
 	keyWait
 	clearMsg
 	"""
-	Hey,Lan! Do you have
-	a "
+	Ei, Lan! Você tem aí
+	um "
 	"""
 	printChip
 		buffer = 0
@@ -596,8 +586,8 @@ script 190 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	If you do,would you
-	trade it for this
+	Se tiver, toparia trocar
+	ele por este
 	"
 	"""
 	printChip
@@ -618,7 +608,7 @@ script 190 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Sure "
+	"   Claro "
 	option
 		left = 0
 		right = 0
@@ -626,7 +616,7 @@ script 190 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Nope!"
+	"          Não"
 	select
 		default = 0
 		BSeparate = false
@@ -656,8 +646,7 @@ script 191 mmbn3 {
 		mugshot = CapBoy
 	msgOpen
 	"""
-	You DO have one!
-	Great!
+	Você TEM! Eba!
 	"""
 	keyWait
 	clearMsg
@@ -675,7 +664,7 @@ script 192 mmbn3 {
 	playerAnimate
 		animation = 24
 	"""
-	Lan got a chip for
+	Lan adquiriu o chip
 	"
 	"""
 	printChip
@@ -699,8 +688,8 @@ script 193 mmbn3 {
 		mugshot = CapBoy
 	msgOpen
 	"""
-	I'm glad I asked
-	you!
+	Que bom que eu pedi pra
+	você!
 	"""
 	keyWait
 	end
@@ -710,9 +699,9 @@ script 194 mmbn3 {
 		mugshot = CapBoy
 	msgOpen
 	"""
-	Sheesh…
-	I wanted to get back
-	at my brother…
+	Poxa...
+	Eu só queria dar o troco
+	no meu irmão...
 	"""
 	keyWait
 	end
@@ -722,14 +711,14 @@ script 195 mmbn3 {
 		mugshot = CapBoy
 	msgOpen
 	"""
-	Huh? It's not in
-	your pack,Lan!
+	Ué? Não tem na sua
+	mochila, Lan!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Maybe it's in your
-	folder?
+	Será que tá na sua
+	pasta?
 	"""
 	keyWait
 	end
@@ -739,9 +728,9 @@ script 196 mmbn3 {
 		mugshot = CapBoy
 	msgOpen
 	"""
-	Thanks for the
-	trade! Now I'm even
-	with my brother!
+	Valeu pela troca!
+	Agora, eu e meu irmão
+	estamos quites!
 	"""
 	keyWait
 	end
@@ -751,13 +740,12 @@ script 197 mmbn3 {
 		mugshot = CapBoy
 	msgOpen
 	"""
-	Cool! Did you change
-	your mind?
+	Legal! Mudou de ideia?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Will you trade your
+	Troca o seu
 	"
 	"""
 	printChip
@@ -768,8 +756,8 @@ script 197 mmbn3 {
 		buffer = 0
 		code = C
 	"""
-	" for
-	my "
+	" pelo
+	meu "
 	"""
 	printChip
 		buffer = 0
@@ -789,7 +777,7 @@ script 197 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Sure "
+	"   Sim "
 	option
 		left = 0
 		right = 0
@@ -797,7 +785,7 @@ script 197 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Nope!"
+	"          Não!"
 	select
 		default = 0
 		BSeparate = false
@@ -812,16 +800,16 @@ script 197 mmbn3 {
 script 220 mmbn3 {
 	msgOpen
 	"""
-	It's the same type
-	of blackboard as in
-	your classroom,5-A
+	É o mesmo tipo de quadro
+	que o que tem na sua
+	sala, a 5-A.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Someone jammed chalk
-	in the port,so you
-	can't jack in
+	Alguém enfiou giz na
+	entrada, então não dá
+	para se conectar.
 	"""
 	keyWait
 	end
@@ -829,16 +817,16 @@ script 220 mmbn3 {
 script 221 mmbn3 {
 	msgOpen
 	"""
-	You're not sure what
-	they could have done
-	to deserve it,
+	Você não sabe o que
+	eles fizeram para
+	merecer isso,
 	"""
 	keyWait
 	clearMsg
 	"""
-	but group 1 is
-	assigned to cleanup
-	duty every day
+	mas o grupo 1 foi
+	encarregado da limpeza
+	da sala todos os dias.
 	"""
 	keyWait
 	end
@@ -851,15 +839,15 @@ script 222 mmbn3 {
 		jumpIfOutOfRange = continue
 	msgOpen
 	"""
-	A variety of books
-	are lined up here
+	Há uma variedade de
+	livros enfileirados aqui.
 	"""
 	keyWait
 	clearMsg
 	"""
-	"Science Made Fun"
-	"History Comics"
-	"The Hungry Stomach"
+	"Ciência Divertida"
+	"História em Gibi"
+	"O Estômago Faminto"
 	"""
 	keyWait
 	end
@@ -867,22 +855,21 @@ script 222 mmbn3 {
 script 223 mmbn3 {
 	msgOpen
 	"""
-	Old dictionaries
-	are lined up here
+	Aqui, estão alinhados
+	velhos dicionários.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Ooops! The cover has
-	been ripped off of
-	this one
+	Ops! A capa deste aqui
+	estava arrancada.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Put it back before
-	someone thinks that
-	you did it!
+	Você a põe de volta
+	antes que pensem que
+	foi você quem rasgou!
 	"""
 	keyWait
 	end
@@ -890,16 +877,16 @@ script 223 mmbn3 {
 script 224 mmbn3 {
 	msgOpen
 	"""
-	This goldfish won
-	the 8th Annual Class
-	Goldfish Contest!
+	Este peixinho ganhou o
+	8o. Concurso Anual
+	Interclasse de Dourados!
 	"""
 	keyWait
 	clearMsg
 	"""
-	It has a cold,solemn
-	stare,but it's quite
-	graceful
+	Seu olhar é frio e solene,
+	mas é uma criatura
+	bastante graciosa.
 	"""
 	keyWait
 	end
@@ -907,16 +894,16 @@ script 224 mmbn3 {
 script 225 mmbn3 {
 	msgOpen
 	"""
-	The 3rd volume of
-	notes about the
-	animals raised here
+	O terceiro volume das
+	anotações sobre os
+	animais criados aqui.
 	"""
 	keyWait
 	clearMsg
 	"""
-	It looks like water
-	has splashed on it,
-	staining the pages
+	Parece que caiu água
+	nele, estragando as
+	páginas.
 	"""
 	keyWait
 	end
@@ -924,15 +911,15 @@ script 225 mmbn3 {
 script 226 mmbn3 {
 	msgOpen
 	"""
-	Some goldfish are
-	swimming gracefully
+	Peixes-dourados nadam
+	graciosamente.
 	"""
 	keyWait
 	clearMsg
 	"""
-	When they see you
-	approach the tank,
-	they look for food
+	Quando veem você se
+	aproximando do tanque,
+	procuram por comida.
 	"""
 	keyWait
 	end
@@ -940,35 +927,35 @@ script 226 mmbn3 {
 script 227 mmbn3 {
 	msgOpen
 	"""
-	The 11th volume of
-	notes about the
-	animals raised here
+	O décimo primeiro volume
+	de anotações sobre os
+	animais criados aqui.
 	"""
 	keyWait
 	clearMsg
 	"""
-	It says "water temp:
-	to be discussed at
-	next class meeting"
+	"Temperatura da água:
+	a ser discutida na pró-
+	xima reunião de classe."
 	"""
 	keyWait
 	end
 }
 script 228 mmbn3 {
 	msgOpen
-	"The light switch"
+	"O interruptor de luz."
 	keyWait
 	end
 }
 script 229 mmbn3 {
 	msgOpen
-	"The teacher's desk"
+	"A mesa do professor."
 	keyWait
 	clearMsg
 	"""
-	Some of the buttons
-	seem to have been
-	broken
+	Alguns dos botões
+	parecem estar
+	quebrados.
 	"""
 	keyWait
 	end
@@ -976,9 +963,9 @@ script 229 mmbn3 {
 script 230 mmbn3 {
 	msgOpen
 	"""
-	It's a high-tech
-	desk with a built-in
-	monitor
+	Uma carteira de alta
+	tecnologia com monitor
+	embutido.
 	"""
 	keyWait
 	end
@@ -994,19 +981,20 @@ script 231 mmbn3 {
 		jumpIfFalse = continue
 	msgOpen
 	"""
-	It's a newly-
-	invented "
+	Esse é o
+	recém-inventado
+	"
 	"""
 	printItem
 		buffer = 0
 		item = 3
-	"\""
+	"\"."
 	keyWait
 	clearMsg
 	"""
-	It's made from a new
-	material that shuts
-	out all light
+	É feito com um novo
+	material que bloqueia
+	a luz completamente.
 	"""
 	keyWait
 	end
@@ -1016,15 +1004,15 @@ script 232 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan! Maybe we can
-	use this 
+	Lan! Talvez possamos
+	usar este 
 	"""
 	printItem
 		buffer = 0
 		item = 3
 	"""
-	 to
-	stop the beam!
+	 pra
+	bloquear o clarão!
 	"""
 	keyWait
 	clearMsg
@@ -1035,7 +1023,7 @@ script 233 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Hey,good idea!"
+	"Ah, boa ideia!"
 	keyWait
 	clearMsg
 	jump
@@ -1052,13 +1040,13 @@ script 234 mmbn3 {
 	flagSet
 		flag = 828
 	"""
-	Lan got:
+	Lan adquiriu:
 	"
 	"""
 	printItem
 		buffer = 0
 		item = 3
-	"\"!!"
+	"\"!"
 	playerFinish
 	playerReset
 	keyWait
@@ -1067,15 +1055,15 @@ script 234 mmbn3 {
 script 235 mmbn3 {
 	msgOpen
 	"""
-	A variety of books
-	are lined up here
+	Há uma variedade de
+	livros alinhados aqui.
 	"""
 	keyWait
 	clearMsg
 	"""
-	"Science Made Fun"
-	"History Comics"
-	"The Hungry Stomach"
+	"Ciência Divertida"
+	"História em Gibi"
+	"O Estômago Faminto"
 	"""
 	keyWait
 	clearMsg
@@ -1084,13 +1072,13 @@ script 235 mmbn3 {
 		jumpIfTrue = 236
 		jumpIfFalse = continue
 	clearMsg
-	"Bonk…!"
+	"Ponc!"
 	keyWait
 	clearMsg
 	"""
-	Something fell out
-	from between the
-	books…
+	Caiu alguma coisa que
+	estava dentre os
+	livros...
 	"""
 	keyWait
 	clearMsg
@@ -1102,20 +1090,20 @@ script 235 mmbn3 {
 	flagSet
 		flag = 4321
 	"""
-	Lan got a PowerUp:
+	Lan adquiriu um PowerUp:
 	"
 	"""
 	printItem
 		buffer = 0
 		item = 99
-	"\"!!"
+	"\"!"
 	playerFinish
 	playerReset
 	keyWait
 	clearMsg
 	"""
-	Regular memory
-	increased by 2 MB!!
+	Memória padrão
+	aumentada em 2 MB!
 	"""
 	keyWait
 	end

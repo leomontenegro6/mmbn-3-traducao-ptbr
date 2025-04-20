@@ -4,7 +4,7 @@ script 0 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Whoa! Another one!"
+	"Opa! Outro deles!"
 	keyWait
 	end
 }
@@ -13,15 +13,14 @@ script 1 mmbn3 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Quiet!
-	He hasn't noticed
-	us yet!
+	Quietos!
+	Ele ainda não nos notou.
 	"""
 	keyWait
 	clearMsg
 	"""
-	We can try to
-	slip past him!
+	Podemos tentar passar
+	por ele despercebidos.
 	"""
 	keyWait
 	clearMsg
@@ -32,7 +31,7 @@ script 2 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Yeah!"
+	"É!"
 	keyWait
 	clearMsg
 	jump
@@ -42,10 +41,10 @@ script 3 mmbn3 {
 	mugshotShow
 		mugshot = Chaud
 	msgOpen
-	"Ready,set…"
+	"Um, dois..."
 	keyWait
 	clearMsg
-	"Go!"
+	"Vai!"
 	keyWait
 	flagSet
 		flag = 2626
@@ -56,7 +55,7 @@ script 4 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	It's…
+	É o...
 	BubbleMan!!
 	"""
 	keyWait
@@ -64,9 +63,8 @@ script 4 mmbn3 {
 	playerAnimate
 		animation = 2
 	"""
-	Chaud! You go ahead!
-	I'll take care
-	of this guy!
+	Chaud! Vai na frente!
+	Eu cuido desse sujeito!
 	"""
 	keyWait
 	clearMsg
@@ -79,7 +77,7 @@ script 5 mmbn3 {
 	msgOpen
 	mugshotAnimate
 		animation = 0
-	"Gotcha."
+	"Entendido."
 	keyWait
 	flagSet
 		flag = 2626
@@ -91,7 +89,7 @@ script 6 mmbn3 {
 	soundDisableTextSFX
 	soundPlay
 		track = 318
-	"Beep… Beep…"
+	"Bip... Bip..."
 	soundEnableTextSFX
 	keyWait
 	clearMsg
@@ -117,7 +115,7 @@ script 8 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Wha…!!"
+	"O qu...!!"
 	wait
 		frames = 10
 	end
@@ -126,7 +124,7 @@ script 9 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Whoa!"
+	"Aah!"
 	keyWait
 	clearMsg
 	jump
@@ -136,7 +134,7 @@ script 10 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Lan! Run!"
+	"Lan! Corre!"
 	keyWait
 	clearMsg
 	jump
@@ -148,7 +146,7 @@ script 11 mmbn3 {
 	soundDisableTextSFX
 	soundPlay
 		track = 318
-	"Beep Beep Beep!!"
+	"Bip Bip Bip!!"
 	soundEnableTextSFX
 	keyWait
 	flagSet
@@ -160,9 +158,8 @@ script 12 mmbn3 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Try this on
-	for size!!
-	Boulder Toss!!
+	Engole esta aqui!!
+	Arremesso de Rocha!!
 	"""
 	keyWait
 	end
@@ -173,7 +170,7 @@ script 13 mmbn3 {
 	soundDisableTextSFX
 	soundPlay
 		track = 318
-	"Beep Beep Beep!!"
+	"Bip Bip Bip!!"
 	soundEnableTextSFX
 	keyWait
 	clearMsg
@@ -185,8 +182,8 @@ script 14 mmbn3 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Sorry to keep you
-	waiting,Lan!!
+	Foi mal te deixar
+	esperando, Lan!!
 	"""
 	keyWait
 	end
@@ -208,8 +205,8 @@ script 16 mmbn3 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Now we're even
-	for yesterday!
+	Agora estamos quites
+	por ontem!
 	"""
 	keyWait
 	clearMsg
@@ -221,8 +218,8 @@ script 17 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Now,Lan!
-	Jack in!!
+	Agora, Lan!
+	Se conecta!!
 	"""
 	keyWait
 	clearMsg
@@ -233,7 +230,7 @@ script 18 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Gotcha!!"
+	"Beleza!!"
 	keyWait
 	end
 }

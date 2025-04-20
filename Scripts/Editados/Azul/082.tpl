@@ -5,9 +5,9 @@ script 0 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,where are you
-	going? Let's check
-	out the animals.
+	Lan, aonde você vai?
+	Vamos dar uma olhada
+	nos animais.
 	"""
 	keyWait
 	end
@@ -22,9 +22,9 @@ script 1 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,it's locked from
-	the outside! Let's
-	find another exit.
+	Lan, tá trancada pelo
+	lado de fora! Vamos
+	achar outra saída.
 	"""
 	keyWait
 	end
@@ -34,9 +34,9 @@ script 11 mmbn3 {
 		mugshot = Man
 	msgOpen
 	"""
-	My girlfriend's
-	late. Wonder what's
-	keeping her…?
+	A minha namorada tá
+	atrasada.
+	Por que será...?
 	"""
 	keyWait
 	end
@@ -46,9 +46,9 @@ script 12 mmbn3 {
 		mugshot = PigtailsGirl
 	msgOpen
 	"""
-	A giraffe! Hey,Mr.
-	giraffe! That's some
-	neck you've got!
+	Uma girafa!
+	Oi, sra. girafa!
+	Que pescoção, o seu!
 	"""
 	keyWait
 	end
@@ -58,8 +58,8 @@ script 13 mmbn3 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	Hey! Stop climbing
-	on the fence!
+	Ei! Não pula a cerca,
+	menina!
 	"""
 	keyWait
 	end
@@ -71,16 +71,16 @@ script 14 mmbn3 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Great timing,Lan!
-	Let's decide on a
-	place for lunch?
+	Chegou na hora, Lan!
+	Bora decidir um lugar
+	pra almoçar?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Let's look around a
-	bit,then meet up at
-	the lion cage.
+	Vamos dar uma olhada
+	por aí e se reunir na
+	frente da jaula do leão.
 	"""
 	keyWait
 	end
@@ -90,15 +90,14 @@ script 15 mmbn3 {
 		mugshot = Yai
 	msgOpen
 	"""
-	Is it true that the
-	head monkey lives on
-	top of the mountain?
+	É verdade que o
+	macaco-chefe vive no
+	topo da montanha?
 	"""
 	keyWait
 	clearMsg
 	"""
-	I really want to
-	find out!
+	Eu quero muito saber!
 	"""
 	keyWait
 	end
@@ -108,15 +107,15 @@ script 16 mmbn3 {
 		mugshot = BlueShirtBoy
 	msgOpen
 	"""
-	Ah,man! I lost a
-	coin under the
-	vending machine!
+	Ah, cara! Perdi uma
+	moeda debaixo da
+	máquina de bebidas!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Shoot! There goes
-	500 Zennys!
+	Aaagh! 500 Zennys que
+	vão pelo ralo!
 	"""
 	keyWait
 	end
@@ -126,9 +125,9 @@ script 17 mmbn3 {
 		mugshot = ZooWoman
 	msgOpen
 	"""
-	The animals are
-	acting strangely
-	today. I wonder why?
+	Os animais estão tão
+	estranhos, hoje.
+	Por que será?
 	"""
 	keyWait
 	end
@@ -138,9 +137,9 @@ script 18 mmbn3 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	My boyfriend's late!
-	He said to meet here
-	but never showed up!
+	O mozão tá atrasado!
+	Disse que ia me encontrar
+	aqui e, até agora, nada!
 	"""
 	keyWait
 	end
@@ -150,9 +149,9 @@ script 19 mmbn3 {
 		mugshot = Chisao
 	msgOpen
 	"""
-	My older brother
-	never loses in
-	staring contests!
+	O meu irmãozão nunca
+	perde disputa de
+	"quem pisca primeiro"!
 	"""
 	keyWait
 	end
@@ -162,16 +161,16 @@ script 20 mmbn3 {
 		mugshot = BlueShirtBoy
 	msgOpen
 	"""
-	Looks like there's
-	a shortcut behind
-	this building!
+	Parece que tem um
+	atalho atrás desse 
+	bloco aqui!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Some animals just
-	went in there,so it
-	must be a shortcut!
+	Uns animais entraram lá,
+	então, tem que ser um
+	atalho!
 	"""
 	keyWait
 	end
@@ -181,9 +180,9 @@ script 21 mmbn3 {
 		mugshot = OldMan
 	msgOpen
 	"""
-	I'll wait here till
-	the excitement dies
-	down. Leave me be!
+	Eu vou ficar aqui até
+	toda a agitação passar.
+	Me deixa em paz!
 	"""
 	keyWait
 	end
@@ -193,8 +192,8 @@ script 22 mmbn3 {
 		mugshot = OldWoman
 	msgOpen
 	"""
-	Oh,my…
-	My dear…
+	Ai, eu...
+	Ah, meu Deus...
 	"""
 	keyWait
 	end
@@ -204,8 +203,8 @@ script 23 mmbn3 {
 		mugshot = ZooWoman
 	msgOpen
 	"""
-	What's wrong!?
-	Come on,calm down!
+	O que foi?!
+	Vamos, calminha!
 	"""
 	keyWait
 	end
@@ -215,16 +214,16 @@ script 24 mmbn3 {
 		mugshot = Dex
 	msgOpen
 	"""
-	It's no use,Lan!
-	Somebody locked us
-	in from the outside!
+	Não adianta, Lan!
+	Alguém trancou a gente
+	aqui lá de fora!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Darn! I saw the
-	condor fly out that
-	way!
+	Droga! Eu vi o condor
+	sair voando naquela
+	direção ali!
 	"""
 	keyWait
 	end
@@ -234,9 +233,9 @@ script 25 mmbn3 {
 		mugshot = Man
 	msgOpen
 	"""
-	Oh,no! The condor
-	grabbed a kid and is
-	headed for the gate!
+	Não! O condor pegou uma
+	criança e saiu voando
+	na direção da entrada!
 	"""
 	keyWait
 	end
@@ -246,16 +245,16 @@ script 26 mmbn3 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	We're in trouble!
-	Gorillas are super
-	strong,right?
+	A gente já era!
+	Gorilas são super
+	fortes, né?
 	"""
 	keyWait
 	clearMsg
 	"""
-	If a gorilla gets
-	us,it'd break us
-	in half!
+	Se um gorila pegar a
+	gente, vai quebrar todos
+	os nossos ossos!
 	"""
 	keyWait
 	end
@@ -263,9 +262,9 @@ script 26 mmbn3 {
 script 27 mmbn3 {
 	msgOpen
 	"""
-	The giraffe's busy
-	eating.
-	Now's our chance!
+	A girafa tá distraída,
+	comendo.
+	É a nossa chance!
 	"""
 	keyWait
 	end
@@ -275,9 +274,9 @@ script 28 mmbn3 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	Uh,I'm not
-	trespassing on your
-	turf,am I?
+	Er, eu não estou
+	invadindo o seu
+	território, estou?
 	"""
 	keyWait
 	end
@@ -287,9 +286,9 @@ script 29 mmbn3 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	Yikes! If we don't
-	get outta here,the
-	animals will get us!
+	Eita! Se a gente não sair
+	daqui, os animais vão
+	estraçalhar a gente!
 	"""
 	keyWait
 	end
@@ -297,9 +296,9 @@ script 29 mmbn3 {
 script 30 mmbn3 {
 	msgOpen
 	"""
-	Beyond here is their
-	turf. If we go in,we
-	may never come out!
+	Passando aqui, é o terri-
+	tório deles. Se formos,
+	talvez nunca voltemos!
 	"""
 	keyWait
 	end
@@ -313,8 +312,8 @@ script 40 mmbn3 {
 		mugshot = NormalNaviGreen
 	msgOpen
 	"""
-	Hey! I'm Navvy,the
-	zoo mascot!
+	Oie! Eu sou o Navisco,
+	o mascote do zoológico!
 	"""
 	keyWait
 	clearMsg
@@ -322,19 +321,19 @@ script 40 mmbn3 {
 		mugshot = Lan
 	mugshotAnimate
 		animation = 0
-	"Hmmmm…"
+	"Hmmmm..."
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = NormalNaviGreen
 	"""
-	Actually,I have
-	nothing to do with
-	N1…! Heh,heh…
+	Na verdade, eu não
+	tenho nada a ver com o
+	Prêmio N1...! He... he...
 	"""
 	keyWait
 	clearMsg
-	"Bee-Boop!"
+	"Bi-Bup!"
 	keyWait
 	clearMsg
 	mugshotShow
@@ -356,57 +355,58 @@ script 40 mmbn3 {
 		frames = 30
 	"""
 	.
-	You sure seem to be
-	with the N1!
+	Você definitivamente
+	PARECE ter!
 	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = NormalNaviGreen
 	"""
-	What!? What makes
-	you say that?
-	There's no proof!
+	O quê?! O que te faz
+	dizer isso?
+	Você não tem provas!
 	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	"""
-	Uh,it says "DNN" on
-	your costume.
+	Hum. Então.
+	Tem "DNN" escrito na sua
+	fantasia.
 	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = NormalNaviGreen
 	"""
-	No way!
-	I was sure I got rid
-	of that!!
+	Mentira!
+	Eu podia jurar que tinha
+	apagado!!
 	"""
 	keyWait
 	clearMsg
-	"Uh-oh!"
+	"... Aaah!"
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	"""
 	Ha ha!
-	Gotcha!!
+	Te peguei!!
 	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = NormalNaviGreen
-	"You tricked me!!"
+	"Você me enganou!!"
 	keyWait
 	clearMsg
 	"""
-	Now that you know my
-	true identity…I'll
-	have to delete you!
+	E como aprendeu minha
+	verdadeira identidade...
+	terei que te deletar!
 	"""
 	keyWait
 	clearMsg
@@ -430,12 +430,13 @@ script 41 mmbn3 {
 		mugshot = NormalNaviGreen
 	msgOpen
 	"""
-	No way! I've lost to
-	a little kid!
+	Impossível!
+	Eu perdi para uma
+	criancinha!
 	"""
 	keyWait
 	clearMsg
-	"I can't believe it!!"
+	"Eu não acredito nisso!!"
 	keyWait
 	end
 }
@@ -443,13 +444,13 @@ script 50 mmbn3 {
 	mugshotShow
 		mugshot = ZooWoman
 	msgOpen
-	"Welcome to Yoka Zoo!"
+	"Bem-vindo ao Zoológico\nYoka!"
 	keyWait
 	clearMsg
 	"""
-	The animals all ran
-	away before,but
-	they're back now!
+	Os animais todos fugiram
+	um tempo atrás, mas,
+	agora, já voltaram!
 	"""
 	keyWait
 	end
@@ -459,9 +460,9 @@ script 51 mmbn3 {
 		mugshot = ZooMan
 	msgOpen
 	"""
-	Only the condor is
-	on the loose. Where
-	could it have gone?
+	Só o condor ainda está
+	à solta. Onde será que
+	ele foi parar?
 	"""
 	keyWait
 	end
@@ -471,15 +472,16 @@ script 52 mmbn3 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	I heard they were
-	wild,so I thought
-	they'd be ferocious.
+	Ouvi que eles eram
+	selvagens, então, achei
+	que fossem ferozes.
 	"""
 	keyWait
 	clearMsg
 	"""
-	They're surprisingly
-	friendly,though!
+	Mas são todos
+	surpreendentemente
+	amigáveis!
 	"""
 	keyWait
 	end
@@ -489,9 +491,9 @@ script 53 mmbn3 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	It's amazing that
-	nobody was hurt when
-	they went crazy.
+	É incrível como ninguém
+	se machucou quando
+	eles enlouqueceram.
 	"""
 	keyWait
 	end
@@ -509,16 +511,15 @@ script 54 mmbn3 {
 		mugshot = Woman
 	msgOpen
 	"""
-	Why didn't the
-	Officials do
-	anything!?
+	Por que os Oficiais não
+	fazem nada?!
 	"""
 	keyWait
 	clearMsg
 	"""
-	They still haven't
-	caught that imposter
-	zookeeper!
+	Eles ainda não pegaram
+	aquele tratador de
+	animais impostor!
 	"""
 	keyWait
 	end
@@ -536,9 +537,9 @@ script 55 mmbn3 {
 		mugshot = BlueShirtBoy
 	msgOpen
 	"""
-	Mom,you'll get
-	wrinkles if you get
-	mad too much!
+	Mamãe, você só vai
+	ganhar mais rugas se
+	ficar assim, zangada!
 	"""
 	keyWait
 	end
@@ -548,9 +549,7 @@ script 60 mmbn3 {
 		mugshot = Woman
 	msgOpen
 	"""
-	I don't recall
-	seeing one of
-	those around here.
+	Eu não vejo ninguém...
 	"""
 	keyWait
 	end
@@ -560,9 +559,9 @@ script 61 mmbn3 {
 		mugshot = BlueShirtBoy
 	msgOpen
 	"""
-	Look,there's someone
-	in a costume over
-	by the building!
+	Olha, tem alguém
+	fantasiado ali, perto
+	daquele bloco!
 	"""
 	keyWait
 	end
@@ -572,9 +571,8 @@ script 62 mmbn3 {
 		mugshot = Woman
 	msgOpen
 	"""
-	There's nobody in
-	a costume around
-	here.
+	Não tem ninguém
+	fantasiado ali, menino.
 	"""
 	keyWait
 	end
@@ -584,9 +582,9 @@ script 63 mmbn3 {
 		mugshot = BlueShirtBoy
 	msgOpen
 	"""
-	Aw! Mom's too
-	slow. We missed
-	him!
+	Pô!
+	A mamãe é lerda demais.
+	A gente perdeu ele!
 	"""
 	keyWait
 	end
@@ -596,9 +594,9 @@ script 70 mmbn3 {
 		mugshot = ZooMan
 	msgOpen
 	"""
-	Welcome to the zoo!
-	Don't forget,no
-	feeding the animals!
+	Bem-vindo ao zoológico!
+	Não esqueça: é proibido
+	alimentar os animais!
 	"""
 	keyWait
 	end
@@ -608,9 +606,9 @@ script 73 mmbn3 {
 		mugshot = Man
 	msgOpen
 	"""
-	Wow,there's so much
-	about these animals
-	I didn't know.
+	Nossa, tem tanta coisa
+	que eu não sei sobre
+	esses animais.
 	"""
 	keyWait
 	end
@@ -620,9 +618,9 @@ script 74 mmbn3 {
 		mugshot = Girl
 	msgOpen
 	"""
-	I like tiny animals
-	like this more than
-	the big ones.
+	Eu gosto mais de
+	animaizinhos pequenos
+	do que desses grandões.
 	"""
 	keyWait
 	end
@@ -632,16 +630,16 @@ script 75 mmbn3 {
 		mugshot = OldWoman
 	msgOpen
 	"""
-	I heard it was just
-	a regular Navi,not
-	an Official,who
+	Ouvi dizer que foi um
+	Navi normal, não um
+	Oficial, que resolveu
 	"""
 	keyWait
 	clearMsg
 	"""
-	solved the zoo
-	incident. My PET's
-	Navi just told me!
+	o incidente do zoológico.
+	Foi o que o Navi do meu
+	PET me contou!
 	"""
 	keyWait
 	end
@@ -651,15 +649,15 @@ script 76 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	I'm a vet. A doctor
-	for animals.
+	Eu sou um veterinário.
+	Um médico de animais.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'm going to give
-	the animals their
-	check-ups.
+	Estou aqui para fazer
+	o check-up de rotina
+	neles.
 	"""
 	keyWait
 	end
@@ -669,15 +667,14 @@ script 80 mmbn3 {
 		mugshot = ZooWoman
 	msgOpen
 	"""
-	Don't stick your
-	hands in the cages!
+	Não enfiem as mãos nas
+	gaiolas!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Is everyone getting
-	a good look at all
-	the animals?
+	Estão todos vendo os
+	animais direitinho?
 	"""
 	keyWait
 	end
@@ -687,8 +684,8 @@ script 81 mmbn3 {
 		mugshot = PigtailsGirl
 	msgOpen
 	"""
-	I wanna see!
-	I wanna see!
+	Eu quero ver!
+	Quero ver!
 	"""
 	keyWait
 	end
@@ -698,9 +695,9 @@ script 82 mmbn3 {
 		mugshot = CapBoy
 	msgOpen
 	"""
-	I wonder what animal
-	was next to the
-	gorilla cage?
+	Qual animal será que
+	ficava do lado da jaula
+	do gorila?
 	"""
 	keyWait
 	end
@@ -710,8 +707,8 @@ script 83 mmbn3 {
 		mugshot = BlueShirtBoy
 	msgOpen
 	"""
-	Hey,buddy!
-	No cutting in line!
+	Ô, palhaço!
+	Não fura a fila, não!
 	"""
 	keyWait
 	end
@@ -721,9 +718,9 @@ script 84 mmbn3 {
 		mugshot = Man
 	msgOpen
 	"""
-	Ow! Man,my neck
-	hurts from looking
-	up at the giraffe!
+	Ai! Cara, o meu pescoço
+	tá me matando de ficar
+	olhando pra girafa!
 	"""
 	keyWait
 	end
@@ -733,9 +730,9 @@ script 85 mmbn3 {
 		mugshot = OldMan
 	msgOpen
 	"""
-	This place is always
-	so lively. It keeps
-	the loneliness away.
+	Este lugar é sempre
+	tão animado.
+	Espanta a solidão.
 	"""
 	keyWait
 	end
@@ -745,9 +742,9 @@ script 86 mmbn3 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	Today the zoo,and
-	tomorrow N1! This is
-	just too much fun!
+	Hoje, o zoológico.
+	Amanhã, o N1!
+	É diversão demais!!
 	"""
 	keyWait
 	end
@@ -757,9 +754,9 @@ script 90 mmbn3 {
 		mugshot = ZooWoman
 	msgOpen
 	"""
-	Guess I'll clean the
-	cages before it gets
-	crowded again.
+	Acho que vou limpar as
+	jaulas antes que
+	voltem as multidões.
 	"""
 	keyWait
 	end
@@ -769,8 +766,9 @@ script 91 mmbn3 {
 		mugshot = BlueShirtBoy
 	msgOpen
 	"""
-	Hey,my lucky day!
-	It's totally empty!
+	Opa, que sorte!
+	O zoológico tá vazio,
+	vazio!
 	"""
 	keyWait
 	end
@@ -780,15 +778,15 @@ script 92 mmbn3 {
 		mugshot = OldMan
 	msgOpen
 	"""
-	Looks like everybody
-	went off to the N1.
+	Parece que todo mundo
+	foi praquele N1.
 	"""
 	keyWait
 	clearMsg
 	"""
-	This zoo's every bit
-	as interesting,if
-	you ask me.
+	Bom, o zoológico é tão
+	interessante quanto ele,
+	na minha opinião.
 	"""
 	keyWait
 	end
@@ -797,20 +795,19 @@ script 93 mmbn3 {
 	mugshotShow
 		mugshot = BlackMan
 	msgOpen
-	"Wow! You found me!"
+	"Opa! Cê me achou!"
 	keyWait
 	clearMsg
 	"""
-	Nothing odd about me
-	I'm just an,um…
-	A tourist!
+	Não tem nada de
+	estranho em mim não,
+	eu sou só... turista!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Which do you like
-	better,giraffes or
-	elephants?
+	Qual você prefere:
+	girafas ou elefantes?
 	"""
 	keyWait
 	clearMsg
@@ -822,7 +819,7 @@ script 93 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"giraffe "
+	"   girafas "
 	option
 		left = 0
 		right = 0
@@ -830,7 +827,7 @@ script 93 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"elephant"
+	"          elefantes"
 	select
 		default = 0
 		BSeparate = false
@@ -844,28 +841,28 @@ script 93 mmbn3 {
 	mugshotShow
 		mugshot = BlackMan
 	"""
-	I know,I know! The
-	"organization" sent
-	you,right?
+	Saquei, saquei! A
+	"organização" te mandou
+	aqui, né?
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'll tell you my
-	secret code.
+	Vou te contar o meu
+	código secreto.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Error number "S2G",
-	code "AX[ModTools1]RTDS[ModTools3]".
+	Número de erro "S2G",
+	código "AX[ModTools1]RTDS[ModTools3]".
 	"""
 	keyWait
 	clearMsg
 	"""
-	Did you memorize it?
-	OK,say hi to your
-	boss for me!
+	E aí, decorou?
+	Belê, diz pro seu chefe
+	que eu mandei um abraço!
 	"""
 	keyWait
 	end
@@ -875,16 +872,15 @@ script 94 mmbn3 {
 		mugshot = BlackMan
 	msgOpen
 	"""
-	Really? Are you
-	serious? You like
-	elephants better?
+	Ué? Sério? Sério isso aí?
+	Você prefere elefantes?
 	"""
 	keyWait
 	clearMsg
 	"""
-	I guess elephants
-	have their charms,
-	too.
+	Bom, acho que eles
+	também têm seu charme.
+	Sei lá.
 	"""
 	keyWait
 	end
@@ -894,9 +890,9 @@ script 100 mmbn3 {
 		mugshot = ZooMan
 	msgOpen
 	"""
-	It's great to take
-	care of the animals
-	again after so long!
+	É tão bom cuidar dos
+	animais de novo, depois
+	de tanto tempo!
 	"""
 	keyWait
 	end
@@ -911,9 +907,9 @@ script 101 mmbn3 {
 		mugshot = ZooWoman
 	msgOpen
 	"""
-	First is a bath for
-	the giraffe. This
-	sure is a tall job!
+	Primeira tarefa:
+	dar um banho na girafa.
+	Um ALTO desafio!
 	"""
 	keyWait
 	end
@@ -928,9 +924,9 @@ script 102 mmbn3 {
 		mugshot = ZooMan
 	msgOpen
 	"""
-	The only people in
-	the zoo now are the
-	zoo workers.
+	As únicas pessoas no
+	zoológico agora são os
+	funcionários.
 	"""
 	keyWait
 	end
@@ -940,8 +936,9 @@ script 111 mmbn3 {
 		mugshot = ZooWoman
 	msgOpen
 	"""
-	OK,that's it for the
-	giraffe. Who's next?
+	Pronto, terminei a
+	girafa.
+	Próximo da lista...
 	"""
 	keyWait
 	end
@@ -951,9 +948,9 @@ script 112 mmbn3 {
 		mugshot = ZooMan
 	msgOpen
 	"""
-	At this pace,we
-	should be able to
-	reopen in no time.
+	Neste ritmo, vamos
+	poder reabrir o
+	zoológico rapidinho.
 	"""
 	keyWait
 	end
@@ -967,9 +964,9 @@ script 115 mmbn3 {
 		mugshot = ZooMan
 	msgOpen
 	"""
-	This is getting hot!
-	We can't let it hurt
-	the animals!
+	Tá esquentando demais!
+	Não podemos deixar isso
+	machucar os animais!
 	"""
 	keyWait
 	end
@@ -983,9 +980,9 @@ script 116 mmbn3 {
 		mugshot = ZooWoman
 	msgOpen
 	"""
-	This computer isn't
-	hot yet. You can
-	jack into it!
+	Este computador ainda
+	não esquentou. Você
+	pode se conectar nele!
 	"""
 	keyWait
 	end
@@ -995,15 +992,16 @@ script 117 mmbn3 {
 		mugshot = ZooMan
 	msgOpen
 	"""
-	We're lucky the zoo
-	was closed.
+	Sorte nossa que o
+	zoológico estava
+	fechado.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I just hope the
-	animals don't panic
-	again!
+	Eu só espero que os
+	animais não entrem em
+	pânico de novo!
 	"""
 	keyWait
 	end
@@ -1013,15 +1011,16 @@ script 118 mmbn3 {
 		mugshot = ZooMan
 	msgOpen
 	"""
-	We're lucky that no
-	animals were hurt.
+	Foi muita sorte nossa
+	nenhum dos animais se
+	machucar.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I don't know what we
-	would have done if
-	it kept heating up.
+	Não sei o que teríamos
+	feito se o aquecimento
+	continuasse.
 	"""
 	keyWait
 	end
@@ -1031,9 +1030,9 @@ script 119 mmbn3 {
 		mugshot = ZooWoman
 	msgOpen
 	"""
-	What in heavens was
-	that? Probably the
-	work of the WWW.
+	Mas o que raios foi
+	aquilo? Provavelmente,
+	coisa da WWW...
 	"""
 	keyWait
 	end
@@ -1043,16 +1042,16 @@ script 120 mmbn3 {
 		mugshot = ZooMan
 	msgOpen
 	"""
-	I'm done bathing the
-	animals,but nobody's
-	coming to see them.
+	Terminei de dar banho
+	nos animais, mas ninguém
+	está visitando.
 	"""
 	keyWait
 	clearMsg
 	"""
-	What'll I do with
-	all this free time
-	on my hands?
+	O que eu faço com todo
+	este tempo livre nas
+	mãos?
 	"""
 	keyWait
 	end
@@ -1062,16 +1061,16 @@ script 121 mmbn3 {
 		mugshot = ZooWoman
 	msgOpen
 	"""
-	I'm thinking maybe
-	we should send the
-	animals back home.
+	Estou pensando em, tal-
+	vez, mandar os animais
+	de volta aos seus lares.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'd feel bad if we
-	had another
-	incident!
+	Eu ficaria arrasada se
+	tivéssemos outro
+	incidente!
 	"""
 	keyWait
 	end
@@ -1081,9 +1080,9 @@ script 122 mmbn3 {
 		mugshot = ZooMan
 	msgOpen
 	"""
-	Looks like nobody's
-	up for a fun day at
-	the zoo anymore.
+	Parece que ninguém
+	mais tá a fim de visitar
+	o zoológico, agora.
 	"""
 	keyWait
 	end
@@ -1098,16 +1097,16 @@ script 130 mmbn3 {
 		mugshot = ZooMan
 	msgOpen
 	"""
-	We had to send all
-	the animals back to
-	their homes.
+	Tivemos que mandar os
+	animais de volta aos
+	seus lares.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I miss them,but at
-	least they're happy
-	to be back home.
+	Sinto saudades, mas, pelo
+	menos, eles estão felizes
+	por voltar.
 	"""
 	keyWait
 	end
@@ -1122,23 +1121,21 @@ script 131 mmbn3 {
 		mugshot = ZooWoman
 	msgOpen
 	"""
-	Hm? Is it true that
-	the panda's still
-	here?
+	Hm? Se é verdade que
+	o panda ficou?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Yeah. That little
-	guy just won't come
-	out.
+	É. Aquele danadinho
+	se recusa a sair.
 	"""
 	keyWait
 	clearMsg
 	"""
-	He's the reason why
-	we're still here-
-	to take care of him.
+	É por causa dele que
+	ainda estamos aqui.
+	Pra cuidar dele.
 	"""
 	keyWait
 	end
@@ -1148,15 +1145,14 @@ script 140 mmbn3 {
 		mugshot = ZooMan
 	msgOpen
 	"""
-	If peace returns,the
-	zoo should be able
-	to reopen.
+	Se a paz voltar, o
+	zoológico deve reabrir.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Let's bring back all
-	the animals!
+	Traremos todos os
+	animais de volta!
 	"""
 	keyWait
 	end
@@ -1166,14 +1162,15 @@ script 141 mmbn3 {
 		mugshot = ZooWoman
 	msgOpen
 	"""
-	No matter what,I'll
-	never lose hope.
+	Haja o que houver, eu
+	nunca vou perder a
+	esperança.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I know the WWW will
-	be defeated again!
+	Sei que a WWW será
+	derrotada de novo!
 	"""
 	keyWait
 	end
@@ -1192,43 +1189,43 @@ script 190 mmbn3 {
 	flagSet
 		flag = 1865
 	"""
-	Huh!?
-	That map!
+	... Hã?!
+	Esse mapa!
 	"""
 	keyWait
 	clearMsg
 	"""
-	That's the map my
-	friends and I buried
-	when we were kids!
+	É o mapa que meus
+	amigos e eu enterramos
+	quando éramos crianças!
 	"""
 	keyWait
 	clearMsg
 	"""
-	It should match up
-	with the other
-	half I still have!
+	Ele deve completar a
+	outra metade dele, que
+	eu ainda tenho!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I've waited 15 long
-	years for somebody
-	to dig that up!
+	Eu esperei 15 longos
+	anos para alguém
+	escavá-lo!
 	"""
 	keyWait
 	clearMsg
 	"""
-	He remembered the
-	pact we made way
-	back then!
+	Ele se lembrou do
+	pacto que fizemos
+	naqueles dias!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Tell my friend I'm
-	going to go see him
-	again right away!
+	Diga pro meu amigo que
+	eu o visitarei assim
+	que possível!
 	"""
 	keyWait
 	end
@@ -1238,15 +1235,14 @@ script 191 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	I haven't seen him
-	since we wound up in
-	different schools.
+	Não falo com ele desde
+	que fomos mandados
+	para escolas diferentes.
 	"""
 	keyWait
 	clearMsg
 	"""
-	It's great to have
-	friends!
+	Amigos são tudo de bom!
 	"""
 	keyWait
 	end
@@ -1272,64 +1268,64 @@ script 200 mmbn3 {
 		mugshot = ZooWoman
 	msgOpen
 	"""
-	Nice to meet you.
-	You're here for our
-	request,right?
+	Muito prazer.
+	Você veio aqui pelo
+	nosso pedido, não foi?
 	"""
 	keyWait
 	clearMsg
 	"""
-	We're in a bind. The
-	condor hasn't come
-	back to the zoo yet.
+	Estamos encrencados.
+	O condor ainda não
+	voltou para o zoológico.
 	"""
 	keyWait
 	clearMsg
 	"""
-	The other animals
-	came right back,but
-	not the condor.
+	Os outros animais
+	voltaram sem demora,
+	mas o condor, não.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Please help us! Find
-	the condor and bring
-	it back!
+	Por favor, nos ajude!
+	Encontre o condor e
+	traga-o de volta aqui!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I hear that it often
-	sits on the slide at
-	the ACDC Town park.
+	Soube que ele anda se
+	empoleirando no escorre-
+	gador do Parque ACDC.
 	"""
 	keyWait
 	clearMsg
 	"""
-	But,it doesn't like
-	people,so it'll be
-	hard to catch.
+	Mas ele não gosta de
+	pessoas, então, não
+	será fácil de pegar.
 	"""
 	keyWait
 	clearMsg
 	"""
-	There was only one
-	person at the zoo
-	who could catch it.
+	Só tinha uma pessoa
+	no zoológico que
+	conseguia pegá-lo.
 	"""
 	keyWait
 	clearMsg
 	"""
-	He's in the hospital
-	now,though.
+	Mas ele está no hospital,
+	agora.
 	"""
 	keyWait
 	clearMsg
 	"""
-	But maybe you could
-	drop by and talk to
-	him.
+	Talvez você pudesse
+	passar lá e falar com
+	ele?
 	"""
 	keyWait
 	end
@@ -1339,22 +1335,22 @@ script 201 mmbn3 {
 		mugshot = ZooWoman
 	msgOpen
 	"""
-	They say the condor
-	may be found perched
-	on the slide at ACDC
+	O Condor vive se empo-
+	leirando no escorregador
+	do Parque ACDC.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Park. He'll be hard
-	to catch,though!
+	Mas vai ser difícil
+	pegá-lo!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Maybe you should go
-	see its caretaker
-	in the hospital.
+	Talvez fosse uma boa
+	ideia falar com o tratador
+	dele, no hospital.
 	"""
 	keyWait
 	end
@@ -1368,15 +1364,14 @@ script 202 mmbn3 {
 		mugshot = ZooWoman
 	msgOpen
 	"""
-	Oh,thank you!! You
-	caught the condor
-	without hurting it!
+	Ah, obrigada!! Você
+	pegou o condor sem
+	machucá-lo!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Here you go! This is
-	your reward.
+	Aqui! A sua recompensa.
 	"""
 	keyWait
 	clearMsg
@@ -1393,7 +1388,7 @@ script 203 mmbn3 {
 		item = 101
 		amount = 1
 	"""
-	Lan got a
+	Lan adquiriu um
 	PowerUp:
 	"
 	"""
@@ -1412,9 +1407,9 @@ script 204 mmbn3 {
 		mugshot = ZooWoman
 	msgOpen
 	"""
-	I hope the condor
-	will get accustomed
-	to us soon,too!
+	Espero que o condor se
+	acostume logo à gente,
+	também!
 	"""
 	keyWait
 	end
@@ -1422,16 +1417,16 @@ script 204 mmbn3 {
 script 220 mmbn3 {
 	msgOpen
 	"""
-	This art display was
-	probably made by
-	somebody famous
+	Essas esculturas, prova-
+	velmente, foram feitas
+	por um artista famoso.
 	"""
 	keyWait
 	clearMsg
 	"""
-	It's meaning is too
-	deep for normal
-	people to fathom
+	Seu significado é profun-
+	do demais para pessoas
+	normais compreenderem.
 	"""
 	keyWait
 	end
@@ -1439,9 +1434,9 @@ script 220 mmbn3 {
 script 221 mmbn3 {
 	msgOpen
 	"""
-	The door is locked
-	so visitors can't
-	stroll in
+	A porta está trancada,
+	para visitantes não
+	entrarem livremente.
 	"""
 	keyWait
 	end
@@ -1449,23 +1444,23 @@ script 221 mmbn3 {
 script 222 mmbn3 {
 	msgOpen
 	"""
-	"The gorilla is the
-	largest,strongest
-	member of the monkey
+	"O gorila é o maior e
+	mais forte membro da
+	família dos primatas.
 	"""
 	keyWait
 	clearMsg
 	"""
-	"family. It can look
-	mean,but is actually
-	quite kind. It lives
+	Por mais que pareça
+	mau, na verdade, é
+	bem dócil.
 	"""
 	keyWait
 	clearMsg
 	"""
-	"in tropical jungles
-	and eats mainly
-	fruit and leaves."
+	Eles moram em florestas
+	tropicais e se alimentam
+	de frutas e folhas."
 	"""
 	keyWait
 	end
@@ -1488,9 +1483,9 @@ script 223 mmbn3 {
 		jumpIfOutOfRange = continue
 	msgOpen
 	"""
-	The gorillas look so
-	happy,sitting there
-	grooming each other
+	Os gorilas parecem feli-
+	zes, sentados em paz,
+	limpando uns aos outros.
 	"""
 	keyWait
 	end
@@ -1507,9 +1502,9 @@ script 224 mmbn3 {
 		jumpIfFalse = 240
 	msgOpen
 	"""
-	The condor sits
-	statue-like,blinking
-	occasionally
+	O condor se posta para-
+	do, como uma estátua,
+	piscando ocasionalmente.
 	"""
 	keyWait
 	end
@@ -1517,42 +1512,41 @@ script 224 mmbn3 {
 script 225 mmbn3 {
 	msgOpen
 	"""
-	"Condors are very
-	large,with wing-
-	spans up to 10 feet.
+	"Condores são enormes,
+	com asas que chegam
+	a 3 m de comprimento.
 	"""
 	keyWait
 	clearMsg
 	"""
-	"Their wings spread
-	like gliders as they
-	soar across the sky.
+	Suas asas se abrem
+	como planadores enquan-
+	to eles cortam os céus.
 	"""
 	keyWait
 	clearMsg
 	"""
-	"They feed on animal
-	carcasses,leaving
-	nothing to waste."
+	Eles se alimentam de
+	carcaças de animais,
+	sem desperdiçar nada."
 	"""
 	keyWait
 	end
 }
 script 226 mmbn3 {
 	msgOpen
-	"A trash can"
+	"Uma lata de lixo."
 	keyWait
 	clearMsg
 	"""
-	Let's see. Leftover
-	lunch,newspapers,
-	empty soda cans…
+	Vejamos. Restos de
+	almoço, jornais, latas
+	vazias de refrigerante...
 	"""
 	keyWait
 	clearMsg
 	"""
-	There's lots of
-	garbage here
+	Tem muito lixo aqui.
 	"""
 	keyWait
 	clearMsg
@@ -1562,9 +1556,8 @@ script 226 mmbn3 {
 		jumpIfFalse = continue
 	clearMsg
 	"""
-	There's something
-	shiny that's mixed
-	in with the garbage
+	Tem uma coisa brilhante
+	no meio do lixo.
 	"""
 	keyWait
 	clearMsg
@@ -1577,7 +1570,7 @@ script 226 mmbn3 {
 		code = *
 		amount = 1
 	"""
-	Lan got a chip for
+	Lan adquiriu o chip
 	"
 	"""
 	printChip
@@ -1596,16 +1589,16 @@ script 226 mmbn3 {
 script 227 mmbn3 {
 	msgOpen
 	"""
-	There are many kinds
-	of soda to choose
-	from
+	Há vários tipos de
+	refrigerantes dentre
+	os quais escolher.
 	"""
 	keyWait
 	clearMsg
 	"""
-	These are pricier
-	than the drinks sold
-	outside of the zoo
+	São mais caros, em mé-
+	dia, que as bebidas ven-
+	didas fora do zoológico.
 	"""
 	keyWait
 	end
@@ -1613,23 +1606,22 @@ script 227 mmbn3 {
 script 228 mmbn3 {
 	msgOpen
 	"""
-	"Giraffes are the
-	tallest animals on
-	earth
+	"Girafas são os animais
+	mais altos da Terra.
 	"""
 	keyWait
 	clearMsg
 	"""
-	"They eat food found
-	in high places using
-	their long tongues
+	Elas consumem alimentos
+	de lugares altos usando
+	suas longas línguas.
 	"""
 	keyWait
 	clearMsg
 	"""
-	"They are very
-	cautious but are
-	also quite curious."
+	São muito cautelosas,
+	porém, muito curiosas
+	também."
 	"""
 	keyWait
 	end
@@ -1637,9 +1629,8 @@ script 228 mmbn3 {
 script 229 mmbn3 {
 	msgOpen
 	"""
-	This picture shows
-	just how tall
-	giraffes are
+	Esse desenho ilustra o
+	quão altas girafas são.
 	"""
 	keyWait
 	end
@@ -1662,9 +1653,9 @@ script 230 mmbn3 {
 		jumpIfOutOfRange = continue
 	msgOpen
 	"""
-	They must be bored
-	in that cage,because
-	they keep yawning
+	Ela deve estar
+	endediada nessa jaula.
+	Não para de bocejar.
 	"""
 	keyWait
 	end
@@ -1687,9 +1678,8 @@ script 231 mmbn3 {
 		jumpIfOutOfRange = continue
 	msgOpen
 	"""
-	The little birds
-	inside chirp so
-	beautifully
+	Os passarinhos dentro
+	cantam lindamente.
 	"""
 	keyWait
 	end
@@ -1712,16 +1702,15 @@ script 232 mmbn3 {
 		jumpIfOutOfRange = continue
 	msgOpen
 	"""
-	A parrot says,"I've
-	got a buncha parrots
-	like this at home."
+	Um papagaio diz:
+	"Eu tenho um monte de
+	papagaio lá em casa."
 	"""
 	keyWait
 	clearMsg
 	"""
-	You wonder who
-	taught the parrot to
-	say that
+	Você se pergunta quem
+	ensinou ele a falar isso.
 	"""
 	keyWait
 	end
@@ -1729,9 +1718,9 @@ script 232 mmbn3 {
 script 233 mmbn3 {
 	msgOpen
 	"""
-	The small sign says
-	"Loveable,cute
-	panda! This way!"
+	A pequena placa diz:
+	"O adorável, fofíssimo
+	panda! Por aqui!"
 	"""
 	keyWait
 	end
@@ -1764,9 +1753,9 @@ script 238 mmbn3 {
 script 239 mmbn3 {
 	msgOpen
 	"""
-	This used to be an
-	emergency exit,but
-	now it's blocked
+	Costumava ser uma
+	saída de emergência,
+	mas está bloqueada.
 	"""
 	keyWait
 	end
@@ -1774,9 +1763,9 @@ script 239 mmbn3 {
 script 240 mmbn3 {
 	msgOpen
 	"""
-	There are no
-	animals in here.
-	It's totally empty
+	Não há animais aqui.
+	Está completamente
+	vazia.
 	"""
 	keyWait
 	end
@@ -1784,9 +1773,8 @@ script 240 mmbn3 {
 script 241 mmbn3 {
 	msgOpen
 	"""
-	The gorilla is
-	glaring straight
-	ahead…
+	O gorila está encarando
+	reto, intensamente...
 	"""
 	keyWait
 	checkChapter
@@ -1799,9 +1787,9 @@ script 241 mmbn3 {
 script 242 mmbn3 {
 	msgOpen
 	"""
-	The condor's eyeing
-	you with a
-	disgruntled look
+	O condor te observa
+	com um olhar de
+	descontentamento.
 	"""
 	keyWait
 	checkChapter
@@ -1814,9 +1802,8 @@ script 242 mmbn3 {
 script 243 mmbn3 {
 	msgOpen
 	"""
-	The giraffe's
-	angrily staring
-	outside
+	A girafa está olhando
+	para fora, com raiva.
 	"""
 	keyWait
 	checkChapter
@@ -1829,9 +1816,9 @@ script 243 mmbn3 {
 script 244 mmbn3 {
 	msgOpen
 	"""
-	The birds are flying
-	madly and screeching
-	in their cages
+	Os pássaros estão
+	voando feito loucos,
+	gritando nos viveiros.
 	"""
 	keyWait
 	checkChapter
@@ -1844,9 +1831,9 @@ script 244 mmbn3 {
 script 245 mmbn3 {
 	msgOpen
 	"""
-	All the parrots are
-	staring this way,
-	not saying a word
+	Todos os papagaios
+	estão olhando para cá,
+	sem falar nada.
 	"""
 	keyWait
 	checkChapter

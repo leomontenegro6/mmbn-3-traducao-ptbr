@@ -5,26 +5,25 @@ script 0 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	OK,now I'll explain
-	chips that have
-	support effects!
+	Certo, agora, vou
+	explicar chips que têm
+	efeitos de apoio!
 	"""
 	keyWait
 	clearMsg
 	"""
-	There are some chips
-	which are not used
-	as weapons.
+	Alguns chips não são
+	usados como armas.
 	"""
 	keyWait
 	clearMsg
-	"For example,the chip\n"
+	"Por exemplo, o chip\n"
 	printChip
 		buffer = 0
 		chip = 130
 	"""
-	 gives you
-	more room to move.
+	 serve para dar
+	mais espaço no campo.
 	"""
 	keyWait
 	end
@@ -34,9 +33,9 @@ script 1 mmbn3 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	I thought we could
-	only choose chips
-	of the same type?
+	Mas a gente não só
+	podia escolher múltiplos
+	chips do mesmo tipo?
 	"""
 	keyWait
 	clearMsg
@@ -48,9 +47,9 @@ script 2 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Ah! You've picked up
-	on an excellent
-	point! Look here…
+	Ah! Você levantou uma
+	excelente questão!
+	Observem aqui...
 	"""
 	keyWait
 	end
@@ -60,20 +59,20 @@ script 3 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	See these letters?
-	This is called the
-	chip code.
+	Veem estas letras?
+	É o que chamamos de
+	código de chip.
 	"""
 	keyWait
 	clearMsg
 	"""
-	You can choose chips
-	with the same code-
-	even different ones.
+	Vocês podem selecionar
+	chips de mesmo código,
+	mesmo sendo diferentes.
 	"""
 	keyWait
 	clearMsg
-	"If you will notice,\n"
+	"Se olharem bem,\n"
 	printChip
 		buffer = 0
 		chip = 130
@@ -81,31 +80,31 @@ script 3 mmbn3 {
 	printChip
 		buffer = 0
 		chip = 31
-	"\nare both \"L\"."
+	"\nsão ambos \"L\"."
 	keyWait
 	clearMsg
 	"""
-	That means that you
-	can choose these two
-	simultaneously.
-	"""
-	keyWait
-	clearMsg
-	"""
-	By the way,chips
-	marked with a "*"
-	are like wild cards…
+	O que quer dizer que
+	vocês podem escolher
+	os dois simultaneamente.
 	"""
 	keyWait
 	clearMsg
 	"""
-	You can use them
-	with any other code!
-	Very convenient!
+	Só para constar, chips
+	marcados com "*"
+	são como curingas...
 	"""
 	keyWait
 	clearMsg
-	"Let's try using the\n"
+	"""
+	É possível usá-los com
+	qualquer outro código!
+	Tão, tão convenientes!
+	"""
+	keyWait
+	clearMsg
+	"Vamos tentar usar os\n"
 	printChip
 		buffer = 0
 		chip = 130
@@ -113,7 +112,7 @@ script 3 mmbn3 {
 	printChip
 		buffer = 0
 		chip = 31
-	"\nwith the same code!"
+	"\nde mesmo código!"
 	keyWait
 	end
 }
@@ -121,7 +120,7 @@ script 4 mmbn3 {
 	mugshotShow
 		mugshot = Scientist
 	msgOpen
-	"OK! Next,choose\n"
+	"OK! Agora, selecione a\n"
 	printChip
 		buffer = 0
 		chip = 31
@@ -133,14 +132,14 @@ script 5 mmbn3 {
 	mugshotShow
 		mugshot = Scientist
 	msgOpen
-	"Choose "
+	"Selecione "
 	printChip
 		buffer = 0
 		chip = 130
 	"""
 	
-	first. Cancel with
-	the B Button.
+	primeiro. Para cancelar,
+	aperte "B".
 	"""
 	keyWait
 	end
@@ -149,14 +148,14 @@ script 6 mmbn3 {
 	mugshotShow
 		mugshot = Scientist
 	msgOpen
-	"Choose "
+	"Selecione "
 	printChip
 		buffer = 0
 		chip = 130
 	"""
 	
-	first. Cancel with
-	the B Button.
+	primeiro. Para cancelar,
+	aperte "B".
 	"""
 	keyWait
 	end
@@ -165,14 +164,14 @@ script 7 mmbn3 {
 	mugshotShow
 		mugshot = Scientist
 	msgOpen
-	"Choose "
+	"Selecione "
 	printChip
 		buffer = 0
 		chip = 130
 	"""
 	
-	first. Cancel with
-	the B Button.
+	primeiro. Para cancelar,
+	aperte "B".
 	"""
 	keyWait
 	end
@@ -182,8 +181,8 @@ script 8 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	You don't need to
-	use that now…
+	Não precisa usar isso
+	agora...
 	"""
 	keyWait
 	end
@@ -193,9 +192,9 @@ script 9 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Oops! Wrong order!
-	Cancel both with
-	the B Button.
+	Opa! Ordem errada!
+	Cancele ambos apertando
+	"B".
 	"""
 	keyWait
 	end
@@ -205,9 +204,9 @@ script 10 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	OK,let's send this
-	data to the Navi.
-	Choose "OK"!
+	Certo, vamos enviar
+	estes dados para o Navi.
+	Aperte "OK"!
 	"""
 	keyWait
 	end
@@ -217,13 +216,13 @@ script 12 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Don't cancel!
-	Choose the 
+	Não cancele!
+	Selecione a 
 	"""
 	printChip
 		buffer = 0
 		chip = 31
-	"\nas I asked."
+	",\ncomo eu falei."
 	keyWait
 	end
 }
@@ -232,9 +231,9 @@ script 13 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	That's OK,you can
-	fight with this
-	chip. Let's proceed.
+	Está tudo bem, pode
+	lutar com esses chips.
+	Prossiga.
 	"""
 	keyWait
 	end
@@ -244,13 +243,13 @@ script 14 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Let's try sending
-	the 
+	Vamos tentar enviar os
+	dados da 
 	"""
 	printChip
 		buffer = 0
 		chip = 31
-	"\ndata,too."
+	"\ntambém."
 	keyWait
 	end
 }
@@ -259,8 +258,8 @@ script 15 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	You don't need to
-	use that now…
+	Não precisa usar isso
+	agora...
 	"""
 	keyWait
 	end
@@ -270,15 +269,14 @@ script 17 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	That's the run
-	command.
+	Esse é o botão de fuga.
 	"""
 	keyWait
 	clearMsg
 	"""
-	This is just a
-	training program,so
-	you don't need that.
+	Mas este é só um
+	programa de treino,
+	então, não precisa disso.
 	"""
 	keyWait
 	end
@@ -288,9 +286,9 @@ script 18 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Did you send the
-	data to the Navi?
-	Let's try it out!
+	Mandou os dados para o
+	Navi? Vamos tentar
+	colocá-los em prática!
 	"""
 	keyWait
 	end
@@ -300,25 +298,26 @@ script 19 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	OK,our strategy is
-	something like this…
+	Certo, nossa estratégia
+	será mais ou menos
+	assim...
 	"""
 	keyWait
 	clearMsg
-	"First,we will use\n"
+	"Primeiro, use\n"
 	printChip
 		buffer = 0
 		chip = 130
 	"""
-	 by pressing
-	the A Button.
+	 apertando
+	o botão "A".
 	"""
 	keyWait
 	clearMsg
 	"""
-	Part of the virus's
-	area will become
-	ours to use.
+	Parte da área do vírus
+	se tornará nossa e
+	poderemos andar nela.
 	"""
 	keyWait
 	end
@@ -328,20 +327,20 @@ script 20 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	That will allow us
-	to walk up to it,
-	and attack!!
+	Assim, poderemos andar
+	até os inimigos e
+	atacá-los!
 	"""
 	keyWait
 	clearMsg
 	"""
-	But watch out for
-	the virus's attack
-	when we get close!
+	Mas cuidado com os
+	ataques deles quando
+	se aproximarem!
 	"""
 	keyWait
 	clearMsg
-	"OK! Good luck!!"
+	"OK! Boa sorte!!"
 	keyWait
 	end
 }
@@ -350,8 +349,8 @@ script 22 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	This is a good
-	strategy to use with
+	É uma boa estratégia
+	usá-lo junto com uma
 	
 	"""
 	printChip
@@ -366,20 +365,20 @@ script 23 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	By the way,chips
-	marked with a "*"
-	are like wild cards…
+	Por sinal, chips marcados
+	com um "*" são meio que
+	como curingas.
 	"""
 	keyWait
 	clearMsg
 	"""
-	You can use them
-	with any other code!
-	Very convenient!
+	Dá para usá-los com
+	qualquer outro código!
+	É tão conveniente!
 	"""
 	keyWait
 	clearMsg
-	"Let's try using the\n"
+	"Vamos tentar usar\n"
 	printChip
 		buffer = 0
 		chip = 130
@@ -387,7 +386,7 @@ script 23 mmbn3 {
 	printChip
 		buffer = 0
 		chip = 31
-	"\nwith the same code!"
+	"\ncom o mesmo código!"
 	keyWait
 	end
 }

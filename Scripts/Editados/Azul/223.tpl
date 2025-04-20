@@ -5,9 +5,8 @@ script 0 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	So where should we
-	go play today,
-	MegaMan?
+	E aí, onde a gente vai
+	brincar hoje, MegaMan?
 	"""
 	keyWait
 	clearMsg
@@ -19,8 +18,8 @@ script 1 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Wh・t a・out yo・r
-	h・mewo・k,L・n?
+	E a s・a liç・o d・
+	c・sa, L・n?
 	"""
 	keyWait
 	clearMsg
@@ -32,8 +31,8 @@ script 2 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	What? I can't
-	understand you!
+	Oi? Não entendi o que
+	você disse!
 	"""
 	keyWait
 	end
@@ -42,7 +41,7 @@ script 3 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Y・ur ho・ewor・!"
+	"A su・ l・ção d・ casa!"
 	keyWait
 	end
 }
@@ -51,9 +50,9 @@ script 4 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Oh,I'll do that
-	later. But you need
-	to speak clearly!
+	Ah, depois eu faço ela.
+	Mas você precisa falar
+	direito!
 	"""
 	keyWait
 	clearMsg
@@ -64,7 +63,7 @@ script 5 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"So・ry…"
+	"Desc・lpa..."
 	keyWait
 	clearMsg
 	jump
@@ -75,9 +74,9 @@ script 6 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Has this been
-	happening since you
-	battled FlashMan?
+	Isso vem acontecendo
+	com você desde a luta
+	com o FlashMan?
 	"""
 	keyWait
 	clearMsg
@@ -89,16 +88,15 @@ script 7 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Yeah,something seems
-	wrong with…Hey,it's
-	working now…
+	É, acho que deu algum
+	erro no... Ah, voltou a
+	funcionar...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Something seems to
-	be wrong with this
-	PET…
+	Acho que este PET tá
+	com algum problema...
 	"""
 	keyWait
 	clearMsg
@@ -110,8 +108,9 @@ script 8 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I wonder if that
-	last flash did it?
+	Será que é por causa
+	daquele último clarão
+	dele?
 	"""
 	keyWait
 	clearMsg
@@ -123,14 +122,15 @@ script 9 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,let's get dad to
-	take a look at it.
+	Lan, vamos pedir pro
+	papai dar uma olhada
+	nele.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I hate to bother him
-	at work,though…
+	Odeio ter que incomodar
+	ele no trabalho, mas...
 	"""
 	keyWait
 	clearMsg
@@ -142,14 +142,14 @@ script 10 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	It should be OK. We
-	ARE his kids,after
-	all…
+	Ah, acho que tudo bem.
+	Digo, nós SOMOS os filhos
+	dele, né?
 	"""
 	keyWait
 	clearMsg
 	"""
-	OK! Let's go to
+	Beleza! Simbora pro
 	SciLab!
 	"""
 	keyWait
@@ -162,9 +162,9 @@ script 11 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	OK! I'll send him an
-	e-mail to let him
-	know we're coming.
+	OK! Vou mandar um e-mail
+	pra ele avisando que a
+	gente tá indo.
 	"""
 	keyWait
 	clearMsg
@@ -176,8 +176,9 @@ script 12 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Good idea.
-	OK,let's go!!
+	Boa ideia.
+	Bom, "pernas pra que te
+	quero"!
 	"""
 	keyWait
 	end
@@ -186,7 +187,7 @@ script 13 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Oh,by the way…!"
+	"Ah, por sinal..."
 	keyWait
 	end
 }
@@ -194,10 +195,10 @@ script 14 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Wh…"
+	"O..."
 	waitSkip
 		frames = 30
-	" What now?"
+	" O que foi agora?"
 	keyWait
 	clearMsg
 	jump
@@ -208,9 +209,9 @@ script 15 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	There's a rumor that
-	your little brother
-	is looking for you.
+	Tá rolando um boato de
+	que o seu irmão caçula
+	tá te procurando.
 	"""
 	keyWait
 	clearMsg
@@ -222,8 +223,8 @@ script 16 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	My WHAT?
-	Little brother?
+	O meu o QUÊ?
+	Irmão caçula?
 	"""
 	keyWait
 	clearMsg
@@ -235,16 +236,15 @@ script 17 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	He says that he's
-	looking for the #1
-	NetBattler in ACDC…
+	Dizem que ele tá atrás
+	do melhor NetLutador de
+	ACDC...
 	"""
 	keyWait
 	clearMsg
 	"""
-	But you don't have a
-	younger brother,do
-	you?
+	Mas você não tem irmão
+	mais novo, tem?
 	"""
 	keyWait
 	clearMsg
@@ -256,15 +256,16 @@ script 18 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Of course not! You
-	know that! It must
-	be some mistake…
+	Claro que não! Você
+	sabe disso! Só pode ser
+	um engano...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Forget it. Let's
-	go see dad!
+	Deixa isso pra lá.
+	Vamos lá falar com o
+	papai!
 	"""
 	keyWait
 	clearMsg
@@ -275,7 +276,7 @@ script 19 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Yeah,OK!"
+	"É, vamos!"
 	keyWait
 	end
 }

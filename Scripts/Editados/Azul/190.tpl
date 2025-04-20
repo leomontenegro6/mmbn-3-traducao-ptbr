@@ -5,8 +5,8 @@ script 0 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Hey,Yai,what time
-	do you want to chat?
+	Ei, Yai, que horas cê
+	quer fazer o bate-papo?
 	"""
 	keyWait
 	clearMsg
@@ -18,8 +18,8 @@ script 1 mmbn3 {
 		mugshot = Yai
 	msgOpen
 	"""
-	Hmm. What time
-	should we start?
+	Hmm. Que horas seria
+	bom pra começar?
 	"""
 	keyWait
 	clearMsg
@@ -31,8 +31,8 @@ script 2 mmbn3 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	My schedule's pretty
-	much open.
+	A minha agenda tá
+	totalmente aberta.
 	"""
 	keyWait
 	clearMsg
@@ -43,7 +43,7 @@ script 3 mmbn3 {
 	mugshotShow
 		mugshot = Dex
 	msgOpen
-	"Me too!"
+	"Aqui também!"
 	keyWait
 	end
 }
@@ -51,13 +51,13 @@ script 4 mmbn3 {
 	mugshotShow
 		mugshot = Sunayama
 	msgOpen
-	"Hi there!"
+	"Olá!"
 	flagSet
 		flag = 786
 	"""
 	
-	Are you elementary
-	school students?
+	Vocês são alunos do
+	fundamental?
 	"""
 	keyWait
 	clearMsg
@@ -68,7 +68,7 @@ script 5 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Uh…yes,we are."
+	"Er... sim, somos..."
 	keyWait
 	clearMsg
 	jump
@@ -79,16 +79,16 @@ script 6 mmbn3 {
 		mugshot = Sunayama
 	msgOpen
 	"""
-	Sorry if I'm
-	intruding on
-	something!
+	Desculpem se estou
+	interrompendo alguma
+	coisa!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'm a producer for
-	DNN,the DenCity
-	News Network!
+	Sou produtor da DNN,
+	a DenCity Notícias
+	Nacionais!
 	"""
 	keyWait
 	clearMsg
@@ -99,26 +99,26 @@ script 7 mmbn3 {
 	mugshotShow
 		mugshot = Yai
 	msgOpen
-	"DNN? The TV station?"
+	"DNN? O canal de TV?"
 	keyWait
 	clearMsg
 	"""
-	Are you going to
-	make me a TV star
-	or something?
-	"""
-	keyWait
-	clearMsg
-	"""
-	I knew it…I knew
-	this day would come!
+	Ah! Você está aqui para
+	me transformar em uma
+	estrela?!
 	"""
 	keyWait
 	clearMsg
 	"""
-	But even still,
-	I need a little time
-	to prepare myself.
+	Eu sabia... sabia que
+	esse dia viria!
+	"""
+	keyWait
+	clearMsg
+	"""
+	Ai, mas, mas, preciso de
+	mais tempo pra me
+	preparar...
 	"""
 	keyWait
 	clearMsg
@@ -130,34 +130,35 @@ script 8 mmbn3 {
 		mugshot = Sunayama
 	msgOpen
 	"""
-	Uh…Right. Anyway,
-	if I might continue…
+	Er... aham.
+	Enfim, seguindo...
 	"""
 	keyWait
 	clearMsg
 	"""
-	We're sponsoring a
-	competition to find
-	the top NetBattler.
+	Vamos sediar uma compe-
+	tição para achar o melhor
+	NetLutador de todos.
 	"""
 	keyWait
 	clearMsg
 	"""
-	It's called the
-	"N1 Grand Prix."
+	Seu nome:
+	o "Grande Prêmio N1".
 	"""
 	keyWait
 	clearMsg
 	"""
-	The preliminaries
-	are being held in
-	ACDC Square today.
+	As preliminares serão
+	realizadas no ACDC
+	Plaza hoje mesmo.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Why don't you all
-	give it a shot?
+	Por que vocês não
+	tentam encarar o
+	desafio?
 	"""
 	keyWait
 	clearMsg
@@ -168,7 +169,7 @@ script 9 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Us…?"
+	"A gente...?"
 	keyWait
 	clearMsg
 	jump
@@ -178,7 +179,7 @@ script 10 mmbn3 {
 	mugshotShow
 		mugshot = Mayl
 	msgOpen
-	"In the…?"
+	"Nas...?"
 	keyWait
 	clearMsg
 	jump
@@ -188,7 +189,7 @@ script 11 mmbn3 {
 	mugshotShow
 		mugshot = Dex
 	msgOpen
-	"Preliminaries…?"
+	"Preliminares...?"
 	keyWait
 	clearMsg
 	jump
@@ -199,8 +200,9 @@ script 12 mmbn3 {
 		mugshot = Yai
 	msgOpen
 	"""
-	You mean I haven't
-	been scouted!?
+	Quer dizer que você
+	não veio caçar o meu
+	talento?!
 	"""
 	keyWait
 	clearMsg
@@ -214,38 +216,38 @@ script 13 mmbn3 {
 		mugshot = Sunayama
 	msgOpen
 	"""
-	The finals will
-	be broadcast
-	nationwide.
+	Bom, as finais serão
+	transmitidas em rede
+	nacional.
 	"""
 	keyWait
 	clearMsg
 	"""
-	The preliminaries
-	could be your first
-	step to stardom!
+	Logo, as preliminares
+	podem ser seu primeiro
+	passo rumo ao estrelato!
 	"""
 	keyWait
 	clearMsg
 	flagClear
 		flag = 788
 	"""
-	Look at the time!
-	Registration will
-	start soon,so…
+	Opa, olha a hora!
+	As inscrições estão
+	para abrir, então...
 	"""
 	keyWait
 	clearMsg
 	"""
-	If you're interested
-	just jack in and go
-	to ACDC Square!
+	se tiverem interesse, é
+	só se conectarem e irem
+	ao Plaza de ACDC!
 	"""
 	keyWait
 	clearMsg
 	"""
-	You'd better hurry!
-	Ciao!
+	E é melhor correrem, viu?
+	Adiós!
 	"""
 	keyWait
 	flagClear
@@ -256,7 +258,10 @@ script 14 mmbn3 {
 	mugshotShow
 		mugshot = Mayl
 	msgOpen
-	"What should we do?"
+	"""
+	Então, o que a gente
+	faz?
+	"""
 	keyWait
 	clearMsg
 	jump
@@ -268,13 +273,13 @@ script 15 mmbn3 {
 	msgOpen
 	flagSet
 		flag = 784
-	"Hmmm…"
+	"Hmmm..."
 	waitSkip
 		frames = 60
 	"\n"
 	flagClear
 		flag = 784
-	"I wonder…"
+	"Pensando..."
 	keyWait
 	end
 }
@@ -283,9 +288,9 @@ script 16 mmbn3 {
 		mugshot = Dex
 	msgOpen
 	"""
-	There's no question
-	I'm signing up!
-	Right,GutsMan?
+	Não tem no que pensar!
+	Eu vou lá me inscrever!
+	Né não, GutsMan?!
 	"""
 	keyWait
 	clearMsg
@@ -297,8 +302,8 @@ script 17 mmbn3 {
 		mugshot = GutsMan
 	msgOpen
 	"""
-	Let's do it!
-	You've got Guts!
+	Vamo nessa!
+	Medo aqui não tem, Guts!
 	"""
 	keyWait
 	clearMsg
@@ -310,9 +315,8 @@ script 18 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I think I'll do it!
-	What do you say,
-	MegaMan?
+	Acho que eu também vou!
+	O que cê acha, MegaMan?
 	"""
 	keyWait
 	clearMsg
@@ -324,8 +328,8 @@ script 19 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Sounds great!
-	Let's go!
+	Apoio 100%!
+	Vamos lá!
 	"""
 	keyWait
 	clearMsg
@@ -337,8 +341,8 @@ script 20 mmbn3 {
 		mugshot = Roll
 	msgOpen
 	"""
-	Mayl. I'd like to
-	try,too!
+	Eu também quero tentar,
+	Mayl!
 	"""
 	keyWait
 	clearMsg
@@ -350,9 +354,8 @@ script 21 mmbn3 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	Well,if you put it
-	like that,I say
-	let's give it a try!
+	Bom, se você tá a fim,
+	claro, vamos!
 	"""
 	keyWait
 	clearMsg
@@ -364,8 +367,8 @@ script 22 mmbn3 {
 		mugshot = Glide
 	msgOpen
 	"""
-	What do you say,
-	Miss Yai?
+	O que a senhorita diz,
+	srta. Yai?
 	"""
 	keyWait
 	clearMsg
@@ -377,9 +380,9 @@ script 23 mmbn3 {
 		mugshot = Yai
 	msgOpen
 	"""
-	Let's blast through
-	this match! My big
-	debut awaits!
+	Vamos arrasar geral
+	nessas preliminares!
+	Depois, o estrelato!
 	"""
 	keyWait
 	clearMsg
@@ -391,9 +394,9 @@ script 24 mmbn3 {
 		mugshot = Glide
 	msgOpen
 	"""
-	Understood.
-	I will give it
-	my all.
+	Entendido.
+	Assim sendo, darei tudo
+	de mim.
 	"""
 	keyWait
 	clearMsg
@@ -405,15 +408,15 @@ script 25 mmbn3 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Now that it's
-	decided,I'm going
-	home to jack in!
+	Agora que tá decidido,
+	eu vou lá pra casa me
+	conectar na Rede!
 	"""
 	keyWait
 	clearMsg
 	"""
-	See you guys in
-	ACDC Square!
+	Vejo vocês lá no ACDC
+	Plaza!
 	"""
 	keyWait
 	end
@@ -422,7 +425,7 @@ script 26 mmbn3 {
 	mugshotShow
 		mugshot = Mayl
 	msgOpen
-	"See ya!"
+	"Té já!"
 	keyWait
 	end
 }
@@ -430,7 +433,7 @@ script 27 mmbn3 {
 	mugshotShow
 		mugshot = Yai
 	msgOpen
-	"I can't lose!"
+	"Eu não POSSO perder!"
 	keyWait
 	end
 }
@@ -439,8 +442,7 @@ script 28 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's really give
-	it our all,Lan!
+	Vamos com tudo, Lan!
 	"""
 	keyWait
 	clearMsg
@@ -452,8 +454,9 @@ script 29 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	But of course!
-	Let's go,MegaMan!
+	Nem precisava falar!
+	A gente vai detonar,
+	MegaMan!
 	"""
 	keyWait
 	end
@@ -463,7 +466,7 @@ script 30 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Everyone's here,
+	Tá todo mundo aqui,
 	Lan!
 	"""
 	keyWait

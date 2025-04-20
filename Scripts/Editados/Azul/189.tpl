@@ -5,23 +5,23 @@ script 0 mmbn3 {
 		mugshot = MsMari
 	msgOpen
 	"""
-	Write a report about
-	the Virus Lab and
-	save it on a disk.
+	Façam um relatório sobre
+	o Laboratório de Vírus e
+	salvem ele em um CD.
 	"""
 	keyWait
 	clearMsg
 	"""
-	That's your homework
-	assignment for class
-	tomorrow.
+	Essa será a lição de
+	casa de vocês, para
+	entrega amanhã.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Don't forget! I'm
-	talking to you,Dex
-	and Lan! Got it?
+	Não vão esquecer!
+	E sim, estou falando com
+	vocês, Dex e Lan!
 	"""
 	keyWait
 	clearMsg
@@ -32,7 +32,7 @@ script 1 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Yikes!"
+	"Eita!"
 	keyWait
 	clearMsg
 	jump
@@ -42,7 +42,7 @@ script 2 mmbn3 {
 	mugshotShow
 		mugshot = Dex
 	msgOpen
-	"Urk!"
+	"Ui!"
 	keyWait
 	clearMsg
 	jump
@@ -62,28 +62,27 @@ script 4 mmbn3 {
 		mugshot = MsMari
 	msgOpen
 	"""
-	That goes for the
-	rest of the class,
-	too!
+	O mesmo também vale
+	para o resto da turma!
 	"""
 	keyWait
 	clearMsg
-	"If you forget"
+	"Se esquecerem"
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
 	"""
 	
-	you'll be cleaning
-	toilets next week!
+	vão limpar as privadas
+	semana que vem!
 	"""
 	keyWait
 	clearMsg
@@ -93,7 +92,7 @@ script 4 mmbn3 {
 script 5 mmbn3 {
 	mugshotHide
 	msgOpen
-	"Yes,ma'am…"
+	"Sim, professora..."
 	keyWait
 	clearMsg
 	jump
@@ -104,8 +103,8 @@ script 6 mmbn3 {
 		mugshot = MsMari
 	msgOpen
 	"""
-	That's it for today.
-	See you tomorrow!
+	Bom, por hoje, é só.
+	Até amanhã, crianças!
 	"""
 	keyWait
 	end

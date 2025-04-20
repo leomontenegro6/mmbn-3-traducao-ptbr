@@ -4,7 +4,7 @@ script 0 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Now,tell me about S!"
+	"Agora, me fala do S!"
 	keyWait
 	clearMsg
 	jump
@@ -15,30 +15,30 @@ script 1 mmbn3 {
 		mugshot = GutsMan
 	msgOpen
 	"""
-	Oh,all right…
-	S is the head honcho
-	of all the ranked
+	Ah, sim... S reina sobre
+	todos os jogadores
+	ranqueados.
 	"""
 	keyWait
 	clearMsg
 	"""
-	players. He's #1!
-	No one has ever
-	challenged S to
+	O ser #1! Ninguém jamais
+	lutou com S e viveu
+	para contar a história.
 	"""
 	keyWait
 	clearMsg
 	"""
-	battle and lived.
-	Even uttering S's
-	real name is taboo.
+	Até proferir o
+	verdadeiro nome de S
+	é tabu.
 	"""
 	keyWait
 	clearMsg
 	"""
-	That's why everyone
-	simply refers to him
-	as "S".
+	É por isso que todos se
+	referem a S apenas
+	pela letra.
 	"""
 	keyWait
 	clearMsg
@@ -49,7 +49,7 @@ script 2 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"So,where is he now?"
+	"E onde S tá agora?"
 	keyWait
 	clearMsg
 	jump
@@ -60,16 +60,15 @@ script 3 mmbn3 {
 		mugshot = GutsMan
 	msgOpen
 	"""
-	I don't know,but the
-	Navi ranked #2
-	should.
+	Eu não sei.
+	Mas o Navi de ranque
+	#2 deve saber.
 	"""
 	keyWait
 	clearMsg
 	"""
-	The hint to find #2
-	is,
-	"Place of battle".
+	A pista para achá-lo é:
+	"Local de batalha".
 	"""
 	keyWait
 	clearMsg
@@ -81,15 +80,14 @@ script 4 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	"Place of battle"…
+	"Local de batalha"...
 	OK!
 	"""
 	keyWait
 	clearMsg
 	"""
-	We're just one Navi
-	away from reaching
-	S!
+	Só falta um Navi pra
+	gente chegar a S!
 	"""
 	keyWait
 	clearMsg
@@ -101,9 +99,9 @@ script 5 mmbn3 {
 		mugshot = GutsMan
 	msgOpen
 	"""
-	That's all the info
-	I have. I'll be
-	going now. Bye!
+	Essa é toda a informa-
+	ção que eu tenho. Vou
+	indo, agora. Falou!
 	"""
 	keyWait
 	end
@@ -113,8 +111,8 @@ script 6 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Wait! Aren't you
-	forgetting the
+	Calma aí! Não tá
+	esquecendo o
 	"
 	"""
 	printItem
@@ -129,9 +127,9 @@ script 7 mmbn3 {
 		mugshot = GutsMan
 	msgOpen
 	"""
-	Hmph!
-	You don't miss
-	a thing,do you!?
+	Hmpf!
+	Cê não deixa passar
+	nada, hein?!
 	"""
 	keyWait
 	clearMsg
@@ -147,7 +145,7 @@ script 8 mmbn3 {
 		item = 31
 		amount = 1
 	"""
-	MegaMan got:
+	MegaMan adquiriu:
 	"
 	"""
 	printItem
@@ -166,8 +164,8 @@ script 9 mmbn3 {
 		mugshot = GutsMan
 	msgOpen
 	"""
-	I don't ever want to
-	see your face again!
+	Nunca mais eu quero
+	ver a sua cara!
 	"""
 	keyWait
 	end
@@ -177,15 +175,15 @@ script 10 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	The hint to find #2
-	was,"Place of
-	battle",right?
+	A pista pra achar o #2
+	era "Local de batalha",
+	né?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Come on,MegaMan!
-	Let's go!!
+	Vamos lá, MegaMan!
+	Seguindo com a busca!!
 	"""
 	keyWait
 	end

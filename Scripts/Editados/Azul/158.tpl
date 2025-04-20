@@ -5,25 +5,24 @@ script 0 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	Such a big cyber
-	area in such a small
-	flat thing!!
+	Uma área cibernética
+	tão grande, dentro de
+	algo tão achatado!!
 	"""
 	keyWait
 	clearMsg
-	"Surprised,aren't ya?"
+	"Surpreso?"
 	keyWait
 	clearMsg
 	"""
-	We programs are here
-	to find shoplifters.
+	Nós, programas, estamos
+	aqui pra flagrar ladrões.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Haven't actually
-	found one yet,
-	though…
+	Mas, na verdade, nunca
+	achamos um...
 	"""
 	keyWait
 	end
@@ -32,13 +31,13 @@ script 1 mmbn3 {
 	mugshotShow
 		mugshot = MrProg
 	msgOpen
-	"Welcome,huh!"
+	"Bem-vindo, é!"
 	keyWait
 	clearMsg
 	"""
-	What d'ya think,huh?
-	A pretty good Higsby
-	impression,huh!?
+	E aí, o que achou?
+	Boa, a minha imitação
+	do Higsby, é?!
 	"""
 	keyWait
 	clearMsg
@@ -52,15 +51,15 @@ script 1 mmbn3 {
 	waitSkip
 		frames = 30
 	"""
-	What?
-	It's not!?
+	 Hã?
+	Não é?!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Oops! I must have
-	looked pretty dumb,
-	then…
+	Ops! Eu devo ter
+	pagado o maior mico
+	agora, então...
 	"""
 	keyWait
 	end
@@ -68,8 +67,8 @@ script 1 mmbn3 {
 script 230 mmbn3 {
 	msgOpen
 	"""
-	MegaMan accessed the
-	mystery data.
+	MegaMan acessou os
+	dados misteriosos.
 	"""
 	wait
 		frames = 10
@@ -90,8 +89,8 @@ script 230 mmbn3 {
 		item = 96
 		amount = 1
 	"""
-	MegaMan got a
-	PowerUp:
+	MegaMan adquiriu
+	um PowerUp:
 	"
 	"""
 	printItem

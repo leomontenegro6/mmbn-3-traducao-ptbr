@@ -5,8 +5,8 @@ script 0 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Thanks for waiting!
-	Let's go inside!
+	Valeu por esperarem!
+	Bora entrar!
 	"""
 	keyWait
 	flagSet
@@ -18,9 +18,9 @@ script 1 mmbn3 {
 		mugshot = Dex
 	msgOpen
 	"""
-	The front gate is
-	locked! Looks like
-	we can't go in!
+	O portão tá trancado!
+	Poxa, parece que não
+	vai dar pra entrar!
 	"""
 	keyWait
 	clearMsg
@@ -32,8 +32,8 @@ script 2 mmbn3 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	Yeah,we'll have to
-	unlock it somehow…
+	É, vamos ter que achar
+	um jeito de destrancar...
 	"""
 	keyWait
 	clearMsg
@@ -45,9 +45,8 @@ script 3 mmbn3 {
 		mugshot = Yai
 	msgOpen
 	"""
-	The lock on the gate
-	is connected to the
-	Internet.
+	A tranca desse portão
+	está conectada à Rede.
 	"""
 	keyWait
 	clearMsg
@@ -59,9 +58,9 @@ script 4 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	So that means we can
-	jack in to the Net
-	to unlock it!
+	O que quer dizer que
+	podemos nos conectar
+	nela e destrancar!
 	"""
 	keyWait
 	clearMsg
@@ -73,15 +72,15 @@ script 5 mmbn3 {
 		mugshot = Yai
 	msgOpen
 	"""
-	Don't make it sound
-	so easy!
+	Claro que não é tão fácil
+	assim, né?
 	"""
 	keyWait
 	clearMsg
 	"""
-	I hear the lock's
-	protected by a super
-	scary guard Navi!
+	Ouvi dizer que a tranca
+	é protegida por um
+	Navizão guarda medonho!
 	"""
 	keyWait
 	clearMsg
@@ -93,9 +92,9 @@ script 6 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Aw,you guys are
-	such wimps! I'll
-	go unlock it.
+	Ah, como vocês são
+	medrosos! Deixa que eu
+	vou lá destrancar.
 	"""
 	keyWait
 	clearMsg
@@ -106,7 +105,7 @@ script 7 mmbn3 {
 	mugshotShow
 		mugshot = Mayl
 	msgOpen
-	"Are you sure,Lan?"
+	"Tem certeza, Lan?"
 	keyWait
 	clearMsg
 	jump
@@ -117,9 +116,9 @@ script 8 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	If I'm careful,it'll
-	be a breeze! I'd
-	better get started.
+	É só eu tomar cuidado
+	que vai ser molezinha!
+	Tá, melhor eu ir logo.
 	"""
 	keyWait
 	end
@@ -128,7 +127,7 @@ script 9 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Everyone's here!"
+	"Tá todo mundo aqui!"
 	keyWait
 	end
 }

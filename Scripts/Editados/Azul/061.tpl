@@ -5,33 +5,32 @@ script 0 mmbn3 {
 		mugshot = Higsby
 	msgOpen
 	"""
-	You want me to
-	review your job with
-	yah,huh?
+	Quer que eu repasse o
+	trabalho pra você, é?
 	"""
 	keyWait
 	clearMsg
 	"""
-	A business associate
-	is waiting at ACDC
-	Station,huh.
+	Um sócio meu está
+	esperando na Estação
+	ACDC, é.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I want yah to get a
-	"
+	Quero que me traga
+	o "
 	"""
 	printItem
 		buffer = 0
 		item = 12
 	"""
-	" from
-	him,huh.
+	" que está
+	com ele, é.
 	"""
 	keyWait
 	clearMsg
-	"Thanks,huh!"
+	"Já agradeço, é!"
 	keyWait
 	end
 }
@@ -77,53 +76,52 @@ script 3 mmbn3 {
 	flagSet
 		flag = 1286
 	"""
-	Oh! Good to see
-	you back,huh!
+	Ah! Que bom que você
+	voltou, é!
 	"""
 	keyWait
 	clearMsg
-	"This \""
+	"Este \""
 	printItem
 		buffer = 0
 		item = 12
 	"""
-	" lets
-	me order all kinds
-	of chips,huh!!
+	" vai me
+	permitir encomendar
+	todo tipo de chip, é!!
 	"""
 	keyWait
 	clearMsg
 	"""
-	OK,let's get to the
-	next job,huh!
+	Bom, agora, vamos ao
+	próximo trabalho, é!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I have a bad buyer
-	who won't pay for
-	his chips,huh!
+	Eu tenho um comprador
+	reprovável que não quer
+	pagar por seus chips, é!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I heard that he's
-	in ACDC area 1 right
-	now,huh.
+	Ouvi dizer que ele está
+	na Área ACDC 1, é.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Find that Navi and
-	bring me the 1000
-	Zenny he owes me!
+	Encontre o Navi e me
+	traga os 1000 Zennys
+	que ele me deve!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Please do anything
-	you need to get
-	the money,huh!
+	Por favor, faça o que
+	for preciso para
+	conseguir o dinheiro, é!
 	"""
 	keyWait
 	end
@@ -142,27 +140,26 @@ script 4 mmbn3 {
 		mugshot = Higsby
 	msgOpen
 	"""
-	You want me to
-	review your job with
-	you,huh?
+	Quer que eu repasse
+	o trabalho com você, é?
 	"""
 	keyWait
 	clearMsg
 	"""
-	There's a bad buyer
-	who won't pay his
-	bill in ACDC area 1.
+	Na área ACDC 1, está um
+	mau comprador que se
+	recusa a pagar a conta.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I want you to find
-	him and get the 1000
-	Zennys he owes me!!
+	Quero que encontre ele
+	e me traga os 1000
+	Zennys que ele me deve!!
 	"""
 	keyWait
 	clearMsg
-	"Good luck,huh!"
+	"Boa sorte, é!"
 	keyWait
 	end
 }
@@ -182,36 +179,35 @@ script 5 mmbn3 {
 	flagSet
 		flag = 1287
 	"""
-	Well,let's see…
-	Yep,1000 Zennys,huh!
-	All right!
+	Bom, vejamos...
+	É, 1000 Zennys, é!
+	Certinho!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Lan,you'd make a
-	pretty good chip
-	dealer,huh!
+	Lan, você daria um ótimo
+	vendedor de chips, é!
 	"""
 	keyWait
 	clearMsg
 	"""
-	OK,on to the next
-	job,huh?
+	Bom, vamos ao próximo
+	trabalho, né, é?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Take this chip to
-	a red Navi in SciLab
-	area 2,huh?
+	Leve este chip para uma
+	Navi vermelha na Área
+	SciLab 2, é.
 	"""
 	keyWait
 	clearMsg
 	"""
-	She's not the nicest
-	Navi,but she is a
-	client,so be nice!
+	Ela não é das mais boa-
+	zinhas, mas é uma cliente,
+	então, seja gentil!
 	"""
 	keyWait
 	clearMsg
@@ -223,42 +219,40 @@ script 6 mmbn3 {
 		mugshot = Higsby
 	msgOpen
 	"""
-	Lan,you still don't
-	have all the money,
-	huh! What's wrong!?
+	Lan, você não está com
+	todo o dinheiro ainda, é?
+	O que houve?!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I need to get all of
-	it,huh!!
+	Eu preciso dele todo, é!!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Or,did you just want
-	to review what the
-	job is,huh?
+	Ou você só queria
+	repassar o trabalho?
 	"""
 	keyWait
 	clearMsg
 	"""
-	There's a bad buyer
-	who won't pay his
-	bill in ACDC area 1.
+	Tem um mau comprador
+	que não quer pagar a
+	conta na Área ACDC 1, é.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I want you to find
-	him and get the 1000
-	Zennys he owes me!!
+	Quero que encontre ele
+	e arranque dele os 1000
+	Zennys que ele me deve!!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Please get it
-	quick,huh?
+	Por favor, não demore,
+	é.
 	"""
 	keyWait
 	end
@@ -268,13 +262,13 @@ script 7 mmbn3 {
 		mugshot = Higsby
 	msgOpen
 	"""
-	You want to review
-	the job,huh?
-	Listen well,huh!
+	Você quer repassar
+	o trabalho, é?
+	Escute bem, é!
 	"""
 	keyWait
 	clearMsg
-	"Take this \""
+	"Leve este \""
 	printChip
 		buffer = 0
 		chip = 58
@@ -284,15 +278,15 @@ script 7 mmbn3 {
 		code = C
 	"""
 	"
-	to the red Navi in
-	SciLab area 2.
+	à Navi vermelha na
+	área SciLab 2.
 	"""
 	keyWait
 	clearMsg
 	"""
-	She's not the nicest
-	Navi,but she is a
-	client,so be nice!
+	Ela não é lá das Navis
+	mais delicadas, então,
+	educação!
 	"""
 	keyWait
 	end
@@ -308,7 +302,7 @@ script 8 mmbn3 {
 		code = C
 		amount = 1
 	"""
-	Lan got a chip for
+	Lan adquiriu o chip
 	"
 	"""
 	printChip
@@ -335,14 +329,14 @@ script 10 mmbn3 {
 		mugshot = Higsby
 	msgOpen
 	"""
-	Did yah bring me
-	back the money,huh?
+	Você me trouxe o
+	dinheiro, é?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Lan,that's your own
-	money,isn't it,huh?
+	Lan, esse dinheiro não
+	é o seu dinheiro, é?
 	"""
 	keyWait
 	clearMsg
@@ -353,7 +347,7 @@ script 11 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Yeah…well…"
+	"Bom... er..."
 	keyWait
 	clearMsg
 	jump
@@ -363,45 +357,44 @@ script 12 mmbn3 {
 	mugshotShow
 		mugshot = Higsby
 	msgOpen
-	"I thought so,huh."
+	"Imaginei, é."
 	keyWait
 	clearMsg
 	"""
-	Look. He'll keep
-	doing this if I
-	don't make him pay!
-	"""
-	keyWait
-	clearMsg
-	"""
-	It's vital that I
-	don't set a
-	precedent,huh!
+	Olha. Ele vai continuar
+	aprontando essas se
+	não fizermos ele pagar!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'll remind you
-	what you have to
-	do,huh!!
+	É importantíssimo não
+	criarmos um precedente,
+	é!
 	"""
 	keyWait
 	clearMsg
 	"""
-	There's a bad buyer
-	who won't pay his
-	bill in ACDC area 1.
+	Vou te lembrar o que
+	você precisa fazer, é!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I want you to find
-	him and get the 1000
-	Zennys he owes me!!
+	Tem um mau comprador
+	que não quer pagar a
+	conta na Área ACDC 1.
 	"""
 	keyWait
 	clearMsg
-	"Good luck,huh!"
+	"""
+	Quero que encontre ele
+	e arranque dele os 1000
+	Zennys que ele me deve!
+	"""
+	keyWait
+	clearMsg
+	"Boa sorte, é!"
 	keyWait
 	end
 }
@@ -409,7 +402,7 @@ script 13 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Lan! You got mail!!"
+	"Lan! Chegou e-mail!"
 	keyWait
 	end
 }
@@ -430,36 +423,34 @@ script 17 mmbn3 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	Lan,have you tried
-	the Chip Trader?
+	Ei, Lan, já experimentou
+	o Troca-Chips?
 	"""
 	keyWait
 	clearMsg
 	"""
-	When you put some
-	number of chips in,
-	you get a new one.
+	Você insere um certo
+	número de chips nele, e
+	ganha um novo em troca.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Sometimes,you can
-	even get a rare
-	chip!
+	Às vezes, pode até
+	sair um chip raro!
 	"""
 	keyWait
 	clearMsg
 	"""
-	But when you use the
-	Chip Trader,your
-	game will be saved,
+	Mas, sempre que você
+	usa o Troca-Chips, o
+	seu jogo é salvo,
 	"""
 	keyWait
 	clearMsg
 	"""
-	so be careful not to
-	put in any chips
-	that you need!
+	então, cuidado pra não
+	inserir chips importantes!
 	"""
 	keyWait
 	end
@@ -469,14 +460,14 @@ script 20 mmbn3 {
 		mugshot = Higsby
 	msgOpen
 	"""
-	My cold is much
-	better now,huh.
+	A minha gripe já
+	melhorou bastante, é.
 	"""
 	keyWait
 	clearMsg
 	mugshotAnimate
 		animation = 0
-	"Sniffle…"
+	"Sniff..."
 	keyWait
 	end
 }
@@ -490,23 +481,22 @@ script 25 mmbn3 {
 		mugshot = CapBoy
 	msgOpen
 	"""
-	See that Chip Trader
-	that looks like
-	NumberMan?
+	Tá vendo este
+	Troca-Chips que parece
+	com o NumberMan?
 	"""
 	keyWait
 	clearMsg
 	"""
-	That's the Number
-	Trader,and it's only
-	found in this store!
+	Ele é o Troca-Números,
+	e só tem nesta loja!
 	"""
 	keyWait
 	clearMsg
 	"""
-	You input an 8-digit
-	number,but I don't
-	know any…
+	Você insere um número
+	de oito dígitos nele. Mas
+	não eu sei nenhum...
 	"""
 	keyWait
 	end
@@ -515,27 +505,27 @@ script 26 mmbn3 {
 	mugshotShow
 		mugshot = CapBoy
 	msgOpen
-	"Hey,Lan!"
+	"Fala, Lan!"
 	keyWait
 	clearMsg
 	"""
-	I found out where to
-	find numbers for the
-	number trader!
-	"""
-	keyWait
-	clearMsg
-	"""
-	They're in the wafer
-	chocolates sold at
-	Yoka Station!
+	Descobri onde achar
+	números pro
+	Troca-Números!
 	"""
 	keyWait
 	clearMsg
 	"""
-	If you put one of
-	those numbers in,
-	you win a prize!
+	Tem um lá nos wafers de
+	chocolate vendidos na
+	Estação Yoka!
+	"""
+	keyWait
+	clearMsg
+	"""
+	Se inserir um número
+	nele, você leva um
+	prêmio!
 	"""
 	keyWait
 	end
@@ -548,7 +538,7 @@ script 180 mmbn3 {
 	mugshotShow
 		mugshot = Higsby
 	msgOpen
-	"Welcome,huh!"
+	"Bem-vindo, é!"
 	keyWait
 	jump
 		target = 184
@@ -564,29 +554,27 @@ script 181 mmbn3 {
 		mugshot = Higsby
 	msgOpen
 	"""
-	I've started a chip-
-	ordering system at
-	this store,huh!
+	Eu instaurei um sistema
+	de encomenda de chips
+	na loja, é!
 	"""
 	keyWait
 	clearMsg
 	"""
-	If you tell me the
-	name of a chip you
-	want…
+	É você me dar o nome
+	de um chip que quer...
 	"""
 	keyWait
 	clearMsg
 	"""
-	I can order it
-	for you from my
-	supplier,huh!
+	que eu posso pedi-lo
+	pro meu fornecedor, é!
 	"""
 	keyWait
 	clearMsg
 	"""
-	What did you want
-	to buy,huh?
+	O que você gostaria
+	de comprar, hein, é?
 	"""
 	keyWait
 	clearMsg
@@ -597,7 +585,7 @@ script 181 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Normal stock\n"
+	"Acervo normal\n"
 	option
 		left = 1
 		right = 1
@@ -605,7 +593,7 @@ script 181 mmbn3 {
 		down = 2
 	space
 		count = 2
-	"Chip order\n"
+	"Encomenda\n"
 	option
 		left = 2
 		right = 2
@@ -613,7 +601,7 @@ script 181 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Cancel"
+	"Sair"
 	select
 		default = 0
 		BSeparate = false
@@ -631,9 +619,9 @@ script 182 mmbn3 {
 		mugshot = Higsby
 	msgOpen
 	"""
-	Welcome!
-	What did you want
-	to buy,huh?
+	Bem-vindo! O que
+	você gostaria de
+	comprar, hein, é?
 	"""
 	keyWait
 	clearMsg
@@ -644,7 +632,7 @@ script 182 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Normal stock\n"
+	"Acervo normal\n"
 	option
 		left = 1
 		right = 1
@@ -652,7 +640,7 @@ script 182 mmbn3 {
 		down = 2
 	space
 		count = 2
-	"Chip order\n"
+	"Encomenda\n"
 	option
 		left = 2
 		right = 2
@@ -660,7 +648,7 @@ script 182 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Cancel"
+	"Sair"
 	select
 		default = 0
 		BSeparate = false
@@ -678,8 +666,8 @@ script 183 mmbn3 {
 		mugshot = Higsby
 	msgOpen
 	"""
-	Sorry,I'm out of
-	stock,huh…
+	Desculpe, estou
+	esgotado, é...
 	"""
 	keyWait
 	end
@@ -700,16 +688,16 @@ script 186 mmbn3 {
 	mugshotShow
 		mugshot = Higsby
 	msgOpen
-	"Come again,huh!"
+	"Volte sempre, é!"
 	keyWait
 	end
 }
 script 220 mmbn3 {
 	msgOpen
 	"""
-	Higsby keeps the
-	cash register
-	tightly locked
+	O Higsby mantém a
+	caixa registradora bem
+	trancada.
 	"""
 	keyWait
 	end
@@ -717,29 +705,29 @@ script 220 mmbn3 {
 script 221 mmbn3 {
 	msgOpen
 	"""
-	A huge NumberMan
-	display
+	Um enorme recorte de
+	papelão do NumberMan.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Actually,it's
-	also an anti-theft
-	device
+	Na verdade, também
+	é um dispositivo
+	anti-roubos.
 	"""
 	keyWait
 	clearMsg
 	"""
-	If you try to steal
-	a chip,a very noisy
-	alarm goes off
+	Se alguém tenta roubar
+	um chip, ele dispara um
+	alarme bem alto.
 	"""
 	keyWait
 	clearMsg
 	"""
-	It's fully
-	customizable,and you
-	can jack in to it
+	É totalmente
+	customizável, e você
+	pode se conectar nele.
 	"""
 	keyWait
 	end
@@ -747,9 +735,9 @@ script 221 mmbn3 {
 script 222 mmbn3 {
 	msgOpen
 	"""
-	The store's finest
-	BattleChips are
-	on display
+	Os melhores chips da
+	loja estão expostos
+	na vitrine.
 	"""
 	keyWait
 	end
@@ -761,9 +749,9 @@ script 223 mmbn3 {
 		jumpIfFalse = continue
 	msgOpen
 	"""
-	A poster of very
-	cool looking hero
-	characters
+	É o pôster de um
+	personagem herói de
+	visual maneiro!
 	"""
 	keyWait
 	end
@@ -771,16 +759,15 @@ script 223 mmbn3 {
 script 224 mmbn3 {
 	msgOpen
 	"""
-	You have no idea
-	what's behind this
-	locked door
+	Você nem faz ideia do
+	que tem por trás dessa
+	porta trancada.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Maybe a vast
-	collection of rare
-	chips…?
+	Talvez uma enorme
+	coleção de chips raros...?
 	"""
 	keyWait
 	end
@@ -788,15 +775,16 @@ script 224 mmbn3 {
 script 225 mmbn3 {
 	msgOpen
 	"""
-	A large number of
-	chips are arranged
-	by type
+	Um número imenso de
+	chips, organizados por
+	tipo.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Don't touch them,or
-	Higsby will get mad
+	Não ouse tocar neles,
+	ou o Higsby vai ficar
+	furioso.
 	"""
 	keyWait
 	end
@@ -809,16 +797,15 @@ script 226 mmbn3 {
 		jumpIfOutOfRange = continue
 	msgOpen
 	"""
-	The best chips in
-	the store are
-	displayed here
+	Os melhores chips da loja
+	ficam expostos aqui.
 	"""
 	keyWait
 	clearMsg
 	"""
-	You can tell how
-	proud Higsby is of
-	each and every one
+	Dá pra ver quanto
+	orgulho o Higsby tem
+	de cada um deles.
 	"""
 	keyWait
 	end
@@ -826,15 +813,13 @@ script 226 mmbn3 {
 script 227 mmbn3 {
 	msgOpen
 	"""
-	A picture of
-	SharkMan
+	Um pôster do SharkMan.
 	"""
 	keyWait
 	clearMsg
 	"""
-	It seems to almost
-	be about to leap off
-	the paper…
+	Parece até que está
+	prestes a sair do papel...
 	"""
 	keyWait
 	end
@@ -844,8 +829,8 @@ script 228 mmbn3 {
 		mugshot = NumberMan
 	msgOpen
 	"""
-	Enter a number into
-	the Number Trader?
+	Digitar um número no
+	Troca-Números?
 	
 	"""
 	option
@@ -855,7 +840,7 @@ script 228 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"   Sim "
 	option
 		left = 0
 		right = 0
@@ -863,7 +848,7 @@ script 228 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No"
+	"          Não"
 	select
 		default = 0
 		BSeparate = false
@@ -880,7 +865,7 @@ script 229 mmbn3 {
 	mugshotShow
 		mugshot = NumberMan
 	msgOpenQuick
-	"Please come \nback again!"
+	"Volte sempre!"
 	keyWait
 	end
 }
@@ -888,7 +873,7 @@ script 230 mmbn3 {
 	mugshotShow
 		mugshot = NumberMan
 	msgOpenQuick
-	"Enter your number:\n"
+	"Insira número:\n"
 	option
 		left = 8
 		right = 1
@@ -986,7 +971,7 @@ script 230 mmbn3 {
 		count = 1
 	"""
 	[bracket1]OK[bracket2]
-	(adjust w/ctrl pad)
+	(Ajuste com direcionais)
 	"""
 	menuSelectNumberTrader
 	waitHold
@@ -996,14 +981,14 @@ script 231 mmbn3 {
 		mugshot = NumberMan
 	msgOpenQuick
 	"""
-	Processing number!
-	…beep beep beep…
+	Processando número!
+	... bip bip bip...
 	"""
 	keyWait
 	clearMsg
 	"""
-	…Sorry,not a winner!
-	Enter another?
+	... Desculpe, nada aqui!
+	Inserir outro?
 	
 	"""
 	option
@@ -1013,7 +998,7 @@ script 231 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"   Sim "
 	option
 		left = 0
 		right = 0
@@ -1021,7 +1006,7 @@ script 231 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No"
+	"          Não"
 	select
 		default = 0
 		BSeparate = false
@@ -1039,15 +1024,15 @@ script 232 mmbn3 {
 		mugshot = NumberMan
 	msgOpenQuick
 	"""
-	Processing number!
-	…beep beep beep…
+	Processando número!
+	... bip bip bip...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Processed! Winning
-	number detected!
-	Take your prize!
+	Processado! Número
+	premiado detectado!
+	Entregando prêmio...!
 	"""
 	keyWait
 	clearMsg
@@ -1055,7 +1040,7 @@ script 232 mmbn3 {
 	soundDisableTextSFX
 	soundPlay
 		track = 233
-	"Clank,clank…Bang!"
+	"Caclanc, clanc... bram!"
 	soundEnableTextSFX
 	keyWait
 	waitHold
@@ -1072,7 +1057,7 @@ script 233 mmbn3 {
 		left = 11
 		top = 1
 	"""
-	Lan got a chip for
+	Lan adquiriu o chip
 	"
 	"""
 	printChip
@@ -1097,7 +1082,7 @@ script 234 mmbn3 {
 	soundPlay
 		track = 133
 	"""
-	Lan got:
+	Lan adquiriu:
 	"
 	"""
 	printItem
@@ -1116,8 +1101,7 @@ script 235 mmbn3 {
 	soundPlay
 		track = 133
 	"""
-	Lan got a
-	SubChip for
+	Lan adquiriu o SubChip
 	"
 	"""
 	printItem
@@ -1136,8 +1120,7 @@ script 236 mmbn3 {
 	soundPlay
 		track = 133
 	"""
-	Lan got a
-	SubChip for
+	Lan adquiriu o SubChip
 	"
 	"""
 	printItem
@@ -1152,16 +1135,16 @@ script 236 mmbn3 {
 		mugshot = NumberMan
 	msgOpenQuick
 	"""
-	…But you can't hold
-	any more chips at
-	this time.
+	... Mas você já está
+	carregando o número
+	máximo de chips.
 	"""
 	keyWait
 	clearMsg
 	"""
-	We'll just pretend
-	that you didn't use
-	that number yet!
+	Bom, a gente vai FINGIR
+	que você não inseriu o
+	número!
 	"""
 	keyWait
 	end
@@ -1173,8 +1156,8 @@ script 237 mmbn3 {
 	soundPlay
 		track = 133
 	"""
-	Lan got a NaviCust
-	Program
+	Lan adquiriu o
+	programa do CustNavi:
 	"
 	"""
 	printNaviCustProgram
@@ -1191,19 +1174,18 @@ script 238 mmbn3 {
 		mugshot = NumberMan
 	msgOpenQuick
 	"""
-	Processing number!
-	…beep beep beep…
+	Processando número!
+	... bip bip bip...
 	"""
 	keyWait
 	clearMsg
 	"""
-	This number appears
-	to have already been
-	used…
+	Este número parece já
+	ter sido usado...
 	"""
 	keyWait
 	clearMsg
-	"Enter another?\n"
+	"Inserir outro?\n"
 	option
 		left = 1
 		right = 1
@@ -1211,7 +1193,7 @@ script 238 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"   Sim "
 	option
 		left = 0
 		right = 0
@@ -1219,7 +1201,7 @@ script 238 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No"
+	"          Não"
 	select
 		default = 0
 		BSeparate = false
@@ -1239,7 +1221,7 @@ script 239 mmbn3 {
 	soundPlay
 		track = 133
 	"""
-	Lan got:
+	Lan adquiriu:
 	"
 	"""
 	printItem
@@ -1249,9 +1231,9 @@ script 239 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	You can now rotate
-	red NaviCust
-	programs with L・R!!
+	Agora, pode rotacionar
+	programas vermelhos na
+	CustNavi com L e R!
 	"""
 	playerFinish
 	playerReset
@@ -1265,7 +1247,7 @@ script 240 mmbn3 {
 	soundPlay
 		track = 133
 	"""
-	Lan got:
+	Lan adquiriu:
 	"
 	"""
 	printItem
@@ -1275,9 +1257,9 @@ script 240 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	You can now rotate
-	blue NaviCust
-	programs with L・R!!
+	Agora, pode rotacionar
+	programas azuis na
+	CustNavi com L e R!
 	"""
 	playerFinish
 	playerReset
@@ -1291,7 +1273,7 @@ script 241 mmbn3 {
 	soundPlay
 		track = 133
 	"""
-	Lan got:
+	Lan adquiriu:
 	"
 	"""
 	printItem
@@ -1301,9 +1283,9 @@ script 241 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	You can now rotate
-	green NaviCust
-	programs with L・R!!
+	Agora, pode rotacionar
+	programas verdes na
+	CustNavi com L e R!
 	"""
 	playerFinish
 	playerReset
@@ -1317,7 +1299,7 @@ script 242 mmbn3 {
 	soundPlay
 		track = 133
 	"""
-	Lan got:
+	Lan adquiriu:
 	"
 	"""
 	printItem
@@ -1327,9 +1309,9 @@ script 242 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	You can now rotate
-	white NaviCust
-	programs with L・R!!
+	Agora, pode rotacionar
+	programas brancos na
+	CustNavi com L e R!
 	"""
 	playerFinish
 	playerReset

@@ -5,37 +5,37 @@ script 0 mmbn3 {
 		mugshot = BubbleMan
 	msgOpen
 	"""
-	Blu-blub,Blublublub!
-	Come forth bubbles,
-	Blub blub blub!
+	Glu-glub, Gluglugluglub!
+	Apareçam, minhas bolhas,
+	glub glub glub!
 	"""
 	keyWait
 	clearMsg
 	"""
-	People would be so
-	shocked if they
-	knew I planned
+	Todo mundo ficaria cho-
+	cado se soubesse que
+	eu planejei tudo, glubub!
 	"""
 	keyWait
 	clearMsg
 	"""
-	all this,blu-blub!
-	Lord Wily would
-	reward me blub-time!
+	O Lorde Wily me daria
+	uma recompensa
+	su-glub-lime!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Everyone makes fun
-	of me because I
-	don't have an
+	Todos zombam de mim só
+	porque eu não tenho
+	operador.
 	"""
 	keyWait
 	clearMsg
 	"""
-	operator. I'll blub
-	all those filthy
-	Navis! Blublublub!
+	Bom, eu vou "glubverizar"
+	todos aqueles Navis
+	sujos! Glubglubglub!
 	"""
 	keyWait
 	clearMsg
@@ -48,8 +48,7 @@ script 1 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	You're the WWW
-	Navi?!
+	Você é o Navi da WWW?!
 	"""
 	keyWait
 	clearMsg
@@ -73,16 +72,16 @@ script 3 mmbn3 {
 		mugshot = BubbleMan
 	msgOpen
 	"""
-	What are you doing
-	scaring me like
-	that,blub blub?!
+	Ah, que susto! Não me
+	assusta desse jeito,
+	glub glub!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Don't blub into my
-	business. Bubbly
-	Dance,blublublub!
+	Não se mete, glub!
+	Dança Bolhuda,
+	glubglubglub!
 	"""
 	keyWait
 	clearMsg
@@ -94,15 +93,13 @@ script 4 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	So you're the one
-	who sent out the
-	bubbles!
+	Então, foi você quem
+	criou aquelas bolhas!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Dissolve them right
-	this instant!
+	Desfaça elas, agora!
 	"""
 	keyWait
 	clearMsg
@@ -114,12 +111,12 @@ script 5 mmbn3 {
 		mugshot = BubbleMan
 	msgOpen
 	"""
-	Why would I do
-	that,blub blub?
+	Por que eu faria isso,
+	glub glub?
 	"""
 	keyWait
 	clearMsg
-	"Blub"
+	"Glub"
 	waitSkip
 		frames = 30
 	"."
@@ -130,15 +127,15 @@ script 5 mmbn3 {
 		frames = 30
 	"""
 	.
-	I know you,blub!
-	You're MegaMan!
+	Ei, eu te conheço, glub!
+	Você é o MegaMan!
 	"""
 	keyWait
 	clearMsg
 	"""
-	If I delete you,Lord
-	Wily will really
-	reward me,blub blub!
+	Se eu te deletar, o Lor-
+	de Wily com certeza vai
+	me recompensar, gluub!
 	"""
 	keyWait
 	clearMsg
@@ -149,12 +146,12 @@ script 6 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"He wants to fight?!"
+	"Ele quer lutar?!"
 	keyWait
 	clearMsg
 	"""
-	MegaMan! Are you
-	ready for battle?!
+	MegaMan!
+	Pronto pra uma briga?!
 	"""
 	keyWait
 	clearMsg
@@ -166,15 +163,15 @@ script 7 mmbn3 {
 		mugshot = BubbleMan
 	msgOpen
 	"""
-	Blub! This isn't the
-	proper place to
-	fight.
+	Glub blub! Este lugar aqui
+	não é adequado pra
+	brigar!
 	"""
 	keyWait
 	clearMsg
 	"""
-	It wouldn't do if an
-	Official came.
+	Seria ruim se um Oficial
+	aparecesse.
 	"""
 	waitSkip
 		frames = 30
@@ -185,15 +182,15 @@ script 7 mmbn3 {
 	waitSkip
 		frames = 30
 	"""
-	Come
-	on BubbleMan,think!
+	 Vamos,
+	BubbleMan, pensa!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Blub! Your back's
-	unguarded! Blub him,
-	Bubble Brigade!
+	Glub! Você baixou a
+	glub-guarda! Ataquem ele
+	por trás, Brigada Bolha!
 	"""
 	keyWait
 	clearMsg
@@ -208,13 +205,13 @@ script 8 mmbn3 {
 	msgOpen
 	"""
 	Blublublub!
-	He fell for it!
+	Ele caiu!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Now's my chance!
-	Blub blub blub!
+	Essa é a minha chance!
+	Glub glub glub!
 	"""
 	flagClear
 		flag = 1307
@@ -227,7 +224,7 @@ script 9 mmbn3 {
 	msgOpen
 	flagSet
 		flag = 1308
-	"Ach! I fell for it!"
+	"Agh! Eu caí no blefe!"
 	keyWait
 	clearMsg
 	jump
@@ -237,7 +234,7 @@ script 10 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Go get him,MegaMan!"
+	"Vai atrás dele, MegaMan!"
 	keyWait
 	clearMsg
 	jump
@@ -247,23 +244,23 @@ script 11 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Roger!"
+	"Tá!"
 	waitSkip
 		frames = 30
 	"""
 	
-	But he vanished
-	without…
+	Mas ele sumiu sem
+	deixar...
 	"""
 	keyWait
 	clearMsg
-	"A trail!"
+	"Rastros!"
 	keyWait
 	clearMsg
 	"""
-	It looks like he's
-	dropping bubbles as
-	he goes! I'm on him!
+	Parece que ele tá derra-
+	mando bolhas por onde
+	vai! Tô no encalce dele!
 	"""
 	keyWait
 	end

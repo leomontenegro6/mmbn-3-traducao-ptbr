@@ -5,14 +5,14 @@ script 0 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Are you losers
-	satisfied now?
+	E aí, satisfeitos agora,
+	seus manés?
 	"""
 	keyWait
 	clearMsg
 	"""
-	If you want more,I
-	won't hold back!
+	Se ainda quiserem mais,
+	eu topo!
 	"""
 	keyWait
 	clearMsg
@@ -24,8 +24,8 @@ script 1 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	Nooooo! P-P-Please
-	don't d-delete us!
+	Nãããããoo! P-p-por favor,
+	não d-deleta a gente!
 	Aaaaaaaaahhh!
 	"""
 	keyWait
@@ -36,9 +36,9 @@ script 2 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I can't believe
-	they'd set a trap
-	just to get revenge…
+	Eu não acredito que
+	armaram uma armadilha
+	só pra se vingar...
 	"""
 	keyWait
 	clearMsg
@@ -50,9 +50,9 @@ script 3 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Yeah. They've got as
-	much hate in them as
-	the WWW…
+	É. Eles são tão cheios
+	de ódio quanto o
+	pessoal da WWW...
 	"""
 	keyWait
 	clearMsg
@@ -63,7 +63,10 @@ script 4 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Now what do we do?"
+	"""
+	E agora,
+	o que a gente faz?
+	"""
 	keyWait
 	clearMsg
 	jump
@@ -74,16 +77,16 @@ script 5 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Find S…
-	But we don't have
-	any leads.
+	A gente acha o S...
+	Mas tamos sem nenhuma
+	pista.
 	"""
 	keyWait
 	clearMsg
 	"""
-	If we knew where #9
-	was,we'd at least
-	have a chance…
+	Se, ao menos, a gente
+	soubesse onde o #9 tá,
+	teríamos uma chance...
 	"""
 	keyWait
 	clearMsg
@@ -96,7 +99,7 @@ script 6 mmbn3 {
 	soundDisableTextSFX
 	flagSet
 		flag = 2307
-	"Beep Beep Beep!"
+	"Bip Bip Bip!"
 	keyWait
 	soundEnableTextSFX
 	end
@@ -105,13 +108,13 @@ script 7 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Lan! Another mail!"
+	"Lan! Outro e-mail!"
 	keyWait
 	clearMsg
 	"""
-	Hey,it's from the
-	Navi who was #10!
-	It says,
+	Ah, é do Navi que era
+	o ranque #10!
+	Ele escreveu:
 	"""
 	keyWait
 	clearMsg
@@ -127,15 +130,15 @@ script 8 mmbn3 {
 	mugshotAnimate
 		animation = 0
 	"""
-	"I forgot to tell
-	ya where Rank #9 is.
-	You'll find him…
+	"Esqueci de falar pra
+	vocês onde o Ranque #9
+	tá. Ele estará...
 	"""
 	keyWait
 	clearMsg
 	"""
-	"'where science
-	gives life'."
+	'onde a ciência nutre
+	vida'."
 	"""
 	flagAddMail
 		flag = 4378
@@ -151,14 +154,15 @@ script 9 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	"Where science gives
-	life"…?
+	"Onde a ciência nutre
+	vida"...?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Do you think we can
-	trust this mail?
+	Acha que podemos
+	confiar neste e-mail,
+	Lan?
 	"""
 	keyWait
 	clearMsg
@@ -170,15 +174,14 @@ script 10 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	It doesn't matter.
-	It's the only clue
-	we've got!
+	A gente tem escolha?
+	É a nossa única guia!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Trap or not,let's
-	go find that place!
+	Armadilha ou não, bora
+	lá achar esse lugar!
 	"""
 	keyWait
 	clearMsg
@@ -189,12 +192,12 @@ script 11 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Right!"
+	"É!"
 	keyWait
 	clearMsg
 	"""
-	We're off to "where
-	science gives life"!
+	Vamos lá, para "onde
+	a ciência cria vida"!
 	"""
 	keyWait
 	end

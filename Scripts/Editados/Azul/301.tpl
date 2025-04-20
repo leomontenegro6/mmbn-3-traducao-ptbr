@@ -5,16 +5,16 @@ script 0 mmbn3 {
 		mugshot = Ribitta
 	msgOpen
 	"""
-	The second battle of
-	the semi-finals is
-	growing ever more
+	A segunda luta das
+	semifinais não para de
+	se intensificar!
 	"""
 	keyWait
 	clearMsg
 	"""
-	intense! Neither has
-	the advantage. This
-	is anyone's battle!
+	Nenhum dos lados têm a
+	vantagem. Qualquer um
+	pode sair o vencedor!
 	"""
 	keyWait
 	clearMsg
@@ -26,14 +26,14 @@ script 1 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Chaud's having
-	trouble?
+	O Chaud tá penando na
+	luta?
 	"""
 	keyWait
 	clearMsg
 	"""
-	NetBattler Q's that
-	strong!?
+	Esse NetLutador Q é
+	forte assim?!
 	"""
 	keyWait
 	clearMsg
@@ -45,9 +45,8 @@ script 2 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan! The battle's
-	being displayed on
-	that giant screen!
+	Lan! A batalha tá sendo
+	exibida naquele telão!
 	"""
 	keyWait
 	clearMsg
@@ -59,8 +58,7 @@ script 3 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	You better not lose,
-	Chaud!
+	... Não vai perder, Chaud!
 	"""
 	keyWait
 	end

@@ -5,8 +5,7 @@ script 0 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Huh? Where is
-	everyone?
+	Ué? Cadê todo mundo?
 	"""
 	keyWait
 	clearMsg
@@ -18,8 +17,8 @@ script 1 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I guess we're the
-	first ones here.
+	Acho que fomos os
+	primeiros a chegar.
 	"""
 	keyWait
 	clearMsg
@@ -30,14 +29,14 @@ script 2 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Yeah,I guess so."
+	"É o que parece, né?"
 	keyWait
 	end
 }
 script 3 mmbn3 {
 	mugshotHide
 	msgOpen
-	"Here we are!"
+	"Aqui estamos!"
 	keyWait
 	end
 }
@@ -45,7 +44,7 @@ script 4 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"You're late!"
+	"Atrasaram!"
 	keyWait
 	clearMsg
 	jump
@@ -56,9 +55,9 @@ script 5 mmbn3 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	Wow,it's not like
-	you to be the first
-	one waiting!
+	Nossa, que raro você
+	ser quem já tava
+	esperando!
 	"""
 	keyWait
 	clearMsg
@@ -70,8 +69,8 @@ script 6 mmbn3 {
 		mugshot = Yai
 	msgOpen
 	"""
-	Now we just have to
-	wait for Dex and
+	Agora, só temos que
+	esperar pelo Dex e pelo
 	Chisao.
 	"""
 	keyWait
@@ -83,7 +82,10 @@ script 7 mmbn3 {
 	mugshotShow
 		mugshot = Mayl
 	msgOpen
-	"Hey,did you notice…"
+	"""
+	Ei, vocês perceberam
+	que...
+	"""
 	keyWait
 	clearMsg
 	jump
@@ -94,9 +96,9 @@ script 8 mmbn3 {
 		mugshot = Yai
 	msgOpen
 	"""
-	There's no monkeys!
-	Incredible! Can
-	you believe it??
+	Eles não têm UM macaco!
+	Inacreditável! Eu vim
+	ver o macaco!
 	"""
 	keyWait
 	clearMsg
@@ -108,9 +110,9 @@ script 9 mmbn3 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	Not that! Aren't the
-	animals here a
-	little bit scary?
+	Não isso! Os animais aqui
+	não estão meio
+	medonhos?
 	"""
 	keyWait
 	clearMsg
@@ -122,9 +124,9 @@ script 10 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Now that you mention
-	it,they do seem a
-	bit odd…
+	Agora que você falou,
+	eles parecem meio
+	estranhos, mesmo...
 	"""
 	keyWait
 	clearMsg
@@ -136,9 +138,9 @@ script 11 mmbn3 {
 		mugshot = Yai
 	msgOpen
 	"""
-	Well,I'VE seen wild
-	animals in NetFrica,
-	so this is nothing!
+	Bom, EU já vi animais
+	selvagens na Affriq.
+	Isto aqui não é nada!
 	"""
 	keyWait
 	end
@@ -150,13 +152,13 @@ script 12 mmbn3 {
 	soundDisableTextSFX
 	soundPlay
 		track = 135
-	"Roaaaaaar!"
+	"Graaaaauurr!"
 	wait
 		frames = 90
 	"\n"
 	soundPlay
 		track = 150
-	"Groooooowl!!!"
+	"Rooooooorrr!!!"
 	wait
 		frames = 120
 	keyWait
@@ -169,7 +171,7 @@ script 13 mmbn3 {
 	mugshotShow
 		mugshot = Mayl
 	msgOpen
-	"L-Lan…"
+	"L-Lan..."
 	keyWait
 	clearMsg
 	jump
@@ -180,9 +182,9 @@ script 14 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Don't worry,they're
-	safe in their cages.
-	But what's wrong?
+	Relaxa, eles tão presos
+	nas jaulas. Mas o que
+	será que deu neles?
 	"""
 	keyWait
 	clearMsg
@@ -194,9 +196,9 @@ script 15 mmbn3 {
 		mugshot = Yai
 	msgOpen
 	"""
-	You guys are such
-	children! (Whew…! I
-	almost screamed!)
+	Como vocês são
+	bebezões! (Ufa...!
+	Quase que eu berro!)
 	"""
 	keyWait
 	clearMsg
@@ -211,7 +213,7 @@ script 16 mmbn3 {
 	soundDisableTextSFX
 	soundPlay
 		track = 136
-	"Grrrrrowl!"
+	"Grraaaauuurr!"
 	wait
 		frames = 90
 	"\n"
@@ -226,7 +228,7 @@ script 17 mmbn3 {
 	mugshotShow
 		mugshot = Yai
 	msgOpen
-	"(Be calm… be calm…)"
+	"(Fica calminho... Calminho...)"
 	keyWait
 	clearMsg
 	jump
@@ -236,7 +238,10 @@ script 18 mmbn3 {
 	mugshotShow
 		mugshot = Mayl
 	msgOpen
-	"Lan,what's going on?"
+	"""
+	Lan, o que é que tá
+	acontecendo?
+	"""
 	keyWait
 	clearMsg
 	jump
@@ -247,8 +252,8 @@ script 19 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I don't like the
-	looks of this…
+	Eu não tô gostando
+	nada da cara disso...
 	"""
 	keyWait
 	clearMsg
@@ -258,7 +263,7 @@ script 19 mmbn3 {
 script 20 mmbn3 {
 	mugshotHide
 	msgOpen
-	"…elp me-----!"
+	"... ocorro----!"
 	keyWait
 	clearMsg
 	jump
@@ -268,7 +273,7 @@ script 21 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"!?"
+	"?!"
 	keyWait
 	end
 }
@@ -276,7 +281,7 @@ script 22 mmbn3 {
 	mugshotShow
 		mugshot = Chisao
 	msgOpen
-	"Heeeelp me-----!"
+	"Socoooorroooo!"
 	keyWait
 	clearMsg
 	jump
@@ -286,7 +291,7 @@ script 23 mmbn3 {
 	mugshotShow
 		mugshot = Mayl
 	msgOpen
-	"It's Chisao!"
+	"É o Chisao!"
 	keyWait
 	clearMsg
 	jump
@@ -296,7 +301,7 @@ script 24 mmbn3 {
 	mugshotShow
 		mugshot = Chisao
 	msgOpen
-	"Wahhhhh!!!"
+	"Aaaaaahhhh!!!"
 	keyWait
 	end
 }
@@ -304,7 +309,7 @@ script 25 mmbn3 {
 	mugshotShow
 		mugshot = Dex
 	msgOpen
-	"Chisaooooo!!"
+	"Chisaaaaaaaooooo!!"
 	keyWait
 	end
 }
@@ -313,8 +318,8 @@ script 26 mmbn3 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Huff…puff…
-	C-Chi…sao…!
+	Uff... arf...
+	C-Chi... sao...!
 	"""
 	keyWait
 	clearMsg
@@ -337,7 +342,7 @@ script 28 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"I'll do something!"
+	"Eu dou um jeito!"
 	keyWait
 	end
 }
@@ -346,7 +351,7 @@ script 29 mmbn3 {
 	soundDisableTextSFX
 	soundPlay
 		track = 135
-	"Roaaaar!!!"
+	"Graaaauurrr!!!"
 	wait
 		frames = 60
 	keyWait
@@ -359,7 +364,7 @@ script 30 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Wh…Whoa!!"
+	"O... Opa!!"
 	keyWait
 	clearMsg
 	jump
@@ -369,7 +374,7 @@ script 31 mmbn3 {
 	mugshotShow
 		mugshot = Mayl
 	msgOpen
-	"Eeeeeeeek!!!!"
+	"Aaaaiiiinnn!!!!"
 	keyWait
 	clearMsg
 	jump
@@ -379,7 +384,7 @@ script 32 mmbn3 {
 	mugshotShow
 		mugshot = Yai
 	msgOpen
-	"……"
+	"......"
 	keyWait
 	clearMsg
 	jump
@@ -390,8 +395,8 @@ script 33 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	We've got to save
-	Chisao!
+	A gente tem que salvar
+	o Chisao!
 	"""
 	keyWait
 	end
@@ -401,7 +406,7 @@ script 34 mmbn3 {
 	soundDisableTextSFX
 	soundPlay
 		track = 135
-	"Roaaaar!!!!"
+	"Graaaaauurrrr!!!!"
 	wait
 		frames = 60
 	keyWait

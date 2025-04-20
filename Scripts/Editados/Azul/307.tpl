@@ -4,23 +4,23 @@ script 0 mmbn3 {
 	mugshotHide
 	msgOpen
 	"""
-	Due to WWW's involv-
-	ment in the N1 Grand
-	Prix,the Officials
+	Devido ao envolvimento
+	da WWW com o Grande
+	Prêmio N1,
 	"""
 	keyWait
 	clearMsg
 	"""
-	cancelled the N1
-	finals and opened
-	an investigation.
+	os Oficiais cancelaram
+	as finais do torneio e
+	abriram um inquérito.
 	"""
 	keyWait
 	clearMsg
 	"""
-	One week has passed
-	since the
-	investigation began…
+	Uma semana se passou
+	desde o início das
+	investigações...
 	"""
 	keyWait
 	end
@@ -30,9 +30,8 @@ script 1 mmbn3 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	It's been a week
-	now,and Yai still
-	isn't back.
+	Já foi uma semana,
+	e a Yai ainda não voltou.
 	"""
 	keyWait
 	clearMsg
@@ -44,9 +43,9 @@ script 2 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Hey,you're right!
-	We should go cheer
-	her up!
+	Verdade, né?
+	A gente devia ir lá
+	dar uma animada nela!
 	"""
 	keyWait
 	clearMsg
@@ -58,25 +57,25 @@ script 3 mmbn3 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Yeah!
-	Let's go! Let's go!
+	É!
+	Boto muita fé!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Now that that's
-	settled,what are we
-	waiting for? C'mon!
+	Se tamos resolvidos,
+	a gente tá esperando
+	o quê? Simbora!
 	"""
 	keyWait
 	clearMsg
 	"""
-	She was at that
-	hospital right by
+	Ela tava naquele
+	hospital que fica
 	"""
 	keyWait
 	clearMsg
-	"Beach Street,right?"
+	"na Rua Angra, né?"
 	keyWait
 	clearMsg
 	jump
@@ -87,13 +86,15 @@ script 4 mmbn3 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	Yeah,I think she was
-	at the Seaside
-	Hospital,at the far
+	É, acho que o nome dele
+	é "Hospital Beira-Mar",
 	"""
 	keyWait
 	clearMsg
-	"end of Beach Street."
+	"""
+	fica lá no fim da Rua
+	Angra.
+	"""
 	keyWait
 	clearMsg
 	jump
@@ -104,8 +105,8 @@ script 5 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	OK,guys! Let's get
-	going!
+	Beleza, gente!
+	Vamos lá!
 	"""
 	keyWait
 	clearMsg
@@ -117,9 +118,9 @@ script 6 mmbn3 {
 		mugshot = Dex
 	msgOpen
 	"""
-	All right!
-	Last one there's a
-	rotten egg!!
+	Já é!
+	O último a chegar é
+	a mulher do padre!!
 	"""
 	keyWait
 	end
@@ -129,9 +130,8 @@ script 7 mmbn3 {
 		mugshot = Girl
 	msgOpen
 	"""
-	Lan! Just where do
-	you think you're
-	going?
+	Lan! Aonde você pensa
+	que vai?
 	"""
 	keyWait
 	end
@@ -141,9 +141,9 @@ script 8 mmbn3 {
 		mugshot = Girl
 	msgOpen
 	"""
-	You're assigned to
-	afterschool cleaning
-	duty today.
+	Você está agendado
+	pra limpeza pós-aula
+	de hoje.
 	"""
 	keyWait
 	clearMsg
@@ -155,8 +155,9 @@ script 9 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Oh,man!
-	I totally forgot!
+	Ah, cara!
+	Eu esqueci
+	completamente!
 	"""
 	keyWait
 	clearMsg
@@ -168,15 +169,15 @@ script 10 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	You can't remember
-	anything,Lan!
+	Você nunca lembra de
+	nada, Lan.
 	"""
 	keyWait
 	clearMsg
 	"""
-	We'll just have to
-	go after we finish
-	cleaning.
+	Bom, o jeito vai ser a
+	gente ir depois que
+	terminarmos de limpar.
 	"""
 	keyWait
 	clearMsg
@@ -188,9 +189,9 @@ script 11 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Yeah,I guess.
-	Huh! I gotta get
-	with it!
+	É, acho que sim...
+	Bom, vamos começar,
+	então!
 	"""
 	keyWait
 	end
@@ -200,15 +201,14 @@ script 12 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Sorry guys! Go ahead
-	without me!
+	Foi mal, galera!
+	Podem ir na frente.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'll catch up with
-	you later at the
-	hospital!
+	Depois eu me encontro
+	com vocês no hospital!
 	"""
 	keyWait
 	clearMsg
@@ -222,8 +222,8 @@ script 13 mmbn3 {
 	flagSet
 		flag = 1795
 	"""
-	Hah! What a loser!
-	Hurry up and finish!
+	Ha! Que otário!
+	Acaba logo isso aí!
 	"""
 	keyWait
 	clearMsg
@@ -235,8 +235,8 @@ script 14 mmbn3 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	Have fun cleaning!
-	Tee-hee!
+	Divirta-se com a limpeza!
+	Hi hi!
 	"""
 	keyWait
 	end
@@ -246,8 +246,8 @@ script 15 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Whew!
-	Finished at last!
+	Ufa!
+	Até que enfim, terminado!
 	"""
 	keyWait
 	clearMsg
@@ -259,9 +259,9 @@ script 16 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Great job,Lan! Come
-	on,let's go visit
-	Yai!
+	Mandou bem, Lan!
+	Agora vamos lá,
+	vamos visitar a Yai!
 	"""
 	keyWait
 	clearMsg
@@ -272,7 +272,7 @@ script 17 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"All right!"
+	"Simbora!"
 	keyWait
 	end
 }

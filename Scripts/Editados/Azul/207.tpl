@@ -4,13 +4,12 @@ script 0 mmbn3 {
 	mugshotShow
 		mugshot = NormalNaviGreen
 	msgOpen
-	"Emergency,emergency!"
+	"Emergência, emergência!"
 	keyWait
 	clearMsg
 	"""
-	An intruder has
-	entered through that
-	security door!
+	Um intruso passou pela
+	porta de segurança!
 	"""
 	keyWait
 	clearMsg
@@ -22,8 +21,8 @@ script 1 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	How can we open the
-	door?
+	Como se faz para abrir
+	a porta?
 	"""
 	keyWait
 	clearMsg
@@ -35,16 +34,16 @@ script 2 mmbn3 {
 		mugshot = NormalNaviGreen
 	msgOpen
 	"""
-	It has 3 passwords.
-	You must find them
-	to open it.
+	Ela tem três senhas.
+	Você tem que achá-las
+	para abri-la.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Unfortunately,it's
-	too dark in here to
-	look for them now.
+	Infelizmente, está escuro
+	demais para procurar por
+	elas agora.
 	"""
 	keyWait
 	clearMsg
@@ -56,9 +55,9 @@ script 3 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I'll go turn on the
-	lights,MegaMan!
-	Leave it to me.
+	Eu vou lá ligar as luzes,
+	MegaMan! Espera só um
+	minuto!
 	"""
 	keyWait
 	clearMsg
@@ -71,7 +70,7 @@ script 4 mmbn3 {
 	msgOpen
 	playerAnimate
 		animation = 4
-	"Thanks,Lan!"
+	"Valeu, Lan!"
 	keyWait
 	clearMsg
 	jump
@@ -82,9 +81,9 @@ script 5 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Do you know which
-	Cyberworld you're
-	in now,MegaMan?
+	Você sabe em que
+	mundo cibernético você
+	tá agora?
 	"""
 	keyWait
 	clearMsg
@@ -95,7 +94,7 @@ script 6 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Hold on."
+	"Peraí."
 	keyWait
 	end
 }
@@ -104,9 +103,9 @@ script 7 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I can see something
-	that looks like a
-	statue.
+	Eu tô vendo uma coisa
+	que parece uma estátua
+	aqui.
 	"""
 	keyWait
 	clearMsg
@@ -118,9 +117,9 @@ script 8 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	A statue,huh?
-	Okay,I'll go look
-	around!
+	Uma estátua, é?
+	Beleza, vou dar uma
+	procurada!
 	"""
 	keyWait
 	end

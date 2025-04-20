@@ -4,7 +4,7 @@ script 0 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Dad!!"
+	"Papai!!"
 	keyWait
 	end
 }
@@ -12,7 +12,10 @@ script 1 mmbn3 {
 	mugshotShow
 		mugshot = Dad
 	msgOpen
-	"So you followed me…"
+	"""
+	Então, você veio atrás
+	de mim...
+	"""
 	keyWait
 	clearMsg
 	jump
@@ -23,9 +26,8 @@ script 2 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Dad,you have to
-	get back to the
-	hospital!
+	Papai, o senhor tem
+	que voltar pro hospital!
 	"""
 	keyWait
 	clearMsg
@@ -39,32 +41,31 @@ script 3 mmbn3 {
 		mugshot = Dad
 	msgOpen
 	"""
-	Son,I can't just lie
-	in bed.
+	Lan, eu não só ficar
+	deitado na cama.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Not when Alpha is in
-	the hands of the
-	WWW!
+	Não quando o Alpha
+	está nas mãos da WWW!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Right now,I'm
-	tracing the path of
+	Estou rastreando a
+	rota do ataque dos
 	
 	"""
 	printEnemyName
 		buffer = 0
 		enemy = 129
-	"'s attack."
+	"."
 	keyWait
 	clearMsg
 	"""
-	It could lead us
-	to the WWW base!
+	Isso pode nos levar à
+	base da WWW!
 	"""
 	keyWait
 	clearMsg
@@ -76,16 +77,14 @@ script 4 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	But you're in no
-	condition to be
-	doing that!
+	Mas o senhor não tá em
+	condições de fazer isso!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Let's just leave
-	it up to the
-	Officials!
+	Vamos deixar isso pros
+	Oficiais!
 	"""
 	keyWait
 	clearMsg
@@ -97,9 +96,9 @@ script 5 mmbn3 {
 		mugshot = Dad
 	msgOpen
 	"""
-	I can't do that.
-	I must delete Alpha
-	with my own hands.
+	Não posso fazer isso.
+	Eu preciso deletar o
+	Alpha pessoalmente.
 	"""
 	keyWait
 	clearMsg
@@ -110,19 +109,19 @@ script 6 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Why!?"
+	"Por quê?!"
 	keyWait
 	clearMsg
 	"""
-	Because Alpha was
-	created by SciLab?
+	Só porque o Alpha foi
+	criado pelo SciLab?
 	"""
 	keyWait
 	clearMsg
 	"""
-	But why do YOU have
-	to take on that
-	responsibility!?
+	Por que é que o SENHOR
+	tem que assumir essa
+	responsabilidade?!
 	"""
 	keyWait
 	clearMsg
@@ -133,26 +132,26 @@ script 7 mmbn3 {
 	mugshotShow
 		mugshot = Dad
 	msgOpen
-	"………"
+	"........."
 	keyWait
 	clearMsg
 	"""
-	20 years ago,a
-	promising scientist
-	came to SciLab.
-	"""
-	keyWait
-	clearMsg
-	"""
-	He used the latest
-	tech to create the
-	basis of the Net.
+	20 anos atrás, um
+	cientista muito promissor
+	veio ao SciLab.
 	"""
 	keyWait
 	clearMsg
 	"""
-	A prototype of
-	the Internet…
+	Ele usou tecnologia de
+	ponta para criar a
+	base para a Rede.
+	"""
+	keyWait
+	clearMsg
+	"""
+	Um protótipo da
+	Internet...
 	"Alpha"!
 	"""
 	keyWait
@@ -164,7 +163,7 @@ script 8 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"………"
+	"........."
 	keyWait
 	clearMsg
 	jump
@@ -175,16 +174,15 @@ script 9 mmbn3 {
 		mugshot = Dad
 	msgOpen
 	"""
-	That scientist was
-	a man who I respect
-	very deeply.
+	Esse cientista era um
+	homem que eu
+	respeitava muito.
 	"""
 	keyWait
 	clearMsg
 	"""
-	It's my duty to
-	delete Alpha
-	for him!
+	É meu dever deletar
+	o Alpha por ele!
 	"""
 	keyWait
 	clearMsg
@@ -195,20 +193,20 @@ script 10 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"………"
+	"........."
 	keyWait
 	clearMsg
 	"""
-	I understand that a
-	great man may have
-	created Alpha!
+	Eu entendo que um
+	grande homem criou o
+	Alpha e tal...
 	"""
 	keyWait
 	clearMsg
 	"""
-	But not why you have
-	to put yourself in
-	such danger!
+	mas não por que o
+	senhor tem que correr
+	tanto perigo!
 	"""
 	keyWait
 	clearMsg
@@ -220,14 +218,14 @@ script 11 mmbn3 {
 		mugshot = Dad
 	msgOpen
 	"""
-	That scientist's
-	name was…
+	O nome desse cientista
+	era...
 	"""
 	keyWait
 	clearMsg
 	"""
 	Tadashi Hikari.
-	He was my father.
+	Ele era o meu pai.
 	"""
 	keyWait
 	clearMsg
@@ -238,12 +236,11 @@ script 12 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"What!?"
+	"O quê?!"
 	keyWait
 	clearMsg
 	"""
-	GRAMPS created
-	Alpha!?
+	O VOVÔ criou o Alpha?!
 	"""
 	keyWait
 	clearMsg
@@ -254,50 +251,51 @@ script 13 mmbn3 {
 	mugshotShow
 		mugshot = Dad
 	msgOpen
-	"Yes."
+	"Sim."
 	keyWait
 	clearMsg
 	"""
-	And that is why I
-	must delete Alpha
-	with my own hands.
-	"""
-	keyWait
-	clearMsg
-	"""
-	And now is the only
-	time that I can!
+	E é por isso que eu
+	preciso deletar o Alpha
+	com as minhas mãos.
 	"""
 	keyWait
 	clearMsg
 	"""
-	When he stopped the
-	Alpha Revolt,
+	E o único momento que
+	eu tenho para fazer
+	isso é agora!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Gramps installed a
-	program,"Guardian",
-	into Alpha's core.
+	Quando ele deteu a
+	Revolta Alpha,
 	"""
 	keyWait
 	clearMsg
 	"""
-	So long as it isn't
-	deleted,Alpha can't
-	fully recover.
+	seu avô instalou um
+	programa, "Guardião",
+	no núcleo do Alpha.
 	"""
 	keyWait
 	clearMsg
 	"""
-	It's one of Gramps's
-	programs,so it can't
-	be deleted easily…
+	Enquanto ele não for
+	deletado, o Alpha não
+	pode se recuperar 100%.
 	"""
 	keyWait
 	clearMsg
-	"Not even by Wily."
+	"""
+	Como é um programa do
+	seu avô, não dá pra
+	deletar facilmente...
+	"""
+	keyWait
+	clearMsg
+	"Nem pro Wily."
 	keyWait
 	clearMsg
 	jump
@@ -309,10 +307,10 @@ script 14 mmbn3 {
 	soundDisableTextSFX
 	soundPlay
 		track = 282
-	"Bee-beep…"
+	"Bi-bip..."
 	soundPlay
 		track = 262
-	" Beeeep!!"
+	" Biiiiiip!!"
 	soundEnableTextSFX
 	keyWait
 	clearMsg
@@ -324,13 +322,13 @@ script 15 mmbn3 {
 		mugshot = Dad
 	msgOpen
 	"""
-	Ah,the computer has
-	finished tracking
-	the WWW's base!
+	Ah, o computador
+	terminou de rastrear
+	a base da WWW!
 	"""
 	keyWait
 	clearMsg
-	"…Argh!!"
+	"... Argh!!"
 	keyWait
 	end
 }
@@ -338,7 +336,7 @@ script 16 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Dad!!"
+	"Papai!!"
 	keyWait
 	end
 }
@@ -347,15 +345,14 @@ script 17 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Dad!!
-	Are you OK!?
+	Papai!!
+	O senhor tá bem?!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Here's your
-	medicine!! Mom
-	gave it to me!
+	Tá aqui o seu remédio!
+	A mamãe me deu!
 	"""
 	keyWait
 	clearMsg
@@ -367,20 +364,21 @@ script 18 mmbn3 {
 		mugshot = Dad
 	msgOpen
 	"""
-	Th-Thank you…
+	O-obrigado...
 	Urgh!
 	"""
 	keyWait
 	clearMsg
 	mugshotHide
-	"Gulp…"
+	"Glup..."
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = Dad
 	"""
-	I'll be OK…
-	In a moment…
+	Eu vou ficar bem...
+	Só preciso de um
+	minuto...
 	"""
 	keyWait
 	end
@@ -390,14 +388,14 @@ script 19 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Dad,tell me where
-	the WWW's base is!
+	Papai, me diz onde fica
+	a base da WWW!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'll delete Alpha
-	for you!
+	Eu deleto o Alpha pro
+	senhor!
 	"""
 	keyWait
 	clearMsg
@@ -409,8 +407,8 @@ script 20 mmbn3 {
 		mugshot = Dad
 	msgOpen
 	"""
-	No…
-	It's too dangerous…
+	Não...
+	É perigoso demais...
 	"""
 	keyWait
 	clearMsg
@@ -424,19 +422,19 @@ script 21 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I can do it!
-	After all,I'm
-	your son!
+	Eu consigo!
+	Afinal de contas,
+	eu sou o seu filho!
 	"""
 	keyWait
 	clearMsg
-	"And I have MegaMan!"
+	"E o MegaMan tá comigo!"
 	keyWait
 	clearMsg
 	"""
-	As long as we're
-	together,we can
-	do anything!!
+	Enquanto estivermos
+	juntos, nada é impossível
+	pra gente!!
 	"""
 	keyWait
 	clearMsg
@@ -448,23 +446,22 @@ script 22 mmbn3 {
 		mugshot = Dad
 	msgOpen
 	"""
-	…Lan,I can see
-	that you're growing
-	up now.
+	... Lan, vejo agora que
+	você está crescendo.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I knew that there
-	comes a day when the
-	son exceeds the dad…
+	Eu sempre soube que,
+	um dia, o filho sempre
+	supera o pai...
 	"""
 	keyWait
 	clearMsg
 	"""
-	But I never knew
-	yours would come
-	so quickly…
+	Mas nunca achei que
+	esse dia chegaria tão
+	rápido para você...
 	"""
 	keyWait
 	clearMsg
@@ -475,7 +472,7 @@ script 23 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Dad…"
+	"Papai..."
 	wait
 		frames = 60
 	keyWait
@@ -490,15 +487,15 @@ script 24 mmbn3 {
 		mugshot = Dad
 	msgOpen
 	"""
-	According to the
-	data,the WWW's base
-	is at…
+	De acordo com os dados,
+	a base da WWW fica
+	na...
 	"""
 	keyWait
 	clearMsg
 	"""
-	What……!?
-	The Demon Waters!?
+	O quê...?!
+	Nas Águas do Demônio?!
 	"""
 	keyWait
 	clearMsg
@@ -509,7 +506,7 @@ script 25 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"\"Demon Waters\"?"
+	"\"Águas do Demônio\"?"
 	keyWait
 	clearMsg
 	jump
@@ -522,23 +519,23 @@ script 26 mmbn3 {
 		mugshot = Dad
 	msgOpen
 	"""
-	That part of ocean
-	is known for its
-	ferocity. It's full
+	É uma parte do oceano
+	conhecida por sua
+	ferocidade.
 	"""
 	keyWait
 	clearMsg
 	"""
-	of "Demon Currents,"
-	spinning waters
-	strong enough to
+	É cheia de "Correntes
+	Demoníacas", movimenta-
+	ções de água fortes o
 	"""
 	keyWait
 	clearMsg
 	"""
-	create whirlwinds.
-	To approach it is
-	certain death!
+	bastante pra criar rede-
+	moinhos. Chegar perto
+	delas é morte certa!
 	"""
 	keyWait
 	clearMsg
@@ -549,12 +546,12 @@ script 27 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Demon Waters…"
+	"Águas do Demônio..."
 	keyWait
 	clearMsg
 	"""
-	How can that area
-	be approached?
+	Como se faz pra chegar
+	nessa área?
 	"""
 	keyWait
 	clearMsg
@@ -566,29 +563,29 @@ script 28 mmbn3 {
 		mugshot = Dad
 	msgOpen
 	"""
-	It would have to
-	be by boat.
+	Teria que ser de
+	barco.
 	"""
 	keyWait
 	clearMsg
 	"""
-	The turbulent air
-	above there would
-	crash any plane.
+	As ventanias turbulen-
+	tas derrubariam qualquer
+	avião.
 	"""
 	keyWait
 	clearMsg
 	"""
-	But if you were to
-	go by boat,it would
-	have to have a very
+	Mas, se você for de
+	barco, ele teria que ter
+	um motor extremamente
 	"""
 	keyWait
 	clearMsg
 	"""
-	powerful engine to
-	avoid being pulled
-	under the waves!
+	forte pra não ser
+	puxado para baixo das
+	ondas!
 	"""
 	keyWait
 	clearMsg
@@ -600,16 +597,16 @@ script 29 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	So we need a boat
-	with a huge engine
-	to get to the base…
+	Então, é preciso um bar-
+	co com um super motor
+	pra chegar na base...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Dad,I'll do it!
-	I'll delete Alpha
-	for you!
+	Pode deixar, papai!
+	Eu vou deletar o Alpha
+	pelo senhor!
 	"""
 	keyWait
 	clearMsg
@@ -621,36 +618,35 @@ script 30 mmbn3 {
 		mugshot = Dad
 	msgOpen
 	"""
-	No,Lan,you mustn't
-	think of it
-	that way.
+	Não, Lan. Você não
+	deve pensar desse
+	jeito.
 	"""
 	keyWait
 	clearMsg
 	"""
-	The battle you are
-	going to face isn't
-	for me.
+	A batalha que você vai
+	encarar não é por mim.
 	"""
 	keyWait
 	clearMsg
 	"""
-	It's YOUR battle!
-	Yours and MegaMan's!
+	É uma batalha SUA!
+	Sua e do MegaMan!
 	"""
 	keyWait
 	clearMsg
 	"""
-	You must fight for
-	all those that you
-	love,and our future!
+	Vocês têm que lutar por
+	todos aqueles que amam,
+	e pelo nosso futuro!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Lan,MegaMan…No,Hub!
-	Fight together to
-	stop the WWW's plan!
+	Lan, MegaMan... Não, Hub!
+	Lutem juntos para deter
+	o plano da WWW!
 	"""
 	keyWait
 	clearMsg
@@ -661,7 +657,7 @@ script 31 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Roger!!"
+	"Entendido!!"
 	keyWait
 	clearMsg
 	jump
@@ -671,7 +667,7 @@ script 32 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"We will!!"
+	"Nós vamos!!"
 	keyWait
 	clearMsg
 	jump
@@ -682,8 +678,8 @@ script 33 mmbn3 {
 		mugshot = Dad
 	msgOpen
 	"""
-	Be careful…
-	Both of you!
+	Tomem cuidado...
+	Meus filhos!
 	"""
 	keyWait
 	end

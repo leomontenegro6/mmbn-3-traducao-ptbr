@@ -16,76 +16,76 @@ script 190 mmbn3 {
 	mugshotShow
 		mugshot = YoungWoman
 	msgOpen
-	"Hello,Lan!"
+	"Oi, Lan!"
 	keyWait
 	clearMsg
 	"""
-	I heard top Net-
-	Battlers may give
-	you help if you use
-	"""
-	keyWait
-	clearMsg
-	"""
-	the Job BBS,
-	but I'm surprised to
-	see you show up!
+	Disseram que NetLu-
+	tadores de alto ca-
+	libre podem oferecer
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'm a little bit
-	embarrassed to ask a
-	student for help.
+	ajuda no Quadro de
+	Missões, mas que
+	surpresa ser você!
 	"""
 	keyWait
 	clearMsg
 	"""
-	But here's the job…
-	The other day,a
-	virus bomb was sent
+	Dá um pouco de ver-
+	gonha dar o trabalho
+	pra um aluno...
 	"""
 	keyWait
 	clearMsg
 	"""
-	to the Principal's
-	computer,and now
-	there are bombs
+	Mas vai: outro dia,
+	uma bomba de vírus
+	foi mandada pro
 	"""
 	keyWait
 	clearMsg
 	"""
-	hidden all over it!
-	They can't be seen,
-	so someone has to go
+	computador do dire-
+	tor, e agora tem
+	bombas escondidas!
 	"""
 	keyWait
 	clearMsg
 	"""
-	in and check every
-	suspicious place in
-	the computer…
+	São invisíveis.
+	Alguém precisa
+	entrar lá e conferir
 	"""
 	keyWait
 	clearMsg
 	"""
-	Could you jack in to
-	the computer,and get
-	rid of the bombs?
+	todo lugar que
+	pareça suspeito
+	no computador...
 	"""
 	keyWait
 	clearMsg
 	"""
-	The Principal asked
-	me to do it,but I'm
-	just not good enough
+	Poderia se conectar
+	no computador e se
+	livrar das bombas?
 	"""
 	keyWait
 	clearMsg
 	"""
-	to find them all.
-	Thank you for your
-	help!
+	O diretor me pediu
+	isso, mas não me ga-
+	ranto o bastante pra
+	"""
+	keyWait
+	clearMsg
+	"""
+	achar todas elas.
+	Desde já, obrigada
+	pela força!
 	"""
 	keyWait
 	end
@@ -95,16 +95,16 @@ script 191 mmbn3 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	I'd like you to jack
-	in and defuse all of
-	the bombs.
+	Quero que se conecte
+	e desarme todas as
+	bombas.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I think there should
-	be about 3 of them
-	hidden in there…
+	Acho que têm umas
+	três escondidas lá,
+	se não me engano...
 	"""
 	keyWait
 	end
@@ -120,15 +120,15 @@ script 192 mmbn3 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	Oh,you got them all!
-	I just knew you
-	could do it!
+	Ah, você desarmou
+	todas! Sabia que
+	conseguiria!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Here,take this as a
-	small reward!
+	Tome, uma pequena
+	recompensa pra você!
 	"""
 	keyWait
 	clearMsg
@@ -146,7 +146,7 @@ script 193 mmbn3 {
 	playerAnimate
 		animation = 24
 	"""
-	Lan got a chip for
+	Lan adquiriu o chip
 	"
 	"""
 	printChip
@@ -168,9 +168,9 @@ script 194 mmbn3 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	Good luck on your
-	other jobs! I'll be
-	rooting for you!
+	Boa sorte com suas
+	outras missões! Tô
+	torcendo por você!
 	"""
 	keyWait
 	end
@@ -192,9 +192,8 @@ script 195 mmbn3 {
 script 220 mmbn3 {
 	msgOpen
 	"""
-	A collection of
-	trophies and
-	plaques
+	Uma coleção de
+	troféus e placas.
 	"""
 	keyWait
 	end
@@ -202,15 +201,15 @@ script 220 mmbn3 {
 script 221 mmbn3 {
 	msgOpen
 	"""
-	An aerial photo of
-	ACDC Elementary
+	Uma foto aérea do
+	Colégio ACDC.
 	"""
 	keyWait
 	clearMsg
 	"""
-	It gives a great
-	view of the school
-	and its buildings
+	Mostra uma vista
+	incrível da escola e
+	suas instalações.
 	"""
 	keyWait
 	end
@@ -218,16 +217,15 @@ script 221 mmbn3 {
 script 222 mmbn3 {
 	msgOpen
 	"""
-	A folding screen,
-	imported from
-	Yumland
+	Um biombo importado de
+	Saborya.
 	"""
 	keyWait
 	clearMsg
 	"""
-	The figure on a
-	horse looks like a
-	man,but it's female
+	A pessoa sobre o
+	cavalo parece homem,
+	mas é uma mulher.
 	"""
 	keyWait
 	end
@@ -235,16 +233,16 @@ script 222 mmbn3 {
 script 223 mmbn3 {
 	msgOpen
 	"""
-	It depicts a general
-	mounted on a famous
-	horse,said to be
+	Retrata um general
+	montado em um famoso
+	cavalo,
 	"""
 	keyWait
 	clearMsg
 	"""
-	able to run hundreds
-	of kilometers per
-	day
+	que diziam ser capaz
+	de percorrer centenas
+	de quilômetros por dia.
 	"""
 	keyWait
 	end
@@ -256,16 +254,15 @@ script 224 mmbn3 {
 		jumpIfFalse = continue
 	msgOpen
 	"""
-	The Principal's
-	favorite word:
-	"spirit"
+	A palavra favorita do
+	diretor: "Espírito".
 	"""
 	keyWait
 	clearMsg
 	"""
-	Once he starts to
-	talk about spirit,
-	he's hard to stop
+	Quando ele começa a
+	falar de espírito, ninguém
+	faz ele calar a boca.
 	"""
 	keyWait
 	end
@@ -273,15 +270,14 @@ script 224 mmbn3 {
 script 225 mmbn3 {
 	msgOpen
 	"""
-	A picture from
-	Yumland
+	Uma foto de Saborya.
 	"""
 	keyWait
 	clearMsg
 	"""
-	It depicts graceful
-	women dancing among
-	peach trees
+	Ela retrata mulheres
+	graciosas dançando por
+	entre pessegueiros.
 	"""
 	keyWait
 	end
@@ -289,16 +285,16 @@ script 225 mmbn3 {
 script 226 mmbn3 {
 	msgOpen
 	"""
-	A Yumland painting
-	of a beautiful
-	woman
+	Um quadro de Saborya,
+	retratando uma linda
+	mulher.
 	"""
 	keyWait
 	clearMsg
 	"""
-	She has a soft smile
-	and yet retains a
-	sad expression
+	Ela tem um sorriso
+	suave, porém
+	enigmaticamente triste.
 	"""
 	keyWait
 	end
@@ -306,9 +302,9 @@ script 226 mmbn3 {
 script 227 mmbn3 {
 	msgOpen
 	"""
-	These papers await
-	the Principal's
-	signature
+	Esses papeis estão
+	aguardando a
+	assinatura do diretor.
 	"""
 	keyWait
 	end
@@ -316,16 +312,15 @@ script 227 mmbn3 {
 script 228 mmbn3 {
 	msgOpen
 	"""
-	What's this thing
-	doing in the
-	Principal's Office?
+	O que essa coisa tá
+	fazendo na diretoria?
 	"""
 	keyWait
 	clearMsg
 	"""
-	He must be worried
-	about a lack of
-	daily exercise…
+	Ele deve se preocupar
+	muito com a falta de
+	exercício diário...
 	"""
 	keyWait
 	end
@@ -333,15 +328,14 @@ script 228 mmbn3 {
 script 229 mmbn3 {
 	msgOpen
 	"""
-	Golf balls roll
-	about here
+	Bolas de golfe rolam até
+	entrarem nisso aí.
 	"""
 	keyWait
 	clearMsg
 	"""
-	What is it that
-	adults enjoy
-	about golf?
+	Qual é a graça que os
+	adultos veem no golfe?
 	"""
 	keyWait
 	end
@@ -349,9 +343,9 @@ script 229 mmbn3 {
 script 230 mmbn3 {
 	msgOpen
 	"""
-	This computer holds
-	important data.
-	You can jack in
+	Este computador arma-
+	zena dados importantes.
+	Dá para se conectar.
 	"""
 	keyWait
 	end
@@ -359,15 +353,15 @@ script 230 mmbn3 {
 script 231 mmbn3 {
 	msgOpen
 	"""
-	Photos of past
-	Principals
+	Fotos de antigos
+	diretores.
 	"""
 	keyWait
 	clearMsg
 	"""
-	The first Principal
-	built this school
-	right on this spot
+	O primeiro diretor
+	construiu esta escola,
+	neste exato local.
 	"""
 	keyWait
 	end
@@ -375,23 +369,22 @@ script 231 mmbn3 {
 script 232 mmbn3 {
 	msgOpen
 	"""
-	Calligraphy of the
-	character for
-	"soul"
+	Caligrafia shodô do
+	caractere de "alma".
 	"""
 	keyWait
 	clearMsg
 	"""
-	Perhaps to remind
-	him that education
-	isn't only "mind"?
+	Talvez para lembrá-lo
+	de que educação não é
+	só "mente"?
 	"""
 	keyWait
 	clearMsg
 	"""
-	If you ask him about
-	it,he'll talk for
-	at least 40 minutes
+	Se perguntar pra ele,
+	ele vai discursar por,
+	pelo menos, 40 minutos.
 	"""
 	keyWait
 	end

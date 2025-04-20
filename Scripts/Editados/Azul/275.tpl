@@ -13,8 +13,8 @@ script 1 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Hey you!! Let those
-	Navis go!
+	Ei, vocês!
+	Soltem já esses Navis!
 	"""
 	keyWait
 	end
@@ -24,17 +24,18 @@ script 2 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	Well what have we
-	here? You're a brave
-	little boy!
+	Ora, ora, o que temos
+	aqui? Você é muito
+	valente, garotinho!
 	"""
 	keyWait
 	clearMsg
 	flagClear
 		flag = 1537
 	"""
-	And what'll you do
-	if we don't? Cry?
+	E o que vai fazer se
+	não soltarmos?
+	Vai choraaar?
 	"""
 	keyWait
 	end
@@ -44,8 +45,8 @@ script 3 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	If you don't,you'll
-	have to face me!
+	Se não soltarem, vão
+	ter que se ver comigo!
 	"""
 	keyWait
 	clearMsg
@@ -58,21 +59,21 @@ script 4 mmbn3 {
 	msgOpen
 	"""
 	Ah-hahahaha!
-	Are you serious?
+	Tá falando sério?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Be a good little boy
-	and jack out now,
-	for your own sake.
+	Olha, seja um menino com-
+	portado e desconecta,
+	pelo seu próprio bem.
 	"""
 	keyWait
 	clearMsg
 	"""
-	It's three-on-one,
-	kid. You haven't got
-	a chance.
+	São três contra um,
+	moleque. Cê não tem a
+	menor chance.
 	"""
 	keyWait
 	clearMsg
@@ -84,8 +85,9 @@ script 5 mmbn3 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	Who doesn't have a
-	chance?
+	Quem vocês disseram
+	que "não tem a menor
+	chance"?
 	"""
 	keyWait
 	end
@@ -94,7 +96,10 @@ script 6 mmbn3 {
 	mugshotShow
 		mugshot = HeelNavi
 	msgOpen
-	"We've…been…had…"
+	"""
+	A gente... foi...
+	emboscado...
+	"""
 	keyWait
 	end
 }
@@ -113,18 +118,18 @@ script 8 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	ProtoMan? That ace
-	NetBattler Chaud's
-	Navi?
+	ProtoMan? O Navi do
+	Eugene Chaud, o
+	NetLutador gênio?!
 	"""
 	keyWait
 	clearMsg
 	flagClear
 		flag = 1537
-	"He'll slaughter me!"
+	"Ele vai me trucidar!"
 	keyWait
 	clearMsg
-	"I'm outta here!"
+	"Tô fora!"
 	keyWait
 	end
 }
@@ -132,7 +137,7 @@ script 9 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"ProtoMan…"
+	"ProtoMan..."
 	keyWait
 	end
 }
@@ -141,22 +146,22 @@ script 10 mmbn3 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	Extraordinary! No
-	wonder you're they're
-	all saying you'll
+	Extraordinário! Não é
+	à toa que todo mundo
+	diz que você vai vencer
 	"""
 	keyWait
 	clearMsg
 	"""
-	win tomorrow's Grand
-	Prix! Thank you for
-	saving us!
+	o Grande Prêmio N1
+	amanhã! Muito obrigado
+	por nos salvar!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Would you mind if we
-	interviewed you?
+	Tudo bem para você se
+	o entrevistarmos?
 	"""
 	keyWait
 	clearMsg
@@ -168,8 +173,8 @@ script 11 mmbn3 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	Sorry. I don't have
-	the time.
+	Desculpe, mas não tenho
+	tempo para isso agora.
 	"""
 	keyWait
 	end
@@ -179,9 +184,9 @@ script 12 mmbn3 {
 		mugshot = GutsMan
 	msgOpen
 	"""
-	Haw rude,refusin' to
-	be interviewed like
-	that!
+	Mal educado, recusando
+	uma entrevista desse
+	jeito, Guts!
 	"""
 	keyWait
 	clearMsg
@@ -192,7 +197,7 @@ script 13 mmbn3 {
 	mugshotShow
 		mugshot = GirlNaviOrange
 	msgOpen
-	"…He's so dreamy!"
+	"... Ele é tão tudo!"
 	keyWait
 	end
 }
@@ -201,8 +206,8 @@ script 14 mmbn3 {
 		mugshot = GutsMan
 	msgOpen
 	"""
-	Hey,is it time for
-	my interview yet?
+	Ei, já tá na hora da
+	minha entrevista?
 	"""
 	keyWait
 	clearMsg
@@ -213,7 +218,7 @@ script 15 mmbn3 {
 	mugshotShow
 		mugshot = GirlNaviOrange
 	msgOpen
-	"…Ohhh,ProtoMan!"
+	"Aaaahhh, ProtoMaaan!"
 	keyWait
 	clearMsg
 	jump
@@ -224,9 +229,9 @@ script 16 mmbn3 {
 		mugshot = GutsMan
 	msgOpen
 	"""
-	Who wants to listen
-	to this? I'm jackin'
-	out!
+	Eu não vou ficar aqui
+	levando esse desaforo!
+	GutsMan, desconectando!
 	"""
 	keyWait
 	end
@@ -236,16 +241,15 @@ script 17 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Hey,Lan.
-	Since everyone's
-	safe,why don't we
+	Ei, Lan. Como tá todo
+	mundo bem, por que não
+	desconectamos cedo?
 	"""
 	keyWait
 	clearMsg
 	"""
-	jack out early?
-	Tomorrow's a big
-	day.
+	Amanhã vai ser um
+	longo dia.
 	"""
 	keyWait
 	clearMsg
@@ -257,15 +261,15 @@ script 18 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Yeah. We'd better
-	leave before
-	something else
+	É. Melhor a gente ir
+	embora antes que mais
+	alguma coisa aconteça.
 	"""
 	keyWait
 	clearMsg
 	"""
-	happens. OK MegaMan,
-	let's jack out!
+	Beleza, MegaMan,
+	bora desconectar!
 	"""
 	keyWait
 	end

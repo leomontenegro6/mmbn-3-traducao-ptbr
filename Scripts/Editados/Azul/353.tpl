@@ -5,16 +5,15 @@ script 0 mmbn3 {
 		mugshot = MrMatch
 	msgOpen
 	"""
-	Fantastic. That's
-	the last of them!
-	You've been great.
+	Fantástico. E esse foi
+	o último! Você fez um
+	ótimo trabalho.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Look,here's a little
-	something for all
-	your effort.
+	Tome, um agradozinho
+	pelo seu trabalho.
 	"""
 	keyWait
 	clearMsg
@@ -25,8 +24,8 @@ script 1 mmbn3 {
 	mugshotHide
 	msgOpen
 	"""
-	Mr.Match took out a
-	chip for
+	O Sr. Match ofereceu
+	o chip
 	"
 	"""
 	printChip
@@ -47,9 +46,9 @@ script 2 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I don't need any
-	payment. This makes
-	us even!
+	Eu não preciso de
+	pagamento.
+	Agora, estamos quites!
 	"""
 	keyWait
 	clearMsg
@@ -61,23 +60,22 @@ script 3 mmbn3 {
 		mugshot = MrMatch
 	msgOpen
 	"""
-	I'm not out to put
-	you in my debt
-	again,Lan!
+	Ah, não, eu não quero
+	ficar em dívida com você
+	de novo, mocinho Lan!
 	"""
 	keyWait
 	clearMsg
 	"""
-	This is just my way
-	of saying
-	"thank you".
+	Este é só o meu jeito
+	de dizer "obrigado".
 	"""
 	keyWait
 	clearMsg
 	"""
-	What? You're too
-	good for my thanks
-	now?
+	Que foi? Agora você é
+	bom demais pra minha
+	gratidão?
 	"""
 	keyWait
 	clearMsg
@@ -89,9 +87,9 @@ script 4 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	No,that's not what I
-	meant! Oh,all right!
-	I'll take it!
+	Não, não foi isso que
+	eu quis...
+	Ah, tá, tá! Dá aqui!
 	"""
 	keyWait
 	clearMsg
@@ -106,7 +104,7 @@ script 5 mmbn3 {
 	soundPlay
 		track = 133
 	"""
-	Lan got a chip for
+	Lan agarrou o chip
 	"
 	"""
 	printChip
@@ -129,8 +127,8 @@ script 6 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	All right,we're
-	leaving now.
+	Beleza, a gente vai
+	embora agora.
 	"""
 	keyWait
 	clearMsg
@@ -141,13 +139,13 @@ script 7 mmbn3 {
 	mugshotShow
 		mugshot = MrMatch
 	msgOpen
-	"Thanks a lot,Lan!"
+	"Muito obrigado, Lan!"
 	keyWait
 	clearMsg
 	"""
-	I have one more
-	thing to do here,so
-	I'll see you later!
+	Eu tenho mais uma
+	coisinha pra fazer aqui,
+	então, nos vemos depois!
 	"""
 	keyWait
 	end
@@ -157,9 +155,8 @@ script 8 mmbn3 {
 		mugshot = MrMatch
 	msgOpen
 	"""
-	Now then,time to
-	begin.
-	Heh heh heh heh!
+	Bom, hora de começar.
+	He he he he!
 	"""
 	keyWait
 	end

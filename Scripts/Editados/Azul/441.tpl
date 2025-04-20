@@ -4,8 +4,8 @@ script 0 mmbn3 {
 	mugshotHide
 	msgOpen
 	"""
-	Gah…Gah…Gaaahhh…
-	Grraaahhh…!!
+	Grah... Gah... Gh... Gaah...
+	Grraaaaaahhhh...!!
 	"""
 	keyWait
 	clearMsg
@@ -16,10 +16,10 @@ script 1 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Whew…"
+	"Ufa..."
 	keyWait
 	clearMsg
-	"Lan…"
+	"Lan..."
 	keyWait
 	clearMsg
 	jump
@@ -30,9 +30,9 @@ script 2 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	We did it…
-	We…
-	We beat Alpha…
+	Conseguimos...
+	Nós...
+	Vencemos o Alpha...
 	"""
 	keyWait
 	clearMsg
@@ -44,7 +44,7 @@ script 3 mmbn3 {
 	msgOpen
 	"""
 	Grraaahhh!!
-	Mmwaaaa!!
+	Mmuaooorrr!!
 	"""
 	keyWait
 	end
@@ -54,21 +54,20 @@ script 4 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,something came
-	out of Alpha!
+	Lan, alguma coisa saiu
+	de dentro do Alpha!
 	"""
 	keyWait
 	clearMsg
 	"""
-	It looks like a
-	door,but I wonder
-	where it leads?
+	Parece ser uma porta.
+	Onde será que ela dá?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Not to another part
-	of Alpha,I hope!
+	Espero que não seja em
+	outra parte do Alpha!
 	"""
 	keyWait
 	clearMsg
@@ -80,23 +79,23 @@ script 5 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	………
-	MegaMan,let's
-	check it out!
+	......
+	MegaMan, vamos
+	conferir!
 	"""
 	keyWait
 	clearMsg
 	"""
-	We've come this far,
-	so we might as well
-	see this to the end!
+	Já chegamos até aqui.
+	Então, temos que ir até
+	o fim!
 	"""
 	keyWait
 	clearMsg
 	"""
-	We have to see what
-	lies on the other
-	side of that door!
+	Temos que ver o que
+	tem do outro lado dessa
+	porta!
 	"""
 	keyWait
 	clearMsg
@@ -107,7 +106,7 @@ script 6 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"OK…"
+	"OK..."
 	keyWait
 	end
 }

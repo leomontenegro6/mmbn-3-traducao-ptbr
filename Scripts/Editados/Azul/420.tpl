@@ -5,15 +5,14 @@ script 0 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	It's a statue
-	of Wily…
+	É uma estátua do Wily...
 	"""
 	keyWait
 	clearMsg
 	"""
-	What kind of person
-	decorates with a
-	statue of himself!?
+	Que tipo de gente
+	decora a sala com uma
+	estátua de si mesmo?
 	"""
 	keyWait
 	end
@@ -23,8 +22,8 @@ script 1 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	This statue
-	sure is light…
+	Nossa, é uma estátua
+	tão leve...
 	"""
 	keyWait
 	clearMsg
@@ -36,12 +35,16 @@ script 2 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,please stop
-	playing with that!
+	Lan, pode, por favor,
+	parar de brincar com
+	isso?
 	"""
 	keyWait
 	clearMsg
-	"We have to move on!!"
+	"""
+	Temos que continuar
+	procurando!!
+	"""
 	keyWait
 	clearMsg
 	jump
@@ -51,7 +54,7 @@ script 3 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"I know,I know!!"
+	"Eu sei, eu sei!!"
 	keyWait
 	clearMsg
 	jump
@@ -65,11 +68,12 @@ script 4 mmbn3 {
 	msgOpen
 	"""
 	Chaud!
-	We've found a way!
+	A gente achou um
+	caminoh!
 	"""
 	keyWait
 	clearMsg
-	"Let's move on!"
+	"Vamos avançar!"
 	keyWait
 	end
 }

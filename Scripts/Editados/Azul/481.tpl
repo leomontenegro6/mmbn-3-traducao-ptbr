@@ -1,95 +1,95 @@
 @size 48
 
 script 0 mmbn3s {
-	" Look for friends(Tora)"
+	" Buscando amigos(Tora)"
 	end
 }
 script 1 mmbn3s {
-	" Stuntmen wanted!(Tora)"
+	" Queremos dublê!(Tora)"
 	end
 }
 script 2 mmbn3s {
-	" Riot stopped(Tora)"
+	" Revolta contida(Tora)"
 	end
 }
 script 3 mmbn3s {
-	" Gathering data(Tora)"
+	" Reunindo dados(Tora)"
 	end
 }
 script 4 mmbn3s {
-	" Please deliver this"
+	" Uma entrega para mim"
 	end
 }
 script 5 mmbn3s {
-	" My Navi is sick"
+	" Meu Navi adoeceu"
 	end
 }
 script 6 mmbn3s {
-	" Help me with my son!"
+	" Ajuda com o meu filho!"
 	end
 }
 script 7 mmbn3s {
-	" Transmission error"
+	" Erro de transmissão"
 	end
 }
 script 8 mmbn3s {
-	" O preço de um chip"
+	" Preços de chip"
 	end
 }
 script 9 mmbn3s {
-	" I'm broke…!"
+	" Fali...!"
 	end
 }
 script 10 mmbn3s {
-	" Rare chips for cheap!"
+	" Chips raros e baratos!"
 	end
 }
 script 11 mmbn3s {
-	" Be my boyfriend!"
+	" Seja meu namorado!"
 	end
 }
 script 12 mmbn3s {
-	" Will you deliver?"
+	" Pode entregar isto?"
 	end
 }
 script 13 mmbn3s {
-	" Somebody,please help!"
+	" Alguém me ajude!"
 	end
 }
 script 14 mmbn3s {
-	" Looking for condor"
+	" Buscando um condor"
 	end
 }
 script 15 mmbn3s {
-	" Help with rehab"
+	" Ajuda com reabilitação"
 	end
 }
 script 16 mmbn3s {
-	" Old Master"
+	" Mestre Ancião"
 	end
 }
 script 17 mmbn3s {
-	" Catching gang members"
+	" Pegando uma gangue"
 	end
 }
 script 18 mmbn3s {
-	" Please adopt a virus!"
+	" Adote um vírus!"
 	end
 }
 script 19 mmbn3s {
-	" Legendary Tomes"
+	" Tomos Lendários"
 	end
 }
 script 20 mmbn3s {
-	" Hide and seek!"
+	" Esconde-esconde!"
 	end
 }
 script 21 mmbn3s {
-	" Finding the blue Navi"
+	" Em busca do Navi azul"
 	end
 }
 script 22 mmbn3s {
-	" Give your support!"
+	" Dê-me seu apoio!"
 	end
 }
 script 23 mmbn3s {
@@ -97,7 +97,7 @@ script 23 mmbn3s {
 	end
 }
 script 24 mmbn3s {
-	" Help with a will"
+	" Ajuda com testamento"
 	end
 }
 script 25 mmbn3s {

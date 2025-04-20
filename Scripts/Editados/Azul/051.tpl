@@ -31,28 +31,28 @@ script 0 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I read that flowers
-	were preserved in
-	King Tut's tomb!
+	Eu li que dois leões
+	na Affriq cultivaram
+	um campo de flores!
 	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	"""
-	Really?
-	What kind?
+	Caramba, é mesmo?
+	Que tipo de flor?
 	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"Chrysanthemummies!"
+	"Dentes-de-leão!"
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"…Ha ha ha ha!"
+	"... Pff!"
 	keyWait
 	end
 }
@@ -61,58 +61,52 @@ script 1 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Hey,MegaMan! Could
-	you help me with a
-	geometry problem?
+	MegaMan, me ajuda
+	com um problema de
+	trigonometria?
+	"""
+	keyWait
+	clearMsg
+	mugshotShow
+		mugshot = MegaMan
+	"Claro, Lan. Diz aí."
+	keyWait
+	clearMsg
+	mugshotShow
+		mugshot = Lan
+	"A pergunta é:"
+	keyWait
+	clearMsg
+	"""
+	"Liste quatro nomes
+	de triângulos."
 	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Sure,Lan! What's
-	the problem?
+	Tá! Eu-quis-lácteo,
+	Mesóclises, És-Pe-
+	queno e Rei Tango!
 	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"""
-	What do you get when
-	you divide
-	"""
-	keyWait
-	clearMsg
-	"""
-	the circumference of
-	a Jack o'lantern by
-	its diameter?
-	"""
-	keyWait
-	clearMsg
-	mugshotShow
-		mugshot = MegaMan
-	"""
-	That's easy!
-	Pumpkin Pi!!
-	"""
-	keyWait
-	clearMsg
-	mugshotShow
-		mugshot = Lan
-	"…"
+	"."
 	waitSkip
 		frames = 30
-	"…"
+	"."
 	waitSkip
 		frames = 30
-	"…"
+	". "
 	waitSkip
 		frames = 30
 	"""
-	OK,but if I get
-	points off,it's
-	your fault!
+	Belê, mas se eu
+	tirar nota baixa, a
+	culpa é sua!
 	"""
 	keyWait
 	end
@@ -122,60 +116,55 @@ script 2 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Oh,I went to that
-	new undersea gym
-	the other day!
+	Ah, eu fui no
+	aquário, um dia
+	desses!
+	"""
+	keyWait
+	clearMsg
+	mugshotShow
+		mugshot = Lan
+	"Ah, é? E como foi?"
+	keyWait
+	clearMsg
+	mugshotShow
+		mugshot = MegaMan
+	"""
+	Bom, sabe como o
+	país nunca dá aten-
+	ção ao "polvo"...
+	"""
+	keyWait
+	clearMsg
+	mugshotShow
+		mugshot = Lan
+	"MegaMan, \"foca\"."
+	keyWait
+	clearMsg
+	mugshotShow
+		mugshot = MegaMan
+	"""
+	Não dá, eu fico
+	distraído até o dia
+	"raia"-r!
 	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	"""
-	Oh yeah?
-	How was it?
+	Sério, nesse ritmo o
+	jogador vai acabar
+	nos enf-"orca"-ndo!
 	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	I think I pulled
-	a mussel…
-	"""
-	keyWait
-	clearMsg
-	mugshotShow
-		mugshot = Lan
-	"""
-	Not on porpoise,
-	I hope?
-	"""
-	keyWait
-	clearMsg
-	mugshotShow
-		mugshot = MegaMan
-	"""
-	I thought that when
-	you heard that one
-	you'd just clam up!
-	"""
-	keyWait
-	clearMsg
-	mugshotShow
-		mugshot = Lan
-	"""
-	No,but if we keep
-	this up,our players
-	may get crabby…
-	"""
-	keyWait
-	clearMsg
-	mugshotShow
-		mugshot = MegaMan
-	"""
-	You're right. Cod
-	we just squid while
-	we're ahead?
+	É, verdade. Melhor
+	a gente fazer
+	boquinha-de-"siri"!
 	"""
 	keyWait
 	end
@@ -185,28 +174,32 @@ script 3 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Oh,did you hear
-	about Yai's online
-	origami store?
+	Sabia que espiões
+	fazem curso pra me-
+	xer com fechaduras?
 	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"No,what happened?"
+	"Não brinca!"
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"It folded."
+	"""
+	É, mas nenhum passa.
+	Todos trancam a
+	matéria.
+	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	"""
-	One more like that,
-	and I'm pulling out
-	your batteries!
+	Se continuar com
+	isso, eu arranco a
+	bateria desse PET!
 	"""
 	keyWait
 	end
@@ -229,19 +222,15 @@ script 10 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	The boa constrictors
-	at the Yoka zoo sure
-	are in love,huh?
+	As jibóias do zooló-
+	gico dão medo, sim
+	ou não?
 	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"""
-	I dunno. They may
-	just have a crush
-	on each other.
-	"""
+	"Ssssssssssim."
 	keyWait
 	end
 }
@@ -250,22 +239,23 @@ script 11 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Goethe was a German
-	poet who only wrote
-	just after waking!
+	Sabia que poetas são
+	especialistas em dar
+	flores de presente?
 	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Really?"
+	"É sério?"
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Yeah. He vent from
-	bed to verse!!
+	Aham. Especialmente
+	rosas vermelhas e
+	violetas azuis!
 	"""
 	keyWait
 	end
@@ -275,41 +265,47 @@ script 12 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	During that Bubble-
-	Wash incident in
-	Mayl's kitchen,
+	Durante o incidente
+	da Lava-Bolha na
+	cozinha da Mayl,
 	"""
 	keyWait
 	clearMsg
 	"""
-	I heard Ms.Mari
-	singing!
+	eu acho que ouvi a
+	srta. Mari cantando!
 	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	"""
-	Oh yeah? What was
-	she singing?
+	Ah, é?
+	Cantando o quê?
 	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	"Fo--am,
-	foam on the
-	ra----nge"!
+	"É pau, é pedra,
+	é o fim do caminho,
+	"""
+	keyWait
+	clearMsg
+	"""
+	é um resto de
+	bolha, e eu tô
+	sozinha"!
 	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	"""
-	I wonder if this
-	humor program is
-	really working…
+	Este programa de
+	comédia tá mesmo
+	funcionando...?
 	"""
 	keyWait
 	end
@@ -319,26 +315,22 @@ script 13 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I heard that
-	Yai's house was
-	burglarized!
+	Alguém invadiu a
+	casa da Yai e só
+	levou saltos altos!
 	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"""
-	That's terrible!
-	Didn't they lock
-	the door?
-	"""
+	"Que horror!"
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Yeah,but somebody
-	got intruder window!
+	Pois é! Ela foi
+	a-salto-ada!
 	"""
 	keyWait
 	end
@@ -361,39 +353,40 @@ script 20 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan,I think you
-	really need to work
-	on your jokes…
+	MegaMan, as suas
+	piadas tão muito
+	ruins, cara...
 	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Apparently a lot of
-	people agree with
-	you…
+	É, realmente. O meu
+	amigo Dilho também
+	não aguenta mais.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I sent ten of my
-	puns in to an
-	online contest!
+	Até foi trocar uma
+	camisa minha do N1,
+	mas a loja recusou.
 	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"""
-	Really? How many of
-	them won a prize?
-	"""
+	"Por que não?"
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"No pun in ten did!"
+	"""
+	Sei lá. O cara da
+	loja só disse: "Sem
+	troca, Dilho!"
+	"""
 	keyWait
 	end
 }
@@ -402,43 +395,34 @@ script 21 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I was chatting with
-	a Mashy the other
-	day!
+	Eu fiz amizade com
+	um Mashy outro dia!
 	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	"""
-	You mean that virus
-	that looks like a
-	mushroom!?
+	O Mashy? Aquele
+	vírus cogumelo?!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Aren't they
-	dangerous??
+	Você é alérgico!
+	Aliás, o que cê faz
+	quando tá com ele?
 	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"""
-	Normally they are,
-	but he was a pretty
-	fungi!
-	"""
+	"Eu... fungo!"
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"""
-	That joke is in
-	really spore taste,
-	MegaMan…
-	"""
+	"É, eu mereci essa..."
 	keyWait
 	end
 }
@@ -447,32 +431,39 @@ script 22 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Two hydrogen atoms
-	are walking down
-	the street.
+	Dois átomos de
+	hidrogênio tão
+	andando na cidade.
 	"""
 	keyWait
 	clearMsg
 	"""
-	One of them trips
-	and falls. His
-	friend says,
+	Um deles tropeça e
+	cai. O amigo
+	pergunta:
 	"""
 	keyWait
 	clearMsg
-	"\"Are you OK\"?"
+	"\"Você está bem\"?"
 	keyWait
 	clearMsg
 	"""
-	"I dunno. I think I
-	lost my electron!"
+	"Não sei. Acho que
+	perdi o meu
+	elétron!"
 	"""
 	keyWait
 	clearMsg
-	"\"Are you sure?\""
+	"""
+	"Acha que vai
+	encontrar?"
+	"""
 	keyWait
 	clearMsg
-	"\"I'm positive!\""
+	"""
+	"Só se eu me
+	manter positivo!"
+	"""
 	keyWait
 	clearMsg
 	mugshotShow
@@ -486,70 +477,78 @@ script 23 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	You know Einstein's
-	famous equation,
-	E=mc squared,right?
+	Sabe aquela equação
+	do Einstein, o
+	E=mc ao quadrado?
 	"""
 	keyWait
 	clearMsg
-	"Yeah? So?"
+	mugshotShow
+		mugshot = Lan
+	"Sei. O que tem ela?"
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Well,one of his
-	students could
-	never remember it.
+	Bom, ele tinha um
+	aluno que nunca
+	lembrava dela.
 	"""
 	keyWait
 	clearMsg
 	"""
-	He always wrote
-	E=m2c instead of
+	Sempre escrevia
+	E=m2c em vez de
 	E=mc2.
 	"""
 	keyWait
 	clearMsg
 	"""
-	So he went to ask
-	which is right,
-	but he was so
+	Um dia, ele foi
+	perguntar qual era
+	o certo,
 	"""
 	keyWait
 	clearMsg
 	"""
-	nervous that he
-	spoke in a small,
-	stammering voice.
+	mas estava tão
+	nervoso que falou
+	baixo demais.
 	"""
 	keyWait
 	clearMsg
 	"""
-	"Speak up!" said
-	Einstein,"Vat is
-	it you are askink?"
+	"Fale!", disse o
+	Einstein. "Qual é a
+	sua pergunta?"
 	"""
 	keyWait
 	clearMsg
 	"""
-	So the student
-	shouted,
+	Einstein exigiu sem
+	parar.
 	"""
 	keyWait
 	clearMsg
 	"""
-	"2c or not 2c!
-	That is the
-	question!"
+	Em resposta, o aluno
+	acabou gritando:
+	"""
+	keyWait
+	clearMsg
+	"""
+	"Não grita comigo!
+	Assim, eu vou a2c!"
 	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	"""
-	C you later,
-	MegaMan!
+	Pior que um gracejo
+	seu, MegaMan, só se
+	c2!
 	"""
 	keyWait
 	end
@@ -572,33 +571,35 @@ script 30 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan! Lan! Viruses
-	were trying to steal
-	your data!
+	Lan! Lan! Eu vi um
+	troço estranho, acho
+	que era um vírus!
 	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	"""
-	What!? Which way
-	did they go?
+	Sério?! O que você
+	viu?
 	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"They went data way!"
+	"Eu vi rus!"
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"……"
+	mugshotAnimate
+		animation = 0
+	"......"
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"…Sorry…"
+	"... Desculpa..."
 	keyWait
 	end
 }
@@ -607,25 +608,25 @@ script 31 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan! Wanna' see my
-	impersonation of a
-	PET's grandfather?
+	Lan! Quer ver a
+	minha imitação de
+	Chaud?
 	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"OK,sure!"
+	"Manda!"
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"C:>"
+	"C>:("
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"…Cute!"
+	"... He he!"
 	keyWait
 	end
 }
@@ -633,38 +634,38 @@ script 32 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Knock,knock!"
+	"Charada pra você!"
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Who's there?"
+	"Manda aí."
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"Dwayne!"
+	"""
+	Do que é feito o
+	mar?
+	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Dwayne who?"
+	"Eu não sei, de quê?"
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = Chisao
-	"""
-	Dwayne da baftub!
-	I'm dwowning!
-	"""
+	"\"Ti\" sal!"
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	"""
-	The joke was bad,but
-	that was a great
-	impersonation!
+	A piada foi uma
+	tragédia, mas a
+	imitação? Impecável!
 	"""
 	keyWait
 	end
@@ -674,28 +675,28 @@ script 33 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	What did the man
-	selling blind deer
-	tell his customers?
+	O que o aluno de
+	música disse pra
+	professora?
 	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"I have no-eye-deer!"
+	"Eu sei \"Lá\"!"
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	…Oh,you've heard
-	that one.
+	... Ah, você já
+	ouviu essa.
 	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Heard what one?"
+	"Ouvi qual?"
 	keyWait
 	end
 }

@@ -5,9 +5,8 @@ script 0 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	This elevator
-	doesn't seem
-	to work…
+	Esse elevador não
+	parece tá funcionando...
 	"""
 	keyWait
 	clearMsg
@@ -19,9 +18,9 @@ script 1 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,find some place
-	to jack in! I'll
-	check the elevator!
+	Lan, encontra algum
+	lugar pra se conectar!
+	Eu confiro o elevador!
 	"""
 	keyWait
 	clearMsg
@@ -32,20 +31,19 @@ script 2 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"OK! Jack in!!"
+	"Beleza! Conectar!!"
 	keyWait
 	clearMsg
 	"""
-	Uh… This elevator
-	doesn't have any
-	place to jack in!
+	... Er... Esse elevador
+	não tem nenhuma
+	entrada de conexão.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Dex,do you see any
-	place where we can
-	jack in?
+	Dex, achou algum lugar
+	pra conectar por aí?
 	"""
 	keyWait
 	end
@@ -56,7 +54,7 @@ script 3 mmbn3 {
 	mugshotShow
 		mugshot = Dex
 	msgOpen
-	"No,not at all!"
+	"Não, nenhum!"
 	keyWait
 	end
 }
@@ -67,15 +65,16 @@ script 4 mmbn3 {
 		mugshot = Tora
 	msgOpen
 	"""
-	Not here,either!
-	This room looks like
-	some kind of lab…
+	Aqui, também, nada!
+	Esta sala aqui parece
+	um laboratório...
 	"""
 	keyWait
 	clearMsg
 	"""
-	But there's no place
-	to jack in anywhere!
+	Mas "num" tem entrada
+	de conexão em canto
+	nenhum!
 	"""
 	keyWait
 	end
@@ -85,15 +84,15 @@ script 5 mmbn3 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	All of the monitors
-	are connected to
-	this chair…
+	Todos os monitores
+	estão conectados a
+	esta cadeira...
 	"""
 	keyWait
 	clearMsg
 	"""
-	What could that
-	be for?
+	Qual será a função
+	dela?
 	"""
 	keyWait
 	clearMsg
@@ -104,9 +103,8 @@ script 6 mmbn3 {
 	mugshotHide
 	msgOpen
 	"""
-	That's a
-	Pulse Transmission
-	System!
+	É um Sistema de
+	Transmissão de Pulso!
 	"""
 	keyWait
 	clearMsg
@@ -119,7 +117,7 @@ script 7 mmbn3 {
 	mugshotShow
 		mugshot = Chaud
 	msgOpen
-	"Who's there!?"
+	"Quem está aí?!"
 	keyWait
 	end
 }
@@ -127,7 +125,7 @@ script 8 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"It's you!!"
+	"É você!!"
 	keyWait
 	end
 }
@@ -135,7 +133,7 @@ script 9 mmbn3 {
 	mugshotShow
 		mugshot = Chaud
 	msgOpen
-	"You know him?"
+	"Conhece ele?"
 	keyWait
 	clearMsg
 	jump
@@ -148,15 +146,15 @@ script 10 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Yeah,he's helped me
-	before. Don't worry,
-	he's on our side!
+	Uhum! Ele me ajudou uma
+	vez. Relaxa, ele tá do
+	nosso lado!
 	"""
 	keyWait
 	clearMsg
 	"""
-	And he's an
-	amazing programmer!
+	E é um programador
+	incrível!
 	"""
 	keyWait
 	clearMsg
@@ -170,8 +168,8 @@ script 11 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	But…
-	Just who ARE you?
+	Mas...
+	Afinal, QUEM é você?
 	"""
 	keyWait
 	clearMsg
@@ -185,9 +183,9 @@ script 12 mmbn3 {
 		mugshot = Cossak
 	msgOpen
 	"""
-	My name is Cossak…
-	I was once a
-	scientist at SciLab.
+	O meu nome é Cossak...
+	Já trabalhei como
+	cientista no SciLab.
 	"""
 	keyWait
 	clearMsg
@@ -198,7 +196,7 @@ script 13 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Huh!?"
+	"O quê?!"
 	keyWait
 	clearMsg
 	jump
@@ -209,23 +207,22 @@ script 14 mmbn3 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Cossak…I know that
-	name! If I remember
-	correctly,he was…
+	Cossak... Eu lembro
+	desse nome! Se não
+	me engano, ele era...
 	"""
 	keyWait
 	clearMsg
 	"""
-	The head scientist
-	on the Independent
-	Navi Project!
+	o cientista-líder do
+	Projeto Navi
+	Independente!
 	"""
 	keyWait
 	clearMsg
 	"""
-	But if that's so,
-	why would he be
-	doing here!?
+	Mas, sendo assim...
+	o que você faz aqui?!
 	"""
 	keyWait
 	clearMsg
@@ -239,15 +236,15 @@ script 15 mmbn3 {
 		mugshot = Cossak
 	msgOpen
 	"""
-	Just a little
-	unfinished business.
+	Só cuidando de alguns
+	negócios inacabados.
 	"""
 	keyWait
 	clearMsg
 	"""
-	But never mind that.
-	If you want move on,
-	get out of the way.
+	Mas esqueça isso.
+	Se querem prosseguir,
+	saiam da frente.
 	"""
 	keyWait
 	end
@@ -259,16 +256,16 @@ script 16 mmbn3 {
 		mugshot = Cossak
 	msgOpen
 	"""
-	This is called a
-	"Pulse Transmission
-	System".
+	Isto é o que chamamos
+	de um "Sistema de
+	Transmissão de Pulso".
 	"""
 	keyWait
 	clearMsg
 	"""
-	It allows humans
-	to directly enter
-	the Cyberworld.
+	Ele permite que um
+	humano entre no mundo
+	cibernético diretamente.
 	"""
 	keyWait
 	clearMsg
@@ -280,14 +277,14 @@ script 17 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Humans?
-	In the Cyberworld?
+	Humanos...
+	no mundo cibernético?
 	"""
 	keyWait
 	clearMsg
 	"""
-	How is that
-	possible?
+	Mas como isso é
+	possível?
 	"""
 	keyWait
 	clearMsg
@@ -299,23 +296,23 @@ script 18 mmbn3 {
 		mugshot = Cossak
 	msgOpen
 	"""
-	To be precise it
-	sends their "brain
-	waves" there.
+	Para ser exato, ele en-
+	via as "ondas cerebrais"
+	da pessoa para lá.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Brain waves are
-	really just a type
-	of electric pulse.
+	Ondas cerebrais, essen-
+	cialmente, são só um tipo
+	de pulso elétrico.
 	"""
 	keyWait
 	clearMsg
 	"""
-	The system converts
-	brain waves to
-	data,and sends that.
+	O sistema converte
+	ondas cerebrais em
+	dados e os envia.
 	"""
 	keyWait
 	clearMsg
@@ -327,8 +324,8 @@ script 19 mmbn3 {
 		mugshot = Dex
 	msgOpen
 	"""
-	So what happens
-	after that?
+	E... o que rola depois
+	disso?
 	"""
 	keyWait
 	clearMsg
@@ -340,37 +337,36 @@ script 20 mmbn3 {
 		mugshot = Cossak
 	msgOpen
 	"""
-	The brain wave
-	data enters the Net
-	as a new "self"
+	Os dados de ondas
+	cerebrais entram na
+	Rede como um novo "ser".
 	"""
 	keyWait
 	clearMsg
 	"""
-	everything you sense
-	there is sent to
-	your brain.
+	Tudo que você sente lá
+	é enviado para o seu
+	cérebro.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Your senses thus
-	work just like in
-	the real world.
+	Logo, os seus sentidos
+	operam do mesmo jeito
+	que no mundo real.
 	"""
 	keyWait
 	clearMsg
 	"""
-	So if you are hurt
-	there,that data goes
-	to your brain…
+	Então, se você se ma-
+	chuca lá, esses dados
+	vão pro seu cérebro...
 	"""
 	keyWait
 	clearMsg
 	"""
-	So your body in
-	the real world will
-	be hurt,as well!
+	e o seu corpo no mundo
+	real também se machuca!
 	"""
 	keyWait
 	clearMsg
@@ -381,13 +377,13 @@ script 21 mmbn3 {
 	mugshotShow
 		mugshot = Tora
 	msgOpen
-	"S-So…"
+	"E-então..."
 	keyWait
 	clearMsg
 	"""
-	What would happen if
-	you died in
-	Cyberworld…?
+	Quê que acontece se tu
+	morre no mundo
+	cibernético...?
 	"""
 	keyWait
 	clearMsg
@@ -399,23 +395,22 @@ script 22 mmbn3 {
 		mugshot = Cossak
 	msgOpen
 	"""
-	Then your real-life
-	body would of course
-	be affected as well.
+	Aí, o seu corpo real
+	também seria afetado.
 	"""
 	keyWait
 	clearMsg
 	"""
-	This was developed
-	at SciLab,but it was
-	just too dangerous…
+	Isso foi desenvolvido no
+	SciLab, mas era perigoso
+	demais...
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'm sure that Wily
-	got the tech when he
-	worked at SciLab.
+	O Wily deve ter adquirido
+	a tecnologia enquanto
+	trabalhava no SciLab.
 	"""
 	keyWait
 	end
@@ -425,13 +420,13 @@ script 23 mmbn3 {
 		mugshot = Cossak
 	msgOpen
 	"""
-	I will pulse into
-	the Cyberworld and
-	start the elevator.
+	Eu vou me injetar no
+	mundo cibernático e
+	ligar o elevador.
 	"""
 	keyWait
 	clearMsg
-	"Pulse in!"
+	"Pulsar!"
 	keyWait
 	soundPlay
 		track = 317
@@ -440,20 +435,20 @@ script 23 mmbn3 {
 script 24 mmbn3 {
 	mugshotHide
 	msgOpen
-	"OK,I've pulsed in."
+	"Certo, me pulsei."
 	keyWait
 	clearMsg
 	"""
-	I'll start working
-	on getting the
-	elevator moving.
+	Começarei a trabalhar
+	para reativar o
+	elevador.
 	"""
 	keyWait
 	clearMsg
 	"""
-	You can see what I'm
-	doing from those
-	monitors.
+	Dá para vocês verem o
+	que eu estou fazendo
+	por esses monitores.
 	"""
 	keyWait
 	clearMsg
@@ -469,15 +464,15 @@ script 25 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	His voice!
-	It's coming from
-	the monitors!
+	A voz dele!
+	Ela tá saindo dos
+	monitores!
 	"""
 	keyWait
 	clearMsg
 	"""
-	He really went
-	into Cyberworld…
+	Ele entrou mesmo no
+	mundo cibernético...
 	"""
 	keyWait
 	end

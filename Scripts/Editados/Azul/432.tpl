@@ -5,9 +5,8 @@ script 0 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Hey!! There's a
-	passage behind
-	this cable!!
+	Olha!! Tem uma passagem
+	atrás deste cabo aqui!!
 	"""
 	keyWait
 	end
@@ -17,9 +16,9 @@ script 1 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	A hidden passage!
-	I'll bet it leads
-	to Wily!!
+	Uma passagem secreta!
+	Aposto que ela dá no
+	Wily!!
 	"""
 	keyWait
 	clearMsg
@@ -30,18 +29,18 @@ script 2 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Yeah!"
+	"É!"
 	keyWait
 	clearMsg
 	"""
-	Let me take a deep
-	breath here...
+	OK... Respira fundo...
 	"""
 	keyWait
 	clearMsg
 	"""
-	OK! Let's go
-	get him!!
+	Beleza!
+	Bora lá dar uma lição
+	nele!
 	"""
 	keyWait
 	end

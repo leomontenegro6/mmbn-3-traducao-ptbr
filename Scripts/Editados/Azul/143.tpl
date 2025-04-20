@@ -25,16 +25,16 @@ script 10 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	I'm so busy. It's
-	almost the season
-	for hot drinks.
+	Estou tão ocupado!
+	Já é quase a estação
+	das bebidas quentes.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Don't worry. I'll
-	prepare some piping
-	hot coffee!!
+	Não se preocupe:
+	prepararei para você um
+	chocolate extra quente!!
 	"""
 	keyWait
 	end
@@ -49,41 +49,42 @@ script 11 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	Ah! I wonder if this
-	data is…
-	Ouch! That's hot!!
+	Ah! Será que estes
+	dados são...
+	Ai! Tá quente!!
 	"""
 	keyWait
 	clearMsg
 	"""
-	It must be data for
-	making hot drinks!!
+	Devem ser os dados
+	para fazer bebidas
+	quentes!!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I was just thinking
-	to make coffee! But
-	it's a little early.
+	Eu bem que pensei em
+	fazer café! Mas ainda
+	está meio cedo...
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'd better get ready
-	to switch over to
-	hot drinks,first.
+	Primeiro, preciso me pre-
+	parar para trocar para
+	o Modo Bebidas Quentes.
 	"""
 	keyWait
 	clearMsg
 	"""
-	OK. Now I'm ready to
-	take it!
+	OK. Agora, sim, estou
+	pronto para instalá-lo!
 	"""
 	keyWait
 	clearMsg
 	mugshotHide
 	"""
-	The Program loaded
+	O Programa carregou
 	"
 	"""
 	printItem
@@ -91,16 +92,16 @@ script 11 mmbn3 {
 		item = 25
 	"""
 	"
-	into himself!!
+	dentro de si!!
 	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = MrProg
 	"""
-	Hooo! Whoooa!!
-	T-This is way too
-	hot!
+	Uuuuuh! Ooooopa!!
+	I-isto aqui tá quente
+	demais!
 	"""
 	keyWait
 	end
@@ -110,15 +111,16 @@ script 12 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	Ouch…Ouch…
-	H-Hot…Too hot!
+	Ai... Ai...
+	Q-quente...
+	Quente demais!
 	"""
 	keyWait
 	clearMsg
 	"""
-	But if I can use it
-	to make delicious
-	coffee,that's great!
+	Mas, se posso usar isto
+	para fazer um café
+	delicioso, tudo bem!
 	"""
 	keyWait
 	end
@@ -128,15 +130,15 @@ script 13 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	The previous program
-	here burned up in
-	the SciLab fire.
+	O antigo programa foi
+	reduzido a cinzar no
+	incêndio do SciLab.
 	"""
 	keyWait
 	clearMsg
 	"""
-	He sure was a nice
-	program,too…
+	E ele era um programa
+	tão gentil...
 	"""
 	keyWait
 	end
@@ -162,32 +164,32 @@ script 190 mmbn3 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	Nice to meet you,
-	MegaMan! Yes,I sent
-	for you.
+	É um prazer conhecê-lo,
+	MegaMan! Sim, fui eu
+	quem o chamou.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I knew there must be
-	a Navi who would
-	feel like I do!
+	Eu sabia que existia
+	um Navi que sentia o
+	mesmo que eu!
 	"""
 	keyWait
 	clearMsg
 	"""
-	You're a used Navi,
-	too,aren't you,
-	MegaMan?
+	Você também é um Navi
+	usado, não é,
+	MegaMan.EXE?
 	"""
 	keyWait
 	clearMsg
-	"Hm?"
+	"Hã?"
 	waitSkip
 		frames = 10
 	"""
-	 You're not…?
-	Oh,pardon me…
+	 Não é...?
+	Ah, desculpe por isso...
 	"""
 	waitSkip
 		frames = 2
@@ -195,83 +197,83 @@ script 190 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Ah! Oh,well.
-	Nevertheless,
-	here's my request!
+	Ah! Bom, tanto faz.
+	Independentemente
+	disso, eis meu pedido!
 	"""
 	keyWait
 	clearMsg
 	"""
-	As the BBS says,I'm
-	a second-hand Navi.
+	Como dito no Fórum, sou
+	um Navi de segunda mão.
 	"""
 	waitSkip
 		frames = 10
-	"\n…Yes,I was sold."
+	"\n... Sim, eu fui vendido."
 	keyWait
 	clearMsg
 	"""
-	With a new operator,
-	I felt like my
-	past was behind me.
+	Com um novo operador,
+	eu senti haver deixado
+	meu passado para trás...
 	"""
 	keyWait
 	clearMsg
-	"However…"
+	"Porém..."
 	keyWait
 	clearMsg
 	"""
-	I just can't get my
-	old operator out
-	of my mind.
-	"""
-	keyWait
-	clearMsg
-	"""
-	Please,MegaMan! Find
-	out,quietly,how my
-	operator is doing!
+	Eu não consigo parar
+	de pensar na minha
+	antiga operadora.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Don't say you know
-	me. A sold Navi is
-	of no importance…
+	Por favor, MegaMan!
+	Descubra, na surdina,
+	como ela está!
 	"""
 	keyWait
 	clearMsg
 	"""
-	The problem is,my
-	old operator moved.
-	I don't know where.
+	Não informe a ela que
+	me viu. Um Navi vendido
+	não tem importância...
 	"""
 	keyWait
 	clearMsg
 	"""
-	The only clue is
-	that she used to go
-	to ACDC school.
+	Só um problema: minha an-
+	tiga operadora se mudou.
+	Não sei para onde.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Ah! I remember she
-	was in the school's
-	yearbook!
+	A única pista que tenho
+	é que ela estudava no
+	Colégio ACDC.
 	"""
 	keyWait
 	clearMsg
 	"""
-	There must be a clue
-	in that book.
+	Ah! Lembrei que ela foi
+	incluída no anuário da
+	escola!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Her name is Anna
-	Mori! Please,
-	find her for me!
+	Deve haver uma pista
+	naquele livro.
+	"""
+	keyWait
+	clearMsg
+	"""
+	O nome dela é Ana Mori!
+	Por favor, encontre-a
+	para mim!
 	"""
 	keyWait
 	end
@@ -281,15 +283,15 @@ script 191 mmbn3 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	First,find the year
-	book somewhere in
-	the school.
+	Para começar, encontre
+	o anuário em algum
+	ponto da escola.
 	"""
 	keyWait
 	clearMsg
 	"""
-	There could be a
-	clue hidden in it…
+	Pode haver uma pista
+	escondida nele...
 	"""
 	keyWait
 	end
@@ -305,15 +307,15 @@ script 192 mmbn3 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	So my old operator's
-	hopes and dreams
-	all came true!
+	Então, os sonhos e
+	ambições da minha ex-
+	operadora se realizaram!
 	"""
 	keyWait
 	clearMsg
 	"""
-	MegaMan,I want you
-	to have this!
+	MegaMan, quero que
+	fique com isto!
 	"""
 	keyWait
 	clearMsg
@@ -331,8 +333,8 @@ script 193 mmbn3 {
 	playerAnimate
 		animation = 24
 	"""
-	MegaMan got a
-	chip for
+	MegaMan recebeu o
+	chip
 	"
 	"""
 	printChip
@@ -354,8 +356,9 @@ script 194 mmbn3 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	Now I'm inspired to
-	work even harder!!
+	Agora fiquei inspirado
+	a me esforçar ainda
+	mais na vida!!
 	"""
 	keyWait
 	end
@@ -363,8 +366,8 @@ script 194 mmbn3 {
 script 230 mmbn3 {
 	msgOpen
 	"""
-	MegaMan accessed the
-	mystery data.
+	MegaMan acessou os
+	dados misteriosos.
 	"""
 	wait
 		frames = 10
@@ -385,8 +388,8 @@ script 230 mmbn3 {
 		item = 99
 		amount = 1
 	"""
-	MegaMan got a
-	PowerUp:
+	MegaMan adquiriu
+	um PowerUp:
 	"
 	"""
 	printItem
@@ -398,8 +401,8 @@ script 230 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Regular memory
-	increased by 2 MB!
+	Memória padrão
+	aumentada em 2 MB!
 	"""
 	keyWait
 	end

@@ -4,7 +4,7 @@ script 0 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Dad!"
+	"Papai!"
 	keyWait
 	clearMsg
 	jump
@@ -15,9 +15,9 @@ script 1 mmbn3 {
 		mugshot = Dad
 	msgOpen
 	"""
-	Oh,Lan! You're here!
-	We've all been
-	waiting for you!
+	Ah, Lan! Você chegou!
+	Estávamos esperando
+	por você.
 	"""
 	keyWait
 	end
@@ -27,9 +27,9 @@ script 2 mmbn3 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	The man of honor has
-	arrived. Let the
-	ceremony begin.
+	Nosso convidado de
+	honra chegou.
+	Que comece a cerimônia!
 	"""
 	keyWait
 	end
@@ -38,40 +38,40 @@ script 3 mmbn3 {
 	mugshotShow
 		mugshot = SciLabMan
 	msgOpen
-	"Ahem!"
+	"Ca-hem!"
 	keyWait
 	clearMsg
 	"""
-	Award recipient
-	Lan Hikari!
-	For outstanding
-	"""
-	keyWait
-	clearMsg
-	"""
-	service to our
-	community and saving
-	numerous lives by
+	Ganhador do prêmio,
+	Lan Hikari! Pelo seu
+	serviço exemplar
 	"""
 	keyWait
 	clearMsg
 	"""
-	defending the
-	hospital against the
-	WWW's attack,we
+	por nossa comunidade
+	e por salvar diversas
+	vidas ao defender
 	"""
 	keyWait
 	clearMsg
 	"""
-	present you with
-	this commendation
-	and our eternal
+	o Hospital Beira-Mar
+	contra o ataque da
+	WWW,
 	"""
 	keyWait
 	clearMsg
 	"""
-	appreciation.
-	Well done,son!
+	nós o presenteamos
+	com esta condecoração
+	e nossa eterna gratidão.
+	"""
+	keyWait
+	clearMsg
+	"""
+	Excelente trabalho,
+	rapazinho!
 	"""
 	keyWait
 	end
@@ -80,7 +80,7 @@ script 4 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Thank you!"
+	"Obrigado!"
 	keyWait
 	clearMsg
 	flagSet
@@ -98,23 +98,22 @@ script 5 mmbn3 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	We received a phone
-	call from the
-	hospital. The boy
+	Acabamos de receber
+	uma ligação do hospital.
+	O menino que estava
 	"""
 	keyWait
 	clearMsg
 	"""
-	who was undergoing
-	surgery during the
-	WWW's attack is
+	sendo operado durante
+	o ataque da WWW está
+	se recuperando bem.
 	"""
 	keyWait
 	clearMsg
 	"""
-	recovering well. He
-	says he'd like you
-	to pay him a visit.
+	E ele disse que gostaria
+	que você fosse visitá-lo.
 	"""
 	keyWait
 	clearMsg
@@ -126,13 +125,15 @@ script 6 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	That's great news!
-	Let's stop by the
-	hospital on the way
+	Que notícia boa!
 	"""
 	keyWait
 	clearMsg
-	"home,MegaMan!"
+	"""
+	Bora passar no hospital
+	no caminho pra casa,
+	MegaMan!
+	"""
 	keyWait
 	clearMsg
 	jump
@@ -142,7 +143,7 @@ script 7 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Yeah,sound's great!"
+	"Ótima ideia! Vamos sim."
 	keyWait
 	clearMsg
 	jump
@@ -152,15 +153,19 @@ script 8 mmbn3 {
 	mugshotShow
 		mugshot = Dad
 	msgOpen
-	"Lan,"
+	"Lan, "
 	playerAnimate
 		animation = 7
-	"I'm proud of you."
+	"""
+	eu tô muito
+	orgulhoso de você.
+	"""
 	keyWait
 	clearMsg
 	"""
-	But don't make your
-	father worry,OK?
+	Mas tenta não preocupar
+	demais o seu pai aqui,
+	OK, filhão?
 	"""
 	keyWait
 	clearMsg
@@ -171,7 +176,7 @@ script 9 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"OK…"
+	"OK..."
 	keyWait
 	end
 }
@@ -179,12 +184,13 @@ script 10 mmbn3 {
 	mugshotShow
 		mugshot = Scientist
 	msgOpen
-	"Come now,Dr.Hikari."
+	"Ora, vamos, Dr.Hikari."
 	keyWait
 	clearMsg
 	"""
-	You're lucky to have
-	such a brave boy.
+	Você tem muita sorte
+	por ter um filho tão
+	corajoso.
 	"""
 	keyWait
 	end
@@ -193,19 +199,19 @@ script 11 mmbn3 {
 	mugshotShow
 		mugshot = Scientist
 	msgOpen
-	"Lan,"
+	"Lan, "
 	playerAnimate
 		animation = 7
 	"""
-	well done!
-	You saved a lot of
-	lives!
+	muito bom trabalho!
+	Você salvou várias
+	vidas!
 	"""
 	keyWait
 	clearMsg
 	"""
-	We're all proud of
-	you!
+	Estamos todos muito
+	orgulhosos de você!
 	"""
 	keyWait
 	clearMsg
@@ -217,9 +223,8 @@ script 12 mmbn3 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	That's true!
-	You're the hero of
-	ACDC Town!
+	É isso aí!
+	Você é o herói de ACDC!
 	"""
 	keyWait
 	clearMsg
@@ -230,13 +235,13 @@ script 13 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"A hero?"
+	"Herói?"
 	keyWait
 	clearMsg
 	"""
-	Wow,I'm a hero…
-	Cool!
-	Ha ha!
+	Nossa, eu sou um herói...
+	Maneiro!
+	Ha ha ha!
 	"""
 	keyWait
 	clearMsg
@@ -248,16 +253,15 @@ script 14 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	There you go again,
-	letting it get to
-	your head…!
+	E, como sempre, Lan
+	Hikari deixa a fama lhe
+	subir à cabeça...
 	"""
 	keyWait
 	clearMsg
 	"""
-	The ceremony's over.
-	Let's get over to
-	the hospital!
+	Bom, a cerimônia acabou.
+	Vamos lá pro hospital!
 	"""
 	keyWait
 	clearMsg
@@ -269,15 +273,14 @@ script 15 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	All right,already!
-	Well dad,I'm going
-	to the Seaside
+	Tá bom, tá bom!
+	Bom, papai, vou lá pro
+	Hospital Beira-Mar.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Hospital now. I'll
-	see you later!
+	Até mais!
 	"""
 	keyWait
 	clearMsg
@@ -288,7 +291,7 @@ script 16 mmbn3 {
 	mugshotShow
 		mugshot = Dad
 	msgOpen
-	"OK,be careful!"
+	"Tá bom. Vai com cuidado!"
 	keyWait
 	clearMsg
 	jump
@@ -300,7 +303,7 @@ script 17 mmbn3 {
 	msgOpen
 	mugshotAnimate
 		animation = 0
-	"(Ha! I'm a hero!)"
+	"(Ha ha! Eu sou um herói!)"
 	keyWait
 	end
 }

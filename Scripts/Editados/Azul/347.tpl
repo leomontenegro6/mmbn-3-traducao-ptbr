@@ -4,7 +4,7 @@ script 0 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"We did it,Lan!"
+	"Conseguimos, Lan!"
 	keyWait
 	clearMsg
 	jump
@@ -15,9 +15,9 @@ script 1 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Looks like The WWW
-	is coming out in
-	the open,now…
+	Parece que, agora,
+	a WWW tá agindo bem
+	à mostra...
 	"""
 	keyWait
 	end
@@ -26,7 +26,7 @@ script 2 mmbn3 {
 	mugshotHide
 	msgOpen
 	soundDisableTextSFX
-	"Beep Beep Beep!"
+	"Bip Bip Bip!"
 	keyWait
 	soundEnableTextSFX
 	end
@@ -36,13 +36,12 @@ script 3 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,
-	You got mail from
-	Mr.Match again!
+	Lan, chegou outro
+	e-mail do Sr. Match!
 	"""
 	keyWait
 	clearMsg
-	"It says,"
+	"Está escrito:"
 	keyWait
 	clearMsg
 	jump
@@ -57,26 +56,25 @@ script 4 mmbn3 {
 	mugshotAnimate
 		animation = 0
 	"""
-	"Now the WWW has
-	entered SciLab 1!
+	"Agora, a WWW foi pra
+	SciLab 1!
 	"""
 	keyWait
 	clearMsg
 	"""
-	"The Officials are
-	having a hard time.
-	My former WWW
+	Os Oficiais estão tendo
+	muita dificuldade.
 	"""
 	keyWait
 	clearMsg
 	"""
-	"instinct tells me
-	they must be up to
-	something.
+	Meus instintos de ex-WWW
+	me dizem que eles estão
+	tramando alguma coisa.
 	"""
 	keyWait
 	clearMsg
-	"\"Hurry over here!\"."
+	"Vão logo para lá!\"."
 	flagAddMail
 		flag = 4373
 	flagClear
@@ -91,14 +89,14 @@ script 5 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	What could the WWW
-	be up to?
+	O que será que a WWW
+	tá aprontando?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Come on,MegaMan!
-	We've got to get to
+	Vamos, MegaMan!
+	A gente tem que ir pra
 	SciLab 1!
 	"""
 	keyWait
@@ -110,7 +108,7 @@ script 6 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Roger!"
+	"Certo!"
 	keyWait
 	end
 }

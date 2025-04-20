@@ -5,9 +5,9 @@ script 0 mmbn3 {
 		mugshot = Tora
 	msgOpen
 	"""
-	What's up,Lan!
-	Sorry to just barge
-	in like this!
+	Fala, Lan!
+	Desculpa aí por
+	invadir a tua casa!
 	"""
 	keyWait
 	clearMsg
@@ -19,9 +19,9 @@ script 1 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Tora? I haven't seen
-	you since N1! What
-	are you doing here?
+	Tora? Eu não te vejo
+	desde o N1! Tá fazendo
+	o quê aqui?
 	"""
 	keyWait
 	clearMsg
@@ -33,36 +33,37 @@ script 2 mmbn3 {
 		mugshot = Tora
 	msgOpen
 	"""
-	Well,I'm kinda
-	checking out some
-	different scenes.
+	Ah, eu tô zanzando
+	por aí, conhecendo
+	novos horizontes.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Where I'm from,I'm
-	unbeatable. But when
-	I entered N1,I saw
+	Lá na minha terra, eu
+	sou invencível. Mas, no
+	no N1, eu vi que tinham
 	"""
 	keyWait
 	clearMsg
 	"""
-	tough operators
-	everywhere! After I
-	lost to you,it hit
+	operadores fortes pra
+	tudo que é canto! Depois
+	que tu me venceu,
 	"""
 	keyWait
 	clearMsg
 	"""
-	me that I'm just a
-	big fish in a small
-	pond. I need to get
+	eu vi, na verdade, que
+	eu era peixe pequeno.
+	
 	"""
 	keyWait
 	clearMsg
 	"""
-	out and see the
-	ocean!
+	Preciso sair da minha
+	lagoinha e explorar o
+	mar, saca?
 	"""
 	keyWait
 	end
@@ -72,16 +73,16 @@ script 3 mmbn3 {
 		mugshot = Mom
 	msgOpen
 	"""
-	Dinner's ready,Lan!
-	Well,Tora,I take it
-	you'll be staying?
+	O jantar tá pronto, Lan!
+	Tora, você vai passar
+	a noite?
 	"""
 	keyWait
 	clearMsg
 	"""
-	I made plenty of
-	food,so you're
-	welcome to join us!
+	Eu fiz bastante comida,
+	então, fique à vontade
+	pra jantar com a gente!
 	"""
 	keyWait
 	clearMsg
@@ -93,8 +94,8 @@ script 4 mmbn3 {
 		mugshot = Tora
 	msgOpen
 	"""
-	Well,if you put it
-	that way…sure!!
+	Bom, se a senhora
+	insiste... eu quero!!
 	"""
 	keyWait
 	clearMsg
@@ -105,7 +106,10 @@ script 5 mmbn3 {
 	mugshotShow
 		mugshot = Mom
 	msgOpen
-	"Hurry down,you two!"
+	"""
+	Então, rápido
+	vocês dois!
+	"""
 	keyWait
 	end
 }
@@ -114,9 +118,9 @@ script 6 mmbn3 {
 		mugshot = Tora
 	msgOpen
 	"""
-	Let's talk more
-	after we eat. Come
-	on!
+	Depois de comer a
+	gente conversa mais.
+	Bora!
 	"""
 	keyWait
 	end
@@ -125,8 +129,7 @@ script 7 mmbn3 {
 	mugshotHide
 	msgOpen
 	"""
-	After supper is
-	finished…
+	Após o jantar...
 	"""
 	keyWait
 	end
@@ -136,9 +139,9 @@ script 8 mmbn3 {
 		mugshot = Tora
 	msgOpen
 	"""
-	Wow,that was great!
-	I wish I could eat
-	like that everyday!
+	Putz, tava tão bom!
+	Queria poder comer
+	assim todo dia!
 	"""
 	keyWait
 	clearMsg
@@ -150,8 +153,8 @@ script 9 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	So,anyway,you were
-	saying?
+	Mas e aí, o que você ia
+	dizendo...?
 	"""
 	keyWait
 	clearMsg
@@ -163,23 +166,22 @@ script 10 mmbn3 {
 		mugshot = Tora
 	msgOpen
 	"""
-	Oh,yeah. So it hit
-	me that there are
-	lots of strong
+	Ah, é. Pois é, eu me to-
+	quei que tem muito Net-
+	Lutador forte por aí.
 	"""
 	keyWait
 	clearMsg
 	"""
-	NetBattlers out
-	there. I figured I'd
-	travel around and
+	Aí decidi viajar e
+	estudar os estilos de
+	luta deles.
 	"""
 	keyWait
 	clearMsg
 	"""
-	study their styles.
-	I'm sort of on a
-	training mission!
+	Tipo uma missão de
+	treinamento, saca?
 	"""
 	keyWait
 	clearMsg
@@ -191,8 +193,9 @@ script 11 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Hmm. So you chose to
-	learn from me first?
+	Hmm. E você decidiu
+	aprender comigo,
+	primeiro?
 	"""
 	keyWait
 	clearMsg
@@ -204,8 +207,8 @@ script 12 mmbn3 {
 		mugshot = Tora
 	msgOpen
 	"""
-	Oh,no. You're my
-	second person.
+	Ah, não. Na real, tu era
+	o segundo da lista.
 	"""
 	keyWait
 	clearMsg
@@ -217,8 +220,8 @@ script 13 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Oh. So who did you
-	study before me?
+	Ah. E quem você
+	estudou antes de mim?
 	"""
 	keyWait
 	clearMsg
@@ -229,7 +232,7 @@ script 14 mmbn3 {
 	mugshotShow
 		mugshot = Tora
 	msgOpen
-	"That guy Chaud."
+	"O Chaud."
 	keyWait
 	clearMsg
 	jump
@@ -240,9 +243,9 @@ script 15 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Chaud?
-	So,did you learn
-	anything?
+	O Chaud?
+	E aí, você aprendeu
+	alguma coisa?
 	"""
 	keyWait
 	clearMsg
@@ -254,16 +257,16 @@ script 16 mmbn3 {
 		mugshot = Tora
 	msgOpen
 	"""
-	I went to his house,
-	but they told me to
-	go home.
+	Eu fui lá na casa dele,
+	mas me mandaram
+	embora.
 	"""
 	keyWait
 	clearMsg
 	"""
-	So I used my own
-	methods to check him
-	out.
+	Aí, eu apelei pruns
+	métodos próprios pra
+	sondar o cara.
 	"""
 	keyWait
 	clearMsg
@@ -275,9 +278,8 @@ script 17 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Check him out? You
-	mean,like spy on
-	him?
+	"Sondar"?
+	Tipo... espionar ele?
 	"""
 	keyWait
 	clearMsg
@@ -289,16 +291,15 @@ script 18 mmbn3 {
 		mugshot = Tora
 	msgOpen
 	"""
-	Exactly. I've had my
-	eye on him ever
-	since N1. And you
+	É, espionar ele. Eu tava
+	de olho nele desde o
+	N1. E quer saber?
 	"""
 	keyWait
 	clearMsg
 	"""
-	know what? I found
-	out the secret of
-	his strength.
+	Eu aprendi o segredo
+	da força dele.
 	"""
 	keyWait
 	clearMsg
@@ -310,8 +311,8 @@ script 19 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	The secret…?
-	Of Chaud's strength?
+	O segredo...
+	da força do Chaud?
 	"""
 	keyWait
 	clearMsg
@@ -323,30 +324,29 @@ script 20 mmbn3 {
 		mugshot = Tora
 	msgOpen
 	"""
-	Yeah,I bet you want
-	to know too,huh? I'm
-	willing to part with
+	Aham. Aposto que tu
+	também quer saber, né?
+	Tô disposto a contar,
 	"""
 	keyWait
 	clearMsg
 	"""
-	that info,but first
-	I got a favor to
-	ask. This training
+	mas, primeiro, quero um
+	favor teu. Esta minha
+	missão de treinamento
 	"""
 	keyWait
 	clearMsg
 	"""
-	mission of mine is
-	fine and all,but I'm
-	short on money. I'd
+	é legal e tal, mas tô
+	meio liso.
 	"""
 	keyWait
 	clearMsg
 	"""
-	like to earn some
-	cash at the SciLab
-	Job BBS tomorrow.
+	Quero fazer um dinheiri-
+	nho no Fórum de Tarefas
+	do SciLab amanhã.
 	"""
 	keyWait
 	clearMsg
@@ -357,7 +357,10 @@ script 21 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"And you want me to…?"
+	"""
+	E isso tem a ver comigo
+	porque...?
+	"""
 	keyWait
 	clearMsg
 	jump
@@ -368,23 +371,22 @@ script 22 mmbn3 {
 		mugshot = Tora
 	msgOpen
 	"""
-	I'd like you to take
-	on a few requests
-	for me. I found some
+	Eu queria que tu
+	pegasse umas missões
+	pra mim. Eu vi umas
 	"""
 	keyWait
 	clearMsg
 	"""
-	with good earning
-	potential yesterday,
-	but I can't do them
+	que prometem um dinheiro
+	bom ontem, mas "num"
+	posso fazer todas elas
 	"""
 	keyWait
 	clearMsg
 	"""
-	all by myself,and
-	someone else may
-	take them.
+	sozinho. Aí, queria outra
+	pessoa pra pegar elas.
 	"""
 	keyWait
 	clearMsg
@@ -396,8 +398,8 @@ script 23 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	What!? I'm not
-	gonna work for you!
+	Quê?! Eu não vou
+	trabalhar pra você!
 	"""
 	keyWait
 	clearMsg
@@ -408,13 +410,13 @@ script 24 mmbn3 {
 	mugshotShow
 		mugshot = Tora
 	msgOpen
-	"Oh."
+	"Hm."
 	keyWait
 	clearMsg
 	"""
-	Guess you don't want
-	that secret info on
-	Chaud after all.
+	Então, acho que tu "num"
+	quer saber o segredo
+	do Chaud, né...?
 	"""
 	keyWait
 	clearMsg
@@ -425,10 +427,10 @@ script 25 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Hmmmmm…"
+	"Hmmmmm..."
 	keyWait
 	clearMsg
-	"Fine! I'll do it!"
+	"Ah, tá bom! Eu topo!"
 	keyWait
 	clearMsg
 	jump
@@ -439,13 +441,12 @@ script 26 mmbn3 {
 		mugshot = Tora
 	msgOpen
 	"""
-	All right! It's a
-	deal! See ya
-	tomorrow!
+	Opa! Fechou, então!
+	Amanhã a gente vê isso!
 	"""
 	keyWait
 	clearMsg
-	"I'm going to sleep!"
+	"Vou dormir então! Noite!"
 	keyWait
 	clearMsg
 	jump
@@ -456,8 +457,8 @@ script 27 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	You'd think this was
-	your house,not mine…
+	Parece até que a casa
+	é dele, não minha...
 	"""
 	keyWait
 	end

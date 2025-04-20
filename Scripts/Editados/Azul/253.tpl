@@ -5,9 +5,9 @@ script 0 mmbn3 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Congratulations!
-	You've cleared the
-	final preliminary!
+	Meus parabéns!
+	Você completou as
+	últimas preliminares!
 	"""
 	keyWait
 	end
@@ -16,7 +16,7 @@ script 1 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"We did it,Lan!"
+	"Conseguimos, Lan!"
 	keyWait
 	clearMsg
 	jump
@@ -27,9 +27,8 @@ script 2 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Yeah! At this rate,
-	we're going to win
-	the N1 Grand Prix!
+	É! Nesse ritmo, o Grande
+	Prêmio N1 já tá no papo!
 	"""
 	keyWait
 	end
@@ -41,15 +40,15 @@ script 3 mmbn3 {
 		mugshot = GutsMan
 	msgOpen
 	"""
-	Yee-haw! I cleared
-	the preliminary,too!
+	ÍRRA! Eu também passei
+	nas preliminares, Guts!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Let's kick butt at
-	the Grand Prix
-	together! Yee-haw!
+	Bora botar pra quebrar
+	no Grande Prêmio juntos!
+	GUUUUUTS!
 	"""
 	keyWait
 	clearMsg
@@ -63,9 +62,9 @@ script 4 mmbn3 {
 		mugshot = Glide
 	msgOpen
 	"""
-	I will also partake
-	in the N1 Grand
-	Prix. Good luck.
+	Eu também participarei
+	do Grande Prêmio N1.
+	Boa sorte a todos nós.
 	"""
 	keyWait
 	clearMsg
@@ -79,16 +78,16 @@ script 5 mmbn3 {
 		mugshot = Roll
 	msgOpen
 	"""
-	Um…
-	I lost the final
-	survival battle.
+	Hum...
+	Eu perdi a última batalha
+	de sobrevivência.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Everyone,please do
-	your best for Mayl
-	and me as well!
+	Pessoal, arrasem no
+	torneio pela Mayl e por
+	mim também!
 	"""
 	keyWait
 	clearMsg
@@ -100,13 +99,12 @@ script 6 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	You got it! We're
-	going for the
-	trophy!
+	Pode deixar! A gente vai
+	levar o troféu pra casa!
 	"""
 	keyWait
 	clearMsg
-	"Right,everyone?"
+	"Né, pessoal?"
 	keyWait
 	clearMsg
 	jump
@@ -119,8 +117,8 @@ script 7 mmbn3 {
 		mugshot = GutsMan
 	msgOpen
 	"""
-	Of course we are!
-	Yeeee-haaaawwww!!!
+	Claro que vamos!
+	VITÓRIA GUUUUUTSSS!!
 	"""
 	keyWait
 	end
@@ -131,7 +129,7 @@ script 8 mmbn3 {
 	mugshotShow
 		mugshot = Glide
 	msgOpen
-	"I shall do my best."
+	"Darei o melhor de mim."
 	keyWait
 	clearMsg
 	msgClose
@@ -145,9 +143,9 @@ script 9 mmbn3 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	You don't sound like
-	rivals talking
-	before a tournament.
+	Vocês não parecem rivais
+	conversando antes de
+	uma competição.
 	"""
 	keyWait
 	end
@@ -167,9 +165,9 @@ script 11 mmbn3 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	For people who'll be
-	fighting each other,
-	you seem so relaxed.
+	Vocês parecem bem
+	relaxados para
+	futuros adversários.
 	"""
 	keyWait
 	clearMsg
@@ -181,15 +179,15 @@ script 12 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Chaud! You'll be in
-	the N1 Grand Prix,
-	too!?
+	Chaud! Você também vai
+	competir no Grande
+	Prêmio N1?!
 	"""
 	keyWait
 	clearMsg
 	"""
-	If so,there's no way
-	you're beating us!
+	Se vai, então nem pensa
+	que vai vencer a gente!
 	"""
 	keyWait
 	clearMsg
@@ -201,23 +199,23 @@ script 13 mmbn3 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Ha! You pathetic
-	kids don't stand a
-	chance!
+	Ha! Criancinhas patéticas.
+	Vocês não têm a menor
+	chance.
 	"""
 	keyWait
 	clearMsg
 	"""
-	ProtoMan and I have
-	been training for
-	the past month,
+	O ProtoMan e eu viemos
+	treinando muito este
+	último mês,
 	"""
 	keyWait
 	clearMsg
 	"""
-	polishing our
-	skills! We're ready
-	for anything!
+	aperfeiçoando nossas
+	habilidades! Estamos
+	preparados para tudo.
 	"""
 	keyWait
 	clearMsg
@@ -229,15 +227,15 @@ script 14 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Don't tell me you're
-	the one who cleared
-	the final
+	Não vá me dizer que
+	você é...
 	"""
 	keyWait
 	clearMsg
 	"""
-	preliminary in
-	record time!
+	o Navi que completou a
+	preliminar final em tempo
+	récorde!
 	"""
 	keyWait
 	clearMsg
@@ -248,26 +246,25 @@ script 15 mmbn3 {
 	mugshotShow
 		mugshot = ProtoMan
 	msgOpen
-	"Of course!"
+	"Claro que sou."
 	keyWait
 	clearMsg
 	"""
-	Let me give you some
-	advice,MegaMan.
-	"""
-	keyWait
-	clearMsg
-	"""
-	If you really want
-	to win,you'd better
-	get serious. This
+	Vou te dar um conselho,
+	MegaMan.EXE.
 	"""
 	keyWait
 	clearMsg
 	"""
-	wishy-washy stuff
-	about friends will
-	get you deleted.
+	Se quer mesmo vencer,
+	é bom levar isso a sério.
+	"""
+	keyWait
+	clearMsg
+	"""
+	Essa atitude mole de
+	"amizade" só vai acabar
+	te deletando.
 	"""
 	keyWait
 	clearMsg
@@ -279,16 +276,15 @@ script 16 mmbn3 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	OK. That's enough
-	mingling with the
-	enemy.
+	OK. Chega de socializar
+	com o inimigo.
 	"""
 	keyWait
 	clearMsg
 	"""
-	We have a mission to
-	attend. Let's go,
-	ProtoMan!
+	Estamos no meio de uma
+	missão agora.
+	Vamos, ProtoMan!
 	"""
 	keyWait
 	clearMsg
@@ -299,7 +295,7 @@ script 17 mmbn3 {
 	mugshotShow
 		mugshot = ProtoMan
 	msgOpen
-	"Yes,sir!"
+	"Sim, senhor!"
 	keyWait
 	end
 }
@@ -308,18 +304,18 @@ script 18 mmbn3 {
 		mugshot = GutsMan
 	msgOpen
 	"""
-	Ah hate that guy!
-	Oh! Dex! You've
-	got mail from
+	Grrr, que cara chato!
+	Ah! Dex! Chegou e-mail
+	do Chisao!
 	"""
 	keyWait
 	clearMsg
 	playerAnimate
 		animation = 2
 	"""
-	Chisao! It's about
-	tomorrow's trip to
-	the amusement park!
+	É sobre a viagem de
+	amanhã pro parque de
+	diversões!
 	"""
 	keyWait
 	clearMsg
@@ -331,8 +327,8 @@ script 19 mmbn3 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Oh,yeah! Hey,guys,
-	I gotta go!
+	Ah, é! Foi mal, galera,
+	vou ter que vazar!
 	"""
 	keyWait
 	end
@@ -344,16 +340,15 @@ script 20 mmbn3 {
 		mugshot = Glide
 	msgOpen
 	"""
-	Miss Yai.
-	We must make
-	preparations for
+	Srta. Yai. Precisamos
+	fazer os preparativos
+	para a ópera de amanhã.
 	"""
 	keyWait
 	clearMsg
 	"""
-	the opera tomorrow.
-	It would be wise to
-	make haste.
+	Eu aconselharia a
+	senhorita a se apressar.
 	"""
 	keyWait
 	clearMsg
@@ -365,15 +360,15 @@ script 21 mmbn3 {
 		mugshot = Yai
 	msgOpen
 	"""
-	Oh,yeah! We're going
-	to see the opera
-	tomorrow.
+	Ah, é mesmo!
+	A gente vai na ópera
+	amanhã.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Very well. Good
-	night everyone!
+	Pois bem. Boa noite,
+	gente!
 	"""
 	keyWait
 	end
@@ -385,16 +380,16 @@ script 22 mmbn3 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	Hey,Lan,are you free
-	tomorrow? The Bubble
-	Wash we ordered is
+	Ei, Lan, você tá livre
+	amanhã? O Lava-Bolha
+	que a gente encomendou
 	"""
 	keyWait
 	clearMsg
 	"""
-	coming,and I could
-	use a hand
-	installing it.
+	tá pra chegar, e eu
+	aceitaria uma ajudinha
+	pra instalar.
 	"""
 	keyWait
 	clearMsg
@@ -405,7 +400,7 @@ script 23 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Sure,I guess so!"
+	"Claro, de boa!"
 	keyWait
 	clearMsg
 	jump
@@ -416,9 +411,8 @@ script 24 mmbn3 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	It's set,then! Come
-	to my house
-	tomorrow!
+	Tá marcado, então!
+	Vem lá em casa amanhã!
 	"""
 	keyWait
 	end
@@ -428,8 +422,8 @@ script 25 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,why don't we
-	jack out as well?
+	Lan, por que a gente não
+	se desconecta, também?
 	"""
 	keyWait
 	end

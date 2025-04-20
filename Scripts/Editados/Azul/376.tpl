@@ -5,8 +5,8 @@ script 0 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I'm sorry for what I
-	said!!
+	Desculpa pelo que eu
+	falei!!
 	"""
 	keyWait
 	clearMsg
@@ -18,9 +18,9 @@ script 1 mmbn3 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Hmph. Whatever you
-	did,you're talking
-	to the wrong person.
+	Hmpf. Não sei o que fez,
+	mas está falando com a
+	pessoa errada.
 	"""
 	keyWait
 	end
@@ -30,9 +30,9 @@ script 2 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Huh? Chaud!
-	What are you doing
-	here!?
+	Hã? Chaud!
+	O que você tá fazendo
+	aqui?
 	"""
 	keyWait
 	clearMsg
@@ -44,8 +44,7 @@ script 3 mmbn3 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	I'm here on Official
-	business.
+	Estou aqui como Oficial.
 	"""
 	keyWait
 	clearMsg
@@ -57,9 +56,8 @@ script 4 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	No,don't tell me
-	you're here to
-	arrest me…!!
+	N-não vai dizer que
+	veio aqui me prender...!!
 	"""
 	keyWait
 	clearMsg
@@ -71,15 +69,14 @@ script 5 mmbn3 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	What are you talking
-	about?
+	Do que você está
+	falando?
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'm here to pass on
-	a request from the
-	Officials.
+	Eu vim aqui comunicar
+	um pedido dos Oficiais.
 	"""
 	keyWait
 	clearMsg
@@ -91,9 +88,9 @@ script 6 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	What?
-	A request for me
-	from the Officials?
+	O quê?
+	Um pedido dos Oficiais...
+	pra mim?
 	"""
 	keyWait
 	clearMsg
@@ -105,8 +102,8 @@ script 7 mmbn3 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Do you know what the
-	TetraCodes are?
+	Você sabe o que são
+	os TetraCódigos?
 	"""
 	keyWait
 	clearMsg
@@ -118,15 +115,15 @@ script 8 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	TetraCodes…? Aren't
-	they what the WWW
-	has been after?
+	TetraCódigos...? Não
+	são as coisas de que
+	a WWW tava atrás?
 	"""
 	keyWait
 	clearMsg
 	"""
-	I've heard of them,
-	but never saw any.
+	Já ouvi falar deles,
+	mas ver, nunca vi.
 	"""
 	keyWait
 	clearMsg
@@ -138,9 +135,9 @@ script 9 mmbn3 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	There are 4 codes in
-	all. They are the
-	key to a door.
+	Existem quatro deles no
+	total. Juntos, eles são
+	a chave para uma porta.
 	"""
 	keyWait
 	clearMsg
@@ -151,7 +148,7 @@ script 10 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"A door?"
+	"Uma porta?"
 	keyWait
 	clearMsg
 	jump
@@ -162,16 +159,16 @@ script 11 mmbn3 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	A door that seals an
-	immensely powerful
-	"Beast" away…
+	Uma porta que sela uma
+	"Besta" absurdamente
+	poderosa...
 	"""
 	keyWait
 	clearMsg
 	"""
-	The WWW scum want to
-	use the TetraCodes
-	to awaken the Beast!
+	Os crápulas da WWW
+	querem usar os códigos
+	para despertar a Besta!
 	"""
 	keyWait
 	clearMsg
@@ -183,9 +180,8 @@ script 12 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	The Beast? Do you
-	mean that thing
-	called…
+	A Besta? Tá falando
+	daquela coisa chamada...
 	"""
 	keyWait
 	clearMsg
@@ -199,33 +195,32 @@ script 13 mmbn3 {
 	mugshotShow
 		mugshot = Chaud
 	msgOpen
-	"Yes."
+	"Sim."
 	keyWait
 	clearMsg
 	"""
-	I have not been
-	informed about who
-	exactly Alpha is.
-	"""
-	keyWait
-	clearMsg
-	"""
-	Only a select few
-	Officials know that
-	information.
+	Eu não fui informado
+	quem, exatamente,
+	Alpha é.
 	"""
 	keyWait
 	clearMsg
 	"""
-	However,one thing is
-	for certain. If
-	Alpha is awakened,
+	Somente Oficiais
+	seletos têm acesso a
+	essa informação.
 	"""
 	keyWait
 	clearMsg
 	"""
-	the Net society will
-	be annihilated.
+	Mas uma coisa é certa.
+	Se Alpha despertar,
+	"""
+	keyWait
+	clearMsg
+	"""
+	a sociedade da Rede
+	será aniquiliada.
 	"""
 	keyWait
 	clearMsg
@@ -237,15 +232,15 @@ script 14 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	So the WWW's hit the
-	school,the zoo,the
-	hospital,and now
+	Então, os ataques da
+	WWW sobre a escola,
+	o zoológico, o hospital
 	"""
 	keyWait
 	clearMsg
 	"""
-	SciLab. That
-	means
+	e, agora, o SciLab. Quer
+	dizer
 	"""
 	waitSkip
 		frames = 30
@@ -256,8 +251,8 @@ script 14 mmbn3 {
 	waitSkip
 		frames = 30
 	"""
-	.They have
-	all 4 TetraCodes!
+	. que eles têm
+	todos os TetraCódigos!
 	"""
 	keyWait
 	clearMsg
@@ -269,15 +264,16 @@ script 15 mmbn3 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Yes. The Net society
-	is on the brink.
+	Exatamente.
+	A sociedade da Rede
+	está por um triz.
 	"""
 	keyWait
 	clearMsg
 	"""
-	But we have one last
-	resort to put an end
-	to WWW's threat.
+	Mas temos um último
+	recurso para pôr um
+	fim à ameaça da WWW.
 	"""
 	keyWait
 	clearMsg
@@ -288,7 +284,7 @@ script 16 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"A last resort?"
+	"Último recurso?"
 	keyWait
 	clearMsg
 	jump
@@ -299,23 +295,23 @@ script 17 mmbn3 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Yes. The Forbidden
-	Program. It can
-	freeze Alpha.
+	Sim. O Programa Proibido.
+	Ele pode congelar o
+	Alpha.
 	"""
 	keyWait
 	clearMsg
 	"""
-	According to our
-	sources,that program
-	is in the Undernet.
+	De acordo com nossas
+	fontes, esse programa
+	está na Undernet.
 	"""
 	keyWait
 	clearMsg
 	"""
-	It's reported that a
-	Navi named "S" is in
-	possession of it.
+	Ao que parece, um Navi
+	chamado "S" está sob
+	posse dele.
 	"""
 	keyWait
 	clearMsg
@@ -327,23 +323,23 @@ script 18 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Let me guess. The
-	Officials want me to
-	locate this guy S,
+	E deixa eu adivinhar:
+	os Oficiais querem que
+	eu ache esse tal de S,
 	"""
 	keyWait
 	clearMsg
 	"""
-	get the Forbidden
-	Program,and bring it
-	back,right? If you
+	arranje o Programa
+	Proibido e traga pra
+	vocês, né?
 	"""
 	keyWait
 	clearMsg
 	"""
-	know so much,why
-	don't you just do it
-	yourself,Chaud?
+	Mas, se você sabe tudo
+	isso, Chaud, por que não
+	faz isso você mesmo?
 	"""
 	keyWait
 	clearMsg
@@ -355,16 +351,16 @@ script 19 mmbn3 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	ProtoMan and I are
-	too well-known as
-	Officials.
+	O ProtoMan e eu somos
+	conhecidos demais como
+	Oficiais.
 	"""
 	keyWait
 	clearMsg
 	"""
-	The denizens of the
-	Undernet despise us.
-	You,however…
+	Os habitantes da
+	Undernet nos detestam.
+	Mas você...
 	"""
 	keyWait
 	clearMsg
@@ -376,14 +372,14 @@ script 20 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Yeah,but isn't this
-	the Officials' job?
+	Tá, mas isso não é
+	trabalho dos Oficiais?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Sorry,Chaud,but I
-	can't help you out.
+	Foi mal, Chaud, mas eu
+	não posso te ajudar.
 	"""
 	keyWait
 	clearMsg
@@ -395,9 +391,9 @@ script 21 mmbn3 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Well,it is a
-	dangerous mission.
-	But…
+	Bom, é verdade que é
+	uma missão perigosa,
+	mas...
 	"""
 	keyWait
 	end
@@ -407,21 +403,21 @@ script 22 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	That's not it. You
-	really want to know?
-	Fine. I'll tell you!
+	Não é isso! ... Você quer
+	mesmo saber? Tá bom.
+	Eu conto!
 	"""
 	keyWait
 	clearMsg
 	"""
-	You know how SciLab
-	was sabotaged?
+	Sabe a sabotagem do
+	SciLab?
 	"""
 	keyWait
 	clearMsg
 	"""
-	It happened because
-	I stupidly helped
+	Ela aconteceu porque
+	eu fui idiota e ajudei o
 	Match.
 	"""
 	keyWait
@@ -433,7 +429,7 @@ script 23 mmbn3 {
 	mugshotShow
 		mugshot = Chaud
 	msgOpen
-	"……"
+	"......"
 	keyWait
 	clearMsg
 	jump
@@ -444,16 +440,16 @@ script 24 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I didn't realize it
-	then,but I helped
-	out the WWW! I don't
+	Eu não tinha me tocado
+	disso, mas eu ajudei a
+	WWW!
 	"""
 	keyWait
 	clearMsg
 	"""
-	have the right to
-	take on a mission
-	from the Officials…
+	Não tenho o direito de
+	executar uma missão
+	para os Oficiais...
 	"""
 	keyWait
 	clearMsg
@@ -465,15 +461,14 @@ script 25 mmbn3 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Stop talking!
-	If you tell me any
-	more,I'll have to
+	Pare de falar!
 	"""
 	keyWait
 	clearMsg
 	"""
-	arrest you as an
-	Official.
+	Se disser mais que isso,
+	serei obrigado a
+	prendê-lo, como Oficial.
 	"""
 	keyWait
 	clearMsg
@@ -486,7 +481,7 @@ script 26 mmbn3 {
 	msgOpen
 	playerAnimate
 		animation = 3
-	"Chaud…"
+	"Chaud..."
 	keyWait
 	end
 }
@@ -495,22 +490,21 @@ script 27 mmbn3 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Lan,go visit your
-	father in the
-	hospital. If you
+	Lan, vá visitar o seu
+	pai no hospital.
 	"""
 	keyWait
 	clearMsg
 	"""
-	change your mind
-	later,come to the
-	Virus Lab at SciLab.
+	Se mudar de ideia depois
+	disso, venha ao Labora-
+	tório de Vírus no SciLab.
 	"""
 	keyWait
 	clearMsg
 	"""
-	About what you just
-	told me
+	E quanto ao que me
+	contou
 	"""
 	waitSkip
 		frames = 30
@@ -521,15 +515,15 @@ script 27 mmbn3 {
 	waitSkip
 		frames = 30
 	"""
-	. I never
-	heard it.
+	. eu não ouvi
+	nada.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I owe you that much
-	for what you did for
-	me.
+	Eu te devo pelo menos
+	isso pelo que você fez
+	por mim.
 	"""
 	keyWait
 	end
@@ -538,7 +532,7 @@ script 28 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Chaud…"
+	"Chaud..."
 	keyWait
 	clearMsg
 	jump
@@ -549,8 +543,8 @@ script 29 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,let's go see
-	dad.
+	Lan, vamos lá ver o
+	papai.
 	"""
 	keyWait
 	clearMsg
@@ -561,7 +555,7 @@ script 30 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"…OK."
+	"... OK."
 	keyWait
 	end
 }

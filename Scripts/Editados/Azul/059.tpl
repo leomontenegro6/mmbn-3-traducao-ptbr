@@ -30,15 +30,16 @@ script 0 mmbn3 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Wow! There are so
-	many people at the
-	N1 preliminaries!
+	Caramba! Tem tanta
+	gente nas preliminares
+	no Grande Prêmio N1!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Hurry up and send
-	MegaMan there!
+	Não fica enrolando,
+	manda logo o MegaMan
+	pra lá!
 	"""
 	keyWait
 	end
@@ -48,8 +49,9 @@ script 2 mmbn3 {
 		mugshot = Dex
 	msgOpen
 	"""
-	The chat starts at
-	8PM! Don't be late!
+	O bate-papo começa às
+	20h! Não vai se atrasar,
+	hein!
 	"""
 	keyWait
 	end
@@ -63,16 +65,16 @@ script 8 mmbn3 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Hey! What are you
-	doing here? The N1
-	is starting!
+	Aí! Tá fazendo o que
+	aqui? O N1 já tá
+	começando!
 	"""
 	keyWait
 	clearMsg
 	"""
-	You're my main
-	rival! I've got to
-	beat you!
+	Cê é o meu principal rival!
+	Eu tenho que acabar
+	com você lá!
 	"""
 	keyWait
 	end
@@ -86,15 +88,15 @@ script 9 mmbn3 {
 		mugshot = Chisao
 	msgOpen
 	"""
-	My brother will
-	win the N1 and beat
-	evwybody!
+	O meu irmãozão vai
+	vencer o N1 e "dê-ubar"
+	todo mundo!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Go! Go!
-	Big brother!
+	Força! Força!
+	Ir-mão-zão!
 	"""
 	keyWait
 	end
@@ -104,9 +106,9 @@ script 11 mmbn3 {
 		mugshot = Dex
 	msgOpen
 	"""
-	I want to beat you
-	in the finals,so
-	keep winning!
+	Eu quero acabar contigo
+	nas finais, então, segue
+	vencendo, Lan!
 	"""
 	keyWait
 	end
@@ -116,8 +118,8 @@ script 12 mmbn3 {
 		mugshot = Chisao
 	msgOpen
 	"""
-	My brother gonna
-	win the N1!!
+	O meu irmãozão vai
+	vencer o N1!!
 	"""
 	keyWait
 	end
@@ -127,14 +129,15 @@ script 15 mmbn3 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Sorry,Lan. I have to
-	watch Chisao today.
+	Foi mal, Lan. Eu vou ter
+	que cuidar do Chisao
+	hoje.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'll play with you
-	next time!
+	Outra hora, eu brinco
+	contigo!
 	"""
 	keyWait
 	end
@@ -144,9 +147,8 @@ script 16 mmbn3 {
 		mugshot = Chisao
 	msgOpen
 	"""
-	Yeah! Tomorrow we go
-	to the amuse-a-ment
-	park!
+	Ê! Amanhã, a gente vai
+	no parque de "di-veção"!
 	"""
 	keyWait
 	end
@@ -160,12 +162,12 @@ script 18 mmbn3 {
 		mugshot = Chisao
 	msgOpen
 	"""
-	My brother went to
-	the N1!
+	O meu irmãozão foi lá
+	pro N1!
 	"""
 	keyWait
 	clearMsg
-	"I'm staying home."
+	"Eu fiquei em casa."
 	keyWait
 	end
 }
@@ -174,15 +176,15 @@ script 19 mmbn3 {
 		mugshot = Dex
 	msgOpen
 	"""
-	I'll see you at the
-	N1 finals,Lan!!
+	Te vejo nas finais do
+	N1, Lan!!
 	"""
 	keyWait
 	clearMsg
 	"""
-	C'mon,Chisao! Get
-	ready to go to the
-	amusement park!
+	Vamos lá, Chisao! Já se
+	apronta pra gente ir no
+	parque de diversões!
 	"""
 	keyWait
 	end
@@ -192,8 +194,8 @@ script 20 mmbn3 {
 		mugshot = Chisao
 	msgOpen
 	"""
-	Amuse-a-ment park!
-	Amuse-a-ment park!
+	Parque de "di-veção"!
+	Parque de "di-veção"!
 	"""
 	keyWait
 	end
@@ -203,15 +205,14 @@ script 22 mmbn3 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Thanks for your
-	help,Lan!
+	Valeu pela força, Lan!
 	"""
 	keyWait
 	clearMsg
 	"""
-	But don't expect me
-	to go easy on you
-	at the N1!!
+	Mas não vai esperando
+	que eu pegue leve
+	contigo no N1, viu?!
 	"""
 	keyWait
 	end
@@ -221,9 +222,8 @@ script 24 mmbn3 {
 		mugshot = Dex
 	msgOpen
 	"""
-	…Could you just
-	leave me alone for
-	a while?
+	... Pode me deixar um
+	tempinho só?
 	"""
 	keyWait
 	end
@@ -233,12 +233,12 @@ script 25 mmbn3 {
 		mugshot = Dex
 	msgOpen
 	"""
-	That guy Tora…
-	He's pretty cool!
+	Aquele cara lá, o Tora...
+	Ele é bem gente fina!
 	"""
 	keyWait
 	clearMsg
-	"Be nice to him,now!"
+	"Não vacila com ele, viu?"
 	keyWait
 	end
 }
@@ -257,36 +257,36 @@ script 27 mmbn3 {
 		mugshot = Dex
 	msgOpen
 	"""
-	I heard that you
-	were depressed,but
-	you seem better now!
+	Me falaram que cê tava
+	deprimido, mas cê já
+	parece bem melhor!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I was going to tell
-	you about Netopia,
-	but maybe next time.
+	Eu ia te contar sobre
+	a Ameropa, mas deixa
+	pra outra hora.
 	"""
 	keyWait
 	clearMsg
 	"""
-	It looks like you're
-	involved in danger
-	again,as usual.
+	Parece que cê se envol-
+	veu em coisa perigosa.
+	De novo. Como sempre.
 	"""
 	keyWait
 	clearMsg
 	"""
-	You need to stop
-	doing stuff like
-	that on your own!
+	Cê tem que parar de
+	fazer essas coisas
+	sozinho!
 	"""
 	keyWait
 	clearMsg
 	"""
-	You have friends,
-	too,you know!
+	Cê também tem amigos,
+	sabia não?!
 	"""
 	keyWait
 	end
@@ -296,15 +296,14 @@ script 28 mmbn3 {
 		mugshot = Dex
 	msgOpen
 	"""
-	What's up with these
-	Officials on the
-	Internet?
+	Quê que tá rolando com
+	esses Oficiais na Rede?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Something must
-	be up…
+	Deve tá rolando alguma
+	coisa...
 	"""
 	keyWait
 	end
@@ -315,8 +314,8 @@ script 30 mmbn3 {
 	msgOpen
 	"""
 	Lan!!
-	Something's happened
-	in the SciLab area!
+	Aconteceu alguma treta
+	na área SciLab!
 	"""
 	keyWait
 	end
@@ -331,22 +330,21 @@ script 32 mmbn3 {
 		mugshot = Dex
 	msgOpen
 	"""
-	I owe you again,
+	Tô te devendo outra,
 	Lan.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I got Mayl and Yai
-	home,so they should
-	be OK.
+	Eu level a Mayl e a Yai
+	pra casa, então, elas
+	devem tá bem.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Just how long is
-	this situation
-	going to last?
+	Até quando esta coisa
+	toda vai durar, hein?
 	"""
 	keyWait
 	end
@@ -364,16 +362,16 @@ script 34 mmbn3 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Looks like wars are
-	popping up all over
-	the world…
+	Parece que tem brotado
+	umas guerras por todo
+	o mundo..
 	"""
 	keyWait
 	clearMsg
 	"""
-	I hope that Chisao
-	will be OK in
-	Netopia!
+	Espero que o Chisao
+	fique bem lá na
+	Ameropa...!
 	"""
 	keyWait
 	end
@@ -383,30 +381,29 @@ script 35 mmbn3 {
 		mugshot = Dex
 	msgOpen
 	"""
-	The newest model of
-	boat engine? I have
-	no idea…
+	O mais novo modelo de
+	motor de barco?
+	Eu nem faço ideia...
 	"""
 	keyWait
 	clearMsg
 	"""
-	It ain't gonna' be
-	easy getting one of
-	those!
+	Mas não vai ser fácil
+	arranjar um!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Even if you could
-	find one,it must be
-	pretty expensive…
+	Mesmo se cê achar,
+	deve ser caro pra
+	burro...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Maybe it wouldn't be
-	a problem for a rich
-	person,I suppose…
+	Hm, mas acho que isso
+	não ia ser problema pra
+	algum rico, né...?
 	"""
 	keyWait
 	end
@@ -416,9 +413,9 @@ script 36 mmbn3 {
 		mugshot = Dex
 	msgOpen
 	"""
-	If you do find an
-	engine,just where is
-	it you want to go?
+	Se achar esse motor,
+	pra onde cê tá
+	pensando em ir?
 	"""
 	keyWait
 	end
@@ -430,9 +427,9 @@ script 220 mmbn3 {
 		jumpIfFalse = continue
 	msgOpen
 	"""
-	A shelf full of
-	text books that seem
-	hardly used
+	Uma estante cheia de
+	livros didáticos quase
+	nunca abertos.
 	"""
 	keyWait
 	end
@@ -440,9 +437,9 @@ script 220 mmbn3 {
 script 221 mmbn3 {
 	msgOpen
 	"""
-	Dex must have gone
-	berserk and ripped
-	the wallpaper here
+	O Dex, estabanado,
+	deve ter aberto um
+	buraco aqui sem querer.
 	"""
 	keyWait
 	end
@@ -450,9 +447,8 @@ script 221 mmbn3 {
 script 222 mmbn3 {
 	msgOpen
 	"""
-	The trash can is
-	full of candy
-	wrappers…
+	O lixo tá cheio de
+	embalagens de bombom...
 	"""
 	keyWait
 	end
@@ -460,9 +456,9 @@ script 222 mmbn3 {
 script 223 mmbn3 {
 	msgOpen
 	"""
-	You can't help but
-	notice the Japanese
-	style interior
+	Você não consegue dei-
+	xar de admirar a decora-
+	ção japonesa vintage.
 	"""
 	keyWait
 	end
@@ -470,16 +466,15 @@ script 223 mmbn3 {
 script 224 mmbn3 {
 	msgOpen
 	"""
-	A slightly old TV.
-	It doesn't have a
-	thin screen,
+	Um televisor
+	relativamente antigo.
 	"""
 	keyWait
 	clearMsg
 	"""
-	but it's nice to be
-	able to put things
-	on top of it
+	Não tem tela plana,
+	mas é legal poder deixar
+	coisas em cima dele.
 	"""
 	keyWait
 	end
@@ -487,15 +482,15 @@ script 224 mmbn3 {
 script 225 mmbn3 {
 	msgOpen
 	"""
-	A somewhat old
-	computer
+	Um computador
+	relativamente antigo.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Dex treats it a bit
-	roughly,so it's a
-	little beat up
+	O Dex é meio bruto com
+	ele, então, está meio
+	detonado.
 	"""
 	keyWait
 	end
@@ -507,16 +502,16 @@ script 226 mmbn3 {
 		jumpIfFalse = continue
 	msgOpen
 	"""
-	A notebook filled
-	with doodles is on
-	this table
+	Um caderno cheio de
+	desenhos rabiscados
+	está sobre a mesa.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Dex has a long way
-	to go before being
-	called an artist
+	Ainda falta muito pro
+	Dex ser chamado de
+	"artista".
 	"""
 	keyWait
 	end
@@ -524,16 +519,16 @@ script 226 mmbn3 {
 script 227 mmbn3 {
 	msgOpen
 	"""
-	A collection of
-	somewhat old video
-	games
+	Uma coleção de jogos
+	eletrônicos
+	relativamente antigos.
 	"""
 	keyWait
 	clearMsg
 	"""
-	But even old games
-	can stay just as
-	fun as they were!
+	Mas há jogos velhos que
+	são tão divertidos hoje
+	quanto eram na época!
 	"""
 	keyWait
 	end
@@ -541,9 +536,9 @@ script 227 mmbn3 {
 script 228 mmbn3 {
 	msgOpen
 	"""
-	You expect only
-	comics,but you see
-	some text books,too
+	Você esperava achar
+	só gibis, mas observa
+	livros didáticos, também.
 	"""
 	keyWait
 	end
@@ -551,9 +546,9 @@ script 228 mmbn3 {
 script 229 mmbn3 {
 	msgOpen
 	"""
-	Surprisingly enough,
-	Dex seems to have
-	been studying here
+	Por mais surpreendente
+	que seja, parece que o
+	Dex anda estudando.
 	"""
 	keyWait
 	end

@@ -15,15 +15,15 @@ script 10 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	Everyone is so
-	excited about the
-	N1 Grand Prix!
+	Estão todos tão
+	animados com o
+	Grande Prêmio N1!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Hooray! Hooray!
-	Good luck,everyone!
+	Força! Coragem!
+	Boa sorte a todos!
 	"""
 	keyWait
 	end
@@ -33,15 +33,14 @@ script 11 mmbn3 {
 		mugshot = Roll
 	msgOpen
 	"""
-	I just can't find
-	the bad guy…
+	Eu não acho o tal vilão
+	em lugar nenhum...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Hey,MegaMan! You'd
-	better hurry to
-	SciLab Square!
+	Ei, Mega! Você devia ir
+	logo pro SciLab Plaza!
 	"""
 	keyWait
 	end
@@ -51,9 +50,9 @@ script 12 mmbn3 {
 		mugshot = Glide
 	msgOpen
 	"""
-	Mr.MegaMan!? Sir,you
-	must proceed to the
-	Square posthaste!
+	Caro MegaMan?! Meu ami-
+	go, você deve seguir ao
+	Plaza o quanto antes!
 	"""
 	keyWait
 	end
@@ -63,16 +62,16 @@ script 13 mmbn3 {
 		mugshot = NormalNaviGreen
 	msgOpen
 	"""
-	I'm on the 2nd
-	mission,looking for
-	the bad Navi!
+	Estou na segunda
+	missão, procurando
+	pelo Navi malvado lá!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Hey! Come out,
-	come out,wherever
-	you are,bad Navi!
+	Ô! Cadê você, Navi mau?
+	Aqui, malzinho, malzinho,
+	malzinho!
 	"""
 	keyWait
 	end
@@ -82,9 +81,9 @@ script 14 mmbn3 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	Get a close-up shot
-	of her face! Aren't
-	I photogenic!?
+	Faz um close na cara
+	dela! Eu sou fotogênica
+	ou não sou?!
 	"""
 	keyWait
 	end
@@ -94,16 +93,16 @@ script 15 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	Heh! This place must
-	be some kinda blind
-	spot or something.
+	He! Aqui deve ser um
+	ponto cego ou alguma
+	coisa assim.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Huh? Who am I,you
-	ask? Just catch the
-	N1 broadcast. Heh!
+	Hã? Quem sou eu?
+	É só ficar de olho na
+	transmissão do N1. He!
 	"""
 	keyWait
 	end
@@ -113,16 +112,16 @@ script 20 mmbn3 {
 		mugshot = NormalNaviGreen
 	msgOpen
 	"""
-	I can't believe I
-	lost to that bad
-	Navi…
+	Não acredito que eu
+	perdi praquele Navi do
+	mal...
 	"""
 	keyWait
 	clearMsg
 	"""
-	For a bad Navi,he
-	sure is mean!
-	Sob,sob…
+	Pra um Navi mau, ele é
+	muito... mau!
+	Chuif, snif...
 	"""
 	keyWait
 	end
@@ -134,9 +133,9 @@ script 21 mmbn3 {
 		palette = 1
 	msgOpen
 	"""
-	Everyone's having so
-	much fun! I should
-	have participated…
+	Está todo mundo se
+	divertindo tanto! Eu
+	devia ter participado...
 	"""
 	keyWait
 	end
@@ -146,23 +145,23 @@ script 30 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	I've learned some
-	"industry buzzwords"
-	too.
+	Eu também aprendi
+	alguns termos
+	corriqueiros da indústria.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I've got to hurry
-	and "wrap"! So how
-	about a "wide shot"?
+	OK, pessoal, "corta".
+	Vamos "da cabeça".
+	Bora "plano aberto"?
 	"""
 	keyWait
 	clearMsg
 	"""
-	…How about those
-	buzzwords? Did I use
-	'em right? Huh?
+	Gostou desses termos?
+	Eu usei eles direitos?
+	Hein, usei?
 	"""
 	keyWait
 	end
@@ -172,15 +171,15 @@ script 31 mmbn3 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	I can't believe it…
-	They rejected me!
+	Eu não acredito nisso...
+	Eles me rejeitaram!
 	"""
 	keyWait
 	clearMsg
 	"""
-	They said I had no
-	personality! Man!
-	I'm about to cry…
+	Disseram que eu não
+	tinha personalidade!
+	Poxa! Eu tô pra chorar...
 	"""
 	keyWait
 	end
@@ -190,16 +189,15 @@ script 32 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	Hi there,MegaMan!
-	Remember me? I was
-	the "bad Navi"!
+	Fala, MegaMan!
+	Lembra de mim?
+	Eu era o "Navi do mal"!
 	"""
 	keyWait
 	clearMsg
 	"""
-	That was hard
-	work for both of
-	us,huh?
+	Aquele trabalho foi
+	dureza pra nós dois, né?
 	"""
 	keyWait
 	end
@@ -209,8 +207,9 @@ script 33 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	I am fixing this
-	person's makeup.
+	Estou retocando a
+	maquiagem deste
+	indivíduo.
 	"""
 	keyWait
 	end
@@ -220,9 +219,9 @@ script 40 mmbn3 {
 		mugshot = NormalNaviGreen
 	msgOpen
 	"""
-	Video looks best on
-	a big screen. It has
-	so much more impact!
+	Vídeo sempre fica melhor
+	na telona. Causa muito
+	mais impacto!
 	"""
 	keyWait
 	end
@@ -232,9 +231,9 @@ script 41 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	When I look down
-	from a high place,I
-	get vertigo…
+	Sempre que olho para
+	baixo de um lugar alto,
+	sinto tontura...
 	"""
 	keyWait
 	end
@@ -244,16 +243,16 @@ script 50 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	The labs in SciLab
-	are connected over
-	the network.
+	Os laboratórios do
+	SciLab são conectados
+	através da Rede.
 	"""
 	keyWait
 	clearMsg
 	"""
-	They advance their
-	research by
-	exchanging info.
+	Eles trocam informações
+	entre si para avançar
+	com suas pesquisas.
 	"""
 	keyWait
 	end
@@ -303,16 +302,16 @@ script 51 mmbn3 {
 		mugshot = NormalNaviGreen
 	msgOpen
 	"""
-	This data goes to
-	Navi Lab,and that
-	data to Robot Lab.
+	Estes dados vão pro
+	Laboratório de Navis, e
+	esses, pro de Robótica...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Woah…
-	All this data makes
-	my head spin…
+	Auugh...
+	Todos esses dados tão
+	fazendo tudo girar...
 	"""
 	keyWait
 	end
@@ -342,9 +341,9 @@ script 52 mmbn3 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	Uh…
-	The way to Energy
-	Lab is…Ummm…
+	Er... O caminho pro
+	Laboratório de Energia
+	é... Hmmm...
 	"""
 	keyWait
 	end
@@ -366,23 +365,22 @@ script 55 mmbn3 {
 		palette = 1
 	msgOpen
 	"""
-	Hmph,the N1
-	preliminaries are
-	over.
+	Hmpf, as preliminares
+	do N1 acabaram.
 	"""
 	keyWait
 	clearMsg
 	"""
-	No problem. I'll just
-	enter the main
-	event.
+	Tudo bem. É só eu
+	entrar pra competição
+	principal, mesmo.
 	"""
 	keyWait
 	clearMsg
 	"""
-	The level of
-	competition will be
-	higher,anyway.
+	Afinal de contas, o nível
+	de desafio vai ser mais
+	alto, à minha altura!
 	"""
 	keyWait
 	end
@@ -402,9 +400,8 @@ script 56 mmbn3 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	Hey,you,get outta
-	the way! Data comin'
-	through!
+	Ô, garoto, sai da frente!
+	Dados passando!
 	"""
 	keyWait
 	end
@@ -413,18 +410,21 @@ script 60 mmbn3 {
 	mugshotShow
 		mugshot = HeelNavi
 	msgOpen
-	"You found me again!"
-	keyWait
-	clearMsg
 	"""
-	You really gotta put
-	your all into this!
+	Cê achou a gente de
+	novo!
 	"""
 	keyWait
 	clearMsg
 	"""
-	MegaMan! Here I
-	come!!!
+	OK, cambada: desta vez,
+	vão com tudo, TUDO,
+	mesmo!
+	"""
+	keyWait
+	clearMsg
+	"""
+	MegaMan! Prepara!!!
 	"""
 	keyWait
 	clearMsg
@@ -471,9 +471,9 @@ script 70 mmbn3 {
 		palette = 1
 	msgOpen
 	"""
-	It's not like the
-	damage will come
-	this far,so relax.
+	Não é como se os
+	estragos fossem chegar
+	até aqui, então, relaxa.
 	"""
 	keyWait
 	end
@@ -483,15 +483,15 @@ script 71 mmbn3 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	Move!
-	Data coming through!
+	Sai, homem, sai!
+	Dados passando!
 	"""
 	keyWait
 	clearMsg
 	"""
-	What's that!? So
-	this isn't a good
-	time to move data…?
+	Quê?! Er, acho que não
+	é uma boa hora pra
+	mover dados, né...?
 	"""
 	keyWait
 	end
@@ -503,9 +503,8 @@ script 80 mmbn3 {
 		palette = 1
 	msgOpen
 	"""
-	It's all over,isn't
-	it? OK,time to go
-	home.
+	Já acabou, né?
+	OK, pra casa, então.
 	"""
 	keyWait
 	end
@@ -515,9 +514,9 @@ script 81 mmbn3 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	All right,time to
-	get back to work! No
-	time to rest!
+	Beleza, de volta ao
+	trabalho! Descansar é
+	pra byte mole!
 	"""
 	keyWait
 	end
@@ -527,9 +526,9 @@ script 90 mmbn3 {
 		mugshot = NormalNaviGreen
 	msgOpen
 	"""
-	You're a new Navi
-	around here. Are you
-	moving data,too?
+	Você é Navi novo aqui.
+	Também tá movendo
+	dados?
 	"""
 	keyWait
 	end
@@ -539,9 +538,9 @@ script 91 mmbn3 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	I'm not very good at
-	reading maps. OK,if
-	that's the Square…
+	Eu não sou muito bom
+	lendo mapas. Tá, se
+	esse é o Plaza...
 	"""
 	keyWait
 	end
@@ -551,9 +550,9 @@ script 100 mmbn3 {
 		mugshot = NormalNaviGreen
 	msgOpen
 	"""
-	I'm so busy!
-	Got no time for the
-	N1…
+	Eu tô ocupado, cara!
+	Não tenho tempo pro
+	Grande Prêmio...
 	"""
 	keyWait
 	end
@@ -563,9 +562,8 @@ script 101 mmbn3 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	Darn! They aren't
-	gonna show the N1
-	on the big screen!
+	Pôôô! Não vão passar
+	o N1 na telona!
 	"""
 	keyWait
 	end
@@ -575,9 +573,9 @@ script 110 mmbn3 {
 		mugshot = NormalNaviGreen
 	msgOpen
 	"""
-	I was too busy to
-	watch the N1…
-	Boo hoo…
+	Eu tava ocupado demais
+	pra assistir ao N1...
+	Buááá...
 	"""
 	keyWait
 	end
@@ -587,9 +585,9 @@ script 111 mmbn3 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	Agh! You startled
-	me! Don't talk to me
-	while I'm working!
+	Agh! Cê me assustou!
+	Não fala comigo no meio
+	do trabalho!
 	"""
 	keyWait
 	end
@@ -720,7 +718,7 @@ script 121 mmbn3 {
 	msgOpen
 	"""
 	Beep Beep Beep!
-	Lan! You got mail!
+	Lan! Chegou e-mail!
 	"""
 	keyWait
 	end
@@ -1119,8 +1117,8 @@ script 201 mmbn3 {
 	soundPlay
 		track = 133
 	"""
-	MegaMan got a stamp
-	for his card.
+	O cartão do MegaMan
+	foi carimbado.
 	"""
 	keyWait
 	end
@@ -1140,9 +1138,9 @@ script 202 mmbn3 {
 script 220 mmbn3 {
 	msgOpen
 	"""
-	There are several
-	doors here,
-	blocking your way…
+	Há várias portas
+	enfileiradas aqui,
+	barrando você...
 	"""
 	keyWait
 	end
@@ -1156,8 +1154,8 @@ script 221 mmbn3 {
 		jumpIfLess = continue
 	msgOpen
 	"""
-	You can't get past
-	the doors
+	Não pode passar por
+	este tipo de porta.
 	"""
 	keyWait
 	end
@@ -1165,14 +1163,15 @@ script 221 mmbn3 {
 script 222 mmbn3 {
 	msgOpen
 	"""
-	It's a hole in space
-	created by DrillMan
+	É um buraco criado no
+	espaço, pelo DrillMan.
 	"""
 	keyWait
 	clearMsg
 	"""
-	As you approach,the
-	hole pulls you in!
+	À medida que você se
+	aproxima dele, ele te
+	puxa para dentro!
 	"""
 	keyWait
 	startWarp
@@ -1186,32 +1185,32 @@ script 223 mmbn3 {
 		jumpIfOutOfRange = continue
 	msgOpen
 	"""
-	The big screen shows
-	a map of the area
-	for Navis
+	A enorme tela mostra
+	um mapa da área para
+	os Navis.
 	"""
 	keyWait
 	end
 }
 script 224 mmbn3 {
 	msgOpen
-	"What a flame…"
+	"Chamas tão intensas..."
 	keyWait
 	end
 }
 script 225 mmbn3 {
 	msgOpen
 	"""
-	It's a digest of the
-	images taken of the
-	N1 preliminaries
+	É uma versão editada
+	das filmagens das
+	preliminares do N1.
 	"""
 	keyWait
 	clearMsg
 	"""
-	The huge sceen
-	really draws the
-	viewer in
+	A tela gigantesca
+	realmente prende o
+	telespectador.
 	"""
 	keyWait
 	end
@@ -1219,7 +1218,7 @@ script 225 mmbn3 {
 script 226 mmbn3 {
 	msgOpen
 	"""
-	MegaMan used:
+	MegaMan usou:
 	"
 	"""
 	printItem
@@ -1235,9 +1234,9 @@ script 229 mmbn3 {
 	mugshotHide
 	msgOpen
 	"""
-	The data from the
-	defeated Navi was
-	blown away…
+	Os dados do Navi
+	derrotado voaram para
+	longe...
 	"""
 	keyWait
 	end
@@ -1245,8 +1244,8 @@ script 229 mmbn3 {
 script 230 mmbn3 {
 	msgOpen
 	"""
-	MegaMan accessed the
-	mystery data.
+	MegaMan acessou os
+	dados misteriosos.
 	"""
 	wait
 		frames = 10
@@ -1268,8 +1267,7 @@ script 230 mmbn3 {
 		code = *
 		amount = 1
 	"""
-	MegaMan got a chip
-	for
+	MegaMan adquiriu o chip
 	"
 	"""
 	printChip
@@ -1288,8 +1286,8 @@ script 230 mmbn3 {
 script 231 mmbn3 {
 	msgOpen
 	"""
-	MegaMan accessed the
-	mystery data.
+	MegaMan acessou os
+	dados misteriosos.
 	"""
 	wait
 		frames = 10
@@ -1311,8 +1309,7 @@ script 231 mmbn3 {
 		code = Z
 		amount = 1
 	"""
-	MegaMan got a chip
-	for
+	MegaMan adquiriu o chip
 	"
 	"""
 	printChip
@@ -1331,8 +1328,8 @@ script 231 mmbn3 {
 script 235 mmbn3 {
 	msgOpen
 	"""
-	MegaMan accessed the
-	mystery data.
+	MegaMan acessou os
+	dados misteriosos.
 	"""
 	wait
 		frames = 10
@@ -1349,7 +1346,7 @@ script 235 mmbn3 {
 		jumpIfTrue = continue
 		jumpIfFalse = 236
 	"""
-	The SubChip
+	O SubChip
 	"
 	"""
 	printItem
@@ -1357,14 +1354,14 @@ script 235 mmbn3 {
 		item = 115
 	"""
 	"
-	was activated!!
+	foi ativado!!
 	"""
 	keyWait
 	clearMsg
 	"""
-	The virus hidden
-	in the mystery data
-	was deleted!
+	O vírus que se escondia
+	nos dados misteriosos
+	foi deletado!
 	"""
 	keyWait
 }
@@ -1390,8 +1387,8 @@ script 236 mmbn3 {
 script 237 mmbn3 {
 	msgOpen
 	"""
-	The mystery data was
-	a virus!!
+	Os dados misteriosos
+	eram vírus!!
 	"""
 	keyWait
 	startRandomBattle
@@ -1438,8 +1435,7 @@ script 238 mmbn3 {
 	playerAnimate
 		animation = 24
 	"""
-	MegaMan got a chip
-	for
+	MegaMan adquiriu o chip
 	"
 	"""
 	printChip
@@ -1480,7 +1476,7 @@ script 239 mmbn3 {
 	playerAnimate
 		animation = 24
 	"""
-	MegaMan got:
+	MegaMan adquiriu:
 	"
 	"""
 	printBuffer
@@ -1497,8 +1493,8 @@ script 239 mmbn3 {
 script 240 mmbn3 {
 	msgOpen
 	"""
-	MegaMan accessed the
-	mystery data.
+	MegaMan acessou os
+	dados misteriosos.
 	"""
 	wait
 		frames = 10
@@ -1515,7 +1511,7 @@ script 240 mmbn3 {
 		jumpIfTrue = continue
 		jumpIfFalse = 241
 	"""
-	The SubChip
+	O SubChip
 	"
 	"""
 	printItem
@@ -1523,14 +1519,14 @@ script 240 mmbn3 {
 		item = 115
 	"""
 	"
-	was activated!!
+	foi ativado!!
 	"""
 	keyWait
 	clearMsg
 	"""
-	The virus hidden
-	in the mystery data
-	was deleted!
+	O vírus que se escondia
+	nos dados misteriosos
+	foi deletado!
 	"""
 	keyWait
 }
@@ -1556,8 +1552,8 @@ script 241 mmbn3 {
 script 242 mmbn3 {
 	msgOpen
 	"""
-	The mystery data was
-	a virus!!
+	Os dados misteriosos
+	eram vírus!!
 	"""
 	keyWait
 	startRandomBattle
@@ -1604,8 +1600,7 @@ script 243 mmbn3 {
 	playerAnimate
 		animation = 24
 	"""
-	MegaMan got a chip
-	for
+	MegaMan adquiriu o chip
 	"
 	"""
 	printChip
@@ -1646,7 +1641,7 @@ script 244 mmbn3 {
 	playerAnimate
 		animation = 24
 	"""
-	MegaMan got:
+	MegaMan adquiriu:
 	"
 	"""
 	printBuffer

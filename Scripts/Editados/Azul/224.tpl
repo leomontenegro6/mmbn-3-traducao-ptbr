@@ -5,8 +5,8 @@ script 0 mmbn3 {
 		mugshot = Chisao
 	msgOpen
 	"""
-	Aw,you're not my
-	brother!
+	Ah, você não é o meu
+	irmão...
 	"""
 	keyWait
 	clearMsg
@@ -18,9 +18,9 @@ script 1 mmbn3 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	But you said the #1
-	NetBattler in ACDC,
-	right?
+	Mas você disse que ele
+	era o melhor NetLutador
+	de ACDC, né?
 	"""
 	keyWait
 	clearMsg
@@ -34,8 +34,8 @@ script 2 mmbn3 {
 		mugshot = Chisao
 	msgOpen
 	"""
-	NO!! That's not my
-	brother!
+	NÃO! Esse aí não é o meu
+	irmão!
 	"""
 	keyWait
 	clearMsg
@@ -48,10 +48,10 @@ script 3 mmbn3 {
 	mugshotShow
 		mugshot = Yai
 	msgOpen
-	"You little brat!\n"
+	"Pirralho chato!\n"
 	flagClear
 		flag = 1028
-	"Why,I oughta…"
+	"Já deu, eu vou...!"
 	keyWait
 	clearMsg
 	jump
@@ -62,8 +62,8 @@ script 4 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Which one's the
-	little brat here?
+	É você que tá sendo a
+	pirralha chata, Yai.
 	"""
 	keyWait
 	end
@@ -72,16 +72,16 @@ script 5 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Lan?"
+	"Ei, Lan?"
 	keyWait
 	clearMsg
 	playerAnimate
 		animation = 27
 	playerFinish
 	"""
-	Why don't you just
-	ask him what his
-	brother's name is?
+	Por que não pergunta
+	logo pra ele o nome do
+	irmão dele?
 	"""
 	keyWait
 	clearMsg
@@ -92,14 +92,14 @@ script 6 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Hey,yeah!\n"
+	"Ah, verdade!\n"
 	playerAnimate
 		animation = 4
 	wait
 		frames = 60
 	playerAnimate
 		animation = 7
-	"Well? What is it?"
+	"E aí? Qual é?"
 	keyWait
 	clearMsg
 	jump
@@ -110,15 +110,15 @@ script 7 mmbn3 {
 		mugshot = Chisao
 	msgOpen
 	"""
-	I can't tell you!
-	He's da #1
-	NetBattler in ACDC!
+	Eu "num" vou contar!
+	Ele é o melhor
+	NetLutador de ACDC!
 	"""
 	keyWait
 	clearMsg
 	"""
-	You should know,
-	just by dat! Hmph!
+	Só isso já devia bastá
+	pra sabê! Hmpf!
 	"""
 	keyWait
 	clearMsg
@@ -129,13 +129,13 @@ script 8 mmbn3 {
 	mugshotShow
 		mugshot = Yai
 	msgOpen
-	"……"
+	"......"
 	flagClear
 		flag = 1027
 	"""
-	Lan,we want to go
-	shopping! Can't you
-	do something?
+	 Laaaan, a gente
+	 quer ir fazer compras!
+	 Faz alguma coisa!
 	"""
 	keyWait
 	clearMsg
@@ -149,8 +149,8 @@ script 9 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Me? I've got stuff
-	to do too,y'know!
+	Eu? Eu também tenho
+	compromissos, sabia?
 	"""
 	keyWait
 	clearMsg
@@ -161,7 +161,7 @@ script 10 mmbn3 {
 	mugshotShow
 		mugshot = Mayl
 	msgOpen
-	"Oh,Lan…"
+	"Ai, Lan..."
 	keyWait
 	clearMsg
 	jump
@@ -174,9 +174,9 @@ script 11 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	…Oh,all right,all
-	right! C'mon,
-	MegaMan! Let's go!
+	... Ah, tá bom, tá bom!
+	Vamos lá, MegaMan!
+	Bora dar um jeito!
 	"""
 	keyWait
 	clearMsg
@@ -188,8 +188,8 @@ script 12 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	OK! Off to find the
-	#1 NetBattler in
+	Certo! Hora de achar o
+	melhor NetLutador de
 	ACDC!
 	"""
 	keyWait
@@ -201,7 +201,9 @@ script 13 mmbn3 {
 	mugshotShow
 		mugshot = Chisao
 	msgOpen
-	"And HURRY!"
+	"""
+	E "num" demora!
+	"""
 	keyWait
 	flagSet
 		flag = 1027

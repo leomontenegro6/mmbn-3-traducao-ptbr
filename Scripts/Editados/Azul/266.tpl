@@ -7,15 +7,16 @@ script 0 mmbn3 {
 	flagSet
 		flag = 1309
 	"""
-	Blub? What are you
-	doing back here! Oh
-	blub! He beat you,
+	Glub? Por que vocês
+	voltaram pra cá?!
+	Ai, meu glub!
 	"""
 	keyWait
 	clearMsg
 	"""
-	didn't he? You suds
-	are beyond useless!
+	Ele acabou com vocês,
+	não foi? Vocês são uns
+	imprestáveis!
 	"""
 	keyWait
 	end
@@ -26,12 +27,12 @@ script 1 mmbn3 {
 	msgOpen
 	flagSet
 		flag = 1310
-	"No sir!"
+	"Não, senhor!"
 	keyWait
 	clearMsg
 	"""
-	We're not weak! He's
-	just too strong!
+	Nós não somos fracos.
+	Ele que é forte demais!
 	"""
 	keyWait
 	clearMsg
@@ -43,16 +44,16 @@ script 2 mmbn3 {
 		mugshot = BubbleMan
 	msgOpen
 	"""
-	Don't blow bubbles
-	in my face! Now
-	hurry up and scram!
+	Não me venha com
+	bolha-blá-blá! Deem logo
+	o fora daqui, glub!
 	"""
 	keyWait
 	clearMsg
 	"""
-	If MegaMan comes,
-	my plan to tire him
-	won't blubby work!
+	Se o MegaMan aparecer,
+	glub-lá se vai o meu
+	plano de cansar ele!
 	"""
 	keyWait
 	clearMsg
@@ -64,8 +65,8 @@ script 3 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	You won't escape me
-	now!
+	Desta vez, vocês não
+	escapam!
 	"""
 	keyWait
 	end
@@ -75,8 +76,8 @@ script 4 mmbn3 {
 		mugshot = BubbleMan
 	msgOpen
 	"""
-	What are you doing?
-	Blub him!!
+	Tão esperando o quê?!
+	Glub nele!!
 	"""
 	keyWait
 	clearMsg
@@ -89,16 +90,15 @@ script 5 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	Aw,man! He doesn't
-	even care about how
-	we feel. This guy's
+	Ah, mano! Ele nem liga
+	pros nossos sentimentos.
+	O azulzinho é sinistro!
 	"""
 	keyWait
 	clearMsg
 	"""
-	scary!
-	OK guys,let's get
-	him! Hi-hooooo!
+	Beleza, galera, pra cima
+	dele! Gerônimooo!
 	"""
 	keyWait
 	end

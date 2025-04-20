@@ -4,7 +4,7 @@ script 0 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"We're done,Mr.Match."
+	"Pronto, Sr. Match."
 	keyWait
 	clearMsg
 	jump
@@ -15,9 +15,8 @@ script 1 mmbn3 {
 		mugshot = MrMatch
 	msgOpen
 	"""
-	Well done!
-	Now for the next
-	one.
+	Muito bem!
+	Agora, ao próximo.
 	"""
 	keyWait
 	clearMsg
@@ -29,8 +28,8 @@ script 2 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Huh? You mean
-	there's more?
+	Hã? Tá falando que
+	ainda tem mais?
 	"""
 	keyWait
 	clearMsg
@@ -42,16 +41,16 @@ script 3 mmbn3 {
 		mugshot = MrMatch
 	msgOpen
 	"""
-	Don't talk like
-	that. This is the
-	last one!
+	Não seja assim.
+	Essa é a última,
+	eu juro!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Next is your pop's
-	research lab. Hurry
-	along,now.
+	A seguir, o laboratório
+	de pesquisa do seu pai-
+	zão. Vamos, acelera aí.
 	"""
 	keyWait
 	end
@@ -60,7 +59,7 @@ script 4 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Aw,man…"
+	"Ah, cara..."
 	keyWait
 	end
 }

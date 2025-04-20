@@ -5,40 +5,40 @@ script 0 mmbn3 {
 		mugshot = LordWily
 	msgOpen
 	"""
-	Grrrrr…!!
-	That good-for-
-	nothing Sunayama!
+	Grrrrr...!!
+	Aquele imprestável do
+	Sunayama!
 	"""
 	keyWait
 	clearMsg
 	"""
-	……………
-	Bah! No matter!
+	...............
+	Humpf! Tanto faz!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I alread have two of
-	the TetraCodes.
+	Eu já tenho dois dos
+	TetraCódigos.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Once I get ahold of
-	the remaining two,
+	Assim que eu adquirir
+	os dois que faltam,
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'll be able to
-	resurrect the beast!
+	poderei ressuscitar a
+	besta!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Then I'll be able to
-	delete all traces of
-	the Net society!
+	E então, poderei deletar
+	cada molécula desta
+	sociedade da Rede!
 	"""
 	keyWait
 	flagSet
@@ -46,7 +46,7 @@ script 0 mmbn3 {
 	wait
 		frames = 32
 	clearMsg
-	"Mwahahahahaha!"
+	"Hu-hahahahahaha!"
 	keyWait
 	end
 }
@@ -55,9 +55,9 @@ script 1 mmbn3 {
 		mugshot = Anetta
 	msgOpen
 	"""
-	Laughing by yourself
-	again? You're grow-
-	ing kooky,old man!
+	Rindo sozinho de novo?
+	Não vai ficar gagá, hein,
+	vovô!
 	"""
 	keyWait
 	clearMsg
@@ -71,21 +71,21 @@ script 2 mmbn3 {
 		mugshot = LordWily
 	msgOpen
 	"""
-	"Old man"!? You will
-	refer to me as "Lord
-	Wily"!!
+	"Vovô"?! Você irá se
+	referir a mim como
+	"Lorde Wily"!!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Young'uns these days
-	have no respect…
+	Esses jovens de hoje
+	em dia... nenhum respeito!
 	"""
 	keyWait
 	clearMsg
 	"""
-	So,where did you go
-	today?
+	Então, aonde você foi
+	hoje?
 	"""
 	keyWait
 	clearMsg
@@ -97,9 +97,9 @@ script 3 mmbn3 {
 		mugshot = Anetta
 	msgOpen
 	"""
-	I put a stop to 3
-	filthy factories
-	polluting our air!
+	Saí pra encerrar as ati-
+	vidades de três fábricas
+	imundas que poluíam o ar!
 	"""
 	keyWait
 	end
@@ -109,22 +109,23 @@ script 4 mmbn3 {
 		mugshot = LordWily
 	msgOpen
 	"""
-	Very good,my dear.
-	These steady
-	operations will help
+	Muito bom, minha querida.
+	Essas operações cons-
+	tantes serão de grande
 	"""
 	keyWait
 	clearMsg
 	"""
-	save our planet's
-	environment. If we
-	don't delete the
+	ajuda para salvar o
+	meio ambiente do nosso
+	planeta.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Net society,Mother
-	Nature will perish!
+	Se não deletarmos a
+	sociedade da Rede, a
+	Mãe Natureza irá morrer!
 	"""
 	keyWait
 	clearMsg
@@ -136,22 +137,21 @@ script 5 mmbn3 {
 		mugshot = Anetta
 	msgOpen
 	"""
-	We can't let that
-	happen! I'll do
-	anything to protect
+	E a gente não pode
+	deixar isso acontecer!
 	"""
 	keyWait
 	clearMsg
 	"""
-	our environment,or
-	my name isn't
-	Anetta!
+	Eu, Anetta, farei o que
+	for preciso pra proteger
+	o meio ambiente!
 	"""
 	keyWait
 	clearMsg
 	"""
-	So,where should I
-	hit next?
+	Então, qual é o nosso
+	próximo alvo?
 	"""
 	keyWait
 	end
@@ -161,8 +161,8 @@ script 6 mmbn3 {
 		mugshot = LordWily
 	msgOpen
 	"""
-	Your next target is…
-	(Whisper whisper)
+	Seu próximo alvo é...
+	(Shhhp shhp shhp)
 	"""
 	keyWait
 	clearMsg
@@ -174,9 +174,9 @@ script 7 mmbn3 {
 		mugshot = Anetta
 	msgOpen
 	"""
-	……………
-	What? What good will
-	hitting there do?
+	...............
+	Quê? De que vai adiantar
+	atacar aquele lugar?
 	"""
 	keyWait
 	clearMsg
@@ -188,22 +188,23 @@ script 8 mmbn3 {
 		mugshot = LordWily
 	msgOpen
 	"""
-	That building holds
-	a piece of data
-	called a TetraCode.
+	Aquele prédio abriga um
+	certo conjunto de dados,
+	o chamado TetraCódigo.
 	"""
 	keyWait
 	clearMsg
 	"""
-	We must acquire the
-	TetraCode to
-	preserve nature.
+	Precisamos adquiri-lo,
+	se quisermos preservar
+	a natureza.
 	"""
 	keyWait
 	clearMsg
 	"""
-	All you need to do
-	is deliver it to me.
+	Tudo o que você precisa
+	fazer é entregá-lo para
+	mim.
 	"""
 	keyWait
 	clearMsg
@@ -215,13 +216,13 @@ script 9 mmbn3 {
 		mugshot = Anetta
 	msgOpen
 	"""
-	So you only need me
-	to steal it and
-	bring it to you?
+	Então, é só eu roubar
+	ele e trazer aqui pro
+	senhor?
 	"""
 	keyWait
 	clearMsg
-	"No problem!"
+	"Moleza!"
 	keyWait
 	clearMsg
 	jump
@@ -232,23 +233,22 @@ script 10 mmbn3 {
 		mugshot = LordWily
 	msgOpen
 	"""
-	You're a good girl.
-	Just keep doing as
-	I say.
+	Boa menina.
+	É só continuar a fazer
+	o que eu digo.
 	"""
 	keyWait
 	clearMsg
 	"""
-	If you follow my
-	orders,we can save
-	this planet.
+	Se seguir minhas ordens,
+	nós conseguiremos salvar
+	este planeta.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Now off with you,
-	Anetta! Go get that
-	TetraCode!
+	Agora, vá, Anetta!
+	Traga-me o TetraCódigo!
 	"""
 	keyWait
 	end

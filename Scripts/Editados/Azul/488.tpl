@@ -14,29 +14,29 @@ script 0 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	This is the SciLab
-	Square Battle BBS.
+	Este é o Fórum de
+	Luta do SciLab Plaza.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'm Sakasso. I work
-	for SciLab,and I
-	manage the BBS.
+	Eu sou o Sakasso.
+	Trabalho no SciLab e
+	modero o Fórum.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I look forward to
-	reading everyone's
-	posts.
+	Estou ansioso para ler
+	as postagens de todos
+	vocês.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Feel free to post
-	technical questions
-	as well!
+	E fiquem à vontade pra
+	postar perguntas
+	técnicas, também!
 	"""
 	keyWait
 	waitHold
@@ -55,21 +55,22 @@ script 1 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	So this is SciLab
-	Square? I bet we can
-	hear lots of hi-tech
+	Então, este é o SciLab
+	Plaza? Aposto que dá
+	pra aprender várias
 	"""
 	keyWait
 	clearMsg
 	"""
-	info here! Uh,may I
-	post a question?
+	informações sobre
+	tecnologia de ponta
+	aqui! Uma pergunta:
 	"""
 	keyWait
 	clearMsg
 	"""
-	I recently ran into
-	a 
+	estes dias, eu lutei
+	com um 
 	"""
 	printEnemyName
 		buffer = 0
@@ -78,13 +79,13 @@ script 1 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	But when I attacked
-	it,it froze up and
-	I couldn't hurt it.
+	Mas quando eu o ata-
+	quei, ele congelou e
+	parou de sofrer dano.
 	"""
 	keyWait
 	clearMsg
-	"What should I do?"
+	"O que eu faço?"
 	keyWait
 	waitHold
 }
@@ -101,61 +102,61 @@ script 2 mmbn3 {
 		top = 100
 	msgOpenInvisible
 		unused = 12
-	"The secret to the\n"
+	"O segredo pra habilida-\nde do "
 	printEnemyName
 		buffer = 0
 		enemy = 103
 	"""
-	's freezing
-	ability lies in the
+	 de
+	congelamento está
 	"""
 	keyWait
 	clearMsg
 	"""
-	panels. When it's on
-	an ice panel,it
-	freezes up and
+	nos quadros. Quando
+	ele está sobre um
+	quadro de gelo, ele
 	"""
 	keyWait
 	clearMsg
 	"""
-	guards against
-	attacks! The obvious
-	solution is to
+	congela e se protege
+	de ataques! A solução
+	óbvia é atacá-lo
 	"""
 	keyWait
 	clearMsg
 	"""
-	attack it when it's
-	not on an ice panel,
-	but I know some even
+	quando não estiver
+	sobre gelo, mas eu
+	conheço métodos ainda
 	"""
 	keyWait
 	clearMsg
 	"""
-	better methods! You
-	can use a chip to
-	change the panel
+	melhores! Você pode
+	usar um chip pra tro-
+	car o tipo do quadro,
 	"""
 	keyWait
 	clearMsg
 	"""
-	type so it can't
-	freeze,or just crack
-	the panels. You can
+	assim, ele não congela.
+	Ou rachar os quadros.
 	"""
 	keyWait
 	clearMsg
 	"""
-	also use a Breaking
-	Attack!
+	Você também pode
+	usar um Ataque de
+	Quebra!
 	"""
 	keyWait
 	clearMsg
 	"""
-	What's a Breaking
-	Attack,you say?
-	Hehe! It's a secret!
+	"O que é um Ataque
+	de Quebra"?
+	He he! Segredo!
 	"""
 	keyWait
 	waitHold
@@ -174,44 +175,43 @@ script 3 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	Attention please.
-	The Navi Customizer
-	that we've been
+	Atenção, por favor.
+	O Customizador de
+	Navi que viemos
 	"""
 	keyWait
 	clearMsg
 	"""
-	working on here at
-	SciLab will go on
-	sale very soon.
+	desenvolvendo no
+	SciLab logo estará
+	nas lojas.
 	"""
 	keyWait
 	clearMsg
 	"""
-	The Navi Customizer
-	is a program that
-	lets you customize
+	O Customizador é
+	um programa que nos
+	permite customizar
 	"""
 	keyWait
 	clearMsg
 	"""
-	your Navi with
-	parts of your
-	choice. It is
+	nossos Navis com
+	peças que escolhemos.
 	"""
 	keyWait
 	clearMsg
 	"""
-	an easy-to-operate,
-	technological work
-	of art.
+	É uma obra de arte
+	tecnológica e fácil de
+	usar.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Be sure to pick one
-	up-you won't be
-	disappointed!
+	Deem uma chance pro
+	Customizador, não vão
+	se decepcionar!
 	"""
 	keyWait
 	waitHold
@@ -230,15 +230,15 @@ script 4 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	That Navi Customizer
-	("NaviCust") sounds
-	awesome! The timing
+	Esse Customizador
+	de Navi ("CustNavi")
+	parece incrível!
 	"""
 	keyWait
 	clearMsg
 	"""
-	is perfect,with the
-	N1 going on and all!
+	E veio em boa hora,
+	com o N1 bem aí!
 	"""
 	keyWait
 	waitHold
@@ -257,29 +257,29 @@ script 5 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	I recently ran into
-	a scary virus
-	that could move
+	Estes dias, eu esbar-
+	rei em um vírus doidão
+	que anda pelo subsolo,
 	"""
 	keyWait
 	clearMsg
 	"""
-	underground like a
-	mole! It only
-	surfaced once in a
+	como uma toupeira!
+	Ele só sai do subsolo
+	de vez em quando,
 	"""
 	keyWait
 	clearMsg
 	"""
-	while,making it hard
-	to hit! Breaking the
-	panels while it was
+	é difícil de acertar!
+	Quebrar os quadros
+	enquanto ele está no
 	"""
 	keyWait
 	clearMsg
 	"""
-	underground seemed
-	to hurt it.
+	solo pareceu
+	machucá-lo.
 	"""
 	keyWait
 	waitHold
@@ -298,51 +298,50 @@ script 6 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	Hello,everyone. My
-	name is Dr.Hikari.
-	I'm the chief
+	Oi, pessoal. Meu nome é
+	Yuichiro Hikari, sou o
+	desenvolvedor-chefe
 	"""
 	keyWait
 	clearMsg
 	"""
-	developer
-	of the Navi
-	Customizer.
+	do Customizador de
+	Navi.
 	"""
 	keyWait
 	clearMsg
 	"""
-	The NaviCust is a
-	revolutionary new
-	system developed to
+	O CustNavi é um
+	sistema revolucionário,
+	desenvolvido para
 	"""
 	keyWait
 	clearMsg
 	"""
-	allow operators and
-	Navis even closer
-	relationships.
+	fortalecer ainda mais
+	as relações entre
+	Navi e operador.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Anyone can use it by
-	following just a few
-	simple rules.
+	Au usá-lo, só é preciso
+	seguir algumas regras
+	bem simples.
 	"""
 	keyWait
 	clearMsg
 	"""
-	However,if you break
-	the rules,you may
-	create a bug
+	Contudo, se forem
+	quebradas, você pode
+	dar um bug no seu Navi.
 	"""
 	keyWait
 	clearMsg
 	"""
-	in your Navi. Show
-	your affection by
-	using it with care.
+	Mostre seu amor pelo
+	seu Navi, usando o
+	CustNavi com amor.
 	"""
 	keyWait
 	waitHold
@@ -361,29 +360,29 @@ script 7 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	So the creator
-	of that blue Navi
-	developed the Navi
+	Então, foi o criador
+	daquele Navi azul que
+	desenvolveu o
 	"""
 	keyWait
 	clearMsg
 	"""
-	Customizer! This is
-	as big an event as
-	his father's
+	Customizador de Navi!
+	É tão marcante quanto
+	a invenção do PET,
 	"""
 	keyWait
 	clearMsg
 	"""
-	invention of the
-	PET! I can't wait to
-	start programming!
+	pelo seu pai! Tô louco
+	pra começar a
+	programar!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'm a pacifist,so
-	I'll give my Navi a
+	Sou pacifista, então,
+	darei ao meu Navi um
 	
 	"""
 	printNaviCustProgram
@@ -407,43 +406,42 @@ script 8 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	ModTools are here!
-	They're accessories
-	for the NaviCust!
+	Chegaram as
+	FerramentasMod!
+	Acessórios pro CustNavi!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Apparently,they let
-	you place parts with
-	colors that normally
+	Parece que nos permitem
+	colocar peças de
+	cores que, normalmente,
 	"""
 	keyWait
 	clearMsg
 	"""
-	can't be placed
-	together. All you
-	have to do is to
+	não podem ser coloca-
+	das juntas. Você só
+	precisa digitar um
 	"""
 	keyWait
 	clearMsg
 	"""
-	enter an 8-digit
-	ModCode.
+	CódigoMod de 8 dígitos.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I heard that those
-	ModCodes include
-	special NaviCust
+	Ouvi dizer que esses
+	CódigosMod incluem
+	símbolos especiais
 	"""
 	keyWait
 	clearMsg
 	"""
-	symbols that are a
-	little difficult to
-	describe.
+	de CustNavi que são
+	um pouco difíceis de
+	descrever.
 	"""
 	keyWait
 	waitHold
@@ -462,43 +460,43 @@ script 9 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	I have one of those
-	ModTools.
+	Eu tenho uma dessas
+	FerramentasMod.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I bought it from
-	some shady person
-	on Beach Street.
+	Comprei de um cara
+	suspeito na Rua
+	Angra.
 	"""
 	keyWait
 	clearMsg
 	"""
-	It allows you to fix
-	errors by rewriting
-	directly over the
+	Ela permite corrigir
+	erros ao reescrever
+	diretamente sobre os
 	"""
 	keyWait
 	clearMsg
 	"""
-	Navi data addresses
-	that are causing
-	them. You know how
+	endereços de dados
+	de Navi que os causam.
+	Sabem como um
 	"""
 	keyWait
 	clearMsg
 	"""
-	an Error Number
-	appears whenever
-	there's an error?
+	Número de Erro
+	aparece sempre que
+	há um erro?
 	"""
 	keyWait
 	clearMsg
 	"""
-	You need to enter
-	the ModCode for that
-	specific error.
+	É preciso inserir um
+	CódigoMod para aquele
+	erro em específico.
 	"""
 	keyWait
 	waitHold
@@ -517,37 +515,37 @@ script 10 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	Hey all! Haru the
-	Hack here! I live to
-	analyze programs,and
+	Fala, gente! Haru
+	Hacker falando! Analisar
+	programas é minha vida,
 	"""
 	keyWait
 	clearMsg
 	"""
-	have I got some
-	ModCodes for you!
-	For starters,the
+	e eu tenho uns
+	CódigosMod pra vocês!
+	Pra começar, o código
 	"""
 	keyWait
 	clearMsg
 	"""
-	code for SetLava,
-	Error # B3,is
+	pra SetLava,
+	Erro # B3, é
 	"Y[ModTools2]UOMNCB".
 	"""
 	keyWait
 	clearMsg
 	"""
-	Next…Uh,well…
-	Actually that's the
-	only one I've
+	O próximo... Er...
+	Na verdade, esse foi
+	o único que eu
 	"""
 	keyWait
 	clearMsg
 	"""
-	cracked so far. Heh
-	heh! If I find more,
-	I'll let you know!
+	"crackeei" até agora.
+	He he! Se eu achar
+	mais, eu aviso!
 	"""
 	keyWait
 	waitHold
@@ -566,65 +564,65 @@ script 11 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	Those Wood viruses
-	sure are nasty! The
-	other day I ran into
+	Aqueles vírus de
+	Madeira são crueis!
+	Outro dia, eu achei um
 	"""
 	keyWait
 	clearMsg
 	"""
-	a vine-like thing
-	that gave me the
-	hardest time!
+	trocinho tipo um cipó
+	que me deu um
+	trabalho, viu?!
 	"""
 	keyWait
 	clearMsg
 	"""
-	All these vines came
-	sprouting out of the
-	ground,but no matter
+	Essas vinhas ficavam
+	brotando do chão, mas,
+	não importa o quanto
 	"""
 	keyWait
 	clearMsg
 	"""
-	how many times I
-	shot the virus
-	it just brushed off
+	eu atirasse, o vírus
+	nem sentia os meus
+	ataques!
 	"""
 	keyWait
 	clearMsg
 	"""
-	my attacks! Fed up,
-	I blasted off a
-	CannBall,but to no
+	Fiquei tão irritado
+	que atirei uma
+	CannBall.. e nada!
 	"""
 	keyWait
 	clearMsg
 	"""
-	effect! That's when
-	I started to panic.
-	I mean,who wouldn't?
+	Aí, eu comecei a
+	entrar em pânico.
+	Quem não iria, né?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Fortunately I
-	managed to get a
-	grip of myself,and I
+	Felizmente, consegui
+	me acalmar, focar,
+	e dizer pra mim:
 	"""
 	keyWait
 	clearMsg
 	"""
-	said,"C'mon U-pon,
-	this guy's gotta
-	have a weakness"!
+	"Vamos, U-pon, esse
+	cara tem que ter
+	uma fraqueza!"
 	"""
 	keyWait
 	clearMsg
 	"""
-	Then it hit me-shoot
-	the vines! Guess
-	what? It worked!
+	Foi aí que eu saquei:
+	atirar nas vinhas!
+	E funcionou!!
 	"""
 	keyWait
 	waitHold
@@ -643,13 +641,13 @@ script 12 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	I noticed this a
-	little while ago,but
-	some viruses seem to
+	Já tem um tempo que
+	eu percebi isso, mas
+	alguns vírus parecem
 	"""
 	keyWait
 	clearMsg
-	"float,don't they?\n"
+	"que flutuam, né?\n"
 	printEnemyName
 		buffer = 0
 		enemy = 29
@@ -657,27 +655,26 @@ script 12 mmbn3 {
 	printEnemyName
 		buffer = 0
 		enemy = 155
-	"\nand others just pass"
+	"\ne outros ficam sobre"
 	keyWait
 	clearMsg
 	"""
-	right over fractured
-	panels without
-	breaking them!
-	"""
-	keyWait
-	clearMsg
-	"""
-	Makes sense when you
-	think about it,how
-	the panels wouldn't
+	quadros rachados
+	sem quebrá-los!
 	"""
 	keyWait
 	clearMsg
 	"""
-	break if you were
-	floating. I wish my
-	Navi could do that!
+	Faz sentido, quando se
+	para pra pensar. Eles
+	não quebrariam com
+	"""
+	keyWait
+	clearMsg
+	"""
+	flutuação. Queria que
+	o meu Navi pudesse
+	flutuar!
 	"""
 	keyWait
 	waitHold
@@ -696,26 +693,26 @@ script 13 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	There are also some
-	viruses like
+	Também existem vírus
+	específicos, como 
 	
 	"""
 	printEnemyName
 		buffer = 0
 		enemy = 9
-	" that can"
+	" que podem voar"
 	keyWait
 	clearMsg
 	"""
-	fly over squares
-	without panels. I
-	wish my Navi could
+	sobre espaços sem
+	quadros. Queria que
+	o meu Navi pudesse
 	"""
 	keyWait
 	clearMsg
 	"""
-	do that! Oh,wait. He
-	could if he had some
+	fazer isso! ...Ah, pera,
+	ele poderia, se tivesse
 	
 	"""
 	printNaviCustProgram
@@ -739,54 +736,54 @@ script 14 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	Dude! I just
-	discovered the
-	craziest thing!
+	Cara! Eu descobri
+	um bagulho muito,
+	mas muito doido!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I was gonna keep
-	this to myself,but
-	since we're both Net
+	Eu ia guardar segredo,
+	mas, como somos todos
+	NetLutadores aqui,
 	"""
 	keyWait
 	clearMsg
 	"""
-	Battlers,it's only
-	right that I tell
-	you all about it.
+	acho que é certo
+	contar pra todos
+	vocês.
 	"""
 	keyWait
 	clearMsg
 	"""
-	You know how attacks
-	like 
+	Sabem como ataques
+	tipo 
 	"""
 	printChip
 		buffer = 0
 		chip = 130
-	"\nwork when the screen"
+	"\nfuncionam quando a tela"
 	keyWait
 	clearMsg
 	"""
-	goes dark,like Navi
-	Chips? If you get
-	hit by one of those,
-	"""
-	keyWait
-	clearMsg
-	"""
-	press back on the
-	Control Pad when you
-	get hit to reduce
+	escurece, tipo com
+	ChipsNavi? Se você
+	for atacado com um,
 	"""
 	keyWait
 	clearMsg
 	"""
-	your damage by half!
-	What'd I tell you?
-	Crazy,huh?!
+	aperte para trás
+	no direcionar ao ser
+	atingido pra reduzir
+	"""
+	keyWait
+	clearMsg
+	"""
+	o dano pela metade!
+	Viu? Eu disse que o
+	bagulho era doido!
 	"""
 	keyWait
 	waitHold
@@ -805,29 +802,28 @@ script 15 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	That's amazing,
-	Takken!
+	Que da hora, Takken!
 	"""
 	keyWait
 	clearMsg
 	"""
-	You know,I made a
-	discovery of my own!
-	You won't believe
+	Sabe, também fiz uma
+	descoberta! Vocês não
+	vão acre ditar, mas
 	"""
 	keyWait
 	clearMsg
 	"""
-	this,but I found a
-	defensive Program
-	Advance! Unlike
+	achei um Programa
+	Avançado defensivo!
+	Mas, diferente do
 	"""
 	keyWait
 	clearMsg
 	"""
-	Takken though,I'm
-	not telling its
-	combination. Ha ha!
+	Takken, eu não vou
+	contar a combinação.
+	LOL
 	"""
 	keyWait
 	waitHold
@@ -846,22 +842,22 @@ script 16 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	I traded a friend
-	for her 
+	Troquei um chip pelo de
+	uma amiga, um 
 	"""
 	printNaviCustProgram
 		buffer = 0
 		program = 5
 	"""
-	,but
-	when I install it an
+	,
+	mas, quando eu o
 	"""
 	keyWait
 	clearMsg
 	"""
-	error occurs (#B2)!
-	Can anyone tell me
-	its ModCode?
+	instalo, ocorre um erro
+	(#B2)! Alguém sabe o
+	CódigoMod dele?
 	"""
 	keyWait
 	waitHold
@@ -880,30 +876,30 @@ script 17 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	I don't know the
-	ModCode for B2,and
-	I haven't seen it on
+	Não sei o CódigoMod
+	pro B2, e não achei
+	nos outros Fóruns,
 	"""
 	keyWait
 	clearMsg
 	"""
-	other boards,so
-	maybe no one knows
-	it yet. Wait a
+	então, pode ser que
+	ninguém saiba ainda.
+	Dê um tempinho.
 	"""
 	keyWait
 	clearMsg
 	"""
-	minute. You might be
-	able to find it at
-	that place with all
+	Pode ser possível
+	achar um lugar com
+	todas as informações
 	"""
 	keyWait
 	clearMsg
 	"""
-	the inside info.
-	But,y'know,going
-	there's a bit risky…
+	que se procura.
+	Mas, sabe... é meio
+	arriscado ir lá...
 	"""
 	keyWait
 	waitHold
@@ -922,37 +918,37 @@ script 18 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	Haru! Are you
-	talking about the
-	Under Square?
+	Haru! Você tá
+	falando do
+	UnderPlaza?
 	"""
 	keyWait
 	clearMsg
 	"""
-	What are you doing,
-	suggesting going
-	there to a lady?!
+	Que ideia é essa,
+	sugerindo aquele
+	lugar pra uma dama?!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Do you know how
-	scary the Undernet
-	is? If you read
+	Não sabe como a
+	Undernet é sinistra?
+	É só ler o post do
 	"""
 	keyWait
 	clearMsg
 	"""
-	Goh's post at the
-	Beach Square BBS,
-	you'll get the idea!
+	Goh lá no Fórum da
+	Rua Angra, você
+	VAI entender!
 	"""
 	keyWait
 	clearMsg
 	"""
-	The Undernet has
-	tons of items
-	and info,but still…
+	A Undernet tem muito
+	item e informação,
+	sim, mas...
 	"""
 	keyWait
 	waitHold

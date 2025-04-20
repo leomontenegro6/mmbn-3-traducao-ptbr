@@ -5,9 +5,9 @@ script 0 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Good morning!!
-	You're up early
-	today,Lan!
+	Bom dia!!
+	Levantou cedo hoje,
+	Lan!
 	"""
 	keyWait
 	end
@@ -17,16 +17,15 @@ script 1 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	This is it! The day
-	we put a stop to
-	Wily's plans!!
+	É hoje! O dia em que
+	vamos pôr um fim nos
+	planos do Wily!!
 	"""
 	keyWait
 	clearMsg
 	"""
-	C'mon,MegaMan!
-	Let's get to
-	Beach Street!
+	Vamos lá, MegaMan!
+	Pra Rua Angra!
 	"""
 	keyWait
 	clearMsg
@@ -38,9 +37,9 @@ script 2 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	But Lan,don't you
-	think we should tell
-	someone?
+	Mas, Lan, não acha que
+	a gente devia contar
+	pra um certo alguém?
 	"""
 	keyWait
 	clearMsg
@@ -51,19 +50,19 @@ script 3 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"No."
+	"Não."
 	keyWait
 	clearMsg
 	"""
-	I don't want to put
-	anyone in danger.
+	Eu não quero pôr
+	ninguém em perigo.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I don't want to see
-	anyone hurt because
-	of me!
+	Não quero ver mais
+	ninguém se machucar
+	por minha culpa!
 	"""
 	keyWait
 	clearMsg
@@ -74,7 +73,7 @@ script 4 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Lan…"
+	"Lan..."
 	keyWait
 	clearMsg
 	jump
@@ -85,9 +84,9 @@ script 5 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	C'mon,MegaMan!
-	Let's go save
-	our future!
+	Vamos, MegaMan!
+	Hora de ir salvar o
+	nosso futuro!
 	"""
 	keyWait
 	playerAnimate
@@ -103,7 +102,7 @@ script 6 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Roger!"
+	"Certo!"
 	keyWait
 	end
 }

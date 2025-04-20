@@ -5,9 +5,9 @@ script 0 mmbn3 {
 		mugshot = FlashMan
 	msgOpen
 	"""
-	How…?
-	How could you
-	defeat us again…?
+	Mas como...?
+	Como conseguiu nos
+	derrotar de novo...?
 	"""
 	keyWait
 	clearMsg
@@ -20,8 +20,8 @@ script 1 mmbn3 {
 	msgOpen
 	"""
 	FlashMan!
-	Prepare yourself!
-	Shining Crusher!
+	Prepare-se!
+	Brilho Dilacerante!
 	"""
 	keyWait
 	clearMsg
@@ -32,7 +32,7 @@ script 2 mmbn3 {
 	mugshotShow
 		mugshot = FlashMan
 	msgOpen
-	"Yes,sir!!"
+	"Sim, senhor!!"
 	keyWait
 	end
 }
@@ -41,9 +41,9 @@ script 3 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Oh,no!
-	I don't think I can
-	take that now!
+	Droga!
+	Acho que não vou
+	aguentar esse ataque!
 	"""
 	keyWait
 	clearMsg
@@ -56,7 +56,7 @@ script 4 mmbn3 {
 	mugshotShow
 		mugshot = FlashMan
 	msgOpen
-	"Shining…!"
+	"Brilho...!"
 	keyWait
 	clearMsg
 	jump
@@ -66,7 +66,7 @@ script 5 mmbn3 {
 	mugshotShow
 		mugshot = Tora
 	msgOpen
-	"Checkmate!!"
+	"Xeque-mate!!"
 	keyWait
 	end
 }
@@ -87,9 +87,9 @@ script 7 mmbn3 {
 		mugshot = Tora
 	msgOpen
 	"""
-	I told you! You have
-	to look several
-	moves ahead!
+	Eu te disse! Tu tem que
+	antecipar as jogadas
+	do outro!
 	"""
 	keyWait
 	clearMsg
@@ -101,8 +101,8 @@ script 8 mmbn3 {
 		mugshot = Ray
 	msgOpen
 	"""
-	How dare you
-	ambush me!
+	Como ousa me atacar
+	de surpresa?!
 	"""
 	keyWait
 	clearMsg
@@ -113,7 +113,7 @@ script 9 mmbn3 {
 	mugshotShow
 		mugshot = Tora
 	msgOpen
-	"Look who's talking!"
+	"Olha quem fala!"
 	keyWait
 	end
 }
@@ -121,7 +121,7 @@ script 10 mmbn3 {
 	mugshotShow
 		mugshot = FlashMan
 	msgOpen
-	"Whaaaaaa!!"
+	"Aaaaaagh!!"
 	keyWait
 	end
 }
@@ -129,7 +129,7 @@ script 11 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Thanks,Tora!"
+	"Valeu, Tora!"
 	keyWait
 	clearMsg
 	jump
@@ -140,9 +140,9 @@ script 12 mmbn3 {
 		mugshot = Tora
 	msgOpen
 	"""
-	No need for thanks!
-	Now come on,
-	let's get going!
+	Precisa não!
+	Agora bora,
+	podemos parar não!
 	"""
 	keyWait
 	clearMsg
@@ -154,8 +154,8 @@ script 13 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	OK!
-	MegaMan,jack out!
+	É!
+	MegaMan, desconectar!
 	"""
 	keyWait
 	clearMsg
@@ -168,7 +168,7 @@ script 14 mmbn3 {
 	msgOpen
 	playerAnimate
 		animation = 4
-	"Roger!"
+	"Positivo!"
 	keyWait
 	end
 }

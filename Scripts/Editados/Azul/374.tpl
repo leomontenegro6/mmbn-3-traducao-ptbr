@@ -5,9 +5,9 @@ script 0 mmbn3 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	I wonder if Lan's
-	OK. He's been absent
-	for three days.
+	Será que o Lan tá bem?
+	Ele não vem pra escola
+	já faz três dias.
 	"""
 	keyWait
 	clearMsg
@@ -19,15 +19,14 @@ script 1 mmbn3 {
 		mugshot = Yai
 	msgOpen
 	"""
-	His father is badly
-	injured. He almost
-	died!
+	O pai dele se machucou
+	feio. Aliás, quase morreu!
 	"""
 	keyWait
 	clearMsg
 	"""
-	That's enough to
-	shake up anyone.
+	Isso abalaria qualquer
+	um.
 	"""
 	keyWait
 	clearMsg
@@ -39,9 +38,9 @@ script 2 mmbn3 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	Yai,do you want to
-	go to Lan's after
-	school today?
+	Yau, quer passar lá na
+	casa do Lan hoje,
+	depois da escola?
 	"""
 	keyWait
 	clearMsg
@@ -53,15 +52,15 @@ script 3 mmbn3 {
 		mugshot = Yai
 	msgOpen
 	"""
-	Yeah. Two cute girls
-	like us paying a
-	visit…
+	Boa ideia. Duas meninas
+	lindas como nós indo lá
+	visitá-lo...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Lan's sure to cheer
-	up!
+	O Lan, com certeza,
+	vai se animar!
 	"""
 	keyWait
 	clearMsg
@@ -73,8 +72,8 @@ script 4 mmbn3 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	Right!
-	It's settled then!
+	É!
+	OK, tá marcado!
 	"""
 	keyWait
 	end

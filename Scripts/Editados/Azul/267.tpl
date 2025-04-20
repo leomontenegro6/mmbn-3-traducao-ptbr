@@ -5,16 +5,16 @@ script 0 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	We give up! You win!
-	We're good at
-	running,but terrible
+	A gente desiste!
+	Cê venceu!
+	A gente é bom de fuga,
 	"""
 	keyWait
 	clearMsg
 	"""
-	at fighting! Here.
-	This is what you
-	want,right?
+	mas péssimo de briga!
+	Toma, cê queria isto
+	aqui, né?
 	"""
 	keyWait
 	clearMsg
@@ -29,7 +29,7 @@ script 1 mmbn3 {
 	soundPlay
 		track = 133
 	"""
-	MegaMan got:
+	MegaMan adquiriu:
 	"
 	"""
 	printItem
@@ -48,18 +48,19 @@ script 2 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	So we're OK now,
-	right?
-	No hard feelings?
+	Então, a gente tá de
+	boa agora, né?
+	Sem ressentimentos?
 	"""
 	keyWait
 	clearMsg
-	"Right? Right?"
+	"Nenhum, né? Né?"
 	keyWait
 	clearMsg
 	"""
-	Well,then,we'd
-	better get going!
+	Bom, nesse caso, legal,
+	beleza, a gente vai
+	embora, tchaaau!
 	"""
 	keyWait
 	end
@@ -69,9 +70,8 @@ script 3 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Boy,they really are
-	good at running
-	away!
+	Cara, eles são MUITO
+	bons em fugir!
 	"""
 	keyWait
 	clearMsg
@@ -83,8 +83,9 @@ script 4 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Alright MegaMan,now
-	for BubbleMan!
+	Beleza, MegaMan.
+	Agora, é a vez do
+	BubbleMan!
 	"""
 	keyWait
 	end

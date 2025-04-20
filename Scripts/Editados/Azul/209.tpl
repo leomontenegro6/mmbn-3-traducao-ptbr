@@ -15,9 +15,9 @@ script 1 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	FlashMan! Release
-	my friends from the
-	hypnosis!
+	FlashMan! Liberte os
+	meus amigos da hipnose,
+	agora!
 	"""
 	keyWait
 	clearMsg
@@ -29,14 +29,14 @@ script 2 mmbn3 {
 		mugshot = FlashMan
 	msgOpen
 	"""
-	I told you! You have
-	to delete me to
-	break the hypnosis!
+	Eu já disse! Terá que me
+	deletar se quiser
+	desfazer a hipnose!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Come and get me,
+	Venha se for capaz,
 	MegaMan!
 	"""
 	keyWait
@@ -60,11 +60,11 @@ script 4 mmbn3 {
 	msgOpen
 	"""
 	MegaMan!
-	Battle routine,
+	Rotina de 
 	"""
 	waitSkip
 		frames = 30
-	"set!"
+	"batalha...!"
 	keyWait
 	clearMsg
 	jump
@@ -74,7 +74,7 @@ script 5 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Execute!"
+	"Executar!"
 	keyWait
 	end
 }

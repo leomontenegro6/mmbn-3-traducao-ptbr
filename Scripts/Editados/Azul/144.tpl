@@ -10,9 +10,9 @@ script 0 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	I'm analyzing virus
-	data right now.
-	Beep,beep,ping…
+	Estou analisando dados
+	de vírus agora.
+	Bip, bip, pim...
 	"""
 	keyWait
 	end
@@ -22,14 +22,14 @@ script 1 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	I'm sorting the
-	data.
+	Estou organizando os
+	dados.
 	"""
 	keyWait
 	clearMsg
 	"""
-	This goes here,
-	that goes there…
+	Este vai aqui,
+	esse vai ali...
 	"""
 	keyWait
 	end
@@ -39,16 +39,16 @@ script 2 mmbn3 {
 		mugshot = NormalNaviGreen
 	msgOpen
 	"""
-	I assist the other
-	programs in product
-	development.
+	Eu auxilio os outros
+	programas com o desen-
+	volvimento de produtos.
 	"""
 	keyWait
 	clearMsg
 	"""
-	OK…
-	Time to draw up the
-	results of analysis.
+	OK...
+	Hora de registrar os
+	resultados da análise.
 	"""
 	keyWait
 	end
@@ -71,8 +71,8 @@ script 3 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	Ah! An intruder!
-	Get him!!
+	Ah! Intruso!
+	Atacar!!
 	"""
 	keyWait
 	clearMsg
@@ -96,9 +96,9 @@ script 4 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	I hope you can find
-	a person who's a
-	programmer soon.
+	Espero que encontre
+	logo essa pessoa que
+	sabe programar.
 	"""
 	keyWait
 	end
@@ -108,8 +108,8 @@ script 5 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	I am a caretaker
-	program.
+	Sou um programa
+	cuidador.
 	"""
 	keyWait
 	end
@@ -129,9 +129,9 @@ script 10 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	File the papers from
-	the meeting. Then…
-	Agh! I mixed up…
+	Arquivar os papeis da
+	reunião. E depois...
+	Agh! Misturei tudo...
 	"""
 	keyWait
 	end
@@ -268,8 +268,8 @@ script 13 mmbn3 {
 script 230 mmbn3 {
 	msgOpen
 	"""
-	MegaMan accessed the
-	mystery data.
+	MegaMan acessou os
+	dados misteriosos.
 	"""
 	wait
 		frames = 10
@@ -292,7 +292,7 @@ script 230 mmbn3 {
 		jumpIfNone = continue
 		jumpIfSome = continue
 	"""
-	MegaMan got:
+	MegaMan adquiriu:
 	"1000 Zennys"!!
 	"""
 	playerFinish
@@ -307,8 +307,8 @@ script 231 mmbn3 {
 		jumpIfFalse = 232
 	msgOpen
 	"""
-	MegaMan accessed the
-	mystery data.
+	MegaMan acessou os
+	dados misteriosos.
 	"""
 	wait
 		frames = 10
@@ -327,8 +327,7 @@ script 231 mmbn3 {
 		code = N
 		amount = 1
 	"""
-	MegaMan got a chip
-	for
+	MegaMan adquiriu o chip
 	"
 	"""
 	printChip
@@ -349,15 +348,15 @@ script 231 mmbn3 {
 script 232 mmbn3 {
 	msgOpen
 	"""
-	It's locked.
+	Está bloqueado.
 	"
 	"""
 	printItem
 		buffer = 0
 		item = 117
 	"""
-	" is needed
-	to open it
+	" é necessário
+	para acessar os dados.
 	"""
 	keyWait
 	end

@@ -6,8 +6,7 @@ script 0 mmbn3 {
 	msgOpen
 	"""
 	Lan!
-	Are you up there,
-	Lan?
+	Lan, você tá aí?
 	"""
 	keyWait
 	clearMsg
@@ -18,7 +17,7 @@ script 1 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"What?"
+	"Quê?"
 	keyWait
 	clearMsg
 	jump
@@ -28,7 +27,7 @@ script 2 mmbn3 {
 	mugshotShow
 		mugshot = Mom
 	msgOpen
-	"Just come down here!"
+	"Desce aqui logo, filho!"
 	keyWait
 	end
 }
@@ -37,8 +36,9 @@ script 3 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	What's up,mom? Do
-	you need something?
+	Que foi, mãe?
+	Tá precisando de
+	alguma coisa?
 	"""
 	keyWait
 	clearMsg
@@ -50,21 +50,20 @@ script 4 mmbn3 {
 		mugshot = Mom
 	msgOpen
 	"""
-	Could you do me a
-	favor?
+	Queria te pedir um favor.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'd like you to take
-	this "
+	Por favor, Lan, leva
+	este "
 	"""
 	printItem
 		buffer = 0
 		item = 15
 	"""
-	" to
-	dad.
+	" para o
+	seu pai.
 	"""
 	keyWait
 	clearMsg
@@ -76,8 +75,8 @@ script 5 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Oh,OK! I'll do it
-	right away.
+	Ah, claro! Eu levo lá
+	agora mesmo.
 	"""
 	keyWait
 	clearMsg
@@ -92,7 +91,7 @@ script 6 mmbn3 {
 	soundPlay
 		track = 133
 	"""
-	Lan got:
+	Lan adquiriu:
 	"
 	"""
 	printItem
@@ -110,21 +109,21 @@ script 7 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	You seem really
-	happy,Lan.
+	Você parece bem feliz,
+	Lan.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Oh yeah,you haven't
-	told dad we'll be
-	in the N1 yet!
+	Ah, é mesmo, você ainda
+	não contou pro papai
+	que estaremos no N1!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I bet he'll be
-	surprised!
+	Aposto que ele vai ficar
+	muito surpreso!
 	"""
 	keyWait
 	clearMsg
@@ -135,7 +134,7 @@ script 8 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"See you later,mom!"
+	"Tchau, mamãe!"
 	keyWait
 	clearMsg
 	jump
@@ -145,7 +144,7 @@ script 9 mmbn3 {
 	mugshotShow
 		mugshot = Mom
 	msgOpen
-	"Be careful,Lan!"
+	"Vai com cuidado, Lan!"
 	keyWait
 	end
 }

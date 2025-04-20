@@ -5,8 +5,8 @@ script 0 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	You're the Navi
-	ranked #9?
+	Você é o Navi ranque
+	#9?
 	"""
 	keyWait
 	clearMsg
@@ -18,9 +18,9 @@ script 1 mmbn3 {
 		mugshot = CloakedNavi
 	msgOpen
 	"""
-	That would be me.
-	Who,may I ask,are
-	you?
+	Sim, sou eu.
+	E quem seria você, se
+	me permite a pergunta?
 	"""
 	keyWait
 	clearMsg
@@ -32,8 +32,8 @@ script 2 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I'm ranked #10.
-	I'm MegaMan.
+	Eu sou o Ranque #10.
+	MegaMan.EXE.
 	"""
 	keyWait
 	clearMsg
@@ -45,8 +45,8 @@ script 3 mmbn3 {
 		mugshot = CloakedNavi
 	msgOpen
 	"""
-	So. You've come to
-	battle me,then?
+	Sei. Então, veio lutar
+	comigo, presumo?
 	"""
 	keyWait
 	clearMsg
@@ -58,9 +58,9 @@ script 4 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Actually,I'm just
-	trying to find a
-	Navi called S.
+	Na verdade, eu só tô
+	atrás de um Navi
+	chamado S.
 	"""
 	keyWait
 	clearMsg
@@ -72,15 +72,15 @@ script 5 mmbn3 {
 		mugshot = CloakedNavi
 	msgOpen
 	"""
-	S…?
-	Do you have any idea
-	just how frightening
+	S...?
+	Você tem alguma noção
+	do quão aterrorizante
 	"""
 	keyWait
 	clearMsg
 	"""
-	the Navi is that you
-	seek?
+	é o Navi que você
+	procura?
 	"""
 	keyWait
 	clearMsg
@@ -92,21 +92,20 @@ script 6 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I've heard a little
-	about that.
+	Eu ouvi algumas coisas.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Still,I have to meet
-	him. If you have any
-	information…
+	Mesmo assim, eu preciso
+	encontrá-lo. Se você
+	tiver alguma informação...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Would you mind
-	sharing it with me?
+	Poderia compartilhar
+	comigo?
 	"""
 	keyWait
 	clearMsg
@@ -118,22 +117,22 @@ script 7 mmbn3 {
 		mugshot = CloakedNavi
 	msgOpen
 	"""
-	All I know is that
-	if you want to meet
-	him,the only way is…
+	Tudo o que sei é que,
+	se quiser vê-lo, a única
+	forma de fazê-lo...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Increasing your
-	rank.
+	é aumentando o seu
+	ranque.
 	"""
 	keyWait
 	clearMsg
 	"""
-	If you do that,
-	you'll bump into him
-	eventually.
+	Se fizer isso, cedo ou
+	tarde, você esbarrá
+	com ele.
 	"""
 	keyWait
 	clearMsg
@@ -145,8 +144,8 @@ script 8 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	So,in order to
-	increase my rank…
+	Então, pra aumentar
+	o meu ranque...
 	"""
 	keyWait
 	clearMsg
@@ -158,8 +157,8 @@ script 9 mmbn3 {
 		mugshot = CloakedNavi
 	msgOpen
 	"""
-	You will have to
-	battle me.
+	Você terá de lutar
+	comigo.
 	"""
 	keyWait
 	clearMsg
@@ -171,8 +170,8 @@ script 10 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Well,if that's how
-	it's got to be…
+	Bom, se é assim que
+	tem que ser...
 	"""
 	keyWait
 	clearMsg
@@ -183,13 +182,13 @@ script 11 mmbn3 {
 	mugshotShow
 		mugshot = CloakedNavi
 	msgOpen
-	"Let's fight…"
+	"Vamos lutar..."
 	keyWait
 	clearMsg
 	"""
-	Just kidding!
-	I'll give you my
-	rank.
+	Brincadeirinha!
+	Eu dou o meu ranque
+	para você.
 	"""
 	keyWait
 	clearMsg
@@ -200,7 +199,7 @@ script 12 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"What?"
+	"Oi?"
 	keyWait
 	clearMsg
 	jump
@@ -211,36 +210,36 @@ script 13 mmbn3 {
 		mugshot = CloakedNavi
 	msgOpen
 	"""
-	My rank. I'll give
-	it to you.
+	O meu ranque.
+	Pode ficar.
 	"""
 	keyWait
 	clearMsg
 	"""
-	To be honest,I'm
-	tired of this whole
-	ranking system.
+	Para ser sincero, já
+	cansei desse sistema
+	todo de ranques.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I started out like
-	everyone,battling my
-	way to the top.
+	Eu comecei como todo
+	o resto, lutando para
+	chegar ao topo.
 	"""
 	keyWait
 	clearMsg
 	"""
-	But I've grown tired
-	of fighting all the
-	Navis below me.
+	Mas já estou cansado
+	de lutar com todos os
+	Navis abaixo de mim.
 	"""
 	keyWait
 	clearMsg
 	"""
-	They come to
-	challenge me,day
-	in and day out!
+	Eles aparecem para
+	me desafiar todo dia,
+	dia e noite!
 	"""
 	keyWait
 	clearMsg
@@ -251,7 +250,10 @@ script 14 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Is it really OK?"
+	"""
+	Tudo bem mesmo pra
+	você?
+	"""
 	keyWait
 	clearMsg
 	jump
@@ -262,9 +264,8 @@ script 15 mmbn3 {
 		mugshot = CloakedNavi
 	msgOpen
 	"""
-	Don't make me repeat
-	myself. Here. Take
-	it.
+	Não me faça repetir.
+	Tome. Pode levar.
 	"""
 	keyWait
 	clearMsg
@@ -280,7 +281,7 @@ script 16 mmbn3 {
 		item = 28
 		amount = 1
 	"""
-	MegaMan got:
+	MegaMan adquiriu:
 	"
 	"""
 	printItem
@@ -298,8 +299,8 @@ script 17 mmbn3 {
 		mugshot = CloakedNavi
 	msgOpen
 	"""
-	Now you're ranked
-	#9.
+	Agora, você está
+	ranqueado como #9.
 	"""
 	keyWait
 	clearMsg
@@ -310,7 +311,7 @@ script 18 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Thank you…"
+	"Obrigado..."
 	keyWait
 	clearMsg
 	jump
@@ -321,16 +322,16 @@ script 19 mmbn3 {
 		mugshot = CloakedNavi
 	msgOpen
 	"""
-	You can find the
-	Navi ranked #8…
-	Hmm,let's see…
+	Você pode achar o
+	Navi de ranque #8...
+	Hmm, vejamos...
 	"""
 	keyWait
 	clearMsg
 	"""
-	in "Rednu3". Yeah,
-	that's it. Well,
-	that's all I know.
+	em "Rednu3". É, bem aí.
+	Bom, isso é tudo o que
+	eu sei.
 	"""
 	keyWait
 	clearMsg
@@ -342,15 +343,14 @@ script 20 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	The hint to find #8
-	is "Rednu3"?
+	A dica pra achar o #8
+	é "Rednu3"?
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'll try finding
-	him.
-	Thanks!
+	OK, vou tentar achá-lo.
+	Muito obrigado!
 	"""
 	keyWait
 	clearMsg
@@ -362,8 +362,9 @@ script 21 mmbn3 {
 		mugshot = CloakedNavi
 	msgOpen
 	"""
-	Good luck. Just try
-	not to wind up dead.
+	Boa sorte, MegaMan.EXE.
+	Só tente não morrer,
+	certo?
 	"""
 	keyWait
 	end

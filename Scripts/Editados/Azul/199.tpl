@@ -7,8 +7,8 @@ script 0 mmbn3 {
 	soundPlay
 		track = 164
 	"""
-	Rattle…
-	Rattle…rattle…
+	Prec...
+	Prec-prec...
 	"""
 	wait
 		frames = 120
@@ -21,8 +21,8 @@ script 1 mmbn3 {
 		mugshot = Dex
 	msgOpen
 	"""
-	The sound seems to
-	be coming from here.
+	O barulho parece estar
+	vindo daí.
 	"""
 	keyWait
 	clearMsg
@@ -36,9 +36,9 @@ script 2 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	It's unlocked. Looks
-	like someone's
-	inside. I'll go in!
+	Tá aberta. Parece que
+	tem alguém dentro.
+	Eu vou entrar!
 	"""
 	keyWait
 	clearMsg
@@ -50,8 +50,7 @@ script 3 mmbn3 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	That's dangerous,
-	Lan!
+	É perigoso demais, Lan!
 	"""
 	keyWait
 	clearMsg
@@ -65,9 +64,9 @@ script 4 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I'll just check it
-	out. You guys wait
-	here.
+	Eu só vou dar uma
+	conferida. Vocês
+	esperam aqui.
 	"""
 	keyWait
 	clearMsg
@@ -78,7 +77,7 @@ script 5 mmbn3 {
 	mugshotShow
 		mugshot = Yai
 	msgOpen
-	"Be careful!"
+	"Cuidado!"
 	keyWait
 	clearMsg
 	jump
@@ -88,7 +87,7 @@ script 6 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Okay!"
+	"Pode deixar!"
 	keyWait
 	end
 }

@@ -4,7 +4,7 @@ script 0 mmbn3 {
 	mugshotShow
 		mugshot = FlameMan
 	msgOpen
-	"Whraah,Whraaaaaah!"
+	"Urroh, uraaaaaaaaah!"
 	keyWait
 	clearMsg
 	jump
@@ -14,12 +14,12 @@ script 1 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Huff…Huff…"
+	"Uff... Arf..."
 	keyWait
 	clearMsg
 	"""
-	You won't fall yet?
-	What endurance!
+	Ainda tá de pé?
+	Quanta resistência!
 	"""
 	keyWait
 	clearMsg
@@ -31,16 +31,16 @@ script 2 mmbn3 {
 		mugshot = MrMatch
 	msgOpen
 	"""
-	FlamMan and I won't
-	be snuffed out so
-	easily! FlamMan!
+	O FlameMan e eu não
+	vamos ser apagados tão
+	facilmente! FlameMan!
 	"""
 	keyWait
 	clearMsg
 	"""
-	MegaMan's worn out!
-	Burn him with your
-	FireBreath!
+	MegaMan está cansado!
+	Queime-o com a sua
+	Baforada de Fogo!
 	"""
 	keyWait
 	clearMsg
@@ -52,14 +52,14 @@ script 3 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	If we get hit by his
-	FireBreath now,we'll
-	be in trouble!
+	Se formos atingidos
+	pela Bafora de Fogo
+	agora, a gente já era!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Evasive maneuvers,
+	Manobras evasivas,
 	MegaMan!
 	"""
 	keyWait
@@ -72,8 +72,9 @@ script 4 mmbn3 {
 		mugshot = MrMatch
 	msgOpen
 	"""
-	Burn 'em to cinders,
-	MegaMan!
+	Transforme esse Navi
+	em uma pilha de cinzas,
+	FlameMan!
 	"""
 	keyWait
 	clearMsg
@@ -84,7 +85,7 @@ script 5 mmbn3 {
 	mugshotShow
 		mugshot = FlameMan
 	msgOpen
-	"Whraaaaaah!"
+	"Uuuraaaaaaaahh!"
 	keyWait
 	clearMsg
 	jump
@@ -103,8 +104,8 @@ script 7 mmbn3 {
 	mugshotHide
 	msgOpen
 	"""
-	I feel the power of
-	the strong…
+	Eu sinto o poderio dos
+	fortes...
 	"""
 	keyWait
 	end
@@ -113,7 +114,7 @@ script 8 mmbn3 {
 	mugshotShow
 		mugshot = FlameMan
 	msgOpen
-	"Whraa…!?"
+	"Uraa...?!"
 	keyWait
 	end
 }
@@ -122,15 +123,16 @@ script 9 mmbn3 {
 		mugshot = MrMatch
 	msgOpen
 	"""
-	FlamMan! Where are
-	you looking!?
+	FlameMan!
+	Para onde está
+	olhando?!
 	"""
 	keyWait
 	clearMsg
 	"""
-	This is your chance!
-	Hurry and finish off
-	MegaMan!
+	Essa é a sua chance!
+	Vamos, acabe logo com
+	o MegaMan!
 	"""
 	keyWait
 	clearMsg
@@ -141,7 +143,7 @@ script 10 mmbn3 {
 	mugshotShow
 		mugshot = FlameMan
 	msgOpen
-	"Whra,whraaaah!"
+	"Urah, uraaaaaahhh!"
 	keyWait
 	clearMsg
 	jump
@@ -152,8 +154,8 @@ script 11 mmbn3 {
 		mugshot = MrMatch
 	msgOpen
 	"""
-	What's wrong,
-	FlamMan!?
+	O que há com você,
+	FlameMan?!
 	"""
 	keyWait
 	clearMsg
@@ -165,21 +167,21 @@ script 12 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Th-this feeling…
-	It's that pressure
-	I've been sensing
+	E-este sentimento...
+	É a pressão que eu
+	venho sentindo
 	"""
 	keyWait
 	clearMsg
 	"""
-	ever since coming
-	into this area!
+	desde que entrei
+	nesta área!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Lan! Something's
-	coming!
+	Lan!
+	Tem alguma coisa vindo!
 	"""
 	keyWait
 	end
@@ -188,7 +190,7 @@ script 13 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Aa…! Aaaah……!"
+	"Aa...! Aaaah......!"
 	keyWait
 	clearMsg
 	flagSet
@@ -204,9 +206,9 @@ script 14 mmbn3 {
 		mugshot = Bass
 	msgOpen
 	"""
-	Let us battle…
-	You who emits the
-	power of the strong…
+	Lute comigo...
+	Você, que emite o
+	poderio dos fortes...
 	"""
 	keyWait
 	end
@@ -216,14 +218,14 @@ script 15 mmbn3 {
 		mugshot = MrMatch
 	msgOpen
 	"""
-	You want to fight
-	us!?
+	Você quer lutar
+	conosco?!
 	"""
 	keyWait
 	clearMsg
 	"""
-	FlamMan! Take care
-	of this guy first!
+	FlameMan! Acabe com
+	esse sujeito primeiro!
 	"""
 	keyWait
 	clearMsg
@@ -234,7 +236,7 @@ script 16 mmbn3 {
 	mugshotShow
 		mugshot = FlameMan
 	msgOpen
-	"Whrahahahah!"
+	"Uraahrahrahrah!"
 	keyWait
 	clearMsg
 	jump
@@ -245,8 +247,8 @@ script 17 mmbn3 {
 		mugshot = Bass
 	msgOpen
 	"""
-	Stand aside…
-	You who are weak…
+	Para trás...
+	Você, que é fraco...
 	"""
 	keyWait
 	end
@@ -266,28 +268,28 @@ script 19 mmbn3 {
 		mugshot = MrMatch
 	msgOpen
 	"""
-	Th-this can't be
-	happening…
+	I-isso não pode estar
+	acontecendo...
 	"""
 	keyWait
 	clearMsg
 	"""
-	I hand-crafted Flam
-	Man,customizing him
-	myself! And he's
+	Eu programei o FlameMan
+	pessoalmente, eu mesmo
+	o customizei!
 	"""
 	keyWait
 	clearMsg
 	"""
-	gone? Just like that?
-	What are you!?
+	E ele se foi?
+	Simples assim?
+	Mas... quem é você?!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'll have to make a
-	strategic retreat.
-	Blazes!
+	... Vou ter que bater
+	em retirada. Inferno!
 	"""
 	keyWait
 	clearMsg
@@ -299,9 +301,9 @@ script 20 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	How can a Navi
-	possess this much
-	power?
+	Como pode um Navi
+	possuir tanto poder
+	assim?
 	"""
 	keyWait
 	end
@@ -311,8 +313,8 @@ script 21 mmbn3 {
 		mugshot = Bass
 	msgOpen
 	"""
-	The peon is gone…
-	Time now for battle…
+	O peão se foi...
+	Agora, é hora de lutar...
 	"""
 	keyWait
 	clearMsg
@@ -324,9 +326,9 @@ script 22 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I sense an intense
-	aura that could
-	deflect anything!
+	Eu sinto uma aura
+	extraordinária, capaz de
+	defletir qualquer coisa!
 	"""
 	keyWait
 	clearMsg
@@ -341,7 +343,7 @@ script 22 mmbn3 {
 		frames = 30
 	"""
 	Lan!
-	Here he comes!
+	Lá vem ele!
 	"""
 	keyWait
 	end

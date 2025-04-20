@@ -5,9 +5,9 @@ script 0 mmbn3 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	You! You just said
-	"Wily"! So You're a
-	WWW operator!
+	Ei! Você acabou de dizer
+	"Wily"! Então, você é um
+	operador da WWW!
 	"""
 	keyWait
 	clearMsg
@@ -18,19 +18,19 @@ script 1 mmbn3 {
 	mugshotShow
 		mugshot = NetbattlerQ
 	msgOpen
-	"That's right!"
+	"Exatamente!"
 	keyWait
 	clearMsg
 	"""
-	The time has finally
-	come to reveal who I
-	am!
+	Enfim, chegou a hora
+	de revelar quem eu
+	realmente sou!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Cameramen! Focus on
-	me!!
+	Câmeras!
+	Foco em mim!!
 	"""
 	keyWait
 	end
@@ -39,27 +39,31 @@ script 2 mmbn3 {
 	mugshotShow
 		mugshot = NetbattlerQ
 	msgOpen
-	"Who am I,you ask?"
-	keyWait
-	clearMsg
 	"""
-	Age,gender,
-	nationality unknown!
+	Quem sou eu,
+	você pergunta?
 	"""
 	keyWait
 	clearMsg
 	"""
-	The owner of a
-	million mysteries!
+	Idade, gênero e
+	nacionalidade
+	desconhecidas!
 	"""
 	keyWait
 	clearMsg
-	"NetBattler Q!!!!"
+	"""
+	Envolto por um milhão
+	de mistérios!
+	"""
+	keyWait
+	clearMsg
+	"NetLutador Q!!!!"
 	keyWait
 	clearMsg
 	"""
-	However,in reality,
-	I am…
+	Porém, na verdade,
+	eu sou...
 	"""
 	keyWait
 	end
@@ -69,13 +73,13 @@ script 3 mmbn3 {
 		mugshot = Sunayama
 	msgOpen
 	"""
-	N1 Grand Prix
-	producer and WWW
-	operator……
+	Produtor do Grande
+	Prêmio N1 e operador
+	da WWW...
 	"""
 	keyWait
 	clearMsg
-	"Sunayamaaaaaa!!"
+	"Sunayaaaamaaa!!"
 	keyWait
 	end
 }
@@ -84,9 +88,9 @@ script 4 mmbn3 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	I see. You've been
-	stringing us along
-	all this time.
+	Entendi. Você esteve
+	nos manipulando esse
+	tempo todo.
 	"""
 	keyWait
 	clearMsg
@@ -97,7 +101,7 @@ script 5 mmbn3 {
 	mugshotShow
 		mugshot = Sunayama
 	msgOpen
-	"Exactly!"
+	"Correto!"
 	keyWait
 	clearMsg
 	jump
@@ -108,16 +112,15 @@ script 6 mmbn3 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	But why choose such
-	a public stage as
-	the N1?
+	Mas por que escolher
+	um palco como o N1,
+	algo tão público?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Usually,the WWW
-	operates in the
-	shadows.
+	Normalmente, a WWW
+	opera das sombras.
 	"""
 	keyWait
 	clearMsg
@@ -129,23 +132,22 @@ script 7 mmbn3 {
 		mugshot = Sunayama
 	msgOpen
 	"""
-	Tsk! Tsk! Tsk!
-	I'm sorry,my little
-	friend,but it's just
+	Tsc! Tsc! Tsc! Lamento,
+	amiguinho, mas é
+	justamente o contrário!
 	"""
 	keyWait
 	clearMsg
 	"""
-	the opposite! The
-	more public the
-	place,the better!
+	Quanto mais público,
+	melhor!
 	"""
 	keyWait
 	clearMsg
 	"""
-	This was a necessary
-	step in our plan to
-	rule the world!
+	Foi um passo necessário
+	no nosso plano para
+	dominar o mundo!
 	"""
 	keyWait
 	clearMsg
@@ -157,28 +159,28 @@ script 8 mmbn3 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	…I see.
-	By defeating all the
-	famous NetBattlers
+	... Entendo.
 	"""
 	keyWait
 	clearMsg
 	"""
-	in this event,which
-	is being broadcast
-	live around the
+	Ao vencer todos os
+	NetLutadores famosos
+	neste evento,
 	"""
 	keyWait
 	clearMsg
 	"""
-	world,you aim to
-	show the entire
+	que está sendo
+	transmitido ao vivo
+	mundo afora,
 	"""
 	keyWait
 	clearMsg
 	"""
-	planet the power of
-	the WWW.
+	você pretende mostrar
+	ao planeta inteiro o
+	poder da WWW.
 	"""
 	keyWait
 	clearMsg
@@ -190,43 +192,45 @@ script 9 mmbn3 {
 		mugshot = Sunayama
 	msgOpen
 	"""
-	Exactly so.
-	You catch on fast.
+	Corretíssimo.
+	Você pega rápido,
+	garoto.
 	"""
 	keyWait
 	clearMsg
 	"""
-	The defeat of ace
-	NetBattler Chaud
+	A derrota de Eugene
+	Chaud, o NetLutador
+	prodígio,
 	"""
 	keyWait
 	clearMsg
 	"""
-	will be displayed on
-	TV sets around the
-	world!
+	será transmitida
+	através de televisores
+	ao redor do mundo!
 	"""
 	keyWait
 	clearMsg
-	"Then,"
+	"Daí,"
 	keyWait
 	clearMsg
 	"""
-	people will realize
-	that if not even the
-	"""
-	keyWait
-	clearMsg
-	"""
-	legendary Chaud
-	could defeat the
-	WWW,
+	as pessoas entenderão
+	que,
 	"""
 	keyWait
 	clearMsg
 	"""
-	no one can oppose
-	us!
+	se nem mesmo o lendário
+	Eugene Chaud conseguiu
+	vencer a WWW,
+	"""
+	keyWait
+	clearMsg
+	"""
+	então ningué pode se
+	opor a nós!
 	"""
 	keyWait
 	clearMsg
@@ -238,22 +242,21 @@ script 10 mmbn3 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Hmph. A feeble plan
-	at best. What will
-	happen if I win?
+	Hmpf. Um plano, no
+	máximo, duvidoso. O que
+	acontece se eu vencer?
 	"""
 	keyWait
 	clearMsg
 	"""
-	After losing to an
-	elementary school
-	student,the WWW will
+	Após perder para um
+	pré-adolescente,
 	"""
 	keyWait
 	clearMsg
 	"""
-	be the laughing
-	stock of the planet!
+	a WWW se tornaria a
+	maior piada do planeta!
 	"""
 	keyWait
 	clearMsg
@@ -264,25 +267,26 @@ script 11 mmbn3 {
 	mugshotShow
 		mugshot = Sunayama
 	msgOpen
-	"Hee hee hee!"
+	"He he he!"
 	keyWait
 	clearMsg
 	"""
-	Oh,I don't believe
-	that is likely to
-	happen.
-	"""
-	keyWait
-	clearMsg
-	"""
-	After all,I am the
-	producer of the N1!
+	Ah, mas isso é muitíssimo
+	improvável de acontecer.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Are you starting to
-	get the picture?
+	Afinal de contas, eu sou
+	o produtor do Grande
+	Prêmio N1!
+	"""
+	keyWait
+	clearMsg
+	"""
+	Está começando a
+	entender, agora,
+	mocinho?
 	"""
 	keyWait
 	clearMsg
@@ -294,9 +298,9 @@ script 12 mmbn3 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	…You didn't!!
-	You won't get away
-	with this!!
+	... Não acredito!
+	Você não vai se safar
+	dessa!!
 	"""
 	keyWait
 	end
@@ -306,13 +310,13 @@ script 13 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Chaud! What are you
-	doing? This guy's a
-	WWW operator!
+	Chaud! O que você tá
+	fazendo? Esse cara é
+	um operado da WWW!
 	"""
 	keyWait
 	clearMsg
-	"Let's get him!"
+	"Vamos acabar com ele!"
 	keyWait
 	clearMsg
 	jump
@@ -323,8 +327,8 @@ script 14 mmbn3 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Back off,Lan. Leave
-	this to me.
+	Fica fora disso, Lan.
+	Deixa isso comigo.
 	"""
 	keyWait
 	clearMsg
@@ -336,20 +340,19 @@ script 15 mmbn3 {
 		mugshot = Sunayama
 	msgOpen
 	"""
-	This isn't the place
-	for this. I've
-	prepared a more
+	Aqui não é um bom lugar
+	para isto.
 	"""
 	keyWait
 	clearMsg
 	"""
-	crowd-pleasing
-	location. Shall we
-	go there?
+	Eu preparei um local mais
+	atraente para o público.
+	Que tal irmos para lá?
 	"""
 	keyWait
 	clearMsg
-	"Lights off!!"
+	"Apagar luzes!!"
 	keyWait
 	end
 }
@@ -360,15 +363,15 @@ script 16 mmbn3 {
 		frames = 50
 	msgOpen
 	"""
-	Chaud. Come alone to
-	the editing room.
+	Chaud. Venha para a
+	sala de edição sozinho.
 	"""
 	keyWait
 	clearMsg
 	"""
-	We'll continue our
-	little confrontation
-	there. Ha ha ha ha!
+	Continuaremos o nosso
+	pequeno confronto lá.
+	Ha ha ha ha ha!
 	"""
 	keyWait
 	end
@@ -378,8 +381,7 @@ script 17 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Chaud! I'm going
-	with you!
+	Chaud! Eu vou com você!
 	"""
 	keyWait
 	clearMsg
@@ -389,9 +391,8 @@ script 18 mmbn3 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	You stay here,Lan.
-	This is between him
-	and me.
+	Você fica aqui, Lan.
+	Isto é entre eu e ele.
 	"""
 	keyWait
 	end
@@ -401,36 +402,35 @@ script 19 mmbn3 {
 		mugshot = Ribitta
 	msgOpen
 	"""
-	Something absolutely
-	terrible has
-	happened!!
+	Uma coisa simplesmente
+	terrível aconteceu!!
 	"""
 	keyWait
 	clearMsg
 	"""
-	The mysterious Net
-	Battler Q was not
-	only a WWW member,
+	O misterioso NetLutador
+	Q não só era um membro
+	da WWW,
 	"""
 	keyWait
 	clearMsg
 	"""
-	but the producer of
-	the N1 Grand Prix,
-	Sunayama himself!!
+	mas também o produtor
+	do Grande Prêmio N1,
+	Noboru Sunayama!!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Sunayama has called
-	Chaud to the editing
-	room on the second
+	O sr. Sunayama chamou
+	Chaud para a sala de
+	edição no segundo andar.
 	"""
 	keyWait
 	clearMsg
 	"""
-	floor. What will
-	happen next!?
+	O que será que irá
+	acontecer a seguir?!
 	"""
 	keyWait
 	clearMsg
@@ -452,7 +452,7 @@ script 21 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Right! Let's follow
+	É! Vamos atrás do
 	Chaud!!
 	"""
 	keyWait
@@ -463,9 +463,9 @@ script 22 mmbn3 {
 		mugshot = Ribitta
 	msgOpen
 	"""
-	Oh,no! Sunayama
-	vanished while the
-	lights were out!
+	Ai, não! O sr. Sunayama
+	desapareceu enquanto
+	estava tudo apagado!
 	"""
 	keyWait
 	end

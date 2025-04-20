@@ -5,9 +5,8 @@ script 0 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan! This place is
-	crawling with
-	digivines too!
+	Lan! Este lugar também
+	tá coberto de digivinhas!
 	"""
 	keyWait
 	clearMsg
@@ -22,13 +21,13 @@ script 1 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	MegaMan! Mamoru's
-	life is depending on
-	us!
+	MegaMan! A vida do
+	Mamoru tá nas suas
+	mãos!
 	"""
 	keyWait
 	clearMsg
-	"Hurry!"
+	"Depressa!"
 	keyWait
 	clearMsg
 	jump
@@ -38,7 +37,7 @@ script 2 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Roger!"
+	"Entendido!"
 	keyWait
 	end
 }

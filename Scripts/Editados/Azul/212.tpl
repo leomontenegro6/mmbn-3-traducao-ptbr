@@ -5,9 +5,9 @@ script 0 mmbn3 {
 		mugshot = NormalNaviGreen
 	msgOpen
 	"""
-	Now it's time for…
-	"CyberSimon Says"!
-	Yeahh! Whoo! Whoo!
+	É hora, é hora de...
+	"O CyberMestre Mandou"!
+	Aêê! Urrúú! Iiééé!
 	"""
 	keyWait
 	clearMsg
@@ -18,7 +18,7 @@ script 1 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Get ready,MegaMan!"
+	"Prepara, MegaMan!"
 	keyWait
 	clearMsg
 	jump
@@ -28,7 +28,7 @@ script 2 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"You bet,Lan!"
+	"Sempre, Lan!"
 	keyWait
 	end
 }
@@ -37,9 +37,8 @@ script 3 mmbn3 {
 		mugshot = NormalNaviGreen
 	msgOpen
 	"""
-	All you have to do
-	is push the button
-	that I tell you to!
+	É só apertar os botões
+	que eu mandar!
 	"""
 	keyWait
 	clearMsg
@@ -58,16 +57,16 @@ script 4 mmbn3 {
 	mugshotShow
 		mugshot = NormalNaviGreen
 	msgOpen
-	"The time limit is…"
+	"O limite de tempo é..."
 	flagSet
 		flag = 57
-	"\none minute!"
+	"\num minuto!"
 	keyWait
 	clearMsg
 	"""
-	You win if you can
-	press the correct
-	button 60 times!
+	Para vencer, precisa
+	apertar os botões
+	certos 60 vezes!
 	"""
 	keyWait
 	clearMsg
@@ -78,16 +77,16 @@ script 5 mmbn3 {
 	mugshotShow
 		mugshot = NormalNaviGreen
 	msgOpen
-	"The time limit is…"
+	"O limite de tempo é..."
 	flagSet
 		flag = 57
-	"\none minute!"
+	"\num minuto!"
 	keyWait
 	clearMsg
 	"""
-	You win if you can
-	press the correct
-	button 90 times!
+	Para vencer, precisa
+	apertar os botões
+	certos 90 vezes!
 	"""
 	keyWait
 	clearMsg
@@ -98,16 +97,16 @@ script 6 mmbn3 {
 	mugshotShow
 		mugshot = NormalNaviGreen
 	msgOpen
-	"The time limit is…"
+	"O limite de tempo é..."
 	flagSet
 		flag = 57
-	"\none minute!"
+	"\num minuto!"
 	keyWait
 	clearMsg
 	"""
-	You win if you can
-	press the correct
-	button 99 times!
+	Para vencer, precisa
+	apertar os botões
+	certos 99 vezes!
 	"""
 	keyWait
 	clearMsg
@@ -118,7 +117,7 @@ script 7 mmbn3 {
 	mugshotShow
 		mugshot = NormalNaviGreen
 	msgOpen
-	"Good luck!"
+	"Boa sorte!"
 	keyWait
 	end
 }
@@ -131,10 +130,10 @@ script 8 mmbn3 {
 	mugshotShow
 		mugshot = NormalNaviGreen
 	msgOpen
-	"Wonderful!!\n"
+	"Maravilhoso!!\n"
 	soundPlay
 		track = 301
-	"Congratulations!!"
+	"Meus parabéns!"
 	keyWait
 	clearMsg
 	jump
@@ -153,18 +152,17 @@ script 9 mmbn3 {
 	mugshotShow
 		mugshot = NormalNaviGreen
 	msgOpen
-	"Too bad!!"
+	"Que pena!"
 	keyWait
 	clearMsg
 	"""
-	And you were so
-	close,too!
+	E foi quase!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Please play again
-	soon!
+	Espero que tente jogar
+	de novo em breve!
 	"""
 	keyWait
 	end
@@ -188,9 +186,9 @@ script 11 mmbn3 {
 		mugshot = NormalNaviGreen
 	msgOpen
 	"""
-	Lost again,huh?
-	Well,here's a
-	special treat…
+	Perdeu de novo...
+	Bom, pode ficar com este
+	prêmio de consolação...
 	"""
 	keyWait
 	end
@@ -208,9 +206,9 @@ script 12 mmbn3 {
 	soundPlay
 		track = 301
 	"""
-	He snatches victory
-	from the jaws of
-	defeat! OK,next!
+	E ele arranca a vitória
+	das mãos fominhas da
+	derrota! OK, próximo!
 	"""
 	keyWait
 	end
@@ -232,13 +230,13 @@ script 15 mmbn3 {
 		mugshot = NormalNaviGreen
 	msgOpen
 	"""
-	What a comeback!!
-	Round 1,cleared!!
+	Que reviravolta, amigos!
+	Primeira rodada, concluída!
 	
 	"""
 	soundPlay
 		track = 301
-	"Congratulations!!"
+	"Meus parabéns!"
 	keyWait
 	end
 }
@@ -255,14 +253,13 @@ script 16 mmbn3 {
 		mugshot = NormalNaviGreen
 	msgOpen
 	"""
-	Perfect!!
+	Perfeito!
 	Clap-clap-clap!
 	"""
 	keyWait
 	clearMsg
 	"""
-	And here's your
-	prize!!
+	E aqui está o seu prêmio!
 	"""
 	keyWait
 	clearMsg
@@ -275,7 +272,7 @@ script 16 mmbn3 {
 	playerAnimate
 		animation = 24
 	"""
-	MegaMan got:
+	MegaMan adquiriu:
 	"1 BugFrag"!!
 	"""
 	playerFinish
@@ -290,14 +287,13 @@ script 17 mmbn3 {
 		mugshot = NormalNaviGreen
 	msgOpen
 	"""
-	Perfect!!
+	Perfeito!
 	Clap-clap-clap!
 	"""
 	keyWait
 	clearMsg
 	"""
-	And here's your
-	prize!!
+	E aqui está o seu prêmio!
 	"""
 	keyWait
 	clearMsg
@@ -310,7 +306,7 @@ script 17 mmbn3 {
 	playerAnimate
 		animation = 24
 	"""
-	MegaMan got:
+	MegaMan adquiriu:
 	"5 BugFrags"!!
 	"""
 	playerFinish
@@ -325,14 +321,13 @@ script 18 mmbn3 {
 		mugshot = NormalNaviGreen
 	msgOpen
 	"""
-	Perfect!!
+	Perfeito!
 	Clap-clap-clap!
 	"""
 	keyWait
 	clearMsg
 	"""
-	And here's your
-	prize!!
+	E aqui está o seu prêmio!
 	"""
 	keyWait
 	clearMsg
@@ -345,7 +340,7 @@ script 18 mmbn3 {
 	playerAnimate
 		animation = 24
 	"""
-	MegaMan got:
+	MegaMan adquiriu:
 	"30 BugFrags"!!
 	"""
 	playerFinish

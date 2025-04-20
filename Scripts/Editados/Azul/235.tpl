@@ -4,7 +4,7 @@ script 0 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Whew!"
+	"Ufa!"
 	keyWait
 	clearMsg
 	jump
@@ -15,8 +15,8 @@ script 1 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	It looks like they
-	haven't left yet!
+	Parece que ainda não
+	partiram!
 	"""
 	keyWait
 	end
@@ -25,19 +25,18 @@ script 2 mmbn3 {
 	mugshotShow
 		mugshot = MsMari
 	msgOpen
-	"Lan,you're late!"
+	"Lan! Está atrasado!"
 	keyWait
 	clearMsg
 	"""
-	Well,now that we
-	finally have
-	everyone here…
+	Enfim, agora que estão
+	todos aqui...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Let's go on our
-	field trip!
+	Vamos partir para a
+	nossa excursão!
 	"""
 	keyWait
 	clearMsg
@@ -48,7 +47,7 @@ script 3 mmbn3 {
 	mugshotShow
 		mugshot = Dex
 	msgOpen
-	"Aw,yeah!"
+	"Urrú!"
 	keyWait
 	clearMsg
 	jump
@@ -58,7 +57,7 @@ script 4 mmbn3 {
 	mugshotShow
 		mugshot = Mayl
 	msgOpen
-	"Off to Yoka!"
+	"Próxima parada: Yoka!"
 	keyWait
 	clearMsg
 	jump
@@ -69,9 +68,9 @@ script 5 mmbn3 {
 		mugshot = Yai
 	msgOpen
 	"""
-	The hot spring there
-	had better have
-	clean water!
+	É bom a água da fonte
+	termal de lá ser limpinha,
+	viu?
 	"""
 	keyWait
 	clearMsg
@@ -83,9 +82,9 @@ script 6 mmbn3 {
 		mugshot = MsMari
 	msgOpen
 	"""
-	Everyone,remember to
-	represent ACDC well
-	by being good!
+	Crianças, lembrem-se de
+	se comportar para
+	representar ACDC bem!
 	"""
 	keyWait
 	clearMsg
@@ -95,7 +94,7 @@ script 6 mmbn3 {
 script 7 mmbn3 {
 	mugshotHide
 	msgOpen
-	"Yes,ma'am!!!!"
+	"Sim, professora!!!!"
 	keyWait
 	clearMsg
 	jump
@@ -105,7 +104,7 @@ script 8 mmbn3 {
 	mugshotShow
 		mugshot = MsMari
 	msgOpen
-	"OK,let's goooo!!"
+	"Com isso dito... vamos lá!!"
 	keyWait
 	end
 }

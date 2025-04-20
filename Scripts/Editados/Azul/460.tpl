@@ -1,7 +1,7 @@
 @size 172
 
 script 0 mmbn3s {
-	"MailNews■"
+	"NotcMail"
 	end
 }
 script 1 mmbn3s {
@@ -9,7 +9,7 @@ script 1 mmbn3s {
 	end
 }
 script 2 mmbn3s {
-	"NetCrime alert"
+	"NetCrimes!"
 	end
 }
 script 4 mmbn3s {
@@ -21,7 +21,7 @@ script 5 mmbn3s {
 	end
 }
 script 6 mmbn3s {
-	"I'm starting!"
+	"Já comecei!"
 	end
 }
 script 8 mmbn3s {
@@ -33,7 +33,7 @@ script 9 mmbn3s {
 	end
 }
 script 10 mmbn3s {
-	"It's opened!"
+	"Abriu!"
 	end
 }
 script 12 mmbn3s {
@@ -45,11 +45,11 @@ script 13 mmbn3s {
 	end
 }
 script 14 mmbn3s {
-	"Let's battle!"
+	"Bora lutar!"
 	end
 }
 script 16 mmbn3s {
-	"Dad_____■"
+	"Papai___■"
 	end
 }
 script 17 mmbn3s {
@@ -57,7 +57,7 @@ script 17 mmbn3s {
 	end
 }
 script 18 mmbn3s {
-	"Fixed"
+	"Consertado"
 	end
 }
 script 20 mmbn3s {
@@ -69,7 +69,7 @@ script 21 mmbn3s {
 	end
 }
 script 22 mmbn3s {
-	"Help,huh!!"
+	"Ajuda, é!!"
 	end
 }
 script 24 mmbn3s {
@@ -81,11 +81,11 @@ script 25 mmbn3s {
 	end
 }
 script 26 mmbn3s {
-	"N1 preliminary"
+	"PreliminaresN1"
 	end
 }
 script 28 mmbn3s {
-	"Dad_____■"
+	"Papai___■"
 	end
 }
 script 29 mmbn3s {
@@ -93,7 +93,7 @@ script 29 mmbn3s {
 	end
 }
 script 30 mmbn3s {
-	"Business trip"
+	"Viagem trab."
 	end
 }
 script 32 mmbn3s {
@@ -105,7 +105,7 @@ script 33 mmbn3s {
 	end
 }
 script 34 mmbn3s {
-	"Use this"
+	"Use isto"
 	end
 }
 script 36 mmbn3s {
@@ -117,7 +117,7 @@ script 37 mmbn3s {
 	end
 }
 script 38 mmbn3s {
-	"Ready,huh!!"
+	"Que coisa, é!"
 	end
 }
 script 40 mmbn3s {
@@ -125,11 +125,11 @@ script 40 mmbn3s {
 	end
 }
 script 41 mmbn3s {
-	"Mr.Lan__■"
+	"Sr. Lan_■"
 	end
 }
 script 42 mmbn3s {
-	"Recording"
+	"Gravação"
 	end
 }
 script 44 mmbn3s {
@@ -137,11 +137,11 @@ script 44 mmbn3s {
 	end
 }
 script 45 mmbn3s {
-	"Mr.Lan__■"
+	"Sr. Lan_■"
 	end
 }
 script 46 mmbn3s {
-	"C-Beach Pass"
+	"CyTíqt Angra"
 	end
 }
 script 48 mmbn3s {
@@ -153,11 +153,11 @@ script 49 mmbn3s {
 	end
 }
 script 50 mmbn3s {
-	"N1 time!!"
+	"Hora do N1!!"
 	end
 }
 script 52 mmbn3s {
-	"Dad_____■"
+	"Papai___■"
 	end
 }
 script 53 mmbn3s {
@@ -165,7 +165,7 @@ script 53 mmbn3s {
 	end
 }
 script 54 mmbn3s {
-	"Good luck!!"
+	"Boa sorte!!"
 	end
 }
 script 56 mmbn3s {
@@ -173,7 +173,7 @@ script 56 mmbn3s {
 	end
 }
 script 57 mmbn3s {
-	"To all__■"
+	"Todos___■"
 	end
 }
 script 58 mmbn3s {
@@ -189,7 +189,7 @@ script 61 mmbn3s {
 	end
 }
 script 62 mmbn3s {
-	"Yai in trouble"
+	"Yai em apuros"
 	end
 }
 script 64 mmbn3s {
@@ -201,7 +201,7 @@ script 65 mmbn3s {
 	end
 }
 script 66 mmbn3s {
-	"Killer plant!?"
+	"Planta mortal?!"
 	end
 }
 script 68 mmbn3s {
@@ -213,7 +213,7 @@ script 69 mmbn3s {
 	end
 }
 script 70 mmbn3s {
-	"Need to talk…"
+	"Vamo conversar"
 	end
 }
 script 72 mmbn3s {
@@ -225,7 +225,7 @@ script 73 mmbn3s {
 	end
 }
 script 74 mmbn3s {
-	"Thanks!"
+	"Obrigado!"
 	end
 }
 script 76 mmbn3s {
@@ -233,7 +233,7 @@ script 76 mmbn3s {
 	end
 }
 script 77 mmbn3s {
-	"Mr.Lan__■"
+	"Sr. Lan_■"
 	end
 }
 script 78 mmbn3s {
@@ -241,7 +241,7 @@ script 78 mmbn3s {
 	end
 }
 script 80 mmbn3s {
-	"Mr.Match■"
+	"Sr.Match■"
 	end
 }
 script 81 mmbn3s {
@@ -253,7 +253,7 @@ script 82 mmbn3s {
 	end
 }
 script 84 mmbn3s {
-	"Mr.Match■"
+	"Sr.Match■"
 	end
 }
 script 85 mmbn3s {
@@ -261,11 +261,11 @@ script 85 mmbn3s {
 	end
 }
 script 86 mmbn3s {
-	"Next!!"
+	"Próximo!!"
 	end
 }
 script 88 mmbn3s {
-	"Anon____■"
+	"Anônimo_■"
 	end
 }
 script 89 mmbn3s {
@@ -273,7 +273,7 @@ script 89 mmbn3s {
 	end
 }
 script 90 mmbn3s {
-	"Waiting@Square"
+	"Espero no Plz"
 	end
 }
 script 92 mmbn3s {
@@ -297,7 +297,7 @@ script 97 mmbn3s {
 	end
 }
 script 98 mmbn3s {
-	"Fire alert!"
+	"Incêndio!"
 	end
 }
 script 100 mmbn3s {
@@ -309,7 +309,7 @@ script 101 mmbn3s {
 	end
 }
 script 102 mmbn3s {
-	"Come quickly!"
+	"Vem rápido!"
 	end
 }
 script 104 mmbn3s {
@@ -317,11 +317,11 @@ script 104 mmbn3s {
 	end
 }
 script 105 mmbn3s {
-	"Rank 10_■"
+	"Ranque10■"
 	end
 }
 script 106 mmbn3s {
-	"The Rank9 Navi"
+	"Navi Ranque 9"
 	end
 }
 script 108 mmbn3s {
@@ -333,7 +333,7 @@ script 109 mmbn3s {
 	end
 }
 script 110 mmbn3s {
-	"Head to Square"
+	"Vá pro Plaza"
 	end
 }
 script 112 mmbn3s {
@@ -345,7 +345,7 @@ script 113 mmbn3s {
 	end
 }
 script 114 mmbn3s {
-	"Virus breeder"
+	"Doma-Vírus"
 	end
 }
 script 116 mmbn3s {
@@ -357,11 +357,11 @@ script 117 mmbn3s {
 	end
 }
 script 118 mmbn3s {
-	"Emergency"
+	"Emergência"
 	end
 }
 script 120 mmbn3s {
-	"Dad_____■"
+	"Papai___■"
 	end
 }
 script 121 mmbn3s {
@@ -369,7 +369,7 @@ script 121 mmbn3s {
 	end
 }
 script 122 mmbn3s {
-	"Use this"
+	"Use isto"
 	end
 }
 script 124 mmbn3s {
@@ -381,7 +381,7 @@ script 125 mmbn3s {
 	end
 }
 script 126 mmbn3s {
-	"New shortcut!"
+	"Novo atalho!"
 	end
 }
 script 128 mmbn3s {
@@ -393,7 +393,7 @@ script 129 mmbn3s {
 	end
 }
 script 130 mmbn3s {
-	"New shortcut!"
+	"Novo atalho!"
 	end
 }
 script 132 mmbn3s {
@@ -405,7 +405,7 @@ script 133 mmbn3s {
 	end
 }
 script 134 mmbn3s {
-	"New shortcut!"
+	"Novo atalho!"
 	end
 }
 script 136 mmbn3s {
@@ -417,11 +417,11 @@ script 137 mmbn3s {
 	end
 }
 script 138 mmbn3s {
-	"A shortcut"
+	"Um atalho"
 	end
 }
 script 140 mmbn3s {
-	"Dad_____■"
+	"Papai___■"
 	end
 }
 script 141 mmbn3s {
@@ -429,11 +429,11 @@ script 141 mmbn3s {
 	end
 }
 script 142 mmbn3s {
-	"Guts Style"
+	"Estilo Guts"
 	end
 }
 script 144 mmbn3s {
-	"Dad_____■"
+	"Papai___■"
 	end
 }
 script 145 mmbn3s {
@@ -441,11 +441,11 @@ script 145 mmbn3s {
 	end
 }
 script 146 mmbn3s {
-	"Custom Style"
+	"Estilo Custom"
 	end
 }
 script 148 mmbn3s {
-	"Dad_____■"
+	"Papai___■"
 	end
 }
 script 149 mmbn3s {
@@ -453,11 +453,11 @@ script 149 mmbn3s {
 	end
 }
 script 150 mmbn3s {
-	"Team Style"
+	"Estilo Team"
 	end
 }
 script 152 mmbn3s {
-	"Dad_____■"
+	"Papai___■"
 	end
 }
 script 153 mmbn3s {
@@ -465,11 +465,11 @@ script 153 mmbn3s {
 	end
 }
 script 154 mmbn3s {
-	"Shield Style"
+	"Estilo Shield"
 	end
 }
 script 156 mmbn3s {
-	"Dad_____■"
+	"Papai___■"
 	end
 }
 script 157 mmbn3s {
@@ -477,11 +477,11 @@ script 157 mmbn3s {
 	end
 }
 script 158 mmbn3s {
-	"Ground Style"
+	"Estilo Ground"
 	end
 }
 script 160 mmbn3s {
-	"Dad_____■"
+	"Papai___■"
 	end
 }
 script 161 mmbn3s {
@@ -489,11 +489,11 @@ script 161 mmbn3s {
 	end
 }
 script 162 mmbn3s {
-	"Shadow Style"
+	"Estilo Shadow"
 	end
 }
 script 164 mmbn3s {
-	"Dad_____■"
+	"Papai___■"
 	end
 }
 script 165 mmbn3s {
@@ -501,11 +501,11 @@ script 165 mmbn3s {
 	end
 }
 script 166 mmbn3s {
-	"Customizing"
+	"Customizar"
 	end
 }
 script 168 mmbn3s {
-	"Dad_____■"
+	"Papai___■"
 	end
 }
 script 169 mmbn3s {
@@ -513,6 +513,6 @@ script 169 mmbn3s {
 	end
 }
 script 170 mmbn3s {
-	"Bug Style"
+	"Estilo Bug"
 	end
 }

@@ -4,9 +4,8 @@ script 0 mmbn3 {
 	mugshotHide
 	msgOpen
 	"""
-	The morning of the
-	N1 Grand Prix
-	championship…
+	Na manhã do torneio do
+	Grande Prêmio N1...
 	"""
 	keyWait
 	end
@@ -16,8 +15,8 @@ script 1 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan! Wake up!
-	It's morning!
+	Lan! Acorda!
+	Já é de manhã!
 	"""
 	keyWait
 	clearMsg
@@ -29,15 +28,15 @@ script 2 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Oh…Uggh…
-	Five more minutes…
+	Hum... Unnngh...
+	Só mais cinco minutos...
 	"""
 	keyWait
 	clearMsg
 	"""
 	!!
-	Today's the N1 Grand
-	Prix!
+	Hoje é o Grande Prêmio
+	N1!!!
 	"""
 	keyWait
 	end
@@ -48,7 +47,7 @@ script 3 mmbn3 {
 	soundDisableTextSFX
 	soundPlay
 		track = 228
-	"Gasp!!"
+	"Aahh!!"
 	keyWait
 	soundEnableTextSFX
 	end
@@ -58,8 +57,8 @@ script 4 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Whew! I almost
-	overslept!
+	Ufa! Quase que eu
+	durmo até tarde!
 	"""
 	keyWait
 	clearMsg
@@ -71,9 +70,9 @@ script 5 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	You can at least try
-	waking yourself up
-	on a day like today!
+	Você podia pelo menos
+	TENTAR acordar sozinho
+	num dia como hoje!
 	"""
 	keyWait
 	clearMsg
@@ -84,13 +83,13 @@ script 6 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"It's not that."
+	"Não é isso."
 	keyWait
 	clearMsg
 	"""
-	I was so excited I
-	had trouble falling
-	asleep.
+	É que eu tava tão
+	ansioso que custei
+	bastante pra dormir...
 	"""
 	keyWait
 	clearMsg
@@ -102,9 +101,8 @@ script 7 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Yeah,well,anyway,
-	let's go win that
-	tournament!
+	Aham, sei, enfim, bora lá
+	vencer aquele torneio!
 	"""
 	keyWait
 	clearMsg
@@ -116,9 +114,9 @@ script 8 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Yeah! That's why
-	we're in this in the
-	first place!
+	É! Foi pra isso que a
+	gente entrou, pra
+	começo de conversa!
 	"""
 	keyWait
 	clearMsg
@@ -130,15 +128,15 @@ script 9 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Alright! C'mon,let's
-	head over to the TV
-	station where the
+	Beleza! Bom, não vamos
+	perder tempo, vamos
+	logo pra emissora de TV,
 	"""
 	keyWait
 	clearMsg
 	"""
-	Grand Prix will be
-	held!
+	onde o Grande Prêmio
+	vai ser sediado!
 	"""
 	keyWait
 	clearMsg
@@ -150,15 +148,15 @@ script 10 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	That TV station was
-	on Beach Street,
-	right?
+	A emissora de TV fica
+	na Rua Angra, né?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Look out world,
-	here we come!
+	Prepara, mundo, que a
+	gente vai botar pra
+	quebrar!
 	"""
 	keyWait
 	end

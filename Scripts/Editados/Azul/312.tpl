@@ -4,7 +4,7 @@ script 0 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Hi,mom! I'm home!"
+	"Oi, mãe! Cheguei!"
 	keyWait
 	end
 }
@@ -13,15 +13,15 @@ script 1 mmbn3 {
 		mugshot = Mom
 	msgOpen
 	"""
-	Oh,hi there,Lan!
-	There's a friend of
-	yours here.
+	Ah, oi, Lan!
+	Um amigo seu veio
+	visitar.
 	"""
 	keyWait
 	clearMsg
 	"""
-	He's waiting in your
-	room.
+	Ele está esperando no
+	seu quarto.
 	"""
 	keyWait
 	clearMsg
@@ -33,8 +33,7 @@ script 2 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	A friend? I wonder
-	who it is?
+	Um amigo? Quem será?
 	"""
 	keyWait
 	end

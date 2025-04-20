@@ -4,7 +4,9 @@ script 0 mmbn3 {
 	mugshotShow
 		mugshot = Chisao
 	msgOpen
-	"Ex'coose me!"
+	"""
+	Com "lhicença"!
+	"""
 	keyWait
 	end
 }
@@ -12,7 +14,9 @@ script 1 mmbn3 {
 	mugshotShow
 		mugshot = Chisao
 	msgOpen
-	"Ex'COOSe me!!"
+	"""
+	Com "LHICENÇA"!!
+	"""
 	keyWait
 	end
 }
@@ -20,7 +24,7 @@ script 2 mmbn3 {
 	mugshotShow
 		mugshot = Chisao
 	msgOpen
-	"……"
+	"......"
 	keyWait
 	end
 }
@@ -36,7 +40,9 @@ script 4 mmbn3 {
 	mugshotShow
 		mugshot = Chisao
 	msgOpen
-	"Ex'coose me!"
+	"""
+	Com "lhicença"!
+	"""
 	keyWait
 	clearMsg
 	jump
@@ -46,7 +52,7 @@ script 5 mmbn3 {
 	mugshotShow
 		mugshot = Cossak
 	msgOpen
-	"Huh?"
+	"Hã?"
 	keyWait
 	flagSet
 		flag = 1029
@@ -61,9 +67,9 @@ script 6 mmbn3 {
 		mugshot = Chisao
 	msgOpen
 	"""
-	Do you know where
-	da #1 NetBattler
-	in town lives?
+	Você sabe onde mora
+	o melhó NetLutador
+	do bairro?
 	"""
 	keyWait
 	clearMsg
@@ -85,8 +91,8 @@ script 8 mmbn3 {
 		mugshot = Chisao
 	msgOpen
 	"""
-	Dat's my brother!
-	I'm looking for him!
+	É o meu irmão!
+	Tô procurando por ele!
 	"""
 	keyWait
 	clearMsg
@@ -98,9 +104,9 @@ script 9 mmbn3 {
 		mugshot = Cossak
 	msgOpen
 	"""
-	Um,er,I'm sorry,but
-	no. I've only just
-	come here,myself.
+	Ah, er, desculpe, não
+	conheço. Eu também sou
+	um recém-chegado.
 	"""
 	keyWait
 	clearMsg
@@ -111,7 +117,7 @@ script 10 mmbn3 {
 	mugshotShow
 		mugshot = Chisao
 	msgOpen
-	"Oh…"
+	"Ah..."
 	keyWait
 	clearMsg
 	jump
@@ -122,9 +128,9 @@ script 11 mmbn3 {
 		mugshot = Cossak
 	msgOpen
 	"""
-	Please excuse me,I
-	must get to an
-	appointment…
+	Se me der licença,
+	tenho um compromisso
+	agora...
 	"""
 	keyWait
 	flagClear
@@ -136,8 +142,8 @@ script 12 mmbn3 {
 		mugshot = Chisao
 	msgOpen
 	"""
-	Big brother,where
-	are youuuu!?
+	Irmãozão, cadê
+	vocêêêêê?!
 	"""
 	keyWait
 	flagClear

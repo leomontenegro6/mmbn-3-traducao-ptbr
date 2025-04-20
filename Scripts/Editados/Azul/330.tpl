@@ -5,15 +5,14 @@ script 0 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan! I fixed the
-	emergency exit
-	system!
+	Lan! Eu consertei a
+	saída de emergência!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Let's look for a way
-	out!
+	Vamos tentar achar
+	uma saída!
 	"""
 	keyWait
 	clearMsg
@@ -24,7 +23,7 @@ script 1 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"All right!"
+	"Beleza!"
 	keyWait
 	end
 }

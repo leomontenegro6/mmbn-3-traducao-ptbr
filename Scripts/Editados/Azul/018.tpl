@@ -5,30 +5,30 @@ script 0 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Next is our last
-	lesson,concerning
-	"Folder Opening"!
+	Agora, nossa última lição:
+	aprenderemos a "Expandir
+	Pasta"!
 	"""
 	keyWait
 	clearMsg
 	"""
-	This technique lets
-	you increase the
-	chips you get!
+	Esta técnica lhes permi-
+	tirá aumentar o número
+	de chips que receberão!
 	"""
 	keyWait
 	clearMsg
 	"""
-	With more chips to
-	choose from,you can
-	make combinations!
+	Com mais chips para
+	escolher, mais combina-
+	ções poderão fazer!
 	"""
 	keyWait
 	clearMsg
 	"""
-	OK,do you see the
-	"ADD" Button on the
-	bottom right?
+	Tá, estão vendo o botão
+	"Adic." no canto inferior
+	direito?
 	"""
 	keyWait
 	end
@@ -38,44 +38,43 @@ script 1 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Many times you will
-	be missing a chip
-	that you want.
+	Com frequência, vocês
+	vão ver que estão sem
+	o chip que querem.
 	"""
 	keyWait
 	clearMsg
 	"""
-	If you choose a chip
-	that you don't need
-	and press "ADD",
+	Se escolherem um chip
+	de que não precisam e
+	apertarem "Adic.",
 	"""
 	keyWait
 	clearMsg
 	"""
-	the selected chips
-	will be thrown away,
-	but on the next turn
+	os chips selecionados
+	serão descartados, mas,
+	no turno seguinte,
 	"""
 	keyWait
 	clearMsg
 	"""
-	you will get as many
-	more chips as you
-	lost to choose from!
+	vocês terão um número
+	extra de chips igual ao
+	número descartado!
 	"""
 	keyWait
 	clearMsg
 	"""
-	This makes it easier
-	for you to make
-	combos to use!
+	Isso facilita pra vocês
+	fazerem combos!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Let's try! We don't
-	need those three
-	"Recovery 10" chips…
+	Experimentem! Exemplo:
+	não precisamos destes
+	três "Recov10" aqui...
 	"""
 	keyWait
 	end
@@ -85,15 +84,14 @@ script 2 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	That's the run
-	command.
+	Esse é o botão de fuga.
 	"""
 	keyWait
 	clearMsg
 	"""
-	This is just a
-	training program,so
-	you don't need that.
+	Mas este é só um
+	programa de treino,
+	então, não precisa disso.
 	"""
 	keyWait
 	end
@@ -103,9 +101,9 @@ script 3 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Just follow the
-	course and choose
-	"Recovery 10"s.
+	Apenas siga o plano e
+	selecione os
+	"Recov10".
 	"""
 	keyWait
 	end
@@ -115,15 +113,15 @@ script 4 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	You're doing fine!
-	No need to cancel!
+	Você tá indo bem!
+	Não precisa cancelar!
 	"""
 	keyWait
 	clearMsg
 	"""
-	After you choose all
-	3 "Recovery 10"s,use
-	the "ADD" Button!
+	Depois de selecionar os
+	três "Recov10", aperte o
+	botão "Adic."!
 	"""
 	keyWait
 	end
@@ -133,9 +131,9 @@ script 5 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	After you choose all
-	3 "Recovery 10"s,use
-	the "ADD" Button!
+	Depois de selecionar
+	todos os três "Recov10",
+	pressione "Adic."!
 	"""
 	keyWait
 	end
@@ -145,9 +143,8 @@ script 6 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	OK! Now just manage
-	without chips for
-	one turn!
+	OK! Agora, sobreviva
+	sem chips por um turno!
 	"""
 	keyWait
 	end
@@ -157,13 +154,13 @@ script 7 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	OK! Now let's go
-	back to the Custom
-	Screen,and…
+	Certo! Agora, vamos
+	voltar à Tela de
+	Customização, e...
 	"""
 	keyWait
 	clearMsg
-	"Ta-daaaa!"
+	"Tcharam!"
 	keyWait
 	end
 }
@@ -172,16 +169,16 @@ script 8 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Since you threw
-	away 3 chips,the
-	number of chips you
+	Como você descartou
+	três chips, o número de
+	chips de que você pode
 	"""
 	keyWait
 	clearMsg
 	"""
-	can choose from also
-	increases by 3!
-	OK! Time to fight!
+	escolher também
+	aumentou em três!
+	Beleza! Hora de lutar!
 	"""
 	keyWait
 	end
@@ -191,9 +188,9 @@ script 9 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	After you choose all
-	3 "Recovery 10"s,use
-	the "ADD" Button!
+	Depois que selecionar
+	todos os três "Recov10",
+	aperte o botão "Adic."!
 	"""
 	keyWait
 	end
@@ -203,9 +200,9 @@ script 10 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	This is just
-	practice,so choose
-	the "ADD" Button!
+	Este é um treino da
+	função, então, aperte o
+	botão "Adic."!
 	"""
 	keyWait
 	end

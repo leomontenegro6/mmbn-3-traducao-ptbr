@@ -4,7 +4,7 @@ script 0 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Lan! You got mail!!"
+	"Lan! Chegou e-mail!"
 	keyWait
 	end
 }
@@ -109,8 +109,7 @@ script 71 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's read the
-	mail,Lan!
+	Vamos ler o e-mail, Lan!
 	"""
 	keyWait
 	end
@@ -118,16 +117,15 @@ script 71 mmbn3 {
 script 220 mmbn3 {
 	msgOpen
 	"""
-	You can move the
-	limbs of these
-	figures
+	Esses bonecos têm
+	vários pontos de
+	articulação.
 	"""
 	keyWait
 	clearMsg
 	"""
-	You can put them in
-	some pretty cool
-	poses
+	Dá para colocá-los em
+	poses bem legais.
 	"""
 	keyWait
 	end
@@ -135,15 +133,15 @@ script 220 mmbn3 {
 script 221 mmbn3 {
 	msgOpen
 	"""
-	The bookcase is
-	filled with comics
-	and picture books
+	A estante está cheia
+	de gibis e livros
+	ilustrados.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Looks like mom
-	arranged them again
+	Parece que a mamãe
+	organizou eles de novo.
 	"""
 	keyWait
 	end
@@ -151,15 +149,16 @@ script 221 mmbn3 {
 script 222 mmbn3 {
 	msgOpen
 	"""
-	Dad bought this
-	computer
+	Foi o papai quem
+	comprou esse
+	computador.
 	"""
 	keyWait
 	clearMsg
 	"""
-	This is where you
-	most often jack in
-	to the Internet
+	É o que você mais
+	utiliza para se conectar
+	à Rede.
 	"""
 	keyWait
 	end
@@ -215,7 +214,7 @@ script 224 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Ready for bed?\n"
+	"Vai dormir, Lan?\n"
 	option
 		left = 1
 		right = 1
@@ -223,7 +222,7 @@ script 224 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"   Sim "
 	option
 		left = 0
 		right = 0
@@ -231,7 +230,7 @@ script 224 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No"
+	"          Não"
 	select
 		default = 0
 		BSeparate = false
@@ -249,8 +248,8 @@ script 225 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Save today's events
-	on your PET?
+	Salvar os eventos de
+	hoje no seu PET?
 	
 	"""
 	option
@@ -260,7 +259,7 @@ script 225 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"   Sim "
 	option
 		left = 0
 		right = 0
@@ -268,7 +267,7 @@ script 225 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No"
+	"          Não"
 	select
 		default = 0
 		BSeparate = false
@@ -290,8 +289,8 @@ script 226 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	This will erase any
-	old save data. OK?
+	Isso vai apagar o
+	antigo salvamento. OK?
 	
 	"""
 	option
@@ -301,7 +300,7 @@ script 226 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"   Sim "
 	option
 		left = 0
 		right = 0
@@ -309,7 +308,7 @@ script 226 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No"
+	"          Não"
 	select
 		default = 0
 		BSeparate = false
@@ -331,12 +330,12 @@ script 227 mmbn3 {
 		jumpIfFailed = 229
 		jumpUnused = 248
 	"""
-	OK!
-	…
+	Beleza!
+	...
 	"""
 	waitSkip
 		frames = 30
-	"Save complete!"
+	" Salvos!"
 	keyWait
 	clearMsg
 	jump
@@ -346,7 +345,7 @@ script 228 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Good night,Lan!"
+	"Boa noite, Lan!"
 	keyWait
 	end
 }
@@ -355,12 +354,13 @@ script 229 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	It looks like
-	the save failed…
+	Hmm... parece que o
+	processo de salvamento
+	falhou...
 	"""
 	keyWait
 	clearMsg
-	"Try again?\n"
+	"Quer tentar de novo?\n"
 	option
 		left = 1
 		right = 1
@@ -368,7 +368,7 @@ script 229 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"   Sim "
 	option
 		left = 0
 		right = 0
@@ -376,7 +376,7 @@ script 229 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No"
+	"          Não"
 	select
 		default = 0
 		BSeparate = false
@@ -463,8 +463,8 @@ script 234 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Isn't it a little
-	early to go to bed?
+	Não tá meio cedo pra ir
+	dormir?
 	"""
 	keyWait
 	end
@@ -553,15 +553,15 @@ script 248 mmbn3 {
 	mugshotHide
 	msgOpen
 	"""
-	The data is corrupt
-	and couldn't be
-	saved.
+	Os dados estão corrom-
+	pidos. O jogo não pôde
+	ser salvo.
 	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"Try again?\n"
+	"Tentar de novo?\n"
 	option
 		left = 1
 		right = 1
@@ -569,7 +569,7 @@ script 248 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"   Sim "
 	option
 		left = 0
 		right = 0
@@ -577,7 +577,7 @@ script 248 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No"
+	"          Não"
 	select
 		default = 0
 		BSeparate = false
@@ -593,16 +593,15 @@ script 248 mmbn3 {
 script 250 mmbn3 {
 	msgOpen
 	"""
-	These MegaCubes are
-	a favorite of yours
-	and Dex's
+	Você e o Dex adoram
+	esses MegaCubos.
 	"""
 	keyWait
 	clearMsg
 	"""
-	You can customize
-	them to battle with
-	your friends!
+	Dá para customizá-los
+	e usá-los para batalhar
+	com os amigos!
 	"""
 	keyWait
 	end

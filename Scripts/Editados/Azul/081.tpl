@@ -9,22 +9,22 @@ script 0 mmbn3 {
 		mugshot = NormalNaviGreen
 	msgOpen
 	"""
-	Well,well! Look what
-	the cat dragged in!
+	Ora, ora! Olha só o LIXO
+	que resolveu mostrar a
+	fuça por aqui!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Yeah,you found me.
-	But that doesn't
-	mean nothin'!
+	É, cê me achou.
+	Mas e daí?
+	Não quer dizer nada!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Let's see if you
-	got what it takes
-	to beat me,punk!
+	Bora ver se cê é capaz
+	de me vencer, otário!
 	"""
 	keyWait
 	clearMsg
@@ -48,27 +48,26 @@ script 1 mmbn3 {
 		mugshot = NormalNaviGreen
 	msgOpen
 	"""
-	Wow! You did super!
-	Keep it up!
+	Caramba! Você foi demais!
+	Continue assim!
 	"""
 	keyWait
 	clearMsg
 	"""
-	What? I'm acting
-	differently?
+	Quê? Meu comportamento
+	tá diferente?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Actually,this is
-	how I really talk.
+	Na verdade, é assim que
+	eu falo normalmente.
 	"""
 	keyWait
 	clearMsg
 	"""
-	All that talking up
-	until now has been
-	an act!
+	Toda aquela grosseria
+	era pura atuação!
 	"""
 	keyWait
 	end
@@ -78,16 +77,15 @@ script 10 mmbn3 {
 		mugshot = Yai
 	msgOpen
 	"""
-	Oh,this just goes
-	outside. That's a
-	disappointment.
+	Ah, é só outra saída da
+	pousada.
+	Que decepção.
 	"""
 	keyWait
 	clearMsg
 	"""
-	But that fence over
-	there looks a bit
-	rickety.
+	Mas essa cerca
+	parece tão fragilzinha...
 	"""
 	keyWait
 	end
@@ -96,7 +94,7 @@ script 20 mmbn3 {
 	mugshotShow
 		mugshot = OrangeShirtBoy
 	msgOpen
-	"…"
+	"..."
 	keyWait
 	clearMsg
 	jump
@@ -106,16 +104,16 @@ script 21 mmbn3 {
 	mugshotHide
 	msgOpen
 	"""
-	His eyes tell you
-	that he's enjoyed
-	the first bath
+	Os olhos dele dizem que
+	ele gostou de seu
+	primeiro banho aqui.
 	"""
 	keyWait
 	clearMsg
 	"""
-	But he feels sorry
-	for anyone who goes
-	in there now!
+	Mas que tem muita pena
+	de quem resolver entrar
+	nessa água agora!
 	"""
 	keyWait
 	end
@@ -125,23 +123,20 @@ script 30 mmbn3 {
 		mugshot = ZooMan
 	msgOpen
 	"""
-	There we go! Now
-	it's connected!
-	Still,I can't
+	Pronto! Consertado!
 	"""
 	keyWait
 	clearMsg
 	"""
-	believe the animals
-	escaped through
-	here.
+	Ainda assim, não
+	acredito que os animais
+	escaparam por aqui.
 	"""
 	keyWait
 	clearMsg
 	"""
-	What a problem that
-	was for the guests
-	at the inn!
+	Aquilo foi um problemão
+	pros hóspedes do hotel!
 	"""
 	keyWait
 	end
@@ -156,9 +151,9 @@ script 40 mmbn3 {
 		mugshot = OldMan
 	msgOpen
 	"""
-	Yikes! The bubble's
-	gonna burst! Better
-	get back!
+	Meu Deus!
+	A bolha vai explodir!
+	Melhor ficar longe!
 	"""
 	keyWait
 	end
@@ -168,8 +163,8 @@ script 50 mmbn3 {
 		mugshot = OldMan
 	msgOpen
 	"""
-	Did it burst yet?
-	Did it burst yet?
+	Ela já explodiu?
+	Pode falar! Explodiu?
 	"""
 	keyWait
 	clearMsg
@@ -184,8 +179,7 @@ script 50 mmbn3 {
 		frames = 20
 	"""
 	
-	What? The bubble
-	disappeared!?
+	Quê? A bolha sumiu?!
 	"""
 	keyWait
 	end
@@ -195,21 +189,20 @@ script 65 mmbn3 {
 		mugshot = BlueShirtBoy
 	msgOpen
 	"""
-	There's something
-	odd about this bath.
+	Tem alguma coisa
+	estranha neste banho
+	termal.
 	"""
 	keyWait
 	clearMsg
 	"""
-	It seems like there
-	is some strange kind
-	of echo.
+	Sei lá, tem algum tipo
+	de... eco aqui.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I can't really
-	explain what it is.
+	Não sei explicar bem.
 	"""
 	keyWait
 	end
@@ -229,22 +222,21 @@ script 190 mmbn3 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	QuizMaster!
-	Who called the
-	QuizMaster?
+	Questionário! Mestre!
+	Quem me chamou?!
 	"""
 	keyWait
 	clearMsg
 	"""
-	It's Quiz Time!
-	Take a chance!
-	Chance your luck!
+	É hora do Questionário!
+	Você tem sorte ou sabe-
+	doria? Eis a questão!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Hah-hah! Welcome!
-	I am the QuizMaster.
+	Ha ha! Bem-vindo! Sou o
+	Questionário Mestre.
 	.
 	"""
 	waitSkip
@@ -258,16 +250,16 @@ script 190 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Yes,you! And don't
-	tell me I'm too old
-	for this!
+	Sim, EU! Nem venha me
+	dizer que estou velho
+	demais para isso!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Cut the grumbling
-	and challenge me in
-	quiz battle!
+	Agora para de
+	resmungar e me desafie
+	pra um questionário!
 	"""
 	keyWait
 	clearMsg
@@ -279,7 +271,7 @@ script 190 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"You bet!\n"
+	"   Já é!\n"
 	option
 		left = 1
 		right = 1
@@ -287,7 +279,7 @@ script 190 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"No,I'm busy now."
+	"         Agora, não."
 	select
 		default = 0
 		BSeparate = false
@@ -306,14 +298,13 @@ script 191 mmbn3 {
 	soundDisableChoiceSFX
 	"""
 	OK!
-	Question #1!
+	Pergunta 1!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Which Breeder Grand
-	Prix did class 5-B
-	win?
+	Qual concurso de animais
+	a turma 5-B venceu?
 	"""
 	keyWait
 	clearMsg
@@ -324,7 +315,7 @@ script 191 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"The 4th\n"
+	"O 4o.\n"
 	option
 		left = 1
 		right = 1
@@ -332,7 +323,7 @@ script 191 mmbn3 {
 		down = 2
 	space
 		count = 2
-	"The 8th\n"
+	"O 8o.\n"
 	option
 		left = 2
 		right = 2
@@ -340,7 +331,7 @@ script 191 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"The 11th"
+	"O 11o."
 	select
 		default = 0
 		BSeparate = false
@@ -363,15 +354,15 @@ script 192 mmbn3 {
 	msgOpen
 	soundDisableChoiceSFX
 	"""
-	Correct!
-	Now for question #2!
+	Certo!
+	Agora, à pergunta 2!
 	"""
 	keyWait
 	clearMsg
 	"""
-	What animal pours
-	out water into the
-	inn's outdoor bath?
+	Qual animal despeja
+	água no banho termal
+	ao ar livre da pousada?
 	"""
 	keyWait
 	clearMsg
@@ -382,7 +373,7 @@ script 192 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Lion\n"
+	"Leão\n"
 	option
 		left = 1
 		right = 1
@@ -390,7 +381,7 @@ script 192 mmbn3 {
 		down = 2
 	space
 		count = 2
-	"Tiger\n"
+	"Tigre\n"
 	option
 		left = 2
 		right = 2
@@ -398,7 +389,7 @@ script 192 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Bear"
+	"Urso"
 	select
 		default = 0
 		BSeparate = false
@@ -421,23 +412,23 @@ script 193 mmbn3 {
 	msgOpen
 	soundDisableChoiceSFX
 	"""
-	That's right! But
-	you're not done yet!
-	Question #3!
+	É isso aí!
+	Mas ainda não acabou!
+	Pergunta 3!
 	"""
 	keyWait
 	clearMsg
 	"""
-	At the mini cake
-	stand in front of
-	the zoo…
+	Na barraquinha de
+	minibolos na frente do
+	zoológico...
 	"""
 	keyWait
 	clearMsg
 	"""
-	How many gas bottles
-	are next to the
-	stand?
+	Quantos botijões de gás
+	tem ao lado da
+	barraquinha?
 	"""
 	keyWait
 	clearMsg
@@ -487,16 +478,15 @@ script 194 mmbn3 {
 	msgOpen
 	soundDisableChoiceSFX
 	"""
-	Right again! But
-	you're not even half
-	way! Question #4!
+	Certo de novo! Mas nem
+	estamos na metade,
+	ainda! Pergunta 4!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Which of these items
-	is not in Mayl's
-	room?
+	Qual destes objetos não
+	tem no quarto da Mayl?
 	"""
 	keyWait
 	clearMsg
@@ -507,7 +497,7 @@ script 194 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Trash can\n"
+	"Lata de lixo\n"
 	option
 		left = 1
 		right = 1
@@ -515,7 +505,7 @@ script 194 mmbn3 {
 		down = 2
 	space
 		count = 2
-	"Mirror\n"
+	"Espelho\n"
 	option
 		left = 2
 		right = 2
@@ -523,7 +513,7 @@ script 194 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Stuffed animal"
+	"Bicho de pelúcia"
 	select
 		default = 0
 		BSeparate = false
@@ -546,16 +536,15 @@ script 195 mmbn3 {
 	msgOpen
 	soundDisableChoiceSFX
 	"""
-	Yes!
-	Not bad!
-	Question #5!
+	Isso!
+	Nada mal!
+	Pergunta 5!
 	"""
 	keyWait
 	clearMsg
 	"""
-	In what direction is
-	the panda at the zoo
-	looking?
+	O panda do zoológico
+	fica virado para...
 	"""
 	keyWait
 	clearMsg
@@ -566,7 +555,7 @@ script 195 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Forward\n"
+	"Frente\n"
 	option
 		left = 1
 		right = 1
@@ -574,7 +563,7 @@ script 195 mmbn3 {
 		down = 2
 	space
 		count = 2
-	"Backward\n"
+	"Trás\n"
 	option
 		left = 2
 		right = 2
@@ -582,7 +571,7 @@ script 195 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Sideways"
+	"O lado"
 	select
 		default = 0
 		BSeparate = false
@@ -605,16 +594,16 @@ script 196 mmbn3 {
 	msgOpen
 	soundDisableChoiceSFX
 	"""
-	Yes!
-	Now the fight is on!
-	Question #6!
+	Certo!
+	Agora, sim, começa a
+	esquentar! Pergunta 6!
 	"""
 	keyWait
 	clearMsg
 	"""
-	How many statues of
-	people are there,
-	just inside the zoo?
+	Quantas estátuas de
+	pessoas existem dentro
+	do zoológico?
 	"""
 	keyWait
 	clearMsg
@@ -664,16 +653,16 @@ script 197 mmbn3 {
 	msgOpen
 	soundDisableChoiceSFX
 	"""
-	Correct!
-	You've surprised me!
-	Question #7!
+	Correto!
+	Olha, fiquei surpreso!
+	Pergunta 7!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Where is the newest
-	blackboard in the
-	school?
+	Onde fica o quadro
+	negro mais novo da
+	escola?
 	"""
 	keyWait
 	clearMsg
@@ -684,7 +673,7 @@ script 197 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Classroom 5-A\n"
+	"Sala 5-A\n"
 	option
 		left = 1
 		right = 1
@@ -692,7 +681,7 @@ script 197 mmbn3 {
 		down = 2
 	space
 		count = 2
-	"Classroom 5-B\n"
+	"Sala 5-B\n"
 	option
 		left = 2
 		right = 2
@@ -700,7 +689,7 @@ script 197 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Teachers' Lounge"
+	"Sala dos Profs."
 	select
 		default = 0
 		BSeparate = false
@@ -723,16 +712,15 @@ script 198 mmbn3 {
 	msgOpen
 	soundDisableChoiceSFX
 	"""
-	Right on!
-	How about this one!?
-	Question #8!
+	É isso aí!
+	Agora, quero só ver!
+	Pergunta 8!
 	"""
 	keyWait
 	clearMsg
 	"""
-	How many gold shield
-	displays are in the
-	Principal's Office?
+	Quantos escudos de
+	ouro tem na diretoria?
 	"""
 	keyWait
 	clearMsg
@@ -782,16 +770,16 @@ script 199 mmbn3 {
 	msgOpen
 	soundDisableChoiceSFX
 	"""
-	Correct!
-	You're amazing!
-	Question #9!
+	Certíssimo!
+	Você é incrível!
+	Pergunta 9!
 	"""
 	keyWait
 	clearMsg
 	"""
-	How much is it
-	buy a lottery ticket
-	in front of the zoo?
+	Quanto custa um
+	sorteio na frente do
+	zoológico?
 	"""
 	keyWait
 	clearMsg
@@ -841,16 +829,15 @@ script 200 mmbn3 {
 	msgOpen
 	soundDisableChoiceSFX
 	"""
-	That's right!
-	One more to go!
-	Question #10!!
+	Certa a resposta!
+	Só falta mais uma!
+	Pergunta 10!!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Which of these
-	is actually placed
-	in the school?
+	Qual destes objetos
+	está na escola?
 	"""
 	keyWait
 	clearMsg
@@ -861,7 +848,7 @@ script 200 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"A clay statue\n"
+	"Estátua de argila\n"
 	option
 		left = 1
 		right = 1
@@ -869,7 +856,7 @@ script 200 mmbn3 {
 		down = 2
 	space
 		count = 2
-	"A boomerang\n"
+	"Bumerangue\n"
 	option
 		left = 2
 		right = 2
@@ -877,7 +864,7 @@ script 200 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"A crystal ball"
+	"Bola de cristal"
 	select
 		default = 0
 		BSeparate = false
@@ -898,19 +885,19 @@ script 201 mmbn3 {
 	mugshotShow
 		mugshot = SciLabMan
 	msgOpen
-	"That is correct!!"
+	"Você acertou!!"
 	keyWait
 	clearMsg
 	"""
-	You're the first one
-	to get all ten
-	correct!
+	Você é o primeiro a
+	acertar todas as dez
+	perguntas!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Please accept your
-	prize.
+	Por favor, aceite o seu
+	prêmio. Você merece!
 	"""
 	keyWait
 	clearMsg
@@ -929,7 +916,7 @@ script 202 mmbn3 {
 		item = 96
 		amount = 1
 	"""
-	Lan got a PowerUp:
+	Lan adquiriu um PowerUp:
 	"
 	"""
 	printItem
@@ -949,9 +936,9 @@ script 203 mmbn3 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	You might be able to
-	even beat the Quiz
-	Queen! Go find her!
+	Talvez, você consiga
+	até vencer a Rainha
+	Questionária! Encontre-a!
 	"""
 	keyWait
 	end
@@ -961,8 +948,8 @@ script 204 mmbn3 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	I'll challenge you
-	again any time!
+	Eu te desafio de novo
+	qualquer hora destas!
 	"""
 	keyWait
 	end
@@ -975,13 +962,13 @@ script 205 mmbn3 {
 		track = 280
 	waitSkip
 		frames = 40
-	"Bzzt! Wrong answer!"
+	"Bzzz! Errou!"
 	keyWait
 	clearMsg
 	"""
-	You're not good
-	enough yet! Come
-	try again later!
+	Você ainda não está
+	afiado o basatante!
+	Tente de novo depois!
 	"""
 	keyWait
 	end
@@ -991,9 +978,9 @@ script 206 mmbn3 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	I hear Quiz Queen is
-	pretty tough!
-	Good luck!
+	Eu ouço dizer que a
+	Rainha Questionária é
+	durona, viu? Boa sorte!
 	"""
 	keyWait
 	end
@@ -1003,32 +990,32 @@ script 207 mmbn3 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	QuizMaster!
-	Who called
-	the QuizMaster?
+	Quem sou eu?
+	O mestre!
+	O Questionário Mestre!
 	"""
 	keyWait
 	clearMsg
 	"""
-	It's Quiz Time!
-	Take a chance!
-	Chance your luck!
+	É hora do Questionário!
+	Você tem sorte ou sabe-
+	doria? Eis a questão!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Looks like you're
-	back for more!
+	Parece que você
+	voltou pra outra!
 	"""
 	keyWait
 	clearMsg
 	"""
-	But I'm always ready
-	for a challenger!
+	Mas eu tô sempre pronto
+	pra um desafiante!
 	"""
 	keyWait
 	clearMsg
-	"So bring it on!"
+	"Então, manda ver!"
 	keyWait
 	clearMsg
 	mugshotHide
@@ -1039,7 +1026,7 @@ script 207 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"You bet!\n"
+	"Já é!\n"
 	option
 		left = 1
 		right = 1
@@ -1047,7 +1034,7 @@ script 207 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"No,I'm busy now."
+	"Agora, não."
 	select
 		default = 0
 		BSeparate = false
@@ -1062,9 +1049,9 @@ script 207 mmbn3 {
 script 220 mmbn3 {
 	msgOpen
 	"""
-	Water droplets run
-	down the foggy
-	mirrors
+	Gotículas de água
+	percorrem os espelhos
+	enevoados.
 	"""
 	keyWait
 	end
@@ -1072,14 +1059,15 @@ script 220 mmbn3 {
 script 221 mmbn3 {
 	msgOpen
 	"""
-	A beautiful lion's
-	head spouting water
+	Uma linda cabeça de
+	leão despejando água.
 	"""
 	keyWait
 	clearMsg
 	"""
-	It pours out loads
-	of hot water
+	Ela expele fortes
+	correntes de água
+	quente.
 	"""
 	keyWait
 	end
@@ -1087,15 +1075,15 @@ script 221 mmbn3 {
 script 222 mmbn3 {
 	msgOpen
 	"""
-	The buckets are
-	piled up neatly
+	Os baldes aqui estão
+	empilhados
+	meticulosamente.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Anybody who messes
-	them up will be in
-	for trouble
+	Quem os bagunçar não
+	sairá impune.
 	"""
 	keyWait
 	end
@@ -1103,9 +1091,9 @@ script 222 mmbn3 {
 script 223 mmbn3 {
 	msgOpen
 	"""
-	This is such a
-	distant place,but
-	it's well maintained
+	Apesar deste ser um
+	lugar tão distante, é
+	muito bem cuidado.
 	"""
 	keyWait
 	end
@@ -1113,16 +1101,16 @@ script 223 mmbn3 {
 script 224 mmbn3 {
 	msgOpen
 	"""
-	A sign describing
-	the effects of the
-	hot spring
+	Uma placa explicando
+	os efeitos da fonte
+	termal.
 	"""
 	keyWait
 	clearMsg
 	"""
-	"Warms up,relieves
-	sore muscles and
-	promotes health"
+	"Aquece, alivia dores
+	musculares e fortalece
+	a saúde."
 	"""
 	keyWait
 	end
@@ -1134,16 +1122,16 @@ script 225 mmbn3 {
 		jumpIfFalse = continue
 	msgOpen
 	"""
-	The hot spring water
-	is a white,milky
-	color
+	A água da fonte termal
+	tem uma cor branca,
+	como de leite.
 	"""
 	keyWait
 	clearMsg
 	"""
-	One dip here is sure
-	to wash away your
-	worries and fatigue
+	Uma mergulhadinha nela
+	leva suas preocupações
+	e cansaço para longe.
 	"""
 	keyWait
 	end
@@ -1167,45 +1155,46 @@ script 227 mmbn3 {
 		jumpIfOutOfRange = continue
 	msgOpen
 	"""
-	The fence says
-	"Keep Out!"
+	Na cerca, a placa:
+	"Proibido Passar!"
 	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Looks like we can't
-	go beyond here. But
-	where does it go?
+	Parece que não
+	podemos passar daí.
+	Mas onde será que dá?
 	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"I wonder…"
+	"Pois é, né...?"
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = MsMari
 	"""
-	Attention,ACDC
-	School students in
-	class 5-A…
+	Atenção, alunos do
+	Colégio ACDC da turma
+	5-A...
 	"""
 	keyWait
 	clearMsg
 	"""
-	It's bath time!
-	Please go in order.
+	É hora do banho!
+	Por favor, entrem
+	na ordem combinada!
 	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	"""
-	Bath time!
-	Let's go,MegaMan!
+	Banhoo!
+	Vamos lá, MegaMan!
 	"""
 	keyWait
 	clearMsg
@@ -1218,8 +1207,8 @@ script 227 mmbn3 {
 script 228 mmbn3 {
 	msgOpen
 	"""
-	The fence says
-	"Keep Out!"
+	Na cerca, a placa:
+	"Proibido Passar!"
 	"""
 	keyWait
 	end
@@ -1227,13 +1216,12 @@ script 228 mmbn3 {
 script 229 mmbn3 {
 	msgOpen
 	"""
-	You can see an
-	elevator inside the
-	boulder!
+	Você vê um elevador
+	dentro da pedra!
 	"""
 	keyWait
 	clearMsg
-	"Do you get in?\n"
+	"Entrar nele?\n"
 	option
 		left = 1
 		right = 1
@@ -1241,7 +1229,7 @@ script 229 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"   Sim "
 	option
 		left = 0
 		right = 0
@@ -1249,7 +1237,7 @@ script 229 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No"
+	"          Não"
 	select
 		default = 0
 		BSeparate = false
@@ -1271,15 +1259,15 @@ script 230 mmbn3 {
 script 231 mmbn3 {
 	msgOpen
 	"""
-	The flowing water
-	smells like sulfur
+	A água a fluir tem cheiro
+	de sulfúrio.
 	"""
 	keyWait
 	clearMsg
 	"""
-	The brownish spring
-	water looks good
-	to soak in
+	A água amarronzada
+	da fonte parece boa
+	para ficar de molho.
 	"""
 	keyWait
 	end

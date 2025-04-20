@@ -5,18 +5,18 @@ script 0 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	I'm only the tip
-	of the iceburg…
+	Eu sou só a ponta do
+	iceberg...
 	"""
 	keyWait
 	clearMsg
 	"""
-	New assassins will
-	be following me…
+	Novos assassinos
+	aparecerão a seguir...
 	"""
 	keyWait
 	clearMsg
-	"Gaaaaaaah!"
+	"Aaaaaaaaagggh!"
 	keyWait
 	end
 }
@@ -24,12 +24,12 @@ script 1 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"He was pretty tough!"
+	"Ele era bem forte!"
 	keyWait
 	clearMsg
 	"""
-	I wonder what the
-	WWW was up to?
+	O que será que a WWW
+	tá planejando?
 	"""
 	keyWait
 	clearMsg
@@ -41,15 +41,15 @@ script 2 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Yeah,these attacks
-	didn't seem
-	well planned…
+	É, esses ataques não
+	pareciam muito bem
+	planejados...
 	"""
 	keyWait
 	clearMsg
 	"""
 	!! MegaMan!
-	Behind you!
+	Atrás de você!
 	"""
 	keyWait
 	end
@@ -58,7 +58,7 @@ script 3 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Gasp!"
+	"Agh!"
 	keyWait
 	end
 }
@@ -67,28 +67,28 @@ script 4 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	How dare you delete
-	my buddy?
+	Como tu pôde deletar
+	o meu parça, mano?!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I assure you,the 3
-	of us combined won't
-	fall so easily!
+	Te mandar a real: nós
+	três "junto" tu não vai
+	vencer fácil, não!
 	"""
 	keyWait
 	clearMsg
 	"""
-	In fact,in the
-	condition you're in,
-	you haven't got a
+	Aliás, na condição que
+	tu tá, tu num tem é
+	chance "ninhuma"!
 	"""
 	keyWait
 	clearMsg
 	"""
-	chance! Prepare for
-	deletion!
+	Prepara pra ser
+	deletado!
 	"""
 	keyWait
 	clearMsg
@@ -99,7 +99,7 @@ script 5 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Oh,no!"
+	"Droga!"
 	keyWait
 	clearMsg
 	jump
@@ -110,16 +110,16 @@ script 6 mmbn3 {
 		mugshot = MrMatch
 	msgOpen
 	"""
-	I can't believe it
-	takes 3 of you to
-	battle a little
+	Não acredito que vocês
+	precisam formar
+	grupinhos de três
 	"""
 	keyWait
 	clearMsg
 	"""
-	kid! The WWW just
-	isn't what it used
-	to be.
+	só pra vencer um guri!
+	A WWW foi pras cucuias,
+	mesmo.
 	"""
 	keyWait
 	clearMsg
@@ -131,7 +131,7 @@ script 7 mmbn3 {
 	mugshotShow
 		mugshot = HeelNavi
 	msgOpen
-	"Huh? Who's there!?"
+	"Hã? Quem é você?!"
 	keyWait
 	end
 }
@@ -140,16 +140,16 @@ script 8 mmbn3 {
 		mugshot = MrMatch
 	msgOpen
 	"""
-	Since you asked,
-	allow us to
-	introduce ourselves.
+	Bom, como fez a gentile-
+	za de perguntar, permi-
+	ta-nos nos apresentar.
 	"""
 	keyWait
 	clearMsg
 	"""
-	We're former WWW
-	members! Mr.Match
-	and FlamMan!
+	Somos ex-membros da
+	WWW!
+	Sr. Match e FlameMan!
 	"""
 	keyWait
 	end
@@ -159,12 +159,13 @@ script 9 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	Mr.Match? The WWW
-	boss that defected!?
+	O Sr. Match? O general
+	da WWW que desertou a
+	organização?!
 	"""
 	keyWait
 	clearMsg
-	"You traitor!"
+	"Traidor sujo!"
 	keyWait
 	end
 }
@@ -173,14 +174,14 @@ script 10 mmbn3 {
 		mugshot = MrMatch
 	msgOpen
 	"""
-	Heheheh! A traitor?
-	So what if I am!
+	He he he! "Traidor, é?
+	E daí se eu sou?!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Burn them,FlamMan!
-	FireBreath!
+	Incinere eles, FlameMan!
+	Baforada de Fogo!
 	"""
 	keyWait
 	end
@@ -189,7 +190,7 @@ script 11 mmbn3 {
 	mugshotShow
 		mugshot = FlameMan
 	msgOpen
-	"Waaaaaaaaah!!"
+	"Uraaaaaaarr!!"
 	keyWait
 	end
 }
@@ -201,8 +202,9 @@ script 12 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	I'm on fire! I'm
-	burning! Aaaaaaah!!
+	Eu tô pegando fogo!
+	Tô queimando!
+	Aaaaaaahhh!
 	"""
 	keyWait
 	end
@@ -212,12 +214,13 @@ script 13 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Thanks for saving
-	us! I'm MegaMan!
+	Obrigado por salvar a
+	gente!
+	Eu sou o MegaMan.
 	"""
 	keyWait
 	clearMsg
-	"Nice to meet you!"
+	"Muito prazer!"
 	keyWait
 	clearMsg
 	jump
@@ -227,7 +230,7 @@ script 14 mmbn3 {
 	mugshotShow
 		mugshot = FlameMan
 	msgOpen
-	"Whraaah!"
+	"Uraaahhr!"
 	keyWait
 	end
 }
@@ -236,9 +239,9 @@ script 15 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	It looks like you're
-	really on our side,
-	Mr.Match!
+	Parece que você tá
+	mesmo do nosso lado,
+	Sr. Match!
 	"""
 	keyWait
 	clearMsg
@@ -250,14 +253,14 @@ script 16 mmbn3 {
 		mugshot = MrMatch
 	msgOpen
 	"""
-	What?
-	You still doubted me?
+	O quê?
+	Ainda duvidava de mim?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Will you believe me
-	now?
+	E agora, acredita em
+	mim?
 	"""
 	keyWait
 	clearMsg
@@ -269,9 +272,9 @@ script 17 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Of course! Your Navi
-	is powerful,to beat
-	3 enemies at once!
+	Claro, né?! O seu Navi é
+	super forte, venceu 3
+	inimigos de uma só vez!
 	"""
 	keyWait
 	clearMsg
@@ -283,14 +286,15 @@ script 18 mmbn3 {
 		mugshot = MrMatch
 	msgOpen
 	"""
-	Well,I am an expert
-	customizer!
+	Bom, eu sou um
+	customizador
+	especialista.
 	"""
 	keyWait
 	clearMsg
 	"""
-	It's all in the
-	thermal power!
+	O segredo está no
+	poder térmico!
 	"""
 	keyWait
 	clearMsg
@@ -302,13 +306,13 @@ script 19 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,let's go say
-	thanks to Mr.Match
-	in person!
+	Lan, vamos lá
+	agradecer o Sr. Match
+	pessoalmente!
 	"""
 	keyWait
 	clearMsg
-	"Jack me out!"
+	"Me desconecta!"
 	keyWait
 	clearMsg
 	jump
@@ -319,20 +323,21 @@ script 20 mmbn3 {
 		mugshot = MrMatch
 	msgOpen
 	"""
-	You don't have to
-	thank me again.
+	Não precisa me
+	agradecer de novo.
 	"""
 	keyWait
 	clearMsg
 	"""
-	So long as we're
-	friends,I'm happy.
+	Desde que continuemos
+	amigos, já fico feliz e
+	satisfeito.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Well,I'd better get
-	back to work.
+	Bom, é melhor eu voltar
+	ao trabalho.
 	"""
 	keyWait
 	end
@@ -341,7 +346,7 @@ script 21 mmbn3 {
 	mugshotHide
 	msgOpen
 	soundDisableTextSFX
-	"Beep Beep Beep!"
+	"Bip Bip Bip!"
 	soundEnableTextSFX
 	keyWait
 	end
@@ -350,20 +355,19 @@ script 22 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Lan! You got mail!"
+	"Lan! Chegou e-mail!"
 	keyWait
 	clearMsg
 	"""
-	What's this? It
-	doesn't say who it's
-	from…
+	Ué? Não diz quem foi
+	que mandou...
 	"""
 	keyWait
 	clearMsg
 	"""
-	"Come to ACDC Square
-	immediately. I'm in
-	front of the BBS."
+	"Venha ao Plaza de
+	ACDC agora mesmo.
+	Estou diante do Fórum."
 	"""
 	flagAddMail
 		flag = 4374
@@ -372,16 +376,16 @@ script 22 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	I wonder who sent
-	this? It may have
-	been sent by
+	Quem será que mandou
+	isto? Pode ter sido um
+	engano,
 	"""
 	keyWait
 	clearMsg
 	"""
-	mistake,but we ought
-	to go just in case.
-	It sounds urgent.
+	mas é melhor irmos mesmo
+	assim, por precaução.
+	Parece urgente.
 	"""
 	keyWait
 	clearMsg
@@ -392,13 +396,13 @@ script 23 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Anonymous mail…"
+	"Um e-mail anônimo..."
 	keyWait
 	clearMsg
 	"""
-	It sounds a little
-	shady,but let's go
-	check it out.
+	Parece meio suspeito,
+	mas, é, vamos lá dar
+	uma conferida.
 	"""
 	keyWait
 	end

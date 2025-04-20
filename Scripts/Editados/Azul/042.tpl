@@ -20,9 +20,9 @@ script 0 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	An explanation about
-	giraffes? But there
-	aren't any here!
+	Uma explicação sobre
+	girafas? Mas não tem
+	nenhuma girafa aqui!
 	"""
 	keyWait
 	end
@@ -32,9 +32,9 @@ script 1 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	The lion computer
-	has a hot spring!
-	That sounds nice!
+	O computador do leão
+	tem uma fonte termal!
+	Parece tão gostoso...
 	"""
 	keyWait
 	end
@@ -44,9 +44,9 @@ script 2 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Inside a demon
-	statue,huh? This
-	place is creepy…
+	Dentro da estátua de
+	um demônio, é? Este
+	lugar me dá arrepios...
 	"""
 	keyWait
 	end
@@ -56,9 +56,9 @@ script 3 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	This TV station sure
-	has a lot of places
-	to jack in to!
+	Esta emissora de TV
+	tem um monte de lugares
+	pra se conectar, né?!
 	"""
 	keyWait
 	end

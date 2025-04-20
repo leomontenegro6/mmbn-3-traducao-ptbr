@@ -5,8 +5,8 @@ script 0 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,I've made it to
-	the zoo network!
+	Lan, eu cheguei na rede
+	do zoológico!
 	"""
 	keyWait
 	clearMsg
@@ -18,9 +18,9 @@ script 1 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Great! Look for the
-	server! It's in
-	there,somewhere!
+	Beleza! Agora, encontra
+	o servidor! Ele tá aí em
+	algum lugar!
 	"""
 	keyWait
 	clearMsg
@@ -31,7 +31,7 @@ script 2 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Roger!"
+	"Beleza!"
 	keyWait
 	clearMsg
 	jump
@@ -41,7 +41,7 @@ script 3 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Hurry,MegaMan!"
+	"Não demora, MegaMan!"
 	keyWait
 	end
 }

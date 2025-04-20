@@ -5,7 +5,7 @@ script 0 mmbn3 {
 		mugshot = Ray
 	msgOpen
 	"""
-	You disappointed me,
+	Você me decepcionou,
 	FlashMan.
 	"""
 	keyWait
@@ -18,8 +18,8 @@ script 1 mmbn3 {
 		mugshot = FlashMan
 	msgOpen
 	"""
-	I am deeply sorry,
-	sir…
+	Eu sinto muitíssimo,
+	senhor...
 	"""
 	keyWait
 	clearMsg
@@ -31,9 +31,9 @@ script 2 mmbn3 {
 		mugshot = Ray
 	msgOpen
 	"""
-	I hope you haven't
-	forgotten the rules
-	of our organization.
+	Imagino que não tenha
+	esquecido as regras de
+	nossa organização.
 	"""
 	keyWait
 	clearMsg
@@ -44,13 +44,15 @@ script 3 mmbn3 {
 	mugshotShow
 		mugshot = FlashMan
 	msgOpen
-	"Yes,sir! Rule 98!"
+	"""
+	Claro que não, senhor!
+	Regra 98!
+	"""
 	keyWait
 	clearMsg
 	"""
-	Never get deleted,
-	even if defeated in
-	battle!
+	Jamais ser deletado,
+	mesmo após derrotado!
 	"""
 	keyWait
 	clearMsg
@@ -62,9 +64,9 @@ script 4 mmbn3 {
 		mugshot = Ray
 	msgOpen
 	"""
-	You will fight Lan
-	and MegaMan again!
-	Go,FlashMan!
+	Você enfrentará Lan
+	Hikari e MegaMan de novo!
+	Avance, FlashMan!
 	"""
 	keyWait
 	clearMsg
@@ -75,13 +77,13 @@ script 5 mmbn3 {
 	mugshotShow
 		mugshot = FlashMan
 	msgOpen
-	"Yes,sir!"
+	"Sim, senhor!"
 	keyWait
 	clearMsg
 	"""
-	MegaMan! Lan!
-	Enjoy my last flash…
-	A flash of death!
+	MegaMan! Lan Hikari!
+	Esta é minha luz final...
+	Meu clarão da morte!
 	"""
 	keyWait
 	end
@@ -91,9 +93,9 @@ script 6 mmbn3 {
 		mugshot = FlashMan
 	msgOpen
 	"""
-	SHINING…
-	BROWSER…
-	CRASHER…!
+	ESMAGA...
+	NAVEGADOR...
+	LUMINOSO...!
 	"""
 	keyWait
 	end
@@ -102,7 +104,7 @@ script 7 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Whoa!"
+	"Aaahh!"
 	keyWait
 	end
 }
@@ -110,24 +112,23 @@ script 8 mmbn3 {
 	mugshotShow
 		mugshot = Ray
 	msgOpen
-	"Well done,FlashMan!"
+	"Bom trabalho, FlashMan!"
 	keyWait
 	clearMsg
 	"""
-	That flash is the
-	beacon for a major
-	catastrophe!
+	Esse clarão foi o
+	chamariz para uma
+	catástrofe muito maior.
 	"""
 	keyWait
 	clearMsg
 	"""
-	And with that,young
-	Lan,I'll take my
-	leave…
+	E com isso, jovem Hikari,
+	eu me despeço...
 	"""
 	keyWait
 	clearMsg
-	"Farewell!"
+	"Adieu!"
 	keyWait
 	clearMsg
 	playerAnimate
@@ -140,8 +141,8 @@ script 9 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Wait! Just who are
-	you!?
+	Ei, espera aí!
+	Mas quem é você?!
 	"""
 	keyWait
 	clearMsg
@@ -156,7 +157,7 @@ script 9 mmbn3 {
 		frames = 20
 	"""
 	
-	He's gone,
+	Ele foi embora,
 	Lan.
 	"""
 	waitSkip
@@ -167,7 +168,7 @@ script 9 mmbn3 {
 	"."
 	waitSkip
 		frames = 20
-	"Ngh!"
+	" Ngh!"
 	keyWait
 	end
 }
@@ -177,7 +178,7 @@ script 10 mmbn3 {
 	msgOpen
 	"""
 	MegaMan!
-	Are you okay?
+	Tá tudo bem com você?
 	"""
 	keyWait
 	end
@@ -187,8 +188,8 @@ script 11 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I'm…I'm OK.
-	Just a little dizzy…
+	Eu... eu tô bem.
+	Só meio tonto...
 	"""
 	keyWait
 	end
@@ -198,8 +199,8 @@ script 12 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	But how is everyone?
-	Is everything OK?
+	Mas e o pessoal?
+	Tá todo mundo bem?
 	"""
 	keyWait
 	clearMsg
@@ -211,9 +212,9 @@ script 13 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	That's right!
-	We've got to get
-	over there!
+	Ah, é mesmo!
+	A gente tem que ir lá
+	ver como eles tão!
 	"""
 	keyWait
 	end

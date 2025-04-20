@@ -4,23 +4,23 @@ script 0 mmbn3 {
 	mugshotShow
 		mugshot = HeelNavi
 	msgOpen
-	"Go!! Go!! Go!!"
+	"Vai!! Vai!! Vai!!"
 	keyWait
 	clearMsg
 	"""
-	Hey,kid! You ARE
-	rooting for Netopia
-	in the N1,right!?
+	Ê, garoto! Cê tá
+	torcendo pela Ameropa
+	no N1, né? NÉ?!
 	"""
 	keyWait
 	clearMsg
 	"""
-	…What?
-	You're not?
+	... Quê?
+	Não tá?
 	"""
 	waitSkip
 		frames = 30
-	"\nThen,take this!!!"
+	"\nEntão, TOMA!!!"
 	keyWait
 	clearMsg
 	msgClose
@@ -43,16 +43,15 @@ script 1 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	Go,go Netopia!
-	Netopia rules at
-	NetBattling!
+	Ameropa, Ameropa!
+	Com eles, NetLuta é
+	NetMassacre!
 	"""
 	keyWait
 	clearMsg
 	"""
-	What the? Are you a
-	fan of Electopia or
-	something!?
+	Hã? Cê é o quê, fã de
+	Ni-Hon?!
 	"""
 	keyWait
 	clearMsg
@@ -76,13 +75,13 @@ script 2 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	You're looking for a
-	Navi from Electopia?
-	Our boss got him!
+	Cê tá atrás de um Navi
+	de Ni-Hon? Ah, o nosso
+	patrão tá com ele.
 	"""
 	keyWait
 	clearMsg
-	"And you're next!"
+	"E cê é o próximo!"
 	keyWait
 	clearMsg
 	msgClose
@@ -105,16 +104,16 @@ script 10 mmbn3 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	A bunch of Netopia
-	fans just went by
-	here!
+	Um monte de fãs
+	Ameropanos acabaram
+	de passar por aqui!
 	"""
 	keyWait
 	clearMsg
 	"""
-	They were pretty
-	riled up. You'd
-	better be careful.
+	Eles estavam bem
+	alvoroçados. Acho
+	melhor tomar cuidado.
 	"""
 	keyWait
 	end
@@ -130,9 +129,9 @@ script 11 mmbn3 {
 		palette = 1
 	msgOpen
 	"""
-	Ah,the Beach area!
-	You can fish,and
-	swim,and play…
+	Ah, a área Angra!
+	Onde se pode pescar,
+	e nadar, e brincar...
 	"""
 	keyWait
 	end
@@ -144,22 +143,22 @@ script 12 mmbn3 {
 		palette = 1
 	msgOpen
 	"""
-	I saw a Navi dressed
-	like a diver! That's
-	SO Beach area!
+	Eu vi um Navi vestido
+	de mergulhador! Isso
+	é TÃO área Angra!
 	"""
 	keyWait
 	clearMsg
 	"""
-	That guy must be a
-	coward! Navis like
-	him only show up
+	Mas o cara deve ser
+	um covarde! Navis como
+	ele só aparecem pra
 	"""
 	keyWait
 	clearMsg
 	"""
-	for fights when the
-	opponent has low HP!
+	lutar quando o oponente
+	tá com PV baixos!
 	"""
 	keyWait
 	end
@@ -171,16 +170,15 @@ script 20 mmbn3 {
 		palette = 1
 	msgOpen
 	"""
-	It's scary. They say
-	N1 fans rioted here
-	yesterday.
+	Que medo. Dizem que fãs
+	do N1 quebraram tudo
+	aqui, ontem.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I wonder if there
-	are any more fans
-	around…!?
+	Será que ainda tem mais
+	desses fãs por aqui...?!
 	"""
 	keyWait
 	end
@@ -205,16 +203,15 @@ script 30 mmbn3 {
 		mugshot = NormalNaviGreen
 	msgOpen
 	"""
-	I really wonder
-	where that cube over
-	there leads to?
+	Aonde será que aquele
+	cubo ali dá acesso?
 	"""
 	keyWait
 	clearMsg
 	"""
-	But you need the
-	hospital passcode to
-	open it. Oh,well.
+	Mas é preciso da senha
+	do hospital para abri-lo.
+	Meh.
 	"""
 	keyWait
 	end
@@ -224,22 +221,22 @@ script 40 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	I'm in the WWW!
+	Eu sou da WWW!
 	La-la-laaaaa!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Huh!? Were you
-	laughing at my song
-	just now!?
+	Hã?! Cê tava rindo
+	da minha música ainda
+	agora, tava não?!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'll teach you to
-	laugh at the WWW!
-	C'mere,you!
+	Vou te ensinar o que
+	rola quando se ri da WWW!
+	Cai dentro!
 	"""
 	keyWait
 	clearMsg
@@ -266,7 +263,7 @@ script 41 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Lan! You got mail!"
+	"Lan! Chegou e-mail!"
 	keyWait
 	end
 }
@@ -620,8 +617,8 @@ script 194 mmbn3 {
 		item = 96
 		amount = 1
 	"""
-	MegaMan got a
-	PowerUp:
+	MegaMan adquiriu
+	um PowerUp:
 	"
 	"""
 	printItem
@@ -698,8 +695,8 @@ script 201 mmbn3 {
 	soundPlay
 		track = 133
 	"""
-	MegaMan got a stamp
-	for his card.
+	O cartão do MegaMan
+	foi carimbado.
 	"""
 	keyWait
 	end
@@ -725,29 +722,28 @@ script 220 mmbn3 {
 		jumpIfLess = continue
 	msgOpen
 	"""
-	It's a security cube
-	for the Seaside
-	Hospital…
+	É um Cubo de Segurança
+	do Hospital Beira-Mar...
 	"""
 	keyWait
 	clearMsg
 	"""
-	You can't unlock it
-	without a passcode!
+	Não pode destrancá-lo
+	sem a senha!
 	"""
 	keyWait
 	end
 }
 script 221 mmbn3 {
 	msgOpen
-	"What a flame…"
+	"Chamas tão intensas..."
 	keyWait
 	end
 }
 script 222 mmbn3 {
 	msgOpen
 	"""
-	MegaMan used:
+	MegaMan usou:
 	"
 	"""
 	printItem
@@ -757,8 +753,8 @@ script 222 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	The security cube
-	was unlocked!
+	O Cubo de Segurança
+	foi destrancado!
 	"""
 	keyWait
 	msgClose
@@ -782,8 +778,8 @@ script 229 mmbn3 {
 script 230 mmbn3 {
 	msgOpen
 	"""
-	MegaMan accessed the
-	mystery data.
+	MegaMan acessou os
+	dados misteriosos.
 	"""
 	wait
 		frames = 10
@@ -805,8 +801,8 @@ script 230 mmbn3 {
 		color = 2
 		amount = 1
 	"""
-	MegaMan got a Navi
-	Customizer program:
+	Adquiriu um programa do
+	Customizador de Navi:
 	"
 	"""
 	printNaviCustProgram
@@ -825,8 +821,8 @@ script 231 mmbn3 {
 		jumpIfFalse = 232
 	msgOpen
 	"""
-	MegaMan accessed the
-	mystery data.
+	MegaMan acessou os
+	dados misteriosos.
 	"""
 	wait
 		frames = 10
@@ -844,7 +840,7 @@ script 231 mmbn3 {
 		item = 72
 		amount = 1
 	"""
-	MegaMan got:
+	MegaMan adquiriu:
 	"
 	"""
 	printItem
@@ -868,15 +864,15 @@ script 231 mmbn3 {
 script 232 mmbn3 {
 	msgOpen
 	"""
-	It's locked.
+	Está bloqueado.
 	"
 	"""
 	printItem
 		buffer = 0
 		item = 117
 	"""
-	" is needed
-	to open it
+	" é necessário
+	para acessar os dados.
 	"""
 	keyWait
 	end
@@ -884,8 +880,8 @@ script 232 mmbn3 {
 script 235 mmbn3 {
 	msgOpen
 	"""
-	MegaMan accessed the
-	mystery data.
+	MegaMan acessou os
+	dados misteriosos.
 	"""
 	wait
 		frames = 10
@@ -902,7 +898,7 @@ script 235 mmbn3 {
 		jumpIfTrue = continue
 		jumpIfFalse = 236
 	"""
-	The SubChip
+	O SubChip
 	"
 	"""
 	printItem
@@ -910,14 +906,14 @@ script 235 mmbn3 {
 		item = 115
 	"""
 	"
-	was activated!!
+	foi ativado!!
 	"""
 	keyWait
 	clearMsg
 	"""
-	The virus hidden
-	in the mystery data
-	was deleted!
+	O vírus que se escondia
+	nos dados misteriosos
+	foi deletado!
 	"""
 	keyWait
 }
@@ -943,8 +939,8 @@ script 236 mmbn3 {
 script 237 mmbn3 {
 	msgOpen
 	"""
-	The mystery data was
-	a virus!!
+	Os dados misteriosos
+	eram vírus!!
 	"""
 	keyWait
 	startRandomBattle
@@ -991,8 +987,7 @@ script 238 mmbn3 {
 	playerAnimate
 		animation = 24
 	"""
-	MegaMan got a chip
-	for
+	MegaMan adquiriu o chip
 	"
 	"""
 	printChip
@@ -1033,7 +1028,7 @@ script 239 mmbn3 {
 	playerAnimate
 		animation = 24
 	"""
-	MegaMan got:
+	MegaMan adquiriu:
 	"
 	"""
 	printBuffer
@@ -1050,8 +1045,8 @@ script 239 mmbn3 {
 script 240 mmbn3 {
 	msgOpen
 	"""
-	MegaMan accessed the
-	mystery data.
+	MegaMan acessou os
+	dados misteriosos.
 	"""
 	wait
 		frames = 10
@@ -1068,7 +1063,7 @@ script 240 mmbn3 {
 		jumpIfTrue = continue
 		jumpIfFalse = 241
 	"""
-	The SubChip
+	O SubChip
 	"
 	"""
 	printItem
@@ -1076,14 +1071,14 @@ script 240 mmbn3 {
 		item = 115
 	"""
 	"
-	was activated!!
+	foi ativado!!
 	"""
 	keyWait
 	clearMsg
 	"""
-	The virus hidden
-	in the mystery data
-	was deleted!
+	O vírus que se escondia
+	nos dados misteriosos
+	foi deletado!
 	"""
 	keyWait
 }
@@ -1109,8 +1104,8 @@ script 241 mmbn3 {
 script 242 mmbn3 {
 	msgOpen
 	"""
-	The mystery data was
-	a virus!!
+	Os dados misteriosos
+	eram vírus!!
 	"""
 	keyWait
 	startRandomBattle
@@ -1157,8 +1152,7 @@ script 243 mmbn3 {
 	playerAnimate
 		animation = 24
 	"""
-	MegaMan got a chip
-	for
+	MegaMan adquiriu o chip
 	"
 	"""
 	printChip
@@ -1199,7 +1193,7 @@ script 244 mmbn3 {
 	playerAnimate
 		animation = 24
 	"""
-	MegaMan got:
+	MegaMan adquiriu:
 	"
 	"""
 	printBuffer

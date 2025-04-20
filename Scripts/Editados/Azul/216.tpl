@@ -5,8 +5,8 @@ script 0 mmbn3 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Good luck! This is
-	your last lesson!
+	Boa sorte! Esta será a
+	última lição de vocês!
 	"""
 	keyWait
 	end

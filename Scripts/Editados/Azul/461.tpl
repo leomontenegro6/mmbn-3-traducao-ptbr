@@ -14,16 +14,16 @@ script 0 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	O número de Net-
-	Crimes vem aumentando
-	nos últimos naos.
+	O número de NetCrimes
+	aumentou nos últimos
+	anos.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Please be careful of
-	viruses and evil
-	Navis!
+	Por favor, tomem
+	cuidado com vírus e
+	Navis maus!
 	"""
 	keyWait
 	waitHold
@@ -42,15 +42,15 @@ script 1 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	The prelims have
-	started! I'm gonna
-	start without ya!
+	Começaram as preli-
+	minares! Vou começar
+	sem você, hein?!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Hurry up and come
-	to ACDC Square!
+	Vem logo pro Plaza de
+	ACDC! Anda!
 	"""
 	keyWait
 	waitHold
@@ -69,23 +69,23 @@ script 2 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	We unlocked the
-	school gate!
-	But it's strange…
+	Destrancamos o portão
+	da escola! Mas é meio
+	estranho...
 	"""
 	keyWait
 	clearMsg
 	"""
-	The school doors are
-	unlocked. Could they
-	have just forgottn?
+	As portas dentro estão
+	destrancadas. Será que
+	esqueceram de trancar?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Come as soon as you
-	can! We're waiting
-	in the school!
+	Vem pra cá assim que
+	puder! Estamos te
+	esperando na escola!
 	"""
 	keyWait
 	waitHold
@@ -104,16 +104,16 @@ script 3 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	I can't sleep…I'm
-	in the park now.
-	Want to NetBattle?
+	Tô sem sono...
+	Vim pro parque.
+	Quer NetLutar?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Oh,and thanks for
-	today!! Take this as
-	a thank you from me.
+	Ah, e valeu por hoje!
+	Vou te dar isto aqui
+	pra agradecer.
 	"""
 	keyWait
 	clearMsg
@@ -127,7 +127,7 @@ script 3 mmbn3 {
 		item = 81
 		amount = 1
 	"""
-	Lan got:
+	Lan adquiriu:
 	"
 	"""
 	printItem
@@ -151,64 +151,61 @@ script 4 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	Lan,I've fixed the
-	transmission
-	program.
+	Lan, eu consertei o
+	programa de
+	transmissão.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I also finished the
-	"Navi Customizer"
-	I was working on.
+	Também terminei o "Cus-
+	tomizador de Navi" em
+	que estava trabalhando.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'll attach that
-	to this mail,too.
+	Vou anexá-lo a este
+	e-mail, também.
 	"""
 	keyWait
 	clearMsg
 	"""
-	If you install this
-	into your PET and
-	start it up,
+	Se instalar isto no seu
+	PET e abri-lo,
 	"""
 	keyWait
 	clearMsg
 	"""
-	you can install
-	various programs
-	into MegaMan.
+	poderá instalar vários
+	programas no MegaMan.
 	"""
 	keyWait
 	clearMsg
 	"""
-	If you program him
-	well,MegaMan can
-	become stronger!
+	Se programá-lo bem,
+	o MegaMan poderá 
+	ficar mais forte!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I've also included
-	a few programs.
-	Try them out!
+	Inclusive, incluí alguns
+	programas com ele.
+	Experimente!
 	"""
 	keyWait
 	clearMsg
 	"""
-	When you customize,
-	you will sometimes
-	need to change
+	Ao customizar, às
+	vezes, você precisará
+	trocar de pasta,
 	"""
 	keyWait
 	clearMsg
 	"""
-	folders,so I'm
-	sending this,as
-	well.
+	então, estou enviando
+	isto, também.
 	"""
 	keyWait
 	clearMsg
@@ -232,12 +229,12 @@ script 4 mmbn3 {
 		amount = 1
 	startGiveFolder
 		folder = 10
-	"Lan got:"
+	"Lan recebeu:"
 	keyWait
 	clearMsg
 	"""
-	a Navi Customizer,
-	the programs,
+	Customizador de Navi,
+	os programas
 	"""
 	keyWait
 	clearMsg
@@ -263,7 +260,7 @@ script 4 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	and a
+	e uma
 	"
 	"""
 	printFolderName
@@ -287,16 +284,15 @@ script 5 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	Lan,it's Higsby!
-	I have a favor to
-	ask you,huh!
+	Lan, é o Higsby!
+	Eu tenho um favor pra
+	te pedir, é!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Could you please
-	come down to my
-	store,huh?
+	Pode vir à minha loja
+	agora, é?
 	"""
 	keyWait
 	waitHold
@@ -315,41 +311,41 @@ script 6 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	The final N1 Grand
-	Prix preliminary
-	will be held today.
+	A última rodada
+	preliminar do Grande
+	Prêmio N1 será hoje.
 	"""
 	keyWait
 	clearMsg
 	"""
-	The location of the
-	event is a secret.
+	O local do evento é um
+	segredo.
 	"""
 	keyWait
 	clearMsg
 	"""
-	You must all find it
-	by yourselves.
+	Vocês todos devem
+	encontrá-lo sozinhos.
 	"""
 	keyWait
 	clearMsg
 	"""
-	We will provide you
-	with a clue.
+	Mas forneceremos a
+	vocês uma pista.
 	"""
 	keyWait
 	clearMsg
 	"""
-	'Enemy of viruses;
-	Cyber square;
-	Yellow'.
+	'Inimigo dos vírus;
+	Cyber plaza;
+	Amarelo'.
 	"""
 	keyWait
 	clearMsg
 	"""
-	We look forward to
-	your arriving as
-	soon as possible.
+	Aguardamos a sua
+	chegada o mais rápido
+	possível.
 	"""
 	keyWait
 	waitHold
@@ -368,16 +364,16 @@ script 7 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	Lan,I have to go
-	overseas for 3 days
-	on a business trip.
+	Lan, terei que viajar
+	pro exterior por três
+	dias a trabalho.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Since I won't be
-	home,can you look
-	after mom? Thanks!
+	Como não estarei em
+	casa, cuida da sua mãe,
+	tá? Valeu, filhão!"
 	"""
 	keyWait
 	waitHold
@@ -396,26 +392,25 @@ script 8 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	Lan,I'm sorry I got
-	you involved in all
-	of that…
+	Lan, desculpa por te
+	envolver nisso tudo...
 	"""
 	keyWait
 	clearMsg
 	"""
-	But you and MegaMan
-	are the only ones
-	that I can rely on!
+	Mas você e o MegaMan
+	são os únicos em quem
+	eu posso contar agora!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'll be waiting
-	for you two!
+	Vou ficar esperando por
+	vocês!
 	"""
 	keyWait
 	clearMsg
-	"Here,use this!"
+	"Toma, usa isto!"
 	keyWait
 	clearMsg
 	checkFlag
@@ -431,7 +426,7 @@ script 8 mmbn3 {
 		chip = 220
 		code = R
 		amount = 1
-	"Lan got a"
+	"Lan recebeu um"
 	keyWait
 	clearMsg
 	"\""
@@ -439,7 +434,7 @@ script 8 mmbn3 {
 		buffer = 0
 		item = 80
 	"""
-	" and
+	" e um
 	"
 	"""
 	printChip
@@ -467,16 +462,15 @@ script 9 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	Lan,huh-hurry!! The
-	bubble has already
-	turned yellow,huh!
+	Lan, d-depressa!
+	A bolha já ficou
+	amarela, é!
 	"""
 	keyWait
 	clearMsg
 	"""
-	If you don't
-	hurry,it will
-	explode,huh!!
+	Se não se apressar,
+	ela vai explodir, é!!
 	"""
 	keyWait
 	waitHold
@@ -495,36 +489,34 @@ script 10 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	The much-anticipated
-	N1 Grand Prix will
-	be held tomorrow
+	O muitíssimo aguardado
+	Grande Prêmio N1
+	será sediado amanhã,
 	"""
 	keyWait
 	clearMsg
 	"""
-	at DNN on
-	Beach Street.
+	na DNN, na Rua Angra.
 	"""
 	keyWait
 	clearMsg
 	"""
-	In preparation for
-	the N1,we will be
-	recording a special
+	Em preparação para o
+	torneio, gravaremos
+	um programa especial
 	"""
 	keyWait
 	clearMsg
 	"""
-	program in Beach
-	Square on the Net
-	today. Everyone is
+	no Angra Plaza,
+	na Rede, hoje.
 	"""
 	keyWait
 	clearMsg
 	"""
-	invited to come,so
-	feel free to bring
-	your friends!
+	Todos estão convidados,
+	e tragam a família e
+	amigos!
 	"""
 	keyWait
 	waitHold
@@ -543,15 +535,16 @@ script 11 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	We forgot to attach
-	an important thing
-	to our last mail.
+	Esquecemos de anexar
+	um elemento importante
+	em nosso último e-mail.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Please use this to
-	get to Beach Square.
+	Por favor, use isto
+	para acessar o Angra
+	Plaza.
 	"""
 	keyWait
 	clearMsg
@@ -565,7 +558,7 @@ script 11 mmbn3 {
 		item = 95
 		amount = 1
 	"""
-	Lan got:
+	Lan adquiriu:
 	"
 	"""
 	printItem
@@ -589,29 +582,27 @@ script 12 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	Hey! Today is
-	finally the N1
-	Grand Prix!
+	Ei! Até que enfim, é dia
+	do Grande Prêmio N1!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'm in Block A,so
-	my battle is pretty
-	early.
+	Eu tô no Bloco A, então,
+	as minhas lutas vão ser
+	bem cedo.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'll go on ahead
-	of you to the
-	TV station!
+	Vou indo logo pra
+	emissora de TV na
+	frente!
 	"""
 	keyWait
 	clearMsg
 	"""
-	See you at
-	the finals!
+	Te vejo nas finais!
 	"""
 	keyWait
 	waitHold
@@ -630,34 +621,34 @@ script 13 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	Lan,good luck today!
-	I'll be rooting for
-	you on TV!
+	Lan, boa sorte hoje!
+	Vou ficar torcendo por
+	você pela TV!
 	"""
 	keyWait
 	clearMsg
 	"""
-	The item I attached
-	will increase your
-	Memory Map size.
+	O item anexado vai au-
+	mentar o tamanho do
+	seu Mapa de Memória.
 	"""
 	keyWait
 	clearMsg
 	"""
-	This will let you
-	use more programs
-	at once!
+	Com isso, você poderá
+	usar mais programas
+	de uma só vez!
 	"""
 	keyWait
 	clearMsg
 	"""
-	That should let you
-	customize MegaMan in
-	new ways.
+	O que deve te ajudar
+	a customizar o MegaMan
+	de novas formas.
 	"""
 	keyWait
 	clearMsg
-	"Good luck!"
+	"Boa sorte!"
 	keyWait
 	clearMsg
 	checkFlag
@@ -670,7 +661,7 @@ script 13 mmbn3 {
 		item = 97
 		amount = 1
 	"""
-	Lan got:
+	Lan adquiriu:
 	"
 	"""
 	printItem
@@ -694,16 +685,15 @@ script 14 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	Hello,Sunayama here!
-	Contestants should
-	come to the studio
+	Sunayama falando!
+	Competidores, venham
+	para o estúdio assim
 	"""
 	keyWait
 	clearMsg
 	"""
-	as soon as you get
-	off the boat!
-	Ciao!
+	que saírem do barco!
+	"See you"!
 	"""
 	keyWait
 	waitHold
@@ -722,16 +712,16 @@ script 15 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	Lan! Can you come
-	outside? I have to
-	tell you something.
+	Lan! Pode vir aqui fora?
+	Preciso conversar uma
+	coisa com você.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Yai's in trouble!
-	Meet me outside the
-	TV station!
+	A Yai tá mal!
+	Me encontra fora do
+	prédio da emissora!
 	"""
 	keyWait
 	waitHold
@@ -1248,8 +1238,8 @@ script 30 mmbn3 {
 		color = 2
 		amount = 1
 	"""
-	Lan got a 
-	NaviCust program:
+	Lan adquiriu um
+	programa do CustNavi:
 	"
 	"""
 	printNaviCustProgram
@@ -1272,20 +1262,20 @@ script 31 mmbn3 {
 		top = 140
 	msgOpenInvisible
 		unused = 12
-	"Lan,check it out!"
+	"Lan, saca só!"
 	keyWait
 	clearMsg
 	"""
-	I made a shortcut
-	from my homepage to
-	ACDC Square!
+	Eu fiz um atalho da
+	minha página pro ACDC
+	Plaza!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Now you can go from
-	my homepage straight
-	to ACDC Square!
+	Agora, cê pode ir da
+	minha página direto
+	pro ACDC Plaza!
 	"""
 	keyWait
 	clearMsg
@@ -1296,8 +1286,8 @@ script 31 mmbn3 {
 	flagSet
 		flag = 19
 	"""
-	I just opened
-	the gate!
+	Acabei de abrir o
+	portal!
 	"""
 	keyWait
 	waitHold
@@ -1316,21 +1306,22 @@ script 32 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	Lan,thank you for
-	the other day.
+	Lan, obrigada por me
+	salvar aquele dia.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I just made a short-
-	cut from my homepage
-	to Yoka Square!
+	Eu acabei de fazer um
+	atalho da minha página
+	pro Yoka Plaza!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Please feel free to
-	use it any time!
+	Pode ficar à vontade
+	pra usar sempre que
+	quiser!
 	"""
 	keyWait
 	clearMsg
@@ -1341,8 +1332,8 @@ script 32 mmbn3 {
 	flagSet
 		flag = 18
 	"""
-	I opened the gate
-	for you,too!
+	Eu já abri o portal pra
+	você!
 	"""
 	keyWait
 	waitHold
@@ -1361,29 +1352,30 @@ script 33 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	I can't believe Dex
-	made a shortcut to
-	ACDC Square!
+	Não acredito que o
+	Dex fez um atralho
+	pro ACDC Plaza!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Just to show him,I
-	made a shortcut to
-	the SciLab Square!
+	Eu me recuso a ficar
+	pra trás! Então, fiz um
+	atalho pro SciLab Plaza.
 	"""
 	keyWait
 	clearMsg
 	"""
-	It's on my homepage.
-	Feel free to use it
-	anytime!
+	Tá na minha página.
+	Pode usar quando
+	quiser, sem custo!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Mine is much better
-	than Dex's!
+	É MUITO melhor que
+	aquele atalho RIDÍCULO
+	do Dex!
 	"""
 	keyWait
 	clearMsg
@@ -1394,9 +1386,8 @@ script 33 mmbn3 {
 	flagSet
 		flag = 20
 	"""
-	I opened the gate
-	already,so come
-	whenever!
+	Eu já abri o portal,
+	então, fique à vontade!
 	"""
 	keyWait
 	waitHold
@@ -1463,30 +1454,29 @@ script 35 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	When you use the
-	Guts Style,your
-	MegaBuster becomes
+	Quando você usa o
+	Estilo Guts, seu
+	MegaAtirador dobra
 	"""
 	keyWait
 	clearMsg
 	"""
-	twice as strong,and
-	if you fire it fast
-	it becomes like a
+	de poder, e você o
+	dispara rápido, como
+	uma metralhadora!
 	"""
 	keyWait
 	clearMsg
 	"""
-	machine gun! Level
-	up,and you'll get
-	even more powerful
+	Aumente o nível, e você
+	obterá programas ainda
+	mais fortes!
 	"""
 	keyWait
 	clearMsg
 	"""
-	programs! Now go out
-	there and fight!
-	With guts!
+	Agora, vamos, vá à luta!
+	Com coragem!
 	"""
 	keyWait
 	waitHold
@@ -1505,43 +1495,41 @@ script 36 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	With the Custom
-	Style,you can choose
-	from 6 chips to use.
+	Com o Estilo Custom,
+	você fica com seis chips
+	dentre os quais escolher.
 	"""
 	keyWait
 	clearMsg
 	"""
-	If you get a level
-	"S" without using
-	chips or MegaBuster,
+	Se conquistar um Nível
+	de Luta "S" sem usar
+	chips ou o MegaAtirador,
 	"""
 	keyWait
 	clearMsg
 	"""
-	you may be able to
-	get a special data
-	chip!
+	você poderá obter um
+	chip especial!
 	"""
 	keyWait
 	clearMsg
 	"""
-	If you level up,you
-	will get a program
-	that gives even
+	Se subir de nível,
+	receberá um programa
+	que lhe dará ainda mais
 	"""
 	keyWait
 	clearMsg
 	"""
-	more chips each
-	battle,letting you
-	delete your enemies
+	chips por batalha, permi-
+	tindo a você deletar
+	inimigos com estilo!
 	"""
 	keyWait
 	clearMsg
 	"""
-	with style!
-	Custom Style!
+	Com Estilo Custom!
 	"""
 	keyWait
 	waitHold
@@ -1560,36 +1548,35 @@ script 37 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	The Team Style
-	lets you keep 6
-	MChips in a folder!
+	O Estilo Team deixa
+	você carregar 6
+	MegaChips na pasta!
 	"""
 	keyWait
 	clearMsg
 	"""
-	If you delete your
-	enemies especially
-	fast,
+	Se deletar os inimigos
+	particularmente rápido,
 	"""
 	keyWait
 	clearMsg
 	"""
-	you may receive
-	a special data chip!
+	você pode receber um
+	chip especial!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Level up,and you
-	will receive a
-	program that lets
+	Suba de níve, e você
+	receberá um programa
+	que lhe permitirá
 	"""
 	keyWait
 	clearMsg
 	"""
-	you use even more 
-	MChips! Never forget
-	"Team"work,Lan!
+	usar ainda mais
+	MegaChips!
+	Força, "Team-e"!
 	"""
 	keyWait
 	waitHold
@@ -1608,36 +1595,35 @@ script 38 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	The Shield Style
-	puts up a barrier
-	when battle starts!
+	O Estilo Shield produz
+	uma barreira assim que
+	a batalha começa.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Level up,and you can
-	get a program that
-	lets you guard by
+	Suba de nível, e você
+	obterá um programa que
+	lhe permitirá defender
 	"""
 	keyWait
 	clearMsg
 	"""
-	pressing
-	Left+B Button.
+	apertando Esquerda+B.
 	"""
 	keyWait
 	clearMsg
 	"""
-	If you time it
-	right,it will even
-	heal you!
+	Se acertar o tempo
+	direitinho, isso pode
+	até te curar!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Make sure to time it
-	right,and then go
-	for an attack!
+	Com uma boa defesa,
+	espere o momento certo
+	chegar e ataque!
 	"""
 	keyWait
 	waitHold
@@ -1656,23 +1642,23 @@ script 39 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	The Ground Styl lets
-	you crack panels
-	with a Delayed Atk.
+	O Estilo Ground lhe
+	permite rachar quadros
+	com um Ataque Atrasado.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Level up,and you'll
-	get a program that
-	changes the panels
+	Suba de nível, e obterá
+	um programa que
+	transforma os quadros
 	"""
 	keyWait
 	clearMsg
 	"""
-	at the start of each
-	battle. Use panel
-	types in battle!
+	no início das batalhas.
+	Use vários tipos de
+	quadros durante a lutas!
 	"""
 	keyWait
 	waitHold
@@ -1691,23 +1677,23 @@ script 40 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	The Shadow Style
-	lets you use a Delay
-	attack to vanish!
+	O Estilo Shadow lhe
+	permite usar um ataque
+	com atraso para sumir!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Level up,and you'll
-	get a tricky program
-	for your NaviCust!
+	Suba de Nível, e obterá
+	um programa ardiloso
+	para o seu CustNavi!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Remember,they can't
-	get you if they
-	can't see you!
+	Lembre-se: não podem
+	te machucar se não
+	puderem te ver!
 	"""
 	keyWait
 	waitHold
@@ -1726,87 +1712,87 @@ script 41 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	Just a quick review
-	of the NaviCust
-	rules…
+	Só uma rápida revisão
+	das regras do
+	CustNavi...
 	"""
 	keyWait
 	clearMsg
-	"Rule #1:"
+	"Regra 1:"
 	keyWait
 	clearMsg
 	"""
-	Program parts must
-	touch the Memory
-	Map's Command Line.
+	Peças Programa devem
+	tocar a Linha de Coman-
+	do do Mapa de Memória.
 	"""
 	keyWait
 	clearMsg
-	"Rule #2:"
+	"Regra 2:"
 	keyWait
 	clearMsg
 	"""
-	Plus Parts with a
-	square pattern must
-	NOT touch the line.
+	Peças Próton, as
+	estampadas, NÃO
+	podem tocar a linha.
 	"""
 	keyWait
 	clearMsg
-	"Rule #3:"
+	"Regra 3:"
 	keyWait
 	clearMsg
 	"""
-	You cannot place
-	same color programs
-	next to each other.
-	"""
-	keyWait
-	clearMsg
-	"""
-	Remember these rules
-	when programming,and
-	then select RUN.
+	Você não pode colocar
+	programas de mesma cor
+	colados um ao outro.
 	"""
 	keyWait
 	clearMsg
 	"""
-	If you don't follow
-	these rules,you may
-	create a bug.
+	Lembre-se dessas
+	regras ao programar
+	e aperte "EXECUTAR".
 	"""
 	keyWait
 	clearMsg
 	"""
-	Also,the colors you
-	can use depend on
-	your style.
+	Se não seguir as
+	regras, pode criar um
+	bug.
 	"""
 	keyWait
 	clearMsg
 	"""
-	If you try using a
-	color you can't use,
-	you'll get an error.
+	Ah, e as cores que se
+	pode usar dependem
+	do seu estilo.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Also,don't forget
-	the "
+	Se tentar usar uma
+	cor que não pode usar,
+	resultará em erro.
+	"""
+	keyWait
+	clearMsg
+	"""
+	Ah, e não esqueça
+	a "
 	"""
 	printFolderName
 		buffer = 0
 		entry = 10
 	"""
-	",your
-	Extra Folder.
+	", sua
+	Pasta Extra.
 	"""
 	keyWait
 	clearMsg
 	"""
-	You can equip your
-	Extra Folder,but you
-	can't edit it!
+	É uma pasta que você
+	pode equipar, mas não
+	editar!
 	"""
 	keyWait
 	waitHold

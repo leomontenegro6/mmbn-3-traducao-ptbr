@@ -5,22 +5,22 @@ script 0 mmbn3 {
 		mugshot = PlantMan
 	msgOpen
 	"""
-	Anetta. The Tetra
-	Code is hidden in
-	the operating room
+	Anetta. O TetraCódigo
+	está escondido no pro-
+	grama da sala de cirurgia.
 	"""
 	keyWait
 	clearMsg
 	"""
-	program. I'm heading
-	there now.
+	Estou seguindo para lá
+	agora.
 	"""
 	keyWait
 	clearMsg
 	"""
-	And don't worry.
-	Just do everything
-	I tell you…
+	E não se preocupe.
+	É só fazer tudo o que
+	eu mandar...
 	"""
 	keyWait
 	clearMsg
@@ -39,25 +39,28 @@ script 2 mmbn3 {
 	mugshotShow
 		mugshot = PlantMan
 	msgOpen
-	"You must be MegaMan."
-	keyWait
-	clearMsg
 	"""
-	You have sharp,
-	spotless eyes,pure
-	as budding new
+	Você deve ser
+	MegaMan.EXE.
 	"""
 	keyWait
 	clearMsg
 	"""
-	leaves and bursting
-	with life.
+	O seu olhar é afiado e
+	limpo,
 	"""
 	keyWait
 	clearMsg
 	"""
-	You're as flawless
-	as your reputation.
+	puro como folhas recém-
+	brotadas e cheias de
+	vida.
+	"""
+	keyWait
+	clearMsg
+	"""
+	É tão impecável quanto
+	a sua reputação.
 	"""
 	keyWait
 	clearMsg
@@ -69,9 +72,9 @@ script 3 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	PlantMan! Stop those
-	vines from
-	spreading!
+	PlantMan! Faça as
+	vinhas pararem de se
+	espalhar!
 	"""
 	keyWait
 	clearMsg
@@ -83,16 +86,15 @@ script 4 mmbn3 {
 		mugshot = PlantMan
 	msgOpen
 	"""
-	I'm sorry,but I
-	don't have time for
-	you now. I must
+	Lamento, mas não tenho
+	tempo para você agora.
 	"""
 	keyWait
 	clearMsg
 	"""
-	enter the operating
-	room program and
-	steal the TetraCode.
+	Devo entrar no progra-
+	ma da sala de cirurgia e
+	roubar o TetraCódigo.
 	"""
 	keyWait
 	clearMsg
@@ -104,21 +106,21 @@ script 5 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Enter the operating
-	room program!?
+	Entrar no programa da
+	sala de cirurgia?!
 	"""
 	keyWait
 	clearMsg
 	"""
-	If you do that,
-	Mamoru will…
+	Se você fizer isso,
+	o Mamoru vai...
 	"""
 	keyWait
 	clearMsg
 	"""
-	I won't allow it!
-	I'm going to stop
-	you right now!
+	Eu não vou deixar!
+	Vou te deter aqui e
+	agora!
 	"""
 	keyWait
 	clearMsg
@@ -130,8 +132,7 @@ script 6 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Get him,
-	MegaMan!
+	Pega ele, MegaMan!
 	"""
 	keyWait
 	clearMsg
@@ -143,16 +144,15 @@ script 7 mmbn3 {
 		mugshot = PlantMan
 	msgOpen
 	"""
-	Young and foolish.
-	You will live longer
-	if you learn to be
+	Jovem e tolo.
+	Você viveria mais se
+	aprendesse a relaxar,
 	"""
 	keyWait
 	clearMsg
 	"""
-	more relaxed,like
-	the giant trees of
-	the forest.
+	tal como as grandes
+	folhas da floresta.
 	"""
 	keyWait
 	clearMsg
@@ -164,8 +164,7 @@ script 8 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Here I come,
-	PlantMan!
+	Aqui vou eu, PlantMan!
 	"""
 	keyWait
 	clearMsg
@@ -176,13 +175,13 @@ script 9 mmbn3 {
 	mugshotShow
 		mugshot = PlantMan
 	msgOpen
-	"Very well…"
+	"Pois bem, então..."
 	keyWait
 	clearMsg
 	"""
-	Come,my servants!
-	Bring me
-	MegaMan's head!
+	Venham, meus queridos
+	servos! Tragam-me a
+	cabeça de MegaMan.EXE!
 	"""
 	keyWait
 	end

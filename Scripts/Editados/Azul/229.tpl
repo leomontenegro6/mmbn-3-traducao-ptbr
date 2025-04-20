@@ -5,43 +5,42 @@ script 0 mmbn3 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	Annnd,CUT!
-	Great shot!
-	Just beautiful!
+	Eeeeee corta!
+	Que sequência linda!
+	Maravilhosa! Divina!
 	"""
 	keyWait
 	clearMsg
 	"""
-	We're still rolling,
-	so let's move on to
-	the 2nd mission!
+	Ainda estamos filmando,
+	então, vamos seguir com
+	a segunda missão!
 	"""
 	keyWait
 	clearMsg
 	"""
-	For the 2nd mission,
-	you have to find a
-	Navi we've disguised
+	Para ela, você terá que
+	achar um Navi que
+	maquiamos de bandido
 	"""
 	keyWait
 	clearMsg
 	"""
-	and hidden right
-	here in SciLab
-	area!
+	e escondemos bem aqui,
+	na área do SciLab!
 	"""
 	keyWait
 	clearMsg
 	"""
-	After you beat him,
-	just come on back
-	here to me!
+	Depois que derrotá-lo,
+	é só voltar aqui e falar
+	comigo!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Give me some great
-	shots now,kid! OK?
+	Eu quero ver um show,
+	garoto! Televisão! OK?
 	"""
 	keyWait
 	clearMsg
@@ -52,7 +51,7 @@ script 1 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Let's go,MegaMan!"
+	"Vamos lá, MegaMan!"
 	keyWait
 	clearMsg
 	jump
@@ -62,7 +61,7 @@ script 2 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Roger!"
+	"Positivo e operante!"
 	keyWait
 	end
 }

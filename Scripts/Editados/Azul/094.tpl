@@ -14,45 +14,46 @@ script 190 mmbn3 {
 	mugshotShow
 		mugshot = BlackWoman
 	msgOpen
-	"Oh! You're that kid!"
+	"Ah! Você é aquele\ngaroto!"
 	keyWait
 	clearMsg
 	"""
-	Remember me? I'm
-	Jennifer. I came
-	here for N1.
-	"""
-	keyWait
-	clearMsg
-	"""
-	I learned my lesson
-	at N1. I'm far from
-	being ready yet!
+	Lembra de mim?
+	A Jennifer?
+	Eu competi no N1.
 	"""
 	keyWait
 	clearMsg
 	"""
-	That's the reason
-	for my special
-	training.
+	Eu aprendi minha lição
+	no torneio. Ainda falta
+	muito chão pra mim!
 	"""
 	keyWait
 	clearMsg
 	"""
-	But something seems
-	to be missing…
+	Por isso estou fazendo
+	este treinamento
+	especial.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I think I need a
-	chip that suits me
-	a little better.
+	Mas eu tô com a
+	sensação de que falta
+	alguma coisa...
 	"""
 	keyWait
 	clearMsg
 	"""
-	So,then,my
+	Acho que preciso de um
+	chip que combine mais
+	comigo.
+	"""
+	keyWait
+	clearMsg
+	"""
+	Daí, sugestão: meu
 	"
 	"""
 	printChip
@@ -62,10 +63,10 @@ script 190 mmbn3 {
 	printCode
 		buffer = 0
 		code = Z
-	"\" for"
+	"\" pelo"
 	keyWait
 	clearMsg
-	"your \""
+	"seu \""
 	printChip
 		buffer = 0
 		chip = 136
@@ -75,7 +76,7 @@ script 190 mmbn3 {
 		code = K
 	"""
 	".
-	Wanna trade?
+	Quer trocar?
 	"""
 	keyWait
 	clearMsg
@@ -87,7 +88,7 @@ script 190 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes! "
+	"   Quero! "
 	option
 		left = 0
 		right = 0
@@ -95,7 +96,7 @@ script 190 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No"
+	"          Não"
 	select
 		default = 0
 		BSeparate = false
@@ -125,9 +126,9 @@ script 191 mmbn3 {
 		mugshot = BlackWoman
 	msgOpen
 	"""
-	Yes! I knew I could
-	depend on you to
-	help me out!
+	Isso! Sabia que eu podia
+	contar com você pra me
+	ajudar!
 	"""
 	keyWait
 	clearMsg
@@ -145,7 +146,7 @@ script 192 mmbn3 {
 	playerAnimate
 		animation = 24
 	"""
-	Lan got a chip for
+	Lan adquiriu o chip
 	"
 	"""
 	printChip
@@ -169,9 +170,9 @@ script 193 mmbn3 {
 		mugshot = BlackWoman
 	msgOpen
 	"""
-	Thanks! Now I won't
-	lose in the next
-	N1! On to glory!
+	Valeu! Agora, eu tô
+	pronta pra VENCER o
+	próximo N1! Avante!
 	"""
 	keyWait
 	end
@@ -181,8 +182,8 @@ script 194 mmbn3 {
 		mugshot = BlackWoman
 	msgOpen
 	"""
-	Aah… That's too bad.
-	I'm disappointed.
+	Aah... Que pena.
+	Decepção...
 	"""
 	keyWait
 	end
@@ -192,22 +193,21 @@ script 195 mmbn3 {
 		mugshot = BlackWoman
 	msgOpen
 	"""
-	Hey? Don't you have
-	the chip that you
-	promised me?
+	Ué? Você não tem o
+	chip que me prometeu?
 	"""
 	keyWait
 	clearMsg
 	"""
-	That's not nice!
-	Maybe it's inside
-	your folder?
+	Poxa, que maldade!
+	Será que tá dentro de
+	uma pasta sua?
 	"""
 	keyWait
 	clearMsg
 	"""
-	If it is,you'll have
-	to take it out.
+	Se estiver, você tem
+	que tirá-lo de lá.
 	"""
 	keyWait
 	end
@@ -217,9 +217,9 @@ script 196 mmbn3 {
 		mugshot = BlackWoman
 	msgOpen
 	"""
-	I'm going to polish
-	my NetBattle tactics
-	with this chip!
+	Eu vou aperfeiçoar
+	minhas técnicas de
+	NetLuta com este chip!
 	"""
 	keyWait
 	end
@@ -229,12 +229,12 @@ script 197 mmbn3 {
 		mugshot = BlackWoman
 	msgOpen
 	"""
-	Hey,kid! Wanna trade
-	with me after all?
+	Oi, garoto! Mudou de ideia
+	e quer trocar comigo?
 	"""
 	keyWait
 	clearMsg
-	"My \""
+	"O meu \""
 	printChip
 		buffer = 0
 		chip = 208
@@ -243,8 +243,8 @@ script 197 mmbn3 {
 		buffer = 0
 		code = Z
 	"""
-	" for
-	your "
+	" pelo
+	seu "
 	"""
 	printChip
 		buffer = 0
@@ -255,7 +255,7 @@ script 197 mmbn3 {
 		code = K
 	"""
 	".
-	It's a deal,right?
+	"Vamo fechá"?
 	"""
 	keyWait
 	clearMsg
@@ -267,7 +267,7 @@ script 197 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Right! "
+	"   Vamo! "
 	option
 		left = 0
 		right = 0
@@ -275,7 +275,7 @@ script 197 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Wrong!"
+	"          Vamo não!"
 	select
 		default = 0
 		BSeparate = false
@@ -289,18 +289,19 @@ script 197 mmbn3 {
 }
 script 220 mmbn3 {
 	msgOpen
-	"Ouch!"
+	"Ai!"
 	keyWait
 	clearMsg
 	"""
-	The computer has
-	gotten really hot!
+	O computador ficou super
+	quente, de repente!
 	"""
 	keyWait
 	clearMsg
 	"""
-	You'll need courage
-	to jack into this…
+	Você vai precisar de
+	muita coragem pra se
+	conectar nele...
 	"""
 	keyWait
 	end
@@ -308,15 +309,15 @@ script 220 mmbn3 {
 script 221 mmbn3 {
 	msgOpen
 	"""
-	This NetBattle
-	machine has a
-	thin plastic cover…
+	Essa máquina de
+	NetLutas tem uma fina
+	capa de plástico
 	"""
 	keyWait
 	clearMsg
 	"""
-	to prevent sand from
-	getting into it
+	para impedir areia de
+	entrar nela.
 	"""
 	keyWait
 	end
@@ -324,9 +325,9 @@ script 221 mmbn3 {
 script 222 mmbn3 {
 	msgOpen
 	"""
-	This NetBattle
-	machine is as cold
-	as ice
+	Essa máquina de
+	NetLuta é fria como o
+	gelo.
 	"""
 	keyWait
 	end
@@ -334,15 +335,15 @@ script 222 mmbn3 {
 script 223 mmbn3 {
 	msgOpen
 	"""
-	A caterpillar is
-	crawling across the
-	top of this machine
+	Há uma lagarta
+	caminhando sobre o
+	topo desta máquina.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Looks like it came
-	from those bushes
+	Deve ter vindo daquelas
+	moitas ali.
 	"""
 	keyWait
 	end
@@ -351,8 +352,8 @@ script 224 mmbn3 {
 	mugshotHide
 	msgOpen
 	"""
-	The door is shut
-	tightly
+	A porta está firmemente
+	trancada.
 	"""
 	keyWait
 	end

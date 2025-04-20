@@ -4,7 +4,7 @@ script 0 mmbn3 {
 	mugshotShow
 		mugshot = LordWily
 	msgOpen
-	"It's been a while."
+	"Há quanto tempo."
 	keyWait
 	clearMsg
 	jump
@@ -14,8 +14,8 @@ script 1 mmbn3 {
 	mugshotHide
 	msgOpen
 	"""
-	How dare you contact
-	me directly,human?
+	Como ousa me contatar
+	diretamente, humano?
 	"""
 	keyWait
 	clearMsg
@@ -27,29 +27,28 @@ script 2 mmbn3 {
 		mugshot = LordWily
 	msgOpen
 	"""
-	I see your despise
-	of mankind has not
-	changed. However,do
+	Vejo que seu ódio pela
+	humanidade não mudou.
 	"""
 	keyWait
 	clearMsg
 	"""
-	you remember our
-	little agreement? In
-	exchange for giving
+	Porém, você se lembra
+	do nosso pequeno
+	acordo?
 	"""
 	keyWait
 	clearMsg
 	"""
-	you the power to
-	terrorize humans…
+	Em troca do poder para
+	aterrorizar os humanos,
+	que eu lhe forneci...
 	"""
 	keyWait
 	clearMsg
 	"""
-	you will assist me
-	in accomplishing my
-	goal.
+	você me ajudará a
+	alcançar o meu objetivo.
 	"""
 	keyWait
 	clearMsg
@@ -59,7 +58,7 @@ script 2 mmbn3 {
 script 3 mmbn3 {
 	mugshotHide
 	msgOpen
-	"……"
+	"......"
 	keyWait
 	clearMsg
 	jump
@@ -69,19 +68,19 @@ script 4 mmbn3 {
 	mugshotShow
 		mugshot = LordWily
 	msgOpen
-	"Hee hee hee!"
+	"He he he he!"
 	keyWait
 	clearMsg
 	"""
-	The time has almost
-	arrived to implement
-	Cybergeddon!
+	A hora de implementar o
+	Cybergedom está cada
+	vez mais próxima!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I just thought you
-	should know.
+	Sinto que você devia
+	saber disso.
 	"""
 	keyWait
 	clearMsg
@@ -92,8 +91,8 @@ script 5 mmbn3 {
 	mugshotHide
 	msgOpen
 	"""
-	So you will awaken
-	Alpha…
+	Para, então, despertar
+	Alpha...
 	"""
 	keyWait
 	clearMsg
@@ -105,23 +104,23 @@ script 6 mmbn3 {
 		mugshot = LordWily
 	msgOpen
 	"""
-	Yes,but first I must
-	obtain the final
-	TetraCode.
+	Sim. Mas, primeiro,
+	preciso obter o último
+	TetraCódigo.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I may need to employ
-	your services in the
-	near future.
+	Talvez eu precise
+	contratar seus serviços
+	num futuro próximo.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I will contact you
-	again when the time
-	comes.
+	Irei contatá-lo
+	novamanete quando
+	chegar a hora.
 	"""
 	keyWait
 	clearMsg
@@ -134,12 +133,12 @@ script 7 mmbn3 {
 	soundDisableTextSFX
 	soundPlay
 		track = 284
-	"Voomp!"
+	"Fum!"
 	soundEnableTextSFX
 	" "
 	soundPlay
 		track = 328
-	"Zzhzhhhzhhhh…"
+	"Zzhzhhhzhhhh..."
 	keyWait
 	end
 }
@@ -147,24 +146,26 @@ script 8 mmbn3 {
 	mugshotShow
 		mugshot = LordWily
 	msgOpen
-	"Hee hee hee!"
+	"He he he!"
 	keyWait
 	clearMsg
 	"""
-	Only one more Tetra
-	Code remains,but
-	with him at my side…
+	Só resta mais um
+	TetraCódigo, mas, com
+	ele ao meu lado...
 	"""
 	keyWait
 	clearMsg
 	"""
-	It won't matter
-	anyway! Destruction
-	of the Net society
+	não fará diferença!
 	"""
 	keyWait
 	clearMsg
-	"is nearly at hand!"
+	"""
+	A destruição da
+	sociedade da Rede
+	está quase entre nós!
+	"""
 	keyWait
 	flagClear
 		flag = 2095
@@ -178,7 +179,7 @@ script 9 mmbn3 {
 	mugshotShow
 		mugshot = LordWily
 	msgOpen
-	"Muwahahahahahaha!"
+	"Uahahahahahaha!"
 	keyWait
 	end
 }

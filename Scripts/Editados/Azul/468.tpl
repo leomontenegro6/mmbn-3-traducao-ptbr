@@ -82,8 +82,7 @@ script 5 mmbn3 {
 		code = I
 		amount = 1
 	"""
-	MegaMan got a chip
-	for
+	MegaMan adquiriu o chip
 	"
 	"""
 	printChip
@@ -102,7 +101,7 @@ script 6 mmbn3 {
 	playerAnimate
 		animation = 24
 	"""
-	MegaMan got:
+	MegaMan adquiriu:
 	"
 	"""
 	printBuffer
@@ -359,8 +358,8 @@ script 45 mmbn3 {
 		code = W
 		amount = 1
 	"""
-	MegaMan got a
-	chip for
+	MegaMan recebeu o
+	chip
 	"
 	"""
 	printChip
@@ -735,8 +734,8 @@ script 108 mmbn3 {
 		code = F
 		amount = 1
 	"""
-	MegaMan got a
-	chip for
+	MegaMan recebeu o
+	chip
 	"
 	"""
 	printChip

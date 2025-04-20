@@ -7,16 +7,16 @@ script 0 mmbn3 {
 	flagSet
 		flag = 1308
 	"""
-	Huh? What is this
-	guy?! He just
-	changed shape!
+	Agh! Esse cara é surreal!
+	E, agora, deu de mudar
+	de forma!
 	"""
 	keyWait
 	clearMsg
 	"""
-	He looks even
-	stronger! We don't
-	stand a chance!
+	Ele parece que ficou
+	ainda mais forte! Não
+	temos a menor chance!
 	"""
 	keyWait
 	end
@@ -28,8 +28,9 @@ script 1 mmbn3 {
 	flagSet
 		flag = 1310
 	"""
-	Oh no! We're dead
-	data!
+	Essa não!
+	A gente tá praticamente
+	deletado, já!
 	"""
 	keyWait
 	clearMsg
@@ -41,8 +42,8 @@ script 2 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Alright,hand over
-	the "
+	Tá bom, entreguem já
+	a "
 	"""
 	printItem
 		buffer = 0
@@ -58,9 +59,9 @@ script 3 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	We're not handing
-	anthing over! C'mon
-	guys! Let's run!
+	A gente não vai entregar
+	é nada! Bora lá, cambada!
+	Cooooorreee!
 	"""
 	keyWait
 	clearMsg
@@ -73,7 +74,10 @@ script 4 mmbn3 {
 	msgOpen
 	flagClear
 		flag = 1308
-	"Run? Run where?"
+	"""
+	Correr?
+	Correr pra onde?
+	"""
 	keyWait
 	clearMsg
 	jump
@@ -86,8 +90,7 @@ script 5 mmbn3 {
 	flagSet
 		flag = 1309
 	"""
-	How about to
-	SciLab 1?
+	Que tal SciLab 1?
 	"""
 	keyWait
 	clearMsg
@@ -101,9 +104,9 @@ script 6 mmbn3 {
 	flagClear
 		flag = 1310
 	"""
-	Sounds spiffy!
-	Allrighty then!
-	Let's go!
+	Perfeito, curti!
+	Decidido, então!
+	Bora!
 	"""
 	keyWait
 	end
@@ -112,12 +115,12 @@ script 7 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Hey! Wait!"
+	"Ei! Espera aí!"
 	keyWait
 	clearMsg
 	"""
-	Let's go after them,
-	Lan! To SciLab 1!
+	Vamos atrás deles, Lan!
+	Para a área SciLab 1!
 	"""
 	keyWait
 	end

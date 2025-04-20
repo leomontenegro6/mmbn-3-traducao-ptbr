@@ -2,46 +2,52 @@
 
 script 220 mmbn3 {
 	msgOpen
-	"A copy machine"
+	"Uma copiadora."
 	keyWait
 	end
 }
 script 221 mmbn3 {
 	msgOpen
-	"A cardboard box"
+	"""
+	Uma caixa de
+	papelão.
+	"""
 	keyWait
 	end
 }
 script 222 mmbn3 {
 	msgOpen
-	"A network hub"
+	"Um hub de Internet."
 	keyWait
 	end
 }
 script 223 mmbn3 {
 	msgOpen
 	"""
-	Lots of things in a
-	big jumble
+	Várias coisas numa
+	pilha bagunçada.
 	"""
 	keyWait
 	end
 }
 script 224 mmbn3 {
 	msgOpen
-	"A desktop computer"
+	"""
+	Um gabinete
+	de computador.
+	"""
 	keyWait
 	end
 }
 script 225 mmbn3 {
 	msgOpen
-	"A laptop computer"
+	"Um laptop."
 	keyWait
 	end
 }
 script 226 mmbn3 {
 	msgOpen
-	"A chair"
+	"Uma cadeira."
 	keyWait
 	end
 }

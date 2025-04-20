@@ -5,8 +5,8 @@ script 0 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Is this…
-	The real world?
+	A gente tá...
+	no mundo real?
 	"""
 	keyWait
 	clearMsg
@@ -18,16 +18,16 @@ script 1 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	No,Lan,this is just
-	an image file. It
-	looks pretty old.
+	Não, Lan, é um arquivo
+	de imagem. E parece ser
+	bem antigo.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I've never seen this
-	place before,but it
-	seems familiar…
+	Eu nunca vi este lugar
+	antes, mas, ainda assim,
+	ele... parece familiar...
 	"""
 	keyWait
 	clearMsg
@@ -38,13 +38,13 @@ script 2 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Familiar…?"
+	"Familiar...?"
 	keyWait
 	clearMsg
 	"""
-	…Now that you
-	mention it,I think
-	I've seen it,too…
+	... Agora que você falou,
+	eu também sinto que já
+	vi ele antes...
 	"""
 	keyWait
 	clearMsg
@@ -56,9 +56,8 @@ script 3 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's try to figure
-	out where this place
-	could be!
+	Vamos tentar descobrir
+	que lugar é este!
 	"""
 	keyWait
 	end
@@ -69,7 +68,7 @@ script 4 mmbn3 {
 	msgOpen
 	"""
 	MegaMan!
-	Hang on!
+	Espera aí!
 	"""
 	keyWait
 	end
@@ -79,8 +78,8 @@ script 5 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan,did you
-	find something?
+	E aí, MegaMan, achou
+	alguma coisa?
 	"""
 	keyWait
 	clearMsg
@@ -91,13 +90,13 @@ script 6 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Lan,look…"
+	"Lan, olha..."
 	keyWait
 	clearMsg
 	"""
-	This lab coat is
-	just like the one
-	that dad wears…
+	Esse jaleco de
+	laboratório é igual ao
+	que o papai usa...
 	"""
 	keyWait
 	end
@@ -107,9 +106,9 @@ script 7 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Hey,you're right!
-	Does that mean that
-	this is…
+	Ah, verdade!
+	Quer dizer então que
+	a gente tá no...
 	"""
 	keyWait
 	clearMsg
@@ -122,9 +121,9 @@ script 8 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	But I don't remember
-	a room like this
-	being there…
+	Mas eu não lembro de
+	ter uma sala destas
+	lá...
 	"""
 	keyWait
 	clearMsg
@@ -136,16 +135,16 @@ script 9 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	This must be SciLab
-	some time in the
-	past…
+	Deve ser o SciLab de
+	algum tempo no
+	passado...
 	"""
 	keyWait
 	clearMsg
 	"""
-	But who would create
-	a room like this
-	inside of Alpha?
+	Mas quem criaria uma
+	área destas dentro do
+	Alpha?
 	"""
 	keyWait
 	clearMsg
@@ -156,8 +155,9 @@ script 10 mmbn3 {
 	mugshotHide
 	msgOpen
 	"""
-	It was meant to keep
-	Alpha imprisoned.
+	Seu propósito era
+	manter o Alpha
+	aprisionado.
 	"""
 	keyWait
 	end
@@ -166,7 +166,7 @@ script 11 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Who's there!?"
+	"Quem tá aí?!"
 	keyWait
 	clearMsg
 	jump
@@ -176,14 +176,14 @@ script 12 mmbn3 {
 	mugshotHide
 	msgOpen
 	"""
-	No need to worry,
-	I won't harm you.
+	Não se preocupe,
+	eu não machucá-los.
 	"""
 	keyWait
 	clearMsg
 	"""
-	So you're the ones
-	who deleted Alpha?
+	Então, foram vocês
+	quem deletaram o Alpha?
 	"""
 	keyWait
 	end
@@ -193,15 +193,14 @@ script 13 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Gr…
-	Gramps…!!
+	Vo...
+	Vovô...!!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I've only seen
-	pictures of him,but
-	I know it's him!
+	Eu só vi ele em fotos,
+	mas sei que é ele!
 	"""
 	keyWait
 	clearMsg
@@ -214,19 +213,19 @@ script 14 mmbn3 {
 	mugshotShow
 		mugshot = TadashiHikari
 	msgOpen
-	"Gramps?"
+	"\"Vovô\"?"
 	keyWait
 	clearMsg
 	"""
-	So you must be…
-	Lan…And that Navi…
-	You would be Hub?
+	Então, você deve ser...
+	o Lan... E esse Navi...
+	Você é o Hub?
 	"""
 	keyWait
 	clearMsg
 	"""
-	You're the ones
-	who defeated Alpha?
+	Foram vocês quem
+	derrotaram o Alpha?
 	"""
 	keyWait
 	clearMsg
@@ -238,12 +237,13 @@ script 15 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Yeah,Gramps!
-	We got him!
+	Fomos sim, vovô!
+	A gente deu uma lição
+	nele!
 	"""
 	keyWait
 	clearMsg
-	"Didn't we,Hub!"
+	"Não foi, Hub?!"
 	keyWait
 	clearMsg
 	jump
@@ -254,9 +254,9 @@ script 16 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Wily was trying to
-	revive Alpha,and
-	release him.
+	O Wily tava tentando
+	reviver o Alpha e
+	soltá-lo na Rede.
 	"""
 	keyWait
 	clearMsg
@@ -267,26 +267,26 @@ script 17 mmbn3 {
 	mugshotShow
 		mugshot = TadashiHikari
 	msgOpen
-	"…Wily?"
+	"... Wily?"
 	keyWait
 	clearMsg
 	"""
-	I see. So you used
-	the Pulse
-	Transmission System…
-	"""
-	keyWait
-	clearMsg
-	"""
-	Wily was once a
-	brilliant and
-	ambitious scientist…
+	Entendo. Então, você
+	usou o Sistema de
+	Transmissão de Pulso...
 	"""
 	keyWait
 	clearMsg
 	"""
-	So what happened
-	to him?
+	Wily costumava ser
+	um cientista brilhante
+	e ambicioso...
+	"""
+	keyWait
+	clearMsg
+	"""
+	E então, o que
+	aconteceu com ele?
 	"""
 	keyWait
 	clearMsg
@@ -298,8 +298,8 @@ script 18 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	He was swallowed up…
-	By Alpha…
+	Ele foi engolido...
+	pelo Alpha...
 	"""
 	keyWait
 	clearMsg
@@ -310,13 +310,13 @@ script 19 mmbn3 {
 	mugshotShow
 		mugshot = TadashiHikari
 	msgOpen
-	"I see…"
+	"Entendo..."
 	keyWait
 	clearMsg
 	"""
-	This never would
-	have happened if he
-	hadn't gone astray…
+	Isso nunca teria aconte-
+	cido se ele não tivesse
+	perdido o caminho...
 	"""
 	keyWait
 	clearMsg
@@ -328,8 +328,9 @@ script 20 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	But,Gramps,why
-	are you here?
+	Mas, vovô, o que o
+	senhor tá fazendo
+	aqui?
 	"""
 	keyWait
 	clearMsg
@@ -341,50 +342,49 @@ script 21 mmbn3 {
 		mugshot = TadashiHikari
 	msgOpen
 	"""
-	I've been monitoring
-	Guardian,to stop
-	Alpha's reawakening.
+	Eu venho monitorado o
+	Guardião, para impedir a
+	ressurreição de Alpha.
 	"""
 	keyWait
 	clearMsg
 	"""
-	It's my duty,as
-	the creator of
-	Alpha.
+	É meu dever como
+	criador do Alpha.
 	"""
 	keyWait
 	clearMsg
 	"""
-	When Guardian was
-	destroyed,I thought
-	that all was lost.
+	Quando o Guardião foi
+	destruído, eu pensei que
+	tudo estivesse perdido.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Thanks to you two,
-	the world is safe.
+	Mas, graças a vocês
+	dois, o mundo está a
+	salvo.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Now the core is gone
-	and the other parts
-	of Alpha will fade.
+	Agora, o núcleo se foi,
+	e as outras partes do
+	Alpha irão desaparecer.
 	"""
 	keyWait
 	clearMsg
 	"""
-	So how are things in
-	Net society these
-	days,Lan and Hub?
+	Então, como andam as
+	coisas na sociedade da
+	Rede, Lan e Hub?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Are the Navis and
-	humans getting
-	along well?
+	Navis e humanos estão
+	se dando bem?
 	"""
 	keyWait
 	clearMsg
@@ -395,17 +395,17 @@ script 22 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Of course!!"
+	"Claro!!"
 	keyWait
 	clearMsg
 	"""
-	Some still use Navis
-	for bad things,but
-	we'll stop them!
+	Alguns ainda usam Navis
+	pra maldades, mas a
+	gente cuida deles!
 	"""
 	keyWait
 	clearMsg
-	"Right,MegaMan!?"
+	"Né, MegaMan?1"
 	keyWait
 	clearMsg
 	jump
@@ -415,13 +415,13 @@ script 23 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Yeah!!"
+	"É!!"
 	keyWait
 	clearMsg
 	"""
-	Gramps,the Network
-	society we live in
-	is a great place!
+	Vovô, a sociedade da
+	Rede em que vivemos
+	é um lugar incrível!
 	"""
 	keyWait
 	clearMsg
@@ -433,15 +433,15 @@ script 24 mmbn3 {
 		mugshot = TadashiHikari
 	msgOpen
 	"""
-	I see.
-	That's wonderful.
+	Entendo.
+	Que maravilha.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Lan,Hub. When you
-	get back,give this
-	to your father.
+	Lan, Hub. Quando
+	voltarem, por favor,
+	deem isto ao seu pai.
 	"""
 	keyWait
 	clearMsg
@@ -456,7 +456,7 @@ script 25 mmbn3 {
 	soundPlay
 		track = 133
 	"""
-	Lan got:
+	Lan adquiriu:
 	"
 	"""
 	printItem
@@ -474,9 +474,9 @@ script 26 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Give it to him? You
-	mean you won't be
-	going back with us!?
+	Dar para ele? Então...
+	o senhor não vai voltar
+	com a gente?!
 	"""
 	keyWait
 	clearMsg
@@ -488,16 +488,16 @@ script 27 mmbn3 {
 		mugshot = TadashiHikari
 	msgOpen
 	"""
-	I'm already a thing
-	of the past. Now
-	that Alpha is gone…
+	Eu já sou coisa do
+	passado. Agora que o
+	Alpha se foi...
 	"""
 	keyWait
 	clearMsg
 	"""
-	My job is finished.
-	This is your era,
-	lads!
+	meu trabalho terminou.
+	Esta era pertence a
+	vocês, rapazes!
 	"""
 	keyWait
 	end
@@ -507,30 +507,30 @@ script 28 mmbn3 {
 		mugshot = TadashiHikari
 	msgOpen
 	"""
-	Oops! Alpha is
-	starting to fall
-	apart!
+	Opa! O Alpha está
+	começando a se
+	desfazer.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Go! Quickly!
-	Before you are
-	swallowed up!!
+	Vão! Rápido!
+	Antes que acabem
+	sendo engolidos!!
 	"""
 	keyWait
 	clearMsg
 	"""
-	You can't jack out
-	of the Pulse
-	Transmission System.
+	Não se pode desconectar
+	livremente do Sistema de
+	Transmissão de Pulso.
 	"""
 	keyWait
 	clearMsg
 	"""
-	You'll have to go
-	back to where you
-	first pulsed in.
+	Vocês terão que voltar
+	ao lugar onde se
+	conectaram de início.
 	"""
 	keyWait
 	clearMsg
@@ -541,7 +541,7 @@ script 29 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"But,Gramps!!"
+	"Mas... vovô!!"
 	keyWait
 	clearMsg
 	jump
@@ -552,15 +552,13 @@ script 30 mmbn3 {
 		mugshot = TadashiHikari
 	msgOpen
 	"""
-	Don't worry,Lan.
-	Go on,my grand-
-	children!
+	Não se preocupe, Lan.
+	Agora, vão, meus netos!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Hub,take care
-	of Lan.
+	Hub, cuide bem do Lan.
 	"""
 	keyWait
 	clearMsg
@@ -571,12 +569,12 @@ script 31 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"…OK."
+	"... Claro."
 	keyWait
 	clearMsg
 	flagSet
 		flag = 2625
-	"C'mon,Lan! Let's go!"
+	"Vamos, Lan! Vamos indo!"
 	keyWait
 	clearMsg
 	jump
@@ -586,20 +584,20 @@ script 32 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Gramps…"
+	"Vovô..."
 	keyWait
 	clearMsg
 	"""
-	We'll be sure to
-	create a wonderful
-	Net society for you!
+	Prometo que vamos criar
+	uma sociedade da Rede
+	maravilhosa pro senhor!
 	"""
 	keyWait
 	clearMsg
 	"""
-	One where humans and
-	Navis help each
-	other!!
+	Uma sociedade em que
+	humanos e Navis ajudam
+	uns aos outros!!
 	"""
 	keyWait
 	clearMsg
@@ -610,13 +608,13 @@ script 33 mmbn3 {
 	mugshotShow
 		mugshot = TadashiHikari
 	msgOpen
-	"You do that!"
+	"Sei que irão!"
 	keyWait
 	clearMsg
 	"""
-	Now,go on!
-	You don't have
-	much time!
+	Agora, vão indo!
+	Vocês não têm muito
+	tempo!
 	"""
 	keyWait
 	clearMsg
@@ -630,15 +628,15 @@ script 34 mmbn3 {
 	flagClear
 		flag = 2625
 	"""
-	Gramps,I'm glad I
-	was able to meet
-	you!
+	Vovô, fiquei feliz de
+	poder conhecer o
+	senhor.
 	"""
 	keyWait
 	clearMsg
 	"""
-	We'll make your
-	dream a reality!
+	A gente VAI realizar o
+	seu sonho!
 	"""
 	keyWait
 	end
@@ -647,7 +645,7 @@ script 35 mmbn3 {
 	mugshotShow
 		mugshot = TadashiHikari
 	msgOpen
-	"Good bye!"
+	"Tchau!"
 	keyWait
 	end
 }

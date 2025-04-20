@@ -3,8 +3,8 @@
 script 220 mmbn3 {
 	msgOpen
 	"""
-	There's an elevator
-	button. Push it?
+	Um botão de elevador.
+	Apertar?
 	
 	"""
 	option
@@ -14,7 +14,7 @@ script 220 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"   Sim "
 	option
 		left = 0
 		right = 0
@@ -22,7 +22,7 @@ script 220 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No"
+	"          Não"
 	select
 		default = 0
 		BSeparate = false
@@ -38,8 +38,8 @@ script 220 mmbn3 {
 script 221 mmbn3 {
 	msgOpen
 	"""
-	The elevator opens!
-	Go up?
+	O elevador se abriu!
+	Subir?
 	
 	"""
 	option
@@ -49,7 +49,7 @@ script 221 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"   Sim "
 	option
 		left = 0
 		right = 0
@@ -57,7 +57,7 @@ script 221 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No"
+	"          Não"
 	select
 		default = 0
 		BSeparate = false
@@ -74,16 +74,16 @@ script 221 mmbn3 {
 script 222 mmbn3 {
 	msgOpen
 	"""
-	A giant server built
-	with the latest
-	technologies
+	Um servidor gigante,
+	construído com
+	tecnologia de ponta.
 	"""
 	keyWait
 	clearMsg
 	"""
-	You can jack in to
-	the heart of the
-	Undernet here!
+	Você pode se conectar
+	ao coração da Undernet
+	daqui!
 	"""
 	keyWait
 	end
@@ -91,16 +91,15 @@ script 222 mmbn3 {
 script 223 mmbn3 {
 	msgOpen
 	"""
-	This monster-class
-	generator powers
-	the server
+	Este gerador
+	classe-monstro
+	energiza o servidor.
 	"""
 	keyWait
 	clearMsg
 	"""
-	It produces a
-	constant,low-pitched
-	hum
+	Ele produz um zumbido
+	grave e constante.
 	"""
 	keyWait
 	end
@@ -108,16 +107,16 @@ script 223 mmbn3 {
 script 224 mmbn3 {
 	msgOpen
 	"""
-	Support machines for
-	the Undernet's
-	server
+	Máquinas de apoio
+	para o servidor da
+	Undernet.
 	"""
 	keyWait
 	clearMsg
 	"""
-	These machines and
-	the server are what
-	powers the Undernet
+	Estas máquinas e o
+	servidor são o que
+	alimenta a Undernet.
 	"""
 	keyWait
 	end

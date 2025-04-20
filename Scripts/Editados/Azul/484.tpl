@@ -44,13 +44,13 @@ script 1 mmbn3 {
 		top = 100
 	msgOpenInvisible
 		unused = 12
-	"Hi! Miki here!"
+	"Oi! Miki na área!"
 	keyWait
 	clearMsg
 	"""
-	The N1 Grand Prix
-	has begun! Good luck
-	to all contestants!
+	O Grande Prêmio N1 já
+	começou! Boa sorte pra
+	vocês, participantes!
 	"""
 	keyWait
 	waitHold
@@ -68,13 +68,13 @@ script 2 mmbn3 {
 		top = 100
 	msgOpenInvisible
 		unused = 12
-	"Hey Miki!"
+	"Fala, Miki!"
 	keyWait
 	clearMsg
 	"""
-	I'm entering N1! I'm
-	not that good,but
-	I'll give it my all!
+	Eu vou entrar no N1!
+	Não sou lá grandes,
+	coisas, mas vou na fé!
 	"""
 	keyWait
 	waitHold
@@ -93,72 +93,71 @@ script 3 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	Does everyone know
-	about the Regular
-	Chip System?
+	Vocês sabem sobre
+	o Sistema de Chip
+	Padrão?
 	"""
 	keyWait
 	clearMsg
 	"""
-	It's a system where
-	BattleChips set as
-	RegularChips
+	É um sistema em que
+	BattleChips marcados
+	como Chips Padrão
 	"""
 	keyWait
 	clearMsg
 	"""
-	become available on
-	the Custom Screen
-	during battle.
+	ficam disponíveis na
+	Tela de Customização
+	durante as lutas.
 	"""
 	keyWait
 	clearMsg
 	"""
-	To set a chip,move
-	the cursor to the
-	chip you want to
+	Para marcar um chip,
+	é só deixar selecionado
+	o chip que você quer
 	"""
 	keyWait
 	clearMsg
 	"""
-	make Regular on the
-	Folder Edit Screen,
-	then press Select!
+	como seu Chip Padrão na
+	Tela de Edição de Pasta
+	e apertar "Select"!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Be aware,however,
-	that you only have
-	a limited amount of
+	Mas atenção: temos
+	uma quantidade limitada
+	de Memória Padrão.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Regular Memory. You
-	can't set chips
-	larger than your
+	Os Chips Padrão não
+	podem passar desse
+	tanto de memória,
 	"""
 	keyWait
 	clearMsg
 	"""
-	Memory,but if you
-	get a "Regular Up"
-	item,you can
+	mas, se acharem um
+	item "Memória Padrão +"
+	por aí,
 	"""
 	keyWait
 	clearMsg
 	"""
-	increase your
-	Regular Memory.
-	Having just one
+	poderão aumentar sua
+	Memória Padrão.
 	"""
 	keyWait
 	clearMsg
 	"""
-	RegularChip can
-	make a world of
-	difference!
+	Um único Chip Padrão
+	pode mudar tudo numa
+	luta!
 	"""
 	keyWait
 	waitHold
@@ -177,29 +176,29 @@ script 4 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	Howdy folks!
-	My name's Pon!
-	You all know about
+	E aê, cambada? Eu sou
+	o Pon! Vocês conhecem
+	os SubChips, né?
 	"""
 	keyWait
 	clearMsg
 	"""
-	SubChips,right?
-	Normally you can
-	only carry 4 of each
+	Normalmente, só dá
+	para carregar quatro
+	de cada tipo,
 	"""
 	keyWait
 	clearMsg
 	"""
-	type,but
+	mas tem esses itens,
 	"
 	"""
 	printItem
 		buffer = 0
 		item = 101
 	"""
-	" items
-	let you carry more!
+	", que nos
+	permitem carregar mais!
 	"""
 	keyWait
 	waitHold
@@ -218,28 +217,28 @@ script 5 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	I swear I'm not
-	making this up!
-	Yesterday,when I was
+	Eu juro que não tô
+	inventando! Ontem,
+	enquanto eu
 	"""
 	keyWait
 	clearMsg
 	"""
-	exploring ACDC,I saw
-	a ghost Navi!
+	explorava ACDC, eu vi
+	um Navi fantasma!
 	"""
 	keyWait
 	clearMsg
 	"""
-	It stood fixed in
-	place,like some
-	kind of apparition!
+	Ele só ficou parado lá,
+	como uma aparição,
+	sei lá!
 	"""
 	keyWait
 	clearMsg
 	"""
-	You've gotta believe
-	me!
+	Sério, eu JURO que não
+	tô mentindo!
 	"""
 	keyWait
 	waitHold
@@ -258,23 +257,23 @@ script 6 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	I believe it.
-	Mole's not lying. I
-	heard the same
+	Eu acredito. O Toupeira
+	não tá mentindo.
+	Eu vi a mesma coisa.
 	"""
 	keyWait
 	clearMsg
 	"""
-	thing. Very powerful
-	Navis don't simply
-	get deleted. They
+	Navis fortes demais
+	não são simplesmente
+	deletados, eles deixam
 	"""
 	keyWait
 	clearMsg
 	"""
-	leave behind junk
-	data that look
-	like ghost Navis.
+	pra trás restos de
+	dados que parecem
+	Navis fantasmas.
 	"""
 	keyWait
 	waitHold
@@ -292,19 +291,19 @@ script 7 mmbn3 {
 		top = 100
 	msgOpenInvisible
 		unused = 12
-	"Hi! Mayumi here."
+	"Oi! Mayumi falando."
 	keyWait
 	clearMsg
 	"""
-	You know how there
-	are Busting Levels?
+	Vocês sabem os
+	Níveis de Luta?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Well,can anyone tell
-	me how to raise your
-	level?
+	Então... alguém pode me
+	dizer como faz pra
+	aumentar esse nível?
 	"""
 	keyWait
 	waitHold
@@ -323,23 +322,23 @@ script 8 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	Heya,Nukky here! I'm
-	really serious about
-	NetBattling.
+	Opa, Nukin na área! Eu
+	levo NetLutas super a
+	sério.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Your Busting Level
-	is all about
-	multiple deletions.
+	O seu Nível de Luta
+	está relacionado a
+	deleções múltiplas.
 	"""
 	keyWait
 	clearMsg
 	"""
-	If you can delete
-	multiple Navis with
-	1 attack,it goes up!
+	Se você deletar vários
+	inimigos com um só
+	ataque, ele sobe!
 	"""
 	keyWait
 	waitHold
@@ -358,58 +357,57 @@ script 9 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	Yo! Koetsu here the
-	guy who knows what's
-	what!
+	Oie! Koetsu aqui, o cara
+	que manja dos paranauê!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Do ya know about
-	countering? It's a
-	technique where you
+	Vcs sabem dos
+	contra-ataques, né?
+	É uma técnica em que
 	"""
 	keyWait
 	clearMsg
 	"""
-	delete your enemy by
-	getting hit by 'em!
-	If you do it right,
+	você deleta o inimigo
+	instantes antes dele
+	te atacar!
 	"""
 	keyWait
 	clearMsg
 	"""
-	your enemy'll be
-	blown to the back of
-	the field.
+	Se acertar o tempo
+	direitinho, só coisas
+	boas vêm pra você!
 	"""
 	keyWait
 	clearMsg
 	"""
-	When you defeat an
-	enemy by Countering,
-	you get a BugFrag.
+	Derrotando um inimigo
+	contra-atacando,
+	você ganha um FragBug.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Word on the street
-	is,you can trade
-	BugFrags for
+	Dizem por aí que existe
+	um lugar em que dá pra
+	trocar FragBugs por
 	"""
 	keyWait
 	clearMsg
 	"""
-	BattleChips
-	somewhere. It's
-	worth checking out!
+	chips.
+	Vale a pena dar uma
+	estudada!
 	"""
 	keyWait
 	clearMsg
 	"""
-	BTW,I'm entering the
-	N1 Grand Prix too,so
-	watch out!
+	Por sinal, eu vou entrar
+	no Grande Prêmio N1 tb,
+	então, fiquem espertos!
 	"""
 	keyWait
 	waitHold
@@ -428,43 +426,40 @@ script 10 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	Hello there!
-	The name's Turner!
-	I was wondering,
+	Oi, gente!
+	Eu sou o Turner!
+	Só por curiosidade,
 	"""
 	keyWait
 	clearMsg
 	"""
-	what is everyone
-	using for their
-	RegularChip?
+	quais chips vocês usam
+	como Chip Padrão?
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'm using an
+	Eu tô usando um
 	"
 	"""
 	printChip
 		buffer = 0
 		chip = 195
 	"""
-	",but
-	my Regular Memory's
+	", mas minha Me-
+	mória Padrão aumentou,
 	"""
 	keyWait
 	clearMsg
 	"""
-	gone up so I'm
-	thinking of changing
-	to something else.
+	então, estou pensando
+	em trocar.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'm looking forward
-	to hearing what you
-	all have to say!
+	Tô ansioso pra ouvir
+	as respostas de vocês!
 	"""
 	keyWait
 	waitHold
@@ -483,8 +478,8 @@ script 11 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	Heh,heh. My Regular
-	Chip's a
+	He he. O meu Chip
+	Padrão é um
 	"
 	"""
 	printChip
@@ -494,9 +489,9 @@ script 11 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	'cause if ya get
-	deleted,what good
-	are the other chips?
+	porque de que adianta
+	outros chips se você
+	for deletado?
 	"""
 	keyWait
 	waitHold
@@ -515,40 +510,41 @@ script 12 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	Yo. I'm KingKoma.
-	Unlike Amayan,I'm
+	Fala. Sou o ReiArto.
+	Bom, diferente do
+	Amayan,
 	"""
 	keyWait
 	clearMsg
-	"packing a \""
+	"eu uso um \""
 	printChip
 		buffer = 0
 		chip = 1
 	"""
 	"
-	as my RegularChip.
-	It takes more than
+	como Chip Padrão.
+	É preciso mais que
 	"""
 	keyWait
 	clearMsg
 	"""
-	recoveries and
-	boosters to win!
-	It's all about
+	cura e impulsionadores
+	pra vencer! A chave é
+	poder de fogo!
 	"""
 	keyWait
 	clearMsg
 	"""
-	firepower!! Recovery
-	chips are for wimps!
-	BRING IT ON!!!
+	Chips de cura são
+	pros fracos!
+	CAI DENTRO!!!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Whoops! Got kind of
-	carried away there.
-	Sorry!
+	Opa! Acabei me
+	empolgando um pouco.
+	Ha ha! Desculpa!
 	"""
 	keyWait
 	waitHold
@@ -567,43 +563,42 @@ script 13 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	N1 is finally
-	starting today!
+	O N1 finalmente vai
+	começar! Hoje!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I couldn't wait,so I
-	went to Beach St.
-	yesterday to check
+	Eu não aguentei espe-
+	rar, então, fui pra Rua
+	Angra ontem, conferir
 	"""
 	keyWait
 	clearMsg
 	"""
-	out where it's being
-	held. It looked
-	beautiful!
+	onde o torneio vai ser
+	sediado. E o lugar é
+	liiiindooo!
 	"""
 	keyWait
 	clearMsg
 	"""
-	The coffee at that
-	cafe that overlooks
-	the sea was great!
+	E o café que vendem na
+	cafeteria com vista pro
+	mar tava uma delícia!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Everyone's going to
-	go watch the N1
-	today,right?
+	Todo mundo vai assistir
+	ao N1 hoje, né?
 	"""
 	keyWait
 	clearMsg
 	"""
-	There was a fancy
-	boutique as well,for
-	those interested.
+	Também tem uma butique
+	chique por lá, pra quem
+	se interessar.
 	"""
 	keyWait
 	waitHold
@@ -622,52 +617,54 @@ script 14 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	32 NetBattlers from
-	around the world
-	have arrived for N1.
+	32 NetLutadores de
+	todo o mundo vieram
+	para o N1.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Who's everyone
-	rooting for?
+	Pra quem vocês vão
+	torcer?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Personally,I think
-	Chaud will win,but
-	Tora from Swapopolis
+	Pessoalmente, eu acho
+	que o Chaud vai vencer,
 	"""
 	keyWait
 	clearMsg
 	"""
-	is a contender,too.
-	Word has it he's the
-	#1 NetBattler in the
-	"""
-	keyWait
-	clearMsg
-	"West."
-	keyWait
-	clearMsg
-	"""
-	I'm rooting for
-	Glide,myself. I'm
-	a big fan of Yai.
+	mas o Tora Aragoma,
+	de Akindo, promete,
+	também.
 	"""
 	keyWait
 	clearMsg
 	"""
-	There aren't many
-	female NetBattlers
-	left,so I
+	Parece que ele é o
+	melhor NetLutador da
+	costa oeste de Ni-Hon.
 	"""
 	keyWait
 	clearMsg
 	"""
-	really hope she
-	wins.
+	Pessoalmente, tô
+	torcendo pelo Glide.
+	Sou muito fã da Yai.
+	"""
+	keyWait
+	clearMsg
+	"""
+	Não sobraram muitas
+	NetLutadoras meninas,
+	"""
+	keyWait
+	clearMsg
+	"""
+	então, espero muito
+	que ela vença.
 	"""
 	keyWait
 	waitHold
@@ -686,9 +683,9 @@ script 15 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	It's MegaMan all the
-	way! Why can't
-	everyone see that?!
+	MegaMan.EXE, sem
+	discussão! Sério que tem
+	gente que não vê isso?!
 	"""
 	keyWait
 	waitHold
@@ -707,19 +704,19 @@ script 16 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	I'm not cheering for
-	him,but that Q guy
-	seems intriguing.
+	Eu não vou TORCER
+	por ele, mas aquele tal
+	de Q é bem intrigante.
 	"""
 	keyWait
 	clearMsg
 	"""
-	What country is that
-	NetBattler from?
+	De que país será que
+	aquele NetLutador vem?
 	"""
 	keyWait
 	clearMsg
-	"He sure is freaky."
+	"Ele dá um medo."
 	keyWait
 	waitHold
 }
@@ -737,23 +734,22 @@ script 17 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	You may be the only
-	intelligent person
-	here,Maki.
+	Ai, Maki, acho que
+	você é a ÚNICA pessoa
+	com cérebro, aqui.
 	"""
 	keyWait
 	clearMsg
 	"""
-	The N1's going to be
-	a piece of cake!
-	I'm going to win it
+	O N1 vai ser MO-LE-ZA!
+	Eu vou vencer sim, e,
+	depois,
 	"""
 	keyWait
 	clearMsg
 	"""
-	and make you the
-	head of my personal
-	fan club!
+	nomear você líder do
+	meu fã-clube pessoal!
 	"""
 	keyWait
 	waitHold

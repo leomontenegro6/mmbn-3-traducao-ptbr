@@ -4,15 +4,15 @@ script 0 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"'Morning. Mayl!"
+	"Bom dia, Mayl!"
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = Mayl
 	msgOpen
 	"""
-	Hi Lan! Nice to see
-	you!
+	Oi, Lan! Que bom que
+	você veio!
 	"""
 	keyWait
 	clearMsg
@@ -24,8 +24,7 @@ script 1 mmbn3 {
 		mugshot = MsMari
 	msgOpen
 	"""
-	Why,Good morning
-	Lan!
+	Ah, bom dia, Lan!
 	"""
 	keyWait
 	clearMsg
@@ -37,8 +36,8 @@ script 2 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	What's Ms.Mari doing
-	here!?
+	Por que a srta. Mari tá
+	aqui?
 	"""
 	keyWait
 	clearMsg
@@ -50,30 +49,28 @@ script 3 mmbn3 {
 		mugshot = MsMari
 	msgOpen
 	"""
-	I came to see the
-	BubbleWash that
-	Mayl bought.
+	Eu vim ver a Lava-Bolha
+	que a Mayl comprou.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I've been thinking
-	about buying one
-	myself.
+	Estou pensando em
+	comprar uma pra mim,
+	também.
 	"""
 	keyWait
 	clearMsg
 	"""
-	It's a dishwasher,
-	but you can connect
-	it to the Net and
+	É uma lava-louças, mas
+	dá para conectá-la
+	à Rede
 	"""
 	keyWait
 	clearMsg
 	"""
-	operate it while
-	you're away from
-	home!
+	e operá-la enquanto não
+	se está em casa!
 	"""
 	keyWait
 	clearMsg
@@ -85,14 +82,13 @@ script 4 mmbn3 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	The only thing is,it
-	hasn't arrived yet.
+	Só tem um probleminha:
+	ela ainda não chegou.
 	"""
 	keyWait
 	clearMsg
 	"""
-	They seem to be
-	a little late.
+	Eles tão meio atrasados.
 	"""
 	keyWait
 	clearMsg
@@ -103,7 +99,7 @@ script 5 mmbn3 {
 	mugshotShow
 		mugshot = Higsby
 	msgOpen
-	"Good morning,huh!"
+	"Bom dia, é!"
 	keyWait
 	clearMsg
 	jump
@@ -114,9 +110,8 @@ script 6 mmbn3 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	Oh no,Higsby's here
-	already! Please,come
-	in!
+	Puxa, o Sr. Higsby já
+	chegou! Por favor, entre!
 	"""
 	keyWait
 	clearMsg
@@ -127,20 +122,21 @@ script 7 mmbn3 {
 	mugshotShow
 		mugshot = Higsby
 	msgOpen
-	"Thank you,huh!"
+	"Obrigado, é!"
 	keyWait
 	clearMsg
 	flagClear
 		flag = 1310
 	"""
-	Huh! If it isn't
-	Ms.Mari!
+	Ah! Se não é a Srta.
+	Mari, é, é!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Fancy running into
-	you here,huh!
+	Que coincidência
+	esbarrar com você aqui,
+	é!
 	"""
 	keyWait
 	end
@@ -152,9 +148,9 @@ script 8 mmbn3 {
 	flagClear
 		flag = 1307
 	"""
-	Don't tell me you've
-	come to see that
-	bubble-thing too?
+	Pera, você também veio
+	ver o tal não-sei-o-quê
+	das bolhas?
 	"""
 	keyWait
 	clearMsg
@@ -168,8 +164,7 @@ script 9 mmbn3 {
 	flagSet
 		flag = 1310
 	"""
-	Well looky here,
-	it's Lan! Huh!
+	Ah, olha só, é o Lan! É!
 	"""
 	keyWait
 	clearMsg
@@ -181,8 +176,8 @@ script 10 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	What,you just
-	noticed me now?!
+	Sério que você só me
+	notou agora?!
 	"""
 	keyWait
 	clearMsg
@@ -195,12 +190,12 @@ script 11 mmbn3 {
 	msgOpen
 	flagClear
 		flag = 1310
-	"Huh! Now then,Mayl.\n"
+	"É! Enfim, Mayl.\n"
 	flagSet
 		flag = 1307
 	"""
-	You do remember our
-	little deal,huh?
+	Você se lembra do nosso
+	acordo, né, é?
 	"""
 	keyWait
 	clearMsg
@@ -211,7 +206,7 @@ script 12 mmbn3 {
 	mugshotShow
 		mugshot = Mayl
 	msgOpen
-	"Um,yeah,of course…"
+	"Er, lembro, claro..."
 	keyWait
 	clearMsg
 	jump
@@ -222,8 +217,8 @@ script 13 mmbn3 {
 		mugshot = MsMari
 	msgOpen
 	"""
-	What's this about a
-	deal?
+	Que história é essa de
+	"acordo"?
 	"""
 	keyWait
 	clearMsg
@@ -235,9 +230,9 @@ script 14 mmbn3 {
 		mugshot = Higsby
 	msgOpen
 	"""
-	Mayl said she'd work
-	part-time to pay me
-	back for a chip,huh!
+	A Mayl disse que faria
+	um bico para mim para
+	pagar por um chip, é.
 	"""
 	keyWait
 	clearMsg
@@ -249,9 +244,9 @@ script 15 mmbn3 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	Um,today's a little
-	bad for me.
-	How about…
+	Hum, mas hoje não é um
+	dia muito bom pra mim.
+	Que tal...
 	"""
 	keyWait
 	clearMsg
@@ -265,17 +260,17 @@ script 16 mmbn3 {
 	flagSet
 		flag = 1310
 	"""
-	No! You've gotta
-	work now! Huh!!
+	Não! Você tem que
+	trabalhar agora! É!!
 	"""
 	keyWait
 	clearMsg
 	flagClear
 		flag = 1310
 	"""
-	Normally I'm mild-
-	mannered,but not
-	about chips! Huh!!
+	Normalmente, sou bem
+	tranquilo, mas não quando
+	o assunto é chips! É!!
 	"""
 	keyWait
 	clearMsg
@@ -287,17 +282,16 @@ script 17 mmbn3 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	Oh no,what am I
-	going to do?
+	Ai, o que eu faço?
 	"""
 	keyWait
 	clearMsg
 	flagClear
 		flag = 1315
 	"""
-	I know! Hey Lan,can
-	you work for Higsby
-	in place of me?
+	Já sei! Ei, Lan, pode
+	trabalhar pro Higsby no
+	meu lugar?
 	"""
 	keyWait
 	clearMsg
@@ -309,8 +303,8 @@ script 18 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Huh? Me? Why do I
-	have to work?!
+	Hã? Eu? Por que EU
+	tenho que trabalhar?!
 	"""
 	keyWait
 	clearMsg
@@ -324,9 +318,9 @@ script 19 mmbn3 {
 	flagSet
 		flag = 1310
 	"""
-	Huh! I don't mind so
-	long as someone
-	works for me.
+	É! Por mim, tudo bem,
+	desde que ALGUÉM
+	trabalhe para mim.
 	"""
 	keyWait
 	clearMsg
@@ -338,9 +332,8 @@ script 20 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Ms.Mari! Are you
-	hearing this?
-	Help me out here!
+	Srta. Mari! Tá ouvindo
+	isso? Me ajuda aqui!
 	"""
 	keyWait
 	clearMsg
@@ -352,16 +345,15 @@ script 21 mmbn3 {
 		mugshot = MsMari
 	msgOpen
 	"""
-	Well,the Bubble
-	Wash will be
-	arriving soon. Hmm…
+	Bom, a Lava-Bolha está
+	para chegar. Hmm...
 	"""
 	keyWait
 	clearMsg
 	"""
-	I don't think it's
-	such a bad idea. Why
-	not help Mayl out?
+	Olha, não acho má ideia.
+	Por que não ajuda a
+	coitada da Mayl?
 	"""
 	keyWait
 	clearMsg
@@ -373,8 +365,8 @@ script 22 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Arrrrrgh! Oh,all
-	right,I give up!
+	Arrrrrgh! Tá bom, tá bom,
+	TÁ BOM, eu me rendo!
 	"""
 	keyWait
 	clearMsg
@@ -386,13 +378,13 @@ script 23 mmbn3 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	Thank you,Lan! I'll
-	fix you up something
-	good to eat later.
+	Obrigada, Lan! Juro que
+	faço uma coisa gostosa
+	pra você comer depois.
 	"""
 	keyWait
 	clearMsg
-	"Good luck!"
+	"Vai lá e arrasa!"
 	keyWait
 	clearMsg
 	jump
@@ -403,15 +395,15 @@ script 24 mmbn3 {
 		mugshot = Higsby
 	msgOpen
 	"""
-	Then it's settled!
-	Lan will work for
-	me! Huh!
+	Então, está resolvido!
+	O Lan vai trabalhar para
+	mim! É!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Your task is simple!
-	Go get a
+	A sua tarefa é simples!
+	Me arranje um
 	"
 	"""
 	printChip
@@ -425,8 +417,8 @@ script 24 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Once you have it,
-	bring it to me,huh?
+	Assim que o fizer,
+	traga ele pra mim. É.
 	"""
 	keyWait
 	clearMsg
@@ -439,7 +431,7 @@ script 25 mmbn3 {
 	msgOpen
 	flagClear
 		flag = 1307
-	"A \""
+	"Um \""
 	printChip
 		buffer = 0
 		chip = 143
@@ -449,8 +441,8 @@ script 25 mmbn3 {
 		code = *
 	"""
 	"?
-	Aw,man. Do I have
-	to?
+	Ai, cara...
+	Eu tenho mesmo?
 	"""
 	keyWait
 	clearMsg
@@ -462,9 +454,9 @@ script 26 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,we agreed to
-	help out,so let's
-	not complain!
+	Lan, a gente concordou
+	em ajudar, então, para
+	de reclamar!
 	"""
 	keyWait
 	clearMsg
@@ -475,7 +467,7 @@ script 27 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Yeah,yeah."
+	"Eu sei, eu sei..."
 	keyWait
 	end
 }

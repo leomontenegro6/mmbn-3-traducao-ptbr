@@ -5,16 +5,15 @@ script 0 mmbn3 {
 		mugshot = LordWily
 	msgOpen
 	"""
-	They've already
-	deleted two of my
-	Navis!
+	Eles já deletaram dois
+	dos meus Navis!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'll get you,Lan!
-	And your little
-	Navi,too!
+	Você irá pagar por isso,
+	Lan Hikari! Você e o seu
+	Navi patético!
 	"""
 	keyWait
 	end
@@ -24,20 +23,19 @@ script 1 mmbn3 {
 		mugshot = LordWily
 	msgOpen
 	"""
-	Well,at least I have
-	the second TetraCode
-	now!
+	Bom, pelo menos, tenho
+	o segundo TetraCódigo,
+	agora!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Only two more to
-	go before I can
-	finally initiate…
+	Só mais dois até eu,
+	enfim, poder iniciar o...
 	"""
 	keyWait
 	clearMsg
-	"\"Cybergeddon\"!!"
+	"\"Cybergedom\"!!"
 	keyWait
 	flagClear
 		flag = 1028
@@ -51,7 +49,7 @@ script 2 mmbn3 {
 	mugshotShow
 		mugshot = LordWily
 	msgOpen
-	"Mwa-ha-ha-ha-ha!!"
+	"Gaa ha ha ha ha!!"
 	keyWait
 	clearMsg
 	jump
@@ -63,20 +61,20 @@ script 3 mmbn3 {
 	mugshotShow
 		mugshot = LordWily
 	msgOpen
-	"Wheeze…! Gasp…!"
+	"Riihm...! Cof...!"
 	wait
 		frames = 44
 	"""
 	
-	And this time,I'm
-	ready for anything!
+	E, desta vez, estou
+	preparado para tudo!
 	"""
 	keyWait
 	clearMsg
 	"""
-	As long as HE is on
-	my side,MegaMan can
-	never stop me!
+	Enquanto ELE estiver
+	ao meu lado, MegaMan
+	jamais poderá me deter!
 	"""
 	keyWait
 	flagClear
@@ -91,7 +89,7 @@ script 4 mmbn3 {
 	mugshotShow
 		mugshot = LordWily
 	msgOpen
-	"Mwa-ha-ha-ha-ha!!"
+	"Gaa ha ha ha ha!!"
 	keyWait
 	end
 }

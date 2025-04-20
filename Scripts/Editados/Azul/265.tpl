@@ -7,8 +7,9 @@ script 0 mmbn3 {
 	flagSet
 		flag = 1308
 	"""
-	Darn! Beat us again!
-	This guy's good!
+	Saco! A gente perdeu
+	de novo! O sujeito é
+	forte...
 	"""
 	keyWait
 	end
@@ -18,7 +19,7 @@ script 1 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Now then,give me the
+	Vamos, entreguem a
 	"
 	"""
 	printItem
@@ -35,16 +36,15 @@ script 2 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	The Imperial Bubble
-	Brigade is not
-	defeated so easily!
+	A Brigada Blindada Bolha
+	não será vencida tão
+	facilmente!
 	"""
 	keyWait
 	clearMsg
 	"""
-	We're the fastest
-	retreaters in the
-	WWW!
+	Somos os fujões mais
+	rápidos da WWW!
 	"""
 	keyWait
 	clearMsg
@@ -57,7 +57,10 @@ script 3 mmbn3 {
 	msgOpen
 	flagSet
 		flag = 1309
-	"We're running again?"
+	"""
+	A gente vai fugir de
+	novo?
+	"""
 	keyWait
 	clearMsg
 	jump
@@ -70,9 +73,9 @@ script 4 mmbn3 {
 	flagSet
 		flag = 1310
 	"""
-	Of course,silly!
-	That's why the WWW
-	let us join!
+	Claro que vai, ô!
+	Foi por isso que a WWW
+	deixou a gente entrar!
 	"""
 	keyWait
 	clearMsg
@@ -85,7 +88,7 @@ script 5 mmbn3 {
 	msgOpen
 	flagClear
 		flag = 1308
-	"So,where to next?"
+	"Então, pra onde, agora?"
 	keyWait
 	end
 }
@@ -108,8 +111,8 @@ script 7 mmbn3 {
 	flagSet
 		flag = 1308
 	"""
-	Okey-dokey!
-	Let's gooooo!
+	Compreendido!
+	Boooraaaaa!
 	"""
 	keyWait
 	end
@@ -119,8 +122,8 @@ script 8 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	They really are good
-	at running away!
+	Eles são bons mesmo em
+	fugir.
 	"""
 	keyWait
 	clearMsg
@@ -132,7 +135,7 @@ script 9 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Go get them,MegaMan!
+	Pega eles, MegaMan!
 	Yoka 1!
 	"""
 	keyWait
