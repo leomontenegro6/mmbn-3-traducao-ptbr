@@ -133,6 +133,20 @@
 .org 0x086B4DC0
     .incbin "Graficos/Editados/Press A button.gba"
 
+; Nomes de chip de boost de ataque e elementos.
+.org 0x086E3600
+    .incbin "Graficos/Editados/Fire plus 30.gba"
+.org 0x086E3D20
+    .incbin "Graficos/Editados/Aqua plus 30.gba"
+.org 0x086E4440
+    .incbin "Graficos/Editados/Elec plus 30.gba"
+.org 0x086E4B60
+    .incbin "Graficos/Editados/Wood plus 30.gba"
+.org 0x086EE540
+    .incbin "Graficos/Editados/Attack plus 10.gba"
+.org 0x086EEC60
+    .incbin "Graficos/Editados/Attack plus 30.gba"
+
 ; Editando tilemap da tela após vencer batalhas contra vírus comuns.
 ; RESULT
 .org 0x086B2BE4

@@ -1,5 +1,4 @@
 - Editar o gráfico de "Sort", para modificar os nomes abaixo da janela, devido à tilemap super bagunçado (pedir help do denim possivelmente)
-- Editar gráficos de chips elementais, como "Fire", "Wood", "Elec", etc.
 - Editar gráficos de "Winner" / "Loser" / "Draw", em batalhas por cabo link
 - Editar gráfico de Game Over
 - Corrigir bug ao trocar chips via cabo link, onde o nome no topo da tela aparece com tilemap bugado
