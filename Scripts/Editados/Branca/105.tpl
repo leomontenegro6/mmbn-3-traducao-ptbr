@@ -9,7 +9,7 @@ script 0 mmbn3 {
 	mugshotShow
 		mugshot = Chaud
 	msgOpen
-	"What IS this thing?"
+	"O que É essa coisa?"
 	keyWait
 	end
 }
@@ -23,9 +23,9 @@ script 1 mmbn3 {
 		mugshot = Tora
 	msgOpen
 	"""
-	This is some
-	computer! Better
-	than SciLab's,maybe?
+	Esse computador é um
+	negócio! Melhor que
+	os do SciLab, será?
 	"""
 	keyWait
 	end
@@ -35,14 +35,16 @@ script 2 mmbn3 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Lan! Check this out!
-	It's a human body…
+	Lan! Saca só isto
+	aqui! É um corpo
+	humano...
 	"""
 	keyWait
 	clearMsg
 	"""
-	What could Wily be
-	intending to do?
+	O que será que o
+	Wily tá pensando em
+	fazer?
 	"""
 	keyWait
 	end
@@ -52,9 +54,9 @@ script 10 mmbn3 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Lan,let's hurry.
-	We don't have much
-	time left.
+	Vamos logo, Lan.
+	Não temos muito
+	tempo.
 	"""
 	keyWait
 	end
@@ -64,9 +66,9 @@ script 11 mmbn3 {
 		mugshot = Tora
 	msgOpen
 	"""
-	Is that old guy OK?
-	I sure hope that
-	won't happen to us…
+	O tiozinho lá tá
+	bem? Torcer pra não
+	rolar com a gente...
 	"""
 	keyWait
 	end
@@ -78,9 +80,9 @@ script 220 mmbn3 {
 		jumpIfFalse = continue
 	msgOpen
 	"""
-	A chair with many
-	cables. What could
-	it be used for…?
+	Uma cadeira cheia de
+	cabos. Pro que será
+	que serve...?
 	"""
 	keyWait
 	end
@@ -88,9 +90,9 @@ script 220 mmbn3 {
 script 221 mmbn3 {
 	msgOpen
 	"""
-	A monitor showing
-	the structure of the
-	human body
+	Um monitor mostrando
+	a estrutura do corpo
+	humano.
 	"""
 	keyWait
 	end
@@ -98,9 +100,9 @@ script 221 mmbn3 {
 script 222 mmbn3 {
 	msgOpen
 	"""
-	Some kind of graph
-	is displayed on this
-	huge monitor
+	Há um tipo de gráfico
+	aparecendo neste
+	enorme monitor.
 	"""
 	keyWait
 	clearMsg
@@ -110,8 +112,9 @@ script 222 mmbn3 {
 		jumpIfFalse = continue
 	clearMsg
 	"""
-	There's something in
-	the tangled cables…
+	Tem alguma coisa
+	nesse emaranhado de
+	cabos...
 	"""
 	keyWait
 	clearMsg
@@ -123,13 +126,14 @@ script 222 mmbn3 {
 		item = 99
 		amount = 1
 	"""
-	Lan adquiriu um PowerUp:
+	Lan adquiriu um
+	PowerUp:
 	"
 	"""
 	printItem
 		buffer = 0
 		item = 99
-	"\"!!"
+	"\"!"
 	playerFinish
 	playerReset
 	keyWait
@@ -192,8 +196,8 @@ script 224 mmbn3 {
 		jumpIfOutOfRange = continue
 	msgOpen
 	"""
-	An elevator switch
-	Want to press it?
+	Um botão de
+	elevador. Apertar?
 	
 	"""
 	option
@@ -203,7 +207,7 @@ script 224 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"Sim "
 	option
 		left = 0
 		right = 0
@@ -211,7 +215,7 @@ script 224 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No"
+	"Não"
 	select
 		default = 0
 		BSeparate = false
@@ -235,16 +239,16 @@ script 226 mmbn3s {
 script 227 mmbn3 {
 	msgOpen
 	"""
-	A Pulse Transmission
-	System. It transmits
-	human brain waves to
+	Um Sistema de Trans-
+	missão de Pulso.
+	Transmite ondas
 	"""
 	keyWait
 	clearMsg
 	"""
-	the Cyberworld.
-	But it's hopelessly
-	broken now
+	cerebrais pro mundo
+	cibernético. Mas
+	está quebrado.
 	"""
 	keyWait
 	end

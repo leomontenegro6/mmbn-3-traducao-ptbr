@@ -242,7 +242,7 @@ script 230 mmbn3 {
 	printItem
 		buffer = 0
 		item = 4
-	"\"!!"
+	"\"!"
 	playerFinish
 	playerUnlock
 	keyWait
@@ -279,7 +279,7 @@ script 231 mmbn3 {
 	printItem
 		buffer = 0
 		item = 5
-	"\"!!"
+	"\"!"
 	playerFinish
 	playerUnlock
 	keyWait
@@ -316,7 +316,7 @@ script 232 mmbn3 {
 	printItem
 		buffer = 0
 		item = 6
-	"\"!!"
+	"\"!"
 	playerFinish
 	playerUnlock
 	keyWait
@@ -416,7 +416,7 @@ script 237 mmbn3 {
 	printItem
 		buffer = 0
 		item = 98
-	"\"!!"
+	"\"!"
 	playerFinish
 	playerUnlock
 	keyWait
@@ -464,7 +464,7 @@ script 238 mmbn3 {
 	printCode
 		buffer = 0
 		code = *
-	"\"!!"
+	"\"!"
 	playerFinish
 	playerUnlock
 	keyWait
@@ -484,23 +484,23 @@ script 240 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	The bomb is
-	speckled in blue and
-	yellow
+	A bomba é pontilhada
+	com manchas azuis e
+	amarelas.
 	"""
 	keyWait
 	clearMsg
 	"""
-	It says,"Mix me in
-	to make black" on
-	the bomb
+	Escrito nela: "Coloque-me
+	na mistura para fazer
+	preto".
 	"""
 	keyWait
 	clearMsg
 	"""
-	You see three small
-	buttons in white,
-	green,and red…
+	Você vê 3 botões
+	das cores branco,
+	verde e vermelho...
 	"""
 	keyWait
 	clearMsg
@@ -511,7 +511,7 @@ script 240 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Press white\n"
+	"Apertar branco\n"
 	option
 		left = 1
 		right = 1
@@ -519,7 +519,7 @@ script 240 mmbn3 {
 		down = 2
 	space
 		count = 2
-	"Press green\n"
+	"Apertar verde\n"
 	option
 		left = 2
 		right = 2
@@ -527,7 +527,7 @@ script 240 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Press red"
+	"Apertar vermelho"
 	select
 		default = 0
 		BSeparate = false

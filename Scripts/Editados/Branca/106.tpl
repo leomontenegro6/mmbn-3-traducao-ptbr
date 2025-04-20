@@ -5,40 +5,44 @@ script 0 mmbn3 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Lan…You have to save
-	the world…
+	Lan... Você tem que
+	salvar o mundo...
 	"""
 	keyWait
 	clearMsg
 	"""
-	We can see which of
-	us is the best after
-	this is all over…
+	Veremos quem de nós
+	é mais forte depois
+	disto acabar...
 	"""
 	keyWait
 	clearMsg
-	"At Hades Isle…"
+	"""
+	Na Ilha do
+	Inferno...
+	"""
 	keyWait
 	end
 }
 script 220 mmbn3 {
 	msgOpen
 	"""
-	A defense robot
-	built by Wily
+	Um robô de defesa
+	construído pelo
+	Wily.
 	"""
 	keyWait
 	clearMsg
 	"""
-	It looks a lot like
-	the Electopian army
-	tanks…
+	Parece muito com os
+	tanques do Exército
+	ni-honense...
 	"""
 	keyWait
 	clearMsg
 	"""
-	And it looks like
-	you can jack in!
+	E parece que dá para
+	se conectar nele!
 	"""
 	keyWait
 	end
@@ -46,15 +50,15 @@ script 220 mmbn3 {
 script 221 mmbn3 {
 	msgOpen
 	"""
-	A hole opened by the
-	robot
+	Um burato aberto
+	pelo robô.
 	"""
 	keyWait
 	clearMsg
 	"""
-	It must be strong.
-	It pulverized this
-	rock-hard wall
+	Ele deve ser bem
+	forte. Pulverizou
+	essa parede maciça.
 	"""
 	keyWait
 	end
@@ -64,9 +68,9 @@ script 222 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Quick! You'd
-	better do something
-	about the robot!
+	Rápido! Temos que
+	fazer algo a
+	respeito do robô!
 	"""
 	keyWait
 	end

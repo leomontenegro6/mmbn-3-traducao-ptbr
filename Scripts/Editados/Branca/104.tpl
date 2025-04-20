@@ -9,8 +9,8 @@ script 0 mmbn3 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Let's look for a way
-	to get through.
+	Vamos procurar por
+	uma forma de passar.
 	"""
 	keyWait
 	end
@@ -20,21 +20,24 @@ script 1 mmbn3 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Not bad.
-	Not bad,for you.
+	Nada mal.
+	Para você,
+	pelo menos.
 	"""
 	keyWait
 	clearMsg
-	"Let's keep moving."
+	"""
+	Vamos seguir em
+	frente.
+	"""
 	keyWait
 	end
 }
 script 220 mmbn3 {
 	msgOpen
 	"""
-	A huge computer…
-	It hums with a
-	menacingly deep tone
+	Um enorme computador.
+	Emite sons ameaçadores.
 	"""
 	keyWait
 	end
@@ -42,9 +45,9 @@ script 220 mmbn3 {
 script 221 mmbn3 {
 	msgOpen
 	"""
-	A machine for
-	converting computer
-	data into holograms
+	Esta máquina converte
+	dados de computador
+	em hologramas.
 	"""
 	keyWait
 	end
@@ -54,9 +57,9 @@ script 222 mmbn3 {
 		flag = 2618
 	msgOpen
 	"""
-	A statue of Wily.
-	It's too heavy to
-	be moved…
+	Uma estátua do Wily.
+	É pesada demais para
+	mover...
 	"""
 	keyWait
 	end
@@ -67,16 +70,16 @@ script 223 mmbn3 {
 		jumpIfTrue = 234
 		jumpIfFalse = continue
 	msgOpen
-	"A statue of Wily"
+	"Uma estátua do Wily."
 	keyWait
 	end
 }
 script 224 mmbn3 {
 	msgOpen
 	"""
-	The monitor shows
-	Internet data from
-	all over the world
+	O monitor mostra
+	dados da Rede de
+	todo o mundo.
 	"""
 	keyWait
 	end
@@ -84,9 +87,9 @@ script 224 mmbn3 {
 script 225 mmbn3 {
 	msgOpen
 	"""
-	A prototype Pulse
-	Transmission System…
-	It's stained black
+	Um Sistema de Trans-
+	missão de Pulso...
+	Manchado de preto.
 	"""
 	keyWait
 	end
@@ -94,9 +97,9 @@ script 225 mmbn3 {
 script 226 mmbn3 {
 	msgOpen
 	"""
-	A failed Pulse
-	Transmission System…
-	It's completely dead
+	Um Sistema de Trans-
+	missão de Pulso falho
+	e inútil.
 	"""
 	keyWait
 	end
@@ -104,9 +107,9 @@ script 226 mmbn3 {
 script 227 mmbn3 {
 	msgOpen
 	"""
-	A computer used in
-	Pulse Transmission
-	System testing…
+	Computador usado pra
+	testes do Sistema de
+	Pulso.
 	"""
 	keyWait
 	end
@@ -114,8 +117,9 @@ script 227 mmbn3 {
 script 228 mmbn3 {
 	msgOpen
 	"""
-	A draft plan for
-	Wily's "Cybergeddon"…
+	Um rascunho do plano
+	"Cybergedom" do
+	Wily...
 	"""
 	keyWait
 	end
@@ -123,8 +127,9 @@ script 228 mmbn3 {
 script 229 mmbn3 {
 	msgOpen
 	"""
-	Looks like Wily used
-	this PC…
+	Parece que o Wily
+	usou esse
+	computador...
 	"""
 	keyWait
 	clearMsg
@@ -134,8 +139,9 @@ script 229 mmbn3 {
 		jumpIfFalse = continue
 	clearMsg
 	"""
-	Something is stuck
-	between the keys…
+	Tem alguma coisa
+	presa dentre as
+	teclas...
 	"""
 	keyWait
 	clearMsg
@@ -158,7 +164,7 @@ script 229 mmbn3 {
 	printCode
 		buffer = 0
 		code = V
-	"\"!!"
+	"\"!"
 	playerFinish
 	playerReset
 	keyWait
@@ -167,9 +173,9 @@ script 229 mmbn3 {
 script 230 mmbn3 {
 	msgOpen
 	"""
-	Roughly written
-	words spell out,
-	"Delete…Inukai"
+	Palavras rabiscadas
+	dizem: "Deletar...
+	Inukai".
 	"""
 	keyWait
 	end

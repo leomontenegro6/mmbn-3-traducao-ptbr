@@ -1495,7 +1495,7 @@ script 223 mmbn3 {
 		down = 2
 	space
 		count = 2
-	"3 "
+	" 3 "
 	option
 		left = 0
 		right = 0
@@ -1503,7 +1503,7 @@ script 223 mmbn3 {
 		down = 3
 	space
 		count = 2
-	"2\n"
+	"  2\n"
 	option
 		left = 3
 		right = 3
@@ -1511,7 +1511,7 @@ script 223 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Subsolo "
+	" Subsolo "
 	option
 		left = 2
 		right = 2
@@ -1519,7 +1519,7 @@ script 223 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Ficar"
+	"    Ficar"
 	select
 		default = 0
 		BSeparate = false
@@ -1850,7 +1850,7 @@ script 242 mmbn3 {
 		down = 2
 	space
 		count = 2
-	"3 "
+	" 3 "
 	option
 		left = 0
 		right = 0
@@ -1858,7 +1858,7 @@ script 242 mmbn3 {
 		down = 2
 	space
 		count = 2
-	"2\n"
+	"  2\n"
 	option
 		left = 1
 		right = 1
@@ -1866,7 +1866,7 @@ script 242 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Ficar"
+	" Ficar"
 	select
 		default = 0
 		BSeparate = false

@@ -1409,7 +1409,7 @@ script 108 mmbn3 {
 	"""
 	Envenena
 	área com
-	[SwitchA]!
+	A!
 	"""
 	keyWait
 	msgCloseQuick
@@ -1422,7 +1422,7 @@ script 109 mmbn3 {
 	"""
 	Envenena
 	área com
-	[SwitchA]!
+	A!
 	"""
 	keyWait
 	msgCloseQuick
@@ -1960,7 +1960,7 @@ script 151 mmbn3 {
 	"""
 	Ataca
 	apertando
-	[SwitchA]
+	A
 	"""
 	keyWait
 	msgCloseQuick
@@ -1998,7 +1998,7 @@ script 154 mmbn3 {
 	msgOpenQuick
 	"""
 	Avance c/
-	[SwitchA]. Pare
+	A. Pare
 	p/ atacar
 	"""
 	keyWait
@@ -2011,7 +2011,7 @@ script 155 mmbn3 {
 	msgOpenQuick
 	"""
 	Avance c/
-	[SwitchA]. Pare
+	A. Pare
 	p/ atacar
 	"""
 	keyWait
@@ -2024,7 +2024,7 @@ script 156 mmbn3 {
 	msgOpenQuick
 	"""
 	Avance c/
-	[SwitchA]. Pare
+	A. Pare
 	p/ atacar
 	"""
 	keyWait

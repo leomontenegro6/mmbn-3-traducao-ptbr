@@ -9,4 +9,5 @@
 /test_coletanea.bat
 /index.php
 /Graficos/Comprimidos/*.exe
+/Scripts/*.tpl
 vendor

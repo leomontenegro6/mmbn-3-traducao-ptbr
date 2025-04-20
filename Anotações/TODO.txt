@@ -2,4 +2,6 @@
 - Editar gráficos de chips elementais, como "Fire", "Wood", "Elec", etc.
 - Editar gráficos de "Winner" / "Loser" / "Draw", em batalhas por cabo link
 - Editar gráfico de Game Over
+- Corrigir bug ao trocar chips via cabo link, onde o nome no topo da tela aparece com tilemap bugado
+- Corrigir bug ao trocar chips via cabo link, onde a descrição dos chips tá aparecendo na esquerda ao invés da direita
 - Portar textos do mmbn3 da coletânea para a versão de GBA.

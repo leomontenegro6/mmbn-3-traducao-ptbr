@@ -12,119 +12,120 @@ script 0 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	This is terrible!!
-	A sudden outbreak of
-	digiplants has
+	Que horror! Um surto
+	repentino de
+	cyberplantas
 	"""
 	keyWait
 	clearMsg
 	"""
-	caused the hospital
-	computers to stop
-	working!!
-	"""
-	keyWait
-	clearMsg
-	mugshotShow
-		mugshot = MegaMan
-	"""
-	So,I can restart the
-	systems by removing
-	the digiplants?
-	"""
-	keyWait
-	clearMsg
-	mugshotShow
-		mugshot = MrProg
-	"I think so…"
-	keyWait
-	clearMsg
-	"""
-	So you're going to
-	help us by
-	removing them!?
+	fez os computadores
+	do hospital pararem
+	de funcionar!!
 	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Yes. If you know how
-	it can be done.
+	Se eu me livrar das
+	cyberplantas, daria
+	pra reiniciarem?
+	"""
+	keyWait
+	clearMsg
+	mugshotShow
+		mugshot = MrProg
+	"Acho que sim..."
+	keyWait
+	clearMsg
+	"""
+	Então, você vai nos
+	ajudar a
+	removê-las?!
+	"""
+	keyWait
+	clearMsg
+	mugshotShow
+		mugshot = MegaMan
+	"""
+	Claro. Digo, se você
+	conhecer algum
+	método...
 	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = MrProg
 	"""
-	The digiplants can
-	be removed using my
+	Elas podem ser
+	destruídas com meu
 	"
 	"""
 	printNaviCustProgram
 		buffer = 0
 		program = 21
-	"\",I think."
+	"\", creio."
 	keyWait
 	clearMsg
 	"""
-	It can be used to
-	change BattleChips
-	into power.
-	"""
-	keyWait
-	clearMsg
-	"""
-	If a "fire" chip
-	is converted,
+	Ele é capaz de
+	converter chips em
+	energia.
 	"""
 	keyWait
 	clearMsg
 	"""
-	you can shoot fire,
-	which should burn
-	away the digiplants.
+	Se um chip de "Fogo"
+	for convertido,
 	"""
 	keyWait
 	clearMsg
 	"""
-	To do this,load the
+	você poderá atirar
+	fogo e queimar as
+	cyberplantas.
+	"""
+	keyWait
+	clearMsg
+	"""
+	Para tal, instale o
 	"
 	"""
 	printNaviCustProgram
 		buffer = 0
 		program = 21
 	"""
-	" into
-	yourself,and then
+	" em você
+	e, em seguida,
 	"""
 	keyWait
 	clearMsg
 	"""
-	press the A Button
-	when on or in front
-	of a digiplant.
+	aperte A
+	quando diante de uma
+	cyberplanta.
 	"""
 	keyWait
 	clearMsg
-	"The \""
+	"O \""
 	printNaviCustProgram
 		buffer = 0
 		program = 21
 	"""
-	"
-	will then execute.
+	" então
+	será executado.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Changed BattleChip
-	will be used up,so
-	please be careful…
+	Chips convertidos
+	serão inutilizados,
+	então tome cuidado.
 	"""
 	keyWait
 	clearMsg
-	"I'm counting on you."
+	"Conto com você."
 	keyWait
 	clearMsg
 	jump
@@ -162,8 +163,9 @@ script 2 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	Please try it out in
-	front of that tree.
+	Por favor, experimente
+	usá-lo naquela árvore
+	ali.
 	"""
 	keyWait
 	clearMsg
@@ -174,10 +176,13 @@ script 3 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Thanks!"
+	"Obrigado!"
 	keyWait
 	clearMsg
-	"OK,Lan. Let's go!!"
+	"""
+	OK, Lan.
+	Vamos nessa!!
+	"""
 	keyWait
 	end
 }
@@ -186,8 +191,8 @@ script 4 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	You want to know how
-	to use the
+	Quer ouvir as instruções
+	de como usar o
 	"
 	"""
 	printNaviCustProgram
@@ -197,23 +202,22 @@ script 4 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Use the A Button on
-	or in front of the
-	digiplant.
+	Aperte A em frente à
+	cyberplanta em questão.
 	"""
 	keyWait
 	clearMsg
 	"""
-	But remember,it must
-	be loaded into
-	yourself to work!
+	Mas lembre: precisa
+	instalá-lo primeiro
+	para usar!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Changed BattleChips
-	will be used up,so
-	be careful!
+	E os chips usados
+	serão gastos e
+	apagados. Cuidado!
 	"""
 	keyWait
 	end
@@ -232,15 +236,16 @@ script 220 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	It looks like the
-	control panel for
-	the emergency exit!
+	Deve ser o painel
+	de controle da
+	saída de emergência!
 	"""
 	keyWait
 	clearMsg
 	"""
-	If we can restore
-	this to normal…
+	Se conseguirmos
+	fazer ele voltar ao
+	normal...
 	"""
 	keyWait
 	clearMsg
@@ -250,13 +255,12 @@ script 220 mmbn3 {
 	"."
 	waitSkip
 		frames = 30
-	"."
+	". "
 	waitSkip
 		frames = 30
 	"""
-	Aaah!!
-	A virus shot out of
-	the control panel!!
+	Aaah!! Saiu um
+	vírus do painel!!
 	"""
 	keyWait
 	clearMsg
@@ -277,16 +281,16 @@ script 220 mmbn3 {
 script 221 mmbn3 {
 	msgOpen
 	"""
-	A digiplant,created
-	when the growth
-	system went berserk
+	Cyberplanta criada
+	com a pane do sistema
+	de crescimento.
 	"""
 	keyWait
 	clearMsg
 	"""
-	It looks like it can
-	be burned away using
-	strong flame
+	Parece que pode ser
+	queimada com o uso
+	de chamas intensas.
 	"""
 	keyWait
 	end
@@ -294,9 +298,9 @@ script 221 mmbn3 {
 script 222 mmbn3 {
 	msgOpen
 	"""
-	A security lock
-	program for opening
-	and closing doors
+	Programa de trava de
+	segurança para abrir
+	e fechar portas.
 	"""
 	keyWait
 	end
@@ -420,7 +424,7 @@ script 232 mmbn3 {
 	printCode
 		buffer = 0
 		code = O
-	"\"!!"
+	"\"!"
 	playerFinish
 	playerUnlock
 	keyWait

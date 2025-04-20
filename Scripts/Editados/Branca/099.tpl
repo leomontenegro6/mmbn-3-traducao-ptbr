@@ -16,15 +16,16 @@ script 1 mmbn3 {
 		palette = 2
 	msgOpen
 	"""
-	Be quick,Lan! My
-	throat is so dry.
+	Rápido, Lan! A minha
+	garganta tá um
+	DESERTO de tão seca.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Hee hee! Sometimes
-	being sick has
-	its advantages.
+	Hi hi! Até que ficar
+	doente tem suas
+	vantagens.
 	"""
 	keyWait
 	end
@@ -57,7 +58,7 @@ script 3 mmbn3 {
 	mugshotShow
 		mugshot = Mamoru
 	msgOpen
-	"Uuuugh…Uuuugh…"
+	"Uuuugh... Uuuugh..."
 	keyWait
 	end
 }
@@ -79,14 +80,14 @@ script 5 mmbn3 {
 		mugshot = Mamoru
 	msgOpen
 	"""
-	Lan! Can you come
-	and see me again?
+	Lan! Você vem
+	visitar de novo?
 	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Sure. No problem!"
+	"Claro. Com prazer!"
 	keyWait
 	end
 }
@@ -96,13 +97,16 @@ script 6 mmbn3 {
 	mugshotPalette
 		palette = 2
 	msgOpen
-	"Thanks for coming."
+	"""
+	Obrigada pela
+	visita.
+	"""
 	keyWait
 	clearMsg
 	"""
-	I'll be on my feet
-	in no time. Just
-	you wait and see!
+	Eu vou me recuperar
+	rapidinho. Você não
+	perde por esperar!
 	"""
 	keyWait
 	end
@@ -112,8 +116,9 @@ script 7 mmbn3 {
 		mugshot = Mamoru
 	msgOpen
 	"""
-	Thanks,Lan! I'll try
-	hard to get well.
+	Obrigado, Lan! Eu
+	vou me esforçar
+	pra sarar logo!
 	"""
 	keyWait
 	end
@@ -132,15 +137,15 @@ script 8 mmbn3 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	Lan. I've been
-	waiting for you.
+	Lan! Eu estava te
+	esperando.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Yai is much better.
-	We'll all be able to
-	hang out again soon!
+	A Yai já tá melhor.
+	Logo poderemos brincar
+	juntos de novo!
 	"""
 	keyWait
 	end
@@ -150,9 +155,9 @@ script 9 mmbn3 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	You should be nice
-	to Yai today,even if
-	she's a bit selfish…
+	Seja bonzinho com a
+	Yai hoje, mesmo ela
+	sendo... a Yai.
 	"""
 	keyWait
 	end
@@ -166,9 +171,9 @@ script 10 mmbn3 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Hey! Yai's the star
-	today,so get over
-	there to see her!
+	Ô! Hoje, a estrela é
+	a Yai, então vai
+	logo falar com ela!
 	"""
 	keyWait
 	end
@@ -181,8 +186,8 @@ script 11 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Uh…
-	It's nothing,really…
+	Er... Nada.
+	Né nada, não...
 	"""
 	keyWait
 	end
@@ -198,68 +203,71 @@ script 12 mmbn3 {
 		mugshot = Mamoru
 	msgOpen
 	"""
-	Oh,Lan!
-	You came to see me!!
+	Ah, Lan!
+	Você veio me
+	visitar!!
 	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	"""
-	Hi,Mamoru!
-	You're looking well!
+	Oi, Mamoru!
+	Você já parece bem
+	melhor!
 	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = Mamoru
 	"""
-	Yep! I've been
-	feeling much better
-	lately.
+	Uhum! Eu ando me
+	sentindo bem melhor
+	ultimamente.
 	"""
 	keyWait
 	clearMsg
 	"""
-	The doctors told me
-	that I'll be able
-	to go home soon.
+	Os médicos disseram
+	que logo poderei
+	voltar pra casa.
 	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Wow! That's great!!"
+	"Caramba! Que demais!"
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = Mamoru
 	"""
-	It's all thanks to
-	you,Lan.
+	E é tudo graças a
+	você, Lan.
 	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	"""
-	No way! You helped
-	yourself,Mamoru.
+	Que nada! Foi você
+	mesmo quem se
+	ajudou, Mamoru.
 	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = Mamoru
 	"""
-	Heh,heh!
-	Thanks,Lan!!
+	Eh he!
+	Obrigado, Lan!!
 	"""
 	keyWait
 	clearMsg
 	"""
-	This is to say
-	thanks for what you
-	did for me.
+	Toma, um presente
+	pra mostrar a
+	minha gratidão.
 	"""
 	keyWait
 	clearMsg
@@ -286,8 +294,8 @@ script 12 mmbn3 {
 	mugshotShow
 		mugshot = Mamoru
 	"""
-	Lan,you saved my
-	life!
+	Lan, você salvou a
+	minha vida!
 	"""
 	keyWait
 	end
@@ -297,9 +305,9 @@ script 13 mmbn3 {
 		mugshot = Mamoru
 	msgOpen
 	"""
-	I can't NetBattle
-	yet,but let's do it
-	someday!!
+	Eu ainda não posso
+	NetLutar, mas um
+	dia, vamos sim!!
 	"""
 	keyWait
 	end
@@ -313,9 +321,9 @@ script 14 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Mamoru is sleeping
-	now. Let's come back
-	later.
+	O Mamoru tá dormindo
+	agora. Depois a gente
+	volta.
 	"""
 	keyWait
 	end
@@ -325,8 +333,9 @@ script 17 mmbn3 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	What's wrong,Lan?
-	Forgot something?
+	Que foi, Lan?
+	Esqueceu alguma
+	coisa?
 	"""
 	keyWait
 	end
@@ -343,12 +352,16 @@ script 20 mmbn3 {
 		palette = 2
 	msgOpen
 	"""
-	You have to do what
-	you can…
+	Você tem que fazer
+	o que está ao seu
+	alcance...
 	"""
 	keyWait
 	clearMsg
-	"But don't overdo it."
+	"""
+	Mas não exagere
+	demais.
+	"""
 	keyWait
 	end
 }
@@ -373,9 +386,9 @@ script 25 mmbn3 {
 		palette = 2
 	msgOpen
 	"""
-	SciLab area was
-	attacked?
-	N-Not by Alpha…!?
+	A área do SciLab
+	foi atacada? E
+	não pelo Alpha...?!
 	"""
 	keyWait
 	end
@@ -385,9 +398,9 @@ script 30 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Sigh! He's gone out
-	again,just before
-	his examination.
+	Afe! Ele fugiu de
+	novo, bem na hora
+	do exame.
 	"""
 	keyWait
 	end
@@ -396,26 +409,26 @@ script 31 mmbn3 {
 	mugshotShow
 		mugshot = Scientist
 	msgOpen
-	"Hmm. ・"
+	"Hmm."
 	waitSkip
 		frames = 20
-	"・"
+	"."
 	waitSkip
 		frames = 20
-	"・"
+	"."
 	waitSkip
 		frames = 20
 	"""
-	OK!
-	Looks like you're
-	fine.
+	 É!
+	Parece que está
+	tudo bem com você.
 	"""
 	keyWait
 	clearMsg
 	"""
-	But remember,Mamoru.
-	You can't push
-	yourself too hard.
+	Mas lembre-se, Mamoru:
+	não pode fazer muito
+	esforço.
 	"""
 	keyWait
 	end
@@ -425,9 +438,9 @@ script 32 mmbn3 {
 		mugshot = Nurse
 	msgOpen
 	"""
-	Thanks for finding
-	Mamoru for us! You
-	really helped out.
+	Obrigada por achar o
+	Mamoru pra gente!
+	Foi de muita ajuda.
 	"""
 	keyWait
 	end
@@ -446,8 +459,9 @@ script 41 mmbn3 {
 		mugshot = Mom
 	msgOpen
 	"""
-	Lan…
-	Don't let me down…
+	Lan...
+	Eu sei que você
+	consegue...
 	"""
 	keyWait
 	end
@@ -457,16 +471,15 @@ script 50 mmbn3 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	Ah! Is there no
-	way out from
-	here,either??
+	Ah! Também não tem
+	saída aqui?!
 	"""
 	keyWait
 	clearMsg
 	"""
-	That window is open,
-	but we're on the 2nd
-	floor. Oh,no!
+	A janela tá aberta,
+	mas estamos no 2o.
+	andar. Essa não!
 	"""
 	keyWait
 	end
@@ -476,40 +489,40 @@ script 55 mmbn3 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	OK! I'll jump! I'll
-	jump in 3 seconds!
+	Beleza! Vou pular!
+	3, 2, 1...!
 	"""
 	keyWait
 	clearMsg
-	"・"
+	"."
 	waitSkip
 		frames = 40
-	"・"
+	"."
 	waitSkip
 		frames = 40
-	"・"
+	"."
 	waitSkip
 		frames = 40
 	keyWait
 	clearMsg
 	"""
-	Uh,just give me
-	another 3 seconds!
+	Er, contei rápido.
+	Mais 3 segundos!
 	"""
 	keyWait
 	clearMsg
-	"・"
+	"."
 	waitSkip
 		frames = 40
-	"・"
+	"."
 	waitSkip
 		frames = 40
-	"・"
+	"."
 	waitSkip
 		frames = 40
 	keyWait
 	clearMsg
-	"Okay,3 more…"
+	"Tá, só mais 3..."
 	keyWait
 	end
 }
@@ -523,19 +536,16 @@ script 190 mmbn3 {
 	mugshotShow
 		mugshot = OldMan
 	msgOpen
-	"Huh? A condor…?"
+	"Hã? Um condor?"
+	keyWait
+	clearMsg
+	"Ah, o do zoológico!"
 	keyWait
 	clearMsg
 	"""
-	Ah,the condor from
-	the zoo!
-	"""
-	keyWait
-	clearMsg
-	"""
-	Having trouble
-	catching him,eh?
-	Well,just take this.
+	Não está conseguindo
+	pegar ele, é?
+	Bom, tome.
 	"""
 	keyWait
 	clearMsg
@@ -552,13 +562,13 @@ script 191 mmbn3 {
 	playerAnimate
 		animation = 24
 	"""
-	Lan adquiriu:
+	Lan recebeu:
 	"
 	"""
 	printItem
 		buffer = 0
 		item = 46
-	"\"!!"
+	"\"!"
 	keyWait
 	playerFinish
 	playerReset
@@ -567,22 +577,23 @@ script 191 mmbn3 {
 	mugshotShow
 		mugshot = OldMan
 	"""
-	This doll was close
-	by the condor when
-	he hatched.
+	Esse boneco estava
+	perto do condor
+	quando ele chocou.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Since then,he thinks
-	it's his mother.
+	Desde então, ele o
+	vê como se fosse
+	a mãe dele.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Put it where he can
-	see it,and you'll
-	catch him soon.
+	Deixa-o em um lugar
+	visível pra ele, e
+	você logo o pegará.
 	"""
 	keyWait
 	end
@@ -592,16 +603,14 @@ script 192 mmbn3 {
 		mugshot = OldMan
 	msgOpen
 	"""
-	Who? Me?
-	I'm just making a
-	cup of coffee.
+	Quem, eu?
+	Só tô fazendo café.
 	"""
 	keyWait
 	clearMsg
 	"""
-	The coffee machine
-	in my room isn't
-	working!
+	A cafeteira no meu
+	quarto pifou!
 	"""
 	keyWait
 	end
@@ -631,14 +640,14 @@ script 220 mmbn3 {
 script 221 mmbn3 {
 	msgOpen
 	"""
-	A beautiful vase of
-	flowers
+	Um lindo vaso de
+	flores.
 	"""
 	keyWait
 	clearMsg
 	"""
-	A rich fragrance
-	fills the air
+	Um aroma perfumado
+	preenche o recinto.
 	"""
 	keyWait
 	end
@@ -663,16 +672,13 @@ script 222 mmbn3 {
 }
 script 223 mmbn3 {
 	msgOpen
-	"""
-	It's a full-sized
-	mirror
-	"""
+	"Um grande espelho."
 	keyWait
 	clearMsg
 	"""
-	Looks are important,
-	even when staying
-	in a hospital
+	O "look" é sempre
+	importante, mesmo
+	estando internado.
 	"""
 	keyWait
 	end
@@ -680,14 +686,14 @@ script 223 mmbn3 {
 script 224 mmbn3 {
 	msgOpen
 	"""
-	There's a kettle,but
-	no water inside
+	É uma chaleira, mas
+	não tem nada dentro.
 	"""
 	keyWait
 	clearMsg
 	"""
-	It doesn't seem to
-	be used very often
+	Não parece ser usada
+	com muita frequência.
 	"""
 	keyWait
 	end
@@ -695,15 +701,15 @@ script 224 mmbn3 {
 script 225 mmbn3 {
 	msgOpen
 	"""
-	Lovely flowers fill
-	a vase
+	Flores adoráveis
+	preenchem esse vaso.
 	"""
 	keyWait
 	clearMsg
 	"""
-	They've been sent to
-	help the patient
-	recover soon
+	Foram enviadas com o
+	desejo do paciente
+	se recuperar logo.
 	"""
 	keyWait
 	end
@@ -750,8 +756,9 @@ script 227 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	"One of many birds"…
-	Could this be it…?
+	"Um de muitos
+	pássaros"...
+	Será que é isso?
 	"""
 	keyWait
 	clearMsg
@@ -768,7 +775,7 @@ script 227 mmbn3 {
 	printItem
 		buffer = 0
 		item = 33
-	"\"!!"
+	"\"!"
 	playerFinish
 	playerReset
 	playerUnlock
@@ -778,14 +785,14 @@ script 227 mmbn3 {
 script 228 mmbn3 {
 	msgOpen
 	"""
-	There's a closet on
-	the end
+	Tem um armário na
+	ponta.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Lots of folded
-	clothes are inside
+	Dentro dele, várias
+	roupas dobradas.
 	"""
 	keyWait
 	end
@@ -793,9 +800,9 @@ script 228 mmbn3 {
 script 229 mmbn3 {
 	msgOpen
 	"""
-	All you need to make
-	a nice cup of coffee
-	anytime
+	Tudo de que precisa
+	para fazer um bom
+	café, quando quiser.
 	"""
 	keyWait
 	end
@@ -803,15 +810,15 @@ script 229 mmbn3 {
 script 230 mmbn3 {
 	msgOpen
 	"""
-	A very large and
-	tidy bed
+	Uma enorme, e muito
+	arrumada, cama.
 	"""
 	keyWait
 	clearMsg
 	"""
-	So clean! The nurses
-	must change the
-	sheets everyday
+	As enfermeiras devem
+	trocar a roupa de
+	cama todos os dias.
 	"""
 	keyWait
 	end
@@ -819,16 +826,16 @@ script 230 mmbn3 {
 script 231 mmbn3 {
 	msgOpen
 	"""
-	There's a full view
-	of the seaside and
-	ocean from this room
+	Esta sala tem uma
+	vista completa pra
+	praia e pro mar.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Sunlight reflects
-	off the ocean in
-	shimmering patterns
+	O sol é refletido no
+	oceano, formando uma
+	superfície de luz.
 	"""
 	keyWait
 	end
@@ -836,16 +843,16 @@ script 231 mmbn3 {
 script 232 mmbn3 {
 	msgOpen
 	"""
-	1000 origami birds
-	have been folded by
-	hand for good luck
+	1000 aves de origami
+	foram dobradas para
+	dar boa sorte.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Whoever did it must
-	really wish for the
-	patient's recovery
+	Quem fez devia desejar
+	muito a recuperação
+	do paciente.
 	"""
 	keyWait
 	end
@@ -853,22 +860,23 @@ script 232 mmbn3 {
 script 233 mmbn3 {
 	msgOpen
 	"""
-	A very modern bed
-	with a built-in
-	nurse-call button
+	Uma cama ultramoderna,
+	com um botão de chamar
+	enfermeiros.
 	"""
 	keyWait
 	clearMsg
 	"""
-	A nurse can be
-	called at any time
+	Um enfermeiro pode
+	ser chamado a
+	qualquer hora.
 	"""
 	keyWait
 	clearMsg
 	"""
-	The port for jacking
-	in can be reached
-	even when lying down
+	Você alcança a
+	entrada de conexão
+	ao se abaixar.
 	"""
 	keyWait
 	end
@@ -886,9 +894,9 @@ script 234 mmbn3 {
 		jumpIfLess = continue
 	msgOpen
 	"""
-	Something like an
-	envelope is under
-	the pillow…
+	Tem algo que parece
+	um envelope debaixo
+	do travesseiro...
 	"""
 	keyWait
 	clearMsg
@@ -909,7 +917,7 @@ script 234 mmbn3 {
 		item = 36
 	"""
 	"
-	and
+	e 
 	"""
 	keyWait
 	clearMsg
@@ -925,71 +933,71 @@ script 234 mmbn3 {
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"It's a letter…"
+	"É um bilhete..."
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"What's it say?"
+	"O que tem escrito?"
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Let's see…"
+	"Eu vou ler..."
 	keyWait
 	clearMsg
 	"""
-	"I have to go search
-	for Alpha. Sorry
-	for worrying you."
+	"Preciso achar o
+	Alpha. Desculpe por
+	te preocupar."
 	"""
 	keyWait
 	clearMsg
 	"""
-	Dad…
-	In his condition
+	Papai...
+	Naquele estado
 	"""
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・!"
+	".!"
 	keyWait
 	clearMsg
 	"""
-	MegaMan! Let's find
-	dad!
+	MegaMan! Vamos atrás
+	do papai!
 	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Uh…
-	But where did he
-	go?
+	Er...
+	Mas pra onde ele
+	foi?
 	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	"""
-	He'd have gone some-
-	where having devices
-	to locate Alpha.
+	Um lugar com aparelhos
+	necessários pra localizar
+	o Alpha?
 	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Gotcha!
-	Let's go looking for
-	those places!!
+	Saquei!
+	Bora procurar nesses
+	lugares, então!!
 	"""
 	keyWait
 	end

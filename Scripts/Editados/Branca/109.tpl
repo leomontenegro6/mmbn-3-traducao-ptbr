@@ -58,8 +58,8 @@ script 20 mmbn3 {
 		mugshot = CloakedNavi
 	msgOpen
 	"""
-	How well you managed
-	to get here
+	Ótimo trabalhando
+	chegando aqui
 	"""
 	waitSkip
 		frames = 30
@@ -71,48 +71,49 @@ script 20 mmbn3 {
 		frames = 30
 	"""
 	.
-	I'm ranked 7.
+	Eu sou o ranque 7.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Those who are ranked
-	are duty-bound to
-	take any challenge…
+	Os ranqueados têm o
+	dever irrecusável de
+	encarar desafios.
 	"""
 	keyWait
 	clearMsg
 	"""
-	You may have made it
-	this far,but success
-	is more than power.
+	Pode ter chegado
+	longe, mas "sucesso"
+	é mais que só poder.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Real strength is
-	driven by
-	intelligence.
+	Poder de verdade é
+	guiado pela
+	inteligência.
 	"""
 	keyWait
 	clearMsg
 	"""
-	So. Let me now offer
-	you a quest…
+	Então... Permita-me
+	oferecer uma missão
+	a você...
 	"""
 	keyWait
 	clearMsg
 	"""
-	If you can find what
-	I ask,you will get
-	my rank as well…
+	Se achar o que eu
+	pedir, darei também
+	meu ranque...
 	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	What should we do,
+	O que a gente faz,
 	Lan?
 	"""
 	keyWait
@@ -120,43 +121,50 @@ script 20 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	There's no question.
-	Take him on!
+	Nem tem no que
+	pensar.
+	Encara esse desafio!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Get him to give us
-	the quest! Quickly!
+	Faz ele dar essa tal
+	missão! Rápido!
 	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = CloakedNavi
 	"""
-	You are a forceful
-	operator…
+	Que operador mais
+	mandão...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Prepare to receive
-	your quest.
+	Prepare-se para
+	receber sua missão.
 	"""
 	keyWait
 	clearMsg
-	"\"One of many birds\"."
+	"""
+	"Um de muitos
+	pássaros".
+	"""
 	keyWait
 	clearMsg
-	"Go now,and find it…"
+	"""
+	Agora,vá e
+	encontre-o...
+	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	"One of many birds"?
-	That's going to be
-	tough! Let's go,Lan!
+	"Um de muitos pássaros"?
+	Difícil charada...
+	Vamos, Lan!
 	"""
 	keyWait
 	end
@@ -171,15 +179,15 @@ script 22 mmbn3 {
 		mugshot = CloakedNavi
 	msgOpen
 	"""
-	What's this?
-	Given up already…?
+	O que foi?
+	Já desistiram...?
 	"""
 	keyWait
 	clearMsg
 	"""
-	"One of many birds"…
-	You cannot receive
-	the rank without it.
+	"Um de muitos pássaros".
+	Não receberá o ranque
+	sem ele.
 	"""
 	keyWait
 	end
@@ -189,15 +197,15 @@ script 23 mmbn3 {
 		mugshot = CloakedNavi
 	msgOpen
 	"""
-	I've totally
-	forgotten about rank
-	6…
+	Eu já me esqueci
+	completamente do
+	ranque 6...
 	"""
 	keyWait
 	clearMsg
 	"""
-	How dare you look
-	at me like that!
+	Como ousa olhar para
+	mim dessa forma?!
 	"""
 	keyWait
 	end
@@ -359,7 +367,7 @@ script 230 mmbn3 {
 	printItem
 		buffer = 0
 		item = 7
-	"\"!!"
+	"\"!"
 	playerFinish
 	playerUnlock
 	keyWait
@@ -396,7 +404,7 @@ script 231 mmbn3 {
 	printItem
 		buffer = 0
 		item = 8
-	"\"!!"
+	"\"!"
 	playerFinish
 	playerUnlock
 	keyWait
@@ -433,7 +441,7 @@ script 232 mmbn3 {
 	printItem
 		buffer = 0
 		item = 9
-	"\"!!"
+	"\"!"
 	playerFinish
 	playerUnlock
 	keyWait
@@ -537,7 +545,7 @@ script 237 mmbn3 {
 	printCode
 		buffer = 0
 		code = P
-	"\"!!"
+	"\"!"
 	playerFinish
 	playerUnlock
 	keyWait
@@ -575,7 +583,7 @@ script 238 mmbn3 {
 	printItem
 		buffer = 0
 		item = 96
-	"\"!!"
+	"\"!"
 	playerFinish
 	playerUnlock
 	keyWait
