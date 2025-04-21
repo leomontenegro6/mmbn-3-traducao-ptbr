@@ -79,6 +79,10 @@
     .stringn "CONVERSOR DE ENERGIA"
 .org 0x087E6A14
     .stringn "TROCA-CHIPS"
+.org 0x087E4260
+    .stringn "TROCA DE CHIPS   "
+;.org 0x087E4900
+;    .stringn "TROCA DE CHIPS   "
 
 ; Editando tilemap dos submenus, na parte de baixo das letras
 .loadtable "Tabelas/Telas Menus - Nomes Parte Baixo.tbl"
@@ -106,6 +110,10 @@
     .stringn "CONVERSOR DE ENERGIA"
 .org 0x087E6A50
     .stringn "TROCA-CHIPS"
+.org 0x087E429C
+    .stringn "TROCA DE CHIPS   "
+;.org 0x087E493C
+;    .stringn "TROCA DE CHIPS   "
 
 ; Tela de seleção de chips, entre turnos de batalhas.
 .org 0x086AFB68
