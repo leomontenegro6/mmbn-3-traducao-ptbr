@@ -166,12 +166,24 @@
     .stringn 0x18,0x90,0x18,0x90,0x18,0x90,0x18,0x90,0x18,0x90,0x18,0x90,0x18,0x90,0x18,0x90,0x18,0x90
 .org 0x086B2ED2
     .stringn 0x41,0x90,0x42,0x90,0x43,0x90,0x44,0x90,0x46,0x90,0x47,0x90,0x48,0x90,0x49,0x90,0x4A,0x90
-; Gráficos comprimidos, inseridos no final da rom.
+
+; Gráficos inseridos no final da rom, em sua maioria comprimidos.
 ; Catalogando ponteiros dos gráficos.
 .org 0x08022614
     .dw logo_tela_titulo
 .org 0x08022618
     .dw nomes_tela_titulo
+.org 0x08025144
+    .dw sala_aula_cleaners1
+.org 0x08025150
+    .dw sala_aula_cleaners1
+.org 0x080250D8
+    .dw cidade_acdc_higsbys
+
+.org 0x080251B0 + 0x30
+    .dw yoka_barracas_td
+.skip 4
+    .dw yoka_barracas_tm
 
 ; Inserindo gráficos no final da rom
 .orga filesize("Mega Man Battle Network 3 - Versao Azul (BR).gba")
@@ -184,5 +196,25 @@ logo_tela_titulo:
 nomes_tela_titulo:
     .incbin "Graficos/Recomprimidos/Nomes tela-titulo versao azul.gba"
     .align
-			
+
+sala_aula_cleaners1:
+    .incbin "Graficos/Recomprimidos/Sala Aula - Cleaners1.gba"
+    .align
+
+cidade_acdc_higsbys:
+    .incbin "Graficos/Recomprimidos/Cidade ACDC - Higsbys.gba"
+    .align
+
+yoka_barracas_tm:
+    .db 0xa0, 0x56, 0x00, 0x00
+    .dw 0x00000010
+    .dw 0x00006b90
+    .dw 0x0000d710
+    .incbin "Graficos/Recomprimidos/Yoka - Barracas (tm).bin"
+    .align
+
+yoka_barracas_td:
+    .incbin "Graficos/Recomprimidos/Yoka - Barracas (td).bin"
+    .align
+
 .close
