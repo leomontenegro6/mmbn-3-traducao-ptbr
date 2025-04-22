@@ -3,7 +3,7 @@
 script 0 mmbn3 {
 	mugshotHide
 	msgOpen
-	"The door opens!!"
+	"A porta se abre!!"
 	keyWait
 	end
 }
@@ -12,8 +12,8 @@ script 1 mmbn3 {
 		mugshot = JapanMan
 	msgOpen
 	"""
-	You! The blue Navi!!
-	Wait!!
+	Você! Navi Azul!
+	Espere!!
 	"""
 	keyWait
 	end
@@ -23,23 +23,22 @@ script 2 mmbn3 {
 		mugshot = JapanMan
 	msgOpen
 	"""
-	You,there.
-	Let me get a look
-	at you!
+	Você aí. Deixe-me dar
+	uma boa olhada em você!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'm JapanMan,the
-	greatest spear-
-	fighter ever!!
+	Sou YamatoMan, o melhor
+	usuário de lança da
+	história!!
 	"""
 	keyWait
 	clearMsg
 	"""
-	And I shall shish-
-	kebab you if you try
-	to go any further!
+	E farei espetinho de
+	você se tentar avançar
+	mais!
 	"""
 	keyWait
 	clearMsg
@@ -51,8 +50,7 @@ script 3 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	What's this guy's
-	problem…?
+	Qual é a desse aí...?
 	"""
 	keyWait
 	clearMsg
@@ -64,16 +62,16 @@ script 4 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Watch out for him,
-	Lan. He looks pretty
-	good with a spear…
+	Cuidado com ele.
+	Parece mesmo ser bom
+	com a lança...
 	"""
 	keyWait
 	clearMsg
 	"""
-	And I feel even more
-	power from him than
-	I did from DarkMan!
+	E sinto ainda mais poder
+	emanando dele do que do
+	DarkMan!
 	"""
 	keyWait
 	clearMsg
@@ -85,19 +83,19 @@ script 5 mmbn3 {
 		mugshot = JapanMan
 	msgOpen
 	"""
-	Are you ready to
-	meet your maker!?
+	Pronto para se despedir
+	desta vida?!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I usually don't like
-	to take on kids,but
-	orders are orders…
+	Não gosto de lutar com
+	crianças, mas ordens são
+	ordens...
 	"""
 	keyWait
 	clearMsg
-	"En garde!"
+	"Em guarda!"
 	keyWait
 	clearMsg
 	jump
@@ -107,13 +105,13 @@ script 6 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Here he comes!!"
+	"Lá vem ele!!"
 	keyWait
 	clearMsg
-	"Battle routine! "
+	"Rotina de batalha,"
 	waitSkip
 		frames = 30
-	"Set!"
+	"\npreparar!"
 	keyWait
 	clearMsg
 	jump

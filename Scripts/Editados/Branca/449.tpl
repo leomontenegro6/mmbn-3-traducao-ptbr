@@ -5,26 +5,26 @@ script 0 mmbn3 {
 		mugshot = DarkMan
 	msgOpen
 	"""
-	You will be sorry
-	that I didn't
-	delete you…
+	Você irá se arrepender
+	de eu não tê-lo
+	deletado...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Just wait until you
-	feel the Dark of the
-	UnderKing,Serenade!
+	Espere só até sentir a
+	escuridão do UndeRei,
+	Serenade!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Continue on,and
-	meet your deletion!
+	Siga a avançar...
+	rumo à sua deleção!
 	"""
 	keyWait
 	clearMsg
-	"Rrrrgghhh…"
+	"Rrrrgghhh..."
 	keyWait
 	end
 }
@@ -33,22 +33,22 @@ script 1 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	That DarkMan…
-	He was stronger than
-	a ranked operator!
+	DarkMan... Era mais
+	forte até que um
+	operador ranqueado!
 	"""
 	keyWait
 	clearMsg
 	"""
-	And he said that
-	there are even
-	stronger Navis here?
+	E ele disse que existem
+	Navis ainda mais fortes
+	por aí...
 	"""
 	keyWait
 	clearMsg
 	"""
-	And the "UnderKing",
-	Serenade…?
+	E Serenade,
+	o "UndeRei"...?
 	"""
 	keyWait
 	clearMsg
@@ -60,15 +60,15 @@ script 2 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Yeah,this area seems
-	different from all
-	the others…
+	É, esta área parece
+	diferente de todo o
+	resto da Rede...
 	"""
 	keyWait
 	clearMsg
 	"""
-	We'll need to be
-	especially careful!
+	A gente vai ter que
+	tomar cuidado dobrado!
 	"""
 	keyWait
 	clearMsg
@@ -79,7 +79,7 @@ script 3 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"I agree…"
+	"De acordo..."
 	keyWait
 	end
 }

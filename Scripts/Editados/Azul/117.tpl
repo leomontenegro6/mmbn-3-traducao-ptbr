@@ -5,8 +5,9 @@ script 0 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	4 weeds…4 weeds…
-	Top left…Top left…
+	4 ervas daninha... 4...
+	Canto superior-
+	esquerdo... De novo...
 	"""
 	keyWait
 	end
@@ -16,9 +17,9 @@ script 1 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	8 weeds…
-	2nd from the back…
-	2nd from the back…
+	8 ervas daninha...
+	Segunda de baixo para
+	cima... De novo...
 	"""
 	keyWait
 	end
@@ -26,9 +27,9 @@ script 1 mmbn3 {
 script 220 mmbn3 {
 	msgOpen
 	"""
-	To open the door,
-	press this area's
-	emergency button.
+	Para abrir a porta,
+	aperte o botão de
+	emergência da área.
 	"""
 	keyWait
 	end
@@ -36,16 +37,16 @@ script 220 mmbn3 {
 script 221 mmbn3 {
 	msgOpen
 	"""
-	A digiplant created
-	when the growth
-	system lost control
+	Cyberplanta criada com
+	a pane do sistema de
+	crescimento.
 	"""
 	keyWait
 	clearMsg
 	"""
-	It looks like it can
-	be burned away using
-	a strong flame
+	Parece que pode ser
+	queimada com chamas
+	intensas.
 	"""
 	keyWait
 	end
@@ -53,16 +54,16 @@ script 221 mmbn3 {
 script 222 mmbn3 {
 	msgOpen
 	"""
-	A digiplant created
-	when the growth
-	system lost control
+	Cyberplanta criada com
+	a pane do sistema de
+	crescimento.
 	"""
 	keyWait
 	clearMsg
 	"""
-	It looks like it can
-	be burned away using
-	a strong flame
+	Parece que pode ser
+	queimada com chamas
+	intensas.
 	"""
 	keyWait
 	end

@@ -1408,9 +1408,9 @@ script 202 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	I think he had
-	business in some
-	square somewhere…
+	Acho que ele ia tratar
+	de negócios em algum
+	plaza, por aí...
 	"""
 	keyWait
 	end

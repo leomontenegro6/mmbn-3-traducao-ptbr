@@ -967,43 +967,42 @@ script 19 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	If you play with
-	the Undernet,you'll
-	get burned.
+	Se vocês brincarem na
+	Undernet, vão se
+	queimar.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I know of some
-	students who take on
-	jobs from Officials
+	Conheço estudantes
+	que vão lá realizar
+	missões Oficiais,
 	"""
 	keyWait
 	clearMsg
 	"""
-	and go there,but
-	that's only because
-	they have reliable
+	mas só fazem isso
+	porque têm Navis e
+	habilidades boas.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Navis and strong
-	skills. Accessing it
-	for normal people…
+	Para pessoas normais,
+	acessar aquele lugar...
 	"""
 	keyWait
 	clearMsg
-	"…is simply suicide."
+	"... é puro suicídio."
 	keyWait
 	clearMsg
-	"The ModCode for\n"
+	"O CódigoMod pro\n"
 	printNaviCustProgram
 		buffer = 0
 		program = 5
 	"""
-	 is Error #
-	B2,"ALSK[ModTools3]W[ModTools2]R".
+	 é: Erro #B2
+	"ALSK[ModTools3]W[ModTools2]R".
 	"""
 	keyWait
 	waitHold
@@ -1022,23 +1021,23 @@ script 20 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	I can't believe the
-	famous Chaud
-	answered me! Thank
+	Eu não acredito que
+	o famoso Chaud me
+	respondeu! Obrigada!
 	"""
 	keyWait
 	clearMsg
 	"""
-	you! So you also
-	customize your Navi?
-	It must be amazing!
+	Você também customiza
+	o seu Navi? Ele deve
+	ser incrível!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I didn't see you in
-	N1. I'd love to see
-	you take Lan on!
+	Não pude te ver no N1.
+	Adoraria te ver lutar
+	contra o Lan!
 	"""
 	keyWait
 	waitHold
@@ -1057,16 +1056,15 @@ script 21 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	I found a Program
-	Advance that causes
-	a massive quake!
+	Achei um Programa
+	Avançado que causa
+	terremotos intensos!
 	"""
 	keyWait
 	clearMsg
 	"""
-	When putting it
-	together,imagine
-	falling rocks.
+	Para montá-lo, imagine
+	pedras em queda.
 	"""
 	keyWait
 	waitHold
@@ -1085,16 +1083,15 @@ script 22 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	I figured out
-	the earthquake
-	Program Advance from
+	Descobri o Programa
+	Avançado de terremoto
+	através da dica!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Arima's hint! You
-	have to use 2 of the
-	same chips. Rockin'!
+	Ele envolve dois chips
+	iguais. É pau, é pedra!
 	"""
 	keyWait
 	waitHold

@@ -17,7 +17,7 @@ script 0 mmbn3 {
 		delay = 0
 	color
 		palette = 3
-	"Do what?\n"
+	"Ação?\n"
 	option
 		left = 0
 		right = 0
@@ -25,7 +25,7 @@ script 0 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Edit folder\n"
+	"Editar pasta\n"
 	option
 		left = 1
 		right = 1
@@ -33,7 +33,7 @@ script 0 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Use folder"
+	"Usar pasta"
 	select
 		default = 0
 		BSeparate = true
@@ -67,7 +67,7 @@ script 1 mmbn3 {
 		delay = 0
 	color
 		palette = 3
-	"Equip\n"
+	"Equipou\n"
 	printFolderName
 		buffer = 1
 		entry = 0
@@ -96,9 +96,9 @@ script 2 mmbn3 {
 	color
 		palette = 3
 	"""
-	Too many
-	GigaChips!
-	Change them!
+	GigaChips
+	demais!
+	Reduza!
 	"""
 	keyWait
 	msgOpenInvisible
@@ -124,9 +124,9 @@ script 3 mmbn3 {
 	color
 		palette = 3
 	"""
-	Too many
-	MegaChips!
-	Change them!
+	MegaChips
+	demais!
+	Reduza!
 	"""
 	keyWait
 	msgOpenInvisible
@@ -152,8 +152,9 @@ script 4 mmbn3 {
 	color
 		palette = 3
 	"""
-	Gotta equip
-	a chip folder!
+	Você tem que
+	equipar
+	uma pasta!
 	"""
 	keyWait
 	msgOpenInvisible
@@ -178,7 +179,7 @@ script 5 mmbn3 {
 		delay = 0
 	color
 		palette = 3
-	"Do what?\n"
+	"Ação?\n"
 	option
 		left = 0
 		right = 0
@@ -186,7 +187,7 @@ script 5 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Use folder"
+	"Usar pasta"
 	select
 		default = 0
 		BSeparate = true
@@ -216,9 +217,8 @@ script 6 mmbn3 {
 	color
 		palette = 3
 	"""
-	Can't use the
-	Extra Folder!
-	It's locked!
+	Não pode usar Pasta
+	Extra! Está travada!
 	"""
 	keyWait
 	msgOpenInvisible
@@ -227,7 +227,7 @@ script 6 mmbn3 {
 	end
 }
 script 11 mmbn3s {
-	"Pack"
+	"Mchila"
 	end
 }
 script 13 mmbn3 {
@@ -248,8 +248,8 @@ script 13 mmbn3 {
 	color
 		palette = 3
 	"""
-	You don't have
-	30 chips yet
+	Você ainda não tem
+	30 chips.
 	"""
 	keyWait
 	msgOpenInvisible
@@ -275,9 +275,8 @@ script 14 mmbn3 {
 	color
 		palette = 3
 	"""
-	You can only
-	use 4 of the
-	same chip
+	Só pode usar 4 do
+	mesmo chip.
 	"""
 	keyWait
 	msgOpenInvisible
@@ -302,19 +301,13 @@ script 15 mmbn3 {
 		delay = 0
 	color
 		palette = 3
-	"""
-	You can only
-	use 
-	"""
+	"Só pode usar "
 	printBuffer
 		minLength = 1
 		padZeros = false
 		padLeft = false
 		buffer = 1
-	"""
-	 of the
-	same GigaChip
-	"""
+	"\ndo mesmo GigaChip."
 	keyWait
 	msgOpenInvisible
 		unused = 21
@@ -338,19 +331,13 @@ script 16 mmbn3 {
 		delay = 0
 	color
 		palette = 3
-	"""
-	You can only
-	use 
-	"""
+	"Só pode usar "
 	printBuffer
 		minLength = 1
 		padZeros = false
 		padLeft = false
 		buffer = 1
-	"""
-	 of the
-	same MegaChip
-	"""
+	"\ndo mesmo MegaChip."
 	keyWait
 	msgOpenInvisible
 		unused = 21
@@ -374,19 +361,13 @@ script 17 mmbn3 {
 		delay = 0
 	color
 		palette = 3
-	"""
-	You can only
-	use 
-	"""
+	"Só pode usar "
 	printBuffer
 		minLength = 1
 		padZeros = false
 		padLeft = false
 		buffer = 1
-	"""
-	 total
-	GigaChips
-	"""
+	"\nGigaChips no todo."
 	keyWait
 	msgOpenInvisible
 		unused = 21
@@ -410,19 +391,13 @@ script 18 mmbn3 {
 		delay = 0
 	color
 		palette = 3
-	"""
-	You can only
-	use 
-	"""
+	"Só pode usar "
 	printBuffer
 		minLength = 1
 		padZeros = false
 		padLeft = false
 		buffer = 1
-	"""
-	 total
-	MegaChips
-	"""
+	"\nMegaChips no todo."
 	keyWait
 	msgOpenInvisible
 		unused = 21
@@ -447,9 +422,9 @@ script 19 mmbn3 {
 	color
 		palette = 3
 	"""
-	You don't have
-	the capacity
-	for that
+	Você não tem a
+	capacidade para
+	isso.
 	"""
 	keyWait
 	msgOpenInvisible
@@ -474,10 +449,7 @@ script 20 mmbn3 {
 		delay = 0
 	color
 		palette = 3
-	"""
-	You got a
-	new mail
-	"""
+	"Chegou e-mail novo!"
 	waitHold
 }
 script 21 mmbn3 {
@@ -498,8 +470,8 @@ script 21 mmbn3 {
 	color
 		palette = 3
 	"""
-	Read which
-	mail?
+	Qual e-mail quer
+	ler?
 	"""
 	waitHold
 }
@@ -520,7 +492,7 @@ script 22 mmbn3 {
 		delay = 0
 	color
 		palette = 3
-	"No new mail…"
+	"Nenhum e-mail novo."
 	waitHold
 }
 script 24 mmbn3 {
@@ -559,7 +531,7 @@ script 24 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"   Sim "
+	"Sim "
 	option
 		left = 0
 		right = 0
@@ -567,7 +539,7 @@ script 24 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"          Não"
+	"Não"
 	select
 		default = 1
 		BSeparate = true
@@ -601,9 +573,8 @@ script 25 mmbn3 {
 	color
 		palette = 3
 	"""
-	Only non-
-	elemental
-	effects work!
+	Precisa ser um poder
+	não-elemental!
 	"""
 	keyWait
 	msgOpenInvisible
@@ -629,9 +600,8 @@ script 26 mmbn3 {
 	color
 		palette = 3
 	"""
-	Only a Wood
-	effect will
-	work!
+	Precisa usar um chip
+	de Madeira!
 	"""
 	keyWait
 	msgOpenInvisible
@@ -657,9 +627,8 @@ script 27 mmbn3 {
 	color
 		palette = 3
 	"""
-	Only an Aqua
-	effect will
-	work!
+	Precisa usar um chip
+	de Água!
 	"""
 	keyWait
 	msgOpenInvisible
@@ -685,9 +654,8 @@ script 28 mmbn3 {
 	color
 		palette = 3
 	"""
-	Only an Elec
-	effect will
-	work!
+	Precisa usar um chip
+	Elétrico!
 	"""
 	keyWait
 	msgOpenInvisible
@@ -713,9 +681,8 @@ script 29 mmbn3 {
 	color
 		palette = 3
 	"""
-	Only a Fire
-	effect will
-	burn it!
+	Use um chip de Fogo
+	para queimá-la!
 	"""
 	keyWait
 	msgOpenInvisible
@@ -736,7 +703,7 @@ script 31 mmbn3s {
 	end
 }
 script 34 mmbn3s {
-	"ChpPdrão"
+	"ChipPadr"
 	end
 }
 script 35 mmbn3s {
@@ -777,8 +744,8 @@ script 41 mmbn3 {
 	color
 		palette = 3
 	"""
-	Cancelar programa e
-	voltar?
+	Cancelar programa
+	e voltar?
 	
 	"""
 	option
@@ -788,7 +755,7 @@ script 41 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"   Sim "
+	"Sim "
 	option
 		left = 0
 		right = 0
@@ -796,7 +763,7 @@ script 41 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"          Não"
+	"Não"
 	select
 		default = 1
 		BSeparate = true
@@ -810,7 +777,7 @@ script 41 mmbn3 {
 	waitHold
 }
 script 42 mmbn3s {
-	"EXECUTANDO..."
+	"EXECUTAR"
 	end
 }
 script 43 mmbn3s {
@@ -835,7 +802,7 @@ script 44 mmbn3 {
 	color
 		palette = 3
 	"""
-	EXECUÇÃO concluída!
+	Execução concluída!
 	Como se sente,
 	MegaMan?!
 	"""
@@ -882,8 +849,8 @@ script 45 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	Sair do Customi-
-	zador de Navi?
+	Sair do Cus-
+	tomizador? 
 	
 	"""
 	option
@@ -893,7 +860,7 @@ script 45 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"   Sim "
+	"Sim "
 	option
 		left = 0
 		right = 0
@@ -901,7 +868,7 @@ script 45 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"          Não"
+	"Não"
 	select
 		default = 0
 		BSeparate = true
@@ -932,7 +899,7 @@ script 46 mmbn3 {
 	color
 		palette = 3
 	"""
-	Hmmm... meio estra-
+	Hm... Meio estra-
 	nho, mas bem!
 	"""
 	keyWait
@@ -950,8 +917,8 @@ script 46 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	Sair do Customi-
-	zador de Navi?
+	Sair do Cus-
+	tomizador? 
 	
 	"""
 	option
@@ -961,7 +928,7 @@ script 46 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"   Sim "
+	"Sim "
 	option
 		left = 0
 		right = 0
@@ -969,7 +936,7 @@ script 46 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"          Não"
+	"Não"
 	select
 		default = 0
 		BSeparate = true
@@ -1004,8 +971,8 @@ script 48 mmbn3 {
 	color
 		palette = 3
 	"""
-	Condição atual
-	de MegaMan.EXE.
+	Condição atual de
+	MegaMan.EXE.
 	"""
 	waitHold
 }
@@ -1082,7 +1049,7 @@ script 50 mmbn3 {
 	printItem
 		buffer = 1
 		item = 0
-	" estilo"
+	" Estilo"
 	select
 		default = 0
 		BSeparate = false
@@ -1137,7 +1104,7 @@ script 52 mmbn3 {
 		delay = 0
 	color
 		palette = 3
-	"Equipped "
+	"Equipou\n"
 	printItem
 		buffer = 1
 		item = 0
@@ -1146,7 +1113,7 @@ script 52 mmbn3 {
 	waitHold
 }
 script 53 mmbn3s {
-	"Attack LV"
+	"Ataque NV"
 	printBuffer
 		buffer = 0
 		minLength = 2
@@ -1155,7 +1122,7 @@ script 53 mmbn3s {
 	end
 }
 script 54 mmbn3s {
-	"Speed  LV"
+	"RapidezNV"
 	printBuffer
 		buffer = 0
 		minLength = 2
@@ -1164,7 +1131,7 @@ script 54 mmbn3s {
 	end
 }
 script 55 mmbn3s {
-	"Charge LV"
+	"Carga  NV"
 	printBuffer
 		buffer = 0
 		minLength = 2
@@ -1173,7 +1140,7 @@ script 55 mmbn3s {
 	end
 }
 script 56 mmbn3s {
-	"Pwr ElecLV"
+	"FrçElétNV"
 	printBuffer
 		buffer = 0
 		minLength = 1
@@ -1182,7 +1149,7 @@ script 56 mmbn3s {
 	end
 }
 script 57 mmbn3s {
-	"Pwr HeatLV"
+	"FrçFogoNV"
 	printBuffer
 		buffer = 0
 		minLength = 1
@@ -1191,7 +1158,7 @@ script 57 mmbn3s {
 	end
 }
 script 58 mmbn3s {
-	"Pwr AquaLV"
+	"FrçÁguaNV"
 	printBuffer
 		buffer = 0
 		minLength = 1
@@ -1200,7 +1167,7 @@ script 58 mmbn3s {
 	end
 }
 script 59 mmbn3s {
-	"Pwr WoodLV"
+	"FrçMdraNV"
 	printBuffer
 		buffer = 0
 		minLength = 1
@@ -1209,15 +1176,15 @@ script 59 mmbn3s {
 	end
 }
 script 60 mmbn3s {
-	"Pwr Invis"
+	"Frç. Invis"
 	end
 }
 script 61 mmbn3s {
-	"Pwr ChargeS"
+	"Frç. CargaS"
 	end
 }
 script 62 mmbn3s {
-	"ChipPdr "
+	"ChipPdr"
 	printBuffer
 		buffer = 0
 		minLength = 2
@@ -1227,7 +1194,7 @@ script 62 mmbn3s {
 	end
 }
 script 63 mmbn3s {
-	"MegaChips "
+	"MegaChips"
 	printBuffer
 		buffer = 0
 		minLength = 2
@@ -1236,7 +1203,7 @@ script 63 mmbn3s {
 	end
 }
 script 64 mmbn3s {
-	"GigaChip "
+	"GigaChip"
 	printBuffer
 		buffer = 0
 		minLength = 2
@@ -1261,10 +1228,7 @@ script 65 mmbn3 {
 		delay = 0
 	color
 		palette = 3
-	"""
-	Salvar o jogo?
-	
-	"""
+	"Salvar o jogo? \n"
 	option
 		left = 1
 		right = 1
@@ -1272,7 +1236,7 @@ script 65 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"   Sim "
+	"Sim "
 	option
 		left = 0
 		right = 0
@@ -1280,7 +1244,7 @@ script 65 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"          Não"
+	"Não"
 	select
 		default = 0
 		BSeparate = false
@@ -1316,8 +1280,8 @@ script 66 mmbn3 {
 		palette = 3
 	clearMsg
 	"""
-	Apagar velhos
-	dados salvos?
+	Apagar velhos dados
+	salvos? 
 	
 	"""
 	option
@@ -1327,7 +1291,7 @@ script 66 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"   Sim "
+	"Sim "
 	option
 		left = 0
 		right = 0
@@ -1335,7 +1299,7 @@ script 66 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"          Não"
+	"Não"
 	select
 		default = 0
 		BSeparate = false
@@ -1384,7 +1348,7 @@ script 67 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"   Sim "
+	"Sim "
 	option
 		left = 0
 		right = 0
@@ -1392,7 +1356,7 @@ script 67 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"          Não"
+	"Não"
 	select
 		default = 0
 		BSeparate = false
@@ -1423,9 +1387,7 @@ script 68 mmbn3 {
 	color
 		palette = 3
 	clearMsg
-	"""
-	Seu jogo foi salvo!
-	"""
+	"Seu jogo foi salvo!"
 	keyWait
 	waitHold
 }
@@ -1446,7 +1408,7 @@ script 72 mmbn3s {
 	end
 }
 script 73 mmbn3s {
-	"  "
+	" "
 	printBuffer
 		buffer = 0
 		minLength = 2
@@ -1487,7 +1449,7 @@ script 77 mmbn3s {
 		minLength = 6
 		padZeros = false
 		padLeft = true
-	"z"
+	"[z]"
 	end
 }
 script 80 mmbn3 {
@@ -1505,10 +1467,7 @@ script 80 mmbn3 {
 		unused = 12
 	color
 		palette = 3
-	"""
-	You don't have
-	anything…
-	"""
+	"Você não tem nada..."
 	waitHold
 }
 script 82 mmbn3 {
@@ -1541,7 +1500,7 @@ script 82 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"   Sim "
+	"Sim "
 	option
 		left = 0
 		right = 0
@@ -1549,7 +1508,7 @@ script 82 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"          Não"
+	"Não"
 	select
 		default = 0
 		BSeparate = false
@@ -1581,8 +1540,9 @@ script 83 mmbn3 {
 	color
 		palette = 3
 	"""
-	MegaMan's HP
-	has recovered!
+	Os PV de Mega-
+	Man foram 
+	restaurados!
 	"""
 	keyWait
 	msgOpenInvisible
@@ -1606,9 +1566,9 @@ script 84 mmbn3 {
 	color
 		palette = 3
 	"""
-	MegaMan's HP
-	has fully
-	recovered!
+	Os PV de Mega-
+	Man se recupe-
+	raram 100%!
 	"""
 	keyWait
 	msgOpenInvisible
@@ -1634,8 +1594,8 @@ script 85 mmbn3 {
 	color
 		palette = 3
 	"""
-	HP is
-	maxed out!
+	PV já estão no
+	máximo!
 	"""
 	keyWait
 	msgOpenInvisible
@@ -1666,7 +1626,7 @@ script 86 mmbn3 {
 		item = 0
 	"""
 	"
-	in use
+	está em uso.
 	"""
 	keyWait
 	msgOpenInvisible
@@ -1692,9 +1652,8 @@ script 87 mmbn3 {
 	color
 		palette = 3
 	"""
-	No viruses
-	encountered
-	here yet!
+	Nenhum vírus achado
+	aqui até agora!
 	"""
 	keyWait
 	msgOpenInvisible
@@ -1720,9 +1679,9 @@ script 88 mmbn3 {
 	color
 		palette = 3
 	"""
-	There isn't
-	any locked
-	mystery data!
+	Não tem dados
+	misteriosos
+	bloqueados aqui!
 	"""
 	keyWait
 	msgOpenInvisible
@@ -1746,8 +1705,8 @@ script 89 mmbn3 {
 	color
 		palette = 3
 	"""
-	You can't use
-	that yet
+	Não pode usar isso
+	ainda.
 	"""
 	keyWait
 	msgOpenInvisible
@@ -1773,8 +1732,8 @@ script 90 mmbn3 {
 	color
 		palette = 3
 	"""
-	Let's save
-	first!
+	Vamos salvar
+	primeiro! 
 	
 	"""
 	option
@@ -1784,7 +1743,7 @@ script 90 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"Sim "
 	option
 		left = 0
 		right = 0
@@ -1792,7 +1751,7 @@ script 90 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No"
+	"Não"
 	select
 		default = 0
 		BSeparate = false
@@ -1828,8 +1787,8 @@ script 91 mmbn3 {
 		palette = 3
 	clearMsg
 	"""
-	Apagar velhos
-	dados salvos?
+	Apagar velhos dados
+	salvos? 
 	
 	"""
 	option
@@ -1839,7 +1798,7 @@ script 91 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"Sim "
 	option
 		left = 0
 		right = 0
@@ -1847,7 +1806,7 @@ script 91 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No"
+	"Não"
 	select
 		default = 0
 		BSeparate = false
@@ -1896,7 +1855,7 @@ script 92 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"Sim "
 	option
 		left = 0
 		right = 0
@@ -1904,7 +1863,7 @@ script 92 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No"
+	"Não"
 	select
 		default = 0
 		BSeparate = false
@@ -1935,10 +1894,7 @@ script 93 mmbn3 {
 	color
 		palette = 3
 	clearMsg
-	"""
-	OK! Your save
-	is complete!
-	"""
+	"OK! Jogo salvo!"
 	keyWait
 	waitHold
 }
@@ -1960,8 +1916,8 @@ script 94 mmbn3 {
 	color
 		palette = 3
 	"""
-	NetBattle with
-	a friend!
+	NetLutar com um
+	amigo!
 	"""
 	waitHold
 }
@@ -1983,8 +1939,8 @@ script 95 mmbn3 {
 	color
 		palette = 3
 	"""
-	Trade data
-	library info!
+	Trocar dados de
+	coleção!
 	"""
 	waitHold
 }
@@ -2005,10 +1961,7 @@ script 96 mmbn3 {
 		delay = 0
 	color
 		palette = 3
-	"""
-	Trade Battle
-	Chips!
-	"""
+	"Trocar chips!"
 	waitHold
 }
 script 97 mmbn3 {
@@ -2028,10 +1981,7 @@ script 97 mmbn3 {
 		delay = 0
 	color
 		palette = 3
-	"""
-	Trade
-	programs!
-	"""
+	"Trocar programas!"
 	waitHold
 }
 script 98 mmbn3 {
@@ -2052,8 +2002,8 @@ script 98 mmbn3 {
 	color
 		palette = 3
 	"""
-	NetBattle on a
-	normal field!
+	NetLutar num
+	campo normal!
 	"""
 	waitHold
 }
@@ -2075,9 +2025,8 @@ script 99 mmbn3 {
 	color
 		palette = 3
 	"""
-	NetBattle on a
-	different
-	terrain!
+	NetLutar num
+	terreno diferente!
 	"""
 	waitHold
 }
@@ -2099,9 +2048,8 @@ script 100 mmbn3 {
 	color
 		palette = 3
 	"""
-	NetBattle on a
-	field with
-	traps!
+	NetLutar num campo
+	com armadilhas!
 	"""
 	waitHold
 }
@@ -2123,9 +2071,8 @@ script 101 mmbn3 {
 	color
 		palette = 3
 	"""
-	Winner of 2
-	out of 3 is
-	champion!
+	Vence quem ganhar
+	2 das 3 lutas!
 	"""
 	waitHold
 }
@@ -2147,9 +2094,8 @@ script 102 mmbn3 {
 	color
 		palette = 3
 	"""
-	Practice
-	NetBattling
-	with a friend!
+	Praticar NetLuta
+	com um amigo!
 	"""
 	waitHold
 }
@@ -2171,9 +2117,8 @@ script 103 mmbn3 {
 	color
 		palette = 3
 	"""
-	Battle with a
-	friend! Loser
-	loses a chip!
+	Lutar com um amigo,
+	valendo um chip!
 	"""
 	waitHold
 }
@@ -2195,14 +2140,13 @@ script 104 mmbn3 {
 	color
 		palette = 3
 	"""
-	Tournament!
-	Can you win 69
-	times in a row?
+	Torneio! Vai vencer
+	69 vezes seguidas?
 	"""
 	waitHold
 }
 script 105 mmbn3s {
-	"Chips held:\n"
+	"Chips:\n"
 	printBuffer
 		buffer = 0
 		minLength = 6
@@ -2211,13 +2155,13 @@ script 105 mmbn3s {
 	end
 }
 script 106 mmbn3s {
-	"   Record\n   "
+	"Recorde\n"
 	printBuffer
 		buffer = 0
 		minLength = 3
 		padZeros = false
 		padLeft = true
-	"/W"
+	"/V"
 	printBuffer
 		buffer = 1
 		minLength = 3
@@ -2227,47 +2171,47 @@ script 106 mmbn3s {
 	end
 }
 script 107 mmbn3s {
-	"NetBattle"
+	"NetLutar"
 	end
 }
 script 108 mmbn3s {
-	"See Library"
+	"Ver Coleção"
 	end
 }
 script 109 mmbn3s {
-	"Trade chips"
+	"Trocar chip"
 	end
 }
 script 110 mmbn3s {
-	"Trade prgrm"
+	"Trocar prog"
 	end
 }
 script 111 mmbn3s {
-	"Lightweight"
+	"Iniciante"
 	end
 }
 script 112 mmbn3s {
-	"Midweight"
+	"Regular"
 	end
 }
 script 113 mmbn3s {
-	"Heavyweight"
+	"Experiente"
 	end
 }
 script 114 mmbn3s {
-	"Tri-Battle"
+	"Batalha-3"
 	end
 }
 script 115 mmbn3s {
-	"Practice"
+	"Praticar"
 	end
 }
 script 116 mmbn3s {
-	"Real"
+	"Para valer"
 	end
 }
 script 117 mmbn3s {
-	"Tournament"
+	"Torneio"
 	end
 }
 script 118 mmbn3 {
@@ -2288,9 +2232,9 @@ script 118 mmbn3 {
 	color
 		palette = 3
 	"""
-	Communication
-	error! Please
-	try again
+	Erro de comunicação!
+	Por favor, tente de
+	novo.
 	"""
 	keyWait
 	waitHold
@@ -2313,9 +2257,8 @@ script 119 mmbn3 {
 	color
 		palette = 3
 	"""
-	Communication
-	error! Battle
-	cancelled
+	Erro de comunicação!
+	Batalha cancelada.
 	"""
 	keyWait
 	waitHold
@@ -2338,9 +2281,8 @@ script 120 mmbn3 {
 	color
 		palette = 3
 	"""
-	No chip to
-	give up
-	if you lose!
+	Sem chip para dar
+	caso perca!
 	"""
 	keyWait
 	waitHold
@@ -2363,9 +2305,8 @@ script 121 mmbn3 {
 	color
 		palette = 3
 	"""
-	Your friend
-	isn't ready!
-	Please wait!
+	Seu amigo ainda não
+	está pronto! Espere.
 	"""
 	waitHold
 }
@@ -2387,9 +2328,8 @@ script 122 mmbn3 {
 	color
 		palette = 3
 	"""
-	Choose the
-	same mode as
-	your friend!
+	Escolha o mesmo modo
+	que seu amigo!
 	"""
 	keyWait
 	waitHold
@@ -2412,8 +2352,8 @@ script 123 mmbn3 {
 	color
 		palette = 3
 	"""
-	Want to wait
-	a little more?
+	Quer esperar mais um
+	pouco? 
 	
 	"""
 	option
@@ -2423,7 +2363,7 @@ script 123 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"Sim "
 	option
 		left = 0
 		right = 0
@@ -2431,7 +2371,7 @@ script 123 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No"
+	"Não"
 	select
 		default = 0
 		BSeparate = false
@@ -2462,8 +2402,8 @@ script 125 mmbn3 {
 	color
 		palette = 3
 	"""
-	Great job,
-	Lan! We won!
+	Bom trabalho, Lan!
+	Vencemos!
 	"""
 	keyWait
 	waitHold
@@ -2486,8 +2426,8 @@ script 126 mmbn3 {
 	color
 		palette = 3
 	"""
-	Too bad,Lan!
-	We lost!
+	Que pena, né, Lan?
+	Perdemos...
 	"""
 	keyWait
 	waitHold
@@ -2510,8 +2450,8 @@ script 127 mmbn3 {
 	color
 		palette = 3
 	"""
-	That was
-	close! A tie!
+	Foi uma luta de
+	iguais! Empatou!
 	"""
 	keyWait
 	waitHold
@@ -2533,13 +2473,13 @@ script 128 mmbn3 {
 		delay = 0
 	color
 		palette = 3
-	"That makes "
+	"Com isso, temos "
 	printBuffer
 		minLength = 1
 		padZeros = false
 		padLeft = false
 		buffer = 1
-	"\nwins! Again?\n"
+	"\nvitórias! De novo?\n"
 	option
 		left = 1
 		right = 1
@@ -2547,7 +2487,7 @@ script 128 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"Sim "
 	option
 		left = 0
 		right = 0
@@ -2555,7 +2495,7 @@ script 128 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No"
+	"Não"
 	select
 		default = 0
 		BSeparate = false
@@ -2586,8 +2526,8 @@ script 129 mmbn3 {
 	color
 		palette = 3
 	"""
-	OK! Let's
-	NetBattle!
+	Beleza! Vamos
+	NetLutar!
 	"""
 	waitHold
 }
@@ -2611,49 +2551,49 @@ script 130 mmbn3 {
 	"Analisando!\n"
 	wait
 		frames = 60
-	"・"
+	"."
 	wait
 		frames = 60
-	"・"
+	"."
 	wait
 		frames = 60
-	"・"
+	"."
 	wait
 		frames = 60
-	"・"
+	"."
 	wait
 		frames = 60
-	"・"
+	"."
 	wait
 		frames = 60
-	"・"
+	"."
 	wait
 		frames = 60
-	"・"
+	"."
 	wait
 		frames = 60
-	"・"
+	"."
 	wait
 		frames = 60
-	"・"
+	"."
 	wait
 		frames = 60
-	"・"
+	"."
 	wait
 		frames = 60
-	"・"
+	"."
 	wait
 		frames = 60
-	"・"
+	"."
 	wait
 		frames = 60
-	"・"
+	"."
 	wait
 		frames = 60
-	"・"
+	"."
 	wait
 		frames = 60
-	"・"
+	"."
 	waitHold
 }
 script 131 mmbn3 {
@@ -2674,9 +2614,8 @@ script 131 mmbn3 {
 	color
 		palette = 3
 	"""
-	Starting
-	up chip
-	trade screen!
+	Ativando tela de
+	troca de chips!
 	"""
 	waitHold
 }
@@ -2698,9 +2637,8 @@ script 132 mmbn3 {
 	color
 		palette = 3
 	"""
-	Starting
-	up program
-	trade screen!
+	Ativando tela de
+	troca de programas!
 	"""
 	waitHold
 }
@@ -2709,7 +2647,7 @@ script 133 mmbn3s {
 	end
 }
 script 134 mmbn3s {
-	"None"
+	"Nada"
 	end
 }
 script 136 mmbn3 {
@@ -2729,10 +2667,7 @@ script 136 mmbn3 {
 		mugshot = MegaMan
 	color
 		palette = 3
-	"""
-	Trade
-	complete!
-	"""
+	"Troca concluída!"
 	keyWait
 	waitHold
 }
@@ -2754,9 +2689,8 @@ script 137 mmbn3 {
 	color
 		palette = 3
 	"""
-	Trade
-	complete!
-	But,why…?
+	Troca concluída!
+	Mas pra quê...?
 	"""
 	keyWait
 	waitHold
@@ -2779,9 +2713,8 @@ script 138 mmbn3 {
 	color
 		palette = 3
 	"""
-	Communications
-	error! Trade
-	cancelled!
+	Erro de comunicação!
+	Troca abortada!
 	"""
 	keyWait
 	waitHold
@@ -2804,8 +2737,8 @@ script 139 mmbn3 {
 	color
 		palette = 3
 	"""
-	You can't both
-	trade nothing!
+	Vocês têm que trocar
+	alguma coisa!
 	"""
 	keyWait
 	msgOpenInvisible
@@ -2831,8 +2764,8 @@ script 140 mmbn3 {
 	color
 		palette = 3
 	"""
-	You can't both
-	trade nothing!
+	Vocês têm que trocar
+	alguma coisa!
 	"""
 	keyWait
 	waitHold
@@ -2855,9 +2788,9 @@ script 141 mmbn3 {
 	color
 		palette = 3
 	"""
-	We got new
-	data in our
-	library!
+	Novos dados
+	inseridos na sua
+	coleção!
 	"""
 	keyWait
 	waitHold
@@ -2880,9 +2813,9 @@ script 142 mmbn3 {
 	color
 		palette = 3
 	"""
-	Looks like we
-	didn't get
-	anything new…
+	Parece que não
+	ganhamos nada de
+	novo...
 	"""
 	keyWait
 	waitHold
@@ -2905,8 +2838,8 @@ script 150 mmbn3 {
 	color
 		palette = 3
 	"""
-	É preciso usar
-	to reprogram!
+	Será preciso
+	reprogramar! 
 	
 	"""
 	option
@@ -2924,7 +2857,7 @@ script 150 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Cancel"
+	"Ficar"
 	select
 		default = 0
 		BSeparate = false
@@ -2955,9 +2888,9 @@ script 151 mmbn3 {
 	color
 		palette = 3
 	"""
-	You'll need to
-	reprogram me
-	for the style!
+	Será preciso me
+	reprogramar para o
+	estilo!
 	"""
 	keyWait
 	waitHold
@@ -2978,9 +2911,9 @@ script 152 mmbn3 {
 	color
 		palette = 3
 	"""
-	Can't use this
-	folder! Will
-	use extra now!
+	Não dá para usar
+	essa pasta! Usando
+	a extra agora!
 	"""
 	keyWait
 	waitHold
@@ -3005,8 +2938,8 @@ script 155 mmbn3 {
 		palette = 3
 	clearMsg
 	"""
-	A data error
-	occurred!
+	Houve erro nos
+	dados!
 	"""
 	keyWait
 	clearMsg
@@ -3018,7 +2951,7 @@ script 155 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"Sim "
 	option
 		left = 0
 		right = 0
@@ -3026,7 +2959,7 @@ script 155 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No"
+	"Não"
 	select
 		default = 0
 		BSeparate = false
@@ -3059,8 +2992,8 @@ script 156 mmbn3 {
 		palette = 3
 	clearMsg
 	"""
-	A data error
-	occurred!
+	Houve erro nos
+	dados!
 	"""
 	keyWait
 	clearMsg
@@ -3072,7 +3005,7 @@ script 156 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"Sim "
 	option
 		left = 0
 		right = 0
@@ -3080,7 +3013,7 @@ script 156 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No"
+	"Não"
 	select
 		default = 0
 		BSeparate = false
@@ -3102,38 +3035,39 @@ script 162 mmbn3s {
 }
 script 163 mmbn3s {
 	"""
-	Recupera todos
-	os PV!
+	Recupera
+	todos os PV!
 	"""
 	end
 }
 script 164 mmbn3s {
 	"""
-	Fique temporariamente
-	sem encontrar vírus
-	fracos.
+	Vírus fracos
+	não aparecem
+	por um tempo.
 	"""
 	end
 }
 script 165 mmbn3s {
 	"""
-	Remove armadilhas
-	de dados misteriosos.
+	Tira armadi-
+	lha de dados
+	misteriosos.
 	"""
 	end
 }
 script 166 mmbn3s {
 	"""
-	Aumenta as chances
-	de encontrar o último
-	inimigo de novo.
+	+ chance de
+	repetir úl-
+	timo vírus.
 	"""
 	end
 }
 script 167 mmbn3s {
 	"""
-	Desbloqueia dados
-	misteriosos
+	Desbloqueia
+	dados
 	protegidos.
 	"""
 	end

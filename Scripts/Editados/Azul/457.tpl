@@ -180,11 +180,11 @@ script 45 mmbn3s {
 	end
 }
 script 46 mmbn3s {
-	"__Four Hades■"
+	"__4 Infernos■"
 	end
 }
 script 47 mmbn3s {
-	"EternalHades■"
+	"Infrn Eterno■"
 	end
 }
 script 48 mmbn3s {

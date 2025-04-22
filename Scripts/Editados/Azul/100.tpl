@@ -377,9 +377,8 @@ script 50 mmbn3 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Ei,você! O que você
-	pensa que tá
-	fazendo?!
+	Ei, você! O que você
+	pensa que tá fazendo?!
 	"""
 	keyWait
 	clearMsg

@@ -22,16 +22,16 @@ script 10 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	A surface Navi!
-	I dunno what you're
-	here for,but you'd
+	Um Navi da superfície!
+	Não sei o que tu tá
+	fazendo aqui,
 	"""
 	keyWait
 	clearMsg
 	"""
-	better hurry up and
-	go back before it's
-	too late!
+	mas devia era dar pra
+	trás logo, antes que
+	seja tarde!
 	"""
 	keyWait
 	end
@@ -41,29 +41,28 @@ script 11 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	Lemme give you a bit
-	of friendly advice.
+	Conselho de amigo,
+	garoto:
 	"""
 	keyWait
 	clearMsg
 	"""
-	You can go through
-	here to Undernet 5,
-	but it's a dead end.
+	dá pra ir pra Undernet 5
+	daqui, mas é um beco sem
+	saída.
 	"""
 	keyWait
 	clearMsg
 	"""
-	If you want to go
-	past Undernet 5,go
-	back to the square
+	Se quiser ir pra além da
+	Undernet5, volte pro
+	Plaza, da Undernet3,
 	"""
 	keyWait
 	clearMsg
 	"""
-	in Undernet 3,then
-	go back to Undernet
-	5 from there.
+	daí volte pra Undernet 5
+	a partir de lá.
 	"""
 	keyWait
 	end
@@ -77,29 +76,29 @@ script 12 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	Bah! You found me!
-	You just don't give
-	up,do you? OK…
+	Argh! Cê me achou!
+	Mas cê não desiste
+	mesmo, hein? OK...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Since you found me,
-	the "Hidden Demon"…
+	Como cê fez a façanha
+	de achar o "Demônio
+	Oculto"...
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'll tell you a
-	secret. But…
-	Hey,wait a second!
+	Eu te conto um segredo.
+	Mas...
+	Ei, peraí!
 	"""
 	keyWait
 	clearMsg
 	"""
-	You're not from the
-	Undernet!
-	Get outta here!
+	Cê não é da Undernet!
+	Cai fora daqui!
 	"""
 	keyWait
 	end
@@ -109,22 +108,23 @@ script 13 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	Bah! You found me!
-	You just don't give
-	up,do you? OK…
+	Argh! Cê me achou!
+	Mas cê não desiste
+	mesmo, hein? OK...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Since you found me,
-	the "Hidden Demon"…
+	Como cê fez a façanha
+	de achar o "Demônio
+	Oculto"...
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'll tell you a
-	secret. Error #S2S,
-	Code "F[ModTools2]AAFETG"
+	eu te conto um segredo.
+	Erro #S2S, Código
+	"F[ModTools2]AAFETG"
 	"""
 	keyWait
 	end
@@ -138,16 +138,16 @@ script 20 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	So,you found me!
-	Lucky you! This is
-	your big chance…
+	Cê me achou!
+	Mas que sorte a sua!
+	É sua grande chance...
 	"""
 	keyWait
 	clearMsg
 	"""
-	To challenge a fine
-	gent who's ranked
-	#3! Ahem…!
+	de desafiar um
+	"cavalhero" no ranque
+	#3! Ham-ram...!
 	"""
 	keyWait
 	end
@@ -157,9 +157,9 @@ script 21 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	You made it this
-	far,but look out for
-	Rank #3…
+	Admiro cê chegar tão
+	longe, mas cuidado com
+	o #3...
 	"""
 	keyWait
 	end
@@ -173,9 +173,9 @@ script 30 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	I don't have time to
-	waste talking to
-	you! Get outta here!
+	Eu não tenho tempo pra
+	perder papeando contigo!
+	Vaza, mano!
 	"""
 	keyWait
 	end
@@ -184,13 +184,15 @@ script 31 mmbn3 {
 	mugshotShow
 		mugshot = HeelNavi
 	msgOpen
-	"You got the skills…"
+	"""
+	Você tem habilidade...
+	"""
 	keyWait
 	clearMsg
 	"""
-	The only thing the
-	Undernet respects is
-	power.
+	A única coisa que a
+	Undernet respeita é
+	força.
 	"""
 	keyWait
 	end
@@ -204,16 +206,16 @@ script 40 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	I dunno if they're
-	from the WWW or
-	what,but those guys
+	Sei lá se são WWW ou
+	Gospel ou o quê, mas
+	aqueles doidos
 	"""
 	keyWait
 	clearMsg
 	"""
-	ain't friends of
-	mine! So don't lump
-	us together!
+	não são amigos meus!
+	Então, não vai me
+	misturar com eles!
 	"""
 	keyWait
 	end
@@ -223,15 +225,15 @@ script 41 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	Those WWW guys sure
-	are a pain!
+	Esse povo da WWW é um
+	pé no saco!
 	"""
 	keyWait
 	clearMsg
 	"""
-	They make even us
-	Undernet guys look
-	bad!
+	Conseguem até manchar
+	a reputação da gente,
+	da Undernet!
 	"""
 	keyWait
 	end
@@ -245,8 +247,8 @@ script 180 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	Psst! Hey,dude!
-	Look at my wares?
+	Psst! Ei, cara!
+	Quer ver meu acervo?
 	
 	"""
 	option
@@ -256,7 +258,7 @@ script 180 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"   Sim "
+	"Sim "
 	option
 		left = 0
 		right = 0
@@ -264,7 +266,7 @@ script 180 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"          Não"
+	"Não"
 	select
 		default = 0
 		BSeparate = false
@@ -280,7 +282,10 @@ script 180 mmbn3 {
 }
 script 181 mmbn3 {
 	clearMsg
-	"OK! Come again!"
+	"""
+	Beleza!
+	Volte sempre!
+	"""
 	keyWait
 	end
 }
@@ -288,7 +293,7 @@ script 182 mmbn3 {
 	mugshotShow
 		mugshot = HeelNavi
 	msgOpen
-	"I'm all outta wares…"
+	"Tô sem nada..."
 	keyWait
 	end
 }
@@ -302,36 +307,33 @@ script 190 mmbn3 {
 	mugshotShow
 		mugshot = MrProg
 	msgOpen
+	"Aaahhh!!! Socorro!!!"
+	keyWait
+	clearMsg
 	"""
-	Aaahhh!!!
-	Help me!!!
+	Eu fiquei enrolando por
+	eras para limpar o
+	UnderPlaza!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I've been putting
-	off cleaning Under-
-	Square forever!
+	E roubei uma
+	mini-cápsula de
+	energia de uma loja!
 	"""
 	keyWait
 	clearMsg
 	"""
-	And I stole a mini-
-	energy pod from a
-	store!
+	E dei as direções
+	erradas para um Navi
+	que estava perdido!
 	"""
 	keyWait
 	clearMsg
 	"""
-	And I gave some lost
-	guy the wrong
-	directions!
-	"""
-	keyWait
-	clearMsg
-	"""
-	And let's see,I
-	also,um…
+	E, vejamos, eu também,
+	er...
 	"""
 	keyWait
 	clearMsg
@@ -341,29 +343,28 @@ script 190 mmbn3 {
 	"."
 	waitSkip
 		frames = 10
-	"."
+	". "
 	waitSkip
 		frames = 10
 	"""
-	Huh!?
-	You aren't here
-	to arrest me?
+	Ué?! Cê não tá aqui
+	pra me prender?
 	"""
 	keyWait
 	clearMsg
-	"Whew…"
+	"Ufa..."
 	keyWait
 	clearMsg
 	"""
-	Just don't tell
-	anyone I'm here,OK?
-	Please?
+	Só não conta pra
+	ninguém que eu tô
+	aqui, OK? Por favor?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Here,you can have
-	this!
+	Toma, pode até levar
+	isto aqui!
 	"""
 	keyWait
 	clearMsg
@@ -386,13 +387,13 @@ script 191 mmbn3 {
 	printItem
 		buffer = 0
 		item = 79
-	"\"!!"
+	"\"!"
 	keyWait
 	clearMsg
 	"""
-	You can now rotate
-	gray parts in the
-	NaviCust screen!
+	Agora você pode
+	rotacionar peças cinza
+	no Customizador!
 	"""
 	playerFinish
 	playerReset
@@ -405,8 +406,8 @@ script 192 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	I-I-I-I'm
-	s-s-so s-s-scared…
+	E-e-e-e-eu t-tô c-com
+	t-t-tanto m-m-m-medo...
 	"""
 	keyWait
 	end
@@ -418,22 +419,22 @@ script 220 mmbn3 {
 		jumpIfFalse = continue
 	msgOpen
 	"""
-	Este Cubo de Segurança
-	é mantido selado por
-	um Navi poderoso.
+	O Cubo de Segurança é
+	mantido selado por um
+	Navi poderoso.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Faded words can be
-	seen scrawled on the
-	cube's surface
+	Palavras apagadas
+	podem ser observadas
+	na superfície dele.
 	"""
 	keyWait
 	clearMsg
 	"""
-	"A howling,wild Navi
-	holds the key"
+	"Um Navi selvagem e
+	uivante possui a chave".
 	"""
 	keyWait
 	end
@@ -441,9 +442,9 @@ script 220 mmbn3 {
 script 221 mmbn3 {
 	msgOpen
 	"""
-	The security cube's
-	seal breaks as
-	BeastMan weakens!
+	O cubo se abre com o
+	enfraquecimento de
+	BeastMan!
 	"""
 	keyWait
 	msgClose
@@ -460,16 +461,16 @@ script 222 mmbn3 {
 		jumpIfFalse = continue
 	msgOpen
 	"""
-	This is the top of
-	the pillar that
-	stands in this area
+	Este é o topo do pilar
+	que se posta nesta
+	área.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Nobody knows who
-	built the pillar,
-	or why…
+	Ninguém sabe quem
+	construiu o pilar ou o
+	porquê...
 	"""
 	keyWait
 	end
@@ -478,9 +479,9 @@ script 229 mmbn3 {
 	mugshotHide
 	msgOpen
 	"""
-	The remaining data
-	from the Navi rose
-	up and drifted away…
+	Os dados restantes do
+	Navi voaram pra longe,
+	até sumirem...
 	"""
 	keyWait
 	end
@@ -861,18 +862,17 @@ script 250 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	We're at the last
-	place in the will…
+	Enfim chegamos no lugar
+	descrito no testamento...
 	"""
 	keyWait
 	clearMsg
-	"……"
+	"..."
 	keyWait
 	clearMsg
 	"""
-	There's something in
-	an indentation on
-	the pillar!
+	Tem alguma coisa em uma
+	indentação do pilar!
 	"""
 	keyWait
 	clearMsg
@@ -907,24 +907,24 @@ script 252 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	This is data for a
-	family photograph.
+	Estes são dados de
+	uma foto de família.
 	"""
 	keyWait
 	clearMsg
 	"""
-	OK,let's take this
-	back to the client!
+	OK, vamos levar ela de
+	volta pra cliente!
 	"""
 	keyWait
 	clearMsg
-	"What the!?"
+	"Mas o quê?!"
 	keyWait
 	clearMsg
 	"""
-	Lan! This place is
-	booby-trapped with
-	viruses!
+	Lan! Este lugar tava
+	cheio de armadilhas de
+	vírus!
 	"""
 	keyWait
 	flagSet

@@ -5,16 +5,13 @@ script 0 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	I was moved from the
-	panda area to here.
-	I'm so bored now.
+	Fui transferido da área
+	dos pandas pra cá.
+	Que tédio...
 	"""
 	keyWait
 	clearMsg
-	"""
-	Sigh…
-	Poor lonely me.
-	"""
+	"Ai... A solidão dói."
 	keyWait
 	end
 }

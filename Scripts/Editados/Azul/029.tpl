@@ -624,7 +624,7 @@ script 77 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Ué,não vai terminar a
+	Ué, não vai terminar a
 	última preliminar?
 	Vamos, Lan!
 	"""

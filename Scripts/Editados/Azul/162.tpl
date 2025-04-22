@@ -208,8 +208,8 @@ script 5 mmbn3 {
 	clearMsg
 	"""
 	Ou, em outras palavras,
-	o mundo cibernético
-	do bairro ACDC.
+	o mundo cibernético do
+	bairro ACDC.
 	"""
 	keyWait
 	end
@@ -535,8 +535,8 @@ script 37 mmbn3 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	A localização e conteú-
-	do de dados misteriosos
+	A localização e conteúdo
+	de dados misteriosos
 	verdes sempre mudam.
 	"""
 	keyWait
@@ -1091,9 +1091,9 @@ script 141 mmbn3 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	Que fim estranho o
-	N1 teve. Mas acho que
-	foi até interessante.
+	Que fim estranho o N1
+	teve. Mas acho que foi
+	até interessante.
 	"""
 	keyWait
 	end
@@ -1246,7 +1246,7 @@ script 170 mmbn3 {
 	clearMsg
 	"""
 	Eu sou só um Programa.
-	Não posso fazr nada
+	Não posso fazer nada
 	para ajudar.
 	"""
 	keyWait
@@ -1254,7 +1254,7 @@ script 170 mmbn3 {
 	"""
 	Só posso rezar para
 	que a paz volte logo
-	para o bairro ACDC.
+	ao bairro ACDC.
 	"""
 	keyWait
 	end
@@ -1438,7 +1438,7 @@ script 192 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Vai ser quando vou lhe
+	Será então que vou lhe
 	dar o seu pagamento.
 	"""
 	keyWait
@@ -1649,7 +1649,7 @@ script 202 mmbn3 {
 	"""
 	Programas provedores
 	de carimbos estarão
-	espalhados na Rede:
+	espalhados pela Rede:
 	"""
 	keyWait
 	clearMsg

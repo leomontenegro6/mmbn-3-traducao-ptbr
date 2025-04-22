@@ -25,8 +25,8 @@ script 10 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	Estou tão ocupado!
-	Já é quase a estação
+	Estou tão ocupado! Já
+	está quase na estação
 	das bebidas quentes.
 	"""
 	keyWait
@@ -131,7 +131,7 @@ script 13 mmbn3 {
 	msgOpen
 	"""
 	O antigo programa foi
-	reduzido a cinzar no
+	reduzido a cinzas no
 	incêndio do SciLab.
 	"""
 	keyWait
@@ -184,7 +184,7 @@ script 190 mmbn3 {
 	"""
 	keyWait
 	clearMsg
-	"Hã?"
+	"Hã? "
 	waitSkip
 		frames = 10
 	"""
@@ -223,9 +223,9 @@ script 190 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Eu não consigo parar
-	de pensar na minha
-	antiga operadora.
+	Não consigo parar de
+	pensar na minha antiga
+	operadora.
 	"""
 	keyWait
 	clearMsg
@@ -244,9 +244,9 @@ script 190 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Só um problema: minha an-
-	tiga operadora se mudou.
-	Não sei para onde.
+	Só há um problema: minha
+	ex-operadora se mudou.
+	E não sei para onde.
 	"""
 	keyWait
 	clearMsg
@@ -356,9 +356,9 @@ script 194 mmbn3 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	Agora fiquei inspirado
-	a me esforçar ainda
-	mais na vida!!
+	Agora fiquei inspirado a
+	me esforçar ainda mais
+	na vida!!
 	"""
 	keyWait
 	end

@@ -4,26 +4,26 @@ script 0 mmbn3 {
 	mugshotShow
 		mugshot = MrProg
 	msgOpen
-	"Flash,flash!"
+	"Flash, flash!"
 	keyWait
 	clearMsg
 	"""
-	I am a lighthouse
-	program.
-	"""
-	keyWait
-	clearMsg
-	"""
-	When boats come
-	close,I guide them
-	using a light.
+	Sou um programa de
+	farol.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Surprised that this
-	demon statue is
-	a lighthouse,huh?
+	Eu guio barcos se
+	aproximando usando
+	minha luz.
+	"""
+	keyWait
+	clearMsg
+	"""
+	Ficou surpreso por esta
+	estátua ser um farol,
+	não ficou?
 	"""
 	keyWait
 	end

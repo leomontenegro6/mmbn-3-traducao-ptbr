@@ -2,22 +2,22 @@
 
 script 0 mmbn3 {
 	msgOpen
-	"Grumble,grumble…"
+	"Grrooo, grroooo..."
+	keyWait
+	clearMsg
+	"Tanta... Fome..."
 	keyWait
 	clearMsg
 	"""
-	So…
-	Hungry…
+	Preciso arranjar
+	FragBugs...
 	"""
 	keyWait
 	clearMsg
-	"Must find BugFrags…"
-	keyWait
-	clearMsg
 	"""
-	Gimme 50 BugFrags,
-	and I'll move outta
-	your way…
+	Me dê 50 FragBugs,
+	e eu saio da sua
+	frente...
 	"""
 	keyWait
 	clearMsg
@@ -28,7 +28,7 @@ script 0 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"Sim "
 	option
 		left = 0
 		right = 0
@@ -36,7 +36,7 @@ script 0 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No"
+	"Não"
 	select
 		default = 0
 		BSeparate = false
@@ -48,9 +48,8 @@ script 0 mmbn3 {
 			jump = continue
 		]
 	"""
-	Hmph!
-	Then I ain't
-	moving!
+	Hmpf!
+	Então, eu não saio!
 	"""
 	keyWait
 	end
@@ -62,20 +61,19 @@ script 1 mmbn3 {
 		jumpIfGreater = 2
 		jumpIfLess = continue
 	msgOpen
-	"Grumble,grumble…"
+	"Grrooo, grroooo..."
 	keyWait
 	clearMsg
 	"""
-	You…! You 
-	don't have
-	enough BugFrags…
+	Seu...! Você não tem
+	FragBugs o bastante...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Leave before I rip
-	you to pieces with
-	my fangs!
+	Caia fora, antes que eu
+	te dilacere com minhas
+	presas!
 	"""
 	keyWait
 	end
@@ -88,9 +86,9 @@ script 2 mmbn3 {
 		jumpIfDeficit = continue
 	msgOpen
 	"""
-	Snarl!
-	Nice job…
-	Go on through…
+	Rapaz!
+	Bom trabalho...
+	Pode passar...
 	"""
 	keyWait
 	flagSet
@@ -113,16 +111,16 @@ script 220 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Faded words can be
-	seen scrawled on the
-	cube's surface
+	Palavras apagadas
+	podem ser observadas
+	na superfície dele.
 	"""
 	keyWait
 	clearMsg
 	"""
-	"A Navi who smashes
-	and burrows holds
-	the key"
+	"Um Navi que esmaga
+	coisas e cava buracos
+	possui a chave".
 	"""
 	keyWait
 	end
@@ -136,29 +134,27 @@ script 221 mmbn3 {
 		jumpIfLess = continue
 	msgOpen
 	"""
-	It's a faintly
-	glowing curtain
+	É uma cortina com um
+	fraco brilho.
 	"""
 	keyWait
 	clearMsg
 	"""
-	You hear a solemn
-	voice from
-	overhead…
+	Você ouve uma voz
+	solene vinda de cima...
 	"""
 	keyWait
 	clearMsg
 	"""
-	"None but the King
-	of the Undernet
-	shall enter"
+	"Somente o Rei da
+	Undernet pode entrar!"
 	"""
 	keyWait
 	clearMsg
 	"""
-	The curtain emits a
-	mysterious force
-	that pushes you back
+	A cortina emite uma
+	força misteriosa que
+	repele você.
 	"""
 	keyWait
 	end
@@ -172,29 +168,29 @@ script 222 mmbn3 {
 		jumpIfLess = continue
 	msgOpen
 	"""
-	It's a faintly
-	glowing curtain
+	É uma cortina com um
+	fraco brilho.
 	"""
 	keyWait
 	clearMsg
 	"""
-	When you try to
-	touch it,a voice
-	chastises from above
+	Ao tentar tocá-la,
+	uma voz vinda de
+	cima reprime você.
 	"""
 	keyWait
 	clearMsg
 	"""
-	"Only the King of
-	the Undernet may
-	pass,unworthy one…"
+	"Somente o Rei da
+	Undernet passará,
+	ser indigno..."
 	"""
 	keyWait
 	clearMsg
 	"""
-	The curtain emits a
-	mysterious force
-	that pushes you back
+	A cortina emite uma
+	força misteriosa que
+	repele você.
 	"""
 	keyWait
 	end
@@ -206,23 +202,22 @@ script 223 mmbn3 {
 		jumpIfFalse = continue
 	msgOpen
 	"""
-	It's a mysterious
-	door that emits an
-	uncanny light
+	É uma porta misteriosa
+	que emite uma luz
+	sobrenatural.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Words have been
-	carved in the
-	middle
+	Palavras foram
+	gravadas no meio.
 	"""
 	keyWait
 	clearMsg
 	"""
-	"This door shall
-	open only for the
-	truly strong"
+	"A porta se abrirá
+	somente para o
+	verdadeiramente forte."
 	"""
 	keyWait
 	end
@@ -230,9 +225,9 @@ script 223 mmbn3 {
 script 224 mmbn3 {
 	msgOpen
 	"""
-	The security cube's
-	seal breaks as
-	DrillMan weakens!
+	O cubo se abre com o
+	enfraquecimento de
+	DrillMan!
 	"""
 	keyWait
 	msgClose
@@ -245,22 +240,22 @@ script 224 mmbn3 {
 script 225 mmbn3 {
 	msgOpen
 	"""
-	You hear a solemn
-	voice from overhead…
+	Você ouve uma voz
+	solene vinda de cima...
 	"""
 	keyWait
 	clearMsg
 	"""
-	"Hail the New King
-	of the Undernet!
-	You may pass!"
+	"Todos saúdam o Novo
+	Rei da Undernet!
+	Pode passar!"
 	"""
 	keyWait
 	clearMsg
 	"""
-	The curtain of light
-	vanishes without a
-	trace
+	A cortina de luz
+	desaparece sem deixar
+	vestígios.
 	"""
 	keyWait
 	flagSet
@@ -270,22 +265,22 @@ script 225 mmbn3 {
 script 226 mmbn3 {
 	msgOpen
 	"""
-	You hear a solemn
-	voice from overhead…
+	Você ouve uma voz
+	solene vinda de cima...
 	"""
 	keyWait
 	clearMsg
 	"""
-	"Hail the New King
-	of the Undernet!
-	You may pass!"
+	"Todos saúdam o Novo
+	Rei da Undernet!
+	Pode passar!"
 	"""
 	keyWait
 	clearMsg
 	"""
-	The curtain of light
-	vanishes without a
-	trace
+	A cortina de luz
+	desaparece sem deixar
+	vestígios.
 	"""
 	keyWait
 	flagSet
@@ -295,9 +290,9 @@ script 226 mmbn3 {
 script 227 mmbn3 {
 	msgOpen
 	"""
-	The door crumbles
-	with the appearance
-	of a new champion!
+	A porta se desintegra
+	com a aparição de um
+	novo campeão!
 	"""
 	keyWait
 	flagSet

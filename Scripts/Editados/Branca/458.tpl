@@ -641,9 +641,8 @@ script 25 mmbn3 {
 	color
 		palette = 3
 	"""
-	Only non-
-	elemental
-	effects work!
+	Tem que usar um chip
+	não-elemental!
 	"""
 	keyWait
 	msgOpenInvisible
@@ -671,9 +670,8 @@ script 26 mmbn3 {
 	color
 		palette = 3
 	"""
-	Only a Wood
-	effect will
-	work!
+	Só funcionará com um
+	chip de Madeira!
 	"""
 	keyWait
 	msgOpenInvisible
@@ -701,9 +699,8 @@ script 27 mmbn3 {
 	color
 		palette = 3
 	"""
-	Only an Aqua
-	effect will
-	work!
+	Só funcionará com um
+	chip de Água!
 	"""
 	keyWait
 	msgOpenInvisible
@@ -731,9 +728,8 @@ script 28 mmbn3 {
 	color
 		palette = 3
 	"""
-	Only an Elec
-	effect will
-	work!
+	Só funcionará com um
+	chip Elétrico!
 	"""
 	keyWait
 	msgOpenInvisible
@@ -761,9 +757,8 @@ script 29 mmbn3 {
 	color
 		palette = 3
 	"""
-	Only a Fire
-	effect will
-	burn it!
+	É preciso um chip de
+	Fogo aqui!
 	"""
 	keyWait
 	msgOpenInvisible
@@ -784,7 +779,7 @@ script 31 mmbn3s {
 	end
 }
 script 34 mmbn3s {
-	"StdrdChip"
+	"ChipPadr"
 	end
 }
 script 35 mmbn3s {
@@ -796,7 +791,7 @@ script 36 mmbn3s {
 	end
 }
 script 37 mmbn3s {
-	"P.A.notes"
+	"Lista PA"
 	end
 }
 script 40 mmbn3s {
@@ -1574,8 +1569,8 @@ script 80 mmbn3 {
 	color
 		palette = 3
 	"""
-	You don't have
-	anything,Lan…
+	Você não tem
+	nada, Lan...
 	"""
 	waitHold
 }
@@ -1651,8 +1646,9 @@ script 83 mmbn3 {
 	color
 		palette = 3
 	"""
-	MegaMan's HP
-	has recovered!
+	Os PV de Mega-
+	Man foram 
+	restaurados!
 	"""
 	keyWait
 	msgOpenInvisible
@@ -1676,9 +1672,9 @@ script 84 mmbn3 {
 	color
 		palette = 3
 	"""
-	MegaMan's HP
-	has fully
-	recovered!
+	Os PV de Mega-
+	Man se recupe-
+	raram 100%!
 	"""
 	keyWait
 	msgOpenInvisible
@@ -1704,8 +1700,8 @@ script 85 mmbn3 {
 	color
 		palette = 3
 	"""
-	HP is
-	maxed out!
+	PV já estão
+	no máximo!
 	"""
 	keyWait
 	msgOpenInvisible
@@ -1735,8 +1731,8 @@ script 86 mmbn3 {
 		buffer = 1
 		item = 0
 	"""
-	"
-	in use
+	" está
+	em uso.
 	"""
 	keyWait
 	msgOpenInvisible
@@ -1762,9 +1758,9 @@ script 87 mmbn3 {
 	color
 		palette = 3
 	"""
-	No viruses
-	encountered
-	here yet!
+	Nenhum vírus
+	achado aqui
+	até agora!
 	"""
 	keyWait
 	msgOpenInvisible
@@ -1790,9 +1786,9 @@ script 88 mmbn3 {
 	color
 		palette = 3
 	"""
-	There isn't
-	any locked
-	mystery data!
+	Não tem dados
+	misteriosos
+	bloqueados aqui!
 	"""
 	keyWait
 	msgOpenInvisible
@@ -1818,8 +1814,8 @@ script 89 mmbn3 {
 	color
 		palette = 3
 	"""
-	Let's not use
-	that yet!
+	Não vamos usar isso
+	ainda!
 	"""
 	keyWait
 	msgOpenInvisible
@@ -2041,8 +2037,8 @@ script 94 mmbn3 {
 	color
 		palette = 3
 	"""
-	NetLute contra
-	um amigo!
+	NetLutar contra um
+	amigo!
 	"""
 	waitHold
 }
@@ -2066,8 +2062,8 @@ script 95 mmbn3 {
 	color
 		palette = 3
 	"""
-	Trade data
-	library info!
+	Trocar dados de
+	coleção!
 	"""
 	waitHold
 }
@@ -2090,10 +2086,7 @@ script 96 mmbn3 {
 		delay = 0
 	color
 		palette = 3
-	"""
-	Trade Battle
-	Chips!
-	"""
+	"Trocar chips!"
 	waitHold
 }
 script 97 mmbn3 {
@@ -2115,10 +2108,7 @@ script 97 mmbn3 {
 		delay = 0
 	color
 		palette = 3
-	"""
-	Trade
-	programs!
-	"""
+	"Trocar programas!"
 	waitHold
 }
 script 98 mmbn3 {
@@ -2141,8 +2131,8 @@ script 98 mmbn3 {
 	color
 		palette = 3
 	"""
-	NetBattle on a
-	normal field!
+	NetLutar num campo
+	normal!
 	"""
 	waitHold
 }
@@ -2166,9 +2156,8 @@ script 99 mmbn3 {
 	color
 		palette = 3
 	"""
-	NetBattle on a
-	different
-	terrain!
+	NetLutar num terreno
+	diferente!
 	"""
 	waitHold
 }
@@ -2192,9 +2181,8 @@ script 100 mmbn3 {
 	color
 		palette = 3
 	"""
-	NetBattle on a
-	field with
-	traps!
+	NetLutar num campo
+	com armadilhas!
 	"""
 	waitHold
 }
@@ -2218,9 +2206,8 @@ script 101 mmbn3 {
 	color
 		palette = 3
 	"""
-	Winner of 2
-	out of 3 is
-	champion!
+	Vence quem ganhar 2
+	das 3 lutas!
 	"""
 	waitHold
 }
@@ -2244,9 +2231,8 @@ script 102 mmbn3 {
 	color
 		palette = 3
 	"""
-	Practice
-	NetBattling
-	with a friend!
+	Treinar NetLuta com
+	um amigo!
 	"""
 	waitHold
 }
@@ -2270,9 +2256,8 @@ script 103 mmbn3 {
 	color
 		palette = 3
 	"""
-	Battle with a
-	friend! Loser
-	loses a chip!
+	Lutar com um amigo,
+	valendo um chip!
 	"""
 	waitHold
 }
@@ -2296,9 +2281,9 @@ script 104 mmbn3 {
 	color
 		palette = 3
 	"""
-	Tournament!
-	Can you win 69
-	times in a row?
+	Torneio! Consegue
+	vencer 69 vezes
+	seguidas?
 	"""
 	waitHold
 }
@@ -2312,7 +2297,7 @@ script 105 mmbn3s {
 	end
 }
 script 106 mmbn3s {
-	"   Récorde\n   "
+	"   Recorde\n   "
 	printBuffer
 		buffer = 0
 		minLength = 3
@@ -2336,11 +2321,11 @@ script 108 mmbn3s {
 	end
 }
 script 109 mmbn3s {
-	"Trocar chips"
+	"Trocar chip"
 	end
 }
 script 110 mmbn3s {
-	"Prgrm troca"
+	"Trocar prog"
 	end
 }
 script 111 mmbn3s {

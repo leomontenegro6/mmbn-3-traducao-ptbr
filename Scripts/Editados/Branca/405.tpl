@@ -460,9 +460,9 @@ script 28 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	He's in no condition
-	to be moving around…
-	Where could he be?
+	Ele não tá em condições
+	de sair... Onde será que
+	ele está?
 	"""
 	keyWait
 	clearMsg

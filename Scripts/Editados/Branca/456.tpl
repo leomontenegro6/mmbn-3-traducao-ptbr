@@ -5,8 +5,9 @@ script 0 mmbn3 {
 		mugshot = NormalNaviGreen
 	msgOpen
 	"""
-	Hey,you there! Want
-	to have some fun?
+	Ei! Você aí!
+	Quer um pouquinho de
+	diversão?
 	"""
 	keyWait
 	end
@@ -415,8 +416,8 @@ script 16 mmbn3 {
 	msgOpen
 	"""
 	Meu... Meu dinheiro!
-	Bom, na próxima, eu
-	recupero...
+	Bom, na próxima,
+	eu recupero...
 	"""
 	keyWait
 	end
@@ -602,7 +603,7 @@ script 24 mmbn3 {
 	"""
 	Boa sorte!
 	(Direcionais: Mover)
-	(Botão A: Select)
+	(Botão A: Selecionar)
 	"""
 	waitHold
 }

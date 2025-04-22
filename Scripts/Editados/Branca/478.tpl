@@ -261,7 +261,7 @@ script 11 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"Sim "
 	option
 		left = 0
 		right = 0
@@ -269,7 +269,7 @@ script 11 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No"
+	"Não"
 	select
 		default = 0
 		BSeparate = false

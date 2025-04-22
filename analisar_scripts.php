@@ -38,6 +38,13 @@ foreach (glob('Scripts/Editados/Branca/*.tpl') as $file) {
         $language = key($result);
 
         if ($language == 'en') {
+            if (
+                str_contains($text, "keyWait clearMsg") ||
+                str_contains($text, "option left = 0 right = 0 up = 1 down = 1 space count = 2")
+            ) {
+                continue;
+            }
+
             echo "  Texto em ingles: \"$text\"\n";
         }
     }

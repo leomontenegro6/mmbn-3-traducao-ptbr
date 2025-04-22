@@ -9,15 +9,14 @@ script 0 mmbn3 {
 		mugshot = CloakedNavi
 	msgOpen
 	"""
-	So you're from the
-	surface,huh?
+	Então, você é a da
+	superfície, é?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Well,try not to get
-	yourself killed
-	around here.
+	Bom, tente não morrer
+	aqui.
 	"""
 	keyWait
 	end
@@ -27,8 +26,9 @@ script 1 mmbn3 {
 		mugshot = CloakedNavi
 	msgOpen
 	"""
-	I hear that bugs
-	help call the dark…
+	Ouço dizer que bugs
+	ajudam a convocar a
+	escuridão...
 	"""
 	keyWait
 	end
@@ -38,49 +38,49 @@ script 2 mmbn3 {
 		mugshot = CloakedNavi
 	msgOpen
 	"""
-	Our Lord Serenade
-	has set in places
-	great monoliths…
+	Venerável Serenade
+	plantou monólitos em
+	certos locais.
 	"""
 	keyWait
 	clearMsg
 	"""
-	These stones are
-	used to seal away
-	evil viruses…
+	Essas pedras são
+	usadas para selar
+	vírus malignos...
 	"""
 	keyWait
 	clearMsg
 	"""
-	If you do not wish
-	to die,then do not
-	break the stones…
+	A menos que você
+	queira morrer, não
+	quebre as pedras...
 	"""
 	keyWait
 	clearMsg
 	"""
-	But there is only
-	one thing…
+	Mas há uma coisa, e uma
+	coisa somente...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Only one thing in
-	this world which
-	may break them…
+	Algo neste mundo que
+	pode ser capaz de
+	quebrá-las...
 	"""
 	keyWait
 	clearMsg
 	"""
-	A thing which
-	Serenade has made.
+	Algo que Serenade
+	criou.
 	"""
 	keyWait
 	clearMsg
 	"""
-	It lies at the edge
-	of the Undernet…
-	The "
+	Fica no extremo da
+	Undernet...
+	O "
 	"""
 	printItem
 		buffer = 0
@@ -98,16 +98,16 @@ script 10 mmbn3 {
 		mugshot = CloakedNavi
 	msgOpen
 	"""
-	An amazing amount of
-	power is leaking
-	from the inner area.
+	Um volume incrível de
+	poder está vazando da
+	área interna.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I don't think it's
-	from Serenade. But
-	what could it be?
+	Não acho que seja de
+	Serenade.
+	O que poderá ser?
 	"""
 	keyWait
 	end
@@ -117,15 +117,15 @@ script 11 mmbn3 {
 		mugshot = CloakedNavi
 	msgOpen
 	"""
-	The power from the
-	inner areas has
-	vanished…
+	O poder que senti nas
+	áreas internas
+	desapareceu...
 	"""
 	keyWait
 	clearMsg
 	"""
-	I wonder what it
-	could have been?
+	Mas, afinal, o que pode
+	ter sido aquilo?
 	"""
 	keyWait
 	end
@@ -173,21 +173,20 @@ script 220 mmbn3 {
 		jumpIfOutOfRange = continue
 	msgOpen
 	"""
-	I am the door of
-	experience.
+	Eu sou a porta da
+	experiência.
 	"""
 	keyWait
 	clearMsg
 	"""
-	You must know more
-	than 140 fragments
-	of power!
+	Você deve conhecer 
+	mais de 140 fragmentos
+	de força!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I will not open
-	until that time.
+	Não abrirei até então.
 	"""
 	keyWait
 	end
@@ -202,21 +201,19 @@ script 221 mmbn3 {
 		jumpIfOutOfRange = continue
 	msgOpen
 	"""
-	I am the door of
-	wisdom.
+	Eu sou a porta da
+	sabedoria.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Search and
-	best the four
-	questioners.
+	Busque e supere os
+	quatro questionadores.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I will not open
-	until that time.
+	Não abrirei até então.
 	"""
 	keyWait
 	end
@@ -224,24 +221,24 @@ script 221 mmbn3 {
 script 222 mmbn3 {
 	msgOpen
 	"""
-	Beep…beep…
-	Security system,
-	activated!
+	Bip... bip...
+	Sistema de segurança,
+	ativado!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Intruder detected!
-	Leave immediately!
+	Intruso detectado!
+	Saia imediatamente!
 	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Lan,do you want to
-	try to hack the
-	security system?
+	Lan, quer tentar 
+	hackear o sistema de
+	segurança?
 	"""
 	keyWait
 	clearMsg
@@ -252,7 +249,7 @@ script 222 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"Sim "
 	option
 		left = 0
 		right = 0
@@ -260,7 +257,7 @@ script 222 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No"
+	"Não"
 	select
 		default = 0
 		BSeparate = false
@@ -276,24 +273,24 @@ script 222 mmbn3 {
 script 223 mmbn3 {
 	msgOpen
 	"""
-	Beep…beep…
-	Security system,
-	activated!
+	Bip... bip...
+	Sistema de segurança,
+	ativado!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Intruder detected!
-	Leave immediately!
+	Intruso detectado!
+	Saia imediatamente!
 	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Lan,do you want to
-	try to hack the
-	security system?
+	Lan, quer tentar
+	hackear o sistema de
+	segurança?
 	"""
 	keyWait
 	clearMsg
@@ -304,7 +301,7 @@ script 223 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"Sim "
 	option
 		left = 0
 		right = 0
@@ -312,7 +309,7 @@ script 223 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No"
+	"Não"
 	select
 		default = 0
 		BSeparate = false
@@ -328,9 +325,9 @@ script 223 mmbn3 {
 script 224 mmbn3 {
 	msgOpen
 	"""
-	A giant monolith
-	that seals viruses
-	blocks the way
+	Um enorme monólito que
+	sela vírus barra o seu
+	caminho.
 	"""
 	keyWait
 	clearMsg
@@ -343,7 +340,7 @@ script 224 mmbn3 {
 }
 script 225 mmbn3 {
 	msgOpen
-	"You may pass,"
+	"Pode passar, "
 	textSpeed
 		delay = 0
 	"[circle1][circle2]"
@@ -353,8 +350,8 @@ script 225 mmbn3 {
 		frames = 2
 	"""
 	
-	bester of the
-	four questioners!
+	campeão dos
+	4 questionadores!
 	"""
 	keyWait
 	flagSet
@@ -363,7 +360,7 @@ script 225 mmbn3 {
 }
 script 226 mmbn3 {
 	msgOpen
-	"You may pass,"
+	"Pode passar, "
 	textSpeed
 		delay = 0
 	"[circle1][circle2]"
@@ -373,8 +370,8 @@ script 226 mmbn3 {
 		frames = 2
 	"""
 	
-	gatherer of 140
-	fragments of power!
+	acumulador de 140
+	fragmentos de força!
 	"""
 	keyWait
 	flagSet
@@ -386,14 +383,14 @@ script 227 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Maybe we can break
-	it if we use the
+	Talvez dê pra quebrar
+	se usarmos o
 	"
 	"""
 	printItem
 		buffer = 0
 		item = 56
-	"\"…?"
+	"\"...?"
 	keyWait
 	clearMsg
 	option
@@ -403,7 +400,7 @@ script 227 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Use it "
+	"Usar "
 	option
 		left = 0
 		right = 0
@@ -411,7 +408,7 @@ script 227 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Don't"
+	"Não"
 	select
 		default = 0
 		BSeparate = false
@@ -434,7 +431,7 @@ script 228 mmbn3 {
 	printItem
 		buffer = 0
 		item = 56
-	"\"!!"
+	"\"!"
 	flagSet
 		flag = 365
 	wait
@@ -442,14 +439,14 @@ script 228 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	The monolith
-	shattered!
+	O monólito se
+	despedaçou!
 	"""
 	keyWait
 	clearMsg
 	"""
-	The imprisoned
-	viruses escape!
+	Os vírus aprisionados
+	estão escapando!
 	"""
 	keyWait
 	msgClose
@@ -462,21 +459,21 @@ script 229 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I don't think that
-	we can move this…
+	Eu não acho que a 
+	gente possa mover
+	isso...
 	"""
 	keyWait
 	clearMsg
 	"""
-	I wonder if someone
-	knows how we can
-	move it?
+	Será que alguém sabe
+	como mover?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Let's look for
-	them!
+	Vamos atrás dessa
+	pessoa!
 	"""
 	keyWait
 	end
@@ -497,9 +494,9 @@ script 232 mmbn3 {
 	mugshotHide
 	msgOpen
 	"""
-	The remaining data
-	from the Navi rose
-	up and drifted away…
+	Os dados restantes do
+	Navi voaram pra longe,
+	até sumirem...
 	"""
 	keyWait
 	end
@@ -685,8 +682,8 @@ script 244 mmbn3 {
 script 245 mmbn3 {
 	msgOpen
 	"""
-	The mystery data
-	was a virus!!
+	Os dados misteriosos
+	eram vírus!!
 	"""
 	keyWait
 	startRandomBattle
@@ -793,8 +790,8 @@ script 249 mmbn3 {
 script 250 mmbn3 {
 	msgOpen
 	"""
-	The mystery data
-	was a virus!!
+	Os dados misteriosos
+	eram vírus!!
 	"""
 	keyWait
 	startRandomBattle

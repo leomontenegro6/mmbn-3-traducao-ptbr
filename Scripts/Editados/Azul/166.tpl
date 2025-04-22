@@ -81,7 +81,7 @@ script 14 mmbn3 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	Faz um close na cara
+	Dá um close na cara
 	dela! Eu sou fotogênica
 	ou não sou?!
 	"""
@@ -606,16 +606,16 @@ script 115 mmbn3 {
 		mugshot = NormalNaviGreen
 	msgOpen
 	"""
-	All I ever do is
-	work,so I'm a little
-	out of touch…
+	Eu trabalho quase o dia
+	todo, então tô por fora
+	de tudo...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Apparently,WWW hit
-	somewhere again,but
-	I dunno where…
+	Parece que a WWW 
+	atacou outro lugar.
+	Só não sei qual...
 	"""
 	keyWait
 	end
@@ -625,21 +625,21 @@ script 116 mmbn3 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	There's a place over
-	there where the path
-	is blocked by doors.
+	Esse caminho aqui do
+	lado tá barrado por um
+	montão de portas.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Whaddya think is
-	beyond that area?
+	O que cê acha que
+	tem atrás delas?
 	"""
 	keyWait
 	clearMsg
 	"""
-	The Officials know,
-	supposedly.
+	Ao que parece,
+	os Oficiais sabem.
 	"""
 	keyWait
 	end
@@ -649,16 +649,16 @@ script 117 mmbn3 {
 		mugshot = NormalNaviGreen
 	msgOpen
 	"""
-	That Navi in front
-	of the monitor over
-	there sure is scary…
+	Aquele Navi diante
+	daquele monitor ali
+	é medonho, cara...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Better stay away
-	from him,and let
-	sleeping dogs lie…
+	Melhor nem chegar perto.
+	"Cutucar vespeiro",
+	sabe...
 	"""
 	keyWait
 	end
@@ -668,28 +668,28 @@ script 120 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	What is it,boy?
-	You know I'm a WWW
-	Navi,right?
+	Que foi, guri? Tu sabe
+	que eu sou um Navi da
+	WWW, né?
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'm pretty darn
-	scary!
+	Eu sou mau, bródi!
+	Cruel! Dissimulado!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Hee hee…Just looking
-	at you makes me
-	wanna delete you…!
+	He! Só de olhar pra ti,
+	fico me coçando pra te
+	deletar...!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Here I come!
-	Muwahahaha!!!
+	E eu vou!
+	Uahahahahaha!!!
 	"""
 	keyWait
 	clearMsg
@@ -717,8 +717,8 @@ script 121 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Beep Beep Beep!
-	Lan! Chegou e-mail!
+	Bip Bip Bip! Lan!
+	Chegou e-mail!
 	"""
 	keyWait
 	end
@@ -744,9 +744,9 @@ script 123 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	Well,um…uh…that is…
-	I dunno what I'll do
-	after this. No clue.
+	Bom, er... Hm...
+	Nem faço ideia do que
+	farei depois disto.
 	"""
 	keyWait
 	end
@@ -761,51 +761,50 @@ script 124 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	What? You're gonna
-	install this data in
-	me?
+	Quê? Você vai instalar
+	esses dados em mim?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Nobody told me about
-	this! Why wasn't I
-	informed?
+	Ninguém me falou disso!
+	Por que não fui
+	informado?
 	"""
 	keyWait
 	clearMsg
 	"""
-	But if a SciLab
-	person says I need
-	it…I must need it.
+	Mas se foi ordem do
+	SciLab...
+	acho que devo, sim.
 	"""
 	keyWait
 	clearMsg
 	"""
-	All right,I'll take
-	the data.
+	Tudo bem, eu cuido
+	dos dados.
 	"""
 	keyWait
 	clearMsg
 	mugshotHide
 	"""
-	The Program loaded
-	"
+	O programa carregou
+	o "
 	"""
 	printItem
 		buffer = 0
 		item = 24
 	"""
 	"
-	into himself!!
+	dentro de si!!
 	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = MrProg
 	"""
-	Wow,what's this
-	burning sensation?
+	Ufa! Que sentimento
+	de queimação é este?
 	"""
 	keyWait
 	end
@@ -815,9 +814,8 @@ script 125 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	Is it just me,or is
-	it getting really
-	hot in here? Whew…
+	Sou só eu ou esquentou
+	bastante aqui? Uff...
 	"""
 	keyWait
 	end
@@ -840,23 +838,23 @@ script 128 mmbn3 {
 		mugshot = NormalNaviGreen
 	msgOpen
 	"""
-	That Navi surrounded
-	by flames is sure
-	strong!
+	Aquele Navi cercado de
+	chamas é forte pra
+	burro!
 	"""
 	keyWait
 	clearMsg
 	"""
-	But I get the
-	impression he's kind
-	of cruel,though.
+	Mas tenho a impressão
+	de que ele é meio cruel
+	também...
 	"""
 	keyWait
 	clearMsg
 	"""
-	But he beat a bad
-	guy,so I guess he
-	must be all right…
+	Só que ele bateu num
+	bandido, então deve
+	ser do bem...?
 	"""
 	keyWait
 	end
@@ -866,16 +864,15 @@ script 130 mmbn3 {
 		mugshot = NormalNaviGreen
 	msgOpen
 	"""
-	So an investigation
-	into the WWW has
-	started?
+	Então, abriram um
+	inquérito sobre a WWW?
 	"""
 	keyWait
 	clearMsg
 	"""
-	We'll finally be
-	able to live in
-	peace,without fear!
+	Até que enfim, vamos
+	poder viver em paz,
+	livres do medo!
 	"""
 	keyWait
 	end
@@ -884,20 +881,19 @@ script 135 mmbn3 {
 	mugshotShow
 		mugshot = NormalNaviGreen
 	msgOpen
-	"Help!!!"
+	"Socorro!!!"
 	keyWait
 	clearMsg
 	"""
-	A Navi shaped like a
-	drill has invaded
-	the area!
+	Um Navi em forma de
+	broca invadiu a área!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I can't believe it,
-	but he drilled a
-	hole in space!
+	Nem deu pra acreditar,
+	mas ele abriu um rombo
+	no espaço!
 	"""
 	keyWait
 	end
@@ -907,16 +903,16 @@ script 136 mmbn3 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	The culprit escaped
-	through a hole he
-	drilled in space!
+	O culpado fugiu por um
+	buraco que ele abriu no
+	espaço!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Please,you've got to
-	chase him down and
-	get Alpha!
+	Por favor, você tem que
+	ir atrás dele e pegar o
+	Alpha!
 	"""
 	keyWait
 	end
@@ -926,8 +922,8 @@ script 137 mmbn3 {
 		mugshot = NormalNaviGreen
 	msgOpen
 	"""
-	Alpha…
-	We're finished…
+	Alpha...
+	A gente já era...
 	"""
 	keyWait
 	end
@@ -937,16 +933,16 @@ script 140 mmbn3 {
 		mugshot = NormalNaviGreen
 	msgOpen
 	"""
-	So they still
-	haven't found the
-	WWW hideout?
+	Então, ainda não
+	encontraram o
+	esconderijo da WWW?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Are the Officials
-	serious about this
-	investigation?
+	Os Oficiais tão mesmo
+	levando essa investiga-
+	ção a sério?!
 	"""
 	keyWait
 	end
@@ -956,8 +952,8 @@ script 150 mmbn3 {
 		mugshot = NormalNaviGreen
 	msgOpen
 	"""
-	What the heck
-	is going on!?
+	O que é que tá
+	acontecendo?!
 	"""
 	keyWait
 	end
@@ -981,50 +977,47 @@ script 190 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	Wha? Wha?
-	Where'd all the
-	insurance data go?
+	Ué? UÉ? Onde foram
+	parar todos aqueles
+	dados de seguro?
 	"""
 	keyWait
 	clearMsg
 	"""
-	What's that?
-	A schoolteacher is
-	looking for me?
+	Quê? Tem um professor
+	procurando por mim?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Oh,no! I'm so sorry!
-	I lost the teacher's
-	data I was carrying!
+	Ah! Sinto muito! Perdi os
+	dados que eu estava
+	carregando!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'll never live it
-	down if I lose that
-	data!
+	Minha reputação nunca
+	irá se recuperar se eu
+	perdê-los!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'll find it for
-	sure,so don't tell
-	the teacher!
+	Juro que vou achá-los,
+	então não conte para
+	o professor!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Ach…
-	Did I drop it in
-	ACDC,somewhere…?
+	Agh... Será que eu deixei
+	cair ali, por ACDC...?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Man,I can't believe
-	this…
+	Ai, não acredito nisso...
 	"""
 	keyWait
 	end
@@ -1034,9 +1027,9 @@ script 191 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	I'm still looking…
-	Maybe I should go
-	double-check ACDC…
+	Ainda procurando...
+	Talvez eu deva conferir
+	ACDC de novo.
 	"""
 	keyWait
 	end
@@ -1046,22 +1039,22 @@ script 192 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	You found the data!
-	Thank you!!!
+	Você achou os dados!
+	Obrigado!!!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Don't worry about
-	me! Take it to the
-	teacher,please!
+	Não se preocupe comigo!
+	Leve-os para para o
+	professor logo!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'm afraid to go
-	home,so I'll be here
-	a little longer…
+	Tô com medo de voltar,
+	então vou ficar mais um
+	tempinho...
 	"""
 	keyWait
 	end
@@ -1071,9 +1064,9 @@ script 193 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	Hmm,I wonder if it's
-	OK to go home yet…?
-	Was the teacher mad?
+	Hm, será que já posso
+	voltar...? O professor
+	ficou bravo?
 	"""
 	keyWait
 	end
@@ -1089,15 +1082,15 @@ script 200 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	Congratulations!
-	I'm this area's
-	stamp official!
+	Meus parabéns!
+	Sou o encarregado dos
+	carimbos desta área!
 	"""
 	keyWait
 	clearMsg
 	"""
-	All right,let's see
-	your "
+	OK, vamos ver aqui o
+	seu "
 	"""
 	printItem
 		buffer = 0
@@ -1105,7 +1098,7 @@ script 200 mmbn3 {
 	"\"!"
 	keyWait
 	clearMsg
-	"Here's your stamp!"
+	"E eis o carimbo!"
 	keyWait
 	clearMsg
 	jump
@@ -1128,9 +1121,8 @@ script 202 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	All right,good luck
-	with the rest of
-	your stamps!
+	Bom,boa sorte com o
+	resto dos carimbos!
 	"""
 	keyWait
 	end

@@ -15,9 +15,8 @@ script 1 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	Yeah,you look
-	strong enough fer
-	the Under! Go on in!
+	É, tu parece forte o
+	bastante! Entra aí!
 	"""
 	keyWait
 	flagSet
@@ -31,16 +30,16 @@ script 2 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	Only those I say are
-	strong enough can go
-	through here!
+	Só aqueles que forem
+	fortes o bastante 
+	podem passar!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Go cool yer heels in
-	the Under Square
-	until yer ready!
+	Então segura essa
+	marimba no UnderPlaza
+	até tu tá pronto!
 	"""
 	keyWait
 	end
@@ -50,13 +49,13 @@ script 10 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	Ain't you a little
-	young for an
-	Undernet ranking!?
+	Tu "num" é meio novinho
+	demais pra um ranque
+	da Undernet?!
 	"""
 	keyWait
 	clearMsg
-	"Raaawrrr!!"
+	"Grraaaarrr!!"
 	keyWait
 	clearMsg
 	msgClose
@@ -79,15 +78,15 @@ script 11 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	I dunno about the
-	other guys,but…
+	Os outros "mano" eu não
+	sei, mas...
 	"""
 	keyWait
 	clearMsg
 	"""
-	I ain't goin' easy,
-	on ye just 'cause
-	yer a little brat!
+	eu não vou pegar leve
+	contigo só porque tu é
+	guri, não!
 	"""
 	keyWait
 	clearMsg
@@ -111,27 +110,26 @@ script 12 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	It's nothing
-	personal,but I'm
-	gonna delete you.
+	Olha, nada pessoal,
+	mas eu vou te deletar
+	agora.
 	"""
 	keyWait
 	clearMsg
 	"""
-	You'da had a nice,
-	long life if you
-	hadn't tried to get
+	Cê teria uma vida longa
+	e feliz se não se
+	metesse com ranque.
 	"""
 	keyWait
 	clearMsg
 	"""
-	ranked. But it's too
-	late for regrets
-	now!!
+	Mas... tarde demais pra
+	se arrepender agora!!
 	"""
 	keyWait
 	clearMsg
-	"Hiyaaaah!!"
+	"Aiáááááá!!"
 	keyWait
 	clearMsg
 	msgClose
@@ -158,68 +156,70 @@ script 20 mmbn3 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	I'm an Internet
-	postman.
+	Sou um carteiro da
+	Rede.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Don't worry,I'm not
-	one of the guys who
-	live in this place.
+	Relaxa, não sou como 
+	os caras que habitam
+	este lugar.
 	"""
 	keyWait
 	clearMsg
 	"""
-	You look kinda lost,
-	so let me give you
-	a bit of advice!
+	Você parece meio
+	perdido, então aqui vai
+	um conselho!
 	"""
 	keyWait
 	clearMsg
 	"""
-	The entrance to the
-	Under Square is in
+	A entrada para o
+	UnderPlaza fica na
 	Undernet 3.
 	"""
 	keyWait
 	clearMsg
 	"""
-	It's just kind of a
-	pain to find,that's
-	all!
+	É só meio sacal de
+	achar o caminho, mesmo!
 	"""
 	keyWait
 	clearMsg
 	"""
-	First,you have to
-	use the warp point
-	on the upper floor.
+	Primeiro, você tem que
+	usar o portal na parte
+	superior.
 	"""
 	keyWait
 	clearMsg
 	"""
-	There are two warp
-	points in a row.
-	Use the second one.
+	Tem dois portais em
+	sequência.
+	Use o segundo.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Then you go through
-	Undernet 1,and then
-	back to Undernet 2.
+	Aí, passe pela
+	Undernet 1 e volte
+	pra Undernet 2.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Then you'll find
-	yourself at the path
-	to Undernet 3.
+	Ao fazer isso, você
+	estará no caminho para
+	a Undernet 3.
 	"""
 	keyWait
 	clearMsg
-	"Clear as mud,right?"
+	"""
+	Fácil como fritar
+	baiacu, né?
+	"""
 	keyWait
 	end
 }
@@ -228,16 +228,12 @@ script 21 mmbn3 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	Aaaahhh! Please,I'm
-	just a simple
-	postman!
+	Aaaahhh! Por favor,
+	sou só um mero carteiro!
 	"""
 	keyWait
 	clearMsg
-	"""
-	Please,don't hurt
-	me!
-	"""
+	"Não me machuque!"
 	keyWait
 	end
 }
@@ -250,8 +246,8 @@ script 180 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	I trade chips for
-	BugFrags. Trade?
+	Eu troco chips por
+	FragBugs. Trocar?
 	
 	"""
 	option
@@ -261,7 +257,7 @@ script 180 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"Sim "
 	option
 		left = 0
 		right = 0
@@ -269,7 +265,7 @@ script 180 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No"
+	"Não"
 	select
 		default = 0
 		BSeparate = false
@@ -293,7 +289,10 @@ script 182 mmbn3 {
 	mugshotShow
 		mugshot = HeelNavi
 	msgOpen
-	"I'm all outta chips…"
+	"""
+	Acabaram meus
+	chips...
+	"""
 	keyWait
 	end
 }
@@ -306,22 +305,23 @@ script 190 mmbn3 {
 		mugshot = NormalNaviGreen
 	msgOpen
 	"""
-	Ha,ha,ha,ha!
-	MegaMan,you came
-	here playing hero?
+	Ha ha ha! MegaMan, cê
+	chegou aqui brincando
+	de herói?
 	"""
 	keyWait
 	clearMsg
 	"""
-	You're in way over
-	your head here!
+	Cê tá dando um passo
+	MUITO maior que a
+	perna!
 	"""
 	keyWait
 	clearMsg
 	"""
-	It's payback time
-	for smashing up our
-	buddies!
+	Hora de te fazer pagar
+	por surrar os nossos
+	parças!
 	"""
 	keyWait
 	flagSet
@@ -337,22 +337,22 @@ script 191 mmbn3 {
 		mugshot = NormalNaviGreen
 	msgOpen
 	"""
-	Grrr! I'll get you
-	for this!
+	Grrr! Eu ainda te pego
+	por isso!
 	"""
 	keyWait
 	clearMsg
 	"""
-	……
-	Sorry,that was just
-	a little joke.
+	...... Desculpa!
+	Isso foi uma... piadinha!
+	É.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Uh,will this
-	convince you to
-	forgive me? Tee-hee!
+	Er, isso te convence a
+	me perdoar?
+	... "Hi hi"...?
 	"""
 	keyWait
 	clearMsg
@@ -369,14 +369,14 @@ script 192 mmbn3 {
 	playerAnimate
 		animation = 24
 	"""
-	MegaMan adquiriu
-	um PowerUp:
+	MegaMan adquiriu um
+	PowerUp:
 	"
 	"""
 	printItem
 		buffer = 0
 		item = 96
-	"\"!!"
+	"\"!"
 	playerFinish
 	playerReset
 	playerUnlock
@@ -388,9 +388,9 @@ script 193 mmbn3 {
 		mugshot = NormalNaviGreen
 	msgOpen
 	"""
-	Aaaaah! No violence,
-	please! You're a
-	hero,right? Right!
+	Aah! Sem violência, por
+	favor! Você é um herói,
+	né? É, sim!
 	"""
 	keyWait
 	end
@@ -402,23 +402,22 @@ script 220 mmbn3 {
 		jumpIfFalse = continue
 	msgOpen
 	"""
-	Este Cubo de Segurança
+	O Cubo de Segurança
 	é mantido selado por
 	um Navi poderoso.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Faded words can be
-	seen scrawled on the
-	cube's surface
+	Palavras apagadas
+	podem ser observadas
+	na superfície dele.
 	"""
 	keyWait
 	clearMsg
 	"""
-	"A bright,
-	shining Navi
-	holds the key"
+	"Um Navi reluzente e
+	iluminado possui a chave."
 	"""
 	keyWait
 	end
@@ -426,9 +425,9 @@ script 220 mmbn3 {
 script 221 mmbn3 {
 	msgOpen
 	"""
-	The security cube's
-	seal breaks as
-	FlashMan weakens!
+	O cubo se abre com o
+	enfraquecimento de
+	FlashMan!
 	"""
 	keyWait
 	msgClose

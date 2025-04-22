@@ -3,7 +3,7 @@
 script 0 mmbn3 {
 	mugshotHide
 	msgOpen
-	"The door opens!!"
+	"A porta se abre!!"
 	keyWait
 	end
 }
@@ -11,44 +11,42 @@ script 1 mmbn3 {
 	mugshotHide
 	msgOpen
 	"""
-	DarkMan waited,
-	patiently seeking a
-	duel with me…
+	DarkMan esperou
+	pacientemente por um
+	duelo comigo...
 	"""
 	keyWait
 	clearMsg
 	"""
-	I told him I would,
-	if he could delete
-	10000 Navis there.
+	Eu disse que aceitaria,
+	se ele deletasse
+	10.000 Navis.
 	"""
 	keyWait
 	clearMsg
 	"""
-	JapanMan left the
-	SciLab Elite Corps
-	to follow me.
+	YamatoMan deixou a
+	Tropa Elite do SciLab
+	para me seguir.
 	"""
 	keyWait
 	clearMsg
 	"""
-	He was an excellent
-	soldier. My right-
-	hand man.
+	Era um soldado
+	excelente.
+	Meu braço direito.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Even I am forced to
-	recognize the power
-	of those two.
+	Até eu devo reconhecer
+	o poder daqueles dois.
 	"""
 	keyWait
 	clearMsg
 	"""
-	And,of course,
-	yours as well,since
-	you defeated them.
+	E, claro, o seu, também.
+	Afinal, você os derrotou.
 	"""
 	keyWait
 	end
@@ -57,7 +55,10 @@ script 2 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"So you're…Serenade!"
+	"""
+	Então, você é...
+	Serenade!
+	"""
 	keyWait
 	clearMsg
 	jump
@@ -68,9 +69,9 @@ script 3 mmbn3 {
 		mugshot = Serenade
 	msgOpen
 	"""
-	Fine. I shall permit
-	a duel for the title
-	of UnderKing!
+	Pois bem. Darei-lhe um
+	duelo... pelo título de
+	UndeRei!
 	"""
 	keyWait
 	clearMsg
@@ -82,15 +83,15 @@ script 4 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Wow,I was worried
-	about this Serenade…
-	but he's so small!!
+	Eu aqui preocupado com
+	Serenade... mas nem
+	parece grande coisa!!
 	"""
 	keyWait
 	clearMsg
 	"""
-	C'mon MegaMan!
-	This'll be easy!
+	Vamos nessa, MegaMan!
+	Vai ser moleza!
 	"""
 	keyWait
 	clearMsg
@@ -102,21 +103,21 @@ script 5 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan! Wait!!
-	Don't be fooled!!
+	Lan! Espera!!
+	Não se deixe enganar!!
 	"""
 	keyWait
 	clearMsg
 	"""
-	This Navi isn't like
-	anything I've ever
-	faced before!
+	Serenade é totalmente
+	diferente de tudo que
+	eu já enfrentei!
 	"""
 	keyWait
 	clearMsg
 	"""
-	He's strong!
-	VERY strong.
+	É forte.
+	MUITO forte.
 	"""
 	keyWait
 	clearMsg
@@ -128,23 +129,23 @@ script 6 mmbn3 {
 		mugshot = Serenade
 	msgOpen
 	"""
-	How keen of you to
-	notice my power even
-	before we begin.
+	Muito perspicaz,
+	percebendo meu poder
+	antes de começarmos.
 	"""
 	keyWait
 	clearMsg
 	"""
-	You mentioned that
-	I am different from
-	other Navis?
+	Você disse que sou
+	diferente de outros
+	Navis, não?
 	"""
 	keyWait
 	clearMsg
 	"""
-	That is because the
-	source of my power…
-	is mercy.
+	Isso é porque a fonte
+	do meu poder...
+	é a misericórdia.
 	"""
 	keyWait
 	clearMsg
@@ -155,7 +156,7 @@ script 7 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"\"Mercy\"…?"
+	"\"Misericórdia\"...?"
 	keyWait
 	clearMsg
 	jump
@@ -166,15 +167,15 @@ script 8 mmbn3 {
 		mugshot = Serenade
 	msgOpen
 	"""
-	Correct. I love
-	and respect my enemy
-	and thereby win.
+	Sim. Eu amo e respeito
+	meu inimigo, e por isso
+	venço.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Come now.
-	Let me show you.
+	Venha. Vou mostrar pra
+	você.
 	"""
 	keyWait
 	clearMsg
@@ -185,7 +186,7 @@ script 9 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Let's go,Lan!!"
+	"Vamos nessa, Lan!!"
 	keyWait
 	clearMsg
 	jump
@@ -197,14 +198,14 @@ script 10 mmbn3 {
 	msgOpen
 	"""
 	OK!!
-	Ready,MegaMan!
+	Pronto, MegaMan!
 	"""
 	keyWait
 	clearMsg
-	"Battle routine! "
+	"Rotina de batalha,"
 	waitSkip
 		frames = 30
-	"Set!"
+	"\npreparar!"
 	keyWait
 	clearMsg
 	jump
@@ -224,7 +225,7 @@ script 12 mmbn3 {
 	mugshotShow
 		mugshot = Serenade
 	msgOpen
-	"Come to me…"
+	"Venham..."
 	keyWait
 	end
 }

@@ -3,8 +3,8 @@
 script 0 mmbn3 {
 	msgOpen
 	"""
-	Intruder detected!
-	Removing intruder.
+	Intruso detectado!
+	Removendo intruso.
 	"""
 	keyWait
 	end
@@ -12,16 +12,14 @@ script 0 mmbn3 {
 script 1 mmbn3 {
 	msgOpen
 	"""
-	Alpha,hiding in
-	the floor,grabbed
-	MegaMan!!
+	Alpha, escondido no chão,
+	agarrou MegaMan!!
 	"""
 	keyWait
 	clearMsg
 	"""
-	The screams have
-	alerted the
-	guard program!!
+	Seus gritos alertaram o
+	programa de guarda!!
 	"""
 	keyWait
 	end

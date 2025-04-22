@@ -86,7 +86,7 @@ script 191 mmbn3 {
 	"Ngh!"
 	waitSkip
 		frames = 10
-	" Não!"
+	" Não! "
 	waitSkip
 		frames = 6
 	"."

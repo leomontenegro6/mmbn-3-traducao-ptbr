@@ -1142,7 +1142,7 @@ script 157 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan,vamos achar
+	MegaMan, vamos achar
 	o Navi da WWW!!
 	"""
 	keyWait

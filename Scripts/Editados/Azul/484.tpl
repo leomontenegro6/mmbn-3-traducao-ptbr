@@ -14,20 +14,19 @@ script 0 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	I've heard of you.
-	I'm ranked #3. If
-	you want a piece of
+	Ouvi falar de você.
+	Eu sou o ranque #3.
+	Se quer lutar,
 	"""
 	keyWait
 	clearMsg
 	"""
-	me,I'm at the bottom
-	of the slope
-	in Undernet 4.
+	eu tô na base da
+	rampa da Undernet 4.
 	"""
 	keyWait
 	clearMsg
-	"I'll be waiting,#7."
+	"Te espero lá, #7."
 	keyWait
 	waitHold
 }
@@ -49,8 +48,8 @@ script 1 mmbn3 {
 	clearMsg
 	"""
 	O Grande Prêmio N1 já
-	começou! Boa sorte pra
-	vocês, participantes!
+	começou! Boa sorte,
+	participantes!
 	"""
 	keyWait
 	waitHold
@@ -73,8 +72,8 @@ script 2 mmbn3 {
 	clearMsg
 	"""
 	Eu vou entrar no N1!
-	Não sou lá grandes,
-	coisas, mas vou na fé!
+	Não sou grandes coisas,
+	mas vou na fé!
 	"""
 	keyWait
 	waitHold
@@ -93,9 +92,8 @@ script 3 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	Vocês sabem sobre
-	o Sistema de Chip
-	Padrão?
+	Vocês sabem sobre o
+	Sistema de Chip Padrão?
 	"""
 	keyWait
 	clearMsg
@@ -114,22 +112,22 @@ script 3 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Para marcar um chip,
-	é só deixar selecionado
-	o chip que você quer
+	Para marcar um, é só
+	deixar selecionado o
+	chip que você quer
 	"""
 	keyWait
 	clearMsg
 	"""
-	como seu Chip Padrão na
-	Tela de Edição de Pasta
-	e apertar "Select"!
+	como Padrão na Tela
+	de Edição de Pasta e
+	apertar Select!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Mas atenção: temos
-	uma quantidade limitada
+	Atenção: existe uma
+	quantidade limitada
 	de Memória Padrão.
 	"""
 	keyWait
@@ -143,7 +141,7 @@ script 3 mmbn3 {
 	clearMsg
 	"""
 	mas, se acharem um
-	item "Memória Padrão +"
+	item chamado "Padrão+"
 	por aí,
 	"""
 	keyWait
@@ -176,29 +174,27 @@ script 4 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	E aê, cambada? Eu sou
-	o Pon! Vocês conhecem
-	os SubChips, né?
+	E aê, gente! Sou o Pon!
+	Vocês conhecem os
+	SubChips, né?
 	"""
 	keyWait
 	clearMsg
 	"""
 	Normalmente, só dá
-	para carregar quatro
+	para carregar 4
 	de cada tipo,
 	"""
 	keyWait
 	clearMsg
-	"""
-	mas tem esses itens,
-	"
-	"""
+	"mas os itens \""
 	printItem
 		buffer = 0
 		item = 101
 	"""
-	", que nos
-	permitem carregar mais!
+	"
+	nos permitem carregar
+	mais!
 	"""
 	keyWait
 	waitHold
@@ -218,14 +214,14 @@ script 5 mmbn3 {
 		unused = 12
 	"""
 	Eu juro que não tô
-	inventando! Ontem,
-	enquanto eu
+	inventando!
+	Ontem, enquanto eu
 	"""
 	keyWait
 	clearMsg
 	"""
-	explorava ACDC, eu vi
-	um Navi fantasma!
+	explorava ACDC,
+	eu vi um Navi fantasma!
 	"""
 	keyWait
 	clearMsg
@@ -259,14 +255,14 @@ script 6 mmbn3 {
 	"""
 	Eu acredito. O Toupeira
 	não tá mentindo.
-	Eu vi a mesma coisa.
+	Eu vi o mesmo.
 	"""
 	keyWait
 	clearMsg
 	"""
 	Navis fortes demais
 	não são simplesmente
-	deletados, eles deixam
+	deletados. Eles deixam
 	"""
 	keyWait
 	clearMsg
@@ -301,9 +297,9 @@ script 7 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Então... alguém pode me
-	dizer como faz pra
-	aumentar esse nível?
+	Então... alguém me diz
+	como faz pra aumentar
+	esse nível?
 	"""
 	keyWait
 	waitHold
@@ -322,9 +318,9 @@ script 8 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	Opa, Nukin na área! Eu
-	levo NetLutas super a
-	sério.
+	Opa, Nukin na área!
+	Eu levo NetLutas
+	super a sério.
 	"""
 	keyWait
 	clearMsg
@@ -336,7 +332,7 @@ script 8 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Se você deletar vários
+	Se deletar vários
 	inimigos com um só
 	ataque, ele sobe!
 	"""
@@ -357,15 +353,16 @@ script 9 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	Oie! Koetsu aqui, o cara
-	que manja dos paranauê!
+	Oie! Koetsu aqui, o
+	cara que manja dos
+	paranauê!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Vcs sabem dos
-	contra-ataques, né?
-	É uma técnica em que
+	Sabem dos contra-
+	ataques, né? É uma
+	técnica em que
 	"""
 	keyWait
 	clearMsg
@@ -378,36 +375,35 @@ script 9 mmbn3 {
 	clearMsg
 	"""
 	Se acertar o tempo
-	direitinho, só coisas
+	certinho, só coisas
 	boas vêm pra você!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Derrotando um inimigo
-	contra-atacando,
-	você ganha um FragBug.
+	Derrotar alvos com
+	contra-ataques te
+	dá FragBugs.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Dizem por aí que existe
-	um lugar em que dá pra
+	Dizem que existe um 
+	lugar em que dá pra
 	trocar FragBugs por
 	"""
 	keyWait
 	clearMsg
 	"""
-	chips.
-	Vale a pena dar uma
-	estudada!
+	chips. Vale a pena
+	dar uma estudada!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Por sinal, eu vou entrar
-	no Grande Prêmio N1 tb,
-	então, fiquem espertos!
+	Aliás, vou entrar no
+	Grande Prêmio N1 tb.
+	Fiquem espertos!
 	"""
 	keyWait
 	waitHold
@@ -426,9 +422,9 @@ script 10 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	Oi, gente!
-	Eu sou o Turner!
-	Só por curiosidade,
+	Oi, gente! Eu sou o
+	Turner! Só por
+	curiosidade,
 	"""
 	keyWait
 	clearMsg
@@ -438,22 +434,19 @@ script 10 mmbn3 {
 	"""
 	keyWait
 	clearMsg
-	"""
-	Eu tô usando um
-	"
-	"""
+	"Eu tô usando um\n"
 	printChip
 		buffer = 0
 		chip = 195
 	"""
-	", mas minha Me-
-	mória Padrão aumentou,
+	, mas minha
+	Memória Padrão
 	"""
 	keyWait
 	clearMsg
 	"""
-	então, estou pensando
-	em trocar.
+	aumentou, então estou
+	pensando em trocar.
 	"""
 	keyWait
 	clearMsg
@@ -478,9 +471,8 @@ script 11 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	He he. O meu Chip
-	Padrão é um
-	"
+	He he. O meu Padrão
+	é um "
 	"""
 	printChip
 		buffer = 0
@@ -490,8 +482,8 @@ script 11 mmbn3 {
 	clearMsg
 	"""
 	porque de que adianta
-	outros chips se você
-	for deletado?
+	outros chips se você é
+	deletado?
 	"""
 	keyWait
 	waitHold
@@ -522,21 +514,21 @@ script 12 mmbn3 {
 		chip = 1
 	"""
 	"
-	como Chip Padrão.
+	como Padrão.
 	É preciso mais que
 	"""
 	keyWait
 	clearMsg
 	"""
 	cura e impulsionadores
-	pra vencer! A chave é
-	poder de fogo!
+	pra vencer!
+	A chave é ataque!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Chips de cura são
-	pros fracos!
+	Chips de cura são pros
+	fracos!
 	CAI DENTRO!!!
 	"""
 	keyWait
@@ -569,23 +561,22 @@ script 13 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Eu não aguentei espe-
-	rar, então, fui pra Rua
-	Angra ontem, conferir
+	Não aguentei esperar,
+	aí fui pra Rua Angra
+	ontem conferir onde o
 	"""
 	keyWait
 	clearMsg
 	"""
-	onde o torneio vai ser
-	sediado. E o lugar é
-	liiiindooo!
+	torneio vai ser sediado.
+	E o lugar é liiiindooo!
 	"""
 	keyWait
 	clearMsg
 	"""
-	E o café que vendem na
-	cafeteria com vista pro
-	mar tava uma delícia!
+	E o café da cafeteria
+	com vista pro mar tava
+	delicioso!
 	"""
 	keyWait
 	clearMsg
@@ -596,9 +587,9 @@ script 13 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Também tem uma butique
-	chique por lá, pra quem
-	se interessar.
+	Também tem uma burique
+	chique lá, pra quem
+	gostar.
 	"""
 	keyWait
 	waitHold
@@ -637,7 +628,7 @@ script 14 mmbn3 {
 	clearMsg
 	"""
 	mas o Tora Aragoma,
-	de Akindo, promete,
+	de Akindo, promete
 	também.
 	"""
 	keyWait
@@ -645,7 +636,7 @@ script 14 mmbn3 {
 	"""
 	Parece que ele é o
 	melhor NetLutador da
-	costa oeste de Ni-Hon.
+	costa oeste.
 	"""
 	keyWait
 	clearMsg
@@ -684,8 +675,8 @@ script 15 mmbn3 {
 		unused = 12
 	"""
 	MegaMan.EXE, sem
-	discussão! Sério que tem
-	gente que não vê isso?!
+	discussão! Sério que
+	tem quem não vê?!
 	"""
 	keyWait
 	waitHold
@@ -704,9 +695,9 @@ script 16 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	Eu não vou TORCER
-	por ele, mas aquele tal
-	de Q é bem intrigante.
+	Não vou TORCER por ele,
+	mas aquele tal de Q é
+	intrigante.
 	"""
 	keyWait
 	clearMsg
@@ -734,9 +725,9 @@ script 17 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	Ai, Maki, acho que
-	você é a ÚNICA pessoa
-	com cérebro, aqui.
+	Ai, Maki, acho que você
+	é a ÚNICA com cérebro
+	aqui.
 	"""
 	keyWait
 	clearMsg
@@ -768,14 +759,76 @@ script 18 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	I found an ultra-
-	rare chip!
+	Eu achei um chip
+	ultrarraro!
 	"""
 	keyWait
 	clearMsg
 	"""
-	It's called a
+	Se chama
 	"
+	"""
+	printChip
+		buffer = 0
+		chip = 25
+	" "
+	printCode
+		buffer = 0
+		code = M
+	"\"!"
+	keyWait
+	clearMsg
+	"""
+	Quem imaginaria achar
+	algo assim na Ilha do
+	Inferno, né?
+	"""
+	keyWait
+	clearMsg
+	"""
+	O vírus que deixou
+	ele pra trás foi o...
+	er...
+	"""
+	keyWait
+	clearMsg
+	"""
+	É um daqueles trocinhos
+	que vive abrindo e
+	fechando o bocão.
+	"""
+	keyWait
+	clearMsg
+	"""
+	O mais estranho foi que
+	achei vários num mesmo
+	lugar,
+	"""
+	keyWait
+	clearMsg
+	"""
+	mas, depois, nunca mais
+	esbarrei em outro!
+	"""
+	keyWait
+	clearMsg
+	"""
+	Não sei ao certo o
+	que eu tô fazendo
+	direito ou errado.
+	"""
+	keyWait
+	clearMsg
+	"""
+	Comprei um certo 
+	programa lá em Angra
+	e equipei. Daí,
+	"""
+	keyWait
+	clearMsg
+	"""
+	imediatamente achei
+	um "
 	"""
 	printChip
 		buffer = 0
@@ -786,72 +839,7 @@ script 18 mmbn3 {
 		code = M
 	"""
 	"!
-	Who'd have thought
-	"""
-	keyWait
-	clearMsg
-	"""
-	these elusive chips
-	could be found on
-	Hades Isle?!
-	"""
-	keyWait
-	clearMsg
-	"""
-	The thing that
-	dropped it was,um…
-	"""
-	keyWait
-	clearMsg
-	"""
-	one of those funky
-	things that always
-	chomp their jaws.
-	"""
-	keyWait
-	clearMsg
-	"""
-	The funny thing is,
-	though,I battled
-	over and over at
-	"""
-	keyWait
-	clearMsg
-	"""
-	that same spot,but
-	never saw another
-	one of them again!
-	"""
-	keyWait
-	clearMsg
-	"""
-	I can't figure out
-	what I'm doing right
-	and what I'm doing
-	"""
-	keyWait
-	clearMsg
-	"""
-	wrong. I bought a
-	program at the Beach
-	and equipped it,then
-	"""
-	keyWait
-	clearMsg
-	"""
-	I replaced it with
-	"
-	"""
-	printChip
-		buffer = 0
-		chip = 25
-	" "
-	printCode
-		buffer = 0
-		code = M
-	"""
-	".
-	Hmmm…
+	Hmmm...
 	"""
 	keyWait
 	waitHold
@@ -870,8 +858,8 @@ script 19 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	Did you really find
-	a "
+	Sério que você achou
+	um "
 	"""
 	printChip
 		buffer = 0
@@ -882,28 +870,27 @@ script 19 mmbn3 {
 		code = M
 	"""
 	",
-	HigHig?! Oh,I can't
+	HigHig?!
 	"""
 	keyWait
 	clearMsg
 	"""
-	stand this! I'm
-	gonna go find one
-	too! But even if I
+	Ah, não vai ficar assim!
+	Eu também vou achar um!
 	"""
 	keyWait
 	clearMsg
 	"""
-	go,I probably won't
-	run into that thing.
-	I think that program
+	Mas, mesmo indo lá, é
+	improvável eu esbarrar
+	com o vírus.
 	"""
 	keyWait
 	clearMsg
 	"""
-	you bought at the
-	Beach has something
-	to do with it.
+	O programa que você
+	comprou deve ter te
+	ajudado...
 	"""
 	keyWait
 	waitHold
@@ -922,20 +909,20 @@ script 20 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	Hey,all! Are you
-	playing Higsby's
-	Number Trading?
+	Fala! Andam usando o
+	Troca-Números do
+	Higsby?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Check this out! I
-	won big time!
+	Saca só! Eu tirei a
+	sorte grande!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I got a
+	Ganhei nele um
 	"
 	"""
 	printChip
@@ -947,7 +934,7 @@ script 20 mmbn3 {
 		code = S
 	"""
 	"!
-	Aw,yeah!!
+	Incrível!!
 	"""
 	keyWait
 	waitHold
@@ -966,30 +953,29 @@ script 21 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	Hey Haru,I know
-	about that! That's
-	where you win if you
+	Eu sei disso aí, Haru!
+	Você ganha coisas
+	digitando os números
 	"""
 	keyWait
 	clearMsg
 	"""
-	enter the numbers
-	that come with nut-
-	wafer chocolates.
+	que vêm naqueles 
+	wafers de chocolate.
 	"""
 	keyWait
 	clearMsg
 	"""
-	They were selling
-	them at a stall in
-	Yoka,so I bought a
+	Vendem eles numa
+	lojinha de Yoka.
+	Eu comprei trocentos!
 	"""
 	keyWait
 	clearMsg
 	"""
-	bunch! You know,the
-	chocolates taste
-	pretty good,too!
+	E, de quebra, o 
+	chocolate é bom pra
+	caramba, também!
 	"""
 	keyWait
 	waitHold
@@ -1008,25 +994,24 @@ script 22 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	Buying Yoka candy
-	isn't the only way
-	to get numbers.
+	Comprar esses doces
+	não é o único jeito
+	de achar os números.
+	"""
+	keyWait
+	clearMsg
+	"Há outras maneiras."
+	keyWait
+	clearMsg
+	"""
+	Por exemplo, dá para...
 	"""
 	keyWait
 	clearMsg
 	"""
-	There are other ways
-	to get them.
-	"""
-	keyWait
-	clearMsg
-	"For example,you can…"
-	keyWait
-	clearMsg
-	"""
-	Well,you'll find out
-	soon enough.
-	Hee hee hee…
+	Bom, vocês logo irão
+	descobrir.
+	Hi hi hi...
 	"""
 	keyWait
 	waitHold
@@ -1045,23 +1030,23 @@ script 23 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	You're pretty good!
-	But there's still a
-	lot more to Trading!
+	Cês tão inteirados! Mas
+	tem muito mais que o
+	Troca-Números esconde!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Gather lotto numbers
-	from all over and
-	enter them,y'know?
+	Reúnam vários números
+	sorteados e insiram-nos,
+	é.
 	"""
 	keyWait
 	clearMsg
 	"""
-	You're sure to win
-	even better things.
-	Y'know?
+	Com isso, receberão
+	recompensas ainda
+	melhores! É!
 	"""
 	keyWait
 	waitHold
@@ -1080,29 +1065,28 @@ script 24 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	Cool! I can win even
-	better items?!
+	Legal! Dá pra conseguir
+	coisa ainda melhor?!
 	"""
 	keyWait
 	clearMsg
 	"""
-	All right! I'm gonna
-	get numbers from all
-	over,and stick them
+	Vou pegar números em
+	todo lugar e inserir
+	na máquina adoidado!
 	"""
 	keyWait
 	clearMsg
 	"""
-	in randomly! Thanks
-	for your replies,U-
-	pon,MEGAoka&Higsby!
+	Valeu pelas respostas,
+	MEGAoka e Higsby!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Still,MEGAoka's post
-	kind of makes me
-	wonder. Hmm…
+	Mas a postagem do
+	MEGAoka só me deixou
+	foi curioso. Hmm...
 	"""
 	keyWait
 	waitHold
@@ -1121,28 +1105,29 @@ script 25 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	You know how people
-	sometimes ask you to
-	trade chips?
+	Sabe o pessoal que pede
+	pra trocar chip com
+	você?
 	"""
 	keyWait
 	clearMsg
 	"""
-	I've been asked
-	twice,but both times
+	Já apareceram dois pra
+	mim,
 	"""
 	keyWait
 	clearMsg
 	"""
-	I didn't have the
-	chip they needed.
+	mas, em ambas vezes,
+	eu não tinha o chip
+	que queriam.
 	"""
 	keyWait
 	clearMsg
 	"""
-	It's an awful
-	feeling turning them
-	down,you know?
+	Dá uma tristeza ter que
+	dizer "não" pra eles,
+	sabe?
 	"""
 	keyWait
 	waitHold
@@ -1161,23 +1146,22 @@ script 26 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	I know exactly what
-	you're talking
-	about. In fact,the
+	Ah, eu sei exatamente
+	do que você tá falando.
 	"""
 	keyWait
 	clearMsg
 	"""
-	other day I was
-	asked to take a quiz
-	by someone. It was
+	Aliás, outro dia, um
+	cara me desafiou foi
+	pra um questionário.
 	"""
 	keyWait
 	clearMsg
 	"""
-	quite embarrassing.
-	I couldn't answer
-	the first problem!
+	Paguei o maior mico.
+	Não acertei nem a
+	primeira pergunta!
 	"""
 	keyWait
 	waitHold
@@ -1196,30 +1180,29 @@ script 27 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	I'm just an old lady
-	who loves to gab,but
-	have you heard?
+	Sou só uma velha
+	fofoqueira, mas...
+	ficaram sabendo?
 	"""
 	keyWait
 	clearMsg
 	"""
-	There's going to be
-	a secret tournament
-	in the Undernet.
+	Vai haver um torneio
+	secreto na Undernet.
 	"""
 	keyWait
 	clearMsg
 	"""
-	You can bet it'll be
-	dangerous! Forgive
-	my anonymity,but I
+	E será perigosíssimo!
+	Desculpem pelo
+	anonimato,
 	"""
 	keyWait
 	clearMsg
 	"""
-	don't want to wind
-	up like that guy in
-	Beach Square!
+	mas não quero acabar
+	como aquele cara do
+	Angra Plaza!
 	"""
 	keyWait
 	waitHold
@@ -1238,23 +1221,22 @@ script 28 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	Really? It sounds
-	like an Under-N1
-	Grand Prix!
+	Sério isso? Tipo um...
+	Under-Grande Prêmio N1!
 	"""
 	keyWait
 	clearMsg
 	"""
-	The Undernet guys
-	are supposedly way
-	stronger than the
+	Dizem que o povo da
+	Undernet é mais forte
+	que NetLutadores
 	"""
 	keyWait
 	clearMsg
 	"""
-	normal Battlers,so
-	this should be some
-	competition!
+	normais, então
+	deverá ser uma
+	competição porreta!
 	"""
 	keyWait
 	waitHold
@@ -1273,29 +1255,27 @@ script 29 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	…Yet another fool
-	dares speak of the
-	Undernet…
+	... E mais um tolo ousa
+	falar da Undernet...
 	"""
 	keyWait
 	clearMsg
 	"""
-	So be it. This will
-	be overlooked.
+	Tudo bem. Deixarei
+	passar desta vez.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Know there are many
-	warriors in the
-	Undernet with
+	Há vários guerreiros
+	na Undernet com
+	poderes absurdos,
 	"""
 	keyWait
 	clearMsg
 	"""
-	unfathomable powers,
-	including You-Know-
-	Who. Tread lightly.
+	incluindo Você-Sabe-Quem.
+	Tenham cautela.
 	"""
 	keyWait
 	waitHold
@@ -1314,20 +1294,23 @@ script 30 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	Have you looked
-	outside? There are
-	tanks everywhere!
+	Vocês viram as ruas?
+	Tem tanque pra tudo
+	quanto é lado!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I haven't watched
-	the news,so I don't
-	know why.
+	Eu não vejo noticiários,
+	então não sei por que
+	isso.
 	"""
 	keyWait
 	clearMsg
-	"What's going on?!"
+	"""
+	O que tá
+	acontecendo?!
+	"""
 	keyWait
 	waitHold
 }
@@ -1345,15 +1328,15 @@ script 31 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	I'm not sure myself,
-	but they said to
-	watch out for
+	Também não sei bem,
+	mas mandaram tomar
+	cuidado com a WWW.
 	"""
 	keyWait
 	clearMsg
 	"""
-	the WWW. Still,this
-	is a little much!
+	Ainda assim, assim já é
+	demais, né?!
 	"""
 	keyWait
 	waitHold
@@ -1372,23 +1355,21 @@ script 32 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	I tried to sneak out
-	of ACDC today,but
-	was told that only
+	Fui fugir de ACDC, mas
+	disseram que só Oficiais
+	podem usar o metrô!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Officials can use
-	the Metro! Thanks
-	to that,I couldn't
+	Por causa disso,
+	não pude me mudar daqui,
 	"""
 	keyWait
 	clearMsg
 	"""
-	move,so I'm
-	sitting at home
-	surrounded by boxes!
+	então estou preso em
+	casa, cercado por caixas!
 	"""
 	keyWait
 	waitHold
@@ -1407,16 +1388,14 @@ script 33 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	All I can do is sit
-	here and watch how
-	things unfold.
+	Só dá pra ficar aqui e
+	ver no que isso vai dar.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I might not even be
-	able to post
-	messages anymore!
+	Talvez eu fique sem nem
+	poder postar aqui!
 	"""
 	keyWait
 	waitHold

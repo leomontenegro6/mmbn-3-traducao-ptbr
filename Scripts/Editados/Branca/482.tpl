@@ -22,16 +22,16 @@ script 0 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	I'd like someone to
-	help me find an old
-	friend.
+	Gostaria que alguém me
+	ajudasse a achar um
+	velho amigo meu.
 	"""
 	keyWait
 	clearMsg
 	"""
-	If you can help,
-	come meet me at ACDC
-	Park.
+	Se puder me ajudar,
+	fale comigo no
+	Parque ACDC.
 	"""
 	keyWait
 	clearMsg
@@ -86,23 +86,23 @@ script 1 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	So you think you're
-	good? Prove it! DNN
-	is looking for a few
+	Você se acha bonzão?
+	Pois prove!
+	A DNN está em busca de
 	"""
 	keyWait
 	clearMsg
 	"""
-	good stunt Navis
-	for "Cyber Corps:
-	NetRangers"! For the
+	bons Navis dublês pra
+	"Cyber Esquadrão
+	NetRangers"!
 	"""
 	keyWait
 	clearMsg
 	"""
-	details,come to
-	Beach 1! This could
-	be your big debut!
+	Mais detalhes em Angra 1!
+	Pode ser seu primeiro
+	passo rumo ao estrelato!
 	"""
 	keyWait
 	clearMsg
@@ -157,23 +157,23 @@ script 2 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	There's a gang of
-	Navis spreading
-	viruses by the TV
+	Tem uma gangue de Navis
+	espalhando vírus pelo
+	prédio da DNN.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Station. They're mad
-	because they lost at
-	N1. I can't handle
+	São um bando de maus
+	perdedores do Grande
+	Prêmio N1.
 	"""
 	keyWait
 	clearMsg
 	"""
-	them alone,so if you
-	can help,meet me at
-	the Station Lobby.
+	Preciso de ajuda com
+	eles! Fale comigo na
+	Recepção da DNN.
 	"""
 	keyWait
 	clearMsg
@@ -228,16 +228,16 @@ script 3 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	I'm looking for some
-	important data I
-	lost. I can't talk
+	Procuros dados impor-
+	tantes que perdi. Não
+	posso contar tudo aqui.
 	"""
 	keyWait
 	clearMsg
 	"""
-	much here. Come to
-	the teacher's lounge
-	at ACDC School.
+	Venha à Sala dos
+	Professores do Colégio
+	ACDC.
 	"""
 	keyWait
 	clearMsg
@@ -469,23 +469,23 @@ script 6 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	Er... Isso é meio embara-
-	çoso, mas ando tendo
-	problemas com o meu
+	Er... É meio embaraçoso,
+	mas ando tendo proble-
+	mas com o meu filho.
 	"""
 	keyWait
 	clearMsg
 	"""
-	filho. Não posso falar
-	disso aqui, então, por
-	favor, venha falar
+	Não posso falar disso
+	aqui, então, por favor,
+	venha falar comigo
 	"""
 	keyWait
 	clearMsg
 	"""
-	comigo na Estação Yoka.
-	De preferência, um
-	NetLutador forte.
+	na Estação Yoka.
+	Dou preferência a
+	NetLutadores fortes.
 	"""
 	keyWait
 	clearMsg
@@ -555,7 +555,7 @@ script 7 mmbn3 {
 	"""
 	Venha ao Laboratório
 	de Vírus no SciLab.
-	Explico o resto lá.
+	Eu explico o resto lá.
 	"""
 	keyWait
 	clearMsg
@@ -821,23 +821,22 @@ script 11 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	Hiya! Do any of you
-	have a male Navi
-	that's kind,smart,
+	Oiê! Alguém aí tem um Navi
+	masculino gentil, inteligen-
+	te, forte e bonitão?
 	"""
 	keyWait
 	clearMsg
 	"""
-	handsome and strong?
-	You know,an all-
-	around great Navi?
+	Sabe, um Navi quase
+	perfeito?
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'm too busy to
-	explain! Meet me at
-	Beach Square ASAP!
+	Tô ocupada demais pra
+	explicar! Só vem pro
+	Angra Plaza, já!
 	"""
 	keyWait
 	clearMsg
@@ -892,30 +891,29 @@ script 12 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	Oh my aching back! I
-	have to deliver this
-	here chip,but I'll
+	Ai, minha coluna! Estou
+	precisndo entregar um
+	certo chip,
 	"""
 	keyWait
 	clearMsg
 	"""
-	be darned if I'm not
-	too old for this!
-	Would someone be a
+	mas, ai, tô velha demais
+	pra essas coisas!
 	"""
 	keyWait
 	clearMsg
 	"""
-	darlin' and deliver
-	it for me? I'm
-	a'waiting at the
+	Ô, alguém aí pode dar
+	essa ajudinha a esta
+	pobre idosinha?
 	"""
 	keyWait
 	clearMsg
 	"""
-	bottom of the sloped
-	street in front of
-	the Inn!
+	Espero na base da
+	ladeira que leva pra
+	Pousada Unda!
 	"""
 	keyWait
 	clearMsg
@@ -970,30 +968,29 @@ script 13 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	Dear Sirs. A fellow
-	teacher informed me
-	of your board. A
+	Prezados. Um colega
+	professor me informou
+	sobre este Quadro.
 	"""
 	keyWait
 	clearMsg
 	"""
-	certain computer is
-	presently infected
-	by a virus.
+	Um certo computador
+	nosso está, atualmente,
+	infectado por vírus.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I seek the aid of a
-	proficient virus-
-	buster.
+	Busco o auxílio de um
+	caça-vírus competente.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I am waiting in the
-	Principal's Office
-	of ACDC School.
+	Fico no aguardo na
+	Diretoria do Colégio
+	ACDC.
 	"""
 	keyWait
 	clearMsg
@@ -1048,28 +1045,27 @@ script 14 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	Our condor still
-	hasn't come back.
+	O nosso condor ainda
+	não voltou.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Can someone find it
-	and return it to the
-	Zoo?
+	Alguém pode encontrá-lo
+	e trazê-lo de volta ao
+	zoológico?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Come to the front of
-	the Zoo's Parrot
-	Hut.
+	Venha para a Gaiola dos
+	Papagaios do zoológico
+	para mais detalhes.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'll fill you in on
-	the details there.
+	Explicarei tudo lá.
 	"""
 	keyWait
 	clearMsg
@@ -1124,30 +1120,30 @@ script 15 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	I'm an Official,but
-	I need someone to
-	help me with rehab.
+	Sou um Oficial, mas
+	preciso de ajuda com
+	minha reabilitação.
 	"""
 	keyWait
 	clearMsg
 	"""
-	You won't be
-	battling me. I just
-	want to watch you
+	Você não lutará contra
+	mim. Só quero te ver
+	batalhando
 	"""
 	keyWait
 	clearMsg
 	"""
-	battle so I can
-	regain my virus
-	busting instincts.
+	para recuperar os meus
+	instintos de luta
+	antivírus.
 	"""
 	keyWait
 	clearMsg
 	"""
-	If you've got the
-	time,come inside the
-	Hospital's TV.
+	Se estiver com tempo,
+	conecte-se à TV do
+	Hospital.
 	"""
 	keyWait
 	clearMsg
@@ -1202,30 +1198,29 @@ script 16 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	I'm a used Navi,and
-	lately I've been
-	thinking about my
+	Sou um Navi usado e,
+	ultimamente, tenho pen-
+	sado na minha ex-dona.
 	"""
 	keyWait
 	clearMsg
 	"""
-	old master. Now I'm
-	operated by someone
-	else,though,so I
+	Mas agora tenho outro
+	operador e não posso ir
+	vê-la.
 	"""
 	keyWait
 	clearMsg
 	"""
-	can't see her. Can
-	someone go check up
-	on her? I'm in the
+	Alguém poderia ir ver
+	como ela está para mim?
 	"""
 	keyWait
 	clearMsg
 	"""
-	SciLab Vending
-	Machine. Please
-	come for more info.
+	Estou na Máquina de
+	Bebidas do SciLab.
+	Fale comigo.
 	"""
 	keyWait
 	clearMsg
@@ -1280,23 +1275,23 @@ script 17 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	There's been a lot
-	of gang activity in
-	Yoka recently.
+	Tem havido muita
+	atividade de gangue
+	em Yoka estes dias.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Can someone with
-	skills help keep
-	the peace? Ask the
+	Alguém habilidoso aí
+	poderia ajudar a trazer
+	de volta a paz aqui?
 	"""
 	keyWait
 	clearMsg
 	"""
-	program in Yoka
-	Square for more
-	details.
+	Pegue mais detalhes
+	com o programa no
+	Yoka Plaza.
 	"""
 	keyWait
 	clearMsg
@@ -1351,30 +1346,29 @@ script 18 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	Uh…you probably
-	won't believe me,but
-	I picked up some
+	Er... Acho que você não
+	vai acreditar, mas eu
+	eu adotei uns vírus
 	"""
 	keyWait
 	clearMsg
 	"""
-	harmless viruses.
-	They're cute,but
-	alas,I can't keep
+	fofos e inofensivos.
+	São fofos demais,
+	mas não posso ficar
 	"""
 	keyWait
 	clearMsg
 	"""
-	them. If you want
-	them,come to
-	SciLab 2.
+	com eles. Se os quiser,
+	venha para SciLab 2.
 	"""
 	keyWait
 	clearMsg
 	"""
-	There will be a test
-	to make sure you can
-	raise them properly.
+	Aviso: aplicarei um teste
+	para confirmar que você
+	os criará bem.
 	"""
 	keyWait
 	clearMsg
@@ -1428,7 +1422,9 @@ script 19 mmbn3 {
 		top = 100
 	msgOpenInvisible
 		unused = 12
-	"Come to Hades Isle…"
+	"""
+	Venha à Ilha do Inferno...
+	"""
 	keyWait
 	clearMsg
 	"Aceitar missão?\n"
@@ -1482,43 +1478,42 @@ script 20 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	We need someone to
-	be It in a game of
-	Hide&Seek!
+	Queremos alguém pra
+	ser o que procura no
+	esconde-esconde!
 	"""
 	keyWait
 	clearMsg
 	"""
-	However,this is no
-	ordinary Hide&Seek!
+	Porém, não é um
+	esconde-esconde
+	qualquer!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Whoever gets found
-	by the one who's It
-	must hand over a
+	Quem for pego vai ter
+	que abrir mão de um chip!
 	"""
 	keyWait
 	clearMsg
 	"""
-	chip! Since we're
-	looking for someone
-	to be It,you have
+	Mas como queremos um
+	que procura, você não
+	tem nada a perder!
 	"""
 	keyWait
 	clearMsg
 	"""
-	nothing to lose!
-	So,who's up for some
-	fun?
+	E aí, quem topa brincar
+	com a gente?
 	"""
 	keyWait
 	clearMsg
 	"""
-	We'll be waiting by
-	the Ticket Machine
-	in front of the Zoo.
+	Estaremos esperando
+	na bilheteria na frente
+	do zoológico.
 	"""
 	keyWait
 	clearMsg
@@ -1573,29 +1568,29 @@ script 21 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	We want to meet that
-	Navi MegaMan from
-	the Grande Prêmio N1!
+	Queremos conhecer
+	aquele Navi, o
+	MegaMan.EXE, do N1!
 	"""
 	keyWait
 	clearMsg
 	"""
-	After seeing him
-	battle,we're his
-	biggest fans!
+	Depois de vê-lo lutando,
+	viramos os maiores fãs
+	dele!
 	"""
 	keyWait
 	clearMsg
 	"""
-	You don't have to
-	stay long. Please
-	come meet us!
+	Não tem que ficar por
+	muito tempo. Só, por
+	favor, venha até nós!
 	"""
 	keyWait
 	clearMsg
 	"""
-	We're waiting in
-	Undernet 2.
+	Esperamos por você
+	em Undernet 2.
 	"""
 	keyWait
 	clearMsg
@@ -1650,16 +1645,16 @@ script 22 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	I can't be specific,
-	but something awful
-	is happening! Mighty
+	Não posso dar detalhes,
+	mas algo terrível está
+	acontecendo!
 	"""
 	keyWait
 	clearMsg
 	"""
-	virus busters,come
-	ASAP to Hades Mntn
-	on Hades Isle!
+	Lutadores, venham à
+	Mt. Inferno, na Ilha
+	do Inferno, rápido!
 	"""
 	keyWait
 	clearMsg
@@ -1714,21 +1709,22 @@ script 23 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	Want to enter the
-	Cyberworld's stamp
-	collecting contest?
+	Quer entrar pra
+	competição de carimbos
+	do mundo cibernético?
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'll discuss the
-	specifics in person.
+	Darei os detalhes
+	pessoalmente.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Please come to the
-	Seaside Hospital 2F.
+	Fale comigo no segundo
+	andar do Hospital
+	Beira-Mar.
 	"""
 	keyWait
 	clearMsg
@@ -1783,23 +1779,23 @@ script 24 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	I can't figure out
-	my father's will.
-	Can someone help me
+	Não consigo decifrar o
+	testamento do meu pai.
+	Alguém pode me ajudar
 	"""
 	keyWait
 	clearMsg
 	"""
-	unravel its puzzle?
-	First,I'll have to
-	hand over the will.
+	a desvendar esse
+	mistério? Primeiro, eu
+	mostrarei o testamento.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Meet me in front of
-	the Class 5-A
-	at ACDC School.
+	Me encontre na frente
+	da Sala 5-A do Colégio
+	ACDC.
 	"""
 	keyWait
 	clearMsg
@@ -3589,37 +3585,37 @@ script 160 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Thanks to you,lad,I
-	was able to find my
-	long-lost friend!
+	Graças a você, achei
+	meu amigo perdido!
+	Te devo essa!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'm in your debt!
-	It's funny,how I
-	always dreamed of
+	Sabe, é engraçado.
+	Quando eu era
+	criança,
 	"""
 	keyWait
 	clearMsg
 	"""
-	becoming a hero of
-	justice when I was
-	young,while my
+	sonhava em virar
+	herói da justiça,
+	enquanto meu amigo
 	"""
 	keyWait
 	clearMsg
 	"""
-	friend dreamed of
-	being the boss of an
-	evil organization!
+	sonhava em ser o
+	chefe de uma
+	organização do mal!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I hope you build up
-	lots of good
-	memories,too!
+	Espero que você também
+	crie muitas memórias
+	boas com seus amigos!
 	"""
 	keyWait
 	waitHold
@@ -3644,15 +3640,16 @@ script 161 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Absolutely splendid!
-	You're the best,
-	MegaMan! We got some
+	Esplêndido! Divino!
+	Você é o "bicho",
+	MegaMan!
 	"""
 	keyWait
 	clearMsg
 	"""
-	good takes! See you
-	next time! Hee hee!
+	Conseguimos ótimas
+	filmagens!
+	Bom, até mais! Ho ho ho!
 	"""
 	keyWait
 	waitHold
@@ -3677,16 +3674,16 @@ script 162 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Hot dog! That'll
-	teach them a lesson!
-	You've got some
+	Uau, amigo! Essa lição,
+	eles não vão esquecer!
+	Você é incrível!
 	"""
 	keyWait
 	clearMsg
 	"""
-	skills! I could
-	learn a thing or two
-	watching you.
+	Você é incrível! Sinto
+	que posso aprender muito
+	ficando de olho em você.
 	"""
 	keyWait
 	waitHold
@@ -3711,22 +3708,22 @@ script 163 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Great job,Lan!
-	You're a lifesaver!
+	Bom trabalho, Lan!
+	Salvou a minha vida!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Say,that program
-	still hasn't come
-	back.
+	Por sinal, aquele
+	programa ainda não
+	voltou.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'm not mad. I just
-	hope it comes back
-	soon.
+	Não estou zangado,
+	nem nada. Só espero
+	que ele volte logo.
 	"""
 	keyWait
 	waitHold
@@ -3798,9 +3795,8 @@ script 165 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Muito obrigada por
-	trocar aquele chip
-	comigo!
+	Muito obrigada por trocar
+	aquele chip comigo!
 	"""
 	keyWait
 	waitHold
@@ -4015,9 +4011,9 @@ script 171 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	You weren't the best
-	but you tried hard.
-	Thanks,I guess.
+	Você não impressionou,
+	mas... tentou.
+	Obrigada. Eu acho.
 	"""
 	keyWait
 	waitHold
@@ -4042,16 +4038,16 @@ script 172 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Sorry I put you
-	through all that
-	trouble,Sonny.
+	Desculpa te fazer
+	passar por todo esse
+	perrengue, rapaz.
 	"""
 	keyWait
 	clearMsg
 	"""
-	But it turned out
-	all right,didn't it?
-	Har! Har! Har!
+	Mas tudo está bem
+	quando acaba bem!
+	Hye hye hye!
 	"""
 	keyWait
 	waitHold
@@ -4076,16 +4072,16 @@ script 173 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Thanks,Lan! I knew
-	you were talented
-	when I saw you in
+	Valeu, Lan! Sabia que
+	você tinha talento
+	quanto te vi no N1!
 	"""
 	keyWait
 	clearMsg
 	"""
-	N1! Use your ability
-	to help people! I'm
-	rooting for you!
+	Use suas habilidades
+	pra ajudar a todos!
+	Vou torcer por você!
 	"""
 	keyWait
 	waitHold
@@ -4110,22 +4106,21 @@ script 174 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Loads of visitors
-	are coming to see
-	the condor,
+	Vários visitantes estão
+	vindo ver o condor,
 	"""
 	keyWait
 	clearMsg
 	"""
-	and we owe it all to
-	you!
+	e é tudo graças a
+	você!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Next time you visit
-	Yoka,drop by and see
-	the condor yourself!
+	Quando voltar em Yoka,
+	passe aqui pra ver o
+	condor também!
 	"""
 	keyWait
 	waitHold
@@ -4150,16 +4145,15 @@ script 175 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	How are you feeling,
-	MegaMan? My Net
-	Battling instincts
+	Como está se sentindo,
+	MegaMan?
 	"""
 	keyWait
 	clearMsg
 	"""
-	have returned! I'll
-	be seeing you
-	around!
+	Os meus instintos de
+	NetLuta voltaram!
+	Vejo você por aí!
 	"""
 	keyWait
 	waitHold
@@ -4184,16 +4178,16 @@ script 176 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	I'm so glad to hear
-	my old master's
-	doing well!
+	Fico tão feliz de ouvir
+	que minha ex-dona está
+	bem!
 	"""
 	keyWait
 	clearMsg
 	"""
-	It encourages me to
-	work hard! Thank you
-	so very much!
+	Me encoraja a me
+	empenhar ainda mais!
+	Muito obrigado!
 	"""
 	keyWait
 	waitHold
@@ -4218,14 +4212,14 @@ script 177 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Yoka is finally at
-	peace once again!
+	A paz enfim voltou a
+	Yoka!
 	"""
 	keyWait
 	clearMsg
 	"""
-	We are all in your
-	debt!
+	Todos nós devemos muito
+	a você!
 	"""
 	keyWait
 	waitHold
@@ -4250,16 +4244,16 @@ script 178 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	How are those cuties
-	doing? It's good to
-	know they're in good
+	Como estão os fofinhos?
+	Bom saber que estão em
+	boas mãos.
 	"""
 	keyWait
 	clearMsg
 	"""
-	hands. Oh yeah,the
-	BugFrag I got became
-	an item! Tee-hee!
+	Ah, e os FragBug que
+	recebi viraram um item!
+	Hi hi!
 	"""
 	keyWait
 	waitHold
@@ -4283,7 +4277,7 @@ script 179 mmbn3 {
 	"""
 	keyWait
 	clearMsg
-	"Well done…"
+	"Bom trabalho..."
 	keyWait
 	waitHold
 }
@@ -4307,22 +4301,21 @@ script 180 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	I can't believe you
-	found us all.
+	Não acredito que você
+	achou todos nós.
 	"""
 	keyWait
 	clearMsg
 	"""
-	We should have found
-	better hiding
-	places.
+	Devíamos ter arranjado
+	esconderijos melhores.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Still,we had fun!
-	Let's play again
-	sometime!
+	Mas foi divertido!
+	Brinca de novo com a
+	gente, uma hora aí!
 	"""
 	keyWait
 	waitHold
@@ -4341,15 +4334,15 @@ script 181 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	We're no match for
-	you. We give up.
+	Não somos páreos para
+	você. Desistimos.
 	"""
 	keyWait
 	clearMsg
 	"""
-	That's it for us.
-	We won't ever fight
-	you again.
+	Encerramos o serviço.
+	Nunca mais lutaremos
+	com você.
 	"""
 	keyWait
 	waitHold
@@ -4374,16 +4367,16 @@ script 182 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Your virus busting
-	technique is
-	incredible!
+	A sua técnica de
+	eliminação de vírus é
+	soberba!
 	"""
 	keyWait
 	clearMsg
 	"""
-	No wonder you're the
-	operator of the 
-	famous MegaMan!
+	Não é à toa que você
+	opera o famoso
+	MegaMan.EXE!
 	"""
 	keyWait
 	waitHold
@@ -4408,9 +4401,9 @@ script 183 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	That child was so
-	happy to get the
-	model train! Thanks!
+	Aquele menino ficou tão
+	feliz de ganhar o trem
+	em miniatura! Obrigado!
 	"""
 	keyWait
 	waitHold
@@ -4435,22 +4428,22 @@ script 184 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Thanks for solving
-	the riddle of the
-	will,Lan!
+	Obrigada por resolver
+	o mistério do testamento,
+	Lan!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'll never become
-	a powerful Net
-	Battler,but I'm sure
+	Infelizmente, eu nunca
+	conseguiria virar uma
+	NetLutadora poderosa,
 	"""
 	keyWait
 	clearMsg
 	"""
-	you will,
-	someday!
+	mas não tenho dúvidas
+	de que você vai, e logo!
 	"""
 	keyWait
 	clearMsg

@@ -19,7 +19,7 @@ script 20 mmbn3 {
 	clearMsg
 	"""
 	Ele está participando do
-	Concurso de Resitência,
+	Concurso de Resistência,
 	em Yoka.
 	"""
 	keyWait

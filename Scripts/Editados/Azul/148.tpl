@@ -7,23 +7,23 @@ script 0 mmbn3 {
 	"Gol!"
 	keyWait
 	clearMsg
-	"Offside!"
+	"Escanteio!"
 	keyWait
 	clearMsg
-	"Penalty!"
-	keyWait
-	clearMsg
-	"""
-	Huh…? Oh…
-	I'm practicing to
-	be a referee.
-	"""
+	"Pênalti!"
 	keyWait
 	clearMsg
 	"""
-	But it's not really
-	much use during
-	NetBattles.
+	Hã?...? Ah... Estou
+	treinando pra ser
+	árbitro.
+	"""
+	keyWait
+	clearMsg
+	"""
+	O que não é muito útil
+	durante NetLutas,
+	admito.
 	"""
 	keyWait
 	end
@@ -42,106 +42,108 @@ script 10 mmbn3 {
 		mugshot = MistMan
 	msgOpen
 	"""
-	I sense it…
-	A warrior's power…!
+	Posso sentir...
+	A força de um
+	guerreiro...!
 	"""
 	keyWait
 	clearMsg
 	"""
-	So,are you a rank 3
-	Navi?
-	"""
-	keyWait
-	clearMsg
-	mugshotShow
-		mugshot = MegaMan
-	"Sure am!!"
-	keyWait
-	clearMsg
-	mugshotShow
-		mugshot = MistMan
-	"""
-	Looks like you've
-	come for my rank 2…
-	"""
-	keyWait
-	clearMsg
-	"""
-	It's strange. You
-	look too innocent
-	for the Undernet…
+	Então, você é o Navi
+	do ranque #3?
 	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"""
-	I'm looking for the
-	Navi called "S".
-	"""
+	"Pode apostar!!"
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = MistMan
-	"\"S\"…"
+	"""
+	Parece que você veio
+	atrás do meu ranque
+	2...
+	"""
 	keyWait
 	clearMsg
 	"""
-	What would a young
-	punk like you want
-	with "S"?
+	Mas você parece um
+	tanto inocente para
+	a Undernet...
 	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"Do you know him!?"
+	"""
+	Eu tô procurando por
+	um Navi chamado "S".
+	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = MistMan
-	"I might."
+	"\"S\"..."
 	keyWait
 	clearMsg
 	"""
-	But if you're a
-	rank 3,you should
-	know him yourself.
-	"""
-	keyWait
-	clearMsg
-	"""
-	You should know how
-	to get what you want
-	in the Undernet.
+	O que um moleque como
+	você quer com "S"?
 	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"You mean battling…?"
+	"Você conhece \"S\"?!"
+	keyWait
+	clearMsg
+	mugshotShow
+		mugshot = MistMan
+	"Talvez."
+	keyWait
+	clearMsg
+	"""
+	Ou melhor, seria
+	impossível o ranque 2
+	não conhecer "S".
+	"""
+	keyWait
+	clearMsg
+	"""
+	E você já deve saber
+	como se obtém as
+	coisas na Undernet.
+	"""
+	keyWait
+	clearMsg
+	mugshotShow
+		mugshot = MegaMan
+	"""
+	Lutando, né...?
+	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = MistMan
 	"""
-	Now you've got it!
-	Power can get you
-	anything.
+	Olha aí, você está en-
+	tendendo! A força nos
+	leva a qualquer coisa.
 	"""
 	keyWait
 	clearMsg
 	"""
-	If you can beat me,
-	I'll tell you all
-	about "S".
+	Se puder me vencer,
+	contarei tudo sobre "S".
 	"""
 	keyWait
 	clearMsg
 	"""
-	And if you can't…
-	Deletion will be
-	your only comfort!
+	E, se não puder...
+	A deleção será o seu
+	único conforto!
 	"""
 	keyWait
 	clearMsg
@@ -169,8 +171,8 @@ script 11 mmbn3 {
 		mugshot = MistMan
 	msgOpen
 	"""
-	Do you think you're
-	strong enough?
+	Acha que é forte o
+	bastante?
 	"""
 	keyWait
 	clearMsg
@@ -186,8 +188,8 @@ script 12 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,do you want to
-	NetBattle BowlMan?
+	Lan, quer NetLutar
+	contra BowlMan? 
 	
 	"""
 	option
@@ -197,7 +199,7 @@ script 12 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"Sim "
 	option
 		left = 0
 		right = 0
@@ -205,7 +207,7 @@ script 12 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No\n"
+	"Não\n"
 	select
 		default = 1
 		BSeparate = false
@@ -254,7 +256,7 @@ script 14 mmbn3 {
 	mugshotShow
 		mugshot = BowlMan
 	msgOpen
-	"Chicken,huh?"
+	"Covarde, é?"
 	keyWait
 	end
 }
@@ -267,9 +269,9 @@ script 15 mmbn3 {
 		mugshot = BowlMan
 	msgOpen
 	"""
-	There are times when
-	every warrior must
-	rest.
+	Há vezes em que todo
+	guerreiro precisa
+	descansar.
 	"""
 	keyWait
 	end
@@ -283,8 +285,8 @@ script 16 mmbn3 {
 		mugshot = BowlMan
 	msgOpen
 	"""
-	I'll start out with
-	a soft one for you…
+	Vou começar com uma
+	bola lenta pra você...
 	Strike!!
 	"""
 	keyWait
@@ -301,8 +303,8 @@ script 17 mmbn3 {
 		mugshot = BowlMan
 	msgOpen
 	"""
-	A little stronger,
-	from the right!
+	Um pouco mais de força,
+	pra direita!
 	Strike!!
 	"""
 	keyWait
@@ -319,8 +321,7 @@ script 18 mmbn3 {
 		mugshot = BowlMan
 	msgOpen
 	"""
-	Full power,right
-	down the middle!!
+	Força total, bem no meio!!
 	Strike!!
 	"""
 	keyWait
@@ -337,9 +338,9 @@ script 19 mmbn3 {
 		mugshot = BowlMan
 	msgOpen
 	"""
-	I'm not just the
-	same old GutsMan!
-	I am…NeoGutsMan!
+	Eu não sou o GutsMan
+	de sempre. Eu sou...
+	NeoGutsMan!
 	"""
 	keyWait
 	clearMsg
@@ -358,7 +359,7 @@ script 20 mmbn3 {
 	msgOpen
 	"""
 	Eu topo lutar com você
-	a qualquer hora, Lan!
+	a qualquer hora, rapaz!
 	"""
 	keyWait
 	clearMsg
@@ -404,15 +405,15 @@ script 23 mmbn3 {
 		mugshot = BowlMan
 	msgOpen
 	"""
-	You beat me…
-	Not bad,kid.
+	Você me venceu...
+	Nada mal, garoto.
 	"""
 	keyWait
 	clearMsg
 	"""
-	But you're still far
-	from being able to
-	defeat Serenade!
+	Mas ainda está longe
+	de ser capaz de
+	derrotar Serenade!
 	"""
 	keyWait
 	end
@@ -426,16 +427,16 @@ script 24 mmbn3 {
 		mugshot = BowlMan
 	msgOpen
 	"""
-	Argh! So you were
-	able to beat me…
-	How…striking…
+	Argh! Então, conseguiu
+	me vencer...
+	Derrubou este pino...
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'm curious as to
-	just how far you
-	can roll!
+	Estou curioso para ver
+	o quão longe você será
+	capaz de rolar!
 	"""
 	keyWait
 	end
@@ -449,16 +450,16 @@ script 25 mmbn3 {
 		mugshot = BowlMan
 	msgOpen
 	"""
-	Graaagh!!
-	And I was serious
-	that time,too!
+	Graaagh!! E olha que,
+	desta vez, eu lutei a
+	sério!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Maybe you could even
-	beat Sere…Nah,
-	no way…
+	Talvez até consiga
+	vencer Sere...
+	Não, impossível...
 	"""
 	keyWait
 	end
@@ -471,7 +472,11 @@ script 26 mmbn3 {
 	mugshotShow
 		mugshot = BowlMan
 	msgOpen
-	"……"
+	mugshotAnimate
+		animation = 0
+	"......"
+	mugshotAnimate
+		animation = 1
 	keyWait
 	end
 }
@@ -484,9 +489,9 @@ script 27 mmbn3 {
 		mugshot = BowlMan
 	msgOpen
 	"""
-	Hah! At that level,
-	you won't even
-	scratch Serenade!
+	Há! Nesse nível, não
+	conseguirá nem encostar
+	um dedo em Serenade!
 	"""
 	keyWait
 	end
@@ -499,16 +504,13 @@ script 29 mmbn3 {
 	mugshotShow
 		mugshot = BowlMan
 	msgOpen
-	"""
-	Come back any
-	time.
-	"""
+	"Volte quando quiser."
 	keyWait
 	clearMsg
 	"""
-	I just love knocking
-	your pins down
-	for you!
+	Eu simplesmente adoro
+	derrubar uns pinos com
+	você!
 	"""
 	keyWait
 	clearMsg
@@ -520,8 +522,8 @@ script 32 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,do you want to
-	NetBattle MistMan?
+	Lan, quer NetLutar
+	contra MistMan? 
 	
 	"""
 	option
@@ -531,7 +533,7 @@ script 32 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"Sim "
 	option
 		left = 0
 		right = 0
@@ -539,7 +541,7 @@ script 32 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No\n"
+	"Não\n"
 	select
 		default = 1
 		BSeparate = false
@@ -580,7 +582,10 @@ script 34 mmbn3 {
 	mugshotShow
 		mugshot = MistMan
 	msgOpen
-	"Try me any time…"
+	"""
+	Desafie-me quando
+	quiser...
+	"""
 	keyWait
 	end
 }
@@ -589,9 +594,9 @@ script 35 mmbn3 {
 		mugshot = MistMan
 	msgOpen
 	"""
-	A warrior must rest
-	at times. And this
-	is such a time…
+	Há vezes em que um
+	guerreiro deve descan-
+	sar. Como esta.
 	"""
 	keyWait
 	end
@@ -601,8 +606,8 @@ script 36 mmbn3 {
 		mugshot = MistMan
 	msgOpen
 	"""
-	Let's just see what
-	you're made of…
+	Vejamos do que você
+	é capaz...
 	"""
 	keyWait
 	clearMsg
@@ -614,12 +619,15 @@ script 37 mmbn3 {
 		mugshot = MistMan
 	msgOpen
 	"""
-	Growth comes through
-	defeat…
+	O crescimento vem
+	através da derrota...
 	"""
 	keyWait
 	clearMsg
-	"Prepare to grow!"
+	"""
+	Prepare-se para
+	crescer!
+	"""
 	keyWait
 	clearMsg
 	jump
@@ -630,16 +638,16 @@ script 38 mmbn3 {
 		mugshot = MistMan
 	msgOpen
 	"""
-	A battle sold is a
-	battle bought. This
-	is Underworld law.
+	Aqui se faz, aqui se
+	luta. Essa é a lei do
+	mundo profundo.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Time for you
-	to see what I can
-	really do.
+	Hora de mostrar a você
+	do que eu realmente sou
+	capaz.
 	"""
 	keyWait
 	clearMsg
@@ -651,9 +659,9 @@ script 39 mmbn3 {
 		mugshot = MistMan
 	msgOpen
 	"""
-	I'm not just the
-	same old GutsMan!
-	I am…NeoGutsMan!
+	Não sou o GutsMan de
+	sempre. Eu sou...
+	NeoGutsMan!
 	"""
 	keyWait
 	clearMsg
@@ -667,7 +675,7 @@ script 40 mmbn3 {
 		mugshot = MistMan
 	msgOpen
 	"""
-	Eu topo lutar com você
+	Aceito lutar com você
 	a qualquer hora, Lan!
 	"""
 	keyWait
@@ -702,9 +710,9 @@ script 43 mmbn3 {
 		mugshot = MistMan
 	msgOpen
 	"""
-	You conceal a great
-	strength. Use it
-	wisely,and grow.
+	Você esconde enorme
+	força. Use-a com
+	sabedoria e cresça.
 	"""
 	keyWait
 	end
@@ -714,9 +722,9 @@ script 44 mmbn3 {
 		mugshot = MistMan
 	msgOpen
 	"""
-	You are still far
-	from the power of
-	Serenade. Practice!
+	Você ainda está longe
+	de se comparar a
+	Serenade. Treine mais!
 	"""
 	keyWait
 	end
@@ -726,16 +734,16 @@ script 45 mmbn3 {
 		mugshot = MistMan
 	msgOpen
 	"""
-	Your training has
-	paid off,and you
-	have grown greatly.
+	Seu treino deu resulta-
+	dos, e você cresceu
+	muito mesmo.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Perhaps even to
-	where you can take
-	on Serenade…
+	Talvez até o bastante
+	para desafiar
+	Serenade...
 	"""
 	keyWait
 	end
@@ -744,7 +752,11 @@ script 46 mmbn3 {
 	mugshotShow
 		mugshot = MistMan
 	msgOpen
-	"……"
+	mugshotAnimate
+		animation = 0
+	"......"
+	mugshotAnimate
+		animation = 1
 	keyWait
 	end
 }
@@ -753,8 +765,8 @@ script 47 mmbn3 {
 		mugshot = MistMan
 	msgOpen
 	"""
-	There is no shame
-	in defeat.
+	Não há vergonha na
+	derrota.
 	"""
 	keyWait
 	end
@@ -764,9 +776,9 @@ script 49 mmbn3 {
 		mugshot = MistMan
 	msgOpen
 	"""
-	I will spar with you
-	any time you wish.
-	Come when you need!
+	Duelo com você quando
+	quiser. Venha quando
+	precisar!
 	"""
 	keyWait
 	clearMsg
@@ -783,89 +795,91 @@ script 52 mmbn3 {
 		mugshot = BowlMan
 	msgOpen
 	"""
-	I can sense a great
-	power…
+	Estou sentindo enorme
+	poder...
 	"""
 	keyWait
 	clearMsg
 	"""
-	I hope you realize
-	I'm BowlMan,rank 2!
-	Who are you,kid?
+	Fique sabendo que sou
+	BowlMan, ranque 2!
+	Quem é você, garoto?
 	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"MegaMan,rank 3!"
+	"MegaMan, ranque 3!"
 	keyWait
 	clearMsg
 	"""
-	I'm looking for the
-	Navi called "S"!
+	Estou procurando por
+	um Navi chamado "S"!
 	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = BowlMan
 	"""
-	Don't make me laugh!
-	A little runt like
-	you? Rank 3?
+	Não me faça rir! Um
+	pirralho como você?
+	Ranque 3?
 	"""
 	keyWait
 	clearMsg
 	"""
-	And you think you
-	can meet up with
-	"S"?
+	E ainda acha que pode
+	se encontrar com "S"?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Of course,the best
-	way to meet him is
-	to raise your rank…
-	"""
-	keyWait
-	clearMsg
-	mugshotShow
-		mugshot = MegaMan
-	"So! You know \"S\"!?"
-	keyWait
-	clearMsg
-	mugshotShow
-		mugshot = BowlMan
-	"Well…"
-	keyWait
-	clearMsg
-	"""
-	I don't mind telling
-	you what I know
-	about "S"…
-	"""
-	keyWait
-	clearMsg
-	"""
-	But you'll have to
-	beat me,first!!
+	Mas, é, a melhor forma
+	de chegar a "S" é
+	subindo de ranque.
 	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	It's the law of the
-	ranked Navis. Fight
-	for what you want.
+	!! Então, você conhece
+	"S"?!
+	"""
+	keyWait
+	clearMsg
+	mugshotShow
+		mugshot = BowlMan
+	"Bom..."
+	keyWait
+	clearMsg
+	"""
+	Eu não me importaria de
+	dizer o que sei sobre
+	"S"...
+	"""
+	keyWait
+	clearMsg
+	"""
+	Mas, primeiro, você vai
+	ter que me vencer!
+	"""
+	keyWait
+	clearMsg
+	mugshotShow
+		mugshot = MegaMan
+	"""
+	É a lei dos Navis
+	ranqueados. Lutar
+	pelo que se quer.
 	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = BowlMan
 	"""
-	Prepare to meet your
-	maker!!
+	Prepare-se pra bater
+	as cyberbotas!!
 	"""
 	keyWait
 	clearMsg
@@ -888,7 +902,7 @@ script 53 mmbn3 {
 	mugshotShow
 		mugshot = BowlMan
 	msgOpen
-	"Ready,runt?"
+	"Pronto, pirralho?"
 	keyWait
 	clearMsg
 	jump
@@ -899,29 +913,29 @@ script 190 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	You,you,you jerks!
-	How dare you end N1
-	like that!
+	Seus... babacas!
+	Como puderam cancelar
+	o N1 assim?!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Do you realize how
-	expensive front-row
-	tickets were!?
+	Não entendem como
+	lugares na primeira
+	fileira são caros?!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Start it again and
-	finish it properly!!
+	Recomecem o negócio e,
+	dessa vez, terminem!!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Hey,stupid! I'm not
-	all talk,you know!
-	Try some of this!
+	Aí, ô, babão! Eu não sou
+	só papo não, viu?
+	Toma essa!
 	"""
 	keyWait
 	clearMsg

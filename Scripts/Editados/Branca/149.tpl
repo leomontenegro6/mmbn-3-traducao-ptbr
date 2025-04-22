@@ -10,9 +10,9 @@ script 1 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	I-I-I'll open it!?
-	I should open the
-	door,r-r-right!?
+	E-eu vou abrir...?!
+	É para eu abrir a
+	porta, n-n-né?!
 	"""
 	keyWait
 	end
@@ -22,22 +22,22 @@ script 2 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	No! Wrong!
-	Close it! You have
-	to CLOSE the door!
+	Não! Errado!
+	Fecha! É pra FECHAR
+	a porta!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'm training a new
-	program.
+	Estou treinando um
+	programa novo.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Useless!
-	It'll be a while
-	before he's ready…
+	Um inútil! Ainda falta
+	muito pra ele estar
+	pronto...
 	"""
 	keyWait
 	end
@@ -46,33 +46,33 @@ script 190 mmbn3 {
 	mugshotShow
 		mugshot = HeelNavi
 	msgOpen
-	"Aw,man!!"
+	"Ah, cara!!"
 	keyWait
 	clearMsg
 	"""
-	I wanted to show
-	off to my girlfriend
-	in the N1.
-	"""
-	keyWait
-	clearMsg
-	"""
-	But I was beaten to
-	a pulp! Now she's
-	gone and left me!
+	Eu queria me exibir pra
+	minha mina no N1.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Hey! You! What,so
-	you think it's
-	funny?
+	Mas eu levei foi uma
+	coça! Aí ela me largou
+	e foi embora!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'll wipe the stupid
-	smile off your face!
+	Aí! É, tu, aí! Que é,
+	tá achando "issaqui"
+	engraçado?
+	"""
+	keyWait
+	clearMsg
+	"""
+	Pois eu vou tirar esse
+	sorrisinho de tonto da
+	tua fuça!
 	"""
 	keyWait
 	clearMsg

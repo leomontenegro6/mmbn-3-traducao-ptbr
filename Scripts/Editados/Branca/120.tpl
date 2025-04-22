@@ -9,8 +9,8 @@ script 220 mmbn3 {
 		jumpIfGreater = 221
 		jumpIfLess = continue
 	"""
-	Please present
-	"
+	Por favor, apresente 
+	seu "
 	"""
 	printItem
 		buffer = 0
@@ -26,8 +26,8 @@ script 221 mmbn3 {
 		buffer = 0
 		item = 40
 	"""
-	" verified.
-	Removing security
+	" confirmado.
+	Removendo bloqueio.
 	"""
 	keyWait
 	itemTake

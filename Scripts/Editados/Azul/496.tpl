@@ -6,9 +6,9 @@ script 0 mmbn3 {
 		buffer = 1
 		enemy = 0
 	"""
-	 is
-	happily rubbing up
-	against MegaMan!
+	 esfrega a
+	cabeça no MegaMan
+	alegremente!
 	"""
 	keyWait
 	end
@@ -19,9 +19,8 @@ script 1 mmbn3 {
 		buffer = 1
 		enemy = 0
 	"""
-	 is
-	jumping up and down
-	excitedly!
+	 está
+	pulando cheio de alegria!
 	"""
 	keyWait
 	end
@@ -32,9 +31,9 @@ script 2 mmbn3 {
 		buffer = 1
 		enemy = 0
 	"""
-	 bows
-	to MegaMan
-	in appreciation!
+	 se curva
+	para MegaMan com
+	gratidão!
 	"""
 	keyWait
 	end
@@ -45,9 +44,9 @@ script 3 mmbn3 {
 		buffer = 1
 		enemy = 0
 	"""
-	 is
-	wagging its tail
-	back and forth!
+	 está
+	abanando o rabo bem
+	rápido!
 	"""
 	keyWait
 	end
@@ -58,9 +57,9 @@ script 4 mmbn3 {
 		buffer = 1
 		enemy = 0
 	"""
-	 gives
-	MegaMan a little
-	smirk!
+	 mostra a
+	MegaMan um sutil
+	sorriso!
 	"""
 	keyWait
 	end
@@ -71,9 +70,8 @@ script 5 mmbn3 {
 		buffer = 1
 		enemy = 0
 	"""
-	 is
-	almost shaking
-	with gratitude!
+	 está quase
+	tremendo de gratidão!
 	"""
 	keyWait
 	end
@@ -84,9 +82,9 @@ script 6 mmbn3 {
 		buffer = 1
 		enemy = 0
 	"""
-	 gives
-	a wink of its
-	huge eye!
+	 dá uma
+	piscadela com seu
+	enorme olho!
 	"""
 	keyWait
 	end
@@ -97,9 +95,9 @@ script 7 mmbn3 {
 		buffer = 1
 		enemy = 0
 	"""
-	 is happy
-	to bury the
-	BugFrag!
+	 está
+	feliz, enterrando o
+	FragBug!
 	"""
 	keyWait
 	end
@@ -110,9 +108,8 @@ script 8 mmbn3 {
 		buffer = 1
 		enemy = 0
 	"""
-	 
-	scratches about
-	on the ground
+	
+	se arrasta pelo chão.
 	"""
 	keyWait
 	end
@@ -122,15 +119,15 @@ script 9 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	These viruses seem
-	full already…
+	Esses vírus parecem
+	já estarem cheios...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Want to try giving
-	it to a different
-	one?
+	Que tal oferecer a
+	comida para outro
+	vírus?
 	"""
 	keyWait
 	end
@@ -140,15 +137,15 @@ script 10 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	You don't have
-	enough food to give
-	to a virus!
+	Você não tem comida
+	o bastante para dar
+	a um vírus!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Let's come back when
-	we get some more!
+	A gente volta quando
+	achar mais!
 	"""
 	keyWait
 	end
@@ -158,16 +155,15 @@ script 11 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	It looks like that
-	was all the food
-	these viruses want!
+	Parece que essa era
+	toda a comida que os
+	vírus queriam!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Let's go and
-	try feeding a
-	different type!
+	Vamos tentar alimentar
+	um tipo diferente!
 	"""
 	keyWait
 	end
@@ -175,9 +171,8 @@ script 11 mmbn3 {
 script 12 mmbn3 {
 	msgOpen
 	"""
-	MegaMan put the
-	BugFrag in the
-	container!
+	MegaMan colocou os
+	FragBugs no contêiner!
 	"""
 	keyWait
 	end

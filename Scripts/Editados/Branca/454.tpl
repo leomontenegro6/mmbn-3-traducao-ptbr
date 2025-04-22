@@ -6,7 +6,7 @@ script 0 mmbn3 {
 	soundPlay
 		track = 136
 	soundDisableTextSFX
-	"Grrrrr…"
+	"Grrrrr..."
 	wait
 		frames = 120
 	soundEnableTextSFX
@@ -19,7 +19,7 @@ script 1 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Wha!?"
+	"Hã?!"
 	keyWait
 	end
 }
@@ -27,10 +27,7 @@ script 2 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"""
-	What's wrong,
-	MegaMan!?
-	"""
+	"Que foi, MegaMan?!"
 	keyWait
 	clearMsg
 	jump
@@ -41,14 +38,14 @@ script 3 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Didn't you hear
-	that,Lan?
+	Você não ouviu isso,
+	Lan?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Like an animal
-	growling…
+	Tipo um rugido de
+	animal...
 	"""
 	keyWait
 	clearMsg
@@ -60,8 +57,8 @@ script 4 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Huh? I didn't
-	hear anything…
+	Hum?
+	Eu não ouvi nada, não...
 	"""
 	keyWait
 	clearMsg
@@ -88,8 +85,8 @@ script 6 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	…But I heard that!
-	Could that be…?
+	... Mas eu ouvi agora!
+	O que será isso...?
 	"""
 	keyWait
 	end
@@ -98,7 +95,7 @@ script 7 mmbn3 {
 	soundStop
 	mugshotHide
 	msgOpen
-	"I have awakened…"
+	"Eu despertei..."
 	keyWait
 	clearMsg
 	jump
@@ -109,9 +106,8 @@ script 8 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I sense a powerful
-	force approaching
-	us…
+	Sinto uma força 
+	poderosa se aproximar...
 	"""
 	keyWait
 	end
@@ -120,7 +116,7 @@ script 9 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"It's coming,Lan!!"
+	"Lá vem, Lan!!"
 	keyWait
 	end
 }
@@ -130,7 +126,7 @@ script 10 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Bass…!!"
+	"Bass...!!"
 	keyWait
 	clearMsg
 	jump
@@ -141,8 +137,8 @@ script 11 mmbn3 {
 		mugshot = Bass
 	msgOpen
 	"""
-	Bass?
-	Who could that be…
+	"Bass"?
+	Quem seria esse...?
 	"""
 	keyWait
 	clearMsg
@@ -153,13 +149,13 @@ script 12 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"He doesn't remember?"
+	"Ele não lembra?"
 	keyWait
 	clearMsg
 	"""
-	But…
-	He's far stronger
-	than before…!!
+	Mas...
+	Ele tá muito mais
+	forte que antes...!!
 	"""
 	keyWait
 	clearMsg
@@ -171,22 +167,21 @@ script 13 mmbn3 {
 		mugshot = Bass
 	msgOpen
 	"""
-	I search only for
-	power. I have
-	no name…
+	Só o que busco é força.
+	Não tenho nome...
 	"""
 	keyWait
 	clearMsg
 	"""
-	I exist only to
-	battle…
+	Existo somente para
+	lutar...
 	"""
 	keyWait
 	clearMsg
 	"""
-	I shall test the
-	power that the bugs
-	gave me…On you!
+	E testarei o poder que
+	os bugs me deram...
+	em você!
 	"""
 	keyWait
 	clearMsg
@@ -207,19 +202,19 @@ script 15 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"So it WAS him!!"
+	"Então, ERA ele!!"
 	keyWait
 	clearMsg
 	"""
-	We can't run from
-	this one,MegaMan!
+	Não dá pra gente fugir
+	dessa, MegaMan!
 	"""
 	keyWait
 	clearMsg
-	"Battle routine! "
+	"Rotina de batalha,"
 	waitSkip
 		frames = 30
-	"Set!"
+	"\npreparar!"
 	keyWait
 	clearMsg
 	jump

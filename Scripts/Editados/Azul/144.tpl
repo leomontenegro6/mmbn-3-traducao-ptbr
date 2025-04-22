@@ -146,35 +146,34 @@ script 11 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	What could you
-	possibly want at
-	such a busy time?
+	O que você pode querer
+	de mim num período tão
+	ocupado?
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'm too tired to
-	speak to anyone!
+	Eu tô cansado demais
+	pra conversa!
+	"""
+	keyWait
+	clearMsg
+	"Quê? Dados? Pra mim?"
+	keyWait
+	clearMsg
+	"""
+	Não tá no cronogra-
+	ma... mas os dados
+	parecem ardentes!
 	"""
 	keyWait
 	clearMsg
 	"""
-	What? You're giving
-	me this data?
+	Se eu instalar isso
+	em mim,
 	"""
-	keyWait
-	clearMsg
-	"""
-	I'm not scheduled to
-	do this,but the data
-	looks hot as fire!
-	"""
-	keyWait
-	clearMsg
-	"""
-	If I load this into
-	myself
-	"""
+	mugshotAnimate
+		animation = 0
 	waitSkip
 		frames = 30
 	"."
@@ -186,24 +185,27 @@ script 11 mmbn3 {
 	"."
 	waitSkip
 		frames = 30
+	mugshotAnimate
+		animation = 1
 	keyWait
 	clearMsg
 	"""
-	Maybe it'll ease
-	my fatigue just like
-	a nice hot bath!
+	talvez acabe com o
+	meu cansaço, tipo um
+	banho quente!
 	"""
 	keyWait
 	clearMsg
 	"""
-	OK,I'll load it and
-	see! Here we go!
+	OK, eu vou carregar
+	aqui e ver!
+	Vamos lá!
 	"""
 	keyWait
 	clearMsg
 	mugshotHide
 	"""
-	The Program loaded
+	O Program carregou
 	"
 	"""
 	printItem
@@ -211,22 +213,22 @@ script 11 mmbn3 {
 		item = 26
 	"""
 	"
-	into himself!!
+	dentro de si!!
 	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = MrProg
 	"""
-	Ouch!! It's h-hot!
-	But it works…
+	Ai!! Q-quenteee!
+	Mas funciona...
 	"""
 	keyWait
 	clearMsg
 	"""
-	This heat could melt
-	away ANY fatigue!
-	Aaaaaaah…!
+	Um calor destes
+	derrete QUALQUER
+	cansaço! Aaaaaah...!
 	"""
 	keyWait
 	end
@@ -236,13 +238,16 @@ script 12 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	Ahh! I feel so much
-	better n…Ouch!!
-	It's getting too…
+	Ahh! Já me sinto bem
+	melhor ag...
+	Ai!! Tá ficando meio...
 	"""
 	keyWait
 	clearMsg
-	"Too hot!! Too hot!!"
+	"""
+	Quente demais!!
+	Quente demais!!
+	"""
 	keyWait
 	end
 }
@@ -251,16 +256,16 @@ script 13 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	My colleague was
-	burnt and deleted in
-	the fire…
+	O meu colega se queimou
+	no incêndio e foi
+	deletado...
 	"""
 	keyWait
 	clearMsg
 	"""
-	We're working hard
-	to make sure it
-	never happens again!
+	Estamos trabalhando
+	pra garantir que isso
+	nunca mais aconteça!
 	"""
 	keyWait
 	end

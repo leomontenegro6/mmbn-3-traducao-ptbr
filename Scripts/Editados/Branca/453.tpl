@@ -5,23 +5,23 @@ script 0 mmbn3 {
 		mugshot = Serenade
 	msgOpen
 	"""
-	I didn't think that
-	I would ever meet a
-	Navi as strong as I.
+	Jamais imaginei que
+	conheceria um Navi
+	tão forte quanto eu.
 	"""
 	keyWait
 	clearMsg
 	"""
-	The trust that you
-	two share makes you
-	even more powerful.
+	A confiança que há
+	entre vocês dois os
+	torna mais fortes.
 	"""
 	keyWait
 	clearMsg
 	"""
-	That,too,is a form
-	of love and respect.
-	Here. Take this.
+	E isso também é uma
+	forma de amor e
+	respeito. Aqui. Tomem.
 	"""
 	keyWait
 	clearMsg
@@ -42,7 +42,7 @@ script 1 mmbn3 {
 	printItem
 		buffer = 0
 		item = 58
-	"\"!!"
+	"\"!"
 	playerFinish
 	playerReset
 	keyWait
@@ -55,15 +55,15 @@ script 2 mmbn3 {
 		mugshot = Serenade
 	msgOpen
 	"""
-	This shows that you
-	are the strongest
-	Navi in Cyberworld.
+	Isso mostra que você é
+	o Navi mais forte do
+	cybermundo.
 	"""
 	keyWait
 	clearMsg
 	"""
-	But He is trying to
-	reawaken…
+	Mas Ele está tentando
+	despertar de novo...
 	"""
 	keyWait
 	clearMsg
@@ -74,7 +74,7 @@ script 3 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"\"He\"…?"
+	"\"Ele\"...?"
 	keyWait
 	clearMsg
 	jump
@@ -85,70 +85,68 @@ script 4 mmbn3 {
 		mugshot = Serenade
 	msgOpen
 	"""
-	It seems that you
-	have fought with
-	Him before…
+	Parece que você já
+	lutou contra Ele antes...
 	"""
 	keyWait
 	clearMsg
 	"""
-	I,too,have fought
-	Him in the past.
+	Eu, também, já o
+	enfrentei no passado.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I only managed to
-	defeat Him after a
-	battle lasting days.
+	Só consegui vencê-lo
+	após uma luta de vários
+	dias.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I came very close to
-	being deleted
-	myself…
+	Por muito pouco, não
+	encarei a deleção...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Like me,He is a
-	denizen of the Dark.
+	Assim como eu, Ele é
+	um habitante da
+	Escuridão.
 	"""
 	keyWait
 	clearMsg
 	"""
-	He is the
-	incarnation
-	of destruction.
+	A encarnação da
+	destruição.
 	"""
 	keyWait
 	clearMsg
 	"""
-	He prowls the
-	Cyberworld with his
-	wounded body.
+	Ele vaga pelo mundo
+	cibernético com seu
+	corpo avariado.
 	"""
 	keyWait
 	clearMsg
 	"""
-	And now I can feel
-	Him growing stronger
-	day by day,
+	Mesmo agora, sinto-o
+	ficando mais forte,
+	dia após dia,
 	"""
 	keyWait
 	clearMsg
 	"""
-	made more powerful
-	with the bugs that
-	he absorbs…
+	reunindo mais poder
+	através dos bugs que
+	absorve...
 	"""
 	keyWait
 	clearMsg
 	"""
-	He uses these bug
-	fragments to heal
-	his wounds…
+	Ele usa esses bugs 
+	para curar seus
+	ferimentos...
 	"""
 	keyWait
 	clearMsg
@@ -160,8 +158,8 @@ script 5 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Heals his wounds…?
-	With bugs…?
+	Curar ferimentos...
+	com bugs...?
 	"""
 	keyWait
 	clearMsg
@@ -173,16 +171,16 @@ script 6 mmbn3 {
 		mugshot = Serenade
 	msgOpen
 	"""
-	He will reawaken
-	with the howl of
-	a beast.
+	Ele despertará
+	novamente com o
+	rugido de uma fera.
 	"""
 	keyWait
 	clearMsg
 	"""
-	You will only be
-	the strongest Navi
-	once you defeat Him.
+	Você só será o Navi
+	mais forte de todos
+	se o derrotar.
 	"""
 	keyWait
 	clearMsg
@@ -193,7 +191,9 @@ script 7 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"……"
+	mugshotAnimate
+		animation = 0
+	"......"
 	keyWait
 	clearMsg
 	jump
@@ -204,13 +204,13 @@ script 8 mmbn3 {
 		mugshot = Serenade
 	msgOpen
 	"""
-	MegaMan,we shall
-	meet again,in some
-	other place…
+	MegaMan, nos
+	encontraremos de novo,
+	em algum lugar...
 	"""
 	keyWait
 	clearMsg
-	"Farewell…"
+	"Adeus..."
 	keyWait
 	flagSet
 		flag = 2625
@@ -220,7 +220,7 @@ script 9 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Wait,Serenade!"
+	"Espera, Serenade!"
 	keyWait
 	clearMsg
 	jump
@@ -230,7 +230,7 @@ script 10 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"He's gone…"
+	"Se foi..."
 	keyWait
 	clearMsg
 	jump
@@ -240,13 +240,13 @@ script 11 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Yeah…"
+	"É..."
 	keyWait
 	clearMsg
 	"""
-	The incarnation of
-	destruction…Awakens
-	with a howl?
+	A encarnação da
+	destruição... Despertará
+	com um rugido?
 	"""
 	keyWait
 	clearMsg
@@ -257,20 +257,19 @@ script 12 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Yeah…"
+	"Pois é..."
 	keyWait
 	clearMsg
 	"""
-	If anything like
-	that showed up,it'd
-	mean real trouble!
+	Se um negócio desses
+	aparecer, vai ser um
+	problemão pra gente!
 	"""
 	keyWait
 	clearMsg
 	"""
-	We'll have to
-	do something
-	about it…
+	Temos que fazer alguma
+	coisa a respeito...
 	"""
 	keyWait
 	clearMsg
@@ -281,7 +280,7 @@ script 13 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"I agree!"
+	"Concordo!"
 	keyWait
 	end
 }

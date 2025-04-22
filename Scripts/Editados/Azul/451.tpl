@@ -8,19 +8,19 @@ script 0 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	I cannot believe
-	I was defeated by
-	such a little whelp!
+	Não acredito que fui
+	derrotado por um mero...
+	infante!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Serenade…!
-	Please forgive me…!
+	Serenade...!
+	Por favor, me perdoe...!
 	"""
 	keyWait
 	clearMsg
-	"…Arrrgh!!"
+	"... Arrrgh!!"
 	keyWait
 	end
 }
@@ -28,13 +28,16 @@ script 1 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Wow,was he strong…"
+	"""
+	Cara, ele era forte pra
+	caramba...
+	"""
 	keyWait
 	clearMsg
 	"""
-	Looks like he was
-	one of Serenade's
-	followers…
+	Parece que era um dos
+	seguidores de
+	Serenade...
 	"""
 	keyWait
 	clearMsg
@@ -46,15 +49,14 @@ script 2 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Wow. I wonder how
-	powerful Serenade
-	will be.
+	Cara. Quanto poder será
+	que Serenade tem,
+	afinal?
 	"""
 	keyWait
 	clearMsg
 	"""
-	I can't even
-	imagine…
+	Nem dá pra imaginar...
 	"""
 	keyWait
 	clearMsg
@@ -65,7 +67,7 @@ script 3 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Yeah…"
+	"É..."
 	keyWait
 	end
 }

@@ -277,21 +277,17 @@ script 43 mmbn3 {
 	mugshotShow
 		mugshot = HeelNavi
 	msgOpen
+	"Hmm? Quem é tu?!"
+	keyWait
+	clearMsg
 	"""
-	Hmm? Who the heck
-	are you!?
+	Então, tu tá atrás de
+	um Navi da WWW, é?
 	"""
 	keyWait
 	clearMsg
 	"""
-	So you're looking
-	for a WWW Navi?
-	"""
-	keyWait
-	clearMsg
-	"""
-	I know where a WWW
-	Navi is
+	Eu sei onde tem um
 	"""
 	waitSkip
 		frames = 30
@@ -302,12 +298,13 @@ script 43 mmbn3 {
 	waitSkip
 		frames = 30
 	"""
-	. Closer
-	than you think!
+	.
+	e é bem mais perto do
+	que tu imagina!
 	"""
 	keyWait
 	clearMsg
-	"Mwa-ha-ha-ha-ha!!"
+	"Ua ha ha ha ha!!"
 	keyWait
 	clearMsg
 	msgClose
@@ -368,29 +365,28 @@ script 50 mmbn3 {
 		mugshot = NormalNaviGreen
 	msgOpen
 	"""
-	I went to the
-	Undernet,once.
+	Eu já entrei na
+	Undernet, uma vez.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Just thinking about
-	it gives me the
-	goose bumps.
+	Só de lembrar já fico
+	todo arrepiado.
 	"""
 	keyWait
 	clearMsg
 	"""
-	The viruses are
-	extra nasty,and the
-	Navis aren't very
+	Os vírus são fortões e
+	os Navis não são flor
+	que se cheire.
 	"""
 	keyWait
 	clearMsg
 	"""
-	nice,either. I hope
-	you aren't thinking
-	of going there!
+	Espero que você não
+	esteja pensando em ir
+	pra lá!
 	"""
 	keyWait
 	end
@@ -400,23 +396,21 @@ script 51 mmbn3 {
 		mugshot = NormalNaviGreen
 	msgOpen
 	"""
-	That warp point over
-	there leads to the
-	hospital's area.
+	Aquele portal ali leva
+	pra área do hospital.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I've heard some
-	strange guys have
-	been seen going in
+	Ouvi que andaram vendo
+	uns tipinhos estranhos
+	entrando e saindo de lá...
 	"""
 	keyWait
 	clearMsg
 	"""
-	and out of there…
-	I wonder what's up
-	with them…?
+	Qual será que é a
+	deles...?
 	"""
 	keyWait
 	end
@@ -426,16 +420,16 @@ script 52 mmbn3 {
 		mugshot = NormalNaviGreen
 	msgOpen
 	"""
-	So you saw Undernet
-	dwellers hanging out
-	past the warp point?
+	Você viu gente da
+	Undernet esperando
+	depois do portal?
 	"""
 	keyWait
 	clearMsg
 	"""
-	That's pretty scary!
-	I'm glad I didn't go
-	over there…
+	Que medo, cara!
+	Ainda bem que eu não
+	fui lá...
 	"""
 	keyWait
 	end
@@ -445,16 +439,16 @@ script 60 mmbn3 {
 		mugshot = NormalNaviGreen
 	msgOpen
 	"""
-	My connections got
-	me some Official
-	information.
+	Meus contatos me deram
+	algumas informações
+	Oficiais.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Seems that a major
-	net catastrophe is
-	happening again!
+	Parece que há uma
+	enorme catástrofe se
+	repetindo na Rede!
 	"""
 	keyWait
 	end
@@ -465,12 +459,12 @@ script 70 mmbn3 {
 	msgOpen
 	mugshotAnimate
 		animation = 0
-	"……"
+	"......"
 	keyWait
 	clearMsg
 	"""
-	(I…can't…move…my…
-	mouth…!)
+	(Não... consigo...
+	mexer... a... boca...!)
 	"""
 	mugshotAnimate
 		animation = 1
@@ -492,37 +486,37 @@ script 190 mmbn3 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Wow! I can't believe
-	it! MegaMan,from the
-	N1 finals!
+	Uau! Me belisca!
+	É MegaMan.EXE,
+	o finalista do N1!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Yes,I'm the one from
-	DNN with a request
-	for you!
+	Sim, sou da DNN, e sim,
+	sou aquele que lhe fez
+	o pedido!
 	"""
 	keyWait
 	clearMsg
 	"""
-	With you as our
-	stuntman,we'll pull
-	out all the stops!
+	Com você de dublê,
+	o céu é o limite pro
+	que podemos fazer!
 	"""
 	keyWait
 	clearMsg
 	"""
-	OK,we're gonna do
-	five battle scenes
-	in a row! Get ready!
+	OK, gravaremos 5 cenas
+	de lutas seguidas!
+	Prepare-se!
 	"""
 	keyWait
 	clearMsg
 	"""
-	OK,everyone take
-	your places! 3,2,1…
-	ACTION!
+	Pessoal, posições!
+	Três, dois, um...
+	AÇÃO!
 	"""
 	keyWait
 	flagSet
@@ -539,14 +533,14 @@ script 191 mmbn3 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Wow!
+	Ar-re-pi-os!
 	Clap clap clap!
 	"""
 	keyWait
 	clearMsg
 	"""
-	You sure have a
-	knack for this!
+	Olha, você tem jeito pra
+	coisa, viu?
 	"""
 	keyWait
 	clearMsg
@@ -558,9 +552,9 @@ script 192 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	They really did pull
-	out all the stops.
-	What if we'd lost!?
+	Achei isso arriscado
+	demais. E se a gente
+	perdesse?!
 	"""
 	keyWait
 	clearMsg
@@ -572,36 +566,36 @@ script 193 mmbn3 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	OK,OK! Cut!
-	Don't worry about
-	the little details!
+	OK, OK! Corta!
+	Não se estresse com
+	coisa pouca!
 	"""
 	keyWait
 	clearMsg
 	"""
-	We've got some nice
-	footage in the can.
-	Here's your reward.
+	Pegamos filmagens
+	ótimas "no ringue".
+	Aqui, a recompensa.
 	"""
 	keyWait
 	clearMsg
 	"""
-	So you want us to
-	make the payment to
-	this guy Tora?
+	Hm? Então, quer que
+	paguemos esse tal de
+	Tora, em vez de você?
 	"""
 	keyWait
 	clearMsg
 	"""
-	I hope you won't be
-	offended by the low
-	pay,MegaMan.
+	Bom, espero que não
+	fique ofendido com a
+	falta de cachê, rapaz.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Please accept this
-	in addition!
+	Por favor, aceite isto
+	para complementar!
 	"""
 	keyWait
 	clearMsg
@@ -637,9 +631,9 @@ script 195 mmbn3 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Nice work! I hope we
-	can work with you
-	again sometime!
+	Muito bom! Espero que
+	possamos trabalhar
+	juntos de novo um dia!
 	"""
 	keyWait
 	end
@@ -649,9 +643,9 @@ script 196 mmbn3 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	How're you doin'?
-	Don't worry,you'll
-	be in the credits!
+	Oi, como vai? Não se
+	preocupe, você vai ser
+	creditado!
 	"""
 	keyWait
 	end
@@ -667,22 +661,22 @@ script 200 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	Congratulations!
-	I'm this area's
-	stamp official!
+	Parabéns! Sou o
+	encarregado dos
+	carimbos desta área.
 	"""
 	keyWait
 	clearMsg
 	"""
-	All right,let's see
-	your "
+	Certo, deixe-me ver
+	seu "
 	"""
 	printItem
 		buffer = 0
 		item = 51
 	"""
 	"!
-	Here's your stamp!
+	Tome, seu carimbo!
 	"""
 	keyWait
 	clearMsg
@@ -706,9 +700,8 @@ script 202 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	All right,good luck
-	with the rest of
-	your stamps!
+	Bom, boa sorte com o
+	resto dos carimbos!
 	"""
 	keyWait
 	end
@@ -768,9 +761,9 @@ script 229 mmbn3 {
 	mugshotHide
 	msgOpen
 	"""
-	The remaining data
-	from the Navi rose
-	up and drifted away…
+	Os dados restantes do
+	Navi voaram pra longe,
+	até sumirem...
 	"""
 	keyWait
 	end
@@ -850,9 +843,9 @@ script 231 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	You can now rotate
-	pink parts in the
-	NaviCus screen!
+	Agora você pode girar
+	peças cor-de-rosa no
+	Customizador!
 	"""
 	playerFinish
 	keyWait

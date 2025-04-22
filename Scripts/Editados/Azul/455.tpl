@@ -5,22 +5,20 @@ script 0 mmbn3 {
 		mugshot = Bass
 	msgOpen
 	"""
-	How…?
-	It is impossible
-	to defeat me!
+	Mas... como...?
+	É impossível me derrotar!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I am destruction
-	incarnate!
+	Eu sou a destruição
+	encarnada!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I have far more
-	power than you!
-	How…?
+	Tenho muito mais força
+	que você! Como...?
 	"""
 	keyWait
 	clearMsg
@@ -32,15 +30,15 @@ script 1 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Because you are
-	fighting alone!
+	É porque você tá
+	lutando sozinho!
 	"""
 	keyWait
 	clearMsg
 	"""
-	As long as Lan is
-	operating me,I have
-	no limits!!
+	Enquanto eu tiver o
+	Lan me operando
+	não há limites pra mim!
 	"""
 	keyWait
 	clearMsg
@@ -52,9 +50,9 @@ script 2 mmbn3 {
 		mugshot = Bass
 	msgOpen
 	"""
-	What do you mean?
-	Strength does not
-	rely on others!
+	O que quer dizer?
+	A força não vem de
+	depender dos outros!
 	"""
 	keyWait
 	clearMsg
@@ -65,27 +63,30 @@ script 3 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"You're wrong!"
-	keyWait
-	clearMsg
 	"""
-	When Navis are able
-	to completely trust
-	their,operators,
+	É aí que você se
+	engana!
 	"""
 	keyWait
 	clearMsg
 	"""
-	humans,then they are
-	finally able to
-	realize their power!
+	Quando um Navi confia
+	completamente no
+	operador,
 	"""
 	keyWait
 	clearMsg
 	"""
-	You,too,once had a
-	human who you could
-	trust like that!
+	é aí que ele finalmente
+	desperta todo o seu
+	poder!
+	"""
+	keyWait
+	clearMsg
+	"""
+	Eu sei que você também
+	já teve um humano em
+	quem podia confiar assim!
 	"""
 	keyWait
 	clearMsg
@@ -96,10 +97,12 @@ script 4 mmbn3 {
 	mugshotShow
 		mugshot = Bass
 	msgOpen
+	mugshotAnimate
+		animation = 0
 	"""
-	………
-	I trust no one
-	but myself!
+	........
+	O único em quem confio
+	sou eu mesmo!
 	"""
 	keyWait
 	clearMsg
@@ -111,8 +114,7 @@ script 5 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Bass,try to
-	remember!
+	Bass, tenta se lembrar!
 	"""
 	keyWait
 	clearMsg
@@ -123,34 +125,36 @@ script 6 mmbn3 {
 	mugshotShow
 		mugshot = Bass
 	msgOpen
-	"………"
+	mugshotAnimate
+		animation = 0
+	"........."
 	keyWait
 	clearMsg
 	"""
-	Urrgh…! Who is this
-	man who invades
-	my memory!
-	"""
-	keyWait
-	clearMsg
-	"""
-	What is this…
-	feeling? That I…
-	need him?
+	Urgh...! Quem é esse
+	homem... que invade
+	minhas memórias?!
 	"""
 	keyWait
 	clearMsg
 	"""
-	………
-	No! Never!
-	I trust no one!!
+	Que... que sentimento
+	é este?
+	O de... precisar dele...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Power is all!!
-	Destruction is
-	my purpose!!
+	.........
+	Não! Nunca! Eu não
+	confio em ninguém!
+	"""
+	keyWait
+	clearMsg
+	"""
+	A força é tudo!!
+	A destruição é o meu
+	propósito!!
 	"""
 	keyWait
 	clearMsg
@@ -162,7 +166,7 @@ script 7 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Wha!?"
+	"O quê?!"
 	keyWait
 	end
 }
@@ -173,7 +177,7 @@ script 8 mmbn3 {
 	"Bass!!"
 	keyWait
 	clearMsg
-	"He's gone…"
+	"Ele sumiu..."
 	keyWait
 	clearMsg
 	jump
@@ -185,7 +189,9 @@ script 9 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"MegaMan,are you OK!?"
+	"""
+	MegaMan, você tá legal?!
+	"""
 	keyWait
 	clearMsg
 	jump
@@ -195,7 +201,7 @@ script 10 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Yes…I am…"
+	"Sim... Tô, sim..."
 	keyWait
 	clearMsg
 	jump
@@ -206,7 +212,7 @@ script 11 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	What happened to
+	O que aconteceu com o
 	Bass?
 	"""
 	keyWait
@@ -219,9 +225,9 @@ script 12 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I don't know…
-	But I don't feel his
-	power any more…
+	Não sei...
+	Mas não sinto mais o
+	poder dele...
 	"""
 	keyWait
 	clearMsg
@@ -233,15 +239,15 @@ script 13 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Did he run away?
-	………Or…?
+	Ele fugiu?
+	......... Ou...?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Wow,if that thing
-	had run loose in
-	Cyberworld…
+	Cara. Se aquilo tivesse
+	sido solto no mundo
+	cibernético...
 	"""
 	keyWait
 	clearMsg
@@ -253,26 +259,22 @@ script 14 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Then I guess we
-	would just have to
-	beat him again!!
+	Aí a gente só teria que
+	vencer ele de novo!!
 	"""
 	keyWait
 	clearMsg
-	"""
-	It's like I said
-	before!
-	"""
+	"É como eu disse!"
 	keyWait
 	clearMsg
 	"""
-	As long as you are
-	operating me,I have
-	no limits!
+	Enquanto você me
+	operar, não existem
+	limites pra mim!
 	"""
 	keyWait
 	clearMsg
-	"Right!?"
+	"Né?!"
 	keyWait
 	clearMsg
 	jump
@@ -282,7 +284,7 @@ script 15 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"…Yeah! You bet!"
+	"... É! Pode apostar!"
 	keyWait
 	clearMsg
 	jump
@@ -293,8 +295,9 @@ script 16 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Well,Lan? What do
-	we do next?
+	E aí, Lan?
+	O que a gente faz
+	agora?
 	"""
 	keyWait
 	clearMsg
@@ -306,31 +309,31 @@ script 17 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Well,now that we're
-	the strongest duo in
-	Cyberworld…
+	Bom, agora que somos
+	a dupla mais forte da
+	Rede...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Let's take it over!
-	・
+	Vamos dominá-la!!
+	.
 	"""
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	". "
 	waitSkip
 		frames = 30
-	"Just kidding!"
+	"Brincadeirinha!"
 	keyWait
 	clearMsg
 	"""
-	A normal life's best
-	for me!! C'mon!
-	Let's go home!
+	Pra mim, nada supera
+	uma vida normal!!
+	Vem! Bora pra casa!
 	"""
 	keyWait
 	clearMsg
@@ -341,7 +344,7 @@ script 18 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Roger!!"
+	"Positivo!!"
 	keyWait
 	end
 }

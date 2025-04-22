@@ -450,9 +450,9 @@ script 18 mmbn3 {
 	color
 		palette = 3
 	"""
-	Com estes dados,vo-
-	cê vence as prelimi-
-	nares do N1!
+	Com estes dados, você
+	vence as preliminares
+	do N1!
 	"""
 	waitHold
 }

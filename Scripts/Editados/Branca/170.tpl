@@ -183,18 +183,11 @@ script 3 mmbn3 {
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"Oh no! It's a\n"
-	printEnemyName
-		buffer = 0
-		enemy = 49
 	"""
-	! I hope it
-	doesn't 
+	Olha! É um Mettaur!
+	É bom não se "Metter"
+	com eles!
 	"""
-	printEnemyName
-		buffer = 0
-		enemy = 50
-	" us!"
 	keyWait
 	clearMsg
 	mugshotShow
@@ -205,14 +198,10 @@ script 3 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	And there's nothing
-	I hate more than
-	
+	Esses vírus são tão
+	ferozes...
+	"Fishy" Maria!
 	"""
-	printEnemyName
-		buffer = 0
-		enemy = 51
-	"-ed potatoes!"
 	keyWait
 	clearMsg
 	mugshotShow
@@ -223,7 +212,7 @@ script 3 mmbn3 {
 	"."
 	waitSkip
 		frames = 30
-	"."
+	". "
 	waitSkip
 		frames = 30
 	"""
@@ -233,33 +222,22 @@ script 3 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Que engraçado!
+	Que hilário!
 	Ai, minha barriga!
-	Eu vou morrer, aqui!!!
+	Eu vou morrer aqui!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I could handle it as
-	far as 
+	Eu até consegui me
+	segurar durante o
+	"Metter",
 	"""
-	printEnemyName
-		buffer = 0
-		enemy = 49
-	" and\n"
-	printEnemyName
-		buffer = 0
-		enemy = 50
-	",but that"
 	keyWait
 	clearMsg
-	"last "
-	printEnemyName
-		buffer = 0
-		enemy = 51
 	"""
-	 was
-	too much! Ha ha ha!
+	mas esse "Fishy Maria!"...!
+	Ha ha ha ha!
 	"""
 	keyWait
 	clearMsg
@@ -271,14 +249,15 @@ script 3 mmbn3 {
 	clearMsg
 	"""
 	E a minha confiança,
-	também! Brigado aí, pô!
+	também!
+	Brigado aí, pô!
 	"""
 	keyWait
 	clearMsg
 	"""
-	"Num" tenho muita coisa
-	aqui, não, mas toma isto
-	aqui como agradecimento!
+	"Num" tenho muito,
+	mas toma isto como
+	agradecimento!
 	"""
 	keyWait
 	clearMsg
@@ -293,7 +272,8 @@ script 3 mmbn3 {
 		code = *
 		amount = 1
 	"""
-	MegaMan adquiriu o chip
+	MegaMan adquiriu o
+	chip
 	"
 	"""
 	printChip
@@ -324,7 +304,7 @@ script 4 mmbn3 {
 		frames = 30
 	"""
 	 He. Tu num sabe
-	 brincar, né...?
+	brincar, né...?
 	"""
 	keyWait
 	clearMsg

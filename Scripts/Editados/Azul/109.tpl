@@ -154,7 +154,7 @@ script 20 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Agora,vá e
+	Agora, vá e
 	encontre-o...
 	"""
 	keyWait

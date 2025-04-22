@@ -4,16 +4,19 @@ script 0 mmbn3 {
 	mugshotShow
 		mugshot = MrProg
 	msgOpen
-	"Rrnnnzz...! Zzzzz...!"
+	"""
+	Rrnnnzz...!
+	Zzzzz...!
+	"""
 	keyWait
 	clearMsg
-	"…Huh!?"
+	"... Hã?!"
 	keyWait
 	clearMsg
 	"""
-	I can't fall asleep!
-	What if something
-	happened…!
+	Ah, não posso dormir!
+	E se acontecer alguma
+	coisa...?!
 	"""
 	keyWait
 	end
@@ -23,15 +26,16 @@ script 1 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	Life is tough for
-	nurse-call programs.
+	Não é mole não, vida de
+	programas de chamada
+	de enfermeiro.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I just adjust the
-	bed height. It's not
-	a lot to do…
+	Se bem que EU só ajusto
+	a altura da cama.
+	Não é muito trabalho...
 	"""
 	keyWait
 	end

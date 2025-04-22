@@ -3,7 +3,7 @@
 script 0 mmbn3 {
 	mugshotHide
 	msgOpen
-	"The door opens!!"
+	"A porta se abre!!"
 	keyWait
 	end
 }
@@ -12,8 +12,9 @@ script 1 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	What's that strange
-	feeling I get here!?
+	Que sensação estranha
+	é essa que eu sinto
+	aqui?!
 	"""
 	keyWait
 	clearMsg
@@ -25,8 +26,8 @@ script 2 mmbn3 {
 		mugshot = DarkMan
 	msgOpen
 	"""
-	Shhh…Shhh…
-	…Shhh…
+	Shhh... Shhh...
+	... Shhh...
 	"""
 	keyWait
 	clearMsg
@@ -38,8 +39,8 @@ script 3 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Who's there!?
-	Show yourself!!
+	Quem tá aí?!
+	Apareça!!
 	"""
 	keyWait
 	clearMsg
@@ -50,7 +51,7 @@ script 4 mmbn3 {
 	mugshotShow
 		mugshot = DarkMan
 	msgOpen
-	"Shhh…"
+	"Shhh..."
 	keyWait
 	end
 }
@@ -59,9 +60,9 @@ script 5 mmbn3 {
 		mugshot = DarkMan
 	msgOpen
 	"""
-	Shhh…
-	Number 9634…
-	……Shhh…
+	Shhh...
+	Número 9634...
+	...... Shhh...
 	"""
 	keyWait
 	clearMsg
@@ -72,7 +73,7 @@ script 6 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Who are you!?"
+	"Quem é você?!"
 	keyWait
 	clearMsg
 	jump
@@ -82,47 +83,47 @@ script 7 mmbn3 {
 	mugshotShow
 		mugshot = DarkMan
 	msgOpen
-	"Shhh…Shhh…"
+	"Shhh... Shhh..."
 	keyWait
 	clearMsg
 	"""
-	My name is DarkMan.
-	I am an assassin
-	of the darkness…
-	"""
-	keyWait
-	clearMsg
-	"""
-	After I am done with
-	you,I will need only
-	366 more kills…
+	Meu nome é DarkMan.
+	Sou um assassino da
+	escuridão...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Until my goal of
-	10000!
-	Shhh…
+	Após terminar com
+	você, só me faltará
+	mais 366 abates...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Please don't take
-	this personally…
-	Shhh…
+	Para o meu objetivo
+	de 10.000!
+	Shhh...
+	"""
+	keyWait
+	clearMsg
+	"""
+	Por favor, não leve
+	pro lado pessoal...
+	Shhh...
 	"""
 	keyWait
 	clearMsg
 	jump
-		target = 8
+		target = 9
 }
 script 8 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
 	"""
-	This guy's serious!!
-	Lan,he's coming!!
+	Esse cara é pra valer!!
+	Lan, lá vem ele!!
 	"""
 	keyWait
 	clearMsg
@@ -134,12 +135,12 @@ script 9 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Ready,MegaMan!!
-	Battle routine! 
+	Pronto, MegaMan!!
+	Rotina de batalha,
 	"""
 	waitSkip
 		frames = 30
-	"Set!"
+	"\npreparar!"
 	keyWait
 	clearMsg
 	jump
@@ -160,8 +161,9 @@ script 11 mmbn3 {
 		mugshot = DarkMan
 	msgOpen
 	"""
-	Prepare to enter
-	the dark…Forever!
+	Prepare-se para
+	entrar na escuridão...
+	Para sempre!
 	"""
 	keyWait
 	end

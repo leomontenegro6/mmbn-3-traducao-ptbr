@@ -57,9 +57,9 @@ script 1 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Ops! Eu devo ter
-	pagado o maior mico
-	agora, então...
+	Ops! Eu devo ter pagado
+	o maior mico agora,
+	então...
 	"""
 	keyWait
 	end

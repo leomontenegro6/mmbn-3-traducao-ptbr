@@ -128,29 +128,29 @@ script 21 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	Wha? So,you live in
-	the Undernet,too…?
+	Ué? Então, cê também
+	vive na Undernet...?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Ah,you don't have to
-	tell me. It takes
-	one to know one!
+	Nem precisa falar, não.
+	Um habitante reconhece
+	o outro!
 	"""
 	keyWait
 	clearMsg
 	"""
-	You've got the same
-	nasty look about you
-	that we do,heh…
+	Cê tem a mesma cara de
+	mau que o resto da
+	gente, he...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Come on inside,my
-	brother. Welcome
-	home,my evil friend!
+	Entra aí, "mermão".
+	Bem-vindo ao lar,
+	meu parça sangue-ruim!
 	"""
 	keyWait
 	end
@@ -159,23 +159,20 @@ script 30 mmbn3 {
 	mugshotShow
 		mugshot = HeelNavi
 	msgOpen
+	"FlameMan? A WWW?"
+	keyWait
+	clearMsg
 	"""
-	FlamMan?
-	The WWW?
+	Não enche com esse
+	papo! Se quer achar
+	eles, vai atrás.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Don't bug me about
-	that junk. If you
-	wanna look for 'em,
-	"""
-	keyWait
-	clearMsg
-	"""
-	then look for 'em.
-	If you can survive
-	these streets! Heh.
+	Bom, isso SE cê 
+	conseguir sobreviver
+	aqui! He he.
 	"""
 	keyWait
 	end
@@ -189,13 +186,15 @@ script 40 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	What's this garbage?
-	Why's a normal Navi
-	gettin' ranked!?
+	Que negócio é esse?
+	O que um Navi normal
+	faz no ranque?!
 	"""
 	keyWait
 	clearMsg
-	"Get deleted,scum!"
+	"""
+	Tu tá deletado, seu lixo!
+	"""
 	keyWait
 	end
 }
@@ -204,15 +203,15 @@ script 41 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	I'll let you in on
-	a little secret…
+	Eu vou te contar um
+	segredinho aqui...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Three of your rivals
-	are in this area,so
-	watch yer back.
+	Três dos teus rivais tão
+	nesta área, então, olho
+	aberto.
 	"""
 	keyWait
 	end
@@ -226,9 +225,9 @@ script 43 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	I can't believe it!
-	What nasty trick did
-	you use!?
+	Não acredito nisso!
+	Que truque sujo cê
+	usou?!
 	"""
 	keyWait
 	end
@@ -238,16 +237,16 @@ script 44 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	So,you're looking
-	for the guy who's
-	rank #10…
+	Então, cê tá atrás do
+	dcara que tá no décimo
+	ranque...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Just a bit of free
-	advice. It's not too
-	late to run home.
+	Um conselho, parça:
+	ainda dá pra fugir pro
+	colinho da mamãe.
 	"""
 	keyWait
 	end
@@ -261,15 +260,16 @@ script 45 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	Proud of that
-	lucky win,are ye?
+	Tá orgulhoso daquela
+	vitória-por-pura-sorte,
+	é?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Enjoy it while it
-	lasts. Someone'll
-	grab yer rank soon.
+	Aproveita enquanto
+	dura. Tu vai perder
+	esse ranque logo, logo.
 	"""
 	keyWait
 	end
@@ -279,9 +279,9 @@ script 46 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	Hee hee! It might
-	already be too late
-	for you to leave…
+	Hi hi! Pode ser que seja
+	tarde demais pra tu
+	vazar...
 	"""
 	keyWait
 	end
@@ -295,9 +295,9 @@ script 50 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	We're not afraid of
-	the WWW,here in the
-	Undernet! Ptui!
+	Nós não "tem" medo da
+	WWW aqui, na Undernet,
+	não! Tssu!
 	"""
 	keyWait
 	end
@@ -307,16 +307,16 @@ script 51 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	Yo,bro. I heard the
-	surface is a total
-	disaster area now!
+	Fala, bróder. Dizem que
+	a superfície tá o maior
+	desastre!
 	"""
 	keyWait
 	clearMsg
 	"""
-	It'll take a while
-	for the damage to
-	spread here,I hope…
+	Mas vai demorar pra
+	essa treta chegar aqui.
+	Bom, tomara...
 	"""
 	keyWait
 	end
@@ -330,9 +330,8 @@ script 220 mmbn3 {
 		jumpIfLess = continue
 	msgOpen
 	"""
-	A door prevents you
-	from going any
-	further
+	Uma porta barra o seu
+	caminho.
 	"""
 	keyWait
 	end
@@ -536,9 +535,8 @@ script 235 mmbn3 {
 	playerAnimate
 		animation = 24
 	"""
-	MegaMan got chip
-	data for
-	"
+	MegaMan adquiriu o
+	chip "
 	"""
 	printChip
 		buffer = 1

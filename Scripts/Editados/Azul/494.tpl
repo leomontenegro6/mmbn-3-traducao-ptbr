@@ -14,30 +14,30 @@ script 0 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	This BBS is for you
-	punks to write info
-	that we all can use.
+	Este fórum aqui é pra
+	informações úteis pra
+	geral, mané.
 	"""
 	keyWait
 	clearMsg
 	"""
-	The Undernet's a
-	lawless jungle where
-	anything can happen,
+	A Undernet é uma terra
+	sem lei onde tudo pode
+	rolar,
 	"""
 	keyWait
 	clearMsg
 	"""
-	so the more info we
-	all have,the better,
-	got it? Like life,
+	então, quanto mais
+	informação a gente
+	tiver, melhor, morô?
 	"""
 	keyWait
 	clearMsg
 	"""
-	it's give an' take.
-	Oh,yeah,anonymity is
-	probably best.
+	A vida é isso, toma lá,
+	dá cá. Ah, e anonimato
+	é o bicho.
 	"""
 	keyWait
 	waitHold
@@ -56,23 +56,23 @@ script 1 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	Word is there's a
-	chip that summons
-	up DarkDwellers.
+	Tão falando por aí que
+	tem um vírus que invoca
+	DarkDwellers.
 	"""
 	keyWait
 	clearMsg
 	"""
-	It won't work unless
-	you're at a Dark
-	Hole leading to
+	Mas só rola se cê tiver
+	num Buraco Negro
+	levando pro
 	"""
 	keyWait
 	clearMsg
 	"""
-	Murkland. Wonder
-	what kinda baddies
-	live there?
+	Mundo das Trevas.
+	Que tipo de monstrão
+	será que vive lá?
 	"""
 	keyWait
 	waitHold
@@ -91,21 +91,20 @@ script 2 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	I was attacked by
+	Eu fui atacado por um
 	Dominerd.
 	"""
 	keyWait
 	clearMsg
 	"""
-	What is that
-	thing? It protects
+	O que é aquela coisa?
+	Ele protege outros vírus.
 	"""
 	keyWait
 	clearMsg
 	"""
-	other viruses. Maybe
-	it's one of those
-	mutating viruses.
+	Talvez seja um desses
+	vírus mutantes, aí.
 	"""
 	keyWait
 	waitHold
@@ -124,29 +123,29 @@ script 3 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	Mutation? Reminds
-	me of them Fishy2.
+	Mutantes?
+	Me faz lembrar daqueles
+	Fishy2.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Speaking of viruses,
-	I sometimes see some
-	that look like
+	Falando em vírus, eu
+	ando vendo aí uns que
+	parecem amebas.
 	"""
 	keyWait
 	clearMsg
 	"""
-	amoebas. They fly at
-	ya and suck up your
-	HP before ya know
+	Eles pulam em ti e sugam
+	teus PV quando cê 
+	menos espera!
 	"""
 	keyWait
 	clearMsg
 	"""
-	what hit ya! Where
-	are those suckers
-	coming from,anyway?
+	De onde é que essas
+	pestes tão saindo, hein?
 	"""
 	keyWait
 	waitHold
@@ -165,16 +164,16 @@ script 4 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	This stinks of the
-	WWW. That Wily's
-	been involved with
+	Isso cheira a WWW.
+	Aquele Wily tá envolvido
+	com o Bass.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Bass. He won't let
-	anyone get too nosy
-	down here,though.
+	Mas ele não deixa
+	ninguém aqui xeretar
+	demais.
 	"""
 	keyWait
 	waitHold
@@ -193,30 +192,29 @@ script 5 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	I don't battle
-	others. I'm a Virus
-	Controller! Remember
+	Eu não luto com os
+	outros. Sou um
+	Controlador de Vírus!
 	"""
 	keyWait
 	clearMsg
 	"""
-	those little Life
-	Viruses? When the
-	WWW was plotting its
+	Lembram os mini-
+	LifeVirus? De quando
+	a WWW planejava voltar
 	"""
 	keyWait
 	clearMsg
 	"""
-	comeback in the
-	Undernet? I figure
-	if I catch one,I can
+	pra Undernet? Se eu
+	pegar um, posso ser o
+	Controlador de Vírus
 	"""
 	keyWait
 	clearMsg
 	"""
-	be the baddest Virus
-	Controller ever,but
-	I can't find them!
+	mais sinistro do mundo.
+	Mas eu não acho nenhum!
 	"""
 	keyWait
 	waitHold
@@ -235,37 +233,37 @@ script 6 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	Do any of you punks
-	know the ModCode for
-	Giga Folder 1?
+	Ô, bestalhada, sabem
+	o CódigoMod pra
+	GigaPasta 1?
 	"""
 	keyWait
 	clearMsg
 	"""
-	I saved up some Bug
-	Frags and finally
-	got one for my girl,
+	Eu economizei FragBugs
+	e finalmente peguei um
+	pra minha mina,
 	"""
 	keyWait
 	clearMsg
 	"""
-	but the color's not
-	right so she can't
-	install it. The
+	mas a cor não bate,
+	então ela não tá
+	podendo instalar.
 	"""
 	keyWait
 	clearMsg
 	"""
-	program's so rare,
-	none of the surface
-	brats know its code.
+	O programa é raro,
+	ninguém na superfície
+	sabe o código.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Its Error # is G2G.
-	C'mon,help a guy
-	out!
+	O Erro dele é #G2G.
+	Vai lá, gente,
+	dá essa força aí!
 	"""
 	keyWait
 	waitHold
@@ -284,14 +282,14 @@ script 7 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	Yeah,I heard'a that
-	code before. Okay,
-	what was it,now?
+	É, já ouvi o código
+	desse aí.
+	Qual que era mesmo...?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Something like
+	Acho que, sei lá,
 	"TIS[ModTools3]LAEJ".
 	"""
 	keyWait
@@ -311,35 +309,34 @@ script 8 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	Yo! The punk who
-	posted just below
-	this! That's the
+	Ô! Otário que postou
+	agora! Esse código
+	é pro Erro# G2C!
 	"""
 	keyWait
 	clearMsg
 	"""
-	code for Error# G2C!
-	The Error# for Giga
-	Folder 1 changes
+	O # de Erro do Giga1
+	muda dependendo
+	do estilo do Navi.
 	"""
 	keyWait
 	clearMsg
 	"""
-	depending on your
-	Navi's style. That
-	lady's Navi must be
+	O Navi da mina deve
+	estar configurado
+	pro Estilo Normal.
 	"""
 	keyWait
 	clearMsg
 	"""
-	set to Normal Style.
-	The Error# in that
-	case is G2G.
+	O # de Erro dele é
+	G2G.
 	"""
 	keyWait
 	clearMsg
 	"""
-	The code for G2G is
+	E o código pro G2G é
 	"CVVDS[ModTools2]WR".
 	"""
 	keyWait
@@ -359,16 +356,15 @@ script 9 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	Man! I can't get
-	my hands on a
-	Arrow 3!
+	Saco! Não consigo
+	arranjar um Arrow 3!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Does anyone know
-	where the virus is
-	that drops them?
+	Alguém aí sabe onde
+	acha o vírus que "dropa"
+	eles?
 	"""
 	keyWait
 	waitHold
@@ -387,16 +383,15 @@ script 10 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	I think it's a Spark
-	Bee virus. Use a
-	Battery to search
+	Acho que os Spark Bee.
+	É só usar uma Bateria
+	e procurar em lugares
 	"""
 	keyWait
 	clearMsg
 	"""
-	places you wouldn't
-	expect to find
-	Electric viruses.
+	onde não se esperaria
+	achar vírus Elétricos.
 	"""
 	keyWait
 	waitHold
@@ -415,9 +410,8 @@ script 11 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	Someone…
-	Tell me the code
-	for Error # H2…
+	Alguém... Me fala o
+	código pro Erro #H2...
 	"""
 	keyWait
 	waitHold
@@ -436,23 +430,23 @@ script 12 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	What's your problem,
-	man? Got a speech
-	impediment? Never
+	Ô, meu, sabe falar, não?
+	Eu nunca ouvi falar
+	desse erro aí.
 	"""
 	keyWait
 	clearMsg
 	"""
-	heard of that error.
-	Wait a sec. I got it
-	written on my code
+	Peraí. Menti, tenho ele
+	na minha lista de códigos
+	aqui.
 	"""
 	keyWait
 	clearMsg
 	"""
-	sheet. Here ya go:
-	Error # H2
-	Code "UTIW[ModTools2]SMF".
+	Aí vai: Erro # H2
+	Código:
+	"UTIW[ModTools2]SMF".
 	"""
 	keyWait
 	waitHold
@@ -471,16 +465,15 @@ script 13 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	A bug is "something
-	not normal". It
-	amplifies the wild
+	"Bug" é "algo anormal".
+	Eles amplificam a
+	natureza de suas
 	"""
 	keyWait
 	clearMsg
 	"""
-	natures of its
-	victims,turning them
-	into monsters.
+	vítimas, transformando
+	elas em monstros.
 	"""
 	keyWait
 	waitHold
@@ -499,23 +492,21 @@ script 14 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	I once challenged
-	the UnderKing to a
-	battle.
+	Uma vez, eu desafiei o
+	UndeRei pra uma luta.
 	"""
 	keyWait
 	clearMsg
 	"""
-	The UnderKing's
-	power lies in his
-	ability to reflect
+	A força dele está em
+	sua habilidade de refletir
+	tudo.
 	"""
 	keyWait
 	clearMsg
 	"""
-	everything. I was
-	deleted by my own
-	power!
+	Eu fui deletado pelos
+	meus próprios poderes!
 	"""
 	keyWait
 	waitHold

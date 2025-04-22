@@ -203,7 +203,7 @@ script 12 mmbn3 {
 	clearMsg
 	"""
 	Ele treina assim, feito
-	louco,e conseguiu
+	louco, e conseguiu
 	esconder do povo todo.
 	"""
 	keyWait

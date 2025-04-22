@@ -674,9 +674,9 @@ script 229 mmbn3 {
 	mugshotHide
 	msgOpen
 	"""
-	The remaining data
-	from the Navi rose
-	up and drifted away…
+	Os dados do Navi
+	derrotado voaram para
+	longe...
 	"""
 	keyWait
 	end
@@ -933,9 +933,8 @@ script 238 mmbn3 {
 	playerAnimate
 		animation = 24
 	"""
-	MegaMan got chip
-	data for
-	"
+	MegaMan adquiriu o
+	chip "
 	"""
 	printChip
 		buffer = 1
@@ -1165,32 +1164,33 @@ script 250 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan! This is the
-	"devil pillar" from
-	the will! Checking…
+	Lan! É o "aquecedor"
+	do testamento!
+	Analisando...
 	"""
 	keyWait
 	clearMsg
-	"……"
+	"......"
 	keyWait
 	clearMsg
 	"""
-	Let's see. Ah-hah!
-	This looks like some
-	kind of message!
-	"""
-	keyWait
-	clearMsg
-	"""
-	It says,"The demon
-	awaits in Hades"!
+	Vejamos... a-ha!
+	Parece ter um tipo
+	de mensagem aqui!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Huh? And what's…?
-	Look out,Lan!!
-	It's a virus!!
+	Está escrito:
+	"O demônio aguarda
+	no Inferno"!
+	"""
+	keyWait
+	clearMsg
+	"""
+	Hã? E o que é...?
+	Prepara, Lan!!
+	São vírus!!
 	"""
 	keyWait
 	flagSet
@@ -1204,15 +1204,15 @@ script 251 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	There seem to be no
-	more viruses,but the
-	message remains…
+	Parece que não há mais
+	vírus, mas a mensagem
+	continua...
 	"""
 	keyWait
 	clearMsg
 	"""
-	"The demon awaits
-	in Hades"!
+	"O demônio aguarda no
+	Inferno"!
 	"""
 	keyWait
 	end

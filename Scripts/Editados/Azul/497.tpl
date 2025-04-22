@@ -4,13 +4,12 @@ script 0 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"………!?"
+	".........?!"
 	keyWait
 	clearMsg
 	"""
-	The virus you
-	deleted is coming
-	back!!
+	Os vírus que você
+	deletou estão voltando!!
 	"""
 	keyWait
 	end
@@ -19,9 +18,9 @@ script 1 mmbn3 {
 	mugshotHide
 	msgOpen
 	"""
-	The virus is staring
-	at MegaMan. It seems
-	that it won't attack
+	Os vírus encaram
+	MegaMan. Não parece
+	que vão atacar.
 	"""
 	keyWait
 	clearMsg
@@ -33,9 +32,9 @@ script 2 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Is this what the guy
-	at SciLab meant by
-	cleaning a virus?
+	Foi isso o que o cara do
+	SciLab quis dizer com
+	"pegar vírus"?
 	"""
 	keyWait
 	clearMsg
@@ -47,22 +46,21 @@ script 3 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Yeah,it seems pretty
-	tame. Not violent
-	at all…
+	É, eles parecem bem
+	dóceis. Nem sinal de
+	agressividade...
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'll try sending it
-	into the virus
-	breeder!
+	Vou tentar mandá-los
+	para o Doma-Vírus!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Lan,let's look into
-	this more later!
+	Lan, depois a gente
+	investiga mais isso!
 	"""
 	keyWait
 	clearMsg
@@ -74,8 +72,8 @@ script 4 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Good idea,MegaMan!
-	Check it out for me!
+	Boa ideia, MegaMan!
+	Envia eles, por favor!
 	"""
 	keyWait
 	end

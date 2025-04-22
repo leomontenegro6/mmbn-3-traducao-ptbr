@@ -291,8 +291,8 @@ script 11 mmbn3 {
 		mugshot = NormalNaviGreen
 	msgOpen
 	"""
-	Ei! Tá fazendo o quê
-	aqui?
+	Ei!
+	Tá fazendo o quê aqui?
 	Anda, circulando!
 	"""
 	keyWait

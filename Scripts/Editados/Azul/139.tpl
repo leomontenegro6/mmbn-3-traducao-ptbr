@@ -4,15 +4,13 @@ script 0 mmbn3 {
 	mugshotShow
 		mugshot = MrProg
 	msgOpen
-	"""
-	Sob,sob…
-	Sniffle…
-	"""
+	"Chuiiiiif... Ai..."
 	keyWait
 	clearMsg
 	"""
-	This soap opera's a
-	real tear-jerker.
+	Esta novela é daquelas
+	que partem o coração,
+	mesmo.
 	"""
 	keyWait
 	end
@@ -22,13 +20,16 @@ script 1 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	I wish he'd stop
-	watching TV and do
-	some work!
+	Queria que ele parasse
+	de ficar vendo TV e
+	TRABALHASSE!
 	"""
 	keyWait
 	clearMsg
-	"He drives me crazy!"
+	"""
+	Sem paciência pra esse
+	cara!
+	"""
 	keyWait
 	end
 }

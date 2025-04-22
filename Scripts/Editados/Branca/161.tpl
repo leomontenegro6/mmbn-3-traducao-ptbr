@@ -4,25 +4,26 @@ script 0 mmbn3 {
 	mugshotShow
 		mugshot = MrProg
 	msgOpen
-	"Hey!"
+	"Ei!"
 	keyWait
 	clearMsg
 	"""
-	Do you know where
-	you are? Castle
-	Wily! The WWW base!
-	"""
-	keyWait
-	clearMsg
-	"""
-	Bet you're scared!
-	BOO!
+	Tem noção de onde
+	está? No Castelo Wily!
+	A base da WWW!
 	"""
 	keyWait
 	clearMsg
 	"""
-	You'll never be
-	scared enough!!
+	Aposto que tá
+	morrendo de medo!
+	... BÚ!
+	"""
+	keyWait
+	clearMsg
+	"""
+	E esse medo só vai
+	aumentar!!
 	"""
 	keyWait
 	end
@@ -36,15 +37,15 @@ script 180 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	I sell SubChips. Who
-	cares about Wily?
-	I'm making money!
+	Eu vendo SubChips.
+	Dane-se o Wily!
+	Eu vou fazer dindim!
 	"""
 	keyWait
 	clearMsg
 	"""
-	And on that note…
-	Wanna see my stuff?
+	Tendo dito isso...
+	Quer ver meu acervo? 
 	
 	"""
 	option
@@ -54,7 +55,7 @@ script 180 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"Sim "
 	option
 		left = 0
 		right = 0
@@ -62,7 +63,7 @@ script 180 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No thanks"
+	"Não"
 	select
 		default = 0
 		BSeparate = false
@@ -79,8 +80,8 @@ script 180 mmbn3 {
 script 181 mmbn3 {
 	clearMsg
 	"""
-	Come again!
-	Don't forget!
+	Volte sempre!
+	Não vai esquecer, hein?
 	"""
 	keyWait
 	end
@@ -90,9 +91,9 @@ script 182 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	Some saleman…
-	I'm out of SubChips!
-	What a disgrace…
+	Que vexame... Acabaram
+	meus SubChips!
+	Eu nem mereço vender...
 	"""
 	keyWait
 	end

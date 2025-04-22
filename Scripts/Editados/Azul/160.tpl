@@ -8,22 +8,23 @@ script 0 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Good job,finding
-	this area…
+	Impressionante você 
+	ter conseguido achar
+	esta área...
 	"""
 	keyWait
 	clearMsg
 	"""
-	All the programs in
-	SciLab hide out
-	in here.
+	Todos os programas
+	do SciLab se escondem
+	aqui.
 	"""
 	keyWait
 	clearMsg
 	"""
-	So all of the
-	programs here should
-	really be working…
+	Pois é: na verdade,
+	todos aqui deviam era
+	estar trabalhando...
 	"""
 	keyWait
 	end
@@ -33,9 +34,9 @@ script 1 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	…Ah! Don't tell
-	anyone you saw me
-	napping here!!
+	Ah! Não conte pra
+	ninguém que me viu
+	cochilando aqui!!
 	"""
 	keyWait
 	end
@@ -45,9 +46,9 @@ script 2 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	You know,even
-	programs need a
-	break sometimes…
+	Até programas precisam
+	de uma folga, de vez em
+	quando...
 	"""
 	keyWait
 	end
@@ -57,16 +58,15 @@ script 3 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	We actually take
-	turns,sneaking away
-	to here.
+	Na verdade, nós nos
+	alternamos fugindo para
+	cá.
 	"""
 	keyWait
 	clearMsg
 	"""
-	We all look exactly
-	the same,so nobody
-	ever finds out!
+	Como somos todos iguais,
+	ninguém nunca descobriu!
 	"""
 	keyWait
 	end
@@ -76,14 +76,14 @@ script 4 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	Just a little nap…
-	Just a little nap…
+	Só uma sonequinha...
+	Só uma sonequinha...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Before I go back to
-	work…
+	Antes de eu ter que
+	voltar ao trabalho...
 	"""
 	keyWait
 	end
@@ -93,13 +93,13 @@ script 5 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	Listen to this…
-	These things on our
-	heads aren't ears…
+	Escuta... Estas coisas
+	nas nossas cabeças
+	não são orelhas.
 	"""
 	keyWait
 	clearMsg
-	"They're our hands!"
+	"São nossas mãos!"
 	keyWait
 	end
 }
@@ -108,18 +108,17 @@ script 6 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	Sigh…
-	Suppose I should go
-	back to work…
+	Ai, ai... Acho que já deu
+	a hora de eu voltar ao
+	trabalho...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Someone's gotta do
-	it. Right?
+	É um trabalho sujo, mas
+	alguém tem que fazer.
+	Né?
 	"""
-	keyWait
-	end
 }
 script 230 mmbn3 {
 	msgOpen

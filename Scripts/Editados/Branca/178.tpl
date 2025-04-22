@@ -9,9 +9,8 @@ script 0 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	What're you lookin'
-	at!? You ain't
-	gettin' through!
+	Tá olhando o quê?!
+	Tu não vai passar, não!
 	"""
 	keyWait
 	end
@@ -21,29 +20,27 @@ script 1 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	What? You still
-	wanna go through?
+	Hã? Ainda quer passar?
 	"""
 	keyWait
 	clearMsg
 	"""
-	You wanna get
-	through that badly,
-	you gotta get by ME!
+	Se quer tanto passar
+	por aqui, vai ter que
+	passar por MIM!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Power is the real
-	ticket to living in
-	the Undernet!
+	Força é a verdadeira
+	licença para viver na
+	Undernet!
 	"""
 	keyWait
 	clearMsg
 	"""
-	You got a problem?
-	You gonna fight or
-	not!?
+	Não gostou?
+	Vai lutar ou não vai?!
 	"""
 	keyWait
 	clearMsg
@@ -55,7 +52,7 @@ script 1 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Fight "
+	"Lutar "
 	option
 		left = 0
 		right = 0
@@ -63,7 +60,7 @@ script 1 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Not"
+	"Não"
 	select
 		default = 0
 		BSeparate = false
@@ -94,7 +91,7 @@ script 2 mmbn3 {
 	mugshotShow
 		mugshot = HeelNavi
 	msgOpen
-	"Heh! Wimp."
+	"He! Frouxo."
 	keyWait
 	end
 }
@@ -111,9 +108,9 @@ script 3 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	Nobody from the
-	surface goes through
-	here. Period.
+	Ninguém da superfície
+	passa por aqui.
+	Fim de papo.
 	"""
 	keyWait
 	end
@@ -122,7 +119,7 @@ script 4 mmbn3 {
 	mugshotShow
 		mugshot = HeelNavi
 	msgOpen
-	"Go on through…"
+	"Pode passar..."
 	keyWait
 	flagSet
 		flag = 258
@@ -135,16 +132,16 @@ script 10 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	I've been waiting
-	for you,boy! You'll
-	be my first prey!
+	Tava te esperando,
+	rapaz! Tu vai ser minha
+	primeira presa!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Smash the weak ones
-	first! That's the
-	law of the Undernet!
+	Varrer os fracos
+	primeiro!
+	Essa é a lei da Undernet!
 	"""
 	keyWait
 	clearMsg
@@ -158,8 +155,8 @@ script 11 mmbn3 {
 		mugshot = CloakedNavi
 	msgOpen
 	"""
-	Grrr…
-	I'm ranked #8.
+	Grrr...
+	Eu sou o ranque #8. 
 	"""
 	keyWait
 	clearMsg
@@ -171,9 +168,9 @@ script 12 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	You know,I think
-	I've seen this Navi
-	somewhere before…!
+	Sabe, eu sinto que já vi
+	esse Navi em algum
+	lugar...!
 	"""
 	keyWait
 	clearMsg
@@ -184,22 +181,25 @@ script 13 mmbn3 {
 	mugshotShow
 		mugshot = CloakedNavi
 	msgOpen
-	"Garrr…"
-	keyWait
-	clearMsg
-	"I remember you well…"
+	"Garrr..."
 	keyWait
 	clearMsg
 	"""
-	Your battle-cry
-	jogged my memory!
+	Eu lembro bem de você...
+	"""
+	keyWait
+	clearMsg
+	"""
+	O seu grito de guerra
+	refrescou a minha
+	memória!
 	"""
 	keyWait
 	clearMsg
 	soundDisableTextSFX
 	soundPlay
 		track = 135
-	"Garrrr!!"
+	"Graaaarrrr!!"
 	wait
 		frames = 90
 	soundEnableTextSFX
@@ -211,8 +211,9 @@ script 14 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	How can this be!?
-	We beat that guy!
+	Como é possível?!
+	A gente tinha deletado
+	esse cara!
 	"""
 	keyWait
 	clearMsg
@@ -223,19 +224,19 @@ script 15 mmbn3 {
 	mugshotShow
 		mugshot = CloakedNavi
 	msgOpen
-	"Take this!"
+	"Toma essa!"
 	keyWait
 	clearMsg
 	"""
-	Time to pay you back
-	for the other day!
+	Hora de te fazer pagar
+	por aquela vez!
 	"""
 	keyWait
 	clearMsg
 	soundDisableTextSFX
 	soundPlay
 		track = 135
-	"Garrrr!!"
+	"Graaaarrrr!!"
 	wait
 		frames = 90
 	keyWait
@@ -277,45 +278,49 @@ script 190 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	This book is a mess!
-	Totally filthy.
-	Not only that…
+	Este livro tá uma
+	tragédia! Tão imundo.
+	E não só isso...
 	"""
 	keyWait
 	clearMsg
 	"""
-	I just don't get
-	all these weird
-	symbols…
+	Eu não entendo todos
+	esses símbolos esquisitos
+	nele...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Huh? You look like
-	something. What,
-	dirty old book?
+	Hum? Cê parece que
+	quer alguma coisa.
+	Quê? Este livro?
 	"""
 	keyWait
 	clearMsg
-	"……"
+	mugshotAnimate
+		animation = 0
+	"......"
+	mugshotAnimate
+		animation = 1
 	keyWait
 	clearMsg
 	"""
-	Yeah,it's not like I
-	need it or anything,
-	but still…
-	"""
-	keyWait
-	clearMsg
-	"""
-	I ain't givin' it
-	away for nothin'!
-	Look here…
+	É, não é que eu 
+	PRECISE dele nem
+	nada, mas...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Gimme your
+	Eu não abro mão dele
+	assim, de graça!
+	Vamos ver...
+	"""
+	keyWait
+	clearMsg
+	"""
+	Me dá o seu
 	"
 	"""
 	printChip
@@ -326,8 +331,8 @@ script 190 mmbn3 {
 		buffer = 0
 		code = A
 	"""
-	" and you
-	can have the book!
+	"
+	e o livro é seu!
 	"""
 	keyWait
 	clearMsg
@@ -339,7 +344,7 @@ script 190 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"OK! "
+	"Tá! "
 	option
 		left = 0
 		right = 0
@@ -347,7 +352,7 @@ script 190 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No thanks"
+	"Não"
 	select
 		default = 0
 		BSeparate = false
@@ -371,9 +376,9 @@ script 191 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	All right! We have a
-	deal,then!
-	There ya go!
+	Beleza!
+	Negócio fechado, então!
+	Toma!
 	"""
 	keyWait
 	clearMsg
@@ -413,24 +418,23 @@ script 193 mmbn3 {
 	mugshotShow
 		mugshot = HeelNavi
 	msgOpen
-	"I just don't get it…"
-	keyWait
-	clearMsg
 	"""
-	"Sky,land,and sea.
-	Three layers of
-	significance."
+	Eu não entendo nada...
 	"""
 	keyWait
 	clearMsg
 	"""
-	What's this piece of
-	paper mean by that,
-	anyway? Some riddle?
+	"Céu, terra e mar.
+	Três camadas de
+	significância."
 	"""
 	keyWait
 	clearMsg
-	"Beats me…"
+	"""
+	O que isso quer dizer?
+	É uma charada?
+	Sei lá...
+	"""
 	keyWait
 	end
 }
@@ -439,22 +443,22 @@ script 194 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	Well,I guess that's
-	how it is.
+	Bom, acho que vamos
+	ficar por isso mesmo,
+	então.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Come talk to me
-	again if you change
-	your mind.
+	Vem aqui de novo se
+	mudar de ideia.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'll hang onto it a
-	little longer for
-	you.
+	Eu vou guardar ele por
+	mais um tempinho, só pra
+	você.
 	"""
 	keyWait
 	end
@@ -464,16 +468,14 @@ script 195 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	Hey! I don't see
-	that chip I wanted
-	anywhere!
+	Ei! Não tô vendo o chip
+	que eu queria!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Take it outta your
-	folder so I can see
-	it!
+	Tira da sua pasta pra
+	eu poder pegar!
 	"""
 	keyWait
 	end
@@ -483,9 +485,8 @@ script 196 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	So,did you use the
-	tome I gave you for
-	anything?
+	E aí, usou o livro que eu
+	te dei pra alguma coisa?
 	"""
 	keyWait
 	end
@@ -495,25 +496,25 @@ script 197 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	So ya came back!
-	Relax,I still got
-	the old book!
+	Então, cê voltou!
+	Relaxa, eu ainda tô
+	com este livro sujo.
 	"""
 	keyWait
 	clearMsg
 	"""
-	So are ya ready
-	to trade me the
+	Pronto pra trocar um
 	"
 	"""
 	printChip
 		buffer = 0
 		chip = 81
-	" "
 	printCode
 		buffer = 0
 		code = A
-	"\" for it?"
+	"""
+	" por ele?
+	"""
 	keyWait
 	clearMsg
 	mugshotHide
@@ -524,7 +525,7 @@ script 197 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Sure "
+	"Tá "
 	option
 		left = 0
 		right = 0
@@ -532,7 +533,7 @@ script 197 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No way"
+	"Não!"
 	select
 		default = 0
 		BSeparate = false
@@ -558,16 +559,16 @@ script 220 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Faded words can be
-	seen scrawled on the
-	cube's surface
+	Palavras apagadas
+	podem ser observadas
+	na superfície dele.
 	"""
 	keyWait
 	clearMsg
 	"""
-	"A Navi whose trees
-	are in full bloom
-	holds the key"
+	"O Navi cujas flores
+	brotaram por completo
+	possui a chave".
 	"""
 	keyWait
 	end
@@ -575,9 +576,9 @@ script 220 mmbn3 {
 script 221 mmbn3 {
 	msgOpen
 	"""
-	The security cube's
-	seal breaks as
-	PlantMan weakens!
+	O cubo se abre com o
+	enfraquecimento de
+	PlantMan!
 	"""
 	keyWait
 	msgClose

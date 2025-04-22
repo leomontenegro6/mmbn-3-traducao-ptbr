@@ -352,58 +352,55 @@ script 8 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	Hey everyone,are you
-	carrying an Extra
-	Folder? You can't
+	Oi, galera. Vocês têm
+	Pastas Extras?
 	"""
 	keyWait
 	clearMsg
 	"""
-	trade the chips in
-	it,but it's still
-	handy. If you have a
+	Não dá pra trocar os
+	chips delas, mas são
+	uma mão na roda.
 	"""
 	keyWait
 	clearMsg
 	"""
-	favorite folder and
-	won't trade anymore,
-	you're missing out!
+	Se tem uma pasta
+	favorita e se recusa a
+	trocar, tá perdendo!
 	"""
 	keyWait
 	clearMsg
 	"""
-	How so,you ask? By
-	trading your Extra
-	Folder for a new one
+	"Por quê"? Porque,
+	ao trocar sua Pasta
+	Extra por uma nova,
 	"""
 	keyWait
 	clearMsg
 	"""
-	you can increase the
-	capacity of your
-	Data Library!
+	você aumenta o volume
+	da sua Coleção de Chips!
 	"""
 	keyWait
 	clearMsg
 	"""
-	After you've traded
-	a bunch of folders
-	and increased your
+	Após trocar várias
+	pastas e aumentar
+	chips catalogados,
 	"""
 	keyWait
 	clearMsg
 	"""
-	data,have Higsby's
-	order the chips for
-	you!
+	peça pro Higsby
+	encomendar esses
+	chips pra você!
 	"""
 	keyWait
 	clearMsg
 	"""
-	That's what Extra
-	Folders are all
-	about!
+	Esse é o poder das
+	Pastas Extras!
 	"""
 	keyWait
 	waitHold
@@ -422,36 +419,36 @@ script 9 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	I beg to differ with
-	Heylon.
+	Lamento, Heylon,
+	mas eu discordo.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I agree you can get
-	strong chips using
-	that method,
+	Digo, sim, dá pra obter
+	chips fortes com esse
+	método,
 	"""
 	keyWait
 	clearMsg
 	"""
-	but I prefer trading
-	data with friends
-	to increase our
+	mas prefiro trocar
+	dados com amigos pra
+	aumentarmos nossas
 	"""
 	keyWait
 	clearMsg
 	"""
-	Data Libraries so
-	both my friends and
-	I help each other!
+	Coleções. Assim, eu
+	e eles ajudamos uns
+	aos outros!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'd never trade my
-	favorite Extra
-	Folder.
+	Eu nunca trocaria a
+	minha Pasta Extra
+	favorita.
 	"""
 	keyWait
 	waitHold
@@ -470,30 +467,30 @@ script 10 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	He heh. Both of you
-	seem to have your
-	own uses for your
+	He. Vocês têm suas
+	próprias formas de
+	usar Pastas Extras.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Extra Folders. Hey,
-	that's cool! Use 'em
-	however you want.
+	Isso é tão legal!
+	Usar elas aos seus
+	estilos.
 	"""
 	keyWait
 	clearMsg
 	"""
-	You can also use
-	them to battle
-	people under equal
+	Também servem pra
+	lutar contra amigos
+	em pé de igualdade,
 	"""
 	keyWait
 	clearMsg
 	"""
-	conditions to see
-	who has the best
-	fighting technique!
+	pondo à prova suas
+	habilidades de luta
+	e nada mais!
 	"""
 	keyWait
 	waitHold
@@ -512,85 +509,84 @@ script 11 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	Sorry for the
-	sequential posts.
-	I forgot that I had
+	Desculpem pelo flood.
+	Esqueci que tinha
+	prometido
 	"""
 	keyWait
 	clearMsg
 	"""
-	promised to write
-	about how asterisks
-	are related to
+	falar sobre como
+	asteriscos estão
+	ligados aos P.A.s.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Program Advances.
-	By selecting an
-	asterisk chip as
+	Ao escolher um chip de
+	asterisco como Padrão,
 	"""
 	keyWait
 	clearMsg
 	"""
-	your Regular,your
-	chance of causing a
-	Program Advance goes
+	as suas chances de
+	usar um Programa
+	Avançado disparam.
 	"""
 	keyWait
 	clearMsg
 	"""
-	way up. Program
-	Advances occur when
-	two chips fuse
+	Programas Avançados
+	rolam quando vários
+	chips se fundem,
 	"""
 	keyWait
 	clearMsg
 	"""
-	together,creating
-	even more powerful
-	effects. They're
+	gerando efeitos ainda
+	mais poderosos. Eles
+	são causados por chips
 	"""
 	keyWait
 	clearMsg
 	"""
-	caused by different
-	chips with the same
-	code,or identical
+	de mesmo código ou
+	chips idênticos em
+	sequência.
 	"""
 	keyWait
 	clearMsg
 	"""
-	chips with
-	sequential codes.
-	Since "*" can act as
+	Como o "*" funciona
+	no lugar de qualquer
+	código,
 	"""
 	keyWait
 	clearMsg
 	"""
-	any code,you have a
-	higher chance of one
-	occuring. However,
+	isso aumenta as suas
+	chances de usar um.
 	"""
 	keyWait
 	clearMsg
 	"""
-	for sequential
-	Program Advances,
-	you can only use one
+	Porém, pra Programas
+	Avançados sequenciais,
+	só se pode usar um
 	"""
 	keyWait
 	clearMsg
 	"""
-	asterisk. So to
-	activate an A+B+C
-	Advance,you can't
+	asterisco. Por exemplo:
+	pra ativar um PA com
+	códigos "A+B+C",
 	"""
 	keyWait
 	clearMsg
 	"""
-	use *+*+C. Got it?
-	Good luck everyone!
+	não rola usar *+*+C.
+	Sacaram?
+	Boa sorte, pessoal!
 	"""
 	keyWait
 	waitHold
@@ -609,16 +605,16 @@ script 12 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	What's the deal?!
-	I tried my hand a
-	bunch of times at a
+	Pô! Eu já tentei rodar
+	o Troca-Chips zilhões
+	de vezes,
 	"""
 	keyWait
 	clearMsg
 	"""
-	Chip Trader,but
-	every single time I
-	got a "
+	mas toda vez, só
+	ganhei um
+	"
 	"""
 	printChip
 		buffer = 0
@@ -631,9 +627,9 @@ script 12 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Who's responsible
-	for this?! I lost
-	some good chips!
+	Quem é o responsável
+	por isso?! Eu perdi
+	chips super bons!
 	"""
 	keyWait
 	waitHold
@@ -652,27 +648,27 @@ script 13 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	It doesn't matter
-	what chips you put
-	in,Poteno. It's all
+	Não importa os chips
+	que se insere nele,
+	Poteno. É aleatório!
 	"""
 	keyWait
 	clearMsg
 	"""
-	random! I got a
+	Tipo, eu ganhei
 	"
 	"""
 	printChip
 		buffer = 0
 		chip = 126
 	"""
-	" for 3
-	"
+	" em troca
+	de 3 "
 	"""
 	printChip
 		buffer = 0
 		chip = 1
-	"\" chips."
+	"\"."
 	keyWait
 	waitHold
 }
@@ -690,8 +686,8 @@ script 14 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	Arrrgh! Somebody's
-	going to pay!
+	Arrrgh! Alguém vai
+	pagar por isso!
 	"""
 	keyWait
 	waitHold
@@ -710,50 +706,48 @@ script 15 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	Tee-hee! Look at my
-	shiny "
+	Hi hi! Olhem só meu
+	lindo "
 	"""
 	printChip
 		buffer = 0
 		chip = 184
 	"""
 	"!
-	I had enough with
+	Cansei de Troca-Chips
 	"""
 	keyWait
 	clearMsg
 	"""
-	regular Chip Traders
-	so I tried out the
-	special Chip Trader
+	normais e fui
+	experimentar o especial
+	cial que tem no
 	"""
 	keyWait
 	clearMsg
 	"""
-	at the Seaside
-	Hospital,and got
-	this!
+	Hospital Beira-Mar,
+	e foi lá que eu tirei
+	esse!
 	"""
 	keyWait
 	clearMsg
 	"""
-	What've you got to
-	say about that,
+	E aí, opiniões,
 	Nukin?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Unfortunately I had
-	to put up ten chips
-	to use that trader.
+	Mas, infelizmente,
+	eu tive que inserir
+	10 chips pra usá-lo.
 	"""
 	keyWait
 	clearMsg
 	"""
-	All I have left now
-	are the chips in my
-	folder!
+	Só sobraram os chips
+	que tão na minha pasta!
 	"""
 	keyWait
 	waitHold
@@ -772,22 +766,21 @@ script 16 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	I see Poteno used
-	my Chip Trader
-	Special,huh!
+	Vejo que o Poteno
+	usou o meu Troca-
+	Chips Especial, é!
 	"""
 	keyWait
 	clearMsg
 	"""
-	You have to insert a
-	lot of chips,
+	É preciso inserir
+	muitos chips nele,
 	"""
 	keyWait
 	clearMsg
 	"""
-	but it often gives
-	out rare chips in
-	return!
+	mas ele costuma dar
+	chips raros em troca!
 	"""
 	keyWait
 	waitHold
@@ -806,35 +799,35 @@ script 17 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	So that's what makes
-	the Chip Trader
-	Special so special!
+	Ah, é isso que faz do
+	Troca-Chips Especial...
+	especial!
 	"""
 	keyWait
 	clearMsg
 	"""
-	When I first heard
-	it needed ten chips,
-	I said forget that,
+	Quando vi que usava
+	10 chips, pensei:
+	"Esquece!", mas,
 	"""
 	keyWait
 	clearMsg
 	"""
-	but after hearing
-	about that rare chip
-	Poteno got,I want to
+	depois de ver o chip
+	raro que o Poteno
+	pegou, quero tentar!
 	"""
 	keyWait
 	clearMsg
 	"""
-	try it out! I'll
-	unload all these
+	Vou gastar todos
+	estes meus chips
 	"
 	"""
 	printChip
 		buffer = 0
 		chip = 118
-	"\" chips!"
+	"\"!"
 	keyWait
 	waitHold
 }
@@ -852,23 +845,23 @@ script 18 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	Slow down,guys.
-	Don't get too
-	carried away with
+	Opa, calma lá. Não
+	vão exagerar na dose
+	com os Troca-Chips!
 	"""
 	keyWait
 	clearMsg
 	"""
-	these Chip Traders!
-	There's no guarantee
-	you'll get good
+	Não existe garantia de
+	que vão receber chips
+	bons.
 	"""
 	keyWait
 	clearMsg
 	"""
-	chips. As the saying
-	goes,"everything in
-	moderation"!
+	Como dizem os
+	comerciais:
+	"Use com moderação"!
 	"""
 	keyWait
 	waitHold
@@ -887,34 +880,33 @@ script 19 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	Hey! The other day
-	in ACDC 1 I saw a
-	strange 
+	Outro dia, enquanto
+	explorava ACDC 1, eu
+	vi um 
 	"""
 	printEnemyName
 		buffer = 0
 		enemy = 1
-	"."
+	" estranho."
 	keyWait
 	clearMsg
 	"""
-	It looked ordinary
-	enough,but it was
-	acting a little odd.
-	"""
-	keyWait
-	clearMsg
-	"""
-	When it saw a Navi,
-	it didn't attack.
-	Actually,it ran
+	Ele PARECIA normal,
+	mas o comportamento
+	era meio bizarro.
 	"""
 	keyWait
 	clearMsg
 	"""
-	away! It didn't
-	seem like a scary
-	virus at all.
+	Quando via um Navi,
+	ele não atacava.
+	Na verdade, fugia!
+	"""
+	keyWait
+	clearMsg
+	"""
+	Não parecia um vírus
+	nada assustador.
 	"""
 	keyWait
 	waitHold
@@ -933,40 +925,38 @@ script 20 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	I saw one like that
-	too! I think it's a
-	virus from the Zoo
+	Também vi um vírus
+	assim! Acho que foi
+	no CPU do Zoológico.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Comp. It's
-	hard to believe a
+	Aliás, nem acreditei
+	que tinha mesmo um
 	
 	"""
 	printEnemyName
 		buffer = 0
 		enemy = 91
-	" was there!"
+	" lá!"
 	keyWait
 	clearMsg
 	"""
-	It just stared at my
-	Navi,but didn't
-	attack.
-	"""
-	keyWait
-	clearMsg
-	"""
-	I wouldn't mind
-	befriending a nice
-	virus like that!
+	Ele só ficou encarando
+	o meu Navi, sem atacar.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I mean,it looks
-	kind of cute!
+	Um vírus desses, eu até
+	fazia amizade, sabia?!
+	"""
+	keyWait
+	clearMsg
+	"""
+	Digo, eles são meio
+	fofinhos!
 	"""
 	keyWait
 	waitHold
@@ -985,23 +975,23 @@ script 21 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	Hah! That thar virus
-	sounds like what
-	mah boy at SciLab's
+	Parece o vírus de
+	que meu filho, do
+	SciLab, vem falando!
 	"""
 	keyWait
 	clearMsg
 	"""
-	been gabbin' about!
-	All he talks about
-	is his darn virus
+	O menino não para de
+	falar sobre o
+	Doma-Vírus dele!
 	"""
 	keyWait
 	clearMsg
 	"""
-	breeder! Been havin'
-	some kid test it
-	out,he has!
+	Agora, ele tá fazendo
+	um menino aí testar o
+	negócio!
 	"""
 	keyWait
 	waitHold

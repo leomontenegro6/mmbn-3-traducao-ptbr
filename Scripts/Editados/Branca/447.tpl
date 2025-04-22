@@ -67,9 +67,9 @@ script 1 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	A copy of FlashMan
-	is available for a
-	timed battle!
+	Cópia de FlashMan
+	disponível para uma
+	luta cronometrada!
 	"""
 	keyWait
 	clearMsg
@@ -81,9 +81,9 @@ script 2 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	A copy of BeastMan
-	is available for a
-	timed battle!
+	Cópia de BeastMan
+	disponível para uma
+	luta cronometrada!
 	"""
 	keyWait
 	clearMsg
@@ -95,9 +95,9 @@ script 3 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	A copy of BubbleMan
-	is available for a
-	timed battle!
+	Cópia de BubbleMan
+	disponível para uma
+	luta cronometrada!
 	"""
 	keyWait
 	clearMsg
@@ -109,9 +109,9 @@ script 4 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	A copy of DesertMan
-	is available for a
-	timed battle!
+	Cópia de DesertMan
+	disponível para uma
+	luta cronometrada!
 	"""
 	keyWait
 	clearMsg
@@ -123,9 +123,9 @@ script 5 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	A copy of PlantMan
-	is available for a
-	timed battle!
+	Cópia de PlantMan
+	disponível para uma
+	luta cronometrada!
 	"""
 	keyWait
 	clearMsg
@@ -137,9 +137,9 @@ script 6 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	A copy of FlamMan
-	is available for a
-	timed battle!
+	Cópia de FlameMan
+	disponível para uma
+	luta cronometrada!
 	"""
 	keyWait
 	clearMsg
@@ -151,9 +151,9 @@ script 7 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	A copy of DrillMan
-	is available for a
-	timed battle!
+	Cópia de DrillMan
+	disponível para uma
+	luta cronometrada!
 	"""
 	keyWait
 	clearMsg
@@ -165,9 +165,9 @@ script 8 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	A copy of GutsMan
-	is available for a
-	timed battle!
+	Cópia de GutsMan
+	disponível para uma
+	luta cronometrada!
 	"""
 	keyWait
 	clearMsg
@@ -179,9 +179,9 @@ script 9 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	A copy of MetalMan
-	is available for a
-	timed battle!
+	Cópia de MetalMan
+	disponível para uma
+	luta cronometrada!
 	"""
 	keyWait
 	clearMsg
@@ -193,9 +193,9 @@ script 10 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	A copy of KingMan
-	is available for a
-	timed battle!
+	Cópia de KingMan
+	disponível para uma
+	luta cronometrada!
 	"""
 	keyWait
 	clearMsg
@@ -211,9 +211,9 @@ script 11 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	A copy of MistMan
-	is available for a
-	timed battle!
+	Cópia de MistMan
+	disponível para uma
+	luta cronometrada!
 	"""
 	keyWait
 	clearMsg
@@ -225,9 +225,9 @@ script 12 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	A copy of DarkMan
-	is available for a
-	timed battle!
+	Cópia de DarkMan
+	disponível para uma
+	luta cronometrada!
 	"""
 	keyWait
 	clearMsg
@@ -239,9 +239,9 @@ script 13 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	A copy of JapanMan
-	is available for a
-	timed battle!
+	Cópia de YamatoMan
+	disponível para uma
+	luta cronometrada!
 	"""
 	keyWait
 	clearMsg
@@ -253,9 +253,9 @@ script 14 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	A copy of ProtoMan
-	is available for a
-	timed battle!
+	Cópia de ProtoMan
+	disponível para uma
+	luta cronometrada!
 	"""
 	keyWait
 	clearMsg
@@ -267,9 +267,9 @@ script 15 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	A copy of Serenade
-	is available for a
-	timed battle!
+	Cópia de Serenade
+	disponível para uma
+	luta cronometrada!
 	"""
 	keyWait
 	clearMsg
@@ -281,9 +281,9 @@ script 16 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	A copy of BassGS
-	is available for a
-	timed battle!
+	Cópia de BassGS
+	disponível para uma
+	luta cronometrada!
 	"""
 	keyWait
 	clearMsg
@@ -295,13 +295,13 @@ script 17 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	Your current record
+	Seu recorde atual
 	vs 
 	"""
 	printEnemyName
 		buffer = 1
 		enemy = 0
-	" is\n"
+	" é\n"
 	printBuffer
 		minLength = 2
 		padZeros = true
@@ -323,13 +323,24 @@ script 17 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	You must take on
-	this battle using
-	your Extra Folder.
+	Deverá travar esta
+	luta com a sua
+	Pasta Extra.
 	"""
 	keyWait
 	clearMsg
-	"Take the challenge?\n"
+	"""
+	Não pode firmar novo
+	recorde com o Modo
+	Buster Max ligado.
+	"""
+	keyWait
+	clearMsg
+	"""
+	Encarar o
+	desafio?
+	
+	"""
 	option
 		left = 1
 		right = 1
@@ -337,7 +348,7 @@ script 17 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"Sim "
 	option
 		left = 0
 		right = 0
@@ -345,7 +356,7 @@ script 17 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No"
+	"Não"
 	select
 		default = 0
 		BSeparate = false
@@ -368,8 +379,9 @@ script 18 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	Get ready!
-	Morph! Copy change!
+	Prepare-se!
+	Morfar!
+	Transformação cópia!
 	"""
 	keyWait
 	flagSet
@@ -386,7 +398,10 @@ script 19 mmbn3 {
 	mugshotShow
 		mugshot = HeelNavi
 	msgOpen
-	"Time to deletion…\n"
+	"""
+	Hora da deleção...
+	
+	"""
 	printBuffer
 		minLength = 2
 		padZeros = true
@@ -423,8 +438,8 @@ script 20 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	That was pathetic!
-	Try again!
+	Isso foi patético!
+	Vai de novo!
 	"""
 	keyWait
 	end
@@ -442,9 +457,9 @@ script 21 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	Well done!
-	You set a new record
-	for 
+	Mandou bem! Firmou
+	um novo recorde pro
+	
 	"""
 	printEnemyName
 		buffer = 1
@@ -460,10 +475,12 @@ script 22 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	No records broken.
-	Tentar de novo?
+	Não quebrou nenhum
+	recorde. Repetir?
 	
 	"""
+	keyWait
+	clearMsg
 	option
 		left = 1
 		right = 1
@@ -471,7 +488,7 @@ script 22 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"Sim "
 	option
 		left = 0
 		right = 0
@@ -479,7 +496,7 @@ script 22 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No"
+	"Não"
 	select
 		default = 0
 		BSeparate = false
@@ -500,7 +517,7 @@ script 23 mmbn3 {
 	mugshotShow
 		mugshot = HeelNavi
 	msgOpen
-	"Come back any time."
+	"Volte quando quiser."
 	keyWait
 	end
 }
@@ -523,9 +540,9 @@ script 24 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	You now hold every
-	record! Here! A
-	gift from Serenade!
+	Você bateu todos os
+	recordes! Tome, um
+	presente de Serenade!
 	"""
 	keyWait
 	clearMsg
@@ -537,8 +554,8 @@ script 24 mmbn3 {
 		amount = 1
 	mugshotHide
 	"""
-	MegaMan adquiriu o chip
-	"
+	MegaMan adquiriu o
+	chip "
 	"""
 	printChip
 		buffer = 0
@@ -556,8 +573,9 @@ script 24 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	Timed battles are
-	available any time!
+	Lutas cronometradas
+	estão disponíveis
+	quando quiser!
 	"""
 	keyWait
 	end
@@ -567,9 +585,9 @@ script 25 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	Just how fast do you
-	intend to go? You're
-	just amazing!
+	O quão rápido você
+	pretende ser, hein?
+	Você é irado!
 	"""
 	keyWait
 	end
@@ -579,15 +597,16 @@ script 26 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	Try to set a record
-	for every enemy!
+	Hora de marcar um
+	novo recorde pra
+	todos os inimigos!
 	"""
 	keyWait
 	clearMsg
 	"""
-	If you can,perhaps
-	Serenade will reward
-	you!
+	Se conseguir isso,
+	talvez Serenade até
+	te recompense!
 	"""
 	keyWait
 	end
@@ -597,9 +616,9 @@ script 27 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	You now hold every
-	record! Here! A
-	gift from Serenade!
+	Você bateu todos os
+	recordes! Tome, um
+	presente de Serenade!
 	"""
 	keyWait
 	clearMsg
@@ -611,8 +630,8 @@ script 27 mmbn3 {
 		amount = 1
 	mugshotHide
 	"""
-	MegaMan adquiriu o chip
-	"
+	MegaMan adquiriu o
+	chip "
 	"""
 	printChip
 		buffer = 0
@@ -630,8 +649,9 @@ script 27 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	Timed battles are
-	available any time!
+	Lutas cronometradas
+	estão disponíveis
+	quando quiser!
 	"""
 	keyWait
 	end
@@ -641,9 +661,9 @@ script 28 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	A copy of BowlMan
-	is available for a
-	timed battle!
+	Cópia de BowlMan
+	disponível para
+	luta cronometrada!
 	"""
 	keyWait
 	clearMsg

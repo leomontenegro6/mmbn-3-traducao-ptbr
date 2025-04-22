@@ -6,15 +6,14 @@ script 0 mmbn3 {
 	msgOpen
 	mugshotAnimate
 		animation = 0
-	"Shuffle,shuffle…"
+	"Mexe, mexe..."
 	keyWait
 	clearMsg
 	mugshotAnimate
 		animation = 1
 	"""
-	OK. How much bath
-	oil should I put
-	in,I wonder…?
+	OK. Quanto óleo de
+	banho eu coloco...?
 	"""
 	keyWait
 	clearMsg
@@ -24,27 +23,27 @@ script 0 mmbn3 {
 	"."
 	waitSkip
 		frames = 20
-	"."
+	". "
 	waitSkip
 		frames = 20
 	"""
-	Urk!
-	How long have you
-	been standing there!
+	Ack!
+	Desde quando você tá
+	parado aí?!
 	"""
 	keyWait
 	clearMsg
 	"""
-	You didn't hear me!
-	You must be hearing
-	things!
+	Você não ouviu NADA!
+	Foi alucinação!
+	Delírio! Ilusão!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Bath oils!? Uh…
-	What are those? I
-	didn't say anything!
+	Oléos?! Er... Eu nem sei
+	o que é isso!
+	Eu nem tomo banho!
 	"""
 	keyWait
 	clearMsg
@@ -54,7 +53,7 @@ script 0 mmbn3 {
 	"."
 	waitSkip
 		frames = 20
-	".Oops!"
+	". Convenci?"
 	keyWait
 	end
 }

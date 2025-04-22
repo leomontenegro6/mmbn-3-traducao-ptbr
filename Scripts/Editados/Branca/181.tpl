@@ -9,8 +9,8 @@ script 180 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	I trade programs for
-	BugFrags. Wanna see?
+	Troco programas por
+	FragBugs. Quer ver?
 	
 	"""
 	option
@@ -20,7 +20,7 @@ script 180 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Sure "
+	"Sim "
 	option
 		left = 0
 		right = 0
@@ -28,7 +28,7 @@ script 180 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Nah"
+	"Não"
 	select
 		default = 0
 		BSeparate = false
@@ -44,7 +44,7 @@ script 180 mmbn3 {
 }
 script 181 mmbn3 {
 	clearMsg
-	"Come again."
+	"Volte sempre."
 	keyWait
 	end
 }
@@ -53,8 +53,7 @@ script 182 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	I'm all outta
-	merchandise…
+	Estou sem mercadoria...
 	"""
 	keyWait
 	end
@@ -78,36 +77,34 @@ script 190 mmbn3 {
 		buffer = 0
 		item = 50
 	"""
-	"…
-	Yeah,I got it.
+	"...
+	É, tenho, sim.
 	"""
 	keyWait
 	clearMsg
 	"""
-	But if you want it,
-	you're gonna have to
-	battle me.
+	Mas se quiser ele,
+	vai ter que lutar comigo.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I haven't been able
-	to find any worthy
-	opponents lately…
+	Faz tempo que não
+	encontro um adversário
+	digno...
 	"""
 	keyWait
 	clearMsg
 	"""
-	You look like you
-	might have what it
-	takes…
+	Você parece ser o que
+	eu venho procurando...
 	"""
 	keyWait
 	clearMsg
 	"""
-	So give it a shot!
-	If you win,you can
-	have this!
+	Então, ente me vencer!
+	Se o fizer, pode ficar
+	com isto!
 	"""
 	keyWait
 	clearMsg
@@ -127,7 +124,7 @@ script 190 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No thanks"
+	"Não"
 	select
 		default = 0
 		BSeparate = false
@@ -144,8 +141,8 @@ script 191 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	There's a good
-	sport!
+	Isso que é espírito
+	esportivo!
 	"""
 	keyWait
 	flagSet
@@ -157,8 +154,9 @@ script 192 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	Ah,ya coward!
-	Go and hide,then!
+	Ah, covarde!
+	Se enfia na terra,
+	então!
 	"""
 	keyWait
 	end
@@ -168,12 +166,12 @@ script 193 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	I knew I was right
-	about you!
+	Eu sabia que estava
+	certo quanto a você!
 	"""
 	keyWait
 	clearMsg
-	"Here,take it!"
+	"Aqui, ó! Toma!"
 	keyWait
 	clearMsg
 	jump
@@ -207,23 +205,21 @@ script 195 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	They say if you can
-	find all three
-	tomes…
+	Dizem que, se cê achar
+	todos os três tomos...
 	"""
 	keyWait
 	clearMsg
 	"""
-	You'll find a huge
-	treasure! You can
-	trust me.
+	vai achar um tesouro
+	incrível! Confia.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I have a moral code.
-	I'm not like the
-	other Navis here!
+	Eu tenho código moral.
+	Não sou como os outros
+	Navis daqui!
 	"""
 	keyWait
 	end
@@ -242,16 +238,15 @@ script 220 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Faded words can be
-	seen scrawled on the
-	cube's surface
+	Palavras apagadas
+	podem ser observadas
+	na superfície dele.
 	"""
 	keyWait
 	clearMsg
 	"""
-	"A cowardly Navi of
-	bubbles holds the
-	key"
+	"Um Navi covarde de
+	bolhas possui a chave."
 	"""
 	keyWait
 	end
@@ -270,16 +265,15 @@ script 221 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Faded words can be
-	seen scrawled on the
-	cube's surface
+	Palavras apagadas
+	podem ser observadas
+	na superfície dele.
 	"""
 	keyWait
 	clearMsg
 	"""
-	"A burning Navi of
-	flames holds the
-	key"
+	"Um ardente Navi de
+	fogo possui a chave."
 	"""
 	keyWait
 	end
@@ -287,9 +281,9 @@ script 221 mmbn3 {
 script 222 mmbn3 {
 	msgOpen
 	"""
-	The security cube's
-	seal breaks as
-	BubbleMan weakens!
+	O cubo se abre com o
+	enfraquecimento do
+	BubbleMan!
 	"""
 	keyWait
 	msgClose
@@ -302,9 +296,9 @@ script 222 mmbn3 {
 script 223 mmbn3 {
 	msgOpen
 	"""
-	The security cube's
-	seal breaks as
-	FlamMan weakens!
+	O cubo se abre com o
+	enfraquecimento de
+	FlameMan!
 	"""
 	keyWait
 	msgClose
@@ -318,9 +312,9 @@ script 229 mmbn3 {
 	mugshotHide
 	msgOpen
 	"""
-	The remaining data
-	from the Navi rose
-	up and drifted away…
+	Os dados restantes do
+	Navi voaram pra longe,
+	até sumirem...
 	"""
 	keyWait
 	end

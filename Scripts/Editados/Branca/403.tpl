@@ -77,7 +77,7 @@ script 5 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Mayl,Yai... Eu...
+	Mayl, Yai... Eu...
 	Desculpa pelo que eu
 	falei antes.
 	"""

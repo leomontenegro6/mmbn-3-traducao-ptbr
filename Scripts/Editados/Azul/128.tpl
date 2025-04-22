@@ -47,8 +47,9 @@ script 2 mmbn3 {
 		mugshot = Glide
 	msgOpen
 	"""
-	Bem-vindo. Vejo que,
-	agora, estão todos aqui.
+	Bem-vindo.
+	Vejo que, agora,
+	estão todos aqui.
 	"""
 	keyWait
 	flagSet

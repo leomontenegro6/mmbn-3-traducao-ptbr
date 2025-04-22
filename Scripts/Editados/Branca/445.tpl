@@ -677,7 +677,7 @@ script 37 mmbn3 {
 	waitSkip
 		frames = 30
 	"""
-	 sempre dependi
+	sempre dependi
 	demais do MegaMan.
 	"""
 	keyWait

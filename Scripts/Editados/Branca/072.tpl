@@ -891,7 +891,7 @@ script 103 mmbn3 {
 		mugshot = MrMatch
 	msgOpen
 	"""
-	Agora,vou tratar
+	Agora, vou tratar
 	de outros assuntos.
 	A gente se vê, guri!
 	"""

@@ -1530,13 +1530,13 @@ script 250 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Hey! If the will is
-	read sideways,the
-	1st word's squirrel!
+	Ei! Lendo o testamento
+	em colunas, a primeira
+	palavra é "esquilo"!
 	"""
 	keyWait
 	clearMsg
-	"……"
+	"......"
 	keyWait
 	clearMsg
 	"""

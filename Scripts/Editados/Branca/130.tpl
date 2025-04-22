@@ -5,21 +5,20 @@ script 0 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	Welcome to the
-	virus breeder!
+	Bem-vindo ao Doma-Vírus!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I am the manual
-	program for this
-	virus breeder!
+	Eu sou o programa do
+	manual para este
+	Doma-Vírus!
 	"""
 	keyWait
 	clearMsg
 	"""
-	What would you like
-	to ask me about?
+	Sobre o que gostaria
+	de me perguntar?
 	"""
 	keyWait
 	clearMsg
@@ -30,7 +29,7 @@ script 0 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Virus breeding\n"
+	"Criação de vírus\n"
 	option
 		left = 1
 		right = 1
@@ -38,7 +37,7 @@ script 0 mmbn3 {
 		down = 2
 	space
 		count = 2
-	"Virus usage\n"
+	"Uso de vírus\n"
 	option
 		left = 2
 		right = 2
@@ -46,7 +45,7 @@ script 0 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Nothing now"
+	"Nada"
 	select
 		default = 0
 		BSeparate = false
@@ -65,9 +64,8 @@ script 1 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	Virus breeding? OK!
-	Where shall we
-	begin?
+	Criação de vírus? OK!
+	Por onde começamos?
 	"""
 	keyWait
 	clearMsg
@@ -78,7 +76,7 @@ script 1 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Virus locations\n"
+	"Aposentos dos vírus\n"
 	option
 		left = 1
 		right = 1
@@ -86,7 +84,7 @@ script 1 mmbn3 {
 		down = 2
 	space
 		count = 2
-	"Feeding method\n"
+	"Como alimentar\n"
 	option
 		left = 2
 		right = 2
@@ -94,7 +92,7 @@ script 1 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Redistribution"
+	"Redistribuição"
 	select
 		default = 0
 		BSeparate = false
@@ -113,16 +111,16 @@ script 2 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	Viruses are kept in
-	separate rooms,
-	based on species.
+	Os vírus são mantidos em
+	quartos separados, com
+	base na espécie.
 	"""
 	keyWait
 	clearMsg
 	"""
-	To go to the rooms,
-	please use this
-	area's warp points.
+	Para acessá-los, é só
+	usar os portais desta
+	área aqui.
 	"""
 	keyWait
 	clearMsg
@@ -134,23 +132,23 @@ script 3 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	"BugFrags" are fed
-	to viruses to make
-	them grow.
+	"FragBugs" são a comida
+	dos vírus, e o que os
+	faz crescer.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Put BugFrags into
-	the box of the virus
-	you want to feed.
+	É só inserir FragBugs na
+	caixa do vírus que quiser
+	alimentar.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Be careful! Each
-	feeding requires
-	5 BugFrags.
+	Mas cuidado! Cada
+	servida consome 5
+	FragBugs.
 	"""
 	keyWait
 	clearMsg
@@ -162,56 +160,56 @@ script 4 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	If you want to
-	redistribute the
-	BugFrags you gave,
+	Para redistribuir os
+	FragBugs que deu de
+	alimento,
 	"""
 	keyWait
 	clearMsg
 	"""
-	please talk to
-	that room's program.
+	é só falar com o
+	programa do quarto em
+	questão.
 	"""
 	keyWait
 	clearMsg
 	"""
-	You can then freely
-	redistribute any
-	BugFrags you gave.
+	Você poderá distribuir
+	livremente todos os
+	FragBugs que der.
 	"""
 	keyWait
 	clearMsg
 	"""
-	But once they've
-	been given,you can't
-	get BugFrags back!
+	Mas, uma vez dados,
+	não dá para reaver
+	os FragBugs!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Redistribute until
-	none are remaining.
+	Redistribua-os até
+	não sobrar mais nenhum.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Ah,just a second…
-	There's one more
-	thing.
+	Ah, só um instante...
+	Mais uma coisa.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Press Select during
-	redistribution to
-	cancel your changes.
+	Use "Select" durante
+	a redistribuição para
+	cancelar.
 	"""
 	keyWait
 	clearMsg
 	"""
-	You can use this if
-	you change your
-	mind.
+	É um método para se
+	usar caso mude de ideia
+	na hora.
 	"""
 	keyWait
 	clearMsg
@@ -223,50 +221,49 @@ script 5 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	Do you have a
-	VirusChip for
-	trading viruses?
+	Você tem um vírus para
+	transformar em chips?
 	"""
 	keyWait
 	clearMsg
 	"""
-	The researcher who's
-	always beside the
-	virus breeder
+	O pesquisador que está
+	sempre ao lado do
+	Doma-Vírus está sempre
 	"""
 	keyWait
 	clearMsg
 	"""
-	is developing new
-	viruses. So,if you
-	find a new one,
+	desenvolvendo novos
+	vírus. Então, se achar
+	vírus um novo,
 	"""
 	keyWait
 	clearMsg
 	"""
-	tell him. He'll give
-	you a VirusChip if
-	development is over.
+	avise a ele. Ele te dará
+	um ChipVírus ao fim do
+	desenvolvimento.
 	"""
 	keyWait
 	clearMsg
 	"""
-	You can then use the
-	VirusChip as a
-	BattleChip.
+	Daí, você poderá usar o
+	ChipVírus como um chip
+	em batalha.
 	"""
 	keyWait
 	clearMsg
 	"""
-	The rank of the
-	virus to be traded
+	O ranque do vírus troca-
+	ado depende da hora em
+	que você tenta.
 	"""
 	keyWait
 	clearMsg
 	"""
-	depends on timing.
-	You'll get a new
-	one if you're lucky!
+	Se tiver sorte, você
+	ganha um novo!
 	"""
 	keyWait
 	clearMsg
@@ -278,8 +275,8 @@ script 6 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	Do you want to ask
-	anything else?
+	Gostaria de perguntar
+	algo mais?
 	"""
 	keyWait
 	clearMsg
@@ -290,7 +287,7 @@ script 6 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Virus breeding\n"
+	"Criação de vírus\n"
 	option
 		left = 1
 		right = 1
@@ -298,7 +295,7 @@ script 6 mmbn3 {
 		down = 2
 	space
 		count = 2
-	"Virus usage\n"
+	"Uso de vírus\n"
 	option
 		left = 2
 		right = 2
@@ -306,7 +303,7 @@ script 6 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Nothing now"
+	"Nada"
 	select
 		default = 0
 		BSeparate = false
@@ -325,9 +322,9 @@ script 7 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	OK! If you need any
-	help,come and see
-	me!
+	OK! Se precisar de ajuda
+	com qualquer coisa, é só
+	falar!
 	"""
 	keyWait
 	end

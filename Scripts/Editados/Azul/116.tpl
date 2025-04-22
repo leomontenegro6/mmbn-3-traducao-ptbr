@@ -5,9 +5,9 @@ script 0 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	9 weeds…Middle row…
-	Middle row…
-	Middle row…
+	9 ervas daninha...
+	Fileira do meio...
+	De novo... de novo.
 	"""
 	keyWait
 	end
@@ -15,16 +15,16 @@ script 0 mmbn3 {
 script 220 mmbn3 {
 	msgOpen
 	"""
-	A digiplant created
-	when the growth
-	system lost control
+	Cyberplanta criada com
+	a pane do sistema de
+	crescimento.
 	"""
 	keyWait
 	clearMsg
 	"""
-	It looks like it can
-	be burned away using
-	a strong flame
+	Parece que pode ser
+	queimada com chamas
+	intensas.
 	"""
 	keyWait
 	end
@@ -142,8 +142,8 @@ script 232 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	You can now carry
-	more SubChips!!
+	Agora você pode
+	portar mais SubChips!
 	"""
 	playerFinish
 	playerUnlock

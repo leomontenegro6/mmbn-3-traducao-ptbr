@@ -41,8 +41,7 @@ script 0 mmbn3 {
 	clearMsg
 	"""
 	Então, você vai nos
-	ajudar a
-	removê-las?!
+	ajudar a removê-las?!
 	"""
 	keyWait
 	clearMsg
@@ -50,8 +49,7 @@ script 0 mmbn3 {
 		mugshot = MegaMan
 	"""
 	Claro. Digo, se você
-	conhecer algum
-	método...
+	conhecer algum método...
 	"""
 	keyWait
 	clearMsg
@@ -89,7 +87,7 @@ script 0 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Para tal, instale o
+	Para isso, instale o
 	"
 	"""
 	printNaviCustProgram
@@ -102,9 +100,8 @@ script 0 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	aperte A
-	quando diante de uma
-	cyberplanta.
+	aperte A quando diante
+	de uma cyberplanta.
 	"""
 	keyWait
 	clearMsg
@@ -113,15 +110,15 @@ script 0 mmbn3 {
 		buffer = 0
 		program = 21
 	"""
-	" então
-	será executado.
+	" então será
+	executado.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Chips convertidos
-	serão inutilizados,
-	então tome cuidado.
+	Chips convertidos serão
+	inutilizados, então tome
+	cuidado.
 	"""
 	keyWait
 	clearMsg

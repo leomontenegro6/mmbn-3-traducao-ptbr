@@ -15,9 +15,9 @@ script 0 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	Only the strong can
-	survive here…
-	No wimps allowed!
+	Só os fortes sobrevivem
+	aqui...
+	Fracotes são proibidos!
 	"""
 	keyWait
 	end
@@ -27,12 +27,12 @@ script 1 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	Hmm. Looks like you
-	have what it takes.
+	Hmm. Parece que você
+	tem o que é preciso.
 	"""
 	keyWait
 	clearMsg
-	"OK,go through."
+	"Beleza, pode passar."
 	keyWait
 	flagSet
 		flag = 334
@@ -43,14 +43,15 @@ script 1 mmbn3 {
 script 220 mmbn3 {
 	msgOpen
 	"""
-	It's a hole in space
-	created by DrillMan
+	É um buraco criado no
+	espaço, pelo DrillMan.
 	"""
 	keyWait
 	clearMsg
 	"""
-	As you approach,the
-	hole sucks you in!
+	À medida que você se
+	aproxima dele, o buraco
+	te puxa!
 	"""
 	keyWait
 	startWarp
@@ -63,23 +64,23 @@ script 221 mmbn3 {
 		jumpIfFalse = continue
 	msgOpen
 	"""
-	Este Cubo de Segurança
-	é mantido selado por
-	um Navi poderoso.
+	O Cubo de Segurança é
+	mantido selado por um
+	Navi poderoso.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Faded words can be
-	seen scrawled on the
-	cube's surface
+	Palavras apagadas
+	podem ser observadas
+	na superfície dele.
 	"""
 	keyWait
 	clearMsg
 	"""
-	"A shape-shifting
-	Navi of sand holds
-	the key"
+	"Um Navi de areia que
+	muda de forma detém
+	a chave."
 	"""
 	keyWait
 	end
@@ -89,9 +90,9 @@ script 221 mmbn3 {
 script 222 mmbn3 {
 	msgOpen
 	"""
-	The security cube's
-	seal breaks as
-	DesertMan weakens!
+	O cubo se abre com o
+	enfraquecimento de
+	DesertMan!
 	"""
 	keyWait
 	msgClose
@@ -105,11 +106,16 @@ script 229 mmbn3 {
 	mugshotHide
 	msgOpen
 	"""
-	The remaining data
-	from the Navi rose
-	up and drifted away…
+	Os dados restantes do
+	Navi voaram pra longe,
+	até sumirem...
 	"""
 	keyWait
+	msgClose
+	flagSet
+		flag = 330
+	wait
+		frames = 102
 	end
 }
 script 230 mmbn3 {

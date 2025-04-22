@@ -5,8 +5,8 @@ script 0 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Do you want to use
-	the EnergyChange?
+	Usar o Conversor de
+	Energia? 
 	
 	"""
 	option
@@ -16,7 +16,7 @@ script 0 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"Sim "
 	option
 		left = 0
 		right = 0
@@ -24,7 +24,7 @@ script 0 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No"
+	"Não"
 	select
 		default = 0
 		BSeparate = false
@@ -42,8 +42,8 @@ script 1 mmbn3 {
 		mugshot = MegaMan
 	msgOpenQuick
 	"""
-	Huh? There are no
-	chips in your pack!
+	Ué? Você tá sem chip
+	nenhum na mochila!
 	"""
 	keyWait
 	end
@@ -61,7 +61,7 @@ script 4 mmbn3 {
 	msgOpen
 	playerAnimate
 		animation = 27
-	"It's a virus!!"
+	"É um vírus!!"
 	keyWait
 	playerUnlock
 	startRandomBattle
@@ -70,8 +70,7 @@ script 4 mmbn3 {
 script 5 mmbn3 {
 	msgOpen
 	"""
-	You've found
-	something…
+	Você encontrou algo...
 	"""
 	keyWait
 	clearMsg
@@ -92,7 +91,7 @@ script 5 mmbn3 {
 	printCode
 		buffer = 0
 		code = I
-	"\"!!"
+	"\"!"
 	playerFinish
 	keyWait
 	end
@@ -100,16 +99,13 @@ script 5 mmbn3 {
 script 6 mmbn3 {
 	playerAnimate
 		animation = 24
-	"""
-	MegaMan adquiriu:
-	"
-	"""
+	"MegaMan adquiriu:\n"
 	printBuffer
 		minLength = 0
 		padZeros = false
 		padLeft = false
 		buffer = 1
-	" Zennys\"!!"
+	" Zennys!!"
 	playerFinish
 	keyWait
 	end
@@ -117,24 +113,25 @@ script 6 mmbn3 {
 script 7 mmbn3 {
 	msgOpen
 	"""
-	You found a recovery
-	Panel under the
-	digivines!
+	Achou um quadro de cura
+	sob as cybervinhas!
 	"""
 	keyWait
 	clearMsg
 	startHeal
 		amount = 100
 	"""
-	MegaMan recovers
-	100HP!!
+	MegaMan recupera 100
+	PV!!
 	"""
 	keyWait
 	end
 }
 script 8 mmbn3 {
 	msgOpen
-	"You found something…"
+	"""
+	Você encontrou algo...
+	"""
 	keyWait
 	clearMsg
 	playerAnimate
@@ -144,8 +141,8 @@ script 8 mmbn3 {
 		code = I
 		amount = 2
 	"""
-	MegaMan got two
-	chips for
+	MegaMan adquiriu dois
+	chips 
 	"
 	"""
 	printChip
@@ -155,14 +152,16 @@ script 8 mmbn3 {
 	printCode
 		buffer = 0
 		code = I
-	"\"!!"
+	"\"!"
 	playerFinish
 	keyWait
 	end
 }
 script 9 mmbn3 {
 	msgOpen
-	"You found something…"
+	"""
+	Você encontrou algo...
+	"""
 	keyWait
 	clearMsg
 	playerAnimate
@@ -172,8 +171,8 @@ script 9 mmbn3 {
 		code = I
 		amount = 3
 	"""
-	MegaMan got three
-	chips for
+	MegaMan adquiriu
+	três chips
 	"
 	"""
 	printChip
@@ -183,7 +182,7 @@ script 9 mmbn3 {
 	printCode
 		buffer = 0
 		code = I
-	"\"!!"
+	"\"!"
 	playerFinish
 	keyWait
 	end
@@ -210,14 +209,14 @@ script 15 mmbn3 {
 		jumpIfFalse = continue
 	msgOpen
 	"""
-	You found a switch
-	under the digivines!
+	Você achou um botão
+	sob as cybervinhas!
 	"""
 	keyWait
 	clearMsg
 	"""
-	MegaMan flipped
-	the switch!
+	MegaMan apertou o
+	botão!
 	"""
 	keyWait
 	clearMsg
@@ -225,7 +224,7 @@ script 15 mmbn3 {
 		x = 10
 		y = 65288
 		z = 0
-	"The door opened!"
+	"A porta se abriu!"
 	keyWait
 	soundPlay
 		track = 231
@@ -329,8 +328,8 @@ script 40 mmbn3 {
 script 41 mmbn3 {
 	msgOpen
 	"""
-	You found a
-	warp point!
+	Você encontrou um
+	portal!
 	"""
 	keyWait
 	end
@@ -348,7 +347,9 @@ script 44 mmbn3 {
 }
 script 45 mmbn3 {
 	msgOpen
-	"You found something…"
+	"""
+	Você encontrou algo...
+	"""
 	keyWait
 	clearMsg
 	playerAnimate
@@ -358,8 +359,7 @@ script 45 mmbn3 {
 		code = W
 		amount = 1
 	"""
-	MegaMan recebeu o
-	chip
+	MegaMan adquiriu o chip
 	"
 	"""
 	printChip
@@ -369,7 +369,7 @@ script 45 mmbn3 {
 	printCode
 		buffer = 0
 		code = W
-	"\"!!"
+	"\"!"
 	playerFinish
 	keyWait
 	end
@@ -405,14 +405,14 @@ script 53 mmbn3 {
 		jumpIfFalse = continue
 	msgOpen
 	"""
-	You found a switch
-	under the digivines!
+	Você achou um botão
+	sob as cybervinhas!
 	"""
 	keyWait
 	clearMsg
 	"""
-	MegaMan flipped
-	the switch!
+	MegaMan apertou o
+	botão!
 	"""
 	keyWait
 	clearMsg
@@ -420,7 +420,7 @@ script 53 mmbn3 {
 		x = 65526
 		y = 132
 		z = 0
-	"The door opened!"
+	"A porta se abriu!"
 	keyWait
 	soundPlay
 		track = 231
@@ -466,8 +466,8 @@ script 62 mmbn3 {
 script 63 mmbn3 {
 	msgOpen
 	"""
-	You found a
-	warp point!
+	Você encontrou um
+	portal!
 	"""
 	keyWait
 	end
@@ -507,8 +507,8 @@ script 72 mmbn3 {
 script 73 mmbn3 {
 	msgOpen
 	"""
-	You found a
-	warp point!
+	Você encontrou um
+	portal!
 	"""
 	keyWait
 	end
@@ -525,8 +525,8 @@ script 76 mmbn3s {
 script 77 mmbn3 {
 	msgOpen
 	"""
-	You found a
-	warp point!
+	Você encontrou um
+	portal!
 	"""
 	keyWait
 	end
@@ -549,14 +549,14 @@ script 81 mmbn3 {
 		jumpIfFalse = continue
 	msgOpen
 	"""
-	You find a switch
-	under the digivines!
+	Você achou um botão
+	sob as vinhas!
 	"""
 	keyWait
 	clearMsg
 	"""
-	MegaMan flipped
-	the switch!
+	MegaMan apertou o
+	botão!
 	"""
 	keyWait
 	clearMsg
@@ -564,7 +564,7 @@ script 81 mmbn3 {
 		x = 30
 		y = 236
 		z = 0
-	"The door opened!"
+	"A porta se abriu!"
 	keyWait
 	soundPlay
 		track = 231
@@ -598,14 +598,14 @@ script 86 mmbn3 {
 		jumpIfFalse = continue
 	msgOpen
 	"""
-	You found a switch
-	under the digivines!
+	Você achou um botão
+	sob as cybervinhas!
 	"""
 	keyWait
 	clearMsg
 	"""
-	MegaMan flipped
-	the switch!
+	MegaMan apertou o
+	botão!
 	"""
 	keyWait
 	clearMsg
@@ -613,7 +613,7 @@ script 86 mmbn3 {
 		x = 126
 		y = 236
 		z = 0
-	"The door opened!"
+	"A porta se abriu!"
 	keyWait
 	soundPlay
 		track = 231
@@ -676,14 +676,14 @@ script 99 mmbn3 {
 		jumpIfFalse = continue
 	msgOpen
 	"""
-	You found a switch
-	under the digivines!
+	Você achou um botão
+	sob as cybervinhas!
 	"""
 	keyWait
 	clearMsg
 	"""
-	MegaMan flipped
-	the switch!
+	MegaMan apertou o
+	botão!
 	"""
 	keyWait
 	clearMsg
@@ -691,7 +691,7 @@ script 99 mmbn3 {
 		x = 190
 		y = 142
 		z = 0
-	"A door opened!"
+	"Uma porta apareceu!"
 	keyWait
 	soundPlay
 		track = 231
@@ -724,7 +724,9 @@ script 108 mmbn3 {
 		jumpIfTrue = 3
 		jumpIfFalse = continue
 	msgOpen
-	"You found something…"
+	"""
+	Você encontrou algo...
+	"""
 	keyWait
 	clearMsg
 	playerAnimate
@@ -745,7 +747,7 @@ script 108 mmbn3 {
 	printCode
 		buffer = 0
 		code = F
-	"\"!!"
+	"\"!"
 	playerFinish
 	keyWait
 	end
@@ -769,7 +771,9 @@ script 113 mmbn3 {
 		jumpIfTrue = 3
 		jumpIfFalse = continue
 	msgOpen
-	"You found something…"
+	"""
+	Você encontrou algo...
+	"""
 	keyWait
 	clearMsg
 	playerAnimate
@@ -779,8 +783,8 @@ script 113 mmbn3 {
 		code = F
 		amount = 2
 	"""
-	MegaMan got two
-	chips for
+	MegaMan adquiriu
+	dois chips
 	"
 	"""
 	printChip
@@ -790,7 +794,7 @@ script 113 mmbn3 {
 	printCode
 		buffer = 0
 		code = F
-	"\"!!"
+	"\"!"
 	playerFinish
 	keyWait
 	end
@@ -804,7 +808,9 @@ script 115 mmbn3 {
 		jumpIfTrue = 3
 		jumpIfFalse = continue
 	msgOpen
-	"You found something…"
+	"""
+	Você encontrou algo...
+	"""
 	keyWait
 	clearMsg
 	playerAnimate
@@ -814,8 +820,8 @@ script 115 mmbn3 {
 		code = F
 		amount = 3
 	"""
-	MegaMan got three
-	chips for
+	MegaMan adquiriu
+	três chips
 	"
 	"""
 	printChip
@@ -825,7 +831,7 @@ script 115 mmbn3 {
 	printCode
 		buffer = 0
 		code = F
-	"\"!!"
+	"\"!"
 	playerFinish
 	keyWait
 	end
@@ -846,7 +852,9 @@ script 119 mmbn3 {
 		jumpIfTrue = 3
 		jumpIfFalse = continue
 	msgOpen
-	"You found something…"
+	"""
+	Você encontrou algo...
+	"""
 	keyWait
 	clearMsg
 	startGiveRandomZenny
@@ -871,7 +879,9 @@ script 122 mmbn3 {
 		jumpIfTrue = 3
 		jumpIfFalse = continue
 	msgOpen
-	"You found something…"
+	"""
+	Você encontrou algo...
+	"""
 	keyWait
 	clearMsg
 	startGiveRandomZenny
@@ -894,7 +904,9 @@ script 124 mmbn3 {
 		jumpIfTrue = 3
 		jumpIfFalse = continue
 	msgOpen
-	"You found something…"
+	"""
+	Você encontrou algo...
+	"""
 	keyWait
 	clearMsg
 	playerAnimate
@@ -904,8 +916,8 @@ script 124 mmbn3 {
 		code = F
 		amount = 2
 	"""
-	MegaMan got two
-	chips for
+	MegaMan adquiriu
+	dois chips
 	"
 	"""
 	printChip
@@ -915,7 +927,7 @@ script 124 mmbn3 {
 	printCode
 		buffer = 0
 		code = F
-	"\"!!"
+	"\"!"
 	playerFinish
 	keyWait
 	end
@@ -930,7 +942,9 @@ script 126 mmbn3 {
 		jumpIfTrue = 3
 		jumpIfFalse = continue
 	msgOpen
-	"You found something…"
+	"""
+	Você encontrou algo...
+	"""
 	keyWait
 	clearMsg
 	startGiveRandomZenny
@@ -949,7 +963,9 @@ script 127 mmbn3 {
 		jumpIfTrue = 3
 		jumpIfFalse = continue
 	msgOpen
-	"You found something…"
+	"""
+	Você encontrou algo...
+	"""
 	keyWait
 	clearMsg
 	playerAnimate
@@ -959,8 +975,8 @@ script 127 mmbn3 {
 		code = F
 		amount = 2
 	"""
-	MegaMan got two
-	chips for
+	MegaMan adquiriu
+	dois chips
 	"
 	"""
 	printChip
@@ -970,7 +986,7 @@ script 127 mmbn3 {
 	printCode
 		buffer = 0
 		code = F
-	"\"!!"
+	"\"!"
 	playerFinish
 	keyWait
 	end
@@ -987,7 +1003,9 @@ script 130 mmbn3 {
 		jumpIfTrue = 3
 		jumpIfFalse = continue
 	msgOpen
-	"You found something…"
+	"""
+	Você encontrou algo...
+	"""
 	keyWait
 	clearMsg
 	playerAnimate
@@ -997,8 +1015,8 @@ script 130 mmbn3 {
 		code = F
 		amount = 3
 	"""
-	MegaMan got three
-	chips for
+	MegaMan adquiriu
+	três chips
 	"
 	"""
 	printChip
@@ -1008,7 +1026,7 @@ script 130 mmbn3 {
 	printCode
 		buffer = 0
 		code = F
-	"\"!!"
+	"\"!"
 	playerFinish
 	keyWait
 	end

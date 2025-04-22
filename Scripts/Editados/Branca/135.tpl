@@ -14,24 +14,26 @@ script 1 mmbn3 {
 	mugshotShow
 		mugshot = MrProg
 	msgOpen
-	"Welcome! The\n"
+	"""
+	Bem-vindo!
+	Os 
+	"""
 	printEnemyName
 		buffer = 0
 		enemy = 73
 	"""
-	 viruses
-	are growing well!
+	 estão
+	crescendo com saúde!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Please allow me to
-	redistribute food
-	for the viruses!
+	Permita-me redistribuir a
+	comida dos viruses!
 	"""
 	keyWait
 	clearMsg
-	"Redistribute now?\n"
+	"Redistribuir?\n"
 	option
 		left = 1
 		right = 1
@@ -39,7 +41,7 @@ script 1 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"Sim "
 	option
 		left = 0
 		right = 0
@@ -47,7 +49,7 @@ script 1 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No"
+	"Não"
 	select
 		default = 0
 		BSeparate = false
@@ -65,22 +67,21 @@ script 2 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	There are no viruses
-	in this room yet.
+	Ainda não há nenhum
+	vírus neste quarto.
 	"""
 	keyWait
 	clearMsg
 	"""
-	There are some
-	benign viruses
-	around out there.
+	Existem vírus por aí
+	que são benignos.
 	"""
 	keyWait
 	clearMsg
 	"""
-	So if you find one,
-	please bring it
-	here.
+	Então, se achar um,
+	por favor, traga-o
+	aqui.
 	"""
 	keyWait
 	end
@@ -107,23 +108,23 @@ script 3 mmbn3 {
 		jumpIfFalse = continue
 	flagSet
 		flag = 2509
-	"Congratulations!"
+	"Meus parabéns!"
 	keyWait
 	clearMsg
-	"Thanks to you,the\n"
+	"Graças a você, os\n"
 	printEnemyName
 		buffer = 0
 		enemy = 73
 	"""
-	 have
-	fully grown!
+	 cresceram
+	por completo!
 	"""
 	keyWait
 	clearMsg
 	"""
-	No more BugFrags are
-	needed here. You can
-	use them elsewhere.
+	Não precisa mais de
+	FragBugs aqui. Pode
+	usá-los em outro.
 	"""
 	keyWait
 	clearMsg
@@ -136,47 +137,47 @@ script 3 mmbn3 {
 	"."
 	waitSkip
 		frames = 20
-	"""
-	Eh?
-	The 
-	"""
+	"Hm? Os "
 	printEnemyName
 		buffer = 0
 		enemy = 73
-	"\nhave a message."
-	keyWait
-	clearMsg
 	"""
-	Mmm hmmm…
-	Ah,I see…
+	 têm
+	uma mensagem para
+	você.
 	"""
 	keyWait
 	clearMsg
-	"The "
+	"""
+	Mmm hmmm...
+	Ah, entendo...
+	"""
+	keyWait
+	clearMsg
+	"Os "
 	printEnemyName
 		buffer = 0
 		enemy = 73
-	"\nhave a boss."
+	"\ntêm um chefe."
 	keyWait
 	clearMsg
 	"""
-	And they want to
-	introduce him to
-	you.
-	"""
-	keyWait
-	clearMsg
-	"""
-	They say he's a
-	prisoner in the
-	"Evil Castle"!
+	E eles querem
+	apresentar você a ele.
 	"""
 	keyWait
 	clearMsg
 	"""
-	You would do well to
-	become his friend!
-	Go on,you can do it!
+	Estão dizendo que ele é
+	prisoneiro de um
+	"Castelo do Mal"!
+	"""
+	keyWait
+	clearMsg
+	"""
+	Seria uma boa ideia
+	virar amigo dele!
+	Vai, você consegue!
 	"""
 	keyWait
 	end
@@ -219,15 +220,15 @@ script 14 mmbn3 {
 script 20 mmbn3 {
 	msgOpen
 	"""
-	They're knocking on
-	their food box
+	Eles estão batendo na
+	caixa de comida.
 	"""
 	keyWait
 	clearMsg
 	"""
-	It's almost as if
-	they're demanding
-	more food
+	É quase como se
+	estivessem exigindo
+	mais comida.
 	"""
 	keyWait
 	end
@@ -235,9 +236,9 @@ script 20 mmbn3 {
 script 21 mmbn3 {
 	msgOpen
 	"""
-	A spiritless stare
-	reveals nothing of
-	their thoughts
+	Um olhar sem vida não
+	revela nada dos
+	pensamentos deles.
 	"""
 	keyWait
 	end
@@ -245,9 +246,9 @@ script 21 mmbn3 {
 script 22 mmbn3 {
 	msgOpen
 	"""
-	A grinding noise can
-	be heard…
-	But from where?
+	Ouve-se o som de algo
+	sendo moído...
+	Mas de onde?
 	"""
 	keyWait
 	end
@@ -255,46 +256,50 @@ script 22 mmbn3 {
 script 23 mmbn3 {
 	msgOpen
 	"""
-	They make restless
-	fidgeting little
-	movements
+	Eles fazem pequenos
+	movimentos agitados
+	com os dedos.
 	"""
 	keyWait
 	clearMsg
 	"""
-	But they stop when
-	MegaMan draws close
+	Mas param quando
+	MegaMan se aproxima.
 	"""
 	keyWait
 	end
 }
 script 24 mmbn3 {
 	msgOpen
-	"The "
+	"Os "
 	printEnemyName
 		buffer = 0
 		enemy = 73
-	"\nare deathly still"
+	"""
+	
+	estão morbidamente
+	parados.
+	"""
 	keyWait
 	clearMsg
 	"""
-	But when MegaMan
-	draws close,their
-	eyes glow a dim red
+	Mas quando MegaMan
+	se aproxima, os olhos
+	deles se avermelham.
 	"""
 	keyWait
 	end
 }
 script 25 mmbn3 {
 	msgOpen
-	"These "
+	"Estes "
 	printEnemyName
 		buffer = 0
 		enemy = 74
 	"""
 	
-	viruses seem scarier
-	than the others
+	dão mais medo que os
+	outros.
 	"""
 	keyWait
 	end
@@ -307,8 +312,8 @@ script 221 mmbn3 {
 		buffer = 0
 		enemy = 69
 	"""
-	 food box.
-	Feed them?
+	.
+	Alimentar?
 	
 	"""
 	option
@@ -318,7 +323,7 @@ script 221 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"Sim "
 	option
 		left = 0
 		right = 0
@@ -326,7 +331,7 @@ script 221 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No"
+	"Não"
 	select
 		default = 0
 		BSeparate = false
@@ -347,8 +352,8 @@ script 222 mmbn3 {
 		buffer = 0
 		enemy = 70
 	"""
-	 food box.
-	Feed them?
+	.
+	Alimentar?
 	
 	"""
 	option
@@ -358,7 +363,7 @@ script 222 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"Sim "
 	option
 		left = 0
 		right = 0
@@ -366,7 +371,7 @@ script 222 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No"
+	"Não"
 	select
 		default = 0
 		BSeparate = false
@@ -387,8 +392,8 @@ script 223 mmbn3 {
 		buffer = 0
 		enemy = 71
 	"""
-	 food box.
-	Feed them?
+	.
+	Alimentar?
 	
 	"""
 	option
@@ -398,7 +403,7 @@ script 223 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"Sim "
 	option
 		left = 0
 		right = 0
@@ -406,7 +411,7 @@ script 223 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No"
+	"Não"
 	select
 		default = 0
 		BSeparate = false
@@ -427,8 +432,8 @@ script 224 mmbn3 {
 		buffer = 0
 		enemy = 72
 	"""
-	 food box.
-	Feed them?
+	.
+	Alimentar?
 	
 	"""
 	option
@@ -438,7 +443,7 @@ script 224 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"Sim "
 	option
 		left = 0
 		right = 0
@@ -446,7 +451,7 @@ script 224 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No"
+	"Não"
 	select
 		default = 0
 		BSeparate = false
@@ -467,8 +472,8 @@ script 225 mmbn3 {
 		buffer = 0
 		enemy = 73
 	"""
-	 food box.
-	Feed them?
+	.
+	Alimentar?
 	
 	"""
 	option
@@ -478,7 +483,7 @@ script 225 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"Sim "
 	option
 		left = 0
 		right = 0
@@ -486,7 +491,7 @@ script 225 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No"
+	"Não"
 	select
 		default = 0
 		BSeparate = false
@@ -507,8 +512,8 @@ script 226 mmbn3 {
 		buffer = 0
 		enemy = 74
 	"""
-	 food box.
-	Feed them?
+	.
+	Alimentar?
 	
 	"""
 	option
@@ -518,7 +523,7 @@ script 226 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"Sim "
 	option
 		left = 0
 		right = 0
@@ -526,7 +531,7 @@ script 226 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No"
+	"Não"
 	select
 		default = 0
 		BSeparate = false

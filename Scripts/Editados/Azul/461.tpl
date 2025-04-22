@@ -740,29 +740,29 @@ script 16 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	3 chemical plants in
-	DenCity were covered
-	in vines last night,
+	3 usinas químicas de
+	DenCity foram infesta-
+	das por vinhas ontem,
 	"""
 	keyWait
 	clearMsg
 	"""
-	completely shutting
-	down all functions.
+	o que desativou suas
+	operações.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Still no word on how
-	the plants could
-	have grown so fast,
+	Ainda não se sabe como
+	elas cresceram tão
+	rápido,
 	"""
 	keyWait
 	clearMsg
 	"""
-	but it is thought
-	that chemical waste
-	could be the cause.
+	mas parece ser efeito
+	de contato com resíduos
+	químicos.
 	"""
 	keyWait
 	waitHold
@@ -781,9 +781,8 @@ script 17 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	We've gotta
-	talk. Come to the
-	park.
+	Precisamos conversar.
+	Venha até o parque.
 	"""
 	keyWait
 	waitHold
@@ -802,9 +801,9 @@ script 18 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	Thanks for the
-	other day,Lan! Come
-	drop by again,OK?
+	Obrigado pelo outro dia,
+	Lan! Venha me visitar
+	de novo, OK?
 	"""
 	keyWait
 	waitHold
@@ -823,16 +822,15 @@ script 19 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	Mamoru's condition
-	has taken a sudden
-	turn for the worse.
+	A condição do Mamoru
+	piorou de repente.
 	"""
 	keyWait
 	clearMsg
 	"""
-	We will perform an
-	emergency operation
-	today.
+	Realizaremos a 
+	operação de emergência
+	hoje.
 	"""
 	keyWait
 	waitHold
@@ -851,16 +849,16 @@ script 20 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	Now the WWW is
-	terrorizing the
-	Beach area! Hurry!
+	Agora a WWW está
+	atacando a Área Angra!
+	Apresse-se!
 	"""
 	keyWait
 	clearMsg
 	"""
-	All I can do now is
-	direct you,but I'm
-	rooting for you!
+	Agora eu só posso te
+	direcionar, mas torço
+	por vocês!
 	"""
 	keyWait
 	waitHold
@@ -879,26 +877,25 @@ script 21 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	Now the WWW has
-	entered SciLab 1!
+	Agora a WWW entrou em
+	SciLab 1!
 	"""
 	keyWait
 	clearMsg
 	"""
-	The Officials are
-	having a hard time.
-	My former WWW
+	Os Oficiais estão tendo
+	muita dificuldade.
 	"""
 	keyWait
 	clearMsg
 	"""
-	instinct tells me
-	they must be up to
-	something.
+	Meus instintos de
+	ex-WWW dizem que eles
+	estão tramando algo.
 	"""
 	keyWait
 	clearMsg
-	"Hurry over here!"
+	"Vão logo pra lá!"
 	keyWait
 	waitHold
 }
@@ -916,9 +913,9 @@ script 22 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	Come to ACDC Square
-	immediately. I'm in
-	front of the BBS.
+	Venha ao ACDC Plaza
+	agora. Aguardo em
+	frente aos Fóruns.
 	"""
 	keyWait
 	waitHold
@@ -937,23 +934,23 @@ script 23 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	A fire has just
-	occured at SciLab.
-	At present the fire
+	Houve um incêndio no
+	SciLab. Por ora, o fogo
+	ainda não se espalhou
 	"""
 	keyWait
 	clearMsg
 	"""
-	is localized,but
-	the internal temper-
-	ature is 160 degrees
+	muito, mas a temperatura
+	interna está em 160
+	graus Celsius,
 	"""
 	keyWait
 	clearMsg
 	"""
-	and rising. Ten
-	scientists have been
-	hospitalized.
+	e segue aumentando.
+	Dez cientistas já
+	foram hospitalizados.
 	"""
 	keyWait
 	waitHold
@@ -972,23 +969,22 @@ script 24 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	A giant fire has
-	swept through the
-	Internet,causing
+	Um enorme incêndio se
+	alastrou pela Rede.
 	"""
 	keyWait
 	clearMsg
 	"""
-	extreme damage. It
-	continues to burn
-	with no end in
+	As chamas continuam a
+	queimar, sem dar sinais
+	de parar.
 	"""
 	keyWait
 	clearMsg
 	"""
-	sight. General use
-	Navis should jack
-	out immediately.
+	Navis civis devem se
+	desconectar
+	imediatamente.
 	"""
 	keyWait
 	waitHold
@@ -1007,15 +1003,15 @@ script 25 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	Lan! Help! Roll is
-	in trouble in Zoo
-	Comp 2!
+	Lan! Socorro! A Roll
+	tá "tretada" no CPU
+	do Zoológico 2!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Get over here now,
-	kiddo!
+	Vem aqui logo e não
+	enrola, moleque!
 	"""
 	keyWait
 	waitHold
@@ -1034,15 +1030,15 @@ script 26 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	I forgot to tell
-	ya where Rank #9 is.
-	You'll find him…
+	Esqueci de dizer onde
+	está o ranque #9.
+	Ele o aguarda...
 	"""
 	keyWait
 	clearMsg
 	"""
-	'where science
-	gives life'.
+	"onde a ciência
+	nutre vida."
 	"""
 	keyWait
 	waitHold
@@ -1061,16 +1057,15 @@ script 27 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	Looks like an under-
-	ranked Navi has
-	posted on the ACDC
+	Alguém de baixo ranque
+	postou no Fórum do
+	ACDC Plaza.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Square BBS. It may
-	be a trap,so
-	be careful!
+	Pode ser uma armadilha,
+	então, toma cuidado!
 	"""
 	keyWait
 	clearMsg
@@ -1100,9 +1095,9 @@ script 28 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	Development of the
-	"Virus Breeder" has
-	finished.Come soon!
+	O desenvolvimento do
+	Doma-Vírus foi
+	concluído. Vem aí!!
 	"""
 	keyWait
 	waitHold
@@ -1121,55 +1116,53 @@ script 29 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	A meeting concerning
-	the WWW will be held
-	at SciLab today.
+	Uma reunião acerca da
+	WWW será realizada no
+	SciLab, hoje.
 	"""
 	keyWait
 	clearMsg
 	"""
-	We planned to meet
-	only with Offical
-	Battlers,but
+	Planejávamos reunir
+	somente os
+	NetLutadores Oficiais,
 	"""
 	keyWait
 	clearMsg
 	"""
-	we need all of the
-	talented Battlers
-	we can find.
+	mas precisamos de todo
+	NetLutador habilidoso
+	disponível.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Please meet ProtoMan
-	at the Internet
-	SciLab Square,
+	Por favor, fale com o
+	ProtoMan no SciLab
+	Plaza, na Rede,
 	"""
 	keyWait
 	clearMsg
 	"""
-	and receive a
+	e ele lhe dará um
 	"
 	"""
 	printItem
 		buffer = 0
 		item = 35
+	"\"."
+	keyWait
+	clearMsg
 	"""
-	"
-	from him.
+	Através dele, você
+	poderá usar a
+	Metrolinha.
 	"""
 	keyWait
 	clearMsg
 	"""
-	You can use that to
-	take the Metroline.
-	"""
-	keyWait
-	clearMsg
-	"""
-	We will be waiting
-	for you.
+	Estaremos esperando
+	por você.
 	"""
 	keyWait
 	waitHold
@@ -1188,42 +1181,43 @@ script 30 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	Lan,you are heading
-	for the toughest
-	battle you've known.
+	Lan, você está indo
+	para a batalha mais
+	difícil da sua vida.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I can't stress how
-	powerful Alpha is…
+	Eu nem consigo
+	expressar o quanto o
+	Alpha é forte...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Install this program
-	into MegaMan.
+	Instale este programa
+	no MegaMan.
 	"""
 	keyWait
 	clearMsg
 	"""
-	This will let you
-	find Alpha where he
-	hides in Cyberworld.
+	Com ele, vocês poderão
+	achar o esconderijo do
+	Alpha na Rede.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'm sorry that this
-	is all I can do.
-	Please forgive me.
+	Sinto muito por só poder
+	fazer isso. Me desculpem,
+	de verdade.
 	"""
 	keyWait
 	clearMsg
 	"""
-	The fate of the
-	world is in your
-	hands,my sons.
+	O destino do mundo está
+	nas suas mãos de novo,
+	meus filhos.
 	"""
 	keyWait
 	clearMsg
@@ -1238,14 +1232,14 @@ script 30 mmbn3 {
 		color = 2
 		amount = 1
 	"""
-	Lan adquiriu um
-	programa do CustNavi:
+	Recebeu um programa
+	do CustNavi:
 	"
 	"""
 	printNaviCustProgram
 		buffer = 0
 		program = 22
-	"\"!!"
+	"\"!"
 	keyWait
 	waitHold
 }
@@ -1266,16 +1260,14 @@ script 31 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Eu fiz um atalho da
-	minha página pro ACDC
-	Plaza!
+	Fiz um atalho da minha
+	página pro ACDC Plaza!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Agora, cê pode ir da
-	minha página direto
-	pro ACDC Plaza!
+	Agora cê pode ir dela
+	direto pro Plaza!
 	"""
 	keyWait
 	clearMsg
@@ -1286,8 +1278,7 @@ script 31 mmbn3 {
 	flagSet
 		flag = 19
 	"""
-	Acabei de abrir o
-	portal!
+	Acabei de abrir o portal!
 	"""
 	keyWait
 	waitHold
@@ -1312,9 +1303,9 @@ script 32 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Eu acabei de fazer um
-	atalho da minha página
-	pro Yoka Plaza!
+	Acabei de fazer um
+	atalho da minha
+	página pro Yoka Plaza!
 	"""
 	keyWait
 	clearMsg
@@ -1352,23 +1343,23 @@ script 33 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	Não acredito que o
-	Dex fez um atralho
-	pro ACDC Plaza!
+	Não acredito que o Dex
+	fez um atalho pro ACDC
+	Plaza!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Eu me recuso a ficar
-	pra trás! Então, fiz um
-	atalho pro SciLab Plaza.
+	Não vou ficar pra trás!
+	Eu fiz um atalho pro
+	SciLab Plaza.
 	"""
 	keyWait
 	clearMsg
 	"""
 	Tá na minha página.
 	Pode usar quando
-	quiser, sem custo!
+	quiser, zero custo!
 	"""
 	keyWait
 	clearMsg
@@ -1406,23 +1397,23 @@ script 34 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	This is Tamako from
-	the gift shop at
-	the Ura Inn!
+	Aqui é a Tamako, da
+	loja de presentes da
+	Pousada Unda!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I made a shortcut to
-	Beach Square as a
-	promo for my shop!
+	Criei um atalho pro
+	Angra Plaza pra
+	promover a loja!
 	"""
 	keyWait
 	clearMsg
 	"""
-	The shortcut is on
-	my homepage! Hope
-	you enjoy it!
+	Ele fica na minha
+	página! Espero que
+	aproveite ele muito!
 	"""
 	keyWait
 	clearMsg
@@ -1433,9 +1424,9 @@ script 34 mmbn3 {
 	flagSet
 		flag = 17
 	"""
-	The gate is just
-	within my homepage
-	from the Internet!
+	Pra acessar, é só
+	entrar na minha
+	página pela Rede!
 	"""
 	keyWait
 	waitHold
@@ -1811,29 +1802,23 @@ script 42 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	The Bug Style will
-	simultaneously both
-	power up your Navi,
+	O Estilo Bug energiza
+	seu Navi. Porém, também
+	causa bugs nele.
 	"""
 	keyWait
 	clearMsg
 	"""
-	and introduce
-	bugs into it.
+	Nem eu sei que tipo
+	de programa você
+	ganhará ao subir de
 	"""
 	keyWait
 	clearMsg
 	"""
-	Even I don't know
-	what kind of program
-	you will get from
-	"""
-	keyWait
-	clearMsg
-	"""
-	leveling up with
-	this style. Little
-	is known about it!
+	nível nesse estilo.
+	Pouco se sabe sobre
+	ele!
 	"""
 	keyWait
 	waitHold

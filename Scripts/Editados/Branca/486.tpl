@@ -194,7 +194,7 @@ script 3 mmbn3 {
 	clearMsg
 	"""
 	Por favor, mais cuidado!
-	Mas, tá,  
+	Mas, tá, 
 	"""
 	printEnemyName
 		buffer = 0
@@ -695,9 +695,8 @@ script 12 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	expert que nunca
-	erra, promessa de
-	homem!
+	expert que nunca erra,
+	promessa de homem!
 	"""
 	keyWait
 	waitHold
@@ -716,23 +715,23 @@ script 13 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	Hi there! I
-	went to see the N1
-	Grand Prix the other
+	Oi! Eu fui assistir ao
+	Grande Prêmio N1 outro
+	dia.
 	"""
 	keyWait
 	clearMsg
 	"""
-	day. It was amazing!
-	It's too bad the
-	finals were
+	Foi fenomenal!
+	Pena que as finais
+	foram canceladas,
 	"""
 	keyWait
 	clearMsg
 	"""
-	cancelled,but seeing
-	MegaMan in action
-	against 
+	mas ver o MegaMan
+	lutando contra o
+	
 	"""
 	printEnemyName
 		buffer = 0
@@ -740,23 +739,23 @@ script 13 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	in the semis was
-	worth the 1800
-	Zennys alone!
+	nas semifinais fez
+	valer os 1800 Zennys
+	inteirinhos!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Oh yeah,that Net
-	Battler called Q was
-	gross! Did you see
+	Mas aquele tal de Q
+	era nojento! Sério,
+	viram a fantasia dele?
 	"""
 	keyWait
 	clearMsg
 	"""
-	his outfit? I want a
-	600 Zenny refund for
-	having to see that!
+	Exijo um estorno de
+	600 Zennys por ser
+	sujeito àquilo!
 	"""
 	keyWait
 	waitHold
@@ -775,42 +774,36 @@ script 14 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	That's a little
-	harsh,Poteno.
+	Eu achei que valeu
+	ainda mais do que
+	tivemos que pagar.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I thought it was
-	worth even more than
-	we all paid.
+	Em particular, amei as
+	lutas das Pastas Extras
+	na Ilha.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I especially enjoyed
-	the Extra Folder
-	match on Hades Isle.
+	Talvez fosse legal
+	organizarmos regras
+	parecidas
 	"""
 	keyWait
 	clearMsg
 	"""
-	It would be fun if
-	we could make up
+	pra lutar só com
+	Pastas Extras, só
+	aqui, entre nós.
 	"""
 	keyWait
 	clearMsg
 	"""
-	rules and fight with
-	Extra Folders like
-	that as well.
-	"""
-	keyWait
-	clearMsg
-	"""
-	Guess we should all
-	follow a dress code
-	when we fight you!
+	Seria tipo um código
+	de vestimenta!
 	"""
 	keyWait
 	waitHold
@@ -829,51 +822,51 @@ script 15 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	Hey All! Koetsu here
-	back now from taking
-	part in the N1 Grand
+	Fala! Koetsu na área
+	de volta após ir no
+	Grande Prêmio!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Prix! Oh man,that
-	was just too much!
-	When I made it to
+	Dizer que foi intenso
+	é pouco! Chegando nas
+	quartas,
 	"""
 	keyWait
 	clearMsg
 	"""
-	the top 8,I thought
-	I needed to watch
-	out for Yoshio,but I
+	eu pensei que tinha que
+	tomar cuidado com o
+	Yoshio,
 	"""
 	keyWait
 	clearMsg
 	"""
-	didn't know that
-	bandana kid was so
-	good! It just goes
+	mas nunca imaginei
+	que o da bandana
+	seria tão bom!
 	"""
 	keyWait
 	clearMsg
 	"""
-	to show that a good
-	relationship with
-	your Navi's more
+	Serviu pra mostrar que
+	uma boa relação com
+	seu Navi
 	"""
 	keyWait
 	clearMsg
 	"""
-	important than
-	customization and
-	folders. That,and
+	é ainda mais importante
+	que customizações e
+	pastas.
 	"""
 	keyWait
 	clearMsg
 	"""
-	the need for a
-	rival! Those two
-	are unstoppable!
+	Isso, e ter um rival!
+	Aqueles dois são
+	imbatíveis!
 	"""
 	keyWait
 	waitHold
@@ -892,39 +885,37 @@ script 16 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	Your friendly
-	moderator Cartan
-	here! That N1 was
+	Cartan, seu moderador
+	amigo da vizinhança,
+	falando!
 	"""
 	keyWait
 	clearMsg
 	"""
-	something,huh? I
-	have a question. The
-	other day a friend
+	O N1 foi demais!
+	Mas uma dúvida: outro
+	dia, um amigo meu
 	"""
 	keyWait
 	clearMsg
-	"of mine used a\n"
+	"usou um chip Navi,\n"
 	printEnemyName
 		buffer = 0
 		enemy = 208
 	"""
-	 Navi
-	chip. Can you change
+	. Dá pra
+	mudar onde ele aparece?
 	"""
 	keyWait
 	clearMsg
 	"""
-	the place where he
-	appears? I saw my
+	Vi o meu amigo fazer
+	isso,
 	"""
 	keyWait
 	clearMsg
 	"""
-	friend do it,but I
-	couldn't figure out
-	how.
+	mas não entendi como.
 	"""
 	keyWait
 	waitHold
@@ -943,44 +934,45 @@ script 17 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	Heya there! My name
-	is Tamako!
+	Oi, gente! Eu sou a
+	Tamako! Meu Navi é o
 	
 	"""
 	printEnemyName
 		buffer = 0
 		enemy = 208
-	" is my"
+	"!"
 	keyWait
 	clearMsg
 	"""
-	Navi! I gave him
-	to my best friend,so
-	you must be a friend
-	"""
-	keyWait
-	clearMsg
-	"""
-	of a friend,Cartan!
-	Nice to meet you!
-	Actually,you can
+	Eu dei o chip dele pro
+	meu melhor amigo, então
+	você deve ser amigo
 	"""
 	keyWait
 	clearMsg
 	"""
-	change his position
-	when he appears by
-	moving
+	desse amigo, Cartan!
+	Prazer!
 	"""
 	keyWait
 	clearMsg
-	"the Control Pad"
+	"""
+	E pra mudar a posição
+	em que ele aparece,
+	"""
 	keyWait
 	clearMsg
 	"""
-	while holding
-	down A. That way the
-	enemy can't escape!
+	é só usar os botões
+	direcionais enquanto
+	segura "A".
+	"""
+	keyWait
+	clearMsg
+	"""
+	Assim, o inimigo não terá
+	como escapar!
 	"""
 	keyWait
 	waitHold
@@ -999,30 +991,30 @@ script 18 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	Thank you,Tamako!
-	May I ask you just
-	one more question?
+	Valeu, Tamako!
+	Ei, posso fazer só mais
+	uma pergunta?
 	"""
 	keyWait
 	clearMsg
-	"Can "
+	"O "
 	printEnemyName
 		buffer = 0
 		enemy = 208
 	"""
-	 hurt
-	guarding enemies
-	with his punch?
+	 acerta
+	inimigos com escudo
+	com o soco dele?
 	"""
 	keyWait
 	clearMsg
-	"I saw him defeat\n"
+	"Vi ele deletar um\n"
 	printEnemyName
 		buffer = 0
 		enemy = 21
 	"""
-	 even
-	with his mouth shut.
+	, mesmo
+	com a boca fechada.
 	"""
 	keyWait
 	waitHold
@@ -1041,51 +1033,50 @@ script 19 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	Hello,my name's
-	Hassy. I'll answer
-	Cartan's question
+	Oi, eu sou o Hassy. 
+	Eu respondo a pergunta
+	do Cartan à Tamako.
 	"""
 	keyWait
 	clearMsg
-	"""
-	for Tamako. Some
-	Navis,such as
-	
-	"""
+	"Alguns Navis, como o\n"
 	printEnemyName
 		buffer = 0
 		enemy = 208
-	",can"
+	","
 	keyWait
 	clearMsg
 	"""
-	carry BattleChips
-	that can break
-	enemy guards.
+	podem usar chips
+	capazes de perfurar
+	as defesas do alvo.
 	"""
 	keyWait
 	clearMsg
 	printChip
 		buffer = 0
 		chip = 64
-	" and "
+	" e "
 	printChip
 		buffer = 0
 		chip = 24
-	"\nfrom "
+	"""
+	,
+	do 
+	"""
 	printEnemyName
 		buffer = 0
 		enemy = 21
 	"""
-	 are
-	two examples.
+	,
+	são 2 exemplos.
 	"""
 	keyWait
 	clearMsg
 	"""
-	There are plenty
-	more,so keep your
-	eyes peeled!
+	E tem muitos mais além
+	desses, então, olho
+	aberto!
 	"""
 	keyWait
 	waitHold
@@ -1104,21 +1095,21 @@ script 20 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	I hear something bad
-	went down at SciLab.
-	You know how there
+	Ouvi dizer que rolou
+	alguma treta lá no
+	SciLab.
 	"""
 	keyWait
 	clearMsg
 	"""
-	are lots of scary
-	Fire viruses like
+	Sabe os vários vírus
+	fortes de Fogo, como
 	
 	"""
 	printEnemyName
 		buffer = 0
 		enemy = 33
-	" and "
+	" e "
 	printEnemyName
 		buffer = 0
 		enemy = 143
@@ -1126,47 +1117,46 @@ script 20 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Those buggers can
-	walk on lava and
-	not break a sweat!
+	Os malditos conseguem
+	andar sobre lava sem
+	dor nem nada!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I wonder if Fire
-	Navis can stroll
-	across lava like
+	Será que Navis de Fogo
+	também podem fazer
+	isso?
 	"""
 	keyWait
 	clearMsg
 	"""
-	that? If so,chips
-	like 
+	Se forem, chips tipo
+	o 
 	"""
 	printChip
 		buffer = 0
 		chip = 179
 	"""
-	 can
-	come in handy!
+	 podem ser
+	úteis pra caramba!
 	"""
 	keyWait
 	clearMsg
-	"I have a "
+	"Eu tenho um "
 	printNaviCustProgram
 		buffer = 0
 		program = 6
 	"""
 	,
-	program,but I can't
-	use it because it's
+	mas não consigo usar.
+	A cor não bate.
 	"""
 	keyWait
 	clearMsg
 	"""
-	the wrong color.
-	Does anyone know its
-	ModCode?
+	Alguém aí sabe o
+	CódigoMod dele?
 	"""
 	keyWait
 	waitHold
@@ -1184,13 +1174,15 @@ script 21 mmbn3 {
 		top = 100
 	msgOpenInvisible
 		unused = 12
-	"What's a ModCode?"
+	"""
+	CódigoMod?
+	Que é isso?
+	"""
 	keyWait
 	clearMsg
 	"""
-	Does it have to do
-	with the Navi
-	Customizer?
+	Tem algo a ver com o
+	Customizador de Navis?
 	"""
 	keyWait
 	waitHold
@@ -1209,49 +1201,45 @@ script 22 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	A ModCode
-	bypasses the error
-	that occurs when you
+	CódigosMod cortonam
+	os erros que ocorrem
+	quando inserimos
 	"""
 	keyWait
 	clearMsg
 	"""
-	insert a program
-	with an incompatible
-	color. But you need
+	programas de cores
+	incompatíveis. Mas é
+	preciso comprar uma
 	"""
 	keyWait
 	clearMsg
 	"""
-	to buy a ModTool.
-	If you have one,
-	just press the
+	FerramentaMod pra
+	usar. Se tiver uma,
+	é só apertar "Select"
 	"""
 	keyWait
 	clearMsg
 	"""
-	Select Button when
-	the error occurs,and
-	enter the Code.
+	quando o erro ocorre
+	e digitar o número.
 	"""
 	keyWait
 	clearMsg
-	"""
-	I saw the ModCode
-	for 
-	"""
+	"Eu vi o CódigoMod do\n"
 	printNaviCustProgram
 		buffer = 0
 		program = 6
 	"""
-	 on
-	the SciLab Battle
+	 lá no Fórum
+	de Luta do SciLab.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Board. You should
-	try looking there.
+	Tenta dar uma conferida
+	lá.
 	"""
 	keyWait
 	waitHold
@@ -1270,23 +1258,22 @@ script 23 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	Looks like everyone
-	is talking about
-	ModCodes!
+	Vejo que tá todo mundo
+	falando dos CódigosMod!
 	"""
 	keyWait
 	clearMsg
 	"""
-	The Code for 
-	Error # E1 is:
+	O Código do Erro #E1
+	é:
 	"P[ModTools2]I[ModTools3]MSJL".
 	"""
 	keyWait
 	clearMsg
 	"""
-	I don't know which
-	program it's for,
-	though. Any clues?
+	Mas não sei de que
+	programa ele é.
+	Alguém arrisca?
 	"""
 	keyWait
 	waitHold
@@ -1305,9 +1292,9 @@ script 24 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	I think Error # E1
-	refers to the
-	ModCode for
+	Acho que o Erro #E1
+	se refere ao Código
+	da
 	"""
 	keyWait
 	clearMsg
@@ -1315,9 +1302,9 @@ script 24 mmbn3 {
 		buffer = 0
 		program = 12
 	"""
-	. It lets
-	you insert an extra
-	MegaChip!
+	. Com ela,
+	dá pra botar um Mega-
+	Chip extra na pasta!
 	"""
 	keyWait
 	waitHold
@@ -1336,48 +1323,47 @@ script 25 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	Wow. So there are
-	things like ModCodes
-	out there,huh?
+	Caramba. Então,
+	existem mesmo coisas
+	tipo CódigosMod...
 	"""
 	keyWait
 	clearMsg
 	"""
-	I never knew that!
-	I have to try one
-	out. Can some kind
+	Eu não sabia disso!
+	Preciso experimentar
+	um deles.
 	"""
 	keyWait
 	clearMsg
 	"""
-	soul tell me the
-	codes for my
-	incompatible
+	Alguém pode fazer a
+	gentileza de dar os
+	códigos compatíveis com
 	"""
 	keyWait
 	clearMsg
 	"""
-	programs? Now what
-	were they? I need to
-	start writing them
+	meus programas?
+	Er, quais eram mesmo?
+	Preciso começar a
 	"""
 	keyWait
 	clearMsg
 	"""
-	down! The
-	incompatible
-	programs are…
+	anotar! Os programas
+	incompetíveis são...
 	"""
 	keyWait
 	clearMsg
 	printNaviCustProgram
 		buffer = 0
 		program = 16
-	","
+	", "
 	printNaviCustProgram
 		buffer = 0
 		program = 8
-	"\nand "
+	"\ne "
 	printNaviCustProgram
 		buffer = 0
 		program = 48
@@ -1402,43 +1388,46 @@ script 26 mmbn3 {
 		buffer = 0
 		program = 16
 	"""
-	 is Error #
-	F3. The code is
+	 é o Erro # F3.
+	O código é
 	"ITA[ModTools2]CRWQ".
 	"""
+	keyWait
+	clearMsg
 	keyWait
 	clearMsg
 	printNaviCustProgram
 		buffer = 0
 		program = 8
 	"""
-	 is Error #
-	B5. The code is
-	"BM[ModTools2]KWIRA" I think.
+	é o Erro # B5.
+	O código é
+	"BM[ModTools2]KWIRA".
 	"""
 	keyWait
 	clearMsg
-	"I don't know about\n"
+	"Já o "
 	printNaviCustProgram
 		buffer = 0
 		program = 48
 	"""
-	.
-	Where'd you get such
+	, não sei.
+	Onde raios cê arranjou
+	esse chip raro?
 	"""
 	keyWait
 	clearMsg
 	"""
-	a rare chip? If you
-	want more ModCodes,
-	head to SciLab
+	Se quiserem mais
+	CódigosMod, confiram
+	o SciLab Plaza.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Square. They've been
-	analyzing them since
-	NaviCusts came out.
+	Eles vêm analisando
+	eles desde que os
+	CustNavis saíram.
 	"""
 	keyWait
 	waitHold
@@ -1457,23 +1446,23 @@ script 27 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	Thanks for the help,
-	Nukin! Now I can
-	build up my Navi!
+	Valeu, Nukin! Agora
+	posso potencializar
+	o meu Navi!
 	"""
 	keyWait
 	clearMsg
-	"I got my\n"
+	"Eu arranjei meu\n"
 	printNaviCustProgram
 		buffer = 0
 		program = 48
-	"\nfrom a friend who"
+	"\nde um amigo"
 	keyWait
 	clearMsg
 	"""
-	frequents the Under-
-	net. It's scary,but
-	has many rare chips!
+	que anda na Undernet.
+	Dá medo, mas tem altos
+	chips raros lá!
 	"""
 	keyWait
 	waitHold

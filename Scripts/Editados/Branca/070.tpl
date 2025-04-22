@@ -832,7 +832,7 @@ script 101 mmbn3 {
 	"""
 	keyWait
 	clearMsg
-	"Desde já,agradeço!"
+	"Desde já, agradeço!"
 	keyWait
 	end
 }
@@ -1701,7 +1701,7 @@ script 191 mmbn3 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Obrigado,rapaz!
+	Obrigado, rapaz!
 	Me ajudou demais!
 	"""
 	keyWait

@@ -5,8 +5,9 @@ script 0 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	3 weeds…At the very
-	back…Very back…
+	3 ervas-daninha...
+	No fundo...
+	Bem no fundo...
 	"""
 	keyWait
 	end
@@ -16,16 +17,15 @@ script 10 mmbn3 {
 		mugshot = NormalNaviGreen
 	msgOpen
 	"""
-	Another weird guy
-	coming in from the
-	Beach area…
+	Mais um esquisitão vindo
+	vindo da área Angra...
 	"""
 	keyWait
 	clearMsg
 	"""
-	This hospital
-	should improve
-	its security!
+	Esse hospital precisa
+	renovar essa
+	segurança, urgente!
 	"""
 	keyWait
 	end
@@ -43,22 +43,22 @@ script 21 mmbn3 {
 	mugshotShow
 		mugshot = CloakedNavi
 	msgOpen
-	"Do your best!"
+	"Lute com tudo!"
 	keyWait
 	end
 }
 script 220 mmbn3 {
 	msgOpen
 	"""
-	A control panel for
-	the growth device
+	Um painel de controle do
+	aparelho de crescimento.
 	"""
 	keyWait
 	clearMsg
 	"""
-	The growth of the
-	Árvore da Vida is
-	controlled here
+	O crescimento da 
+	Árvore da Vida é
+	controlado daqui.
 	"""
 	keyWait
 	end
@@ -66,16 +66,16 @@ script 220 mmbn3 {
 script 221 mmbn3 {
 	msgOpen
 	"""
-	A digiplant created
-	when the growth
-	system lost control
+	Cyberplanta criada com
+	a pane do sistema de
+	crescimento.
 	"""
 	keyWait
 	clearMsg
 	"""
-	It looks like it can
-	be burned away using
-	strong flame
+	Parece que pode ser
+	queimada com o uso
+	de chamas intensas.
 	"""
 	keyWait
 	end
@@ -83,9 +83,9 @@ script 221 mmbn3 {
 script 222 mmbn3 {
 	msgOpen
 	"""
-	To open the door,
-	press this area's
-	emergency button.
+	Para abrir a porta,
+	aperte o botão de
+	emergência da área.
 	"""
 	keyWait
 	end

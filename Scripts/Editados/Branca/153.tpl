@@ -10,22 +10,22 @@ script 1 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	♪Money,money…
-	Money money money
-	MO-NEY!♪
+	Dinheiro, dinheiro...
+	Dindin, verdinhas...
+	GRA-NA!♪
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'm counting
-	NetCash!
+	Eu estou contando
+	NetMoedas!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Now,there should be
-	another 100 Zennys
-	around somewhere…
+	Hm, era pra ter mais
+	100 Zennys aqui em
+	algum lugar...
 	"""
 	keyWait
 	end
@@ -34,14 +34,14 @@ script 2 mmbn3 {
 	mugshotShow
 		mugshot = PurpleNavi
 	msgOpen
-	"♪Hmmm,hmm♪"
+	"♪Hmmm, hmm♪"
 	keyWait
 	clearMsg
 	mugshotHide
 	"""
-	What the? This Navi
-	is standing on top
-	of 100 Zennys!
+	Ué? Esse Navi tá
+	escondendo 100 Zennys
+	sob um de seus pés!
 	"""
 	keyWait
 	end

@@ -24,29 +24,29 @@ script 0 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	So you wanna get
-	ranked? You realize
-	what that entails?
+	Então cê quer entrar
+	no ranque? Entende
+	as repercussões disso?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Well,if you think
-	you're ready…
+	Bom, se cê acha que tá
+	pronto pro rolê...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Go stand in front of
-	the stone statue in
-	the Under Square.
+	É só ficar na frente
+	da estátua de pedra
+	do UnderPlaza.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Just don't blame me
-	for what happens to
-	you next!
+	Só não vai me culpar
+	pelo que vai acontecer
+	contigo!
 	"""
 	keyWait
 	end
@@ -55,7 +55,7 @@ script 1 mmbn3 {
 	mugshotShow
 		mugshot = HeelNavi
 	msgOpen
-	"Just do your best…"
+	"Vai com tudo..."
 	keyWait
 	end
 }
@@ -64,9 +64,9 @@ script 2 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	This ain't no place
-	for guys from the
-	surface. Go home.
+	Aqui não é lugar pra
+	otário da superfície, não.
+	Se manda.
 	"""
 	keyWait
 	end
@@ -95,7 +95,7 @@ script 5 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"         Não"
+	"Não"
 	select
 		default = 0
 		BSeparate = false
@@ -117,8 +117,8 @@ script 6 mmbn3 {
 		mugshot = NormalNaviGreen
 	msgOpen
 	"""
-	Aw,come on! Are you
-	sure?
+	Ah, vai!
+	Certeza que não quer?
 	"""
 	keyWait
 	end
@@ -127,32 +127,29 @@ script 10 mmbn3 {
 	mugshotShow
 		mugshot = MrProg
 	msgOpen
+	"Este é o UnderPlaza."
+	keyWait
+	clearMsg
 	"""
-	This is the
-	Under Square.
+	Um lugar feito para
+	bandid...
+	"""
+	keyWait
+	clearMsg
+	"Ops! Digo..."
+	keyWait
+	clearMsg
+	"""
+	Um lugar feito para
+	NAVIS BONZINHOS
+	curtirem!
 	"""
 	keyWait
 	clearMsg
 	"""
-	A place for bad
-	guys to…
-	"""
-	keyWait
-	clearMsg
-	"Whoops! I mean…"
-	keyWait
-	clearMsg
-	"""
-	A great place for
-	very,very GOOD Navis
-	to hang out!
-	"""
-	keyWait
-	clearMsg
-	"""
-	If I say "bad guys"
-	I'll get in trouble!
-	I didn't say that!
+	Se eu disser "bandido",
+	não vai me sair barato!
+	Eu não falei aquilo!
 	"""
 	keyWait
 	end
@@ -186,9 +183,9 @@ script 11 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	What're you starin'
-	at!? Get outta here,
-	surface scum!
+	Tá olhando o quê?!
+	Cai fora, lixo da
+	superfície!
 	"""
 	keyWait
 	end
@@ -198,16 +195,16 @@ script 12 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	Woah…! For such a
-	young Navi,you sure
-	look brutal…
+	Caraca...! Pra um Navi
+	novinho, cê parece mó
+	brutal...
 	"""
 	keyWait
 	clearMsg
 	"""
-	You'll be a big
-	cheese someday,
-	I bet…
+	Cê ainda vai virar um
+	poderoso chefão algum
+	dia, aposto...
 	"""
 	keyWait
 	end
@@ -241,21 +238,21 @@ script 13 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	The place up ahead
-	is sacred to us…
+	O local à frente é
+	sagrado para nós...
 	"""
 	keyWait
 	clearMsg
 	"""
-	If a surface guy
-	like you tried
-	something in there…
+	Se alguém da superfície
+	como você aprontasse
+	lá...
 	"""
 	keyWait
 	clearMsg
 	"""
-	It'd be all over.
-	…Get the picture?
+	Seria o fim da linha.
+	Pegou a indireta?
 	"""
 	keyWait
 	end
@@ -265,23 +262,23 @@ script 14 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	Even bad guys have a
-	code! Our code is
-	the ranking!
+	Até bandidos têm um
+	código próprio!
+	E o nosso é o ranque!
 	"""
 	keyWait
 	clearMsg
 	"""
-	It's our version of
-	"survival of the
-	fittest"…
+	É a nossa versão da
+	"sobrevivência dos
+	mais aptos"...
 	"""
 	keyWait
 	clearMsg
 	"""
-	If you wanna live in
-	the Undernet,better
-	learn the rules!
+	Se quer viver na
+	Undernet, melhor
+	aprender as regras!
 	"""
 	keyWait
 	end
@@ -315,9 +312,9 @@ script 15 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	…Man,you sure stink!
-	Surface guys always
-	smell so nasty…
+	... Nossa, cê fede!
+	Que nem todos de vocês
+	da superfície...
 	"""
 	keyWait
 	end
@@ -327,22 +324,22 @@ script 16 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	Did you check the
-	Under BBS?
+	Cê já colou lá no
+	UnderFórum?
 	"""
 	keyWait
 	clearMsg
 	"""
-	It ain't like
-	the BBSes on the
-	surface! It's fun!
+	Não é um fórum besta
+	da superfície!
+	Esse é porreta!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Anyway,you came down
-	here,so you might as
-	well check it out!
+	Enfim, se cê já veio aqui,
+	custa nada dar uma
+	olhada lá!
 	"""
 	keyWait
 	end
@@ -375,13 +372,13 @@ script 20 mmbn3 {
 	mugshotShow
 		mugshot = HeelNavi
 	msgOpen
-	"Are you an Official?"
+	"Tu é Oficial?"
 	keyWait
 	clearMsg
 	"""
-	If you are,you're a
-	dead Navi. Just a
-	friendly warning…
+	Se for, tu tá morto,
+	mano.
+	Quem avisa, amigo é...
 	"""
 	keyWait
 	end
@@ -391,21 +388,20 @@ script 21 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	You wanna know where
-	the evil fall…?
+	Cê quer saber onde o
+	mal cai...?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Hah! I have some
-	idea.
+	Ha! Eu consigo imaginar.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Of course,since I'm
-	a good guy,I don't
-	really care! Ha ha!
+	Claro que, como eu sou
+	do bem, não me preocupo
+	com isso! He he!
 	"""
 	keyWait
 	end
@@ -438,7 +434,7 @@ script 22 mmbn3 {
 	mugshotShow
 		mugshot = HeelNavi
 	msgOpen
-	"Scram."
+	"Vaza."
 	keyWait
 	end
 }
@@ -447,15 +443,16 @@ script 23 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	If you get stuck,try
-	talking to the Navis
-	in this square.
+	Se cê empacar, tenta
+	falar com os Navis aqui,
+	do Plaza.
 	"""
 	keyWait
 	clearMsg
 	"""
-	We may be bad guys,
-	but we aren't mean!
+	Nós "pode ser" mau,
+	mas mas nós não "é"
+	desalmado"!
 	"""
 	keyWait
 	end
@@ -489,9 +486,9 @@ script 24 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	This isn't a place
-	for brats like you
-	to wander around!
+	Aqui não é lugar pra
+	pivete que nem tu
+	ficar zanzando!
 	"""
 	keyWait
 	end
@@ -501,9 +498,9 @@ script 25 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	Where evil falls?
-	Jail,maybe? No.
-	Hmm,I wonder…
+	"Onde o mal cai"?
+	Sei lá... xilindró?
+	Hmm... mó charada...
 	"""
 	keyWait
 	end
@@ -517,9 +514,9 @@ script 30 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	Who're you? I don't
-	talk to surface-
-	siders!
+	Quem que é você?
+	Eu não falo com otários
+	da superfície!
 	"""
 	keyWait
 	end
@@ -528,15 +525,21 @@ script 31 mmbn3 {
 	mugshotShow
 		mugshot = HeelNavi
 	msgOpen
-	"Science gives life?"
+	"""
+	Ciência nutrindo vida?
+	"""
 	keyWait
 	clearMsg
-	"………"
+	mugshotAnimate
+		animation = 0
+	"......."
+	mugshotAnimate
+		animation = 1
 	keyWait
 	clearMsg
 	"""
-	Duhh…What's that
-	supposed to mean?
+	Gããã... O que será que
+	"issaí" quer dizer?
 	"""
 	keyWait
 	end
@@ -550,9 +553,9 @@ script 32 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	I got nothing to say
-	to nobody from the
-	surface.
+	Eu "num" tenho nada pra
+	falar com um babaca da
+	superfície.
 	"""
 	keyWait
 	end
@@ -562,14 +565,15 @@ script 33 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	Where science gives
-	life?
+	"Onde a ciência nutre
+	vida"?
 	"""
 	keyWait
 	clearMsg
 	"""
-	I guess that means
-	living a long time.
+	Acho que isso quer 
+	dizer, tipo, viver pra
+	caramba...
 	"""
 	keyWait
 	end
@@ -582,7 +586,7 @@ script 34 mmbn3 {
 	mugshotShow
 		mugshot = HeelNavi
 	msgOpen
-	"…Whatever!"
+	"... Quero nem saber!"
 	keyWait
 	end
 }
@@ -591,16 +595,16 @@ script 35 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	Science bringing
-	life reminds me of
-	that place…
+	Ciência nutrindo vida me
+	faz lembrar daquele
+	lugar lá...
 	"""
 	keyWait
 	clearMsg
 	"""
-	You know,where the
-	incident happened?
-	I forgot the name.
+	Sabe, o daquele
+	incidente. Qual era o
+	nome do bagulho?
 	"""
 	keyWait
 	end
@@ -614,8 +618,8 @@ script 40 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	You make me sick!
-	Get outta here!
+	Cê me dá nojo!
+	Se manda!
 	"""
 	keyWait
 	end
@@ -624,12 +628,12 @@ script 41 mmbn3 {
 	mugshotShow
 		mugshot = HeelNavi
 	msgOpen
-	"Rednu3…?"
+	"Rednu3...?"
 	keyWait
 	clearMsg
 	"""
-	What's that? Does it
-	taste good?
+	Quê que é isso?
+	O gosto é bom?
 	"""
 	keyWait
 	end
@@ -643,8 +647,8 @@ script 42 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	So you're still
-	poking around…?
+	Então, tu ainda tá
+	fuçando por aqui...?
 	"""
 	keyWait
 	end
@@ -654,15 +658,15 @@ script 43 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	Hm? I seem to
-	recall…
+	Hm? Eu tô lembrando de
+	um "negoço"...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Rednu3…? Hmmm…
-	That really sounds
-	familiar…
+	Rednu3...? Hmmm...
+	Isso soa familiar pra
+	cacilda...
 	"""
 	keyWait
 	end
@@ -676,8 +680,9 @@ script 44 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	Rednu3? What the?
-	You feelin' OK?
+	Rednu3? Que papo é
+	esse?
+	Ficou lelé da cuca?
 	"""
 	keyWait
 	end
@@ -687,23 +692,22 @@ script 45 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	Isn't "Undernet"
-	kind of a long word?
-	Kind of hard to say?
+	"Undernet" é uma 
+	palavra meio complicada
+	de falar, né?
 	"""
 	keyWait
 	clearMsg
 	"""
-	We sometimes drop
-	the "net" part and
-	just say "Under1" or
+	Às vezes tiramos o
+	"net" e falamos só
+	"Under1" ou "Under2".
 	"""
 	keyWait
 	clearMsg
 	"""
-	"Under2". If you
-	live here,you should
-	know this already…
+	Se cê mora aqui,
+	já devia saber disso...
 	"""
 	keyWait
 	end
@@ -717,9 +721,8 @@ script 50 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	What are you?
-	I can't stand blue
-	Navis!
+	Quem é tu?
+	Eu não suporto Navi azul!
 	"""
 	keyWait
 	end
@@ -729,16 +732,16 @@ script 51 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	"Head of learning"?
-	That's like,a
-	school,right?
+	"Líder do aprendizado"?
+	São os "professor" de
+	escola, né?
 	"""
 	keyWait
 	clearMsg
 	"""
-	See,I'm not a total
-	doofus! I know some
-	stuff!
+	Viu?
+	Eu não sou burro total!
+	Tenho meus momentos!
 	"""
 	keyWait
 	end
@@ -752,16 +755,16 @@ script 52 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	This place isn't
-	for a surfacer
-	like you!
+	Este "point" aqui não é
+	pra gente da superfície
+	como você!
 	"""
 	keyWait
 	clearMsg
 	"""
-	You've got your own
-	place to live!
-	So go there!
+	Cê tem teu próprio
+	"point" onde vive!
+	Vai logo pra lá!
 	"""
 	keyWait
 	end
@@ -771,13 +774,12 @@ script 53 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	What about "head"…?
-	Means some kinda
-	boss,right?
+	Hã? "Líder"? Isso é o
+	mesmo que "chefe", né?
 	"""
 	keyWait
 	clearMsg
-	"Duh,I dunno…"
+	"Gããã, sei lá..."
 	keyWait
 	end
 }
@@ -790,9 +792,9 @@ script 54 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	You're a spy,I can
-	tell! What are you
-	looking for? Huh!?
+	Cê é um espião, né?!
+	Tá procurando o que
+	aqui? Hein?!
 	"""
 	keyWait
 	end
@@ -802,16 +804,15 @@ script 55 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	I dunno about a head
-	of learning,but the
-	ranked guys are real
+	Não sei disso de líder de
+	aprendizado, mas o povo
+	do ranque é territorial!
 	"""
 	keyWait
 	clearMsg
 	"""
-	territorial. They
-	pick a place and
-	stay there!
+	Depois que escolhem
+	um lugar, não saem!
 	"""
 	keyWait
 	end
@@ -825,9 +826,9 @@ script 60 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	Don't talk to me!
-	People will think
-	we're buddies!
+	"Num" fala comigo!
+	Geral vai achar que
+	a gente é parça!
 	"""
 	keyWait
 	end
@@ -837,15 +838,15 @@ script 61 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	Huh! Wow! You're
-	already ranked #7!?
+	Hã?! Caramba!
+	Cê já tá no ranque #7?!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Keep going! Don't
-	stop now! You're on
-	a roll!
+	Continua, pô! Não para,
+	não para, não para, não!
+	Cê tá com tudo!
 	"""
 	keyWait
 	end
@@ -859,16 +860,16 @@ script 62 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	Don't get too high
-	and mighty just
-	'cause you're #7!
+	Não vai ficar todo
+	convencido só porque
+	tu é o #7 agora!
 	"""
 	keyWait
 	clearMsg
 	"""
-	There's LOTS of
-	Navis out there who
-	are stronger,chump!
+	Tem MUITO Navi aí que
+	é mais forte que isso,
+	mané!
 	"""
 	keyWait
 	end
@@ -878,22 +879,20 @@ script 63 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	Wow…
-	You're #7 already…
+	Mano... Tu já virou o #7...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Just watch it. Now
-	you're a target for
-	higher-ranked Navis.
+	Espera só. Agora tu é
+	alvo pros Navis de
+	ranque maior.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Like,especially,
-	the Navi who's
-	ranked #3…
+	Especialmente o Navi
+	do ranque #3...
 	"""
 	keyWait
 	end
@@ -907,9 +906,9 @@ script 64 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	Huh? Thought I
-	heard somethin'.
-	I guess not!
+	Hã? Achei que tinha
+	ouvido alguma coisa.
+	Acho que viajei...
 	"""
 	keyWait
 	end
@@ -919,15 +918,15 @@ script 65 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	You ever hear of
-	CopyMan? He's a real
-	nasty ranked Navi!
+	Já ouviu falar do
+	CopyMan? É um Navi
+	ranqueado muito "bad"!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Better look out for
-	him! He's trouble!
+	Olho aberto pra ele,
+	"rapá". Aquele ali é fria!
 	"""
 	keyWait
 	end
@@ -941,15 +940,15 @@ script 70 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	I don't like your
-	face! So confident.
-	So arrogant!
+	Eu não gosto da tua 
+	cara. Confiante.
+	Arrogante. Eurgh!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I don't like yer
-	attitude!
+	Essa tua atitude me
+	deixa fulo!
 	"""
 	keyWait
 	end
@@ -959,23 +958,22 @@ script 71 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	"Place of battle"?
-	Hm. Reminds me of
-	the N1!
+	"Local de batalha"?
+	Hm. Isso só me faz
+	lembrar do N1!
 	"""
 	keyWait
 	clearMsg
 	"""
-	There were plenty of
-	battles in the N1,
-	that's for sure.
+	Rolou muita luta no N1,
+	firmeza.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Come to think of it,
-	you resemble that
-	N1 Navi,MegaMan…!
+	Aí, pensando bem, cê
+	lembra um Navi dele,
+	aquele MegaMan...!
 	"""
 	keyWait
 	end
@@ -988,7 +986,7 @@ script 72 mmbn3 {
 	mugshotShow
 		mugshot = HeelNavi
 	msgOpen
-	"Just shut up."
+	"Só cala a boca."
 	keyWait
 	end
 }
@@ -997,9 +995,9 @@ script 73 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	Rank #2 already!?
-	You're sure tougher
-	than you look,Navi…
+	Ranque 2?! Já?!
+	É, acho que cê é mais
+	forte que parece...
 	"""
 	keyWait
 	end
@@ -1013,9 +1011,9 @@ script 74 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	I could swear I've
-	seen you somewhere
-	before. Hmmmm…
+	Eu posso jurar que já
+	te vi antes por aí.
+	Hmmmm...
 	"""
 	keyWait
 	end
@@ -1025,22 +1023,21 @@ script 75 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	You're real close to
-	rank #1…
+	Cê tá tão perto do
+	ranque #1...
 	"""
 	keyWait
 	clearMsg
 	"""
-	None of us have even
-	seen the guy who's
-	ranked #1!
+	Ninguém aqui nunca 
+	sequer VIU a pessoa
+	que é ranque #1!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I wonder what kind
-	of Navi he is,
-	anyway!
+	Fico mó curioso pra saber
+	que tipo de Navi é!
 	"""
 	keyWait
 	end
@@ -1054,8 +1051,8 @@ script 80 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	Don't get too cocky,
-	surface Navi!
+	Não fica convencido não,
+	Navi da superfície!
 	"""
 	keyWait
 	end
@@ -1065,16 +1062,15 @@ script 81 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	The Undernet's
-	server!? Of course
-	I've never seen it!
+	O servidor da Undernet?!
+	Claro que eu nunca vi!
 	"""
 	keyWait
 	clearMsg
 	"""
-	And if a surface-
-	side guy found it,
-	we'd be history!!!
+	E se um mané da
+	superfície achar...
+	a gente já era!!!
 	"""
 	keyWait
 	end
@@ -1087,7 +1083,11 @@ script 82 mmbn3 {
 	mugshotShow
 		mugshot = HeelNavi
 	msgOpen
-	"……"
+	mugshotAnimate
+		animation = 0
+	"......"
+	mugshotAnimate
+		animation = 1
 	keyWait
 	end
 }
@@ -1096,20 +1096,19 @@ script 83 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	The big open area
-	past this one…
+	Aquela área aberta
+	passando aqui...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Nobody's ever gone
-	there.
+	Ninguém nunca vai lá.
 	"""
 	keyWait
 	clearMsg
 	"""
-	What's over there,
-	you think?
+	O que será que tem lá?
+	Tu sabe?
 	"""
 	keyWait
 	end
@@ -1123,8 +1122,8 @@ script 84 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	Hey! Stay away from
-	me!
+	Ô! Nem chega PERTO,
+	garoto!
 	"""
 	keyWait
 	end
@@ -1134,16 +1133,16 @@ script 85 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	A boulder…?
-	Yeah,I think I saw
-	one somewhere.
+	Uma pedra...?
+	Acho  que vi uma, sim,
+	em algum lugar aí.
 	"""
 	keyWait
 	clearMsg
 	"""
-	When my operator
-	went to an inn
-	one time…
+	Quando o meu operador
+	foi numa pousada aí,
+	uma vez...
 	"""
 	keyWait
 	end
@@ -1157,9 +1156,9 @@ script 90 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	I don't have time to
-	deal with you! Go
-	on,get outta here!
+	Eu não tenho tempo pra
+	ti não, ô! Cai fora!
+	Some! EVAPORA!
 	"""
 	keyWait
 	end
@@ -1169,16 +1168,15 @@ script 91 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	Hey! The WWW took
-	over part of the
-	Undernet!
+	Aí! A WWW ocupou parte
+	da Undernet!
 	"""
 	keyWait
 	clearMsg
 	"""
-	How dare they! Can't
-	they do their racket
-	somewhere else!?
+	A ousadia! Eles não
+	podem "mafiar" em outro
+	lugar, não?!
 	"""
 	keyWait
 	end
@@ -1192,9 +1190,9 @@ script 92 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	Those WWW jerks…
-	What're they
-	thinking!?
+	Esses babacas da WWW...
+	O que é que eles têm na
+	cabeça?!
 	"""
 	keyWait
 	end
@@ -1204,9 +1202,9 @@ script 93 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	I hate Officials,
-	but those WWW guys
-	go too far…
+	Eu odeio Oficiais,
+	mas esse povo da WWW
+	vai longe demais...
 	"""
 	keyWait
 	end
@@ -1220,8 +1218,8 @@ script 94 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	Go home to mama,
-	boy!
+	Volta logo pra sua
+	mamãezinha, guri!
 	"""
 	keyWait
 	end
@@ -1231,15 +1229,16 @@ script 95 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	Those WWW freaks!
-	Who said they could
-	use our turf!?
+	Esquisitões da WWW!
+	Quem disse que podiam
+	usar nossa área?!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I don't want any
-	part of their mess!
+	Eu não quero participar
+	dessas tretas deles,
+	não!
 	"""
 	keyWait
 	end
@@ -1252,7 +1251,7 @@ script 100 mmbn3 {
 	mugshotShow
 		mugshot = HeelNavi
 	msgOpen
-	"…Hmph!"
+	"... Hmpf!"
 	keyWait
 	end
 }
@@ -1261,9 +1260,9 @@ script 101 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	Those WWW guys have
-	gone too far! Even
-	we have rules!
+	Esses doidos da WWW
+	exageraram!
+	Até nós "tem" regras!
 	"""
 	keyWait
 	end
@@ -1277,14 +1276,14 @@ script 102 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	This ain't no place
-	for you to be…
+	Aqui não é lugar pra ti,
+	não...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Go on,get outta
-	here!
+	Faz 180 graus e some,
+	garoto!
 	"""
 	keyWait
 	end
@@ -1294,23 +1293,23 @@ script 103 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	I don't think
-	they'll attack us
-	here just yet,but…
+	Não acho que eles vão
+	atacar a gente aqui
+	AGORA, mas...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Wily,the boss of the
-	WWW,hates the whole
-	net…
+	Wily, o chefão da WWW,
+	odeia a Rede como um
+	todo...
 	"""
 	keyWait
 	clearMsg
 	"""
-	There's no guarantee
-	he won't mess with
-	us,too.
+	Não tem garantia de que
+	ele não vai ferrar com a
+	gente, também.
 	"""
 	keyWait
 	end
@@ -1324,9 +1323,9 @@ script 104 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	You don't belong
-	here,so just shut
-	your mouth!
+	Cê não pertence aqui,
+	mano, então só cala a
+	boca! Shiu!
 	"""
 	keyWait
 	end
@@ -1336,16 +1335,15 @@ script 105 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	Bah! Who cares about
-	the WWW! Bunch of
-	crybabies!
+	Blé! Quem liga pra WWW?!
+	Bando de molengas!
 	"""
 	keyWait
 	clearMsg
 	"""
-	They try something,
-	we'll make 'em pay.
-	With interest!
+	Se vierem com gracinha,
+	a gente ferra com eles.
+	Com ferro quente!
 	"""
 	keyWait
 	end
@@ -1359,8 +1357,8 @@ script 180 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	Psst! Hey,dude!
-	Look at my wares?
+	Psst! Ei, cara!
+	Quer ver meu acervo? 
 	
 	"""
 	option
@@ -1402,7 +1400,7 @@ script 182 mmbn3 {
 	mugshotShow
 		mugshot = HeelNavi
 	msgOpen
-	"I'm all outta wares…"
+	"Tô sem nada..."
 	keyWait
 	end
 }
@@ -1486,40 +1484,43 @@ script 190 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	No!! NOOO!!!
-	I gambled away 7000
-	Zennys!
+	Não!! NÃÃÃÃO!!!
+	Eu perdi 7000 Zennys
+	no jogo de azar!
 	"""
 	keyWait
 	clearMsg
 	"""
-	All I have left is
-	this stupid old
-	book…
+	Agora, só o que eu
+	tenho é este livro
+	mofado idiota...
 	"""
 	keyWait
 	clearMsg
 	"""
-	…What? You wanna buy
-	the book!? Thanks!
+	... Quê?
+	Cê quer comprar o livro?!
+	Opa, valeu!
 	"""
 	keyWait
 	clearMsg
 	"""
-	So! Can you pay me
-	7000 Zennys for it?
+	E aí?! Pode ceder aí
+	7000 Zennys por ele?
 	"""
 	keyWait
 	clearMsg
 	"""
-	If you can,I'll be
-	happy to give you
-	this "
+	Se puder, dou este
+	"
 	"""
 	printItem
 		buffer = 0
 		item = 49
-	"\"!"
+	"""
+	" com o
+	maior prazer!
+	"""
 	keyWait
 	clearMsg
 	mugshotHide
@@ -1530,7 +1531,7 @@ script 190 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"OK "
+	"Tá "
 	option
 		left = 0
 		right = 0
@@ -1538,7 +1539,7 @@ script 190 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"No way"
+	"Não!"
 	select
 		default = 0
 		BSeparate = false
@@ -1560,8 +1561,8 @@ script 191 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	Hee hee hee!
-	Thanks,big guy!
+	He he he!
+	Valeu, campeão!
 	"""
 	keyWait
 	clearMsg
@@ -1598,30 +1599,29 @@ script 193 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	AW YEAH! Now I got
-	all that money I
-	lost back!
+	AÊ, CARAL...CA! Com
+	isso, recuperei toda a
+	grana que perdi!
 	"""
 	keyWait
 	clearMsg
 	"""
-	By the way,there are
-	3 old books. Sky,
-	Land,and Sea.
+	Ah, e, por sinal, são três
+	livros. Céu, Terra e Mar.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Remember this:
-	"Sky is above Land,
-	and Sea is lowest"!
+	Anote: "O Céu está 
+	sobre a Terra, e o
+	Mar é o mais baixo"!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Who knows? The old
-	man who used to own
-	this kept sayin' it.
+	"O que é isso"? Sei lá!
+	O velho ex-dono do livro
+	é que dizia isso.
 	"""
 	keyWait
 	end
@@ -1631,9 +1631,9 @@ script 194 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	Aw,man. I thought
-	I could score some
-	easy cash…
+	Ah, pôôô. Eu tava mó na
+	fé de descolar essa
+	grana fácil...
 	"""
 	keyWait
 	end
@@ -1643,15 +1643,15 @@ script 195 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	Hey,what are you
-	tryin' to pull here?
-	Where's the money!?
+	Ô, cê tá de sacanagem
+	com a minha cara?
+	Cadê a grana?!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Come back when you
-	get enough money!
+	Volta quando tiver dindim
+	o bastante!
 	"""
 	keyWait
 	end
@@ -1661,16 +1661,14 @@ script 196 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	Once you start
-	gambling,it's hard
-	to stop…
+	Quando cê começa a
+	apostar, é difícil parar...
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'm gonna put these
-	7000 Zennys to good
-	use!
+	Eu vou usar bem estes
+	7000 Zennys!
 	"""
 	keyWait
 	end
@@ -1680,9 +1678,9 @@ script 197 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	Hey,you got the
-	7000 Zennys? Wanna
-	buy my "
+	Trouxe os 7000 Zennys?
+	Vai comprar o meu
+	"
 	"""
 	printItem
 		buffer = 0
@@ -1698,7 +1696,7 @@ script 197 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yeah "
+	"Vou "
 	option
 		left = 0
 		right = 0
@@ -1706,7 +1704,7 @@ script 197 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Nope!"
+	"Não!"
 	select
 		default = 0
 		BSeparate = false
@@ -1724,7 +1722,7 @@ script 220 mmbn3 {
 }
 script 221 mmbn3 {
 	msgOpen
-	"It's the Under BBS"
+	"É o Under Fórum."
 	keyWait
 	startBBS
 		bbs = 6
@@ -1732,15 +1730,15 @@ script 221 mmbn3 {
 script 222 mmbn3 {
 	msgOpen
 	"""
-	It's huge,formidable
-	statue
+	Uma estátua enorme e
+	formidável.
 	"""
 	keyWait
 	clearMsg
 	"""
-	It feels as if the
-	statue might crush
-	you at any moment
+	Parece até que ela
+	poderá te esmagar a
+	qualquer momento.
 	"""
 	keyWait
 	end
@@ -1748,9 +1746,9 @@ script 222 mmbn3 {
 script 223 mmbn3 {
 	msgOpen
 	"""
-	The undying flames
-	emit light and an
-	overwhelming heat
+	As chamas infinitas
+	emitem luz e um calor
+	esmagador.
 	"""
 	keyWait
 	end
@@ -1774,23 +1772,23 @@ script 225 mmbn3 {
 script 226 mmbn3 {
 	msgOpen
 	"""
-	There's a gigantic
-	hole here,with words
-	carved into the rim:
+	Há um enorme buraco
+	aqui, com palavras
+	cravadas ao redor:
 	"""
 	keyWait
 	clearMsg
 	"""
-	"Hold the star ID,
-	and know 100 frag-
-	ments of power,
+	"Tenha o ID Estrela e
+	conheça 100 fragmentos
+	de força.
 	"""
 	keyWait
 	clearMsg
 	"""
-	and only then shall
-	you be admitted to
-	this sacred land"
+	Somente então será
+	aceito nesta terra
+	sagrada."
 	"""
 	keyWait
 	end

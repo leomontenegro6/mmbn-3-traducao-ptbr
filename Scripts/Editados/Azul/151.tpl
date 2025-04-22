@@ -5,9 +5,9 @@ script 0 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	Channel 2: "Math
-	for Junior High
-	School Students"
+	Canal 2: "Matemática
+	para Estudantes do
+	Fundamental II".
 	"""
 	keyWait
 	end
@@ -17,8 +17,8 @@ script 1 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	Channel 4: "Golden
-	Talk & Variety Show"
+	Canal 4:
+	"Isto é Ouro! Talk Show".
 	"""
 	keyWait
 	end
@@ -39,8 +39,8 @@ script 3 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	Channel 12:
-	"Sports World"
+	Canal 12: "Esporte
+	Extra-Particular".
 	"""
 	keyWait
 	end
@@ -50,9 +50,9 @@ script 4 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	Channel 36:
-	"Ameropa Chronicles:
-	A One-Week Vacation"
+	Canal 36:
+	"Crônicas Ameropanas:
+	Uma Semana de Férias".
 	"""
 	keyWait
 	end
@@ -66,8 +66,8 @@ script 180 mmbn3 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	I sell SubChips!
-	Wanna see 'em?
+	Eu vendo SubChips!
+	Interessado? 
 	
 	"""
 	option
@@ -77,7 +77,7 @@ script 180 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Yes "
+	"Sim "
 	option
 		left = 0
 		right = 0
@@ -85,7 +85,7 @@ script 180 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Not now"
+	"Depois"
 	select
 		default = 0
 		BSeparate = false
@@ -101,7 +101,7 @@ script 180 mmbn3 {
 }
 script 181 mmbn3 {
 	clearMsg
-	"Come again soon!"
+	"Volte sempre!"
 	keyWait
 	end
 }
@@ -110,9 +110,9 @@ script 182 mmbn3 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	I deal in SubChips,
-	but I'm all sold out
-	now. Sorry!
+	Eu vendo SubChips,
+	mas tô sem agora.
+	"Malz" aê!
 	"""
 	keyWait
 	end
@@ -130,33 +130,33 @@ script 190 mmbn3 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Ah! You came! You're
-	MegaMan,right?
+	Ah! Você veio!
+	MegaMan, certo?
 	"""
 	keyWait
 	clearMsg
 	"""
-	As my request said,
-	I'm an Official. But
-	I've been on break.
+	Como falei, sou um
+	Oficial. Mas fiquei de
+	licença por um tempo.
 	"""
 	keyWait
 	clearMsg
 	"""
-	To learn how to
-	battle again,I first
-	need to observe.
+	Para reaprender a
+	lutar, primeiro devo
+	observar, sabe?
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'm going to release
-	a real virus. Fight
-	hard,MegaMan!
+	Lançarei em você vírus
+	de verdade. Lute com
+	garra, MegaMan!
 	"""
 	keyWait
 	clearMsg
-	"Here we go!"
+	"Vamos lá!"
 	keyWait
 	flagSet
 		flag = 2675
@@ -171,16 +171,15 @@ script 191 mmbn3 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Wow! You fight well!
-	I think maybe I even
-	underestimated you!
+	Nossa! Você luta tão
+	bem! Aliás, acho até
+	que te subestimei!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Here's the reward
-	I promised you.
-	Take it.
+	Aqui, a recompensa
+	que prometi.
 	"""
 	keyWait
 	clearMsg
@@ -204,7 +203,7 @@ script 192 mmbn3 {
 	printNaviCustProgram
 		buffer = 0
 		program = 45
-	"\"!!"
+	"\"!"
 	playerFinish
 	playerReset
 	keyWait
@@ -212,15 +211,15 @@ script 192 mmbn3 {
 	mugshotShow
 		mugshot = OfficialNavi
 	"""
-	Take this,too. I got
-	it battling a crime
-	organization.
+	Leve isto aqui, também.
+	Eu adquiri em uma luta
+	contra criminosos.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'm sure you'll find
-	it useful!
+	Estou certo de que lhe
+	será útil!
 	"""
 	keyWait
 	clearMsg
@@ -250,8 +249,8 @@ script 193 mmbn3 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	I don't have time
-	to just sit around.
+	Eu não tenho tempo pra
+	ficar de bobeira.
 	"""
 	keyWait
 	end
@@ -261,9 +260,9 @@ script 194 mmbn3 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	That really helped!
-	As an Official,I've
-	got to stay strong.
+	Você ajudou muito! Como
+	Oficial, não posso me
+	deixar enferrujar.
 	"""
 	keyWait
 	end
