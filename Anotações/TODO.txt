@@ -1,4 +1,4 @@
 - Editar gráficos de "Winner" / "Loser" / "Draw", em batalhas por cabo link
-- Atualizar ano da tela-título para 2025
+- Editar nome da estação St.Beach" para "Est. Angra"
+- Editar nomes que aparecem antes dos turnos das batalhas, ou no final delas
 - Corrigir bug ao trocar chips via cabo link, onde a descrição dos chips tá aparecendo na esquerda ao invés da direita
-- Portar textos do mmbn3 da coletânea para a versão de GBA.
