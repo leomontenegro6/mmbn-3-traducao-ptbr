@@ -1,5 +1,4 @@
 - Editar gráficos de "Winner" / "Loser" / "Draw", em batalhas por cabo link
-- Editar gráfico de Game Over
 - Atualizar ano da tela-título para 2025
 - Corrigir bug ao trocar chips via cabo link, onde a descrição dos chips tá aparecendo na esquerda ao invés da direita
 - Portar textos do mmbn3 da coletânea para a versão de GBA.

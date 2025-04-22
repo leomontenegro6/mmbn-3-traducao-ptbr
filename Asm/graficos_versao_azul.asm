@@ -177,6 +177,9 @@
 .org 0x086B2ED2
     .stringn 0x41,0x90,0x42,0x90,0x43,0x90,0x44,0x90,0x46,0x90,0x47,0x90,0x48,0x90,0x49,0x90,0x4A,0x90
 
+; Editando tilemap do Game Over
+.org 0x087FA444
+    .incbin "Graficos/Editados/Game Over (tm).gba"
 ; Gráficos inseridos no final da rom, em sua maioria comprimidos.
 ; Catalogando ponteiros dos gráficos.
 .org 0x08022614
@@ -189,6 +192,8 @@
     .dw sala_aula_cleaners1
 .org 0x080250D8
     .dw cidade_acdc_higsbys
+.org 0x080472F0
+    .dw game_over
 
 .org 0x080251B0 + 0x30
     .dw yoka_barracas_td
@@ -225,6 +230,10 @@ yoka_barracas_tm:
 
 yoka_barracas_td:
     .incbin "Graficos/Recomprimidos/Yoka - Barracas (td).bin"
+    .align
+
+game_over:
+    .incbin "Graficos/Recomprimidos/Game Over.gba"
     .align
 
 .close

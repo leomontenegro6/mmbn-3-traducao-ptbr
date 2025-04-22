@@ -21,3 +21,8 @@ copy ".\Graficos\Editados\Nomes tela-titulo versao azul.gba" ".\Graficos\Recompr
 del ".\Graficos\Recomprimidos\Nomes tela-titulo versao branca.gba"
 copy ".\Graficos\Editados\Nomes tela-titulo versao branca.gba" ".\Graficos\Recomprimidos\"
 .\Ferramentas\lzss.exe -evn ".\Graficos\Recomprimidos\Nomes tela-titulo versao branca.gba"
+
+echo Game Over
+del ".\Graficos\Recomprimidos\Game Over.gba"
+copy ".\Graficos\Editados\Game Over.gba" ".\Graficos\Recomprimidos\"
+.\Ferramentas\lzss.exe -evn ".\Graficos\Recomprimidos\Game Over.gba"
