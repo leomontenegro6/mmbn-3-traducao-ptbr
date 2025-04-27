@@ -4,4 +4,6 @@
 
 :: Desempacotando gráfico do "Higsby's"
 unpacker.exe -ds -f "../../Mega Man Battle Network 3 - White Version (USA).gba" -p 250f0
-pause
+
+:: Desempacotando gráfico da estação metrolinha
+unpacker.exe -ds -f "../../Mega Man Battle Network 3 - White Version (USA).gba" -p 250fc

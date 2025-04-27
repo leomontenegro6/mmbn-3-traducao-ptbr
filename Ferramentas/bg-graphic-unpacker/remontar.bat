@@ -8,6 +8,9 @@
 ::copy ".\data\img-0250f0.bin" "..\..\Graficos\Recomprimidos\Cidade ACDC - Higsbys.gba"
 
 :: Remontando gráfico de "YOKO", e copiando ele para a pasta de gráficos recomprimidos
-unpacker.exe -is -p 251f8
-copy ".\data\img-0251f8.bin" "..\..\Graficos\Recomprimidos\Yoka - Barracas (td).bin"
-pause
+::unpacker.exe -is -p 251f8
+::copy ".\data\img-0251f8.bin" "..\..\Graficos\Recomprimidos\Yoka - Barracas (td).bin"
+
+:: Remontando gráfico da estação metrolinha, e copiando ele para a pasta de gráficos recomprimidos
+unpacker.exe -is -p 250fc
+copy ".\data\img-0250fc.bin" "..\..\Graficos\Recomprimidos\Estacao Metrolinha.gba"

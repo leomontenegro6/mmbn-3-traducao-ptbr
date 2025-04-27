@@ -193,6 +193,14 @@
     .dw sala_aula_cleaners1
 .org 0x080250f0
     .dw cidade_acdc_higsbys
+.org 0x080250fc
+    .dw estacao_metrolinha
+.org 0x080251B0
+    .dw estacao_metrolinha
+.org 0x080251ec
+    .dw estacao_metrolinha
+.org 0x08025264
+    .dw estacao_metrolinha
 .org 0x08047308
     .dw game_over
 
@@ -219,6 +227,10 @@ sala_aula_cleaners1:
 
 cidade_acdc_higsbys:
     .incbin "Graficos/Recomprimidos/Cidade ACDC - Higsbys.gba"
+    .align
+
+estacao_metrolinha:
+    .incbin "Graficos/Recomprimidos/Estacao Metrolinha.gba"
     .align
 
 yoka_barracas_tm:

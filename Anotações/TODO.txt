@@ -1,4 +1,20 @@
+- Gráficos de ACDC
+  - Loja do Higsby: Welcome, Sale, New (EDITADO ESBOÇO)
+- Gráficos de Yoka
+  - Dentro do zoológico, tem essa lixeira com "PUSH" = "EMPURRE"
+  - "URA Inn": "Pousada UNDA" (EDITADO ESBOÇO)
+  - Placa japonesa do lado da pousada: Águas da Beleza (EDITADO ESBOÇO)
+- Gráficos de Angra
+  - FuKuYa = Roupas
+  - Sale = Promoção
+  - STOP = PARE
+  - Shop = Lojinha
+  - ON AIR = NO AR
+  - Battle! = Batalhas! (EDITADO ESBOÇO)
+  - Operate = Em Operação
+- Gráficos do Scilab
+  - INFORMATION = INFORMAÇÃO
 - Editar gráficos de "Winner" / "Loser" / "Draw", em batalhas por cabo link
-- Editar nome da estação St.Beach" para "Est. Angra"
 - Editar nomes que aparecem antes dos turnos das batalhas, ou no final delas
 - Corrigir bug ao trocar chips via cabo link, onde a descrição dos chips tá aparecendo na esquerda ao invés da direita
+- Estender fonte VWF das descrições para a "Lista P.A."
