@@ -1,6 +1,4 @@
 :: Arquivo .bat que recomprime gráficos comprimidos, previamente dumpados.
-::
-:: Escrito por Solid One - Dezembro de 2023
 @echo off
 echo ==Recomprimindo graficos comprimidos==
 
@@ -26,3 +24,8 @@ echo Game Over
 del ".\Graficos\Recomprimidos\Game Over.gba"
 copy ".\Graficos\Editados\Game Over.gba" ".\Graficos\Recomprimidos\"
 .\Ferramentas\lzss.exe -evn ".\Graficos\Recomprimidos\Game Over.gba"
+
+echo Graficos de backgrounds
+cd ".\Ferramentas\bg-graphic-unpacker\"
+call remontar.bat
+cd "..\..\"

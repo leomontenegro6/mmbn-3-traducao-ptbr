@@ -2,6 +2,6 @@
 .dw 0x00000010
 .dw 0x00002a40
 .dw 0x00005470
-.incbin "../gfxEdit/data/img-0250fc-tm.bin"
+.incbin "../gfxEdit/data/img-0250e4-tm.bin"
 .align
 

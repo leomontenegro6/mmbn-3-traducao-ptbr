@@ -230,7 +230,7 @@ cidade_acdc_higsbys:
     .align
 
 estacao_metrolinha:
-    .incbin "Graficos/Recomprimidos/Estacao Metrolinha.gba"
+    .incbin "Graficos/Recomprimidos/Estacao Metrolinha versao branca.gba"
     .align
 
 yoka_barracas_tm:

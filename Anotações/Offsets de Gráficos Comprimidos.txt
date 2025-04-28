@@ -1,0 +1,19 @@
+Offsets de Gráficos Comprimidos:
+
+0x44EB58 = Placas estação metrô
+0x44FFCC = Snacks
+0x467378 = Loja do Higsby
+0x468044 = Loja do Higsby 2
+0x47C6AC = INFORMATION (SciLab)
+0x47E8DC = INFORMATION 2 (SciLab)
+0x48173C = Logout (Scilab)
+0x4918E8 = Águas da Beleza
+0x49500C = URA Inn
+0x4B9124 = STOP
+0x4BC06C = FuKuYa
+0x4C3AE4 = Shop
+0x4C62E8 = ON AIR
+0x4CD2EC = Battle
+0x4F7A44 = Operate
+0x7E5410 = OK YES NO WAIT
+0x7EFEEC = Job BS Battle Chat Under

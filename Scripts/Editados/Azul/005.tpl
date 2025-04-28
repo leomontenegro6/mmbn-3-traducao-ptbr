@@ -5,9 +5,9 @@ script 0 mmbn3 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Vinhas
-	atingem
-	alvos!
+	Ataca e paralisa
+	alvos com
+	vinhas!
 	"""
 	keyWait
 	msgCloseQuick
@@ -18,9 +18,8 @@ script 1 mmbn3 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Chamas
-	queimam
-	alvos!
+	Dispara chamas
+	nos alvos!
 	"""
 	keyWait
 	msgCloseQuick
@@ -31,9 +30,8 @@ script 2 mmbn3 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Chamas
-	queimam
-	alvos!
+	Dispara chamas
+	nos alvos!
 	"""
 	keyWait
 	msgCloseQuick
@@ -44,9 +42,8 @@ script 3 mmbn3 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Chamas
-	queimam
-	alvos!
+	Dispara chamas
+	nos alvos!
 	"""
 	keyWait
 	msgCloseQuick
@@ -57,9 +54,8 @@ script 4 mmbn3 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Chamas
-	queimam
-	alvos!
+	Dispara chamas
+	nos alvos!
 	"""
 	keyWait
 	msgCloseQuick
@@ -70,9 +66,8 @@ script 5 mmbn3 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Chamas
-	queimam
-	alvos!
+	Dispara chamas
+	nos alvos!
 	"""
 	keyWait
 	msgCloseQuick
@@ -84,8 +79,8 @@ script 6 mmbn3 {
 	msgOpenQuick
 	"""
 	3 brocas
-	atacam
-	inimigos
+	atacam e
+	destroem campo.
 	"""
 	keyWait
 	msgCloseQuick
@@ -97,8 +92,8 @@ script 7 mmbn3 {
 	msgOpenQuick
 	"""
 	3 brocas
-	atacam
-	inimigos
+	atacam e
+	destroem campo.
 	"""
 	keyWait
 	msgCloseQuick
@@ -110,8 +105,8 @@ script 8 mmbn3 {
 	msgOpenQuick
 	"""
 	3 brocas
-	atacam
-	inimigos
+	atacam e
+	destroem campo.
 	"""
 	keyWait
 	msgCloseQuick
@@ -123,8 +118,8 @@ script 9 mmbn3 {
 	msgOpenQuick
 	"""
 	3 brocas
-	atacam
-	inimigos
+	atacam e
+	destroem campo.
 	"""
 	keyWait
 	msgCloseQuick
@@ -136,8 +131,8 @@ script 10 mmbn3 {
 	msgOpenQuick
 	"""
 	3 brocas
-	atacam
-	inimigos
+	atacam e
+	destroem campo.
 	"""
 	keyWait
 	msgCloseQuick
@@ -148,9 +143,8 @@ script 11 mmbn3 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Punho
-	esmaga 1
-	quadro
+	Soco esmagador
+	em 1 quadro.
 	"""
 	keyWait
 	msgCloseQuick
@@ -161,9 +155,8 @@ script 12 mmbn3 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Punho
-	esmaga 1
-	quadro
+	Soco esmagador
+	em 1 quadro.
 	"""
 	keyWait
 	msgCloseQuick
@@ -174,9 +167,8 @@ script 13 mmbn3 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Punho
-	esmaga 1
-	quadro
+	Soco esmagador
+	em 1 quadro.
 	"""
 	keyWait
 	msgCloseQuick
@@ -187,9 +179,8 @@ script 14 mmbn3 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Punho
-	esmaga 1
-	quadro
+	Soco esmagador
+	em 1 quadro.
 	"""
 	keyWait
 	msgCloseQuick
@@ -200,9 +191,8 @@ script 15 mmbn3 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Punho
-	esmaga 1
-	quadro
+	Soco esmagador
+	em 1 quadro.
 	"""
 	keyWait
 	msgCloseQuick
@@ -213,9 +203,9 @@ script 16 mmbn3 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Gira e
-	esmaga
-	alvos
+	Ataques girató-
+	rios e de corte
+	em alvos.
 	"""
 	keyWait
 	msgCloseQuick
@@ -226,9 +216,9 @@ script 17 mmbn3 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Calor:
-	Fogo sai
-	de buraco
+	Atira fogo rumo
+	a buraco
+	aberto.
 	"""
 	keyWait
 	msgCloseQuick
@@ -239,9 +229,9 @@ script 18 mmbn3 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Água:
-	Sai água
-	de buraco
+	Dispara torre
+	de água de
+	buraco aberto.
 	"""
 	keyWait
 	msgCloseQuick
@@ -252,9 +242,9 @@ script 19 mmbn3 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Elét:
-	Pega ob-
-	jeto+área
+	Lança trovão em
+	objeto, ataca
+	área ao redor.
 	"""
 	keyWait
 	msgCloseQuick
@@ -265,9 +255,9 @@ script 20 mmbn3 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Mdra: Pe-
-	ga atq do
-	próx chip
+	Corte. Absorve
+	poder do chip
+	seguinte.
 	"""
 	keyWait
 	msgCloseQuick
@@ -278,9 +268,9 @@ script 21 mmbn3 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Sobe 3
-	quadros à
-	frente 4x
+	Explode em cruz
+	três quatros à
+	frente.
 	"""
 	keyWait
 	msgCloseQuick
@@ -291,9 +281,9 @@ script 22 mmbn3 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Sobe 3
-	quadros à
-	frente 4x
+	Explode em cruz
+	três quatros à
+	frente.
 	"""
 	keyWait
 	msgCloseQuick
@@ -304,9 +294,9 @@ script 23 mmbn3 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Sobe 3
-	quadros à
-	frente 4x
+	Explode em cruz
+	três quatros à
+	frente.
 	"""
 	keyWait
 	msgCloseQuick
@@ -317,9 +307,9 @@ script 24 mmbn3 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Sobe 3
-	quadros à
-	frente 4x
+	Explode em cruz
+	três quatros à
+	frente.
 	"""
 	keyWait
 	msgCloseQuick
@@ -330,9 +320,9 @@ script 25 mmbn3 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Sobe 3
-	quadros à
-	frente 4x
+	Explode em cruz
+	três quatros à
+	frente.
 	"""
 	keyWait
 	msgCloseQuick
@@ -343,9 +333,8 @@ script 26 mmbn3 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Aparece
-	da névoa
-	e ataca
+	Ataca todos os
+	alvos.
 	"""
 	keyWait
 	msgCloseQuick
@@ -356,9 +345,8 @@ script 27 mmbn3 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Aparece
-	da névoa
-	e ataca
+	Ataca todos os
+	alvos.
 	"""
 	keyWait
 	msgCloseQuick
@@ -369,9 +357,8 @@ script 28 mmbn3 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Aparece
-	da névoa
-	e ataca
+	Ataca todos os
+	alvos.
 	"""
 	keyWait
 	msgCloseQuick
@@ -382,9 +369,8 @@ script 29 mmbn3 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Aparece
-	da névoa
-	e ataca
+	Ataca todos os
+	alvos.
 	"""
 	keyWait
 	msgCloseQuick
@@ -395,9 +381,8 @@ script 30 mmbn3 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Aparece
-	da névoa
-	e ataca
+	Ataca todos os
+	alvos.
 	"""
 	keyWait
 	msgCloseQuick
@@ -408,9 +393,9 @@ script 31 mmbn3 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Alinha
-	pinos e
-	ataca!
+	Alinha pinos e
+	lança bola de
+	boliche reta!
 	"""
 	keyWait
 	msgCloseQuick
@@ -421,9 +406,9 @@ script 32 mmbn3 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Alinha
-	pinos e
-	ataca!
+	Alinha pinos e
+	lança bola de
+	boliche reta!
 	"""
 	keyWait
 	msgCloseQuick
@@ -434,9 +419,9 @@ script 33 mmbn3 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Alinha
-	pinos e
-	ataca!
+	Alinha pinos e
+	lança bola de
+	boliche reta!
 	"""
 	keyWait
 	msgCloseQuick
@@ -447,9 +432,9 @@ script 34 mmbn3 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Alinha
-	pinos e
-	ataca!
+	Alinha pinos e
+	lança bola de
+	boliche reta!
 	"""
 	keyWait
 	msgCloseQuick
@@ -460,9 +445,9 @@ script 35 mmbn3 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Alinha
-	pinos e
-	ataca!
+	Alinha pinos e
+	lança bola de
+	boliche reta!
 	"""
 	keyWait
 	msgCloseQuick
@@ -473,9 +458,9 @@ script 36 mmbn3 {
 		delay = 0
 	msgOpenQuick
 	"""
-	3 caver-
-	nas na á-
-	rea inimg
+	Cria 3 portais
+	nos alvos que
+	os atacam.
 	"""
 	keyWait
 	msgCloseQuick
@@ -486,9 +471,9 @@ script 37 mmbn3 {
 		delay = 0
 	msgOpenQuick
 	"""
-	3 caver-
-	nas na á-
-	rea inimg
+	Cria 3 portais
+	nos alvos que
+	os atacam.
 	"""
 	keyWait
 	msgCloseQuick
@@ -499,9 +484,9 @@ script 38 mmbn3 {
 		delay = 0
 	msgOpenQuick
 	"""
-	3 caver-
-	nas na á-
-	rea inimg
+	Cria 3 portais
+	nos alvos que
+	os atacam.
 	"""
 	keyWait
 	msgCloseQuick
@@ -512,9 +497,9 @@ script 39 mmbn3 {
 		delay = 0
 	msgOpenQuick
 	"""
-	3 caver-
-	nas na á-
-	rea inimg
+	Cria 3 portais
+	nos alvos que
+	os atacam.
 	"""
 	keyWait
 	msgCloseQuick
@@ -525,9 +510,9 @@ script 40 mmbn3 {
 		delay = 0
 	msgOpenQuick
 	"""
-	3 caver-
-	nas na á-
-	rea inimg
+	Cria 3 portais
+	nos alvos que
+	os atacam.
 	"""
 	keyWait
 	msgCloseQuick
@@ -538,9 +523,9 @@ script 41 mmbn3 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Ataques
-	múltiplos
-	de lança
+	Múltiplos golpes
+	de lança em
+	coluna.
 	"""
 	keyWait
 	msgCloseQuick
@@ -551,9 +536,9 @@ script 42 mmbn3 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Ataques
-	múltiplos
-	de lança
+	Múltiplos golpes
+	de lança em
+	coluna.
 	"""
 	keyWait
 	msgCloseQuick
@@ -564,9 +549,9 @@ script 43 mmbn3 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Ataques
-	múltiplos
-	de lança
+	Múltiplos golpes
+	de lança em
+	coluna.
 	"""
 	keyWait
 	msgCloseQuick
@@ -577,9 +562,9 @@ script 44 mmbn3 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Ataques
-	múltiplos
-	de lança
+	Múltiplos golpes
+	de lança em
+	coluna.
 	"""
 	keyWait
 	msgCloseQuick
@@ -590,9 +575,9 @@ script 45 mmbn3 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Ataques
-	múltiplos
-	de lança
+	Múltiplos golpes
+	de lança em
+	coluna.
 	"""
 	keyWait
 	msgCloseQuick
@@ -603,9 +588,9 @@ script 46 mmbn3 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Aperte A
-	para até
-	3 ataques
+	Aperte A para
+	atacar alvo,
+	até 3 vezes.
 	"""
 	keyWait
 	msgCloseQuick
@@ -616,9 +601,9 @@ script 47 mmbn3 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Restaura
-	chips e
-	pastas
+	Restaura todos
+	os seus chips e
+	pastas.
 	"""
 	keyWait
 	msgCloseQuick
@@ -629,9 +614,8 @@ script 48 mmbn3 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Reinvoca
-	último
-	Navi
+	Repete último
+	ChipNavi.
 	"""
 	keyWait
 	msgCloseQuick
@@ -642,9 +626,9 @@ script 49 mmbn3 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Ataque
-	elétrico
-	3estágios
+	Lança raios
+	múltiplos pelas
+	3 linhas.
 	"""
 	keyWait
 	msgCloseQuick
@@ -655,9 +639,9 @@ script 50 mmbn3 {
 		delay = 0
 	msgOpenQuick
 	"""
-	ChipTrvas
-	Explode a
-	3 qdos
+	ChipTrev: Lança
+	golpes múltiplos
+	nas 3 linhas.
 	"""
 	keyWait
 	msgCloseQuick
@@ -668,9 +652,9 @@ script 51 mmbn3 {
 		delay = 0
 	msgOpenQuick
 	"""
-	ChipTrvas
-	Atq
-	sagrado
+	ChipTrev: Atqs.
+	sagrados múlti-
+	plos em alvos.
 	"""
 	keyWait
 	msgCloseQuick
@@ -681,8 +665,8 @@ script 52 mmbn3 {
 		delay = 0
 	msgOpenQuick
 	"""
-	PVs caem
-	pela
+	Reduz PV seus
+	e dos alvos pela
 	metade!
 	"""
 	keyWait
@@ -694,9 +678,9 @@ script 53 mmbn3 {
 		delay = 0
 	msgOpenQuick
 	"""
-	ChipTrvas
-	Repele
-	atq<300
+	ChipTrev: Anula
+	ataques abaixo
+	de 300.
 	"""
 	keyWait
 	msgCloseQuick
@@ -707,9 +691,9 @@ script 54 mmbn3 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Lança
-	foguete
-	gigante
+	Dispara enorme
+	míssil explosivo
+	reto.
 	"""
 	keyWait
 	msgCloseQuick
@@ -720,8 +704,8 @@ script 55 mmbn3 {
 		delay = 0
 	msgOpenQuick
 	"""
-	ChipTrvas
-	Esmaga
+	ChipTrev: Ataca
+	coluna e destrói
 	quadros!
 	"""
 	keyWait
@@ -733,9 +717,8 @@ script 56 mmbn3 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Arma
-	secreta
-	de Bass
+	Arma secreta
+	do Bass.
 	"""
 	keyWait
 	msgCloseQuick
@@ -802,9 +785,8 @@ script 64 mmbn3 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Cannon
-	ilimitado
-	por 5 seg
+	Cannon ilimitado
+	por 5 segundos.
 	"""
 	keyWait
 	msgCloseQuick
@@ -816,8 +798,8 @@ script 65 mmbn3 {
 	msgOpenQuick
 	"""
 	HiCannon
-	ilimitado
-	por 5 seg
+	ilimitado por 5
+	segundos.
 	"""
 	keyWait
 	msgCloseQuick
@@ -828,9 +810,9 @@ script 66 mmbn3 {
 		delay = 0
 	msgOpenQuick
 	"""
-	MegaCanon
-	ilimitado
-	por 5 seg
+	MegaCannon
+	ilimitado por 5
+	segundos.
 	"""
 	keyWait
 	msgCloseQuick
@@ -842,8 +824,8 @@ script 67 mmbn3 {
 	msgOpenQuick
 	"""
 	GutPunch
-	ilimitado
-	por 5 seg
+	ilimitado por 5
+	segundos.
 	"""
 	keyWait
 	msgCloseQuick
@@ -855,8 +837,8 @@ script 68 mmbn3 {
 	msgOpenQuick
 	"""
 	GutStrgt
-	ilimitado
-	por 5 seg
+	ilimitado por 5
+	segundos.
 	"""
 	keyWait
 	msgCloseQuick
@@ -868,8 +850,8 @@ script 69 mmbn3 {
 	msgOpenQuick
 	"""
 	GutImpct
-	ilimitado
-	por 5 seg
+	ilimitado por 5
+	segundos.
 	"""
 	keyWait
 	msgCloseQuick
@@ -880,9 +862,8 @@ script 70 mmbn3 {
 		delay = 0
 	msgOpenQuick
 	"""
-	VarSwrd
-	ilimitada
-	por 5 seg
+	VarSwrd ilimitado
+	por 5 segundos.
 	"""
 	keyWait
 	msgCloseQuick
@@ -893,9 +874,8 @@ script 71 mmbn3 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Yo-Yo
-	ilimitado
-	por 5 seg
+	Yo-Yo ilimitado
+	por 5 segundos.
 	"""
 	keyWait
 	msgCloseQuick
@@ -907,8 +887,8 @@ script 72 mmbn3 {
 	msgOpenQuick
 	"""
 	Yo-Yo2
-	ilimitado
-	por 5 seg
+	ilimitado por 5
+	segundos.
 	"""
 	keyWait
 	msgCloseQuick
@@ -920,8 +900,8 @@ script 73 mmbn3 {
 	msgOpenQuick
 	"""
 	Yo-Yo3
-	ilimitado
-	por 5 seg
+	ilimitado por 5
+	segundos.
 	"""
 	keyWait
 	msgCloseQuick
@@ -933,8 +913,8 @@ script 74 mmbn3 {
 	msgOpenQuick
 	"""
 	StepSwrd
-	ilimitado
-	por 5 seg
+	ilimitada por 5
+	segundos.
 	"""
 	keyWait
 	msgCloseQuick
@@ -946,8 +926,8 @@ script 75 mmbn3 {
 	msgOpenQuick
 	"""
 	StepCros
-	ilimitado
-	por 5 seg
+	ilimitado por 5
+	segundos.
 	"""
 	keyWait
 	msgCloseQuick
@@ -958,9 +938,9 @@ script 76 mmbn3 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Bomba-
-	relógio
-	nos alvos
+	Planta bomba-
+	relógio no campo
+	inimigo.
 	"""
 	keyWait
 	msgCloseQuick
@@ -971,9 +951,9 @@ script 77 mmbn3 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Cria
-	explosão
-	gigante
+	Tiro múltiplo
+	atinge alvo e
+	tudo ao redor.
 	"""
 	keyWait
 	msgCloseQuick
@@ -984,9 +964,9 @@ script 78 mmbn3 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Ataca c/
-	bolhas e
-	espalha
+	Tiro de bolhas,
+	explode alvo e
+	tudo ao redor.
 	"""
 	keyWait
 	msgCloseQuick
@@ -997,9 +977,9 @@ script 79 mmbn3 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Ataca c/
-	fogo e
-	espalha
+	Tiro de fogo,
+	explode alvo e
+	tudo ao redor.
 	"""
 	keyWait
 	msgCloseQuick
@@ -1010,9 +990,9 @@ script 80 mmbn3 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Brande
-	espada
-	2x3!
+	Corte de espa-
+	da, corta 2 co-
+	lunas à frente!
 	"""
 	keyWait
 	msgCloseQuick
@@ -1023,9 +1003,9 @@ script 81 mmbn3 {
 		delay = 0
 	msgOpenQuick
 	"""
-	WideSwrd
-	com os 4
-	elementos
+	Cortes de
+	WideSwrd com os
+	4 elementos
 	"""
 	keyWait
 	msgCloseQuick
@@ -1036,9 +1016,9 @@ script 82 mmbn3 {
 		delay = 0
 	msgOpenQuick
 	"""
-	2 passos
-	e 4
-	ataques
+	Dá 2 passos à
+	frente e corta
+	4 vezes!
 	"""
 	keyWait
 	msgCloseQuick
@@ -1051,7 +1031,7 @@ script 83 mmbn3 {
 	"""
 	MegaMan &
 	ProtoMan
-	juntos
+	unem forças.
 	"""
 	keyWait
 	msgCloseQuick
@@ -1062,9 +1042,9 @@ script 84 mmbn3 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Ratton
-	gigante
-	ataca!
+	Ataca com 1
+	Ratton hiper-
+	poderoso!
 	"""
 	keyWait
 	msgCloseQuick
@@ -1075,9 +1055,9 @@ script 85 mmbn3 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Escudo
-	segue
-	inimigo
+	Defende golpe
+	e ataca alvo
+	repetidamente!
 	"""
 	keyWait
 	msgCloseQuick
@@ -1088,9 +1068,9 @@ script 86 mmbn3 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Gel
-	rouba
-	quadros
+	Gels roubam 2
+	colunas e
+	causam dano.
 	"""
 	keyWait
 	msgCloseQuick
@@ -1101,9 +1081,9 @@ script 87 mmbn3 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Pharaoh
-	gera
-	veneno
+	Cria Faraó que
+	envenena campo
+	inimigo.
 	"""
 	keyWait
 	msgCloseQuick
@@ -1114,9 +1094,9 @@ script 88 mmbn3 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Bodyguard
-	abate
-	inimigos
+	Evita ataque e
+	contra-ataca
+	intensamente!
 	"""
 	keyWait
 	msgCloseQuick
@@ -1127,9 +1107,9 @@ script 89 mmbn3 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Barreira
-	absorve
-	atq 500PV
+	Cria barreira
+	que absorve
+	500 de dano.
 	"""
 	keyWait
 	msgCloseQuick
@@ -1140,8 +1120,8 @@ script 90 mmbn3 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Ataca e
-	cura PV!
+	Ataca alvo e
+	cura seus PV!
 	"""
 	keyWait
 	msgCloseQuick
@@ -1167,7 +1147,7 @@ script 92 mmbn3 {
 	"""
 	MegaMan &
 	ProtoMan
-	juntos!
+	unem forças!
 	"""
 	keyWait
 	msgCloseQuick
@@ -1178,9 +1158,9 @@ script 93 mmbn3 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Desperta
-	a Mãe-
-	Terra!
+	Chove muito
+	entulho no
+	campo inimigo!
 	"""
 	keyWait
 	msgCloseQuick
@@ -1191,9 +1171,8 @@ script 94 mmbn3 {
 		delay = 0
 	msgOpenQuick
 	"""
-	3 Navis
-	atacam
-	juntos!
+	Três Navis
+	atacam juntos!
 	"""
 	keyWait
 	msgCloseQuick
@@ -1204,9 +1183,9 @@ script 95 mmbn3 {
 		delay = 0
 	msgOpenQuick
 	"""
-	MegaMan
-	libera
-	seu poder
+	MegaMan libera
+	todo o seu
+	poder!
 	"""
 	keyWait
 	msgCloseQuick

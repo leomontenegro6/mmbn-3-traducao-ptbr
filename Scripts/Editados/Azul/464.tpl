@@ -5,39 +5,39 @@ script 0 mmbn3s {
 	end
 }
 script 1 mmbn3s {
-	"SupArmdr"
+	"SupArmd"
 	end
 }
 script 2 mmbn3s {
-	"BrakBust"
+	"TirQbr"
 	end
 }
 script 3 mmbn3s {
-	"BrakChrg"
+	"CargQbr"
 	end
 }
 script 4 mmbn3s {
-	"SetGreen"
+	"TdoVerde"
 	end
 }
 script 5 mmbn3s {
-	"SetIce"
+	"TudoGelo"
 	end
 }
 script 6 mmbn3s {
-	"SetLava"
+	"TudoLava"
 	end
 }
 script 7 mmbn3s {
-	"SetSand"
+	"TdoAreia"
 	end
 }
 script 8 mmbn3s {
-	"SetMetal"
+	"TdoMetal"
 	end
 }
 script 9 mmbn3s {
-	"SetHoly"
+	"TdoSagrd"
 	end
 }
 script 10 mmbn3s {
@@ -57,7 +57,7 @@ script 13 mmbn3s {
 	end
 }
 script 14 mmbn3s {
-	"Block"
+	"Defender"
 	end
 }
 script 15 mmbn3s {
@@ -69,11 +69,11 @@ script 16 mmbn3s {
 	end
 }
 script 17 mmbn3s {
-	"ShdwShoe"
+	"SptSombr"
 	end
 }
 script 18 mmbn3s {
-	"FlotShoe"
+	"SptFltua"
 	end
 }
 script 19 mmbn3s {
@@ -85,7 +85,7 @@ script 20 mmbn3s {
 	end
 }
 script 21 mmbn3s {
-	"EngyChng"
+	"ConvEnrg"
 	end
 }
 script 22 mmbn3s {
@@ -97,11 +97,11 @@ script 23 mmbn3s {
 	end
 }
 script 24 mmbn3s {
-	"OilBody"
+	"Óleo"
 	end
 }
 script 25 mmbn3s {
-	"Peixe"
+	"Pesca"
 	end
 }
 script 26 mmbn3s {
@@ -113,11 +113,11 @@ script 27 mmbn3s {
 	end
 }
 script 28 mmbn3s {
-	"Collect"
+	"Coleta"
 	end
 }
 script 29 mmbn3s {
-	"AirShoes"
+	"BotasAr"
 	end
 }
 script 30 mmbn3s {
@@ -161,11 +161,11 @@ script 39 mmbn3s {
 	end
 }
 script 40 mmbn3s {
-	"Reg+5"
+	"Padrão+5"
 	end
 }
 script 41 mmbn3s {
-	"Atq+1"
+	"Ataque+1"
 	end
 }
 script 42 mmbn3s {
@@ -181,7 +181,7 @@ script 44 mmbn3s {
 	end
 }
 script 45 mmbn3s {
-	"Comédia"
+	"Piadas"
 	end
 }
 script 46 mmbn3s {
@@ -197,7 +197,7 @@ script 48 mmbn3s {
 	end
 }
 script 49 mmbn3s {
-	"HubBatc"
+	"HubBat"
 	end
 }
 script 50 mmbn3s {
