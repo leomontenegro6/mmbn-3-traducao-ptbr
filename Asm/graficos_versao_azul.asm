@@ -210,6 +210,12 @@
 ;    .dw scilab_logout
 .org 0x08025264
     .dw dnn_shop
+.org 0x080252dc
+    .dw hospital_operate
+.org 0x080252e8
+    .dw hospital_operate
+.org 0x08025300
+    .dw hospital_operate
 .org 0x080472F0
     .dw game_over
 
@@ -252,6 +258,10 @@ scilab_logout:
 
 dnn_shop:
     .incbin "Graficos/Recomprimidos/DNN - Shop.gba"
+    .align
+
+hospital_operate:
+    .incbin "Graficos/Recomprimidos/Hospital - Operate versao azul.gba"
     .align
 
 yoka_barracas_tm:

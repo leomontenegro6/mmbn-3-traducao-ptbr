@@ -11,7 +11,6 @@
   - ON AIR andar de baixo = NO AR
   - ON AIR andar de cima = NO AR
   - Battle! = Batalhas! (EDITADO ESBOÇO)
-  - Operate = Em Operação
 - Gráficos do Scilab
   - JOB BBS = Quadro de Pedidos, ou Pedidos
   - NEW = NOVO

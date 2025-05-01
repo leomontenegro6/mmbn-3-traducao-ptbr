@@ -21,3 +21,7 @@
 
 :: Desempacotando gráfico de "SHOP", dentro da DNN em Angra
 :: unpacker.exe -ds -f "../../Mega Man Battle Network 3 - White Version (USA).gba" -p 2527c
+
+:: Desempacotando gráfico de "OPERATE", no hospital de Angra
+:: unpacker.exe -ds -f "../../Mega Man Battle Network 3 - White Version (USA).gba" -p 25318
+:: unpacker.exe -ds -f "../../Mega Man Battle Network 3 - Blue Version (USA).gba" -p 252dc
