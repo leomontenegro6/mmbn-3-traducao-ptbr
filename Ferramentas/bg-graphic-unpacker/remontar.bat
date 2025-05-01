@@ -40,3 +40,7 @@ unpacker.exe -is -p 25318
 unpacker.exe -is -p 252dc
 copy ".\data\img-025318.bin" "..\..\Graficos\Recomprimidos\Hospital - Operate versao branca.gba"
 copy ".\data\img-0252dc.bin" "..\..\Graficos\Recomprimidos\Hospital - Operate versao azul.gba"
+
+:: Remontando gráfico de "Battle", dentro da DNN em Angra, e copiando ele para a pasta de gráficos recomprimidos
+unpacker.exe -is -p 25294
+copy ".\data\img-025294.bin" "..\..\Graficos\Recomprimidos\DNN - Battle.gba"

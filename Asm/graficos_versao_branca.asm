@@ -213,6 +213,8 @@
 ;    .dw scilab_logout
 .org 0x0802527c
     .dw dnn_shop
+.org 0x08025294
+    .dw dnn_battle
 .org 0x08025318
     .dw hospital_operate
 .org 0x08025300
@@ -265,6 +267,10 @@ scilab_logout:
 
 dnn_shop:
     .incbin "Graficos/Recomprimidos/DNN - Shop.gba"
+    .align
+
+dnn_battle:
+    .incbin "Graficos/Recomprimidos/DNN - Battle.gba"
     .align
 
 hospital_operate:

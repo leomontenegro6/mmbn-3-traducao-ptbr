@@ -10,7 +10,6 @@
   - STOP = PARE (EDITADO ESBOÇO)
   - ON AIR andar de baixo = NO AR
   - ON AIR andar de cima = NO AR
-  - Battle! = Batalhas! (EDITADO ESBOÇO)
 - Gráficos do Scilab
   - JOB BBS = Quadro de Pedidos, ou Pedidos
   - NEW = NOVO
