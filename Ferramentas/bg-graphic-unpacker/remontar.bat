@@ -30,3 +30,7 @@ copy ".\data\img-0251a4.bin" "..\..\Graficos\Recomprimidos\SciLab - Information 
 :: Remontando gráfico do "Logout", no SciLab, e copiando ele para a pasta de gráficos recomprimidos
 unpacker.exe -is -p 251c8
 copy ".\data\img-0251c8.bin" "..\..\Graficos\Recomprimidos\SciLab - Logout.gba"
+
+:: Remontando gráfico de "SHOP", dentro da DNN em Angra, e copiando ele para a pasta de gráficos recomprimidos
+unpacker.exe -is -p 2527c
+copy ".\data\img-02527c.bin" "..\..\Graficos\Recomprimidos\DNN - SHOP.gba"

@@ -208,6 +208,8 @@
     .dw scilab_logout
 ;.org 0x080251c8
 ;    .dw scilab_logout
+.org 0x08025264
+    .dw dnn_shop
 .org 0x080472F0
     .dw game_over
 
@@ -246,6 +248,10 @@ scilab_information:
 
 scilab_logout:
     .incbin "Graficos/Recomprimidos/Scilab - Logout.gba"
+    .align
+
+dnn_shop:
+    .incbin "Graficos/Recomprimidos/DNN - Shop.gba"
     .align
 
 yoka_barracas_tm:

@@ -18,3 +18,6 @@
 :: Desempacotando gráfico do "Logout", no SciLab
 :: unpacker.exe -ds -f "../../Mega Man Battle Network 3 - White Version (USA).gba" -p 251c8
 :: unpacker.exe -ds -f "../../Mega Man Battle Network 3 - Blue Version (USA).gba" -p 251a4
+
+:: Desempacotando gráfico de "SHOP", dentro da DNN em Angra
+:: unpacker.exe -ds -f "../../Mega Man Battle Network 3 - White Version (USA).gba" -p 2527c
