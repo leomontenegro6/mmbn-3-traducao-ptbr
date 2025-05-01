@@ -16,3 +16,17 @@ unpacker.exe -is -p 250fc
 unpacker.exe -is -p 250e4
 copy ".\data\img-0250fc.bin" "..\..\Graficos\Recomprimidos\Estacao Metrolinha versao branca.gba"
 copy ".\data\img-0250e4.bin" "..\..\Graficos\Recomprimidos\Estacao Metrolinha versao azul.gba"
+
+:: Remontando gráfico da loja do Higsby, e copiando ele para a pasta de gráficos recomprimidos
+::unpacker.exe -is -p 25150
+::copy ".\data\img-025150.bin" "..\..\Graficos\Recomprimidos\Loja do Higsby.gba"
+
+:: Remontando gráfico do "Information", no SciLab, e copiando ele para a pasta de gráficos recomprimidos
+unpacker.exe -is -p 251bc
+unpacker.exe -is -p 251a4
+copy ".\data\img-0251bc.bin" "..\..\Graficos\Recomprimidos\SciLab - Information versao branca.gba"
+copy ".\data\img-0251a4.bin" "..\..\Graficos\Recomprimidos\SciLab - Information versao azul.gba"
+
+:: Remontando gráfico do "Logout", no SciLab, e copiando ele para a pasta de gráficos recomprimidos
+unpacker.exe -is -p 251c8
+copy ".\data\img-0251c8.bin" "..\..\Graficos\Recomprimidos\SciLab - Logout.gba"

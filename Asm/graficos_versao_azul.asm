@@ -200,6 +200,14 @@
     .dw estacao_metrolinha
 .org 0x0802524c
     .dw estacao_metrolinha
+.org 0x080251a4
+    .dw scilab_information
+;.org 0x080251bc
+;    .dw scilab_information
+.org 0x080251b0
+    .dw scilab_logout
+;.org 0x080251c8
+;    .dw scilab_logout
 .org 0x080472F0
     .dw game_over
 
@@ -230,6 +238,14 @@ cidade_acdc_higsbys:
 
 estacao_metrolinha:
     .incbin "Graficos/Recomprimidos/Estacao Metrolinha versao azul.gba"
+    .align
+
+scilab_information:
+    .incbin "Graficos/Recomprimidos/Scilab - Information versao azul.gba"
+    .align
+
+scilab_logout:
+    .incbin "Graficos/Recomprimidos/Scilab - Logout.gba"
     .align
 
 yoka_barracas_tm:

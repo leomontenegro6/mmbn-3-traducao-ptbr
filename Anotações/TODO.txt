@@ -7,13 +7,14 @@
 - Gráficos de Angra
   - FuKuYa = Roupas
   - Sale = Promoção
-  - STOP = PARE
+  - STOP = PARE (EDITADO ESBOÇO)
   - Shop = Loja (EDITADO ESBOÇO)
   - ON AIR = NO AR
   - Battle! = Batalhas! (EDITADO ESBOÇO)
   - Operate = Em Operação
 - Gráficos do Scilab
-  - INFORMATION = INFORMAÇÃO
+  - JOB BBS = Quadro de Pedidos, ou Pedidos
+  - NEW = NOVO
 - Editar gráficos de "Winner" / "Loser" / "Draw", em batalhas por cabo link
 - Editar nomes que aparecem antes dos turnos das batalhas, ou no final delas
 - Corrigir bug ao trocar chips via cabo link, onde a descrição dos chips tá aparecendo na esquerda ao invés da direita

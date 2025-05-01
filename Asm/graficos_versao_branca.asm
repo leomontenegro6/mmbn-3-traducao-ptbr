@@ -193,6 +193,8 @@
     .dw sala_aula_cleaners1
 .org 0x080250f0
     .dw cidade_acdc_higsbys
+;.org 0x08025150
+;    .dw loja_higsbys
 .org 0x080250fc
     .dw estacao_metrolinha
 .org 0x080251B0
@@ -201,6 +203,14 @@
     .dw estacao_metrolinha
 .org 0x08025264
     .dw estacao_metrolinha
+.org 0x080251bc
+    .dw scilab_information
+;.org 0x080251d4
+;    .dw scilab_information
+.org 0x080251c8
+    .dw scilab_logout
+;.org 0x080251e0
+;    .dw scilab_logout
 .org 0x08047308
     .dw game_over
 
@@ -229,8 +239,20 @@ cidade_acdc_higsbys:
     .incbin "Graficos/Recomprimidos/Cidade ACDC - Higsbys.gba"
     .align
 
+;loja_higsbys:
+;    .incbin "Graficos/Recomprimidos/Loja do Higsby.gba"
+;    .align
+
 estacao_metrolinha:
     .incbin "Graficos/Recomprimidos/Estacao Metrolinha versao branca.gba"
+    .align
+
+scilab_information:
+    .incbin "Graficos/Recomprimidos/Scilab - Information versao branca.gba"
+    .align
+
+scilab_logout:
+    .incbin "Graficos/Recomprimidos/Scilab - Logout.gba"
     .align
 
 yoka_barracas_tm:
