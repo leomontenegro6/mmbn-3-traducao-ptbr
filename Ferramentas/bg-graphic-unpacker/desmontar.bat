@@ -28,3 +28,7 @@
 
 :: Desempacotando gráfico de "Battle", dentro da DNN em Angra
 :: unpacker.exe -ds -f "../../Mega Man Battle Network 3 - White Version (USA).gba" -p 25294
+
+:: Desempacotando gráfico de "On Air", da DNN em Angra
+:: unpacker.exe -ds -f "../../Mega Man Battle Network 3 - White Version (USA).gba" -p 25288
+:: unpacker.exe -ds -f "../../Mega Man Battle Network 3 - Blue Version (USA).gba" -p 25270

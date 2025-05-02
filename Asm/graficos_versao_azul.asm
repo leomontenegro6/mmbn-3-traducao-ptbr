@@ -210,6 +210,12 @@
 ;    .dw scilab_logout
 .org 0x08025264
     .dw dnn_shop
+.org 0x08025270
+    .dw dnn_on_air
+.org 0x08025288
+    .dw dnn_on_air
+.org 0x08025294
+    .dw dnn_on_air
 .org 0x0802527c
     .dw dnn_battle
 .org 0x080252dc
@@ -260,6 +266,10 @@ scilab_logout:
 
 dnn_shop:
     .incbin "Graficos/Recomprimidos/DNN - Shop.gba"
+    .align
+
+dnn_on_air:
+    .incbin "Graficos/Recomprimidos/DNN - On Air versao azul.gba"
     .align
 
 dnn_battle:

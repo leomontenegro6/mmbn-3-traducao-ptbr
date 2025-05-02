@@ -8,8 +8,6 @@
   - FuKuYa = Roupas
   - Sale = Promoção
   - STOP = PARE (EDITADO ESBOÇO)
-  - ON AIR andar de baixo = NO AR
-  - ON AIR andar de cima = NO AR
 - Gráficos do Scilab
   - JOB BBS = Quadro de Pedidos, ou Pedidos
   - NEW = NOVO

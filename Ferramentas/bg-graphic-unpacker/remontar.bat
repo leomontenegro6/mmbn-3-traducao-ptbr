@@ -44,3 +44,9 @@ copy ".\data\img-0252dc.bin" "..\..\Graficos\Recomprimidos\Hospital - Operate ve
 :: Remontando gráfico de "Battle", dentro da DNN em Angra, e copiando ele para a pasta de gráficos recomprimidos
 unpacker.exe -is -p 25294
 copy ".\data\img-025294.bin" "..\..\Graficos\Recomprimidos\DNN - Battle.gba"
+
+:: Remontando gráfico de "On Air", da DNN em Angra, e copiando ele para a pasta de gráficos recomprimidos
+unpacker.exe -is -p 25288
+unpacker.exe -is -p 25270
+copy ".\data\img-025288.bin" "..\..\Graficos\Recomprimidos\DNN - On Air versao branca.gba"
+copy ".\data\img-025270.bin" "..\..\Graficos\Recomprimidos\DNN - On Air versao azul.gba"
