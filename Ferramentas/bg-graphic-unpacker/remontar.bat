@@ -47,6 +47,12 @@ copy ".\data\img-025294.bin" "..\..\Graficos\Recomprimidos\DNN - Battle.gba"
 
 :: Remontando gráfico de "On Air", da DNN em Angra, e copiando ele para a pasta de gráficos recomprimidos
 unpacker.exe -is -p 25288
-unpacker.exe -is -p 25270
+unpacker.exe -is -p 25270 -o "blue"
 copy ".\data\img-025288.bin" "..\..\Graficos\Recomprimidos\DNN - On Air versao branca.gba"
-copy ".\data\img-025270.bin" "..\..\Graficos\Recomprimidos\DNN - On Air versao azul.gba"
+copy ".\data\blue-img-025270.bin" "..\..\Graficos\Recomprimidos\DNN - On Air versao azul.gba"
+
+:: Remontando gráfico da rua de Angra, e copiando ele para a pasta de gráficos recomprimidos
+unpacker.exe -is -p 25270 -o "white"
+unpacker.exe -is -p 25258
+copy ".\data\white-img-025270.bin" "..\..\Graficos\Recomprimidos\Angra - Rua versao branca.gba"
+copy ".\data\img-025258.bin" "..\..\Graficos\Recomprimidos\Angra - Rua versao azul.gba"

@@ -4,12 +4,10 @@
   - Dentro do zoológico, tem essa lixeira com "PUSH" = "EMPURRE"
   - "URA Inn": "Pousada UNDA" (EDITADO ESBOÇO)
   - Placa japonesa do lado da pousada: Águas da Beleza (EDITADO ESBOÇO)
-- Gráficos de Angra
-  - FuKuYa = Roupas
-  - Sale = Promoção
-  - STOP = PARE (EDITADO ESBOÇO)
-- Gráficos do Scilab
-  - JOB BBS = Quadro de Pedidos, ou Pedidos
+- Fóruns / Pedidos
+  - JOB BBS = Quadro de Pedidos, ou Pedidos (SciLab)
+  - Chat BBS = Fórum de Bate-Papo
+  - Battle BBS = Fórum de Luta
   - NEW = NOVO
 - Editar gráficos de "Winner" / "Loser" / "Draw", em batalhas por cabo link
 - Editar nomes que aparecem antes dos turnos das batalhas, ou no final delas

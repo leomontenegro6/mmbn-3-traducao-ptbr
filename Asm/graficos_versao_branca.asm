@@ -211,6 +211,8 @@
     .dw scilab_logout
 ;.org 0x080251e0
 ;    .dw scilab_logout
+.org 0x08025270
+    .dw angra_rua
 .org 0x0802527c
     .dw dnn_shop
 .org 0x08025288
@@ -269,6 +271,10 @@ scilab_information:
 
 scilab_logout:
     .incbin "Graficos/Recomprimidos/Scilab - Logout.gba"
+    .align
+
+angra_rua:
+    .incbin "Graficos/Recomprimidos/Angra - Rua versao branca.gba"
     .align
 
 dnn_shop:
