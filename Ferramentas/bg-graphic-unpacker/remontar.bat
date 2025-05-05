@@ -56,3 +56,9 @@ unpacker.exe -is -p 25270 -o "white"
 unpacker.exe -is -p 25258
 copy ".\data\white-img-025270.bin" "..\..\Graficos\Recomprimidos\Angra - Rua versao branca.gba"
 copy ".\data\img-025258.bin" "..\..\Graficos\Recomprimidos\Angra - Rua versao azul.gba"
+
+:: Remontando gráfico de "PUSH", dentro do zoológico de Yoka, e copiando ele para a pasta de gráficos recomprimidos
+unpacker.exe -is -p 25240
+unpacker.exe -is -p 25228
+copy ".\data\img-025240.bin" "..\..\Graficos\Recomprimidos\Yoka - Push versao branca.gba"
+copy ".\data\img-025228.bin" "..\..\Graficos\Recomprimidos\Yoka - Push versao azul.gba"

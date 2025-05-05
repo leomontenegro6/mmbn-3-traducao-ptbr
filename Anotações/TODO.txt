@@ -1,7 +1,7 @@
 - Gráficos de ACDC
   - Loja do Higsby: Welcome, Sale, New (EDITADO ESBOÇO)
 - Gráficos de Yoka
-  - Dentro do zoológico, tem essa lixeira com "PUSH" = "EMPURRE"
+  - Na versão azul, dentro do zoológico, tem um texto "Zoo" na grama
   - "URA Inn": "Pousada UNDA" (EDITADO ESBOÇO)
   - Placa japonesa do lado da pousada: Águas da Beleza (EDITADO ESBOÇO)
 - Editar gráficos de "Winner" / "Loser" / "Draw", em batalhas por cabo link

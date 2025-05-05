@@ -36,3 +36,7 @@
 :: Desempacotando gráfico da rua de Angra, e copiando ele para a pasta de gráficos recomprimidos
 :: unpacker.exe -ds -f "../../Mega Man Battle Network 3 - White Version (USA).gba" -p 25270 -o "white"
 :: unpacker.exe -ds -f "../../Mega Man Battle Network 3 - Blue Version (USA).gba" -p 25258
+
+:: Desempacotando gráfico de "PUSH", dentro do zoológico de Yoka
+:: unpacker.exe -ds -f "../../Mega Man Battle Network 3 - White Version (USA).gba" -p 25240
+:: unpacker.exe -ds -f "../../Mega Man Battle Network 3 - Blue Version (USA).gba" -p 25228
