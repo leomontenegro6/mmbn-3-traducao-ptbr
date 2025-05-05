@@ -177,6 +177,18 @@
 .org 0x086B2DC6
     .stringn 0x41,0x90,0x42,0x90,0x43,0x90,0x44,0x90,0x46,0x90,0x47,0x90,0x48,0x90,0x49,0x90,0x4A,0x90
 
+; Editando gráficos e tilemap das telas de fóruns
+.org 0x08684A5C
+    .incbin "Graficos/Editados/New (foruns).gba"
+.org 0x087F0AE0
+    .incbin "Graficos/Editados/Job BBS (tm).gba"
+.org 0x087F0B68
+    .incbin "Graficos/Editados/Chat BBS (tm).gba"
+.org 0x087F0B24
+    .incbin "Graficos/Editados/Battle BBS (tm).gba"
+.org 0x087F0BAC
+    .incbin "Graficos/Editados/Under BBS (tm).gba"
+
 ; Editando tilemap do Game Over
 .org 0x087FA854
     .incbin "Graficos/Editados/Game Over (tm).gba"
@@ -187,6 +199,8 @@
     .dw logo_tela_titulo
 .org 0x08022630
     .dw nomes_tela_titulo
+.org 0x08043850
+    .dw telas_foruns
 .org 0x0802515c
     .dw sala_aula_cleaners1
 .org 0x08025168
@@ -247,6 +261,10 @@ logo_tela_titulo:
 
 nomes_tela_titulo:
     .incbin "Graficos/Recomprimidos/Nomes tela-titulo versao branca.gba"
+    .align
+
+telas_foruns:
+    .incbin "Graficos/Recomprimidos/Telas Foruns.gba"
     .align
 
 sala_aula_cleaners1:

@@ -177,15 +177,30 @@
 .org 0x086B2ED2
     .stringn 0x41,0x90,0x42,0x90,0x43,0x90,0x44,0x90,0x46,0x90,0x47,0x90,0x48,0x90,0x49,0x90,0x4A,0x90
 
+; Editando gráficos e tilemap das telas de fóruns
+.org 0x08684B5C
+    .incbin "Graficos/Editados/New (foruns).gba"
+.org 0x087F06D0
+    .incbin "Graficos/Editados/Job BBS (tm).gba"
+.org 0x087F0758
+    .incbin "Graficos/Editados/Chat BBS (tm).gba"
+.org 0x087F0714
+    .incbin "Graficos/Editados/Battle BBS (tm).gba"
+.org 0x087F079C
+    .incbin "Graficos/Editados/Under BBS (tm).gba"
+
 ; Editando tilemap do Game Over
 .org 0x087FA444
     .incbin "Graficos/Editados/Game Over (tm).gba"
+
 ; Gráficos inseridos no final da rom, em sua maioria comprimidos.
 ; Catalogando ponteiros dos gráficos.
 .org 0x08022614
     .dw logo_tela_titulo
 .org 0x08022618
     .dw nomes_tela_titulo
+.org 0x08043838
+    .dw telas_foruns
 .org 0x08025144
     .dw sala_aula_cleaners1
 .org 0x08025150
@@ -244,6 +259,10 @@ logo_tela_titulo:
 
 nomes_tela_titulo:
     .incbin "Graficos/Recomprimidos/Nomes tela-titulo versao azul.gba"
+    .align
+
+telas_foruns:
+    .incbin "Graficos/Recomprimidos/Telas Foruns.gba"
     .align
 
 sala_aula_cleaners1:

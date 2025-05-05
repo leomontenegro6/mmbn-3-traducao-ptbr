@@ -20,6 +20,11 @@ del ".\Graficos\Recomprimidos\Nomes tela-titulo versao branca.gba"
 copy ".\Graficos\Editados\Nomes tela-titulo versao branca.gba" ".\Graficos\Recomprimidos\"
 .\Ferramentas\lzss.exe -evn ".\Graficos\Recomprimidos\Nomes tela-titulo versao branca.gba"
 
+echo Telas de Foruns
+del ".\Graficos\Recomprimidos\Telas Foruns.gba"
+copy ".\Graficos\Editados\Telas Foruns.gba" ".\Graficos\Recomprimidos\"
+.\Ferramentas\lzss.exe -evn ".\Graficos\Recomprimidos\Telas Foruns.gba"
+
 echo Game Over
 del ".\Graficos\Recomprimidos\Game Over.gba"
 copy ".\Graficos\Editados\Game Over.gba" ".\Graficos\Recomprimidos\"
