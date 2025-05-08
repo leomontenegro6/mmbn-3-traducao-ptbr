@@ -11,6 +11,7 @@
 
 :: Desempacotando gráfico da loja do Higsby
 :: unpacker.exe -ds -f "../../Mega Man Battle Network 3 - White Version (USA).gba" -p 25150
+:: unpacker.exe -ds -f "../../Mega Man Battle Network 3 - Blue Version (USA).gba" -p 25138
 
 :: Desempacotando gráfico do "Information", no SciLab
 :: unpacker.exe -ds -f "../../Mega Man Battle Network 3 - White Version (USA).gba" -p 251bc

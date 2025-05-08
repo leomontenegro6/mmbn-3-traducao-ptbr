@@ -17,11 +17,13 @@ unpacker.exe -is -p 250e4
 copy ".\data\img-0250fc.bin" "..\..\Graficos\Recomprimidos\Estacao Metrolinha versao branca.gba"
 copy ".\data\img-0250e4.bin" "..\..\Graficos\Recomprimidos\Estacao Metrolinha versao azul.gba"
 
-:: Remontando gráfico da loja do Higsby, e copiando ele para a pasta de gráficos recomprimidos
-::unpacker.exe -is -p 25150
-::copy ".\data\img-025150.bin" "..\..\Graficos\Recomprimidos\Loja do Higsby.gba"
+:: Remontando gráficos da loja do Higsby, e copiando ele para a pasta de gráficos recomprimidos
+unpacker.exe -is -p 25150
+unpacker.exe -is -p 25138
+copy ".\data\img-025150.bin" "..\..\Graficos\Recomprimidos\Loja do Higsby versao branca.gba"
+copy ".\data\img-025138.bin" "..\..\Graficos\Recomprimidos\Loja do Higsby versao azul.gba"
 
-:: Remontando gráfico do "Information", no SciLab, e copiando ele para a pasta de gráficos recomprimidos
+:: Remontando gráficos do "Information", no SciLab, e copiando ele para a pasta de gráficos recomprimidos
 unpacker.exe -is -p 251bc
 unpacker.exe -is -p 251a4
 copy ".\data\img-0251bc.bin" "..\..\Graficos\Recomprimidos\SciLab - Information versao branca.gba"
@@ -35,7 +37,7 @@ copy ".\data\img-0251c8.bin" "..\..\Graficos\Recomprimidos\SciLab - Logout.gba"
 unpacker.exe -is -p 2527c
 copy ".\data\img-02527c.bin" "..\..\Graficos\Recomprimidos\DNN - SHOP.gba"
 
-:: Remontando gráfico de "OPERATE", no hospital de Angra, e copiando ele para a pasta de gráficos recomprimidos
+:: Remontando gráficos de "OPERATE", no hospital de Angra, e copiando ele para a pasta de gráficos recomprimidos
 unpacker.exe -is -p 25318
 unpacker.exe -is -p 252dc
 copy ".\data\img-025318.bin" "..\..\Graficos\Recomprimidos\Hospital - Operate versao branca.gba"
@@ -45,19 +47,19 @@ copy ".\data\img-0252dc.bin" "..\..\Graficos\Recomprimidos\Hospital - Operate ve
 unpacker.exe -is -p 25294
 copy ".\data\img-025294.bin" "..\..\Graficos\Recomprimidos\DNN - Battle.gba"
 
-:: Remontando gráfico de "On Air", da DNN em Angra, e copiando ele para a pasta de gráficos recomprimidos
+:: Remontando gráficos de "On Air", da DNN em Angra, e copiando ele para a pasta de gráficos recomprimidos
 unpacker.exe -is -p 25288
 unpacker.exe -is -p 25270 -o "blue"
 copy ".\data\img-025288.bin" "..\..\Graficos\Recomprimidos\DNN - On Air versao branca.gba"
 copy ".\data\blue-img-025270.bin" "..\..\Graficos\Recomprimidos\DNN - On Air versao azul.gba"
 
-:: Remontando gráfico da rua de Angra, e copiando ele para a pasta de gráficos recomprimidos
+:: Remontando gráficos da rua de Angra, e copiando ele para a pasta de gráficos recomprimidos
 unpacker.exe -is -p 25270 -o "white"
 unpacker.exe -is -p 25258
 copy ".\data\white-img-025270.bin" "..\..\Graficos\Recomprimidos\Angra - Rua versao branca.gba"
 copy ".\data\img-025258.bin" "..\..\Graficos\Recomprimidos\Angra - Rua versao azul.gba"
 
-:: Remontando gráfico de "PUSH", dentro do zoológico de Yoka, e copiando ele para a pasta de gráficos recomprimidos
+:: Remontando gráficos de "PUSH", dentro do zoológico de Yoka, e copiando ele para a pasta de gráficos recomprimidos
 unpacker.exe -is -p 25240
 unpacker.exe -is -p 25228
 copy ".\data\img-025240.bin" "..\..\Graficos\Recomprimidos\Yoka - Push versao branca.gba"

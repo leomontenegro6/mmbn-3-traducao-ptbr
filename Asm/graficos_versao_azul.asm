@@ -207,6 +207,8 @@
     .dw sala_aula_cleaners1
 .org 0x080250D8
     .dw cidade_acdc_higsbys
+.org 0x08025138
+    .dw loja_higsbys
 .org 0x080250E4
     .dw estacao_metrolinha
 .org 0x08025198
@@ -273,6 +275,10 @@ sala_aula_cleaners1:
 
 cidade_acdc_higsbys:
     .incbin "Graficos/Recomprimidos/Cidade ACDC - Higsbys.gba"
+    .align
+
+loja_higsbys:
+    .incbin "Graficos/Recomprimidos/Loja do Higsby versao azul.gba"
     .align
 
 estacao_metrolinha:
