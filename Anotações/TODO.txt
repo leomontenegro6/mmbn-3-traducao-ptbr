@@ -1,9 +1,7 @@
-- Gráficos de ACDC
-  - Loja do Higsby: Welcome, Sale, New (EDITADO ESBOÇO)
 - Gráficos de Yoka
-  - Na versão azul, dentro do zoológico, tem um texto "Zoo" na grama
   - "URA Inn": "Pousada UNDA" (EDITADO ESBOÇO)
   - Placa japonesa do lado da pousada: Águas da Beleza (EDITADO ESBOÇO)
+  - Porta dentro da pousada "Onsen": Fonte Termal (EDITADO ESBOÇO)
 - Editar gráficos de "Winner" / "Loser" / "Draw", em batalhas por cabo link
 - Editar nomes que aparecem antes dos turnos das batalhas, ou no final delas
 - Corrigir bug ao trocar chips via cabo link, onde a descrição dos chips tá aparecendo na esquerda ao invés da direita
