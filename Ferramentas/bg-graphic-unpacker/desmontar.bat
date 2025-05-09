@@ -41,3 +41,6 @@
 :: Desempacotando gráfico de "PUSH", dentro do zoológico de Yoka
 :: unpacker.exe -ds -f "../../Mega Man Battle Network 3 - White Version (USA).gba" -p 25240
 :: unpacker.exe -ds -f "../../Mega Man Battle Network 3 - Blue Version (USA).gba" -p 25228
+
+:: Desempacotando gráfico de "Onsen", dentro da Pousada UNDA, em Yoka
+:: unpacker.exe -ds -f "../../Mega Man Battle Network 3 - White Version (USA).gba" -p 2521c

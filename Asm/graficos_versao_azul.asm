@@ -252,6 +252,8 @@
     .dw yoka_barracas_tm
 .org 0x08025228
     .dw yoka_push
+.org 0x08025204
+    .dw yoka_onsen
 
 ; Inserindo gráficos no final da rom
 .orga filesize("Mega Man Battle Network 3 - Versao Azul (BR).gba")
@@ -327,6 +329,10 @@ yoka_barracas_td:
 
 yoka_push:
     .incbin "Graficos/Recomprimidos/Yoka - Push versao azul.gba"
+    .align
+
+yoka_onsen:
+    .incbin "Graficos/Recomprimidos/Yoka - Onsen.gba"
     .align
 
 game_over:
