@@ -1,6 +1,3 @@
-- Gráficos de Yoka
-  - "URA Inn": "Pousada UNDA" (EDITADO ESBOÇO)
-  - Placa japonesa do lado da pousada: Águas da Beleza (EDITADO ESBOÇO)
 - Editar gráficos de "Winner" / "Loser" / "Draw", em batalhas por cabo link
 - Editar nomes que aparecem antes dos turnos das batalhas, ou no final delas
 - Corrigir bug ao trocar chips via cabo link, onde a descrição dos chips tá aparecendo na esquerda ao invés da direita

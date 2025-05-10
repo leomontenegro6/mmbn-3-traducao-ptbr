@@ -44,3 +44,7 @@
 
 :: Desempacotando gráfico de "Onsen", dentro da Pousada UNDA, em Yoka
 :: unpacker.exe -ds -f "../../Mega Man Battle Network 3 - White Version (USA).gba" -p 2521c
+
+:: Desempacotando gráfico da fachada da Pousada UNDA, em Yoka
+:: unpacker.exe -ds -f "../../Mega Man Battle Network 3 - White Version (USA).gba" -p 25204
+:: unpacker.exe -ds -f "../../Mega Man Battle Network 3 - Blue Version (USA).gba" -p 251ec

@@ -252,6 +252,8 @@
     .dw yoka_barracas_tm
 .org 0x08025228
     .dw yoka_push
+.org 0x080251ec
+    .dw yoka_ura_inn
 .org 0x08025204
     .dw yoka_onsen
 
@@ -329,6 +331,10 @@ yoka_barracas_td:
 
 yoka_push:
     .incbin "Graficos/Recomprimidos/Yoka - Push versao azul.gba"
+    .align
+
+yoka_ura_inn:
+    .incbin "Graficos/Recomprimidos/Yoka - URA Inn versao azul.gba"
     .align
 
 yoka_onsen:

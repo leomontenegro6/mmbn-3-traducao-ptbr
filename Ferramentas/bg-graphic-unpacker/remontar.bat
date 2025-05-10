@@ -68,3 +68,9 @@ copy ".\data\img-025228.bin" "..\..\Graficos\Recomprimidos\Yoka - Push versao az
 :: Remontando gráfico de "Onsen", dentro da Pousada UNDA, em Yoka, e copiando ele para a pasta de gráficos recomprimidos
 unpacker.exe -is -p 2521c
 copy ".\data\img-02521c.bin" "..\..\Graficos\Recomprimidos\Yoka - Onsen.gba"
+
+:: Remontando gráfico da fachada da Pousada UNDA, em Yoka, e copiando ele para a pasta de gráficos recomprimidos
+unpacker.exe -is -p 25204
+unpacker.exe -is -p 251ec
+copy ".\data\img-025204.bin" "..\..\Graficos\Recomprimidos\Yoka - URA Inn versao branca.gba"
+copy ".\data\img-0251ec.bin" "..\..\Graficos\Recomprimidos\Yoka - URA Inn versao azul.gba"
