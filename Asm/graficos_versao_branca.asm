@@ -141,6 +141,16 @@
 .org 0x086B4DC0
     .incbin "Graficos/Editados/Press A button.gba"
 
+; Telas após vencer ou perder batalhas em modo link.
+.org 0x086B2F40
+    .incbin "Graficos/Editados/Winner Post Link Battle.gba"
+.org 0x086B3BE0
+    .incbin "Graficos/Editados/Winner Post Link Battle (tm).gba"
+.org 0x086B3F40
+    .incbin "Graficos/Editados/Loser Post Link Battle.gba"
+.org 0x086B4A20
+    .incbin "Graficos/Editados/Loser Post Link Battle (tm).gba"
+
 ; Nomes de chip de boost de ataque e elementos.
 .org 0x086E3600
     .incbin "Graficos/Editados/Fire plus 30.gba"
