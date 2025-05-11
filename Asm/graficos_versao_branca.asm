@@ -85,6 +85,8 @@
     .stringn "TROCA DE CHIPS   "
 ;.org 0x087E4900
 ;    .stringn "TROCA DE CHIPS   "
+.org 0x087E3DB0
+    .stringn "TROCA DE PROGRAMAS"
 
 ; Editando tilemap dos submenus, na parte de baixo das letras
 .loadtable "Tabelas/Telas Menus - Nomes Parte Baixo.tbl"
@@ -116,6 +118,8 @@
     .stringn "TROCA DE CHIPS   "
 ;.org 0x087E493C
 ;    .stringn "TROCA DE CHIPS   "
+.org 0x087E3DEC
+    .stringn "TROCA DE PROGRAMAS"
 
 ; Tela de seleção de chips, entre turnos de batalhas.
 .org 0x086AFB68

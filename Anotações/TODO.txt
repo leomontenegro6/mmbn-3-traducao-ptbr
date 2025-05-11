@@ -1,6 +1,4 @@
 - Editar gráfico "PAUSE", durante as batalhas
-- Editar gráfico "Customizing", durante uma batalha via cabo link
-- Editar gráfico de "PROGRAM TRADE", que precisa corrigir uns tilemaps
 - Editar nomes que aparecem antes dos turnos das batalhas, ou no final delas
 - Corrigir bug nas descrições dos chips, onde após ter retraduzido eles pra expandir seus tamanhos, o jogo buga na hora de exibir as descrições
 - Corrigir bug ao trocar chips via cabo link, onde a descrição dos chips tá aparecendo na esquerda ao invés da direita
