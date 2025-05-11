@@ -19,6 +19,7 @@ $graficos = [
     (object)['nome' => 'Chip Select', 'offset' => '0x6AFB68', 'tiles' => '1x45'],
     (object)['nome' => 'Add OK', 'offset' => '0x6B0400', 'tiles' => '16x13'],
     (object)['nome' => 'Result Post Battle', 'offset' => '0x6B2100', 'tiles' => '1x87'],
+    (object)['nome' => 'Customizing', 'offset' => '0x6A5FC8', 'tiles' => '10x4'],
     (object)['nome' => 'Winner Post Link Battle', 'offset' => '0x6B2F40', 'tiles' => '1x101'],
     (object)['nome' => 'Loser Post Link Battle', 'offset' => '0x6B3F40', 'tiles' => '1x87'],
     (object)['nome' => 'Press A button', 'offset' => '0x6B4DC0', 'tiles' => '1x37'],

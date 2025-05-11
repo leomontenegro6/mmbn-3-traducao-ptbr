@@ -130,6 +130,8 @@
     .incbin "Graficos/Editados/Chip Data Transmission.gba"
 .org 0x086B68E0
     .incbin "Graficos/Editados/Additional Chip Data.gba"
+.org 0x086A5FC8
+    .incbin "Graficos/Editados/Customizing.gba"
 
 ; Gráfico "Custom" e "L or R", durante as batalhas.
 .org 0x086AEC28
