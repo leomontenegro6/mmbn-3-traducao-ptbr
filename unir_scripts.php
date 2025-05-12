@@ -170,7 +170,7 @@ if ($version == 'b') {
 $contents = '';
 foreach ($offsets as $i => $offset) {
     $number = str_pad(($i + 1), 3, '0', STR_PAD_LEFT);
-    $file_name = 'Scripts/Editados/' . ($version == 'b' ? 'Branca' : 'Azul') . '/' . $number . '.tpl';
+    $file_name = 'Scripts/Editados/GBA/' . $number . '.tpl';
     if (file_exists($file_name)) {
         $contents .= "@archive $offset\n";
         $contents .= file_get_contents($file_name);

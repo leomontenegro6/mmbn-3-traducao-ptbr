@@ -1,7 +1,6 @@
 - Editar gráfico "PAUSE", durante as batalhas
 - Editar gráfico "AVANÇADO", durante as batalhas
 - Editar gráfico "TRAP", durante as batalhas
-- Unificar pastas de scripts Azul e Branca, dado que elas são 100% idênticas entre os jogos
 - Atualizar extensão previewer de diálogos, pra adicionar suporte às descrições de chips do mmbn3
 - Bolar uma forma programática de fazer uma pré-revisão dos textos, usando uma biblioteca PHP de corretor ortográfico
 - Pedir pro Sahgo arrumar um savestate após ter zerado, pra poder traduzir os créditos

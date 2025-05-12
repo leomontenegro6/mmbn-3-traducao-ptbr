@@ -5,9 +5,9 @@ use LanguageDetection\Language;
  
 $ld = new Language(['pt-BR', 'en']);
 
-// Iterar por todos os arquivos da pasta "Scripts/Editados/Branca/"
+// Iterar por todos os arquivos da pasta "Scripts/Editados/GBA/"
 // e aplicar a lógica de extração de texto.
-foreach (glob('Scripts/Editados/Branca/*.tpl') as $file) {
+foreach (glob('Scripts/Editados/GBA/*.tpl') as $file) {
     echo "Analisando arquivo: $file\n";
 
     // Ler o conteúdo do arquivo
