@@ -68,9 +68,208 @@
 	.org PONTEIRO2 + 0x3c
 		dw		free4 + 1
 		
+	.org DESVIO9
+		;ldr		r5, =free6
+		;mov		r15, r5
+		;.pool
+		
 	; Inserindo dados da VWF no final da rom, após a inserção dos scripts.
-	.orga filesize("Mega Man Battle Network 3 - Versao " + output + " (BR).gba")
-	.align
+    .orga filesize("Mega Man Battle Network 3 - Versao " + output + " (BR).gba")
+    .align
+		
+		;r0 possui o ponteiro base
+		;r1 o id do item
+		;r3: pos vram para colocar os tiles
+		;r5: o r5 de controle na ram
+		
+		free6:
+			;continua antes
+			mov		r5, 3
+			ldr		r6, =fontdesc
+			mov		r7, 4
+			
+			;função
+			bl		funcVwfNew
+			
+			;retorna
+			ldr		r0, =DESVIO9 + 11
+			mov		r15, r0
+			
+		funcVwfNew:
+		
+			push	r14
+			
+			;ponteiro
+			lsl		r1, r1, 1
+			ldrh	r1, [r0, r1]
+			add		r0, r0, r1
+		
+			;ponteiro do item
+			mov		r1, r0
+			
+			;;alocamos algumas variáveis
+			sub		r13, 28
+			mov		r0, 0
+			;coluna
+			str		r0, [r13]
+			;linha
+			str		r0, [r13, 4]
+			;nr chars
+			mov		r0, 0
+			str		r0, [r13, 8]
+			
+			;armazena ponteiro
+			str		r1, [r13, 12]
+			
+			;vram
+			ldr		r0, =0x02029100
+			str		r0, [r13, 16]
+			
+			;salva para usar no final
+			str		r2, [r13, 20]
+			str		r3, [r13, 24]
+			
+			;limpa oam
+			ldr		r5, =0x020158ee
+			mov		r0, 0x90
+			mov		r1, 27
+		@@l3:
+			strb	r0, [r5, 1]
+			add		r5, 5
+			sub		r1, 1
+			cmp		r1, 0
+			bne		@@l3
+			
+		@@l2:	
+			;pega o char atual
+			ldr		r0, [r13, 12]
+		@@parser:
+			ldrb	r1, [r0]
+			cmp 	r1, 0xe7
+			ble		@@letranormal
+			
+			;precisa pular os cmd e processar as quebras de linha e diálogo
+			cmp		r1, 0xec
+			beq		@@pula2
+			cmp		r1, 0xf1
+			beq		@@pula1
+			cmp		r1, 0xe8
+			beq		@@linha
+			cmp		r1, 0xeb
+			beq		@@fim
+		@@pula1:
+			add		r0, 2
+			str		r0, [r13, 12]
+			b		@@parser
+		@@pula2:
+			add		r0, 3
+			str		r0, [r13, 12]
+			b		@@parser
+		@@linha:
+			;ponteiro
+			add		r0, 1
+			str		r0, [r13, 12]
+			;incrementa a linha
+			mov		r0, 0
+			str		r0, [r13]
+			ldr		r0, [r13, 4]
+			add		r0, 1
+			str		r0, [r13, 4]
+			ldr		r0, [r13, 12]
+			b		@@parser
+			
+		@@letranormal:
+	
+			;envia o tile para a vram
+			ldr		r0, [r13, 16]
+			
+			;ponteiro da letra
+			lsl 	r7, r1, 6
+			add		r7, r6
+			
+			;copia os tiles para a ram (por dma)
+			ldr		r5, =0x040000D4
+			str		r7, [r5]		;src
+			str		r0, [r5, 4]		;dest
+			ldr		r0, =0x84000010
+			str		r0, [r5, 8]		;start
+			
+			;inc
+			ldr		r0, [r13, 16]
+			add		r0, 0x40
+			str		r0, [r13, 16]
+			
+			;processa a entrada na oam
+			
+			;linha
+			ldr		r3, [r13, 4]
+			lsl		r3, 4
+			add		r3, 0x08
+			
+			;coluna
+			ldr		r0, [r13]
+			add		r0, 0xdc		;pos mais a esquerda, só um byte
+			
+			;nchars x 5 + 1
+			ldr		r1, [r13, 8]
+			lsl		r2, r1, 2
+			add		r1, r2, r1
+			
+			
+		@@addoam:
+			ldr		r5, =0x020158ee
+			
+			;x
+			add		r1, 1
+			strb	r0, [r5, r1]
+			
+			;y
+			add		r1, 1
+			strb	r3, [r5, r1]
+			
+			;incrementa
+			ldr		r1, [r13, 8]
+			add		r1, 1
+			str		r1, [r13, 8]
+			
+			
+			;incrementa coluna com a largura da letra atual
+			ldr		r7, =tabWidthDesc
+			ldr		r0, [r13, 12]
+			ldrb	r0, [r0]
+			add		r7, r0
+			ldrb	r1, [r7]		;largura
+			ldr		r0, [r13]
+			add		r0, r1
+			str		r0, [r13]
+
+			;incrementa ponteiro
+			ldr		r0, [r13, 12]
+			add		r0, 1
+			str		r0, [r13, 12]
+			
+			b			@@l2
+			
+		@@fim:
+		
+			;ativa tarefa de dma
+			;r0: ram src
+			;r1: vram dest
+			;r2: sz
+			ldr		r0, [r13, 20]
+			ldr		r1, [r13, 24]
+			ldr		r2, [r13, 8]
+			lsl		r2, 4
+			
+			ldr		r3, =0x08000A34 + 1
+			mov		r14, r15
+			bx		r3
+			
+			;desaloca
+			add		r13, 28
+			
+			;retorna
+			pop		r15
 		
 		free5:
 			ldr		r7, [r5,#0x20]
@@ -103,9 +302,11 @@
 			;ponteiro base muda se o ID for maior que 100
 			cmp		r0, 0xff
 			ble		@@menoque100
+		@@bloco2:
 			
-			;ponteiro base alternativo
-			ldr		r1, =PONTEIRO6a
+			ldr		r1, =PONTEIRO6
+			add		r1, 4
+
 			sub		r0, 0xff
 			sub		r0, 0x01
 			b		@@menoque100common
@@ -113,7 +314,9 @@
 		@@menoque100:
 			;ponteiro base
 			ldr		r1, =PONTEIRO6
+
 		@@menoque100common:
+			ldr		r1, [r1]		;ponteiro do ponteiro
 			lsl		r0, 1
 			add		r0, r1
 			
@@ -188,7 +391,7 @@
 			cmp		r2, DATA2
 			beq		@@movel
 			
-			add		r0, 0x12
+			add		r0, 0x0d
 			ldr		r7, =0x0000b354		;prioridade 0
 			b		@@cc
 			

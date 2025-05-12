@@ -1,5 +1,10 @@
 - Editar gráfico "PAUSE", durante as batalhas
+- Editar gráfico "AVANÇADO", durante as batalhas
+- Editar gráfico "TRAP", durante as batalhas
+- Unificar pastas de scripts Azul e Branca, dado que elas são 100% idênticas entre os jogos
+- Atualizar extensão previewer de diálogos, pra adicionar suporte às descrições de chips do mmbn3
+- Bolar uma forma programática de fazer uma pré-revisão dos textos, usando uma biblioteca PHP de corretor ortográfico
+- Pedir pro Sahgo arrumar um savestate após ter zerado, pra poder traduzir os créditos
 - Editar nomes que aparecem antes dos turnos das batalhas, ou no final delas
-- Corrigir bug nas descrições dos chips, onde após ter retraduzido eles pra expandir seus tamanhos, o jogo buga na hora de exibir as descrições
 - Corrigir bug ao trocar chips via cabo link, onde a descrição dos chips tá aparecendo na esquerda ao invés da direita
 - Estender fonte VWF das descrições para a "Lista P.A."
