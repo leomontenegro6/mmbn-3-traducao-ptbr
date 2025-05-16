@@ -526,7 +526,7 @@ script 41 mmbn3 {
 	"""
 	Quem é que tá barrando
 	a Metrolinha? Assim, não
-	posso ir pro Scilab!
+	posso ir pro SciLab!
 	"""
 	keyWait
 	end

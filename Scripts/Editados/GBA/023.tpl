@@ -91,7 +91,7 @@ script 4 mmbn3 {
 	msgOpen
 	"""
 	Adquiriu todos os
-	items de giro.
+	itens de giro.
 	"""
 	end
 }

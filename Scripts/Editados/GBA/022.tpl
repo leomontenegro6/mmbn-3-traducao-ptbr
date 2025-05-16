@@ -258,7 +258,7 @@ script 10 mmbn3 {
 	color
 		palette = 3
 	"""
-	Este é um subPET,
+	Este é um SubPET,
 	para usar caso o seu
 	esteja com defeito.
 	"""

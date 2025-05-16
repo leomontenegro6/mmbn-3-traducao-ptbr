@@ -1,0 +1,5880 @@
+Revisando arquivo: 016.tpl
+  Texto com erro: "Não precisa usar isso agora."
+    Erro: Não
+Revisando arquivo: 017.tpl
+  Texto com erro: "Se olharem bem,
+&
+são ambos \
+."
+    Erro:  .
+    Sugestões: .
+  Texto com erro: "O que quer dizer que vocês podem escolher os dois simultaneamente."
+    Erro: O que quer dizer que
+    Sugestões: O que significa que
+  Texto com erro: "Agora, selecione a
+!"
+    Erro: a !
+    Sugestões: a!
+  Texto com erro: "Selecione a
+, como eu falei."
+    Erro: a ,
+    Sugestões: a,
+  Texto com erro: "Mas cuidado com os ataques deles quando se aproximarem!"
+    Erro: deles
+    Sugestões: deles,
+  Texto com erro: "É uma boa estratégia usá-lo junto com uma
+!"
+    Erro: junto com
+    Sugestões: com
+  Texto com erro: "É uma boa estratégia usá-lo junto com uma
+!"
+    Erro: uma !
+    Sugestões: uma!
+  Texto com erro: "Por sinal, chips marcados com um "*" são meio que como curingas."
+    Erro: Por sinal
+    Sugestões: ,
+Revisando arquivo: 018.tpl
+  Texto com erro: "Se escolherem um chip de que não precisam e apertarem "Adic.",
+os chips selecionados serão descartados, mas, no turno seguinte,
+vocês terão um número extra de chips igual ao número descartado!"
+    Erro: chips igual
+    Sugestões: chip igual, chips iguais, chips, igual
+  Texto com erro: "Depois de selecionar os três "Recov10", aperte o botão "Adic."!"
+    Erro: Depois de
+    Sugestões: Após
+  Texto com erro: "Depois de selecionar todos os três "Recov10", pressione "Adic."!"
+    Erro: Depois de
+    Sugestões: Após
+Revisando arquivo: 021.tpl
+  Texto com erro: "Estes dados podem destrancar a trava no computador do diretor!"
+    Erro: Estes
+  Texto com erro: "Esta senha pode destrancar a trava no computador do diretor!"
+    Erro: Esta
+  Texto com erro: "Estes dados provam que estamos na posição 8 do ranque."
+    Erro: Estes
+  Texto com erro: "Estes dados provam que estamos na posição 7 do ranque."
+    Erro: Estes
+  Texto com erro: "Estes dados provam que estamos na posição 3 do ranque."
+    Erro: Estes
+  Texto com erro: "Estes dados provam que estamos na posição 2 do ranque."
+    Erro: Estes
+  Texto com erro: "Esta chave abre uma trava no robô de segurança da WWW!"
+    Erro: Esta
+  Texto com erro: "Esta chave abre uma trava no robô de segurança da WWW!"
+    Erro: Esta
+  Texto com erro: "Se conseguirmos carimbar todo este cartão, ganharemos um prêmio!"
+    Erro: todo este
+    Sugestões: este
+  Texto com erro: "Lhe permite rotacionar peças brancas com os botões L e R!"
+    Erro: Lhe permite
+    Sugestões: Permite-lhe
+  Texto com erro: "Lhe permite rotacionar peças cor-de-rosa com os botões L e R!"
+    Erro: Lhe permite
+    Sugestões: Permite-lhe
+  Texto com erro: "Lhe permite rotacionar peças amarelas com os botões L e R!"
+    Erro: Lhe permite
+    Sugestões: Permite-lhe
+  Texto com erro: "Lhe permite rotacionar peças vermelhas com os botões L e R!"
+    Erro: Lhe permite
+    Sugestões: Permite-lhe
+  Texto com erro: "Lhe permite rotacionar peças azuis com os botões L e R!"
+    Erro: Lhe permite
+    Sugestões: Permite-lhe
+  Texto com erro: "Lhe permite rotacionar peças verdes com os botões L e R!"
+    Erro: Lhe permite
+    Sugestões: Permite-lhe
+  Texto com erro: "Lhe permite rotacionar peças laranja com os botões L e R!"
+    Erro: Lhe permite
+    Sugestões: Permite-lhe
+  Texto com erro: "Lhe permite rotacionar peças lilases com os botões L e R!"
+    Erro: Lhe permite
+    Sugestões: Permite-lhe
+  Texto com erro: "Lhe permite rotacionar peças cinza com os botões L e R!"
+    Erro: Lhe permite
+    Sugestões: Permite-lhe
+  Texto com erro: "Este arquivo contém a senha para acessar a página da Yai da Rede!"
+    Erro: Este
+  Texto com erro: "Um tíquete da Metrolinha para a Estação Yoka!"
+    Erro: Um
+  Texto com erro: "Um tíquete da Metrolinha para a Estação Angra!"
+    Erro: Um
+  Texto com erro: "É um tíquete de CyberMetrô para a Estação Yoka!"
+    Erro: É
+  Texto com erro: "É um tíquete de CyberMetrô para a Estação Angra!"
+    Erro: É
+Revisando arquivo: 022.tpl
+  Texto com erro: "Esta senha abre a trava no computador do diretor!"
+    Erro: Esta
+  Texto com erro: "Esta senha abre a trava no computador do diretor!"
+    Erro: Esta
+  Texto com erro: "Esta senha abre a trava no computador do diretor!"
+    Erro: Esta
+  Texto com erro: "Esta senha abre a trava no computador do diretor!"
+    Erro: Esta
+  Texto com erro: "Contém a senha para acessar a página da Yai da Rede!"
+    Erro: Contém
+  Texto com erro: "Aumenta +3 capacidade de chips."
+    Erro: Aumenta
+Revisando arquivo: 029.tpl
+  Texto com erro: "Quando será que a gente vai fazer o nosso batepapo hoje à noite?"
+    Erro: batepapo
+    Sugestões: bate-papo, bate papo
+  Texto com erro: "Lan, temos que que achar um programador!!"
+    Erro: que que
+    Sugestões: que
+  Texto com erro: "Já entregamos o
+..."
+    Erro: o .
+    Sugestões: o.
+  Texto com erro: "Vamos lá pro prédio da emissora de TV!"
+    Erro: Vamos
+  Texto com erro: "Que bom que a Yai tá bem."
+    Erro: .
+    Sugestões: !, ..., ,
+  Texto com erro: "Vamos vamos voltar e pegar eles!"
+    Erro: Vamos vamos
+    Sugestões: Vamos
+  Texto com erro: "Onde a ciência nutre vida"?"
+    Erro: Onde
+  Texto com erro: "Um de muitos pássaros"..."
+    Erro: "
+Revisando arquivo: 030.tpl
+  Texto com erro: "Quando será que a gente vai fazer o nosso batepapo hoje à noite?"
+    Erro: batepapo
+    Sugestões: bate-papo, bate papo
+  Texto com erro: "Já entregamos o
+..."
+    Erro: o .
+    Sugestões: o.
+  Texto com erro: "Vamos lá pro prédio da emissora de TV!"
+    Erro: Vamos
+  Texto com erro: "Que bom que a Yai tá bem."
+    Erro: .
+    Sugestões: !, ..., ,
+  Texto com erro: "Vamos vamos voltar e pegar eles!"
+    Erro: Vamos vamos
+    Sugestões: Vamos
+  Texto com erro: "Onde a ciência nutre vida"?"
+    Erro: Onde
+  Texto com erro: "Um de muitos pássaros"..."
+    Erro: "
+Revisando arquivo: 031.tpl
+  Texto com erro: "Já entregamos o
+..."
+    Erro: o .
+    Sugestões: o.
+  Texto com erro: "Que bom que a Yai tá bem."
+    Erro: .
+    Sugestões: !, ..., ,
+  Texto com erro: "Vamos vamos voltar e pegar eles!"
+    Erro: Vamos vamos
+    Sugestões: Vamos
+  Texto com erro: "Onde a ciência nutre vida"?"
+    Erro: Onde
+  Texto com erro: "Um de muitos pássaros"..."
+    Erro: "
+Revisando arquivo: 032.tpl
+  Texto com erro: "Já entregamos o
+..."
+    Erro: o .
+    Sugestões: o.
+  Texto com erro: "Vamos lá pro prédio da emissora de TV!"
+    Erro: Vamos
+  Texto com erro: "Que bom que a Yai tá bem."
+    Erro: .
+    Sugestões: !, ..., ,
+  Texto com erro: "Vamos vamos voltar e pegar eles!"
+    Erro: Vamos vamos
+    Sugestões: Vamos
+  Texto com erro: "Onde a ciência nutre vida"?"
+    Erro: Onde
+  Texto com erro: "Um de muitos pássaros"..."
+    Erro: "
+Revisando arquivo: 033.tpl
+  Texto com erro: "Que bom que a Yai tá bem."
+    Erro: .
+    Sugestões: !, ..., ,
+  Texto com erro: "Vamos vamos voltar e pegar eles!"
+    Erro: Vamos vamos
+    Sugestões: Vamos
+  Texto com erro: "Onde a ciência nutre vida"?"
+    Erro: Onde
+Revisando arquivo: 034.tpl
+  Texto com erro: "Que bom que a Yai tá bem."
+    Erro: .
+    Sugestões: !, ..., ,
+  Texto com erro: "Vamos vamos voltar e pegar eles!"
+    Erro: Vamos vamos
+    Sugestões: Vamos
+  Texto com erro: "Onde a ciência nutre vida"?"
+    Erro: Onde
+  Texto com erro: "Um de muitos pássaros"..."
+    Erro: "
+Revisando arquivo: 035.tpl
+  Texto com erro: "Que bom que a Yai tá bem."
+    Erro: .
+    Sugestões: !, ..., ,
+  Texto com erro: "Vamos vamos voltar e pegar eles!"
+    Erro: Vamos vamos
+    Sugestões: Vamos
+  Texto com erro: "Onde a ciência nutre vida"?"
+    Erro: Onde
+Revisando arquivo: 039.tpl
+  Texto com erro: "Onde a ciência nutre vida"?"
+    Erro: "
+Revisando arquivo: 040.tpl
+  Texto com erro: "Mas então, quem...?"
+    Erro: Mas então
+    Sugestões: Mas, Então
+Revisando arquivo: 041.tpl
+  Texto com erro: "Vamos atrás da chave do portão da escola!"
+    Erro: Vamos
+  Texto com erro: "Que bom que a Yai tá bem."
+    Erro: .
+    Sugestões: !, ..., ,
+  Texto com erro: "Eu não tô no clima pra zanzar pela Rede.."
+    Erro: ..
+    Sugestões: ., …
+  Texto com erro: "Acho que eu peguei pesado."
+    Erro: que eu peguei
+    Sugestões: que peguei
+  Texto com erro: "Onde a ciência nutre vida"?"
+    Erro: Onde
+  Texto com erro: "Onde foi que eu vi um...?"
+    Erro: que eu vi
+    Sugestões: que vi
+Revisando arquivo: 045.tpl
+  Texto com erro: "Vamos lá falar com o Navi que dá as missões!"
+    Erro: Vamos
+  Texto com erro: "Vamos lá pegar o dever de casa do Dex com ele!"
+    Erro: Vamos
+  Texto com erro: "Hmm...."
+    Erro: ....
+    Sugestões: …
+  Texto com erro: "Que bom que a Yai tá bem."
+    Erro: .
+    Sugestões: !, ..., ,
+  Texto com erro: "Eu não tô no clima pra zanzar pela Rede.."
+    Erro: ..
+    Sugestões: ., …
+  Texto com erro: "Acho que eu peguei pesado."
+    Erro: que eu peguei
+    Sugestões: que peguei
+  Texto com erro: "Onde foi que eu vi um...?"
+    Erro: que eu vi
+    Sugestões: que vi
+Revisando arquivo: 046.tpl
+  Texto com erro: "Que bom que a Yai tá bem."
+    Erro: .
+    Sugestões: !, ..., ,
+  Texto com erro: "Eu não tô no clima pra zanzar pela Rede.."
+    Erro: ..
+    Sugestões: ., …
+  Texto com erro: "Acho que eu peguei pesado."
+    Erro: que eu peguei
+    Sugestões: que peguei
+  Texto com erro: "Onde foi que eu vi um...?"
+    Erro: que eu vi
+    Sugestões: que vi
+Revisando arquivo: 047.tpl
+  Texto com erro: "Que bom que a Yai tá bem."
+    Erro: .
+    Sugestões: !, ..., ,
+  Texto com erro: "Eu não tô no clima pra zanzar pela Rede.."
+    Erro: ..
+    Sugestões: ., …
+  Texto com erro: "Acho que eu peguei pesado."
+    Erro: que eu peguei
+    Sugestões: que peguei
+  Texto com erro: "Rocha"?"
+    Erro: "
+  Texto com erro: "Onde foi que eu vi um...?"
+    Erro: que eu vi
+    Sugestões: que vi
+Revisando arquivo: 048.tpl
+  Texto com erro: "Que bom que a Yai tá bem."
+    Erro: .
+    Sugestões: !, ..., ,
+  Texto com erro: "Eu não tô no clima pra zanzar pela Rede.."
+    Erro: ..
+    Sugestões: ., …
+  Texto com erro: "Acho que eu peguei pesado."
+    Erro: que eu peguei
+    Sugestões: que peguei
+  Texto com erro: "Rocha"?"
+    Erro: "
+  Texto com erro: "Onde foi que eu vi um...?"
+    Erro: que eu vi
+    Sugestões: que vi
+Revisando arquivo: 049.tpl
+  Texto com erro: "Eu não tô no clima pra zanzar pela Rede.."
+    Erro: ..
+    Sugestões: ., …
+  Texto com erro: "Acho que eu peguei pesado."
+    Erro: que eu peguei
+    Sugestões: que peguei
+  Texto com erro: "Rocha"?"
+    Erro: "
+Revisando arquivo: 051.tpl
+  Texto com erro: "Ah, eu fui no aquário, um dia desses!"
+    Erro: no
+    Sugestões: ao
+  Texto com erro: "MegaMan, \
+."
+    Erro:  .
+    Sugestões: .
+  Texto com erro: "As jibóias do zoológico dão medo, sim ou não?"
+    Erro: jibóias
+    Sugestões: jiboias
+  Texto com erro: "Ssssssssssim."
+    Erro: Ssssssssssim
+  Texto com erro: "Especialmente rosas vermelhas e violetas azuis!"
+    Erro: rosas vermelhas
+    Sugestões: rosas-vermelhas
+  Texto com erro: "Sempre escrevia E=m2c em vez de E=mc2."
+    Erro: m2c
+    Sugestões: MC, MEC, MTC, B2C, MAC, Mac, MVC
+  Texto com erro: "Assim, eu vou a2c!"
+    Erro: a2c
+    Sugestões: AC, AVC, AAC, ANC, ADC, AdC, Arc, B2C, abc, AMC
+  Texto com erro: "C>:(
+..."
+    Erro: ( 
+    Sugestões: (
+Revisando arquivo: 052.tpl
+  Texto com erro: "E a casa na frente da parada de ônibus é a do Dex..."
+    Erro: E
+  Texto com erro: "Esses PETs são uma mão na roda, hein?"
+    Erro: são uma mão na roda
+    Sugestões: ajudam muito, são prestável
+  Texto com erro: "Eu odeio pedir isso depois de cê me ajudar e tal..."
+    Erro: depois de
+    Sugestões: após
+  Texto com erro: "Mas tô frustrado por não ter podido usar o GutsMan."
+    Erro: ter podido
+    Sugestões: poder
+  Texto com erro: "O meu Neo Gutsman vai te amassar com gosto!"
+    Erro: Gutsman
+    Sugestões: GutsMan ('M' maiúsculo)
+  Texto com erro: "Eu não saio daqui té vocês "tazerem" o melhor NetLutador daqui!"
+    Erro: tazerem
+    Sugestões: fazerem, trazerem, azerem, jazerem, lazerem, talerem, taxarem
+  Texto com erro: "Se ele é seu amigo, acho que tudo bem ajudá-lo..."
+    Erro: ajudá-lo
+    Sugestões: o ajudar
+  Texto com erro: "Queria que que ele ficasse sempre!"
+    Erro: que que
+    Sugestões: que
+  Texto com erro: "Eu liguei a minha lavalouças via Rede, e, chegando em casa..."
+    Erro: lavalouças
+    Sugestões: lava-louças, lava-loiças, lava-louça, lava louças
+  Texto com erro: "Posso ver seu
+, por favor?"
+    Erro: seu ,
+    Sugestões: seu,
+Revisando arquivo: 053.tpl
+  Texto com erro: "Aí, você teve lá no Scilab esses dias, né?"
+    Erro: Scilab
+    Sugestões: Scilab ('L' maiúsculo)
+  Texto com erro: "O console novo que eu comprei tá ligado na Rede!"
+    Erro: que eu comprei
+    Sugestões: que comprei
+  Texto com erro: "Meu console de video game ligado à Rede...!"
+    Erro: video game
+    Sugestões: videogame
+  Texto com erro: "Ele derretou todinho!"
+    Erro: derretou
+    Sugestões: derreteu
+  Texto com erro: "Aquele incêndio no SciLab me deu medo pra caramba..."
+    Erro: medo pra caramba
+    Sugestões: muito medo, bastante medo
+  Texto com erro: "Espero que ele tenha ficado bemn!"
+    Erro: bemn
+    Sugestões: bem
+  Texto com erro: "Com todas essas atrocidades que andam acontecendo,
+eu comecei a pensar que nós dependemos demais da Rede!"
+    Erro: que nós dependemos
+    Sugestões: que dependemos
+  Texto com erro: "Ele tem NOÇÃO de com quem ele tá falando?!"
+    Erro: de com
+    Sugestões: de, com
+  Texto com erro: "A maioria dos civis estão buscando abrigo no SciLab."
+    Erro: estão
+    Sugestões: está
+  Texto com erro: "Você gostaria deste
+?"
+    Erro: deste ?
+    Sugestões: deste?
+  Texto com erro: "Mas, se levá-la, ela irá sobrescrever a sua Pasta Extra!"
+    Erro: levá-la
+    Sugestões: a levar
+  Texto com erro: "Desculpe por toda esta dor de cabeça, meu filho!"
+    Erro: toda esta
+    Sugestões: esta
+  Texto com erro: "Posso ver seu
+, por favor?"
+    Erro: seu ,
+    Sugestões: seu,
+  Texto com erro: "Vamos na casa do Dex, ver se ele ainda tá lá!"
+    Erro: na
+    Sugestões: à
+Revisando arquivo: 054.tpl
+  Texto com erro: "Ora, então onde você espera que eu compre o meu cafézinho matinal?"
+    Erro: cafézinho
+    Sugestões: cafezinho, cafezinhos, cafizinho, chalezinho
+Revisando arquivo: 055.tpl
+  Texto com erro: "Eu acho que você passa tempo demais na Rede, Lan!"
+    Erro: passa tempo
+    Sugestões: passatempo
+  Texto com erro: "Bom, que tal ME ajudar na casa, de vez em quando?!"
+    Erro: de vez em quando
+    Sugestões: ocasionalmente, por vezes
+  Texto com erro: "Você não tá com uma carinha muito boa, Lan."
+    Erro: muito boa
+    Sugestões: ótima
+  Texto com erro: "É possível se conectar para fazer manutenção e ajuster."
+    Erro: ajuster
+    Sugestões: ajustar, ajuste, ajustes, ajustem, ajustei
+  Texto com erro: "E tá ficando muito boa nisso!"
+    Erro: muito boa
+    Sugestões: ótima
+Revisando arquivo: 057.tpl
+  Texto com erro: "Mas seria necessário uma tecnologia bem avançada, é."
+    Erro: seria necessário uma tecnologia
+    Sugestões: seria necessária uma tecnologia
+  Texto com erro: "Daria, se você tivesse tivesse uns dados de compressão."
+    Erro: tivesse tivesse
+    Sugestões: tivesse
+  Texto com erro: "lá pela área Yoka 1..."
+    Erro: lá
+    Sugestões: Lá
+  Texto com erro: "Você é um menino muito bom, Lan."
+    Erro: muito bom
+    Sugestões: ótimo
+Revisando arquivo: 058.tpl
+  Texto com erro: "Não é nada, não!"
+    Erro: Não
+  Texto com erro: "Deve estar aconcendo alguma coisa..."
+    Erro: aconcendo
+    Sugestões: acomendo
+Revisando arquivo: 059.tpl
+  Texto com erro: "Ê!"
+    Erro: Ê
+    Sugestões: E, É
+  Texto com erro: "Amanhã, a gente vai no parque de "di-veção"!"
+    Erro: no
+    Sugestões: ao
+  Texto com erro: "Parece que tem brotado umas guerras por todo o mundo.."
+    Erro: ..
+    Sugestões: ., …
+  Texto com erro: "Uma estante cheia de livros didáticos quase nunca abertos."
+    Erro: quase nunca
+    Sugestões: raramente
+  Texto com erro: "Mas há jogos velhos que são tão divertidos hoje quanto eram na época!"
+    Erro:  que são tão divertidos
+    Sugestões:  tão divertidos, , tão divertidos
+Revisando arquivo: 060.tpl
+  Texto com erro: "E discutir!"
+    Erro: E
+  Texto com erro: "O Glide disse que a Rede tá em chamas!"
+    Erro: O
+  Texto com erro: "Será que é por causa da WWW?"
+    Erro: por causa da
+    Sugestões: devido à, pela
+  Texto com erro: "Não queria envolver mais ninguém", acertei?"
+    Erro: "
+Revisando arquivo: 061.tpl
+  Texto com erro: "vai me permitir encomendar todo tipo de chip, é!!"
+    Erro: vai
+    Sugestões: Vai
+  Texto com erro: "à Navi vermelha na área SciLab 2."
+    Erro: à
+    Sugestões: À
+  Texto com erro: "É você me dar o nome de um chip que quer...
+que eu posso pedi-lo pro meu fornecedor, é!"
+    Erro: posso
+    Sugestões: possa
+Revisando arquivo: 062.tpl
+  Texto com erro: "Pra eleger um Chip Padrão, é só selecionar o o chip desejado
+na Tela de Edição de Pastas e apertar o botão "Select"."
+    Erro: o o
+    Sugestões: o, o… O
+  Texto com erro: "Que bom que eu fiz anotações na nossa excursão pro SciLab!"
+    Erro: que eu fiz
+    Sugestões: que fiz
+  Texto com erro: "Como é que ele SEMPRE realiza essas façanhas?"
+    Erro: Como é que
+    Sugestões: Como
+  Texto com erro: "A cadeira da minha tá quebrada, toda torta!"
+    Erro: tá quebrada
+    Sugestões: tá quebrado, tá, quebrada, tá Quebrada
+  Texto com erro: "Sei que está chateado por causa do seu pai, mas, por favor,
+volte pra escola assim que puder, tá?"
+    Erro: por causa do
+    Sugestões: devido ao, pelo
+  Texto com erro: "Não pode ser..."
+    Erro: Não
+  Texto com erro: "Quer lê-lo?"
+    Erro: lê-lo
+    Sugestões: o ler, o lês
+Revisando arquivo: 063.tpl
+  Texto com erro: "Aprenderam algum tipo de super técnica antivírus nova?"
+    Erro: antivírus nova
+    Sugestões: antivírus novo, antivírus, nova, antivírus Nova
+  Texto com erro: "é feito de um novo tecido capaz de bloquear a luz completamente!"
+    Erro: é
+    Sugestões: É
+  Texto com erro: "Você e seus três amigos vão bater papo hoje à noite?"
+    Erro: bater papo
+    Sugestões: conversar
+  Texto com erro: "Como eu amo sextasfeiras!"
+    Erro: sextasfeiras
+    Sugestões: sextas-feiras, sextas feiras
+  Texto com erro: "Eu quero ir pra casa jogar video game!"
+    Erro: video game
+    Sugestões: videogame
+  Texto com erro: "Que coisa macia é essa, escondida aqui atrás."
+    Erro: .
+    Sugestões: !, ?, !?, ,, ...
+  Texto com erro: "Como é que você sempre acaba se envolvendo nessas coisas?"
+    Erro: Como é que
+    Sugestões: Como
+  Texto com erro: "Você deve ser um imã de perigo, sei lá!"
+    Erro: imã
+    Sugestões: ímã
+  Texto com erro: "Que coisa."
+    Erro: .
+    Sugestões: !, ?, !?, ,, ...
+  Texto com erro: "Que bom que eu pedi pra você!"
+    Erro: que eu pedi
+    Sugestões: que pedi
+  Texto com erro: "Este peixinho ganhou o 8o."
+    Erro: 8o
+    Sugestões: 8⁠º
+  Texto com erro: "Ciência Divertida" "História em Gibi" "O Estômago Faminto"
+    Erro: "
+Revisando arquivo: 065.tpl
+  Texto com erro: "Mas eu também ficaria com um pouquinho de medo de ir na frente..."
+    Erro: na
+    Sugestões: à
+  Texto com erro: "Acho que vou sentir mais saudades dele do do que eu pensei."
+    Erro: do do
+    Sugestões: do
+  Texto com erro: "Acho que vou sentir mais saudades dele do do que eu pensei."
+    Erro: que eu pensei
+    Sugestões: que pensei
+Revisando arquivo: 066.tpl
+  Texto com erro: "que estão com ele."
+    Erro: que
+    Sugestões: Que
+  Texto com erro: "É bem longo e recheado de regras, mandamentos e etc.
+Uma estranha estátua doada por um muitíssimo suspeito antiquário."
+    Erro:  e etc.
+    Sugestões: , etc.
+  Texto com erro: "Você descobre alguma coisa presa numa pilha de papeis..."
+    Erro: papeis
+    Sugestões: papéis
+Revisando arquivo: 068.tpl
+  Texto com erro: "toma cuidado!"
+    Erro: toma
+    Sugestões: Toma
+  Texto com erro: "sobrando?"
+    Erro: sobrando
+    Sugestões: Sobrando
+Revisando arquivo: 069.tpl
+  Texto com erro: "Terei que me trocar só depois de chegar lá..."
+    Erro: depois de
+    Sugestões: após
+Revisando arquivo: 070.tpl
+  Texto com erro: "O café dessa máquina de bebidas não é muito bom, não..."
+    Erro: muito bom
+    Sugestões: ótimo
+  Texto com erro: "Os pedidos, normalmente, são aceitados por NetLutadores amadores."
+    Erro: aceitados
+    Sugestões: aceites
+  Texto com erro: "Via de regra, só dá pra assumir um pedido por vez."
+    Erro: Via de regra
+    Sugestões: Por norma
+  Texto com erro: "Você é muito bom, rapaz!!"
+    Erro: muito bom
+    Sugestões: ótimo
+  Texto com erro: "Tenho uma reunião marcada no 42o. andar."
+    Erro: 42o.
+    Sugestões: 42o
+  Texto com erro: "Esse pessoal da TV tem um trabalho dificinho, viu?"
+    Erro: dificinho
+    Sugestões: direitinho, diruidinho, dizidinho, piticinho
+  Texto com erro: "Quantos competidores do N1 será que vão vir aqui?"
+    Erro: vão vir
+    Sugestões: vêm
+  Texto com erro: "Se tu for lá uma hora, manda um oi."
+    Erro: tu for
+    Sugestões: tu fores, tu for
+  Texto com erro: "Por favor, não mxa nas máquinas até terminarem!"
+    Erro: mxa
+    Sugestões: mexa
+  Texto com erro: "O último incidente deve ter
+deixado ele exausto, mas me disseram que ele ainda está aqui!"
+    Erro: ainda está
+    Sugestões: continua
+  Texto com erro: "Levamos os civis para outra sala, para que descansem."
+    Erro: para que descansem
+    Sugestões: para descansarem
+  Texto com erro: "Mas não resta muita esperança... a menos que Alpha seja destrído."
+    Erro: destrído
+    Sugestões: destruído
+  Texto com erro: "para dar seguimento."
+    Erro: para
+    Sugestões: Para
+Revisando arquivo: 071.tpl
+  Texto com erro: "Programas de computador são feitos de 1s e 0s!"
+    Erro: Programas de computador
+    Sugestões: Softwares, Aplicações, Aplicativos, Apps
+  Texto com erro: "Isso poderia arriscar as vidas dos que ainda estão nelas!"
+    Erro: ainda estão
+    Sugestões: continuam
+  Texto com erro: "Porém, fora isso, eles não são muitos diferentes de Navis!"
+    Erro: muitos
+    Sugestões: muito
+  Texto com erro: "Primeiro
+."
+    Erro: Primeiro .
+    Sugestões: Primeiro.
+  Texto com erro: "leve isto para o Programa na área SciLab 1."
+    Erro: leve
+    Sugestões: Leve
+  Texto com erro: "Mas o que a mundo WWW poderia querer...?"
+    Erro: a mundo
+    Sugestões: o mundo, a munda, ao mundo, a Mundo
+  Texto com erro: "Poderia mesmo ser
+."
+    Erro: ser .
+    Sugestões: ser.
+  Texto com erro: "Tudo bem, posso explicar uma outra hora."
+    Erro: uma outra
+    Sugestões: outra
+  Texto com erro: "Por favor, venha alimentar os vírus, de vez em quando!"
+    Erro: de vez em quando
+    Sugestões: ocasionalmente, por vezes
+  Texto com erro: "Costuvámamos enfiar vírus em cápsulas para usá-los como bombas,
+como as que criminosos usam pra cometer seus crimes."
+    Erro: Costuvámamos
+    Sugestões: Costumávamos
+  Texto com erro: "Não poedmos deixar a WWW obter o Alpha!"
+    Erro: poedmos
+    Sugestões: podemos, põe-nos
+  Texto com erro: "Isso quer dizer que a WWW realmente decodificou o Alpha?!"
+    Erro: realmente decodificou o
+    Sugestões: decodificou realmente o
+  Texto com erro: "Por favor, encontre o o dispositivo defeituoso."
+    Erro: o o
+    Sugestões: o, o… O
+Revisando arquivo: 072.tpl
+  Texto com erro: "Me sinto horrível por não poder falar com você depois de vir tão longe!"
+    Erro: depois de
+    Sugestões: após
+  Texto com erro: "Os competidores ficaram bem depois de cair naqueles buracos?!"
+    Erro: depois de
+    Sugestões: após
+  Texto com erro: "Você é muito bom!"
+    Erro: muito bom
+    Sugestões: ótimo
+  Texto com erro: "Ele é um homem importante, e portanto, um homem ocupado!"
+    Erro: e portanto
+    Sugestões: e, portanto
+Revisando arquivo: 074.tpl
+  Texto com erro: "A maioria dos cidadãos se cansou do perigo e deixou Yoka."
+    Erro: A
+  Texto com erro: "Nos dias de hoje, reciclar é muito importante."
+    Erro: Nos dias de hoje
+    Sugestões: Atualmente, Presentemente
+  Texto com erro: "Esta lixeira de latas tem o formato de um cangurú."
+    Erro: cangurú
+    Sugestões: canguru
+  Texto com erro: ""Deixa que eu cuido dessa lata pra você!"
+    Erro: "
+Revisando arquivo: 075.tpl
+  Texto com erro: ""Por quê", eu não sei, mas ele é o chefe, né?"
+    Erro: Por quê
+    Sugestões: Porque, Por que
+  Texto com erro: "Bem que eu achei que tinha uma coisa suspeita naquele tratador!"
+    Erro: que eu achei
+    Sugestões: que achei
+  Texto com erro: "Acho que vou tirar uma foto pra mostrar que eu vim aqui."
+    Erro: tirar uma foto pra
+    Sugestões: fotografar a
+  Texto com erro: "Acho que vou tirar uma foto pra mostrar que eu vim aqui."
+    Erro: que eu vim
+    Sugestões: que vim
+  Texto com erro: "Que bom."
+    Erro: bom.
+    Sugestões: bom!, bom?, bom!?, bom,, bom...
+  Texto com erro: "O nosso encontro aqui não pode ser mera coincidência!"
+    Erro: mera coincidência
+    Sugestões: coincidência
+  Texto com erro: "Mas nosso encontro aqui deve ser mais que mero acaso, de certo."
+    Erro: de certo
+    Sugestões: decerto, dê certo
+  Texto com erro: "Aquele moço da fantasia esquisita que passou por aqui mencionou
+um banho ao ar livre."
+    Erro: passou
+    Sugestões: passou,
+  Texto com erro: "Acho que vou aproveitar e ter dar uns conselhos!"
+    Erro: ter dar
+    Sugestões: ter de dar, ter que dar
+  Texto com erro: "Até eu preciso de uma sombra e água fresca, de vez em quando."
+    Erro: de vez em quando
+    Sugestões: ocasionalmente, por vezes
+  Texto com erro: "Mas o condor ainda está desaparecido."
+    Erro: ainda está
+    Sugestões: continua
+  Texto com erro: "Dois ingressos, por por favor."
+    Erro: por por
+    Sugestões: por
+  Texto com erro: "Ajudar os outros, muitas vezes, é a melhor forma de ajudar a si mesmo!"
+    Erro: si mesmo
+    Sugestões: si
+  Texto com erro: "Que comoção toda é essa lá na pousada?!"
+    Erro: comoção
+    Sugestões: comoção,
+  Texto com erro: "e contar pros visitantes do zoológico só causaria pânico..."
+    Erro: e
+    Sugestões: E
+  Texto com erro: "Minha vózinha sempre me dizia pra manter distância de problemas."
+    Erro: vózinha
+    Sugestões: vozinha
+  Texto com erro: "De qualquer forma, me alegra ver a ascenção de fortes NetLutadores!"
+    Erro: ascenção
+    Sugestões: ascensão, ascendam
+  Texto com erro: "Darei a você uma aula gratuita para que fique mais forte, também!"
+    Erro: para que fique
+    Sugestões: para ficar
+  Texto com erro: "Mas não me entanda mal: estou muito admirado com suas habilidades!"
+    Erro: entanda
+    Sugestões: entenda
+  Texto com erro: "O ataque carregado do dFishy é difícil de evitar."
+    Erro: dFishy
+    Sugestões: dizei, Daisy
+  Texto com erro: "Quando chips são usados com seus códigos em sequência (ABC...), tipo
+canhões, isso pode gerar Programas Avançados!"
+    Erro: tipo canhões
+    Sugestões: tipo canhão, tipos canhões, tipo, canhões
+  Texto com erro: "Quando você aperta "A" para usar certos chips, como socos,
+dá para aumentar a força do ataque segurando o botão "A" e apertando
+para baixo, inferiordireito e direita nos direcionais!"
+    Erro: inferiordireito
+    Sugestões: inferior direito
+  Texto com erro: "Quadros de areia são difíceis de andar, mas mas aumentam o poder
+de certos ataques."
+    Erro: mas mas
+    Sugestões: mas, mas
+  Texto com erro: "Se sim, segure o botão "A
+da próxima vez que usá-la e tente inserir comandos!"
+    Erro: "
+  Texto com erro: "Se sim, segure o botão "A
+da próxima vez que usá-la e tente inserir comandos!"
+    Erro: usá-la
+    Sugestões: a usar
+  Texto com erro: "Após paralizar ou atordoar um inimigo, tente um ataque em seguida!"
+    Erro: paralizar
+    Sugestões: paralisar
+  Texto com erro: "Acertos sucessivos causam dano para caramba!"
+    Erro: dano para caramba
+    Sugestões: dano muito, dano bastante, dano demais, dano excessivamente
+  Texto com erro: "Ouvi dizer que há um chip que abre um abre um portal pra lá!"
+    Erro: abre um abre um
+    Sugestões: abre um
+  Texto com erro: "E... er....?"
+    Erro: ....
+    Sugestões: …
+Revisando arquivo: 076.tpl
+  Texto com erro: "Ah, e, por sinal..."
+    Erro: por sinal
+    Sugestões: ,
+  Texto com erro: "O Grande Prêmiio N1 está a todo vapor!"
+    Erro: Prêmiio
+    Sugestões: Prêmio, Premio, Premido, Premi-o, Premiria, Premirão, Prênico
+  Texto com erro: "O Grande Prêmiio N1 está a todo vapor!"
+    Erro: a todo vapor
+    Sugestões: o mais rápido possível
+  Texto com erro: "Deixei uns papeis importantes lá em casa!"
+    Erro: papeis
+    Sugestões: papéis
+  Texto com erro: "Acho que é melhor eu voltar lá para buscálos."
+    Erro: buscálos
+    Sugestões: buscá-los
+  Texto com erro: "Vou lhe dar umas informações para que lute com ainda mais afinco!"
+    Erro: para que lute
+    Sugestões: para lutar
+  Texto com erro: "Que tumulto todo é esse?"
+    Erro: tumulto
+    Sugestões: tumulto,
+  Texto com erro: "Enfim...."
+    Erro: ....
+    Sugestões: …
+  Texto com erro: "mas isso é trabalho para os Oficiais."
+    Erro: mas
+    Sugestões: Mas
+  Texto com erro: "A WWW está na área Scilab?!"
+    Erro: Scilab
+    Sugestões: SciLab ('L' maiúsculo)
+  Texto com erro: "Você tem um
+?"
+    Erro: um ?
+    Sugestões: um?
+  Texto com erro: "O que é que tá acontecendo com o mundo?"
+    Erro: O que é que
+    Sugestões: O que
+  Texto com erro: "Se eu instalar este programa aqui...
+acho que consigo fortalecer bastatne o PunkMan..."
+    Erro: bastatne
+    Sugestões: bastante, basta-me, vasta-me, vastante
+  Texto com erro: "O ataque do Fishy é é difícil de desviar!"
+    Erro: é é
+    Sugestões: é
+  Texto com erro: "Quando chips são usados com seus códigos em sequência (ABC...), tipo
+canhões, isso pode gerar Programas Avançados!"
+    Erro: tipo canhões
+    Sugestões: tipo canhão, tipos canhões, tipo, canhões
+  Texto com erro: "Quando você aperta "A" para usar certos chips, como socos,
+dá para aumentar a força do ataque segurando o botão "A" e apertando
+para baixo, inferiordireito e direita nos direcionais!"
+    Erro: inferiordireito
+    Sugestões: inferior direito
+  Texto com erro: "Quadros de areia são difíceis de andar, mas mas aumentam o poder
+de certos ataques."
+    Erro: mas mas
+    Sugestões: mas, mas
+  Texto com erro: "Se sim, segure o botão "A
+da próxima vez que usá-la e tente inserir comandos!"
+    Erro: "
+  Texto com erro: "Se sim, segure o botão "A
+da próxima vez que usá-la e tente inserir comandos!"
+    Erro: usá-la
+    Sugestões: a usar
+  Texto com erro: "Após paralizar ou atordoar um inimigo, tente um ataque em seguida!"
+    Erro: paralizar
+    Sugestões: paralisar
+  Texto com erro: "Acertos sucessivos causam dano para caramba!"
+    Erro: dano para caramba
+    Sugestões: dano muito, dano bastante, dano demais, dano excessivamente
+  Texto com erro: "Ouvi dizer que há um chip que abre um abre um portal pra lá!"
+    Erro: abre um abre um
+    Sugestões: abre um
+  Texto com erro: "E... er....?"
+    Erro: ....
+    Sugestões: …
+Revisando arquivo: 077.tpl
+  Texto com erro: "Nossa, cheguei a pensei que eu ia desmaiar, acredita?"
+    Erro: cheguei a pensei
+    Sugestões: cheguei a pensar
+  Texto com erro: "Não pense que sou fácil de vencer só porque sou diva!"
+    Erro: Não
+  Texto com erro: "É o Neo Gutsman!"
+    Erro: Gutsman
+    Sugestões: GutsMan ('M' maiúsculo)
+  Texto com erro: "Você é MUITO bom, pra vencer aquela versão do MetalMan!"
+    Erro: MUITO bom
+    Sugestões: ótimo
+  Texto com erro: "Ele mencionou pra mim
+que pretendia ir a um plaza depois de pegar o chip."
+    Erro: depois de
+    Sugestões: após
+  Texto com erro: "Este mostruário para as camisas, na verdade, é um autofalante!"
+    Erro: autofalante
+    Sugestões: altifalante, alto-falante, auto falante
+Revisando arquivo: 078.tpl
+  Texto com erro: "Que lugarzinho pitoresco."
+    Erro: .
+    Sugestões: !, ..., ,
+  Texto com erro: "É muito bom vê-lo!"
+    Erro: muito bom
+    Sugestões: ótimo
+  Texto com erro: "Você ainda está aqui?!"
+    Erro: ainda está
+    Sugestões: continua
+  Texto com erro: "Não estão me deixando ir pra minha barraquinha favorita!"
+    Erro: Não
+  Texto com erro: "Lan recebeu "8000 Zennys
+e um PowerUp:
+\"
+    Erro: "
+Revisando arquivo: 080.tpl
+  Texto com erro: "Por sinal, querida, bati!"
+    Erro: Por sinal
+    Sugestões: ,
+  Texto com erro: "Você pisou na bola, papai!"
+    Erro: pisou na bola
+    Sugestões: cometeu um deslize
+  Texto com erro: "Sei dizer de que peças todos precisam só ao ver de relance!"
+    Erro: dizer de que
+    Sugestões: dizer que
+  Texto com erro: "Estes vasos gigantes são lisinhos e elengantemente moldados."
+    Erro: elengantemente
+    Sugestões: elegantemente
+  Texto com erro: "Estes vasos gigantes são lisinhos e elengantemente moldados."
+    Erro: elengantemente
+    Sugestões: elegantemente
+  Texto com erro: "Tem alguma coisa brilhante dentro de um dos vasos!"
+    Erro: dentro de um
+    Sugestões: num, em um
+Revisando arquivo: 081.tpl
+  Texto com erro: "Mas essa cerca parece tão fragilzinha..."
+    Erro: fragilzinha
+    Sugestões: frágilzinho
+  Texto com erro: "Aquilo foi um problemão pros hóspedes do hotel!"
+    Erro: problemão
+    Sugestões: problemas, problema
+  Texto com erro: "O 4o."
+    Erro: 4o
+    Sugestões: 4⁠º
+  Texto com erro: "O 8o."
+    Erro: 8o
+    Sugestões: 8⁠º
+  Texto com erro: "O 11o."
+    Erro: O
+  Texto com erro: "O 11o."
+    Erro: 11o
+    Sugestões: 11⁠º
+  Texto com erro: "Trás"
+    Erro: Trás
+    Sugestões: Traz
+  Texto com erro: "Sala dos Profs."
+    Erro: Profs
+    Sugestões: Pros, Prós, Proas, Profa, Proes, Proiz
+  Texto com erro: "Você ainda não está afiado o basatante!"
+    Erro: basatante
+    Sugestões: bastante
+Revisando arquivo: 082.tpl
+  Texto com erro: "Só o condor ainda está à solta."
+    Erro: ainda está
+    Sugestões: continua
+  Texto com erro: "girafas
+elefantes"
+    Erro: girafas
+    Sugestões: Girafas
+  Texto com erro: "Belê, diz pro seu chefe que eu mandei um abraço!"
+    Erro: que eu mandei
+    Sugestões: que mandei
+  Texto com erro: "O que eu faço com todo este tempo livre nas mãos?"
+    Erro: todo este
+    Sugestões: este
+  Texto com erro: "Você pegou o condor sem machucá-lo!"
+    Erro: machucá-lo
+    Sugestões: o machucar
+  Texto com erro: "Os gorilas parecem felizes, sentados em paz, limpando uns aos outros."
+    Erro: uns aos outros
+    Sugestões: reciprocamente, mutualmente
+  Texto com erro: "Ela deve estar endediada nessa jaula."
+    Erro: endediada
+    Sugestões: entediada
+Revisando arquivo: 083.tpl
+  Texto com erro: "Todos os animais parecem estar de mau humor."
+    Erro: mau humor
+    Sugestões: mau-humor
+  Texto com erro: "Olha que fofoo!"
+    Erro: fofoo
+    Sugestões: fofo, fofos, fofo-o, fofoco, fofou, fofou-o, fofão, fofo o
+  Texto com erro: "Adoro como ele é "bumbumzudo"!"
+    Erro: bumbumzudo
+    Sugestões: umbundo, bumbuns, bimbundo, bumbando, vunvuns
+  Texto com erro: "Eeeeii!"
+    Erro: Eeeeii
+    Sugestões: Eleei, Eleeis
+  Texto com erro: "Grrrr.""
+    Erro: "
+  Texto com erro: "Aick!"
+    Erro: Aick
+    Sugestões: Nick, Ryck, Aicá
+  Texto com erro: "Então, haja o que houver, eu vou protegêlos, a qualquer custo!"
+    Erro: protegêlos
+    Sugestões: protegê-los
+  Texto com erro: "em algum lugar."
+    Erro: em
+    Sugestões: Em
+  Texto com erro: "Hipopótamos quase nunca saem da água, menos para comer."
+    Erro: quase nunca
+    Sugestões: raramente
+  Texto com erro: "A píton parece zangada enquanto rasteja pela jaula."
+    Erro: A píton
+    Sugestões: O píton, Ao píton, A Píton
+Revisando arquivo: 085.tpl
+  Texto com erro: "Como uma cidade fantasma..."
+    Erro: cidade fantasma
+    Sugestões: cidade, fantasma, cidade – fantasma, cidade de fantasma
+Revisando arquivo: 086.tpl
+  Texto com erro: "O Chaud foi sozinho?"
+    Erro: O
+  Texto com erro: "Ele vai fazer vocês pagarem por todas as vezes que venceram ele!"
+    Erro: as vezes
+    Sugestões: às vezes
+  Texto com erro: "É um participantes?!"
+    Erro: um participantes
+    Sugestões: um participante, uns participantes, um, participantes
+  Texto com erro: "Do caramba", não acha?"
+    Erro: "
+  Texto com erro: "Gostou das
+?"
+    Erro: das ?
+    Sugestões: das?
+  Texto com erro: "Você não contou pra ninguém
+."
+    Erro: ninguém .
+    Sugestões: ninguém.
+  Texto com erro: "Volte em segurança, e tome um cafézinho delicioso aqui!"
+    Erro: cafézinho
+    Sugestões: cafezinho, cafezinhos, cafizinho, chalezinho
+  Texto com erro: "Ele é esquisitinho, né?"
+    Erro: esquisitinho
+    Sugestões: esquinitinho
+  Texto com erro: "Sei que eu perdi a rodada final, mas gostei do evento."
+    Erro: que eu perdi
+    Sugestões: que perdi
+  Texto com erro: "É um lugar muito mais perigoso do que a Rede que nós usamos."
+    Erro: que nós usamos
+    Sugestões: que usamos
+  Texto com erro: "Bem que eu achei que estava muito barulho para lá."
+    Erro: que eu achei
+    Sugestões: que achei
+  Texto com erro: "Computadores fazem a a maioria das nossas obrigações chatas,
+então, estou com muito tempo para mim mesma."
+    Erro: a a
+    Sugestões: à
+  Texto com erro: "Estou experimentando usar um lava-carros que é ligado à Rede."
+    Erro: que é ligado
+    Sugestões: ligado
+  Texto com erro: "Por que eu fui usar aquele lava-carros...?"
+    Erro: que eu fui
+    Sugestões: que fui
+  Texto com erro: "Costumam ficar perto do mar.
+Como vão as coisas?"
+    Erro: vão as
+    Sugestões: vão às
+  Texto com erro: "Uma \
+, é...?"
+    Erro:  ,
+    Sugestões: ,
+  Texto com erro: "Devido à crise, toda esta área está sendo barrada!"
+    Erro: toda esta
+    Sugestões: esta
+  Texto com erro: "Repito: Toda esta área será barrada devido à crise!"
+    Erro: Toda esta
+    Sugestões: Esta
+  Texto com erro: "Se eu costumava ter um outro Navi, antes?"
+    Erro: um outro
+    Sugestões: outro
+  Texto com erro: "Não olhe pra mim!"
+    Erro: Não
+  Texto com erro: "Ainda está ligado à Rede, e você pode se conectar!"
+    Erro: Ainda está
+    Sugestões: Continua
+Revisando arquivo: 087.tpl
+  Texto com erro: "Quero ver tu encarar ESTA estratégia, aqui!!"
+    Erro: tu encarar
+    Sugestões: tu encarares, tu encarar
+  Texto com erro: "É o Neo Gutsman!"
+    Erro: Gutsman
+    Sugestões: GutsMan ('M' maiúsculo)
+  Texto com erro: "Quem será esse mano mascarado da capa..?"
+    Erro: ..
+    Sugestões: ., …
+  Texto com erro: "Ei, o Dex e a Yai estão em um outro barco?"
+    Erro: um outro
+    Sugestões: outro
+  Texto com erro: "Não pense que sou fácil de vencer só porque sou diva!"
+    Erro: Não
+  Texto com erro: "É o Neo Gutsman!"
+    Erro: Gutsman
+    Sugestões: GutsMan ('M' maiúsculo)
+  Texto com erro: "Você é MUITO bom, pra vencer aquela versão do MetalMan!"
+    Erro: MUITO bom
+    Sugestões: ótimo
+  Texto com erro: "Que bom que o Sunayama, o diretor do N1, foi preso."
+    Erro: .
+    Sugestões: !, ..., ,
+  Texto com erro: "A segurança da DNN é rigída e muitíssimo confiável!"
+    Erro: rigída
+    Sugestões: rígida
+  Texto com erro: ", é só vir falar comigo."
+    Erro: ,
+    Sugestões: 
+  Texto com erro: "Há Navis espalhando vírus por toda esta emissora de TV."
+    Erro: toda esta
+    Sugestões: esta
+Revisando arquivo: 088.tpl
+  Texto com erro: "Vamos "fight"!"
+    Erro: fight
+    Sugestões: light
+  Texto com erro: "Quer apertá-lo?"
+    Erro: apertá-lo
+    Sugestões: o apertar
+Revisando arquivo: 089.tpl
+  Texto com erro: "Ha, ha."
+    Erro: , ha.
+    Sugestões: ha!, ha?, ha!?, ha,, ha...
+  Texto com erro: "O filme se chama
+."
+    Erro: chama .
+    Sugestões: chama.
+  Texto com erro: "Err...."
+    Erro: ....
+    Sugestões: …
+  Texto com erro: "Será que está dentro de uma pasta sua?"
+    Erro: dentro de uma
+    Sugestões: numa, em uma
+  Texto com erro: "Ele foi meticulsamente desenhado por artistas."
+    Erro: meticulsamente
+    Sugestões: meticulosamente
+  Texto com erro: "Aqui, ó!"
+    Erro: Aqui
+Revisando arquivo: 090.tpl
+  Texto com erro: "mas como daria pra arranjá-lo tão de última hora?"
+    Erro: mas
+    Sugestões: Mas
+  Texto com erro: "Quer apertá-lo?"
+    Erro: apertá-lo
+    Sugestões: o apertar
+Revisando arquivo: 091.tpl
+  Texto com erro: "Estou controlando os paineis, não posso ver as reações do público..."
+    Erro: paineis
+    Sugestões: painéis
+  Texto com erro: "Eu não acredito que teve um incêncio no SciLab..."
+    Erro: incêncio
+    Sugestões: incêndio, Inocêncio, incendiou
+  Texto com erro: "SciLab Sob Ameaça Da WWW"."
+    Erro: "
+Revisando arquivo: 092.tpl
+  Texto com erro: "Aí, eu vou estar na TV, em comerciais, em dublagens com "star talent"..."
+    Erro: talent
+    Sugestões: talento, talem
+  Texto com erro: ", a sua pasta terá que ser sobrescrita."
+    Erro: ,
+    Sugestões: 
+  Texto com erro: "Se precisar da minha
+, é só falar comigo!"
+    Erro: minha ,
+    Sugestões: minha,
+
+  Texto com erro: "Se da primeira vez não conseguir..."
+    Erro: da
+    Sugestões: dá
+  Texto com erro: "A seguir, Pergunta 12!"
+    Erro: , Pergunta
+    Sugestões: , pergunta, . Pergunta
+  Texto com erro: "Ele está tirando uma coisa de dentro de sua sua carapaça!"
+    Erro: sua sua
+    Sugestões: sua
+Revisando arquivo: 093.tpl
+  Texto com erro: "Não consigo achar o
+\"
+    Erro: Não
+  Texto com erro: "Seria demais se você usasse a Pastra Extra que eu editei."
+    Erro: Pastra
+    Sugestões: Pasta
+  Texto com erro: "Seria demais se você usasse a Pastra Extra que eu editei."
+    Erro: que eu editei
+    Sugestões: que editei
+  Texto com erro: "Bom, se mudar de ideia e quiser minha
+, é só pedir!"
+    Erro: minha ,
+    Sugestões: minha,
+  Texto com erro: ", agora, é toda sua!"
+    Erro: ,
+    Sugestões: 
+  Texto com erro: "Bom, se precisar de uma
+, é só voltar aqui."
+    Erro: uma ,
+    Sugestões: uma,
+  Texto com erro: "Vou enviar a
+."
+    Erro: a .
+    Sugestões: a.
+Revisando arquivo: 094.tpl
+  Texto com erro: "Será que tá dentro de uma pasta sua?"
+    Erro: dentro de uma
+    Sugestões: numa, em uma
+Revisando arquivo: 095.tpl
+  Texto com erro: "Até eu devo admitir: você é muito bom."
+    Erro: muito bom
+    Sugestões: ótimo
+Revisando arquivo: 096.tpl
+  Texto com erro: "E-espera aí, eu vou chamar o mé
+."
+    Erro: mé .
+    Sugestões: mé.
+  Texto com erro: "O que é que tá acontecendo?!"
+    Erro: O que é que
+    Sugestões: O que
+  Texto com erro: "Tem uma coisa brilhando, na sombra dele...."
+    Erro: ....
+    Sugestões: …
+Revisando arquivo: 097.tpl
+  Texto com erro: "Por favor, saia do hospital o quanto antes!"
+    Erro: o quanto antes
+    Sugestões: quanto antes
+  Texto com erro: "Ela é cultivada através de métodos de alta tecnologia."
+    Erro: através de
+    Sugestões: por, via, mediante, por meio de
+Revisando arquivo: 098.tpl
+  Texto com erro: "Até computadores dão defeito, de vez em quando."
+    Erro: de vez em quando
+    Sugestões: ocasionalmente, por vezes
+  Texto com erro: "Estamos todos torcendo para que dê tudo certo."
+    Erro: para que dê
+    Sugestões: para dar
+  Texto com erro: "Não parecia bem."
+    Erro: Não
+  Texto com erro: ""Cada gotinha pode salvar vidas!"
+    Erro: "
+  Texto com erro: "Como ela é recémchegada, a placa é novinha em folha."
+    Erro: recémchegada
+    Sugestões: recém-chegada, recém chegada
+Revisando arquivo: 099.tpl
+  Texto com erro: "A janela tá aberta, mas estamos no 2o. andar."
+    Erro: 2o.
+    Sugestões: 2o
+  Texto com erro: "Um grande espelho."
+    Erro: Um
+  Texto com erro: "Um de muitos pássaros"..."
+    Erro: "
+  Texto com erro: "Naquele estado
+."
+    Erro: estado .
+    Sugestões: estado.
+Revisando arquivo: 100.tpl
+  Texto com erro: "Vá na frente, certifique-se de que ele fique bem!"
+    Erro: na
+    Sugestões: à
+  Texto com erro: "Estamos tratando os feridos aqui,
+então, você não pode entrar no prontosocorro agora."
+    Erro: prontosocorro
+    Sugestões: Pronto-Socorro, pronto-socorro, pronto socorro, prontos ocorro
+  Texto com erro: "Que tal um desafiozinho?"
+    Erro: desafiozinho
+    Sugestões: desa fiozinho
+  Texto com erro: "Qual criatura anda com os pés na cabeça?"
+    Erro: anda com os pés
+    Sugestões: anda
+  Texto com erro: "A é irmão de B. B é irmão de C. C é mãe de D. D é ..."
+    Erro: irmão
+    Sugestões: irmã
+  Texto com erro: "A é irmão de B. B é irmão de C. C é mãe de D. D é ..."
+    Erro: D. D
+    Sugestões: D.D.
+  Texto com erro: "A é irmão de B. B é irmão de C. C é mãe de D. D é ..."
+    Erro: é .
+    Sugestões: é.
+  Texto com erro: "de A?"
+    Erro: de
+    Sugestões: De
+  Texto com erro: "Muito bom."
+    Erro: Muito bom
+    Sugestões: Ótimo
+  Texto com erro: "Um dos paineis de controle da saída de emergência."
+    Erro: paineis
+    Sugestões: painéis
+  Texto com erro: "Um painel que é ligado à rede da sala de operação."
+    Erro: que é ligado
+    Sugestões: ligado
+  Texto com erro: "Um dos paineis de controle da saída de emergência."
+    Erro: paineis
+    Sugestões: painéis
+Revisando arquivo: 101.tpl
+  Texto com erro: "Canos para fornecer à arvore imensos volumes de água."
+    Erro: à arvore
+    Sugestões: à árvore
+  Texto com erro: "Eles são como a tábua de salvação da Árvore da Vida."
+    Erro: tábua de salvação
+    Sugestões: salvação
+Revisando arquivo: 103.tpl
+  Texto com erro: "Ele vai fazer vocês pagarem por todas as vezes que venceram ele!"
+    Erro: as vezes
+    Sugestões: às vezes
+  Texto com erro: "Quero ver tu encarar ESTA estratégia, aqui!!"
+    Erro: tu encarar
+    Sugestões: tu encarares, tu encarar
+  Texto com erro: "É o Neo Gutsman!"
+    Erro: Gutsman
+    Sugestões: GutsMan ('M' maiúsculo)
+  Texto com erro: "Secudido pelas ondas, espera o retorno de seu operador."
+    Erro: Secudido
+    Sugestões: Sacudido, Secundido, Recudido
+Revisando arquivo: 104.tpl
+  Texto com erro: "Inukai"."
+    Erro: Inukai
+    Sugestões: Imutai, Inumai, Sinucai
+  Texto com erro: "Quer apertá-lo?"
+    Erro: apertá-lo
+    Sugestões: o apertar
+Revisando arquivo: 109.tpl
+  Texto com erro: "Ótimo trabalhando chegando aqui
+."
+    Erro: aqui .
+    Sugestões: aqui.
+Revisando arquivo: 110.tpl
+  Texto com erro: "Miaaaau, miaaaau!"
+    Erro: Miaaaau
+    Sugestões: Milharal, Miracatu, Miazal
+  Texto com erro: "Miaaaau, miaaaau!"
+    Erro: miaaaau
+    Sugestões: milharal, Miracatu, miazal, naiadal
+  Texto com erro: "Quer levá-lo com você?"
+    Erro: levá-lo
+    Sugestões: o levar
+  Texto com erro: "Rau au rau!!"
+    Erro: au
+    Sugestões: Au
+  Texto com erro: "Quer levá-lo com você?"
+    Erro: levá-lo
+    Sugestões: o levar
+  Texto com erro: "Oinc, oinc!"
+    Erro: Oinc
+    Sugestões: Oim, Oincá, Oins, OIDC
+  Texto com erro: "Oinc, oinc!"
+    Erro: oinc
+    Sugestões: oim, oincá, oins, OIDC
+  Texto com erro: "Quer levá-lo com você?"
+    Erro: levá-lo
+    Sugestões: o levar
+
+  Texto com erro: "Dzzzzzzz zzzzzummmmm."
+    Erro: zzzzzummmmm
+  Texto com erro: "Quer levá-lo com você?"
+    Erro: levá-lo
+    Sugestões: o levar
+  Texto com erro: "Quer levá-lo com você?"
+    Erro: levá-lo
+    Sugestões: o levar
+  Texto com erro: "Shhhhuiur, shhhhuiur..."
+    Erro: Shhhhuiur
+  Texto com erro: "Shhhhuiur, shhhhuiur..."
+    Erro: shhhhuiur
+  Texto com erro: "Quer levá-lo com você?"
+    Erro: levá-lo
+    Sugestões: o levar
+  Texto com erro: "Miaaaau, miaaaau!"
+    Erro: Miaaaau
+    Sugestões: Milharal, Miracatu, Miazal
+  Texto com erro: "Miaaaau, miaaaau!"
+    Erro: miaaaau
+    Sugestões: milharal, Miracatu, miazal, naiadal
+  Texto com erro: "Oinc, oinc, oinc!!"
+    Erro: Oinc
+    Sugestões: Oim, Oincá, Oins, OIDC
+  Texto com erro: "Oinc, oinc, oinc!!"
+    Erro: oinc
+    Sugestões: oim, oincá, oins, OIDC
+  Texto com erro: "Oinc, oinc, oinc!!"
+    Erro: oinc
+    Sugestões: oim, oincá, oins, OIDC
+  Texto com erro: "Dzzz, dzzz, dzzzzz!"
+    Erro: Dzzz
+    Sugestões: Dzôs
+  Texto com erro: "Dzzz, dzzz, dzzzzz!"
+    Erro: dzzz
+    Sugestões: dzôs
+  Texto com erro: "Dzzz, dzzz, dzzzzz!"
+    Erro: dzzzzz
+    Sugestões: dessas, desses, dassas, dissês
+  Texto com erro: "Shhhhuiur, shhhhuiur..."
+    Erro: Shhhhuiur
+  Texto com erro: "Shhhhuiur, shhhhuiur..."
+    Erro: shhhhuiur
+  Texto com erro: "Ti ti!"
+    Erro: Ti ti
+    Sugestões: Ti
+  Texto com erro: "Ti ti!!"
+    Erro: Ti ti
+    Sugestões: Ti
+  Texto com erro: "Miaau!!"
+    Erro: Miaau
+    Sugestões: Miau, Mihael, Misal, Miaa, Miaas, Miazal, Midau, Mirtal
+Revisando arquivo: 111.tpl
+  Texto com erro: "Ti ti!"
+    Erro: Ti ti
+    Sugestões: Ti
+  Texto com erro: "Ti ti!"
+    Erro: Ti ti
+    Sugestões: Ti
+  Texto com erro: "Quer levá-lo com você?"
+    Erro: levá-lo
+    Sugestões: o levar
+  Texto com erro: "Quer levá-lo com você?"
+    Erro: levá-lo
+    Sugestões: o levar
+  Texto com erro: "Quer levá-lo com você?"
+    Erro: levá-lo
+    Sugestões: o levar
+  Texto com erro: "Banananananananana..."
+    Erro: Banananananananana
+  Texto com erro: "Quer levá-lo com você?"
+    Erro: levá-lo
+    Sugestões: o levar
+  Texto com erro: "Quer levá-lo com você?"
+    Erro: levá-lo
+    Sugestões: o levar
+  Texto com erro: "Cocococococococo..."
+    Erro: Cocococococococo
+  Texto com erro: "Quer levá-lo com você?"
+    Erro: levá-lo
+    Sugestões: o levar
+  Texto com erro: "Arrozarrozarrozarroz..."
+    Erro: Arrozarrozarrozarroz
+  Texto com erro: "Quer levá-lo com você?"
+    Erro: levá-lo
+    Sugestões: o levar
+  Texto com erro: "Quer levá-lo com você?"
+    Erro: levá-lo
+    Sugestões: o levar
+  Texto com erro: "Splish, splash!"
+    Erro: splash
+    Sugestões: squash
+  Texto com erro: "Quer levá-lo com você?"
+    Erro: levá-lo
+    Sugestões: o levar
+  Texto com erro: "Aurc!"
+    Erro: Aurc
+    Sugestões: Aura, Alec, Auri, Aure, Auro, Arc, Aurá
+  Texto com erro: "Aurc!"
+    Erro: Aurc
+    Sugestões: Aura, Alec, Auri, Aure, Auro, Arc, Aurá
+  Texto com erro: "Quer levá-lo com você?"
+    Erro: levá-lo
+    Sugestões: o levar
+  Texto com erro: "Ti tiiii..."
+    Erro: tiiii
+    Sugestões: tiriri, tipiri, tiriris, tiritir
+  Texto com erro: "Ti tiiii..."
+    Erro: tiiii
+    Sugestões: tiriri, tipiri, tiriris, tiritir
+  Texto com erro: "Splash, splosh!"
+    Erro: Splash
+    Sugestões: Squash
+  Texto com erro: "Aurc, aurc, aurc!"
+    Erro: Aurc
+    Sugestões: Aura, Alec, Auri, Aure, Auro, Arc, Aurá
+  Texto com erro: "Arrozarrozarroz..."
+    Erro: Arrozarrozarroz
+  Texto com erro: "Ourc ourc ourc!"
+    Erro: ourc ourc
+    Sugestões: ourc
+  Texto com erro: "Uuug!"
+    Erro: Uuug
+    Sugestões: Ulus, Ulu, Ulua
+  Texto com erro: "Splash..."
+    Erro: Splash
+    Sugestões: Squash
+  Texto com erro: "Nhoom!"
+    Erro: Nhoom
+    Sugestões: Nhom
+Revisando arquivo: 112.tpl
+  Texto com erro: "Brret brrret brrret..."
+    Erro: brrret brrret
+    Sugestões: brrret
+  Texto com erro: "Quer levá-lo com você?"
+    Erro: levá-lo
+    Sugestões: o levar
+  Texto com erro: "Quer levá-lo com você?"
+    Erro: levá-lo
+    Sugestões: o levar
+  Texto com erro: "Tec, tec, tec!"
+    Erro: tec
+    Sugestões: tec., TEC, “tec”
+  Texto com erro: "Tec, tec, tec!"
+    Erro: tec
+    Sugestões: tec., TEC, “tec”
+  Texto com erro: "Quer levá-lo com você?"
+    Erro: levá-lo
+    Sugestões: o levar
+  Texto com erro: "Quer levá-lo com você?"
+    Erro: levá-lo
+    Sugestões: o levar
+  Texto com erro: "Quer levá-lo com você?"
+    Erro: levá-lo
+    Sugestões: o levar
+  Texto com erro: "Quer levá-lo com você?"
+    Erro: levá-lo
+    Sugestões: o levar
+  Texto com erro: "Quer levá-lo com você?"
+    Erro: levá-lo
+    Sugestões: o levar
+  Texto com erro: "Rssspssspsss!!"
+    Erro: Rssspssspsss
+  Texto com erro: "Quer levá-lo com você?"
+    Erro: levá-lo
+    Sugestões: o levar
+  Texto com erro: "Gluop, gluop..."
+    Erro: Gluop
+    Sugestões: Glúon, Gluôn
+  Texto com erro: "Gluop, gluop..."
+    Erro: gluop
+    Sugestões: glúon, gluôn, julo, julos
+  Texto com erro: "Quer levá-lo com você?"
+    Erro: levá-lo
+    Sugestões: o levar
+  Texto com erro: "Quer levá-lo com você?"
+    Erro: levá-lo
+    Sugestões: o levar
+  Texto com erro: "SSSSSS...!!"
+    Erro: SSSSSS
+    Sugestões: SASSAS, SASSES, SESSAS, SESSES, SISSÓS, SOSSOS, SUSSUS
+  Texto com erro: "Quer levá-lo com você?"
+    Erro: levá-lo
+    Sugestões: o levar
+  Texto com erro: "Brret brrret brrret..."
+    Erro: brrret brrret
+    Sugestões: brrret
+  Texto com erro: "Tec, tec, tec!"
+    Erro: tec
+    Sugestões: tec., TEC, “tec”
+  Texto com erro: "Tec, tec, tec!"
+    Erro: tec
+    Sugestões: tec., TEC, “tec”
+  Texto com erro: "Sssspssspsss!!"
+    Erro: Sssspssspsss
+  Texto com erro: "Gluop, gluop..."
+    Erro: Gluop
+    Sugestões: Glúon, Gluôn
+  Texto com erro: "Gluop, gluop..."
+    Erro: gluop
+    Sugestões: glúon, gluôn, julo, julos
+  Texto com erro: "SSSSSS…!!"
+    Erro: SSSSSS
+    Sugestões: SASSAS, SASSES, SESSAS, SESSES, SISSÓS, SOSSOS, SUSSUS
+  Texto com erro: "Nnnnhhéééé..."
+    Erro: Nnnnhhéééé
+  Texto com erro: "fuifui, fuifui!"
+    Erro: fuifui
+    Sugestões: Fui fui
+  Texto com erro: "fuifui, fuifui!"
+    Erro: fuifui
+    Sugestões: fui fui
+  Texto com erro: "O programa tipo polvo é maior que o vírus vaso!"
+    Erro: O
+  Texto com erro: "O polvo empurrou as paredes do vírus vaso até ele explodir!"
+    Erro: O
+Revisando arquivo: 113.tpl
+  Texto com erro: "Quer levá-lo com você?"
+    Erro: levá-lo
+    Sugestões: o levar
+  Texto com erro: "Aí, ela falou, tipo..."
+    Erro: Aí
+  Texto com erro: "Aí, eu falei..."
+    Erro: Aí
+  Texto com erro: "Quer levá-lo com você?"
+    Erro: levá-lo
+    Sugestões: o levar
+  Texto com erro: "Quer levá-lo com você?"
+    Erro: levá-lo
+    Sugestões: o levar
+  Texto com erro: "Cront!"
+    Erro: Cront
+    Sugestões: Cromo, Cron, Croma, Crono, Crome, Crons
+  Texto com erro: "Quer levá-lo com você?"
+    Erro: levá-lo
+    Sugestões: o levar
+  Texto com erro: "Quer levá-lo com você?"
+    Erro: levá-lo
+    Sugestões: o levar
+  Texto com erro: "Quer levá-lo com você?"
+    Erro: levá-lo
+    Sugestões: o levar
+  Texto com erro: "Raaaaauur!!"
+    Erro: Raaaaauur
+  Texto com erro: "Quer levá-lo com você?"
+    Erro: levá-lo
+    Sugestões: o levar
+  Texto com erro: "Quer levá-lo com você?"
+    Erro: levá-lo
+    Sugestões: o levar
+  Texto com erro: "Quer levá-lo com você?"
+    Erro: levá-lo
+    Sugestões: o levar
+  Texto com erro: "Quer levá-lo com você?"
+    Erro: levá-lo
+    Sugestões: o levar
+  Texto com erro: "Mrrrrau..."
+    Erro: Mrrrrau
+    Sugestões: Marraú
+  Texto com erro: "Quer levá-lo com você?"
+    Erro: levá-lo
+    Sugestões: o levar
+  Texto com erro: "Au au!"
+    Erro: Au au
+    Sugestões: Au
+  Texto com erro: "Quer levá-lo com você?"
+    Erro: levá-lo
+    Sugestões: o levar
+  Texto com erro: "Aí, ela falou, tipo..."
+    Erro: Aí
+  Texto com erro: "Aí, eu falei..."
+    Erro: Aí
+  Texto com erro: "Cronc!"
+    Erro: Cronc
+    Sugestões: Cromo, Cron, Croma, Crono, Crome, Crons
+  Texto com erro: "Raaaaauurrr!!"
+    Erro: Raaaaauurrr
+  Texto com erro: "Au au!!"
+    Erro: Au au
+    Sugestões: Au
+  Texto com erro: "Uuuh uuuh uuh!!!"
+    Erro: Uuuh uuuh
+    Sugestões: Uuuh
+  Texto com erro: "Uuuh uuuh uuh!!!"
+    Erro: uuh
+    Sugestões: luz, lua, hulha, lux, hula, luo, lur, ulo, uh, ula, ulu
+  Texto com erro: "Crecr, tchronc!"
+    Erro: Crecr
+    Sugestões: Crer, Cresse, Cressa
+  Texto com erro: "Crecr, tchronc!"
+    Erro: tchronc
+    Sugestões: Chrome
+  Texto com erro: "Três tigres tristres para..."
+    Erro: tristres
+    Sugestões: tristes, trisares, tristores, tristões
+  Texto com erro: "Crec, creck, bam...!"
+    Erro: creck
+    Sugestões: crack, cresse, cressa, check
+Revisando arquivo: 114.tpl
+  Texto com erro: "Um surto repentino de cyberplantas
+fez os computadores do hospital pararem de funcionar!!"
+    Erro: cyberplantas
+    Sugestões: cibernautas, ciberperitas, ciberpiratas, ciberplágios
+  Texto com erro: "Se eu me livrar das cyberplantas, daria pra reiniciarem?"
+    Erro: cyberplantas
+    Sugestões: cibernautas, ciberperitas, ciberpiratas, ciberplágios
+  Texto com erro: "em você e, em seguida,
+aperte A quando diante de uma cyberplanta."
+    Erro: em
+    Sugestões: Em
+  Texto com erro: "em você e, em seguida,
+aperte A quando diante de uma cyberplanta."
+    Erro: A quando
+    Sugestões: Aquando
+  Texto com erro: "em você e, em seguida,
+aperte A quando diante de uma cyberplanta."
+    Erro: cyberplanta
+    Sugestões: cibernauta, ciberperita, ciberpirata, ciberplágio, Cyberpunk
+  Texto com erro: "então será executado."
+    Erro: então
+    Sugestões: Então
+  Texto com erro: "Cyberplanta criada com a pane do sistema de crescimento."
+    Erro: Cyberplanta
+    Sugestões: Cibernauta, Ciberperita, Ciberpirata, Ciberplágio, Cyberpunk
+Revisando arquivo: 115.tpl
+  Texto com erro: "Mais um esquisitão vindo vindo da área Angra..."
+    Erro: vindo vindo
+    Sugestões: vindo
+  Texto com erro: "Cyberplanta criada com a pane do sistema de crescimento."
+    Erro: Cyberplanta
+    Sugestões: Cibernauta, Ciberperita, Ciberpirata, Ciberplágio, Cyberpunk
+Revisando arquivo: 116.tpl
+  Texto com erro: "Cyberplanta criada com a pane do sistema de crescimento."
+    Erro: Cyberplanta
+    Sugestões: Cibernauta, Ciberperita, Ciberpirata, Ciberplágio, Cyberpunk
+Revisando arquivo: 117.tpl
+  Texto com erro: "Canto superioresquerdo..."
+    Erro: superioresquerdo
+    Sugestões: superior esquerdo
+  Texto com erro: "Cyberplanta criada com a pane do sistema de crescimento."
+    Erro: Cyberplanta
+    Sugestões: Cibernauta, Ciberperita, Ciberpirata, Ciberplágio, Cyberpunk
+  Texto com erro: "Cyberplanta criada com a pane do sistema de crescimento."
+    Erro: Cyberplanta
+    Sugestões: Cibernauta, Ciberperita, Ciberpirata, Ciberplágio, Cyberpunk
+  Texto com erro: "s demais."
+    Erro: s
+    Sugestões: S
+Revisando arquivo: 118.tpl
+  Texto com erro: "Cyberplanta criada com a pane do sistema de crescimento."
+    Erro: Cyberplanta
+    Sugestões: Cibernauta, Ciberperita, Ciberpirata, Ciberplágio, Cyberpunk
+Revisando arquivo: 119.tpl
+  Texto com erro: "confirmado."
+    Erro: confirmado
+    Sugestões: Confirmado
+Revisando arquivo: 120.tpl
+  Texto com erro: "confirmado."
+    Erro: confirmado
+    Sugestões: Confirmado
+Revisando arquivo: 121.tpl
+  Texto com erro: "confirmado."
+    Erro: confirmado
+    Sugestões: Confirmado
+Revisando arquivo: 122.tpl
+  Texto com erro: "confirmado."
+    Erro: confirmado
+    Sugestões: Confirmado
+Revisando arquivo: 126.tpl
+  Texto com erro: "é necessário para acessar os dados."
+    Erro: é
+    Sugestões: É
+Revisando arquivo: 128.tpl
+  Texto com erro: "Seria inconveniente demais pedir para que volte após o jantar?"
+    Erro: para que volte
+    Sugestões: para voltar
+  Texto com erro: "Olá."
+    Erro: Olá.
+    Sugestões: Olá!, Olá?, Olá!?, Olá,, Olá...
+Revisando arquivo: 129.tpl
+  Texto com erro: "é necessário para acessar os dados."
+    Erro: é
+    Sugestões: É
+Revisando arquivo: 130.tpl
+  Texto com erro: "FragBugs" são a comida dos vírus, e o que os faz crescer."
+    Erro: "
+  Texto com erro: "O ranque do vírus trocaado depende da hora em que você tenta."
+    Erro: trocaado
+    Sugestões: trocado
+  Texto com erro: "Stopper"
+    Erro: Stopper
+    Sugestões: Stop per
+Revisando arquivo: 131.tpl
+  Texto com erro: "Permita-me redistribuir a comida dos
+!"
+    Erro: dos !
+    Sugestões: dos!
+  Texto com erro: "Permita-me redistribuir a comida dos
+!"
+    Erro: dos !
+    Sugestões: dos!
+  Texto com erro: "Eles ainda estão cautelosos para com estranhos."
+    Erro: ainda estão
+    Sugestões: continuam
+  Texto com erro: "Direita: Axes & Helmets."
+    Erro: Helmets
+    Sugestões: tá certo em inglês?
+  Texto com erro: "Esquerda: Ring Rabbits."
+    Erro: Rabbits
+    Sugestões: tá certo em inglês?
+  Texto com erro: "Esquerda: Ring Rabbits"
+    Erro: Rabbits
+    Sugestões: tá certo em inglês?
+  Texto com erro: "Direita: Axes & Helmets Esquerda:"
+    Erro: Helmets
+    Sugestões: tá certo em inglês?
+Revisando arquivo: 132.tpl
+  Texto com erro: "Permita-me redistribuir a comida dos
+!"
+    Erro: dos !
+    Sugestões: dos!
+  Texto com erro: "Permita-me redistribuir a comida dos
+!"
+    Erro: dos !
+    Sugestões: dos!
+  Texto com erro: "Direita: Elec."
+    Erro: Elec
+    Sugestões: Ele, Eles, Alec, Elem, Éle, Elei, Eleu, Eleá
+  Texto com erro: "Eyes Esquerda: Hole Moles"
+    Erro: Eyes
+    Sugestões: tá certo em inglês?
+  Texto com erro: "Eyes Esquerda: Hole Moles"
+    Erro: Hole
+    Sugestões: tá certo em inglês?
+  Texto com erro: "Esquerda: Hole Moles"
+    Erro: Hole
+    Sugestões: tá certo em inglês?
+  Texto com erro: "Direita: Elec."
+    Erro: Elec
+    Sugestões: tá certo em inglês?
+  Texto com erro: "Eyes Esquerda:"
+    Erro: Eyes
+    Sugestões: tá certo em inglês?
+Revisando arquivo: 133.tpl
+  Texto com erro: "Permita-me redistribuir a comida dos
+!"
+    Erro: dos !
+    Sugestões: dos!
+  Texto com erro: "Permita-me redistribuir a comida dos
+!"
+    Erro: dos !
+    Sugestões: dos!
+  Texto com erro: "Direita: Armor Knight Esquerda: Fire Sorcerer"
+    Erro: Fire
+    Sugestões: tá certo em inglês?
+  Texto com erro: "Direita: Armor Knight Esquerda: Fire Sorcerer"
+    Erro: Sorcerer
+    Sugestões: tá certo em inglês?
+  Texto com erro: "Esquerda: Fire Sorcerer"
+    Erro: Fire
+    Sugestões: tá certo em inglês?
+  Texto com erro: "Esquerda: Fire Sorcerer"
+    Erro: Sorcerer
+    Sugestões: tá certo em inglês?
+Revisando arquivo: 134.tpl
+  Texto com erro: "Permita-me redistribuir a comida dos
+!"
+    Erro: dos !
+    Sugestões: dos!
+  Texto com erro: "Permita-me redistribuir a comida dos
+!"
+    Erro: dos !
+    Sugestões: dos!
+  Texto com erro: "Tigela do
+."
+    Erro: do .
+    Sugestões: do.
+  Texto com erro: "Tigela do
+."
+    Erro: do .
+    Sugestões: do.
+  Texto com erro: "Tigela do
+."
+    Erro: do .
+    Sugestões: do.
+  Texto com erro: "Tigela do
+."
+    Erro: do .
+    Sugestões: do.
+  Texto com erro: "Tigela do
+."
+    Erro: do .
+    Sugestões: do.
+  Texto com erro: "Tigela do
+."
+    Erro: do .
+    Sugestões: do.
+  Texto com erro: "Tigela do
+."
+    Erro: do .
+    Sugestões: do.
+  Texto com erro: "Tigela do
+."
+    Erro: do .
+    Sugestões: do.
+Revisando arquivo: 135.tpl
+  Texto com erro: "Permita-me redistribuir a comida dos viruses!"
+    Erro: viruses
+    Sugestões: viroses, birutes, vir uses
+  Texto com erro: "Ouve-se o som de algo sendo moído..."
+    Erro: Ouve-se o som de
+    Sugestões: Ouve-se
+Revisando arquivo: 137.tpl
+  Texto com erro: "Oléos?!"
+    Erro: Oléos
+    Sugestões: Óleos
+Revisando arquivo: 143.tpl
+  Texto com erro: "Mas ainda está meio cedo..."
+    Erro: ainda está
+    Sugestões: continua
+  Texto com erro: "Então, os sonhos e ambições da minha exoperadora se realizaram!"
+    Erro: exoperadora
+    Sugestões: exogeradora, exoneradora, ex operadora
+Revisando arquivo: 144.tpl
+  Texto com erro: "O Program carregou
+dentro de si!!"
+    Erro: Program
+    Sugestões: tá certo em inglês?
+  Texto com erro: "é necessário para acessar os dados."
+    Erro: é
+    Sugestões: É
+Revisando arquivo: 145.tpl
+  Texto com erro: "Rúúú-ah!"
+    Erro: Rúúú
+    Sugestões: Ruiu, Ruou
+  Texto com erro: "Rúúú-ah!"
+    Erro: Rúúú
+    Sugestões: Ruiu, Ruou
+Revisando arquivo: 147.tpl
+  Texto com erro: "Previsão de amanhã: tempo claro, ficando nublado mais à frente."
+    Erro: mais à frente
+    Sugestões: mais adiante
+Revisando arquivo: 148.tpl
+  Texto com erro: "Strike!!"
+    Erro: Strike
+    Sugestões: Estrice, Sórice, Stripe
+  Texto com erro: "Strike!!"
+    Erro: Strike
+    Sugestões: Estrice, Sórice, Stripe
+  Texto com erro: "Strike!!"
+    Erro: Strike
+    Sugestões: Estrice, Sórice, Stripe
+  Texto com erro: "NeoGutsMan!"
+    Erro: NeoGutsMan
+    Sugestões: Neoplasmas, Neoplasma
+  Texto com erro: "Mas ainda está longe de ser capaz de derrotar Serenade!"
+    Erro: ainda está
+    Sugestões: continua
+  Texto com erro: "Mas ainda está longe de ser capaz de derrotar Serenade!"
+    Erro: Serenade
+    Sugestões: Serenado, Serenada, Sere nade, Serena de
+  Texto com erro: "Nesse nível, não conseguirá nem encostar um dedo em Serenade!"
+    Erro: Serenade
+    Sugestões: Serenado, Serenada, Sere nade, Serena de
+  Texto com erro: "NeoGutsMan!"
+    Erro: NeoGutsMan
+    Sugestões: Neoplasmas, Neoplasma
+  Texto com erro: "Você esconde enorme força. Use-a com sabedoria e cresça.
+Você ainda está longe de se comparar a Serenade."
+    Erro: ainda está
+    Sugestões: continua
+  Texto com erro: "Você esconde enorme força. Use-a com sabedoria e cresça.
+Você ainda está longe de se comparar a Serenade."
+    Erro: Serenade
+    Sugestões: Serenado, Serenada, Sere nade, Serena de
+  Texto com erro: "Talvez até o bastante para desafiar Serenade..."
+    Erro: Serenade
+    Sugestões: Serenado, Serenada, Sere nade, Serena de
+  Texto com erro: "Aí, ô, babão!"
+    Erro: ô
+    Sugestões: o
+Revisando arquivo: 149.tpl
+  Texto com erro: "Que é, tá achando "issaqui" engraçado?"
+    Erro: issaqui
+    Sugestões: Icapuí, icóqui
+  Texto com erro: "é necessário para acessar os dados."
+    Erro: é
+    Sugestões: É
+Revisando arquivo: 153.tpl
+  Texto com erro: "Dindin, verdinhas..."
+    Erro: Dindin
+    Sugestões: Dindim
+Revisando arquivo: 154.tpl
+  Texto com erro: "Verba"?!"
+    Erro: "
+  Texto com erro: "Mas você não me paga um Zenny sequer!!"
+    Erro: Zenny
+    Sugestões: Emmy, Zeni, Zenly
+  Texto com erro: "Urck!"
+    Erro: Urck
+    Sugestões: Urca, Urco
+Revisando arquivo: 156.tpl
+  Texto com erro: "Tssssssssszzzzt..."
+    Erro: Tssssssssszzzzt
+Revisando arquivo: 159.tpl
+  Texto com erro: "UI-UUUUUUUUUUU!"
+    Erro: UUUUUUUUUUU
+  Texto com erro: "UI-UUUUUUUUUUU!"
+    Erro: UUUUUUUUUUU
+  Texto com erro: "UI-UUUUUUUUUUU!"
+    Erro: UUUUUUUUUUU
+  Texto com erro: "UI-UUUUUUUUUUU!"
+    Erro: UUUUUUUUUUU
+  Texto com erro: "Mas o autofalante no mundo real está quebrado e baixinho..."
+    Erro: autofalante
+    Sugestões: altifalante, alto-falante, auto falante
+  Texto com erro: "UI-UUUUUUUUUUU!"
+    Erro: UUUUUUUUUUU
+  Texto com erro: "UI-UUUUUUUUUUU!"
+    Erro: UUUUUUUUUUU
+  Texto com erro: "é necessário para acessar os dados."
+    Erro: é
+    Sugestões: É
+Revisando arquivo: 160.tpl
+  Texto com erro: "Até programas precisam de uma folga, de vez em quando..."
+    Erro: de vez em quando
+    Sugestões: ocasionalmente, por vezes
+  Texto com erro: "Só uma sonequinha..."
+    Erro: sonequinha
+    Sugestões: bonequinha
+  Texto com erro: "Só uma sonequinha..."
+    Erro: Só
+  Texto com erro: "Só uma sonequinha..."
+    Erro: sonequinha
+    Sugestões: bonequinha
+Revisando arquivo: 162.tpl
+  Texto com erro: "Olha, é só um boato, maaaas..."
+    Erro: maaaas
+    Sugestões: macaás
+  Texto com erro: "Dizem por aí que aquela organização NetCriminosa voltou..."
+    Erro: NetCriminosa
+    Sugestões: Net Criminosa
+  Texto com erro: "Os vírus aqui são só, tipo,
+ou
+."
+    Erro: ou .
+    Sugestões: ou.
+  Texto com erro: "A srta. Yai ficou felizíssima."
+    Erro: felizíssima
+    Sugestões: felicíssima, felosíssima
+  Texto com erro: "Guuuuuuuts!"
+    Erro: Guuuuuuuts
+    Sugestões: Glumélulas
+  Texto com erro: "Ele era exatamente do jeitinho que eu descrevi, não era?"
+    Erro: que eu descrevi
+    Sugestões: que descrevi
+  Texto com erro: "é necessário para acessar os dados."
+    Erro: é
+    Sugestões: É
+Revisando arquivo: 163.tpl
+  Texto com erro: "Zzzzzzzz..."
+    Erro: Zzzzzzzz
+    Sugestões: Assasses, Assassis
+  Texto com erro: "Mmmm..."
+    Erro: Mmmm
+    Sugestões: Mm mm
+  Texto com erro: "Tente usar dados misteriosos inacessados como pontos de referência."
+    Erro: inacessados
+    Sugestões: in acessados, inacessa dos
+  Texto com erro: "Eu vim de CyberMetrô lááááá de Yoka."
+    Erro: lááááá
+    Sugestões: lazarara, lazarará
+  Texto com erro: "Inimigos dos vírus"?"
+    Erro: "
+  Texto com erro: "Os habitantes da Undernet parecem nos odiar com muita força.
+Por causa da WWW, nós, Navis Oficiais, não podemos descansar."
+    Erro: Por causa da
+    Sugestões: Devido à, Pela
+  Texto com erro: "Sou um NetVendedor."
+    Erro: NetVendedor
+    Sugestões: Net Vendedor
+  Texto com erro: ", eu abria mão deles."
+    Erro: ,
+    Sugestões: 
+  Texto com erro: "Ho ho ho!"
+    Erro: ho ho
+    Sugestões: ho
+Revisando arquivo: 164.tpl
+  Texto com erro: "Este é um dado
+[circle1][circle2]
+."
+    Erro:  .
+    Sugestões: .
+  Texto com erro: "Este é um dado
+[cross1][cross2]
+."
+    Erro:  .
+    Sugestões: .
+  Texto com erro: "Nãããããããooooo!"
+    Erro: Nãããããããooooo
+  Texto com erro: "Não quer vê-la?"
+    Erro: vê-la
+    Sugestões: a ver, a vês
+  Texto com erro: "Tô tão deprê que nem tenho vontade de me desconectar."
+    Erro: deprê
+    Sugestões: depõe, depare, detre, depure, derre, vepre
+  Texto com erro: "É o covil dos NetCriminosos."
+    Erro: NetCriminosos
+    Sugestões: Net Criminosos
+  Texto com erro: "Muita gente no mundo real está saindo de DenCity."
+    Erro: DenCity
+    Sugestões: Demiti
+  Texto com erro: "Então, cê que é o babaca que ela tá usando, é?"
+    Erro:  que é o
+    Sugestões:  o, , o,  sendo o,  o qual é o,  a qual é o
+  Texto com erro: "Armadura samurai de carnificina ancestral"."
+    Erro: "
+Revisando arquivo: 165.tpl
+  Texto com erro: "Aí vai a missão #1."
+    Erro: vai a
+    Sugestões: vai à
+  Texto com erro: "Tente dar a volta por cima!"
+    Erro: dar a volta por cima
+    Sugestões: recuperar-se
+  Texto com erro: "O que quer dizer que eles têm personalidades diferentes."
+    Erro: O que quer dizer que
+    Sugestões: O que significa que
+  Texto com erro: "qualquer hora, é só avisar."
+    Erro: qualquer
+    Sugestões: Qualquer
+  Texto com erro: "Que chato."
+    Erro: .
+    Sugestões: !, ..., ,
+  Texto com erro: "Será que ACDC e DenCity são amaldiçoadas?"
+    Erro: DenCity
+    Sugestões: Demiti
+  Texto com erro: "Depois do zoológico e do hospital, onde será o próximo atauqe...?"
+    Erro: atauqe
+    Sugestões: ataque, ataúde, atalhe, ataude
+  Texto com erro: "Não tem por que eu já esperar pelo pior."
+    Erro: Não
+  Texto com erro: "Não é a mesma coisa que desconectar, mas, quando a coisa aperta..."
+    Erro: Não
+  Texto com erro: "Não é a mesma coisa que desconectar, mas, quando a coisa aperta..."
+    Erro: a mesma coisa
+    Sugestões: o mesmo
+  Texto com erro: "Então, tente espairar e descansar aqui, no mundo cibernético."
+    Erro: espairar
+    Sugestões: esparrar, espirar
+  Texto com erro: "Os Oficiais me param o tempo todo por causa da minha aparência..."
+    Erro: por causa da
+    Sugestões: devido à, pela
+  Texto com erro: "Sou um NetVendedor."
+    Erro: NetVendedor
+    Sugestões: Net Vendedor
+  Texto com erro: "por 6000 Zennys!"
+    Erro: por
+    Sugestões: Por
+  Texto com erro: "5600 Zennys
+."
+    Erro: Zennys .
+    Sugestões: Zennys.
+  Texto com erro: "Não importa mais."
+    Erro: Não
+  Texto com erro: "do meu operador."
+    Erro: do
+    Sugestões: Do
+Revisando arquivo: 166.tpl
+  Texto com erro: "Meu amigo, você deve seguir ao Plaza o quanto antes!"
+    Erro: o quanto antes
+    Sugestões: quanto antes
+  Texto com erro: "Não acredito que eu perdi praquele Navi do mal..."
+    Erro: que eu perdi
+    Sugestões: que perdi
+  Texto com erro: "Auugh..."
+    Erro: Auugh
+    Sugestões: Aluga, Alugo, Alujá
+  Texto com erro: "Eu não sou muito bom lendo mapas."
+    Erro: muito bom
+    Sugestões: ótimo
+  Texto com erro: "Uahahahahaha!!!"
+    Erro: Uahahahahaha
+  Texto com erro: "Bip Bip Bip!"
+    Erro: Bip Bip
+    Sugestões: Bip
+  Texto com erro: "O que é que tá acontecendo?!"
+    Erro: O que é que
+    Sugestões: O que
+  Texto com erro: "Minha reputação nunca irá se recuperar se eu perdê-los!"
+    Erro: perdê-los
+    Sugestões: os perder
+  Texto com erro: "Será que eu deixei cair ali, por ACDC...?"
+    Erro: que eu deixei
+    Sugestões: que deixei
+  Texto com erro: "Leve-os para para o professor logo!"
+    Erro: para para
+    Sugestões: para
+  Texto com erro: "Bom,boa sorte com o resto dos carimbos!"
+    Erro: ,boa
+    Sugestões: , boa
+  Texto com erro: "É um buraco criado no espaço, pelo DrillMan."
+    Erro: DrillMan
+    Sugestões: Diluam, Driblam, Deplumam, Diluíam, Relumam
+  Texto com erro: "A tela gigantesca realmente prende o telespectador."
+    Erro: realmente prende o
+    Sugestões: prende realmente o
+Revisando arquivo: 167.tpl
+  Texto com erro: "(Esse é o espírito!)
+Atacaaaaaaaar!!!"
+    Erro: Atacaaaaaaaar
+  Texto com erro: "Você é o sr. MegaMan?"
+    Erro: sr.
+    Sugestões: Sr.
+  Texto com erro: "Eles vão anunciar a terceira missão lá em ACDC,
+então, corre, Mega!"
+    Erro: , Mega
+    Sugestões: , mega, . Mega
+  Texto com erro: "Chips podem ser comprados com dinheiro"..."
+    Erro: "
+  Texto com erro: "Terríííível!"
+    Erro: Terríííível
+    Sugestões: Terrível, Terrificável
+  Texto com erro: "Enfim, não posso deixar qualquer Cicrano levar meus queridos vírus!"
+    Erro: Cicrano
+    Sugestões: Cirano, Ciceramo, Ciclano, Dicrano, Micrano, Sicrano, Cyrano
+  Texto com erro: "Caso contrário, não posso abrir mão dos meus filhinhos!"
+    Erro: abrir mão
+    Sugestões: prescindir, abdicar
+Revisando arquivo: 168.tpl
+  Texto com erro: "Estou esperando pelo meu amigo já faz 20 minutos.."
+    Erro: ..
+    Sugestões: ., …
+  Texto com erro: "que a moça me deu."
+    Erro: que
+    Sugestões: Que
+  Texto com erro: "é um chip muito importante!"
+    Erro: é
+    Sugestões: É
+  Texto com erro: ""Ferradalagiada"..."
+    Erro: Ferradalagiada
+  Texto com erro: "Se ela descobrir que eu perdi o chip, ela me esgana!"
+    Erro: que eu perdi
+    Sugestões: que perdi
+  Texto com erro: "E me truuucidar!"
+    Erro: truuucidar
+    Sugestões: trucidar
+  Texto com erro: "BuáááÁáÁá!"
+    Erro: BuáááÁáÁá
+    Sugestões: Buazacata, Lazarara-a
+  Texto com erro: "Enfim, vá para o Yoko Plaza."
+    Erro: Yoko
+    Sugestões: Yoka
+  Texto com erro: "Hm, aquela pista do "amarelo" pode se referir à Navi que eu vi aqui..."
+    Erro: que eu vi
+    Sugestões: que vi
+  Texto com erro: "Depois que os ciensitas terminarem de analisar as bolhas, eu levarei
+os dados para o QG dos Oficiais."
+    Erro: ciensitas
+    Sugestões: cientistas
+  Texto com erro: "Você quer uma
+?!"
+    Erro: uma ?
+    Sugestões: uma?
+  Texto com erro: "Bom, se quiser uma
+, é só me avisar!"
+    Erro: uma ,
+    Sugestões: uma,
+  Texto com erro: "Beleza, transmitindo a
+!!"
+    Erro: a !
+    Sugestões: a!
+  Texto com erro: "Agora, a sua Pasta Extra é uma
+!!"
+    Erro: uma !
+    Sugestões: uma!
+  Texto com erro: "Mas, agora, eu tenho que limpar toda esta bagunça..."
+    Erro: toda esta
+    Sugestões: esta
+  Texto com erro: "A declaração de guerra da WWW está pesando forte sobre nós, Oficiais."
+    Erro: , Oficiais
+    Sugestões: , oficiais, . Oficiais
+  Texto com erro: "Todos esses Oficiais zanzando por aqui dão um medo..."
+    Erro: zanzando
+    Sugestões: zanzando,
+  Texto com erro: "Bem-vindo à NetLoja."
+    Erro: NetLoja
+    Sugestões: Neóloga, Net Loja
+  Texto com erro: "(Eu ouvi um segredo, he he he...!)
+..."
+    Erro: he he
+    Sugestões: he
+  Texto com erro: "Eu pensei que os NetVendedores só vendiam chips."
+    Erro: NetVendedores
+    Sugestões: Net Vendedores
+Revisando arquivo: 169.tpl
+  Texto com erro: "Guuuts!"
+    Erro: Guuuts
+    Sugestões: Gúluas, Gúlues
+  Texto com erro: "E não só por causa do aquecedor de água..."
+    Erro: por causa do
+    Sugestões: devido ao, pelo
+  Texto com erro: "O meu excelentíssim operador é um veterinário de zoológico, ei!"
+    Erro: excelentíssim
+    Sugestões: excelentíssimo, excelentíssima
+  Texto com erro: "Mexeu com a GangYoka, é deletado na hora!"
+    Erro: GangYoka
+    Sugestões: Gangosa
+  Texto com erro: "é necessário para acessar os dados."
+    Erro: é
+    Sugestões: É
+  Texto com erro: "O demônio aguarda no Inferno"!"
+    Erro: "
+Revisando arquivo: 170.tpl
+  Texto com erro: "Conta aí, ô, conta tudo!"
+    Erro: ô
+    Sugestões: o
+  Texto com erro: "(glup!)
+Olha!"
+    Erro: glup
+    Sugestões: GLP, Jul, Gula, Galp, Jula, Jule, Julo
+  Texto com erro: "Pppft!"
+    Erro: Pppft
+    Sugestões: PPP, PPPs, PPT
+  Texto com erro: "\
+."
+    Erro:  .
+    Sugestões: .
+  Texto com erro: "He."
+    Erro: He.
+    Sugestões: He!, He?, He!?, He,, He...
+  Texto com erro: "Eu vou fazer DenCity inteira morrer de rir, tu vai ver só!"
+    Erro: DenCity
+    Sugestões: Demiti
+  Texto com erro: "Dificulta pra mim pegar criminosos..."
+    Erro: Dificulta pra mim
+    Sugestões: Dificulta pra eu, Dificulta, pra mim,
+  Texto com erro: "Uma só leva a um beco sem saída, mas, talvez, haja mais coisa lá..."
+    Erro: beco sem saída
+    Sugestões: beco
+  Texto com erro: "Ficou sabendo do incidenten no hospital?"
+    Erro: incidenten
+    Sugestões: incidente
+  Texto com erro: "Um Navi com cara de mau tá perdendo as estribeiras ali!"
+    Erro: perdendo as estribeiras
+    Sugestões: desnorteando-se
+  Texto com erro: "É bom tu tomar cuidado, garoto!"
+    Erro: tu tomar
+    Sugestões: tu tomares, tu tomar
+  Texto com erro: "Estou tooontiiiinho!"
+    Erro: tooontiiiinho
+  Texto com erro: "Correr é o que me faz viveeeeeeer!!!"
+    Erro: viveeeeeeer
+  Texto com erro: "OK, vejamos o seu
+...!"
+    Erro: seu .
+    Sugestões: seu.
+Revisando arquivo: 171.tpl
+  Texto com erro: "Clap clap clap!"
+    Erro: clap clap
+    Sugestões: clap
+  Texto com erro: "Você deverá usar a PréPasta até o término delas."
+    Erro: PréPasta
+    Sugestões: Preposta, Repasta, Pré Pasta
+  Texto com erro: "Pros seus lugares!"
+    Erro: Pros
+    Sugestões: Para os
+  Texto com erro: "Eeeee..."
+    Erro: Eeeee
+    Sugestões: Eevee
+  Texto com erro: "Mas só depois de vencer todas."
+    Erro: depois de
+    Sugestões: após
+  Texto com erro: "Aqui vai uma dica quentíssima que eu ouvi de um amigo."
+    Erro: que eu ouvi
+    Sugestões: que ouvi
+  Texto com erro: "Você achou os dois que tavam em Yoka e e em ACDC, né?"
+    Erro: e e
+    Sugestões: e
+  Texto com erro: "Contei pra eles sobre um Navi azul estranho que eu vi ainda agora."
+    Erro: que eu vi
+    Sugestões: que vi
+  Texto com erro: "Estou pesquisando o Navi DesertMan, que agitou o Grande Prêmio N1
+outro dia."
+    Erro: DesertMan
+    Sugestões: Desertam
+  Texto com erro: "Uma coisa, nós sabemos sobre o DesertMan."
+    Erro: DesertMan
+    Sugestões: Desertam
+  Texto com erro: "Essa sendo
+."
+    Erro: sendo .
+    Sugestões: sendo.
+  Texto com erro: "que ele adora areia!"
+    Erro: que
+    Sugestões: Que
+  Texto com erro: "Sshhh!"
+    Erro: Sshhh
+    Sugestões: SSH
+  Texto com erro: "Navis e programas fracos já estão apresentando malfuncionamento!"
+    Erro: malfuncionamento
+    Sugestões: mal funcionamento
+  Texto com erro: "Bem-vindo à NetLoja."
+    Erro: NetLoja
+    Sugestões: Neóloga, Net Loja
+  Texto com erro: "Há quatro Navis maus envolvidos."
+    Erro: maus envolvidos
+    Sugestões: mal envolvidos
+Revisando arquivo: 172.tpl
+  Texto com erro: "Vai!!"
+    Erro: Vai
+  Texto com erro: "Ê, garoto!"
+    Erro: Ê
+    Sugestões: E, É
+  Texto com erro: "Que medo."
+    Erro: medo.
+    Sugestões: medo!, medo?, medo!?, medo,, medo...
+  Texto com erro: "Eu sei onde tem um
+."
+    Erro: um .
+    Sugestões: um.
+  Texto com erro: "e é bem mais perto do que tu imagina!"
+    Erro: e
+    Sugestões: E
+  Texto com erro: "Os vírus são fortões e os Navis não são flor que se cheire."
+    Erro: são flor
+    Sugestões: são flores, é flor
+  Texto com erro: "Clap clap clap!"
+    Erro: clap clap
+    Sugestões: clap
+  Texto com erro: "Muito bom!"
+    Erro: Muito bom
+    Sugestões: Ótimo
+  Texto com erro: "Certo, deixe-me ver seu
+!"
+    Erro: seu !
+    Sugestões: seu!
+  Texto com erro: "é necessário para acessar os dados."
+    Erro: é
+    Sugestões: É
+Revisando arquivo: 173.tpl
+  Texto com erro: "Mostre a sua
+, ou não pode passar."
+    Erro: sua ,
+    Sugestões: sua,
+  Texto com erro: "Vejo que você tem a
+."
+    Erro: a .
+    Sugestões: a.
+  Texto com erro: "Eu cruzei todo este caminho e, agora, a estrada ficou estreita demais!"
+    Erro: todo este
+    Sugestões: este
+  Texto com erro: "Cai dentro, ô!"
+    Erro: ô
+    Sugestões: o
+  Texto com erro: "Eu ainda estou bem, só um pouco cambaleante..."
+    Erro: ainda estou
+    Sugestões: continuo
+  Texto com erro: "Um porta lhe impede de passar."
+    Erro: Um porta
+    Sugestões: uma porta, Um, porta, Um Porta
+Revisando arquivo: 174.tpl
+  Texto com erro: "Os operadores ni-honenses estão arrasando com o resto!"
+    Erro: honenses
+    Sugestões: tomenses, bonenses, homeoses, horenses, hormenses, onenses
+  Texto com erro: "Os operadores ni-honenses estão arrasando com o resto!"
+    Erro: arrasando com
+    Sugestões: arrasando
+  Texto com erro: "Nõa é óbvio?!"
+    Erro: Nõa
+    Sugestões: Não
+  Texto com erro: "Tá falando
+."
+    Erro: falando .
+    Sugestões: falando.
+  Texto com erro: "de mim?"
+    Erro: de
+    Sugestões: De
+  Texto com erro: "É só eu abrir com "Aí!" e sair atuando, e tudo se encaixa..."
+    Erro: "
+  Texto com erro: "Se fosse asism, deviam escalar um vilão de verdade pro papel!"
+    Erro: asism
+    Sugestões: assim, Azim, Asim, Aziza, Azize, asiam, asiram, asirem, asis
+  Texto com erro: "Mas ele deve ser um covardão!"
+    Erro: covardão
+    Sugestões: cobradão, couvadão, couvariam, couvarão
+  Texto com erro: "Eu tava perambulando pela área Angra quando um cara sinistro me pediu
+pra ver o meu
+, de repente!"
+    Erro: Angra
+    Sugestões: Angra,
+  Texto com erro: "Eu tava perambulando pela área Angra quando um cara sinistro me pediu
+pra ver o meu
+, de repente!"
+    Erro: meu ,
+    Sugestões: meu,
+  Texto com erro: "Você sabe sobre o misterioso vírus
+?"
+    Erro: vírus ?
+    Sugestões: vírus?
+  Texto com erro: "Ah, e também que você precisa equipar o
+."
+    Erro: o .
+    Sugestões: o.
+  Texto com erro: "Ei, aquele mercador de programas vende
+, eu creio..."
+    Erro: vende ,
+    Sugestões: vende,
+  Texto com erro: "A Undernet, que os Oficiais estão investigando,
+é perigosa pra caramba."
+    Erro: perigosa pra caramba
+    Sugestões: muito perigosa, bastante perigosa
+  Texto com erro: "Não vamos poder baixar a guarda por muito, muito tempo..."
+    Erro: baixar a guarda
+    Sugestões: descontrair, facilitar
+  Texto com erro: "Bem-vindo à NetLoja."
+    Erro: NetLoja
+    Sugestões: Neóloga, Net Loja
+  Texto com erro: "Premita-me apresentar a minha namorada, aqui."
+    Erro: Premita
+    Sugestões: Permita
+  Texto com erro: "(Esse não é um progrma que passa de manhã, cabeção!)
+(Vou ter que mudar de assunto... com esta bomba de vírus!)
+Lá vai!"
+    Erro: progrma
+    Sugestões: programa, programá, prógona
+  Texto com erro: "Errr..."
+    Erro: Errr
+    Sugestões: Erro, Erra, Errar, Erre, Error, Erar
+  Texto com erro: "Mesmo tendo um, você raramente tem a chance de andar nele, né?"
+    Erro: raramente tem a
+    Sugestões: tem raramente a
+Revisando arquivo: 175.tpl
+  Texto com erro: "Após obter o
+, por favor, pode se desconectar."
+    Erro: o ,
+    Sugestões: o,
+  Texto com erro: "Todos os demais competidores serão forçados a se desconectar."
+    Erro: Todos os demais
+    Sugestões: Os demais
+  Texto com erro: "Alguém pegou o dado que estava aqui antes de mim!"
+    Erro: dado que estava
+    Sugestões: dado estar
+  Texto com erro: "Oooough..."
+    Erro: Oooough
+  Texto com erro: "Se encontrá-los, pode ficar com o tesouro que há neles."
+    Erro: encontrá-los
+    Sugestões: os encontrar
+  Texto com erro: "Oooouuuhh..."
+    Erro: Oooouuuhh
+  Texto com erro: "Somente ele, que guarda o
+, pode abrir esta porta..."
+    Erro: o ,
+    Sugestões: o,
+Revisando arquivo: 176.tpl
+  Texto com erro: "Não sabe que isto aqui é a Undernet, naõ?"
+    Erro: naõ
+    Sugestões: não
+  Texto com erro: "Então, cê tá atrás do dcara que tá no décimo ranque..."
+    Erro: dcara
+    Sugestões: cara
+  Texto com erro: "Pode ser que seja tarde demais pra tu vazar..."
+    Erro: tu vazar
+    Sugestões: tu vazares, tu vazar
+  Texto com erro: "Tssu!"
+    Erro: Tssu
+    Sugestões: Tissu, Uçu, Acu, Assú, Açu, Rcl, TSU, Tzu, Ecu, Icu
+  Texto com erro: "Fala, bróder."
+    Erro: bróder
+    Sugestões: broker, eroder, bró der
+Revisando arquivo: 177.tpl
+  Texto com erro: "Então segura essa marimba no UnderPlaza até tu tá pronto!"
+    Erro: UnderPlaza
+    Sugestões: Interplana
+  Texto com erro: "A entrada para o UnderPlaza fica na Undernet 3."
+    Erro: UnderPlaza
+    Sugestões: Interplana
+Revisando arquivo: 178.tpl
+  Texto com erro: "Garrr..."
+    Erro: Garrr
+    Sugestões: Garra, Garry, Garrar, Garre, Garri, Garrir, Garro
+  Texto com erro: "e o livro é seu!"
+    Erro: e
+    Sugestões: E
+  Texto com erro: "O Navi cujas flores brotaram por completo possui a chave"."
+    Erro: "
+Revisando arquivo: 179.tpl
+  Texto com erro: "Conselho de amigo, garoto:
+dá pra ir pra Undernet 5 daqui, mas é um beco sem saída."
+    Erro: beco sem saída
+    Sugestões: beco
+  Texto com erro: "É sua grande chance...
+de desafiar um "cavalhero" no ranque #3!"
+    Erro: cavalhero
+    Sugestões: cavalheiro
+  Texto com erro: "A única coisa que a Undernet respeita é força.
+Sei lá se são WWW ou Gospel ou o quê, mas aqueles doidos
+não são amigos meus!"
+    Erro: ou Gospel ou
+    Sugestões: ou Gospel, ou
+  Texto com erro: "Psst!"
+    Erro: Psst
+    Sugestões: Post, SST, POST
+  Texto com erro: "Eu fiquei enrolando por eras para limpar o UnderPlaza!"
+    Erro: UnderPlaza
+    Sugestões: Interplana
+  Texto com erro: "E dei as direções erradas para um Navi que estava perdido!"
+    Erro: E
+  Texto com erro: "E, vejamos, eu também, er..."
+    Erro: E
+Revisando arquivo: 180.tpl
+  Texto com erro: "É um buraco criado no espaço, pelo DrillMan."
+    Erro: DrillMan
+    Sugestões: Diluam, Driblam, Deplumam, Diluíam, Relumam
+  Texto com erro: "O cubo se abre com o enfraquecimento de DesertMan!"
+    Erro: DesertMan
+    Sugestões: Desertam
+Revisando arquivo: 182.tpl
+  Texto com erro: "Um Navi que esmaga coisas e cava buracos possui a chave"."
+    Erro: "
+  Texto com erro: "O cubo se abre com o enfraquecimento de DrillMan!"
+    Erro: DrillMan
+    Sugestões: Diluam, Driblam, Deplumam, Diluíam, Relumam
+  Texto com erro: "é necessário para acessar os dados."
+    Erro: é
+    Sugestões: É
+Revisando arquivo: 183.tpl
+  Texto com erro: "É só ficar na frente da estátua de pedra do UnderPlaza."
+    Erro: UnderPlaza
+    Sugestões: Interplana
+  Texto com erro: "Este é o UnderPlaza."
+    Erro: UnderPlaza
+    Sugestões: Interplana
+  Texto com erro: "Um lugar feito para bandid..."
+    Erro: bandid
+    Sugestões: bandido
+  Texto com erro: "Cê já colou lá no UnderFórum?"
+    Erro: UnderFórum
+    Sugestões: Superfórum
+  Texto com erro: "Nós "pode ser" mau, mas mas nós não "é" desalmado"!"
+    Erro: mas mas
+    Sugestões: mas
+  Texto com erro: "Aqui não é lugar pra pivete que nem tu ficar zanzando!"
+    Erro: tu ficar
+    Sugestões: tu ficares, tu ficar
+  Texto com erro: "Acho que isso quer dizer, tipo, viver pra caramba..."
+    Erro: viver pra caramba
+    Sugestões: viver muito, viver bastante, viver demais, viver excessivamente
+  Texto com erro: "Este "point" aqui não é pra gente da superfície como você!"
+    Erro: point
+    Sugestões: Paint, print
+  Texto com erro: "Cê tem teu próprio "point" onde vive!"
+    Erro: point
+    Sugestões: Paint, print
+  Texto com erro: "Já ouviu falar do CopyMan?"
+    Erro: CopyMan
+    Sugestões: Copiam, Coimam, Colimam, Copilam
+  Texto com erro: "Eu não tenho tempo pra ti não, ô!"
+    Erro: ô
+    Sugestões: o
+  Texto com erro: "O que é que eles têm na cabeça?!"
+    Erro: O que é que
+    Sugestões: O que
+  Texto com erro: "Wily, o chefão da WWW, odeia a Rede como um todo..."
+    Erro: como um todo
+    Sugestões: todo, na totalidade
+  Texto com erro: "Psst!"
+    Erro: Psst
+    Sugestões: Post, SST, POST
+  Texto com erro: "Ah, e, por sinal, são três livros."
+    Erro: por sinal
+    Sugestões: ,
+  Texto com erro: "Eu tava mó na fé de descolar essa grana fácil..."
+    Erro: descolar
+    Sugestões: decolar
+Revisando arquivo: 184.tpl
+  Texto com erro: "Venerável Serenade plantou monólitos em certos locais."
+    Erro: Serenade
+    Sugestões: Serenado, Serenada, Sere nade, Serena de
+  Texto com erro: "Algo que Serenade criou."
+    Erro: Serenade
+    Sugestões: Serenado, Serenada, Sere nade, Serena de
+  Texto com erro: "Não acho que seja de Serenade."
+    Erro: Serenade
+    Sugestões: Serenado, Serenada, Sere nade, Serena de
+Revisando arquivo: 185.tpl
+  Texto com erro: "NetVendedor."
+    Erro: NetVendedor
+    Sugestões: Net Vendedor
+Revisando arquivo: 186.tpl
+  Texto com erro: "Mas, afinal, o que era aquele poder que eu senti...?"
+    Erro: que eu senti
+    Sugestões: que senti
+Revisando arquivo: 187.tpl
+  Texto com erro: "O Laborátio de Vírus do SciLab
+conduz pesquisas para achar formas de lidar com esses vírus."
+    Erro: Laborátio
+    Sugestões: Laborativo, Lavorativo
+  Texto com erro: "Um belo dia,
+os alunos do Colégio ACDC, no bairro ACDC, em DenCity,
+partiram em uma excursão para o Laboratório de Vírus do SciLab."
+    Erro: DenCity
+    Sugestões: Demiti
+Revisando arquivo: 188.tpl
+  Texto com erro: "Muito obrigaaaaadoo!"
+    Erro: obrigaaaaadoo
+  Texto com erro: "Você vão estar livres hoje à noite?"
+    Erro: Você vão
+    Sugestões: Você vai, Você vá
+  Texto com erro: "Bora bater papo!"
+    Erro: bater papo
+    Sugestões: conversar
+  Texto com erro: "Até chegarem em casa, ainda estão em uma excursão!"
+    Erro: ainda estão
+    Sugestões: continuam
+Revisando arquivo: 189.tpl
+  Texto com erro: "Se esquecerem
+."
+    Erro: esquecerem .
+    Sugestões: esquecerem.
+  Texto com erro: "vão limpar as privadas semana que vem!"
+    Erro: vão
+    Sugestões: Vão
+Revisando arquivo: 190.tpl
+  Texto com erro: "Er... sim, somos..."
+    Erro: . sim
+    Sugestões: ., sim
+  Texto com erro: "Sou produtor da DNN, a DenCity Notícias Nacionais!"
+    Erro: DenCity
+    Sugestões: Demiti
+  Texto com erro: "Ai, mas, mas, preciso de mais tempo pra me preparar..."
+    Erro: mas, mas
+    Sugestões: mas
+Revisando arquivo: 193.tpl
+  Texto com erro: "Tipo, ir na escola?"
+    Erro: na
+    Sugestões: à
+Revisando arquivo: 194.tpl
+  Texto com erro: "O que quer dizer que podemos nos conectar nela e destrancar!"
+    Erro: O que quer dizer que
+    Sugestões: O que significa que
+  Texto com erro: "Ouvi dizer que a tranca é protegida por um Navizão guarda medonho!"
+    Erro: Navizão
+    Sugestões: Tabizam
+Revisando arquivo: 195.tpl
+  Texto com erro: "Cadê o tal Navizão guarda...?"
+    Erro: Navizão
+    Sugestões: Tabizam
+  Texto com erro: "O que é que você tá fazendo?!"
+    Erro: O que é que
+    Sugestões: O que
+  Texto com erro: "Szzzzronc."
+    Erro: Szzzzronc
+    Sugestões: Sassarão, Sessarão
+  Texto com erro: "Mnham, nham."
+    Erro: Mnham
+    Sugestões: União, Uniam, Anião, Nham, Unham, Unhão
+  Texto com erro: "Mnham, nham."
+    Erro: , nham.
+    Sugestões: nham!, nham?, nham!?, nham,, nham...
+Revisando arquivo: 196.tpl
+  Texto com erro: "Tá, onde foi mesmo que eu botei...?"
+    Erro: que eu botei
+    Sugestões: que botei
+  Texto com erro: "Tenta lembrar o que você fez depois de receber o CD hoje!"
+    Erro: depois de
+    Sugestões: após
+  Texto com erro: "Bati papo na carteira da Mayl... ou na da Yai."
+    Erro: Bati papo
+    Sugestões: Conversei
+  Texto com erro: "E também mexeu nos livros da estante, não foi?"
+    Erro: E
+Revisando arquivo: 198.tpl
+  Texto com erro: "Prec-prec!"
+    Erro: Prec
+    Sugestões: Prec., Pré, Preço, Pressa, Prece, Presso, Preá, Prez, PEC
+  Texto com erro: "Prec-prec!"
+    Erro: prec
+    Sugestões: prec., pré, preço, pressa, prece, presso, preá, prez, PEC
+  Texto com erro: "Prec-prec-prec!"
+    Erro: Prec
+    Sugestões: Prec., Pré, Preço, Pressa, Prece, Presso, Preá, Prez, PEC
+  Texto com erro: "Prec-prec-prec!"
+    Erro: prec
+    Sugestões: prec., pré, preço, pressa, prece, presso, preá, prez, PEC
+  Texto com erro: "Prec-prec-prec!"
+    Erro: prec
+    Sugestões: prec., pré, preço, pressa, prece, presso, preá, prez, PEC
+Revisando arquivo: 199.tpl
+  Texto com erro: "Prec-prec..."
+    Erro: Prec
+    Sugestões: Prec., Pré, Preço, Pressa, Prece, Presso, Preá, Prez, PEC
+Revisando arquivo: 200.tpl
+  Texto com erro: "O primeiro TetraCódigo é meu!"
+    Erro: TetraCódigo
+    Sugestões: Tetra Código
+Revisando arquivo: 201.tpl
+  Texto com erro: "Ele parece ser barra pesada."
+    Erro: barra pesada
+    Sugestões: situação difícil, pessoa grosseira e violenta
+  Texto com erro: "Fuiiiiiiinn!"
+    Erro: Fuiiiiiiinn
+  Texto com erro: "Fuuuiiiiinn!"
+    Erro: Fuuuiiiiinn
+  Texto com erro: "Tchú-tchúú!"
+    Erro: tchúú
+    Sugestões: tchau
+  Texto com erro: "Flap flap flap!"
+    Erro: flap flap
+    Sugestões: flap
+  Texto com erro: "Nnngh..."
+    Erro: Nnngh
+    Sugestões: Ninja, Nanga, Nanja, Nengo, Ninga, Nonga, Nungo, Nínji
+  Texto com erro: "A missão de hoje era roubar o TetraCódigo, afinal."
+    Erro: TetraCódigo
+    Sugestões: Tetra Código
+  Texto com erro: "Vou transmitir o TetraCódigo agora."
+    Erro: TetraCódigo
+    Sugestões: Tetra Código
+Revisando arquivo: 203.tpl
+  Texto com erro: "Iiiáááá!"
+    Erro: Iiiáááá
+    Sugestões: Iriara-a, Iriarana
+Revisando arquivo: 205.tpl
+  Texto com erro: "Limpadores1"...?"
+    Erro: "
+Revisando arquivo: 212.tpl
+  Texto com erro: ""O CyberMestre Mandou"!"
+    Erro: CyberMestre
+    Sugestões: Civelmente
+  Texto com erro: "Urrúú!"
+    Erro: Urrúú
+    Sugestões: Uiruu, Urrou
+  Texto com erro: "Iiééé!"
+    Erro: Iiééé
+    Sugestões: IEEE
+  Texto com erro: "Clap-clap-clap!"
+    Erro: Clap
+    Sugestões: Clã, Clãs, Clip, Cual, Cup, Cupa, CLASP, Clape, Clau, Cuapa
+  Texto com erro: "Clap-clap-clap!"
+    Erro: clap
+    Sugestões: clã, clãs, clip, cual, cup, cupa, CLASP, clape, clau, cuapa
+  Texto com erro: "Clap-clap-clap!"
+    Erro: clap
+    Sugestões: clã, clãs, clip, cual, cup, cupa, CLASP, clape, clau, cuapa
+  Texto com erro: "MegaMan adquiriu: "1 BugFrag"!!"
+    Erro: BugFrag
+    Sugestões: Bufra, Bufras, Bugra, Bugras
+  Texto com erro: "Clap-clap-clap!"
+    Erro: Clap
+    Sugestões: Clã, Clãs, Clip, Cual, Cup, Cupa, CLASP, Clape, Clau, Cuapa
+  Texto com erro: "Clap-clap-clap!"
+    Erro: clap
+    Sugestões: clã, clãs, clip, cual, cup, cupa, CLASP, clape, clau, cuapa
+  Texto com erro: "Clap-clap-clap!"
+    Erro: clap
+    Sugestões: clã, clãs, clip, cual, cup, cupa, CLASP, clape, clau, cuapa
+  Texto com erro: "MegaMan adquiriu: "5 BugFrags"!!"
+    Erro: BugFrags
+    Sugestões: Bufras, Bugras
+  Texto com erro: "Clap-clap-clap!"
+    Erro: Clap
+    Sugestões: Clã, Clãs, Clip, Cual, Cup, Cupa, CLASP, Clape, Clau, Cuapa
+  Texto com erro: "Clap-clap-clap!"
+    Erro: clap
+    Sugestões: clã, clãs, clip, cual, cup, cupa, CLASP, clape, clau, cuapa
+  Texto com erro: "Clap-clap-clap!"
+    Erro: clap
+    Sugestões: clã, clãs, clip, cual, cup, cupa, CLASP, clape, clau, cuapa
+  Texto com erro: "MegaMan adquiriu: "30 BugFrags"!!"
+    Erro: BugFrags
+    Sugestões: Bufras, Bugras
+Revisando arquivo: 221.tpl
+  Texto com erro: "Estou de volta."
+    Erro: Estou de volta
+    Sugestões: Voltei
+Revisando arquivo: 222.tpl
+  Texto com erro: "Com "lhicença"!"
+    Erro: lhicença
+    Sugestões: licença, licencia
+  Texto com erro: "Com "LHICENÇA"!!"
+    Erro: LHICENÇA
+    Sugestões: LICENÇA
+  Texto com erro: "Com "lhicença"!"
+    Erro: lhicença
+    Sugestões: licença, licencia
+  Texto com erro: "Irmãozão, cadê vocêêêêê?!"
+    Erro: vocêêêêê
+    Sugestões: vossemecê
+Revisando arquivo: 223.tpl
+  Texto com erro: "Ah, por sinal..."
+    Erro: por sinal
+    Sugestões: ,
+Revisando arquivo: 225.tpl
+  Texto com erro: "Pois o pai deles teve que se mudar pra lá por causa do trabalho, né?"
+    Erro: por causa do
+    Sugestões: devido ao, pelo
+  Texto com erro: "Que nem você disse nos seus "í-mêius"!"
+    Erro: í
+  Texto com erro: "Espeçalmente" contra o Navi daquele "Lén"!"
+    Erro: Espeçalmente
+    Sugestões: Especialmente, Espessamente
+  Texto com erro: "Espeçalmente" contra o Navi daquele "Lén"!"
+    Erro: "
+  Texto com erro: "Ãhn... er, claro, vou sim!"
+    Erro: Ãhn
+    Sugestões: Ahn, Ann, Ah, Ohm, Aim, Ahns, Atm
+Revisando arquivo: 226.tpl
+  Texto com erro: "Irmãozão, eu te ODEIOOO!"
+    Erro: ODEIOOO
+    Sugestões: ODEIO-O, ODEIO OO
+Revisando arquivo: 229.tpl
+  Texto com erro: "Eeeeee corta!"
+    Erro: Eeeeee
+    Sugestões: Eevee, Eevees
+  Texto com erro: "Depois que derrotá-lo, é só voltar aqui e falar comigo!"
+    Erro: derrotá-lo
+    Sugestões: o derrotar
+Revisando arquivo: 230.tpl
+  Texto com erro: "o lendário Rei Vírus?!"
+    Erro: o
+    Sugestões: O
+  Texto com erro: "Não, Megaman."
+    Erro: Megaman
+    Sugestões: Meganha, Meganhas
+  Texto com erro: "Gente, pelamor!"
+    Erro: pelamor
+    Sugestões: pelador, pelamos, pela mor
+  Texto com erro: "Caramba."
+    Erro: Caramba.
+    Sugestões: Caramba!, Caramba?, Caramba!?, Caramba,, Caramba...
+Revisando arquivo: 231.tpl
+  Texto com erro: "Né."
+    Erro: Né.
+    Sugestões: Né!, Né?, Né!?, Né,, Né...
+  Texto com erro: "Eita."
+    Erro: Eita.
+    Sugestões: Eita!, Eita?, Eita!?, Eita,, Eita...
+Revisando arquivo: 233.tpl
+  Texto com erro: "até o PET normal ser consertado."
+    Erro: até
+    Sugestões: Até
+  Texto com erro: "Ah, e, por sinal..."
+    Erro: por sinal
+    Sugestões: ,
+Revisando arquivo: 234.tpl
+  Texto com erro: "não tem função de alarme..."
+    Erro: não
+    Sugestões: Não
+Revisando arquivo: 236.tpl
+  Texto com erro: "Chegamos em Yoka!"
+    Erro: Chegamos em
+    Sugestões: Chegamos a
+  Texto com erro: "Só lembrem-se de voltar à pousada a tempo pro jantar, crianças!"
+    Erro: lembrem-se
+    Sugestões: se lembrem
+Revisando arquivo: 238.tpl
+  Texto com erro: "URRÚ!"
+    Erro: URRÚ
+    Sugestões: URDU, URU, URRA, URRO, UARU, URRE, URROU
+Revisando arquivo: 239.tpl
+  Texto com erro: "Uaaaahhh...!"
+    Erro: Uaaaahhh
+Revisando arquivo: 241.tpl
+  Texto com erro: "Rooooooorrr!!!"
+    Erro: Rooooooorrr
+  Texto com erro: "ocorro----!"
+    Erro: ocorro
+    Sugestões: Ocorro
+  Texto com erro: "Socoooorroooo!"
+    Erro: Socoooorroooo
+  Texto com erro: "Chisaaaaaaaooooo!!"
+    Erro: Chisaaaaaaaooooo
+  Texto com erro: "C-Chi... sao...!"
+    Erro: sao
+    Sugestões: são
+Revisando arquivo: 242.tpl
+  Texto com erro: "Eu vou avisar aos outros que nós achamos o Chisao!"
+    Erro: que nós achamos
+    Sugestões: que achamos
+  Texto com erro: "Chisaaaaaooo!"
+    Erro: Chisaaaaaooo
+  Texto com erro: "Irmãozããããooo!"
+    Erro: Irmãozããããooo
+  Texto com erro: "e onde é que eu tô?"
+    Erro: e
+    Sugestões: E
+  Texto com erro: "Chuif, sniff!"
+    Erro: sniff
+    Sugestões: snifa, snife, snifo, skiff
+  Texto com erro: "Chisaaaaooo!"
+    Erro: Chisaaaaooo
+Revisando arquivo: 244.tpl
+  Texto com erro: "Como eu odeio vocês, Navis humanóides barulhentos..."
+    Erro: humanóides
+    Sugestões: humanoides, humanoide
+  Texto com erro: "Eu não sou tratador coisa nenhuma!"
+    Erro: tratador coisa
+    Sugestões: tratadora coisa, tratador, coisa, tratador Coisa
+  Texto com erro: "Mas o Wily tinha morrido!"
+    Erro: Mas
+Revisando arquivo: 245.tpl
+  Texto com erro: "Bom, pelo menos peguei o segundo TetraCódigo!"
+    Erro: TetraCódigo
+    Sugestões: Tetra Código
+Revisando arquivo: 246.tpl
+  Texto com erro: "SQUA!"
+    Erro: SQUA
+    Sugestões: SUA, SAUÁ, SUÃ, QUÁ, OQUÁ, SOQUA, SOUÁ, SUQUA
+  Texto com erro: "He."
+    Erro: He.
+    Sugestões: He!, He?, He!?, He,, He...
+Revisando arquivo: 248.tpl
+  Texto com erro: "Bom, pelo menos, tenho o segundo TetraCódigo, agora!"
+    Erro: TetraCódigo
+    Sugestões: Tetra Código
+  Texto com erro: "Riihm...!"
+    Erro: Riihm
+    Sugestões: Ririam
+Revisando arquivo: 250.tpl
+  Texto com erro: "logo, "compressão" é o ato de encolher um grande volume
+de dados através da força do programa."
+    Erro: logo
+    Sugestões: Logo
+  Texto com erro: "L
+a
+n
+!"
+    Erro: n !
+    Sugestões: n!
+Revisando arquivo: 251.tpl
+Revisando arquivo: 252.tpl
+  Texto com erro: "Bip Bip Bip!"
+    Erro: Bip Bip
+    Sugestões: Bip
+  Texto com erro: "Aguardamos a sua chegada o mais rápido possível."!"
+    Erro: "
+Revisando arquivo: 253.tpl
+  Texto com erro: "GUUUUUTS!"
+    Erro: GUUUUUTS
+    Sugestões: GURUBUS, GURUPUS
+  Texto com erro: "VITÓRIA GUUUUUTSSS!!"
+    Erro: GUUUUUTSSS
+  Texto com erro: "A gente vai na ópera amanhã."
+    Erro: na
+    Sugestões: à
+  Texto com erro: "Pois bem."
+    Erro: bem.
+    Sugestões: bem!, bem?, bem!?, bem,, bem...
+Revisando arquivo: 254.tpl
+  Texto com erro: "Bip Bip Bip!"
+    Erro: Bip Bip
+    Sugestões: Bip
+Revisando arquivo: 255.tpl
+  Texto com erro: "Hum, mas hoje não é um dia muito bom pra mim."
+    Erro: muito bom
+    Sugestões: ótimo
+  Texto com erro: "Arrrrrgh!"
+    Erro: Arrrrrgh
+Revisando arquivo: 256.tpl
+Revisando arquivo: 257.tpl
+  Texto com erro: "Bom, com ela, é a mesma coisa!"
+    Erro: a mesma coisa
+    Sugestões: o mesmo
+  Texto com erro: "Que tipo de bolhas são estas?"
+    Erro: são
+    Sugestões: é
+  Texto com erro: "SABOOOO-RYAAAAAA!"
+    Erro: SABOOOO
+    Sugestões: SABOROSO, SABOTOU, ABOTOO, ABOTÔO, SABONGO, SABOTO, SABOTO-O
+  Texto com erro: "SABOOOO-RYAAAAAA!"
+    Erro: RYAAAAAA
+  Texto com erro: "Bip Bip Bip!"
+    Erro: Bip Bip
+    Sugestões: Bip
+  Texto com erro: "As bolhas da máquina mudarão de cor,
+de azul para amarelo, depois de amarelo para vermelho, glub glub."
+    Erro: depois de
+    Sugestões: após
+  Texto com erro: "O Lorde Wily dizimará a sociedade da Rede que ele tanto odeia, glub!"."
+    Erro: glub
+    Sugestões: jul, gula, GRUB, gurbi, jula, jule, julo, club
+Revisando arquivo: 258.tpl
+  Texto com erro: "Glu-glub, Gluglugluglub!"
+    Erro: glub
+    Sugestões: jul, gula, GRUB, gurbi, jula, jule, julo, club
+  Texto com erro: "Glu-glub, Gluglugluglub!"
+    Erro: Gluglugluglub
+  Texto com erro: "Todo mundo ficaria chocado se soubesse que eu planejei tudo, glubub!"
+    Erro: que eu planejei
+    Sugestões: que planejei
+  Texto com erro: "O Lorde Wily me daria uma recompensa su-glub-lime!"
+    Erro: glub
+    Sugestões: jul, gula, GRUB, gurbi, jula, jule, julo, club
+  Texto com erro: "Bom, eu vou "glubverizar" todos aqueles Navis sujos!"
+    Erro: glubverizar
+    Sugestões: pulverizar
+  Texto com erro: "Glubglubglub!"
+    Erro: Glubglubglub
+  Texto com erro: "Blub!"
+    Erro: Blub
+    Sugestões: Bula, Bulbo, Bule, Bul, Bubu, Blue, Buli, Bulo, Club
+  Texto com erro: "Não se mete, glub!"
+    Erro: Não
+  Texto com erro: "Não se mete, glub!"
+    Erro: glub
+    Sugestões: jul, gula, GRUB, gurbi, jula, jule, julo, club
+  Texto com erro: "Dança Bolhuda, glubglubglub!"
+    Erro: glubglubglub
+  Texto com erro: "Glub
+."
+    Erro: Glub .
+    Sugestões: Glub.
+  Texto com erro: "Ei, eu te conheço, glub!"
+    Erro: glub
+    Sugestões: jul, gula, GRUB, gurbi, jula, jule, julo, club
+  Texto com erro: "Se eu te deletar, o Lorde Wily com certeza vai me recompensar, gluub!"
+    Erro: gluub
+    Sugestões: guluve
+  Texto com erro: "Glub blub!"
+    Erro: Glub
+    Sugestões: Gula, GRUB, Gurbi, Club
+  Texto com erro: "Glub!"
+    Erro: Glub
+    Sugestões: Gula, GRUB, Gurbi, Club
+  Texto com erro: "Você baixou a glub-guarda!"
+    Erro: glub
+    Sugestões: jul, gula, GRUB, gurbi, jula, jule, julo, club
+  Texto com erro: "Blublublub!"
+    Erro: Blublublub
+Revisando arquivo: 259.tpl
+  Texto com erro: "Glub!"
+    Erro: Glub
+    Sugestões: Gula, GRUB, Gurbi, Club
+  Texto com erro: "Gluglub!"
+    Erro: Gluglub
+    Sugestões: Gulgul
+  Texto com erro: "Glugluglub!"
+    Erro: Glugluglub
+    Sugestões: Glugluejou, Gluglutou
+  Texto com erro: "O que vocês tão bal-glub-ceando aí?"
+    Erro: glub
+    Sugestões: jul, gula, GRUB, gurbi, jula, jule, julo, club
+  Texto com erro: "Se não se apressarem, minhas bombas bolha vão ex-glub-dir!"
+    Erro: glub
+    Sugestões: jul, gula, GRUB, gurbi, jula, jule, julo, club
+  Texto com erro: "Glugluglub!"
+    Erro: Glugluglub
+    Sugestões: Glugluejou, Gluglutou
+Revisando arquivo: 260.tpl
+  Texto com erro: "Pode ser possível instalálo se alguém modificá-lo para o seu Customizador."
+    Erro: Pode ser
+    Sugestões: Deve ser, É
+  Texto com erro: "Pode ser possível instalálo se alguém modificá-lo para o seu Customizador."
+    Erro: instalálo
+    Sugestões: instalá-lo
+Revisando arquivo: 262.tpl
+  Texto com erro: "Eu estava de passagem e ouvi toda
+esta comoção."
+    Erro: toda esta
+    Sugestões: esta
+  Texto com erro: "precisam de modificações para se encaixarem aqui."
+    Erro: precisam
+    Sugestões: Precisam
+  Texto com erro: "*Clinc* *Clanc*..."
+    Erro: Clinc
+    Sugestões: Clima, Clino, Clina, Cline, Cuim, Cuini, Cuins, Cuíne
+  Texto com erro: "*Clinc* *Clanc*..."
+    Erro: Clanc
+    Sugestões: Clama, Clame, Clamo, Cuane
+  Texto com erro: "Bip Bip!"
+    Erro: Bip Bip
+    Sugestões: Bip
+  Texto com erro: "Bip Bip Bip!"
+    Erro: Bip Bip
+    Sugestões: Bip
+  Texto com erro: "Carunc!"
+    Erro: Carunc
+    Sugestões: Caruma
+  Texto com erro: "Dim!"
+    Erro: Dim
+    Sugestões: Dim., “Dim”
+  Texto com erro: "Tão boas quanto às do papai."
+    Erro: às do
+    Sugestões: ás do
+Revisando arquivo: 263.tpl
+  Texto com erro: "Você não vai me vencer assim, tão fácil, glub!"
+    Erro: glub
+    Sugestões: jul, gula, GRUB, gurbi, jula, jule, julo, club
+  Texto com erro: "Blá blá blá não-sei-o-quê!"
+    Erro: Blá blá
+    Sugestões: Blá
+  Texto com erro: "Glugluglubglub!"
+    Erro: Glugluglubglub
+  Texto com erro: "Vai ser preciso muito mais que isso pra estourar a Barragem Bolha, glub!"
+    Erro: glub
+    Sugestões: jul, gula, GRUB, gurbi, jula, jule, julo, club
+  Texto com erro: ""Gluni-vos"!"
+    Erro: Gluni
+    Sugestões: Luni, Gluma, Gurni, Gurnir
+  Texto com erro: "Pelo glub de Deus!"
+    Erro: glub
+    Sugestões: jul, gula, GRUB, gurbi, jula, jule, julo, club
+  Texto com erro: "Ah, que se glub."
+    Erro: glub
+    Sugestões: jul, gula, GRUB, gurbi, jula, jule, julo, club
+  Texto com erro: "Ah."
+    Erro: Ah.
+    Sugestões: Ah!, Ah?, Ah!?, Ah,, Ah...
+  Texto com erro: "Que glub!"
+    Erro: glub
+    Sugestões: jul, gula, GRUB, gurbi, jula, jule, julo, club
+  Texto com erro: "Eeeeeeeeiii.... peraí."
+    Erro: ....
+    Sugestões: …
+  Texto com erro: "Glub-affe!"
+    Erro: Glub
+    Sugestões: Gula, GRUB, Gurbi, Club
+  Texto com erro: "Meus "su-glub-alternos" fugiram com uma
+capaz de perfurar esta"
+    Erro: glub
+    Sugestões: jul, gula, GRUB, gurbi, jula, jule, julo, club
+Revisando arquivo: 264.tpl
+  Texto com erro: "Cooooorreee!"
+    Erro: Cooooorreee
+Revisando arquivo: 265.tpl
+  Texto com erro: "Claro que vai, ô!"
+    Erro: ô
+    Sugestões: o
+  Texto com erro: "Boooraaaaa!"
+    Erro: Boooraaaaa
+Revisando arquivo: 266.tpl
+  Texto com erro: "Glub?"
+    Erro: Glub
+    Sugestões: Gula, GRUB, Gurbi, Club
+  Texto com erro: "Ai, meu glub!"
+    Erro: glub
+    Sugestões: jul, gula, GRUB, gurbi, jula, jule, julo, club
+  Texto com erro: "Deem logo o fora daqui, glub!"
+    Erro: glub
+    Sugestões: jul, gula, GRUB, gurbi, jula, jule, julo, club
+  Texto com erro: "Se o MegaMan aparecer, glub-lá se vai o meu plano de cansar ele!"
+    Erro: glub
+    Sugestões: jul, gula, GRUB, gurbi, jula, jule, julo, club
+  Texto com erro: "Glub nele!!"
+    Erro: Glub
+    Sugestões: Gula, GRUB, Gurbi, Club
+  Texto com erro: "Gerônimooo!"
+    Erro: Gerônimooo
+    Sugestões: Gerônimo, Gerónimo, Gerónimos, Gerônimos, Germino-o
+Revisando arquivo: 267.tpl
+  Texto com erro: "Bom, nesse caso, legal, beleza, a gente vai embora, tchaaau!"
+    Erro: tchaaau
+    Sugestões: chacal, tchau, Chaval, chazal
+  Texto com erro: "Cara, eles são MUITO bons em fugir!"
+    Erro: MUITO bons
+    Sugestões: ótimos
+Revisando arquivo: 268.tpl
+  Texto com erro: "Meus su-glub-alternos perderam rápido assim?"
+    Erro: glub
+    Sugestões: jul, gula, GRUB, gurbi, jula, jule, julo, club
+  Texto com erro: "Aqueles glub-obalhões!"
+    Erro: glub
+    Sugestões: jul, gula, GRUB, gurbi, jula, jule, julo, club
+  Texto com erro: "Aqueles glub-obalhões!"
+    Erro: obalhões
+    Sugestões: balhões, bobalhões, ovalizes, ovalzões, o balhões
+  Texto com erro: "Glub glub, essa é a minha chance!"
+    Erro: Glub glub
+    Sugestões: Glub
+  Texto com erro: "Glaaa-glubglubglubglub!"
+    Erro: glubglubglubglub
+  Texto com erro: "Trrrrriiiiiiiiim!"
+    Erro: Trrrrriiiiiiiiim
+  Texto com erro: "Glub!"
+    Erro: Glub
+    Sugestões: Gula, GRUB, Gurbi, Club
+  Texto com erro: "Minhas bolhas estão pra estourar-barraexplodir, glublub!"
+    Erro: barraexplodir
+    Sugestões: barra explodir
+  Texto com erro: "Minhas bolhas estão pra estourar-barraexplodir, glublub!"
+    Erro: glublub
+    Sugestões: glóbulo, bulbul, bulbulo, gulgul, gálbula, gálbulo, Grubhub
+  Texto com erro: "Glaa-glubglub!"
+    Erro: glubglub
+    Sugestões: glu-glu, glu-glus, gulgul
+  Texto com erro: "Glubbbbb!"
+    Erro: Glubbbbb
+Revisando arquivo: 269.tpl
+  Texto com erro: "Por favor, não me delete, glublub!"
+    Erro: glublub
+    Sugestões: glóbulo, bulbul, bulbulo, gulgul, gálbula, gálbulo, Grubhub
+  Texto com erro: "Glub!"
+    Erro: Glub
+    Sugestões: Gula, GRUB, Gurbi, Club
+  Texto com erro: "Glub!"
+    Erro: Glub
+    Sugestões: Gula, GRUB, Gurbi, Club
+  Texto com erro: "Elas vão explodiiiiir!"
+    Erro: explodiiiiir
+    Sugestões: explodiríeis
+  Texto com erro: "Éééé!"
+    Erro: Éééé
+    Sugestões: IEEE, Eevee
+  Texto com erro: "Glub glub..."
+    Erro: Glub glub
+    Sugestões: Glub
+  Texto com erro: "Explodam, minhas belíssimas bolhas, glub!"
+    Erro: glub
+    Sugestões: jul, gula, GRUB, gurbi, jula, jule, julo, club
+  Texto com erro: "Glub!"
+    Erro: Glub
+    Sugestões: Gula, GRUB, Gurbi, Club
+  Texto com erro: "Glub glu...!!!"
+    Erro: Glub
+    Sugestões: Gula, GRUB, Gurbi, Club
+Revisando arquivo: 271.tpl
+  Texto com erro: "Não vou deixar ninguém me vencer!"
+    Erro: Não
+Revisando arquivo: 272.tpl
+  Texto com erro: "Bip Bip Bip!"
+    Erro: Bip Bip
+    Sugestões: Bip
+  Texto com erro: ""O muitíssimo aguardado Grande Prêmio N1
+será sediado amanhã, na DNN, na Rua Angra."
+    Erro: "
+Revisando arquivo: 273.tpl
+  Texto com erro: "A gente vai te entrevistar já já."
+    Erro: já já
+    Sugestões: já, já
+  Texto com erro: "Muito obrigada, MegaMan, e muito boa sorte!"
+    Erro: muito boa
+    Sugestões: ótima
+  Texto com erro: "G-GutsM-Man!"
+    Erro: GutsM
+    Sugestões: Gutam, Gutem
+Revisando arquivo: 274.tpl
+  Texto com erro: "Trrrriiiiiim!"
+    Erro: Trrrriiiiiim
+Revisando arquivo: 275.tpl
+  Texto com erro: "Mal educado, recusando uma entrevista desse jeito, Guts!"
+    Erro: Mal educado
+    Sugestões: Mal-educado
+  Texto com erro: "Aaaahhh, ProtoMaaan!"
+    Erro: ProtoMaaan
+    Sugestões: Protonaram, Protonavam, Protômala, Protômalas
+Revisando arquivo: 276.tpl
+  Texto com erro: "Creio que tenhamos que eliminá-los o quanto antes."
+    Erro: o quanto antes
+    Sugestões: quanto antes
+Revisando arquivo: 278.tpl
+  Texto com erro: "Você trouxe o meu
+?"
+    Erro: meu ?
+    Sugestões: meu?
+  Texto com erro: "Não irão..."
+    Erro: Não
+  Texto com erro: "O Chaud só deve estar arisco por causa de amanhã."
+    Erro: por causa de
+    Sugestões: devido a, por, pela, pelo
+Revisando arquivo: 280.tpl
+  Texto com erro: "Se tu lutar comigo depois, não vá esperar misericórdia!"
+    Erro: tu lutar
+    Sugestões: tu lutares, tu lutar
+  Texto com erro: "O que cê tá xoramingando aí, Lan?"
+    Erro: xoramingando
+    Sugestões: choramingando, choramigando, choramingado
+Revisando arquivo: 281.tpl
+  Texto com erro: "Uhuuuuuuu!!"
+    Erro: Uhuuuuuuu
+    Sugestões: Bululu, Bululus, Lulula, Muxuluxulu, Pululou
+  Texto com erro: "Permitam-me lhes
+dar as boas vindas no lugar do nosso patrocinador, o presidente da IPC!"
+    Erro: boas vindas
+    Sugestões: boas-vindas
+  Texto com erro: "Laaaaaan Hikaariiiiiii!!"
+    Erro: Hikaariiiiiii
+  Texto com erro: "Toraaaaa Aragomaaaa!"
+    Erro: Toraaaaa
+    Sugestões: Torara-a, Torava-a, Tourara-a, Tourava-a
+  Texto com erro: "Booooonzuuuuu!!"
+    Erro: Booooonzuuuuu
+  Texto com erro: "Ela vem da Ameropa do Sul!"
+    Erro: Ameropa do Sul
+    Sugestões: América do Sul
+  Texto com erro: "Jeeennifeeeer!!"
+    Erro: Jeeennifeeeer
+  Texto com erro: "Johnsooooonnnnn!!"
+    Erro: Johnsooooonnnnn
+  Texto com erro: "Koetsuuuuu!!"
+    Erro: Koetsuuuuu
+  Texto com erro: "O NetLutador obcecado, Yoshioooo Yamaaadaaa!!"
+    Erro: Yoshioooo
+  Texto com erro: "O NetLutador obcecado, Yoshioooo Yamaaadaaa!!"
+    Erro: Yamaaadaaa
+    Sugestões: Camarada-a, Camaradada, Camaradara, Camaradará, Camaradava
+  Texto com erro: "Clap Clap Clap Clap Clap Clap Clap Clap"
+    Erro: Clap Clap Clap Clap Clap Clap
+    Sugestões: Clap Clap Clap
+  Texto com erro: "Ei, sr. Sunayama!"
+    Erro: sr.
+    Sugestões: Sr.
+  Texto com erro: "Há quatro blocos de A a D, cada um com oito competidores,
+resultando num total de 32 pessoas!"
+    Erro: A a
+    Sugestões: A
+  Texto com erro: "Ho ho ho ho ho!"
+    Erro: ho ho ho ho
+    Sugestões: ho ho
+Revisando arquivo: 282.tpl
+  Texto com erro: "Râri ápi"?"
+    Erro: "
+  Texto com erro: "Mas deixa isso pra lá, simbora!"
+    Erro: Mas
+  Texto com erro: "Psshhhhh!"
+    Erro: Psshhhhh
+  Texto com erro: "Ugh... unnnghhhhh......"
+    Erro: unnnghhhhh
+  Texto com erro: "PaTim!"
+    Erro: PaTim
+    Sugestões: Patim?
+  Texto com erro: "PaTim!"
+    Erro: PaTim
+    Sugestões: Patim?
+Revisando arquivo: 283.tpl
+  Texto com erro: "Er, sr. Sunayama."
+    Erro: sr.
+    Sugestões: Sr.
+Revisando arquivo: 284.tpl
+  Texto com erro: "Por sinal, eu sou o Yasu, repórter da DNN."
+    Erro: Por sinal
+    Sugestões: ,
+  Texto com erro: "Lembre-se que sempre pode desistir e voltar atrás.
+Lan!"
+    Erro: voltar atrás
+    Sugestões: voltar, retroceder
+Revisando arquivo: 285.tpl
+  Texto com erro: "s escondidos lá."
+    Erro: s
+    Sugestões: S
+  Texto com erro: "avançarão para a próxima rodada."
+    Erro: avançarão
+    Sugestões: Avançarão
+  Texto com erro: "Que nem na primeira preliminar."
+    Erro: .
+    Sugestões: !, ..., ,
+  Texto com erro: "Somente quatro terminarão de pé!"
+    Erro: terminarão
+    Sugestões: terminará
+Revisando arquivo: 286.tpl
+  Texto com erro: "s foram todos obtidos."
+    Erro: s
+    Sugestões: S
+  Texto com erro: "Eu tinha certeza de que ia passaaaaaaahh!"
+    Erro: passaaaaaaahh
+  Texto com erro: "Os perdedores são eliminados"..."
+    Erro: "
+Revisando arquivo: 287.tpl
+  Texto com erro: "A pressa é inimiga da perfeição"."
+    Erro: "
+Revisando arquivo: 293.tpl
+  Texto com erro: "Biiiip!"
+    Erro: Biiiip
+    Sugestões: Bairiri, Bairiris, Biribiri, Biribiris, Biririçó
+Revisando arquivo: 294.tpl
+  Texto com erro: "Eu NetLuto desde antes de cê nascer,
+e "num" vou perder pra um peixinho que mal saiu das fraldas!"
+    Erro: NetLuto
+    Sugestões: Net Luto
+  Texto com erro: "Raoul do Bloco C!"
+    Erro: Raoul
+    Sugestões: Raul, Paolu
+  Texto com erro: "Elas consistirão de NetLutas simples e diretas!"
+    Erro: de
+    Sugestões: em
+Revisando arquivo: 295.tpl
+  Texto com erro: "Cabruuuummm!!"
+    Erro: Cabruuuummm
+  Texto com erro: "Biiiip!"
+    Erro: Biiiip
+    Sugestões: Bairiri, Bairiris, Biribiri, Biribiris, Biririçó
+Revisando arquivo: 296.tpl
+  Texto com erro: "Semi-finais, lá vamos nós!"
+    Erro: Semi-finais
+    Sugestões: Semifinais
+Revisando arquivo: 297.tpl
+  Texto com erro: "A sua ingenuindade sempre se supera."
+    Erro: ingenuindade
+    Sugestões: ingenuidade
+Revisando arquivo: 298.tpl
+  Texto com erro: "Hora de determinarmos nosso primeiro campião N1!"
+    Erro: campião
+    Sugestões: campeão
+  Texto com erro: "Ieeeebaaaa!"
+    Erro: Ieeeebaaaa
+  Texto com erro: "Uhuuuuuuuu!"
+    Erro: Uhuuuuuuuu
+    Sugestões: Muxuluxulu
+  Texto com erro: "Agora que eu venci esses fuleiros, nem tô preocupado."
+    Erro: que eu venci
+    Sugestões: que venci
+  Texto com erro: "O sr. Q parece ser um homem de ação, não de palavras!"
+    Erro: sr.
+    Sugestões: Sr.
+  Texto com erro: "Nada além disso."
+    Erro: Nada além disso
+    Sugestões: Nada, além disso
+  Texto com erro: "Um declaração fria, porém sutilmente provocativa do Chaud!"
+    Erro: Um declaração
+    Sugestões: uma declaração, Um, declaração, Um Declaração
+  Texto com erro: "Como é que é?!"
+    Erro: Como é que
+    Sugestões: Como
+  Texto com erro: "Ahahahaha!"
+    Erro: Ahahahaha
+  Texto com erro: "O Navi apaziguando o operador bebêzinho dele!"
+    Erro: bebêzinho
+    Sugestões: bebezinho, bavezinho, bebezinhos, reversinho
+  Texto com erro: "Eu voouuuu...!"
+    Erro: voouuuu
+    Sugestões: Honolulu, bululu, molulu
+Revisando arquivo: 299.tpl
+  Texto com erro: "E aí, Tora?!"
+    Erro: , Tora
+    Sugestões: , tora, . Tora
+  Texto com erro: "Laaannnnn!"
+    Erro: Laaannnnn
+  Texto com erro: "Tô brincando, ô!"
+    Erro: ô
+    Sugestões: o
+  Texto com erro: "O vencedor da primeira luta das semifinais é o jovem Lan Hikaariii!"
+    Erro: Hikaariii
+    Sugestões: Hilariai, Hilariei
+  Texto com erro: "Bip Bip Bip!"
+    Erro: Bip Bip
+    Sugestões: Bip
+Revisando arquivo: 300.tpl
+  Texto com erro: "Trrriiiiiiim!"
+    Erro: Trrriiiiiiim
+  Texto com erro: "Arranco cada Zenny dele!"
+    Erro: Zenny
+    Sugestões: Emmy, Zeni, Zenly
+  Texto com erro: "Uuuooooooohhh!!"
+    Erro: Uuuooooooohhh
+  Texto com erro: "Ô-lê, olê olê olá!"
+    Erro: olê olê
+    Sugestões: olê
+Revisando arquivo: 302.tpl
+  Texto com erro: "Aef!"
+    Erro: Aef
+    Sugestões: CEF, EF, SEF
+  Texto com erro: "Gaaaaaagghhh!"
+    Erro: Gaaaaaagghhh
+  Texto com erro: "Jjoooo..."
+    Erro: Jjoooo
+    Sugestões: Gomoo, Gomôo
+  Texto com erro: "Juooaaahh......"
+    Erro: Juooaaahh
+  Texto com erro: "(Eu sou DesertMan!)
+Jaauuu..."
+    Erro: DesertMan
+    Sugestões: Desertam
+  Texto com erro: "(Esta é minha verdadeira forma!)
+DesertMan!"
+    Erro: DesertMan
+    Sugestões: Desertam
+  Texto com erro: "Jooojaooooo......"
+    Erro: Jooojaooooo
+  Texto com erro: "(Por quê?!)
+Juuuaaajoooo."
+    Erro: Juuuaaajoooo
+  Texto com erro: "Nossa audiência cairá se você deletá-lo rápido demais!"
+    Erro: deletá-lo
+    Sugestões: o deletar
+  Texto com erro: "Juuuuoooooooh!!"
+    Erro: Juuuuoooooooh
+  Texto com erro: "Juuaaaoooojo......"
+    Erro: Juuaaaoooojo
+  Texto com erro: "(E então, gostou do meu mundo de miragens?)
+Juuujuuuoooojuuooo......"
+    Erro: Juuujuuuoooojuuooo
+  Texto com erro: "(Sua vista está bem avariada agora, não?)
+Jaaaa......"
+    Erro: Jaaaa
+    Sugestões: Jaacã, Jaalá
+  Texto com erro: "Parece que, no fim das contas, terei mesmo que deletá-los aqui."
+    Erro: deletá-los
+    Sugestões: os deletar
+Revisando arquivo: 303.tpl
+  Texto com erro: "Sunayaaaamaaa!!"
+    Erro: Sunayaaaamaaa
+  Texto com erro: "A derrota de Eugene Chaud, o NetLutador prodígio,
+será transmitida através de televisores ao redor do mundo!"
+    Erro: através de
+    Sugestões: por, via, mediante, por meio de
+  Texto com erro: "Daí,
+as pessoas entenderão que,
+se nem mesmo o lendário Eugene Chaud conseguiu vencer a WWW,
+então ningué pode se opor a nós!"
+    Erro: ningué
+    Sugestões: ninguém
+  Texto com erro: "Isto é entre eu e ele."
+    Erro: entre eu
+    Sugestões: entre mim
+  Texto com erro: "O sr. Sunayama chamou Chaud para a sala de edição no segundo andar."
+    Erro: sr.
+    Sugestões: Sr.
+  Texto com erro: "O que será que irá acontecer a seguir?!"
+    Erro: O
+  Texto com erro: "O que será que irá acontecer a seguir?!"
+    Erro: irá acontecer
+    Sugestões: acontecerá
+  Texto com erro: "O sr. Sunayama desapareceu enquanto estava tudo apagado!"
+    Erro: sr.
+    Sugestões: Sr.
+Revisando arquivo: 304.tpl
+  Texto com erro: "(Shhhp shhhp) (Shhhp shhhp)
+........."
+    Erro: Shhhp shhhp
+    Sugestões: Shhhp
+  Texto com erro: "(Shhhp shhhp) (Shhhp shhhp)
+........."
+    Erro: Shhhp shhhp
+    Sugestões: Shhhp
+  Texto com erro: "DesertMan!"
+    Erro: DesertMan
+    Sugestões: Desertam
+Revisando arquivo: 305.tpl
+  Texto com erro: "DesertMan foi deletado?!"
+    Erro: DesertMan
+    Sugestões: Desertam
+Revisando arquivo: 306.tpl
+  Texto com erro: "Eu já tenho dois dos TetraCódigos."
+    Erro: TetraCódigos
+    Sugestões: Tetra Códigos
+  Texto com erro: "Vovô"?!"
+    Erro: "
+  Texto com erro: "Muito bom, minha querida."
+    Erro: Muito bom
+    Sugestões: Ótimo
+  Texto com erro: "(Shhhp shhp shhp)
+..............."
+    Erro: Shhhp
+    Sugestões: Sharp
+  Texto com erro: "(Shhhp shhp shhp)
+..............."
+    Erro: shhp shhp
+    Sugestões: shhp
+  Texto com erro: "Aquele prédio abriga um certo conjunto de dados, o chamado TetraCódigo."
+    Erro: TetraCódigo
+    Sugestões: Tetra Código
+  Texto com erro: "Traga-me o TetraCódigo!"
+    Erro: TetraCódigo
+    Sugestões: Tetra Código
+Revisando arquivo: 307.tpl
+  Texto com erro: "Podem ir na frente."
+    Erro: na
+    Sugestões: à
+Revisando arquivo: 308.tpl
+  Texto com erro: "Todo este papo tá me dando uma sede."
+    Erro: Todo este
+    Sugestões: Este
+  Texto com erro: "Hi hi"."
+    Erro: "
+Revisando arquivo: 309.tpl
+  Texto com erro: "Cra-bronc!"
+    Erro: bronc
+    Sugestões: Bronx, bromo, bronca, bronco, broma, Brona, brome
+Revisando arquivo: 310.tpl
+  Texto com erro: "Bom, "desvermelha", Lan!"
+    Erro: desvermelha
+    Sugestões: dessemelha, desvencelha, envermelha, revermelha
+  Texto com erro: "Ah, shiu!"
+    Erro: shiu
+    Sugestões: saiu, chiru, chiu, Chiu, Shire, sail, shoyu, suil, zuiu
+  Texto com erro: "É
+."
+    Erro: É .
+    Sugestões: É.
+Revisando arquivo: 311.tpl
+  Texto com erro: "Quero você fora daqui tanto quanto o resto
+da turma."
+    Erro: daqui
+    Sugestões: daqui a
+Revisando arquivo: 313.tpl
+  Texto com erro: "Mas, no no N1, eu vi que tinham
+operadores fortes pra tudo que é canto!"
+    Erro: no no
+    Sugestões: no
+  Texto com erro: "Tora, você vai passar a noite?"
+    Erro: passar a noite
+    Sugestões: pernoitar
+  Texto com erro: "Depois de comer a gente conversa mais."
+    Erro: Depois de
+    Sugestões: Após
+  Texto com erro: "Na real, tu era o segundo da lista."
+    Erro: tu era
+    Sugestões: tu eras, tu era
+  Texto com erro: "Ah."
+    Erro: Ah.
+    Sugestões: Ah!, Ah?, Ah!?, Ah,, Ah...
+  Texto com erro: "Sondar"?"
+    Erro: "
+  Texto com erro: "Eu queria que tu pegasse umas missões pra mim."
+    Erro: tu pegasse
+    Sugestões: tu pegasses, tu pegasse
+Revisando arquivo: 314.tpl
+  Texto com erro: "Bip Bip Bip!"
+    Erro: Bip Bip
+    Sugestões: Bip
+Revisando arquivo: 315.tpl
+  Texto com erro: "Ah."
+    Erro: Ah.
+    Sugestões: Ah!, Ah?, Ah!?, Ah,, Ah...
+  Texto com erro: "Vamo", pega o teu PET aí."
+    Erro: "
+  Texto com erro: "NetLutando!"
+    Erro: NetLutando
+    Sugestões: Net Lutando
+  Texto com erro: "Guuuts!!"
+    Erro: Guuuts
+    Sugestões: Gúluas, Gúlues
+  Texto com erro: "Ah, já já ele volta ao normal, certeza."
+    Erro: já já
+    Sugestões: já, já
+Revisando arquivo: 316.tpl
+  Texto com erro: "Ó, eu sei que eu falei isso tudo, mas, se perguntassem pra mim,
+eu diria que gênio de verdade é "os bicho" que nem tu, Lan."
+    Erro: que eu falei
+    Sugestões: que falei
+  Texto com erro: "Toma, isto aqui é pra tu."
+    Erro: tu
+    Sugestões: ti
+  Texto com erro: "Eu vou continuar por DenCity um pouquinho, então, a gente se fala."
+    Erro: DenCity
+    Sugestões: Demiti
+  Texto com erro: "Até mais, Tora!"
+    Erro: , Tora
+    Sugestões: , tora, . Tora
+Revisando arquivo: 317.tpl
+Revisando arquivo: 318.tpl
+  Texto com erro: "O que rolou, srta. Mari?"
+    Erro: O
+Revisando arquivo: 319.tpl
+  Texto com erro: "Não vai ajudar nada você ficar todo deprê."
+    Erro: deprê
+    Sugestões: depõe, depare, detre, depure, derre, vepre
+  Texto com erro: "Por
+."
+    Erro: Por .
+    Sugestões: Por.
+Revisando arquivo: 320.tpl
+  Texto com erro: "Bip Bip Bip!"
+    Erro: Bip Bip
+    Sugestões: Bip
+  Texto com erro: "Ah."
+    Erro: Ah.
+    Sugestões: Ah!, Ah?, Ah!?, Ah,, Ah...
+  Texto com erro: "Venha me visitar de novo, OK?"."
+    Erro: "
+Revisando arquivo: 321.tpl
+  Texto com erro: "Mas, então..."
+    Erro: Mas, então
+    Sugestões: Mas, Então
+  Texto com erro: ", mas ele é super raro."
+    Erro: ,
+    Sugestões: 
+  Texto com erro: "Ebaaa!"
+    Erro: Ebaaa
+    Sugestões: Ebiara, Evada, Evara, Evará, Evava, Evaza, Evazá, Évana
+  Texto com erro: "Arck!"
+    Erro: Arck
+    Sugestões: Arco, Arca, Arc, Arçã
+  Texto com erro: "Ack... ugh..."
+    Erro: ugh
+    Sugestões: GH, UGT, uga, ujo, uge, ugo, uh, uja, uje
+  Texto com erro: "Uuunnhgh..."
+    Erro: Uuunnhgh
+  Texto com erro: "Fuuuu...."
+    Erro: Fuuuu
+    Sugestões: Fluiu, Lulu, Rulul
+  Texto com erro: "Fuuuu...."
+    Erro: ....
+    Sugestões: …
+  Texto com erro: "Fuuuu...."
+    Erro: Fuuuu
+    Sugestões: Fluiu, Lulu, Rulul
+  Texto com erro: "Fuuuu...."
+    Erro: ....
+    Sugestões: …
+  Texto com erro: "É
+."
+    Erro: É .
+    Sugestões: É.
+  Texto com erro: "foi o HBD que tirou a minha vida como Hub."
+    Erro: foi
+    Sugestões: Foi
+Revisando arquivo: 322.tpl
+  Texto com erro: "Uuuuunnngh..."
+    Erro: Uuuuunnngh
+  Texto com erro: "Desistir" nem existe no meu dicionário!"
+    Erro: "
+Revisando arquivo: 323.tpl
+  Texto com erro: "Ah."
+    Erro: Ah.
+    Sugestões: Ah!, Ah?, Ah!?, Ah,, Ah...
+  Texto com erro: "Quando ele tinha um ano de idade,
+ele morreu de uma certa doença do coração porque não pôde fazer
+cirurgia."
+    Erro: ano de idade
+    Sugestões: ano
+Revisando arquivo: 324.tpl
+  Texto com erro: "Bip Bip Bip!"
+    Erro: Bip Bip
+    Sugestões: Bip
+Revisando arquivo: 327.tpl
+  Texto com erro: "Vrrrrrrr...."
+    Erro: Vrrrrrrr
+  Texto com erro: "Vrrrrrrr...."
+    Erro: ....
+    Sugestões: …
+  Texto com erro: "Vrr..."
+    Erro: Vrr
+    Sugestões: Ver, Vir, RR, VR, Var
+  Texto com erro: "Vrrrriiirrrr!"
+    Erro: Vrrrriiirrrr
+  Texto com erro: "O que é que tá acontecendo?!"
+    Erro: O que é que
+    Sugestões: O que
+Revisando arquivo: 328.tpl
+  Texto com erro: "O que é que tá acontecendo na sala de cirurgia?!"
+    Erro: O que é que
+    Sugestões: O que
+  Texto com erro: "Os aparelhos na sala de cirurgia ainda estão operacionais."
+    Erro: ainda estão
+    Sugestões: continuam
+  Texto com erro: "Não abre!"
+    Erro: Não
+Revisando arquivo: 331.tpl
+  Texto com erro: "Chuáááá!"
+    Erro: Chuáááá
+    Sugestões: Cuarlara, Cuarlará
+Revisando arquivo: 332.tpl
+  Texto com erro: "Tô sim, sem problemas!"
+    Erro: Tô sim
+    Sugestões: Tô, sim
+Revisando arquivo: 333.tpl
+  Texto com erro: "Conect..."
+    Erro: Conect
+    Sugestões: Começa, Começo, Conecta, Comece, Comesse, Conecte, Conecto
+  Texto com erro: "Vrrrrrrr!"
+    Erro: Vrrrrrrr
+  Texto com erro: "Vrrrrrr!"
+    Erro: Vrrrrrr
+    Sugestões: Varrer, Varrerá, Arrarar, Irrorar, Varrera
+  Texto com erro: "Dim-Dom!"
+    Erro: Dom
+    Sugestões: dom
+  Texto com erro: "Eu não tô achando esse TetraCódigo."
+    Erro: TetraCódigo
+    Sugestões: Tetra Código
+  Texto com erro: "Quer dizer, as vinhas que eu cultivei com tanto carinho?"
+    Erro: que eu cultivei
+    Sugestões: que cultivei
+  Texto com erro: "Então... você trabalha pra WWW!"
+    Erro: Então
+  Texto com erro: "Enquanto isso, eu vou dar outra procurada pelo TetraCódigo."
+    Erro: TetraCódigo
+    Sugestões: Tetra Código
+Revisando arquivo: 335.tpl
+  Texto com erro: "O TetraCódigo está escondido no programa da sala de cirurgia."
+    Erro: TetraCódigo
+    Sugestões: Tetra Código
+  Texto com erro: "O seu olhar é afiado e limpo,
+puro como folhas recémbrotadas e cheias de vida."
+    Erro: recémbrotadas
+    Sugestões: recém brotadas
+  Texto com erro: "Devo entrar no programa da sala de cirurgia e roubar o TetraCódigo."
+    Erro: TetraCódigo
+    Sugestões: Tetra Código
+Revisando arquivo: 338.tpl
+  Texto com erro: "Este lugar também tá coberto de digivinhas!"
+    Erro: digivinhas
+    Sugestões: tá certo essa palavra?
+Revisando arquivo: 339.tpl
+  Texto com erro: "Eu já adquiri o TetraCódigo."
+    Erro: TetraCódigo
+    Sugestões: Tetra Código
+  Texto com erro: "TetraCódigo?"
+    Erro: TetraCódigo
+    Sugestões: Tetra Código
+  Texto com erro: "Caso não saiba, permitame explicar."
+    Erro: permitame
+    Sugestões: permita-me
+  Texto com erro: "O TetraCódigo é uma das chaves
+para trazer o fim da Rede."
+    Erro: TetraCódigo
+    Sugestões: Tetra Código
+  Texto com erro: "Há quatro TetraCódigos no total,"
+    Erro: TetraCódigos
+    Sugestões: Tetra Códigos
+  Texto com erro: "Então, era desse TetraCódigo que a WWW tava atrás!"
+    Erro: TetraCódigo
+    Sugestões: Tetra Código
+Revisando arquivo: 340.tpl
+  Texto com erro: "Contudo
+."
+    Erro: Contudo .
+    Sugestões: Contudo.
+  Texto com erro: "a WWW já adquiriu três dos TetraCódigos."
+    Erro: a
+    Sugestões: A
+  Texto com erro: "a WWW já adquiriu três dos TetraCódigos."
+    Erro: TetraCódigos
+    Sugestões: Tetra Códigos
+  Texto com erro: "Só mais um
+."
+    Erro: um .
+    Sugestões: um.
+  Texto com erro: "Este... é o fim
+."
+    Erro: fim .
+    Sugestões: fim.
+  Texto com erro: "Alpha
+."
+    Erro: Alpha .
+    Sugestões: Alpha.
+  Texto com erro: "Qu-quiiiic!"
+    Erro: quiiiic
+    Sugestões: quiriris, quiriais, quiriri, quirídio
+  Texto com erro: "Gaaaaaaaahh!!"
+    Erro: Gaaaaaaaahh
+  Texto com erro: "Ttttthhh.................."
+    Erro: Ttttthhh
+  Texto com erro: "L-Lan
+."
+    Erro: Lan .
+    Sugestões: Lan.
+Revisando arquivo: 341.tpl
+  Texto com erro: "Cinco horas depois
+."
+    Erro: depois .
+    Sugestões: depois.
+  Texto com erro: "L
+."
+    Erro: L .
+    Sugestões: L.
+  Texto com erro: "n
+."
+    Erro: n .
+    Sugestões: n.
+  Texto com erro: "e
+g
+."
+    Erro: e
+    Sugestões: E
+  Texto com erro: "e
+g
+."
+    Erro: g .
+    Sugestões: g.
+  Texto com erro: "M
+."
+    Erro: M .
+    Sugestões: M.
+  Texto com erro: "Unghnngh..."
+    Erro: Unghnngh
+    Sugestões: Ungongo
+  Texto com erro: "S-sabe...."
+    Erro: ....
+    Sugestões: …
+Revisando arquivo: 342.tpl
+  Texto com erro: "Mas, primeiro, preciso obter o último TetraCódigo."
+    Erro: TetraCódigo
+    Sugestões: Tetra Código
+  Texto com erro: "Irei contatá-lo novamanete quando chegar a hora."
+    Erro: novamanete
+    Sugestões: nova manete, novam anete
+  Texto com erro: "Zzhzhhhzhhhh..."
+    Erro: Zzhzhhhzhhhh
+  Texto com erro: "Só resta mais um TetraCódigo, mas, com ele ao meu lado...
+não fará diferença!"
+    Erro: TetraCódigo
+    Sugestões: Tetra Código
+  Texto com erro: "Uahahahahahaha!"
+    Erro: Uahahahahahaha
+Revisando arquivo: 343.tpl
+  Texto com erro: "Conhecendo o Dex, ele vai vir visitar a gente logo, logo."
+    Erro: vai vir
+    Sugestões: vem
+  Texto com erro: "E além disso...
+a Ameropa só fica a umas poucas horas de jatinho particular!"
+    Erro: E além disso
+    Sugestões: E, além disso
+Revisando arquivo: 344.tpl
+  Texto com erro: "Vamos sim."
+    Erro: sim.
+    Sugestões: sim!, sim?, sim!?, sim,, sim...
+  Texto com erro: "Lan,
+muito bom trabalho!"
+    Erro: muito bom
+    Sugestões: ótimo
+Revisando arquivo: 345.tpl
+  Texto com erro: "Ouvir isso me deixou empogadaço!"
+    Erro: empolgadaço
+  Texto com erro: "Ah."
+    Erro: Ah.
+    Sugestões: Ah!, Ah?, Ah!?, Ah,, Ah...
+  Texto com erro: "Há quanto tempo"?!"
+    Erro: "
+  Texto com erro: "O que é que você tá aprontando aí?!"
+    Erro: O que é que
+    Sugestões: O que
+  Texto com erro: "Depois de largar a WWW, eu mudei pra valer!"
+    Erro: Depois de
+    Sugestões: Após
+  Texto com erro: "Olha bem no fundo dos meus olhos."
+    Erro: bem no fundo
+    Sugestões: bem, no fundo
+Revisando arquivo: 346.tpl
+  Texto com erro: "Bip Bip Bip!"
+    Erro: Bip Bip
+    Sugestões: Bip
+Revisando arquivo: 347.tpl
+  Texto com erro: "Bip Bip Bip!"
+    Erro: Bip Bip
+    Sugestões: Bip
+Revisando arquivo: 348.tpl
+  Texto com erro: ""Traidor, é?"
+    Erro: "
+  Texto com erro: "Uraaaaaaarr!!"
+    Erro: Uraaaaaaarr
+  Texto com erro: "Uraaahhr!"
+    Erro: Uraaahhr
+    Sugestões: Uranador, Uranar
+  Texto com erro: "Bip Bip Bip!"
+    Erro: Bip Bip
+    Sugestões: Bip
+Revisando arquivo: 353.tpl
+  Texto com erro: "Tome, um agradozinho pelo seu trabalho."
+    Erro: agradozinho
+    Sugestões: agradorzinho, agravosinho, agrãozinho
+Revisando arquivo: 354.tpl
+  Texto com erro: "Cla-Clum-Clom!"
+    Erro: Clum
+    Sugestões: Cula, Calum, Alum, Cuim, Cule, Culi, Culna, Cum, Club
+  Texto com erro: "Biiii
+p!!"
+    Erro: Biiii
+    Sugestões: Bairiri, Biribiri
+  Texto com erro: "Biiii
+p!!"
+    Erro: p
+    Sugestões: para, por, pela, "p"
+  Texto com erro: "Cla-Clum-Clom!"
+    Erro: Clum
+    Sugestões: Cula, Calum, Alum, Cuim, Cule, Culi, Culna, Cum, Club
+  Texto com erro: "Clom-Clom-Clonc!"
+    Erro: Clonc
+    Sugestões: Clone, Clona, CLOC, Clono
+Revisando arquivo: 355.tpl
+  Texto com erro: "Uff.."
+    Erro: Uff.
+    Sugestões: Uff!, Uff?, Uff!?, Uff,, Uff...
+Revisando arquivo: 357.tpl
+  Texto com erro: "Bip Bip Bip!"
+    Erro: Bip Bip
+    Sugestões: Bip
+Revisando arquivo: 358.tpl
+  Texto com erro: "Ele ainda está no laboratório dele..."
+    Erro: ainda está
+    Sugestões: continua
+  Texto com erro: "Trriiiiiiiim!"
+    Erro: Trriiiiiiiim
+  Texto com erro: "Eu te ajudei
+."
+    Erro: ajudei .
+    Sugestões: ajudei.
+  Texto com erro: "Não, não é possível!"
+    Erro: Não
+  Texto com erro: "Que seja."
+    Erro: seja.
+    Sugestões: seja!, seja?, seja!?, seja,, seja...
+  Texto com erro: "Tudo bem, Match."
+    Erro: , Match
+    Sugestões: , match, . Match
+  Texto com erro: "Urrraaaaaahh!"
+    Erro: Urrraaaaaahh
+Revisando arquivo: 359.tpl
+  Texto com erro: "Trrriiiiiim!"
+    Erro: Trrriiiiiim
+  Texto com erro: "Espera só, Match!"
+    Erro: , Match
+    Sugestões: , match, . Match
+Revisando arquivo: 360.tpl
+  Texto com erro: "Trrrriiiiiim!"
+    Erro: Trrrriiiiiim
+Revisando arquivo: 361.tpl
+  Texto com erro: "Trriiiiim!"
+    Erro: Trriiiiim
+    Sugestões: Triniriam
+Revisando arquivo: 362.tpl
+  Texto com erro: "Trriiiiiiiim!"
+    Erro: Trriiiiiiiim
+  Texto com erro: "Vambora!"
+    Erro: Vambora
+    Sugestões: Amborá
+Revisando arquivo: 363.tpl
+  Texto com erro: "Trriiiiiiiim!"
+    Erro: Trriiiiiiiim
+Revisando arquivo: 364.tpl
+  Texto com erro: "Estas são imagens ao vivo da câmera que eu escondi no SciLab."
+    Erro: que eu escondi
+    Sugestões: que escondi
+  Texto com erro: "Relaxe, parece que o seu paizão ainda está respirando."
+    Erro: ainda está
+    Sugestões: continua
+Revisando arquivo: 366.tpl
+  Texto com erro: "Vamos ter que voltar por onde viemos e achar outro caminho!"
+    Erro: onde
+    Sugestões: de onde
+Revisando arquivo: 368.tpl
+  Texto com erro: "Urrraaaaaahhh..."
+    Erro: Urrraaaaaahhh
+  Texto com erro: "Urraaaaaaaahhh!!"
+    Erro: Urraaaaaaaahhh
+Revisando arquivo: 369.tpl
+  Texto com erro: "Urroh, uraaaaaaaaah!"
+    Erro: Urroh
+    Sugestões: Urro, Urros, Urrou
+  Texto com erro: "Urroh, uraaaaaaaaah!"
+    Erro: uraaaaaaaaah
+  Texto com erro: "Uuuraaaaaaaahh!"
+    Erro: Uuuraaaaaaaahh
+  Texto com erro: "Urah, uraaaaaahhh!"
+    Erro: Urah
+    Sugestões: Utah, Ura, Uraí, Ural, Uras, Ur ah
+  Texto com erro: "Urah, uraaaaaahhh!"
+    Erro: uraaaaaahhh
+  Texto com erro: "Uraahrahrahrah!"
+    Erro: Uraahrahrahrah
+  Texto com erro: "Vou ter que bater em retirada."
+    Erro: bater em retirada
+    Sugestões: fugir
+Revisando arquivo: 370.tpl
+  Texto com erro: "Um aura de escuridão."
+    Erro: Um aura
+    Sugestões: uma aura, Um, aura, Um Aura
+  Texto com erro: "Ooooouugh!"
+    Erro: Ooooouugh
+  Texto com erro: "Zhzhzhhhzh!"
+    Erro: Zhzhzhhhzh
+  Texto com erro: "Acabei de reunir todos os quatro TetraCódigos."
+    Erro: TetraCódigos
+    Sugestões: Tetra Códigos
+  Texto com erro: "Eu VOU ter minha vingança sobre a raça humana!"
+    Erro: a raça humana
+    Sugestões: humanos, humanidade, pessoas
+  Texto com erro: "E ele também mencionou os TetraCódigos!"
+    Erro: TetraCódigos
+    Sugestões: Tetra Códigos
+  Texto com erro: "Zh-zhhzhh... zzhz."
+    Erro: zhhzhh
+    Sugestões: sushi, Zcash, smash
+  Texto com erro: "Un... uugh..."
+    Erro: uugh
+    Sugestões: luge, luga, lugo, lugá
+Revisando arquivo: 371.tpl
+  Texto com erro: "Ah."
+    Erro: Ah.
+    Sugestões: Ah!, Ah?, Ah!?, Ah,, Ah...
+  Texto com erro: "Plomp!"
+    Erro: Plomp
+    Sugestões: Plomo, Plome
+  Texto com erro: "Papaaaaaaaai!!!"
+    Erro: Papaaaaaaaai
+Revisando arquivo: 373.tpl
+  Texto com erro: "Todos os TetraCódigos estão em minhas mãos!"
+    Erro: TetraCódigos
+    Sugestões: Tetra Códigos
+  Texto com erro: "Deletaaaaaaar!!!"
+    Erro: Deletaaaaaaar
+  Texto com erro: "DrillMan!"
+    Erro: DrillMan
+    Sugestões: Diluam, Driblam, Deplumam, Diluíam, Relumam
+  Texto com erro: "Apareça, DrillMan!!"
+    Erro: DrillMan
+    Sugestões: Diluam, Driblam, Deplumam, Diluíam, Relumam
+  Texto com erro: "Irei confiar os TetraCódigos a você."
+    Erro: TetraCódigos
+    Sugestões: Tetra Códigos
+  Texto com erro: "Então, vá, DrillMan!"
+    Erro: DrillMan
+    Sugestões: Diluam, Driblam, Deplumam, Diluíam, Relumam
+  Texto com erro: "Deletaaaaaar!!"
+    Erro: Deletaaaaaar
+  Texto com erro: "Mesmo se DrillMan fracassar, aquele outro pode sempre
+me trazer os dados do Alpha
+."
+    Erro: DrillMan
+    Sugestões: Diluam, Driblam, Deplumam, Diluíam, Relumam
+  Texto com erro: "Mesmo se DrillMan fracassar, aquele outro pode sempre
+me trazer os dados do Alpha
+."
+    Erro: Alpha .
+    Sugestões: Alpha.
+  Texto com erro: "Hu hu huuu!"
+    Erro: Hu hu
+    Sugestões: Hu
+  Texto com erro: "Deletaaaaar!!"
+    Erro: Deletaaaaar
+    Sugestões: Deletara-a, Deletara-as, Deletava-a, Deletava-as
+Revisando arquivo: 374.tpl
+  Texto com erro: "Yau, quer passar lá na casa do Lan hoje, depois da escola?"
+    Erro: Yau
+    Sugestões: tá certo "Yau"? não seria "Yai"?
+Revisando arquivo: 375.tpl
+  Texto com erro: "Dim-Dom!"
+    Erro: Dom
+    Sugestões: dom
+  Texto com erro: "Como é que tá o seu pai?"
+    Erro: Como é que
+    Sugestões: Como
+  Texto com erro: "Eu sei..."
+    Erro: Eu
+  Texto com erro: "Depois do que eu fiz..."
+    Erro: que eu fiz
+    Sugestões: que fiz
+  Texto com erro: "Dim-Dom!"
+    Erro: Dom
+    Sugestões: dom
+Revisando arquivo: 376.tpl
+  Texto com erro: "Você sabe o que são os TetraCódigos?"
+    Erro: TetraCódigos
+    Sugestões: Tetra Códigos
+  Texto com erro: "TetraCódigos...?"
+    Erro: TetraCódigos
+    Sugestões: Tetra Códigos
+  Texto com erro: "Eu não fui informado quem, exatamente, Alpha é."
+    Erro: , Alpha
+    Sugestões: , alpha, . Alpha
+  Texto com erro: "Se Alpha despertar,
+a sociedade da Rede será aniquiliada."
+    Erro: aniquiliada
+    Sugestões: aniquilada, aniqui liada
+  Texto com erro: "Quer dizer
+."
+    Erro: dizer .
+    Sugestões: dizer.
+  Texto com erro: "que eles têm todos os TetraCódigos!"
+    Erro: que
+    Sugestões: Que
+  Texto com erro: "que eles têm todos os TetraCódigos!"
+    Erro: TetraCódigos
+    Sugestões: Tetra Códigos
+  Texto com erro: "E quanto ao que me contou
+."
+    Erro: contou .
+    Sugestões: contou.
+  Texto com erro: "eu não ouvi nada."
+    Erro: eu
+    Sugestões: Eu
+Revisando arquivo: 377.tpl
+  Texto com erro: "Então, o Wily usou você pra formar o sindicato da netmáfia Gospel?"
+    Erro: netmáfia
+    Sugestões: net máfia
+  Texto com erro: "Aquilo"?"
+    Erro: "
+  Texto com erro: "Plomp!"
+    Erro: Plomp
+    Sugestões: Plomo, Plome
+  Texto com erro: "Como você sabe, o Sean é o ex-chefão da netmáfia Gospel."
+    Erro: netmáfia
+    Sugestões: net máfia
+  Texto com erro: "Vamos lá pro ScILab!"
+    Erro: ScILab
+    Sugestões: SciLab (sem 'I' maiúsculo)
+Revisando arquivo: 378.tpl
+  Texto com erro: "Ungh..."
+    Erro: Ungh
+    Sugestões: Unge, UNG, Ungi, Ungá, Unja, Unjo
+  Texto com erro: "Pois bem."
+    Erro: bem.
+    Sugestões: bem!, bem?, bem!?, bem,, bem...
+  Texto com erro: "De acordo com a investigação dos Oficiais, a Undernet tem um sistema
+conhecido simplesmente como o "ranqueamento"."
+    Erro: De acordo com a
+    Sugestões: Conforme a, Segundo a, Consoante a
+  Texto com erro: "Há dez Naviz de ranques de 1 a 10 na Undernet."
+    Erro: Naviz
+    Sugestões: Navis
+Revisando arquivo: 379.tpl
+  Texto com erro: "Hu hu!"
+    Erro: Hu hu
+    Sugestões: Hu
+  Texto com erro: "Hu hu hu!"
+    Erro: hu hu
+    Sugestões: hu
+  Texto com erro: "Devem enfrentar um ao outro para determinar quem esse será!"
+    Erro: um ao outro
+    Sugestões: reciprocamente, mutualmente
+  Texto com erro: "Hu hu hu!"
+    Erro: hu hu
+    Sugestões: hu
+Revisando arquivo: 380.tpl
+  Texto com erro: "Não vou baixar a guarda."
+    Erro: baixar a guarda
+    Sugestões: descontrair, facilitar
+Revisando arquivo: 381.tpl
+  Texto com erro: "Zr... zzrzrzzzzz..."
+    Erro: zzrzrzzzzz
+  Texto com erro: "Tzzhzzhzh... tzzhnnnn."
+    Erro: Tzzhzzhzh
+  Texto com erro: "Tzzhzzhzh... tzzhnnnn."
+    Erro: tzzhnnnn
+Revisando arquivo: 382.tpl
+  Texto com erro: "Bip Bip Bip!"
+    Erro: Bip Bip
+    Sugestões: Bip
+Revisando arquivo: 383.tpl
+  Texto com erro: "E é nossa obrigação fazer tu pagar!"
+    Erro: tu pagar
+    Sugestões: tu pagares, tu pagar
+  Texto com erro: "Éééé!"
+    Erro: Éééé
+    Sugestões: IEEE, Eevee
+  Texto com erro: "E pagar no AmeDólar!"
+    Erro: AmeDólar
+    Sugestões: Ame Dólar
+  Texto com erro: "Hu hu hu hu!"
+    Erro: Hu hu hu hu
+    Sugestões: Hu hu
+  Texto com erro: "Desde que tu seja deletado, daaane-se!"
+    Erro: tu seja
+    Sugestões: tu sejas, tu seja
+  Texto com erro: "Desde que tu seja deletado, daaane-se!"
+    Erro: daaane
+    Sugestões: Daiane, Dayane, dadane
+Revisando arquivo: 384.tpl
+  Texto com erro: "Nãããããoo!"
+    Erro: Nãããããoo
+    Sugestões: Nagávamo
+  Texto com erro: "Bip Bip Bip!"
+    Erro: Bip Bip
+    Sugestões: Bip
+  Texto com erro: "'onde a ciência nutre vida'."
+    Erro: onde
+    Sugestões: Onde
+  Texto com erro: "Onde a ciência nutre vida"...?"
+    Erro: "
+Revisando arquivo: 385.tpl
+  Texto com erro: "Eu comecei como todo o resto, lutando para chegar ao topo."
+    Erro: todo o resto
+    Sugestões: o resto
+Revisando arquivo: 386.tpl
+  Texto com erro: "Por mais que odeie fugir de um inimigo...
+eu o farei, se for para adquirir uma vantagem estragégica."
+    Erro: estragégica
+    Sugestões: estratégica
+  Texto com erro: "Tem algumas coisa no chão, onde o BeastMan estava!"
+    Erro: algumas coisa
+    Sugestões: alguma coisa, algumas coisas, algumas, coisa, algumas de coisa
+  Texto com erro: "Líder do aprendizado"."
+    Erro: "
+Revisando arquivo: 387.tpl
+  Texto com erro: "Nnããããããoo!!"
+    Erro: Nnããããããoo
+  Texto com erro: "Realmente, não dá pra baixar a guarda
+nem por um segundo na Undernet!"
+    Erro: baixar a guarda
+    Sugestões: descontrair, facilitar
+Revisando arquivo: 388.tpl
+  Texto com erro: "Cala a boca, ô!"
+    Erro: ô
+    Sugestões: o
+Revisando arquivo: 390.tpl
+  Texto com erro: "Hooooou!!"
+    Erro: Hooooou
+    Sugestões: Honorou
+  Texto com erro: "CyberPedregulho!"
+    Erro: CyberPedregulho
+  Texto com erro: "GUUUUUUTS!"
+    Erro: GUUUUUUTS
+  Texto com erro: "GUUUUUTS, vai!"
+    Erro: GUUUUUTS
+    Sugestões: GURUBUS, GURUPUS
+  Texto com erro: "C-CopyMan!!"
+    Erro: CopyMan
+    Sugestões: Copiam, Coimam, Colimam, Copilam
+  Texto com erro: "CopyMan!"
+    Erro: CopyMan
+    Sugestões: Copiam, Coimam, Colimam, Copilam
+  Texto com erro: "Então, moleque, tão dizendo por aí que você tá atrás do S.
+O que é que você quer com ele?"
+    Erro: O que é que
+    Sugestões: O que
+Revisando arquivo: 391.tpl
+  Texto com erro: "Local de batalha"..."
+    Erro: "
+Revisando arquivo: 392.tpl
+  Texto com erro: "Você é muito bom, pra vencer alguém como eu."
+    Erro: muito bom
+    Sugestões: ótimo
+  Texto com erro: "Mas não o bastante para vencer Serenade."
+    Erro: Serenade
+    Sugestões: Serenado, Serenada, Sere nade, Serena de
+  Texto com erro: "Serenade"?"
+    Erro: Serenade
+    Sugestões: Serenado, Serenada, Sere nade, Serena de
+  Texto com erro: "Serenade"?"
+    Erro: "
+  Texto com erro: "Serenade é o verdadeiro nome de "S"."
+    Erro: Serenade
+    Sugestões: Serenado, Serenada, Sere nade, Serena de
+  Texto com erro: "Diz pra mim onde eu posso achar Serenade!"
+    Erro: Serenade
+    Sugestões: Serenado, Serenada, Sere nade, Serena de
+  Texto com erro: "Serenade está nos confins do Under Plaza."
+    Erro: Serenade
+    Sugestões: Serenado, Serenada, Sere nade, Serena de
+  Texto com erro: "A partir de lá, você conseguirá chegar ao local de Serenade."
+    Erro: Serenade
+    Sugestões: Serenado, Serenada, Sere nade, Serena de
+  Texto com erro: "A porta para a sala do servidor está escondida por uma rocha."
+    Erro: A
+  Texto com erro: "A última vez que fui vencido foi há dez anos, contra Serenade..."
+    Erro: Serenade
+    Sugestões: Serenado, Serenada, Sere nade, Serena de
+  Texto com erro: "Serenade?"
+    Erro: Serenade
+    Sugestões: Serenado, Serenada, Sere nade, Serena de
+  Texto com erro: "Diz pra mim onde eu posso achar Serenade!"
+    Erro: Serenade
+    Sugestões: Serenado, Serenada, Sere nade, Serena de
+  Texto com erro: "Serenade está, agora, nos confins do Under Plaza,
+em uma área à qual Navis comuns não têm acesso."
+    Erro: Serenade
+    Sugestões: Serenado, Serenada, Sere nade, Serena de
+  Texto com erro: "Pegue isto e dirija-se ao servidor da Undernet o quanto antes."
+    Erro: o quanto antes
+    Sugestões: quanto antes
+  Texto com erro: "A porta para a sala do servidor é escondida por uma rocha."
+    Erro: A
+Revisando arquivo: 394.tpl
+  Texto com erro: "Meu nome é Serenade."
+    Erro: Serenade
+    Sugestões: Serenado, Serenada, Sere nade, Serena de
+  Texto com erro: "Serenade!"
+    Erro: Serenade
+    Sugestões: Serenado, Serenada, Sere nade, Serena de
+  Texto com erro: "Pois bem."
+    Erro: bem.
+    Sugestões: bem!, bem?, bem!?, bem,, bem...
+  Texto com erro: "MegaMaaaaan!!!"
+    Erro: MegaMaaaaan
+  Texto com erro: "Nããããããoo!"
+    Erro: Nããããããoo
+    Sugestões: Nadaríamo, Naipávamo, Nanaríamo
+  Texto com erro: "MegaMaaaan!!"
+    Erro: MegaMaaaan
+Revisando arquivo: 395.tpl
+  Texto com erro: "Eu sabia que não demoraria até você chegar a Serenade."
+    Erro: Serenade
+    Sugestões: Serenado, Serenada, Sere nade, Serena de
+  Texto com erro: "Uééon!"
+    Erro: Uééon
+    Sugestões: Ué éon
+  Texto com erro: "Uééon!"
+    Erro: Uééon
+    Sugestões: Ué éon
+  Texto com erro: "Uééon!"
+    Erro: Uééon
+    Sugestões: Ué éon
+  Texto com erro: "Uééon!"
+    Erro: Uééon
+    Sugestões: Ué éon
+  Texto com erro: "O TetraPortal foi destruído."
+    Erro: TetraPortal
+    Sugestões: Tetra Portal
+Revisando arquivo: 396.tpl
+  Texto com erro: "Ativar TetraCódigos!"
+    Erro: TetraCódigos
+    Sugestões: Tetra Códigos
+Revisando arquivo: 398.tpl
+  Texto com erro: "Arrrrrrrh!!!"
+    Erro: Arrrrrrrh
+  Texto com erro: "Ungh!!"
+    Erro: Ungh
+    Sugestões: Unge, UNG, Ungi, Ungá, Unja, Unjo
+  Texto com erro: "GigaCongelamento!!"
+    Erro: GigaCongelamento
+    Sugestões: Giga Congelamento
+  Texto com erro: "Você consegue usar o
+?"
+    Erro: o ?
+    Sugestões: o?
+Revisando arquivo: 400.tpl
+  Texto com erro: "Por que eu não consigo me mexher?!"
+    Erro: mexher
+    Sugestões: mexer
+  Texto com erro: "Huuuuuuuub!!"
+    Erro: Huuuuuuuub
+  Texto com erro: "Ahhhhhhhhh!!"
+    Erro: Ahhhhhhhhh
+Revisando arquivo: 401.tpl
+  Texto com erro: "Nada disso teria acontecido se eu tivesse pego o Alpha..."
+    Erro: pego
+    Sugestões: pegado
+Revisando arquivo: 402.tpl
+  Texto com erro: "Glup..."
+    Erro: Glup
+    Sugestões: GLP, Gula, Galp
+  Texto com erro: "A Internet primordial"...?!"
+    Erro: "
+  Texto com erro: "Então, o AutoNavi não tinha sido responvável, no final?"
+    Erro: responvável
+    Sugestões: responsável
+  Texto com erro: ""instinto"."
+    Erro: instinto
+    Sugestões: Instinto
+  Texto com erro: "Alpha invadiu todos os aparelhos que estavam conectados a si mesmo."
+    Erro: si mesmo
+    Sugestões: si
+Revisando arquivo: 403.tpl
+  Texto com erro: "Desculpa pelo que eu falei antes."
+    Erro: que eu falei
+    Sugestões: que falei
+  Texto com erro: "Pi-pi-piiiiii..."
+    Erro: piiiiii
+    Sugestões: piripiri, Piripiri, pairitiri, piripiris, piriricai
+  Texto com erro: "Pipipipipiiiii!"
+    Erro: Pipipipipiiiii
+Revisando arquivo: 404.tpl
+  Texto com erro: "Cara, esse vírus era forte pra caramba..."
+    Erro: forte pra caramba
+    Sugestões: muito forte, bastante forte
+Revisando arquivo: 405.tpl
+  Texto com erro: "A força que estava manipulando os tanques...
+era
+!!"
+    Erro: era !
+    Sugestões: era!
+  Texto com erro: "O que quer dizer que o Alpha escapou de algum lugar..."
+    Erro: O que quer dizer que
+    Sugestões: O que significa que
+  Texto com erro: "Bip bip bip!!"
+    Erro: Bip bip
+    Sugestões: Bip
+  Texto com erro: "Mas, então...?"
+    Erro: Mas, então
+    Sugestões: Mas, Então
+  Texto com erro: "Acessem os sistemas do Exército e destruam os
+!"
+    Erro: os !
+    Sugestões: os!
+  Texto com erro: "Bip bip bip!!"
+    Erro: Bip bip
+    Sugestões: Bip
+  Texto com erro: "O que é que tem o papai?!"
+    Erro: O que é que
+    Sugestões: O que
+  Texto com erro: "Ele não tá em condições de sair..."
+    Erro: Ele
+Revisando arquivo: 407.tpl
+  Texto com erro: "Estou rastreando a rota do ataque dos
+."
+    Erro: dos .
+    Sugestões: dos.
+  Texto com erro: "E o único momento que eu tenho para fazer isso é agora!"
+    Erro: E
+  Texto com erro: "Biiiiiip!!"
+    Erro: Biiiiiip
+    Sugestões: Biri-biri, Biri-biris, Biribiri, Biribiris
+  Texto com erro: "Urgh!"
+    Erro: Urgh
+    Sugestões: Urge, Urgi, Urja, Urjo
+  Texto com erro: "Glup..."
+    Erro: Glup
+    Sugestões: GLP, Gula, Galp
+  Texto com erro: "De acordo com os dados, a base da WWW fica na..."
+    Erro: De acordo com os
+    Sugestões: Conforme os, Segundo os, Consoante os
+  Texto com erro: "Vocês têm que lutar por todos aqueles que amam, e pelo nosso futuro!"
+    Erro: todos aqueles que
+    Sugestões: todos os que, todos que
+Revisando arquivo: 408.tpl
+  Texto com erro: "Graças ao seu empenho, Alpha, agora, está sob o nosso controle!"
+    Erro: , Alpha
+    Sugestões: , alpha, . Alpha
+  Texto com erro: "Lorde Wily, não vejo Inukai, o operador do BeastMan..."
+    Erro: Inukai
+    Sugestões: Imutai, Inumai, Sinucai
+  Texto com erro: "O Inukai?"
+    Erro: Inukai
+    Sugestões: Imutai, Inumai, Sinucai
+  Texto com erro: "Deletaaaaaaaar!!"
+    Erro: Deletaaaaaaaar
+Revisando arquivo: 410.tpl
+  Texto com erro: "Valeu, galora..."
+    Erro: galora
+    Sugestões: galera
+  Texto com erro: "Também somos NetLutadoras!"
+    Erro: NetLutadoras
+    Sugestões: Net Lutadoras
+Revisando arquivo: 411.tpl
+  Texto com erro: "Num" posso deixar o Chaud aparecer assim!"
+    Erro: "
+Revisando arquivo: 412.tpl
+  Texto com erro: "Eu vou me injetar no mundo cibernático e ligar o elevador."
+    Erro: cibernático
+    Sugestões: cibernético
+Revisando arquivo: 413.tpl
+  Texto com erro: "Clac!..."
+    Erro: Clac
+    Sugestões: Classe, Clã, Clãs, CAC, Cual, Cuca, CLOC, Clau, Cuaca, FLAC
+  Texto com erro: "Obtive este poder através de provações que você nem pode imaginar!"
+    Erro: através de
+    Sugestões: por, via, mediante, por meio de
+  Texto com erro: "Você logo representará uma ameaça à humanidade."
+    Erro: Você logo
+    Sugestões: Você loga
+Revisando arquivo: 414.tpl
+  Texto com erro: "Aggghhhh!!"
+    Erro: Aggghhhh
+  Texto com erro: "Nghh..."
+    Erro: Nghh
+    Sugestões: GHz, Nash, GH, Noah, Ng, GWh, Nhã, Nhô, Nhu, Nhá, Ngá, Ngás, NHL
+  Texto com erro: "Ele ainda está vivo, mas por um triz."
+    Erro: ainda está
+    Sugestões: continua
+Revisando arquivo: 415.tpl
+  Texto com erro: "Iááááá!!"
+    Erro: Iááááá
+    Sugestões: Iararana
+Revisando arquivo: 418.tpl
+Revisando arquivo: 419.tpl
+  Texto com erro: "Deve haver um acesso para um outro cômodo daqui."
+    Erro: um outro
+    Sugestões: outro
+Revisando arquivo: 420.tpl
+  Texto com erro: "Que tipo de gente decora a sala com uma estátua de si mesmo?"
+    Erro: si mesmo
+    Sugestões: si
+  Texto com erro: "A gente achou um caminoh!"
+    Erro: caminoh
+    Sugestões: caminho, caninos, canino, canimo, canimos
+Revisando arquivo: 421.tpl
+  Texto com erro: "Vai na frente!"
+    Erro: na
+    Sugestões: à
+  Texto com erro: "Bip Bip Bip!!"
+    Erro: Bip Bip
+    Sugestões: Bip
+  Texto com erro: "Bip Bip Bip!!"
+    Erro: Bip Bip
+    Sugestões: Bip
+  Texto com erro: "Agora, Lan!"
+    Erro: Agora
+Revisando arquivo: 423.tpl
+  Texto com erro: "Tô te devendo uma surra por ser mau comigo, glubglub!"
+    Erro: glubglub
+    Sugestões: glu-glu, glu-glus, gulgul
+  Texto com erro: "Glub glub glub glub!"
+    Erro: Glub glub glub glub
+    Sugestões: Glub glub
+  Texto com erro: "Desta vez, eu vou te deletar, glublublub!"
+    Erro: glublublub
+  Texto com erro: "Não baixe a guarda, MegaMan!"
+    Erro: baixe a guarda
+    Sugestões: descontraia, facilite
+Revisando arquivo: 424.tpl
+  Texto com erro: "Não acredito que você me glub-ateu de novo!"
+    Erro: glub
+    Sugestões: jul, gula, GRUB, gurbi, jula, jule, julo, club
+  Texto com erro: "Glu-blu-blaaaaaah!!"
+    Erro: blaaaaaah
+Revisando arquivo: 425.tpl
+  Texto com erro: "Jjooh..."
+    Erro: Jjooh
+    Sugestões: Joor, Joó, Joós
+  Texto com erro: "Jjjoooaahh..."
+    Erro: Jjjoooaahh
+  Texto com erro: "Enfim, hora de você se brincar um pouquinho com o DesertMan!"
+    Erro: DesertMan
+    Sugestões: Desertam
+  Texto com erro: "DesertMan!!"
+    Erro: DesertMan
+    Sugestões: Desertam
+  Texto com erro: "O DesertMan tá debaixo da areia, mas eu não sei dizer onde!!"
+    Erro: DesertMan
+    Sugestões: Desertam
+  Texto com erro: "Jjooaaaahh!"
+    Erro: Jjooaaaahh
+  Texto com erro: "Jjjjooooohh!!"
+    Erro: Jjjjooooohh
+Revisando arquivo: 426.tpl
+  Texto com erro: "Jjiiaaaaaaahhh!!"
+    Erro: Jjiiaaaaaaahhh
+  Texto com erro: "Arrrrrgh!!"
+    Erro: Arrrrrgh
+Revisando arquivo: 427.tpl
+  Texto com erro: "Crunc..."
+    Erro: Crunc
+    Sugestões: Crume
+  Texto com erro: "Crunc..."
+    Erro: Crunc
+    Sugestões: Crume
+Revisando arquivo: 429.tpl
+  Texto com erro: "Não é mesmo, Anetta?"
+    Erro: Não
+  Texto com erro: "Injusto"?"
+    Erro: "
+Revisando arquivo: 430.tpl
+  Texto com erro: "Araaaaagh!!"
+    Erro: Araaaaagh
+  Texto com erro: "Alpha logo despertará"?"
+    Erro: "
+Revisando arquivo: 433.tpl
+  Texto com erro: "O DrillMan também voltou?!"
+    Erro: DrillMan
+    Sugestões: Diluam, Driblam, Deplumam, Diluíam, Relumam
+  Texto com erro: "Não demora!"
+    Erro: Não
+Revisando arquivo: 434.tpl
+  Texto com erro: "Encontra o DrillMan, rápido!"
+    Erro: DrillMan
+    Sugestões: Diluam, Driblam, Deplumam, Diluíam, Relumam
+Revisando arquivo: 435.tpl
+  Texto com erro: "Não podemos perder agora, depois de chegar tão longe!"
+    Erro: depois de
+    Sugestões: após
+  Texto com erro: "Espera só até eu te transformar em queijo suiço!!"
+    Erro: suiço
+    Sugestões: suíço
+Revisando arquivo: 436.tpl
+  Texto com erro: "Eeeehhhnnn!!"
+    Erro: Eeeehhhnnn
+  Texto com erro: "Impede o DrillMan!!"
+    Erro: DrillMan
+    Sugestões: Diluam, Driblam, Deplumam, Diluíam, Relumam
+  Texto com erro: "Eeeeeehhhnn!!"
+    Erro: Eeeeeehhhnn
+Revisando arquivo: 437.tpl
+  Texto com erro: "Em poucos minutos, Alpha desperterá mais uma vez!"
+    Erro: , Alpha
+    Sugestões: , alpha, . Alpha
+  Texto com erro: "Em poucos minutos, Alpha desperterá mais uma vez!"
+    Erro: desperterá
+    Sugestões: despertara, despertará, desperte-a, desperte rá
+  Texto com erro: "Uaaa ha ha ha ha ha!!"
+    Erro: Uaaa
+    Sugestões: Uauá, Uaçá, Uacá, Uada, Uaiá, Ualá, Uamá, Uaná, Uapá, Uará, Ugaá
+  Texto com erro: "Arraaaaaagh!!"
+    Erro: Arraaaaaagh
+Revisando arquivo: 439.tpl
+  Texto com erro: "Se destruí-lo e absorvêlo com o seu Programa de Habilidade...
+obterá um poder ainda maior!"
+    Erro: destruí-lo
+    Sugestões: o destruir, o destruís
+  Texto com erro: "Se destruí-lo e absorvêlo com o seu Programa de Habilidade...
+obterá um poder ainda maior!"
+    Erro: absorvêlo
+    Sugestões: absorvê-lo
+  Texto com erro: "Confiamos e respeitamos um ao outro!!"
+    Erro: um ao outro
+    Sugestões: reciprocamente, mutualmente
+  Texto com erro: "Até o sr. Cossak, que criou você..."
+    Erro: sr.
+    Sugestões: Sr.
+  Texto com erro: "Um sentimento de confiança pelo sr. Cossak!"
+    Erro: sr.
+    Sugestões: Sr.
+Revisando arquivo: 440.tpl
+  Texto com erro: "E aqui estava eu, torcendo para que deletassem um ao outro..."
+    Erro: que deletassem
+    Sugestões: deletarem
+  Texto com erro: "E aqui estava eu, torcendo para que deletassem um ao outro..."
+    Erro: um ao outro
+    Sugestões: reciprocamente, mutualmente
+  Texto com erro: "É necessário muito poder para destrui-lo, sabe?"
+    Erro: destrui-lo
+    Sugestões: destruí-lo
+  Texto com erro: "Aliás, foi por isso que eu usei a Gospel para criar uma cópia sua!"
+    Erro: que eu usei
+    Sugestões: que usei
+  Texto com erro: "Goraaahhh!!"
+    Erro: Goraaahhh
+  Texto com erro: "O que tá acontecendo?!"
+    Erro: O
+Revisando arquivo: 441.tpl
+  Texto com erro: "Mmuaooorrr!!"
+    Erro: Mmuaooorrr
+Revisando arquivo: 442.tpl
+  Texto com erro: "Não se preocupe, eu não machucá-los."
+    Erro: machucá-los
+    Sugestões: os machucar
+  Texto com erro: "Fomos sim, vovô!"
+    Erro: Fomos sim
+    Sugestões: Fomos, sim
+  Texto com erro: "Uma sociedade em que humanos e Navis ajudam uns aos outros!!"
+    Erro: uns aos outros
+    Sugestões: reciprocamente, mutualmente
+Revisando arquivo: 443.tpl
+  Texto com erro: "Depos de algumas horas, seremos reduzidos a restos de dados."
+    Erro: Depos
+    Sugestões: Depois
+  Texto com erro: "Vamos desaparecer, junto com o Alpha..."
+    Erro: junto com
+    Sugestões: com
+  Texto com erro: "Não tem nenhum jeito da gente escapar daqui?"
+    Erro: Não
+  Texto com erro: "E o que você vai fazer depois disso?!"
+    Erro: E
+  Texto com erro: "Não posso me separar de você!!"
+    Erro: Não
+  Texto com erro: "Todos os dias que eu passei com você foram muito felizes..."
+    Erro: que eu passei
+    Sugestões: que passei
+  Texto com erro: "Mas...!"
+    Erro: Mas
+  Texto com erro: "Eu acordo sozinho de agora em diante!"
+    Erro: Eu
+  Texto com erro: "Lan, nada pode substituir os dias que eu passei com você."
+    Erro: que eu passei
+    Sugestões: que passei
+  Texto com erro: "MegaMaaaaaan!!!"
+    Erro: MegaMaaaaaan
+Revisando arquivo: 444.tpl
+  Texto com erro: "Eu sabia que tu ia conseguir!"
+    Erro: tu ia
+    Sugestões: tu ias, tu ia
+  Texto com erro: "Ê, Chaud, tu tá pegando pesado demais."
+    Erro: Ê
+    Sugestões: E, É
+Revisando arquivo: 445.tpl
+  Texto com erro: "E
+."
+    Erro: E .
+    Sugestões: E.
+  Texto com erro: "Eeeei!"
+    Erro: Eeeei
+    Sugestões: Eleei
+  Texto com erro: "Eu tô indo, Chisaaaoooo!!"
+    Erro: Chisaaaoooo
+  Texto com erro: "Chisaaooooo!"
+    Erro: Chisaaooooo
+  Texto com erro: "Sim
+."
+    Erro: Sim .
+    Sugestões: Sim.
+  Texto com erro: "pai?"
+    Erro: pai
+    Sugestões: Pai
+  Texto com erro: "Pois bem."
+    Erro: bem.
+    Sugestões: bem!, bem?, bem!?, bem,, bem...
+  Texto com erro: "Desculpa por você ter perdido a chance de ter a revanche pelo N1."
+    Erro: ter perdido
+    Sugestões: perder
+  Texto com erro: "Ah."
+    Erro: Ah.
+    Sugestões: Ah!, Ah?, Ah!?, Ah,, Ah...
+  Texto com erro: "Como tá o sr. Cossak?"
+    Erro: sr.
+    Sugestões: Sr.
+  Texto com erro: "Tchaaau!"
+    Erro: Tchaaau
+    Sugestões: Chacal, Tchau, Chaval, Chazal
+  Texto com erro: "Não é isso..."
+    Erro: Não
+  Texto com erro: "Sobre o sr. Cossak..."
+    Erro: Sobre
+  Texto com erro: "Sobre o sr. Cossak..."
+    Erro: sr.
+    Sugestões: Sr.
+  Texto com erro: "Acho que eu contei pra ele tudo de que eu conseguia me lembrar..."
+    Erro: que eu contei
+    Sugestões: que contei
+  Texto com erro: "Daí, pouco depois de eu terminar..."
+    Erro: depois de
+    Sugestões: após
+  Texto com erro: "Eu sempre incluí um "programa de simulação de emoções" nos Navis
+para que eles se entendessem melhor com humanos
+."
+    Erro: humanos .
+    Sugestões: humanos.
+  Texto com erro: "O Hub me disse que ficou muito, mas muito feliz por ter vivido como MegaMan!"
+    Erro: ter vivido
+    Sugestões: viver
+  Texto com erro: "E aprendi tanta coisa!"
+    Erro: E
+  Texto com erro: "E é por isso que eu não vou mais ficar triste!"
+    Erro: E
+  Texto com erro: "Hm
+."
+    Erro: Hm .
+    Sugestões: Hm.
+  Texto com erro: "E vou fazer a minha lição de casa!"
+    Erro: E
+  Texto com erro: "Eu consigo fazer tudo
+."
+    Erro: tudo .
+    Sugestões: tudo.
+  Texto com erro: "Se você não tivesse se tornado meu amigo,
+eu, provavelmente, ainda estaria preso no hospita... ou pior."
+    Erro: hospita
+    Sugestões: hospital, hostita, sospita, sospitá, sóspita
+  Texto com erro: "A carta do vovô ainda está sendo decodificada..."
+    Erro: ainda está
+    Sugestões: continua
+  Texto com erro: "Mesmo quando eu crescer..."
+    Erro: Mesmo
+  Texto com erro: "Quando eu receber meu novo Navi, não vou mais poder dizer isto,
+então, vou dizer só mais uma vez
+."
+    Erro: vez .
+    Sugestões: vez.
+Revisando arquivo: 446.tpl
+  Texto com erro: "Raoarrrr!!"
+    Erro: Raoarrrr
+    Sugestões: Agarrar, Amarrar, Acarrar, Aparrar
+  Texto com erro: "Mas, ontem, finalmente, terminamos de analizá-la."
+    Erro: analizá-la
+    Sugestões: analisá-la
+  Texto com erro: "Encontraram ontem", acertei?"
+    Erro: "
+  Texto com erro: "Na manhã seguinte
+."
+    Erro: seguinte .
+    Sugestões: seguinte.
+  Texto com erro: "Uaaaaah
+."
+    Erro: Uaaaaah .
+    Sugestões: Uaaaaah.
+  Texto com erro: "Mega
+."
+    Erro: Mega .
+    Sugestões: Mega.
+  Texto com erro: "Isto é
+."
+    Erro: é .
+    Sugestões: é.
+  Texto com erro: "um sonho?"
+    Erro: um
+    Sugestões: Um
+Revisando arquivo: 447.tpl
+  Texto com erro: "Cópia de BubbleMan disponível para uma luta cronometrada!"
+    Erro: Cópia
+  Texto com erro: "Cópia de DesertMan disponível para uma luta cronometrada!"
+    Erro: Cópia
+  Texto com erro: "Cópia de DesertMan disponível para uma luta cronometrada!"
+    Erro: DesertMan
+    Sugestões: Desertam
+  Texto com erro: "Cópia de PlantMan disponível para uma luta cronometrada!"
+    Erro: Cópia
+  Texto com erro: "Cópia de FlameMan disponível para uma luta cronometrada!"
+    Erro: Cópia
+  Texto com erro: "Cópia de DrillMan disponível para uma luta cronometrada!"
+    Erro: Cópia
+  Texto com erro: "Cópia de DrillMan disponível para uma luta cronometrada!"
+    Erro: DrillMan
+    Sugestões: Diluam, Driblam, Deplumam, Diluíam, Relumam
+  Texto com erro: "Cópia de GutsMan disponível para uma luta cronometrada!"
+    Erro: Cópia
+  Texto com erro: "Cópia de MetalMan disponível para uma luta cronometrada!"
+    Erro: Cópia
+  Texto com erro: "Cópia de KingMan disponível para uma luta cronometrada!"
+    Erro: Cópia
+  Texto com erro: "Cópia de MistMan disponível para uma luta cronometrada!"
+    Erro: Cópia
+  Texto com erro: "Cópia de DarkMan disponível para uma luta cronometrada!"
+    Erro: Cópia
+  Texto com erro: "Cópia de YamatoMan disponível para uma luta cronometrada!"
+    Erro: Cópia
+  Texto com erro: "Cópia de YamatoMan disponível para uma luta cronometrada!"
+    Erro: YamatoMan
+    Sugestões: Tanatômana, Tanatômano
+  Texto com erro: "Cópia de ProtoMan disponível para uma luta cronometrada!"
+    Erro: Cópia
+  Texto com erro: "Cópia de Serenade disponível para uma luta cronometrada!"
+    Erro: Cópia
+  Texto com erro: "Cópia de Serenade disponível para uma luta cronometrada!"
+    Erro: Serenade
+    Sugestões: Serenado, Serenada, Sere nade, Serena de
+  Texto com erro: "Cópia de BassGS disponível para uma luta cronometrada!"
+    Erro: Cópia
+  Texto com erro: "Cópia de BassGS disponível para uma luta cronometrada!"
+    Erro: BassGS
+    Sugestões: Baças, Baços, Bassas, Bacos, Bacas, Bacus, Bassos, Bassês, Bácis
+  Texto com erro: "Seu recorde atual vs
+é
+:
+:
+!"
+    Erro: : :
+    Sugestões: :
+  Texto com erro: "Não pode firmar novo recorde com o Modo Buster Max ligado."
+    Erro: Buster
+    Sugestões: Suster, Blister, Bus ter
+  Texto com erro: ":
+:
+!"
+    Erro: : :
+    Sugestões: :
+  Texto com erro: "Firmou um novo recorde pro
+!"
+    Erro: pro !
+    Sugestões: pro!
+  Texto com erro: "Tome, um presente de Serenade!"
+    Erro: Serenade
+    Sugestões: Serenado, Serenada, Sere nade, Serena de
+  Texto com erro: "Se conseguir isso, talvez Serenade até te recompense!"
+    Erro: Serenade
+    Sugestões: Serenado, Serenada, Sere nade, Serena de
+  Texto com erro: "Tome, um presente de Serenade!"
+    Erro: Serenade
+    Sugestões: Serenado, Serenada, Sere nade, Serena de
+Revisando arquivo: 449.tpl
+  Texto com erro: "Você irá se arrepender de eu não tê-lo deletado..."
+    Erro: tê-lo
+    Sugestões: o ter
+  Texto com erro: "Espere só até sentir a escuridão do UndeRei, Serenade!"
+    Erro: UndeRei
+    Sugestões: Undarei, Unde Rei
+  Texto com erro: "Espere só até sentir a escuridão do UndeRei, Serenade!"
+    Erro: Serenade
+    Sugestões: Serenado, Serenada, Sere nade, Serena de
+  Texto com erro: "Rrrrgghhh..."
+    Erro: Rrrrgghhh
+  Texto com erro: "E Serenade, o "UndeRei"...?"
+    Erro: E
+  Texto com erro: "E Serenade, o "UndeRei"...?"
+    Erro: Serenade
+    Sugestões: Serenado, Serenada, Sere nade, Serena de
+  Texto com erro: "E Serenade, o "UndeRei"...?"
+    Erro: UndeRei
+    Sugestões: Undarei, Unde Rei
+  Texto com erro: "É, esta área parece diferente de todo o resto da Rede..."
+    Erro: todo o resto
+    Sugestões: o resto
+Revisando arquivo: 450.tpl
+  Texto com erro: "Sou YamatoMan, o melhor usuário de lança da história!!"
+    Erro: YamatoMan
+    Sugestões: Tanatômana, Tanatômano
+Revisando arquivo: 451.tpl
+  Texto com erro: "Unngh!!"
+    Erro: Unngh
+    Sugestões: Unge, UNG, Uanga, Ungi, Ungá, Unja, Unjo, Uongo
+  Texto com erro: "Serenade...!"
+    Erro: Serenade
+    Sugestões: Serenado, Serenada, Sere nade, Serena de
+  Texto com erro: "Cara, ele era forte pra caramba..."
+    Erro: forte pra caramba
+    Sugestões: muito forte, bastante forte
+  Texto com erro: "Parece que era um dos seguidores de Serenade..."
+    Erro: Serenade
+    Sugestões: Serenado, Serenada, Sere nade, Serena de
+  Texto com erro: "Quanto poder será que Serenade tem, afinal?"
+    Erro: poder será
+    Sugestões: poder ser
+  Texto com erro: "Quanto poder será que Serenade tem, afinal?"
+    Erro: Serenade
+    Sugestões: Serenado, Serenada, Sere nade, Serena de
+Revisando arquivo: 452.tpl
+  Texto com erro: "YamatoMan deixou a Tropa Elite do SciLab para me seguir."
+    Erro: YamatoMan
+    Sugestões: Tanatômana, Tanatômano
+  Texto com erro: "Serenade!"
+    Erro: Serenade
+    Sugestões: Serenado, Serenada, Sere nade, Serena de
+  Texto com erro: "Pois bem."
+    Erro: bem.
+    Sugestões: bem!, bem?, bem!?, bem,, bem...
+  Texto com erro: "Darei-lhe um duelo... pelo título de UndeRei!"
+    Erro: Darei-lhe
+    Sugestões: Dar-lhe-ei
+  Texto com erro: "Darei-lhe um duelo... pelo título de UndeRei!"
+    Erro: UndeRei
+    Sugestões: Undarei, Unde Rei
+  Texto com erro: "Eu aqui preocupado com Serenade... mas nem parece grande coisa!!"
+    Erro: Serenade
+    Sugestões: Serenado, Serenada, Sere nade, Serena de
+  Texto com erro: "Serenade é totalmente diferente de tudo que eu já enfrentei!"
+    Erro: Serenade
+    Sugestões: Serenado, Serenada, Sere nade, Serena de
+Revisando arquivo: 453.tpl
+  Texto com erro: "A confiança que há entre vocês dois os torna mais fortes."
+    Erro: torna mais fortes
+    Sugestões: fortalece
+  Texto com erro: "Isso mostra que você é o Navi mais forte do cybermundo."
+    Erro: cybermundo
+    Sugestões: cibermundo, cibermundos
+  Texto com erro: "Espera, Serenade!"
+    Erro: Serenade
+    Sugestões: Serenado, Serenada, Sere nade, Serena de
+  Texto com erro: "Se um negócio desses aparecer, vai ser um problemão pra gente!"
+    Erro: problemão
+    Sugestões: problemas, problema
+Revisando arquivo: 454.tpl
+  Texto com erro: "Roaaaaarrr!!"
+    Erro: Roaaaaarrr
+  Texto com erro: "Bass"?"
+    Erro: "
+Revisando arquivo: 455.tpl
+  Texto com erro: "O único em quem confio sou eu mesmo!"
+    Erro: confio sou
+    Sugestões: confio, sou, confio só
+  Texto com erro: "Urgh...!"
+    Erro: Urgh
+    Sugestões: Urge, Urgi, Urja, Urjo
+  Texto com erro: "Uraaaaaagh!!"
+    Erro: Uraaaaaagh
+Revisando arquivo: 456.tpl
+  Texto com erro: "Eu vou colocar paineis no chão aqui."
+    Erro: paineis
+    Sugestões: painéis
+  Texto com erro: "Passa pra cá os
+."
+    Erro: os .
+    Sugestões: os.
+Revisando arquivo: 458.tpl
+  Texto com erro: "Equipou
+!"
+    Erro: Equipou !
+    Sugestões: Equipou!
+  Texto com erro: "GigaChips demais!"
+    Erro: GigaChips
+    Sugestões: Giga Chips
+  Texto com erro: "MegaChips demais!"
+    Erro: MegaChips
+    Sugestões: Mega Chips
+  Texto com erro: "Só pode usar
+de mesmo GigaChip"
+    Erro: GigaChip
+    Sugestões: Giga Chip
+  Texto com erro: "MegaChips iguais!"
+    Erro: MegaChips
+    Sugestões: Mega Chips
+  Texto com erro: "GigaChips no total!"
+    Erro: GigaChips
+    Sugestões: Giga Chips
+  Texto com erro: "MegaChips no total!"
+    Erro: MegaChips
+    Sugestões: Mega Chips
+  Texto com erro: "Só funcionará com um chip de Água!"
+    Erro: Só
+  Texto com erro: "Só funcionará com um chip Elétrico!"
+    Erro: Só
+  Texto com erro: "Voltei ao
+!"
+    Erro: ao !
+    Sugestões: ao!
+  Texto com erro: "Equipei
+!"
+    Erro: Equipei !
+    Sugestões: Equipei!
+  Texto com erro: "está em uso."
+    Erro: está
+    Sugestões: Está
+  Texto com erro: "Não vamos usar isso ainda!"
+    Erro: Não
+  Texto com erro: "Trocar programas!"
+    Erro: Trocar
+Revisando arquivo: 459.tpl
+  Texto com erro: "Equipou
+!"
+    Erro: Equipou !
+    Sugestões: Equipou!
+  Texto com erro: "GigaChips demais!"
+    Erro: GigaChips
+    Sugestões: Giga Chips
+  Texto com erro: "MegaChips demais!"
+    Erro: MegaChips
+    Sugestões: Mega Chips
+  Texto com erro: "Só pode usar
+do mesmo GigaChip."
+    Erro: Só
+  Texto com erro: "Só pode usar
+do mesmo GigaChip."
+    Erro: GigaChip
+    Sugestões: Giga Chip
+  Texto com erro: "Só pode usar
+do mesmo MegaChip."
+    Erro: MegaChip
+    Sugestões: Mega Chip
+  Texto com erro: "GigaChips no todo."
+    Erro: GigaChips
+    Sugestões: Giga Chips
+  Texto com erro: "MegaChips no todo."
+    Erro: MegaChips
+    Sugestões: Mega Chips
+  Texto com erro: "Precisa usar um chip de Água!"
+    Erro: Precisa
+  Texto com erro: "Precisa usar um chip Elétrico!"
+    Erro: Precisa
+  Texto com erro: "NaviCust"
+    Erro: NaviCust
+    Sugestões: Nabiças, Sabicus, Navícula
+  Texto com erro: "NaviCust"
+    Erro: NaviCust
+    Sugestões: Nabiças, Sabicus, Navícula
+  Texto com erro: "Voltou ao
+!"
+    Erro: ao !
+    Sugestões: ao!
+  Texto com erro: "Equipou
+!"
+    Erro: Equipou !
+    Sugestões: Equipou!
+  Texto com erro: "está em uso."
+    Erro: está
+    Sugestões: Está
+  Texto com erro: "Não pode usar isso ainda."
+    Erro: Não
+  Texto com erro: "Trocar programas!"
+    Erro: Trocar
+Revisando arquivo: 461.tpl
+  Texto com erro: "Se programá-lo bem, o MegaMan poderá ficar mais forte!"
+    Erro: programá-lo
+    Sugestões: o programar
+  Texto com erro: "3 usinas químicas de DenCity foram infestadas por vinhas ontem,
+o que desativou suas operações."
+    Erro: DenCity
+    Sugestões: Demiti
+  Texto com erro: "Agora a WWW entrou em SciLab 1!"
+    Erro: Agora
+  Texto com erro: "Não vou ficar pra trás!"
+    Erro: Não
+  Texto com erro: "O Estilo Team deixa você carregar 6 MegaChips na pasta!"
+    Erro: MegaChips
+    Sugestões: Mega Chips
+  Texto com erro: "Suba de níve, e você receberá um programa que lhe permitirá
+usar ainda mais MegaChips!"
+    Erro: níve
+    Sugestões: nível
+  Texto com erro: "Suba de níve, e você receberá um programa que lhe permitirá
+usar ainda mais MegaChips!"
+    Erro: MegaChips
+    Sugestões: Mega Chips
+  Texto com erro: "Você não pode colocar programas de mesma cor colados um ao outro."
+    Erro: um ao outro
+    Sugestões: reciprocamente, mutualmente
+  Texto com erro: "Ah, e não esqueça a
+, sua Pasta Extra."
+    Erro: a ,
+    Sugestões: a,
+Revisando arquivo: 465.tpl
+  Texto com erro: "AtqsFrç perfura defesas!"
+    Erro: AtqsFrç
+    Sugestões: Atesar, Atesara, Atesará
+  Texto com erro: "Quadros viram lava!"
+    Erro: Quadros
+  Texto com erro: "Quadros viram areia!"
+    Erro: Quadros
+  Texto com erro: "Quadros viram metal!"
+    Erro: Quadros
+  Texto com erro: "Quadros ficam sagrados!"
+    Erro: Quadros
+  Texto com erro: "Mais 1 MegaChip na pasta!"
+    Erro: MegaChip
+    Sugestões: Mega Chip
+  Texto com erro: "Mais 2 MegaChips na pasta!"
+    Erro: Mais
+  Texto com erro: "Mais 2 MegaChips na pasta!"
+    Erro: MegaChips
+    Sugestões: Mega Chips
+  Texto com erro: "B+Esquerda = Reflete dano."
+    Erro: B
+  Texto com erro: "B+Esquerda = Contraataque."
+    Erro: Contraataque
+    Sugestões: Contra-ataque, Contra ataque
+  Texto com erro: "Atrai vírus Elét.!"
+    Erro: Atrai
+  Texto com erro: "Atrai vírus Elét.!"
+    Erro: Elét
+    Sugestões: Ele, Eles, Elem, Éle, ELT, Elei, Eleto, Eleu, Eleá
+  Texto com erro: "Atrai vírus de Madeira!"
+    Erro: Atrai
+  Texto com erro: "Acelera BarraCust na luta."
+    Erro: BarraCust
+    Sugestões: Barracas, Barracos, Barracuda, Barracaste
+  Texto com erro: "Só pra VS!"
+    Erro: pra VS
+    Sugestões: pra, VS
+  Texto com erro: "Só pra VS!"
+    Erro: pra VS
+    Sugestões: pra, VS
+  Texto com erro: "Só pra VS!"
+    Erro: pra VS
+    Sugestões: pra, VS
+  Texto com erro: "Porte mais 1 GigaChip!"
+    Erro: GigaChip
+    Sugestões: Giga Chip
+Revisando arquivo: 467.tpl
+  Texto com erro: "no "Mapa de Memória" dele, assim."
+    Erro: no
+    Sugestões: No
+  Texto com erro: "na janela ao lado para instalar..."
+    Erro: na
+    Sugestões: Na
+  Texto com erro: "Precisa posicionar programas
+na Linha de Comando para que possam funcionar devidamente."
+    Erro: para que possam
+    Sugestões: para poderem
+  Texto com erro: "Não, o programa não está na Linha de Comando!"
+    Erro: Não
+  Texto com erro: "não pode ser posicionado na Linha de Comando!"
+    Erro: não
+    Sugestões: Não
+  Texto com erro: "já está aí, então, esse não vai encaixar."
+    Erro: já
+    Sugestões: Já
+  Texto com erro: "são da mesma cor."
+    Erro: são
+    Sugestões: São
+  Texto com erro: "não pode ficar na Linha de Comando!"
+    Erro: não
+    Sugestões: Não
+  Texto com erro: "EXECUTAR irá ligar o programa NetNavi MegaMan.EXE."
+    Erro: NetNavi
+    Sugestões: Nanavi, Neonazi
+  Texto com erro: "Se não segui-las, pode acabar criando um bug!"
+    Erro: segui-las
+    Sugestões: as seguis, as seguir
+Revisando arquivo: 468.tpl
+  Texto com erro: "Achou um quadro de cura sob as cybervinhas!"
+    Erro: cybervinhas
+    Sugestões: caverninhas, cobertinhas, verbinhas
+  Texto com erro: "Você achou um botão sob as cybervinhas!"
+    Erro: cybervinhas
+    Sugestões: caverninhas, cobertinhas, verbinhas
+  Texto com erro: "Você achou um botão sob as cybervinhas!"
+    Erro: cybervinhas
+    Sugestões: caverninhas, cobertinhas, verbinhas
+  Texto com erro: "Você encontrou um portal!"
+    Erro: Você
+  Texto com erro: "Você achou um botão sob as vinhas!"
+    Erro: Você
+  Texto com erro: "Você achou um botão sob as cybervinhas!"
+    Erro: cybervinhas
+    Sugestões: caverninhas, cobertinhas, verbinhas
+  Texto com erro: "Você achou um botão sob as cybervinhas!"
+    Erro: cybervinhas
+    Sugestões: caverninhas, cobertinhas, verbinhas
+  Texto com erro: "Você encontrou algo..."
+    Erro: Você
+Revisando arquivo: 471.tpl
+  Texto com erro: ", é?"
+    Erro: ,
+    Sugestões: 
+  Texto com erro: "Vou ver se consigo encomendar... hmm...."
+    Erro: hmm
+    Sugestões: mm, nm, Ann, han, hum, hem, IMM, hMG, H&M
+  Texto com erro: "Vou ver se consigo encomendar... hmm...."
+    Erro: ....
+    Sugestões: …
+  Texto com erro: ", é?"
+    Erro: ,
+    Sugestões: 
+  Texto com erro: "Vou ver se consigo encomendar... hmm...."
+    Erro: hmm
+    Sugestões: mm, nm, Ann, han, hum, hem, IMM, hMG, H&M
+  Texto com erro: "Vou ver se consigo encomendar... hmm...."
+    Erro: ....
+    Sugestões: …
+  Texto com erro: ", é?"
+    Erro: ,
+    Sugestões: 
+  Texto com erro: "z, OK?"
+    Erro: z
+    Sugestões: Z
+Revisando arquivo: 474.tpl
+  Texto com erro: "Sssssssiiiiiim....?"
+    Erro: Sssssssiiiiiim
+  Texto com erro: "Sssssssiiiiiim....?"
+    Erro: ....
+    Sugestões: …
+  Texto com erro: "Volte ssssssssempre!"
+    Erro: ssssssssempre
+  Texto com erro: "Esssstou grato...!"
+    Erro: Esssstou
+    Sugestões: Escutou, Escatol
+Revisando arquivo: 479.tpl
+  Texto com erro: "TCHONC!"
+    Erro: TCHONC
+    Sugestões: CHONA, CHONE, CHONO, CHONÉ, TACHONA, TACHONE, TACHONO
+  Texto com erro: "TCHONK!"
+    Erro: TCHONK
+    Sugestões: CHONA, CHONE, CHONO, CHONÉ, TACHONA, TACHONE, TACHONO
+  Texto com erro: "Um Troga-FragBugs."
+    Erro: Troga
+    Sugestões: Troca
+  Texto com erro: "Você não tem 10 chips na mochila."
+    Erro: Você
+  Texto com erro: "Você não tem 10 chips na mochila."
+    Erro: Você
+  Texto com erro: "Você não tem 10 FragBugs"
+    Erro: Você
+Revisando arquivo: 482.tpl
+  Texto com erro: "Procuros dados importantes que perdi."
+    Erro: Procuros
+    Sugestões: Procuro
+  Texto com erro: "Eu sei que isto não é coisa que se peça a um completo estranho,
+mas alguém aí pode, POR FAVOR, me emprestar 8000 Zennys?"
+    Erro: completo estranho
+    Sugestões: estranho
+  Texto com erro: "Estou esperando dentro de um telefone."
+    Erro: dentro de um
+    Sugestões: num, em um
+  Texto com erro: "Estou precisndo entregar um certo chip,
+mas, ai, tô velha demais pra essas coisas!"
+    Erro: precisndo
+    Sugestões: precisando, precisado, precismo
+  Texto com erro: "Acho que você não vai acreditar, mas eu eu adotei uns vírus
+fofos e inofensivos."
+    Erro: eu eu
+    Sugestões: eu
+  Texto com erro: "Quem for pego vai ter que abrir mão de um chip!"
+    Erro: abrir mão de
+    Sugestões: renunciar a, deixar de, largar a, permitir
+  Texto com erro: "Depois de vê-lo lutando, viramos os maiores fãs dele!"
+    Erro: Depois de
+    Sugestões: Após
+  Texto com erro: "Você já aceitou uma outra missão."
+    Erro: uma outra
+    Sugestões: outra
+  Texto com erro: "Local de encontro: Dentro de um telefone."
+    Erro: Dentro de um
+    Sugestões: Num, Em um
+  Texto com erro: "Ho ho ho!"
+    Erro: ho ho
+    Sugestões: ho
+  Texto com erro: "Por sinal, aquele programa ainda não voltou."
+    Erro: Por sinal
+    Sugestões: ,
+  Texto com erro: "-Administração do Fórum
+(Agradecimento do cliente.)
+Você não impressionou, mas... tentou."
+    Erro: -Administração
+    Sugestões: — Administração, • Administração
+  Texto com erro: "Hye hye hye!"
+    Erro: hye hye
+    Sugestões: hye
+Revisando arquivo: 484.tpl
+  Texto com erro: "Não sou grandes coisas, mas vou na fé!"
+    Erro: sou grandes
+    Sugestões: sou grande, somos grandes
+  Texto com erro: "Não sou grandes coisas, mas vou na fé!"
+    Erro: na
+    Sugestões: à
+  Texto com erro: "É um sistema em que BattleChips marcados como Chips Padrão
+ficam disponíveis na Tela de Customização durante as lutas."
+    Erro: BattleChips
+    Sugestões: Batachins, Batecóis, Batucais
+  Texto com erro: "nos permitem carregar mais!"
+    Erro: nos
+    Sugestões: Nos
+  Texto com erro: "Opa, Nukin na área!"
+    Erro: Nukin
+    Sugestões: Bucim, Fucim, Nucina, Nuquini, Núcio
+  Texto com erro: "Koetsu aqui, o cara que manja dos paranauê!"
+    Erro: paranauê
+    Sugestões: parangue, prânale, par anauê, parana uê
+  Texto com erro: "Sabem dos contraataques, né?"
+    Erro: contraataques
+    Sugestões: contra-ataques, contra ataques
+  Texto com erro: "Aliás, vou entrar no Grande Prêmio N1 tb."
+    Erro: tb
+    Sugestões: também
+  Texto com erro: "Eu tô usando um
+, mas minha Memória Padrão
+aumentou, então estou pensando em trocar."
+    Erro: um ,
+    Sugestões: um,
+  Texto com erro: "Sou o ReiArto."
+    Erro: ReiArto
+    Sugestões: Reparto, Refarto, Refartou
+  Texto com erro: "como Padrão."
+    Erro: como
+    Sugestões: Como
+  Texto com erro: "cura e impulsionadores pra vencer!"
+    Erro: cura
+    Sugestões: Cura
+  Texto com erro: "E o lugar é liiiindooo!"
+    Erro: liiiindooo
+    Sugestões: dirigindo-o, dirimindo-o, ilidindo-o
+  Texto com erro: "E o café da cafeteria com vista pro mar tava delicioso!"
+    Erro: E
+  Texto com erro: "32 NetLutadores de todo o mundo vieram para o N1."
+    Erro: o mundo vieram
+    Sugestões: o mundo veio, o mundo viera, o mundo, vieram
+  Texto com erro: "Não sobraram muitas NetLutadoras meninas,
+então, espero muito que ela vença.
+MegaMan.EXE, sem discussão!"
+    Erro: NetLutadoras
+    Sugestões: Net Lutadoras
+  Texto com erro: "Eu vou vencer sim, e, depois,
+nomear você líder do meu fã-clube pessoal!"
+    Erro: vencer sim
+    Sugestões: vencer, sim
+  Texto com erro: ", HigHig?!"
+    Erro: ,
+    Sugestões: 
+  Texto com erro: ", HigHig?!"
+    Erro: HigHig
+    Sugestões: SigFig, Hirgóis, Hijri
+  Texto com erro: "E, de quebra, o chocolate é bom pra caramba, também!"
+    Erro: bom pra caramba
+    Sugestões: muito bom, bastante bom
+Revisando arquivo: 486.tpl
+  Texto com erro: "Oi, eu sou o Kitago."
+    Erro: Kitago
+    Sugestões: Gitago, Pítago, Kit ago
+  Texto com erro: "Agora, eu estou usando um
+."
+    Erro: um .
+    Sugestões: um.
+  Texto com erro: "Ele atravessa
+s, me permitindo
+fazer uma deleção dupla neles com um
+ou
+!"
+    Erro: ou !
+    Sugestões: ou!
+  Texto com erro: "Como vence o
+?"
+    Erro: o ?
+    Sugestões: o?
+  Texto com erro: "s são uns trocinhos chatinhos."
+    Erro: s
+    Sugestões: S
+  Texto com erro: "E se ele disparar
+enquanto estiver no centro, é só rodar no choquinho!"
+    Erro: choquinho
+    Sugestões: coquinho, choquinha, chiquinho, choquilho
+  Texto com erro: ""sonhar é de graça", né?"
+    Erro: sonhar
+    Sugestões: Sonhar
+  Texto com erro: "Os outros programas
+à venda eram
+,
+,
+..."
+    Erro: eram ,
+    Sugestões: eram,
+  Texto com erro: "Os outros programas
+à venda eram
+,
+,
+..."
+    Erro:  ,
+    Sugestões: ,
+  Texto com erro: "e uns outros aí que eu não lembro."
+    Erro: e
+    Sugestões: E
+  Texto com erro: "e uns outros aí que eu não lembro."
+    Erro: uns outros
+    Sugestões: outros
+  Texto com erro: "Os programas que eu comprei com ele foram
+e
+!"
+    Erro: que eu comprei
+    Sugestões: que comprei
+  Texto com erro: "Os programas que eu comprei com ele foram
+e
+!"
+    Erro: e !
+    Sugestões: e!
+  Texto com erro: "estão vendendo bem."
+    Erro: estão
+    Sugestões: Estão
+  Texto com erro: "Eu também queria um
+, mas acabou o meu dinheiro."
+    Erro: um ,
+    Sugestões: um,
+  Texto com erro: "Os oponentes são barra pesada, mas eu não vou perder, não!"
+    Erro: barra pesada
+    Sugestões: situação difícil, pessoa grosseira e violenta
+  Texto com erro: "Guuuts!"
+    Erro: Guuuts
+    Sugestões: Gúluas, Gúlues
+  Texto com erro: "Guu... ts...."
+    Erro: ....
+    Sugestões: …
+  Texto com erro: "Um dia, eu vou ser um programador
+expert que nunca erra, promessa de homem!"
+    Erro: expert
+    Sugestões: especialista, perito, perita
+  Texto com erro: "Koetsu na área de volta após ir no Grande Prêmio!"
+    Erro: no
+    Sugestões: ao
+  Texto com erro: "Mas uma dúvida: outro dia, um amigo meu
+usou um chip Navi,
+."
+    Erro: , .
+    Sugestões: ,, .
+  Texto com erro: "Meu Navi é o
+!"
+    Erro: o !
+    Sugestões: o!
+  Texto com erro: "Vi ele deletar um
+, mesmo com a boca fechada."
+    Erro: um ,
+    Sugestões: um,
+  Texto com erro: "Eu respondo a pergunta do Cartan à Tamako."
+    Erro: respondo a
+    Sugestões: respondo à
+  Texto com erro: "Alguns Navis, como o
+,
+podem usar chips capazes de perfurar as defesas do alvo."
+    Erro: o ,
+    Sugestões: o,
+  Texto com erro: "e
+, do
+, são 2 exemplos."
+    Erro: e ,
+    Sugestões: e,
+  Texto com erro: "e
+, do
+, são 2 exemplos."
+    Erro: do ,
+    Sugestões: do,
+  Texto com erro: "Sabe os vários vírus fortes de Fogo, como
+e
+?"
+    Erro: e ?
+    Sugestões: e?
+  Texto com erro: "Se forem, chips tipo o
+podem ser úteis pra caramba!"
+    Erro: chips tipo
+    Sugestões: chip tipo, chips tipos, chips, tipo
+  Texto com erro: "Se forem, chips tipo o
+podem ser úteis pra caramba!"
+    Erro: úteis pra caramba
+    Sugestões: muito úteis, bastante úteis
+  Texto com erro: "Eu tenho um
+, mas não consigo usar."
+    Erro: um ,
+    Sugestões: um,
+  Texto com erro: "CódigosMod cortonam os erros que ocorrem quando inserimos
+programas de cores incompatíveis."
+    Erro: cortonam
+    Sugestões: cartonam, cortinam, cotonam, corta-mão, cor tonam
+  Texto com erro: "FerramentaMod pra usar."
+    Erro: FerramentaMod
+    Sugestões: Ferramentamo, Ferramentamos, FerramentaMo d
+  Texto com erro: "Se tiver uma, é só apertar "Select
+quando o erro ocorre e digitar o número."
+    Erro: "
+  Texto com erro: "Mas não sei de que programa ele é."
+    Erro: sei de que
+    Sugestões: sei que
+  Texto com erro: "Acho que o Erro #E1 se refere ao Código da
+."
+    Erro: da .
+    Sugestões: da.
+  Texto com erro: "Com ela, dá pra botar um MegaChip extra na pasta!"
+    Erro: MegaChip
+    Sugestões: Mega Chip
+  Texto com erro: "Caramba."
+    Erro: Caramba.
+    Sugestões: Caramba!, Caramba?, Caramba!?, Caramba,, Caramba...
+  Texto com erro: ",
+e
+."
+    Erro: ,
+    Sugestões: 
+  Texto com erro: ",
+e
+."
+    Erro: e .
+    Sugestões: e.
+  Texto com erro: "é o Erro # F3."
+    Erro: é
+    Sugestões: É
+  Texto com erro: "é o Erro # B5."
+    Erro: é
+    Sugestões: É
+  Texto com erro: "Já o
+, não sei."
+    Erro: o ,
+    Sugestões: o,
+  Texto com erro: "Onde raios cê arranjou esse chip raro?"
+    Erro: raios cê
+    Sugestões: raio cê, raios cês, raios, cê
+  Texto com erro: "Valeu, Nukin!"
+    Erro: Nukin
+    Sugestões: Bucim, Fucim, Nucina, Nuquini, Núcio
+Revisando arquivo: 488.tpl
+  Texto com erro: "Uma pergunta:
+estes dias, eu lutei com um
+."
+    Erro: um .
+    Sugestões: um.
+  Texto com erro: "O segredo pra habilida- de do
+de congelamento está
+nos quadros."
+    Erro: habilida
+    Sugestões: habilita, habilitá
+  Texto com erro: "Ele só sai do subsolo de vez em quando,
+é difícil de acertar!"
+    Erro: de vez em quando
+    Sugestões: ocasionalmente, por vezes
+  Texto com erro: "Sou pacifista, então, darei ao meu Navi um
+!"
+    Erro: um !
+    Sugestões: um!
+  Texto com erro: "Chegaram as FerramentasMod!"
+    Erro: FerramentasMod
+    Sugestões: Ferramentamo, Ferramentamos, Ferramentarmo, Ferramentarmos
+  Texto com erro: "Eu tenho uma dessas FerramentasMod."
+    Erro: FerramentasMod
+    Sugestões: Ferramentamo, Ferramentamos, Ferramentarmo, Ferramentarmos
+  Texto com erro: "Aqueles vírus de Madeira são crueis!"
+    Erro: crueis
+    Sugestões: cruéis
+  Texto com erro: "Fiquei tão irritado que atirei uma CannBall.."
+    Erro: CannBall
+    Sugestões: Campbell, Canibal, Cambal, Cambala, Cambaluz, Cambau, Cambaus
+  Texto com erro: "Fiquei tão irritado que atirei uma CannBall.."
+    Erro: ..
+    Sugestões: ., …
+  Texto com erro: "e nada!"
+    Erro: e
+    Sugestões: E
+  Texto com erro: "Foi aí que eu saquei: atirar nas vinhas!"
+    Erro: que eu saquei
+    Sugestões: que saquei
+  Texto com erro: "Já tem um tempo que eu percebi isso, mas alguns vírus parecem
+que flutuam, né?"
+    Erro: que eu percebi
+    Sugestões: que percebi
+  Texto com erro: ",
+e outros ficam sobre
+quadros rachados sem quebrá-los!"
+    Erro: ,
+    Sugestões: 
+  Texto com erro: ",
+e outros ficam sobre
+quadros rachados sem quebrá-los!"
+    Erro: quebrá-los
+    Sugestões: os quebrar
+  Texto com erro: "Ah, pera, ele poderia, se tivesse
+!"
+    Erro: Ah
+    Sugestões:  Ah
+  Texto com erro: "Ah, pera, ele poderia, se tivesse
+!"
+    Erro: tivesse !
+    Sugestões: tivesse!
+  Texto com erro: "Que da hora, Takken!"
+    Erro: Takken
+    Sugestões: Tachem
+  Texto com erro: "Takken, eu não vou contar a combinação."
+    Erro: Takken
+    Sugestões: Tachem
+  Texto com erro: "LOL"
+    Erro: LOL
+    Sugestões: HAHA
+  Texto com erro: "Troquei um chip pelo de uma amiga, um
+, mas, quando eu o
+instalo, ocorre um erro (#B2)!"
+    Erro: um ,
+    Sugestões: um,
+  Texto com erro: "Pode ser possível achar um lugar com todas as informações
+que se procura."
+    Erro: Pode ser
+    Sugestões: Deve ser, É
+  Texto com erro: "Você tá falando do UnderPlaza?"
+    Erro: UnderPlaza
+    Sugestões: Interplana
+  Texto com erro: "Goh lá no Fórum da Rua Angra, você VAI entender!"
+    Erro: Goh
+    Sugestões: Gol, Oh, GH, GWh, Goa, Gói, GO, Go, Gó, Gós, pOH
+  Texto com erro: "é puro suicídio."
+    Erro: é
+    Sugestões: É
+Revisando arquivo: 490.tpl
+  Texto com erro: "(O Kitago também fala das vantagens dos
+chips * naquele Fórum.)
+Assim, você teria a opção de usá-lo quando quisesse!"
+    Erro: Kitago
+    Sugestões: Gitago, Pítago, Kit ago
+  Texto com erro: "Acabei de dar uma olhada neste Fórum, e vi que o Cruzil
+levantou um bom argumento!"
+    Erro: Cruzil
+    Sugestões: Cruzou, Crúzio, Cresil, Cruzi, Cruzis
+  Texto com erro: "Não dá pra trocar os chips delas, mas são uma mão na roda."
+    Erro: são uma mão na roda
+    Sugestões: ajudam muito, são prestável
+  Texto com erro: "Por quê"?"
+    Erro: quê"
+    Sugestões: quê!, quê?, quê!?, quê,, quê...
+  Texto com erro: "Lamento, Heylon, mas eu discordo."
+    Erro: Heylon
+    Sugestões: Helom
+  Texto com erro: "Assim, eu e eles ajudamos uns aos outros!"
+    Erro: uns aos outros
+    Sugestões: reciprocamente, mutualmente
+  Texto com erro: "He."
+    Erro: He.
+    Sugestões: He!, He?, He!?, He,, He...
+  Texto com erro: "Desculpem pelo flood."
+    Erro: flood
+    Sugestões: Floyd
+  Texto com erro: "Como o "*" funciona no lugar de qualquer código,
+isso aumenta as suas chances de usar um."
+    Erro: "
+  Texto com erro: "Olhem só meu lindo
+!"
+    Erro: lindo !
+    Sugestões: lindo!
+  Texto com erro: "Cansei de Troca-Chips
+normais e fui experimentar o especial cial que tem no"
+    Erro: especial cial
+    Sugestões: especial
+  Texto com erro: "Hospital Beira-Mar, e foi lá que eu tirei esse!"
+    Erro: que eu tirei
+    Sugestões: que tirei
+  Texto com erro: "E aí, opiniões, Nukin?"
+    Erro: Nukin
+    Sugestões: Bucim, Fucim, Nucina, Nuquini, Núcio
+  Texto com erro: "Vejo que o Poteno usou o meu TrocaChips Especial, é!"
+    Erro: TrocaChips
+    Sugestões: Troca Chips
+  Texto com erro: ""Esquece!", mas,
+depois de ver o chip raro que o Poteno pegou, quero tentar!"
+    Erro: depois de
+    Sugestões: após
+  Texto com erro: "Vou gastar todos estes meus chips
+\"
+    Erro: todos estes
+    Sugestões: estes
+  Texto com erro: "Não existe garantia de que vão receber chips bons."
+    Erro: Não
+Revisando arquivo: 492.tpl
+  Texto com erro: "Não tema!"
+    Erro: Não
+  Texto com erro: "Na verdade, eu pedi pra um Underneteiro me arranjar o ingresso."
+    Erro: Underneteiro
+    Sugestões: Intermetei-o
+  Texto com erro: "Você está bem, Goh?"
+    Erro: Goh
+    Sugestões: Gol, Oh, GH, GWh, Goa, Gói, GO, Go, Gó, Gós, pOH
+  Texto com erro: "Goh!"
+    Erro: Goh
+    Sugestões: Gol, Oh, GH, GWh, Goa, Gói, GO, Go, Gó, Gós, pOH
+  Texto com erro: "GOOOOHH!"
+    Erro: GOOOOHH
+    Sugestões: GOMOO, GOMOOU, GOMÔO
+  Texto com erro: "Os Oficiais estão investigando o desaparecimento do Goh."
+    Erro: Goh
+    Sugestões: Gol, Oh, GH, GWh, Goa, Gói, GO, Go, Gó, Gós, pOH
+  Texto com erro: "Mais uma dia, mais uma vitória."
+    Erro: uma dia
+    Sugestões: um dia, uma, dia, uma – dia, uma de dia
+  Texto com erro: "Eu conheço um outro lugar secreto em que dá pra se conectar,
+mas não posso contar."
+    Erro: um outro
+    Sugestões: outro
+  Texto com erro: "Pois eu achei um lugar ainda melhor que o da Micchan!"
+    Erro: Micchan
+    Sugestões: Micham
+  Texto com erro: "Mas os Officials parecem estar levando a investigação bem a sério."
+    Erro: Officials
+    Sugestões: Oficial, Oficiais, Oficias, Oficiala, Oficialas
+  Texto com erro: "Eu devia ter esquecido a dieta e tomado aquele sundae de sobremesa!"
+    Erro: sundae
+    Sugestões: zunda, zundas
+  Texto com erro: "Por sinal, Goh, devia mesmo falar dessas coisas aqui?"
+    Erro: Por sinal
+    Sugestões: ,
+  Texto com erro: "Por sinal, Goh, devia mesmo falar dessas coisas aqui?"
+    Erro: Goh
+    Sugestões: Gol, Oh, GH, GWh, Goa, Gói, GO, Go, Gó, Gós, pOH
+Revisando arquivo: 494.tpl
+  Texto com erro: "Tão falando por aí que tem um vírus que invoca DarkDwellers."
+    Erro: DarkDwellers
+  Texto com erro: "Que tipo de monstrão será que vive lá?"
+    Erro: monstrão
+    Sugestões: monstro, monstra, monstras
+  Texto com erro: "Lembram os miniLifeVirus?"
+    Erro: miniLifeVirus
+  Texto com erro: "Ô, bestalhada, sabem o CódigoMod pra GigaPasta 1?"
+    Erro: bestalhada
+    Sugestões: abestalhada, destalhada
+  Texto com erro: "Ô, bestalhada, sabem o CódigoMod pra GigaPasta 1?"
+    Erro: GigaPasta
+    Sugestões: Giga Pasta
+  Texto com erro: "Esse código é pro Erro# G2C!"
+    Erro: G2C
+    Sugestões: GCC, B2C, GMC
+  Texto com erro: "O # de Erro dele é G2G."
+    Erro: O
+  Texto com erro: "O # de Erro dele é G2G."
+    Erro: G2G
+    Sugestões: GAG, 2G, GPG
+  Texto com erro: "Alguém aí sabe onde acha o vírus que "dropa" eles?"
+    Erro: dropa
+    Sugestões: droga, tropa, drupa, dopa, oropa, diopa, díopa, tropá
+  Texto com erro: "Acho que os Spark Bee."
+    Erro: Spark
+    Sugestões: Park, Stark
+  Texto com erro: "Me fala o código pro Erro #H2..."
+    Erro: H2
+    Sugestões: H₂
+  Texto com erro: "Aí vai: Erro # H2 Código:"
+    Erro: H2
+    Sugestões: H₂
+  Texto com erro: "Bug" é "algo anormal"."
+    Erro: "
+  Texto com erro: "Uma vez, eu desafiei o UndeRei pra uma luta."
+    Erro: UndeRei
+    Sugestões: Undarei, Unde Rei
+Revisando arquivo: 496.tpl
+  Texto com erro: "esfrega a cabeça no MegaMan alegremente!"
+    Erro: esfrega
+    Sugestões: Esfrega
+  Texto com erro: "está pulando cheio de alegria!"
+    Erro: está
+    Sugestões: Está
+  Texto com erro: "se curva para MegaMan com gratidão!"
+    Erro: se
+    Sugestões: Se
+  Texto com erro: "está abanando o rabo bem rápido!"
+    Erro: está
+    Sugestões: Está
+  Texto com erro: "mostra a MegaMan um sutil sorriso!"
+    Erro: mostra
+    Sugestões: Mostra
+  Texto com erro: "está quase tremendo de gratidão!"
+    Erro: está
+    Sugestões: Está
+  Texto com erro: "dá uma piscadela com seu enorme olho!"
+    Erro: dá
+    Sugestões: Dá
+  Texto com erro: "está feliz, enterrando o FragBug!"
+    Erro: está
+    Sugestões: Está
+  Texto com erro: "se arrasta pelo chão."
+    Erro: se
+    Sugestões: Se
