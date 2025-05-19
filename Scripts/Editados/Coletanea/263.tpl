@@ -188,7 +188,7 @@ script 10 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Eeeeeeeeiii....
+	Eeeeeeeeiii...
 	peraí. Pra onde a
 	gente vai,mesmo?
 	"""

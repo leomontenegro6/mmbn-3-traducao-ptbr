@@ -111,7 +111,7 @@ script 20 mmbn3 {
 	"""
 	Quem é você?
 	Não sabe que isto aqui
-	é a Undernet, naõ?
+	é a Undernet, não?
 	"""
 	keyWait
 	clearMsg
@@ -238,7 +238,7 @@ script 44 mmbn3 {
 	msgOpen
 	"""
 	Então, cê tá atrás do
-	dcara que tá no décimo
+	cara que tá no décimo
 	ranque...
 	"""
 	keyWait

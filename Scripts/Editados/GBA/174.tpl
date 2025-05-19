@@ -550,7 +550,7 @@ script 24 mmbn3 {
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Nõa é óbvio?!"
+	"Não é óbvio?!"
 	keyWait
 	clearMsg
 	mugshotShow
@@ -719,7 +719,7 @@ script 25 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Se fosse asism, deviam
+	Se fosse assim, deviam
 	escalar um vilão de
 	verdade pro papel!
 	"""
@@ -1442,7 +1442,7 @@ script 190 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Premita-me apresentar
+	Permita-me apresentar
 	a minha namorada, aqui.
 	"""
 	keyWait
@@ -1567,7 +1567,7 @@ script 191 mmbn3 {
 	mugshotAnimate
 		animation = 0
 	"""
-	(Esse não é um progrma
+	(Esse não é um programa
 	que passa de manhã,
 	cabeção!)
 	"""

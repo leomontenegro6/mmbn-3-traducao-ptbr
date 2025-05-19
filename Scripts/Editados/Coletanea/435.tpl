@@ -44,7 +44,7 @@ script 2 mmbn3 {
 	"""
 	Espera só até eu te
 	transformar em
-	queijo suiço!!
+	queijo suíço!!
 	"""
 	keyWait
 	clearMsg

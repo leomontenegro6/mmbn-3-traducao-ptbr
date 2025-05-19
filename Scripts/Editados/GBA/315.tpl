@@ -354,7 +354,7 @@ script 22 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	... Ah, já já ele volta
+	... Ah, já, já ele volta
 	ao normal, certeza.
 	"""
 	keyWait

@@ -916,7 +916,7 @@ script 236 mmbn3 {
 	"""
 	Você descobre alguma
 	coisa presa numa
-	pilha de papeis...
+	pilha de papéis...
 	"""
 	keyWait
 	clearMsg

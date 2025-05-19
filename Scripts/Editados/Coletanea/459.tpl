@@ -1002,7 +1002,7 @@ script 49 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"NaviCust"
+	"CustNavi"
 	select
 		default = 0
 		BSeparate = false
@@ -1039,7 +1039,7 @@ script 50 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"NaviCust\n"
+	"CustNavi\n"
 	option
 		left = 1
 		right = 1

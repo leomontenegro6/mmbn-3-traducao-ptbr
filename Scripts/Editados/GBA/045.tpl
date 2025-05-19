@@ -726,7 +726,7 @@ script 75 mmbn3 {
 	"""
 	"Inimigo dos vírus;
 	Cyber plaza;
-	Amarelo". Hmm....
+	Amarelo". Hmm...
 	"""
 	keyWait
 	end
@@ -1902,7 +1902,7 @@ script 178 mmbn3 {
 	"""
 	MegaMan, foi mal...
 	Eu não tô no clima pra
-	zanzar pela Rede..
+	zanzar pela Rede...
 	"""
 	keyWait
 	end

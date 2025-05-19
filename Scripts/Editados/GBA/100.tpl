@@ -1427,7 +1427,7 @@ script 223 mmbn3 {
 		jumpIfFalse = 244
 	msgOpen
 	"""
-	Um dos paineis de
+	Um dos painéis de
 	controle da saída de
 	emergência.
 	"""
@@ -1769,7 +1769,7 @@ script 243 mmbn3 {
 script 244 mmbn3 {
 	msgOpen
 	"""
-	Um dos paineis de
+	Um dos painéis de
 	controle da saída de
 	emergência.
 	"""

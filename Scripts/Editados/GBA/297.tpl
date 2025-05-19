@@ -68,7 +68,7 @@ script 3 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	A sua ingenuindade
+	A sua ingenuidade
 	sempre se supera.
 	"""
 	keyWait

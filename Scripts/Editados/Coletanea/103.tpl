@@ -167,7 +167,7 @@ script 8 mmbn3 {
 		mugshot = Dex
 	msgOpen
 	"""
-	O meu Neo Gutsman
+	O meu Neo GutsMan
 	vai te amassar com
 	gosto!
 	"""
@@ -454,7 +454,7 @@ script 29 mmbn3 {
 	"""
 	Este não é o GutsMan
 	de sempre. Não... É
-	o Neo Gutsman!
+	o Neo GutsMan!
 	"""
 	keyWait
 	clearMsg
@@ -682,7 +682,7 @@ script 220 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Secudido pelas on-
+	Sacudido pelas on-
 	das,espera o retor-
 	no de seu operador.
 	"""

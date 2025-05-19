@@ -398,7 +398,7 @@ script 18 mmbn3 {
 	msgOpen
 	"""
 	Você fica aqui,Lan.
-	Isto é entre eu e
+	Isto é entre mim e
 	ele.
 	"""
 	keyWait

@@ -221,7 +221,7 @@ script 8 mmbn3 {
 	msgOpen
 	"""
 	Então, o AutoNavi não
-	tinha sido responvável,
+	tinha sido responsável,
 	no final?
 	"""
 	keyWait

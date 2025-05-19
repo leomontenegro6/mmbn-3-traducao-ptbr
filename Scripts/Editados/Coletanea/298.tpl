@@ -240,7 +240,7 @@ script 13 mmbn3 {
 		mugshot = Ribitta
 	msgOpen
 	"""
-	Hm! Um declaração
+	Hm! Uma declaração
 	fria,porém sutil-
 	mente provocativa!
 	"""
@@ -371,7 +371,7 @@ script 19 mmbn3 {
 	"""
 	Ahahahaha! Tu viu?
 	O Navi apaziguando o
-	operador bebêzinho!
+	operador bebezinho!
 	"""
 	keyWait
 	clearMsg

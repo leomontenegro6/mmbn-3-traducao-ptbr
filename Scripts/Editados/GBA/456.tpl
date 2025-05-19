@@ -63,7 +63,7 @@ script 1 mmbn3 {
 		mugshot = NormalNaviGreen
 	"""
 	As regras são simples!
-	Eu vou colocar paineis
+	Eu vou colocar painéis
 	no chão aqui.
 	"""
 	keyWait

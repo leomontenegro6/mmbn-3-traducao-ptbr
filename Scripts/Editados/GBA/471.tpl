@@ -326,7 +326,7 @@ script 24 mmbn3 {
 	"""
 	", é?
 	Vou ver se consigo
-	encomendar... hmm....
+	encomendar... hmm...
 	"""
 	keyWait
 	waitHold
@@ -344,7 +344,7 @@ script 25 mmbn3 {
 	"""
 	", é?
 	Vou ver se consigo
-	encomendar... hmm....
+	encomendar... hmm...
 	"""
 	keyWait
 	waitHold

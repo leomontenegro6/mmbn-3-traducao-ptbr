@@ -184,7 +184,7 @@ script 12 mmbn3 {
 		mugshot = GutsMan
 	msgOpen
 	"""
-	Mal educado, recusando
+	Mal-educado, recusando
 	uma entrevista desse
 	jeito, Guts!
 	"""

@@ -373,7 +373,7 @@ script 15 mmbn3 {
 	msgOpen
 	"""
 	Opa! E aí, animado?!
-	O Grande Prêmiio N1
+	O Grande Prêmio N1
 	está a todo vapor!
 	"""
 	keyWait
@@ -415,7 +415,7 @@ script 20 mmbn3 {
 	msgOpen
 	"""
 	Essa não! Deixei uns
-	papeis importantes lá
+	papéis importantes lá
 	em casa!
 	"""
 	keyWait
@@ -1008,7 +1008,7 @@ script 55 mmbn3 {
 	msgOpen
 	"""
 	O quê?! A WWW está na
-	área Scilab?!
+	área SciLab?!
 	"""
 	keyWait
 	clearMsg
@@ -1612,7 +1612,7 @@ script 124 mmbn3 {
 	clearMsg
 	"""
 	acho que consigo
-	fortalecer bastatne
+	fortalecer bastante
 	o PunkMan...
 	"""
 	keyWait
@@ -2076,7 +2076,7 @@ script 201 mmbn3 {
 	msgOpen
 	"""
 	O ataque do Fishy é
-	é difícil de desviar!
+	difícil de desviar!
 	"""
 	keyWait
 	clearMsg
@@ -2267,7 +2267,7 @@ script 207 mmbn3 {
 	msgOpen
 	"""
 	Quadros de areia são
-	difíceis de andar, mas
+	difíceis de andar,
 	mas aumentam o poder
 	"""
 	keyWait
@@ -2355,7 +2355,7 @@ script 210 mmbn3 {
 		mugshot = MrFamous
 	msgOpen
 	"""
-	Após paralizar ou ator-
+	Após paralisar ou ator-
 	doar um inimigo, tente um
 	ataque em seguida!
 	"""
@@ -2529,7 +2529,7 @@ script 215 mmbn3 {
 	"""
 	invocá-lo. Ouvi dizer que
 	há um chip que abre um
-	abre um portal pra lá!
+	portal pra lá!
 	"""
 	keyWait
 	clearMsg
@@ -3127,7 +3127,7 @@ script 248 mmbn3 {
 	"""
 	Vejamos. Um dos
 	Cannons... Uma Shotgun,
-	eu acho? E... er....?
+	eu acho? E... er...?
 	"""
 	keyWait
 	clearMsg

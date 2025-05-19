@@ -570,7 +570,7 @@ script 11 mmbn3 {
 		unused = 12
 	"""
 	Aqueles vírus de
-	Madeira são crueis!
+	Madeira são cruéis!
 	Outro dia,achei um
 	"""
 	keyWait

@@ -527,7 +527,7 @@ script 55 mmbn3 {
 	msgOpen
 	"""
 	Ficou sabendo do
-	incidenten no hospital?
+	incidente no hospital?
 	"""
 	keyWait
 	clearMsg

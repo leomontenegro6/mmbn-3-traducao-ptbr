@@ -768,7 +768,7 @@ script 101 mmbn3 {
 	clearMsg
 	"""
 	Mas fora isso,eles
-	não são muitos
+	não são muito
 	diferentes de Navis!
 	"""
 	keyWait
@@ -2346,7 +2346,7 @@ script 190 mmbn3 {
 	clearMsg
 	"""
 	Por favor,encontre
-	o o dispositivo
+	o dispositivo
 	defeituoso.
 	"""
 	keyWait

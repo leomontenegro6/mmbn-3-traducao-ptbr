@@ -501,7 +501,7 @@ script 46 mmbn3 {
 	clearMsg
 	"""
 	Tem Oficiais pra todo
-	canto! Deve estar acon-
+	canto! Deve tá aconte-
 	cendo alguma coisa...
 	"""
 	keyWait

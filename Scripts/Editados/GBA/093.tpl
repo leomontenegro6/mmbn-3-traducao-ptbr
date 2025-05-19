@@ -266,7 +266,7 @@ script 23 mmbn3 {
 	clearMsg
 	"""
 	Seria demais se você
-	usasse a Pastra Extra
+	usasse a Pasta Extra
 	que eu editei.
 	"""
 	keyWait

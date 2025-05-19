@@ -220,7 +220,7 @@ script 13 mmbn3 {
 	clearMsg
 	"""
 	a sociedade da Rede
-	será aniquiliada.
+	será aniquilada.
 	"""
 	keyWait
 	clearMsg

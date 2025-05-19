@@ -2050,7 +2050,7 @@ script 111 mmbn3 {
 	"""
 	eu, provavelmente, ainda
 	estaria preso no
-	hospita... ou pior.
+	hospital... ou pior.
 	"""
 	keyWait
 	clearMsg

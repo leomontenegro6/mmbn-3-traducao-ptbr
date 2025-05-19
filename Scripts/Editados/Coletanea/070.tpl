@@ -97,7 +97,7 @@ script 2 mmbn3 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Estou levando papeis
+	Estou levando papéis
 	pro laboratório do
 	Dr. Hikari em cima.
 	"""

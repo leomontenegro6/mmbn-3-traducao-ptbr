@@ -1840,7 +1840,7 @@ script 151 mmbn3 {
 	"""
 	Depois do zoológico e
 	do hospital, onde será
-	o próximo atauqe...?
+	o próximo ataque...?
 	"""
 	keyWait
 	clearMsg
@@ -2085,7 +2085,7 @@ script 172 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Então, tente espairar
+	Então, tente esparecer
 	e descansar aqui, no
 	mundo cibernético.
 	"""

@@ -143,7 +143,7 @@ script 10 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Valeu, galora..."
+	"Valeu, galera..."
 	keyWait
 	clearMsg
 	"Mas"

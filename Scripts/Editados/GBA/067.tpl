@@ -302,7 +302,7 @@ script 226 mmbn3 {
 script 227 mmbn3 {
 	msgOpen
 	"""
-	Esses papeis estão
+	Esses papéis estão
 	aguardando a
 	assinatura do diretor.
 	"""

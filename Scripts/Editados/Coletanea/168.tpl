@@ -480,7 +480,7 @@ script 33 mmbn3 {
 	"""
 	Estou esperando pelo
 	meu amigo já faz 20
-	minutos..
+	minutos...
 	"""
 	keyWait
 	clearMsg
@@ -1334,7 +1334,7 @@ script 91 mmbn3 {
 		mugshot = NormalNaviGreen
 	msgOpen
 	"""
-	Após os ciensitas
+	Após os cientistas
 	terminarem de anali-
 	sar as bolhas,levo
 	"""

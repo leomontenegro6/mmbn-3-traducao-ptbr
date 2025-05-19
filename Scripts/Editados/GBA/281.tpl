@@ -62,7 +62,7 @@ script 2 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	dar as boas vindas no
+	dar as boas-vindas no
 	lugar do nosso patrocina-
 	dor, o presidente da IPC!
 	"""

@@ -500,7 +500,7 @@ script 27 mmbn3 {
 	msgOpen
 	"""
 	MegaMan!
-	Vamos lá pro ScILab!
+	Vamos lá pro SciLab!
 	"""
 	keyWait
 	clearMsg

@@ -1791,7 +1791,7 @@ script 178 mmbn3 {
 	"""
 	MegaMan, foi mal...
 	Eu não tô no clima pra
-	zanzar pela Rede..
+	zanzar pela Rede...
 	"""
 	keyWait
 	end

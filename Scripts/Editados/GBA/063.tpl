@@ -505,7 +505,7 @@ script 110 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Você deve ser um imã
+	Você deve ser um ímã
 	de perigo, sei lá!
 	"""
 	keyWait

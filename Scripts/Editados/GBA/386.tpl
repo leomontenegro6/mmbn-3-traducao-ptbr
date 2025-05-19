@@ -65,7 +65,7 @@ script 3 mmbn3 {
 	"""
 	eu o farei, se for para
 	adquirir uma vantagem
-	estragégica.
+	estratégica.
 	"""
 	keyWait
 	clearMsg
@@ -136,7 +136,7 @@ script 7 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan! Tem algumas coisa
+	Lan! Tem alguma coisa
 	no chão, onde o
 	BeastMan estava!
 	"""

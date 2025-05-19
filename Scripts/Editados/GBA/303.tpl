@@ -229,7 +229,7 @@ script 9 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	então ningué pode se
+	então ninguém pode se
 	opor a nós!
 	"""
 	keyWait
@@ -392,7 +392,7 @@ script 18 mmbn3 {
 	msgOpen
 	"""
 	Você fica aqui, Lan.
-	Isto é entre eu e ele.
+	Isto é entre mim e ele.
 	"""
 	keyWait
 	end

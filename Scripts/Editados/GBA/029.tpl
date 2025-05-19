@@ -847,8 +847,8 @@ script 91 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan, temos que que
-	achar um programador!!
+	Lan, temos que achar
+	um programador!!
 	"""
 	keyWait
 	end
@@ -2003,8 +2003,8 @@ script 212 mmbn3 {
 	msgOpen
 	"""
 	Este lugar é perigoso.
-	Vamos vamos voltar e
-	pegar eles!
+	Vamos voltar e pegar
+	eles!
 	"""
 	keyWait
 	end

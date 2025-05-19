@@ -753,7 +753,7 @@ script 101 mmbn3 {
 	clearMsg
 	"""
 	Porém, fora isso, eles
-	não são muitos
+	não são muito
 	diferentes de Navis!
 	"""
 	keyWait
@@ -1021,7 +1021,7 @@ script 124 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Mas o que a mundo WWW
+	Mas o que a WWW
 	poderia querer...?
 	"""
 	keyWait
@@ -2026,7 +2026,7 @@ script 160 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Costuvámamos enfiar
+	Costumávamos enfiar
 	vírus em cápsulas para
 	usá-los como bombas,
 	"""
@@ -2147,7 +2147,7 @@ script 170 mmbn3 {
 	msgOpen
 	"""
 	Que horror!
-	Não poedmos deixar a
+	Não podemos deixar a
 	WWW obter o Alpha!
 	"""
 	keyWait
@@ -2321,7 +2321,7 @@ script 190 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Por favor, encontre o
+	Por favor, encontre
 	o dispositivo defeituoso.
 	"""
 	keyWait

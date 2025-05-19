@@ -122,7 +122,7 @@ script 6 mmbn3 {
 	clearMsg
 	"""
 	Irei contatá-lo
-	novamanete quando
+	novamente quando
 	chegar a hora.
 	"""
 	keyWait

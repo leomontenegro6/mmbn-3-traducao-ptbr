@@ -108,7 +108,7 @@ script 6 mmbn3 {
 	clearMsg
 	"""
 	Como eu odeio vocês,
-	Navis humanóides
+	Navis humanoides
 	barulhentos...
 	"""
 	keyWait

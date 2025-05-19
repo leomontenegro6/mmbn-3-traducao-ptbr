@@ -1501,7 +1501,7 @@ script 240 mmbn3 {
 	"""
 	Esta lixeira
 	tem o formato
-	de um cangurú.
+	de um canguru.
 	"""
 	keyWait
 	clearMsg

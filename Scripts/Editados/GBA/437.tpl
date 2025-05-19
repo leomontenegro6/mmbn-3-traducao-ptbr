@@ -93,7 +93,7 @@ script 4 mmbn3 {
 	msgOpen
 	"""
 	Em poucos minutos,
-	Alpha desperterá mais
+	Alpha despertará mais
 	uma vez!
 	"""
 	keyWait

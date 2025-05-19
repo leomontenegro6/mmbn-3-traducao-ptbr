@@ -866,7 +866,7 @@ script 57 mmbn3 {
 	clearMsg
 	"""
 	Aí,você teve lá no
-	Scilab esses dias,
+	SciLab esses dias,
 	né?
 	"""
 	keyWait
@@ -995,7 +995,7 @@ script 67 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Ele derretou
+	Ele derreteu
 	todinho!
 	Aaaahhhhhh!!!
 	"""

@@ -234,7 +234,7 @@ script 10 mmbn3 {
 	clearMsg
 	"""
 	Mas, ontem, finalmente,
-	terminamos de analizá-la.
+	terminamos de analisá-la.
 	"""
 	keyWait
 	clearMsg

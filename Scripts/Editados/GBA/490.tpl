@@ -721,7 +721,7 @@ script 15 mmbn3 {
 	"""
 	normais e fui
 	experimentar o especial
-	cial que tem no
+	que tem no
 	"""
 	keyWait
 	clearMsg

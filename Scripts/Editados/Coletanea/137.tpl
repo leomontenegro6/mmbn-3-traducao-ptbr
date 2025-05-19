@@ -41,7 +41,7 @@ script 0 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Oléos?! Er... Eu nem
+	Óleos?! Er... Eu nem
 	sei o que é isso!
 	Eu nem banho!
 	"""

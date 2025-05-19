@@ -733,7 +733,7 @@ script 17 mmbn3 {
 	clearMsg
 	"""
 	O N1 vai ser MO-LE-ZA!
-	Eu vou vencer sim, e,
+	Eu vou vencer, sim, e,
 	depois,
 	"""
 	keyWait

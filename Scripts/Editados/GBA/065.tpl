@@ -465,7 +465,7 @@ script 110 mmbn3 {
 	clearMsg
 	"""
 	Acho que vou sentir
-	mais saudades dele do
+	mais saudades dele
 	do que eu pensei.
 	"""
 	keyWait

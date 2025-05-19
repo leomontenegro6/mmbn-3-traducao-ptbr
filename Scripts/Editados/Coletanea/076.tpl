@@ -417,7 +417,7 @@ script 20 mmbn3 {
 	msgOpen
 	"""
 	Essa não! Deixei uns
-	papeis importantes
+	papéis importantes
 	lá em casa!
 	"""
 	keyWait
@@ -964,7 +964,7 @@ script 53 mmbn3 {
 	"""
 	keyWait
 	clearMsg
-	"Enfim...."
+	"Enfim..."
 	keyWait
 	clearMsg
 	jump
@@ -1018,7 +1018,7 @@ script 55 mmbn3 {
 	msgOpen
 	"""
 	O quê?! A WWW está
-	na área Scilab?!
+	na área SciLab?!
 	"""
 	keyWait
 	clearMsg
@@ -2089,8 +2089,7 @@ script 201 mmbn3 {
 	msgOpen
 	"""
 	O ataque do Fishy é
-	é difícil de
-	desviar!
+	difícil de desviar!
 	"""
 	keyWait
 	clearMsg
@@ -2372,7 +2371,7 @@ script 210 mmbn3 {
 		mugshot = MrFamous
 	msgOpen
 	"""
-	Após paralizar um
+	Após paralisar um
 	alvo,tente atacar
 	em seguida!
 	"""
@@ -3153,7 +3152,7 @@ script 248 mmbn3 {
 	"""
 	Um dos Cannons...
 	Uma Shotgun,acho?
-	E... er....?
+	E... er...?
 	"""
 	keyWait
 	clearMsg

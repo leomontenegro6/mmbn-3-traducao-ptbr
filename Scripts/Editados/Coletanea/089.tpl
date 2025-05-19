@@ -539,7 +539,7 @@ script 223 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Foi meticulsamente
+	Foi meticulosamente
 	desenhado por
 	artistas.
 	"""

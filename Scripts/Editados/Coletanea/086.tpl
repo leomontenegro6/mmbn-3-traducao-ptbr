@@ -250,7 +250,7 @@ script 17 mmbn3 {
 		mugshot = Dex
 	msgOpen
 	"""
-	O meu Neo Gutsman
+	O meu Neo GutsMan
 	vai te amassar com
 	gosto!
 	"""
@@ -499,7 +499,7 @@ script 44 mmbn3 {
 		mugshot = Maid
 	msgOpen
 	"""
-	Que tal um cafézinho
+	Que tal um cafezinho
 	artesanal antes de
 	ir ver o N1?
 	"""
@@ -842,7 +842,7 @@ script 56 mmbn3 {
 	msgOpen
 	"""
 	Volte em segurança,
-	e tome um cafézinho
+	e tome um cafezinho
 	delicioso aqui!
 	"""
 	keyWait
@@ -1508,7 +1508,7 @@ script 120 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Computadores fazem a
+	Computadores fazem
 	a maioria das nossas
 	obrigações chatas,
 	"""

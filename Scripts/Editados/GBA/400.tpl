@@ -164,7 +164,7 @@ script 11 mmbn3 {
 	clearMsg
 	"""
 	Por que eu não consigo
-	me mexher?!
+	me mexer?!
 	Huuuuuuuub!!
 	"""
 	keyWait

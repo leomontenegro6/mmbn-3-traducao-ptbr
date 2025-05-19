@@ -11,7 +11,7 @@ script 1 mmbn3 {
 	msgOpen
 	"""
 	Dinheiro,dinheiro-
-	Dindin,verdinhas...
+	Dindim,verdinhas...
 	GRA-NA!♪
 	"""
 	keyWait

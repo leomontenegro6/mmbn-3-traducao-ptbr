@@ -33,7 +33,7 @@ script 1 mmbn3 {
 	"""
 	diante de vocês, agora!
 	Hora de determinarmos
-	nosso primeiro campião N1!
+	nosso primeiro campeão N1!
 	"""
 	keyWait
 	clearMsg
@@ -233,7 +233,7 @@ script 13 mmbn3 {
 		mugshot = Ribitta
 	msgOpen
 	"""
-	Hm! Um declaração fria,
+	Hm! Uma declaração fria,
 	porém sutilmente
 	provocativa do Chaud!
 	"""
@@ -364,7 +364,7 @@ script 19 mmbn3 {
 	"""
 	Ahahahaha! Tu viu isso?
 	O Navi apaziguando o
-	operador bebêzinho dele!
+	operador bebezinho dele!
 	"""
 	keyWait
 	clearMsg

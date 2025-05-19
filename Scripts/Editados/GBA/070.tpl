@@ -149,7 +149,7 @@ script 5 mmbn3 {
 	"""
 	As pessoas postam nele
 	pedidos de tarefas com
-	que precisam ajuda,
+	que precisam de ajuda,
 	"""
 	keyWait
 	clearMsg
@@ -1005,7 +1005,7 @@ script 119 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Por favor, não mxa
+	Por favor, não mexa
 	nas máquinas até
 	terminarem!
 	"""
@@ -1517,8 +1517,8 @@ script 171 mmbn3 {
 	clearMsg
 	"""
 	Mas não resta muita
-	esperança... a menos
-	que Alpha seja destrído.
+	esperança... a menos que
+	Alpha seja destruído.
 	"""
 	keyWait
 	end

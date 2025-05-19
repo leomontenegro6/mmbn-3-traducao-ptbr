@@ -68,8 +68,8 @@ script 4 mmbn3 {
 		mugshot = Yai
 	msgOpen
 	"""
-	Ei! Você vão estar livres
-	hoje à noite?
+	Ei! Vocês vão estar
+	livres hoje à noite?
 	"""
 	keyWait
 	clearMsg

@@ -1051,7 +1051,7 @@ script 226 mmbn3 {
 	"""
 	É possível se conectar
 	para fazer manutenção
-	e ajuster.
+	e ajustes.
 	"""
 	keyWait
 	end

@@ -256,7 +256,7 @@ script 5 mmbn3 {
 	clearMsg
 	"""
 	O ranque do vírus troca-
-	ado depende da hora em
+	do depende da hora em
 	que você tenta.
 	"""
 	keyWait

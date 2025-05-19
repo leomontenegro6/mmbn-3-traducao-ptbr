@@ -222,7 +222,7 @@ script 10 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	As jibóias do zooló-
+	As jiboias do zooló-
 	gico dão medo, sim
 	ou não?
 	"""

@@ -167,7 +167,7 @@ script 9 mmbn3 {
 		mugshot = Bass
 	msgOpen
 	"""
-	Um aura de escuridão.
+	Uma aura de escuridão.
 	Quanta insolência...
 	"""
 	keyWait

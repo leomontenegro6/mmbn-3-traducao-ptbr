@@ -59,7 +59,7 @@ script 4 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Semi-finais, lá vamos nós!
+	Semifinais, lá vamos nós!
 	"""
 	keyWait
 	end

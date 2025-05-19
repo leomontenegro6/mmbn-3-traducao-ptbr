@@ -446,7 +446,7 @@ script 29 mmbn3 {
 	"""
 	Este não é o GutsMan
 	de sempre. Não...
-	É o Neo Gutsman!
+	É o Neo GutsMan!
 	"""
 	keyWait
 	clearMsg
@@ -664,7 +664,7 @@ script 220 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Secudido pelas ondas,
+	Sacudido pelas ondas,
 	espera o retorno
 	de seu operador.
 	"""

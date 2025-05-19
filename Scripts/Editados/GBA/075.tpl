@@ -633,7 +633,7 @@ script 49 mmbn3 {
 	"""
 	Mas nosso encontro
 	aqui deve ser mais que
-	mero acaso, de certo.
+	mero acaso, decerto.
 	"""
 	keyWait
 	clearMsg
@@ -721,7 +721,7 @@ script 52 mmbn3 {
 	clearMsg
 	"""
 	Acho que vou aproveitar
-	e ter dar uns conselhos!
+	e te dar uns conselhos!
 	"""
 	keyWait
 	clearMsg
@@ -884,7 +884,7 @@ script 67 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Dois ingressos, por
+	Dois ingressos,
 	por favor.
 	Um adulto e uma criança!
 	"""
@@ -1084,7 +1084,7 @@ script 78 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Minha vózinha sempre
+	Minha vozinha sempre
 	me dizia pra manter
 	distância de problemas.
 	"""
@@ -1299,7 +1299,7 @@ script 88 mmbn3 {
 	clearMsg
 	"""
 	De qualquer forma, me
-	alegra ver a ascenção
+	alegra ver a asensão
 	de fortes NetLutadores!
 	"""
 	keyWait
@@ -1590,7 +1590,7 @@ script 134 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Mas não me entanda mal:
+	Mas não me entenda mal:
 	estou muito admirado
 	com suas habilidades!
 	"""
@@ -1917,7 +1917,7 @@ script 201 mmbn3 {
 	msgOpen
 	"""
 	O ataque carregado do
-	dFishy é difícil de evitar.
+	Fishy é difícil de evitar.
 	Contudo!
 	"""
 	keyWait
@@ -2109,7 +2109,7 @@ script 207 mmbn3 {
 	msgOpen
 	"""
 	Quadros de areia são
-	difíceis de andar, mas
+	difíceis de andar,
 	mas aumentam o poder
 	"""
 	keyWait
@@ -2197,7 +2197,7 @@ script 210 mmbn3 {
 		mugshot = MrFamous
 	msgOpen
 	"""
-	Após paralizar ou ator-
+	Após paralisar ou ator-
 	doar um inimigo, tente um
 	ataque em seguida!
 	"""
@@ -2371,7 +2371,7 @@ script 215 mmbn3 {
 	"""
 	invocá-lo. Ouvi dizer que
 	há um chip que abre um
-	abre um portal pra lá!
+	portal pra lá!
 	"""
 	keyWait
 	clearMsg
@@ -2970,7 +2970,7 @@ script 248 mmbn3 {
 	"""
 	Vejamos. Um dos
 	Cannons... Uma Shotgun,
-	eu acho? E... er....?
+	eu acho? E... er...?
 	"""
 	keyWait
 	clearMsg

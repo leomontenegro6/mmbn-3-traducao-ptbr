@@ -1558,7 +1558,7 @@ script 37 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Suba de níve, e você
+	Suba de nível, e você
 	receberá um programa
 	que lhe permitirá
 	"""

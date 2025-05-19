@@ -12,7 +12,7 @@ script 0 mmbn3 {
 	clearMsg
 	"""
 	A gente vai te entrevis-
-	tar já já.
+	tar já, já.
 	Por favor, espere ali.
 	"""
 	keyWait

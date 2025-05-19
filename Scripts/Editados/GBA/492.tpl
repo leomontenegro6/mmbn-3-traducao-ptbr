@@ -311,7 +311,7 @@ script 8 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	Ahhhh. Mais uma dia,
+	Ahhhh. Mais um dia,
 	mais uma vitória.
 	Ô, vida.
 	"""
@@ -641,7 +641,7 @@ script 17 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Mas os Officials parecem
+	Mas os Officiais parecem
 	estar levando a investi-
 	gação bem a sério.
 	"""

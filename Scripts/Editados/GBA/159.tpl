@@ -26,7 +26,7 @@ script 0 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Mas o autofalante no
+	Mas o alto-falante no
 	mundo real está
 	quebrado e baixinho...
 	"""

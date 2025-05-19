@@ -399,7 +399,7 @@ script 11 mmbn3s {
 script 12 mmbn3 {
 	msgOpen
 	"""
-	Um Troga-FragBugs.
+	Um Troca-FragBugs.
 	Inserir 10 FragBugs?
 	
 	"""

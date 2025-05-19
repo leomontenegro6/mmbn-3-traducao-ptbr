@@ -481,7 +481,7 @@ script 33 mmbn3 {
 	"""
 	Estou esperando pelo
 	meu amigo já faz 20
-	minutos..
+	minutos...
 	"""
 	keyWait
 	clearMsg
@@ -930,7 +930,7 @@ script 55 mmbn3 {
 		mugshot = GirlNaviOrange
 	msgOpen
 	"""
-	Enfim, vá para o Yoko
+	Enfim, vá para o Yoka
 	Plaza.
 	"""
 	keyWait
@@ -1328,7 +1328,7 @@ script 91 mmbn3 {
 		mugshot = NormalNaviGreen
 	msgOpen
 	"""
-	Depois que os ciensitas
+	Depois que os cientistas
 	terminarem de analisar
 	as bolhas, eu levarei
 	"""

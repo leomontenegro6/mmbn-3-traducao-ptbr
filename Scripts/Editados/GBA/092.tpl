@@ -2441,7 +2441,7 @@ script 223 mmbn3 {
 	clearMsg
 	"""
 	Ele está tirando uma
-	coisa de dentro de sua
+	coisa de dentro de
 	sua carapaça!
 	"""
 	keyWait

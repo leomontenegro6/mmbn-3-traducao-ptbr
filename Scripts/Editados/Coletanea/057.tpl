@@ -77,7 +77,7 @@ script 13 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Mas seria necessário
+	Mas seria necessária
 	uma tecnologia bem
 	avançada,é.
 	"""

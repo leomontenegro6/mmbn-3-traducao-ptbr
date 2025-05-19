@@ -94,7 +94,7 @@ script 30 mmbn3 {
 	msgOpen
 	"""
 	Estou controlando os
-	paineis,não vejo as
+	painéis,não vejo as
 	reações do público.
 	"""
 	keyWait

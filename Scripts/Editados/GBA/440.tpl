@@ -59,7 +59,7 @@ script 3 mmbn3 {
 	clearMsg
 	"""
 	É necessário muito poder
-	para destrui-lo, sabe?
+	para destruí-lo, sabe?
 	Então, eu usei o seu.
 	"""
 	keyWait

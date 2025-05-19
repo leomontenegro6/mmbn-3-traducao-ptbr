@@ -451,7 +451,7 @@ script 23 mmbn3 {
 	clearMsg
 	"""
 	Nós "pode ser" mau,
-	mas mas nós não "é"
+	mas nós não "é"
 	desalmado"!
 	"""
 	keyWait

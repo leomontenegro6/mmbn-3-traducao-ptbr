@@ -1550,7 +1550,7 @@ script 120 mmbn3 {
 	"""
 	Navis e programas
 	fracos já estão com
-	malfuncionamento!
+	mau funcionamento!
 	"""
 	keyWait
 	clearMsg

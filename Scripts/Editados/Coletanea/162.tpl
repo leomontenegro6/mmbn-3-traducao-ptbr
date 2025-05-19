@@ -588,7 +588,7 @@ script 39 mmbn3 {
 	msgOpen
 	"""
 	A srta. Yai ficou
-	felizíssima. Nosso
+	felicíssima. Nosso
 	esforço deu frutos!
 	"""
 	keyWait

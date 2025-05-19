@@ -163,7 +163,7 @@ script 11 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Depos de algumas horas,
+	Depois de algumas horas,
 	seremos reduzidos a
 	restos de dados.
 	"""

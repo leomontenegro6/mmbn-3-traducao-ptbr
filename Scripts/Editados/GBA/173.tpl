@@ -439,7 +439,7 @@ script 224 mmbn3 {
 		jumpIfLess = continue
 	msgOpen
 	"""
-	Um porta lhe impede
+	Uma porta lhe impede
 	de passar.
 	"""
 	keyWait

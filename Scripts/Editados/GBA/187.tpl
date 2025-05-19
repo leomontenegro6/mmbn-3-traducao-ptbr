@@ -28,7 +28,7 @@ script 0 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	O Laborátio de Vírus
+	O Laboratório de Vírus
 	do SciLab
 	"""
 	keyWait

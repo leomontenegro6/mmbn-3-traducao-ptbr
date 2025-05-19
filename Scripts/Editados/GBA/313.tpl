@@ -42,7 +42,7 @@ script 2 mmbn3 {
 	"""
 	Lá na minha terra, eu
 	sou invencível. Mas, no
-	no N1, eu vi que tinham
+	N1, eu vi que tinham
 	"""
 	keyWait
 	clearMsg

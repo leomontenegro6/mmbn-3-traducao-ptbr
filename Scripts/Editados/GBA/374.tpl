@@ -38,7 +38,7 @@ script 2 mmbn3 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	Yau, quer passar lá na
+	Yai, quer passar lá na
 	casa do Lan hoje,
 	depois da escola?
 	"""

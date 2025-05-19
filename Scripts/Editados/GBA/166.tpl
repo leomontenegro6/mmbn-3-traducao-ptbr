@@ -1046,7 +1046,7 @@ script 192 mmbn3 {
 	clearMsg
 	"""
 	Não se preocupe comigo!
-	Leve-os para para o
+	Leve-os para o
 	professor logo!
 	"""
 	keyWait

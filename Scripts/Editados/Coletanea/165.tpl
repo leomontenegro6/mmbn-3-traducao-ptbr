@@ -2115,8 +2115,8 @@ script 172 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Então,tente
-	espairar e descansar
+	Então,tente espare-
+	cer e descansar
 	aqui no cibernético.
 	"""
 	keyWait

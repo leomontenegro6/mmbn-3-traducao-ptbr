@@ -1319,7 +1319,7 @@ script 88 mmbn3 {
 	clearMsg
 	"""
 	Enfim,me alegra ver
-	a ascenção de fortes
+	a asensão de fortes
 	NetLutadores!
 	"""
 	keyWait
@@ -2221,7 +2221,7 @@ script 210 mmbn3 {
 		mugshot = MrFamous
 	msgOpen
 	"""
-	Após paralizar ou
+	Após paralisar ou
 	atordoar um alvo,
 	ataque em seguida!
 	"""
@@ -3001,7 +3001,7 @@ script 248 mmbn3 {
 	"""
 	Er,um dos Cannons,
 	uma Shotgun,acho?
-	E... er....?
+	E... er...?
 	"""
 	keyWait
 	clearMsg

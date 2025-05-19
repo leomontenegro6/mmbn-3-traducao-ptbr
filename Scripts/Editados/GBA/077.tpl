@@ -577,7 +577,7 @@ script 85 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Nossa, cheguei a pensei
+	Nossa, cheguei a pensar
 	que eu ia desmaiar,
 	acredita?
 	"""
@@ -792,7 +792,7 @@ script 107 mmbn3 {
 	"""
 	Este não é o GutsMan
 	de sempre. Não...
-	É o Neo Gutsman!
+	É o Neo GutsMan!
 	"""
 	keyWait
 	clearMsg
@@ -1537,7 +1537,7 @@ script 221 mmbn3 {
 	"""
 	Este mostruário para
 	as camisas, na verdade,
-	é um autofalante!
+	é um alto-falante!
 	"""
 	keyWait
 	clearMsg

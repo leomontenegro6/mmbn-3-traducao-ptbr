@@ -845,7 +845,7 @@ script 57 mmbn3 {
 	clearMsg
 	"""
 	Aí, você teve lá no
-	Scilab esses dias, né?
+	SciLab esses dias, né?
 	"""
 	keyWait
 	clearMsg
@@ -972,7 +972,7 @@ script 67 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Ele derretou todinho!
+	Ele derreteu todinho!
 	Aaaahhhhhh!!!
 	"""
 	keyWait
@@ -1049,7 +1049,7 @@ script 121 mmbn3 {
 	"""
 	O seu pai trabalha lá,
 	não é? Espero que ele
-	tenha ficado bemn!
+	tenha ficado bem!
 	"""
 	keyWait
 	end
@@ -1678,7 +1678,7 @@ script 160 mmbn3 {
 	msgOpen
 	"""
 	A maioria dos civis
-	estão buscando abrigo
+	está buscando abrigo
 	no SciLab.
 	"""
 	keyWait

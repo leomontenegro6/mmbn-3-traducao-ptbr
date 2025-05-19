@@ -216,7 +216,7 @@ script 225 mmbn3 {
 	msgOpen
 	"""
 	Canos para fornecer
-	à arvore imensos
+	à árvore imensos
 	volumes de água.
 	"""
 	keyWait

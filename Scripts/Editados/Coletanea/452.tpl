@@ -71,7 +71,7 @@ script 3 mmbn3 {
 		mugshot = Serenade
 	msgOpen
 	"""
-	Pois bem. Darei-lhe
+	Pois bem. Dar-lhe-ei
 	um duelo... pelo
 	título de UndeRei!
 	"""

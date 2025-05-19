@@ -578,7 +578,7 @@ script 42 mmbn3 {
 		mugshot = Dex
 	msgOpen
 	"""
-	O meu Neo Gutsman vai
+	O meu Neo GutsMan vai
 	te amassar com gosto!
 	"""
 	keyWait
@@ -1524,7 +1524,7 @@ script 130 mmbn3 {
 	"""
 	Por que o Higsby tinha
 	ido embora? Queria que
-	que ele ficasse sempre!
+	ele ficasse sempre!
 	"""
 	keyWait
 	end

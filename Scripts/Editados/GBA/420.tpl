@@ -69,7 +69,7 @@ script 4 mmbn3 {
 	"""
 	Chaud!
 	A gente achou um
-	caminoh!
+	caminho!
 	"""
 	keyWait
 	clearMsg

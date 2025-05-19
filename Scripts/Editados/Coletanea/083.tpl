@@ -1244,7 +1244,7 @@ script 242 mmbn3 {
 script 243 mmbn3 {
 	msgOpen
 	"""
-	A píton parece
+	O píton parece
 	zangada enquanto
 	rasteja pela jaula.
 	"""
@@ -1259,7 +1259,7 @@ script 243 mmbn3 {
 script 244 mmbn3 {
 	msgOpen
 	"""
-	A píton esfrega sua
+	O píton esfrega sua
 	cabeça contra a
 	parede.
 	"""

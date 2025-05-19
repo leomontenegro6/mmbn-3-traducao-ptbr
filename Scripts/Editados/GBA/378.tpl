@@ -162,7 +162,7 @@ script 9 mmbn3 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Há dez Naviz de
+	Há dez Navis de
 	ranques de 1 a 10 na
 	Undernet.
 	"""

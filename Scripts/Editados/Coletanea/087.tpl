@@ -213,7 +213,7 @@ script 8 mmbn3 {
 	"""
 	Este não é o GutsMan
 	de sempre. Não...
-	É o Neo Gutsman!
+	É o Neo GutsMan!
 	"""
 	keyWait
 	clearMsg
@@ -454,7 +454,7 @@ script 35 mmbn3 {
 	msgOpen
 	"""
 	Quem será esse mano
-	mascarado da capa..?
+	mascarado da capa...?
 	O QUE é ele...?
 	"""
 	keyWait
@@ -1287,7 +1287,7 @@ script 98 mmbn3 {
 	"""
 	Este não é o GutsMan
 	de sempre. Não... É
-	o Neo Gutsman!
+	o Neo GutsMan!
 	"""
 	keyWait
 	clearMsg
@@ -1746,7 +1746,7 @@ script 161 mmbn3 {
 	clearMsg
 	"""
 	A segurança da DNN
-	é rigída e muitíssi-
+	é rígida e muitíssi-
 	mo confiável!
 	"""
 	keyWait

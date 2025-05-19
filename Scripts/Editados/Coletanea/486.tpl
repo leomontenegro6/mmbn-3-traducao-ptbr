@@ -1045,7 +1045,7 @@ script 19 mmbn3 {
 		unused = 12
 	"""
 	Oi,sou o Hassy. Eu
-	respondo a pergunta
+	respondo à pergunta
 	do Cartan à Tamako.
 	"""
 	keyWait
@@ -1213,7 +1213,7 @@ script 22 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	CódigosMod cortonam
+	CódigosMod contornam
 	os erros que ocorrem
 	quando inserimos
 	"""

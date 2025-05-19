@@ -129,7 +129,7 @@ script 10 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	Arquivar os papeis da
+	Arquivar os papéis da
 	reunião. E depois...
 	Agh! Misturei tudo...
 	"""
@@ -205,7 +205,7 @@ script 11 mmbn3 {
 	clearMsg
 	mugshotHide
 	"""
-	O Program carregou
+	O Programa carregou
 	"
 	"""
 	printItem

@@ -51,7 +51,7 @@ script 2 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	... Não, Megaman. Ele é
+	... Não, MegaMan. Ele é
 	só um ator trabalhando
 	pro programa de TV.
 	"""

@@ -1226,7 +1226,7 @@ script 242 mmbn3 {
 script 243 mmbn3 {
 	msgOpen
 	"""
-	A píton parece zangada
+	O píton parece zangada
 	enquanto rasteja pela
 	jaula.
 	"""

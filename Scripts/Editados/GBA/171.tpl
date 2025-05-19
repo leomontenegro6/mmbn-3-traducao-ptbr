@@ -707,8 +707,8 @@ script 33 mmbn3 {
 	clearMsg
 	"""
 	Você achou os dois que
-	tavam em Yoka e e em
-	ACDC, né?
+	tavam em Yoka e em ACDC,
+	né?
 	"""
 	keyWait
 	end
@@ -1521,7 +1521,7 @@ script 120 mmbn3 {
 	"""
 	Navis e programas fra-
 	cos já estão apresen-
-	tando malfuncionamento!
+	tando mau funcionamento!
 	"""
 	keyWait
 	clearMsg

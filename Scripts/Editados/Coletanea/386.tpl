@@ -66,7 +66,7 @@ script 3 mmbn3 {
 	"""
 	eu o farei,se for
 	para adquirir van-
-	tagem estragégica.
+	tagem estratégica.
 	"""
 	keyWait
 	clearMsg

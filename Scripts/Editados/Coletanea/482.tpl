@@ -228,7 +228,7 @@ script 3 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	Procuros dados im-
+	Procuro dados im-
 	portantes que perdi.
 	Não posso contar
 	"""
@@ -1226,7 +1226,7 @@ script 16 mmbn3 {
 	clearMsg
 	"""
 	Estou na Máquina de
-	Bebidas do Scilab.
+	Bebidas do SciLab.
 	Fale comigo.
 	"""
 	keyWait

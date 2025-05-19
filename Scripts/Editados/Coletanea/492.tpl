@@ -312,7 +312,7 @@ script 8 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	Ahhh. Mais uma dia,
+	Ahhh. Mais um dia,
 	mais uma vitória.
 	Ô,vida.
 	"""

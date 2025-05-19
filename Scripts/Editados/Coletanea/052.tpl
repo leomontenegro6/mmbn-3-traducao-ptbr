@@ -584,7 +584,7 @@ script 42 mmbn3 {
 		mugshot = Dex
 	msgOpen
 	"""
-	O meu Neo Gutsman
+	O meu Neo GutsMan
 	vai te amassar com
 	gosto!
 	"""

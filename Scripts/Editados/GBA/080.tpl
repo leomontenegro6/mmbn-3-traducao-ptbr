@@ -1074,7 +1074,7 @@ script 221 mmbn3 {
 	msgOpen
 	"""
 	Estes vasos gigantes
-	são lisinhos e elengante-
+	são lisinhos e elegante-
 	mente moldados.
 	"""
 	keyWait
@@ -1267,7 +1267,7 @@ script 237 mmbn3 {
 	msgOpen
 	"""
 	Estes vasos gigantes
-	são lisinhos e elengante-
+	são lisinhos e elegante-
 	mente moldados.
 	"""
 	keyWait

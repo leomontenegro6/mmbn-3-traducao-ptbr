@@ -727,7 +727,7 @@ script 80 mmbn3 {
 	clearMsg
 	"""
 	Ele é um homem
-	importante, e portanto,
+	importante, e, portanto,
 	um homem ocupado!
 	"""
 	keyWait

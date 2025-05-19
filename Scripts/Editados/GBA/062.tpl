@@ -122,7 +122,7 @@ script 4 mmbn3 {
 	"""
 	Pra eleger um Chip
 	Padrão, é só selecionar
-	o o chip desejado
+	o chip desejado
 	"""
 	keyWait
 	clearMsg

@@ -421,7 +421,7 @@ script 23 mmbn3 {
 	msgOpen
 	"""
 	Eu vou me injetar no
-	mundo cibernático e
+	mundo cibernético e
 	ligar o elevador.
 	"""
 	keyWait

@@ -801,7 +801,7 @@ script 107 mmbn3 {
 	"""
 	Este não é o GutsMan
 	de sempre. Não... É
-	o Neo Gutsman!
+	o Neo GutsMan!
 	"""
 	keyWait
 	clearMsg
@@ -1548,7 +1548,7 @@ script 221 mmbn3 {
 	"""
 	Este mostruário pras
 	camisas na verdade é
-	um autofalante!
+	um alto-falante!
 	"""
 	keyWait
 	clearMsg

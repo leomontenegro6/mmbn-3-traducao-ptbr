@@ -99,7 +99,7 @@ script 21 mmbn3 {
 	"""
 	Ora, então onde você
 	espera que eu compre
-	o meu cafézinho matinal?
+	o meu cafezinho matinal?
 	"""
 	keyWait
 	end

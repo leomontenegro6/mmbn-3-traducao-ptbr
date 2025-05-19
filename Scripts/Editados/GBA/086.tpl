@@ -493,7 +493,7 @@ script 44 mmbn3 {
 	"""
 	O quê?! Você não veio
 	assistir?!
-	É um participantes?!
+	É um participante?!
 	"""
 	keyWait
 	clearMsg
@@ -819,7 +819,7 @@ script 56 mmbn3 {
 	msgOpen
 	"""
 	Volte em segurança, e
-	tome um cafézinho
+	tome um cafezinho
 	delicioso aqui!
 	"""
 	keyWait
@@ -1470,7 +1470,7 @@ script 120 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Computadores fazem a
+	Computadores fazem
 	a maioria das nossas
 	obrigações chatas,
 	"""

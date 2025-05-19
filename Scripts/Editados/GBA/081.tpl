@@ -85,7 +85,7 @@ script 10 mmbn3 {
 	clearMsg
 	"""
 	Mas essa cerca
-	parece tão fragilzinha...
+	parece tão frágilzinha...
 	"""
 	keyWait
 	end
@@ -967,7 +967,7 @@ script 205 mmbn3 {
 	clearMsg
 	"""
 	Você ainda não está
-	afiado o basatante!
+	afiado o bastante!
 	Tente de novo depois!
 	"""
 	keyWait

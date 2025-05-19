@@ -58,7 +58,7 @@ script 20 mmbn3 {
 		mugshot = CloakedNavi
 	msgOpen
 	"""
-	Ótimo trabalhando
+	Ótimo trabalho
 	chegando aqui
 	"""
 	waitSkip

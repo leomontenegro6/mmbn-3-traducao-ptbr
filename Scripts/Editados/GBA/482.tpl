@@ -228,7 +228,7 @@ script 3 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	Procuros dados impor-
+	Procuro dados impor-
 	tantes que perdi. Não
 	posso contar tudo aqui.
 	"""
@@ -892,7 +892,7 @@ script 12 mmbn3 {
 		unused = 12
 	"""
 	Ai, minha coluna! Estou
-	precisndo entregar um
+	precisando entregar um
 	certo chip,
 	"""
 	keyWait
@@ -1348,12 +1348,12 @@ script 18 mmbn3 {
 	"""
 	Er... Acho que você não
 	vai acreditar, mas eu
-	eu adotei uns vírus
+	adotei uns vírus fofos
 	"""
 	keyWait
 	clearMsg
 	"""
-	fofos e inofensivos.
+	e inofensivos.
 	São fofos demais,
 	mas não posso ficar
 	"""

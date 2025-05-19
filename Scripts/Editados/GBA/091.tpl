@@ -94,7 +94,7 @@ script 30 mmbn3 {
 	msgOpen
 	"""
 	Estou controlando os
-	paineis, não posso ver
+	painéis, não posso ver
 	as reações do público...
 	"""
 	keyWait
@@ -151,7 +151,7 @@ script 36 mmbn3 {
 	msgOpen
 	"""
 	Eu não acredito que
-	teve um incêncio no
+	teve um incêndio no
 	SciLab...
 	"""
 	keyWait

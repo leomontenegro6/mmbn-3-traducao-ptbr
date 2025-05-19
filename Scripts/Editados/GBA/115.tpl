@@ -18,7 +18,7 @@ script 10 mmbn3 {
 	msgOpen
 	"""
 	Mais um esquisitão vindo
-	vindo da área Angra...
+	da área Angra...
 	"""
 	keyWait
 	clearMsg

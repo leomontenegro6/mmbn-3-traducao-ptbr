@@ -973,8 +973,8 @@ script 198 mmbn3 {
 	msgOpen
 	"""
 	Este lugar é perigoso.
-	Vamos vamos voltar e
-	pegar eles!
+	Vamos voltar e pegar
+	eles!
 	"""
 	keyWait
 	end

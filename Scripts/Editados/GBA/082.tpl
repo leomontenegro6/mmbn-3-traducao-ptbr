@@ -1654,7 +1654,7 @@ script 230 mmbn3 {
 	msgOpen
 	"""
 	Ela deve estar
-	endediada nessa jaula.
+	entediada nessa jaula.
 	Não para de bocejar.
 	"""
 	keyWait
