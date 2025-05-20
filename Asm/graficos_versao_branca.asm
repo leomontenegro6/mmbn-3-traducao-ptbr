@@ -137,9 +137,11 @@
 .org 0x086A5FC8
     .incbin "Graficos/Editados/Customizing.gba"
 
-; Gráfico "Custom" e "L or R", durante as batalhas.
+; Gráfico "Custom", "L or R" e "Pause", durante as batalhas.
 .org 0x086AEC28
     .incbin "Graficos/Editados/Custom L or R.gba"
+.org 0x086AEEA8
+    .incbin "Graficos/Editados/Pause.gba"
 
 ; Telas após vencer batalhas contra vírus comuns.
 .org 0x086B2100

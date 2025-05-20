@@ -1,4 +1,3 @@
-- Editar gráfico "PAUSE", durante as batalhas
 - Editar gráfico "AVANÇADO", durante as batalhas
 - Editar gráfico "TRAP", durante as batalhas
 - Editar nomes que aparecem antes dos turnos das batalhas, ou no final delas
