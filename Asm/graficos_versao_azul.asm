@@ -137,7 +137,9 @@
 .org 0x086A60D4
     .incbin "Graficos/Editados/Customizing.gba"
 
-; Gráfico "Custom", "L or R" e "Pause", durante as batalhas.
+; Gráficos exibidos durante as batalhas.
+.org 0x086A5BD4
+    .incbin "Graficos/Editados/Advance.gba"
 .org 0x086AED34
     .incbin "Graficos/Editados/Custom L or R.gba"
 .org 0x086AEFB4
