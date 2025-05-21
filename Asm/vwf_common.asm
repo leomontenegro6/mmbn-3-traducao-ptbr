@@ -391,7 +391,7 @@
 			cmp		r2, DATA2
 			beq		@@movel
 			
-			add		r0, 0x0d
+			add		r0, 0x0a
 			ldr		r7, =0x0000b354		;prioridade 0
 			b		@@cc
 			
