@@ -1,4 +1,4 @@
-- Editar gráfico "TRAP", durante as batalhas
+- Editar gráficos "MOVE" e "REMOVE", ao adicionar/remover programas na tela de Customizador de Navi
 - Editar nomes que aparecem antes dos turnos das batalhas, ou no final delas
 - Pedir pro Sahgo arrumar um savestate após ter zerado, pra poder traduzir os créditos
 - Corrigir bug ao trocar chips via cabo link, onde a descrição dos chips tá aparecendo na esquerda ao invés da direita

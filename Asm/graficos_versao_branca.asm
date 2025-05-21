@@ -144,6 +144,14 @@
     .incbin "Graficos/Editados/Custom L or R.gba"
 .org 0x086AEEA8
     .incbin "Graficos/Editados/Pause.gba"
+.org 0x08336260
+    .incbin "Graficos/Editados/Trap1.gba"
+.org 0x08336484
+    .incbin "Graficos/Editados/Trap2.gba"
+.org 0x08336788
+    .incbin "Graficos/Editados/Trap3.gba"
+.org 0x08336A0C
+    .incbin "Graficos/Editados/Trap4.gba"
 
 ; Telas após vencer batalhas contra vírus comuns.
 .org 0x086B2100
