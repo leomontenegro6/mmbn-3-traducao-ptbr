@@ -477,9 +477,9 @@ script 19 mmbn3 {
 	color
 		palette = 3
 	"""
-	Você não tem
-	capacidade o
-	bastante pra isso!
+	Capacidade
+	insuficiente para
+	ser chip padrão.
 	"""
 	keyWait
 	msgOpenInvisible

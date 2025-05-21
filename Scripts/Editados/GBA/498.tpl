@@ -32,7 +32,7 @@ script 9 mmbn3s {
 	end
 }
 script 10 mmbn3s {
-	"Planning"
+	"Planejamento"
 	end
 }
 script 11 mmbn3s {
@@ -43,7 +43,7 @@ script 12 mmbn3s {
 	end
 }
 script 13 mmbn3s {
-	"Scenario"
+	"Cenário"
 	end
 }
 script 14 mmbn3s {
@@ -55,10 +55,10 @@ script 15 mmbn3s {
 	end
 }
 script 16 mmbn3s {
+	" S.KUROSAWA"
 	end
 }
 script 17 mmbn3s {
-	" S.KUROSAWA"
 	end
 }
 script 18 mmbn3s {
@@ -68,28 +68,29 @@ script 19 mmbn3s {
 	end
 }
 script 20 mmbn3s {
+	"Design de"
 	end
 }
 script 21 mmbn3s {
-	"Character"
+	"Personagem"
 	end
 }
 script 22 mmbn3s {
-	end
-}
-script 23 mmbn3s {
 	" Y.ISHIHARA"
 	end
 }
-script 24 mmbn3s {
+script 23 mmbn3s {
 	" K.ARIMA"
+	end
+}
+script 24 mmbn3s {
+	" H.KAJI"
 	end
 }
 script 25 mmbn3s {
 	end
 }
 script 26 mmbn3s {
-	" H.KAJI"
 	end
 }
 script 27 mmbn3s {
@@ -144,18 +145,18 @@ script 41 mmbn3s {
 	end
 }
 script 42 mmbn3s {
-	"Objects"
+	"Objetos"
 	end
 }
 script 43 mmbn3s {
-	end
-}
-script 44 mmbn3s {
 	" T.HASHINAGA"
 	end
 }
-script 45 mmbn3s {
+script 44 mmbn3s {
 	" K.SATO"
+	end
+}
+script 45 mmbn3s {
 	end
 }
 script 46 mmbn3s {
@@ -178,18 +179,18 @@ script 51 mmbn3s {
 	end
 }
 script 52 mmbn3s {
-	end
-}
-script 53 mmbn3s {
 	" M.KIJIMA"
 	end
 }
-script 54 mmbn3s {
+script 53 mmbn3s {
 	" M.YOSHIOKA"
 	end
 }
-script 55 mmbn3s {
+script 54 mmbn3s {
 	" J.FUJISAKI"
+	end
+}
+script 55 mmbn3s {
 	end
 }
 script 56 mmbn3s {
@@ -205,30 +206,30 @@ script 59 mmbn3s {
 	end
 }
 script 60 mmbn3s {
-	"Programming"
+	"Programação"
 	end
 }
 script 61 mmbn3s {
-	end
-}
-script 62 mmbn3s {
 	" K.MATSUDA"
 	end
 }
-script 63 mmbn3s {
+script 62 mmbn3s {
 	" H.SHINGAKI"
 	end
 }
-script 64 mmbn3s {
+script 63 mmbn3s {
 	" M.KATAOKA"
 	end
 }
-script 65 mmbn3s {
+script 64 mmbn3s {
 	" M.SAKANO"
 	end
 }
-script 66 mmbn3s {
+script 65 mmbn3s {
 	" H.MURATA"
+	end
+}
+script 66 mmbn3s {
 	end
 }
 script 67 mmbn3s {
@@ -241,7 +242,7 @@ script 69 mmbn3s {
 	end
 }
 script 70 mmbn3s {
-	"Music"
+	"Música"
 	end
 }
 script 71 mmbn3s {
@@ -252,11 +253,11 @@ script 72 mmbn3s {
 	end
 }
 script 73 mmbn3s {
-	"Sound"
+	"Efeitos"
 	end
 }
 script 74 mmbn3s {
-	"Effects"
+	"Sonoros"
 	end
 }
 script 75 mmbn3s {
@@ -277,11 +278,11 @@ script 79 mmbn3s {
 	end
 }
 script 80 mmbn3s {
-	"Official"
+	"Ilustrações"
 	end
 }
 script 81 mmbn3s {
-	"Illustration"
+	"Oficiais"
 	end
 }
 script 82 mmbn3s {
@@ -296,14 +297,15 @@ script 84 mmbn3s {
 	end
 }
 script 85 mmbn3s {
-	"Manual"
+	"Design"
 	end
 }
 script 86 mmbn3s {
-	" A.IWASAKI"
+	"do Manual"
 	end
 }
 script 87 mmbn3s {
+	" A.IWASAKI"
 	end
 }
 script 88 mmbn3s {
@@ -313,14 +315,15 @@ script 89 mmbn3s {
 	end
 }
 script 90 mmbn3s {
-	"Localization"
+	"Localização"
 	end
 }
 script 91 mmbn3s {
+	"Americana"
 	end
 }
 script 92 mmbn3s {
-	" ÇÉÊÍÒÓÕÔÖÚÜ"
+	" BOWNEGLOBAL"
 	end
 }
 script 93 mmbn3s {
@@ -331,10 +334,11 @@ script 94 mmbn3s {
 	end
 }
 script 95 mmbn3s {
-	"QA Manager"
+	"Controle de"
 	end
 }
 script 96 mmbn3s {
+	"Qualidade"
 	end
 }
 script 97 mmbn3s {
@@ -348,34 +352,36 @@ script 99 mmbn3s {
 	end
 }
 script 100 mmbn3s {
-	"Special"
+	"Agradec."
 	end
 }
 script 101 mmbn3s {
-	"Thanks!"
+	"Especiais!"
 	end
 	end
 }
 script 102 mmbn3s {
-	end
-}
-script 103 mmbn3s {
 	" Y.KAWANO"
 	end
 }
-script 104 mmbn3s {
+script 103 mmbn3s {
 	" T.SHIRAIWA"
 	end
 }
-script 105 mmbn3s {
+script 104 mmbn3s {
 	" K.FUNAKOSHI"
 	end
 }
-script 106 mmbn3s {
+script 105 mmbn3s {
 	" A.KAMBARA"
 	end
 }
+script 106 mmbn3s {
+	" M.FUKUMOTO"
+	end
+}
 script 107 mmbn3s {
+	" D.SASAKI"
 	end
 }
 script 108 mmbn3s {
@@ -385,34 +391,35 @@ script 109 mmbn3s {
 	end
 }
 script 110 mmbn3s {
-	"Special"
+	"Agradec."
 	end
 }
 script 111 mmbn3s {
-	"Thanks!"
+	"Especiais!"
 	end
 }
 script 112 mmbn3s {
-	end
-}
-script 113 mmbn3s {
-	" M.FUKUMOTO"
-	end
-}
-script 114 mmbn3s {
-	" D.SASAKI"
-	end
-}
-script 115 mmbn3s {
 	" S.TANAKA"
 	end
 }
-script 116 mmbn3s {
+script 113 mmbn3s {
 	" K.FUNAHARA"
 	end
 }
-script 117 mmbn3s {
+script 114 mmbn3s {
 	" A.HAYASHI"
+	end
+}
+script 115 mmbn3s {
+	" Y.YASUDA"
+	end
+}
+script 116 mmbn3s {
+	" S.UKAI"
+	end
+}
+script 117 mmbn3s {
+	" T.KITAHARA"
 	end
 }
 script 118 mmbn3s {
@@ -422,34 +429,34 @@ script 119 mmbn3s {
 	end
 }
 script 120 mmbn3s {
-	"Special"
+	"Agradec."
 	end
 }
 script 121 mmbn3s {
-	"Thanks!"
+	"Especiais!"
 	end
 }
 script 122 mmbn3s {
-	end
-}
-script 123 mmbn3s {
-	" Y.YASUDA"
-	end
-}
-script 124 mmbn3s {
-	" S.UKAI"
-	end
-}
-script 125 mmbn3s {
-	" T.KITAHARA"
-	end
-}
-script 126 mmbn3s {
 	" N.MINAMIDE"
 	end
 }
-script 127 mmbn3s {
+script 123 mmbn3s {
 	" K.INAGAKI"
+	end
+}
+script 124 mmbn3s {
+	" DevTeam2 "
+	end
+}
+script 125 mmbn3s {
+	end
+}
+script 126 mmbn3s {
+	"Produtor"
+	end
+}
+script 127 mmbn3s {
+	" K.INAFUNE"
 	end
 }
 script 128 mmbn3s {
@@ -459,33 +466,35 @@ script 129 mmbn3s {
 	end
 }
 script 130 mmbn3s {
-	"Special"
+	"Tradução BR"
 	end
 }
 script 131 mmbn3s {
-	"Thanks!"
+	" SAHGO"
 	end
 }
 script 132 mmbn3s {
+	" SOLID ONE"
 	end
 }
 script 133 mmbn3s {
-	" Everyone in"
+	" DENIM"
 	end
 }
 script 134 mmbn3s {
-	" DevTeam2"
+	" NATHAN"
 	end
 }
 script 135 mmbn3s {
+	" IMMEGAX"
 	end
 }
 script 136 mmbn3s {
-	" All Capcom"
+	" MARYWOLF"
 	end
 }
 script 137 mmbn3s {
-	" Employees"
+	" HIKARENETTO"
 	end
 }
 script 138 mmbn3s {
@@ -495,29 +504,34 @@ script 139 mmbn3s {
 	end
 }
 script 140 mmbn3s {
+	"Tradução BR"
 	end
 }
 script 141 mmbn3s {
+	" VICTORIEMIN"
 	end
 }
 script 142 mmbn3s {
-	"Producer"
+	" MATHEUSITO"
 	end
 }
 script 143 mmbn3s {
+	" (ò_ó)"
 	end
 }
 script 144 mmbn3s {
-	" K.INAFUNE"
 	end
 }
 script 145 mmbn3s {
+	" Todos no"
 	end
 }
 script 146 mmbn3s {
+	" MegaSpace e"
 	end
 }
 script 147 mmbn3s {
+	" no F.U.R.T."
 	end
 }
 script 148 mmbn3s {
@@ -536,7 +550,7 @@ script 152 mmbn3s {
 	end
 }
 script 153 mmbn3s {
-	"Time"
+	"Tempo"
 	end
 }
 script 154 mmbn3s {
@@ -555,7 +569,7 @@ script 154 mmbn3s {
 	end
 }
 script 155 mmbn3s {
-	"Data Library"
+	"Coleção"
 	end
 }
 script 156 mmbn3s {
@@ -580,7 +594,7 @@ script 156 mmbn3s {
 	end
 }
 script 157 mmbn3s {
-	"     ・・・End"
+	"     ・・・Fim"
 	end
 }
 script 158 mmbn3s {
