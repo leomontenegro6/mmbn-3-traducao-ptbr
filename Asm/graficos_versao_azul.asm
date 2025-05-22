@@ -125,6 +125,10 @@
 .org 0x087DCEFC
     .incbin "Graficos/Editados/Move Remove.gba"
 
+; Gráfico de "Time Remain" e "Correct", de um minigame de apertar botões.
+.org 0x08440658
+    .incbin "Graficos/Editados/Time Correct Remain.gba"
+
 ; Tela de seleção de chips, entre turnos de batalhas.
 .org 0x086AFC74
     .incbin "Graficos/Editados/Chip Select.gba"

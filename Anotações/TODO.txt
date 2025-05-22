@@ -1,4 +1,3 @@
-- Editar gráficos "Time Remain" e "Correct", de um minigame de quiz no começo do jogo
 - Editar gráfico "presented by", que aparece no final dos créditos
 - Testar créditos na versão azul, pra ver se tá tudo nos conformes (pedir savestate pro pessoal)
 - Editar nomes que aparecem antes dos turnos das batalhas, ou no final delas
