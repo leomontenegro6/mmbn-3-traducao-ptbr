@@ -1,7 +1,7 @@
 - Editar gráficos "MOVE" e "REMOVE", ao adicionar/remover programas na tela de Customizador de Navi
 - Editar gráficos "Time Remain" e "Correct", de um minigame de quiz no começo do jogo
-- Traduzir os créditos
 - Editar gráfico "presented by", que aparece no final dos créditos
+- Testar créditos na versão azul, pra ver se tá tudo nos conformes (pedir savestate pro pessoal)
 - Editar nomes que aparecem antes dos turnos das batalhas, ou no final delas
 - Corrigir bug ao trocar chips via cabo link, onde a descrição dos chips tá aparecendo na esquerda ao invés da direita
 - Estender fonte VWF das descrições para a "Lista P.A."

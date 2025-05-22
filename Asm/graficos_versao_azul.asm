@@ -284,6 +284,8 @@
     .dw yoka_ura_inn
 .org 0x08025204
     .dw yoka_onsen
+.org 0x080486E8
+    .dw fonte_creditos
 
 ; Inserindo gráficos no final da rom
 .orga filesize("Mega Man Battle Network 3 - Versao Azul (BR).gba")
@@ -371,6 +373,10 @@ yoka_onsen:
 
 game_over:
     .incbin "Graficos/Recomprimidos/Game Over.gba"
+    .align
+
+fonte_creditos:
+    .incbin "Graficos/Editados/Fonte creditos.gba"
     .align
 
 .close

@@ -508,7 +508,7 @@ script 140 mmbn3s {
 	end
 }
 script 141 mmbn3s {
-	" VICTORIEMIN"
+	" VICTOR[V2][V3][V4][V5]@"
 	end
 }
 script 142 mmbn3s {
