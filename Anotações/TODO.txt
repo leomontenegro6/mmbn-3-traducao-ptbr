@@ -1,4 +1,3 @@
-- Editar gráficos "MOVE" e "REMOVE", ao adicionar/remover programas na tela de Customizador de Navi
 - Editar gráficos "Time Remain" e "Correct", de um minigame de quiz no começo do jogo
 - Editar gráfico "presented by", que aparece no final dos créditos
 - Testar créditos na versão azul, pra ver se tá tudo nos conformes (pedir savestate pro pessoal)

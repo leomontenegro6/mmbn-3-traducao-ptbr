@@ -121,6 +121,10 @@
 .org 0x087E3DEC
     .stringn "TROCA DE PROGRAMAS"
 
+; Gráfico de "Move" e "Remove", na tela de Customizar Navi.
+.org 0x087DD30C
+    .incbin "Graficos/Editados/Move Remove.gba"
+
 ; Tela de seleção de chips, entre turnos de batalhas.
 .org 0x086AFB68
     .incbin "Graficos/Editados/Chip Select.gba"
