@@ -182,7 +182,7 @@ script 13 mmbn3 {
 	"""
 	Um estilo elétrico domi-
 	nado ao se usar muito
-	o MegaAtirador!
+	o MegaTiro!
 	"""
 	keyWait
 	clearMsg
@@ -273,7 +273,7 @@ script 23 mmbn3 {
 	"""
 	Um estilo de fogo
 	dominado ao se utilizar
-	muito o MegaAtirador!
+	muito o MegaTiro!
 	"""
 	keyWait
 	clearMsg
@@ -362,7 +362,7 @@ script 33 mmbn3 {
 	"""
 	Um estilo de água
 	dominado ao se utilizar
-	muito o MegaAtirador!
+	muito o MegaTiro!
 	"""
 	keyWait
 	clearMsg
@@ -451,7 +451,7 @@ script 43 mmbn3 {
 	"""
 	Um estilo de Madeira
 	dominado ao se utilizar
-	muito o MegaAtirador!
+	muito o MegaTiro!
 	"""
 	keyWait
 	clearMsg

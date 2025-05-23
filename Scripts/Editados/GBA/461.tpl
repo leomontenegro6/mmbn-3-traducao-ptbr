@@ -1447,7 +1447,7 @@ script 35 mmbn3 {
 	"""
 	Quando você usa o
 	Estilo Guts, seu
-	MegaAtirador dobra
+	MegaTiro dobra
 	"""
 	keyWait
 	clearMsg
@@ -1495,7 +1495,7 @@ script 36 mmbn3 {
 	"""
 	Se conquistar um Nível
 	de Luta "S" sem usar
-	chips ou o MegaAtirador,
+	chips ou o MegaTiro,
 	"""
 	keyWait
 	clearMsg

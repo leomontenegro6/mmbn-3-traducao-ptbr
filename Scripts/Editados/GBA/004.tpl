@@ -5,7 +5,7 @@ script 0 mmbn3 {
 		delay = 0
 	msgOpenQuick
 	"""
-	MegaAtirador!
+	MegaTiro!
 	Aperte B para
 	atirar!
 	"""

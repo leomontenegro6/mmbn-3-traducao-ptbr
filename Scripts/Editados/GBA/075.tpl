@@ -2774,7 +2774,7 @@ script 241 mmbn3 {
 	"""
 	Quanto mais perto do
 	inimigo, mais rápido pode
-	disparar o MegaAtirador!
+	disparar o MegaTiro!
 	"""
 	keyWait
 	clearMsg
