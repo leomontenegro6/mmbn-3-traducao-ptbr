@@ -43,6 +43,7 @@ $graficos = [
     (object)['nome' => 'Enemy On', 'offset' => '0x7E5DA4', 'tiles' => '10x4'],
     (object)['nome' => 'BugFrag', 'offset' => '0x7ED8CC', 'tiles' => '1x7'],
     (object)['nome' => 'OK Food ATK', 'offset' => '0x7F8840', 'tiles' => '1x89'],
+    (object)['nome' => 'Presented By Capcom', 'offset' => '0x7FA8E0', 'tiles' => '13x4'],
 ];
 
 foreach($graficos as $g) {

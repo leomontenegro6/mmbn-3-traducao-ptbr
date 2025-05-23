@@ -229,6 +229,10 @@
 .org 0x087FA854
     .incbin "Graficos/Editados/Game Over (tm).gba"
 
+; Editando gráfico de "Presented by Capcom", após os créditos.
+.org 0x087FA8E0
+    .incbin "Graficos/Editados/Presented By Capcom.gba"
+
 ; Gráficos inseridos no final da rom, em sua maioria comprimidos.
 ; Catalogando ponteiros dos gráficos.
 .org 0x0802262C
