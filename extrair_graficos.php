@@ -17,7 +17,7 @@ $graficos = [
     (object)['nome' => 'Time Correct Remain', 'offset' => '0x440444', 'tiles' => '5x16'],
     (object)['nome' => 'Bet Total', 'offset' => '0x441804', 'tiles' => '5x16'],
     (object)['nome' => 'New (foruns)', 'offset' => '0x684A5C', 'tiles' => '1x8'],
-    (object)['nome' => 'Fonte batalhas', 'offset' => '0x6A52C8', 'tiles' => '10x16'],
+    (object)['nome' => 'Fonte batalhas', 'offset' => '0x6A52C8', 'tiles' => '31x2'],
     (object)['nome' => 'Advance', 'offset' => '0x6A5AC8', 'tiles' => '1x20'],
     (object)['nome' => 'Custom L or R', 'offset' => '0x6AEC28', 'tiles' => '1x116'],
     (object)['nome' => 'Pause', 'offset' => '0x6AEEA8', 'tiles' => '5x2'],

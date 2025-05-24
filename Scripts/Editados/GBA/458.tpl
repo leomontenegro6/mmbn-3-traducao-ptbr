@@ -2376,7 +2376,7 @@ script 118 mmbn3 {
 	color
 		palette = 3
 	"""
-	Erro de comunicação!
+	Erro de conexão!
 	Por favor, tente de novo.
 	"""
 	keyWait
@@ -2402,7 +2402,7 @@ script 119 mmbn3 {
 	color
 		palette = 3
 	"""
-	Erro de comunicação!
+	Erro de conexão!
 	Batalha cancelada.
 	"""
 	keyWait
@@ -2518,7 +2518,7 @@ script 123 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Sim "
+	"   Sim "
 	option
 		left = 0
 		right = 0
@@ -2526,7 +2526,7 @@ script 123 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Não"
+	"          Não"
 	select
 		default = 0
 		BSeparate = false
@@ -2886,7 +2886,7 @@ script 138 mmbn3 {
 	color
 		palette = 3
 	"""
-	Erro de comunicação!
+	Erro de conexão!
 	Troca abortada!
 	"""
 	keyWait

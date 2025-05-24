@@ -138,7 +138,7 @@ script 11 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Erro de comunicação!
+	Erro de conexão!
 	Batalha cancelada.
 	"""
 	keyWait
@@ -166,7 +166,7 @@ script 48 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Erro de comunicação!
+	Erro de conexão!
 	Luta cancelada.
 	Erro 
 	"""

@@ -145,6 +145,91 @@
 .org 0x086A5FC8
     .incbin "Graficos/Editados/Customizing.gba"
 
+; Nomes da tela de batalha, exibidos ora antes dos turnos, ora no final delas
+.org 0x086A52C8
+    .incbin "Graficos/Editados/Fonte batalhas.gba"
+
+; OAMs dos nomes da tela de batalha, exibidos ora antes dos turnos, ora no final delas
+.loadtable "Tabelas/Tela Batalha - Nomes (Editados).tbl"
+; Catalogando ponteiros das OAMs
+.org 0x08010820
+    .dw BattleStartOams
+.org 0x08010824
+    .dw EnemyDeletedOams
+.org 0x08010828
+    .dw MegamanDeletedOams
+.org 0x0801082C
+    .dw TurnXStartOams
+.org 0x08010830
+    .dw HitDamageOams
+.org 0x08010834
+    .dw FinalTurnOams
+.org 0x08010838
+    .dw TimeUpOams
+.org 0x08010840
+    .dw WinOams
+.org 0x08010844
+    .dw LoseOams
+.org 0x08010848
+    .dw DrawOams
+.org 0x0801084C
+    .dw FlagDeletedOams
+.org 0x08010850
+    .dw BattleXStartOams
+
+;; Inserindo textos das novas OAMs num local vago na rom
+.org 0x087FFBE4
+BattleStartOams:
+    .stringn "< INICIAR BATALHA! >",0xff
+EnemyDeletedOams:
+    .stringn "< INIMIGO DELETADO! >",0xff
+MegamanDeletedOams:
+    .stringn "< MEGAMAN DELETADO! >",0xff
+TurnXStartOams:
+    .stringn "< INICIAR TURNO   ! >",0xff
+HitDamageOams:
+    .stringn "< DANOS RECEBIDOS: >",0xff
+FinalTurnOams:
+    .stringn "< TURNO FINAL >",0xff
+TimeUpOams:
+    .stringn "< TEMPO ESGOTADO >",0xff
+WinOams:
+    .stringn "< VENCEU! >",0xff
+LoseOams:
+    .stringn "< PERDEU! >",0xff
+DrawOams:
+    .stringn "< EMPATE! >",0xff
+FlagDeletedOams:
+    .stringn "< BANDEIRA DELETADA! >",0xff
+BattleXStartOams:
+    .stringn "< INICIAR BATALHA   ! >",0xff
+
+;; Ajustando quantidade de OAMs exibida por frase, assim aumentando/reduzindo a quantidade de caracteres
+.org 0x080107C4 ;; Battle Start, aumentar 3 OAMs (de 0x11 pra 0x14)
+    .stringn 0x14
+.org 0x080107C5 ;; Enemy Deleted, aumentar 4 OAMs (de 0x12 pra 0x16)
+    .stringn 0x15
+.org 0x080107C6 ;; Megaman Deleted, aumentar 1 OAM (de 0x14 pra 0x15)
+    .stringn 0x15
+.org 0x080107C7 ;; Turn X Start, aumentar 4 OAMs (de 0x11 pra 0x15)
+    .stringn 0x15
+.org 0x080107C8 ;; Hit Damage, aumentar 5 OAMs (de 0x0F pra 0x14)
+    .stringn 0x14
+.org 0x080107C9 ;; Final Turn, aumentar 1 OAM (de 0x0E pra 0x0F)
+    .stringn 0x0F
+.org 0x080107CA ;; Time Up, aumentar 7 OAMs (de 0x0B pra 0x12)
+    .stringn 0x12
+.org 0x080107CC ;; Win, aumentar 3 OAMs (de 0x08 pra 0x0B)
+    .stringn 0x0B
+.org 0x080107CD ;; Lose, aumentar 2 OAMs (de 0x09 pra 0x0B)
+    .stringn 0x0B
+.org 0x080107CE ;; Draw, aumentar 2 OAMs (de 0x09 pra 0x0B)
+    .stringn 0x0B
+.org 0x080107CF ;; Flag Deleted, aumentar 5 OAMs (de 0x11 pra 0x16)
+    .stringn 0x16
+.org 0x080107D0 ;; Battle X Start, aumentar 4 OAMs (de 0x13 pra 0x17)
+    .stringn 0x17
+
 ; Gráficos exibidos durante as batalhas.
 .org 0x086A5AC8
     .incbin "Graficos/Editados/Advance.gba"

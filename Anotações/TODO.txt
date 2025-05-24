@@ -1,7 +1,6 @@
-- Testar créditos na versão azul, pra ver se tá tudo nos conformes (pedir savestate pro pessoal)
-- Editar nomes que aparecem antes dos turnos das batalhas, ou no final delas
+- Desfazer expansão das descrições das "Lista P.A.", dado que possivelmente não estenderemos a VWF das descrições para eles.
+- Checar bug na versão azul, em que o chip "AntiNavi" tá com tiles bugados, mostrando um pedaço do "ELÉTRICO +30"
 - Corrigir bug ao trocar chips via cabo link, onde a descrição dos chips tá aparecendo na esquerda ao invés da direita
-- Estender fonte VWF das descrições para a "Lista P.A."
 
 REGEX
     Sugestões: .{66,}$
