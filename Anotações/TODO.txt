@@ -1,4 +1,4 @@
-- Desfazer expansão das descrições das "Lista P.A.", dado que possivelmente não estenderemos a VWF das descrições para eles.
+- Corrigir bug ao batalhar com cabo link, onde os nomes "TURN X START" e "BATTLE X START" estão mostrando números na posição errada
 - Corrigir bug ao trocar chips via cabo link, onde a descrição dos chips tá aparecendo na esquerda ao invés da direita
 
 REGEX

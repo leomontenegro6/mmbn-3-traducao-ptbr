@@ -796,8 +796,8 @@ script 64 mmbn3 {
 	msgOpenQuick
 	"""
 	Cannon
-	ilimitado por
-	5 segundos.
+	ilimitado
+	por 5 seg
 	"""
 	keyWait
 	msgCloseQuick
@@ -809,8 +809,8 @@ script 65 mmbn3 {
 	msgOpenQuick
 	"""
 	HiCannon
-	ilimitado por 5
-	segundos.
+	ilimitado
+	por 5 seg
 	"""
 	keyWait
 	msgCloseQuick
@@ -821,9 +821,9 @@ script 66 mmbn3 {
 		delay = 0
 	msgOpenQuick
 	"""
-	MegaCannon
-	ilimitado por 5
-	segundos.
+	MegaCanon
+	ilimitado
+	por 5 seg
 	"""
 	keyWait
 	msgCloseQuick
@@ -835,8 +835,8 @@ script 67 mmbn3 {
 	msgOpenQuick
 	"""
 	GutPunch
-	ilimitado por 5
-	segundos.
+	ilimitado
+	por 5 seg
 	"""
 	keyWait
 	msgCloseQuick
@@ -848,8 +848,8 @@ script 68 mmbn3 {
 	msgOpenQuick
 	"""
 	GutStrgt
-	ilimitado por 5
-	segundos.
+	ilimitado
+	por 5 seg
 	"""
 	keyWait
 	msgCloseQuick
@@ -861,8 +861,8 @@ script 69 mmbn3 {
 	msgOpenQuick
 	"""
 	GutImpct
-	ilimitado por 5
-	segundos.
+	ilimitado
+	por 5 seg
 	"""
 	keyWait
 	msgCloseQuick
@@ -874,8 +874,8 @@ script 70 mmbn3 {
 	msgOpenQuick
 	"""
 	VarSwrd
-	ilimitado por
-	5 segundos.
+	ilimitada
+	por 5 seg
 	"""
 	keyWait
 	msgCloseQuick
@@ -887,8 +887,8 @@ script 71 mmbn3 {
 	msgOpenQuick
 	"""
 	Yo-Yo
-	ilimitado por
-	5 segundos.
+	ilimitado
+	por 5 seg
 	"""
 	keyWait
 	msgCloseQuick
@@ -900,8 +900,8 @@ script 72 mmbn3 {
 	msgOpenQuick
 	"""
 	Yo-Yo2
-	ilimitado por 5
-	segundos.
+	ilimitado
+	por 5 seg
 	"""
 	keyWait
 	msgCloseQuick
@@ -913,8 +913,8 @@ script 73 mmbn3 {
 	msgOpenQuick
 	"""
 	Yo-Yo3
-	ilimitado por 5
-	segundos.
+	ilimitado
+	por 5 seg
 	"""
 	keyWait
 	msgCloseQuick
@@ -926,8 +926,8 @@ script 74 mmbn3 {
 	msgOpenQuick
 	"""
 	StepSwrd
-	ilimitada por 5
-	segundos.
+	ilimitado
+	por 5 seg
 	"""
 	keyWait
 	msgCloseQuick
@@ -939,8 +939,8 @@ script 75 mmbn3 {
 	msgOpenQuick
 	"""
 	StepCros
-	ilimitado por 5
-	segundos.
+	ilimitado
+	por 5 seg
 	"""
 	keyWait
 	msgCloseQuick
@@ -951,9 +951,9 @@ script 76 mmbn3 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Planta bomba-
-	relógio no
-	campo inimigo.
+	Bomba-
+	relógio
+	nos alvos
 	"""
 	keyWait
 	msgCloseQuick
@@ -964,9 +964,9 @@ script 77 mmbn3 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Tiro múltiplo
-	atinge alvo e
-	tudo ao redor.
+	Cria
+	explosão
+	gigante
 	"""
 	keyWait
 	msgCloseQuick
@@ -977,9 +977,9 @@ script 78 mmbn3 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Tiro de bolhas,
-	explode alvo e
-	tudo ao redor.
+	Ataca com
+	bolhas e
+	espalha
 	"""
 	keyWait
 	msgCloseQuick
@@ -990,9 +990,9 @@ script 79 mmbn3 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Tiro de fogo,
-	explode alvo e
-	tudo ao redor.
+	Ataca com
+	fogo e
+	espalha
 	"""
 	keyWait
 	msgCloseQuick
@@ -1003,9 +1003,9 @@ script 80 mmbn3 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Corte de es-
-	pada 2 colu-
-	nas à frente!
+	Brande
+	espada
+	2x3!
 	"""
 	keyWait
 	msgCloseQuick
@@ -1016,9 +1016,9 @@ script 81 mmbn3 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Cortes de Wi-
-	deSwrd com os
-	4 elementos.
+	WideSwrd
+	com os 4
+	elementos
 	"""
 	keyWait
 	msgCloseQuick
@@ -1029,9 +1029,9 @@ script 82 mmbn3 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Dá 2 passos à
-	frente e corta
-	4 vezes!
+	2 passos
+	e 4
+	ataques
 	"""
 	keyWait
 	msgCloseQuick
@@ -1044,7 +1044,7 @@ script 83 mmbn3 {
 	"""
 	MegaMan &
 	ProtoMan
-	unem forças.
+	juntos!
 	"""
 	keyWait
 	msgCloseQuick
@@ -1055,9 +1055,9 @@ script 84 mmbn3 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Ataca com 1
-	Ratton hiper-
-	poderoso!
+	Ratton
+	gigante
+	ataca!
 	"""
 	keyWait
 	msgCloseQuick
@@ -1068,9 +1068,9 @@ script 85 mmbn3 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Defende golpe
-	e ataca alvo
-	repetidamente!
+	Escudo
+	segue
+	inimigo
 	"""
 	keyWait
 	msgCloseQuick
@@ -1081,9 +1081,9 @@ script 86 mmbn3 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Gels roubam 2
-	colunas e
-	causam dano.
+	Gel
+	rouba
+	quadros
 	"""
 	keyWait
 	msgCloseQuick
@@ -1094,9 +1094,9 @@ script 87 mmbn3 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Cria Faraó
-	que envenena
-	campo inimigo.
+	Faraó
+	gera
+	veneno
 	"""
 	keyWait
 	msgCloseQuick
@@ -1107,9 +1107,9 @@ script 88 mmbn3 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Evita ataque e
-	contra-ataca
-	intensamente!
+	Bodyguard
+	abate
+	inimigos
 	"""
 	keyWait
 	msgCloseQuick
@@ -1120,9 +1120,9 @@ script 89 mmbn3 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Cria barreira
-	que absorve
-	500 de dano.
+	Barreira
+	absorve
+	atq 500PV
 	"""
 	keyWait
 	msgCloseQuick
@@ -1133,8 +1133,8 @@ script 90 mmbn3 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Ataca alvo e
-	cura seus PV!
+	Ataca e
+	cura PV!
 	"""
 	keyWait
 	msgCloseQuick
@@ -1160,7 +1160,7 @@ script 92 mmbn3 {
 	"""
 	MegaMan &
 	ProtoMan
-	unem forças!
+	juntos!
 	"""
 	keyWait
 	msgCloseQuick
@@ -1171,9 +1171,9 @@ script 93 mmbn3 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Chove muito
-	entulho no
-	campo inimigo!
+	Desperta
+	a Mãe-
+	Terra!
 	"""
 	keyWait
 	msgCloseQuick
@@ -1184,8 +1184,9 @@ script 94 mmbn3 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Três Navis
-	atacam juntos!
+	3 Navis
+	atacam
+	juntos!
 	"""
 	keyWait
 	msgCloseQuick
@@ -1197,8 +1198,8 @@ script 95 mmbn3 {
 	msgOpenQuick
 	"""
 	MegaMan
-	libera todo
-	o seu poder!
+	libera
+	seu poder
 	"""
 	keyWait
 	msgCloseQuick
