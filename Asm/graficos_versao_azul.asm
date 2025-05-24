@@ -267,7 +267,7 @@ BattleXStartOams:
     .incbin "Graficos/Editados/Fire plus 30.gba"
 .org 0x086E454C
     .incbin "Graficos/Editados/Aqua plus 30.gba"
-.org 0x086E2D6C
+.org 0x086E4C6C
     .incbin "Graficos/Editados/Elec plus 30.gba"
 .org 0x086E538C
     .incbin "Graficos/Editados/Wood plus 30.gba"
