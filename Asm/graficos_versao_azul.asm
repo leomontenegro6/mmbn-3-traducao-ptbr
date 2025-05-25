@@ -230,6 +230,17 @@ BattleXStartOams:
 .org 0x080107D0 ;; Battle X Start, aumentar 4 OAMs (de 0x13 pra 0x17)
     .stringn 0x17
 
+;; Ajustando posição de números dinâmicos, em frases como "Start Battle X" e "Start Turn X"
+;; Também reposicionando tile na vram, pra evitar que o número apareça duas vezes.
+.org 0x080100AE
+    add r1, #0x84
+.org 0x0801010c
+    .dw 0xc3ec
+.org 0x08010798
+    .dw 0x06017d80
+.org 0x080100B2
+    add r1,#0x98
+
 ; Gráficos exibidos durante as batalhas.
 .org 0x086A5BD4
     .incbin "Graficos/Editados/Advance.gba"
