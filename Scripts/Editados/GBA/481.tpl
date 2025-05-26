@@ -93,7 +93,7 @@ script 22 mmbn3s {
 	end
 }
 script 23 mmbn3s {
-	" Stamp collecting"
+	" Coleta de carimbos"
 	end
 }
 script 24 mmbn3s {

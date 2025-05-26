@@ -81,8 +81,9 @@ script 4 mmbn3 {
 		frames = 30
 	"""
 	
-	vão limpar as privadas
-	semana que vem!
+	vão limpar
+	as privadas semana
+	que vem!
 	"""
 	keyWait
 	clearMsg

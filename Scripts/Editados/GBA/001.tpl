@@ -47,8 +47,7 @@ script 20 mmbn3 {
 		buffer = 0
 		item = 114
 	"""
-	"
-	deixou de ter
+	" deixou de ter
 	efeito!
 	"""
 	keyWait
@@ -66,8 +65,7 @@ script 21 mmbn3 {
 		buffer = 0
 		item = 116
 	"""
-	"
-	deixou de ter
+	" deixou de ter
 	efeito!
 	"""
 	keyWait

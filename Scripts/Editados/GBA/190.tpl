@@ -51,7 +51,7 @@ script 4 mmbn3 {
 	mugshotShow
 		mugshot = Sunayama
 	msgOpen
-	"Olá!"
+	"Olá! "
 	flagSet
 		flag = 786
 	"""

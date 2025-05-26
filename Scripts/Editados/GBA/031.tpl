@@ -125,9 +125,9 @@ script 5 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Vamos ver o que a gale-
-	ra tem a dizer! Talvez
-	isso nos dê um norte.
+	Vamos ver o que a galera
+	tem a dizer! Talvez isso
+	nos dê um norte.
 	"""
 	keyWait
 	end

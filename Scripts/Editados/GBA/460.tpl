@@ -177,7 +177,7 @@ script 57 mmbn3s {
 	end
 }
 script 58 mmbn3s {
-	"Disembarking"
+	"Atracando"
 	end
 }
 script 60 mmbn3s {
@@ -249,7 +249,7 @@ script 81 mmbn3s {
 	end
 }
 script 82 mmbn3s {
-	"Hurry!"
+	"Rápido!"
 	end
 }
 script 84 mmbn3s {
@@ -285,7 +285,7 @@ script 93 mmbn3s {
 	end
 }
 script 94 mmbn3s {
-	"Newsflash"
+	"Urgente!"
 	end
 }
 script 96 mmbn3s {

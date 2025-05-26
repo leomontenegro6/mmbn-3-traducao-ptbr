@@ -84,7 +84,7 @@ script 2 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Lan!"
+	"Lan! "
 	waitSkip
 		frames = 20
 	"""

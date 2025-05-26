@@ -13,11 +13,7 @@ script 0 mmbn3 {
 	printItem
 		buffer = 0
 		item = 3
-	"""
-	
-	numa excursão outro
-	dia.
-	"""
+	"\nnuma excursão outro\ndia."
 	keyWait
 	clearMsg
 	"""

@@ -138,8 +138,8 @@ script 5 mmbn3 {
 		chip = 130
 	"""
 	
-	primeiro. Para cancelar,
-	aperte "B".
+	 primeiro.
+	Para cancelar, aperte "B".
 	"""
 	keyWait
 	end
@@ -154,8 +154,8 @@ script 6 mmbn3 {
 		chip = 130
 	"""
 	
-	primeiro. Para cancelar,
-	aperte "B".
+	 primeiro.
+	Para cancelar, aperte "B".
 	"""
 	keyWait
 	end
@@ -170,8 +170,8 @@ script 7 mmbn3 {
 		chip = 130
 	"""
 	
-	primeiro. Para cancelar,
-	aperte "B".
+	 primeiro.
+	Para cancelar, aperte "B".
 	"""
 	keyWait
 	end
