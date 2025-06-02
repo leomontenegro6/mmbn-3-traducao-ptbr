@@ -1,0 +1,75 @@
+------------------
+Informações
+------------------
+
+Nome do jogo: Mega Man Battle Network 3
+Versão: Americana
+Plataforma: Gameboy Advance
+Desenvolvedora: Capcom Production Studio 2
+Distribuidora: Capcom
+Gênero: RPG / Ação / Tática
+Jogadores: 1
+
+------------------
+Notas do Patch
+------------------
+
+O patch está em formato IPS, e você pode aplicá-lo através de programas como Floating IPS ou similares. Para a versão branca, o patch deve ser aplicado na rom "Mega Man Battle Network 3 - White Version (USA).gba", com header, de crc 0BE4410A / md5sum 68817204a691449e655cba739dbb0165. Já para a versão azul, o patch deve ser aplicado na rom "Mega Man Battle Network 3 - Blue Version (USA).gba", com header, de crc C0C780F9 / md5sum 6fe31df0144759b34ad666badaacc442.
+
+------------------
+Enredo
+------------------
+
+O jogo segue Lan Hikari e seu NetNavi MegaMan. A organização terrorista WWW, derrotada no primeiro game, voltou e está coletando “TetraCódigos”, quatro pedaços de dados escondidos em várias áreas do ciberespaço. Lan e Megaman viajam para novas áreas para impedir a WWW.
+
+------------------
+Sobre a tradução
+------------------
+
+Essa é uma tradução em conjunta entre Sahgo, denim e eu. Sahgo é super fã dessa série, e traduziu o primeiro e segundo jogos. Com o sucesso de traduzir o jogo anterior com a ferramenta de texto TextPet, feita pelo romhacker espanhol Prof. 9, somado ao apoio técnico do denim na parte gráfica, conseguir o mesmo feito com o terceiro jogo da série se provou viável.
+
+Em 2023, pouco após termos terminado a tradução do MegaMan Battle Network 2, começamos o projeto. Pedi ao Denim pra portar as fontes VWF para este jogo, para que pudéssemos ter diálogos melhor dispostos e os aprimoramentos nas descrições dos chips. Também extraí os textos do jogo pela ferramenta TextPet, e passei pro Sahgo traduzir. Em algumas semanas, já tínhamos todos os scripts traduzidos em uma versão preliminar, e as fontes VWF em um estado razoavelmente estável.
+
+Cerca de 1 ano depois, com o lançamento do MegaMan Battle Network Legacy Collection, juntou-se à gente um grupo de tradução chamado "MegaSpace", com o intuito de traduzir jogos da série dentro da coletânea. Com a ajuda desse pessoal, conseguimos o feito de não apenas portar a tradução do segundo e terceiro jogos para a coletânea, como até mesmo retraduzir o primeiro para a mesma, que eventualmente também será trazido pra versão de GBA. Infelizmente a coletânea não conta com suporte às fontes VWF que fizemos pras versões de GBA, então os textos tiveram que ser adaptados de acordo. Talvez no futuro esse feito seja realizado pela comunidade de modding da coletânea.
+
+Foi apenas em 2025 que consegui juntar coragem e gás para terminar o restante do trabalho. Estive editando os gráficos do jogo com dicas do denim e fazendo uso das mesmas ferramentas usadas no segundo jogo. Juntamente com isso, também aprimorei a extensão pré-visualizadora de diálogos de VSCode que fiz, adicionando suporte a múltiplos jogos da série, bem como suporte a prévia não só de diálogos comuns como também de descrições de chips (com e sem VWF), o que não só foi bastante útil para a tradução e revisão do terceiro jogo, como até mesmo para os jogos seguintes da série. Também desenvolvi ferramentas em PHP para vasculhar textos em inglês pendente tradução, avaliar sintaxe de scripts TPL, e até mesmo aplicar revisão textual programática nos scripts.
+
+Graças a todo esse imenso trabalho em equipe, finalizamos essa tradução e lançamos à comunidade. Ela está disponível tanto na Versão Branca como na Versão Azul. Esperamos que usufruam da tradução, da mesma forma que também o fizemos em todo esse processo.
+
+------------------
+Atualizações da Tradução
+------------------
+
+Versão 1.0: 01/06/2025
+ Primeiro lançamento.
+
+------------------
+Status da Tradução
+------------------
+
+Textos: 100%
+Acentos: 100%
+Gráficos: 100%
+Revisão: 100%
+
+------------------
+Ferramentas Utilizadas
+------------------
+
+- HxD Hex Editor : Editor hexadecimal usado para edições diversas;
+- WindHex : Editor hexadecimal usado para edições diversas;
+- TextPet : Tool criada pelo romhacker espanhol Prof. 9 e usada para editar textos do jogo;
+- Tile Molester Mod : Editor de tiles usado para edição dos gráficos do jogo.
+- armips assembler : Ferramenta utilizada para remontar a rom, após edições.
+- MMBN Dialog Previewer : Extensão do VSCode criada para facilitar a tradução de scripts pela ferramenta TextPet
+- MMBN BG Graphic Unpacker : Ferramenta usada para editar gráficos de backgrounds do jogo
+
+------------------
+Agradecimentos
+------------------
+
+- Capcom, por ter lançado o jogo;
+- Ao Solid, DiegoHH, denim e Nathan, por todo o auxílio na parte técnica do jogo;
+- Ao Anime_World, pela dica da ferramenta TextPet;
+- Ao Prof.9, por ter criado a ferramenta TextPet.
+- Ao Immaryx, Immegax e Hikare Netto, pela assistência em prol de um futuro port da tradução para a coletânea.

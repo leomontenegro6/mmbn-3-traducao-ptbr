@@ -1,0 +1,110 @@
+[img]https://i.imgur.com/H8vvtp1.gif[/img]
+
+—————————————————–
+[b]Informações[/b]
+—————————————————–
+
+[b]Nome do jogo[/b]: MegaMan Battle Network 3
+[b]Versão[/b]: Americana
+[b]Plataforma[/b]: Gameboy Advance
+[b]Desenvolvedora[/b]: Capcom Production Studio 2
+[b]Distribuidora[/b]: Capcom
+[b]Gênero[/b]: RPG / Ação / Tática
+[b]Jogadores[/b]: 1
+
+—————————————————–
+[b]Enredo[/b]
+—————————————————–
+
+O jogo segue Lan Hikari e seu NetNavi MegaMan. A organização terrorista WWW, derrotada no primeiro game, voltou e está coletando “TetraCódigos”, quatro pedaços de dados escondidos em várias áreas do ciberespaço. Lan e Megaman viajam para novas áreas para impedir a WWW.
+
+—————————————————–
+[b]Sobre a tradução[/b]
+—————————————————–
+
+Essa é uma tradução em conjunta entre Sahgo, denim e eu. Sahgo é super fã dessa série, e traduziu o primeiro e segundo jogos. Com o sucesso de traduzir o jogo anterior com a ferramenta de texto TextPet, feita pelo romhacker espanhol Prof. 9, somado ao apoio técnico do denim na parte gráfica, conseguir o mesmo feito com o terceiro jogo da série se provou viável.
+
+Em 2023, pouco após termos terminado a tradução do MegaMan Battle Network 2, começamos o projeto. Pedi ao Denim pra portar as fontes VWF para este jogo, para que pudéssemos ter diálogos melhor dispostos e os aprimoramentos nas descrições dos chips. Também extraí os textos do jogo pela ferramenta TextPet, e passei pro Sahgo traduzir. Em algumas semanas, já tínhamos todos os scripts traduzidos em uma versão preliminar, e as fontes VWF em um estado razoavelmente estável.
+
+Cerca de 1 ano depois, com o lançamento do MegaMan Battle Network Legacy Collection, juntou-se à gente um grupo de tradução chamado "MegaSpace", com o intuito de traduzir jogos da série dentro da coletânea. Com a ajuda desse pessoal, conseguimos o feito de não apenas portar a tradução do segundo e terceiro jogos para a coletânea, como até mesmo retraduzir o primeiro para a mesma, que eventualmente também será trazido pra versão de GBA. Infelizmente a coletânea não conta com suporte às fontes VWF que fizemos pras versões de GBA, então os textos tiveram que ser adaptados de acordo. Talvez no futuro esse feito seja realizado pela comunidade de modding da coletânea.
+
+Foi apenas em 2025 que consegui juntar coragem e gás para terminar o restante do trabalho. Estive editando os gráficos do jogo com dicas do denim e fazendo uso das mesmas ferramentas usadas no segundo jogo. Juntamente com isso, também aprimorei a extensão pré-visualizadora de diálogos de VSCode que fiz, adicionando suporte a múltiplos jogos da série, bem como suporte a prévia não só de diálogos comuns como também de descrições de chips (com e sem VWF), o que não só foi bastante útil para a tradução e revisão do terceiro jogo, como até mesmo para os jogos seguintes da série. Também desenvolvi ferramentas em PHP para vasculhar textos em inglês pendente tradução, avaliar sintaxe de scripts TPL, e até mesmo aplicar revisão textual programática nos scripts.
+
+Graças a todo esse imenso trabalho em equipe, finalizamos essa tradução e lançamos à comunidade. Ela está disponível tanto na Versão Branca como na Versão Azul. Esperamos que usufruam da tradução, da mesma forma que também o fizemos em todo esse processo.
+
+—————————————————–
+[b]Equipe[/b]
+—————————————————–
+
+[list]
+[li][b]Sahgo[/b]: Tradução, revisão e teste;[/li]
+[li][b]Solid One[/b]: Romhacking geral, gráficos, revisão e teste;[/li]
+[li][b]denim[/b]: Romhacking;[/li]
+[li][b]Nathan[/b]: Gráficos;[/li]
+[li][b]Immegax[/b]: Hacking da coletânea, revisão e teste;[/li]
+[li][b]Marywolf[/b]: Gráficos da coletânea;[/li]
+[li][b]Hikarenetto[/b]: Revisão e teste da coletânea;[/li]
+[li][b]victoriemini[/b]: Arte de capas;[/li]
+[/list]
+
+—————————————————–
+[b][i]Status[/i] da Tradução[/b]
+—————————————————–
+
+[b]Textos[/b]: 100%
+[b]Acentos[/b]: 100%
+[b]Gráficos[/b]: 100%
+[b]Revisão[/b]: 100%
+
+—————————————————–
+[b]Ferramentas Utilizadas[/b]
+—————————————————–
+
+[list]
+[li][b][url=https://mh-nexus.de/en/hxd/]HxD Hex Editor[/url][/b] : Editor hexadecimal usado para edições diversas;[/li]
+[li][b][url=https://www.romhacking.net/utilities/291/]WindHex[/url][/b] : Editor hexadecimal usado para edições diversas;[/li]
+[li][b][url=https://github.com/Prof9/TextPet]TextPet[/url][/b] : Tool criada pelo romhacker espanhol Prof. 9 e usada para editar textos do jogo;[/li]
+[li][b][url=https://www.romhacking.net/utilities/991/]Tile Molester Mod[/url][/b] : Editor de tiles usado para edição dos gráficos do jogo.[/li]
+[li][b][url=https://github.com/Kingcom/armips]armips assembler[/url][/b] : Ferramenta utilizada para remontar a rom, após edições.[/li]
+[li][b][url=https://github.com/leomontenegro6/mmbn-dialog-previewer]MMBN Dialog Previewer[/url][/b] : Extensão do VSCode criada para facilitar a tradução de scripts pela ferramenta TextPet;[/li]
+[li][b][url=https://github.com/leomontenegro6/mmbn-bg-graphic-unpacker]MMBN BG Graphic Unpacker[/url][/b] : Ferramenta usada para editar gráficos de backgrounds do jogo;[/li]
+[/list]
+
+—————————————————–
+Changelog
+—————————————————–
+
+[b]Versão 1.0[/b]: 01/06/2025
+ Primeiro lançamento.
+
+—————————————————–
+[b]Agradecimentos[/b]
+—————————————————–
+
+[list]
+[li]Capcom, por ter lançado o jogo;[/li]
+[li]Ao Solid e denim, por todo o auxílio na parte técnica do jogo;[/li]
+[li]Ao pessoal do grupo MegaSpace, pelo apoio e pelo port das traduções de GBA para a coletânea;[/li]
+[li]Ao Prof.9, por ter criado a ferramenta TextPet.[/li]
+[/list]
+
+—————————————————–
+[b]Imagens[/b]
+—————————————————–
+
+[img]https://i.imgur.com/Pzg4oxE.png[/img] [img]https://i.imgur.com/ibGVggy.png[/img] [img]https://i.imgur.com/9TmeKyV.png[/img]
+[img]https://i.imgur.com/wlXOgtZ.png[/img] [img]https://i.imgur.com/3om155t.png[/img] [img]https://i.imgur.com/DjngrNz.png[/img]
+[img]https://i.imgur.com/dEUC9sC.png[/img] [img]https://i.imgur.com/KaFPSRL.png[/img] [img]https://i.imgur.com/JLY8qaO.png[/img]
+[img]https://i.imgur.com/fG1bev0.png[/img] [img]https://i.imgur.com/kzFSeIT.png[/img] [img]https://i.imgur.com/X3kfbrM.png[/img]
+[img]https://i.imgur.com/jextieS.png[/img] [img]https://i.imgur.com/WOKPErr.png[/img] [img]https://i.imgur.com/RJZlgmL.png[/img]
+[img]https://i.imgur.com/B7GWMMl.png[/img]
+
+—————————————————–
+[b][i]Patch[/i][/b]
+—————————————————–
+
+Segue abaixo os patches da tradução, para download. Estão em formato Xdelta 3, e vocês podem aplicá-los através de programas como [url=https://www.romhacking.net/utilities/598/]Xdelta UI[/url] ou similares.
+
+Para a versão branca, o patch deve ser aplicado na rom [b]Mega Man Battle Network 3 - White Version (USA).gba[/b], com header, de crc [b]0BE4410A[/b] / md5sum [b]68817204a691449e655cba739dbb0165[/b]. Já para a versão azul, o patch deve ser aplicado na rom [b]Mega Man Battle Network 3 - Blue Version (USA).gba[/b], com header, de crc [b]C0C780F9[/b] / md5sum [b]6fe31df0144759b34ad666badaacc442[/b]
+
+[url=https://github.com/leomontenegro6/mmbn-3-traducao-ptbr/releases][i]Download[/i] (Github)[/url]
