@@ -107,7 +107,7 @@ script 6 mmbn3 {
 	clearMsg
 	"""
 	fazer as modificações.
-	A Mayl e a srta. Mari
+	A Mayl e a Srta. Mari
 	podem acabar morrendo!
 	"""
 	keyWait

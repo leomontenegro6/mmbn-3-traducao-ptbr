@@ -127,7 +127,7 @@ script 6 mmbn3 {
 	clearMsg
 	"""
 	Só... não conte pra
-	srta. Mari.
+	Srta. Mari.
 	"""
 	keyWait
 	clearMsg
@@ -156,7 +156,7 @@ script 8 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Além disso, a srta. Mari
+	Além disso, a Srta. Mari
 	disse pra você não ficar
 	de bobeira, não foi?
 	"""

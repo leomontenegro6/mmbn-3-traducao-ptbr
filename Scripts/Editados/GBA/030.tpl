@@ -821,7 +821,7 @@ script 88 mmbn3 {
 	"""
 	Temos que ir atrás do
 	BubbleMan pra salvar
-	a Mayl e a srta. Mari!
+	a Mayl e a Srta. Mari!
 	"""
 	keyWait
 	end
@@ -831,7 +831,7 @@ script 89 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	A srta. Mari não falou
+	A Srta. Mari não falou
 	pra gente sobre um lugar
 	que usa compressão?
 	"""
@@ -1336,7 +1336,7 @@ script 151 mmbn3 {
 	msgOpen
 	"""
 	Vamos pra classe!
-	A srta. Mari tá pra
+	A Srta. Mari tá pra
 	chegar!
 	"""
 	keyWait

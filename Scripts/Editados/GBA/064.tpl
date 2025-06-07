@@ -178,7 +178,7 @@ script 60 mmbn3 {
 		mugshot = BlueShirtBoy
 	msgOpen
 	"""
-	A srta. Mari e a turma
+	A Srta. Mari e a turma
 	já saíram pro Grande
 	Prêmio N1!
 	"""

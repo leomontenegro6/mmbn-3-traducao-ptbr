@@ -259,7 +259,7 @@ script 6 mmbn3 {
 	"""
 	Você pode aumentar
 	essa capacidade encon-
-	trando itens "RegUp".
+	trando itens "Padrão+".
 	"""
 	keyWait
 	clearMsg

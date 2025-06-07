@@ -409,7 +409,7 @@ script 23 mmbn3 {
 	clearMsg
 	"""
 	Ficarei aqui cuidando da
-	srta. Mari e da Mayl! É!
+	Srta. Mari e da Mayl! É!
 	"""
 	keyWait
 	end

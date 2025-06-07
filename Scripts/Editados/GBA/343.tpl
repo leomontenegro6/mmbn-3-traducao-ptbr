@@ -100,7 +100,7 @@ script 6 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Que foi, srta. Mari?"
+	"Que foi, Srta. Mari?"
 	keyWait
 	clearMsg
 	jump
@@ -217,7 +217,7 @@ script 15 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Hm? O quê, srta. Mari?
+	Hm? O quê, Srta. Mari?
 	"""
 	keyWait
 	clearMsg
@@ -279,7 +279,7 @@ script 17 mmbn3 {
 	"""
 	Entendo.
 	Me desculpa por te
-	preocupar, srta. Mari.
+	preocupar, Srta. Mari.
 	"""
 	keyWait
 	clearMsg

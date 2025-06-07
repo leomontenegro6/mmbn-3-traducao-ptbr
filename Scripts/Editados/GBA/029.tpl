@@ -813,7 +813,7 @@ script 88 mmbn3 {
 	"""
 	Temos que ir atrás do
 	BubbleMan pra salvar
-	a Mayl e a srta. Mari!
+	a Mayl e a Srta. Mari!
 	"""
 	keyWait
 	end
@@ -823,7 +823,7 @@ script 89 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	A srta. Mari não nos
+	A Srta. Mari não nos
 	falou sobre um lugar que
 	comprime arquivos?
 	"""

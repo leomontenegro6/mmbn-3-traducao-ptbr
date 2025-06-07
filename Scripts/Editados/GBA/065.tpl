@@ -480,7 +480,7 @@ script 120 mmbn3 {
 		mugshot = CapBoy
 	msgOpen
 	"""
-	Lan! A srta. Mari te
+	Lan! A Srta. Mari te
 	contou sobre a
 	condecoração lá?
 	"""

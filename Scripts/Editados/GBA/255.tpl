@@ -36,7 +36,7 @@ script 2 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Por que a srta. Mari tá
+	Por que a Srta. Mari tá
 	aqui?
 	"""
 	keyWait

@@ -273,7 +273,7 @@ script 30 mmbn3 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	Escute à srta. Mari.
+	Escute à Srta. Mari.
 	Tenta evitar o perigo!
 	"""
 	keyWait

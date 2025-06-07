@@ -411,7 +411,7 @@ script 35 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Mas a srta. Mari tava
+	Mas a Srta. Mari tava
 	bem zangada, então,
 	provavelmente não foi...
 	"""
@@ -1118,7 +1118,7 @@ script 161 mmbn3 {
 	mugshotShow
 		mugshot = OrangeShirtBoy
 	msgOpen
-	"Ah, srta. Mari..."
+	"Ah, Srta. Mari..."
 	keyWait
 	end
 }
@@ -1487,7 +1487,7 @@ script 231 mmbn3 {
 }
 script 232 mmbn3 {
 	msgOpen
-	"A mesa da srta. Mari."
+	"A mesa da Srta. Mari."
 	keyWait
 	clearMsg
 	"""

@@ -191,7 +191,7 @@ script 15 mmbn3 {
 	msgOpen
 	"""
 	Por favor, reconsidere,
-	srta. Yai! É perigoso
+	Srta. Yai! É perigoso
 	demais!
 	"""
 	keyWait

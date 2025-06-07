@@ -85,7 +85,7 @@ script 5 mmbn3 {
 	msgOpen
 	"""
 	Continuemos assim,
-	srta. Yai!
+	Srta. Yai!
 	"""
 	keyWait
 	clearMsg
@@ -124,7 +124,7 @@ script 7 mmbn3 {
 	"""
 	Por favor, usem
 	isto para acessar a
-	página da srta. Yai.
+	página da Srta. Yai.
 	"""
 	keyWait
 	clearMsg

@@ -215,7 +215,7 @@ script 14 mmbn3 {
 	"""
 	Você é o sr. MegaMan?
 	Tenho uma mensagem
-	da srta. Roll.
+	da Srta. Roll.
 	"""
 	keyWait
 	clearMsg
@@ -341,7 +341,7 @@ script 21 mmbn3 {
 		mugshot = Glide
 	msgOpen
 	"""
-	A srta. Yai me fornece
+	A Srta. Yai me fornece
 	chips deveras
 	poderosos.
 	"""
@@ -349,7 +349,7 @@ script 21 mmbn3 {
 	clearMsg
 	"""
 	Somente alguém da posi-
-	ção social da srta. Yai
+	ção social da Srta. Yai
 	seria capaz de obtê-los.
 	"""
 	keyWait

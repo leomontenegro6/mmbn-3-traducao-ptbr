@@ -52,7 +52,7 @@ script 2 mmbn3 {
 	msgOpen
 	"""
 	Droga! Enquanto a gente
-	tá aqui, a Mayl e a srta.
+	tá aqui, a Mayl e a Srta.
 	Mari
 	"""
 	keyWait
@@ -145,7 +145,7 @@ script 7 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	A srta. Mari não mencio-
+	A Srta. Mari não mencio-
 	nou um lugar que compri-
 	mia dados todos os dias?
 	"""

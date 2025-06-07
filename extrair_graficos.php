@@ -1,7 +1,7 @@
 <?php
 $graficos = [
     (object)['nome' => 'Fonte textos', 'offset' => '0x679A5C', 'tiles' => '16x18'],
-    (object)['nome' => 'Fonte grande', 'offset' => '0x681ADC', 'tiles' => '16x18'],
+    (object)['nome' => 'Fonte grande', 'offset' => '0x681ADC', 'tiles' => '16x20'],
     (object)['nome' => 'Licenciado pela Nintendo', 'offset' => '0x7FA2C8', 'tiles' => '1x14'],
     (object)['nome' => 'HP Zenny BugFrag', 'offset' => '0x7CB3C4', 'tiles' => '1x19'],
     (object)['nome' => 'New (emails)', 'offset' => '0x7D0C60', 'tiles' => '1x8'],

@@ -578,7 +578,7 @@ script 39 mmbn3 {
 		mugshot = Glide
 	msgOpen
 	"""
-	A srta. Yai ficou felizís-
+	A Srta. Yai ficou felizís-
 	sima. Nosso trabalho
 	árduo deu frutos!
 	"""

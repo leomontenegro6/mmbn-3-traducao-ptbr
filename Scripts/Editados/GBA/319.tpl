@@ -263,7 +263,7 @@ script 14 mmbn3 {
 	msgOpen
 	"""
 	Não fique tão chorosa,
-	srta. Mari. O Dex merece
+	Srta. Mari. O Dex merece
 	uma despedida feliz!
 	"""
 	keyWait

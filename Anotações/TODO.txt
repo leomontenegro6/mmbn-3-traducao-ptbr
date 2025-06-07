@@ -1,4 +1,10 @@
-- Corrigir bug ao trocar chips via cabo link, onde a descrição dos chips tá aparecendo na esquerda ao invés da direita
+- Editar gráfico "MEGA ATIRADOR" para "MEGATIRO", na tela "MegaMan"
+- Corrigir bug no tilemap que deveria mostrar "BATTLE CHIP TRADE" no topo, exibido ao trocar chips via cabo link, após o chip para troca ser escolhido
+- Editar gráfico "Selecting", exibido ao trocar chips via cabo link, após o chip para troca ser escolhido
+- Editar gráfico "OK? Yes No", exibido ao trocar chips via cabo link, após os dois jogadores escolherem os chips para serem trocados
+- Editar gráfico "Book", que aparece num corredor da escola, no começo do jogo.
+- Corrigir bug ao trocar chips via cabo link, onde a descrição dos chips tá aparecendo na esquerda ao invés da direita (apenas versão branca)
+- Cogitar possibilidade de criar versão alternativa, sem a fonte VWF das descrições (por conta da quantidade de bugs para resolver)
 
 REGEX
     Sugestões: .{66,}$

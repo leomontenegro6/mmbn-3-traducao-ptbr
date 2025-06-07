@@ -116,7 +116,7 @@ script 20 mmbn3 {
 	"""
 	Infelizmente, hoje é
 	o dia de estudo da
-	srta. Yai.
+	Srta. Yai.
 	"""
 	keyWait
 	clearMsg

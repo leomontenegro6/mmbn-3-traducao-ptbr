@@ -103,7 +103,7 @@ Changelog
 [b][i]Patch[/i][/b]
 —————————————————–
 
-Segue abaixo os patches da tradução, para download. Estão em formato Xdelta 3, e vocês podem aplicá-los através de programas como [url=https://www.romhacking.net/utilities/598/]Xdelta UI[/url] ou similares.
+Segue abaixo os patches da tradução, para download. Estão em formato IPS, e vocês podem aplicá-los através de programas como [url="https://www.romhacking.net/utilities/1040/"]Floating IPS[/url] ou similares.
 
 Para a versão branca, o patch deve ser aplicado na rom [b]Mega Man Battle Network 3 - White Version (USA).gba[/b], com header, de crc [b]0BE4410A[/b] / md5sum [b]68817204a691449e655cba739dbb0165[/b]. Já para a versão azul, o patch deve ser aplicado na rom [b]Mega Man Battle Network 3 - Blue Version (USA).gba[/b], com header, de crc [b]C0C780F9[/b] / md5sum [b]6fe31df0144759b34ad666badaacc442[/b]
 

@@ -273,7 +273,7 @@ script 12 mmbn3 {
 	clearMsg
 	"""
 	eu acho que ouvi a
-	srta. Mari cantando!
+	Srta. Mari cantando!
 	"""
 	keyWait
 	clearMsg

@@ -416,7 +416,7 @@ script 80 mmbn3 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	A srta. Mari falou de
+	A Srta. Mari falou de
 	uma história aí de 
 	"comprar" dados...? Hã?
 	"""
@@ -440,7 +440,7 @@ script 91 mmbn3 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	A srta. Mari sempre vem
+	A Srta. Mari sempre vem
 	pra escola cedo, né?
 	"""
 	keyWait

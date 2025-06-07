@@ -208,7 +208,7 @@ script 7 mmbn3 {
 script 8 mmbn3 {
 	mugshotHide
 	msgOpen
-	"Tchau, srta. Mari!"
+	"Tchau, Srta. Mari!"
 	keyWait
 	end
 }

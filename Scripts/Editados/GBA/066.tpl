@@ -29,7 +29,7 @@ script 20 mmbn3 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	A srta. Mari fica tão
+	A Srta. Mari fica tão
 	linda quando está
 	zangada...
 	"""
@@ -242,7 +242,7 @@ script 50 mmbn3 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	A srta. Mari disse que
+	A Srta. Mari disse que
 	ia ver uma Lava-Bolha...
 	"""
 	keyWait
@@ -260,7 +260,7 @@ script 55 mmbn3 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	Ah, então, a srta. Mari
+	Ah, então, a Srta. Mari
 	está bem! Isso é tão
 	bom de ouvir!
 	"""
@@ -272,7 +272,7 @@ script 60 mmbn3 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	Se a srta. Mari vai para
+	Se a Srta. Mari vai para
 	o Grande Prêmio N1,
 	talvez eu também deva...
 	"""

@@ -4,7 +4,7 @@ script 0 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"A srta. Mari chegou!"
+	"A Srta. Mari chegou!"
 	keyWait
 	end
 }
@@ -69,7 +69,7 @@ script 5 mmbn3 {
 	msgOpen
 	"""
 	O Dex tá com algum
-	problema, srta. Mari?
+	problema, Srta. Mari?
 	"""
 	keyWait
 	clearMsg
@@ -80,7 +80,7 @@ script 6 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"O que rolou, srta. Mari?"
+	"O que rolou, Srta. Mari?"
 	keyWait
 	clearMsg
 	jump

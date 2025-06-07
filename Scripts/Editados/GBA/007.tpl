@@ -150,11 +150,11 @@ script 12 mmbn3s {
 	end
 }
 script 45 mmbn3s {
-	"DELEÇÃO DUPLA!"
+	"DELEÇÃO DUPLA"
 	end
 }
 script 46 mmbn3s {
-	"DELEÇÃO TRIPLA!"
+	"DELEÇÃO TRIPLA"
 	end
 }
 script 47 mmbn3s {

@@ -517,7 +517,7 @@ script 45 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	A srta. Mari e a Mayl
+	A Srta. Mari e a Mayl
 	já foram pros assentos
 	delas!
 	"""

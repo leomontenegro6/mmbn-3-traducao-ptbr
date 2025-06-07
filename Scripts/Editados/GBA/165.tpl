@@ -563,7 +563,7 @@ script 14 mmbn3 {
 	"""
 	As missões não foram
 	nada desafiadoras para
-	a srta. Yai.
+	a Srta. Yai.
 	"""
 	keyWait
 	clearMsg

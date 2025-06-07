@@ -1,11 +1,11 @@
 @size 27
 
 script 0 mmbn3s {
-	"Pasta1"
+	"[91][92][93][94]1"
 	end
 }
 script 1 mmbn3s {
-	"Pasta2"
+	"[91][92][93][94]2"
 	end
 }
 script 2 mmbn3s {
@@ -45,11 +45,11 @@ script 10 mmbn3s {
 	end
 }
 script 16 mmbn3s {
-	"Pasta1"
+	"[91][92][93][94]1"
 	end
 }
 script 17 mmbn3s {
-	"Pasta2"
+	"[91][92][93][94]2"
 	end
 }
 script 18 mmbn3s {

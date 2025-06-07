@@ -368,7 +368,7 @@ script 22 mmbn3 {
 	msgOpen
 	"""
 	O que a senhorita diz,
-	srta. Yai?
+	Srta. Yai?
 	"""
 	keyWait
 	clearMsg

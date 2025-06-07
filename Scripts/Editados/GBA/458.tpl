@@ -242,7 +242,7 @@ script 6 mmbn3 {
 	end
 }
 script 11 mmbn3s {
-	"Mchila"
+	"Moch[il]a"
 	end
 }
 script 13 mmbn3 {
@@ -2910,8 +2910,9 @@ script 139 mmbn3 {
 	color
 		palette = 3
 	"""
-	Vocês têm que trocar
-	alguma coisa!
+	Vocês têm que
+	trocar alguma
+	coisa!
 	"""
 	keyWait
 	msgOpenInvisible
@@ -2937,8 +2938,9 @@ script 140 mmbn3 {
 	color
 		palette = 3
 	"""
-	Vocês têm que trocar
-	alguma coisa!
+	Vocês têm que
+	trocar alguma
+	coisa!
 	"""
 	keyWait
 	waitHold
