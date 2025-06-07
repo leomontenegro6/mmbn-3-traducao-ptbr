@@ -125,6 +125,10 @@
 .org 0x087DD30C
     .incbin "Graficos/Editados/Move Remove.gba"
 
+; Gráficos da tela de troca de chips via cabo link.
+.org 0x087E4DAC
+    .incbin "Graficos/Editados/Selecting.gba"
+
 ; Gráfico de "Time Remain" e "Correct", de um minigame de apertar botões.
 .org 0x08440444
     .incbin "Graficos/Editados/Time Correct Remain.gba"
