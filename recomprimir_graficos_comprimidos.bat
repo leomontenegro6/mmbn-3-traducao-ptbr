@@ -30,6 +30,11 @@ del ".\Graficos\Recomprimidos\Game Over.gba"
 copy ".\Graficos\Editados\Game Over.gba" ".\Graficos\Recomprimidos\"
 .\Ferramentas\lzss.exe -evn ".\Graficos\Recomprimidos\Game Over.gba"
 
+echo Nomes da tela de troca de chips
+del ".\Graficos\Recomprimidos\Nomes tela troca chips.gba"
+copy ".\Graficos\Editados\Nomes tela troca chips.gba" ".\Graficos\Recomprimidos\"
+.\Ferramentas\lzss.exe -evn ".\Graficos\Recomprimidos\Nomes tela troca chips.gba"
+
 echo Graficos de backgrounds
 cd ".\Ferramentas\bg-graphic-unpacker\"
 call remontar.bat

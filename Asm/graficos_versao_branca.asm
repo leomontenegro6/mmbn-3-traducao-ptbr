@@ -83,8 +83,8 @@
     .stringn "TROCA-CHIPS"
 .org 0x087E4260
     .stringn "TROCA DE CHIPS   "
-;.org 0x087E4900
-;    .stringn "TROCA DE CHIPS   "
+.org 0x087E4900
+    .stringn "TROCA DE CHIPS   "
 .org 0x087E3DB0
     .stringn "TROCA DE PROGRAMAS"
 
@@ -116,8 +116,8 @@
     .stringn "TROCA-CHIPS"
 .org 0x087E429C
     .stringn "TROCA DE CHIPS   "
-;.org 0x087E493C
-;    .stringn "TROCA DE CHIPS   "
+.org 0x087E493C
+    .stringn "TROCA DE CHIPS   "
 .org 0x087E3DEC
     .stringn "TROCA DE PROGRAMAS"
 
@@ -339,6 +339,10 @@ BattleXStartOams:
     .dw logo_tela_titulo
 .org 0x08022630
     .dw nomes_tela_titulo
+.org 0x080339F8
+    .dw nomes_tela_troca_chips
+.org 0x08033A00
+    .dw nomes_tela_troca_chips
 .org 0x08043850
     .dw telas_foruns
 .org 0x0802515c
@@ -409,6 +413,10 @@ logo_tela_titulo:
 
 nomes_tela_titulo:
     .incbin "Graficos/Recomprimidos/Nomes tela-titulo versao branca.gba"
+    .align
+
+nomes_tela_troca_chips:
+    .incbin "Graficos/Recomprimidos/Nomes tela troca chips.gba"
     .align
 
 telas_foruns:
