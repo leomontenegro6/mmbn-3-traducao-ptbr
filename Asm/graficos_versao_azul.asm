@@ -357,6 +357,8 @@ BattleXStartOams:
     .dw sala_aula_cleaners1
 .org 0x080250D8
     .dw cidade_acdc_higsbys
+.org 0x08024D5C
+    .dw cidade_acdc_higsbys_close
 .org 0x08025138
     .dw loja_higsbys
 .org 0x080250E4
@@ -439,6 +441,10 @@ sala_aula_cleaners1:
 
 cidade_acdc_higsbys:
     .incbin "Graficos/Recomprimidos/Cidade ACDC - Higsbys.gba"
+    .align
+
+cidade_acdc_higsbys_close:
+    .incbin "Graficos/Recomprimidos/Cidade ACDC - Higsbys Placa Close.gba"
     .align
 
 loja_higsbys:

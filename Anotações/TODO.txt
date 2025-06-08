@@ -1,4 +1,11 @@
-- Corrigir bug ao trocar chips via cabo link, onde a descrição dos chips tá aparecendo na esquerda ao invés da direita (apenas versão branca)
+- Corrigir bug na tela de "Quadro de Pedidos", onde ao aceitar a missão, o cursor do "Sim" fica por trás da janela, ficando quase invisível
+- Corrigir bug nos troca-chips, onde fica aparecendo a descrição dos chips no meio do diálogo comum.
+- Corrigir bug nas lojas de venda de chips, onde ao apertar o R pra ver a descrição dos chips, a descrição não aparece.
+- Corrigir bug menor na tela MegaMan, onde ao ter liberado CustNavi antes de ter um estilo, o cursor fica fora do lugar
+- Corrigir bug menor na seta esquerda gráfico "ADVANCE", mostrado durante os turnos ao usar um programa avançado
+- Corrigir bugs ao trocar chips via cabo link:
+  - A descrição dos chips tá aparecendo na esquerda ao invés da direita
+  - Após escolher os chips pra trocar, as descrições deles podem aparecer bugadas às vezes
 - Cogitar possibilidade de criar versão alternativa, sem a fonte VWF das descrições (por conta da quantidade de bugs para resolver)
 
 REGEX

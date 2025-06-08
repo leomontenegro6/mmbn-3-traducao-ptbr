@@ -35,6 +35,11 @@ del ".\Graficos\Recomprimidos\Nomes tela troca chips.gba"
 copy ".\Graficos\Editados\Nomes tela troca chips.gba" ".\Graficos\Recomprimidos\"
 .\Ferramentas\lzss.exe -evn ".\Graficos\Recomprimidos\Nomes tela troca chips.gba"
 
+echo Placa 'Close' da loja do Higsby
+del ".\Graficos\Recomprimidos\Cidade ACDC - Higsbys Placa Close.gba"
+copy ".\Graficos\Editados\Cidade ACDC - Higsbys Placa Close.gba" ".\Graficos\Recomprimidos\"
+.\Ferramentas\lzss.exe -evn ".\Graficos\Recomprimidos\Cidade ACDC - Higsbys Placa Close.gba"
+
 echo Graficos de backgrounds
 cd ".\Ferramentas\bg-graphic-unpacker\"
 call remontar.bat
