@@ -36,6 +36,11 @@
 .org 0x087E705A
     .incbin "Graficos/Editados/Sort (ID ABC etc) (tm).gba"
 
+; Editando paleta da fonte VWF ao visualizar e-mails, na tela de E-mail.
+; Feito para corrigir a cor da sombra do texto, pra ficar igual é na versão Azul.
+.org 0x08681A7C
+    .incbin "Graficos/Editados/Menu Email (pal).gba"
+
 ; Editando tilemap do "DE PARA", na tela de E-mail
 .org 0x087CF47A
     .stringn 0x24,0x40,0x25,0x40,0x12,0x40,0x12,0x40
