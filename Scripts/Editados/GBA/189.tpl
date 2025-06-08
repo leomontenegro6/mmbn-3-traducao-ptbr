@@ -79,12 +79,7 @@ script 4 mmbn3 {
 	"."
 	waitSkip
 		frames = 30
-	"""
-	
-	vão limpar
-	as privadas semana
-	que vem!
-	"""
+	" vão limpar\nas privadas semana\nque vem!"
 	keyWait
 	clearMsg
 	jump
