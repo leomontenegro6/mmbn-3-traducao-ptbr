@@ -1,4 +1,3 @@
-- Editar gráfico "Book", que aparece num corredor da escola, no começo do jogo.
 - Corrigir bug ao trocar chips via cabo link, onde a descrição dos chips tá aparecendo na esquerda ao invés da direita (apenas versão branca)
 - Cogitar possibilidade de criar versão alternativa, sem a fonte VWF das descrições (por conta da quantidade de bugs para resolver)
 

@@ -1,4 +1,8 @@
 @echo off
+:: Remontando gráfico de "Book", num corredor da escola de ACDC, e copiando ele para a pasta de gráficos recomprimidos
+unpacker.exe -is -p 25174
+copy ".\data\img-025174.bin" "..\..\Graficos\Recomprimidos\Corredor Escola - Book.gba"
+
 :: Remontando gráfico do "Cleaners1", e copiando ele para a pasta de gráficos recomprimidos
 unpacker.exe -is -p 2515c
 copy ".\data\img-02515c.bin" "..\..\Graficos\Recomprimidos\Sala Aula - Cleaners1.gba"

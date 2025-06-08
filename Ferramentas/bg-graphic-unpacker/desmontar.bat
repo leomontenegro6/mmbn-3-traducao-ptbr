@@ -1,4 +1,7 @@
 @echo off
+:: Desempacotando gráfico de "Book", num corredor da escola de ACDC
+:: unpacker.exe -ds -f "../../Mega Man Battle Network 3 - White Version (USA).gba" -p 25174
+
 :: Desempacotando gráfico do "Cleaners1"
 ::unpacker.exe -ds -f "../../Mega Man Battle Network 3 - White Version (USA).gba" -p 2515c
 

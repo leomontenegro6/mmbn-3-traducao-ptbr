@@ -345,6 +345,12 @@ BattleXStartOams:
     .dw nomes_tela_troca_chips
 .org 0x08043838
     .dw telas_foruns
+.org 0x0802515c
+    .dw corredor_escola_book
+.org 0x08025168
+    .dw corredor_escola_book
+.org 0x0802518c
+    .dw corredor_escola_book
 .org 0x08025144
     .dw sala_aula_cleaners1
 .org 0x08025150
@@ -421,6 +427,10 @@ nomes_tela_troca_chips:
 
 telas_foruns:
     .incbin "Graficos/Recomprimidos/Telas Foruns.gba"
+    .align
+
+corredor_escola_book:
+    .incbin "Graficos/Recomprimidos/Corredor Escola - Book.gba"
     .align
 
 sala_aula_cleaners1:
