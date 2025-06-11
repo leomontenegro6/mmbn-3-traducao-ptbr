@@ -6,6 +6,12 @@
 
 .open "Mega Man Battle Network 3 - Versao " + output + " (BR).gba", 0x08000000
 
+	;remanejar janela de confirmação de pedidos, para o cursor não desaparecer por trás da camada
+	.org DESVIO10
+        mov r1, 0x18
+        .skip 8
+        mov r1, 0x18
+
 	.expfunc getFuncPointer(v), extern_vwf + readu32("Graficos/Editados/vwf_export.bin", v)
 	
 	;desabilita a escrita dos tilemaps com a engine principal

@@ -138,6 +138,14 @@
 .org 0x08440444
     .incbin "Graficos/Editados/Time Correct Remain.gba"
 
+; Gráfico de "Total" e "Bet", de um minigame de apostas.
+.org 0x08441800
+    .incbin "Graficos/Editados/Bet Total.gba"
+
+; Gráfico de "Current Ranking", de um minigame com o BowlMan perto do fim do jogo
+.org 0x08704240
+    .incbin "Graficos/Editados/Current Ranking.gba"
+
 ; Tela de seleção de chips, entre turnos de batalhas.
 .org 0x086AFB68
     .incbin "Graficos/Editados/Chip Select.gba"

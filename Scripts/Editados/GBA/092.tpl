@@ -635,6 +635,8 @@ script 8 mmbn3 {
 		]
 	soundPlay
 		track = 231
+	keyWait
+	clearMsg
 	waitSkip
 		frames = 20
 	"Correto! Próxima!"
@@ -688,6 +690,8 @@ script 8 mmbn3 {
 		]
 	soundPlay
 		track = 231
+	keyWait
+	clearMsg
 	waitSkip
 		frames = 20
 	"Correto! E, a seguir..."
@@ -741,6 +745,8 @@ script 8 mmbn3 {
 		]
 	soundPlay
 		track = 231
+	keyWait
+	clearMsg
 	waitSkip
 		frames = 20
 	"Muito bem! Mais uma!"
@@ -794,6 +800,8 @@ script 8 mmbn3 {
 		]
 	soundPlay
 		track = 231
+	keyWait
+	clearMsg
 	waitSkip
 		frames = 20
 	"E, por fim..."
@@ -854,6 +862,8 @@ script 8 mmbn3 {
 		]
 	soundPlay
 		track = 231
+	keyWait
+	clearMsg
 	waitSkip
 		frames = 20
 	"""

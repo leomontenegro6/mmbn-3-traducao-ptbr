@@ -15,7 +15,7 @@ $graficos = [
     (object)['nome' => 'Trap3', 'offset' => '0x336788', 'tiles' => '2x4'],
     (object)['nome' => 'Trap4', 'offset' => '0x336A0C', 'tiles' => '2x4'],
     (object)['nome' => 'Time Correct Remain', 'offset' => '0x440444', 'tiles' => '5x16'],
-    (object)['nome' => 'Bet Total', 'offset' => '0x441804', 'tiles' => '5x16'],
+    (object)['nome' => 'Bet Total', 'offset' => '0x441800', 'tiles' => '5x16'],
     (object)['nome' => 'New (foruns)', 'offset' => '0x684A5C', 'tiles' => '1x8'],
     (object)['nome' => 'Fonte batalhas', 'offset' => '0x6A52C8', 'tiles' => '31x2'],
     (object)['nome' => 'Advance', 'offset' => '0x6A5AC8', 'tiles' => '1x20'],

@@ -127,8 +127,9 @@ script 10 mmbn3 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	Eu ainda não acabei
-	com você! Volte aqui!
+	Você não pode ser
+	deletado até termos
+	nossa revanche!
 	"""
 	keyWait
 	clearMsg
