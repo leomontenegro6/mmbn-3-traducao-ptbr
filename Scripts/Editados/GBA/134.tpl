@@ -490,11 +490,7 @@ script 36 mmbn3 {
 	printEnemyName
 		buffer = 0
 		enemy = 25
-	"""
-	
-	balançam quando se
-	toca neles.
-	"""
+	"\nbalançam quando se\ntoca neles."
 	keyWait
 	end
 }
@@ -504,11 +500,7 @@ script 37 mmbn3 {
 	printEnemyName
 		buffer = 0
 		enemy = 25
-	"""
-	
-	de cor diferente têm
-	poderes ocultos?
-	"""
+	"\nde cor diferente têm\npoderes ocultos?"
 	keyWait
 	end
 }

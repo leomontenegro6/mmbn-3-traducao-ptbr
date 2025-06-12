@@ -676,7 +676,7 @@ script 225 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Sim "
+	" Sim     "
 	option
 		left = 0
 		right = 0
@@ -811,7 +811,7 @@ script 232 mmbn3 {
 		down = 2
 	space
 		count = 2
-	"3 "
+	" 3 "
 	option
 		left = 0
 		right = 0
@@ -819,7 +819,7 @@ script 232 mmbn3 {
 		down = 2
 	space
 		count = 2
-	"1\n"
+	"    1\n"
 	option
 		left = 1
 		right = 1
@@ -827,7 +827,7 @@ script 232 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Ficar"
+	" Ficar"
 	select
 		default = 0
 		BSeparate = false

@@ -275,11 +275,7 @@ script 24 mmbn3 {
 	printEnemyName
 		buffer = 0
 		enemy = 73
-	"""
-	
-	estão morbidamente
-	parados.
-	"""
+	" estão\nmorbidamente parados."
 	keyWait
 	clearMsg
 	"""
@@ -296,11 +292,7 @@ script 25 mmbn3 {
 	printEnemyName
 		buffer = 0
 		enemy = 74
-	"""
-	
-	dão mais medo que os
-	outros.
-	"""
+	" dão\nmais medo que\nos outros."
 	keyWait
 	end
 }

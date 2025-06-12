@@ -239,11 +239,7 @@ script 13 mmbn3 {
 	printEnemyName
 		buffer = 0
 		enemy = 129
-	"""
-	
-	se infiltraram em vários
-	sistemas do Exército.
-	"""
+	"\nse infiltraram em vários\nsistemas do Exército."
 	keyWait
 	clearMsg
 	"""

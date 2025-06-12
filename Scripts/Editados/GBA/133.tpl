@@ -407,10 +407,7 @@ script 30 mmbn3 {
 	printEnemyName
 		buffer = 0
 		enemy = 13
-	"""
-	
-	baixam suas cabeças.
-	"""
+	"\nbaixam suas cabeças."
 	keyWait
 	end
 }
@@ -486,11 +483,7 @@ script 37 mmbn3 {
 	printEnemyName
 		buffer = 0
 		enemy = 33
-	"""
-	
-	parecem todos muito
-	orgulhosos.
-	"""
+	"\nparecem todos muito\norgulhosos."
 	keyWait
 	end
 }

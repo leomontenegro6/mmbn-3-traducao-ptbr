@@ -330,13 +330,6 @@ script 17 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Não pode firmar novo
-	recorde com o Modo
-	Buster Max ligado.
-	"""
-	keyWait
-	clearMsg
-	"""
 	Encarar o
 	desafio?
 	

@@ -422,11 +422,7 @@ script 31 mmbn3 {
 	printEnemyName
 		buffer = 0
 		enemy = 1
-	"""
-	
-	parecem gostar de
-	andar arrumados.
-	"""
+	"\nparecem gostar de\nandar arrumados."
 	keyWait
 	end
 }
@@ -436,11 +432,7 @@ script 32 mmbn3 {
 	printEnemyName
 		buffer = 0
 		enemy = 1
-	"""
-	
-	estão limpando seus
-	machados.
-	"""
+	"\nestão limpando seus\nmachados."
 	keyWait
 	end
 }
@@ -483,11 +475,7 @@ script 35 mmbn3 {
 	printEnemyName
 		buffer = 0
 		enemy = 38
-	"""
-	
-	está brincando com as
-	próprias orelhas.
-	"""
+	"\nestá brincando com as\npróprias orelhas."
 	keyWait
 	end
 }

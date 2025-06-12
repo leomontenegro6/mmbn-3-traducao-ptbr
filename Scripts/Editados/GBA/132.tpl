@@ -411,11 +411,7 @@ script 31 mmbn3 {
 	printEnemyName
 		buffer = 0
 		enemy = 88
-	"""
-	
-	têm olhos levemente
-	marejados.
-	"""
+	"\ntêm olhos levemente\nmarejados."
 	keyWait
 	clearMsg
 	"""
@@ -473,11 +469,7 @@ script 36 mmbn3 {
 	printEnemyName
 		buffer = 0
 		enemy = 93
-	"""
-	
-	inclinam a cabeça,
-	confusos.
-	"""
+	"\ninclinam a cabeça,\nconfusos."
 	keyWait
 	end
 }
