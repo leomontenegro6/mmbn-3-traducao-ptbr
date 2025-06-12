@@ -1495,7 +1495,7 @@ script 36 mmbn3 {
 	"""
 	Se conquistar um Nível
 	de Luta "S" sem usar
-	chips ou o MegaTiro,
+	o MegaTiro,
 	"""
 	keyWait
 	clearMsg

@@ -143,7 +143,7 @@ script 8 mmbn3 {
 	msgOpen
 	"""
 	Vamos lá, MegaMan!
-	Rotina
+	Rotina 
 	"""
 	waitSkip
 		frames = 30

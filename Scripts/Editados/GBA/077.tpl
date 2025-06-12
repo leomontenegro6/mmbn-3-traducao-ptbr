@@ -1368,7 +1368,7 @@ script 202 mmbn3 {
 	clearMsg
 	"""
 	Faz um favorzinho pra
-	este velho e entrega
+	esta velha e entrega
 	este chip aqui pra ele?
 	"""
 	keyWait

@@ -159,7 +159,7 @@ script 9 mmbn3 {
 	clearMsg
 	"""
 	GutsMan!
-	Rotina
+	Rotina 
 	"""
 	waitSkip
 		frames = 30

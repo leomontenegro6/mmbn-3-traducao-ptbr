@@ -838,6 +838,8 @@ script 93 mmbn3 {
 			jump = 94,
 			jump = continue
 		]
+	keyWait
+	clearMsg
 	mugshotShow
 		mugshot = BlackMan
 	"""

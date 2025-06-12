@@ -104,7 +104,7 @@ script 7 mmbn3 {
 	msgOpen
 	"""
 	Grande Prêmio N1!!
-	Rotinas
+	Rotinas 
 	"""
 	waitSkip
 		frames = 30

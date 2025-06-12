@@ -308,7 +308,7 @@ script 18 mmbn3 {
 	clearMsg
 	"""
 	Vamos nessa, MegaMan!
-	Rotina
+	Rotina 
 	"""
 	waitSkip
 		frames = 30
