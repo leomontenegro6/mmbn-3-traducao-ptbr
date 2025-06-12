@@ -40,6 +40,15 @@ Graças a todo esse imenso trabalho em equipe, finalizamos essa tradução e lan
 Atualizações da Tradução
 ------------------
 
+Versão 1.1: 12/06/2025
+ Segundo lançamento.
+ - Corrigido bug que fazia o jogo travar ao fazer uma deleção tripla junto com o chip "CopyDmg"
+ - Corrigido bug menor que, ao aceitar pedidos, o cursor da janela de confirmação ficava quase invisível.
+ - Editados gráficos pendentes da tela de troca de chips.
+ - Editados gráficos extras de cenários, como "Books" na escola e "Close" na loja do Higsby.
+ - Editados gráficos pendentes de minigames de aposta e de ranking.
+ - Efetuadas diversas correções textuais e gráficas menores.
+
 Versão 1.0: 01/06/2025
  Primeiro lançamento.
 
