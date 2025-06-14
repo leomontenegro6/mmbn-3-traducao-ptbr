@@ -160,11 +160,10 @@ script 7 mmbn3 {
 	"."
 	waitSkip
 		frames = 30
-	"."
+	".\n"
 	waitSkip
 		frames = 30
 	"""
-	
 	Bass. Ele disse que um
 	Navi supremo era
 	"""
