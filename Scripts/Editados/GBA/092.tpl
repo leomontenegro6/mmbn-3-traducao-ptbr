@@ -1056,6 +1056,7 @@ script 10 mmbn3 {
 			jump = continue,
 			jump = continue
 		]
+	clearMsg
 	mugshotShow
 		mugshot = BusinessMan
 	"Que pena..."

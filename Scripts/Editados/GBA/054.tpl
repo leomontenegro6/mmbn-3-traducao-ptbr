@@ -805,7 +805,7 @@ script 235 mmbn3 {
 		down = 2
 	space
 		count = 2
-	"          Yoka\n"
+	"       Yoka\n"
 	option
 		left = 1
 		right = 1
@@ -885,7 +885,7 @@ script 238 mmbn3 {
 		down = 3
 	space
 		count = 2
-	"          Yoka\n"
+	"       Yoka\n"
 	option
 		left = 3
 		right = 3
@@ -901,7 +901,7 @@ script 238 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"          Ficar"
+	"       Ficar"
 	select
 		default = 0
 		BSeparate = false

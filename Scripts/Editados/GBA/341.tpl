@@ -21,7 +21,7 @@ script 1 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Douto! O Mamoru vai
+	Doutor! O Mamoru vai
 	ficar bem, né?!
 	"""
 	keyWait

@@ -493,6 +493,9 @@ script 26 mmbn3 {
 			jump = continue,
 			jump = continue
 		]
+	clearMsg
+	mugshotShow
+		mugshot = BusinessMan
 	"""
 	Ah, que pena... Não tem
 	tempo pra minha hiper-
@@ -659,6 +662,7 @@ script 50 mmbn3 {
 			jump = continue,
 			jump = continue
 		]
+	clearMsg
 	mugshotShow
 		mugshot = Scientist
 	"""

@@ -2582,7 +2582,7 @@ script 200 mmbn3 {
 		delay = 0
 	msgOpenQuick
 	"""
-	+30 ao Chip
+	+20 ao Chip
 	Navi selecio-
 	nado antes.
 	"""

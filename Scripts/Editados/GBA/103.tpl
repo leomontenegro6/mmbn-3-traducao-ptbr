@@ -733,7 +733,7 @@ script 223 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Sim "
+	"Sim     "
 	option
 		left = 0
 		right = 0
@@ -808,7 +808,7 @@ script 225 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Sim "
+	"Sim     "
 	option
 		left = 0
 		right = 0

@@ -33,8 +33,8 @@ script 1 mmbn3 {
 	msgOpen
 	"""
 	Então, esta é a
-	Undernet? Não tô
-	vendo nenhum membro da WWW...
+	Undernet? Não tô vendo
+	ninguém da WWW...
 	"""
 	keyWait
 	end

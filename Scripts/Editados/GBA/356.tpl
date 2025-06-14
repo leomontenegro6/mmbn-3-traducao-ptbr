@@ -36,7 +36,7 @@ script 1 mmbn3 {
 		mugshot = Dad
 	msgOpen
 	"""
-	Há provas de que
+	Há sinais de que
 	alguns dados foram
 	alterados...
 	"""

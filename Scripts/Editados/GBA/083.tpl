@@ -133,9 +133,9 @@ script 14 mmbn3 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	Não podemos passar
-	daqui! Está bloqueando
-	o caminho!
+	Não dá pra ir por ali!
+	O elefante tá
+	bloqueando o caminho!
 	"""
 	keyWait
 	end

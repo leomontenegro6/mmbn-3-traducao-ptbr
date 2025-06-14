@@ -115,6 +115,8 @@ script 3 mmbn3 {
 			jump = continue
 		]
 	clearMsg
+	mugshotShow
+		mugshot = PurpleNavi
 	"Boa sorte!"
 	keyWait
 	end

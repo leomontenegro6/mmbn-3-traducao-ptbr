@@ -1814,8 +1814,8 @@ script 89 mmbn3 {
 	color
 		palette = 3
 	"""
-	Não vamos usar isso
-	ainda!
+	Não vamos usar
+	isso ainda!
 	"""
 	keyWait
 	msgOpenInvisible
