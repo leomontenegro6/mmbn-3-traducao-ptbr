@@ -405,7 +405,7 @@ script 22 mmbn3 {
 	"""
 	keyWait
 	clearMsg
-	"Né, MegaMan?1"
+	"Né, MegaMan?!"
 	keyWait
 	clearMsg
 	jump

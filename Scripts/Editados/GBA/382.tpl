@@ -282,7 +282,7 @@ script 16 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	É! Mas... Hm. Sabe, a
+	É! Mas... Hm. Sabe, ela
 	se expressou de um
 	jeito meio estranho...
 	"""

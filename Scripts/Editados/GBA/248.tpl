@@ -61,11 +61,10 @@ script 3 mmbn3 {
 	mugshotShow
 		mugshot = LordWily
 	msgOpen
-	"Riihm...! Cof...!"
+	"Riihm...! Cof...!\n"
 	wait
 		frames = 44
 	"""
-	
 	E, desta vez, estou
 	preparado para tudo!
 	"""

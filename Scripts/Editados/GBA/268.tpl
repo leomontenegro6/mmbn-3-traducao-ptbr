@@ -131,11 +131,11 @@ script 7 mmbn3 {
 	clearMsg
 	"""
 	Vamos nessa, MegaMan!
-	Rotina 
+	Rotina
 	"""
 	waitSkip
 		frames = 30
-	"de batalha...!"
+	" de batalha...!"
 	keyWait
 	clearMsg
 	jump

@@ -319,11 +319,11 @@ script 75 mmbn3s {
 	end
 }
 script 76 mmbn3s {
-	"SpinGrn"
+	"GiraVrde"
 	end
 }
 script 77 mmbn3s {
-	"GiraVrde"
+	"GiraLrnj"
 	end
 }
 script 78 mmbn3s {

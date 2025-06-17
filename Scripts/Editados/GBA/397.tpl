@@ -79,7 +79,7 @@ script 4 mmbn3 {
 	"""
 	waitSkip
 		frames = 30
-	"batalha...!"
+	" batalha...!"
 	keyWait
 	clearMsg
 	jump

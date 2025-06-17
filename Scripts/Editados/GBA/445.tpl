@@ -2203,11 +2203,10 @@ script 116 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"MegaMan,"
+	"MegaMan,\n"
 	waitSkip
 		frames = 60
 	"""
-	
 	amanhã, eu vou
 	começar o sexto ano!
 	"""
