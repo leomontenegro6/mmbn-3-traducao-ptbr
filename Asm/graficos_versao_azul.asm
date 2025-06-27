@@ -216,6 +216,10 @@ FlagDeletedOams:
 BattleXStartOams:
     .stringn "< INICIAR BATALHA   ! >",0xff
 
+;; Corrigido bug menor no gráfico "ADVANCE", que aparecia com um tile transparente na seta esquerda
+.org 0x080108CB
+    .stringn 0x30
+
 ;; Ajustando quantidade de OAMs exibida por frase, assim aumentando/reduzindo a quantidade de caracteres
 .org 0x080107C4 ;; Battle Start, aumentar 3 OAMs (de 0x11 pra 0x14)
     .stringn 0x14
