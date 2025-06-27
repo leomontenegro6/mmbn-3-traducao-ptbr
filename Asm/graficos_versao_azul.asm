@@ -125,6 +125,12 @@
 .org 0x087DCEFC
     .incbin "Graficos/Editados/Move Remove.gba"
 
+; Gráficos de nomes de subchips, exibidos após serem usados.
+.org 0x087E5994
+    .incbin "Graficos/Editados/SneakRun Untrap LocEnemy On.gba"
+.org 0x087E5E94
+    .incbin "Graficos/Editados/SneakRun Untrap LocEnemy On (tm).gba"
+
 ; Gráficos da tela de troca de chips via cabo link.
 .org 0x087E499C
     .incbin "Graficos/Editados/Selecting.gba"

@@ -1,4 +1,3 @@
-- Editar gráfico "Untrap", exibido ao usar subchips.
 - Editar gráfico "Pw", pra trocar por "Senha" ou similar.
 - Corrigir bug nos troca-chips, onde fica aparecendo a descrição dos chips no meio do diálogo comum.
 - Corrigir bug nas lojas de venda de chips, onde ao apertar o R pra ver a descrição dos chips, a descrição não aparece.
