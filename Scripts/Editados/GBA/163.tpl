@@ -559,7 +559,7 @@ script 42 mmbn3 {
 	"""
 	Se sobreviver a todas
 	as três, terá concluído
-	a segunda rodada.
+	a rodada.
 	"""
 	keyWait
 	clearMsg

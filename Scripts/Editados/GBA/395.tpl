@@ -104,7 +104,7 @@ script 6 mmbn3 {
 	"""
 	A Undernet é uma
 	arma com o propósito
-	de contar Alpha...
+	de conter Alpha...
 	"""
 	keyWait
 	clearMsg

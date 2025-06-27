@@ -41,8 +41,8 @@ script 3 mmbn3 {
 		mugshot = Dad
 	msgOpen
 	"""
-	Lan, eu não só ficar
-	deitado na cama.
+	Lan, eu não vou só
+	ficar deitado na cama.
 	"""
 	keyWait
 	clearMsg

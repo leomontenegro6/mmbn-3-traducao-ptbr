@@ -228,7 +228,7 @@ script 17 mmbn3 {
 	mugshotShow
 		mugshot = Yai
 	msgOpen
-	"(Fica calminho... Calminho...)"
+	"(Fica calminha... Calminha...)"
 	keyWait
 	clearMsg
 	jump

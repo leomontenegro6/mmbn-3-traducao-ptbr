@@ -213,7 +213,7 @@ script 14 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	Você é o sr. MegaMan?
+	Você é o Sr. MegaMan?
 	Tenho uma mensagem
 	da Srta. Roll.
 	"""
@@ -755,8 +755,8 @@ script 73 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Hã? Você "bem que que-
-	ria ter esse problema"?
+	Hã? Você "bem que queria
+	ter esse problema"?
 	Aaa ha ha ha ha!
 	"""
 	keyWait

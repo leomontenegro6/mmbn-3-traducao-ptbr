@@ -667,7 +667,7 @@ script 101 mmbn3 {
 	msgOpen
 	"""
 	Não acredito nisso!
-	O récorde de vitórias
+	O recorde de vitórias
 	dele está absurdo!
 	"""
 	keyWait
@@ -1113,7 +1113,7 @@ script 224 mmbn3 {
 script 225 mmbn3 {
 	msgOpen
 	"""
-	A copo na mesa contém
+	O copo na mesa contém
 	chá frio.
 	"""
 	keyWait

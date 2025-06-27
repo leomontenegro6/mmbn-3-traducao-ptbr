@@ -1536,7 +1536,7 @@ script 148 mmbn3 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	Sou o capitão da oitava
+	Sou a capitã da oitava
 	divisão de tanques de
 	Ni-Hon!
 	"""

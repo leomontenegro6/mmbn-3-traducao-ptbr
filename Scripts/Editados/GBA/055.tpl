@@ -1117,7 +1117,7 @@ script 229 mmbn3 {
 script 230 mmbn3 {
 	msgOpen
 	"""
-	O doce cheio de
+	O doce cheiro de
 	chocolate quase te
 	leva à loucura.
 	"""

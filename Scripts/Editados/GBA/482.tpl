@@ -3789,7 +3789,7 @@ script 165 mmbn3 {
 	clearMsg
 	"""
 	E como VOCÊ tá,
-	meu cavaleiros dos
+	meu cavaleiro dos
 	olhos faiscantes?
 	"""
 	keyWait

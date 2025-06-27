@@ -578,7 +578,7 @@ script 39 mmbn3 {
 		mugshot = Glide
 	msgOpen
 	"""
-	A Srta. Yai ficou felizís-
+	A Srta. Yai ficou felicís-
 	sima. Nosso trabalho
 	árduo deu frutos!
 	"""
@@ -1354,8 +1354,8 @@ script 190 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Ele é um teimoso, e insis-
-	te em sempre usar esta
+	Ele é um teimoso, e insiste
+	em sempre usar esta
 	ferramenta pessoal.
 	"""
 	keyWait

@@ -992,8 +992,8 @@ script 226 mmbn3 {
 		jumpIfOutOfRange = continue
 	msgOpen
 	"""
-	O flamingo e os hipopóta-
-	mos relaxam juntos.
+	Os flamingos e os hipopó-
+	tamos relaxam juntos.
 	Uma silenciosa alegria.
 	"""
 	keyWait

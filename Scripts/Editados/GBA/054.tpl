@@ -291,7 +291,7 @@ script 60 mmbn3 {
 	"""
 	de pessoas viajando
 	para lá, mas, não: esse
-	número bateu o récorde!
+	número bateu o recorde!
 	"""
 	keyWait
 	end

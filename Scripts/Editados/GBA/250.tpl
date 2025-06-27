@@ -118,13 +118,11 @@ script 5 mmbn3 {
 	"n"
 	waitSkip
 		frames = 20
-	"!"
+	"!\n"
 	waitSkip
 		frames = 20
 	"""
-	
-	Quem vai virar
-	formiga?
+	Quem vai virar formiga?
 	"""
 	keyWait
 	clearMsg

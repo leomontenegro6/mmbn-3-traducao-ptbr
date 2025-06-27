@@ -235,7 +235,7 @@ script 14 mmbn3 {
 	"""
 	o Navi que completou a
 	preliminar final em tempo
-	récorde!
+	recorde!
 	"""
 	keyWait
 	clearMsg

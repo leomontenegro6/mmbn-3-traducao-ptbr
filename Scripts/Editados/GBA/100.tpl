@@ -330,7 +330,7 @@ script 40 mmbn3 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	O culpa não é da
+	A culpa não é da
 	Árvore da Vida...
 	"""
 	keyWait

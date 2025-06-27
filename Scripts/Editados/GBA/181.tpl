@@ -102,7 +102,7 @@ script 190 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Então, ente me vencer!
+	Então, tente me vencer!
 	Se o fizer, pode ficar
 	com isto!
 	"""

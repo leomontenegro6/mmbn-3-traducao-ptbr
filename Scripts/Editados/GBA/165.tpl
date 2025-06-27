@@ -1208,7 +1208,7 @@ script 82 mmbn3 {
 	"""
 	Eu comprei cacarecos
 	demais, e, agora, estou
-	lisa. Bom, economizar...
+	liso. Bom, economizar...
 	"""
 	keyWait
 	end

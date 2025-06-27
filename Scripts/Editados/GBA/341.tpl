@@ -40,7 +40,7 @@ script 2 mmbn3 {
 	clearMsg
 	"""
 	Mas, agora,
-	precisaremos espera
+	precisaremos esperar
 	até ele acordar...
 	"""
 	keyWait
@@ -50,7 +50,7 @@ script 3 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Não, não, não…"
+	"Não, não, não..."
 	keyWait
 	clearMsg
 	jump

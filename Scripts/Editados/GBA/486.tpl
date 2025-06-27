@@ -366,8 +366,8 @@ script 6 mmbn3 {
 	clearMsg
 	"""
 	Ele permite que você
-	customize as habilida-
-	des do seu Navi!
+	customize as habilidades
+	do seu Navi!
 	"""
 	keyWait
 	clearMsg

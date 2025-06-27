@@ -803,7 +803,7 @@ script 95 mmbn3 {
 	clearMsg
 	"""
 	Quase bateu um novo
-	récorde de atrasos!
+	recorde de atrasos!
 	"""
 	keyWait
 	flagSet

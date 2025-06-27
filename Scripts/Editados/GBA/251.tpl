@@ -41,7 +41,7 @@ script 2 mmbn3 {
 	"""
 	uma... Aé-tchin!!
 	Peguei uma gripe, é.
-	*Snif*!
+	Snif!
 	"""
 	keyWait
 	clearMsg
@@ -243,7 +243,7 @@ script 11 mmbn3 {
 	msgOpen
 	"""
 	Entendido!
-	Eu vou pra  lá agora
+	Eu vou pra lá agora
 	mesmo, é!
 	"""
 	keyWait

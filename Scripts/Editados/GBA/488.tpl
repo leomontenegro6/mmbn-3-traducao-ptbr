@@ -102,7 +102,10 @@ script 2 mmbn3 {
 		top = 100
 	msgOpenInvisible
 		unused = 12
-	"O segredo pra habilida-\nde do "
+	"""
+	O segredo pra habilidade
+	do 
+	"""
 	printEnemyName
 		buffer = 0
 		enemy = 103
@@ -135,8 +138,8 @@ script 2 mmbn3 {
 	clearMsg
 	"""
 	melhores! Você pode
-	usar um chip pra tro-
-	car o tipo do quadro,
+	usar um chip pra trocar
+	o tipo do quadro,
 	"""
 	keyWait
 	clearMsg
@@ -257,9 +260,9 @@ script 5 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	Estes dias, eu esbar-
-	rei em um vírus doidão
-	que anda pelo subsolo,
+	Estes dias, eu esbarrei
+	em um vírus doidão que
+	anda pelo subsolo,
 	"""
 	keyWait
 	clearMsg

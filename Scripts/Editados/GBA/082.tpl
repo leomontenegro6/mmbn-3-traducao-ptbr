@@ -47,7 +47,7 @@ script 12 mmbn3 {
 	msgOpen
 	"""
 	Uma girafa!
-	Oi, sra. girafa!
+	Oi, Sra. girafa!
 	Que pescoção, o seu!
 	"""
 	keyWait
@@ -1614,7 +1614,7 @@ script 228 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Elas consumem alimentos
+	Elas consomem alimentos
 	de lugares altos usando
 	suas longas línguas.
 	"""

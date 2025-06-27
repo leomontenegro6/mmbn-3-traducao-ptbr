@@ -243,7 +243,7 @@ script 14 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Mas com a aura, o
+	Mesmo com a aura, o
 	impacto foi tão grande...
 	"""
 	keyWait

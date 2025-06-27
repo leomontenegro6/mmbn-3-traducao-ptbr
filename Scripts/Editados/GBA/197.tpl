@@ -136,7 +136,7 @@ script 9 mmbn3 {
 		mugshot = Dex
 	msgOpen
 	"""
-	V-V-Vamos embora
+	V-v-vamos embora
 	l-l-logo!
 	"""
 	keyWait

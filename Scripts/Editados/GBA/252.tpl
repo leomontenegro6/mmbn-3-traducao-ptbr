@@ -138,7 +138,7 @@ script 4 mmbn3 {
 	"""
 	Aguardamos a sua
 	chegada o mais rápido
-	possível."!
+	possível."
 	"""
 	flagAddMail
 		flag = 4358

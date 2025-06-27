@@ -7,7 +7,7 @@ script 0 mmbn3s {
 script 1 mmbn3 {
 	textSpeed
 		delay = 0
-	"dado"
+	"Dado"
 	textSpeed
 		delay = 2
 	wait
@@ -18,7 +18,7 @@ script 1 mmbn3 {
 script 2 mmbn3 {
 	textSpeed
 		delay = 0
-	"dado"
+	"Dado"
 	textSpeed
 		delay = 2
 	wait

@@ -825,7 +825,7 @@ script 53 mmbn3 {
 	mugshotShow
 		mugshot = SciLabMan
 	msgOpen
-	"Precisa da minha \""
+	"Quer esta \""
 	printFolderName
 		buffer = 0
 		entry = 3
@@ -910,8 +910,9 @@ script 54 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Um pasta única lhe dará
-	uma vantagem única.
+	Uma pasta única lhe
+	dará uma vantagem
+	única.
 	"""
 	keyWait
 	clearMsg

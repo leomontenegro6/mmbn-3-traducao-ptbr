@@ -670,8 +670,9 @@ script 26 mmbn3 {
 	color
 		palette = 3
 	"""
-	Só funcionará com um
-	chip de Madeira!
+	Só funcionará
+	com um chip
+	de Madeira!
 	"""
 	keyWait
 	msgOpenInvisible
@@ -699,8 +700,9 @@ script 27 mmbn3 {
 	color
 		palette = 3
 	"""
-	Só funcionará com um
-	chip de Água!
+	Só funcionará
+	com um chip
+	de Água!
 	"""
 	keyWait
 	msgOpenInvisible
@@ -728,8 +730,9 @@ script 28 mmbn3 {
 	color
 		palette = 3
 	"""
-	Só funcionará com um
-	chip Elétrico!
+	Só funcionará
+	com um chip
+	de Elétrico!
 	"""
 	keyWait
 	msgOpenInvisible

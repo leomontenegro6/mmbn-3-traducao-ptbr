@@ -365,7 +365,7 @@ script 7 mmbn3 {
 	mugshotHide
 	"""
 	É um programa tipo
-	taboa.
+	bunho.
 	"""
 	keyWait
 	clearMsg
@@ -1084,7 +1084,7 @@ script 36 mmbn3 {
 	msgOpen
 	"""
 	Deixar o programa tipo
-	taboa?
+	bunho?
 	
 	"""
 	option
@@ -1278,7 +1278,7 @@ script 42 mmbn3 {
 	mugshotHide
 	"""
 	Parece ser um programa
-	tipo taboa.
+	tipo bunho.
 	"""
 	keyWait
 	end

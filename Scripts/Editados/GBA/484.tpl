@@ -402,7 +402,7 @@ script 9 mmbn3 {
 	clearMsg
 	"""
 	Aliás, vou entrar no
-	Grande Prêmio N1 tb.
+	Grande Prêmio N1 também.
 	Fiquem espertos!
 	"""
 	keyWait

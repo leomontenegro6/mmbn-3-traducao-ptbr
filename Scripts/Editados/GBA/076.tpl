@@ -2566,15 +2566,15 @@ script 218 mmbn3 {
 script 219 mmbn3 {
 	msgOpen
 	"""
-	Várias espigas de milho
+	Vários bolinhos de polvo
 	postas sobre uma grelha
 	com o fogo aceso.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Nesse ritmo, elas vão
-	começar a espocar.
+	Nesse ritmo, vão
+	começar a queimar.
 	"""
 	keyWait
 	end

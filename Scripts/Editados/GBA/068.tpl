@@ -317,7 +317,7 @@ script 197 mmbn3 {
 		code = W
 	"""
 	" por este
-	 "
+	"
 	"""
 	printChip
 		buffer = 0

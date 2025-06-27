@@ -229,8 +229,8 @@ script 20 mmbn3 {
 	clearMsg
 	"""
 	Me sinto horrível por não
-	poder falar com você
-	depois de vir tão longe!
+	poder falar com você de-
+	pois de vir de tão longe!
 	"""
 	keyWait
 	end
@@ -240,8 +240,8 @@ script 21 mmbn3 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	Você é o filho do Dr.
-	Hikari?
+	Você é o filho do
+	Dr. Hikari?
 	Oi, muito prazer!
 	"""
 	keyWait
