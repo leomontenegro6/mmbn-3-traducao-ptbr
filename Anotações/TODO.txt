@@ -1,4 +1,3 @@
-- Corrigir bug menor ao escolher chips nos turnos das batalhas, onde o círculo na parte superior direita do menu tá com uns tiles transparentes (Add OK.gba)
 - Corrigir bug menor na seta esquerda gráfico "ADVANCE", mostrado durante os turnos ao usar um programa avançado
 - Corrigir bug gerado ao criar a versão reduzida do "Pasta1" e "Pasta2", que causou problemas em diálogos específicos.
 - Corrigir bug nos troca-chips, onde fica aparecendo a descrição dos chips no meio do diálogo comum.
