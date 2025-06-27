@@ -1,7 +1,9 @@
+- Corrigir bug menor ao escolher chips nos turnos das batalhas, onde o círculo na parte superior direita do menu tá com uns tiles transparentes (Add OK.gba)
+- Corrigir bug menor na seta esquerda gráfico "ADVANCE", mostrado durante os turnos ao usar um programa avançado
+- Corrigir bug gerado ao criar a versão reduzida do "Pasta1" e "Pasta2", que causou problemas em diálogos específicos.
 - Corrigir bug nos troca-chips, onde fica aparecendo a descrição dos chips no meio do diálogo comum.
 - Corrigir bug nas lojas de venda de chips, onde ao apertar o R pra ver a descrição dos chips, a descrição não aparece.
 - Corrigir bug menor na tela MegaMan, onde ao ter liberado CustNavi antes de ter um estilo, o cursor fica fora do lugar
-- Corrigir bug menor na seta esquerda gráfico "ADVANCE", mostrado durante os turnos ao usar um programa avançado
 - Corrigir bugs ao trocar chips via cabo link:
   - A descrição dos chips tá aparecendo na esquerda ao invés da direita
   - Após escolher os chips pra trocar, as descrições deles podem aparecer bugadas às vezes
