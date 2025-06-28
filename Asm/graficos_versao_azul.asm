@@ -131,6 +131,10 @@
 .org 0x087E5E94
     .incbin "Graficos/Editados/SneakRun Untrap LocEnemy On (tm).gba"
 
+; Gráficos de ícones de itens, na tela de Itens.
+.org 0x087D25F8
+    .incbin "Graficos/Editados/Itens.gba"
+
 ; Gráficos da tela de troca de chips via cabo link.
 .org 0x087E499C
     .incbin "Graficos/Editados/Selecting.gba"
