@@ -19,10 +19,9 @@ copy ".\rom (original).srl" ".\rom.srl"
 echo ==Aplicando patches extras na rom modificada:==
 
 echo ==Graficos descomprimidos==
-.\Ferramentas\armips.exe .\Asm\graficos_coletanea_versao_branca.asm
+.\Ferramentas\armips-lzss\armips-lzss-v1.exe .\Asm\graficos_coletanea_versao_branca.asm
 
 echo Done.
-pause
 exit
 
 :blue
@@ -31,10 +30,9 @@ copy ".\rom_b (original).srl" ".\rom_b.srl"
 echo ==Aplicando patches extras na rom modificada:==
 
 echo ==Graficos==
-.\Ferramentas\armips.exe .\Asm\graficos_coletanea_versao_azul.asm
+.\Ferramentas\armips-lzss\armips-lzss-v1.exe .\Asm\graficos_coletanea_versao_azul.asm
 
 echo Done.
-pause
 exit
 
 :exit

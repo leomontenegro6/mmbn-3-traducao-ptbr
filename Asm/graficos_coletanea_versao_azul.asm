@@ -113,4 +113,24 @@
 .org 0x086B3CB6
 .stringn 0x40,0x90,0x41,0x90,0x42,0x90,0x43,0x90,0x45,0x90,0x46,0x90,0x47,0x90,0x48,0x90,0x49,0x90
 
+; Mudando a posição X padrão das letras da tela animada de "NAVI CUSTOMIZER"
+.org 0x080325CE
+    .stringn 0x60,0x30
+
+; Inserindo OAMs editadas para a tela de "NAVI CUSTOMIZER"
+.org 0x080325F4
+    .incbin "Graficos/Editados/Navi Customizer (oam) (coletanea).gba"
+
+; Armazenando offsets de gráficos comprimidos, para inserção posterior
+.org 0x0804818C
+    .dw navi_customizer_letters
+
+; Indo até o final da rom, no início do espaço livre
+.org 0x087FFD30
+
+; Inserindo gráficos comprimidos no final da rom
+navi_customizer_letters:
+    .lz77gba "Graficos/Editados/Navi Customizer.gba"
+    .align
+
 .close
