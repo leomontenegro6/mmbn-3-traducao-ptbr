@@ -347,6 +347,10 @@ BattleXStartOams:
 .org 0x087F079C
     .incbin "Graficos/Editados/Under BBS (tm).gba"
 
+; Editando gráfico "BugFrag", da loja que troca FragBug por Chips.
+.org 0x087ED4BC
+    .incbin "Graficos/Editados/BugFrag.gba"
+
 ; Editando tilemap do Game Over
 .org 0x087FA444
     .incbin "Graficos/Editados/Game Over (tm).gba"

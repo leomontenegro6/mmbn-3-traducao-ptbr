@@ -9,7 +9,6 @@ $graficos = [
     (object)['nome' => 'Navigator', 'offset' => '0x7E025C', 'tiles' => '1x8'],
     (object)['nome' => 'Selecting', 'offset' => '0x7E4DAC', 'tiles' => '1x22'],
     (object)['nome' => 'Sort (ID ABC etc)', 'offset' => '0x7E7148', 'tiles' => '4x15'],
-    (object)['nome' => 'BugFrag (tela de compra)', 'offset' => '0x7ED8CC', 'tiles' => '1x7'],
     (object)['nome' => 'Trap1', 'offset' => '0x336260', 'tiles' => '1x4'],
     (object)['nome' => 'Trap2', 'offset' => '0x336484', 'tiles' => '2x4'],
     (object)['nome' => 'Trap3', 'offset' => '0x336788', 'tiles' => '2x4'],

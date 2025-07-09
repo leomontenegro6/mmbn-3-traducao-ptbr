@@ -1,4 +1,3 @@
-- Ver possibilidade de colocar exclamação após "DELEÇÃO DUPLA" e "DELEÇÃO TRIPLA", igual foi feito no mmbn4
 - Ver possibilidade de combinar o hack "BN Plus" com a tradução
 - Corrigir bug nos troca-chips, onde fica aparecendo a descrição dos chips no meio do diálogo comum.
 - Corrigir bug nas lojas de venda de chips, onde ao apertar o R pra ver a descrição dos chips, a descrição não aparece.
