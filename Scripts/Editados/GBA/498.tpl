@@ -508,30 +508,31 @@ script 140 mmbn3s {
 	end
 }
 script 141 mmbn3s {
-	" VICTOR[V2][V3][V4][V5]@"
+	" PEDROX"
 	end
 }
 script 142 mmbn3s {
-	" MATHEUSITO"
+	" JONHSSG"
 	end
 }
 script 143 mmbn3s {
-	" (ò_ó)"
+	" GUSTAVO[il][ T][R][I]"
 	end
 }
 script 144 mmbn3s {
+	" PROF.9"
 	end
 }
 script 145 mmbn3s {
-	" Todos no"
+	" TTK"
 	end
 }
 script 146 mmbn3s {
-	" MegaSpace e"
+	" SCHNEITIZEL"
 	end
 }
 script 147 mmbn3s {
-	" no F.U.R.T."
+	" VICTOR[V2][V3][V4][V5]@"
 	end
 }
 script 148 mmbn3s {

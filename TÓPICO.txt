@@ -44,6 +44,9 @@ Graças a todo esse imenso trabalho em equipe, finalizamos essa tradução e lan
 [li][b]Immegax[/b]: Hacking da coletânea, revisão e teste;[/li]
 [li][b]Marywolf[/b]: Gráficos da coletânea;[/li]
 [li][b]Hikarenetto[/b]: Revisão e teste da coletânea;[/li]
+[li][b]PedroX[/b]: Revisão e teste;[/li]
+[li][b]JonhSSG[/b]: Revisão e teste;[/li]
+[li][b]Gustavo Fraga[/b]: Revisão e teste;[/li]
 [li][b]victoriemini[/b]: Arte de capas;[/li]
 [/list]
 
@@ -94,7 +97,8 @@ Changelog
 [li]Capcom, por ter lançado o jogo;[/li]
 [li]Ao Solid e denim, por todo o auxílio na parte técnica do jogo;[/li]
 [li]Ao pessoal do grupo MegaSpace, pelo apoio e pelo port das traduções de GBA para a coletânea;[/li]
-[li]Ao Prof.9, por ter criado a ferramenta TextPet.[/li]
+[li]Ao Prof.9, por ter criado a ferramenta TextPet, e o patch BN3 Plus.[/li]
+[li]Ao pessoal do grupo The Rockman EXE Zone, pelo apoio geral em romhacking de jogos da série MMBN.[/li]
 [/list]
 
 —————————————————–

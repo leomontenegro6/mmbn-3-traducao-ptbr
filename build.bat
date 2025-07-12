@@ -32,6 +32,11 @@ call recomprimir_graficos_comprimidos.bat
 echo ==Expandindo rom para 16mb==
 .\Ferramentas\armips.exe .\Asm\expansor_rom.asm -strequ output "Branca"
 
+echo ==Aplicando patch BN3 Plus
+cd .\Asm\bn3plus\
+.\armips.exe .\bn3pluswhiteus.asm
+cd ..\..\
+
 echo Done.
 exit
 
@@ -53,6 +58,11 @@ call recomprimir_graficos_comprimidos.bat
 
 echo ==Expandindo rom para 16mb==
 .\Ferramentas\armips.exe .\Asm\expansor_rom.asm -strequ output "Azul"
+
+echo ==Aplicando patch BN3 Plus
+cd .\Asm\bn3plus\
+.\armips.exe .\bn3plusblueus.asm
+cd ..\..\
 
 echo Done.
 exit

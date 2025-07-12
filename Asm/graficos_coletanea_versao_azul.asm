@@ -119,7 +119,7 @@
 
 ; Inserindo OAMs editadas para a tela de "NAVI CUSTOMIZER"
 .org 0x080325F4
-    .incbin "Graficos/Editados/Navi Customizer (oam) (coletanea).gba"
+    .incbin "Graficos/Editados/Navi Customizer (oam).gba"
 
 ; Armazenando offsets de gráficos comprimidos, para inserção posterior
 .org 0x0804818C

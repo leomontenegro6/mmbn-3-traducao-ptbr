@@ -45,6 +45,9 @@ Graças a todo esse imenso trabalho em equipe, finalizamos essa tradução e lan
 - **Immegax**: Hacking da coletânea, revisão e teste;
 - **Marywolf**: Gráficos da coletânea;
 - **Hikarenetto**: Revisão e teste da coletânea;
+- **PedroX**: Revisão e teste;
+- **JonhSSG**: Revisão e teste;
+- **Gustavo Fraga**: Revisão e teste;
 - **victoriemini**: Arte de capas;
 
 # Status da Tradução

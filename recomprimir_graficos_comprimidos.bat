@@ -40,6 +40,11 @@ del ".\Graficos\Recomprimidos\Cidade ACDC - Higsbys Placa Close.gba"
 copy ".\Graficos\Editados\Cidade ACDC - Higsbys Placa Close.gba" ".\Graficos\Recomprimidos\"
 .\Ferramentas\lzss.exe -evn ".\Graficos\Recomprimidos\Cidade ACDC - Higsbys Placa Close.gba"
 
+echo Grafico 'Navi Customizer', do BN3 Plus
+del ".\Asm\bn3plus\navicust\letterset.bin"
+copy ".\Graficos\Editados\Navi Customizer.gba" ".\Asm\bn3plus\navicust\letterset.bin"
+.\Ferramentas\lzss.exe -evn ".\Asm\bn3plus\navicust\letterset.bin"
+
 echo Graficos de backgrounds
 cd ".\Ferramentas\bg-graphic-unpacker\"
 call remontar.bat

@@ -78,7 +78,7 @@ Agradecimentos
 ------------------
 
 - Capcom, por ter lançado o jogo;
-- Ao Solid, DiegoHH, denim e Nathan, por todo o auxílio na parte técnica do jogo;
-- Ao Anime_World, pela dica da ferramenta TextPet;
-- Ao Prof.9, por ter criado a ferramenta TextPet.
-- Ao Immaryx, Immegax e Hikare Netto, pela assistência em prol de um futuro port da tradução para a coletânea.
+- Ao Solid e denim, por todo o auxílio na parte técnica do jogo;
+- Ao pessoal do grupo MegaSpace, pelo apoio e pelo port das traduções de GBA para a coletânea;
+- Ao Prof.9, por ter criado a ferramenta TextPet, e o patch BN3 Plus.
+- Ao pessoal do grupo The Rockman EXE Zone, pelo apoio geral em romhacking de jogos da série MMBN.
