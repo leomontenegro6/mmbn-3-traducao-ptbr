@@ -1,0 +1,9 @@
+Import-Bitmap "Logo tela-titulo alternativa black.png"
+Extract-Palettes --palette-size 256
+Generate-Tilemap GBA-8BPP
+
+Render-Tileset --tiles-per-row 16
+Export-Bitmap "Logo tela-titulo alternativa black (tileset).png"
+
+Serialize-Tilemap --base-tile 56 --first-tile 56
+Export-Bytes "Logo tela-titulo alternativa black (tilemap).gba"

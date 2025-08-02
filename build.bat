@@ -1,7 +1,16 @@
 :: Arquivo .bat que remonta as roms traduzidas.
+:: Por padrão, mostra o menu de escolha entre as versões Branca e Azul,
+:: mas pode ser chamado com parâmetros na linha de comando:
+:: -b para a versão Branca
+:: -a para a versão Azul
+:: -t para aplicar o patch de tela-título alternativa
 @echo off
 cls
-echo ==Mega Man Battle Network 3
+echo ==Mega Man Battle Network 3 - Script para remonta de roms traduzidas==
+
+if "%1"=="-b" goto white
+if "%1"=="-a" goto blue
+
 echo Escolha a versao para gerar:
 echo b - Branca
 echo a - Azul
@@ -13,6 +22,7 @@ if "%ERRORLEVEL%" == "2" GOTO blue
 if "%ERRORLEVEL%" == "3" GOTO exit
 
 GOTO %ERRORLEVEL%
+
 :white
 echo ==Unindo scripts .tpl avulsos no "script-white.tpl"
 php .\unir_scripts.php b
@@ -37,8 +47,16 @@ cd .\Asm\bn3plus\
 .\armips.exe .\bn3pluswhiteus.asm
 cd ..\..\
 
+if "%2"=="-t" (
+    echo ==Aplicando patch de tela-titulo alternativa==
+    cd .\Ferramentas\pixelpet\
+    call repack.bat
+    cd ..\..
+    .\Ferramentas\armips-lzss\armips-lzss-v1.exe .\Asm\tela_titulo_alternativa.asm
+)
+
 echo Done.
-exit
+goto exit
 
 :blue
 echo ==Unindo scripts .tpl avulsos no "script-blue.tpl"
@@ -64,8 +82,16 @@ cd .\Asm\bn3plus\
 .\armips.exe .\bn3plusblueus.asm
 cd ..\..\
 
+if "%2"=="-t" (
+    echo ==Aplicando patch de tela-titulo alternativa==
+    cd .\Ferramentas\pixelpet\
+    call repack.bat
+    cd ..\..
+    .\Ferramentas\armips-lzss\armips-lzss-v1.exe .\Asm\tela_titulo_alternativa_black.asm
+)
+
 echo Done.
-exit
+goto exit
 
 :exit
 exit
