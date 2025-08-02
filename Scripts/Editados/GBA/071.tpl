@@ -637,8 +637,8 @@ script 80 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Estamos todos muito fe-
-	lizes de ver que o filho
+	Estamos todos muito
+	felizes de ver que o filho
 	do Dr. Hikari está bem!
 	"""
 	keyWait
@@ -2356,7 +2356,7 @@ script 192 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Você deletou o vírus
+	Você deletou os vírus
 	pra mim!
 	"""
 	keyWait

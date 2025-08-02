@@ -142,7 +142,7 @@ script 0 mmbn3 {
 	clearMsg
 	"""
 	Você deverá usar a
-	PréPasta até o término
+	PrePasta até o término
 	delas.
 	"""
 	keyWait

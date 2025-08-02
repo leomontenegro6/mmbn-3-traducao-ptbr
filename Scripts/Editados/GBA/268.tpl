@@ -37,8 +37,8 @@ script 1 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Eu vou te vencer, e es-
-	fregar na cara de todos
+	Eu vou te vencer, e
+	esfregar na cara de todos
 	que zombaram de mim!
 	"""
 	keyWait

@@ -1299,7 +1299,7 @@ script 88 mmbn3 {
 	clearMsg
 	"""
 	De qualquer forma, me
-	alegra ver a asensão
+	alegra ver a ascensão
 	de fortes NetLutadores!
 	"""
 	keyWait

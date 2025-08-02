@@ -48,7 +48,7 @@ script 2 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Ao serem combinador,
+	Ao serem combinados,
 	"a Besta" despertará.
 	"""
 	keyWait

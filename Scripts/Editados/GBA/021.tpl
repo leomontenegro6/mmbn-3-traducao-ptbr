@@ -1382,7 +1382,7 @@ script 52 mmbn3 {
 		delay = 0
 	color
 		palette = 3
-	"\"sierrthtdiia\n qrlmweeeellr\n uraoararvpls\""
+	"\"euomuaedpasm\n siaarqcoirda\n qlrdauerleol\""
 	waitHold
 }
 script 53 mmbn3 {

@@ -451,7 +451,7 @@ script 8 mmbn3 {
 	printNaviCustProgram
 		buffer = 0
 		program = 36
-	" ,"
+	", "
 	printNaviCustProgram
 		buffer = 0
 		program = 41
@@ -482,15 +482,11 @@ script 8 mmbn3 {
 	printNaviCustProgram
 		buffer = 0
 		program = 43
-	"! "
+	"! Ah, os "
 	printNaviCustProgram
 		buffer = 0
 		program = 36
-	"""
-	
-	estão vendendo bem.
-	Peguei o último.
-	"""
+	"\nestão vendendo bem.\nPeguei o último."
 	keyWait
 	clearMsg
 	"Eu também queria um\n"
@@ -505,8 +501,8 @@ script 8 mmbn3 {
 	clearMsg
 	"""
 	Vou ter que esperar
-	até o meu próximo ani-
-	versário pra comprar!
+	até o meu próximo
+	aniversário pra comprar!
 	"""
 	keyWait
 	waitHold

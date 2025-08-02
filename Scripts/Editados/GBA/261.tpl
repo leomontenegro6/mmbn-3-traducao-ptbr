@@ -73,8 +73,8 @@ script 4 mmbn3 {
 	clearMsg
 	"""
 	Desculpa. Isto requer
-	habilidades mais avança-
-	das que as minhas. É.
+	habilidades mais avançadas
+	que as minhas. É.
 	"""
 	keyWait
 	clearMsg

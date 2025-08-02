@@ -115,8 +115,8 @@ script 3 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	O papai usa este compu-
-	tador pro trabalho...
+	O papai usa este
+	computador pro trabalho...
 	Anda com jeitinho.
 	"""
 	keyWait

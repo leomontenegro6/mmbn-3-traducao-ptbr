@@ -61,8 +61,8 @@ script 1 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	não dá pra se conec-
-	tar NA Lava-Bolha!
+	não dá pra se conectar
+	NA Lava-Bolha!
 	Bom, ainda assim,
 	"""
 	keyWait

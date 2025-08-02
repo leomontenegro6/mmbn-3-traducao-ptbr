@@ -1540,8 +1540,8 @@ script 83 mmbn3 {
 	color
 		palette = 3
 	"""
-	Os PV de Mega-
-	Man foram 
+	Os PV de
+	MegaMan foram 
 	restaurados!
 	"""
 	keyWait
@@ -1566,9 +1566,9 @@ script 84 mmbn3 {
 	color
 		palette = 3
 	"""
-	Os PV de Mega-
-	Man se recupe-
-	raram 100%!
+	Os PV de MegaMan
+	se restauraram
+	100%!
 	"""
 	keyWait
 	msgOpenInvisible

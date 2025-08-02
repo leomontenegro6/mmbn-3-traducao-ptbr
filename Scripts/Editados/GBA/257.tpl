@@ -277,7 +277,7 @@ script 17 mmbn3 {
 	"""
 	O Lorde Wily dizimará a
 	sociedade da Rede que
-	ele tanto odeia, glub!".
+	ele tanto odeia, glub!"
 	"""
 	keyWait
 	clearMsg

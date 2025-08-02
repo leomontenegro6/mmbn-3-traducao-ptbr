@@ -25,9 +25,9 @@ script 0 mmbn3 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Esse programa aquece-
-	dor de água é para a
-	fonte termal, né?
+	Esse programa aquecedor
+	de água é para a fonte
+	termal, né?
 	"""
 	keyWait
 	clearMsg

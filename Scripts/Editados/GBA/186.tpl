@@ -408,18 +408,16 @@ script 229 mmbn3 {
 }
 script 230 mmbn3 {
 	msgOpen
-	"Pode passar, "
 	textSpeed
 		delay = 0
-	"[circle1][circle2]"
+	"[circle1][circle2]!\n"
 	textSpeed
 		delay = 2
 	wait
 		frames = 2
 	"""
-	
-	amável cuidador
-	de vários!
+	Siga, amável
+	cuidador de vários!
 	"""
 	keyWait
 	flagSet
@@ -428,17 +426,13 @@ script 230 mmbn3 {
 }
 script 231 mmbn3 {
 	msgOpen
-	"Pode passar, "
-	textSpeed
-		delay = 0
-	"[circle1][circle2]"
+	"[circle1][circle2]!\n"
 	textSpeed
 		delay = 2
 	wait
 		frames = 2
 	"""
-	
-	detentor da
+	Siga, detentor da
 	estrela de honra!
 	"""
 	keyWait

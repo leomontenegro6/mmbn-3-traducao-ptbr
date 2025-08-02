@@ -2544,21 +2544,21 @@ script 218 mmbn3 {
 		jumpIfOutOfRange = continue
 	msgOpen
 	"""
-	O aroma de milho e
-	manteiga quente te dá
-	água na boca!
+	O aroma do polvo
+	misturado ao da massa
+	te dá água na boca!
 	"""
 	keyWait
 	clearMsg
 	"""
 	Tem também um potinho
-	de palitos de dente
+	com palitinhos para os
+	clientes usarem com os
 	"""
 	keyWait
 	clearMsg
 	"""
-	para os clientes usarem
-	após comer.
+	bolinhos.
 	"""
 	keyWait
 	end

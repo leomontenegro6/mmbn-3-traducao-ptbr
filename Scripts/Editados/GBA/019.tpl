@@ -921,19 +921,19 @@ script 231 mmbn3s {
 	end
 }
 script 232 mmbn3s {
-	"JapanMan"
+	"YamatoMan"
 	end
 }
 script 233 mmbn3s {
-	"JapanManα"
+	"YmatoManα"
 	end
 }
 script 234 mmbn3s {
-	"JapanManβ"
+	"YmatoManβ"
 	end
 }
 script 235 mmbn3s {
-	"JapanManΩ"
+	"YmatoManΩ"
 	end
 }
 script 236 mmbn3s {

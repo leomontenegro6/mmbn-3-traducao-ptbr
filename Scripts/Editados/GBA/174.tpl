@@ -274,8 +274,8 @@ script 14 mmbn3 {
 		palette = 1
 	msgOpen
 	"""
-	Argh! Era pra EU ser o
-	entrevistador hoje!
+	Argh! Era pra EU ser a
+	entrevistadora hoje!
 	"""
 	keyWait
 	clearMsg

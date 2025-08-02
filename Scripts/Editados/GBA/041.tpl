@@ -778,8 +778,7 @@ script 86 mmbn3 {
 	msgOpen
 	"""
 	Onde é que a gente vai
-	achar um
-	"
+	achar um "
 	"""
 	printChip
 		buffer = 0

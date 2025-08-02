@@ -148,8 +148,8 @@ script 50 mmbn3 {
 		mugshot = MetrolineMan
 	msgOpen
 	"""
-	Eu acertei em não con-
-	tar pra ninguém sobre o
+	Eu acertei em não contar
+	pra ninguém sobre o
 	pressentimento... talvez.
 	"""
 	keyWait

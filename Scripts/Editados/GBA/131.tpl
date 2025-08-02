@@ -41,7 +41,7 @@ script 1 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Sim "
+	"Sim     "
 	option
 		left = 0
 		right = 0
@@ -126,7 +126,7 @@ script 4 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Sim "
+	"Sim     "
 	option
 		left = 0
 		right = 0
@@ -524,7 +524,7 @@ script 221 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Sim "
+	"Sim     "
 	option
 		left = 0
 		right = 0
@@ -560,7 +560,7 @@ script 222 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Sim "
+	"Sim     "
 	option
 		left = 0
 		right = 0
@@ -596,7 +596,7 @@ script 223 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Sim "
+	"Sim     "
 	option
 		left = 0
 		right = 0
@@ -632,7 +632,7 @@ script 224 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Sim "
+	"Sim     "
 	option
 		left = 0
 		right = 0
@@ -668,7 +668,7 @@ script 225 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Sim "
+	"Sim     "
 	option
 		left = 0
 		right = 0
@@ -704,7 +704,7 @@ script 226 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Sim "
+	"Sim     "
 	option
 		left = 0
 		right = 0
@@ -740,7 +740,7 @@ script 227 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Sim "
+	"Sim     "
 	option
 		left = 0
 		right = 0
@@ -776,7 +776,7 @@ script 228 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Sim "
+	"Sim     "
 	option
 		left = 0
 		right = 0

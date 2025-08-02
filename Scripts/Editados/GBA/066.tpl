@@ -249,8 +249,8 @@ script 50 mmbn3 {
 	clearMsg
 	"""
 	Hmmm.
-	Talvez eu também de-
-	vesse comprar uma...
+	Talvez eu também
+	devesse comprar uma...
 	"""
 	keyWait
 	end

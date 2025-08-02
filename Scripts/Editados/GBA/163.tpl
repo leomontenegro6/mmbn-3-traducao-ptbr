@@ -1067,8 +1067,8 @@ script 111 mmbn3 {
 	msgOpen
 	"""
 	O N1 é um bom evento,
-	mas afeta negativamen-
-	te a segurança daqui...
+	mas afeta negativamente
+	a segurança daqui...
 	"""
 	keyWait
 	clearMsg

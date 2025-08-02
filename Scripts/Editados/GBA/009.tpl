@@ -285,8 +285,8 @@ script 23 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	E o seu Ataque Carre-
-	gado também se tornará
+	E o seu Ataque Carregado
+	também se tornará
 	um lança-chamas!
 	"""
 	keyWait

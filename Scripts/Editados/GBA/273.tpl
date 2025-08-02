@@ -11,8 +11,8 @@ script 0 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	A gente vai te entrevis-
-	tar já, já.
+	A gente vai te
+	entrevistar já, já.
 	Por favor, espere ali.
 	"""
 	keyWait
@@ -217,8 +217,8 @@ script 10 mmbn3 {
 	clearMsg
 	"""
 	Disseram que fãs de
-	NetLuta saíram do con-
-	trole. Tô preocupado...
+	NetLuta saíram do
+	controle. Tô preocupado...
 	"""
 	keyWait
 	clearMsg

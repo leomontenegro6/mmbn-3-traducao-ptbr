@@ -145,9 +145,9 @@ script 7 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	A Srta. Mari não mencio-
-	nou um lugar que compri-
-	mia dados todos os dias?
+	A Srta. Mari não falou de
+	um lugar que comprimia
+	dados todos os dias?
 	"""
 	keyWait
 	clearMsg

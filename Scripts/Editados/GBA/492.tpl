@@ -29,8 +29,8 @@ script 0 mmbn3 {
 	clearMsg
 	"""
 	estrada para o Hospital
-	Beira-Mar ficará fecha-
-	da temporariamente.
+	Beira-Mar ficará fechada
+	temporariamente.
 	"""
 	keyWait
 	clearMsg
@@ -61,8 +61,8 @@ script 1 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	32 dos melhores Net-
-	Lutadores do Mundo
+	32 dos melhores
+	NetLutadores do Mundo
 	estão se reunindo nos
 	"""
 	keyWait
@@ -89,8 +89,8 @@ script 1 mmbn3 {
 	clearMsg
 	"""
 	Preparem-se para
-	batalhas
-	verdadeiramente épicas!
+	lutas verdadeiramente
+	épicas!
 	"""
 	keyWait
 	clearMsg

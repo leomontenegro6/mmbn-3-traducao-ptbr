@@ -613,9 +613,8 @@ script 50 mmbn3 {
 		buffer = 0
 		code = E
 	"""
-	
-	é um chip muito
-	importante!
+	 é um chip
+	muito importante!
 	"""
 	keyWait
 	clearMsg
@@ -777,7 +776,7 @@ script 52 mmbn3 {
 	mugshotShow
 		mugshot = GirlNaviOrange
 	msgOpen
-	"M-M-Mas!"
+	"M-m-mas!"
 	keyWait
 	clearMsg
 	"""
@@ -1196,15 +1195,16 @@ script 73 mmbn3 {
 		palette = 1
 	msgOpen
 	"""
-	Droga, odeio admitir isso,
+	Droga, odeio admitir,
 	mas aquela Navi amarela
-	estranha é muito gata.
+	esquisita é linda.
 	"""
 	keyWait
 	clearMsg
 	"""
 	Hnnng! Por que eu não
-	sou customizado?!
+	posso ser customizada
+	assim?!
 	"""
 	keyWait
 	end

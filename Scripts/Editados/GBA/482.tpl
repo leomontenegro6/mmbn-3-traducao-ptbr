@@ -682,8 +682,8 @@ script 9 mmbn3 {
 	clearMsg
 	"""
 	mas alguém aí pode,
-	POR FAVOR, me empres-
-	tar 8000 Zennys?
+	POR FAVOR, me emprestar
+	8000 Zennys?
 	"""
 	keyWait
 	clearMsg

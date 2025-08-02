@@ -133,9 +133,9 @@ script 5 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Se eu te deletar, o Lor-
-	de Wily com certeza vai
-	me recompensar, gluub!
+	Se eu te deletar, o Lorde
+	Wily com certeza vai me
+	recompensar, gluub!
 	"""
 	keyWait
 	clearMsg
@@ -244,11 +244,10 @@ script 11 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Tá!"
+	"Tá!\n"
 	waitSkip
 		frames = 30
 	"""
-	
 	Mas ele sumiu sem
 	deixar...
 	"""

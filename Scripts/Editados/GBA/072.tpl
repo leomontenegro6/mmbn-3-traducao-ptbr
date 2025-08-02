@@ -538,8 +538,8 @@ script 51 mmbn3 {
 	msgOpen
 	"""
 	Eu não acredito que
-	outro cara conseguiu mo-
-	dificar aquele programa!
+	outro cara conseguiu
+	modificar aquele programa!
 	"""
 	keyWait
 	clearMsg
