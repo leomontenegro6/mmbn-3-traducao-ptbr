@@ -1,0 +1,23 @@
+/**
+ * Script de reempacotamento da tela de título do MMBN3 White.
+ *
+ * Feito para ser executado pelo programa "PixelPet", com o parâmetro
+ * `Run-Script {nome_do_arquivo.ppl}`, que executará as instruções abaixo.
+ * Para melhor visualizar esse arquivo, mude a linguagem para C++ no editor
+ * de sua preferência.
+ */
+
+// Lendo imagem PNG em resolução 256x160
+Import-Bitmap "data/branca.png"
+Extract-Palettes --palette-size 256
+Generate-Tilemap GBA-8BPP
+
+// Gerando tileset da imagem, em PNG, para posteriormente importar
+// no Tile Molester
+Render-Tileset --tiles-per-row 16
+Export-Bitmap "data/branca.img.png"
+
+// Gerando tilemap da imagem, em formato binário, para ser
+// inserido diretamente no ROM
+Serialize-Tilemap --base-tile 56 --first-tile 56
+Export-Bytes "data/branca.map.bin"
