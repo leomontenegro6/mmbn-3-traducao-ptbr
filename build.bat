@@ -35,14 +35,14 @@ echo ==Aplicando patches extras na rom modificada:==
 echo ==Fonte VWF==
 .\Ferramentas\armips.exe .\Asm\vwf.asm -strequ output "Branca"
 
-::echo ==Tela-titulo aprimorada==
-::cd .\Asm\bn3improvedtitlescreens\
-::if "%2"=="-t" (
-::    call build.bat -w -a
-::) else (
-::    call build.bat -w
-::)
-::cd ..\..\
+echo ==Tela-titulo aprimorada==
+cd .\Asm\bn3improvedtitlescreens\
+if "%2"=="-t" (
+    call build.bat -w -a
+) else (
+    call build.bat -w
+)
+cd ..\..\
 
 echo ==Graficos descomprimidos==
 call recomprimir_graficos_comprimidos.bat
@@ -71,14 +71,14 @@ echo ==Aplicando patches extras na rom modificada:==
 echo ==Fonte VWF==
 .\Ferramentas\armips.exe .\Asm\vwf.asm -strequ output "Azul"
 
-::echo ==Tela-titulo aprimorada==
-::cd .\Asm\bn3improvedtitlescreens\
-::if "%2"=="-t" (
-::    call build.bat -b -a
-::) else (
-::    call build.bat -b
-::)
-::cd ..\..\
+echo ==Tela-titulo aprimorada==
+cd .\Asm\bn3improvedtitlescreens\
+if "%2"=="-t" (
+    call build.bat -b -a
+) else (
+    call build.bat -b
+)
+cd ..\..\
 
 echo ==Graficos==
 call recomprimir_graficos_comprimidos.bat
