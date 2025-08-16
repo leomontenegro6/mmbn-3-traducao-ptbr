@@ -35,6 +35,15 @@ echo ==Aplicando patches extras na rom modificada:==
 echo ==Fonte VWF==
 .\Ferramentas\armips.exe .\Asm\vwf.asm -strequ output "Branca"
 
+::echo ==Tela-titulo aprimorada==
+::cd .\Asm\bn3improvedtitlescreens\
+::if "%2"=="-t" (
+::    call build.bat -w -a
+::) else (
+::    call build.bat -w
+::)
+::cd ..\..\
+
 echo ==Graficos descomprimidos==
 call recomprimir_graficos_comprimidos.bat
 .\Ferramentas\armips.exe .\Asm\graficos_versao_branca.asm
@@ -46,14 +55,6 @@ echo ==Aplicando patch BN3 Plus
 cd .\Asm\bn3plus\
 .\armips.exe .\bn3pluswhiteus.asm
 cd ..\..\
-
-if "%2"=="-t" (
-    echo ==Aplicando patch de tela-titulo alternativa==
-    cd .\Ferramentas\pixelpet\
-    call repack.bat
-    cd ..\..
-    .\Ferramentas\armips-lzss\armips-lzss-v1.exe .\Asm\tela_titulo_alternativa.asm
-)
 
 echo Done.
 goto exit
@@ -70,6 +71,15 @@ echo ==Aplicando patches extras na rom modificada:==
 echo ==Fonte VWF==
 .\Ferramentas\armips.exe .\Asm\vwf.asm -strequ output "Azul"
 
+::echo ==Tela-titulo aprimorada==
+::cd .\Asm\bn3improvedtitlescreens\
+::if "%2"=="-t" (
+::    call build.bat -b -a
+::) else (
+::    call build.bat -b
+::)
+::cd ..\..\
+
 echo ==Graficos==
 call recomprimir_graficos_comprimidos.bat
 .\Ferramentas\armips.exe .\Asm\graficos_versao_azul.asm
@@ -81,14 +91,6 @@ echo ==Aplicando patch BN3 Plus
 cd .\Asm\bn3plus\
 .\armips.exe .\bn3plusblueus.asm
 cd ..\..\
-
-if "%2"=="-t" (
-    echo ==Aplicando patch de tela-titulo alternativa==
-    cd .\Ferramentas\pixelpet\
-    call repack.bat
-    cd ..\..
-    .\Ferramentas\armips-lzss\armips-lzss-v1.exe .\Asm\tela_titulo_alternativa_black.asm
-)
 
 echo Done.
 goto exit

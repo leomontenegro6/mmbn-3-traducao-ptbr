@@ -361,8 +361,6 @@ BattleXStartOams:
 
 ; Gráficos inseridos no final da rom, em sua maioria comprimidos.
 ; Catalogando ponteiros dos gráficos.
-.org 0x08022614
-    .dw logo_tela_titulo
 .org 0x08022618
     .dw nomes_tela_titulo
 .org 0x080339E0
@@ -440,10 +438,6 @@ BattleXStartOams:
 ; Inserindo gráficos no final da rom
 .orga filesize("Mega Man Battle Network 3 - Versao Azul (BR).gba")
 .align
-
-logo_tela_titulo:
-    .incbin "Graficos/Recomprimidos/Logo tela-titulo versao azul.gba"
-    .align
 
 nomes_tela_titulo:
     .incbin "Graficos/Recomprimidos/Nomes tela-titulo versao azul.gba"
