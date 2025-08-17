@@ -89,7 +89,7 @@ script 6 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Hã?"
+	"Hã? "
 	waitSkip
 		frames = 30
 	"""
@@ -295,16 +295,16 @@ script 15 mmbn3 {
 	"""
 	keyWait
 	clearMsg
-	"Ebaaa! Ebaaaa!"
+	"Ebaaa! Ebaaaa! "
 	waitSkip
 		frames = 30
 	"""
-	Eb…
+	Eb...
 	Arck!
 	"""
 	waitSkip
 		frames = 30
-	"... Ur"
+	"... Ur... "
 	waitSkip
 		frames = 30
 	"Ack... ugh..."
@@ -374,7 +374,7 @@ script 19 mmbn3 {
 	mugshotShow
 		mugshot = Mamoru
 	msgOpen
-	"Uff... Uff..."
+	"Uff... Uff... "
 	waitSkip
 		frames = 30
 	"""
@@ -496,13 +496,12 @@ script 24 mmbn3 {
 	"."
 	waitSkip
 		frames = 30
-	"."
+	". "
 	waitSkip
 		frames = 30
 	"""
-	foi o HBD
-	que tirou a minha vida
-	como Hub.
+	foi o HBD que tirou
+	a minha vida como Hub.
 	"""
 	keyWait
 	clearMsg

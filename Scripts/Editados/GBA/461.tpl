@@ -628,8 +628,8 @@ script 13 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	O item anexado vai au-
-	mentar o tamanho do
+	O item anexado vai
+	aumentar o tamanho do
 	seu Mapa de Memória.
 	"""
 	keyWait
@@ -740,9 +740,9 @@ script 16 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	3 usinas químicas de
-	DenCity foram infesta-
-	das por vinhas ontem,
+	Três usinas químicas de
+	DenCity foram infestadas
+	por vinhas ontem,
 	"""
 	keyWait
 	clearMsg
@@ -1031,7 +1031,7 @@ script 26 mmbn3 {
 		unused = 12
 	"""
 	Esqueci de dizer onde
-	está o ranque #9.
+	está o ranque nº 9.
 	Ele o aguarda...
 	"""
 	keyWait

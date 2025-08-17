@@ -340,8 +340,7 @@ script 224 mmbn3 {
 	clearMsg
 	"""
 	Deve estar bem quente
-	lá.
-	Estão todos suando.
+	lá. Estão todos suando.
 	"""
 	keyWait
 	end

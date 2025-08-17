@@ -944,9 +944,9 @@ script 240 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Como ela é recém-
-	chegada, a placa é
-	novinha em folha.
+	Como ela é
+	recém-chegada, a placa
+	é novinha em folha.
 	"""
 	keyWait
 	end

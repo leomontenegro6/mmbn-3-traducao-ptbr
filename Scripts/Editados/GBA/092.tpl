@@ -715,7 +715,7 @@ script 8 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"   Yasu\n"
+	" Yasu\n"
 	option
 		left = 1
 		right = 1
@@ -723,7 +723,7 @@ script 8 mmbn3 {
 		down = 2
 	space
 		count = 2
-	"          Masa\n"
+	" Masa\n"
 	option
 		left = 2
 		right = 2
@@ -731,7 +731,7 @@ script 8 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"   Hiro"
+	" Hiro"
 	select
 		default = 0
 		BSeparate = false

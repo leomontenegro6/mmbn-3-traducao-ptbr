@@ -478,7 +478,7 @@ script 50 mmbn3 {
 	clearMsg
 	"""
 	A janela tá aberta,
-	mas estamos no 2o.
+	mas estamos no 2º
 	andar. Essa não!
 	"""
 	keyWait

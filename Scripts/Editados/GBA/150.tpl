@@ -97,7 +97,7 @@ script 191 mmbn3 {
 		frames = 6
 	"""
 	.
-	T-Tão forte... Tão...
+	T-tão forte... Tão...
 	Hua... ha... ha...
 	"""
 	keyWait
@@ -138,7 +138,7 @@ script 193 mmbn3 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Eu em rendo!
+	Eu me rendo!
 	Chega, chega!
 	Você vai me liberar, né?
 	"""

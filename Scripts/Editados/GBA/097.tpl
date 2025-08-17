@@ -582,9 +582,9 @@ script 49 mmbn3 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Roubaram o controle
-	do sistema de cres-
-	cimento da Árvore?!
+	Roubaram o controle do
+	sistema de crescimento
+	da Árvore?!
 	"""
 	keyWait
 	clearMsg
@@ -1611,7 +1611,7 @@ script 227 mmbn3 {
 	"""
 	Apesar do hospital
 	tão moderno, essa TV
-	parece ancestral.
+	parece ancestral
 	"""
 	waitSkip
 		frames = 30

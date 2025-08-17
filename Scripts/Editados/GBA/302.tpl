@@ -21,9 +21,9 @@ script 1 mmbn3 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	Você também é bem for-
-	te, especialmente para
-	um Navi modelo comercial.
+	Você também é bem forte,
+	especialmente para um
+	Navi modelo comercial.
 	"""
 	keyWait
 	clearMsg

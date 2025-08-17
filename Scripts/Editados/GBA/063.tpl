@@ -878,7 +878,7 @@ script 224 mmbn3 {
 	msgOpen
 	"""
 	Este peixinho ganhou o
-	8o. Concurso Anual
+	8º Concurso Anual
 	Interclasse de Dourados!
 	"""
 	keyWait

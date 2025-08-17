@@ -11,8 +11,8 @@ script 0 mmbn3 {
 	clearMsg
 	"""
 	Agora, às regras. Para
-	começar, enquanto vo-
-	cês dormiam no barco,
+	começar, enquanto vocês
+	dormiam no barco,
 	"""
 	keyWait
 	clearMsg
@@ -30,9 +30,9 @@ script 0 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	mas suas pastas equipa-
-	das foram trocadas por
-	"
+	mas suas pastas
+	equipadas foram trocadas
+	por "
 	"""
 	printFolderName
 		buffer = 0

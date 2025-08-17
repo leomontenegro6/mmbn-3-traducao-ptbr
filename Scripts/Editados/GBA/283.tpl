@@ -6,8 +6,8 @@ script 0 mmbn3 {
 	msgOpen
 	"""
 	OK, pessoal!
-	Acorda pra vida! Chega-
-	mos na Ilha do Inferno!
+	Acorda pra vida! Chegamos
+	na Ilha do Inferno!
 	"""
 	keyWait
 	clearMsg
@@ -126,7 +126,7 @@ script 6 mmbn3 {
 		mugshot = BlackWoman
 	msgOpen
 	"""
-	Er, sr. Sunayama.
+	Er, Sr. Sunayama.
 	Ninguém vai fugir, então,
 	a gente pode ir logo?
 	"""

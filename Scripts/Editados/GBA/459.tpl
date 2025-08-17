@@ -2851,7 +2851,7 @@ script 150 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"OK "
+	"OK    "
 	option
 		left = 0
 		right = 0

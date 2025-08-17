@@ -82,8 +82,8 @@ script 4 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Mudando de assunto, es-
-	te quarto não é simples
+	Mudando de assunto, este
+	quarto não é simples
 	demais pra você, Yai?
 	"""
 	keyWait
@@ -285,8 +285,8 @@ script 14 mmbn3 {
 		palette = 2
 	msgOpen
 	"""
-	Uma donzela tem que fi-
-	car de olho nas calorias!
+	Uma donzela tem que ficar
+	de olho nas calorias!
 	Hi hi!
 	"""
 	keyWait

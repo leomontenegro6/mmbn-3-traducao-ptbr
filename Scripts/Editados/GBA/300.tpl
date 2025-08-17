@@ -18,9 +18,9 @@ script 1 mmbn3 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Sabe como os perdedo-
-	res caíram por aquele
-	buraco no chão?
+	Sabe como os perdedores
+	caíram por aquele buraco
+	no chão?
 	"""
 	keyWait
 	clearMsg
@@ -32,8 +32,8 @@ script 2 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	É! Ah, é, você também
-	caiu por ele!
+	É! Ah, é, você
+	também caiu por ele!
 	"""
 	keyWait
 	clearMsg
@@ -87,7 +87,7 @@ script 5 mmbn3 {
 	msgOpen
 	"""
 	Bom, ela bateu com
-	muito força e acabou
+	muita força e acabou
 	desmaiando.
 	"""
 	keyWait
@@ -241,8 +241,8 @@ script 16 mmbn3 {
 	clearMsg
 	"""
 	Ah, eu processo aquele
-	produtor Sunayama! Ar-
-	ranco cada Zenny dele!
+	produtor Sunayama!
+	Arranco cada Zenny dele!
 	"""
 	keyWait
 	clearMsg

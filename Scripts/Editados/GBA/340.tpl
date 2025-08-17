@@ -302,8 +302,8 @@ script 14 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Eu não posso ficar para-
-	do e ver um menino ter o
+	Eu não posso ficar parado
+	e ver um menino ter o
 	mesmo destino que o meu!
 	"""
 	keyWait

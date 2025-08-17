@@ -1013,8 +1013,8 @@ script 131 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Esses dados estão sen-
-	do utilizados no SciLab,
+	Esses dados estão sendo
+	utilizados no SciLab,
 	em diversos campos.
 	"""
 	keyWait

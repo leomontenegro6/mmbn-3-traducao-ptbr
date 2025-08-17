@@ -180,7 +180,7 @@ script 18 mmbn3 {
 	mugshotShow
 		mugshot = Mayl
 	msgOpen
-	"Ããnhhhhn…"
+	"Ããnhhhhn..."
 	keyWait
 	end
 }

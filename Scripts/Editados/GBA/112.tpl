@@ -1332,7 +1332,7 @@ script 46 mmbn3 {
 	mugshotShow
 		mugshot = MrProg
 	msgOpen
-	"SSSSSS…!!"
+	"SSSSSS...!!"
 	keyWait
 	clearMsg
 	mugshotHide

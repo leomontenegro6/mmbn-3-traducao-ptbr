@@ -101,7 +101,7 @@ script 6 mmbn3 {
 	"""
 	"Muito obrigado pelo
 	outro dia, Lan! Venha
-	me visitar de novo, OK?".
+	me visitar de novo, OK?"
 	"""
 	flagAddMail
 		flag = 4370

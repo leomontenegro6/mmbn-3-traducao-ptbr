@@ -41,7 +41,7 @@ script 4 mmbn3 {
 	mugshotShow
 		mugshot = LordWily
 	msgOpen
-	"He he he…"
+	"He he he..."
 	wait
 		frames = 16
 	"\nHaaa ha ha ha!"

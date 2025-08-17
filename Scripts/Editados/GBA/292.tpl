@@ -169,9 +169,9 @@ script 12 mmbn3 {
 	mugshotHide
 	msgOpen
 	"""
-	Agora, explicarei a próxi-
-	ma luta. Vocês usarão
-	uma nova pasta.
+	Agora, explicarei a
+	próxima luta. Vocês
+	usarão uma nova pasta.
 	"""
 	keyWait
 	clearMsg

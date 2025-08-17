@@ -83,8 +83,8 @@ script 3 mmbn3 {
 	msgOpen
 	"""
 	Cuidado onde pisa. Se
-	cair, pode acabar paran-
-	do no Inferno pra valer!
+	cair, pode acabar parando
+	no Inferno pra valer!
 	"""
 	keyWait
 	clearMsg

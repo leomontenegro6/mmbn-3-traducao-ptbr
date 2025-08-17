@@ -5,8 +5,8 @@ script 0 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan! Acorda! Já amanhe-
-	ceu! Se não corrermos,
+	Lan! Acorda! Já amanheceu!
+	Se não corrermos,
 	vamos nos atrasar!
 	"""
 	keyWait

@@ -95,7 +95,7 @@ script 19 mmbn3s {
 	end
 }
 script 20 mmbn3s {
-	"TickStub"
+	"PdçoMapa"
 	end
 }
 script 21 mmbn3s {

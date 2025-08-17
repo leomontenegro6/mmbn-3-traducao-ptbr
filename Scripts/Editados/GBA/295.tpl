@@ -175,8 +175,9 @@ script 13 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Tem alguma suspeita
-	nesse tal NetLutador Q.
+	Tem alguma coisa
+	suspeita nesse tal
+	NetLutador Q.
 	"""
 	keyWait
 	end
@@ -243,14 +244,14 @@ script 15 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	começarem as semi-
-	finais. Agora, atravessem
-	a Ponte da Vitória e
+	começarem as semifinais.
+	Agora, atravessem
+	a Ponte da Vitória
 	"""
 	keyWait
 	clearMsg
 	"""
-	sigam para o lado de
+	e sigam para o lado de
 	fora! Depois, entrem no
 	barco e voltem para o
 	"""

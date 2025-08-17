@@ -123,7 +123,7 @@ script 13 mmbn3 {
 	clearMsg
 	"""
 	eu te conto um segredo.
-	Erro #S2S, Código
+	Erro nºS2S, Código
 	"F[ModTools2]AAFETG"
 	"""
 	keyWait
@@ -147,7 +147,7 @@ script 20 mmbn3 {
 	"""
 	de desafiar um
 	"cavalhero" no ranque
-	#3! Ham-ram...!
+	nº 3! Ham-ram...!
 	"""
 	keyWait
 	end
@@ -159,7 +159,7 @@ script 21 mmbn3 {
 	"""
 	Admiro cê chegar tão
 	longe, mas cuidado com
-	o #3...
+	o nº 3...
 	"""
 	keyWait
 	end

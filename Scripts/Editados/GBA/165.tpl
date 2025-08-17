@@ -176,7 +176,7 @@ script 1 mmbn3 {
 	mugshotShow
 		mugshot = NormalNaviGreen
 	msgOpen
-	"Aí vai a missão #1."
+	"Aí vai a missão nº 1."
 	keyWait
 	clearMsg
 	"""
@@ -356,7 +356,7 @@ script 6 mmbn3 {
 	mugshotShow
 		mugshot = NormalNaviGreen
 	msgOpen
-	"Aqui vai a missão #2."
+	"Aqui vai a missão nº 2."
 	keyWait
 	clearMsg
 	"""
@@ -400,7 +400,7 @@ script 7 mmbn3 {
 	mugshotShow
 		mugshot = NormalNaviGreen
 	msgOpen
-	"E, por fim, a missão #3!"
+	"E, por fim, a missão nº 3!"
 	keyWait
 	clearMsg
 	"""

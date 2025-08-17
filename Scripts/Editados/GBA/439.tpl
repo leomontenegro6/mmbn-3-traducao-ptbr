@@ -245,7 +245,7 @@ script 12 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Até o sr. Cossak, que
+	Até o Sr. Cossak, que
 	criou você...
 	"""
 	keyWait
@@ -308,7 +308,7 @@ script 14 mmbn3 {
 	"""
 	Um sentimento de
 	confiança pelo
-	sr. Cossak!
+	Sr. Cossak!
 	"""
 	keyWait
 	clearMsg

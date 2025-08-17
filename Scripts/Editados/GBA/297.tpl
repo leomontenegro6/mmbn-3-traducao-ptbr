@@ -41,15 +41,15 @@ script 2 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Quê? Eu vim te buscar
-	pra você não se atra-
-	sar, e é assim que você
+	Quê? Eu vim te buscar pra
+	você não se atrasar, e é
+	assim que me agradece?
 	"""
 	keyWait
 	clearMsg
 	"""
-	me agradece? Tá bom,
-	então! Perde a luta!
+	Tá bom, então!
+	Perde a luta!
 	Tô pouco me lixando!
 	"""
 	keyWait

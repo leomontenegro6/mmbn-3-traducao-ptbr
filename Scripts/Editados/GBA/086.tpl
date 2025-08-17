@@ -213,8 +213,8 @@ script 15 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Se prepara pra enfren-
-	tar a fúria do meu
+	Se prepara pra enfrentar
+	a fúria do meu
 	GutsMan customizado!
 	"""
 	keyWait
@@ -1072,7 +1072,7 @@ script 81 mmbn3 {
 		mugshot = Maid
 	msgOpen
 	"""
-	Todo mundo fui assistir
+	Todo mundo foi assistir
 	à luta do Chaud.
 	"""
 	keyWait
@@ -2765,7 +2765,7 @@ script 237 mmbn3 {
 	"Conecte-se!"
 	keyWait
 	clearMsg
-	" Segunda-se feiras, às 21h,\n na DNN.\""
+	" Segundas-feiras, às 21h,\n na DNN.\""
 	keyWait
 	end
 }

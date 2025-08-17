@@ -922,7 +922,7 @@ script 114 mmbn3 {
 	mugshotShow
 		mugshot = Tamako
 	msgOpen
-	"……"
+	"......"
 	keyWait
 	end
 }

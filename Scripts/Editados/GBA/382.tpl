@@ -7,7 +7,7 @@ script 0 mmbn3 {
 	"""
 	Impressionante, garoto.
 	A partir de agora, você
-	é o ranque #10.
+	é o ranque nº 10.
 	"""
 	keyWait
 	clearMsg
@@ -189,7 +189,7 @@ script 10 mmbn3 {
 	"""
 	Ah! A gente esqueceu
 	de perguntar pra ele
-	onde tá o ranque #9!
+	onde tá o ranque nº 9!
 	"""
 	keyWait
 	clearMsg

@@ -550,8 +550,8 @@ script 38 mmbn3 {
 	msgOpen
 	"""
 	Estamos quase prontos.
-	Competidores, permane-
-	çam aqui, na recepção.
+	Competidores, permaneçam
+	aqui, na recepção.
 	"""
 	keyWait
 	end
@@ -1519,8 +1519,8 @@ script 130 mmbn3 {
 	msgOpen
 	"""
 	Estamos cientes da pre-
-	sença de um Navi suspei-
-	to por volta da DNN.
+	sença de um Navi suspeito
+	por volta da DNN.
 	"""
 	keyWait
 	clearMsg
@@ -1549,8 +1549,8 @@ script 140 mmbn3 {
 	msgOpen
 	"""
 	A DNN recebe todo visi-
-	tante de braços aber-
-	tos. Entrem, por favor!
+	tante de braços abertos.
+	Entrem, por favor!
 	"""
 	keyWait
 	clearMsg

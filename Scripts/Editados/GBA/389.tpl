@@ -7,7 +7,7 @@ script 0 mmbn3 {
 	"""
 	Quem ia imaginar que
 	chamaríamos a atenção
-	do #3, né?
+	do nº 3, né?
 	"""
 	keyWait
 	clearMsg

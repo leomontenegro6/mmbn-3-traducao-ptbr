@@ -85,7 +85,7 @@ script 5 mmbn3 {
 	clearMsg
 	"""
 	Se, ao menos, a gente
-	soubesse onde o #9 tá,
+	soubesse onde o nº 9 tá,
 	teríamos uma chance...
 	"""
 	keyWait
@@ -113,7 +113,7 @@ script 7 mmbn3 {
 	clearMsg
 	"""
 	Ah, é do Navi que era
-	o ranque #10!
+	o ranque nº 10!
 	Ele escreveu:
 	"""
 	keyWait
@@ -131,7 +131,7 @@ script 8 mmbn3 {
 		animation = 0
 	"""
 	"Esqueci de falar pra
-	vocês onde o Ranque #9
+	vocês onde o Ranque nº 9
 	tá. Ele estará...
 	"""
 	keyWait

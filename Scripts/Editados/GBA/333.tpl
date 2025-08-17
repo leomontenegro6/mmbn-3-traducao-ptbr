@@ -420,7 +420,7 @@ script 25 mmbn3 {
 	clearMsg
 	"""
 	Bom, nem quero pensar
-	o que vai ser daquele
+	no que vai ser daquele
 	seu amigo!
 	"""
 	keyWait

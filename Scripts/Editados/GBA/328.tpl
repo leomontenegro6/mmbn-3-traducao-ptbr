@@ -81,9 +81,9 @@ script 5 mmbn3 {
 		mugshot = Nurse
 	msgOpen
 	"""
-	O sistema de crescimen-
-	to da Árvore da Vida
-	pode estar defeituoso!
+	O sistema de crescimento
+	da Árvore da Vida pode
+	estar defeituoso!
 	"""
 	keyWait
 	clearMsg

@@ -760,8 +760,8 @@ script 29 mmbn3 {
 	color
 		palette = 3
 	"""
-	É preciso um chip de
-	Fogo aqui!
+	É preciso um chip
+	de Fogo aqui!
 	"""
 	keyWait
 	msgOpenInvisible
@@ -3032,7 +3032,7 @@ script 150 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"OK "
+	"OK    "
 	option
 		left = 0
 		right = 0

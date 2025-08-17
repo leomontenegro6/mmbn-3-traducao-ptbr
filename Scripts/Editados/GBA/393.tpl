@@ -30,7 +30,7 @@ script 2 mmbn3 {
 	mugshotHide
 	msgOpen
 	"""
-	Detentor do ranque #2!
+	Detentor do ranque nº 2!
 	Conecte-se.
 	"""
 	keyWait

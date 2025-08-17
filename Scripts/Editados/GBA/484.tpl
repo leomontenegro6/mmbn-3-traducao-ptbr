@@ -15,7 +15,7 @@ script 0 mmbn3 {
 		unused = 12
 	"""
 	Ouvi falar de você.
-	Eu sou o ranque #3.
+	Eu sou o ranque nº 3.
 	Se quer lutar,
 	"""
 	keyWait
@@ -26,7 +26,7 @@ script 0 mmbn3 {
 	"""
 	keyWait
 	clearMsg
-	"Te espero lá, #7."
+	"Te espero lá, nº 7."
 	keyWait
 	waitHold
 }
@@ -760,7 +760,7 @@ script 18 mmbn3 {
 		unused = 12
 	"""
 	Eu achei um chip
-	ultrarraro!
+	ultra raro!
 	"""
 	keyWait
 	clearMsg

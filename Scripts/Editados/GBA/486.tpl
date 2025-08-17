@@ -1260,7 +1260,7 @@ script 23 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	O Código do Erro #E1
+	O Código do Erro nº E1
 	é:
 	"P[ModTools2]I[ModTools3]MSJL".
 	"""
@@ -1288,7 +1288,7 @@ script 24 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	Acho que o Erro #E1
+	Acho que o Erro nº E1
 	se refere ao Código
 	da
 	"""
@@ -1384,21 +1384,17 @@ script 26 mmbn3 {
 		buffer = 0
 		program = 16
 	"""
-	 é o Erro # F3.
-	O código é
-	"ITA[ModTools2]CRWQ".
+	 é o Erro nº F3.
+	O código é "ITA[ModTools2]CRWQ".
 	"""
-	keyWait
-	clearMsg
 	keyWait
 	clearMsg
 	printNaviCustProgram
 		buffer = 0
 		program = 8
 	"""
-	é o Erro # B5.
-	O código é
-	"BM[ModTools2]KWIRA".
+	 é o Erro nº B5.
+	O código é "BM[ModTools2]KWIRA".
 	"""
 	keyWait
 	clearMsg

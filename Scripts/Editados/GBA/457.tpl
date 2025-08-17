@@ -206,7 +206,7 @@ script 52 mmbn3s {
 	end
 }
 script 53 mmbn3s {
-	"___Hosp Room■"
+	"QrtoHospital■"
 	end
 }
 script 54 mmbn3s {
@@ -646,7 +646,7 @@ script 182 mmbn3s {
 	end
 }
 script 183 mmbn3s {
-	"TV Board Cmp■"
+	"___CPU PC TV■"
 	end
 }
 script 184 mmbn3s {
@@ -777,7 +777,7 @@ script 217 mmbn3s {
 	end
 }
 script 218 mmbn3s {
-	"__Hades Isle■"
+	"Ilha Inferno■"
 	end
 }
 script 219 mmbn3s {

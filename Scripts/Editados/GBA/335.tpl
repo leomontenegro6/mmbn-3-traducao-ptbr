@@ -92,8 +92,8 @@ script 4 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Devo entrar no progra-
-	ma da sala de cirurgia e
+	Devo entrar no programa
+	da sala de cirurgia e
 	roubar o TetraCódigo.
 	"""
 	keyWait

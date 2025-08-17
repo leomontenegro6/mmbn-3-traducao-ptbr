@@ -45,7 +45,7 @@ script 190 mmbn3 {
 	clearMsg
 	"""
 	Pois prepara pra sofrer!
-	Toma esta!!
+	Toma essa!!
 	"""
 	keyWait
 	clearMsg

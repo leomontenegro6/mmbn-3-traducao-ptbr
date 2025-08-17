@@ -69,15 +69,15 @@ script 2 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Nosso querido patroci-
-	nador está de olho
-	neste torneio
+	Nosso querido
+	patrocinador está
+	de olho neste torneio
 	"""
 	keyWait
 	clearMsg
 	"""
-	dali de cima, da sala de
-	edição!
+	dali de cima,
+	da sala de edição!
 	"""
 	keyWait
 	end
@@ -328,7 +328,7 @@ script 12 mmbn3 {
 		mugshot = BlackMan
 	msgOpen
 	"""
-	Ei, sr. Sunayama!
+	Ei, Sr. Sunayama!
 	"""
 	keyWait
 	clearMsg
@@ -532,8 +532,8 @@ script 21 mmbn3 {
 	mugshotHide
 	msgOpen
 	"""
-	Uma cerimônia de abertu-
-	ra cheia de reviravoltas
+	Uma cerimônia de abertura
+	cheia de reviravoltas
 	inesperadas!
 	"""
 	keyWait
@@ -547,8 +547,8 @@ script 21 mmbn3 {
 	clearMsg
 	"""
 	E vocês nem imaginam o
-	que aguarda nossos he-
-	róis em sua embarcação!
+	que aguarda nossos heróis
+	em sua embarcação!
 	"""
 	keyWait
 	end

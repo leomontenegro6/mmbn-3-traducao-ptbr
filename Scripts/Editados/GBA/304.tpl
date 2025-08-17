@@ -183,7 +183,7 @@ script 11 mmbn3 {
 	"""
 	Então, o Chaud é o
 	herdeiro da fortuna
-	IPC...!
+	da IPC...!
 	"""
 	keyWait
 	clearMsg

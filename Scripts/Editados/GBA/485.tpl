@@ -53,11 +53,11 @@ script 12 mmbn3s {
 	end
 }
 script 13 mmbn3s {
-	" Poteno   N1Grand Prix!"
+	" Poteno   Gd Prêmio N1!"
 	end
 }
 script 14 mmbn3s {
-	" Nukin    RE:N1Grand Pr"
+	" Nukin    RE:GdPrêmioN1"
 	end
 }
 script 15 mmbn3s {

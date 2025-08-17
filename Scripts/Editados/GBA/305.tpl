@@ -347,7 +347,7 @@ script 21 mmbn3 {
 	msgOpen
 	"""
 	Enfim, vamos indo, Lan.
-	Acho que já de por hoje!
+	Acho que já deu por hoje!
 	"""
 	keyWait
 	clearMsg

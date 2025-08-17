@@ -314,7 +314,7 @@ script 32 mmbn3 {
 	msgOpen
 	"""
 	Tenho uma reunião
-	marcada no 42o. andar.
+	marcada no 42º andar.
 	Aleluia pelo elevador!
 	"""
 	keyWait

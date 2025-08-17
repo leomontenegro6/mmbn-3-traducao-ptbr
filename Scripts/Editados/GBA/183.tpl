@@ -839,7 +839,7 @@ script 61 mmbn3 {
 	msgOpen
 	"""
 	Hã?! Caramba!
-	Cê já tá no ranque #7?!
+	Cê já tá no ranque nº 7?!
 	"""
 	keyWait
 	clearMsg
@@ -862,7 +862,7 @@ script 62 mmbn3 {
 	"""
 	Não vai ficar todo
 	convencido só porque
-	tu é o #7 agora!
+	tu é o nº 7 agora!
 	"""
 	keyWait
 	clearMsg
@@ -879,7 +879,7 @@ script 63 mmbn3 {
 		mugshot = HeelNavi
 	msgOpen
 	"""
-	Mano... Tu já virou o #7...
+	Mano... Tu já virou o nº 7...
 	"""
 	keyWait
 	clearMsg
@@ -892,7 +892,7 @@ script 63 mmbn3 {
 	clearMsg
 	"""
 	Especialmente o Navi
-	do ranque #3...
+	do ranque nº 3...
 	"""
 	keyWait
 	end
@@ -1024,14 +1024,14 @@ script 75 mmbn3 {
 	msgOpen
 	"""
 	Cê tá tão perto do
-	ranque #1...
+	ranque nº 1...
 	"""
 	keyWait
 	clearMsg
 	"""
 	Ninguém aqui nunca 
 	sequer VIU a pessoa
-	que é ranque #1!
+	que é ranque nº 1!
 	"""
 	keyWait
 	clearMsg

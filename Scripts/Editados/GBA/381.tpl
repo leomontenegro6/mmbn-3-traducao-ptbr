@@ -54,7 +54,7 @@ script 2 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	O Navi de ranque #10
+	O Navi de ranque nº 10
 	está lhe esperando
 	"onde o mal cai".
 	"""
@@ -79,7 +79,7 @@ script 4 mmbn3 {
 	"""
 	Se derrotar esse Navi,
 	você ocupará o ranque
-	#10.
+	nº 10.
 	"""
 	keyWait
 	clearMsg

@@ -1457,9 +1457,9 @@ script 55 mmbn3 {
 	color
 		palette = 3
 	"""
-	Ferramenta que permite
-	a você customizar um
-	Navi.
+	Permite contornar erros
+	no Customizador com o
+	uso de códigos.
 	"""
 	waitHold
 }

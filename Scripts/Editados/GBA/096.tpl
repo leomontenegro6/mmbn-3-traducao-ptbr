@@ -137,15 +137,15 @@ script 13 mmbn3 {
 		mugshot = OldWoman
 	msgOpen
 	"""
-	Quem ainda pode an-
-	dar com as próprias
-	pernas têm sorte.
+	Quem ainda pode andar
+	com as próprias
+	pernas tem sorte.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Só aprendemos a va-
-	lorizar as coisas
+	Só aprendemos a
+	valorizar as coisas
 	quando perdemos...
 	"""
 	keyWait
@@ -365,8 +365,8 @@ script 35 mmbn3 {
 	msgOpen
 	"""
 	Você fez a árvore
-	parar de sofrer mu-
-	tações! Bom menino.
+	parar de sofrer
+	mutações! Bom menino.
 	"""
 	keyWait
 	end
@@ -632,9 +632,8 @@ script 221 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Ela abre automatica-
-	mente para casos de
-	emergência.
+	Ela abre automaticamente
+	em casos de emergência.
 	"""
 	keyWait
 	end

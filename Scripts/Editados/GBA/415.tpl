@@ -34,7 +34,7 @@ script 2 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	………
+	.........
 	Lan!! Em cima de ti!!
 	"""
 	keyWait

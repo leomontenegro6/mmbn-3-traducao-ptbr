@@ -140,9 +140,9 @@ script 9 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Devido a elas, maior par-
-	te do maquinário do hos-
-	pital parou de funcionar!
+	Devido a elas, maior parte
+	do maquinário do hospital
+	parou de funcionar!
 	"""
 	keyWait
 	clearMsg

@@ -261,7 +261,7 @@ script 6 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	O Erro dele é #G2G.
+	O Erro dele é nº G2G.
 	Vai lá, gente,
 	dá essa força aí!
 	"""
@@ -311,12 +311,12 @@ script 8 mmbn3 {
 	"""
 	Ô! Otário que postou
 	agora! Esse código
-	é pro Erro# G2C!
+	é pro Erro nº G2C!
 	"""
 	keyWait
 	clearMsg
 	"""
-	O # de Erro do Giga1
+	O nº de Erro do Giga1
 	muda dependendo
 	do estilo do Navi.
 	"""
@@ -330,7 +330,7 @@ script 8 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	O # de Erro dele é
+	O nº de Erro dele é
 	G2G.
 	"""
 	keyWait
@@ -411,7 +411,7 @@ script 11 mmbn3 {
 		unused = 12
 	"""
 	Alguém... Me fala o
-	código pro Erro #H2...
+	código pro Erro nº H2...
 	"""
 	keyWait
 	waitHold
@@ -444,7 +444,7 @@ script 12 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Aí vai: Erro # H2
+	Aí vai: Erro nº H2
 	Código:
 	"UTIW[ModTools2]SMF".
 	"""

@@ -273,8 +273,8 @@ script 193 mmbn3 {
 	msgOpen
 	"""
 	O tempo está contra nós!
-	Lembre-se: oportunida-
-	des são momentâneas!
+	Lembre-se: oportunidades
+	são momentâneas!
 	"""
 	keyWait
 	end

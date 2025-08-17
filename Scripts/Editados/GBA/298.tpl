@@ -193,7 +193,7 @@ script 11 mmbn3 {
 		mugshot = Ribitta
 	msgOpen
 	"""
-	... C-certo, então! O sr. Q
+	... C-certo, então! O Sr. Q
 	parece ser um homem de
 	ação, não de palavras!
 	"""

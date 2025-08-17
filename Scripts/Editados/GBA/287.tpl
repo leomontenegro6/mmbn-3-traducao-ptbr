@@ -26,8 +26,8 @@ script 0 mmbn3 {
 	clearMsg
 	"""
 	de seus destinos.
-	Quais portas, exata-
-	mente, essas serão,
+	Quais portas, exatamente,
+	essas serão,
 	"""
 	keyWait
 	clearMsg
@@ -52,9 +52,9 @@ script 1 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Beleza! Eu decido primei-
-	ro! Todas as portas
-	dão num pesadelo, né?
+	Beleza! Eu decido primeiro!
+	Todas as portas dão num
+	pesadelo, né?
 	"""
 	keyWait
 	clearMsg
@@ -84,9 +84,9 @@ script 2 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Se bem que "perfeição"
-	é um negócio meio estra-
-	nho pro Inferno...
+	Se bem que "perfeição" é
+	um negócio meio estranho
+	pro Inferno...
 	"""
 	keyWait
 	clearMsg

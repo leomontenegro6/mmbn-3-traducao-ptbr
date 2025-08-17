@@ -5,8 +5,9 @@ script 0 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan! Este lugar também
-	tá coberto de digivinhas!
+	Lan! Este lugar
+	também tá coberto
+	de cyberplantas!
 	"""
 	keyWait
 	clearMsg

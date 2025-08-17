@@ -423,8 +423,8 @@ script 190 mmbn3 {
 	clearMsg
 	"""
 	O meu excelentíssimo
-	operador é um veteriná-
-	rio de zoológico, ei!
+	operador é um veterinário
+	de zoológico, ei!
 	"""
 	keyWait
 	clearMsg

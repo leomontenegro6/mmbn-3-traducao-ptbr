@@ -822,8 +822,8 @@ script 11 mmbn3 {
 		unused = 12
 	"""
 	Oiê! Alguém aí tem um Navi
-	masculino gentil, inteligen-
-	te, forte e bonitão?
+	masculino gentil, inteligente,
+	forte e bonitão?
 	"""
 	keyWait
 	clearMsg
@@ -3937,8 +3937,8 @@ script 169 mmbn3 {
 	clearMsg
 	"""
 	feito. Mas, olha, certas
-	pessoas se aproveita-
-	riam da sua gentileza.
+	pessoas se aproveitariam
+	da sua gentileza.
 	"""
 	keyWait
 	clearMsg

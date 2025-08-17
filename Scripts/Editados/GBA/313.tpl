@@ -166,9 +166,9 @@ script 10 mmbn3 {
 		mugshot = Tora
 	msgOpen
 	"""
-	Ah, é. Pois é, eu me to-
-	quei que tem muito Net-
-	Lutador forte por aí.
+	Ah, é. Pois é, eu me
+	toquei que tem muito
+	NetLutador forte por aí.
 	"""
 	keyWait
 	clearMsg
@@ -344,8 +344,8 @@ script 20 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Quero fazer um dinheiri-
-	nho no Fórum de Tarefas
+	Quero fazer um dinheirinho
+	no Quadro de Pedidos
 	do SciLab amanhã.
 	"""
 	keyWait

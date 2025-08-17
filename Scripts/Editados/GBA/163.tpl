@@ -1130,8 +1130,8 @@ script 131 mmbn3 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	As coisas andam perigo-
-	sas. Por isso, vamos
+	As coisas andam
+	perigosas. Por isso, vamos
 	aumentar as patrulhas.
 	"""
 	keyWait

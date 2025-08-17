@@ -625,7 +625,7 @@ script 60 mmbn3 {
 	mugshotShow
 		mugshot = NormalNaviGreen
 	msgOpen
-	"\"Inimigos dos vírus\"…?"
+	"\"Inimigos dos vírus\"...?"
 	keyWait
 	clearMsg
 	"""
@@ -913,9 +913,9 @@ script 121 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	É o covil dos NetCrimino-
-	sos. E, naturalmente, dá
-	um medão...
+	É o covil dos NetCriminosos.
+	E, naturalmente, dá um
+	medão...
 	"""
 	keyWait
 	end

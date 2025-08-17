@@ -182,7 +182,7 @@ script 9 mmbn3 {
 	"""
 	Agora, só precisamos
 	descobrir onde está o
-	Navi #7.
+	Navi nº 7.
 	"""
 	keyWait
 	end
@@ -219,7 +219,7 @@ script 12 mmbn3 {
 	msgOpen
 	"""
 	Eu? Eu sou... bom, ERA,
-	o #8! Aquele Besta-Man
+	o nº 8! Aquele Besta-Man
 	ou sei lá me venceu.
 	"""
 	keyWait
@@ -236,7 +236,7 @@ script 12 mmbn3 {
 	clearMsg
 	"""
 	eu vou te contar a
-	dica pra achar o #7.
+	dica pra achar o nº 7.
 	"""
 	keyWait
 	clearMsg
@@ -260,7 +260,7 @@ script 14 mmbn3 {
 	"""
 	"Líder do aprendizado".
 	Essa é a pista para
-	achar o #7. Boa sorte!
+	achar o nº 7. Boa sorte!
 	"""
 	keyWait
 	clearMsg

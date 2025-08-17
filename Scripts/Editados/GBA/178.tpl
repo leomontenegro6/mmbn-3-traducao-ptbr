@@ -156,7 +156,7 @@ script 11 mmbn3 {
 	msgOpen
 	"""
 	Grrr...
-	Eu sou o ranque #8. 
+	Eu sou o ranque nº 8. 
 	"""
 	keyWait
 	clearMsg

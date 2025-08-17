@@ -353,8 +353,8 @@ script 141 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Tomara que dê tudo cer-
-	to com a operação do
+	Tomara que dê tudo
+	certo com a operação do
 	Mamoru! Bom, pra casa?
 	"""
 	keyWait

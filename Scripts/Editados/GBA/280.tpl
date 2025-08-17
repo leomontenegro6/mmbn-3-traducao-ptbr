@@ -70,8 +70,8 @@ script 1 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	O que cê tá choramingan-
-	do aí, Lan? A verdadeira
+	O que cê tá choramingando
+	aí, Lan? A verdadeira
 	luta ainda tá por vir!
 	"""
 	keyWait

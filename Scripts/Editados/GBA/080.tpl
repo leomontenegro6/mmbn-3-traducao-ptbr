@@ -470,8 +470,8 @@ script 68 mmbn3 {
 	msgOpen
 	"""
 	Então, com as pedras
-	de letras, só podem ser
-	trios iguais, é isso?
+	de caractere, só podem
+	ser trios iguais, é isso?
 	"""
 	keyWait
 	end
@@ -577,8 +577,8 @@ script 85 mmbn3 {
 		mugshot = PigtailsGirl
 	msgOpen
 	"""
-	Eu não vou desistir até
-	vencer!
+	Eu não vou desistir
+	até vencer!
 	"""
 	keyWait
 	end
@@ -682,7 +682,7 @@ script 102 mmbn3 {
 	clearMsg
 	mugshotHide
 	"""
-	Ele está estudando
+	Ela está estudando
 	as regras
 	desesperadamente.
 	"""
@@ -758,9 +758,9 @@ script 108 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Eu achei que era de
-	espadas, não de paus!
-	Poxa...!
+	Eu achei que era um
+	ponto cardeal, mas era
+	um dragão! Poxa...!
 	"""
 	keyWait
 	end
@@ -809,8 +809,8 @@ script 113 mmbn3 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	Caramba! Eu tô imbatível
-	agora!!
+	Caramba!
+	Eu tô imbatível agora!!
 	"""
 	keyWait
 	end
@@ -932,8 +932,7 @@ script 126 mmbn3 {
 	msgOpen
 	"""
 	Acho que hoje não é
-	mesmo meu dia de
-	sorte...
+	mesmo meu dia de sorte...
 	"""
 	keyWait
 	end
@@ -944,8 +943,8 @@ script 127 mmbn3 {
 	msgOpen
 	"""
 	Eu posso ouvir as
-	peças me dizendo o que
-	jogar...
+	peças me dizendo o
+	que jogar...
 	"""
 	keyWait
 	clearMsg
@@ -1012,9 +1011,9 @@ script 132 mmbn3 {
 		mugshot = PigtailsGirl
 	msgOpen
 	"""
-	Se, ao menos, deter a
-	WWW fosse tão fácil quan-
-	to vencer no mahjong!
+	Se, ao menos, deter a WWW
+	fosse tão fácil quanto
+	vencer no mahjong!
 	"""
 	keyWait
 	clearMsg

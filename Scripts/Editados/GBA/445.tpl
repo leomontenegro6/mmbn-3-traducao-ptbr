@@ -1027,7 +1027,7 @@ script 59 mmbn3 {
 	clearMsg
 	"""
 	Ah, é mesmo! Tora!
-	Como tá o sr. Cossak?
+	Como tá o Sr. Cossak?
 	"""
 	keyWait
 	clearMsg
@@ -1385,7 +1385,7 @@ script 81 mmbn3 {
 	"""
 	Sobre o MegaMan...
 	Sobre o Wily...
-	Sobre o sr. Cossak...
+	Sobre o Sr. Cossak...
 	"""
 	keyWait
 	clearMsg

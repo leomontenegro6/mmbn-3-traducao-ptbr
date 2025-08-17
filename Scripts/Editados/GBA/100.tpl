@@ -1627,7 +1627,7 @@ script 234 mmbn3 {
 		down = 2
 	space
 		count = 2
-	"2 "
+	"  2 "
 	option
 		left = 0
 		right = 0
@@ -1635,7 +1635,7 @@ script 234 mmbn3 {
 		down = 2
 	space
 		count = 2
-	"1\n"
+	"     1\n"
 	option
 		left = 1
 		right = 1
@@ -1643,7 +1643,7 @@ script 234 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Ficar"
+	"  Ficar"
 	select
 		default = 0
 		BSeparate = false

@@ -351,9 +351,9 @@ script 190 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	mas são dados particula-
-	res, que não deviam
-	sair da escola.
+	mas são dados
+	particulares, que não
+	deviam sair da escola.
 	"""
 	keyWait
 	clearMsg

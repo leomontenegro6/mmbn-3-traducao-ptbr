@@ -22,7 +22,7 @@ script 1 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	O ser #1! Ninguém jamais
+	O ser nº 1! Ninguém jamais
 	lutou com S e viveu
 	para contar a história.
 	"""
@@ -62,7 +62,7 @@ script 3 mmbn3 {
 	"""
 	Eu não sei.
 	Mas o Navi de ranque
-	#2 deve saber.
+	nº 2 deve saber.
 	"""
 	keyWait
 	clearMsg
@@ -175,7 +175,7 @@ script 10 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	A pista pra achar o #2
+	A pista pra achar o nº 2
 	era "Local de batalha",
 	né?
 	"""

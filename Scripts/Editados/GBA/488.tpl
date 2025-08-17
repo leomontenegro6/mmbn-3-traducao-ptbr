@@ -328,7 +328,7 @@ script 6 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Au usá-lo, só é preciso
+	Ao usá-lo, só é preciso
 	seguir algumas regras
 	bem simples.
 	"""
@@ -533,7 +533,7 @@ script 10 mmbn3 {
 	clearMsg
 	"""
 	pra SetLava,
-	Erro # B3, é
+	Erro nº B3, é
 	"Y[ModTools2]UOMNCB".
 	"""
 	keyWait
@@ -859,7 +859,7 @@ script 16 mmbn3 {
 	clearMsg
 	"""
 	instalo, ocorre um erro
-	(#B2)! Alguém sabe o
+	(nº B2)! Alguém sabe o
 	CódigoMod dele?
 	"""
 	keyWait
@@ -1004,7 +1004,7 @@ script 19 mmbn3 {
 		buffer = 0
 		program = 5
 	"""
-	 é: Erro #B2
+	 é: Erro nº B2
 	"ALSK[ModTools3]W[ModTools2]R".
 	"""
 	keyWait

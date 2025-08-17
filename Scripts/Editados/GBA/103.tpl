@@ -133,8 +133,8 @@ script 6 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Se prepara pra enfren-
-	tar a fúria do meu
+	Se prepara pra enfrentar
+	a fúria do meu
 	GutsMan customizado!
 	"""
 	keyWait

@@ -46,8 +46,8 @@ script 1 mmbn3 {
 		mugshot = Woman
 	msgOpen
 	"""
-	O meu marido tá atrasa-
-	do. Ele tem que correr,
+	O meu marido tá atrasado.
+	Ele tem que correr,
 	vamos perder o N1!
 	"""
 	keyWait

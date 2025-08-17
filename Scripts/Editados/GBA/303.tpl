@@ -285,7 +285,7 @@ script 11 mmbn3 {
 	clearMsg
 	"""
 	Está começando a
-	entender, agora,
+	entender agora,
 	mocinho?
 	"""
 	keyWait
@@ -312,7 +312,7 @@ script 13 mmbn3 {
 	"""
 	Chaud! O que você tá
 	fazendo? Esse cara é
-	um operado da WWW!
+	um operador da WWW!
 	"""
 	keyWait
 	clearMsg
@@ -392,7 +392,7 @@ script 18 mmbn3 {
 	msgOpen
 	"""
 	Você fica aqui, Lan.
-	Isto é entre mim e ele.
+	Isto é entre eu e ele.
 	"""
 	keyWait
 	end
@@ -422,7 +422,7 @@ script 19 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	O sr. Sunayama chamou
+	O Sr. Sunayama chamou
 	Chaud para a sala de
 	edição no segundo andar.
 	"""
@@ -463,7 +463,7 @@ script 22 mmbn3 {
 		mugshot = Ribitta
 	msgOpen
 	"""
-	Ai, não! O sr. Sunayama
+	Ai, não! O Sr. Sunayama
 	desapareceu enquanto
 	estava tudo apagado!
 	"""

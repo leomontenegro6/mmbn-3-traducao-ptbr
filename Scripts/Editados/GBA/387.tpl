@@ -37,7 +37,7 @@ script 2 mmbn3 {
 	clearMsg
 	"""
 	MegaMan, hora de
-	encontrar o #7!
+	encontrar o nº 7!
 	"""
 	keyWait
 	clearMsg

@@ -315,7 +315,7 @@ script 191 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"O 4o.\n"
+	"O 4º\n"
 	option
 		left = 1
 		right = 1
@@ -323,7 +323,7 @@ script 191 mmbn3 {
 		down = 2
 	space
 		count = 2
-	"O 8o.\n"
+	"O 8º\n"
 	option
 		left = 2
 		right = 2
@@ -331,7 +331,7 @@ script 191 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"O 11o."
+	"O 11º"
 	select
 		default = 0
 		BSeparate = false

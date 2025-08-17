@@ -344,7 +344,7 @@ script 193 mmbn3 {
 	soundDisableChoiceSFX
 	"""
 	Correto!
-	Agora, à pergunta #3!
+	Agora, à pergunta nº 3!
 	"""
 	keyWait
 	clearMsg

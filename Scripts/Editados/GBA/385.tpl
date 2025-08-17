@@ -6,7 +6,7 @@ script 0 mmbn3 {
 	msgOpen
 	"""
 	Você é o Navi ranque
-	#9?
+	nº 9?
 	"""
 	keyWait
 	clearMsg
@@ -32,7 +32,7 @@ script 2 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Eu sou o Ranque #10.
+	Eu sou o Ranque nº 10.
 	MegaMan.EXE.
 	"""
 	keyWait
@@ -300,7 +300,7 @@ script 17 mmbn3 {
 	msgOpen
 	"""
 	Agora, você está
-	ranqueado como #9.
+	ranqueado como nº 9.
 	"""
 	keyWait
 	clearMsg
@@ -323,7 +323,7 @@ script 19 mmbn3 {
 	msgOpen
 	"""
 	Você pode achar o
-	Navi de ranque #8...
+	Navi de ranque nº 8...
 	Hmm, vejamos...
 	"""
 	keyWait
@@ -343,7 +343,7 @@ script 20 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	A dica pra achar o #8
+	A dica pra achar o nº 8
 	é "Rednu3"?
 	"""
 	keyWait

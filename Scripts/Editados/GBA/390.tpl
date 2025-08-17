@@ -63,7 +63,7 @@ script 4 mmbn3 {
 	msgOpen
 	"""
 	Qual de vocês é o
-	ranque #3?!
+	ranque nº 3?!
 	"""
 	keyWait
 	end
@@ -503,7 +503,7 @@ script 33 mmbn3 {
 	clearMsg
 	"""
 	Eu sou o Navi de ranque
-	#3! CopyMan!
+	nº 3! CopyMan!
 	"""
 	keyWait
 	clearMsg
@@ -521,7 +521,7 @@ script 34 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Você é o #3?"
+	"Você é o nº 3?"
 	keyWait
 	clearMsg
 	"""
@@ -541,7 +541,7 @@ script 35 mmbn3 {
 	"""
 	Meus subordinados, sim.
 	Os Navis de ranques
-	#6, 5 e 4.
+	nº 6, 5 e 4.
 	"""
 	keyWait
 	clearMsg

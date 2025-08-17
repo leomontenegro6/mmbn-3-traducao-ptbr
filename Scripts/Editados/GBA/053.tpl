@@ -591,8 +591,8 @@ script 40 mmbn3 {
 	clearMsg
 	"""
 	Tem um certo Navi lá
-	que absolutamente tudo
-	sobre 
+	que sabe absolutamente
+	tudo sobre 
 	"""
 	printEnemyName
 		buffer = 0
@@ -662,7 +662,7 @@ script 46 mmbn3 {
 	msgOpen
 	"""
 	Por que estão todos tão
-	animados? Aconteceu
+	chateados? Aconteceu
 	alguma coisa?
 	"""
 	keyWait

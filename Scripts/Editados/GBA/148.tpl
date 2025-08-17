@@ -50,7 +50,7 @@ script 10 mmbn3 {
 	clearMsg
 	"""
 	Então, você é o Navi
-	do ranque #3?
+	do ranque nº 3?
 	"""
 	keyWait
 	clearMsg

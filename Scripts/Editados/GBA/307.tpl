@@ -72,10 +72,8 @@ script 3 mmbn3 {
 	"""
 	Ela tava naquele
 	hospital que fica
+	na Rua Angra, né?
 	"""
-	keyWait
-	clearMsg
-	"na Rua Angra, né?"
 	keyWait
 	clearMsg
 	jump
@@ -87,12 +85,12 @@ script 4 mmbn3 {
 	msgOpen
 	"""
 	É, acho que o nome dele
-	é "Hospital Beira-Mar",
+	é "Hospital Beira-Mar".
 	"""
 	keyWait
 	clearMsg
 	"""
-	fica lá no fim da Rua
+	Fica lá no fim da Rua
 	Angra.
 	"""
 	keyWait
