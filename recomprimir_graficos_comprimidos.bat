@@ -15,11 +15,6 @@ del ".\Graficos\Recomprimidos\Telas Foruns.gba"
 copy ".\Graficos\Editados\Telas Foruns.gba" ".\Graficos\Recomprimidos\"
 .\Ferramentas\lzss.exe -evn ".\Graficos\Recomprimidos\Telas Foruns.gba"
 
-echo Game Over
-del ".\Graficos\Recomprimidos\Game Over.gba"
-copy ".\Graficos\Editados\Game Over.gba" ".\Graficos\Recomprimidos\"
-.\Ferramentas\lzss.exe -evn ".\Graficos\Recomprimidos\Game Over.gba"
-
 echo Nomes da tela de troca de chips
 del ".\Graficos\Recomprimidos\Nomes tela troca chips.gba"
 copy ".\Graficos\Editados\Nomes tela troca chips.gba" ".\Graficos\Recomprimidos\"

@@ -44,6 +44,11 @@ if "%2"=="-t" (
 )
 cd ..\..\
 
+echo ==Tela Game Over japonesa==
+cd .\Asm\bn3addgameover\
+call build.bat -w
+cd ..\..\
+
 echo ==Graficos descomprimidos==
 call recomprimir_graficos_comprimidos.bat
 .\Ferramentas\armips.exe .\Asm\graficos_versao_branca.asm
@@ -78,6 +83,11 @@ if "%2"=="-t" (
 ) else (
     call build.bat -b
 )
+cd ..\..\
+
+echo ==Tela Game Over japonesa==
+cd .\Asm\bn3addgameover\
+call build.bat -b
 cd ..\..\
 
 echo ==Graficos==

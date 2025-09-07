@@ -1,0 +1,20 @@
+/**
+ * Script de reempacotamento dos gráficos de Game Over da versão japonesa.
+ *
+ * Feito para ser executado pelo programa "PixelPet", com o parâmetro
+ * `Run-Script {nome_do_arquivo.ppl}`, que executará as instruções abaixo.
+ * Para melhor visualizar esse arquivo, mude a linguagem para C++ no editor
+ * de sua preferência.
+ */
+
+Import-Bitmap "data/gameover.pal.png"
+Read-Palettes
+
+Import-Bitmap "data/gameover_editado.img.png"
+Generate-Tilemap GBA-4BPP
+
+Serialize-Tileset
+Export-Bytes "data/gameover_editado.img.bin"
+
+Serialize-Tilemap --base-tile 1 --first-tile 1
+Export-Bytes "data/gameover_editado.map.bin"

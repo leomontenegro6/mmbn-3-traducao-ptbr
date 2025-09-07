@@ -1,0 +1,23 @@
+/**
+ * Script de extração dos gráficos de Game Over da versão japonesa para PNG.
+ *
+ * Feito para ser executado pelo programa "PixelPet", com o parâmetro
+ * `Run-Script {nome_do_arquivo.ppl}`, que executará as instruções abaixo.
+ * Para melhor visualizar esse arquivo, mude a linguagem para C++ no editor
+ * de sua preferência.
+ */
+
+Import-Bytes "data/gameover.pal.bin"
+Deserialize-Palettes GBA
+
+Import-Bytes "data/gameover.map.bin"
+Deserialize-Tilemap GBA-4BPP --tile-count 640 --base-tile 1
+
+Import-Bytes "data/gameover.img.bin"
+Deserialize-Tileset GBA-4BPP
+
+Render-Tilemap 32 20
+Export-Bitmap "data/gameover.img.png"
+
+Render-Palettes
+Export-Bitmap "data/gameover.pal.png"

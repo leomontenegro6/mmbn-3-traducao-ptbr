@@ -351,10 +351,6 @@ BattleXStartOams:
 .org 0x087ED4BC
     .incbin "Graficos/Editados/BugFrag.gba"
 
-; Editando tilemap do Game Over
-.org 0x087FA444
-    .incbin "Graficos/Editados/Game Over (tm).gba"
-
 ; Editando gráfico de "Presented by Capcom", após os créditos.
 .org 0x087FA4D0
     .incbin "Graficos/Editados/Presented By Capcom.gba"
@@ -419,8 +415,6 @@ BattleXStartOams:
     .dw hospital_operate
 .org 0x08025300
     .dw hospital_operate
-.org 0x080472F0
-    .dw game_over
 
 .org 0x080251B0 + 0x30
     .dw yoka_barracas_td
@@ -525,10 +519,6 @@ yoka_ura_inn:
 
 yoka_onsen:
     .incbin "Graficos/Recomprimidos/Yoka - Onsen.gba"
-    .align
-
-game_over:
-    .incbin "Graficos/Recomprimidos/Game Over.gba"
     .align
 
 fonte_creditos:
