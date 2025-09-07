@@ -1063,9 +1063,9 @@ script 121 mmbn3 {
 		mugshot = ZooWoman
 	msgOpen
 	"""
-	Estou pensando em, tal-
-	vez, mandar os animais
-	de volta aos seus lares.
+	Tô pensando em, talvez,
+	mandar os animais de
+	volta aos seus lares.
 	"""
 	keyWait
 	clearMsg
@@ -1426,8 +1426,8 @@ script 220 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Seu significado é profun-
-	do demais para pessoas
+	Seu significado é profundo
+	demais para pessoas
 	normais compreenderem.
 	"""
 	keyWait
@@ -1485,8 +1485,8 @@ script 223 mmbn3 {
 		jumpIfOutOfRange = continue
 	msgOpen
 	"""
-	Os gorilas parecem feli-
-	zes, sentados em paz,
+	Os gorilas parecem felizes,
+	sentados em paz,
 	limpando uns aos outros.
 	"""
 	keyWait
@@ -1504,8 +1504,8 @@ script 224 mmbn3 {
 		jumpIfFalse = 240
 	msgOpen
 	"""
-	O condor se posta para-
-	do, como uma estátua,
+	O condor se posta parado,
+	como uma estátua,
 	piscando ocasionalmente.
 	"""
 	keyWait

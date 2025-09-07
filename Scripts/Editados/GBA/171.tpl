@@ -1382,8 +1382,8 @@ script 102 mmbn3 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	A Undernet é um comple-
-	to mistério pra usuários
+	A Undernet é um completo
+	mistério pra usuários
 	normais da Rede.
 	"""
 	keyWait
@@ -1519,9 +1519,9 @@ script 120 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Navis e programas fra-
-	cos já estão apresen-
-	tando mau funcionamento!
+	Navis e programas fracos
+	já estão apresentando
+	mau funcionamento!
 	"""
 	keyWait
 	clearMsg
@@ -1746,8 +1746,7 @@ script 192 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	Você deu uma surra
-	neles!
+	Você deu uma surra neles!
 	Muito obrigado!
 	"""
 	keyWait

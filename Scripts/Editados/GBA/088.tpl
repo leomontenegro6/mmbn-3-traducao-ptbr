@@ -114,8 +114,8 @@ script 50 mmbn3 {
 	clearMsg
 	"""
 	Com todos os problemas
-	que eles andam causan-
-	do, não podemos relaxar!
+	que eles andam causando,
+	não podemos relaxar!
 	"""
 	keyWait
 	clearMsg

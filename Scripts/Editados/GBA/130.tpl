@@ -227,9 +227,9 @@ script 5 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	O pesquisador que está
-	sempre ao lado do
-	Doma-Vírus está sempre
+	O pesquisador que fica
+	ao lado do Doma-Vírus
+	está sempre
 	"""
 	keyWait
 	clearMsg
@@ -255,9 +255,9 @@ script 5 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	O ranque do vírus troca-
-	do depende da hora em
-	que você tenta.
+	O ranque do vírus trocado
+	depende da hora em que
+	você tenta.
 	"""
 	keyWait
 	clearMsg

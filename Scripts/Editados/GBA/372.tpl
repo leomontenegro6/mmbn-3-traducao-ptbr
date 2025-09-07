@@ -33,8 +33,8 @@ script 1 mmbn3 {
 	clearMsg
 	"""
 	Eu não acredito que
-	alguém atacaria o Sci-
-	Lab. Tempos perigosos...
+	alguém atacaria o SciLab.
+	Tempos perigosos...
 	"""
 	keyWait
 	end

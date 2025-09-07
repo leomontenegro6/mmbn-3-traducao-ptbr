@@ -702,8 +702,8 @@ script 190 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	então, devo ter pendura-
-	do a "
+	então, devo ter
+	pendurado a "
 	"""
 	printItem
 		buffer = 0
@@ -1050,8 +1050,8 @@ script 229 mmbn3 {
 	msgOpen
 	"""
 	Como sempre, o panda
-	está sem pressa nenhu-
-	ma de sair do lugar.
+	está sem pressa nenhuma
+	de sair do lugar.
 	"""
 	keyWait
 	end

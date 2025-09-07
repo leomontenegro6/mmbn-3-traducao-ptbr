@@ -65,8 +65,8 @@ script 4 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Vamos dar uma procura-
-	da na escola. Talvez
+	Vamos dar uma procurada
+	na escola. Talvez
 	achemos alguma coisa.
 	"""
 	keyWait

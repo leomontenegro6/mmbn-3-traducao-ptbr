@@ -170,9 +170,9 @@ script 9 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Bom, ela me disse pra
-	estudar. E se é educa-
-	tivo, dá na mesma.
+	Bom, ela me disse
+	pra estudar. E, se é
+	educativo, dá na mesma.
 	"""
 	keyWait
 	clearMsg

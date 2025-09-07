@@ -329,9 +329,9 @@ script 18 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Crianças são tão ingê-
-	nuas... É tão divertido
-	passar a perna nelas!
+	Crianças. Tão ingênuas...
+	É tão divertido passar a
+	perna nelas!
 	"""
 	keyWait
 	clearMsg

@@ -941,8 +941,8 @@ script 140 mmbn3 {
 	clearMsg
 	"""
 	Os Oficiais tão mesmo
-	levando essa investiga-
-	ção a sério?!
+	levando essa investigação
+	a sério?!
 	"""
 	keyWait
 	end

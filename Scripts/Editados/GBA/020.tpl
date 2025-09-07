@@ -199,7 +199,7 @@ script 45 mmbn3s {
 	end
 }
 script 46 mmbn3s {
-	"BnecaVlh"
+	"BnecoVlh"
 	end
 }
 script 47 mmbn3s {

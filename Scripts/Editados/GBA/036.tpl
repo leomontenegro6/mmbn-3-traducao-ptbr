@@ -232,7 +232,7 @@ script 26 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Toma cuidado, Lan"
+	"Toma cuidado, Lan."
 	keyWait
 	end
 }

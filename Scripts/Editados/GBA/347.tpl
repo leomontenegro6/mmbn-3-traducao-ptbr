@@ -74,7 +74,7 @@ script 4 mmbn3 {
 	"""
 	keyWait
 	clearMsg
-	"Vão logo para lá!\"."
+	"Vão logo para lá!\""
 	flagAddMail
 		flag = 4373
 	flagClear

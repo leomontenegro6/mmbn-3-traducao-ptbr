@@ -145,7 +145,7 @@ script 9 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	e te perde um favor,
+	e te pede um favor,
 	e essa é a sua
 	resposta? "Se vira"?
 	"""

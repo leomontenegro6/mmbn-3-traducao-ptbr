@@ -457,9 +457,9 @@ script 31 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Ouvi dizer que o opera-
-	dor dele é um menino
-	chamado Eugene Chaud.
+	Ouvi dizer que o operador
+	dele é um menino chamado
+	Eugene Chaud.
 	"""
 	keyWait
 	end

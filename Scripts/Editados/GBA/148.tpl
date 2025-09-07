@@ -594,9 +594,9 @@ script 35 mmbn3 {
 		mugshot = MistMan
 	msgOpen
 	"""
-	Há vezes em que um
-	guerreiro deve descan-
-	sar. Como esta.
+	Há vezes em que
+	um guerreiro deve
+	descansar. Como esta.
 	"""
 	keyWait
 	end

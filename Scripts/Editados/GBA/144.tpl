@@ -162,9 +162,9 @@ script 11 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Não tá no cronogra-
-	ma... mas os dados
-	parecem ardentes!
+	Não tá no cronograma...
+	mas os dados parecem
+	ardentes!
 	"""
 	keyWait
 	clearMsg

@@ -16,7 +16,7 @@ script 0 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Sim         "
+	"   Sim             "
 	option
 		left = 0
 		right = 0

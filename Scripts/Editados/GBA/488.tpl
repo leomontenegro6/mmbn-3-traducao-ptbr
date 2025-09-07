@@ -423,9 +423,9 @@ script 8 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	não podem ser coloca-
-	das juntas. Você só
-	precisa digitar um
+	não podem ser colocadas
+	juntas. Você só precisa
+	digitar um
 	"""
 	keyWait
 	clearMsg
@@ -714,7 +714,7 @@ script 13 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	fazer isso! ...Ah, pera,
+	fazer isso! ... Ah, pera,
 	ele poderia, se tivesse
 	
 	"""
@@ -778,7 +778,7 @@ script 14 mmbn3 {
 	clearMsg
 	"""
 	aperte para trás
-	no direcionar ao ser
+	no direcional ao ser
 	atingido pra reduzir
 	"""
 	keyWait
@@ -812,7 +812,7 @@ script 15 mmbn3 {
 	"""
 	Sabe, também fiz uma
 	descoberta! Vocês não
-	vão acre ditar, mas
+	vão acreditar, mas
 	"""
 	keyWait
 	clearMsg

@@ -457,8 +457,8 @@ script 31 mmbn3 {
 	msgOpen
 	"""
 	Você está aceitando
-	pedidos do Fórum de
-	Missões? Novinho assim?
+	pedidos do Quadro de
+	Pedidos? Novinho assim?
 	"""
 	keyWait
 	clearMsg

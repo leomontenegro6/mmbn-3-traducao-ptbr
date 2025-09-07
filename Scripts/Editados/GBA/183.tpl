@@ -87,7 +87,7 @@ script 5 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Tá "
+	"   Tá     "
 	option
 		left = 0
 		right = 0
@@ -95,7 +95,7 @@ script 5 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Não"
+	"     Não"
 	select
 		default = 0
 		BSeparate = false

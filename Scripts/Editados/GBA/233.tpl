@@ -279,9 +279,9 @@ script 20 mmbn3 {
 		mugshot = Mom
 	msgOpen
 	"""
-	Você não tem que tra-
-	balhar hoje até de ma-
-	drugada, como sempre?
+	Você não tem que
+	trabalhar hoje até de
+	madrugada, como sempre?
 	"""
 	keyWait
 	clearMsg

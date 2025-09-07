@@ -140,15 +140,14 @@ script 8 mmbn3 {
 		mugshot = MrMatch
 	msgOpen
 	"""
-	Bom, como fez a gentile-
-	za de perguntar, permi-
-	ta-nos nos apresentar.
+	Bom, como fez a gentileza
+	de perguntar, permita-nos
+	nos apresentar.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Somos ex-membros da
-	WWW!
+	Somos ex-membros da WWW!
 	Sr. Match e FlameMan!
 	"""
 	keyWait
@@ -174,7 +173,7 @@ script 10 mmbn3 {
 		mugshot = MrMatch
 	msgOpen
 	"""
-	He he he! "Traidor, é?
+	He he he! "Traidor", é?
 	E daí se eu sou?!
 	"""
 	keyWait

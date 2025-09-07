@@ -130,9 +130,9 @@ script 2 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Bom, sabe como o
-	país nunca dá aten-
-	ção ao "polvo"...
+	Bom, sabe como o país
+	nunca dá atenção ao
+	"polvo"...
 	"""
 	keyWait
 	clearMsg
@@ -175,8 +175,8 @@ script 3 mmbn3 {
 	msgOpen
 	"""
 	Sabia que espiões
-	fazem curso pra me-
-	xer com fechaduras?
+	fazem curso pra mexer
+	com fechaduras?
 	"""
 	keyWait
 	clearMsg

@@ -939,9 +939,9 @@ script 69 mmbn3 {
 		mugshot = MrFamous
 	msgOpen
 	"""
-	Entendo! Então, você
-	está ajudando um merca-
-	dor de chips? Fabuloso!
+	Entendo! Então, você está
+	ajudando um mercador de
+	chips? Fabuloso!
 	"""
 	keyWait
 	clearMsg
@@ -2496,9 +2496,9 @@ script 222 mmbn3 {
 script 223 mmbn3 {
 	msgOpen
 	"""
-	Este jogo primitivo envol-
-	ve usar uma mola pra jo-
-	gar uma bola no buraco.
+	Este jogo primitivo envolve
+	usar uma mola pra jogar
+	uma bola no buraco.
 	"""
 	keyWait
 	clearMsg

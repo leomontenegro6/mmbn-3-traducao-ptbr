@@ -188,7 +188,7 @@ script 190 mmbn3 {
 	waitSkip
 		frames = 10
 	"""
-	 Não é...?
+	Não é...?
 	Ah, desculpe por isso...
 	"""
 	waitSkip

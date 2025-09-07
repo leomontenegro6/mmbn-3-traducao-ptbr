@@ -456,9 +456,9 @@ script 222 mmbn3 {
 script 223 mmbn3 {
 	msgOpen
 	"""
-	Você não consegue dei-
-	xar de admirar a decora-
-	ção japonesa vintage.
+	Você não consegue deixar
+	de admirar a decoração
+	japonesa vintage.
 	"""
 	keyWait
 	end

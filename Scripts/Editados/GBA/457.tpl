@@ -546,7 +546,7 @@ script 157 mmbn3s {
 	end
 }
 script 158 mmbn3s {
-	"_EduComputer■"
+	"CPU Educação■"
 	end
 }
 script 159 mmbn3s {

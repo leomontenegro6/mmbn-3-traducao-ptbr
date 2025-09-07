@@ -477,8 +477,8 @@ script 12 mmbn3 {
 	clearMsg
 	"""
 	Lá tinha o que parecia
-	ser um portal inter-
-	área cibernética.
+	ser um portal inter-área
+	cibernética.
 	"""
 	keyWait
 	clearMsg
@@ -602,8 +602,8 @@ script 16 mmbn3 {
 		unused = 12
 	"""
 	Ao que parece, alguns
-	Oficiais estão traba-
-	lhando disfarçados!
+	Oficiais estão trabalhando
+	disfarçados!
 	"""
 	keyWait
 	clearMsg
@@ -641,7 +641,7 @@ script 17 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Mas os Officiais parecem
+	Mas os Oficiais parecem
 	estar levando a investi-
 	gação bem a sério.
 	"""

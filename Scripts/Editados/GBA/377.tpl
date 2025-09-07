@@ -324,9 +324,9 @@ script 18 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Ele está fazendo o pos-
-	sível para expiar pelos
-	crimes que cometeu
+	Ele está fazendo o
+	possível para expiar
+	pelos crimes que cometeu
 	"""
 	keyWait
 	clearMsg
@@ -417,7 +417,7 @@ script 23 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"*chuif* Desculpa..."
+	"Chuif! Desculpa..."
 	keyWait
 	clearMsg
 	jump

@@ -539,7 +539,7 @@ script 108 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Ah,  que seria de nós
+	Ah, o que seria de nós
 	sem o sistema de
 	resfriamento?
 	"""

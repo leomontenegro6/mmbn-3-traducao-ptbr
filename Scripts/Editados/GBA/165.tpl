@@ -1872,8 +1872,8 @@ script 152 mmbn3 {
 	clearMsg
 	"""
 	Em suma, temos a permis-
-	são para nos refugiar-
-	mos em outros lugares.
+	são para nos refugiarmos
+	em outros lugares.
 	"""
 	keyWait
 	clearMsg

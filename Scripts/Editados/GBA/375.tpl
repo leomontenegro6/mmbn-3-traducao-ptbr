@@ -217,8 +217,8 @@ script 15 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Todos ficam falando so-
-	bre como você resolveu
+	Todos ficam falando sobre
+	como você resolveu
 	o incidente da WWW.
 	"""
 	keyWait
@@ -366,8 +366,8 @@ script 26 mmbn3 {
 	clearMsg
 	"""
 	Eu entendo como se
-	sente, mas elas só vie-
-	ram porque se importam!
+	sente, mas elas só vieram
+	porque se importam!
 	"""
 	keyWait
 	clearMsg
@@ -448,8 +448,7 @@ script 30 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Devem ser elas de
-	novo.
+	Devem ser elas de novo.
 	Vamos lá pedir desculpas!
 	"""
 	keyWait

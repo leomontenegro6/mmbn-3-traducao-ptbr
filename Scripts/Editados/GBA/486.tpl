@@ -1261,8 +1261,7 @@ script 23 mmbn3 {
 	clearMsg
 	"""
 	O Código do Erro nº E1
-	é:
-	"P[ModTools2]I[ModTools3]MSJL".
+	é: "P[ModTools2]I[ModTools3]MSJL".
 	"""
 	keyWait
 	clearMsg
@@ -1298,9 +1297,9 @@ script 24 mmbn3 {
 		buffer = 0
 		program = 12
 	"""
-	. Com ela,
-	dá pra botar um Mega-
-	Chip extra na pasta!
+	. Com ela, dá
+	pra botar um MegaChip
+	extra na pasta!
 	"""
 	keyWait
 	waitHold
@@ -1348,7 +1347,7 @@ script 25 mmbn3 {
 	clearMsg
 	"""
 	anotar! Os programas
-	incompetíveis são...
+	incompatíveis são...
 	"""
 	keyWait
 	clearMsg

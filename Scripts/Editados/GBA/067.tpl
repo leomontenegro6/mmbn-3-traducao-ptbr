@@ -20,23 +20,23 @@ script 190 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Disseram que NetLu-
-	tadores de alto ca-
-	libre podem oferecer
+	Disseram que NetLuta-
+	dores de alto calibre
+	podem oferecer
 	"""
 	keyWait
 	clearMsg
 	"""
 	ajuda no Quadro de
-	Missões, mas que
+	Pedidos, mas que
 	surpresa ser você!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Dá um pouco de ver-
-	gonha dar o trabalho
-	pra um aluno...
+	Dá um pouco de vergonha
+	dar o trabalho pra um
+	aluno...
 	"""
 	keyWait
 	clearMsg
@@ -48,9 +48,9 @@ script 190 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	computador do dire-
-	tor, e agora tem
-	bombas escondidas!
+	computador do diretor,
+	e, agora, tem bombas
+	escondidas!
 	"""
 	keyWait
 	clearMsg
@@ -76,14 +76,14 @@ script 190 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	O diretor me pediu
-	isso, mas não me ga-
-	ranto o bastante pra
+	O diretor me pediu isso,
+	mas não me garanto
+	o bastante pra achar
 	"""
 	keyWait
 	clearMsg
 	"""
-	achar todas elas.
+	todas elas.
 	Desde já, obrigada
 	pela força!
 	"""

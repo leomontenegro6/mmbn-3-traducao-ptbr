@@ -360,9 +360,9 @@ script 9 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Sabem dos contra-
-	ataques, né? É uma
-	técnica em que
+	Sabem dos
+	contra-ataques, né?
+	É uma técnica em que
 	"""
 	keyWait
 	clearMsg

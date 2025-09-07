@@ -361,8 +361,8 @@ script 222 mmbn3 {
 	clearMsg
 	"""
 	Filmagens de NetLutas
-	são enviadas para ca-
-	nais de TV em segundos.
+	são enviadas para canais
+	de TV em segundos.
 	"""
 	keyWait
 	end

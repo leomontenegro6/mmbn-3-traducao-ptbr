@@ -339,9 +339,8 @@ script 35 mmbn3 {
 		mugshot = Yai
 	msgOpen
 	"""
-	Acabei de aprender
-	sobre o SciLab no
-	noticiário!
+	Eu vi o incidente do
+	SciLab no noticiário!
 	"""
 	keyWait
 	clearMsg

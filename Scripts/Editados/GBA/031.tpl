@@ -513,8 +513,8 @@ script 89 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Talvez tenha um progra-
-	ma de compressão aqui!
+	Talvez tenha um programa
+	de compressão aqui!
 	Vamos procurar!!
 	"""
 	keyWait

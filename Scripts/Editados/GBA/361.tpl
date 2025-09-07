@@ -43,17 +43,17 @@ script 2 mmbn3 {
 	soundDisableTextSFX
 	soundPlay
 		track = 284
-	"Clic!"
+	"Clic! "
 	wait
 		frames = 30
 	soundPlay
 		track = 260
-	"Tuu!"
+	"Tuu! "
 	wait
 		frames = 58
 	soundPlay
 		track = 260
-	"Tuu!"
+	"Tuu! "
 	wait
 		frames = 58
 	soundPlay

@@ -142,7 +142,7 @@ script 5 mmbn3 {
 	msgOpen
 	"""
 	Isto aqui do meu lado é
-	o Quadro de Missões.
+	o Quadro de Pedidos.
 	"""
 	keyWait
 	clearMsg
@@ -740,7 +740,7 @@ script 90 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Quadro de Missões.
+	Quadro de Pedidos.
 	Fica ali, ao lado do
 	elevador.
 	"""
@@ -1000,7 +1000,7 @@ script 119 mmbn3 {
 	"""
 	O pessoal do SciLab
 	está em reunião para
-	discutir o tópico WWW.
+	falar sobre a WWW.
 	"""
 	keyWait
 	clearMsg
@@ -1856,7 +1856,7 @@ script 197 mmbn3 {
 }
 script 220 mmbn3 {
 	msgOpen
-	"O Quadro de Missões."
+	"O Quadro de Pedidos."
 	keyWait
 	startBBS
 		bbs = 0

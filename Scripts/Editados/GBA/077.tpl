@@ -771,8 +771,8 @@ script 106 mmbn3 {
 	msgOpen
 	"""
 	Hora de conhecer a
-	versão 100% customiza-
-	da do MetalMan!!
+	versão 100% customizada
+	do MetalMan!!
 	"""
 	keyWait
 	clearMsg

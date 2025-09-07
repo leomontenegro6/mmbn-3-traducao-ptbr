@@ -880,7 +880,7 @@ script 74 mmbn3 {
 	"""
 	Serviu quase como
 	aquilo, o... o...
-	sprinkler! É!
+	irrigador! É!
 	"""
 	keyWait
 	clearMsg
@@ -1054,9 +1054,9 @@ script 93 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	E este hospital ultra-
-	tecnológico é um alvo
-	atraente, não?
+	E este hospital
+	ultratecnológico é um
+	alvo atraente, não?
 	"""
 	keyWait
 	end

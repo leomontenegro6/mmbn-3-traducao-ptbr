@@ -978,8 +978,8 @@ script 122 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Ele disse que queria te
-	ver.
+	Ele disse que
+	queria te ver.
 	Por favor, vá visitá-lo!
 	"""
 	keyWait
@@ -1126,8 +1126,7 @@ script 131 mmbn3 {
 	msgOpen
 	"""
 	Lan, vá falar com o seu
-	pai.
-	Depois, conversamos.
+	pai. Depois, conversamos.
 	"""
 	keyWait
 	end
@@ -1195,7 +1194,7 @@ script 134 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"   Por favor\n"
+	" Por favor\n"
 	option
 		left = 0
 		right = 0
@@ -1203,7 +1202,7 @@ script 134 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"          Não"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -1245,8 +1244,8 @@ script 135 mmbn3 {
 	msgOpen
 	"""
 	Certo. Então, vou te
-	contar sobre os diferen-
-	tes tipos de vírus.
+	contar sobre os diferentes
+	tipos de vírus.
 	"""
 	keyWait
 	clearMsg
@@ -1980,8 +1979,8 @@ script 145 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	O Doma-Vírus está sem-
-	pre operacional, então,
+	O Doma-Vírus está sempre
+	operacional, então,
 	mande-os quando quiser!
 	"""
 	keyWait
@@ -2088,7 +2087,7 @@ script 161 mmbn3 {
 	msgOpen
 	"""
 	Infelizmente, este
-	dispositivo, somente,
+	dispositivo, por si só,
 	é inútil para nós.
 	"""
 	keyWait
@@ -2275,7 +2274,7 @@ script 190 mmbn3 {
 	"""
 	Que bom que veio!
 	Sim, fui eu quem postou
-	no Fórum de Missões.
+	no Quadro de Pedidos.
 	"""
 	keyWait
 	clearMsg

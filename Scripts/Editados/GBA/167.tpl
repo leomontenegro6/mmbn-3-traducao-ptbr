@@ -1350,7 +1350,7 @@ script 190 mmbn3 {
 	clearMsg
 	"""
 	Enfim, não posso deixar
-	qualquer Cicrano levar
+	qualquer sicrano levar
 	meus queridos vírus!
 	"""
 	keyWait

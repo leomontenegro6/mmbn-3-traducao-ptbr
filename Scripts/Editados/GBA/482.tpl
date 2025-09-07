@@ -2870,7 +2870,7 @@ script 125 mmbn3 {
 	clearMsg
 	"""
 	Local de encontro:
-	Diretoria.
+	Diretoria da escola.
 	"""
 	keyWait
 	waitHold

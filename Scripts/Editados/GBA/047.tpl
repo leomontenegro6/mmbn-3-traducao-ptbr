@@ -1165,9 +1165,9 @@ script 161 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	O Navi da WWW tá
+	Os Navis da WWW tão
 	nesta área! Bora achar
-	ele, MegaMan!
+	eles, MegaMan!
 	"""
 	keyWait
 	end

@@ -259,8 +259,8 @@ script 13 mmbn3 {
 	msgOpen
 	"""
 	Quieto!
-	Típico do que eu espera-
-	ria de um humano...
+	Típico do que eu
+	esperaria de um humano...
 	"""
 	keyWait
 	clearMsg

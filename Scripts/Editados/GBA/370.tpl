@@ -322,8 +322,8 @@ script 18 mmbn3 {
 	clearMsg
 	"""
 	Ouça-me bem, operador!
-	Eu VOU ter minha vingan-
-	ça sobre a raça humana!
+	Eu VOU ter minha vingança
+	sobre a raça humana!
 	"""
 	keyWait
 	end

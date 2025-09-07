@@ -1235,7 +1235,7 @@ script 97 mmbn3 {
 	msgOpen
 	"""
 	Hora de conhecer a
-	versão 100% customiza-
+	versão 100% customizada
 	da do MetalMan!!
 	"""
 	keyWait
@@ -1589,8 +1589,8 @@ script 150 mmbn3 {
 	clearMsg
 	"""
 	Estamos ocupados produ-
-	zindo documentários so-
-	bre esse último incidente,
+	zindo documentários sobre
+	esse último incidente,
 	"""
 	keyWait
 	clearMsg

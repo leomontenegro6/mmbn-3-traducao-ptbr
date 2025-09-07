@@ -1503,9 +1503,9 @@ script 121 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Aposto que meu lindo car-
-	ro estará brilhando quan-
-	do eu chegar em casa!
+	Aposto que meu lindo carro
+	estará brilhando quando
+	eu chegar em casa!
 	"""
 	keyWait
 	end
@@ -2422,8 +2422,8 @@ script 197 mmbn3 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	O quê?! Ainda não come-
-	çou a liquidação? Eu tô
+	O quê?! Ainda não começou
+	a liquidação? Eu tô
 	esperando há eras!
 	"""
 	keyWait
@@ -2565,8 +2565,8 @@ script 228 mmbn3 {
 	clearMsg
 	"""
 	Eles ficavam dentro do
-	prédio, mas foram troca-
-	dos por novos mascotes.
+	prédio, mas foram trocados
+	por novos mascotes.
 	"""
 	keyWait
 	end

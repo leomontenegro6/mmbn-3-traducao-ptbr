@@ -206,7 +206,7 @@ script 40 mmbn3 {
 	msgOpen
 	"""
 	Finalmente, os aparelhos
-	de rede esfriaram!
+	da rede esfriaram!
 	"""
 	keyWait
 	clearMsg

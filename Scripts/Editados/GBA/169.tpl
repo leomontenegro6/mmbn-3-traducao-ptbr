@@ -44,9 +44,9 @@ script 10 mmbn3 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Por que usar um progra-
-	ma aquecedor de água
-	para uma fonte termal?
+	Por que usar um programa
+	aquecedor de água para
+	uma fonte termal?
 	"""
 	keyWait
 	end

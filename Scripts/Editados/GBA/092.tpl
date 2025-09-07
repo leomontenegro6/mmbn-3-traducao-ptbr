@@ -92,8 +92,8 @@ script 2 mmbn3 {
 	clearMsg
 	"""
 	Bom, são todas... atores,
-	contratados pra traba-
-	lhar de meio-período.
+	contratados pra trabalhar
+	de meio-período.
 	"""
 	keyWait
 	clearMsg

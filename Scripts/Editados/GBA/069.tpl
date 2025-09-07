@@ -470,8 +470,8 @@ script 70 mmbn3 {
 		mugshot = Cossak
 	"""
 	O meu nome não é impor-
-	tante. Com certeza, ain-
-	da nos veremos de novo.
+	tante. Com certeza, ainda
+	nos veremos de novo.
 	"""
 	keyWait
 	clearMsg
@@ -563,7 +563,7 @@ script 77 mmbn3 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Toma cuidado, Lan"
+	"É perigoso entrar, Lan!"
 	keyWait
 	end
 }

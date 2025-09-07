@@ -48,9 +48,9 @@ script 3 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	A seguir, o laboratório
-	de pesquisa do seu pai-
-	zão. Vamos, acelera aí.
+	A seguir, o laboratório de
+	pesquisa do seu paizão.
+	Vamos, acelera aí.
 	"""
 	keyWait
 	end

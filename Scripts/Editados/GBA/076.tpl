@@ -296,8 +296,8 @@ script 11 mmbn3 {
 	clearMsg
 	"""
 	... Talvez eu devesse
-	ter levado minha barra-
-	ca pra outro lugar...
+	ter levado minha barraca
+	pra outro lugar...
 	"""
 	keyWait
 	end
@@ -667,8 +667,8 @@ script 36 mmbn3 {
 	clearMsg
 	"""
 	Não perturbe os
-	animais, tá? Eles estão
-	se recuperando.
+	animais, tá? Eles
+	estão descansando.
 	"""
 	keyWait
 	end
@@ -853,8 +853,8 @@ script 46 mmbn3 {
 	clearMsg
 	"""
 	Quase todo mundo já
-	deixou Yoka a esta altu-
-	ra. Tá quase deserta!
+	deixou Yoka a esta altura.
+	Tá quase deserta!
 	"""
 	keyWait
 	clearMsg
@@ -878,8 +878,8 @@ script 47 mmbn3 {
 	msgOpen
 	"""
 	Agh! Fechar o zoológico
-	DEU aos bichos o descan-
-	so de que precisavam...
+	DEU aos bichos o descanso
+	de que precisavam...
 	"""
 	keyWait
 	clearMsg

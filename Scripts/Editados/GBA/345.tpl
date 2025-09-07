@@ -13,7 +13,7 @@ script 0 mmbn3 {
 	clearMsg
 	"""
 	Ouvir isso me deixou
-	empogadaço!
+	empolgadaço!
 	Pode vir, WWW!
 	"""
 	keyWait
@@ -309,8 +309,8 @@ script 15 mmbn3 {
 	clearMsg
 	"""
 	Agora, para de ficar me
-	fitando e se conecta
-	logo da Rede!
+	encarando e se conecta
+	logo na Rede!
 	"""
 	keyWait
 	clearMsg

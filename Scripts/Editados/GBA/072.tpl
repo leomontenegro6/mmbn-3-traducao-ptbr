@@ -187,8 +187,8 @@ script 10 mmbn3 {
 	msgOpen
 	"""
 	O Dr. Hikari está traba-
-	lhando em um Customiza-
-	dor de Navi agora.
+	lhando em um Customizador
+	de Navi agora.
 	"""
 	keyWait
 	clearMsg
@@ -1012,8 +1012,8 @@ script 120 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Como está o dono do
-	hospital?
+	Como estão as coisas lá
+	no hospital?
 	"""
 	keyWait
 	end

@@ -53,7 +53,7 @@ script 3 mmbn3 {
 	msgOpen
 	"""
 	Se formos atingidos
-	pela Bafora de Fogo
+	pela Baforada de Fogo
 	agora, a gente já era!
 	"""
 	keyWait

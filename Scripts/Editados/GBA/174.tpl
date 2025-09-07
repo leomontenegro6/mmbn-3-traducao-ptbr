@@ -397,9 +397,9 @@ script 20 mmbn3 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	Acho que o melhor opera-
-	dor depois do Chaud é
-	aquele tal de Tora.
+	Acho que o melhor
+	operador depois do Chaud
+	é aquele tal de Tora.
 	"""
 	keyWait
 	clearMsg

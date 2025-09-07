@@ -41,8 +41,8 @@ script 1 mmbn3 {
 	msgOpen
 	"""
 	Já terminou a lição de
-	casa? Não fique brincan-
-	do na Rede o dia todo!
+	casa? Não fique brincando
+	na Rede o dia todo!
 	"""
 	keyWait
 	end
