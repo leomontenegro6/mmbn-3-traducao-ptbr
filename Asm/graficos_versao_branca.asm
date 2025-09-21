@@ -356,6 +356,17 @@ BattleXStartOams:
 .org 0x087ED8CC
     .incbin "Graficos/Editados/BugFrag.gba"
 
+; Editando gráficos do Doma-Vírus, ao alimentar vírus dóceis com FragBugs.
+.org 0x087F8840
+    .incbin "Graficos/Editados/Doma-Virus.gba"
+.org 0x087F9948
+    .incbin "Graficos/Editados/Doma-Virus (tm).gba"
+; Expandindo tilemap do "Food", pra expandir seu tamanho em 1 tile.
+.org 0x087F9764
+    .stringn 0x10,0xD2,0x05,0xD2,0x05,0xD2,0x11,0xD2
+.org 0x087F97A0
+    .stringn 0x16,0xD2,0x17,0xD2,0x18,0xD2,0x8B,0xD1
+
 ; Editando gráfico de "Presented by Capcom", após os créditos.
 .org 0x087FA8E0
     .incbin "Graficos/Editados/Presented By Capcom.gba"

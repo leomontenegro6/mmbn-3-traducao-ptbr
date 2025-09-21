@@ -9,7 +9,7 @@ script 0 mmbn3s {
 	end
 }
 script 1 mmbn3s {
-	"MAX"
+	"MÁX"
 	end
 }
 script 2 mmbn3s {
@@ -26,6 +26,6 @@ script 3 mmbn3s {
 	end
 }
 script 4 mmbn3s {
-	"'s Room"
+	"-Quarto"
 	end
 }

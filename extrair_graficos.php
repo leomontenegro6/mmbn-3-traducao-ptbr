@@ -42,7 +42,7 @@ $graficos = [
     (object)['nome' => 'Move Remove', 'offset' => '0x7DD30C', 'tiles' => '4x6'],
     (object)['nome' => 'SneakRun Untrap LocEnemy On', 'offset' => '0x7E5DA4', 'tiles' => '10x4'],
     (object)['nome' => 'BugFrag', 'offset' => '0x7ED8CC', 'tiles' => '1x7'],
-    (object)['nome' => 'OK Food ATK', 'offset' => '0x7F8840', 'tiles' => '1x89'],
+    (object)['nome' => 'Doma-Virus', 'offset' => '0x7F8840', 'tiles' => '1x89'],
     (object)['nome' => 'Presented By Capcom', 'offset' => '0x7FA8E0', 'tiles' => '13x4'],
 ];
 
