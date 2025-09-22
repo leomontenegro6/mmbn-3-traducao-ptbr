@@ -1,5 +1,3 @@
-- Cogitar, na versão Blue, editar cartaz de Grand Prix N1 japonês, na estação de metrô de ACDC
-- Cogitar editar lixeiras do metrô com canguru verde, pra escrever "LIXO" no lugar do kanji japonês
 - Cogitar editar letreiros na TV da casa do LAN (Bênçãos da Montanha, e Yoka)
 - Corrigir bug nos troca-chips, onde fica aparecendo a descrição dos chips no meio do diálogo comum.
 - Corrigir bug nas lojas de venda de chips, onde ao apertar o R pra ver a descrição dos chips, a descrição não aparece.
