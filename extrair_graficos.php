@@ -38,6 +38,8 @@ $graficos = [
     (object)['nome' => 'Attack plus 30', 'offset' => '0x6EEC60', 'tiles' => '8x7'],
     (object)['nome' => 'No Data', 'offset' => '0x6FFE80', 'tiles' => '8x7'],
     (object)['nome' => 'Current Ranking', 'offset' => '0x704240', 'tiles' => '4x10'],
+    (object)['nome' => 'Comercial TV 1 (branca)', 'offset' => '0x7B6024', 'tiles' => '4x4'],
+    (object)['nome' => 'Comercial TV 2 (branca)', 'offset' => '0x7B6224', 'tiles' => '4x4'],
     (object)['nome' => 'Itens', 'offset' => '0x7D2A0C', 'tiles' => '12x27'],
     (object)['nome' => 'Move Remove', 'offset' => '0x7DD30C', 'tiles' => '4x6'],
     (object)['nome' => 'SneakRun Untrap LocEnemy On', 'offset' => '0x7E5DA4', 'tiles' => '10x4'],

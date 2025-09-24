@@ -1,4 +1,4 @@
-- Cogitar editar letreiros na TV da casa do LAN (Bênçãos da Montanha, e Yoka)
+- Checar tiles remanescentes no gráfico do "Doma-Vírus", que pode sugerir algum gráfico pendente editar.
 - Corrigir bug nos troca-chips, onde fica aparecendo a descrição dos chips no meio do diálogo comum.
 - Corrigir bug nas lojas de venda de chips, onde ao apertar o R pra ver a descrição dos chips, a descrição não aparece.
 - Corrigir bug menor na tela MegaMan, onde ao ter liberado CustNavi antes de ter um estilo, o cursor fica fora do lugar

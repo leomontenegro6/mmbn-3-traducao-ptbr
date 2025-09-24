@@ -362,6 +362,12 @@ BattleXStartOams:
 .org 0x087F9390
     .stringn 0x16,0xD2,0x17,0xD2,0x18,0xD2,0x8B,0xD1
 
+; Editando gráficos "Bênçãos da Montanha" e "Yoka", na TV da sala da casa do Lan.
+.org 0x087B5A10
+    .incbin "Graficos/Editados/Comercial TV 1 (azul).gba"
+.org 0x087B5C10
+    .incbin "Graficos/Editados/Comercial TV 2 (azul).gba"
+
 ; Editando gráfico de "Presented by Capcom", após os créditos.
 .org 0x087FA4D0
     .incbin "Graficos/Editados/Presented By Capcom.gba"
