@@ -15,6 +15,7 @@ if "%ERRORLEVEL%" == "3" GOTO exit
 GOTO %ERRORLEVEL%
 :white
 copy ".\rom (original).srl" ".\rom.srl"
+copy ".\labels (original).bin" ".\labels.bin"
 
 echo ==Aplicando patches extras na rom modificada:==
 
@@ -26,6 +27,7 @@ exit
 
 :blue
 copy ".\rom_b (original).srl" ".\rom_b.srl"
+copy ".\labels_b (original).bin" ".\labels_b.bin"
 
 echo ==Aplicando patches extras na rom modificada:==
 

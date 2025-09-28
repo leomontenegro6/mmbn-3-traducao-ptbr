@@ -1,6 +1,7 @@
 ; Script de inserção de gráficos na rom, na versão branca japonesa da coletânea.
 .gba
 
+;; Editando arquivo da rom
 .open "rom.srl", 0x08000000
 
 .org 0x087C6368
@@ -113,13 +114,9 @@
 .org 0x086B3AFE
 .stringn 0x40,0x90,0x41,0x90,0x42,0x90,0x43,0x90,0x45,0x90,0x46,0x90,0x47,0x90,0x48,0x90,0x49,0x90
 
-; Mudando a posição X padrão das letras da tela animada de "NAVI CUSTOMIZER"
-.org 0x080325E6
-    .stringn 0x60,0x30
-
 ; Inserindo OAMs editadas para a tela de "NAVI CUSTOMIZER"
 .org 0x0803260C
-    .incbin "Graficos/Editados/Navi Customizer (oam).gba"
+    .incbin "Graficos/Editados/Navi Customizer (coletanea) (oam).gba"
 
 ; Armazenando offsets de gráficos comprimidos, para inserção posterior
 .org 0x080481A4
@@ -130,7 +127,19 @@
 
 ; Inserindo gráficos comprimidos no final da rom
 navi_customizer_letters:
-    .lz77gba "Graficos/Editados/Navi Customizer.gba"
+    .lz77gba "Graficos/Editados/Navi Customizer (coletanea).gba"
     .align
+
+.close
+
+;; Editando arquivo de labels
+.open "labels.bin", 0x08000000
+
+; Inserindo OAMs editadas para a tela de "NAVI CUSTOMIZER"
+.org 0x080460BC
+    .incbin "Graficos/Editados/Navi Customizer (coletanea) (oam).gba"
+
+.org 0x08048B78
+    .dw navi_customizer_letters
 
 .close
