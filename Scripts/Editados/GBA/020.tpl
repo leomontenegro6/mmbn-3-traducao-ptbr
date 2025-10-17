@@ -151,11 +151,11 @@ script 33 mmbn3s {
 	end
 }
 script 34 mmbn3s {
-	"GigFreez"
+	"GigCongl"
 	end
 }
 script 35 mmbn3s {
-	"OfclPass"
+	"PassOfcl"
 	end
 }
 script 36 mmbn3s {
@@ -187,7 +187,7 @@ script 42 mmbn3s {
 	end
 }
 script 43 mmbn3s {
-	"GramNote"
+	"MsgVovô"
 	end
 }
 script 44 mmbn3s {

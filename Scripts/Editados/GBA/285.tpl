@@ -92,8 +92,8 @@ script 3 mmbn3 {
 	msgOpen
 	"""
 	Aê!
-	Então, quais são as re-
-	gras da Primeira Rodada?
+	Então, quais são as regras
+	da Primeira Rodada?
 	"""
 	keyWait
 	clearMsg

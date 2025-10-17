@@ -23,9 +23,9 @@ script 1 mmbn3 {
 		mugshot = MsMari
 	msgOpen
 	"""
-	Cuidado para não atrapa-
-	lhar os funcionários e os
-	outros hóspedes.
+	Cuidado para não
+	atrapalhar os funcionários
+	e os outros hóspedes.
 	"""
 	keyWait
 	end

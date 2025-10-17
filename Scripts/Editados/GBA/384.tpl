@@ -197,7 +197,7 @@ script 11 mmbn3 {
 	clearMsg
 	"""
 	Vamos lá, para "onde
-	a ciência cria vida"!
+	a ciência nutre vida"!
 	"""
 	keyWait
 	end

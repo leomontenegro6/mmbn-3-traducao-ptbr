@@ -178,16 +178,16 @@ script 10 mmbn3 {
 		mugshot = Mamoru
 	msgOpen
 	"""
-	Tem. Por isso criaram
-	uma enorme área afas-
-	tada da Rede normal.
+	Tem. Por isso criaram uma
+	enorme área afastada
+	da Rede normal.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Se acabasse aconte-
-	cendo um acidente, o
-	estrago seria contido.
+	Se acabasse
+	acontecendo um acidente,
+	o estrago seria contido.
 	"""
 	keyWait
 	clearMsg
@@ -262,17 +262,17 @@ script 14 mmbn3 {
 	soundDisableTextSFX
 	soundPlay
 		track = 299
-	"Uééon!"
+	"Uééon! "
 	wait
 		frames = 60
 	soundPlay
 		track = 299
-	"Uééon!"
+	"Uééon! "
 	wait
 		frames = 60
 	soundPlay
 		track = 299
-	"Uééon!"
+	"Uééon! "
 	wait
 		frames = 60
 	soundPlay

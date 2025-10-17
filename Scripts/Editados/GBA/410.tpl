@@ -146,7 +146,7 @@ script 10 mmbn3 {
 	"Valeu, galera..."
 	keyWait
 	clearMsg
-	"Mas"
+	"Mas..."
 	keyWait
 	clearMsg
 	jump

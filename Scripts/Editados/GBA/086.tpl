@@ -233,8 +233,8 @@ script 16 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Ele vai fazer vocês pa-
-	garem por todas as
+	Ele vai fazer vocês
+	pagarem por todas as
 	vezes que venceram ele!
 	"""
 	keyWait
@@ -911,9 +911,9 @@ script 66 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Um brinde de café para
-	o nosso valente competi-
-	dor! Por conta da casa!
+	Um brinde de café para o
+	nosso valente competidor!
+	Por conta da casa!
 	"""
 	keyWait
 	end

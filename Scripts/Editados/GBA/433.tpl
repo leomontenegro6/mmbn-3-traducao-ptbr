@@ -126,8 +126,8 @@ script 9 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	MegaMan! Está me ouvin-
-	do?! Conecte-se, agora!
+	MegaMan! Tá me ouvindo?!
+	Conecte-se, agora!
 	Eu quero te deletar!
 	"""
 	keyWait

@@ -271,8 +271,8 @@ script 27 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Parece que cê se envol-
-	veu em coisa perigosa.
+	Parece que cê se envolveu
+	em coisa perigosa.
 	De novo. Como sempre.
 	"""
 	keyWait

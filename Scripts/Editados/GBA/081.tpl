@@ -271,7 +271,7 @@ script 190 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"   Já é!\n"
+	"  Já é!\n"
 	option
 		left = 1
 		right = 1
@@ -279,7 +279,7 @@ script 190 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"         Agora, não."
+	"  Agora, não."
 	select
 		default = 0
 		BSeparate = false
@@ -689,7 +689,7 @@ script 197 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Sala dos Profs."
+	"Sala dos Professores"
 	select
 		default = 0
 		BSeparate = false
@@ -777,8 +777,8 @@ script 199 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Quanto custa um
-	sorteio na frente do
+	Quanto custa um sorteio
+	disponível perto do
 	zoológico?
 	"""
 	keyWait

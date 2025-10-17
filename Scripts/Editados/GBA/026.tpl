@@ -70,9 +70,9 @@ script 7 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Não podemos desco-
-	nectar agora! Temos
-	que deter o Wily!
+	Não podemos desconectar
+	agora! Temos que deter
+	o Wily!
 	"""
 	keyWait
 	end

@@ -391,8 +391,8 @@ script 41 mmbn3 {
 	msgOpen
 	"""
 	Não podemos usar a
-	Metrolinha se não pode-
-	mos entrar na estação...
+	Metrolinha se não podemos
+	entrar na estação...
 	"""
 	keyWait
 	end
@@ -836,8 +836,8 @@ script 90 mmbn3 {
 	msgOpen
 	"""
 	Nós conhecemos uma
-	pessoa que disse ter es-
-	tudado programação, né?
+	pessoa que disse que
+	estudou programação, né?
 	"""
 	keyWait
 	end
@@ -2194,9 +2194,9 @@ script 227 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	O que será que aconte-
-	ceu com a Mayl? Vamos
-	pro CPU do Zoológico!
+	O que será que aconteceu
+	com a Mayl? Vamos pro
+	CPU do Zoológico!
 	"""
 	keyWait
 	end
@@ -2395,8 +2395,8 @@ script 242 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Aquele barco não conse-
-	gue fazer a viagem...
+	O barco não consegue
+	fazer a viagem...
 	Precisamos de ajuda!
 	"""
 	keyWait

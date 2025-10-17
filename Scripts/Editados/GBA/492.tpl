@@ -277,8 +277,8 @@ script 7 mmbn3 {
 		unused = 12
 	"""
 	Os Oficiais estão
-	investigando o desapa-
-	recimento do Goh.
+	investigando o
+	desaparecimento do Goh.
 	"""
 	keyWait
 	clearMsg
@@ -641,9 +641,9 @@ script 17 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Mas os Oficiais parecem
-	estar levando a investi-
-	gação bem a sério.
+	Mas os Oficiais
+	parecem estar levando a
+	investigação bem a sério.
 	"""
 	keyWait
 	clearMsg

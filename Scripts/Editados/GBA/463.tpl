@@ -37,7 +37,7 @@ script 8 mmbn3s {
 	end
 }
 script 9 mmbn3s {
-	"ApprFldr"
+	"PstApren"
 	end
 }
 script 10 mmbn3s {
@@ -81,7 +81,7 @@ script 24 mmbn3s {
 	end
 }
 script 25 mmbn3s {
-	"ApprFldr"
+	"PstApren"
 	end
 }
 script 26 mmbn3s {

@@ -18,8 +18,8 @@ script 1 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	He he! Então, acabei es-
-	barrando em você antes
+	He he! Então, acabei
+	esbarrando em você antes
 	de despertar o Alpha...
 	"""
 	keyWait

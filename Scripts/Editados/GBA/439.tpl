@@ -15,9 +15,9 @@ script 0 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Se destruí-lo e absorvê-
-	lo com o seu Programa
-	de Habilidade...
+	Se destruí-lo e absorvê-lo
+	com o seu Programa de
+	Habilidade...
 	"""
 	keyWait
 	clearMsg
@@ -285,9 +285,9 @@ script 13 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	E eu vou eliminar os
-	Navis que forem incapa-
-	zes de lutar sozinhos!
+	E eu vou eliminar os Navis
+	que forem incapazes de
+	lutar sozinhos!
 	"""
 	keyWait
 	clearMsg

@@ -22,9 +22,9 @@ script 220 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	É projetado de forma
-	que possam ser acessa-
-	dos a qualquer hora.
+	É projetado de forma que
+	possam ser acessados a
+	qualquer hora.
 	"""
 	keyWait
 	end

@@ -437,8 +437,8 @@ script 29 mmbn3 {
 		delay = 0
 	"""
 	... Não, não estou vendo
-	esse aqui. É. Tem certe-
-	za de que é um chip?
+	esse aqui. É. Tem certeza
+	de que é um chip?
 	"""
 	keyWait
 	waitHold

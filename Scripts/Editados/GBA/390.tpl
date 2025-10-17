@@ -208,7 +208,7 @@ script 14 mmbn3 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Depois, a gente
+	Depois a gente
 	conversa! Saca só a
 	força do GutsMan!
 	"""
@@ -584,8 +584,8 @@ script 37 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Claro que, para isso, vo-
-	cê terá que sobreviver
+	Claro que, para isso, você
+	terá que sobreviver
 	ao poder do GutsMan!
 	"""
 	keyWait

@@ -651,9 +651,9 @@ script 50 mmbn3 {
 		mugshot = Man
 	msgOpen
 	"""
-	Dois caras bem chama-
-	tivos dizendo ser da
-	DNN passaram por aqui.
+	Dois caras bem chamativos
+	dizendo ser da DNN
+	passaram por aqui.
 	"""
 	keyWait
 	clearMsg
@@ -1756,9 +1756,9 @@ script 190 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	todos que achar lá.
-	Nossos Navis já se es-
-	conderam, então, simbora!
+	todos que achar lá. Nossos
+	Navis já se esconderam
+	então, simbora!
 	"""
 	keyWait
 	clearMsg
@@ -1972,9 +1972,9 @@ script 203 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	dá para aumentar a for-
-	ça do ataque segurando
-	o botão "A" e apertando
+	dá para aumentar a força
+	do ataque segurando o
+	botão "A" e apertando
 	"""
 	keyWait
 	clearMsg
@@ -2577,8 +2577,8 @@ script 227 mmbn3 {
 		jumpIfOutOfRange = continue
 	msgOpen
 	"""
-	Com as catracas, gran-
-	des multidões acessam o
+	Com as catracas, grandes
+	multidões acessam o
 	zoológico rapidamente.
 	"""
 	keyWait
@@ -3069,8 +3069,8 @@ script 252 mmbn3 {
 	clearMsg
 	"""
 	apoio, como o AreaGrab.
-	Espero que eu não es-
-	barre em nenhum desses!
+	Espero não esbarrar
+	em nenhum desses!
 	"""
 	keyWait
 	end

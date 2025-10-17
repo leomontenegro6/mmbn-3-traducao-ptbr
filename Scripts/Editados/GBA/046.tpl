@@ -1521,8 +1521,8 @@ script 185 mmbn3 {
 	msgOpen
 	"""
 	Pra Undernet!
-	Precisamos de informa-
-	ções sobre esse "S"!
+	Precisamos de informações
+	sobre esse "S"!
 	"""
 	keyWait
 	end
@@ -1727,7 +1727,7 @@ script 201 mmbn3 {
 	"""
 	O que será que rolou
 	com a Mayl? Bom, vamos
-	ver lá no CPU Zoológc.!
+	ver lá no CPU Zoológico!
 	"""
 	keyWait
 	end
@@ -1950,8 +1950,8 @@ script 216 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Aquele barco não conse-
-	gue fazer a viagem...
+	O barco não consegue
+	fazer a viagem...
 	Precisamos de ajuda!
 	"""
 	keyWait
@@ -1963,8 +1963,8 @@ script 217 mmbn3 {
 	msgOpen
 	"""
 	Vamos dormir pra
-	ficarmos preparado
-	pras finais amanhã!
+	ficarmos preparados
+	pra luta final amanhã!
 	"""
 	keyWait
 	end

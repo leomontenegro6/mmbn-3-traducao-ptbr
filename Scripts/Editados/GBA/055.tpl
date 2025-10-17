@@ -938,15 +938,15 @@ script 220 mmbn3 {
 	msgOpen
 	"""
 	O papai comprou essa
-	boneca pra mamãe quan-
-	do viajou pro exterior.
+	boneca pra mamãe quando
+	viajou pro exterior.
 	"""
 	keyWait
 	clearMsg
 	"""
 	É muito bonitinha.
-	O papai é bom em esco-
-	lher presentes do tipo.
+	O papai é bom em escolher
+	presentes do tipo.
 	"""
 	keyWait
 	end

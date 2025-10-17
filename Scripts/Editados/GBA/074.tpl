@@ -367,8 +367,8 @@ script 110 mmbn3 {
 	msgOpen
 	"""
 	É meu dever transportar
-	passageiros na Metroli-
-	nha, haja o que houver!
+	passageiros na Metrolinha,
+	haja o que houver!
 	"""
 	keyWait
 	clearMsg

@@ -34,7 +34,7 @@ script 2 mmbn3 {
 	"""
 	Foi isso o que o cara do
 	SciLab quis dizer com
-	"pegar vírus"?
+	"domar vírus"?
 	"""
 	keyWait
 	clearMsg

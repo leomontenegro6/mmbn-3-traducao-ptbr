@@ -434,9 +434,9 @@ script 85 mmbn3 {
 		mugshot = MetrolineMan
 	msgOpen
 	"""
-	Estamos fazendo o pos-
-	sível para terminar a Es-
-	tação Angra antes do N1!
+	Estamos fazendo o possível
+	para terminar a Estação
+	Angra antes do N1!
 	"""
 	keyWait
 	end

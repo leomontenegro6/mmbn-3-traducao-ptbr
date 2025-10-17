@@ -1080,8 +1080,8 @@ script 11 mmbn3 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	Pois bem, então. Manda-
-	rei os dados da minha
+	Pois bem, então. Mandarei
+	os dados da minha
 	"
 	"""
 	printFolderName
@@ -1600,9 +1600,9 @@ script 195 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	O que o GutsMan teve
-	que encarar na Competi-
-	ção de Resistência?
+	O que o GutsMan teve que
+	encarar na Competição de
+	Resistência?
 	"""
 	keyWait
 	clearMsg

@@ -486,8 +486,8 @@ script 205 mmbn3 {
 	msgOpen
 	"""
 	Foi aqui que o Ranque 3
-	disse que ia se encon-
-	trar com a gente, né?
+	disse que ia se encontrar
+	com a gente, né?
 	"""
 	keyWait
 	end
@@ -499,7 +499,7 @@ script 206 mmbn3 {
 	"""
 	O que será que rolou
 	com a Mayl? Bom, vamos
-	ver lá no CPU Zoológc.!
+	ver lá no CPU Zoológico!
 	"""
 	keyWait
 	end

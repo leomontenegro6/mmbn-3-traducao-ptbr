@@ -434,9 +434,9 @@ script 22 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Eu não posso deixar o
-	papai e os outros morre-
-	rem pelo que eu fiz!
+	Eu não posso deixar
+	o papai e os outros
+	morrerem pelo que eu fiz!
 	"""
 	keyWait
 	clearMsg

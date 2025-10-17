@@ -251,15 +251,15 @@ script 6 mmbn3 {
 	clearMsg
 	"""
 	na Tela de Edição de
-	Pastas. Esse é o tama-
-	nho máximo dos chips.
+	Pastas. Esse é o tamanho
+	máximo dos chips.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Você pode aumentar
-	essa capacidade encon-
-	trando itens "Padrão+".
+	Você pode aumentar essa
+	capacidade encontrando
+	itens "Padrão+".
 	"""
 	keyWait
 	clearMsg
@@ -512,9 +512,9 @@ script 60 mmbn3 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Alguém deve estar fa-
-	zendo as bolhas. Se der-
-	rubarmos esse alguém...
+	Alguém deve estar fazendo
+	as bolhas. Se derrubarmos
+	esse alguém...
 	"""
 	keyWait
 	clearMsg

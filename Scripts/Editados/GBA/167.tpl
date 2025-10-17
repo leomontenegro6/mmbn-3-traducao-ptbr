@@ -1594,9 +1594,9 @@ script 222 mmbn3 {
 		jumpIfOutOfRange = continue
 	msgOpen
 	"""
-	É uma fileira de gráficos
-	com variáveis extrema-
-	mente voláteis.
+	É uma fileira de
+	gráficos com variáveis
+	extremamente voláteis.
 	"""
 	keyWait
 	end

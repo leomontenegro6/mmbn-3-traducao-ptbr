@@ -374,9 +374,8 @@ script 33 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	E o seu Ataque Carre-
-	gado se tornará um
-	AquaShot!
+	E o seu Ataque Carregado
+	se tornará um AquaShot!
 	"""
 	keyWait
 	clearMsg
@@ -463,9 +462,8 @@ script 43 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	E o seu Ataque Carre-
-	gado se tornará um
-	Twister!
+	E o seu Ataque Carregado
+	se tornará um Twister!
 	"""
 	keyWait
 	clearMsg

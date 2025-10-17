@@ -104,8 +104,8 @@ script 6 mmbn3 {
 	clearMsg
 	"""
 	Mas os ataques daquele
-	vírus eram com a inten-
-	ção de me absorver...
+	vírus eram com a intenção
+	de me absorver...
 	"""
 	keyWait
 	clearMsg

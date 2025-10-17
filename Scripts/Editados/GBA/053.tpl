@@ -1388,8 +1388,7 @@ script 141 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Eu não gosto nada
-	disso...
+	Eu não gosto nada disso...
 	Toma, Lan, fica com isto!
 	"""
 	keyWait
@@ -1629,8 +1628,8 @@ script 156 mmbn3 {
 	clearMsg
 	"""
 	Temos que levar estas
-	pessoas a um local segu-
-	ro! Você: fuja também!
+	pessoas a um local seguro!
+	Você: fuja também!
 	"""
 	keyWait
 	end
@@ -1744,7 +1743,7 @@ script 163 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	por um aprendiz 
+	por um aprendiz do
 	Laboratório Hikari.
 	Nunca se sabe quando
 	"""
@@ -1842,7 +1841,7 @@ script 164 mmbn3 {
 	soundPlay
 		track = 220
 	"""
-	 Concluída!
+	Concluída!
 	Sua Pasta Extra, agora,
 	é a "
 	"""
@@ -2516,8 +2515,8 @@ script 224 mmbn3 {
 script 225 mmbn3 {
 	msgOpen
 	"""
-	É um sistema de segu-
-	rança em forma de
+	É um sistema de
+	segurança em forma de
 	casinha de cachorro.
 	"""
 	keyWait

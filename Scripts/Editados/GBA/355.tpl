@@ -53,9 +53,9 @@ script 3 mmbn3 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	Se a temperatura conti-
-	nuar a aumentar, o com-
-	putador pode explodir!
+	Se a temperatura
+	continuar a aumentar, o
+	computador pode explodir!
 	"""
 	keyWait
 	clearMsg

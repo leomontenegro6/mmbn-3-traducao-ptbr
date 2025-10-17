@@ -118,8 +118,8 @@ script 5 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Um dia, todos os apare-
-	lhos ligados ao Alpha
+	Um dia, todos os aparelhos
+	ligados ao Alpha
 	apresentaram defeito.
 	"""
 	keyWait

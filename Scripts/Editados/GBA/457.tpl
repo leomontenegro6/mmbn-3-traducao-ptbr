@@ -119,7 +119,7 @@ script 29 mmbn3s {
 	end
 }
 script 30 mmbn3s {
-	"Banho termal■"
+	"Banho Termal■"
 	end
 }
 script 31 mmbn3s {
@@ -662,7 +662,7 @@ script 186 mmbn3s {
 	end
 }
 script 187 mmbn3s {
-	"Vending Comp■"
+	"CPU Máq Vend■"
 	end
 }
 script 188 mmbn3s {
@@ -694,7 +694,7 @@ script 194 mmbn3s {
 	end
 }
 script 195 mmbn3s {
-	"___Wall Comp■"
+	"__CPU Parede■"
 	end
 }
 script 196 mmbn3s {

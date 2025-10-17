@@ -120,9 +120,9 @@ script 112 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Temos que voltar pra
-	Ilha do Inferno cibernéti-
-	ca, ou vamos perder!
+	Temos que voltar pra Ilha
+	do Inferno cibernética,
+	ou vamos perder!
 	"""
 	keyWait
 	end
@@ -1086,9 +1086,9 @@ script 213 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	O que será que aconte-
-	ceu com a Mayl? Vamos
-	pro CPU do Zoológico!
+	O que será que aconteceu
+	com a Mayl? Vamos pro
+	CPU do Zoológico!
 	"""
 	keyWait
 	end

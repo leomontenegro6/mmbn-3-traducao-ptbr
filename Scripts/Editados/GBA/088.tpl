@@ -165,9 +165,9 @@ script 60 mmbn3 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	O prédio tem ótima segu-
-	rança, por isso, evitamos
-	danos do calor.
+	O prédio tem ótima
+	segurança, por isso,
+	evitamos danos do calor.
 	"""
 	keyWait
 	clearMsg
@@ -260,9 +260,9 @@ script 192 mmbn3 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	Estou tão ocupado! Pre-
-	ciso de um Navi pra levar
-	este chip pra ACDC!
+	Estou tão ocupado!
+	Preciso de um Navi pra
+	levar este chip pra ACDC!
 	"""
 	keyWait
 	end

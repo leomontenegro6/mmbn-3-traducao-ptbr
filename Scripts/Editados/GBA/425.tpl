@@ -58,7 +58,7 @@ script 5 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Digiareia!
+	Cyber-areia!
 	O que quer dizer...
 	"""
 	keyWait
@@ -158,7 +158,7 @@ script 10 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Enfim, hora de você se
+	Enfim, hora de você
 	brincar um pouquinho
 	com o DesertMan!
 	"""
@@ -174,7 +174,7 @@ script 10 mmbn3 {
 	"""
 	Vejamos se vai gostar
 	ficar enterrado sob um
-	deserto de digiareia.
+	deserto de cyber-areia.
 	"""
 	keyWait
 	clearMsg

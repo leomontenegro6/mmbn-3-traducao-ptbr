@@ -182,8 +182,8 @@ script 9 mmbn3 {
 	msgOpen
 	"""
 	Muita gente preocupada
-	com vocês tão esperan-
-	do na emissora!
+	com vocês tão esperando
+	na emissora!
 	"""
 	keyWait
 	clearMsg
@@ -660,9 +660,9 @@ script 37 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	... Eu acho que vou pas-
-	sar um tempo tentando
-	me virar sozinho.
+	... Eu acho que vou passar
+	um tempo tentando me
+	virar sozinho.
 	"""
 	keyWait
 	clearMsg
@@ -673,7 +673,7 @@ script 37 mmbn3 {
 	"""
 	keyWait
 	clearMsg
-	"Eu..."
+	"Eu... "
 	waitSkip
 		frames = 30
 	"""
@@ -1164,7 +1164,7 @@ script 68 mmbn3 {
 	"""
 	Eu aprendi um monte de
 	"coisa" com o MegaMan e
-	ti! Vou voltar, sim!
+	tu! Vou voltar, sim!
 	"""
 	keyWait
 	clearMsg
@@ -1908,7 +1908,7 @@ script 102 mmbn3 {
 		frames = 30
 	"""
 	.
-	Tudo...
+	Tudo... 
 	"""
 	waitSkip
 		frames = 30
@@ -2074,7 +2074,7 @@ script 112 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	*snif* Vocês têm razão.
+	Snif... Vocês têm razão.
 	Acho que eu não tô só...
 	"""
 	keyWait
@@ -2083,13 +2083,13 @@ script 112 mmbn3 {
 		animation = 0
 	"""
 	(Você tá observando,
-	MegaMan? Está vendo
-	todos os meus amigos?
+	MegaMan? Tá vendo
+	todos os meus amigos?)
 	"""
 	keyWait
 	clearMsg
 	"""
-	Acho que... é, eu vou
+	(Acho que... é, eu vou
 	ficar bem, no fim das
 	contas.)
 	"""
@@ -2144,9 +2144,9 @@ script 115 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Lá, encontraram os da-
-	dos de personalidade de
-	Wily e seus seguidores.
+	Lá, encontraram os dados
+	de personalidade de Wily
+	e seus seguidores.
 	"""
 	keyWait
 	clearMsg
@@ -2172,8 +2172,7 @@ script 115 mmbn3 {
 	clearMsg
 	"""
 	A carta do vovô ainda
-	está sendo
-	decodificada...
+	está sendo decodificada...
 	"""
 	keyWait
 	clearMsg
@@ -2359,7 +2358,7 @@ script 121 mmbn3 {
 	"Conectar!"
 	wait
 		frames = 10
-	"\nMegaMan.EXE,"
+	"\nMegaMan.EXE,\n"
 	wait
 		frames = 10
 	"transmissão!"

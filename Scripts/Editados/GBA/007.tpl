@@ -130,7 +130,7 @@ script 9 mmbn3s {
 	end
 }
 script 10 mmbn3s {
-	"    PV Max"
+	"    PV Máx"
 	end
 }
 script 11 mmbn3 {

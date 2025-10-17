@@ -1051,8 +1051,8 @@ script 125 mmbn3 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	O SciLab evitou a des-
-	truição, mas perdemos
+	O SciLab evitou a
+	destruição, mas perdemos
 	membros vitais...
 	"""
 	keyWait
@@ -1198,8 +1198,8 @@ script 140 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Lan! Por favor, nos aju-
-	de a recuperar os dados
+	Lan! Por favor, nos ajude
+	a recuperar os dados
 	secretos roubados!
 	"""
 	keyWait
@@ -1444,8 +1444,8 @@ script 163 mmbn3 {
 	clearMsg
 	"""
 	Já vi isso tudo antes!
-	Nós, civis, somos os últi-
-	mos a saber das coisas!
+	Nós, civis, somos os últimos
+	a saber das coisas!
 	"""
 	keyWait
 	end
@@ -1671,7 +1671,7 @@ script 190 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"    Não!"
+	"       Não!"
 	select
 		default = 0
 		BSeparate = false
@@ -1842,7 +1842,7 @@ script 197 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"    Não!"
+	"       Não!"
 	select
 		default = 0
 		BSeparate = false

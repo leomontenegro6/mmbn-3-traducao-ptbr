@@ -498,9 +498,9 @@ script 196 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Talvez ele não quises-
-	se que eu VISSE a
-	foto, necessariamente.
+	Talvez ele não quisesse
+	que eu VISSE a foto,
+	necessariamente.
 	"""
 	keyWait
 	clearMsg

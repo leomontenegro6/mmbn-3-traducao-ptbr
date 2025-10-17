@@ -343,8 +343,8 @@ script 229 mmbn3 {
 script 230 mmbn3 {
 	msgOpen
 	"""
-	Este computador arma-
-	zena dados importantes.
+	Este computador armazena
+	dados importantes.
 	Dá para se conectar.
 	"""
 	keyWait

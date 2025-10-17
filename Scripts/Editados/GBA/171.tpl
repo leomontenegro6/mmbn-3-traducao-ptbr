@@ -532,9 +532,9 @@ script 21 mmbn3 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Estas preliminares tes-
-	tam as habilidades de in-
-	vestigação do operador.
+	Estas preliminares
+	testam as habilidades de
+	investigação do operador.
 	"""
 	keyWait
 	clearMsg

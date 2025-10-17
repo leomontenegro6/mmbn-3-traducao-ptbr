@@ -99,9 +99,9 @@ script 5 mmbn3 {
 		mugshot = GutsMan
 	msgOpen
 	"""
-	Essa é toda a informa-
-	ção que eu tenho. Vou
-	indo, agora. Falou!
+	Essa é toda a
+	informação que eu tenho.
+	Vou indo agora. Falou!
 	"""
 	keyWait
 	end

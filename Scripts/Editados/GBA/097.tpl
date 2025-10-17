@@ -1172,7 +1172,7 @@ script 200 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"OK "
+	"  OK     "
 	option
 		left = 0
 		right = 0
@@ -1180,7 +1180,7 @@ script 200 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Nem vem!"
+	"  Nem vem!"
 	select
 		default = 0
 		BSeparate = false
@@ -1355,7 +1355,7 @@ script 207 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"OK "
+	"  OK     "
 	option
 		left = 0
 		right = 0
@@ -1363,7 +1363,7 @@ script 207 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Nem vem!"
+	"  Nem vem!"
 	select
 		default = 0
 		BSeparate = false

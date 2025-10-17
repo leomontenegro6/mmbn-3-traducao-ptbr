@@ -449,9 +449,9 @@ script 32 mmbn3 {
 		mugshot = NormalNaviGreen
 	msgOpen
 	"""
-	O vencedor da competi-
-	ção de resistência
-	também está no N1.
+	O vencedor da competição
+	de resistência também
+	está no N1.
 	"""
 	keyWait
 	clearMsg

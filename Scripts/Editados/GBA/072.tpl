@@ -489,8 +489,8 @@ script 45 mmbn3 {
 	msgOpen
 	"""
 	Hm? Comprimir um Navi?
-	Olha, desculpa, tô ocupa-
-	do com estas bolhas!
+	Olha, desculpa, tô ocupado
+	com estas bolhas!
 	"""
 	keyWait
 	clearMsg
@@ -1024,12 +1024,12 @@ script 130 mmbn3 {
 	msgOpen
 	"""
 	Lan! Segredos vitais do
-	SciLab forem roubados!
+	SciLab foram roubados!
 	"""
 	keyWait
 	clearMsg
 	"""
-	E com o Dr. Hikari
+	E, com o Dr. Hikari
 	ausente, o que eu
 	posso fazer?!
 	"""

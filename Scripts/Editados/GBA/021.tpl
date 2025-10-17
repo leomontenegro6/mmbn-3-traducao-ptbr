@@ -488,9 +488,9 @@ script 18 mmbn3 {
 	color
 		palette = 3
 	"""
-	Quem adquire estes da-
-	dos vence as prelimina-
-	res do Grande Prêmio N1!
+	Quem adquire estes dados
+	vence as preliminares
+	do Grande Prêmio N1!
 	"""
 	waitHold
 }
@@ -1305,8 +1305,8 @@ script 49 mmbn3 {
 	color
 		palette = 3
 	"""
-	Velhos dados que pare-
-	cem uma montanha...?
+	Velhos dados que parecem
+	uma montanha...?
 	"_■___■_______■__■"
 	"""
 	waitHold

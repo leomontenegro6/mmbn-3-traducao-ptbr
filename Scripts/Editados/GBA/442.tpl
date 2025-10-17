@@ -177,7 +177,7 @@ script 12 mmbn3 {
 	msgOpen
 	"""
 	Não se preocupe,
-	eu não machucá-los.
+	eu não vou machucá-los.
 	"""
 	keyWait
 	clearMsg

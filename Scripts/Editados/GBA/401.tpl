@@ -143,9 +143,9 @@ script 10 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Nada disso teria acon-
-	tecido se eu tivesse
-	pego o Alpha...
+	Nada disso teria
+	acontecido se eu
+	tivesse pego o Alpha...
 	"""
 	keyWait
 	clearMsg

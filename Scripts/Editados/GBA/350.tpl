@@ -202,8 +202,8 @@ script 11 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Preciso fazer uns pre-
-	parativos. Me encontre
+	Preciso fazer uns
+	preparativos. Me encontre
 	no Laboratório de Vírus.
 	"""
 	keyWait

@@ -472,9 +472,9 @@ script 21 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Ah, como adoro ver jo-
-	vens NetLutadores dan-
-	do tudo de si nas lutas!
+	Ah, como adoro ver jovens
+	NetLutadores dando tudo
+	de si nas lutas!
 	"""
 	keyWait
 	clearMsg
@@ -486,9 +486,9 @@ script 21 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Vou lhe dar umas informa-
-	ções para que lute com
-	ainda mais afinco!
+	Vou lhe dar umas
+	informações para que lute
+	com ainda mais afinco!
 	"""
 	keyWait
 	clearMsg
@@ -532,9 +532,9 @@ script 26 mmbn3 {
 		mugshot = Man
 	msgOpen
 	"""
-	O povo não consegue pa-
-	rar de comer meus boli-
-	nhos em forma de panda!
+	O povo não consegue parar
+	de comer meus bolinhos
+	em forma de panda!
 	"""
 	keyWait
 	end
@@ -544,8 +544,8 @@ script 27 mmbn3 {
 		mugshot = Woman
 	msgOpen
 	"""
-	Era para eu me encon-
-	trar com meu marido aqui,
+	Era para eu me encontrar
+	com meu marido aqui,
 	mas ele está atrasado.
 	"""
 	keyWait
@@ -895,9 +895,9 @@ script 48 mmbn3 {
 		mugshot = 64
 	msgOpen
 	"""
-	Que tumulto todo é
-	esse? Talvez eu deves-
-	se evacuar, também...
+	Que tumulto todo é esse?
+	Talvez eu devesse
+	evacuar, também...
 	"""
 	keyWait
 	clearMsg
@@ -1141,9 +1141,9 @@ script 73 mmbn3 {
 		mugshot = 64
 	msgOpen
 	"""
-	O que é que tá aconte-
-	cendo com o mundo?
-	É demais pra mim!!
+	O que é que tá
+	acontecendo com o
+	mundo? É demais pra mim!!
 	"""
 	keyWait
 	clearMsg
@@ -1175,8 +1175,8 @@ script 74 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	é de NetLutadores for-
-	tes! Só eles podem salvar
+	é de NetLutadores fortes!
+	Só eles podem salvar
 	o futuro de Ni-Hon!
 	"""
 	keyWait
@@ -1903,8 +1903,8 @@ script 190 mmbn3 {
 	clearMsg
 	"""
 	de brincar! Hoje, estamos
-	fazendo uma versão onli-
-	ne, com nossos Navis!
+	fazendo uma versão online,
+	com nossos Navis!
 	"""
 	keyWait
 	clearMsg
@@ -1916,9 +1916,9 @@ script 190 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	você ganha um chip! Nos-
-	sos Navis já se escon-
-	deram, então, vamos lá!
+	você ganha um chip! Nossos
+	Navis já se esconderam,
+	então, vamos lá!
 	"""
 	keyWait
 	clearMsg
@@ -2130,9 +2130,9 @@ script 203 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	dá para aumentar a for-
-	ça do ataque segurando
-	o botão "A" e apertando
+	dá para aumentar a força
+	do ataque segurando o
+	botão "A" e apertando
 	"""
 	keyWait
 	clearMsg
@@ -2735,8 +2735,8 @@ script 227 mmbn3 {
 		jumpIfOutOfRange = continue
 	msgOpen
 	"""
-	Com as catracas, gran-
-	des multidões acessam o
+	Com as catracas, grandes
+	multidões acessam o
 	zoológico rapidamente.
 	"""
 	keyWait

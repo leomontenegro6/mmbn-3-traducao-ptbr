@@ -189,8 +189,8 @@ script 7 mmbn3 {
 	msgOpen
 	""" 
 	Agora, tu vai enfrentar
-	as minhas melhores es-
-	tratégias, tudo "junta"!
+	as minhas melhores
+	estratégias, tudo "junta"!
 	"""
 	keyWait
 	clearMsg
@@ -1518,9 +1518,9 @@ script 130 mmbn3 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	Estamos cientes da pre-
-	sença de um Navi suspeito
-	por volta da DNN.
+	Estamos cientes da
+	presença de um Navi
+	suspeito por volta da DNN.
 	"""
 	keyWait
 	clearMsg
@@ -1852,8 +1852,7 @@ script 186 mmbn3 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	Aqueles monstros da
-	WWW!
+	Aqueles monstros da WWW!
 	Eles não têm coração!
 	"""
 	keyWait
@@ -1901,9 +1900,9 @@ script 187 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Se quiser, eu sobrescre-
-	vo a sua Pasta Extra
-	para você.
+	Se quiser, eu sobrescrevo
+	a sua Pasta Extra para
+	você.
 	"""
 	keyWait
 	clearMsg
@@ -1977,9 +1976,9 @@ script 188 mmbn3 {
 	soundPlay
 		track = 220
 	"""
-	Foi completamente trans-
-	ferida. Você tem uma
-	"
+	Foi completamente
+	transferida. Você tem
+	uma "
 	"""
 	printFolderName
 		buffer = 0
@@ -2257,8 +2256,8 @@ script 223 mmbn3 {
 	msgOpen
 	"""
 	Um enorme monitor tela
-	plana. Realmente faz vo-
-	cê se sentir num estúdio.
+	plana. Realmente faz você
+	se sentir num estúdio.
 	"""
 	keyWait
 	end

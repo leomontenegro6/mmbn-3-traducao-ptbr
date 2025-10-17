@@ -6,7 +6,8 @@ script 0 mmbn3 {
 	msgOpen
 	"""
 	Esse elevador não
-	parece tá funcionando...
+	parece que tá
+	funcionando...
 	"""
 	keyWait
 	clearMsg
@@ -296,16 +297,16 @@ script 18 mmbn3 {
 		mugshot = Cossak
 	msgOpen
 	"""
-	Para ser exato, ele en-
-	via as "ondas cerebrais"
-	da pessoa para lá.
+	Para ser exato, ele envia
+	as "ondas cerebrais" da
+	pessoa para lá.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Ondas cerebrais, essen-
-	cialmente, são só um tipo
-	de pulso elétrico.
+	Ondas cerebrais,
+	essencialmente, são só
+	um tipo de pulso elétrico.
 	"""
 	keyWait
 	clearMsg
@@ -358,8 +359,8 @@ script 20 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Então, se você se ma-
-	chuca lá, esses dados
+	Então, se você se
+	machuca lá, esses dados
 	vão pro seu cérebro...
 	"""
 	keyWait

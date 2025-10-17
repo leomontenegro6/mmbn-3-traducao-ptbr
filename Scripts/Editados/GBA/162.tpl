@@ -1238,9 +1238,9 @@ script 170 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	Ouvi dizer que há gran-
-	des problemas aconte-
-	cendo no mundo real.
+	Ouvi dizer que há grandes
+	problemas acontecendo
+	no mundo real.
 	"""
 	keyWait
 	clearMsg

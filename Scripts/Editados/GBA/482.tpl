@@ -470,8 +470,8 @@ script 6 mmbn3 {
 		unused = 12
 	"""
 	Er... É meio embaraçoso,
-	mas ando tendo proble-
-	mas com o meu filho.
+	mas ando tendo problemas
+	com o meu filho.
 	"""
 	keyWait
 	clearMsg
@@ -611,15 +611,15 @@ script 8 mmbn3 {
 		unused = 12
 	"""
 	Preciso saber o preço
-	que um rival está co-
-	brando por um certo chip.
+	que um rival está cobrando
+	por um certo chip.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Não quero deixar vazar
-	muito, então, me encon-
-	tre no ACDC Plaza.
+	Não quero deixar
+	vazar muito, então, me
+	encontre no ACDC Plaza.
 	"""
 	keyWait
 	clearMsg
@@ -1199,8 +1199,8 @@ script 16 mmbn3 {
 		unused = 12
 	"""
 	Sou um Navi usado e,
-	ultimamente, tenho pen-
-	sado na minha ex-dona.
+	ultimamente, tenho pensado
+	na minha ex-dona.
 	"""
 	keyWait
 	clearMsg

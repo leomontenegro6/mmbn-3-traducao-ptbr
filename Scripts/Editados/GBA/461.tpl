@@ -42,9 +42,9 @@ script 1 mmbn3 {
 	msgOpenInvisible
 		unused = 12
 	"""
-	Começaram as preli-
-	minares! Vou começar
-	sem você, hein?!
+	Começaram as
+	preliminares! Vou
+	começar sem você, hein?!
 	"""
 	keyWait
 	clearMsg

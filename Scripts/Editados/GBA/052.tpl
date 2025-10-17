@@ -2559,9 +2559,9 @@ script 224 mmbn3 {
 script 225 mmbn3 {
 	msgOpen
 	"""
-	É um sistema de segu-
-	rança em forma de
-	casinha de cachorro.
+	É um sistema de
+	segurança em forma
+	de casinha de cachorro.
 	"""
 	keyWait
 	clearMsg

@@ -41,7 +41,7 @@ script 1 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Sim     "
+	"  Sim     "
 	option
 		left = 0
 		right = 0
@@ -49,7 +49,7 @@ script 1 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Não"
+	"    Não"
 	select
 		default = 0
 		BSeparate = false
@@ -126,7 +126,7 @@ script 4 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Sim     "
+	"  Sim     "
 	option
 		left = 0
 		right = 0
@@ -134,7 +134,7 @@ script 4 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Não"
+	"    Não"
 	select
 		default = 0
 		BSeparate = false
@@ -432,7 +432,7 @@ script 32 mmbn3 {
 	printEnemyName
 		buffer = 0
 		enemy = 1
-	"\nestão limpando seus\nmachados."
+	"\nestão limpando suas\npicaretas."
 	keyWait
 	end
 }
@@ -524,7 +524,7 @@ script 221 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Sim     "
+	"  Sim     "
 	option
 		left = 0
 		right = 0
@@ -532,7 +532,7 @@ script 221 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Não"
+	"  Não"
 	select
 		default = 0
 		BSeparate = false
@@ -560,7 +560,7 @@ script 222 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Sim     "
+	"  Sim     "
 	option
 		left = 0
 		right = 0
@@ -568,7 +568,7 @@ script 222 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Não"
+	"  Não"
 	select
 		default = 0
 		BSeparate = false
@@ -596,7 +596,7 @@ script 223 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Sim     "
+	"  Sim     "
 	option
 		left = 0
 		right = 0
@@ -604,7 +604,7 @@ script 223 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Não"
+	"  Não"
 	select
 		default = 0
 		BSeparate = false
@@ -632,7 +632,7 @@ script 224 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Sim     "
+	"  Sim     "
 	option
 		left = 0
 		right = 0
@@ -640,7 +640,7 @@ script 224 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Não"
+	"  Não"
 	select
 		default = 0
 		BSeparate = false
@@ -668,7 +668,7 @@ script 225 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Sim     "
+	"  Sim     "
 	option
 		left = 0
 		right = 0
@@ -676,7 +676,7 @@ script 225 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Não"
+	"  Não"
 	select
 		default = 0
 		BSeparate = false
@@ -704,7 +704,7 @@ script 226 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Sim     "
+	"  Sim     "
 	option
 		left = 0
 		right = 0
@@ -712,7 +712,7 @@ script 226 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Não"
+	"  Não"
 	select
 		default = 0
 		BSeparate = false
@@ -740,7 +740,7 @@ script 227 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Sim     "
+	"  Sim     "
 	option
 		left = 0
 		right = 0
@@ -748,7 +748,7 @@ script 227 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Não"
+	"  Não"
 	select
 		default = 0
 		BSeparate = false
@@ -776,7 +776,7 @@ script 228 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Sim     "
+	"  Sim     "
 	option
 		left = 0
 		right = 0
@@ -784,7 +784,7 @@ script 228 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Não"
+	"  Não"
 	select
 		default = 0
 		BSeparate = false

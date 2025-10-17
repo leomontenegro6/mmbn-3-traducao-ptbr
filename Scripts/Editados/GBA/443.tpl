@@ -23,9 +23,9 @@ script 1 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Com certeza a Mayl e
-	os outros tão preocupa-
-	dos com a gente!
+	Com certeza a Mayl e os
+	outros tão preocupados
+	com a gente!
 	"""
 	keyWait
 	clearMsg

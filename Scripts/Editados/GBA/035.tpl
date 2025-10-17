@@ -1210,9 +1210,9 @@ script 213 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	O que será que aconte-
-	ceu com a Mayl? Vamos
-	pro CPU do Zoológico!
+	O que será que aconteceu
+	com a Mayl? Vamos pro
+	CPU do Zoológico!
 	"""
 	keyWait
 	end
@@ -1355,8 +1355,8 @@ script 228 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Aquele barco não conse-
-	gue fazer a viagem...
+	O barco não consegue
+	fazer a viagem...
 	Precisamos de ajuda!
 	"""
 	keyWait
@@ -1379,9 +1379,9 @@ script 230 mmbn3 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Vamos dar uma vasculha-
-	da! Talvez tenha uma
-	pista sobre o papai aqui!
+	Vamos dar uma vasculhada!
+	Talvez tenha uma pista
+	sobre o papai aqui!
 	"""
 	keyWait
 	end

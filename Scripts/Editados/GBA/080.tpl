@@ -56,8 +56,8 @@ script 12 mmbn3 {
 	msgOpen
 	"""
 	Decidi ficar descansando
-	aqui, na pousada, duran-
-	te nosso período livre.
+	aqui, na pousada, durante
+	nosso período livre.
 	"""
 	keyWait
 	clearMsg
@@ -1072,9 +1072,9 @@ script 221 mmbn3 {
 		jumpIfOutOfRange = continue
 	msgOpen
 	"""
-	Estes vasos gigantes
-	são lisinhos e elegante-
-	mente moldados.
+	Estes vasos gigantes são
+	lisinhos e elegantemente
+	moldados.
 	"""
 	keyWait
 	end
@@ -1265,9 +1265,9 @@ script 236 mmbn3 {
 script 237 mmbn3 {
 	msgOpen
 	"""
-	Estes vasos gigantes
-	são lisinhos e elegante-
-	mente moldados.
+	Estes vasos gigantes são
+	lisinhos e elegantemente
+	moldados.
 	"""
 	keyWait
 	clearMsg

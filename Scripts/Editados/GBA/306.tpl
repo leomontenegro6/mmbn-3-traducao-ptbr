@@ -97,8 +97,8 @@ script 3 mmbn3 {
 		mugshot = Anetta
 	msgOpen
 	"""
-	Saí pra encerrar as ati-
-	vidades de três fábricas
+	Saí pra encerrar as
+	atividades de três fábricas
 	imundas que poluíam o ar!
 	"""
 	keyWait

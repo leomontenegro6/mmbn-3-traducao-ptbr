@@ -87,9 +87,9 @@ script 224 mmbn3 {
 script 225 mmbn3 {
 	msgOpen
 	"""
-	Um Sistema de Trans-
-	missão de Pulso...
-	Manchado de preto.
+	Um Sistema de Transmissão
+	de Pulso... Manchado de
+	preto.
 	"""
 	keyWait
 	end
@@ -97,9 +97,8 @@ script 225 mmbn3 {
 script 226 mmbn3 {
 	msgOpen
 	"""
-	Um Sistema de Trans-
-	missão de Pulso falho
-	e inútil.
+	Um Sistema de Transmissão
+	de Pulso falho e inútil.
 	"""
 	keyWait
 	end

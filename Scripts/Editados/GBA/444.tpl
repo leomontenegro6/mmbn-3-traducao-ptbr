@@ -99,8 +99,8 @@ script 7 mmbn3 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Bom, acho que você con-
-	seguiu, Lan. Alpha foi
+	Bom, acho que você
+	conseguiu, Lan. Alpha foi
 	completamente detido...
 	"""
 	keyWait

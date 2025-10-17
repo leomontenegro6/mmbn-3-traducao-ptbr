@@ -610,8 +610,8 @@ script 51 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Sim, eles são convenien-
-	tes... mas tem o problema
+	Sim, são convenientes...
+	mas tem o problema
 	dos NetCrimes, né?
 	"""
 	keyWait
@@ -803,9 +803,9 @@ script 90 mmbn3 {
 		palette = 1
 	msgOpen
 	"""
-	Fiquei sabendo do inciden-
-	te. Fico com um pouco de
-	pena desse BubbleMan...
+	Fiquei sabendo do incidente.
+	Fico com um pouco de pena
+	desse BubbleMan...
 	"""
 	keyWait
 	clearMsg
@@ -892,9 +892,9 @@ script 120 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Você é famoso, cara! As
-	suas lutas foram trans-
-	mitidas mundialmente!
+	Você é famoso, cara!
+	As suas lutas foram
+	transmitidas mundialmente!
 	"""
 	keyWait
 	end

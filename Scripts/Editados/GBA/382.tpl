@@ -59,9 +59,8 @@ script 3 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Se você está atrás
-	de que eu acho que
-	está...
+	Se você está atrás de
+	quem eu acho que está...
 	"""
 	keyWait
 	clearMsg

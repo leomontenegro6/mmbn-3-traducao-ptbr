@@ -88,9 +88,9 @@ script 12 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Então, não era o Bubble-
-	Man quem operava o
-	robô! Mas então, quem...?
+	Então, não era o
+	BubbleMan quem operava
+	o robô! Mas então, quem...?
 	"""
 	keyWait
 	end
@@ -136,9 +136,9 @@ script 16 mmbn3 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Eu não posso te desco-
-	nectar aqui! Você tem
-	que ir pra entrada!!
+	Eu não posso te
+	desconectar aqui! Você
+	tem que ir pra entrada!!
 	"""
 	keyWait
 	end

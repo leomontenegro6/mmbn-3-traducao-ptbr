@@ -81,7 +81,7 @@ script 220 mmbn3 {
 	msgOpen
 	"""
 	Uma cadeira cheia de
-	cabos. Pro que será
+	cabos. Pra que será
 	que serve...?
 	"""
 	keyWait
@@ -239,16 +239,15 @@ script 226 mmbn3s {
 script 227 mmbn3 {
 	msgOpen
 	"""
-	Um Sistema de Trans-
-	missão de Pulso.
-	Transmite ondas
+	Um Sistema de Transmissão
+	de Pulso. Transmite ondas
+	cerebrais
 	"""
 	keyWait
 	clearMsg
 	"""
-	cerebrais pro mundo
-	cibernético. Mas
-	está quebrado.
+	pro mundo cibernético.
+	Mas está quebrado.
 	"""
 	keyWait
 	end

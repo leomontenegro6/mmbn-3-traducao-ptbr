@@ -32,9 +32,9 @@ script 0 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Mas por que seria neces-
-	sário um aquecedor para
-	uma fonte termal...?
+	Mas por que seria
+	necessário um aquecedor
+	para uma fonte termal...?
 	"""
 	keyWait
 	end

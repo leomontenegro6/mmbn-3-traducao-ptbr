@@ -245,8 +245,8 @@ script 8 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Quanto maior o nível, ma-
-	ior a chance de adquirir
+	Quanto maior o nível, maior
+	as chances de adquirir
 	dados de chips nas lutas.
 	"""
 	keyWait
@@ -1211,8 +1211,8 @@ script 151 mmbn3 {
 	msgOpen
 	"""
 	Por causa da WWW, nós, 
-	Navis Oficiais, não pode-
-	mos descansar. Ai, ai...
+	Navis Oficiais, não podemos
+	descansar. Ai, ai...
 	"""
 	keyWait
 	end
@@ -1241,8 +1241,8 @@ script 156 mmbn3 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Não temos muita informa-
-	ção, mas um objeto muito
+	Não temos muita informação,
+	mas um objeto muito
 	importante foi roubado.
 	"""
 	keyWait

@@ -128,8 +128,8 @@ script 10 mmbn3 {
 	mugshotShow
 		mugshot = MistMan
 	"""
-	Olha aí, você está en-
-	tendendo! A força nos
+	Olha aí, você está
+	entendendo! A força nos
 	leva a qualquer coisa.
 	"""
 	keyWait
@@ -199,7 +199,7 @@ script 12 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Sim "
+	"  Sim    "
 	option
 		left = 0
 		right = 0
@@ -207,7 +207,7 @@ script 12 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Não\n"
+	"    Não\n"
 	select
 		default = 1
 		BSeparate = false
@@ -533,7 +533,7 @@ script 32 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Sim "
+	"  Sim    "
 	option
 		left = 0
 		right = 0
@@ -541,7 +541,7 @@ script 32 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Não\n"
+	"    Não\n"
 	select
 		default = 1
 		BSeparate = false

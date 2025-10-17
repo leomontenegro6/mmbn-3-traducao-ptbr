@@ -74,9 +74,9 @@ script 21 mmbn3 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	A DNN perdeu muita con-
-	fiança com o N1, mas re-
-	cuperou a popularidade!
+	A DNN perdeu muita
+	confiança com o N1, mas
+	recuperou a popularidade!
 	"""
 	keyWait
 	clearMsg

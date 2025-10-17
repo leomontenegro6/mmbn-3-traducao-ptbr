@@ -1171,8 +1171,8 @@ script 190 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	e, não sei como, eles co-
-	meçaram a se multiplicar,
+	e, não sei como, eles
+	começaram a se multiplicar,
 	fora do nosso controle!
 	"""
 	keyWait

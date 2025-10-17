@@ -669,8 +669,8 @@ script 100 mmbn3 {
 	clearMsg
 	"""
 	Eu tentei tranquilizá-las,
-	mas só o que posso fa-
-	zer é deixá-las passar!
+	mas só o que posso fazer
+	é deixá-las passar!
 	"""
 	keyWait
 	end

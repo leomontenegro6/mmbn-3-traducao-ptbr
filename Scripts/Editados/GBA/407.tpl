@@ -495,7 +495,7 @@ script 24 mmbn3 {
 	clearMsg
 	"""
 	O quê...?!
-	Nas Águas do Demônio?!
+	Nas Águas Diabólicas?!
 	"""
 	keyWait
 	clearMsg
@@ -506,7 +506,7 @@ script 25 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"\"Águas do Demônio\"?"
+	"\"Águas Diabólicas\"?"
 	keyWait
 	clearMsg
 	jump
@@ -527,15 +527,15 @@ script 26 mmbn3 {
 	clearMsg
 	"""
 	É cheia de "Correntes
-	Demoníacas", movimenta-
-	ções de água fortes o
+	Diabólicas", movimentações
+	de água fortes o bastante
 	"""
 	keyWait
 	clearMsg
 	"""
-	bastante pra criar rede-
-	moinhos. Chegar perto
-	delas é morte certa!
+	pra criar redemoinhos.
+	Chegar perto delas é
+	morte certa!
 	"""
 	keyWait
 	clearMsg
@@ -546,7 +546,7 @@ script 27 mmbn3 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Águas do Demônio..."
+	"Águas Diabólicas..."
 	keyWait
 	clearMsg
 	"""
@@ -569,8 +569,8 @@ script 28 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	As ventanias turbulen-
-	tas derrubariam qualquer
+	As ventanias turbulentas
+	derrubariam qualquer
 	avião.
 	"""
 	keyWait

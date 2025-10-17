@@ -195,9 +195,9 @@ script 9 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Enquanto eu desapare-
-	cia, jurei vingança
-	contra os humanos.
+	Enquanto eu desaparecia,
+	jurei vingança contra os
+	humanos.
 	"""
 	keyWait
 	clearMsg

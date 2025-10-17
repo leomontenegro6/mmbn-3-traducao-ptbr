@@ -111,9 +111,9 @@ script 5 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Porém, confiança exces-
-	siva pode ser fatal.
-	Fique bem atento!
+	Porém, confiança
+	excessiva pode ser
+	fatal. Fique bem atento!
 	"""
 	keyWait
 	clearMsg

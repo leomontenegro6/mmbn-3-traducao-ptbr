@@ -433,9 +433,9 @@ script 70 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Fico com medo que, um
-	dia, uma coisa extrema-
-	mente ruim aconteça...
+	Fico com medo que, um dia,
+	uma coisa extremamente
+	ruim aconteça...
 	"""
 	keyWait
 	end
@@ -1596,8 +1596,8 @@ script 225 mmbn3 {
 script 226 mmbn3 {
 	msgOpen
 	"""
-	Os chefs estão ocupa-
-	dos, limpando a sujeira
+	Os chefs estão ocupados,
+	limpando a sujeira
 	deixada pelas bolhas.
 	"""
 	keyWait

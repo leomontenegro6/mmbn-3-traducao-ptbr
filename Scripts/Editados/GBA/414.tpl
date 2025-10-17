@@ -111,8 +111,8 @@ script 4 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Se, ao menos, eu pudes-
-	se voltar no tempo...
+	Se, ao menos, eu pudesse
+	voltar no tempo...
 	.
 	"""
 	waitSkip
@@ -120,7 +120,7 @@ script 4 mmbn3 {
 	"."
 	waitSkip
 		frames = 30
-	"."
+	". "
 	waitSkip
 		frames = 30
 	"Bass..."
@@ -151,8 +151,8 @@ script 6 mmbn3 {
 	clearMsg
 	"""
 	Ele ainda está vivo, mas
-	por um triz. Temos de le-
-	vá-lo a um lugar seguro.
+	por um triz. Temos de
+	levá-lo a um lugar seguro.
 	"""
 	keyWait
 	clearMsg

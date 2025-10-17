@@ -1598,9 +1598,9 @@ script 227 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	São mais caros, em mé-
-	dia, que as bebidas ven-
-	didas fora do zoológico.
+	São mais caros, em média,
+	que as bebidas vendidas
+	fora do zoológico.
 	"""
 	keyWait
 	end

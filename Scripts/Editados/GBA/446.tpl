@@ -246,8 +246,8 @@ script 10 mmbn3 {
 	clearMsg
 	"""
 	Parece que as suas
-	habilidades ultrapassa-
-	ram até as minhas!"
+	habilidades ultrapassaram
+	até as minhas!"
 	"""
 	keyWait
 	clearMsg
@@ -275,9 +275,9 @@ script 10 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Era lá que ficavam sal-
-	vos os dados de perso-
-	nalidade do meu pai.
+	Era lá que ficavam salvos
+	os dados de personalidade
+	do meu pai.
 	"""
 	keyWait
 	clearMsg
@@ -393,7 +393,7 @@ script 11 mmbn3 {
 	"."
 	waitSkip
 		frames = 30
-	"."
+	". "
 	waitSkip
 		frames = 30
 	"um sonho?"

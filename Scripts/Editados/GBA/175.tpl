@@ -117,9 +117,9 @@ script 20 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Um desafiante de ran-
-	que? Acha que consegue
-	levar meu ranque 10?
+	Um desafiante de ranque?
+	Acha que consegue levar
+	meu ranque 10?
 	"""
 	keyWait
 	clearMsg
@@ -265,7 +265,7 @@ script 190 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Você!, Você, Navi!
+	Você! Você, Navi!
 	Poderia achar os meus
 	tomos?
 	"""
@@ -293,8 +293,7 @@ script 190 mmbn3 {
 	clearMsg
 	"""
 	Eles foram toda a minha
-	vida!
-	São tudo para mim!
+	vida! São tudo para mim!
 	"""
 	keyWait
 	clearMsg

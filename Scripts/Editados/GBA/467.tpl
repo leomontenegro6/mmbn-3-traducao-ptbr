@@ -560,9 +560,9 @@ script 33 mmbn3 {
 		palette = 2
 	msgOpenAlt
 	"""
-	Não, você não pode dei-
-	xar dois programas bran-
-	cos colados um no outro!
+	Não, você não pode deixar
+	dois programas brancos
+	colados um no outro!
 	"""
 	keyWait
 	end
