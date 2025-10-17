@@ -189,7 +189,7 @@ script 46 mmbn3s {
 	end
 }
 script 47 mmbn3s {
-	"TiroMAX"
+	"TiroMÁX"
 	end
 }
 script 48 mmbn3s {

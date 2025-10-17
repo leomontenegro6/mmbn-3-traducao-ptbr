@@ -177,7 +177,7 @@ script 43 mmbn3s {
 	end
 }
 script 44 mmbn3s {
-	"BugStop"
+	"ParaBug"
 	end
 }
 script 45 mmbn3s {
@@ -189,7 +189,7 @@ script 46 mmbn3s {
 	end
 }
 script 47 mmbn3s {
-	"TiroMAX"
+	"TiroMÁX"
 	end
 }
 script 48 mmbn3s {

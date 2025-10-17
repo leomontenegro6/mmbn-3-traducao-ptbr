@@ -158,7 +158,7 @@ script 6 mmbn3 {
 	soundDisableTextSFX
 	soundPlay
 		track = 266
-	"*Clinc* *Clanc*..."
+	"Clinc Clanc..."
 	wait
 		frames = 90
 	"\n"

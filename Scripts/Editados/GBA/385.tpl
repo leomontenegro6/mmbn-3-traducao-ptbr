@@ -130,9 +130,9 @@ script 7 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Se fizer isso, cedo ou
-	tarde, você esbarrá
-	com ele.
+	Se fizer isso,
+	cedo ou tarde,
+	se cruzará com ele.
 	"""
 	keyWait
 	clearMsg
