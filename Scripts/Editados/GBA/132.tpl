@@ -49,7 +49,7 @@ script 1 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"    Não"
+	"       Não"
 	select
 		default = 0
 		BSeparate = false
@@ -134,7 +134,7 @@ script 4 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"    Não"
+	"       Não"
 	select
 		default = 0
 		BSeparate = false
@@ -523,7 +523,7 @@ script 221 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"  Não"
+	"       Não"
 	select
 		default = 0
 		BSeparate = false
@@ -559,7 +559,7 @@ script 222 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"  Não"
+	"       Não"
 	select
 		default = 0
 		BSeparate = false
@@ -595,7 +595,7 @@ script 223 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"  Não"
+	"       Não"
 	select
 		default = 0
 		BSeparate = false
@@ -631,7 +631,7 @@ script 224 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"  Não"
+	"       Não"
 	select
 		default = 0
 		BSeparate = false
@@ -667,7 +667,7 @@ script 225 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"  Não"
+	"       Não"
 	select
 		default = 0
 		BSeparate = false
@@ -703,7 +703,7 @@ script 226 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"  Não"
+	"       Não"
 	select
 		default = 0
 		BSeparate = false
@@ -739,7 +739,7 @@ script 227 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"  Não"
+	"       Não"
 	select
 		default = 0
 		BSeparate = false
@@ -775,7 +775,7 @@ script 228 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"  Não"
+	"       Não"
 	select
 		default = 0
 		BSeparate = false

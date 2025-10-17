@@ -29,7 +29,7 @@ script 1 mmbn3 {
 	clearMsg
 	"""
 	Permita-me redistribuir a
-	comida dos viruses!
+	comida dos vírus!
 	"""
 	keyWait
 	clearMsg
@@ -49,7 +49,7 @@ script 1 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"    Não"
+	"       Não"
 	select
 		default = 0
 		BSeparate = false
@@ -258,7 +258,7 @@ script 23 mmbn3 {
 	"""
 	Eles fazem pequenos
 	movimentos agitados
-	com os dedos.
+	com as patas.
 	"""
 	keyWait
 	clearMsg
@@ -315,7 +315,7 @@ script 221 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Sim     "
+	"  Sim     "
 	option
 		left = 0
 		right = 0
@@ -323,7 +323,7 @@ script 221 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Não"
+	"       Não"
 	select
 		default = 0
 		BSeparate = false
@@ -355,7 +355,7 @@ script 222 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Sim     "
+	"  Sim     "
 	option
 		left = 0
 		right = 0
@@ -363,7 +363,7 @@ script 222 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Não"
+	"       Não"
 	select
 		default = 0
 		BSeparate = false
@@ -395,7 +395,7 @@ script 223 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Sim     "
+	"  Sim     "
 	option
 		left = 0
 		right = 0
@@ -403,7 +403,7 @@ script 223 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Não"
+	"       Não"
 	select
 		default = 0
 		BSeparate = false
@@ -435,7 +435,7 @@ script 224 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Sim     "
+	"  Sim     "
 	option
 		left = 0
 		right = 0
@@ -443,7 +443,7 @@ script 224 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Não"
+	"       Não"
 	select
 		default = 0
 		BSeparate = false
@@ -475,7 +475,7 @@ script 225 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Sim     "
+	"  Sim     "
 	option
 		left = 0
 		right = 0
@@ -483,7 +483,7 @@ script 225 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Não"
+	"       Não"
 	select
 		default = 0
 		BSeparate = false
@@ -515,7 +515,7 @@ script 226 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Sim     "
+	"  Sim     "
 	option
 		left = 0
 		right = 0
@@ -523,7 +523,7 @@ script 226 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Não"
+	"       Não"
 	select
 		default = 0
 		BSeparate = false
