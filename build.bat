@@ -49,6 +49,11 @@ cd .\Asm\bn3addgameover\
 call build.bat -w
 cd ..\..\
 
+echo ==Tabelas de chips com as ordens corrigidas==
+cd .\Asm\bn3chiptables\
+call build.bat -w
+cd ..\..\
+
 echo ==Graficos descomprimidos==
 call recomprimir_graficos_comprimidos.bat
 .\Ferramentas\armips.exe .\Asm\graficos_versao_branca.asm
@@ -87,6 +92,11 @@ cd ..\..\
 
 echo ==Tela Game Over japonesa==
 cd .\Asm\bn3addgameover\
+call build.bat -b
+cd ..\..\
+
+echo ==Tabelas de chips com as ordens corrigidas==
+cd .\Asm\bn3chiptables\
 call build.bat -b
 cd ..\..\
 
