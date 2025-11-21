@@ -868,8 +868,8 @@ script 37 mmbn3 {
 	msgOpen
 	"""
 	A Rede é tão divertida!
-	Mas o tempo passa voan-
-	do, e a noite logo chega.
+	Mas o tempo passa voando,
+	e a noite logo chega.
 	"""
 	keyWait
 	end

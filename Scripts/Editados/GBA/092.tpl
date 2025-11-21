@@ -224,9 +224,9 @@ script 2 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Ai, cansei.
-	E você tem que ir andan-
-	do, ou vai se atrasar.
+	Ai, cansei. E você
+	tem que ir andando,
+	ou vai se atrasar.
 	"""
 	keyWait
 	clearMsg
@@ -2071,7 +2071,7 @@ script 203 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"   Metrô Angra\n"
+	"   Met. Angra\n"
 	option
 		left = 1
 		right = 1
@@ -2087,7 +2087,7 @@ script 203 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"   Rua Angra"
+	"   Est. Angra"
 	select
 		default = 0
 		BSeparate = false

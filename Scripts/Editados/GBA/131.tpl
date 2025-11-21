@@ -804,8 +804,8 @@ script 229 mmbn3 {
 		jumpIfFalse = continue
 	msgOpen
 	"""
-	Direita: Axes & Helmets.
-	Esquerda: Ring Rabbits.
+	Dir.: Picaretas & Capacetes
+	Esq.: Coelhos de Anéis.
 	"""
 	keyWait
 	end
@@ -816,19 +816,19 @@ script 230 mmbn3 {
 		jumpIfTrue = 232
 		jumpIfFalse = continue
 	msgOpen
-	"Direita: "
+	"Dir.: "
 	printEnemyName
 		buffer = 0
 		enemy = 1
-	"\nEsquerda: Ring Rabbits"
+	"\Esq.: Coelhos de Anéis"
 	keyWait
 	end
 }
 script 231 mmbn3 {
 	msgOpen
 	"""
-	Direita: Axes & Helmets
-	Esquerda: 
+	Dir.: Picaretas & Capacetes
+	Esq.: 
 	"""
 	printEnemyName
 		buffer = 0
@@ -838,11 +838,11 @@ script 231 mmbn3 {
 }
 script 232 mmbn3 {
 	msgOpen
-	"Direita: "
+	"Dir.: "
 	printEnemyName
 		buffer = 0
 		enemy = 1
-	"\nEsquerda: "
+	"\nEsq. "
 	printEnemyName
 		buffer = 0
 		enemy = 37

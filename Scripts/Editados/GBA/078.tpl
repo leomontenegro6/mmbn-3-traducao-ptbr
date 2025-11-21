@@ -1058,8 +1058,9 @@ script 250 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Hmm. Tem uma
-	mensagem escrita aqui...
+	Hmm...
+	Tem uma mensagem
+	escrita aqui...
 	"""
 	keyWait
 	clearMsg

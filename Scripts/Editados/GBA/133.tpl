@@ -792,8 +792,8 @@ script 229 mmbn3 {
 		jumpIfFalse = continue
 	msgOpen
 	"""
-	Direita: Armor Knight
-	Esquerda: Fire Sorcerer
+	Dir.: Cavaleiros de Armadura
+	Esq.: Cães Cospe-fogo
 	"""
 	keyWait
 	end
@@ -804,19 +804,19 @@ script 230 mmbn3 {
 		jumpIfTrue = 232
 		jumpIfFalse = continue
 	msgOpen
-	"Direita: "
+	"Dir.: "
 	printEnemyName
 		buffer = 0
 		enemy = 13
-	"\nEsquerda: Fire Sorcerer"
+	"\nEsq.: Cães Cospe-fogo"
 	keyWait
 	end
 }
 script 231 mmbn3 {
 	msgOpen
 	"""
-	Direita: Armor Knight
-	Esquerda: 
+	Dir.: Cavaleiros de Armadura
+	Esq.: 
 	"""
 	printEnemyName
 		buffer = 0
@@ -826,11 +826,11 @@ script 231 mmbn3 {
 }
 script 232 mmbn3 {
 	msgOpen
-	"Direita: "
+	"Dir.: "
 	printEnemyName
 		buffer = 0
 		enemy = 13
-	"\nEsquerda: "
+	"\nEsq.: "
 	printEnemyName
 		buffer = 0
 		enemy = 33

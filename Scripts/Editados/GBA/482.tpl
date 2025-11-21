@@ -1652,7 +1652,7 @@ script 22 mmbn3 {
 	keyWait
 	clearMsg
 	"""
-	Lutadores, venham à
+	Lutadores, venham ao
 	Mt. Inferno, na Ilha
 	do Inferno, rápido!
 	"""
@@ -3141,7 +3141,7 @@ script 135 mmbn3 {
 	clearMsg
 	"""
 	Local de encontro:
-	Hospital 2P.
+	Hospital P2.
 	"""
 	keyWait
 	waitHold

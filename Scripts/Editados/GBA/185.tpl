@@ -102,7 +102,7 @@ script 180 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Sim     "
+	"   Sim     "
 	option
 		left = 0
 		right = 0
@@ -110,7 +110,7 @@ script 180 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Não"
+	"     Não"
 	select
 		default = 0
 		BSeparate = false
@@ -224,7 +224,7 @@ script 222 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Sim     "
+	"   Sim     "
 	option
 		left = 0
 		right = 0
@@ -232,7 +232,7 @@ script 222 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Não"
+	"     Não"
 	select
 		default = 0
 		BSeparate = false
@@ -276,7 +276,7 @@ script 223 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Sim     "
+	"   Sim     "
 	option
 		left = 0
 		right = 0
@@ -284,7 +284,7 @@ script 223 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Não"
+	"     Não"
 	select
 		default = 0
 		BSeparate = false
@@ -355,7 +355,7 @@ script 226 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Usar "
+	"    Usar      "
 	option
 		left = 0
 		right = 0
@@ -363,7 +363,7 @@ script 226 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Não"
+	"    Não"
 	select
 		default = 0
 		BSeparate = false
@@ -484,18 +484,17 @@ script 229 mmbn3 {
 }
 script 230 mmbn3 {
 	msgOpen
-	"Pode passar, "
+	"Pode passar,\n"
 	textSpeed
 		delay = 0
-	"[circle1][circle2]"
+	"Ó "
 	textSpeed
 		delay = 2
 	wait
 		frames = 2
 	"""
-	
-	detentor do maior
-	poder!
+	detentor do
+	maior poder!
 	"""
 	keyWait
 	flagSet
@@ -504,16 +503,15 @@ script 230 mmbn3 {
 }
 script 231 mmbn3 {
 	msgOpen
-	"Pode passar, "
+	"Pode passar,\n"
 	textSpeed
 		delay = 0
-	"[circle1][circle2]"
+	"Ó "
 	textSpeed
 		delay = 2
 	wait
 		frames = 2
 	"""
-	
 	ganhador da
 	confiança do povo!
 	"""

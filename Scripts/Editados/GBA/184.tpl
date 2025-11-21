@@ -249,7 +249,7 @@ script 222 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Sim     "
+	"   Sim     "
 	option
 		left = 0
 		right = 0
@@ -257,7 +257,7 @@ script 222 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Não"
+	"     Não"
 	select
 		default = 0
 		BSeparate = false
@@ -301,7 +301,7 @@ script 223 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Sim     "
+	"   Sim     "
 	option
 		left = 0
 		right = 0
@@ -309,7 +309,7 @@ script 223 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Não"
+	"     Não"
 	select
 		default = 0
 		BSeparate = false
@@ -340,16 +340,15 @@ script 224 mmbn3 {
 }
 script 225 mmbn3 {
 	msgOpen
-	"Pode passar, "
+	"Pode passar,\n"
 	textSpeed
 		delay = 0
-	"[circle1][circle2]"
+	"Ó "
 	textSpeed
 		delay = 2
 	wait
 		frames = 2
 	"""
-	
 	campeão dos
 	4 questionadores!
 	"""
@@ -360,16 +359,15 @@ script 225 mmbn3 {
 }
 script 226 mmbn3 {
 	msgOpen
-	"Pode passar, "
+	"Pode passar,\n"
 	textSpeed
 		delay = 0
-	"[circle1][circle2]"
+	"Ó "
 	textSpeed
 		delay = 2
 	wait
 		frames = 2
 	"""
-	
 	acumulador de 140
 	fragmentos de força!
 	"""
@@ -400,7 +398,7 @@ script 227 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Usar "
+	"    Usar     "
 	option
 		left = 0
 		right = 0
@@ -408,7 +406,7 @@ script 227 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Não"
+	"     Não"
 	select
 		default = 0
 		BSeparate = false

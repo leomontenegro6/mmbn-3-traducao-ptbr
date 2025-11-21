@@ -1165,8 +1165,8 @@ script 190 mmbn3 {
 	clearMsg
 	"""
 	Estávamos fazendo uns
-	testes com batalhas an-
-	tivírus neste computador,
+	testes com batalhas
+	antivírus neste computador,
 	"""
 	keyWait
 	clearMsg

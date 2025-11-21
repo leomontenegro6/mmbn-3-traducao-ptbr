@@ -34,8 +34,8 @@ script 2 mmbn3 {
 	msgOpen
 	"""
 	Vamos nos encontrar no
-	parque pra decidir quan-
-	do faremos o bate-papo.
+	parque pra decidir quando
+	faremos o bate-papo.
 	"""
 	keyWait
 	flagSet

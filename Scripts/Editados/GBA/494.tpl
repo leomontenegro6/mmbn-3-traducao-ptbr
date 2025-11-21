@@ -445,8 +445,7 @@ script 12 mmbn3 {
 	clearMsg
 	"""
 	Aí vai: Erro nº H2
-	Código:
-	"UTIW[ModTools2]SMF".
+	Código: "UTIW[ModTools2]SMF".
 	"""
 	keyWait
 	waitHold

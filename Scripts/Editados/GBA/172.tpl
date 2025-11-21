@@ -158,7 +158,7 @@ script 12 mmbn3 {
 	clearMsg
 	"""
 	lutar quando o oponente
-	tá com PV baixos!
+	tá com poucos PV!
 	"""
 	keyWait
 	end

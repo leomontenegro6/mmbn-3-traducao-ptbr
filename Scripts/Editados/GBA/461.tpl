@@ -1714,8 +1714,8 @@ script 41 mmbn3 {
 	clearMsg
 	"""
 	Peças Programa devem
-	tocar a Linha de Coman-
-	do do Mapa de Memória.
+	tocar a Linha de Comando
+	do Mapa de Memória.
 	"""
 	keyWait
 	clearMsg

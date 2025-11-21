@@ -1668,9 +1668,9 @@ script 156 mmbn3 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	Outro incidente?!
-	A WWW está nos trucidan-
-	do, como formigas!
+	Outro incidente?! A
+	WWW está nos trucidando,
+	como formigas!
 	"""
 	keyWait
 	end

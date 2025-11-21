@@ -597,8 +597,8 @@ script 191 mmbn3 {
 	msgOpen
 	soundDisableChoiceSFX
 	"""
-	Hi, hi! Lá vai,
-	então! Pergunta 1!
+	Hi, hi! Lá vai, então!
+	Pergunta 1!
 	"""
 	keyWait
 	clearMsg
@@ -889,8 +889,7 @@ script 196 mmbn3 {
 	clearMsg
 	"""
 	Os caranguejos são
-	classificados
-	como...
+	classificados como...
 	"""
 	keyWait
 	clearMsg
@@ -1466,7 +1465,7 @@ script 225 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Sim     "
+	"   Sim     "
 	option
 		left = 0
 		right = 0
@@ -1474,7 +1473,7 @@ script 225 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Não"
+	"     Não"
 	select
 		default = 0
 		BSeparate = false

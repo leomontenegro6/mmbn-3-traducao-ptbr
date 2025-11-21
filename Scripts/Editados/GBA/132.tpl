@@ -795,8 +795,8 @@ script 229 mmbn3 {
 		jumpIfFalse = continue
 	msgOpen
 	"""
-	Direita: Elec. Eyes
-	Esquerda: Hole Moles
+	Dir.: Olhos Elétricos
+	Esq.: Buracos de Toupeira
 	"""
 	keyWait
 	end
@@ -807,19 +807,19 @@ script 230 mmbn3 {
 		jumpIfTrue = 232
 		jumpIfFalse = continue
 	msgOpen
-	"Direita: "
+	"Dir.: "
 	printEnemyName
 		buffer = 0
 		enemy = 87
-	"\nEsquerda: Hole Moles"
+	"\nEsq.: Buracos de Toupeira"
 	keyWait
 	end
 }
 script 231 mmbn3 {
 	msgOpen
 	"""
-	Direita: Elec. Eyes
-	Esquerda: 
+	Dir.: Olhos Elétricos
+	Esq.: 
 	"""
 	printEnemyName
 		buffer = 0
@@ -829,11 +829,11 @@ script 231 mmbn3 {
 }
 script 232 mmbn3 {
 	msgOpen
-	"Direita: "
+	"Dir.: "
 	printEnemyName
 		buffer = 0
 		enemy = 87
-	"\nEsquerda: "
+	"\nEsq.: "
 	printEnemyName
 		buffer = 0
 		enemy = 91

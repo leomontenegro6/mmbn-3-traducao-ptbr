@@ -1685,7 +1685,7 @@ script 203 mmbn3 {
 	"""
 	Pegue carimbos de cada
 	programa nas áreas
-	ACDC, SciLab e Angra.
+	Yoka, SciLab e Angra.
 	"""
 	keyWait
 	clearMsg

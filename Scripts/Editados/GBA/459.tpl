@@ -531,7 +531,7 @@ script 24 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Sim     "
+	"   Sim     "
 	option
 		left = 0
 		right = 0
@@ -539,7 +539,7 @@ script 24 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Não"
+	"     Não"
 	select
 		default = 1
 		BSeparate = true
@@ -755,7 +755,7 @@ script 41 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Sim     "
+	"   Sim     "
 	option
 		left = 0
 		right = 0
@@ -763,7 +763,7 @@ script 41 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Não"
+	"     Não"
 	select
 		default = 1
 		BSeparate = true
@@ -860,7 +860,7 @@ script 45 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Sim     "
+	"   Sim     "
 	option
 		left = 0
 		right = 0
@@ -868,7 +868,7 @@ script 45 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Não"
+	"     Não"
 	select
 		default = 0
 		BSeparate = true
@@ -928,7 +928,7 @@ script 46 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Sim     "
+	"   Sim     "
 	option
 		left = 0
 		right = 0
@@ -936,7 +936,7 @@ script 46 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Não"
+	"     Não"
 	select
 		default = 0
 		BSeparate = true
@@ -1236,7 +1236,7 @@ script 65 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Sim     "
+	"   Sim     "
 	option
 		left = 0
 		right = 0
@@ -1244,7 +1244,7 @@ script 65 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Não"
+	"     Não"
 	select
 		default = 0
 		BSeparate = false
@@ -1291,7 +1291,7 @@ script 66 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Sim     "
+	"   Sim     "
 	option
 		left = 0
 		right = 0
@@ -1299,7 +1299,7 @@ script 66 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Não"
+	"     Não"
 	select
 		default = 0
 		BSeparate = false
@@ -1500,7 +1500,7 @@ script 82 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Sim     "
+	"   Sim     "
 	option
 		left = 0
 		right = 0
@@ -1508,7 +1508,7 @@ script 82 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Não"
+	"     Não"
 	select
 		default = 0
 		BSeparate = false
@@ -1743,7 +1743,7 @@ script 90 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Sim     "
+	"   Sim     "
 	option
 		left = 0
 		right = 0
@@ -1751,7 +1751,7 @@ script 90 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Não"
+	"     Não"
 	select
 		default = 0
 		BSeparate = false
@@ -1798,7 +1798,7 @@ script 91 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"Sim     "
+	"   Sim     "
 	option
 		left = 0
 		right = 0
@@ -1806,7 +1806,7 @@ script 91 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Não"
+	"     Não"
 	select
 		default = 0
 		BSeparate = false

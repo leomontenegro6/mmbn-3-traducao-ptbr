@@ -1525,7 +1525,7 @@ script 73 mmbn3s {
 	end
 }
 script 74 mmbn3s {
-	"S/M/G"
+	"P/M/G"
 	end
 }
 script 75 mmbn3s {
@@ -3032,7 +3032,7 @@ script 150 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"  OK    "
+	"  OK       "
 	option
 		left = 0
 		right = 0
@@ -3040,7 +3040,7 @@ script 150 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"  Parar"
+	"       Parar"
 	select
 		default = 0
 		BSeparate = false

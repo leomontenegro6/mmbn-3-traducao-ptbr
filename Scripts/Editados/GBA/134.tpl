@@ -850,8 +850,8 @@ script 229 mmbn3 {
 		jumpIfFalse = continue
 	msgOpen
 	"""
-	Direita: Laughing Mush.
-	Esquerda: Air Jellyfish
+	Dir.: Cogumelos Esporosos
+	Esq.: Medusas Voadoras
 	"""
 	keyWait
 	end
@@ -862,19 +862,19 @@ script 230 mmbn3 {
 		jumpIfTrue = 232
 		jumpIfFalse = continue
 	msgOpen
-	"Direita: "
+	"Dir.: "
 	printEnemyName
 		buffer = 0
 		enemy = 49
-	"\nEsquerda: Air Jellyfish"
+	"\nEsq.: Medusas Voadoras"
 	keyWait
 	end
 }
 script 231 mmbn3 {
 	msgOpen
 	"""
-	Direita: Laughing Mush.
-	Esquerda: 
+	Dir.: Cogumelos Esporosos
+	Esq.: 
 	"""
 	printEnemyName
 		buffer = 0
@@ -884,11 +884,11 @@ script 231 mmbn3 {
 }
 script 232 mmbn3 {
 	msgOpen
-	"Direita: "
+	"Dir.: "
 	printEnemyName
 		buffer = 0
 		enemy = 49
-	"\nEsquerda: "
+	"\nEsq.: "
 	printEnemyName
 		buffer = 0
 		enemy = 25

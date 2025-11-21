@@ -172,7 +172,7 @@ script 43 mmbn3s {
 	end
 }
 script 44 mmbn3s {
-	"Ilha inferno■"
+	"Ilha Inferno■"
 	end
 }
 script 45 mmbn3s {

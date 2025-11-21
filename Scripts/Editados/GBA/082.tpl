@@ -1522,8 +1522,8 @@ script 225 mmbn3 {
 	clearMsg
 	"""
 	Suas asas se abrem
-	como planadores enquan-
-	to eles cortam os céus.
+	como planadores enquanto
+	eles cortam os céus.
 	"""
 	keyWait
 	clearMsg

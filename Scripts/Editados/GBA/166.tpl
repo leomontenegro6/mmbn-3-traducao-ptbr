@@ -1121,7 +1121,7 @@ script 202 mmbn3 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	Bom,boa sorte com o
+	Bom, boa sorte com o
 	resto dos carimbos!
 	"""
 	keyWait
