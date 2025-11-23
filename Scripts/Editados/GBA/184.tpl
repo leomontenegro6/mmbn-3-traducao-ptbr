@@ -398,7 +398,7 @@ script 227 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"    Usar     "
+	"  Usar      "
 	option
 		left = 0
 		right = 0
@@ -406,7 +406,7 @@ script 227 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"     Não"
+	"        Não"
 	select
 		default = 0
 		BSeparate = false

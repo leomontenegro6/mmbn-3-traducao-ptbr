@@ -71,7 +71,7 @@ script 5 mmbn3 {
 	soundPlay
 		track = 135
 	soundDisableTextSFX
-	"Roaaaaarrr!!"
+	"Graaaaauurrr!"
 	wait
 		frames = 90
 	soundEnableTextSFX

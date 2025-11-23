@@ -70,7 +70,7 @@
 	.byte CHIP_FLAG_SHOW_DAMAGE; 0B Flags
 	.halfword 80; 0C Damage
 	.halfword 3; 0E ID Sort
-	.halfword 173; 10 ABC Sort
+	.halfword 168; 10 ABC Sort
 	.byte CHIP_TYPE_NONE; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_BONUS_REWARD_CHIP | CHIP_LIBRARY_FLAG_SEQUENTIAL_PA_COMPONENT; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -146,7 +146,7 @@
 	.byte CHIP_FLAG_SHOW_DAMAGE; 0B Flags
 	.halfword 90; 0C Damage
 	.halfword 7; 0E ID Sort
-	.halfword 163; 10 ABC Sort
+	.halfword 158; 10 ABC Sort
 	.byte CHIP_TYPE_PANEL_MODIFYING; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_BONUS_REWARD_CHIP; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -165,7 +165,7 @@
 	.byte CHIP_FLAG_SHOW_DAMAGE; 0B Flags
 	.halfword 120; 0C Damage
 	.halfword 8; 0E ID Sort
-	.halfword 164; 10 ABC Sort
+	.halfword 159; 10 ABC Sort
 	.byte CHIP_TYPE_PANEL_MODIFYING; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_BONUS_REWARD_CHIP; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -184,7 +184,7 @@
 	.byte CHIP_FLAG_SHOW_DAMAGE; 0B Flags
 	.halfword 150; 0C Damage
 	.halfword 9; 0E ID Sort
-	.halfword 165; 10 ABC Sort
+	.halfword 160; 10 ABC Sort
 	.byte CHIP_TYPE_PANEL_MODIFYING; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_BONUS_REWARD_CHIP; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -203,7 +203,7 @@
 	.byte CHIP_FLAG_SHOW_DAMAGE; 0B Flags
 	.halfword 30; 0C Damage
 	.halfword 11; 0E ID Sort
-	.halfword 269; 10 ABC Sort
+	.halfword 264; 10 ABC Sort
 	.byte CHIP_TYPE_NONE; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_BONUS_REWARD_CHIP; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -222,7 +222,7 @@
 	.byte CHIP_FLAG_SHOW_DAMAGE; 0B Flags
 	.halfword 30; 0C Damage
 	.halfword 12; 0E ID Sort
-	.halfword 299; 10 ABC Sort
+	.halfword 294; 10 ABC Sort
 	.byte CHIP_TYPE_NONE; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_BONUS_REWARD_CHIP; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -241,7 +241,7 @@
 	.byte CHIP_FLAG_SHOW_DAMAGE; 0B Flags
 	.halfword 30; 0C Damage
 	.halfword 13; 0E ID Sort
-	.halfword 271; 10 ABC Sort
+	.halfword 266; 10 ABC Sort
 	.byte CHIP_TYPE_NONE; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_BONUS_REWARD_CHIP; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -260,7 +260,7 @@
 	.byte CHIP_FLAG_SHOW_DAMAGE; 0B Flags
 	.halfword 30; 0C Damage
 	.halfword 14; 0E ID Sort
-	.halfword 282; 10 ABC Sort
+	.halfword 277; 10 ABC Sort
 	.byte CHIP_TYPE_NONE; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_BONUS_REWARD_CHIP | CHIP_LIBRARY_FLAG_SEQUENTIAL_PA_COMPONENT; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -393,7 +393,7 @@
 	.byte CHIP_FLAG_SHOW_DAMAGE; 0B Flags
 	.halfword 50; 0C Damage
 	.halfword 21; 0E ID Sort
-	.halfword 186; 10 ABC Sort
+	.halfword 181; 10 ABC Sort
 	.byte CHIP_TYPE_NONE; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_BONUS_REWARD_CHIP; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -412,7 +412,7 @@
 	.byte CHIP_FLAG_SHOW_DAMAGE; 0B Flags
 	.halfword 50; 0C Damage
 	.halfword 22; 0E ID Sort
-	.halfword 276; 10 ABC Sort
+	.halfword 271; 10 ABC Sort
 	.byte CHIP_TYPE_NONE; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_BONUS_REWARD_CHIP; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -450,7 +450,7 @@
 	.byte CHIP_FLAG_SHOW_DAMAGE; 0B Flags
 	.halfword 50; 0C Damage
 	.halfword 24; 0E ID Sort
-	.halfword 297; 10 ABC Sort
+	.halfword 292; 10 ABC Sort
 	.byte CHIP_TYPE_NONE; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_BONUS_REWARD_CHIP; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -507,7 +507,7 @@
 	.byte CHIP_FLAG_SHOW_DAMAGE; 0B Flags
 	.halfword 140; 0C Damage
 	.halfword 27; 0E ID Sort
-	.halfword 162; 10 ABC Sort
+	.halfword 157; 10 ABC Sort
 	.byte CHIP_TYPE_PANEL_MODIFYING; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_BONUS_REWARD_CHIP; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -583,7 +583,7 @@
 	.byte CHIP_FLAG_SHOW_DAMAGE; 0B Flags
 	.halfword 80; 0C Damage
 	.halfword 31; 0E ID Sort
-	.halfword 287; 10 ABC Sort
+	.halfword 282; 10 ABC Sort
 	.byte CHIP_TYPE_SWORD; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_BONUS_REWARD_CHIP | CHIP_LIBRARY_FLAG_MIXED_PA_COMPONENT; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -602,7 +602,7 @@
 	.byte CHIP_FLAG_SHOW_DAMAGE; 0B Flags
 	.halfword 80; 0C Damage
 	.halfword 32; 0E ID Sort
-	.halfword 303; 10 ABC Sort
+	.halfword 298; 10 ABC Sort
 	.byte CHIP_TYPE_SWORD; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_BONUS_REWARD_CHIP | CHIP_LIBRARY_FLAG_MIXED_PA_COMPONENT; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -621,7 +621,7 @@
 	.byte CHIP_FLAG_SHOW_DAMAGE; 0B Flags
 	.halfword 80; 0C Damage
 	.halfword 33; 0E ID Sort
-	.halfword 169; 10 ABC Sort
+	.halfword 164; 10 ABC Sort
 	.byte CHIP_TYPE_SWORD; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_BONUS_REWARD_CHIP | CHIP_LIBRARY_FLAG_MIXED_PA_COMPONENT; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -735,7 +735,7 @@
 	.byte CHIP_FLAG_SHOW_DAMAGE; 0B Flags
 	.halfword 160; 0C Damage
 	.halfword 39; 0E ID Sort
-	.halfword 298; 10 ABC Sort
+	.halfword 293; 10 ABC Sort
 	.byte CHIP_TYPE_SWORD; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_BONUS_REWARD_CHIP | CHIP_LIBRARY_FLAG_MIXED_PA_COMPONENT | CHIP_LIBRARY_FLAG_SEQUENTIAL_PA_COMPONENT; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -754,7 +754,7 @@
 	.byte CHIP_FLAG_SHOW_DAMAGE; 0B Flags
 	.halfword 130; 0C Damage
 	.halfword 41; 0E ID Sort
-	.halfword 285; 10 ABC Sort
+	.halfword 280; 10 ABC Sort
 	.byte CHIP_TYPE_SWORD; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_BONUS_REWARD_CHIP | CHIP_LIBRARY_FLAG_MIXED_PA_COMPONENT | CHIP_LIBRARY_FLAG_SEQUENTIAL_PA_COMPONENT; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -773,7 +773,7 @@
 	.byte CHIP_FLAG_SHOW_DAMAGE; 0B Flags
 	.halfword 130; 0C Damage
 	.halfword 42; 0E ID Sort
-	.halfword 284; 10 ABC Sort
+	.halfword 279; 10 ABC Sort
 	.byte CHIP_TYPE_SWORD; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_BONUS_REWARD_CHIP | CHIP_LIBRARY_FLAG_MIXED_PA_COMPONENT | CHIP_LIBRARY_FLAG_SEQUENTIAL_PA_COMPONENT; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -792,7 +792,7 @@
 	.byte CHIP_FLAG_SUPPORT; 0B Flags
 	.halfword 0; 0C Damage
 	.halfword 158; 0E ID Sort
-	.halfword 210; 10 ABC Sort
+	.halfword 205; 10 ABC Sort
 	.byte CHIP_TYPE_NONE; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_BONUS_REWARD_CHIP; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -830,7 +830,7 @@
 	.byte CHIP_FLAG_SHOW_DAMAGE; 0B Flags
 	.halfword 240; 0C Damage
 	.halfword 43; 0E ID Sort
-	.halfword 272; 10 ABC Sort
+	.halfword 267; 10 ABC Sort
 	.byte CHIP_TYPE_SWORD; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_BONUS_REWARD_CHIP | CHIP_LIBRARY_FLAG_MIXED_PA_COMPONENT; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -849,7 +849,7 @@
 	.byte CHIP_FLAG_SHOW_DAMAGE; 0B Flags
 	.halfword 60; 0C Damage
 	.halfword 44; 0E ID Sort
-	.halfword 268; 10 ABC Sort
+	.halfword 263; 10 ABC Sort
 	.byte CHIP_TYPE_NONE; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_BONUS_REWARD_CHIP; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -868,7 +868,7 @@
 	.byte CHIP_FLAG_SHOW_DAMAGE; 0B Flags
 	.halfword 80; 0C Damage
 	.halfword 45; 0E ID Sort
-	.halfword 277; 10 ABC Sort
+	.halfword 272; 10 ABC Sort
 	.byte CHIP_TYPE_NONE; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_BONUS_REWARD_CHIP; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -1058,7 +1058,7 @@
 	.byte CHIP_FLAG_SHOW_DAMAGE; 0B Flags
 	.halfword 100; 0C Damage
 	.halfword 115; 0E ID Sort
-	.halfword 294; 10 ABC Sort
+	.halfword 289; 10 ABC Sort
 	.byte CHIP_TYPE_NONE; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_BONUS_REWARD_CHIP; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -1077,7 +1077,7 @@
 	.byte CHIP_FLAG_SHOW_DAMAGE; 0B Flags
 	.halfword 140; 0C Damage
 	.halfword 116; 0E ID Sort
-	.halfword 295; 10 ABC Sort
+	.halfword 290; 10 ABC Sort
 	.byte CHIP_TYPE_NONE; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_BONUS_REWARD_CHIP; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -1096,7 +1096,7 @@
 	.byte CHIP_FLAG_SHOW_DAMAGE; 0B Flags
 	.halfword 180; 0C Damage
 	.halfword 117; 0E ID Sort
-	.halfword 296; 10 ABC Sort
+	.halfword 291; 10 ABC Sort
 	.byte CHIP_TYPE_NONE; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_BONUS_REWARD_CHIP; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -1115,7 +1115,7 @@
 	.byte CHIP_FLAG_SHOW_DAMAGE; 0B Flags
 	.halfword 80; 0C Damage
 	.halfword 70; 0E ID Sort
-	.halfword 233; 10 ABC Sort
+	.halfword 228; 10 ABC Sort
 	.byte CHIP_TYPE_NONE; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_BONUS_REWARD_CHIP | CHIP_LIBRARY_FLAG_MIXED_PA_COMPONENT; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -1134,7 +1134,7 @@
 	.byte CHIP_FLAG_SHOW_DAMAGE; 0B Flags
 	.halfword 100; 0C Damage
 	.halfword 71; 0E ID Sort
-	.halfword 234; 10 ABC Sort
+	.halfword 229; 10 ABC Sort
 	.byte CHIP_TYPE_NONE; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_BONUS_REWARD_CHIP | CHIP_LIBRARY_FLAG_MIXED_PA_COMPONENT; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -1153,7 +1153,7 @@
 	.byte CHIP_FLAG_SHOW_DAMAGE; 0B Flags
 	.halfword 120; 0C Damage
 	.halfword 72; 0E ID Sort
-	.halfword 235; 10 ABC Sort
+	.halfword 230; 10 ABC Sort
 	.byte CHIP_TYPE_NONE; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_BONUS_REWARD_CHIP | CHIP_LIBRARY_FLAG_MIXED_PA_COMPONENT; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -1172,7 +1172,7 @@
 	.byte CHIP_FLAG_SHOW_DAMAGE; 0B Flags
 	.halfword 80; 0C Damage
 	.halfword 74; 0E ID Sort
-	.halfword 302; 10 ABC Sort
+	.halfword 297; 10 ABC Sort
 	.byte CHIP_TYPE_NONE; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_BONUS_REWARD_CHIP; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -1191,7 +1191,7 @@
 	.byte CHIP_FLAG_SHOW_DAMAGE; 0B Flags
 	.halfword 90; 0C Damage
 	.halfword 75; 0E ID Sort
-	.halfword 244; 10 ABC Sort
+	.halfword 239; 10 ABC Sort
 	.byte CHIP_TYPE_NONE; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_BONUS_REWARD_CHIP; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -1210,7 +1210,7 @@
 	.byte CHIP_FLAG_SHOW_DAMAGE; 0B Flags
 	.halfword 100; 0C Damage
 	.halfword 76; 0E ID Sort
-	.halfword 196; 10 ABC Sort
+	.halfword 191; 10 ABC Sort
 	.byte CHIP_TYPE_NONE; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_BONUS_REWARD_CHIP; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -1248,7 +1248,7 @@
 	.byte CHIP_FLAG_SHOW_DAMAGE; 0B Flags
 	.halfword 20; 0C Damage
 	.halfword 77; 0E ID Sort
-	.halfword 293; 10 ABC Sort
+	.halfword 288; 10 ABC Sort
 	.byte CHIP_TYPE_NONE; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_BONUS_REWARD_CHIP; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -1381,7 +1381,7 @@
 	.byte CHIP_FLAG_SHOW_DAMAGE; 0B Flags
 	.halfword 80; 0C Damage
 	.halfword 78; 0E ID Sort
-	.halfword 278; 10 ABC Sort
+	.halfword 273; 10 ABC Sort
 	.byte CHIP_TYPE_PANEL_MODIFYING; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_BONUS_REWARD_CHIP; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -1400,7 +1400,7 @@
 	.byte CHIP_FLAG_SHOW_DAMAGE; 0B Flags
 	.halfword 110; 0C Damage
 	.halfword 79; 0E ID Sort
-	.halfword 279; 10 ABC Sort
+	.halfword 274; 10 ABC Sort
 	.byte CHIP_TYPE_PANEL_MODIFYING; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_BONUS_REWARD_CHIP; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -1419,7 +1419,7 @@
 	.byte CHIP_FLAG_SHOW_DAMAGE; 0B Flags
 	.halfword 140; 0C Damage
 	.halfword 80; 0E ID Sort
-	.halfword 280; 10 ABC Sort
+	.halfword 275; 10 ABC Sort
 	.byte CHIP_TYPE_PANEL_MODIFYING; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_BONUS_REWARD_CHIP; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -1438,7 +1438,7 @@
 	.byte CHIP_FLAG_SHOW_DAMAGE; 0B Flags
 	.halfword 130; 0C Damage
 	.halfword 131; 0E ID Sort
-	.halfword 161; 10 ABC Sort
+	.halfword 156; 10 ABC Sort
 	.byte CHIP_TYPE_NONE; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_BONUS_REWARD_CHIP; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -1457,7 +1457,7 @@
 	.byte CHIP_FLAG_SHOW_DAMAGE | CHIP_FLAG_SCREEN_DIM; 0B Flags
 	.halfword 10000; 0C Damage
 	.halfword 182; 0E ID Sort
-	.halfword 286; 10 ABC Sort
+	.halfword 281; 10 ABC Sort
 	.byte CHIP_TYPE_NONE; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_QUESTION_ATTACK; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -1476,7 +1476,7 @@
 	.byte CHIP_FLAG_SHOW_DAMAGE | CHIP_FLAG_SCREEN_DIM; 0B Flags
 	.halfword 10000; 0C Damage
 	.halfword 180; 0E ID Sort
-	.halfword 195; 10 ABC Sort
+	.halfword 190; 10 ABC Sort
 	.byte CHIP_TYPE_NONE; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_QUESTION_ATTACK; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -1495,7 +1495,7 @@
 	.byte CHIP_FLAG_SHOW_DAMAGE; 0B Flags
 	.halfword 50; 0C Damage
 	.halfword 89; 0E ID Sort
-	.halfword 255; 10 ABC Sort
+	.halfword 250; 10 ABC Sort
 	.byte CHIP_TYPE_NONE; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_BONUS_REWARD_CHIP; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -1514,7 +1514,7 @@
 	.byte CHIP_FLAG_SHOW_DAMAGE; 0B Flags
 	.halfword 70; 0C Damage
 	.halfword 90; 0E ID Sort
-	.halfword 256; 10 ABC Sort
+	.halfword 251; 10 ABC Sort
 	.byte CHIP_TYPE_NONE; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_BONUS_REWARD_CHIP; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -1533,7 +1533,7 @@
 	.byte CHIP_FLAG_SHOW_DAMAGE; 0B Flags
 	.halfword 90; 0C Damage
 	.halfword 91; 0E ID Sort
-	.halfword 257; 10 ABC Sort
+	.halfword 252; 10 ABC Sort
 	.byte CHIP_TYPE_NONE; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_BONUS_REWARD_CHIP; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -1552,7 +1552,7 @@
 	.byte CHIP_FLAG_SHOW_DAMAGE | CHIP_FLAG_SCREEN_DIM; 0B Flags
 	.halfword 120; 0C Damage
 	.halfword 103; 0E ID Sort
-	.halfword 170; 10 ABC Sort
+	.halfword 165; 10 ABC Sort
 	.byte CHIP_TYPE_PANEL_BREAK; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_BONUS_REWARD_CHIP; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -1571,7 +1571,7 @@
 	.byte CHIP_FLAG_SHOW_DAMAGE | CHIP_FLAG_SCREEN_DIM; 0B Flags
 	.halfword 150; 0C Damage
 	.halfword 104; 0E ID Sort
-	.halfword 171; 10 ABC Sort
+	.halfword 166; 10 ABC Sort
 	.byte CHIP_TYPE_PANEL_BREAK; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_BONUS_REWARD_CHIP; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -1590,7 +1590,7 @@
 	.byte CHIP_FLAG_SHOW_DAMAGE | CHIP_FLAG_SCREEN_DIM; 0B Flags
 	.halfword 180; 0C Damage
 	.halfword 105; 0E ID Sort
-	.halfword 172; 10 ABC Sort
+	.halfword 167; 10 ABC Sort
 	.byte CHIP_TYPE_PANEL_BREAK; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_BONUS_REWARD_CHIP; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -1666,7 +1666,7 @@
 	.byte CHIP_FLAG_SHOW_DAMAGE | CHIP_FLAG_SCREEN_DIM; 0B Flags
 	.halfword 100; 0C Damage
 	.halfword 109; 0E ID Sort
-	.halfword 246; 10 ABC Sort
+	.halfword 241; 10 ABC Sort
 	.byte CHIP_TYPE_NONE; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_BONUS_REWARD_CHIP; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -1704,7 +1704,7 @@
 	.byte CHIP_FLAG_SHOW_DAMAGE | CHIP_FLAG_SCREEN_DIM; 0B Flags
 	.halfword 100; 0C Damage
 	.halfword 111; 0E ID Sort
-	.halfword 270; 10 ABC Sort
+	.halfword 265; 10 ABC Sort
 	.byte CHIP_TYPE_NONE; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_BONUS_REWARD_CHIP; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -1780,7 +1780,7 @@
 	.byte CHIP_FLAG_SHOW_DAMAGE; 0B Flags
 	.halfword 30; 0C Damage
 	.halfword 106; 0E ID Sort
-	.halfword 220; 10 ABC Sort
+	.halfword 215; 10 ABC Sort
 	.byte CHIP_TYPE_NONE; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_BONUS_REWARD_CHIP; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -1799,7 +1799,7 @@
 	.byte CHIP_FLAG_SHOW_DAMAGE; 0B Flags
 	.halfword 60; 0C Damage
 	.halfword 107; 0E ID Sort
-	.halfword 221; 10 ABC Sort
+	.halfword 216; 10 ABC Sort
 	.byte CHIP_TYPE_NONE; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_BONUS_REWARD_CHIP; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -1818,7 +1818,7 @@
 	.byte CHIP_FLAG_SHOW_DAMAGE; 0B Flags
 	.halfword 90; 0C Damage
 	.halfword 108; 0E ID Sort
-	.halfword 222; 10 ABC Sort
+	.halfword 217; 10 ABC Sort
 	.byte CHIP_TYPE_NONE; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_BONUS_REWARD_CHIP; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -1894,7 +1894,7 @@
 	.byte CHIP_FLAG_SHOW_DAMAGE | CHIP_FLAG_SCREEN_DIM; 0B Flags
 	.halfword 150; 0C Damage
 	.halfword 129; 0E ID Sort
-	.halfword 291; 10 ABC Sort
+	.halfword 286; 10 ABC Sort
 	.byte CHIP_TYPE_NONE; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_BONUS_REWARD_CHIP | CHIP_LIBRARY_FLAG_SEQUENTIAL_PA_COMPONENT; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -1913,7 +1913,7 @@
 	.byte CHIP_FLAG_SHOW_DAMAGE | CHIP_FLAG_SCREEN_DIM; 0B Flags
 	.halfword 300; 0C Damage
 	.halfword 130; 0E ID Sort
-	.halfword 185; 10 ABC Sort
+	.halfword 180; 10 ABC Sort
 	.byte CHIP_TYPE_NONE; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_BONUS_REWARD_CHIP; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -1932,7 +1932,7 @@
 	.byte CHIP_FLAG_SHOW_DAMAGE | CHIP_FLAG_SCREEN_DIM; 0B Flags
 	.halfword 100; 0C Damage
 	.halfword 118; 0E ID Sort
-	.halfword 260; 10 ABC Sort
+	.halfword 255; 10 ABC Sort
 	.byte CHIP_TYPE_NONE; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_BONUS_REWARD_CHIP; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -1951,7 +1951,7 @@
 	.byte CHIP_FLAG_SHOW_DAMAGE | CHIP_FLAG_SCREEN_DIM; 0B Flags
 	.halfword 130; 0C Damage
 	.halfword 119; 0E ID Sort
-	.halfword 261; 10 ABC Sort
+	.halfword 256; 10 ABC Sort
 	.byte CHIP_TYPE_NONE; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_BONUS_REWARD_CHIP; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -1970,7 +1970,7 @@
 	.byte CHIP_FLAG_SHOW_DAMAGE | CHIP_FLAG_SCREEN_DIM; 0B Flags
 	.halfword 130; 0C Damage
 	.halfword 120; 0E ID Sort
-	.halfword 262; 10 ABC Sort
+	.halfword 257; 10 ABC Sort
 	.byte CHIP_TYPE_NONE; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_BONUS_REWARD_CHIP; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -2065,7 +2065,7 @@
 	.byte CHIP_FLAG_SUPPORT; 0B Flags
 	.halfword 100; 0C Damage
 	.halfword 95; 0E ID Sort
-	.halfword 224; 10 ABC Sort
+	.halfword 219; 10 ABC Sort
 	.byte CHIP_TYPE_NONE; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_BONUS_REWARD_CHIP | CHIP_LIBRARY_FLAG_MIXED_PA_COMPONENT; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -2084,7 +2084,7 @@
 	.byte CHIP_FLAG_SUPPORT; 0B Flags
 	.halfword 100; 0C Damage
 	.halfword 96; 0E ID Sort
-	.halfword 223; 10 ABC Sort
+	.halfword 218; 10 ABC Sort
 	.byte CHIP_TYPE_NONE; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_BONUS_REWARD_CHIP | CHIP_LIBRARY_FLAG_MIXED_PA_COMPONENT; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -2103,7 +2103,7 @@
 	.byte CHIP_FLAG_SHOW_DAMAGE; 0B Flags
 	.halfword 90; 0C Damage
 	.halfword 81; 0E ID Sort
-	.halfword 265; 10 ABC Sort
+	.halfword 260; 10 ABC Sort
 	.byte CHIP_TYPE_NONE; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_BONUS_REWARD_CHIP; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -2122,7 +2122,7 @@
 	.byte CHIP_FLAG_SHOW_DAMAGE; 0B Flags
 	.halfword 110; 0C Damage
 	.halfword 82; 0E ID Sort
-	.halfword 266; 10 ABC Sort
+	.halfword 261; 10 ABC Sort
 	.byte CHIP_TYPE_NONE; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_BONUS_REWARD_CHIP; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -2141,7 +2141,7 @@
 	.byte CHIP_FLAG_SHOW_DAMAGE; 0B Flags
 	.halfword 140; 0C Damage
 	.halfword 83; 0E ID Sort
-	.halfword 267; 10 ABC Sort
+	.halfword 262; 10 ABC Sort
 	.byte CHIP_TYPE_NONE; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_BONUS_REWARD_CHIP; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -2179,7 +2179,7 @@
 	.byte CHIP_FLAG_SHOW_DAMAGE; 0B Flags
 	.halfword 150; 0C Damage
 	.halfword 10; 0E ID Sort
-	.halfword 300; 10 ABC Sort
+	.halfword 295; 10 ABC Sort
 	.byte CHIP_TYPE_PANEL_MODIFYING; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_BONUS_REWARD_CHIP; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -2274,7 +2274,7 @@
 	.byte CHIP_FLAG_SUPPORT; 0B Flags
 	.halfword 10; 0C Damage
 	.halfword 134; 0E ID Sort
-	.halfword 212; 10 ABC Sort
+	.halfword 207; 10 ABC Sort
 	.byte CHIP_TYPE_PANEL_BREAK; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_BONUS_REWARD_CHIP; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -2293,7 +2293,7 @@
 	.byte CHIP_FLAG_SUPPORT; 0B Flags
 	.halfword 10; 0C Damage
 	.halfword 135; 0E ID Sort
-	.halfword 213; 10 ABC Sort
+	.halfword 208; 10 ABC Sort
 	.byte CHIP_TYPE_PANEL_BREAK; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_BONUS_REWARD_CHIP; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -2312,7 +2312,7 @@
 	.byte CHIP_FLAG_SUPPORT; 0B Flags
 	.halfword 0; 0C Damage
 	.halfword 147; 0E ID Sort
-	.halfword 236; 10 ABC Sort
+	.halfword 231; 10 ABC Sort
 	.byte CHIP_TYPE_RECOVERY; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_BONUS_REWARD_CHIP; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -2331,7 +2331,7 @@
 	.byte CHIP_FLAG_SUPPORT; 0B Flags
 	.halfword 0; 0C Damage
 	.halfword 148; 0E ID Sort
-	.halfword 240; 10 ABC Sort
+	.halfword 235; 10 ABC Sort
 	.byte CHIP_TYPE_RECOVERY; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_BONUS_REWARD_CHIP; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -2350,7 +2350,7 @@
 	.byte CHIP_FLAG_SUPPORT; 0B Flags
 	.halfword 0; 0C Damage
 	.halfword 149; 0E ID Sort
-	.halfword 242; 10 ABC Sort
+	.halfword 237; 10 ABC Sort
 	.byte CHIP_TYPE_RECOVERY; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_BONUS_REWARD_CHIP; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -2369,7 +2369,7 @@
 	.byte CHIP_FLAG_SUPPORT; 0B Flags
 	.halfword 0; 0C Damage
 	.halfword 150; 0E ID Sort
-	.halfword 243; 10 ABC Sort
+	.halfword 238; 10 ABC Sort
 	.byte CHIP_TYPE_RECOVERY; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_BONUS_REWARD_CHIP; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -2388,7 +2388,7 @@
 	.byte CHIP_FLAG_SUPPORT; 0B Flags
 	.halfword 0; 0C Damage
 	.halfword 151; 0E ID Sort
-	.halfword 237; 10 ABC Sort
+	.halfword 232; 10 ABC Sort
 	.byte CHIP_TYPE_RECOVERY; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_BONUS_REWARD_CHIP; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -2407,7 +2407,7 @@
 	.byte CHIP_FLAG_SUPPORT; 0B Flags
 	.halfword 0; 0C Damage
 	.halfword 152; 0E ID Sort
-	.halfword 238; 10 ABC Sort
+	.halfword 233; 10 ABC Sort
 	.byte CHIP_TYPE_RECOVERY; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_BONUS_REWARD_CHIP; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -2426,7 +2426,7 @@
 	.byte CHIP_FLAG_SUPPORT; 0B Flags
 	.halfword 0; 0C Damage
 	.halfword 153; 0E ID Sort
-	.halfword 239; 10 ABC Sort
+	.halfword 234; 10 ABC Sort
 	.byte CHIP_TYPE_RECOVERY; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_BONUS_REWARD_CHIP; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -2445,7 +2445,7 @@
 	.byte CHIP_FLAG_SUPPORT; 0B Flags
 	.halfword 0; 0C Damage
 	.halfword 154; 0E ID Sort
-	.halfword 241; 10 ABC Sort
+	.halfword 236; 10 ABC Sort
 	.byte CHIP_TYPE_RECOVERY; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_BONUS_REWARD_CHIP | CHIP_LIBRARY_FLAG_MIXED_PA_COMPONENT; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -2464,7 +2464,7 @@
 	.byte CHIP_FLAG_SUPPORT | CHIP_FLAG_SCREEN_DIM; 0B Flags
 	.halfword 10; 0C Damage
 	.halfword 136; 0E ID Sort
-	.halfword 211; 10 ABC Sort
+	.halfword 206; 10 ABC Sort
 	.byte CHIP_TYPE_PANEL_MODIFYING; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_BONUS_REWARD_CHIP; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -2502,7 +2502,7 @@
 	.byte CHIP_FLAG_SHOW_DAMAGE | CHIP_FLAG_SCREEN_DIM; 0B Flags
 	.halfword 40; 0C Damage
 	.halfword 132; 0E ID Sort
-	.halfword 274; 10 ABC Sort
+	.halfword 269; 10 ABC Sort
 	.byte CHIP_TYPE_PANEL_MODIFYING; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_BONUS_REWARD_CHIP; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -2521,7 +2521,7 @@
 	.byte CHIP_FLAG_SHOW_DAMAGE | CHIP_FLAG_SCREEN_DIM; 0B Flags
 	.halfword 10; 0C Damage
 	.halfword 127; 0E ID Sort
-	.halfword 289; 10 ABC Sort
+	.halfword 284; 10 ABC Sort
 	.byte CHIP_TYPE_NONE; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_BONUS_REWARD_CHIP | CHIP_LIBRARY_FLAG_MIXED_PA_COMPONENT; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -2540,7 +2540,7 @@
 	.byte CHIP_FLAG_SHOW_DAMAGE | CHIP_FLAG_SCREEN_DIM; 0B Flags
 	.halfword 90; 0C Damage
 	.halfword 121; 0E ID Sort
-	.halfword 174; 10 ABC Sort
+	.halfword 169; 10 ABC Sort
 	.byte CHIP_TYPE_PANEL_MODIFYING; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_BONUS_REWARD_CHIP | CHIP_LIBRARY_FLAG_SEQUENTIAL_PA_COMPONENT; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -2559,7 +2559,7 @@
 	.byte CHIP_FLAG_SHOW_DAMAGE | CHIP_FLAG_SCREEN_DIM; 0B Flags
 	.halfword 130; 0C Damage
 	.halfword 122; 0E ID Sort
-	.halfword 175; 10 ABC Sort
+	.halfword 170; 10 ABC Sort
 	.byte CHIP_TYPE_PANEL_MODIFYING; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_BONUS_REWARD_CHIP | CHIP_LIBRARY_FLAG_SEQUENTIAL_PA_COMPONENT; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -2578,7 +2578,7 @@
 	.byte CHIP_FLAG_SHOW_DAMAGE | CHIP_FLAG_SCREEN_DIM; 0B Flags
 	.halfword 170; 0C Damage
 	.halfword 123; 0E ID Sort
-	.halfword 176; 10 ABC Sort
+	.halfword 171; 10 ABC Sort
 	.byte CHIP_TYPE_PANEL_MODIFYING; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_BONUS_REWARD_CHIP | CHIP_LIBRARY_FLAG_SEQUENTIAL_PA_COMPONENT; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -2692,7 +2692,7 @@
 	.byte CHIP_FLAG_SUPPORT | CHIP_FLAG_SCREEN_DIM; 0B Flags
 	.halfword 100; 0C Damage
 	.halfword 140; 0E ID Sort
-	.halfword 250; 10 ABC Sort
+	.halfword 245; 10 ABC Sort
 	.byte CHIP_TYPE_NONE; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_BONUS_REWARD_CHIP | CHIP_LIBRARY_FLAG_MIXED_PA_COMPONENT; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -2711,7 +2711,7 @@
 	.byte CHIP_FLAG_SUPPORT; 0B Flags
 	.halfword 0; 0C Damage
 	.halfword 141; 0E ID Sort
-	.halfword 226; 10 ABC Sort
+	.halfword 221; 10 ABC Sort
 	.byte CHIP_TYPE_NONE; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_BONUS_REWARD_CHIP; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -2730,7 +2730,7 @@
 	.byte CHIP_FLAG_SUPPORT | CHIP_FLAG_SCREEN_DIM; 0B Flags
 	.halfword 10; 0C Damage
 	.halfword 142; 0E ID Sort
-	.halfword 304; 10 ABC Sort
+	.halfword 299; 10 ABC Sort
 	.byte CHIP_TYPE_NONE; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_BONUS_REWARD_CHIP; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -2768,7 +2768,7 @@
 	.byte CHIP_FLAG_SHOW_DAMAGE; 0B Flags
 	.halfword 100; 0C Damage
 	.halfword 97; 0E ID Sort
-	.halfword 247; 10 ABC Sort
+	.halfword 242; 10 ABC Sort
 	.byte CHIP_TYPE_NONE; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_BONUS_REWARD_CHIP; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -2787,7 +2787,7 @@
 	.byte CHIP_FLAG_SHOW_DAMAGE; 0B Flags
 	.halfword 150; 0C Damage
 	.halfword 98; 0E ID Sort
-	.halfword 248; 10 ABC Sort
+	.halfword 243; 10 ABC Sort
 	.byte CHIP_TYPE_NONE; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_BONUS_REWARD_CHIP; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -2806,7 +2806,7 @@
 	.byte CHIP_FLAG_SHOW_DAMAGE; 0B Flags
 	.halfword 200; 0C Damage
 	.halfword 99; 0E ID Sort
-	.halfword 249; 10 ABC Sort
+	.halfword 244; 10 ABC Sort
 	.byte CHIP_TYPE_NONE; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_BONUS_REWARD_CHIP; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -2825,7 +2825,7 @@
 	.byte CHIP_FLAG_SHOW_DAMAGE; 0B Flags
 	.halfword 200; 0C Damage
 	.halfword 84; 0E ID Sort
-	.halfword 205; 10 ABC Sort
+	.halfword 200; 10 ABC Sort
 	.byte CHIP_TYPE_NONE; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_BONUS_REWARD_CHIP; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -2844,7 +2844,7 @@
 	.byte CHIP_FLAG_SHOW_DAMAGE; 0B Flags
 	.halfword 260; 0C Damage
 	.halfword 85; 0E ID Sort
-	.halfword 206; 10 ABC Sort
+	.halfword 201; 10 ABC Sort
 	.byte CHIP_TYPE_NONE; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_BONUS_REWARD_CHIP; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -2863,7 +2863,7 @@
 	.byte CHIP_FLAG_SHOW_DAMAGE; 0B Flags
 	.halfword 300; 0C Damage
 	.halfword 86; 0E ID Sort
-	.halfword 207; 10 ABC Sort
+	.halfword 202; 10 ABC Sort
 	.byte CHIP_TYPE_NONE; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_BONUS_REWARD_CHIP; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -2882,7 +2882,7 @@
 	.byte CHIP_FLAG_SHOW_DAMAGE | CHIP_FLAG_SCREEN_DIM; 0B Flags
 	.halfword 90; 0C Damage
 	.halfword 124; 0E ID Sort
-	.halfword 214; 10 ABC Sort
+	.halfword 209; 10 ABC Sort
 	.byte CHIP_TYPE_NONE; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_BONUS_REWARD_CHIP; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -2901,7 +2901,7 @@
 	.byte CHIP_FLAG_SHOW_DAMAGE | CHIP_FLAG_SCREEN_DIM; 0B Flags
 	.halfword 150; 0C Damage
 	.halfword 125; 0E ID Sort
-	.halfword 160; 10 ABC Sort
+	.halfword 155; 10 ABC Sort
 	.byte CHIP_TYPE_PANEL_BREAK; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_BONUS_REWARD_CHIP; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -2920,7 +2920,7 @@
 	.byte CHIP_FLAG_SUPPORT | CHIP_FLAG_SCREEN_DIM; 0B Flags
 	.halfword 0; 0C Damage
 	.halfword 126; 0E ID Sort
-	.halfword 254; 10 ABC Sort
+	.halfword 249; 10 ABC Sort
 	.byte CHIP_TYPE_NONE; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_BONUS_REWARD_CHIP; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -2939,7 +2939,7 @@
 	.byte CHIP_FLAG_SHOW_DAMAGE | CHIP_FLAG_SCREEN_DIM; 0B Flags
 	.halfword 30; 0C Damage
 	.halfword 112; 0E ID Sort
-	.halfword 202; 10 ABC Sort
+	.halfword 197; 10 ABC Sort
 	.byte CHIP_TYPE_NONE; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_BONUS_REWARD_CHIP; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -2958,7 +2958,7 @@
 	.byte CHIP_FLAG_SHOW_DAMAGE | CHIP_FLAG_SCREEN_DIM; 0B Flags
 	.halfword 40; 0C Damage
 	.halfword 113; 0E ID Sort
-	.halfword 203; 10 ABC Sort
+	.halfword 198; 10 ABC Sort
 	.byte CHIP_TYPE_NONE; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_BONUS_REWARD_CHIP; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -2977,7 +2977,7 @@
 	.byte CHIP_FLAG_SHOW_DAMAGE | CHIP_FLAG_SCREEN_DIM; 0B Flags
 	.halfword 50; 0C Damage
 	.halfword 114; 0E ID Sort
-	.halfword 204; 10 ABC Sort
+	.halfword 199; 10 ABC Sort
 	.byte CHIP_TYPE_NONE; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_BONUS_REWARD_CHIP; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -2996,7 +2996,7 @@
 	.byte CHIP_FLAG_SUPPORT | CHIP_FLAG_SCREEN_DIM; 0B Flags
 	.halfword 0; 0C Damage
 	.halfword 156; 0E ID Sort
-	.halfword 273; 10 ABC Sort
+	.halfword 268; 10 ABC Sort
 	.byte CHIP_TYPE_NONE; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_BONUS_REWARD_CHIP; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -3034,7 +3034,7 @@
 	.byte CHIP_FLAG_SUPPORT | CHIP_FLAG_SCREEN_DIM; 0B Flags
 	.halfword 0; 0C Damage
 	.halfword 155; 0E ID Sort
-	.halfword 245; 10 ABC Sort
+	.halfword 240; 10 ABC Sort
 	.byte CHIP_TYPE_PANEL_MODIFYING; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_BONUS_REWARD_CHIP; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -3091,7 +3091,7 @@
 	.byte CHIP_FLAG_SUPPORT | CHIP_FLAG_SCREEN_DIM; 0B Flags
 	.halfword 0; 0C Damage
 	.halfword 165; 0E ID Sort
-	.halfword 192; 10 ABC Sort
+	.halfword 187; 10 ABC Sort
 	.byte CHIP_TYPE_INVIS; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_BONUS_REWARD_CHIP | CHIP_LIBRARY_FLAG_TRIGGERS_RUSH; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -3110,7 +3110,7 @@
 	.byte CHIP_FLAG_SUPPORT | CHIP_FLAG_SCREEN_DIM; 0B Flags
 	.halfword 0; 0C Damage
 	.halfword 166; 0E ID Sort
-	.halfword 193; 10 ABC Sort
+	.halfword 188; 10 ABC Sort
 	.byte CHIP_TYPE_INVIS; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_BONUS_REWARD_CHIP | CHIP_LIBRARY_FLAG_TRIGGERS_RUSH; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -3129,7 +3129,7 @@
 	.byte CHIP_FLAG_SUPPORT | CHIP_FLAG_SCREEN_DIM; 0B Flags
 	.halfword 0; 0C Damage
 	.halfword 167; 0E ID Sort
-	.halfword 194; 10 ABC Sort
+	.halfword 189; 10 ABC Sort
 	.byte CHIP_TYPE_INVIS; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_BONUS_REWARD_CHIP | CHIP_LIBRARY_FLAG_TRIGGERS_RUSH; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -3148,7 +3148,7 @@
 	.byte CHIP_FLAG_SUPPORT | CHIP_FLAG_SCREEN_DIM; 0B Flags
 	.halfword 0; 0C Damage
 	.halfword 164; 0E ID Sort
-	.halfword 264; 10 ABC Sort
+	.halfword 259; 10 ABC Sort
 	.byte CHIP_TYPE_INVIS; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_BONUS_REWARD_CHIP | CHIP_LIBRARY_FLAG_TRIGGERS_RUSH; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -3167,7 +3167,7 @@
 	.byte CHIP_FLAG_SHOW_DAMAGE | CHIP_FLAG_SCREEN_DIM; 0B Flags
 	.halfword 10000; 0C Damage
 	.halfword 174; 0E ID Sort
-	.halfword 184; 10 ABC Sort
+	.halfword 179; 10 ABC Sort
 	.byte CHIP_TYPE_NONE; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_QUESTION_ATTACK; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -3224,7 +3224,7 @@
 	.byte CHIP_FLAG_SUPPORT | CHIP_FLAG_SCREEN_DIM; 0B Flags
 	.halfword 0; 0C Damage
 	.halfword 128; 0E ID Sort
-	.halfword 290; 10 ABC Sort
+	.halfword 285; 10 ABC Sort
 	.byte CHIP_TYPE_NONE; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_BONUS_REWARD_CHIP | CHIP_LIBRARY_FLAG_MIXED_PA_COMPONENT; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -3281,7 +3281,7 @@
 	.byte CHIP_FLAG_20 | CHIP_FLAG_SCREEN_DIM; 0B Flags
 	.halfword 0; 0C Damage
 	.halfword 146; 0E ID Sort
-	.halfword 292; 10 ABC Sort
+	.halfword 287; 10 ABC Sort
 	.byte CHIP_TYPE_NONE; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_BONUS_REWARD_CHIP; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -3376,7 +3376,7 @@
 	.byte CHIP_FLAG_SUPPORT | CHIP_FLAG_SCREEN_DIM; 0B Flags
 	.halfword 0; 0C Damage
 	.halfword 173; 0E ID Sort
-	.halfword 208; 10 ABC Sort
+	.halfword 203; 10 ABC Sort
 	.byte CHIP_TYPE_NONE; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_BONUS_REWARD_CHIP; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -3414,7 +3414,7 @@
 	.byte CHIP_FLAG_SUPPORT | CHIP_FLAG_SCREEN_DIM; 0B Flags
 	.halfword 0; 0C Damage
 	.halfword 185; 0E ID Sort
-	.halfword 166; 10 ABC Sort
+	.halfword 161; 10 ABC Sort
 	.byte CHIP_TYPE_PANEL_MODIFYING; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_BONUS_REWARD_CHIP; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -3471,7 +3471,7 @@
 	.byte CHIP_FLAG_SUPPORT | CHIP_FLAG_SCREEN_DIM; 0B Flags
 	.halfword 0; 0C Damage
 	.halfword 188; 0E ID Sort
-	.halfword 259; 10 ABC Sort
+	.halfword 254; 10 ABC Sort
 	.byte CHIP_TYPE_PANEL_MODIFYING; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_BONUS_REWARD_CHIP; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -3490,7 +3490,7 @@
 	.byte CHIP_FLAG_SUPPORT | CHIP_FLAG_SCREEN_DIM; 0B Flags
 	.halfword 0; 0C Damage
 	.halfword 189; 0E ID Sort
-	.halfword 183; 10 ABC Sort
+	.halfword 178; 10 ABC Sort
 	.byte CHIP_TYPE_PANEL_MODIFYING; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_BONUS_REWARD_CHIP; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -3509,7 +3509,7 @@
 	.byte CHIP_FLAG_SUPPORT | CHIP_FLAG_SCREEN_DIM; 0B Flags
 	.halfword 0; 0C Damage
 	.halfword 190; 0E ID Sort
-	.halfword 275; 10 ABC Sort
+	.halfword 270; 10 ABC Sort
 	.byte CHIP_TYPE_PANEL_MODIFYING; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_BONUS_REWARD_CHIP; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -3528,7 +3528,7 @@
 	.byte CHIP_FLAG_SHOW_DAMAGE | CHIP_FLAG_SCREEN_DIM; 0B Flags
 	.halfword 10000; 0C Damage
 	.halfword 177; 0E ID Sort
-	.halfword 288; 10 ABC Sort
+	.halfword 283; 10 ABC Sort
 	.byte CHIP_TYPE_NONE; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_QUESTION_ATTACK; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -3547,7 +3547,7 @@
 	.byte CHIP_FLAG_SHOW_DAMAGE | CHIP_FLAG_SCREEN_DIM; 0B Flags
 	.halfword 10000; 0C Damage
 	.halfword 176; 0E ID Sort
-	.halfword 281; 10 ABC Sort
+	.halfword 276; 10 ABC Sort
 	.byte CHIP_TYPE_NONE; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_QUESTION_ATTACK; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -3566,7 +3566,7 @@
 	.byte CHIP_FLAG_SHOW_DAMAGE | CHIP_FLAG_SCREEN_DIM; 0B Flags
 	.halfword 10000; 0C Damage
 	.halfword 179; 0E ID Sort
-	.halfword 198; 10 ABC Sort
+	.halfword 193; 10 ABC Sort
 	.byte CHIP_TYPE_NONE; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_QUESTION_ATTACK; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -3585,7 +3585,7 @@
 	.byte CHIP_FLAG_SHOW_DAMAGE | CHIP_FLAG_SCREEN_DIM; 0B Flags
 	.halfword 10000; 0C Damage
 	.halfword 178; 0E ID Sort
-	.halfword 153; 10 ABC Sort
+	.halfword 148; 10 ABC Sort
 	.byte CHIP_TYPE_NONE; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_QUESTION_ATTACK; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -3604,7 +3604,7 @@
 	.byte CHIP_FLAG_SHOW_DAMAGE | CHIP_FLAG_SCREEN_DIM; 0B Flags
 	.halfword 10000; 0C Damage
 	.halfword 181; 0E ID Sort
-	.halfword 154; 10 ABC Sort
+	.halfword 149; 10 ABC Sort
 	.byte CHIP_TYPE_NONE; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_QUESTION_ATTACK; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -3794,7 +3794,7 @@
 	.byte CHIP_FLAG_DAMAGE_PLUS; 0B Flags
 	.halfword 9999; 0C Damage
 	.halfword 199; 0E ID Sort
-	.halfword 305; 10 ABC Sort
+	.halfword 300; 10 ABC Sort
 	.byte CHIP_TYPE_NONE; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_BONUS_REWARD_CHIP; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -3813,7 +3813,7 @@
 	.byte CHIP_FLAG_DAMAGE_PLUS; 0B Flags
 	.halfword 9999; 0C Damage
 	.halfword 200; 0E ID Sort
-	.halfword 200; 10 ABC Sort
+	.halfword 194; 10 ABC Sort
 	.byte CHIP_TYPE_NONE; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_BONUS_REWARD_CHIP; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -3832,7 +3832,7 @@
 	.byte CHIP_FLAG_SUPPORT; 0B Flags
 	.halfword 3000; 0C Damage
 	.halfword 219; 0E ID Sort
-	.halfword 167; 10 ABC Sort
+	.halfword 162; 10 ABC Sort
 	.byte CHIP_TYPE_BARRIER; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_MEGA_CHIP | CHIP_LIBRARY_FLAG_TRIGGERS_BEAT; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -3851,7 +3851,7 @@
 	.byte CHIP_FLAG_SHOW_DAMAGE; 0B Flags
 	.halfword 10000; 0C Damage
 	.halfword 201; 0E ID Sort
-	.halfword 197; 10 ABC Sort
+	.halfword 192; 10 ABC Sort
 	.byte CHIP_TYPE_SWORD; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_MEGA_CHIP | CHIP_LIBRARY_FLAG_QUESTION_ATTACK | CHIP_LIBRARY_FLAG_MIXED_PA_COMPONENT | CHIP_LIBRARY_FLAG_TRIGGERS_BEAT; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -3927,7 +3927,7 @@
 	.byte CHIP_FLAG_DAMAGE_PLUS; 0B Flags
 	.halfword 9999; 0C Damage
 	.halfword 222; 0E ID Sort
-	.halfword 200; 10 ABC Sort
+	.halfword 195; 10 ABC Sort
 	.byte CHIP_TYPE_NONE; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_MEGA_CHIP | CHIP_LIBRARY_FLAG_TRIGGERS_BEAT; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -4003,7 +4003,7 @@
 	.byte CHIP_FLAG_SHOW_DAMAGE | CHIP_FLAG_SCREEN_DIM; 0B Flags
 	.halfword 100; 0C Damage
 	.halfword 216; 0E ID Sort
-	.halfword 209; 10 ABC Sort
+	.halfword 204; 10 ABC Sort
 	.byte CHIP_TYPE_PANEL_MODIFYING; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_MEGA_CHIP | CHIP_LIBRARY_FLAG_TRIGGERS_BEAT; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -4041,7 +4041,7 @@
 	.byte CHIP_FLAG_SHOW_DAMAGE | CHIP_FLAG_SCREEN_DIM; 0B Flags
 	.halfword 40; 0C Damage
 	.halfword 212; 0E ID Sort
-	.halfword 182; 10 ABC Sort
+	.halfword 177; 10 ABC Sort
 	.byte CHIP_TYPE_NONE; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_MEGA_CHIP | CHIP_LIBRARY_FLAG_TRIGGERS_BEAT; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -4060,7 +4060,7 @@
 	.byte CHIP_FLAG_SUPPORT | CHIP_FLAG_SCREEN_DIM; 0B Flags
 	.halfword 150; 0C Damage
 	.halfword 218; 0E ID Sort
-	.halfword 225; 10 ABC Sort
+	.halfword 220; 10 ABC Sort
 	.byte CHIP_TYPE_NONE; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_MEGA_CHIP | CHIP_LIBRARY_FLAG_TRIGGERS_BEAT; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -4079,7 +4079,7 @@
 	.byte CHIP_FLAG_SHOW_DAMAGE | CHIP_FLAG_SCREEN_DIM; 0B Flags
 	.halfword 100; 0C Damage
 	.halfword 217; 0E ID Sort
-	.halfword 152; 10 ABC Sort
+	.halfword 147; 10 ABC Sort
 	.byte CHIP_TYPE_NONE; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_MEGA_CHIP | CHIP_LIBRARY_FLAG_TRIGGERS_BEAT; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -4098,7 +4098,7 @@
 	.byte CHIP_FLAG_SHOW_DAMAGE; 0B Flags
 	.halfword 220; 0C Damage
 	.halfword 204; 0E ID Sort
-	.halfword 283; 10 ABC Sort
+	.halfword 278; 10 ABC Sort
 	.byte CHIP_TYPE_PANEL_MODIFYING; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_MEGA_CHIP | CHIP_LIBRARY_FLAG_TRIGGERS_BEAT; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -4117,7 +4117,7 @@
 	.byte CHIP_FLAG_SHOW_DAMAGE; 0B Flags
 	.halfword 180; 0C Damage
 	.halfword 206; 0E ID Sort
-	.halfword 301; 10 ABC Sort
+	.halfword 296; 10 ABC Sort
 	.byte CHIP_TYPE_PANEL_MODIFYING; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_MEGA_CHIP | CHIP_LIBRARY_FLAG_TRIGGERS_BEAT; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -4136,7 +4136,7 @@
 	.byte CHIP_FLAG_SHOW_DAMAGE; 0B Flags
 	.halfword 160; 0C Damage
 	.halfword 208; 0E ID Sort
-	.halfword 168; 10 ABC Sort
+	.halfword 163; 10 ABC Sort
 	.byte CHIP_TYPE_NONE; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_MEGA_CHIP | CHIP_LIBRARY_FLAG_TRIGGERS_BEAT; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -4174,7 +4174,7 @@
 	.byte CHIP_FLAG_NAVI | CHIP_FLAG_SCREEN_DIM; 0B Flags
 	.halfword 20; 0C Damage
 	.halfword 223; 0E ID Sort
-	.halfword 251; 10 ABC Sort
+	.halfword 246; 10 ABC Sort
 	.byte CHIP_TYPE_RECOVERY; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_MEGA_CHIP | CHIP_LIBRARY_FLAG_MIXED_PA_COMPONENT | CHIP_LIBRARY_FLAG_TRIGGERS_BEAT; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -4193,7 +4193,7 @@
 	.byte CHIP_FLAG_NAVI | CHIP_FLAG_SCREEN_DIM; 0B Flags
 	.halfword 30; 0C Damage
 	.halfword 224; 0E ID Sort
-	.halfword 252; 10 ABC Sort
+	.halfword 247; 10 ABC Sort
 	.byte CHIP_TYPE_RECOVERY; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_MEGA_CHIP | CHIP_LIBRARY_FLAG_MIXED_PA_COMPONENT | CHIP_LIBRARY_FLAG_TRIGGERS_BEAT; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -4212,7 +4212,7 @@
 	.byte CHIP_FLAG_NAVI | CHIP_FLAG_SCREEN_DIM; 0B Flags
 	.halfword 40; 0C Damage
 	.halfword 225; 0E ID Sort
-	.halfword 253; 10 ABC Sort
+	.halfword 248; 10 ABC Sort
 	.byte CHIP_TYPE_RECOVERY; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_MEGA_CHIP | CHIP_LIBRARY_FLAG_MIXED_PA_COMPONENT | CHIP_LIBRARY_FLAG_TRIGGERS_BEAT; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -4326,7 +4326,7 @@
 	.byte CHIP_FLAG_NAVI | CHIP_FLAG_SCREEN_DIM; 0B Flags
 	.halfword 160; 0C Damage
 	.halfword 230; 0E ID Sort
-	.halfword 227; 10 ABC Sort
+	.halfword 222; 10 ABC Sort
 	.byte CHIP_TYPE_SWORD; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_MEGA_CHIP | CHIP_LIBRARY_FLAG_MIXED_PA_COMPONENT | CHIP_LIBRARY_FLAG_TRIGGERS_BEAT; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -4345,7 +4345,7 @@
 	.byte CHIP_FLAG_NAVI | CHIP_FLAG_SCREEN_DIM; 0B Flags
 	.halfword 180; 0C Damage
 	.halfword 231; 0E ID Sort
-	.halfword 228; 10 ABC Sort
+	.halfword 223; 10 ABC Sort
 	.byte CHIP_TYPE_SWORD; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_MEGA_CHIP | CHIP_LIBRARY_FLAG_MIXED_PA_COMPONENT | CHIP_LIBRARY_FLAG_TRIGGERS_BEAT; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -4364,7 +4364,7 @@
 	.byte CHIP_FLAG_NAVI | CHIP_FLAG_SCREEN_DIM; 0B Flags
 	.halfword 200; 0C Damage
 	.halfword 232; 0E ID Sort
-	.halfword 229; 10 ABC Sort
+	.halfword 224; 10 ABC Sort
 	.byte CHIP_TYPE_SWORD; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_MEGA_CHIP | CHIP_LIBRARY_FLAG_MIXED_PA_COMPONENT | CHIP_LIBRARY_FLAG_TRIGGERS_BEAT; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -4383,7 +4383,7 @@
 	.byte CHIP_FLAG_NAVI | CHIP_FLAG_SCREEN_DIM; 0B Flags
 	.halfword 220; 0C Damage
 	.halfword 233; 0E ID Sort
-	.halfword 230; 10 ABC Sort
+	.halfword 225; 10 ABC Sort
 	.byte CHIP_TYPE_SWORD; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_MEGA_CHIP | CHIP_LIBRARY_FLAG_MIXED_PA_COMPONENT | CHIP_LIBRARY_FLAG_TRIGGERS_BEAT; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -4402,7 +4402,7 @@
 	.byte CHIP_FLAG_NAVI | CHIP_FLAG_SCREEN_DIM; 0B Flags
 	.halfword 240; 0C Damage
 	.halfword 294; 0E ID Sort
-	.halfword 231; 10 ABC Sort
+	.halfword 226; 10 ABC Sort
 	.byte CHIP_TYPE_SWORD; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_GIGA_CHIP | CHIP_LIBRARY_FLAG_TRIGGERS_BEAT; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -4801,7 +4801,7 @@
 	.byte CHIP_FLAG_NAVI | CHIP_FLAG_SCREEN_DIM; 0B Flags
 	.halfword 20; 0C Damage
 	.halfword 250; 0E ID Sort
-	.halfword 215; 10 ABC Sort
+	.halfword 210; 10 ABC Sort
 	.byte CHIP_TYPE_NONE; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_MEGA_CHIP | CHIP_LIBRARY_FLAG_TRIGGERS_BEAT; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -4820,7 +4820,7 @@
 	.byte CHIP_FLAG_NAVI | CHIP_FLAG_SCREEN_DIM; 0B Flags
 	.halfword 30; 0C Damage
 	.halfword 251; 0E ID Sort
-	.halfword 216; 10 ABC Sort
+	.halfword 211; 10 ABC Sort
 	.byte CHIP_TYPE_NONE; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_MEGA_CHIP | CHIP_LIBRARY_FLAG_TRIGGERS_BEAT; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -4839,7 +4839,7 @@
 	.byte CHIP_FLAG_NAVI | CHIP_FLAG_SCREEN_DIM; 0B Flags
 	.halfword 40; 0C Damage
 	.halfword 252; 0E ID Sort
-	.halfword 217; 10 ABC Sort
+	.halfword 212; 10 ABC Sort
 	.byte CHIP_TYPE_NONE; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_MEGA_CHIP | CHIP_LIBRARY_FLAG_TRIGGERS_BEAT; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -4858,7 +4858,7 @@
 	.byte CHIP_FLAG_NAVI | CHIP_FLAG_SCREEN_DIM; 0B Flags
 	.halfword 50; 0C Damage
 	.halfword 253; 0E ID Sort
-	.halfword 218; 10 ABC Sort
+	.halfword 213; 10 ABC Sort
 	.byte CHIP_TYPE_NONE; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_MEGA_CHIP | CHIP_LIBRARY_FLAG_TRIGGERS_BEAT; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -4877,7 +4877,7 @@
 	.byte CHIP_FLAG_NAVI | CHIP_FLAG_SCREEN_DIM; 0B Flags
 	.halfword 60; 0C Damage
 	.halfword 299; 0E ID Sort
-	.halfword 219; 10 ABC Sort
+	.halfword 214; 10 ABC Sort
 	.byte CHIP_TYPE_NONE; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_GIGA_CHIP | CHIP_LIBRARY_FLAG_TRIGGERS_BEAT; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -5086,7 +5086,7 @@
 	.byte CHIP_FLAG_NAVI | CHIP_FLAG_SCREEN_DIM; 0B Flags
 	.halfword 100; 0C Damage
 	.halfword 262; 0E ID Sort
-	.halfword 177; 10 ABC Sort
+	.halfword 172; 10 ABC Sort
 	.byte CHIP_TYPE_PANEL_BREAK; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_MEGA_CHIP | CHIP_LIBRARY_FLAG_TRIGGERS_BEAT; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -5105,7 +5105,7 @@
 	.byte CHIP_FLAG_NAVI | CHIP_FLAG_SCREEN_DIM; 0B Flags
 	.halfword 130; 0C Damage
 	.halfword 263; 0E ID Sort
-	.halfword 178; 10 ABC Sort
+	.halfword 173; 10 ABC Sort
 	.byte CHIP_TYPE_PANEL_BREAK; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_MEGA_CHIP | CHIP_LIBRARY_FLAG_TRIGGERS_BEAT; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -5124,7 +5124,7 @@
 	.byte CHIP_FLAG_NAVI | CHIP_FLAG_SCREEN_DIM; 0B Flags
 	.halfword 160; 0C Damage
 	.halfword 264; 0E ID Sort
-	.halfword 179; 10 ABC Sort
+	.halfword 174; 10 ABC Sort
 	.byte CHIP_TYPE_PANEL_BREAK; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_MEGA_CHIP | CHIP_LIBRARY_FLAG_TRIGGERS_BEAT; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -5143,7 +5143,7 @@
 	.byte CHIP_FLAG_NAVI | CHIP_FLAG_SCREEN_DIM; 0B Flags
 	.halfword 190; 0C Damage
 	.halfword 265; 0E ID Sort
-	.halfword 180; 10 ABC Sort
+	.halfword 175; 10 ABC Sort
 	.byte CHIP_TYPE_PANEL_BREAK; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_MEGA_CHIP | CHIP_LIBRARY_FLAG_TRIGGERS_BEAT; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -5162,7 +5162,7 @@
 	.byte CHIP_FLAG_NAVI | CHIP_FLAG_SCREEN_DIM; 0B Flags
 	.halfword 250; 0C Damage
 	.halfword 302; 0E ID Sort
-	.halfword 181; 10 ABC Sort
+	.halfword 176; 10 ABC Sort
 	.byte CHIP_TYPE_PANEL_BREAK; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_GIGA_CHIP | CHIP_LIBRARY_FLAG_TRIGGERS_BEAT; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -5181,7 +5181,7 @@
 	.byte CHIP_FLAG_NAVI | CHIP_FLAG_SCREEN_DIM; 0B Flags
 	.halfword 180; 0C Damage
 	.halfword 286; 0E ID Sort
-	.halfword 232; 10 ABC Sort
+	.halfword 227; 10 ABC Sort
 	.byte CHIP_TYPE_NONE; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_MEGA_CHIP | CHIP_LIBRARY_FLAG_TRIGGERS_BEAT; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -5200,7 +5200,7 @@
 	.byte CHIP_FLAG_SHOW_DAMAGE; 0B Flags
 	.halfword 300; 0C Damage
 	.halfword 205; 0E ID Sort
-	.halfword 258; 10 ABC Sort
+	.halfword 253; 10 ABC Sort
 	.byte CHIP_TYPE_PANEL_MODIFYING; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_MEGA_CHIP | CHIP_LIBRARY_FLAG_MIXED_PA_COMPONENT | CHIP_LIBRARY_FLAG_TRIGGERS_BEAT; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -5276,7 +5276,7 @@
 	.byte CHIP_FLAG_NAVI | CHIP_FLAG_SCREEN_DIM; 0B Flags
 	.halfword 140; 0C Damage
 	.halfword 266; 0E ID Sort
-	.halfword 155; 10 ABC Sort
+	.halfword 150; 10 ABC Sort
 	.byte CHIP_TYPE_NONE; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_MEGA_CHIP | CHIP_LIBRARY_FLAG_TRIGGERS_BEAT; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -5295,7 +5295,7 @@
 	.byte CHIP_FLAG_NAVI | CHIP_FLAG_SCREEN_DIM; 0B Flags
 	.halfword 170; 0C Damage
 	.halfword 267; 0E ID Sort
-	.halfword 156; 10 ABC Sort
+	.halfword 151; 10 ABC Sort
 	.byte CHIP_TYPE_NONE; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_MEGA_CHIP | CHIP_LIBRARY_FLAG_TRIGGERS_BEAT; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -5314,7 +5314,7 @@
 	.byte CHIP_FLAG_NAVI | CHIP_FLAG_SCREEN_DIM; 0B Flags
 	.halfword 200; 0C Damage
 	.halfword 268; 0E ID Sort
-	.halfword 157; 10 ABC Sort
+	.halfword 152; 10 ABC Sort
 	.byte CHIP_TYPE_NONE; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_MEGA_CHIP | CHIP_LIBRARY_FLAG_TRIGGERS_BEAT; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -5333,7 +5333,7 @@
 	.byte CHIP_FLAG_NAVI | CHIP_FLAG_SCREEN_DIM; 0B Flags
 	.halfword 240; 0C Damage
 	.halfword 269; 0E ID Sort
-	.halfword 158; 10 ABC Sort
+	.halfword 153; 10 ABC Sort
 	.byte CHIP_TYPE_NONE; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_MEGA_CHIP | CHIP_LIBRARY_FLAG_TRIGGERS_BEAT; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -5352,7 +5352,7 @@
 	.byte CHIP_FLAG_NAVI | CHIP_FLAG_SCREEN_DIM; 0B Flags
 	.halfword 280; 0C Damage
 	.halfword 303; 0E ID Sort
-	.halfword 159; 10 ABC Sort
+	.halfword 154; 10 ABC Sort
 	.byte CHIP_TYPE_NONE; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_GIGA_CHIP | CHIP_LIBRARY_FLAG_MIXED_PA_COMPONENT | CHIP_LIBRARY_FLAG_TRIGGERS_BEAT; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -5371,7 +5371,7 @@
 	.byte CHIP_FLAG_NAVI | CHIP_FLAG_SCREEN_DIM; 0B Flags
 	.halfword 90; 0C Damage
 	.halfword 270; 0E ID Sort
-	.halfword 187; 10 ABC Sort
+	.halfword 182; 10 ABC Sort
 	.byte CHIP_TYPE_NONE; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_MEGA_CHIP | CHIP_LIBRARY_FLAG_TRIGGERS_BEAT; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -5390,7 +5390,7 @@
 	.byte CHIP_FLAG_NAVI | CHIP_FLAG_SCREEN_DIM; 0B Flags
 	.halfword 110; 0C Damage
 	.halfword 271; 0E ID Sort
-	.halfword 188; 10 ABC Sort
+	.halfword 183; 10 ABC Sort
 	.byte CHIP_TYPE_NONE; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_MEGA_CHIP | CHIP_LIBRARY_FLAG_TRIGGERS_BEAT; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -5409,7 +5409,7 @@
 	.byte CHIP_FLAG_NAVI | CHIP_FLAG_SCREEN_DIM; 0B Flags
 	.halfword 130; 0C Damage
 	.halfword 272; 0E ID Sort
-	.halfword 189; 10 ABC Sort
+	.halfword 184; 10 ABC Sort
 	.byte CHIP_TYPE_NONE; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_MEGA_CHIP | CHIP_LIBRARY_FLAG_TRIGGERS_BEAT; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -5428,7 +5428,7 @@
 	.byte CHIP_FLAG_NAVI | CHIP_FLAG_SCREEN_DIM; 0B Flags
 	.halfword 150; 0C Damage
 	.halfword 273; 0E ID Sort
-	.halfword 190; 10 ABC Sort
+	.halfword 185; 10 ABC Sort
 	.byte CHIP_TYPE_NONE; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_MEGA_CHIP | CHIP_LIBRARY_FLAG_TRIGGERS_BEAT; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -5447,7 +5447,7 @@
 	.byte CHIP_FLAG_NAVI | CHIP_FLAG_SCREEN_DIM; 0B Flags
 	.halfword 170; 0C Damage
 	.halfword 304; 0E ID Sort
-	.halfword 191; 10 ABC Sort
+	.halfword 186; 10 ABC Sort
 	.byte CHIP_TYPE_NONE; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_GIGA_CHIP | CHIP_LIBRARY_FLAG_MIXED_PA_COMPONENT | CHIP_LIBRARY_FLAG_TRIGGERS_BEAT; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -5656,7 +5656,7 @@
 	.byte CHIP_FLAG_NAVI | CHIP_FLAG_SCREEN_DIM; 0B Flags
 	.halfword 40; 0C Damage
 	.halfword 282; 0E ID Sort
-	.halfword 147; 10 ABC Sort
+	.halfword 301; 10 ABC Sort
 	.byte CHIP_TYPE_SWORD; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_MEGA_CHIP | CHIP_LIBRARY_FLAG_TRIGGERS_BEAT; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -5675,7 +5675,7 @@
 	.byte CHIP_FLAG_NAVI | CHIP_FLAG_SCREEN_DIM; 0B Flags
 	.halfword 45; 0C Damage
 	.halfword 283; 0E ID Sort
-	.halfword 148; 10 ABC Sort
+	.halfword 302; 10 ABC Sort
 	.byte CHIP_TYPE_SWORD; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_MEGA_CHIP | CHIP_LIBRARY_FLAG_TRIGGERS_BEAT; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -5694,7 +5694,7 @@
 	.byte CHIP_FLAG_NAVI | CHIP_FLAG_SCREEN_DIM; 0B Flags
 	.halfword 50; 0C Damage
 	.halfword 284; 0E ID Sort
-	.halfword 149; 10 ABC Sort
+	.halfword 303; 10 ABC Sort
 	.byte CHIP_TYPE_SWORD; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_MEGA_CHIP | CHIP_LIBRARY_FLAG_TRIGGERS_BEAT; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -5713,7 +5713,7 @@
 	.byte CHIP_FLAG_NAVI | CHIP_FLAG_SCREEN_DIM; 0B Flags
 	.halfword 55; 0C Damage
 	.halfword 285; 0E ID Sort
-	.halfword 150; 10 ABC Sort
+	.halfword 304; 10 ABC Sort
 	.byte CHIP_TYPE_SWORD; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_MEGA_CHIP | CHIP_LIBRARY_FLAG_TRIGGERS_BEAT; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -5732,7 +5732,7 @@
 	.byte CHIP_FLAG_NAVI | CHIP_FLAG_SCREEN_DIM; 0B Flags
 	.halfword 60; 0C Damage
 	.halfword 307; 0E ID Sort
-	.halfword 151; 10 ABC Sort
+	.halfword 305; 10 ABC Sort
 	.byte CHIP_TYPE_SWORD; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_GIGA_CHIP | CHIP_LIBRARY_FLAG_TRIGGERS_BEAT; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -5789,7 +5789,7 @@
 	.byte CHIP_FLAG_20 | CHIP_FLAG_SCREEN_DIM; 0B Flags
 	.halfword 0; 0C Damage
 	.halfword 287; 0E ID Sort
-	.halfword 201; 10 ABC Sort
+	.halfword 196; 10 ABC Sort
 	.byte CHIP_TYPE_NONE; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_GIGA_CHIP | CHIP_LIBRARY_FLAG_TRIGGERS_BEAT; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette
@@ -5846,7 +5846,7 @@
 	.byte CHIP_FLAG_NAVI | CHIP_FLAG_SCREEN_DIM; 0B Flags
 	.halfword 100; 0C Damage
 	.halfword 290; 0E ID Sort
-	.halfword 263; 10 ABC Sort
+	.halfword 258; 10 ABC Sort
 	.byte CHIP_TYPE_NONE; 0x12 Type
 	.byte CHIP_LIBRARY_FLAG_GIGA_CHIP | CHIP_LIBRARY_FLAG_TRIGGERS_BEAT; 13 Library Flags
 	.org . + 0x0C; Skip Icon,Image,Palette

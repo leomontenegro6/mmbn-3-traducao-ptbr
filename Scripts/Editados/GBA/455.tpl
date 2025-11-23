@@ -37,7 +37,7 @@ script 1 mmbn3 {
 	clearMsg
 	"""
 	Enquanto eu tiver o
-	Lan me operando
+	Lan me operando,
 	não há limites pra mim!
 	"""
 	keyWait

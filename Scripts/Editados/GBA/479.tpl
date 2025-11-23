@@ -485,7 +485,8 @@ script 15 mmbn3 {
 		left = 11
 		top = 1
 	"""
-	MegaMan adquiriu o chip
+	MegaMan adquiriu
+	o chip
 	"
 	"""
 	printChip

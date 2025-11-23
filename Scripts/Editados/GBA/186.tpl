@@ -279,7 +279,7 @@ script 226 mmbn3 {
 		down = 0
 	space
 		count = 2
-	"    Usar      "
+	"  Usar      "
 	option
 		left = 0
 		right = 0
@@ -287,7 +287,7 @@ script 226 mmbn3 {
 		down = 1
 	space
 		count = 2
-	"Não"
+	"        Não"
 	select
 		default = 0
 		BSeparate = false
@@ -410,7 +410,7 @@ script 230 mmbn3 {
 	msgOpen
 	textSpeed
 		delay = 0
-	"[circle1][circle2]!\n"
+	"Ó!\n"
 	textSpeed
 		delay = 2
 	wait
@@ -426,7 +426,7 @@ script 230 mmbn3 {
 }
 script 231 mmbn3 {
 	msgOpen
-	"[circle1][circle2]!\n"
+	"Ó!\n"
 	textSpeed
 		delay = 2
 	wait
