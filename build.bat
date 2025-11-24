@@ -116,4 +116,3 @@ echo Done.
 goto exit
 
 :exit
-exit
